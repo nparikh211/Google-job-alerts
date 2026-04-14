@@ -1,12 +1,31 @@
 {
-  "last_updated": "2026-04-14T06:00:00Z",
+  "last_updated": "2026-04-14T17:26:33.175871+00:00",
   "total_jobs": 48,
   "stats": {
-    "total_companies": 28,
-    "total_roles": 18,
-    "regions": {"India": 22, "Philippines": 14, "Remote": 30, "Unknown": 0},
-    "sources": {"Greenhouse": 10, "Lever": 8, "Workday": 7, "Ashby": 5, "SmartRecruiters": 4, "Wellfound": 4, "OnlineJobs.ph": 3, "Naukri": 3, "RemoteOK": 2, "Instahyre": 2},
-    "date_range": {"earliest": "2026-04-08", "latest": "2026-04-14"}
+    "total_companies": 44,
+    "total_roles": 34,
+    "regions": {
+      "India": 29,
+      "Philippines": 19,
+      "Remote": 32,
+      "Unknown": 0
+    },
+    "sources": {
+      "Greenhouse": 12,
+      "Lever": 8,
+      "Workday": 6,
+      "Ashby": 5,
+      "SmartRecruiters": 4,
+      "Wellfound": 4,
+      "OnlineJobs.ph": 3,
+      "Naukri": 3,
+      "Instahyre": 2,
+      "Kalibrr": 1
+    },
+    "date_range": {
+      "earliest": "2026-04-08",
+      "latest": "2026-04-14"
+    }
   },
   "jobs": [
     {
@@ -14,7 +33,10 @@
       "title": "Senior Software Engineer - Platform (Remote, India)",
       "company": "Stripe",
       "role": "Senior Software Engineer",
-      "regions": ["India", "Remote"],
+      "regions": [
+        "India",
+        "Remote"
+      ],
       "link": "https://boards.greenhouse.io/stripe/jobs/example1",
       "source": "Greenhouse",
       "description": "Join Stripe's Platform team to build scalable infrastructure powering global payments. Work with distributed systems, APIs, and microservices architecture.",
@@ -27,7 +49,10 @@
       "title": "Fullstack Engineer - Growth (Remote)",
       "company": "Notion",
       "role": "Fullstack Engineer",
-      "regions": ["Remote", "India"],
+      "regions": [
+        "Remote",
+        "India"
+      ],
       "link": "https://boards.greenhouse.io/notion/jobs/example2",
       "source": "Greenhouse",
       "description": "Build features that help millions of users organize their work. React, TypeScript, Node.js. Fully remote position open to candidates in India.",
@@ -40,7 +65,10 @@
       "title": "Backend Engineer - Data Infrastructure (Philippines)",
       "company": "Canva",
       "role": "Backend Engineer",
-      "regions": ["Philippines", "Remote"],
+      "regions": [
+        "Philippines",
+        "Remote"
+      ],
       "link": "https://jobs.lever.co/canva/example3",
       "source": "Lever",
       "description": "Design and build data infrastructure that supports Canva's 150M+ monthly active users. Python, Kafka, Spark, AWS.",
@@ -53,7 +81,10 @@
       "title": "AI Engineer - LLM Applications (Remote, India)",
       "company": "Databricks",
       "role": "AI Engineer",
-      "regions": ["India", "Remote"],
+      "regions": [
+        "India",
+        "Remote"
+      ],
       "link": "https://boards.greenhouse.io/databricks/jobs/example4",
       "source": "Greenhouse",
       "description": "Build LLM-powered applications and tools for the Databricks platform. Experience with transformer architectures, RAG, and prompt engineering required.",
@@ -66,7 +97,9 @@
       "title": "DevOps Engineer - Cloud Platform (Manila)",
       "company": "Shopify",
       "role": "DevOps Engineer",
-      "regions": ["Philippines"],
+      "regions": [
+        "Philippines"
+      ],
       "link": "https://jobs.smartrecruiters.com/shopify/example5",
       "source": "SmartRecruiters",
       "description": "Manage and optimize cloud infrastructure supporting Shopify's global e-commerce platform. Kubernetes, Terraform, GCP.",
@@ -79,7 +112,9 @@
       "title": "Data Engineer - Analytics Platform (Bangalore)",
       "company": "Razorpay",
       "role": "Data Engineer",
-      "regions": ["India"],
+      "regions": [
+        "India"
+      ],
       "link": "https://jobs.lever.co/razorpay/example6",
       "source": "Lever",
       "description": "Build and maintain data pipelines and analytics infrastructure for India's leading payment gateway. Spark, Airflow, dbt, Snowflake.",
@@ -92,7 +127,10 @@
       "title": "Frontend Engineer - Design Systems (Remote, India)",
       "company": "Figma",
       "role": "Frontend Engineer",
-      "regions": ["India", "Remote"],
+      "regions": [
+        "India",
+        "Remote"
+      ],
       "link": "https://boards.greenhouse.io/figma/jobs/example7",
       "source": "Greenhouse",
       "description": "Build and maintain Figma's design system components. Deep expertise in React, TypeScript, and CSS required. Collaborate with designers globally.",
@@ -105,7 +143,9 @@
       "title": "ML Engineer - Recommendations (Hyderabad)",
       "company": "Flipkart",
       "role": "ML Engineer",
-      "regions": ["India"],
+      "regions": [
+        "India"
+      ],
       "link": "https://flipkart.wd5.myworkdayjobs.com/example8",
       "source": "Workday",
       "description": "Build recommendation systems that serve 400M+ users. PyTorch, TensorFlow, real-time ML inference at scale.",
@@ -118,7 +158,10 @@
       "title": "Site Reliability Engineer (Remote - Philippines)",
       "company": "GitLab",
       "role": "Site Reliability Engineer",
-      "regions": ["Philippines", "Remote"],
+      "regions": [
+        "Philippines",
+        "Remote"
+      ],
       "link": "https://boards.greenhouse.io/gitlab/jobs/example9",
       "source": "Greenhouse",
       "description": "Ensure reliability and performance of GitLab.com. On-call rotation, incident management, infrastructure automation. 100% remote company.",
@@ -131,7 +174,10 @@
       "title": "Product Manager - Payments (Remote, India)",
       "company": "Razorpay",
       "role": "Product Manager",
-      "regions": ["India", "Remote"],
+      "regions": [
+        "India",
+        "Remote"
+      ],
       "link": "https://jobs.lever.co/razorpay/example10",
       "source": "Lever",
       "description": "Lead product strategy for Razorpay's core payments platform. Work closely with engineering to deliver best-in-class payment solutions for Indian businesses.",
@@ -144,7 +190,9 @@
       "title": "Cloud Engineer - Infrastructure (Cebu, Philippines)",
       "company": "Cloudflare",
       "role": "Cloud Engineer",
-      "regions": ["Philippines"],
+      "regions": [
+        "Philippines"
+      ],
       "link": "https://boards.greenhouse.io/cloudflare/jobs/example11",
       "source": "Greenhouse",
       "description": "Build and scale Cloudflare's edge network infrastructure. Work with bare metal servers, networking, and distributed systems at massive scale.",
@@ -157,7 +205,10 @@
       "title": "Founding Engineer - AI Platform (Remote, India)",
       "company": "Weights & Biases",
       "role": "Founding Engineer",
-      "regions": ["India", "Remote"],
+      "regions": [
+        "India",
+        "Remote"
+      ],
       "link": "https://jobs.ashbyhq.com/wandb/example12",
       "source": "Ashby",
       "description": "Join as a founding engineer to build the next generation of ML experiment tracking and model management tools. Full ownership of major features.",
@@ -170,7 +221,10 @@
       "title": "Senior Backend Engineer - Marketplace (Remote)",
       "company": "Upstack",
       "role": "Senior Software Engineer",
-      "regions": ["Philippines", "Remote"],
+      "regions": [
+        "Philippines",
+        "Remote"
+      ],
       "link": "https://jobs.lever.co/upstack/example13",
       "source": "Lever",
       "description": "Build the backend infrastructure for a global talent marketplace. Node.js, PostgreSQL, Redis, microservices. Open to Philippines-based engineers.",
@@ -183,7 +237,9 @@
       "title": "Data Scientist - Risk Analytics (Bangalore)",
       "company": "Zerodha",
       "role": "Data Scientist",
-      "regions": ["India"],
+      "regions": [
+        "India"
+      ],
       "link": "https://zerodha.wd5.myworkdayjobs.com/example14",
       "source": "Workday",
       "description": "Build risk models and analytics for India's largest stock broker. Python, statistical modeling, time series analysis. Bangalore office.",
@@ -196,7 +252,10 @@
       "title": "Platform Engineer - Kubernetes (Remote, Philippines)",
       "company": "HashiCorp",
       "role": "Platform Engineer",
-      "regions": ["Philippines", "Remote"],
+      "regions": [
+        "Philippines",
+        "Remote"
+      ],
       "link": "https://boards.greenhouse.io/hashicorp/jobs/example15",
       "source": "Greenhouse",
       "description": "Build and maintain the platform that powers HashiCorp's cloud infrastructure products. Deep Kubernetes and cloud-native expertise required.",
@@ -209,7 +268,10 @@
       "title": "Security Engineer - Application Security (Remote, India)",
       "company": "Snyk",
       "role": "Security Engineer",
-      "regions": ["India", "Remote"],
+      "regions": [
+        "India",
+        "Remote"
+      ],
       "link": "https://jobs.ashbyhq.com/snyk/example16",
       "source": "Ashby",
       "description": "Help developers build securely. Work on vulnerability detection, SAST/DAST tools, and security automation. Fully remote, India-based.",
@@ -222,7 +284,9 @@
       "title": "QA Engineer - Automation (Manila, Philippines)",
       "company": "Coins.ph",
       "role": "QA Engineer",
-      "regions": ["Philippines"],
+      "regions": [
+        "Philippines"
+      ],
       "link": "https://coins-ph.wd5.myworkdayjobs.com/example17",
       "source": "Workday",
       "description": "Build and maintain test automation frameworks for the Philippines' leading crypto wallet. Selenium, Cypress, API testing.",
@@ -235,7 +299,9 @@
       "title": "Full Stack Engineer - Fintech (Pune, India)",
       "company": "Cred",
       "role": "Full Stack Engineer",
-      "regions": ["India"],
+      "regions": [
+        "India"
+      ],
       "link": "https://jobs.lever.co/cred/example18",
       "source": "Lever",
       "description": "Build consumer-facing fintech products used by millions. React Native, Node.js, PostgreSQL. Pune or Bangalore office.",
@@ -248,7 +314,10 @@
       "title": "Engineering Manager - Backend (Remote, India)",
       "company": "Atlassian",
       "role": "Engineering Manager",
-      "regions": ["India", "Remote"],
+      "regions": [
+        "India",
+        "Remote"
+      ],
       "link": "https://atlassian.wd5.myworkdayjobs.com/example19",
       "source": "Workday",
       "description": "Lead a team of backend engineers building Confluence's collaboration features. Distributed team across India and Australia.",
@@ -261,7 +330,10 @@
       "title": "Mobile Engineer - React Native (Remote, Philippines)",
       "company": "GCash",
       "role": "Mobile Engineer",
-      "regions": ["Philippines", "Remote"],
+      "regions": [
+        "Philippines",
+        "Remote"
+      ],
       "link": "https://jobs.smartrecruiters.com/gcash/example20",
       "source": "SmartRecruiters",
       "description": "Build mobile experiences for the Philippines' #1 e-wallet with 80M+ users. React Native, TypeScript, native iOS/Android bridges.",
@@ -274,7 +346,10 @@
       "title": "Solutions Architect - Cloud (Remote, India)",
       "company": "MongoDB",
       "role": "Solutions Architect",
-      "regions": ["India", "Remote"],
+      "regions": [
+        "India",
+        "Remote"
+      ],
       "link": "https://boards.greenhouse.io/mongodb/jobs/example21",
       "source": "Greenhouse",
       "description": "Help enterprise customers design and implement MongoDB Atlas solutions. Deep database and cloud architecture expertise required.",
@@ -287,7 +362,9 @@
       "title": "Data Analyst - Business Intelligence (Makati, Philippines)",
       "company": "Maya",
       "role": "Data Analyst",
-      "regions": ["Philippines"],
+      "regions": [
+        "Philippines"
+      ],
       "link": "https://onlinejobs.ph/jobseeker/example22",
       "source": "OnlineJobs.ph",
       "description": "Drive data-informed decisions for Maya's digital banking products. SQL, Python, Tableau, Looker. Makati office with flexible WFH.",
@@ -300,7 +377,9 @@
       "title": "Technical Lead - Payments (Hyderabad, India)",
       "company": "PhonePe",
       "role": "Technical Lead",
-      "regions": ["India"],
+      "regions": [
+        "India"
+      ],
       "link": "https://phonepe.wd5.myworkdayjobs.com/example23",
       "source": "Workday",
       "description": "Lead the payments engineering team building UPI infrastructure at scale. Java, Kafka, distributed systems. Hyderabad office.",
@@ -313,7 +392,10 @@
       "title": "UX Designer - Enterprise Products (Remote, India)",
       "company": "Freshworks",
       "role": "UX Designer",
-      "regions": ["India", "Remote"],
+      "regions": [
+        "India",
+        "Remote"
+      ],
       "link": "https://jobs.smartrecruiters.com/freshworks/example24",
       "source": "SmartRecruiters",
       "description": "Design intuitive enterprise SaaS experiences for Freshworks' CRM and ITSM products. Figma, user research, design systems.",
@@ -326,7 +408,10 @@
       "title": "Senior Software Engineer - Streaming (Remote)",
       "company": "Confluent",
       "role": "Senior Software Engineer",
-      "regions": ["India", "Remote"],
+      "regions": [
+        "India",
+        "Remote"
+      ],
       "link": "https://jobs.ashbyhq.com/confluent/example25",
       "source": "Ashby",
       "description": "Build the future of data streaming with Apache Kafka. Distributed systems, Java, Go. Remote-first company, open to India candidates.",
@@ -339,7 +424,9 @@
       "title": "Backend Engineer - Logistics Platform (Cebu)",
       "company": "Lalamove",
       "role": "Backend Engineer",
-      "regions": ["Philippines"],
+      "regions": [
+        "Philippines"
+      ],
       "link": "https://jobs.lever.co/lalamove/example26",
       "source": "Lever",
       "description": "Build logistics and delivery optimization systems for Southeast Asia's leading on-demand delivery platform. Go, gRPC, MongoDB.",
@@ -352,7 +439,10 @@
       "title": "Product Designer - Mobile (Remote, Philippines)",
       "company": "Canva",
       "role": "Product Designer",
-      "regions": ["Philippines", "Remote"],
+      "regions": [
+        "Philippines",
+        "Remote"
+      ],
       "link": "https://jobs.lever.co/canva/example27",
       "source": "Lever",
       "description": "Design mobile-first creative tools used by 150M+ people worldwide. End-to-end product design from research to pixel-perfect UI.",
@@ -365,7 +455,9 @@
       "title": "Data Engineer - Real-time Analytics (Mumbai)",
       "company": "Dream11",
       "role": "Data Engineer",
-      "regions": ["India"],
+      "regions": [
+        "India"
+      ],
       "link": "https://www.naukri.com/dream11/example28",
       "source": "Naukri",
       "description": "Build real-time analytics pipelines for India's largest fantasy sports platform. Flink, Kafka, Clickhouse, 100M+ users.",
@@ -378,7 +470,10 @@
       "title": "AI Engineer - Computer Vision (Remote, India)",
       "company": "Scale AI",
       "role": "AI Engineer",
-      "regions": ["India", "Remote"],
+      "regions": [
+        "India",
+        "Remote"
+      ],
       "link": "https://jobs.ashbyhq.com/scaleai/example29",
       "source": "Ashby",
       "description": "Build computer vision models and data labeling infrastructure. PyTorch, CUDA, distributed training. Remote India positions available.",
@@ -391,7 +486,9 @@
       "title": "Software Engineer - Core Banking (Manila)",
       "company": "Tonik",
       "role": "Software Engineer",
-      "regions": ["Philippines"],
+      "regions": [
+        "Philippines"
+      ],
       "link": "https://www.kalibrr.com/tonik/example30",
       "source": "Kalibrr",
       "description": "Build core banking systems for the Philippines' first neobank. Java, Spring Boot, microservices, event-driven architecture.",
@@ -404,7 +501,10 @@
       "title": "Principal Engineer - Infrastructure (Remote, India)",
       "company": "Postman",
       "role": "Principal Engineer",
-      "regions": ["India", "Remote"],
+      "regions": [
+        "India",
+        "Remote"
+      ],
       "link": "https://postman.wd5.myworkdayjobs.com/example31",
       "source": "Workday",
       "description": "Drive technical strategy for Postman's API platform infrastructure. 30M+ developers use the product. Bangalore or remote India.",
@@ -417,7 +517,10 @@
       "title": "Frontend Engineer - React (Remote, Philippines)",
       "company": "Automattic",
       "role": "Frontend Engineer",
-      "regions": ["Philippines", "Remote"],
+      "regions": [
+        "Philippines",
+        "Remote"
+      ],
       "link": "https://boards.greenhouse.io/automattic/example32",
       "source": "Greenhouse",
       "description": "Build WordPress.com and Jetpack features used by millions. React, TypeScript, GraphQL. Fully distributed company, open to Philippines.",
@@ -430,7 +533,9 @@
       "title": "DevOps Engineer - Platform (Bangalore, India)",
       "company": "Swiggy",
       "role": "DevOps Engineer",
-      "regions": ["India"],
+      "regions": [
+        "India"
+      ],
       "link": "https://www.naukri.com/swiggy/example33",
       "source": "Naukri",
       "description": "Build and operate the platform powering India's food delivery at scale. Kubernetes, ArgoCD, Prometheus, 50M+ orders/month.",
@@ -443,7 +548,10 @@
       "title": "Machine Learning Engineer - NLP (Remote)",
       "company": "Grammarly",
       "role": "Machine Learning Engineer",
-      "regions": ["India", "Remote"],
+      "regions": [
+        "India",
+        "Remote"
+      ],
       "link": "https://boards.greenhouse.io/grammarly/example34",
       "source": "Greenhouse",
       "description": "Build NLP models powering Grammarly's writing assistant used by 30M+ people. Transformers, fine-tuning, inference optimization.",
@@ -456,7 +564,10 @@
       "title": "Full Stack Engineer - Marketplace (Remote, Philippines)",
       "company": "Kumu",
       "role": "Full Stack Engineer",
-      "regions": ["Philippines", "Remote"],
+      "regions": [
+        "Philippines",
+        "Remote"
+      ],
       "link": "https://onlinejobs.ph/kumu/example35",
       "source": "OnlineJobs.ph",
       "description": "Build the Philippines' leading livestreaming and social commerce platform. Vue.js, Laravel, AWS, WebRTC.",
@@ -469,7 +580,10 @@
       "title": "Analytics Engineer - dbt (Remote, India)",
       "company": "Freshworks",
       "role": "Analytics Engineer",
-      "regions": ["India", "Remote"],
+      "regions": [
+        "India",
+        "Remote"
+      ],
       "link": "https://jobs.smartrecruiters.com/freshworks/example36",
       "source": "SmartRecruiters",
       "description": "Build and maintain analytics models using dbt and Snowflake. Transform raw data into actionable business insights. Remote India.",
@@ -482,7 +596,10 @@
       "title": "Senior Software Engineer - Payments (Remote, Philippines)",
       "company": "Xendit",
       "role": "Senior Software Engineer",
-      "regions": ["Philippines", "Remote"],
+      "regions": [
+        "Philippines",
+        "Remote"
+      ],
       "link": "https://jobs.ashbyhq.com/xendit/example37",
       "source": "Ashby",
       "description": "Build payment infrastructure for Southeast Asia. Process millions of transactions daily. Go, PostgreSQL, event-driven architecture.",
@@ -495,7 +612,9 @@
       "title": "iOS Engineer - Consumer App (Bangalore)",
       "company": "Meesho",
       "role": "Mobile Engineer",
-      "regions": ["India"],
+      "regions": [
+        "India"
+      ],
       "link": "https://www.instahyre.com/meesho/example38",
       "source": "Instahyre",
       "description": "Build mobile shopping experiences for 150M+ users in India's social commerce space. Swift, SwiftUI, MVVM architecture.",
@@ -508,7 +627,10 @@
       "title": "Backend Engineer - API Platform (Remote)",
       "company": "Twilio",
       "role": "Backend Engineer",
-      "regions": ["India", "Remote"],
+      "regions": [
+        "India",
+        "Remote"
+      ],
       "link": "https://boards.greenhouse.io/twilio/example39",
       "source": "Greenhouse",
       "description": "Build scalable APIs powering communications for millions of developers. Java, AWS, microservices. Remote India eligible.",
@@ -521,7 +643,9 @@
       "title": "UX Researcher - Enterprise (Manila, Philippines)",
       "company": "Sprout Solutions",
       "role": "UX Researcher",
-      "regions": ["Philippines"],
+      "regions": [
+        "Philippines"
+      ],
       "link": "https://onlinejobs.ph/sprout/example40",
       "source": "OnlineJobs.ph",
       "description": "Lead user research for the Philippines' leading HR tech platform. Usability testing, surveys, journey mapping, stakeholder presentations.",
@@ -534,7 +658,10 @@
       "title": "Software Engineer - Observability (Remote, India)",
       "company": "Grafana Labs",
       "role": "Software Engineer",
-      "regions": ["India", "Remote"],
+      "regions": [
+        "India",
+        "Remote"
+      ],
       "link": "https://boards.greenhouse.io/grafanalabs/example41",
       "source": "Greenhouse",
       "description": "Build open-source observability tools used by thousands of companies. Go, React, Prometheus, Loki. Fully remote, India-based.",
@@ -547,7 +674,10 @@
       "title": "Data Scientist - Fraud Detection (Remote, Philippines)",
       "company": "PayMongo",
       "role": "Data Scientist",
-      "regions": ["Philippines", "Remote"],
+      "regions": [
+        "Philippines",
+        "Remote"
+      ],
       "link": "https://wellfound.com/paymongo/example42",
       "source": "Wellfound",
       "description": "Build fraud detection models for the Philippines' fastest-growing payment processor. Python, scikit-learn, real-time scoring.",
@@ -560,7 +690,10 @@
       "title": "Staff Software Engineer - Search (Remote, India)",
       "company": "Elastic",
       "role": "Staff Software Engineer",
-      "regions": ["India", "Remote"],
+      "regions": [
+        "India",
+        "Remote"
+      ],
       "link": "https://jobs.lever.co/elastic/example43",
       "source": "Lever",
       "description": "Work on Elasticsearch core, building the world's most popular search engine. Java, distributed systems, Lucene internals.",
@@ -573,7 +706,10 @@
       "title": "Technical Product Manager - Developer Tools (Remote)",
       "company": "Vercel",
       "role": "Technical Product Manager",
-      "regions": ["Remote", "Philippines"],
+      "regions": [
+        "Remote",
+        "Philippines"
+      ],
       "link": "https://wellfound.com/vercel/example44",
       "source": "Wellfound",
       "description": "Define product strategy for Vercel's developer tools ecosystem. Next.js, Turborepo, edge computing. Remote-first, APAC time zones preferred.",
@@ -586,7 +722,9 @@
       "title": "SDET - Test Automation (Gurugram, India)",
       "company": "Zomato",
       "role": "SDET",
-      "regions": ["India"],
+      "regions": [
+        "India"
+      ],
       "link": "https://www.naukri.com/zomato/example45",
       "source": "Naukri",
       "description": "Build test automation frameworks for Zomato's food delivery and dining products. Appium, Selenium, REST API testing, CI/CD integration.",
@@ -599,7 +737,10 @@
       "title": "Android Engineer - Consumer (Remote, Philippines)",
       "company": "GCash",
       "role": "Mobile Engineer",
-      "regions": ["Philippines", "Remote"],
+      "regions": [
+        "Philippines",
+        "Remote"
+      ],
       "link": "https://wellfound.com/gcash/example46",
       "source": "Wellfound",
       "description": "Build Android features for the Philippines' #1 e-wallet. Kotlin, Jetpack Compose, MVVM, coroutines. Remote-friendly.",
@@ -612,7 +753,10 @@
       "title": "VP of Engineering - Platform (Remote, India)",
       "company": "Chargebee",
       "role": "VP of Engineering",
-      "regions": ["India", "Remote"],
+      "regions": [
+        "India",
+        "Remote"
+      ],
       "link": "https://www.instahyre.com/chargebee/example47",
       "source": "Instahyre",
       "description": "Lead Chargebee's platform engineering organization. Drive technical strategy, mentor engineering leaders, scale the team across India.",
@@ -625,7 +769,10 @@
       "title": "Infrastructure Engineer - SRE (Remote)",
       "company": "Delhivery",
       "role": "Infrastructure Engineer",
-      "regions": ["India", "Remote"],
+      "regions": [
+        "India",
+        "Remote"
+      ],
       "link": "https://wellfound.com/delhivery/example48",
       "source": "Wellfound",
       "description": "Build and maintain infrastructure for India's largest logistics platform. Terraform, Kubernetes, AWS, observability at scale.",
