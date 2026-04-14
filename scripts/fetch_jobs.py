@@ -12,14 +12,14 @@ import os
 import re
 import sys
 import hashlib
+import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from pathlib import Path
+from html import unescape
+from urllib.request import urlopen, Request
+from urllib.error import URLError
 
-import feedparser
-import requests
 import yaml
-from bs4 import BeautifulSoup
-from dateutil import parser as date_parser
 
 # Paths
 SCRIPT_DIR = Path(__file__).parent
@@ -179,64 +179,109 @@ def extract_source_site(url):
     return "Other"
 
 
-def parse_feed_entry(entry, config):
-    """Parse a single RSS feed entry into a job listing."""
-    title = entry.get("title", "Unknown")
-    link = entry.get("link", "")
-    summary = entry.get("summary", "")
-    published = entry.get("published", "")
+def strip_html(html_str):
+    """Remove HTML tags and decode entities."""
+    if not html_str:
+        return ""
+    clean = re.sub(r"<[^>]+>", " ", html_str)
+    clean = unescape(clean)
+    return re.sub(r"\s+", " ", clean).strip()
 
-    # Clean HTML from summary
-    if summary:
-        soup = BeautifulSoup(summary, "html.parser")
-        description = soup.get_text(separator=" ", strip=True)
-    else:
-        description = ""
 
-    # Parse date
+def parse_date(date_str):
+    """Parse an RFC 3339 / Atom date string."""
+    if not date_str:
+        return datetime.now(timezone.utc)
+    # Common Atom format: 2026-04-14T08:30:00Z
+    for fmt in ["%Y-%m-%dT%H:%M:%SZ", "%Y-%m-%dT%H:%M:%S%z",
+                "%Y-%m-%dT%H:%M:%S.%fZ", "%Y-%m-%dT%H:%M:%S.%f%z"]:
+        try:
+            return datetime.strptime(date_str, fmt).replace(tzinfo=timezone.utc)
+        except ValueError:
+            continue
+    return datetime.now(timezone.utc)
+
+
+def parse_atom_feed(xml_content, config):
+    """Parse an Atom XML feed and return job listings."""
+    jobs = []
+    ns = {"atom": "http://www.w3.org/2005/Atom"}
+
     try:
-        if published:
-            date_obj = date_parser.parse(published)
-        else:
-            date_obj = datetime.now(timezone.utc)
-    except (ValueError, TypeError):
-        date_obj = datetime.now(timezone.utc)
+        root = ET.fromstring(xml_content)
+    except ET.ParseError as e:
+        print(f"    XML parse error: {e}")
+        return jobs
 
-    # Extract company
-    company = extract_company_from_url(link)
-    if not company:
-        company = extract_company_from_title(title)
-    if not company:
-        company = "Unknown Company"
+    for entry in root.findall("atom:entry", ns):
+        title_el = entry.find("atom:title", ns)
+        link_el = entry.find("atom:link", ns)
+        content_el = entry.find("atom:content", ns)
+        summary_el = entry.find("atom:summary", ns)
+        published_el = entry.find("atom:published", ns)
+        updated_el = entry.find("atom:updated", ns)
 
-    # Check exclusion
-    if is_excluded_company(company, config.get("excluded_companies", [])):
-        return None
+        title = title_el.text if title_el is not None and title_el.text else "Unknown"
+        title = strip_html(title)
+        link = link_el.get("href", "") if link_el is not None else ""
+        raw_desc = ""
+        if content_el is not None and content_el.text:
+            raw_desc = content_el.text
+        elif summary_el is not None and summary_el.text:
+            raw_desc = summary_el.text
+        description = strip_html(raw_desc)
+        date_str = ""
+        if published_el is not None and published_el.text:
+            date_str = published_el.text
+        elif updated_el is not None and updated_el.text:
+            date_str = updated_el.text
 
-    # Extract role
-    role = extract_role_from_title(title, config.get("roles", []))
+        date_obj = parse_date(date_str)
 
-    # Extract region
-    regions = extract_region(title, description)
+        # Extract the actual job URL from Google's redirect
+        actual_link = link
+        url_match = re.search(r"url=([^&]+)", link)
+        if url_match:
+            from urllib.parse import unquote
+            actual_link = unquote(url_match.group(1))
 
-    # Extract source
-    source = extract_source_site(link)
+        # Extract company
+        company = extract_company_from_url(actual_link)
+        if not company:
+            company = extract_company_from_title(title)
+        if not company:
+            company = "Unknown Company"
 
-    job_id = generate_job_id(title, link, company)
+        # Check exclusion
+        if is_excluded_company(company, config.get("excluded_companies", [])):
+            continue
 
-    return {
-        "id": job_id,
-        "title": title,
-        "company": company,
-        "role": role,
-        "regions": regions,
-        "link": link,
-        "source": source,
-        "description": description[:300] + "..." if len(description) > 300 else description,
-        "date": date_obj.strftime("%Y-%m-%d"),
-        "timestamp": date_obj.isoformat(),
-        "fetched_at": datetime.now(timezone.utc).isoformat(),
-    }
+        # Extract role
+        role = extract_role_from_title(title, config.get("roles", []))
+
+        # Extract region
+        regions = extract_region(title, description)
+
+        # Extract source
+        source = extract_source_site(actual_link)
+
+        job_id = generate_job_id(title, actual_link, company)
+
+        jobs.append({
+            "id": job_id,
+            "title": title,
+            "company": company,
+            "role": role,
+            "regions": regions,
+            "link": actual_link,
+            "source": source,
+            "description": description[:300] + ("..." if len(description) > 300 else ""),
+            "date": date_obj.strftime("%Y-%m-%d"),
+            "timestamp": date_obj.isoformat(),
+            "fetched_at": datetime.now(timezone.utc).isoformat(),
+        })
+
+    return jobs
 
 
 def fetch_rss_feeds(config):
@@ -254,20 +299,17 @@ def fetch_rss_feeds(config):
 
         print(f"  Fetching: {name}")
         try:
-            response = requests.get(url, timeout=30, headers={
+            req = Request(url, headers={
                 "User-Agent": "Mozilla/5.0 (compatible; JobAlertsDashboard/1.0)"
             })
-            response.raise_for_status()
-            feed = feedparser.parse(response.content)
+            with urlopen(req, timeout=30) as response:
+                xml_content = response.read()
 
-            for entry in feed.entries:
-                job = parse_feed_entry(entry, config)
-                if job:
-                    jobs.append(job)
+            feed_jobs = parse_atom_feed(xml_content, config)
+            jobs.extend(feed_jobs)
+            print(f"    Found {len(feed_jobs)} jobs after filtering")
 
-            print(f"    Found {len(feed.entries)} entries, {len(jobs)} after filtering")
-
-        except requests.RequestException as e:
+        except URLError as e:
             print(f"    Error fetching {name}: {e}")
         except Exception as e:
             print(f"    Error parsing {name}: {e}")

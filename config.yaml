@@ -9,9 +9,9 @@
 # 4. Copy the RSS feed URL and paste it here
 rss_feeds:
   - name: "India Remote Tech Roles"
-    url: ""  # Paste your Google Alerts RSS URL here
+    url: "https://www.google.com/alerts/feeds/02710337398615173292/11968855180145610800"
   - name: "Philippines Remote Tech Roles"
-    url: ""  # Paste your Google Alerts RSS URL here
+    url: ""  # Create a separate Google Alert for Philippines and paste RSS URL here
 
 # Regions to target
 regions:
@@ -72,6 +72,38 @@ roles:
   - "VP of Engineering"
   - "CTO"
   - "Director of Engineering"
+  # Salesforce / CRM
+  - "Salesforce Administrator"
+  - "Salesforce Admin"
+  - "Salesforce Developer"
+  - "Salesforce Development"
+  - "Salesforce Architect"
+  # Automation / Integration
+  - "Workato Engineer"
+  - "Glean Engineer"
+  # Sales & Business Development
+  - "Business Development Representative"
+  - "BDR"
+  - "Sales Development Representative"
+  - "SDR"
+  # Finance & Billing
+  - "Billing Specialist"
+  - "Billings Specialist"
+  - "Collections Manager"
+  - "Deals Desk"
+  - "Deal Desk"
+  # Customer Support
+  - "Customer Support"
+  - "Customer Support Representative"
+  - "Technical Customer Support"
+  # Account Management
+  - "Renewals Manager"
+  - "Account Manager"
+  # Revenue Operations
+  - "Revenue Operations"
+  - "Revenue Operations Admin"
+  - "RevOps"
+  - "Operations Admin"
 
 # Job board sites to monitor (where companies post FIRST)
 job_sites:
