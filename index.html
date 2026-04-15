@@ -415,52 +415,6 @@
             color: var(--text);
         }
 
-        /* Setup Banner */
-        .setup-banner {
-            background: linear-gradient(135deg, #2d1f4e 0%, #1a2744 100%);
-            border: 1px solid var(--accent);
-            border-radius: var(--radius);
-            padding: 24px;
-            margin-bottom: 24px;
-        }
-        .setup-banner h3 {
-            color: var(--accent-light);
-            margin-bottom: 8px;
-        }
-        .setup-banner p {
-            color: var(--text-dim);
-            font-size: 14px;
-            margin-bottom: 12px;
-        }
-        .setup-banner code {
-            display: block;
-            background: var(--bg);
-            padding: 12px;
-            border-radius: 6px;
-            font-size: 12px;
-            color: var(--green);
-            overflow-x: auto;
-            margin: 8px 0;
-            line-height: 1.6;
-        }
-        .setup-banner ol {
-            color: var(--text);
-            font-size: 14px;
-            padding-left: 20px;
-            margin: 12px 0;
-        }
-        .setup-banner ol li { margin-bottom: 6px; }
-        .setup-banner .collapse-btn {
-            background: none;
-            border: 1px solid var(--accent);
-            color: var(--accent-light);
-            padding: 6px 16px;
-            border-radius: 6px;
-            cursor: pointer;
-            font-size: 13px;
-            margin-top: 8px;
-        }
-
         /* Loading */
         .loading {
             text-align: center;
@@ -537,25 +491,6 @@
 
     <!-- Main Content -->
     <div class="main">
-        <!-- Setup Banner -->
-        <div class="setup-banner" id="setupBanner" style="display:none;">
-            <h3>Quick Setup - Get Live Job Alerts</h3>
-            <p>The dashboard is loaded with demo data. To get real-time job alerts, set up Google Alerts RSS feeds:</p>
-            <ol>
-                <li>Go to <a href="https://www.google.com/alerts" target="_blank">Google Alerts</a></li>
-                <li>Paste the search strings below (one alert per region)</li>
-                <li>Set: Sources = Web, How often = As-it-happens, How many = All Results</li>
-                <li>Change "Deliver to" from Email to <strong>RSS feed</strong></li>
-                <li>Copy the RSS feed URL into <code>config.yaml</code></li>
-                <li>Run <code>python scripts/fetch_jobs.py</code> or let GitHub Actions do it daily</li>
-            </ol>
-            <p><strong>India search string:</strong></p>
-            <code id="indiaSearchString"></code>
-            <p><strong>Philippines search string:</strong></p>
-            <code id="philSearchString"></code>
-            <button class="collapse-btn" onclick="document.getElementById('setupBanner').style.display='none'">Got it, hide this</button>
-        </div>
-
         <!-- Charts Section -->
         <div class="charts-section" id="chartsSection">
             <div class="chart-card">
@@ -607,41 +542,6 @@
         let currentFilter = "all";
         let dashboardData = null;
 
-        // Generate search strings for setup banner
-        const roles = [
-            "Software Engineer", "Senior Software Engineer", "Fullstack Engineer",
-            "Full Stack Engineer", "Frontend Engineer", "Backend Engineer",
-            "Data Engineer", "AI Engineer", "ML Engineer", "Machine Learning Engineer",
-            "DevOps Engineer", "Cloud Engineer", "Site Reliability Engineer",
-            "Platform Engineer", "Security Engineer", "QA Engineer",
-            "Mobile Engineer", "Data Scientist", "Data Analyst",
-            "Product Manager", "Product Designer", "UX Designer",
-            "Engineering Manager", "Technical Lead", "Solutions Architect",
-            "Founding Engineer", "Principal Engineer"
-        ];
-        const indiaRolePart = roles.map(r => `"${r}"`).join(" OR ");
-        const sites = [
-            "myworkdayjobs.com", "greenhouse.io", "icims.com", "taleo.net",
-            "lever.co", "smartrecruiters.com", "jobvite.com", "ashbyhq.com",
-            "bamboohr.com", "breezy.hr", "jazzhr.com", "workable.com",
-            "recruitee.com", "weworkremotely.com", "remoteok.com", "wellfound.com",
-            "naukri.com", "foundit.in", "instahyre.com", "cutshort.io"
-        ];
-        const philSites = [
-            "myworkdayjobs.com", "greenhouse.io", "icims.com", "taleo.net",
-            "lever.co", "smartrecruiters.com", "jobvite.com", "ashbyhq.com",
-            "bamboohr.com", "weworkremotely.com", "remoteok.com", "wellfound.com",
-            "onlinejobs.ph", "remotework.ph", "virtualstaff.ph", "jobstreet.com.ph",
-            "kalibrr.com", "bossjob.ph"
-        ];
-        const sitePart = sites.map(s => `site:${s}`).join(" OR ");
-        const philSitePart = philSites.map(s => `site:${s}`).join(" OR ");
-
-        document.getElementById("indiaSearchString").textContent =
-            `(${indiaRolePart}) ("India" OR "Remote" OR "Bangalore" OR "Mumbai" OR "Hyderabad" OR "Delhi" OR "Pune") (${sitePart})`;
-        document.getElementById("philSearchString").textContent =
-            `(${indiaRolePart}) ("Philippines" OR "Remote" OR "Manila" OR "Cebu" OR "Makati") (${philSitePart})`;
-
         // Load data
         async function loadData() {
             try {
@@ -655,9 +555,8 @@
                 document.getElementById("jobListings").innerHTML =
                     `<div class="empty-state">
                         <h3>No job data found</h3>
-                        <p>Run <code>python scripts/fetch_jobs.py</code> to fetch jobs, or check the setup instructions above.</p>
+                        <p>Run <code>python scripts/fetch_jobs.py</code> to fetch jobs.</p>
                     </div>`;
-                document.getElementById("setupBanner").style.display = "block";
             }
         }
 
@@ -666,11 +565,6 @@
             renderCharts();
             renderJobs();
             updateLastUpdated();
-
-            // Show setup banner if using demo data or no RSS configured
-            if (allJobs.length > 0 && allJobs[0].id && allJobs[0].company) {
-                document.getElementById("setupBanner").style.display = "block";
-            }
         }
 
         function updateLastUpdated() {
