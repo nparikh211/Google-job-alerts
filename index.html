@@ -17,6 +17,7 @@
                 <button class="nav-tab active" data-view="dashboard" onclick="switchView('dashboard')">Dashboard</button>
                 <button class="nav-tab" data-view="roles" onclick="switchView('roles')">Open Roles <span class="tab-count" id="tabRolesCount">0</span></button>
                 <button class="nav-tab" data-view="tracked" onclick="switchView('tracked')">Tracked <span class="tab-count" id="tabTrackedCount">0</span></button>
+                <button class="nav-tab" data-view="dismissed" onclick="switchView('dismissed')">Dismissed <span class="tab-count" id="tabDismissedCount">0</span></button>
             </div>
             <div class="nav-right">
                 <div class="last-updated" id="lastUpdated">Loading...</div>
@@ -83,6 +84,21 @@
         </div>
     </div>
 
+    <!-- DISMISSED -->
+    <div class="view" id="view-dismissed">
+        <div class="page-header"><div class="page-title">Dismissed</div><div class="page-subtitle">Roles you've marked as not a good fit</div></div>
+        <div class="main" style="padding-top:20px">
+            <div class="controls">
+                <div class="search-box"><input type="text" id="dismissedSearchInput" placeholder="Search dismissed roles..." /></div>
+                <select class="sort-select" id="dismissedSortSelect" onchange="renderDismissedJobs()">
+                    <option value="date-desc">Newest First</option><option value="date-asc">Oldest First</option>
+                    <option value="company-asc">Company A-Z</option><option value="company-desc">Company Z-A</option>
+                </select>
+            </div>
+            <div id="dismissedListings"></div>
+        </div>
+    </div>
+
     <script>
     let allJobs=[],currentFilter="all",currentView="dashboard",dashboardData=null;
 
@@ -90,7 +106,11 @@
     function saveTrackedIds(ids){localStorage.setItem("trackedJobs",JSON.stringify([...ids]))}
     function toggleTrack(id){const ids=getTrackedIds();ids.has(id)?ids.delete(id):ids.add(id);saveTrackedIds(ids);renderCurrentView();updateCounts()}
 
-    function switchView(v){currentView=v;document.querySelectorAll(".view").forEach(e=>e.classList.remove("active"));document.getElementById("view-"+v).classList.add("active");document.querySelectorAll(".nav-tab").forEach(t=>t.classList.remove("active"));document.querySelector(`[data-view="${v}"]`).classList.add("active");if(v==="roles")renderJobs();if(v==="tracked")renderTrackedJobs()}
+    function getDismissedIds(){try{return new Set(JSON.parse(localStorage.getItem("dismissedJobs")||"[]"))}catch{return new Set()}}
+    function saveDismissedIds(ids){localStorage.setItem("dismissedJobs",JSON.stringify([...ids]))}
+    function toggleDismiss(id){const ids=getDismissedIds();ids.has(id)?ids.delete(id):ids.add(id);saveDismissedIds(ids);renderCurrentView();updateCounts()}
+
+    function switchView(v){currentView=v;document.querySelectorAll(".view").forEach(e=>e.classList.remove("active"));document.getElementById("view-"+v).classList.add("active");document.querySelectorAll(".nav-tab").forEach(t=>t.classList.remove("active"));document.querySelector(`[data-view="${v}"]`).classList.add("active");if(v==="roles")renderJobs();if(v==="tracked")renderTrackedJobs();if(v==="dismissed")renderDismissedJobs()}
     function statClick(f){switchView("roles");currentFilter=f==="today"?"all":f;document.querySelectorAll("#view-roles .filter-btn").forEach(b=>b.classList.toggle("active",b.dataset.filter===(f==="today"?"all":f)));renderJobs()}
 
     async function loadData(){
@@ -98,7 +118,7 @@
         catch{document.getElementById("jobListings").innerHTML='<div class="empty-state"><h3>No job data yet</h3><p>Your Google Alerts are new. Jobs will appear once alerts start finding matches.</p></div>';updateCounts()}
     }
     function renderAll(){renderStats();renderCharts();renderJobs();updateLastUpdated();updateCounts()}
-    function updateCounts(){const t=getTrackedIds(),c=allJobs.filter(j=>t.has(j.id)).length;document.getElementById("statTracked").textContent=c;document.getElementById("tabRolesCount").textContent=allJobs.length;document.getElementById("tabTrackedCount").textContent=c}
+    function updateCounts(){const t=getTrackedIds(),d=getDismissedIds(),tc=allJobs.filter(j=>t.has(j.id)).length,dc=allJobs.filter(j=>d.has(j.id)).length;document.getElementById("statTracked").textContent=tc;document.getElementById("tabRolesCount").textContent=allJobs.length-dc;document.getElementById("tabTrackedCount").textContent=tc;document.getElementById("tabDismissedCount").textContent=dc}
     function updateLastUpdated(){const el=document.getElementById("lastUpdated");if(dashboardData&&dashboardData.last_updated){const d=new Date(dashboardData.last_updated);el.innerHTML=`Updated: <strong>${d.toLocaleDateString("en-US",{month:"short",day:"numeric",hour:"2-digit",minute:"2-digit"})}</strong>`}}
 
     function renderStats(){
@@ -132,8 +152,9 @@
     function setFilter(f,btn){currentFilter=f;document.querySelectorAll("#view-roles .filter-btn").forEach(b=>b.classList.remove("active"));btn.classList.add("active");renderJobs()}
 
     function getFilteredJobs(){
-        const s=document.getElementById("searchInput").value.toLowerCase(),rf=document.getElementById("roleFilter").value,sf=document.getElementById("sourceFilter").value,cf=document.getElementById("companyFilter").value;
+        const s=document.getElementById("searchInput").value.toLowerCase(),rf=document.getElementById("roleFilter").value,sf=document.getElementById("sourceFilter").value,cf=document.getElementById("companyFilter").value,dismissed=getDismissedIds();
         return allJobs.filter(j=>{
+            if(dismissed.has(j.id))return false;
             if(currentFilter!=="all"&&(!j.regions||!j.regions.includes(currentFilter)))return false;
             if(rf&&j.role!==rf)return false;if(sf&&j.source!==sf)return false;if(cf&&j.company!==cf)return false;
             if(s){const h=`${j.title} ${j.company} ${j.role} ${j.description} ${j.source}`.toLowerCase();if(!h.includes(s))return false}
@@ -144,7 +165,8 @@
 
     function renderJobs(){const c=document.getElementById("jobListings"),f=sortList(getFilteredJobs(),"sortSelect");if(!f.length){c.innerHTML='<div class="empty-state"><h3>No jobs match your filters</h3><p>Try adjusting your search or filters. Alerts may still be gathering results.</p></div>';return}c.innerHTML=groupByDate(f)}
     function renderTrackedJobs(){const c=document.getElementById("trackedListings"),t=getTrackedIds(),s=document.getElementById("trackedSearchInput").value.toLowerCase();let j=allJobs.filter(x=>t.has(x.id));if(s)j=j.filter(x=>`${x.title} ${x.company} ${x.role}`.toLowerCase().includes(s));j=sortList(j,"trackedSortSelect");if(!j.length){c.innerHTML='<div class="empty-state"><h3>No tracked roles</h3><p>Check the box on any job card in Open Roles to track it here.</p></div>';return}c.innerHTML=groupByDate(j)}
-    function renderCurrentView(){if(currentView==="roles")renderJobs();else if(currentView==="tracked")renderTrackedJobs()}
+    function renderDismissedJobs(){const c=document.getElementById("dismissedListings"),d=getDismissedIds(),s=document.getElementById("dismissedSearchInput").value.toLowerCase();let j=allJobs.filter(x=>d.has(x.id));if(s)j=j.filter(x=>`${x.title} ${x.company} ${x.role}`.toLowerCase().includes(s));j=sortList(j,"dismissedSortSelect");if(!j.length){c.innerHTML='<div class="empty-state"><h3>No dismissed roles</h3><p>Click the X on any job card to dismiss roles that aren\'t a good fit.</p></div>';return}c.innerHTML=groupByDate(j)}
+    function renderCurrentView(){if(currentView==="roles")renderJobs();else if(currentView==="tracked")renderTrackedJobs();else if(currentView==="dismissed")renderDismissedJobs()}
 
     function groupByDate(jobs){
         const g={};jobs.forEach(j=>{if(!g[j.date])g[j.date]=[];g[j.date].push(j)});
@@ -154,14 +176,17 @@
         h+=`<div class="date-group"><div class="date-header"><h2>${ds}</h2><span class="date-badge">${list.length} job${list.length!==1?"s":""}</span>${lbl}</div><div class="jobs-grid">${list.map(jobCard).join("")}</div></div>`}return h;
     }
     function jobCard(job){
-        const tracked=getTrackedIds().has(job.id),tags=(job.regions||[]).map(r=>{const c=r.toLowerCase()==="india"?"tag-india":r.toLowerCase()==="philippines"?"tag-philippines":r.toLowerCase()==="remote"?"tag-remote":"tag-unknown";return`<span class="tag ${c}">${r}</span>`}).join("");
-        return`<div class="job-card${tracked?" tracked":""}"><div class="job-card-header"><div class="job-card-header-left"><input type="checkbox" class="track-checkbox" title="Track this role" ${tracked?"checked":""} onchange="toggleTrack('${job.id}')"/><span class="job-company">${esc(job.company)}</span></div><span class="job-source">${esc(job.source)}</span></div><div class="job-role"><a href="${esc(job.link)}" target="_blank" rel="noopener">${esc(job.title)}</a></div><div class="job-tags">${tags}</div>${job.description?`<div class="job-desc">${esc(job.description)}</div>`:""}<div class="job-footer"><span class="job-date">${esc(job.date)}</span><a class="apply-btn" href="${esc(job.link)}" target="_blank" rel="noopener">View Job</a></div></div>`;
+        const tracked=getTrackedIds().has(job.id),isDismissed=getDismissedIds().has(job.id);
+        const tags=(job.regions||[]).map(r=>{const c=r.toLowerCase()==="india"?"tag-india":r.toLowerCase()==="philippines"?"tag-philippines":r.toLowerCase()==="remote"?"tag-remote":"tag-unknown";return`<span class="tag ${c}">${r}</span>`}).join("");
+        const cardClass=isDismissed?"job-card dismissed-card":tracked?"job-card tracked":"job-card";
+        return`<div class="${cardClass}"><div class="job-card-header"><div class="job-card-header-left"><input type="checkbox" class="track-checkbox" title="Track this role" ${tracked?"checked":""} onchange="toggleTrack('${job.id}')"/><button class="dismiss-btn${isDismissed?" dismissed":""}" title="${isDismissed?"Restore this role":"Dismiss - not a good fit"}" onclick="toggleDismiss('${job.id}')">&times;</button><span class="job-company">${esc(job.company)}</span></div><span class="job-source">${esc(job.source)}</span></div><div class="job-role"><a href="${esc(job.link)}" target="_blank" rel="noopener">${esc(job.title)}</a></div><div class="job-tags">${tags}</div>${job.description?`<div class="job-desc">${esc(job.description)}</div>`:""}<div class="job-footer"><span class="job-date">${esc(job.date)}</span><a class="apply-btn" href="${esc(job.link)}" target="_blank" rel="noopener">View Job</a></div></div>`;
     }
     function esc(s){if(!s)return"";const d=document.createElement("div");d.textContent=s;return d.innerHTML}
 
     let st;
     document.getElementById("searchInput").addEventListener("input",()=>{clearTimeout(st);st=setTimeout(renderJobs,200)});
     document.getElementById("trackedSearchInput").addEventListener("input",()=>{clearTimeout(st);st=setTimeout(renderTrackedJobs,200)});
+    document.getElementById("dismissedSearchInput").addEventListener("input",()=>{clearTimeout(st);st=setTimeout(renderDismissedJobs,200)});
 
     loadData();
     </script>
