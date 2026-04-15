@@ -46,8 +46,8 @@ def extract_company_from_url(url):
     patterns = [
         # Workday: company.wd5.myworkdayjobs.com
         r"(\w+)\.wd\d+\.myworkdayjobs\.com",
-        # Greenhouse: boards.greenhouse.io/company
-        r"boards\.greenhouse\.io/(\w+)",
+        # Greenhouse: boards.greenhouse.io/company or job-boards.greenhouse.io/company
+        r"(?:boards|job-boards)\.greenhouse\.io/(\w+)",
         # Lever: jobs.lever.co/company
         r"jobs\.lever\.co/([\w-]+)",
         # SmartRecruiters: jobs.smartrecruiters.com/Company
@@ -64,31 +64,45 @@ def extract_company_from_url(url):
         r"([\w-]+)\.recruitee\.com",
         # Workable: apply.workable.com/company
         r"apply\.workable\.com/([\w-]+)",
+        # Generic: careers.company.com or www.careers.company.com
+        r"(?:www\.)?careers\.([\w-]+)\.com",
+        # Generic: jobs.company.com
+        r"(?:www\.)?jobs\.([\w-]+)\.com",
+        # Generic: company.jobs/
+        r"([\w-]+)\.jobs/",
     ]
     for pattern in patterns:
         match = re.search(pattern, url, re.IGNORECASE)
         if match:
             name = match.group(1)
-            # Clean up: replace hyphens with spaces, title case
+            if name.lower() in ("www", "en", "us", "job", "apply", "boards"):
+                continue
             return name.replace("-", " ").replace("_", " ").title()
     return None
 
 
 def extract_company_from_title(title):
     """Try to extract company name from the alert title."""
-    # Common patterns: "Role at Company", "Role - Company", "Company - Role"
     patterns = [
-        r"(?:at|@)\s+(.+?)(?:\s*[-|]|$)",
-        r"^(.+?)\s*[-|]\s*.+(?:Engineer|Developer|Manager|Designer|Analyst|Scientist|Lead|Architect)",
-        r"(?:Engineer|Developer|Manager|Designer|Analyst|Scientist|Lead|Architect).+?[-|]\s*(.+?)$",
+        # "Role at Company"
+        r"(?:at|@)\s+(.+?)(?:\s*$)",
+        # "Role | Company" or "Role - Company" (company at end)
+        r"[-|]+\s*(.+?)\s*$",
+        # "Company | Role" or "Company - Role" (company at start, role keyword after separator)
+        r"^(.+?)\s*[-|]+\s*(?:.*(?:Engineer|Developer|Manager|Designer|Analyst|Scientist|Lead|Architect|Specialist|Representative|Admin))",
     ]
     for pattern in patterns:
         match = re.search(pattern, title, re.IGNORECASE)
         if match:
             company = match.group(1).strip()
-            # Remove common suffixes
+            # Remove common noise
             company = re.sub(r"\s*\(.*?\)\s*$", "", company)
-            if len(company) > 2 and len(company) < 80:
+            company = re.sub(r"^(?:Job Application for|Apply for|Join)\s+", "", company, flags=re.IGNORECASE)
+            # Skip if it looks like a role, not a company
+            role_words = ["engineer", "developer", "manager", "designer", "analyst", "scientist", "lead", "architect", "specialist", "senior", "junior", "staff", "principal", "data", "software", "full-stack", "fullstack", "backend", "frontend", "devops"]
+            if any(w in company.lower() for w in role_words):
+                continue
+            if 2 < len(company) < 60:
                 return company
     return None
 
@@ -171,11 +185,16 @@ def extract_source_site(url):
         "kalibrr.com": "Kalibrr",
         "linkedin.com": "LinkedIn",
         "indeed.com": "Indeed",
+        "dice.com": "Dice",
     }
     url_lower = url.lower()
     for domain, name in site_names.items():
         if domain in url_lower:
             return name
+    # For company career sites, label by company
+    m = re.search(r"(?:careers|jobs)\.([\w-]+)\.", url_lower)
+    if m:
+        return m.group(1).title() + " Careers"
     return "Other"
 
 
@@ -259,8 +278,10 @@ def parse_atom_feed(xml_content, config):
         # Extract role
         role = extract_role_from_title(title, config.get("roles", []))
 
-        # Extract region
+        # Extract region - SKIP jobs not in India/Philippines/Remote
         regions = extract_region(title, description)
+        if regions == ["Unknown"]:
+            continue  # Not an offshore/remote role, skip it
 
         # Extract source
         source = extract_source_site(actual_link)
