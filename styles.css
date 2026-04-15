@@ -70,6 +70,10 @@ a{color:var(--accent-light);text-decoration:none}a:hover{text-decoration:underli
 .track-checkbox:hover{border-color:var(--blue)}
 .track-checkbox:checked{background:var(--blue);border-color:var(--blue)}
 .track-checkbox:checked::after{content:"\2713";position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);color:#fff;font-size:12px;font-weight:700}
+.dismiss-btn{appearance:none;-webkit-appearance:none;width:18px;height:18px;border:2px solid var(--border);border-radius:4px;cursor:pointer;flex-shrink:0;position:relative;transition:all .2s;background:var(--surface2);display:flex;align-items:center;justify-content:center;font-size:11px;color:var(--text-dim);line-height:1;padding:0}
+.dismiss-btn:hover{border-color:var(--red);color:var(--red)}
+.dismiss-btn.dismissed{background:var(--red);border-color:var(--red);color:#fff}
+.job-card.dismissed-card{opacity:.45;border-color:var(--red);border-style:dashed}
 .job-card-header{display:flex;justify-content:space-between;align-items:flex-start;gap:8px}
 .job-card-header-left{display:flex;align-items:center;gap:8px}
 .job-company{font-size:12px;font-weight:600;color:var(--accent-light);text-transform:uppercase;letter-spacing:.5px}
