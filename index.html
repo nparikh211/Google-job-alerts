@@ -34,60 +34,113 @@
         a { color: var(--accent-light); text-decoration: none; }
         a:hover { text-decoration: underline; }
 
-        /* Header */
-        .header {
-            background: linear-gradient(135deg, #1a1d27 0%, #2d1f4e 100%);
+        /* Nav Bar - browser-like top bar */
+        .navbar {
+            background: #111318;
             border-bottom: 1px solid var(--border);
-            padding: 20px 32px;
             position: sticky;
             top: 0;
             z-index: 100;
-            backdrop-filter: blur(10px);
         }
-        .header-inner {
+        .navbar-inner {
             max-width: 1400px;
             margin: 0 auto;
             display: flex;
-            justify-content: space-between;
             align-items: center;
-            flex-wrap: wrap;
-            gap: 16px;
+            padding: 0 32px;
+            height: 52px;
+            gap: 0;
         }
-        .logo {
+        .nav-logo {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-right: 32px;
+            cursor: pointer;
+            flex-shrink: 0;
+        }
+        .nav-logo svg { width: 28px; height: 28px; }
+        .nav-logo-text {
+            font-size: 16px;
+            font-weight: 700;
+            color: var(--text);
+            letter-spacing: 0.5px;
+        }
+        .nav-tabs {
+            display: flex;
+            align-items: stretch;
+            height: 52px;
+            gap: 0;
+            flex: 1;
+        }
+        .nav-tab {
+            padding: 0 20px;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            font-size: 13px;
+            font-weight: 500;
+            color: var(--text-dim);
+            cursor: pointer;
+            border-bottom: 2px solid transparent;
+            transition: all 0.2s;
+            white-space: nowrap;
+            background: none;
+            border-top: none;
+            border-left: none;
+            border-right: none;
+        }
+        .nav-tab:hover { color: var(--text); background: rgba(255,255,255,0.03); }
+        .nav-tab.active {
+            color: var(--accent-light);
+            border-bottom-color: var(--accent);
+        }
+        .nav-tab .tab-count {
+            background: var(--surface2);
+            color: var(--text-dim);
+            font-size: 11px;
+            font-weight: 600;
+            padding: 1px 7px;
+            border-radius: 10px;
+        }
+        .nav-tab.active .tab-count {
+            background: var(--accent);
+            color: white;
+        }
+        .nav-right {
             display: flex;
             align-items: center;
             gap: 12px;
+            margin-left: auto;
         }
-        .logo-icon {
-            width: 40px;
-            height: 40px;
-            background: var(--accent);
-            border-radius: 10px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 20px;
-            font-weight: 700;
-            color: white;
+        .last-updated {
+            font-size: 11px;
+            color: var(--text-dim);
+            text-align: right;
+            line-height: 1.4;
         }
-        .logo h1 {
-            font-size: 20px;
+        .last-updated strong { color: var(--green); }
+
+        /* Page header below nav */
+        .page-header {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 20px 32px 0;
+        }
+        .page-title {
+            font-size: 22px;
             font-weight: 700;
             color: var(--text);
         }
-        .logo span {
-            font-size: 12px;
-            color: var(--text-dim);
-            display: block;
-        }
-        .last-updated {
+        .page-subtitle {
             font-size: 13px;
             color: var(--text-dim);
-            text-align: right;
+            margin-top: 2px;
         }
-        .last-updated strong {
-            color: var(--green);
-        }
+
+        /* View sections */
+        .view { display: none; }
+        .view.active { display: block; }
 
         /* Stats Bar */
         .stats-bar {
@@ -105,10 +158,16 @@
             padding: 20px;
             text-align: center;
             transition: transform 0.2s, border-color 0.2s;
+            cursor: pointer;
+            user-select: none;
         }
         .stat-card:hover {
             transform: translateY(-2px);
             border-color: var(--accent);
+        }
+        .stat-card.active-filter {
+            border-color: var(--accent);
+            box-shadow: 0 0 12px rgba(108, 92, 231, 0.25);
         }
         .stat-number {
             font-size: 32px;
@@ -187,7 +246,7 @@
             border-color: var(--accent);
             color: white;
         }
-        .sort-select {
+        .sort-select, .filter-select {
             padding: 10px 14px;
             background: var(--surface);
             border: 1px solid var(--border);
@@ -197,6 +256,7 @@
             cursor: pointer;
             outline: none;
         }
+        .filter-select option { background: var(--surface); color: var(--text); }
 
         /* Date Group */
         .date-group {
@@ -490,143 +550,213 @@
     </style>
 </head>
 <body>
-    <!-- Header -->
-    <header class="header">
-        <div class="header-inner">
-            <div class="logo">
-                <div class="logo-icon">E</div>
-                <div>
-                    <h1>Exordiom Job Alerts</h1>
-                    <span>India & Philippines Remote Hiring Dashboard</span>
+    <!-- Nav Bar -->
+    <nav class="navbar">
+        <div class="navbar-inner">
+            <div class="nav-logo" onclick="switchView('dashboard')">
+                <svg viewBox="0 0 32 32" fill="none"><rect width="32" height="32" rx="8" fill="#6c5ce7"/><text x="16" y="22" text-anchor="middle" font-size="18" font-weight="700" fill="white" font-family="Inter,sans-serif">E</text></svg>
+                <span class="nav-logo-text">exordiom</span>
+            </div>
+            <div class="nav-tabs">
+                <button class="nav-tab active" data-view="dashboard" onclick="switchView('dashboard')">
+                    Dashboard
+                </button>
+                <button class="nav-tab" data-view="roles" onclick="switchView('roles')">
+                    Open Roles <span class="tab-count" id="tabRolesCount">0</span>
+                </button>
+                <button class="nav-tab" data-view="tracked" onclick="switchView('tracked')">
+                    Tracked <span class="tab-count" id="tabTrackedCount">0</span>
+                </button>
+            </div>
+            <div class="nav-right">
+                <div class="last-updated" id="lastUpdated">Loading...</div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- ===== DASHBOARD VIEW ===== -->
+    <div class="view active" id="view-dashboard">
+        <div class="page-header">
+            <div class="page-title">Dashboard</div>
+            <div class="page-subtitle">Overview of job alerts for India & Philippines remote roles</div>
+        </div>
+
+        <div class="stats-bar" id="statsBar">
+            <div class="stat-card stat-total" onclick="statClick('all')">
+                <div class="stat-number" id="statTotal">-</div>
+                <div class="stat-label">Total Jobs</div>
+            </div>
+            <div class="stat-card stat-today" onclick="statClick('today')">
+                <div class="stat-number" id="statToday">-</div>
+                <div class="stat-label">Added Today</div>
+            </div>
+            <div class="stat-card stat-companies" onclick="statClick('all')">
+                <div class="stat-number" id="statCompanies">-</div>
+                <div class="stat-label">Companies</div>
+            </div>
+            <div class="stat-card stat-india" onclick="statClick('India')">
+                <div class="stat-number" id="statIndia">-</div>
+                <div class="stat-label">India</div>
+            </div>
+            <div class="stat-card stat-phil" onclick="statClick('Philippines')">
+                <div class="stat-number" id="statPhil">-</div>
+                <div class="stat-label">Philippines</div>
+            </div>
+            <div class="stat-card stat-remote" onclick="statClick('Remote')">
+                <div class="stat-number" id="statRemote">-</div>
+                <div class="stat-label">Remote</div>
+            </div>
+            <div class="stat-card stat-tracked" onclick="switchView('tracked')">
+                <div class="stat-number" id="statTracked">-</div>
+                <div class="stat-label">Tracked</div>
+            </div>
+        </div>
+
+        <div class="main">
+            <div class="charts-section" id="chartsSection">
+                <div class="chart-card">
+                    <h3>Top Hiring Companies</h3>
+                    <div class="bar-chart" id="companyChart"></div>
+                </div>
+                <div class="chart-card">
+                    <h3>Roles Breakdown</h3>
+                    <div class="bar-chart" id="roleChart"></div>
+                </div>
+                <div class="chart-card">
+                    <h3>Job Sources</h3>
+                    <div class="bar-chart" id="sourceChart"></div>
+                </div>
+                <div class="chart-card">
+                    <h3>Jobs by Date</h3>
+                    <div class="bar-chart" id="dateChart"></div>
                 </div>
             </div>
-            <div class="last-updated" id="lastUpdated">Loading...</div>
-        </div>
-    </header>
-
-    <!-- Stats Bar -->
-    <div class="stats-bar" id="statsBar">
-        <div class="stat-card stat-total">
-            <div class="stat-number" id="statTotal">-</div>
-            <div class="stat-label">Total Jobs</div>
-        </div>
-        <div class="stat-card stat-today">
-            <div class="stat-number" id="statToday">-</div>
-            <div class="stat-label">Added Today</div>
-        </div>
-        <div class="stat-card stat-companies">
-            <div class="stat-number" id="statCompanies">-</div>
-            <div class="stat-label">Companies</div>
-        </div>
-        <div class="stat-card stat-india">
-            <div class="stat-number" id="statIndia">-</div>
-            <div class="stat-label">India</div>
-        </div>
-        <div class="stat-card stat-phil">
-            <div class="stat-number" id="statPhil">-</div>
-            <div class="stat-label">Philippines</div>
-        </div>
-        <div class="stat-card stat-remote">
-            <div class="stat-number" id="statRemote">-</div>
-            <div class="stat-label">Remote</div>
-        </div>
-        <div class="stat-card stat-tracked" onclick="setFilter('tracked', document.querySelector('[data-filter=tracked]'))">
-            <div class="stat-number" id="statTracked">-</div>
-            <div class="stat-label">Tracked</div>
         </div>
     </div>
 
-    <!-- Main Content -->
-    <div class="main">
-        <!-- Charts Section -->
-        <div class="charts-section" id="chartsSection">
-            <div class="chart-card">
-                <h3>Top Hiring Companies</h3>
-                <div class="bar-chart" id="companyChart"></div>
-            </div>
-            <div class="chart-card">
-                <h3>Roles Breakdown</h3>
-                <div class="bar-chart" id="roleChart"></div>
-            </div>
-            <div class="chart-card">
-                <h3>Job Sources</h3>
-                <div class="bar-chart" id="sourceChart"></div>
-            </div>
-            <div class="chart-card">
-                <h3>Jobs by Date</h3>
-                <div class="bar-chart" id="dateChart"></div>
-            </div>
+    <!-- ===== OPEN ROLES VIEW ===== -->
+    <div class="view" id="view-roles">
+        <div class="page-header">
+            <div class="page-title">Open Roles</div>
+            <div class="page-subtitle">All job listings from Google Alerts</div>
         </div>
 
-        <!-- Controls -->
-        <div class="controls">
-            <div class="search-box">
-                <input type="text" id="searchInput" placeholder="Search by company, role, or keyword..." />
+        <div class="main">
+            <div class="controls">
+                <div class="search-box">
+                    <input type="text" id="searchInput" placeholder="Search by company, role, or keyword..." />
+                </div>
+                <button class="filter-btn active" data-filter="all" onclick="setFilter('all', this)">All</button>
+                <button class="filter-btn" data-filter="India" onclick="setFilter('India', this)">India</button>
+                <button class="filter-btn" data-filter="Philippines" onclick="setFilter('Philippines', this)">Philippines</button>
+                <button class="filter-btn" data-filter="Remote" onclick="setFilter('Remote', this)">Remote</button>
+                <select class="filter-select" id="roleFilter" onchange="renderJobs()">
+                    <option value="">All Roles</option>
+                </select>
+                <select class="filter-select" id="sourceFilter" onchange="renderJobs()">
+                    <option value="">All Sources</option>
+                </select>
+                <select class="filter-select" id="companyFilter" onchange="renderJobs()">
+                    <option value="">All Companies</option>
+                </select>
+                <select class="sort-select" id="sortSelect" onchange="renderJobs()">
+                    <option value="date-desc">Newest First</option>
+                    <option value="date-asc">Oldest First</option>
+                    <option value="company-asc">Company A-Z</option>
+                    <option value="company-desc">Company Z-A</option>
+                </select>
             </div>
-            <button class="filter-btn active" data-filter="all" onclick="setFilter('all', this)">All</button>
-            <button class="filter-btn" data-filter="India" onclick="setFilter('India', this)">India</button>
-            <button class="filter-btn" data-filter="Philippines" onclick="setFilter('Philippines', this)">Philippines</button>
-            <button class="filter-btn" data-filter="Remote" onclick="setFilter('Remote', this)">Remote</button>
-            <button class="filter-btn" data-filter="tracked" onclick="setFilter('tracked', this)">Tracked</button>
-            <select class="sort-select" id="sortSelect" onchange="renderJobs()">
-                <option value="date-desc">Newest First</option>
-                <option value="date-asc">Oldest First</option>
-                <option value="company-asc">Company A-Z</option>
-                <option value="company-desc">Company Z-A</option>
-            </select>
+            <div id="jobListings">
+                <div class="loading"><div class="spinner"></div><p>Loading job data...</p></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- ===== TRACKED VIEW ===== -->
+    <div class="view" id="view-tracked">
+        <div class="page-header">
+            <div class="page-title">Tracked Roles</div>
+            <div class="page-subtitle">Jobs you've bookmarked for follow-up</div>
         </div>
 
-        <!-- Job Listings -->
-        <div id="jobListings">
-            <div class="loading">
-                <div class="spinner"></div>
-                <p>Loading job data...</p>
+        <div class="main">
+            <div class="controls">
+                <div class="search-box">
+                    <input type="text" id="trackedSearchInput" placeholder="Search tracked roles..." />
+                </div>
+                <select class="sort-select" id="trackedSortSelect" onchange="renderTrackedJobs()">
+                    <option value="date-desc">Newest First</option>
+                    <option value="date-asc">Oldest First</option>
+                    <option value="company-asc">Company A-Z</option>
+                    <option value="company-desc">Company Z-A</option>
+                </select>
             </div>
+            <div id="trackedListings"></div>
         </div>
     </div>
 
     <script>
         let allJobs = [];
         let currentFilter = "all";
+        let currentView = "dashboard";
         let dashboardData = null;
 
-        // Tracked jobs - persisted in localStorage
+        // === TRACKED JOBS (localStorage) ===
         function getTrackedIds() {
-            try {
-                return new Set(JSON.parse(localStorage.getItem("trackedJobs") || "[]"));
-            } catch { return new Set(); }
+            try { return new Set(JSON.parse(localStorage.getItem("trackedJobs") || "[]")); }
+            catch { return new Set(); }
         }
-        function saveTrackedIds(ids) {
-            localStorage.setItem("trackedJobs", JSON.stringify([...ids]));
-        }
+        function saveTrackedIds(ids) { localStorage.setItem("trackedJobs", JSON.stringify([...ids])); }
         function toggleTrack(jobId) {
             const ids = getTrackedIds();
-            if (ids.has(jobId)) { ids.delete(jobId); } else { ids.add(jobId); }
+            if (ids.has(jobId)) ids.delete(jobId); else ids.add(jobId);
             saveTrackedIds(ids);
-            renderJobs();
-            updateTrackedStat();
-        }
-        function updateTrackedStat() {
-            const ids = getTrackedIds();
-            const count = allJobs.filter(j => ids.has(j.id)).length;
-            document.getElementById("statTracked").textContent = count;
+            renderCurrentView();
+            updateCounts();
         }
 
-        // Load data
+        // === VIEW SWITCHING ===
+        function switchView(view) {
+            currentView = view;
+            document.querySelectorAll(".view").forEach(v => v.classList.remove("active"));
+            document.getElementById("view-" + view).classList.add("active");
+            document.querySelectorAll(".nav-tab").forEach(t => t.classList.remove("active"));
+            document.querySelector(`[data-view="${view}"]`).classList.add("active");
+            if (view === "roles") { currentFilter = "all"; renderJobs(); }
+            if (view === "tracked") renderTrackedJobs();
+        }
+
+        // === STAT CARD CLICKS ===
+        function statClick(filter) {
+            switchView("roles");
+            if (filter === "today") {
+                currentFilter = "all";
+                // set sort to newest
+                document.getElementById("sortSelect").value = "date-desc";
+            } else {
+                currentFilter = filter;
+            }
+            // update filter buttons
+            document.querySelectorAll("#view-roles .filter-btn").forEach(b => {
+                b.classList.toggle("active", b.dataset.filter === (filter === "today" ? "all" : filter));
+            });
+            renderJobs();
+        }
+
+        // === LOAD DATA ===
         async function loadData() {
             try {
-                const response = await fetch("data/jobs.json");
-                if (!response.ok) throw new Error("No data file found");
-                dashboardData = await response.json();
+                const resp = await fetch("data/jobs.json");
+                if (!resp.ok) throw new Error("No data");
+                dashboardData = await resp.json();
                 allJobs = dashboardData.jobs || [];
+                populateDropdowns();
                 renderAll();
             } catch (e) {
-                console.error("Error loading data:", e);
                 document.getElementById("jobListings").innerHTML =
-                    `<div class="empty-state">
-                        <h3>No job data found</h3>
-                        <p>Run <code>python scripts/fetch_jobs.py</code> to fetch jobs.</p>
-                    </div>`;
+                    `<div class="empty-state"><h3>No job data yet</h3>
+                    <p>Your Google Alerts are new. Jobs will appear here once alerts start finding matches (usually within 24 hours).</p></div>`;
+                updateCounts();
             }
         }
 
@@ -635,205 +765,189 @@
             renderCharts();
             renderJobs();
             updateLastUpdated();
+            updateCounts();
+        }
+
+        function updateCounts() {
+            const tracked = getTrackedIds();
+            const trackedCount = allJobs.filter(j => tracked.has(j.id)).length;
+            document.getElementById("statTracked").textContent = trackedCount;
+            document.getElementById("tabRolesCount").textContent = allJobs.length;
+            document.getElementById("tabTrackedCount").textContent = trackedCount;
         }
 
         function updateLastUpdated() {
             const el = document.getElementById("lastUpdated");
             if (dashboardData && dashboardData.last_updated) {
                 const d = new Date(dashboardData.last_updated);
-                el.innerHTML = `Last updated: <strong>${d.toLocaleDateString("en-US", {
-                    weekday: "short", month: "short", day: "numeric", hour: "2-digit", minute: "2-digit"
-                })}</strong><br>${dashboardData.total_jobs} jobs tracked`;
+                el.innerHTML = `Updated: <strong>${d.toLocaleDateString("en-US", {
+                    month: "short", day: "numeric", hour: "2-digit", minute: "2-digit"
+                })}</strong>`;
             }
         }
 
+        // === STATS ===
         function renderStats() {
             const today = new Date().toISOString().split("T")[0];
-            const todayJobs = allJobs.filter(j => j.date === today).length;
-            const companies = new Set(allJobs.map(j => j.company)).size;
-            const indiaJobs = allJobs.filter(j => j.regions && j.regions.includes("India")).length;
-            const philJobs = allJobs.filter(j => j.regions && j.regions.includes("Philippines")).length;
-            const remoteJobs = allJobs.filter(j => j.regions && j.regions.includes("Remote")).length;
-
             document.getElementById("statTotal").textContent = allJobs.length;
-            document.getElementById("statToday").textContent = todayJobs;
-            document.getElementById("statCompanies").textContent = companies;
-            document.getElementById("statIndia").textContent = indiaJobs;
-            document.getElementById("statPhil").textContent = philJobs;
-            document.getElementById("statRemote").textContent = remoteJobs;
-            updateTrackedStat();
+            document.getElementById("statToday").textContent = allJobs.filter(j => j.date === today).length;
+            document.getElementById("statCompanies").textContent = new Set(allJobs.map(j => j.company)).size;
+            document.getElementById("statIndia").textContent = allJobs.filter(j => j.regions && j.regions.includes("India")).length;
+            document.getElementById("statPhil").textContent = allJobs.filter(j => j.regions && j.regions.includes("Philippines")).length;
+            document.getElementById("statRemote").textContent = allJobs.filter(j => j.regions && j.regions.includes("Remote")).length;
+            updateCounts();
         }
 
+        // === CHARTS ===
         function renderCharts() {
-            // Company chart
-            const companyCounts = {};
-            allJobs.forEach(j => { companyCounts[j.company] = (companyCounts[j.company] || 0) + 1; });
-            const topCompanies = Object.entries(companyCounts)
-                .sort((a, b) => b[1] - a[1])
-                .slice(0, 8);
-            renderBarChart("companyChart", topCompanies, var_accent_light());
-
-            // Role chart
-            const roleCounts = {};
-            allJobs.forEach(j => { roleCounts[j.role] = (roleCounts[j.role] || 0) + 1; });
-            const topRoles = Object.entries(roleCounts)
-                .sort((a, b) => b[1] - a[1])
-                .slice(0, 8);
-            renderBarChart("roleChart", topRoles, "#00cec9");
-
-            // Source chart
-            const sourceCounts = {};
-            allJobs.forEach(j => { sourceCounts[j.source] = (sourceCounts[j.source] || 0) + 1; });
-            const topSources = Object.entries(sourceCounts)
-                .sort((a, b) => b[1] - a[1])
-                .slice(0, 8);
-            renderBarChart("sourceChart", topSources, "#fdcb6e");
-
-            // Date chart
-            const dateCounts = {};
-            allJobs.forEach(j => { dateCounts[j.date] = (dateCounts[j.date] || 0) + 1; });
-            const recentDates = Object.entries(dateCounts)
-                .sort((a, b) => b[0].localeCompare(a[0]))
-                .slice(0, 7)
-                .reverse();
-            renderBarChart("dateChart", recentDates.map(([d, c]) => {
-                const dt = new Date(d + "T00:00:00");
-                return [dt.toLocaleDateString("en-US", { month: "short", day: "numeric" }), c];
-            }), "#74b9ff");
+            const cc = {}, rc = {}, sc = {}, dc = {};
+            allJobs.forEach(j => {
+                cc[j.company] = (cc[j.company]||0)+1;
+                rc[j.role] = (rc[j.role]||0)+1;
+                sc[j.source] = (sc[j.source]||0)+1;
+                dc[j.date] = (dc[j.date]||0)+1;
+            });
+            barChart("companyChart", Object.entries(cc).sort((a,b)=>b[1]-a[1]).slice(0,8), "#a29bfe");
+            barChart("roleChart", Object.entries(rc).sort((a,b)=>b[1]-a[1]).slice(0,8), "#00cec9");
+            barChart("sourceChart", Object.entries(sc).sort((a,b)=>b[1]-a[1]).slice(0,8), "#fdcb6e");
+            const dates = Object.entries(dc).sort((a,b)=>b[0].localeCompare(a[0])).slice(0,7).reverse()
+                .map(([d,c])=>[new Date(d+"T00:00:00").toLocaleDateString("en-US",{month:"short",day:"numeric"}),c]);
+            barChart("dateChart", dates, "#74b9ff");
+        }
+        function barChart(id, data, color) {
+            const el = document.getElementById(id);
+            if (!data.length) { el.innerHTML='<div style="color:var(--text-dim);font-size:13px;padding:8px">No data yet</div>'; return; }
+            const mx = Math.max(...data.map(d=>d[1]));
+            el.innerHTML = data.map(([l,c])=>`<div class="bar-row"><div class="bar-label" title="${l}">${l}</div><div class="bar-track"><div class="bar-fill" style="width:${mx>0?c/mx*100:0}%;background:${color}">${c}</div></div></div>`).join("");
         }
 
-        function var_accent_light() { return "#a29bfe"; }
-
-        function renderBarChart(containerId, data, color) {
-            const container = document.getElementById(containerId);
-            if (!data.length) {
-                container.innerHTML = '<div style="color:var(--text-dim);font-size:13px;">No data</div>';
-                return;
-            }
-            const max = Math.max(...data.map(d => d[1]));
-            container.innerHTML = data.map(([label, count]) => {
-                const pct = max > 0 ? (count / max * 100) : 0;
-                return `<div class="bar-row">
-                    <div class="bar-label" title="${label}">${label}</div>
-                    <div class="bar-track">
-                        <div class="bar-fill" style="width:${pct}%;background:${color}">${count}</div>
-                    </div>
-                </div>`;
-            }).join("");
+        // === FILTER DROPDOWNS ===
+        function populateDropdowns() {
+            const roles = [...new Set(allJobs.map(j=>j.role))].sort();
+            const sources = [...new Set(allJobs.map(j=>j.source))].sort();
+            const companies = [...new Set(allJobs.map(j=>j.company))].sort();
+            fillSelect("roleFilter", roles, "All Roles");
+            fillSelect("sourceFilter", sources, "All Sources");
+            fillSelect("companyFilter", companies, "All Companies");
+        }
+        function fillSelect(id, items, defaultLabel) {
+            const sel = document.getElementById(id);
+            sel.innerHTML = `<option value="">${defaultLabel}</option>` +
+                items.map(i=>`<option value="${escHtml(i)}">${escHtml(i)}</option>`).join("");
         }
 
+        // === FILTERING & SORTING ===
         function setFilter(filter, btn) {
             currentFilter = filter;
-            document.querySelectorAll(".filter-btn").forEach(b => b.classList.remove("active"));
+            document.querySelectorAll("#view-roles .filter-btn").forEach(b => b.classList.remove("active"));
             btn.classList.add("active");
             renderJobs();
         }
 
         function getFilteredJobs() {
             const search = document.getElementById("searchInput").value.toLowerCase();
-            const trackedIds = getTrackedIds();
+            const roleF = document.getElementById("roleFilter").value;
+            const sourceF = document.getElementById("sourceFilter").value;
+            const companyF = document.getElementById("companyFilter").value;
             return allJobs.filter(job => {
-                // Tracked filter
-                if (currentFilter === "tracked") {
-                    if (!trackedIds.has(job.id)) return false;
-                }
-                // Region filter
-                else if (currentFilter !== "all") {
-                    if (!job.regions || !job.regions.includes(currentFilter)) return false;
-                }
-                // Search filter
+                if (currentFilter !== "all" && (!job.regions || !job.regions.includes(currentFilter))) return false;
+                if (roleF && job.role !== roleF) return false;
+                if (sourceF && job.source !== sourceF) return false;
+                if (companyF && job.company !== companyF) return false;
                 if (search) {
-                    const haystack = `${job.title} ${job.company} ${job.role} ${job.description} ${job.source}`.toLowerCase();
-                    if (!haystack.includes(search)) return false;
+                    const h = `${job.title} ${job.company} ${job.role} ${job.description} ${job.source}`.toLowerCase();
+                    if (!h.includes(search)) return false;
                 }
                 return true;
             });
         }
 
-        function sortJobs(jobs) {
-            const sort = document.getElementById("sortSelect").value;
+        function sortJobs(jobs, selectId) {
+            const s = document.getElementById(selectId).value;
             const sorted = [...jobs];
-            switch (sort) {
-                case "date-desc": sorted.sort((a, b) => b.date.localeCompare(a.date)); break;
-                case "date-asc": sorted.sort((a, b) => a.date.localeCompare(b.date)); break;
-                case "company-asc": sorted.sort((a, b) => a.company.localeCompare(b.company)); break;
-                case "company-desc": sorted.sort((a, b) => b.company.localeCompare(a.company)); break;
+            switch(s) {
+                case "date-desc": sorted.sort((a,b)=>b.date.localeCompare(a.date)); break;
+                case "date-asc": sorted.sort((a,b)=>a.date.localeCompare(b.date)); break;
+                case "company-asc": sorted.sort((a,b)=>a.company.localeCompare(b.company)); break;
+                case "company-desc": sorted.sort((a,b)=>b.company.localeCompare(a.company)); break;
             }
             return sorted;
         }
 
+        // === RENDER OPEN ROLES ===
         function renderJobs() {
             const container = document.getElementById("jobListings");
-            const filtered = sortJobs(getFilteredJobs());
-
+            const filtered = sortJobs(getFilteredJobs(), "sortSelect");
             if (!filtered.length) {
-                container.innerHTML = `<div class="empty-state">
-                    <h3>No jobs match your filters</h3>
-                    <p>Try adjusting your search or filter criteria</p>
-                </div>`;
+                container.innerHTML = `<div class="empty-state"><h3>No jobs match your filters</h3>
+                    <p>Try adjusting your search or filter criteria. Your Google Alerts may still be gathering results.</p></div>`;
                 return;
             }
-
-            // Group by date
-            const groups = {};
-            filtered.forEach(job => {
-                if (!groups[job.date]) groups[job.date] = [];
-                groups[job.date].push(job);
-            });
-
-            const today = new Date().toISOString().split("T")[0];
-            const yesterday = new Date(Date.now() - 86400000).toISOString().split("T")[0];
-
-            let html = "";
-            for (const [date, jobs] of Object.entries(groups)) {
-                const d = new Date(date + "T00:00:00");
-                const dateStr = d.toLocaleDateString("en-US", {
-                    weekday: "long", month: "long", day: "numeric", year: "numeric"
-                });
-                let label = "";
-                if (date === today) label = `<span class="today-label">Today</span>`;
-                else if (date === yesterday) label = `<span class="today-label" style="background:var(--orange);color:#000">Yesterday</span>`;
-
-                html += `<div class="date-group">
-                    <div class="date-header">
-                        <h2>${dateStr}</h2>
-                        <span class="date-badge">${jobs.length} job${jobs.length !== 1 ? "s" : ""}</span>
-                        ${label}
-                    </div>
-                    <div class="jobs-grid">
-                        ${jobs.map(renderJobCard).join("")}
-                    </div>
-                </div>`;
-            }
-
-            container.innerHTML = html;
+            container.innerHTML = groupByDate(filtered);
         }
 
-        function renderJobCard(job) {
-            const trackedIds = getTrackedIds();
-            const isTracked = trackedIds.has(job.id);
-            const tags = (job.regions || []).map(r => {
-                const cls = r.toLowerCase() === "india" ? "tag-india" :
-                            r.toLowerCase() === "philippines" ? "tag-philippines" :
-                            r.toLowerCase() === "remote" ? "tag-remote" : "tag-unknown";
-                return `<span class="tag ${cls}">${r}</span>`;
-            }).join("");
+        // === RENDER TRACKED ===
+        function renderTrackedJobs() {
+            const container = document.getElementById("trackedListings");
+            const tracked = getTrackedIds();
+            const search = document.getElementById("trackedSearchInput").value.toLowerCase();
+            let jobs = allJobs.filter(j => tracked.has(j.id));
+            if (search) jobs = jobs.filter(j => `${j.title} ${j.company} ${j.role}`.toLowerCase().includes(search));
+            jobs = sortJobs(jobs, "trackedSortSelect");
+            if (!jobs.length) {
+                container.innerHTML = `<div class="empty-state"><h3>No tracked roles yet</h3>
+                    <p>Check the box on any job card in Open Roles to track it here.</p></div>`;
+                return;
+            }
+            container.innerHTML = groupByDate(jobs);
+        }
 
-            return `<div class="job-card${isTracked ? " tracked" : ""}">
+        function renderCurrentView() {
+            if (currentView === "roles") renderJobs();
+            else if (currentView === "tracked") renderTrackedJobs();
+        }
+
+        // === SHARED: Group jobs by date ===
+        function groupByDate(jobs) {
+            const groups = {};
+            jobs.forEach(j => { if (!groups[j.date]) groups[j.date]=[]; groups[j.date].push(j); });
+            const today = new Date().toISOString().split("T")[0];
+            const yesterday = new Date(Date.now()-86400000).toISOString().split("T")[0];
+            let html = "";
+            for (const [date, list] of Object.entries(groups)) {
+                const d = new Date(date+"T00:00:00");
+                const ds = d.toLocaleDateString("en-US",{weekday:"long",month:"long",day:"numeric",year:"numeric"});
+                let lbl = "";
+                if (date===today) lbl=`<span class="today-label">Today</span>`;
+                else if (date===yesterday) lbl=`<span class="today-label" style="background:var(--orange);color:#000">Yesterday</span>`;
+                html += `<div class="date-group"><div class="date-header"><h2>${ds}</h2>
+                    <span class="date-badge">${list.length} job${list.length!==1?"s":""}</span>${lbl}</div>
+                    <div class="jobs-grid">${list.map(renderJobCard).join("")}</div></div>`;
+            }
+            return html;
+        }
+
+        // === JOB CARD ===
+        function renderJobCard(job) {
+            const isTracked = getTrackedIds().has(job.id);
+            const tags = (job.regions||[]).map(r => {
+                const c = r.toLowerCase()==="india"?"tag-india":r.toLowerCase()==="philippines"?"tag-philippines":
+                    r.toLowerCase()==="remote"?"tag-remote":"tag-unknown";
+                return `<span class="tag ${c}">${r}</span>`;
+            }).join("");
+            return `<div class="job-card${isTracked?" tracked":""}">
                 <div class="job-card-header">
                     <div class="job-card-header-left">
                         <input type="checkbox" class="track-checkbox" title="Track this role"
-                            ${isTracked ? "checked" : ""}
+                            ${isTracked?"checked":""}
                             onchange="toggleTrack('${job.id}')" />
                         <span class="job-company">${escHtml(job.company)}</span>
                     </div>
                     <span class="job-source">${escHtml(job.source)}</span>
                 </div>
-                <div class="job-role">
-                    <a href="${escHtml(job.link)}" target="_blank" rel="noopener">${escHtml(job.title)}</a>
-                </div>
+                <div class="job-role"><a href="${escHtml(job.link)}" target="_blank" rel="noopener">${escHtml(job.title)}</a></div>
                 <div class="job-tags">${tags}</div>
-                ${job.description ? `<div class="job-desc">${escHtml(job.description)}</div>` : ""}
+                ${job.description?`<div class="job-desc">${escHtml(job.description)}</div>`:""}
                 <div class="job-footer">
                     <span class="job-date">${escHtml(job.date)}</span>
                     <a class="apply-btn" href="${escHtml(job.link)}" target="_blank" rel="noopener">View Job</a>
@@ -843,19 +957,17 @@
 
         function escHtml(str) {
             if (!str) return "";
-            const div = document.createElement("div");
-            div.textContent = str;
-            return div.innerHTML;
+            const d = document.createElement("div");
+            d.textContent = str;
+            return d.innerHTML;
         }
 
-        // Search debounce
-        let searchTimer;
-        document.getElementById("searchInput").addEventListener("input", () => {
-            clearTimeout(searchTimer);
-            searchTimer = setTimeout(renderJobs, 200);
-        });
+        // === SEARCH DEBOUNCE ===
+        let st;
+        document.getElementById("searchInput").addEventListener("input", ()=>{ clearTimeout(st); st=setTimeout(renderJobs,200); });
+        document.getElementById("trackedSearchInput").addEventListener("input", ()=>{ clearTimeout(st); st=setTimeout(renderTrackedJobs,200); });
 
-        // Init
+        // === INIT ===
         loadData();
     </script>
 </body>
