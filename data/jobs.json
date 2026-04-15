@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-04-15T07:14:54.171033+00:00",
-  "total_jobs": 36,
+  "last_updated": "2026-04-15T17:59:22.060072+00:00",
+  "total_jobs": 49,
   "stats": {
-    "total_companies": 33,
-    "total_roles": 7,
+    "total_companies": 43,
+    "total_roles": 9,
     "regions": {
-      "India": 2,
+      "India": 3,
       "Philippines": 0,
-      "Remote": 4,
-      "Unknown": 30
+      "Remote": 5,
+      "Unknown": 41
     },
     "sources": {
-      "Other": 30,
-      "Greenhouse": 2,
-      "SmartRecruiters": 2,
-      "Workday": 1,
-      "Breezy": 1
+      "Other": 39,
+      "Greenhouse": 4,
+      "Workday": 2,
+      "Breezy": 2,
+      "SmartRecruiters": 2
     },
     "date_range": {
       "earliest": "2026-04-14",
@@ -23,6 +23,186 @@
     }
   },
   "jobs": [
+    {
+      "id": "7eb342dac9c7",
+      "title": "Job Application for Full Stack Software Engineer (Starlink) at SpaceX - Greenhouse",
+      "company": "Spacex",
+      "role": "Software Engineer",
+      "regions": [
+        "Unknown"
+      ],
+      "link": "https://job-boards.greenhouse.io/spacex/jobs/8501225002",
+      "source": "Greenhouse",
+      "description": "Full Stack Software Engineer (Starlink). Palo Alto, CA. Apply. SpaceX was ... As a Full Stack Engineer , you will work closely with a mix of both ...",
+      "date": "2026-04-15",
+      "timestamp": "2026-04-15T13:02:34+00:00",
+      "fetched_at": "2026-04-15T17:59:22.056710+00:00"
+    },
+    {
+      "id": "fde0a0184838",
+      "title": "Senior Data Platform Engineer - - Upstart Careers",
+      "company": "- Upstart Careers",
+      "role": "Platform Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.upstart.com/jobs/senior-data-platform-engineer-245951ac-951d-4bb7-a038-dadc2e1cd0f2",
+      "source": "Other",
+      "description": "Senior Data Platform Engineer \u00b7 Design and build scalable data platform infrastructure, including distributed systems that power data discovery, ...",
+      "date": "2026-04-15",
+      "timestamp": "2026-04-15T12:12:56+00:00",
+      "fetched_at": "2026-04-15T17:59:22.056973+00:00"
+    },
+    {
+      "id": "07895a1a84df",
+      "title": "Senior Platform Engineer - Logo - Myworkdayjobs.com",
+      "company": "Uchicago",
+      "role": "Platform Engineer",
+      "regions": [
+        "Unknown"
+      ],
+      "link": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Senior-Platform-Engineer_JR33301",
+      "source": "Workday",
+      "description": "Senior Platform Engineer ... The Center for Translational Data Science (CTDS) at the University of Chicago is a research center whose mission is to ...",
+      "date": "2026-04-15",
+      "timestamp": "2026-04-15T11:26:43+00:00",
+      "fetched_at": "2026-04-15T17:59:22.057057+00:00"
+    },
+    {
+      "id": "5e5e46a0c9af",
+      "title": "Software engineer at Barclays",
+      "company": "Barclays",
+      "role": "Software Engineer",
+      "regions": [
+        "Unknown"
+      ],
+      "link": "https://search.jobs.barclays/job/pune/software-engineer/13015/93955736896",
+      "source": "Other",
+      "description": "Akshat, Senior Software Engineer , reveals the key factors behind his decision to join Barclays. ... Shweta Desale, a Cloud and DevOps Engineer ...",
+      "date": "2026-04-15",
+      "timestamp": "2026-04-15T11:19:13+00:00",
+      "fetched_at": "2026-04-15T17:59:22.057169+00:00"
+    },
+    {
+      "id": "dc84e87b2029",
+      "title": "Sr Software Engineer in Dallas, Texas, United States of America | Technology at Southwest",
+      "company": "Southwest",
+      "role": "Software Engineer",
+      "regions": [
+        "Unknown"
+      ],
+      "link": "https://careers.southwestair.com/us/en/job/R-2026-67409/Sr-Software-Engineer",
+      "source": "Other",
+      "description": "As a Senior Software Engineer on the Digital Trip Management API Team, you'll design, develop, test, and implement reliable, well\u2011integrated APIs ...",
+      "date": "2026-04-15",
+      "timestamp": "2026-04-15T10:57:21+00:00",
+      "fetched_at": "2026-04-15T17:59:22.057317+00:00"
+    },
+    {
+      "id": "f9145d3f0de5",
+      "title": "Principal/ Senior Software Engineer - Identity Security at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Software Engineer",
+      "regions": [
+        "Unknown"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/principal-senior-software-engineer-identity-security/47263/93979270416",
+      "source": "Other",
+      "description": "Principal/ Senior Software Engineer - Identity Security. Tel Aviv, Tel Aviv, Israel Product Engineering Ref ID: JR-016604. Apply Save ...",
+      "date": "2026-04-15",
+      "timestamp": "2026-04-15T10:39:14+00:00",
+      "fetched_at": "2026-04-15T17:59:22.057501+00:00"
+    },
+    {
+      "id": "b5a07321ea12",
+      "title": "Senior Platform Engineer II \u2013 Server Image Bakery at First American Financial Corporation",
+      "company": "First American Financial Corporation",
+      "role": "Platform Engineer",
+      "regions": [
+        "Unknown"
+      ],
+      "link": "https://careers.firstam.com/job/santa-ana/senior-platform-engineer-ii-server-image-bakery/39054/93960288320",
+      "source": "Other",
+      "description": "For more information, please visit www.careers.firstam.com. What We Do. First American is seeking a Senior Platform Engineer II to help drive the ...",
+      "date": "2026-04-15",
+      "timestamp": "2026-04-15T10:08:32+00:00",
+      "fetched_at": "2026-04-15T17:59:22.057690+00:00"
+    },
+    {
+      "id": "92a959774909",
+      "title": "Data Engineer at Serv Recruitment Agency",
+      "company": "Serv Recruitment Agency",
+      "role": "Data Engineer",
+      "regions": [
+        "Unknown"
+      ],
+      "link": "https://serv-recruitment-agency.breezy.hr/p/6e41eb1c3326-data-engineer",
+      "source": "Breezy",
+      "description": "Data Engineer Join the Team Serv, a global executive recruitment partner, is hiring on behalf of our client Take Profit Trader for a Data Engineer ...",
+      "date": "2026-04-15",
+      "timestamp": "2026-04-15T09:39:32+00:00",
+      "fetched_at": "2026-04-15T17:59:22.057805+00:00"
+    },
+    {
+      "id": "0757de61e016",
+      "title": "Job Application for Data Engineer at BlastPoint - Greenhouse",
+      "company": "Blastpoint",
+      "role": "Data Engineer",
+      "regions": [
+        "Unknown"
+      ],
+      "link": "https://job-boards.greenhouse.io/blastpoint/jobs/5107490007",
+      "source": "Greenhouse",
+      "description": "We're looking for a Data Engineer who can contribute to data pipeline development end-to-end\u2014combining strong Python fundamentals with cloud and data ...",
+      "date": "2026-04-15",
+      "timestamp": "2026-04-15T09:34:51+00:00",
+      "fetched_at": "2026-04-15T17:59:22.057890+00:00"
+    },
+    {
+      "id": "209ada4fd310",
+      "title": "Data Engineer - Ralph Lauren Careers",
+      "company": "Ralph Lauren Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Unknown"
+      ],
+      "link": "https://careers.ralphlauren.com/CareersCorporate/JobDetail?jobId=51004",
+      "source": "Other",
+      "description": "We are looking for a Data Engineer to join our Retail Analytics & Engineering team, focused on modernizing our data ecosystem by migrating legacy ...",
+      "date": "2026-04-15",
+      "timestamp": "2026-04-15T09:12:24+00:00",
+      "fetched_at": "2026-04-15T17:59:22.058024+00:00"
+    },
+    {
+      "id": "aa71357b7283",
+      "title": "What is neuron degeneration? Skyler, a machine learning engineer at Neuralink, shares ...",
+      "company": "Unknown Company",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Unknown"
+      ],
+      "link": "https://x.com/neuralink/status/2044097503155397038",
+      "source": "Other",
+      "description": "Skyler, a machine learning engineer at Neuralink, shares how brain-computer interfaces could bypass neural pathways that are broken due to ALS ...",
+      "date": "2026-04-15",
+      "timestamp": "2026-04-15T08:47:58+00:00",
+      "fetched_at": "2026-04-15T17:59:22.058145+00:00"
+    },
+    {
+      "id": "6cec143aa2e4",
+      "title": "Senior Software Engineer , BigLake Federation - Search for your career at Google.",
+      "company": "Google.",
+      "role": "Software Engineer",
+      "regions": [
+        "Unknown"
+      ],
+      "link": "https://careers.google.com/jobs/results/102250847936619206-senior-software-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer , BigLake Federation. share. linkCopy link; emailEmail a friend. corporate_fareGoogleplaceWarsaw, Poland. bar_chartMid. Mid.",
+      "date": "2026-04-15",
+      "timestamp": "2026-04-15T07:18:18+00:00",
+      "fetched_at": "2026-04-15T17:59:22.058488+00:00"
+    },
     {
       "id": "00c8ea3c2469",
       "title": "Software Engineer Manager, Google Meets Infrastructure",
@@ -52,6 +232,21 @@
       "date": "2026-04-15",
       "timestamp": "2026-04-15T05:10:16+00:00",
       "fetched_at": "2026-04-15T07:14:54.102999+00:00"
+    },
+    {
+      "id": "38c39074200b",
+      "title": "Senior Software Engineer , AI/ML, AI Garage - Search for your career at Google.",
+      "company": "Google.",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.google.com/jobs/results/121552602763535046-senior-software-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer , AI/ML, AI Garage. share. linkCopy link; emailEmail a friend. corporate_fareGoogleplaceHyderabad, Telangana, India. bar_chart ...",
+      "date": "2026-04-15",
+      "timestamp": "2026-04-15T05:07:55+00:00",
+      "fetched_at": "2026-04-15T17:59:22.058626+00:00"
     },
     {
       "id": "56f6a4d570d8",
