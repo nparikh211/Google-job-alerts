@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exordiom - Job Alerts Dashboard</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="navbar-inner">
+            <div class="nav-logo" onclick="switchView('dashboard')">
+                <svg viewBox="0 0 32 32" fill="none"><rect width="32" height="32" rx="8" fill="#6c5ce7"/><text x="16" y="22" text-anchor="middle" font-size="18" font-weight="700" fill="white" font-family="Inter,sans-serif">E</text></svg>
+                <span class="nav-logo-text">exordiom</span>
+            </div>
+            <div class="nav-tabs">
+                <button class="nav-tab active" data-view="dashboard" onclick="switchView('dashboard')">Dashboard</button>
+                <button class="nav-tab" data-view="roles" onclick="switchView('roles')">Open Roles <span class="tab-count" id="tabRolesCount">0</span></button>
+                <button class="nav-tab" data-view="tracked" onclick="switchView('tracked')">Tracked <span class="tab-count" id="tabTrackedCount">0</span></button>
+            </div>
+            <div class="nav-right">
+                <div class="last-updated" id="lastUpdated">Loading...</div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- DASHBOARD -->
+    <div class="view active" id="view-dashboard">
+        <div class="page-header"><div class="page-title">Dashboard</div><div class="page-subtitle">Overview of job alerts for India &amp; Philippines remote roles</div></div>
+        <div class="stats-bar">
+            <div class="stat-card stat-total" onclick="statClick('all')"><div class="stat-number" id="statTotal">0</div><div class="stat-label">Total Jobs</div></div>
+            <div class="stat-card stat-today" onclick="statClick('today')"><div class="stat-number" id="statToday">0</div><div class="stat-label">Today</div></div>
+            <div class="stat-card stat-companies" onclick="statClick('all')"><div class="stat-number" id="statCompanies">0</div><div class="stat-label">Companies</div></div>
+            <div class="stat-card stat-india" onclick="statClick('India')"><div class="stat-number" id="statIndia">0</div><div class="stat-label">India</div></div>
+            <div class="stat-card stat-phil" onclick="statClick('Philippines')"><div class="stat-number" id="statPhil">0</div><div class="stat-label">Philippines</div></div>
+            <div class="stat-card stat-remote" onclick="statClick('Remote')"><div class="stat-number" id="statRemote">0</div><div class="stat-label">Remote</div></div>
+            <div class="stat-card stat-tracked" onclick="switchView('tracked')"><div class="stat-number" id="statTracked">0</div><div class="stat-label">Tracked</div></div>
+        </div>
+        <div class="main">
+            <div class="charts-section">
+                <div class="chart-card"><h3>Top Hiring Companies</h3><div class="bar-chart" id="companyChart"></div></div>
+                <div class="chart-card"><h3>Roles Breakdown</h3><div class="bar-chart" id="roleChart"></div></div>
+                <div class="chart-card"><h3>Job Sources</h3><div class="bar-chart" id="sourceChart"></div></div>
+                <div class="chart-card"><h3>Jobs by Date</h3><div class="bar-chart" id="dateChart"></div></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- OPEN ROLES -->
+    <div class="view" id="view-roles">
+        <div class="page-header"><div class="page-title">Open Roles</div><div class="page-subtitle">All job listings from Google Alerts</div></div>
+        <div class="main" style="padding-top:20px">
+            <div class="controls">
+                <div class="search-box"><input type="text" id="searchInput" placeholder="Search company, role, keyword..." /></div>
+                <button class="filter-btn active" data-filter="all" onclick="setFilter('all',this)">All</button>
+                <button class="filter-btn" data-filter="India" onclick="setFilter('India',this)">India</button>
+                <button class="filter-btn" data-filter="Philippines" onclick="setFilter('Philippines',this)">Philippines</button>
+                <button class="filter-btn" data-filter="Remote" onclick="setFilter('Remote',this)">Remote</button>
+                <select class="filter-select" id="roleFilter" onchange="renderJobs()"><option value="">All Roles</option></select>
+                <select class="filter-select" id="sourceFilter" onchange="renderJobs()"><option value="">All Sources</option></select>
+                <select class="filter-select" id="companyFilter" onchange="renderJobs()"><option value="">All Companies</option></select>
+                <select class="sort-select" id="sortSelect" onchange="renderJobs()">
+                    <option value="date-desc">Newest First</option><option value="date-asc">Oldest First</option>
+                    <option value="company-asc">Company A-Z</option><option value="company-desc">Company Z-A</option>
+                </select>
+            </div>
+            <div id="jobListings"><div class="loading"><div class="spinner"></div><p>Loading...</p></div></div>
+        </div>
+    </div>
+
+    <!-- TRACKED -->
+    <div class="view" id="view-tracked">
+        <div class="page-header"><div class="page-title">Tracked Roles</div><div class="page-subtitle">Jobs you've bookmarked for follow-up</div></div>
+        <div class="main" style="padding-top:20px">
+            <div class="controls">
+                <div class="search-box"><input type="text" id="trackedSearchInput" placeholder="Search tracked roles..." /></div>
+                <select class="sort-select" id="trackedSortSelect" onchange="renderTrackedJobs()">
+                    <option value="date-desc">Newest First</option><option value="date-asc">Oldest First</option>
+                    <option value="company-asc">Company A-Z</option><option value="company-desc">Company Z-A</option>
+                </select>
+            </div>
+            <div id="trackedListings"></div>
+        </div>
+    </div>
+
+    <script>
+    let allJobs=[],currentFilter="all",currentView="dashboard",dashboardData=null;
+
+    function getTrackedIds(){try{return new Set(JSON.parse(localStorage.getItem("trackedJobs")||"[]"))}catch{return new Set()}}
+    function saveTrackedIds(ids){localStorage.setItem("trackedJobs",JSON.stringify([...ids]))}
+    function toggleTrack(id){const ids=getTrackedIds();ids.has(id)?ids.delete(id):ids.add(id);saveTrackedIds(ids);renderCurrentView();updateCounts()}
+
+    function switchView(v){currentView=v;document.querySelectorAll(".view").forEach(e=>e.classList.remove("active"));document.getElementById("view-"+v).classList.add("active");document.querySelectorAll(".nav-tab").forEach(t=>t.classList.remove("active"));document.querySelector(`[data-view="${v}"]`).classList.add("active");if(v==="roles")renderJobs();if(v==="tracked")renderTrackedJobs()}
+    function statClick(f){switchView("roles");currentFilter=f==="today"?"all":f;document.querySelectorAll("#view-roles .filter-btn").forEach(b=>b.classList.toggle("active",b.dataset.filter===(f==="today"?"all":f)));renderJobs()}
+
+    async function loadData(){
+        try{const r=await fetch("data/jobs.json");if(!r.ok)throw 0;dashboardData=await r.json();allJobs=dashboardData.jobs||[];populateDropdowns();renderAll()}
+        catch{document.getElementById("jobListings").innerHTML='<div class="empty-state"><h3>No job data yet</h3><p>Your Google Alerts are new. Jobs will appear once alerts start finding matches.</p></div>';updateCounts()}
+    }
+    function renderAll(){renderStats();renderCharts();renderJobs();updateLastUpdated();updateCounts()}
+    function updateCounts(){const t=getTrackedIds(),c=allJobs.filter(j=>t.has(j.id)).length;document.getElementById("statTracked").textContent=c;document.getElementById("tabRolesCount").textContent=allJobs.length;document.getElementById("tabTrackedCount").textContent=c}
+    function updateLastUpdated(){const el=document.getElementById("lastUpdated");if(dashboardData&&dashboardData.last_updated){const d=new Date(dashboardData.last_updated);el.innerHTML=`Updated: <strong>${d.toLocaleDateString("en-US",{month:"short",day:"numeric",hour:"2-digit",minute:"2-digit"})}</strong>`}}
+
+    function renderStats(){
+        const today=new Date().toISOString().split("T")[0];
+        document.getElementById("statTotal").textContent=allJobs.length;
+        document.getElementById("statToday").textContent=allJobs.filter(j=>j.date===today).length;
+        document.getElementById("statCompanies").textContent=new Set(allJobs.map(j=>j.company)).size;
+        document.getElementById("statIndia").textContent=allJobs.filter(j=>j.regions&&j.regions.includes("India")).length;
+        document.getElementById("statPhil").textContent=allJobs.filter(j=>j.regions&&j.regions.includes("Philippines")).length;
+        document.getElementById("statRemote").textContent=allJobs.filter(j=>j.regions&&j.regions.includes("Remote")).length;
+        updateCounts();
+    }
+
+    function renderCharts(){
+        const cc={},rc={},sc={},dc={};
+        allJobs.forEach(j=>{cc[j.company]=(cc[j.company]||0)+1;rc[j.role]=(rc[j.role]||0)+1;sc[j.source]=(sc[j.source]||0)+1;dc[j.date]=(dc[j.date]||0)+1});
+        barChart("companyChart",Object.entries(cc).sort((a,b)=>b[1]-a[1]).slice(0,8),"#a29bfe");
+        barChart("roleChart",Object.entries(rc).sort((a,b)=>b[1]-a[1]).slice(0,8),"#00cec9");
+        barChart("sourceChart",Object.entries(sc).sort((a,b)=>b[1]-a[1]).slice(0,8),"#fdcb6e");
+        const dates=Object.entries(dc).sort((a,b)=>b[0].localeCompare(a[0])).slice(0,7).reverse().map(([d,c])=>[new Date(d+"T00:00:00").toLocaleDateString("en-US",{month:"short",day:"numeric"}),c]);
+        barChart("dateChart",dates,"#74b9ff");
+    }
+    function barChart(id,data,color){const el=document.getElementById(id);if(!data.length){el.innerHTML='<div style="color:var(--text-dim);font-size:12px;padding:8px">No data yet</div>';return}const mx=Math.max(...data.map(d=>d[1]));el.innerHTML=data.map(([l,c])=>`<div class="bar-row"><div class="bar-label" title="${l}">${l}</div><div class="bar-track"><div class="bar-fill" style="width:${mx>0?c/mx*100:0}%;background:${color}">${c}</div></div></div>`).join("")}
+
+    function populateDropdowns(){
+        const roles=[...new Set(allJobs.map(j=>j.role))].sort(),sources=[...new Set(allJobs.map(j=>j.source))].sort(),companies=[...new Set(allJobs.map(j=>j.company))].sort();
+        fillSel("roleFilter",roles,"All Roles");fillSel("sourceFilter",sources,"All Sources");fillSel("companyFilter",companies,"All Companies");
+    }
+    function fillSel(id,items,def){document.getElementById(id).innerHTML=`<option value="">${def}</option>`+items.map(i=>`<option value="${esc(i)}">${esc(i)}</option>`).join("")}
+
+    function setFilter(f,btn){currentFilter=f;document.querySelectorAll("#view-roles .filter-btn").forEach(b=>b.classList.remove("active"));btn.classList.add("active");renderJobs()}
+
+    function getFilteredJobs(){
+        const s=document.getElementById("searchInput").value.toLowerCase(),rf=document.getElementById("roleFilter").value,sf=document.getElementById("sourceFilter").value,cf=document.getElementById("companyFilter").value;
+        return allJobs.filter(j=>{
+            if(currentFilter!=="all"&&(!j.regions||!j.regions.includes(currentFilter)))return false;
+            if(rf&&j.role!==rf)return false;if(sf&&j.source!==sf)return false;if(cf&&j.company!==cf)return false;
+            if(s){const h=`${j.title} ${j.company} ${j.role} ${j.description} ${j.source}`.toLowerCase();if(!h.includes(s))return false}
+            return true;
+        });
+    }
+    function sortList(jobs,selId){const s=document.getElementById(selId).value,r=[...jobs];switch(s){case"date-desc":r.sort((a,b)=>b.date.localeCompare(a.date));break;case"date-asc":r.sort((a,b)=>a.date.localeCompare(b.date));break;case"company-asc":r.sort((a,b)=>a.company.localeCompare(b.company));break;case"company-desc":r.sort((a,b)=>b.company.localeCompare(a.company));break}return r}
+
+    function renderJobs(){const c=document.getElementById("jobListings"),f=sortList(getFilteredJobs(),"sortSelect");if(!f.length){c.innerHTML='<div class="empty-state"><h3>No jobs match your filters</h3><p>Try adjusting your search or filters. Alerts may still be gathering results.</p></div>';return}c.innerHTML=groupByDate(f)}
+    function renderTrackedJobs(){const c=document.getElementById("trackedListings"),t=getTrackedIds(),s=document.getElementById("trackedSearchInput").value.toLowerCase();let j=allJobs.filter(x=>t.has(x.id));if(s)j=j.filter(x=>`${x.title} ${x.company} ${x.role}`.toLowerCase().includes(s));j=sortList(j,"trackedSortSelect");if(!j.length){c.innerHTML='<div class="empty-state"><h3>No tracked roles</h3><p>Check the box on any job card in Open Roles to track it here.</p></div>';return}c.innerHTML=groupByDate(j)}
+    function renderCurrentView(){if(currentView==="roles")renderJobs();else if(currentView==="tracked")renderTrackedJobs()}
+
+    function groupByDate(jobs){
+        const g={};jobs.forEach(j=>{if(!g[j.date])g[j.date]=[];g[j.date].push(j)});
+        const today=new Date().toISOString().split("T")[0],yest=new Date(Date.now()-864e5).toISOString().split("T")[0];
+        let h="";for(const[date,list]of Object.entries(g)){const d=new Date(date+"T00:00:00"),ds=d.toLocaleDateString("en-US",{weekday:"long",month:"long",day:"numeric",year:"numeric"});
+        let lbl="";if(date===today)lbl='<span class="today-label">Today</span>';else if(date===yest)lbl='<span class="today-label" style="background:var(--orange);color:#000">Yesterday</span>';
+        h+=`<div class="date-group"><div class="date-header"><h2>${ds}</h2><span class="date-badge">${list.length} job${list.length!==1?"s":""}</span>${lbl}</div><div class="jobs-grid">${list.map(jobCard).join("")}</div></div>`}return h;
+    }
+    function jobCard(job){
+        const tracked=getTrackedIds().has(job.id),tags=(job.regions||[]).map(r=>{const c=r.toLowerCase()==="india"?"tag-india":r.toLowerCase()==="philippines"?"tag-philippines":r.toLowerCase()==="remote"?"tag-remote":"tag-unknown";return`<span class="tag ${c}">${r}</span>`}).join("");
+        return`<div class="job-card${tracked?" tracked":""}"><div class="job-card-header"><div class="job-card-header-left"><input type="checkbox" class="track-checkbox" title="Track this role" ${tracked?"checked":""} onchange="toggleTrack('${job.id}')"/><span class="job-company">${esc(job.company)}</span></div><span class="job-source">${esc(job.source)}</span></div><div class="job-role"><a href="${esc(job.link)}" target="_blank" rel="noopener">${esc(job.title)}</a></div><div class="job-tags">${tags}</div>${job.description?`<div class="job-desc">${esc(job.description)}</div>`:""}<div class="job-footer"><span class="job-date">${esc(job.date)}</span><a class="apply-btn" href="${esc(job.link)}" target="_blank" rel="noopener">View Job</a></div></div>`;
+    }
+    function esc(s){if(!s)return"";const d=document.createElement("div");d.textContent=s;return d.innerHTML}
+
+    let st;
+    document.getElementById("searchInput").addEventListener("input",()=>{clearTimeout(st);st=setTimeout(renderJobs,200)});
+    document.getElementById("trackedSearchInput").addEventListener("input",()=>{clearTimeout(st);st=setTimeout(renderTrackedJobs,200)});
+
+    loadData();
+    </script>
+</body>
+</html>
