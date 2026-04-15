@@ -2,9 +2,8 @@ name: Fetch Google Job Alerts
 
 on:
   schedule:
-    # Run daily at 6 AM UTC
-    - cron: '0 6 * * *'
-  workflow_dispatch: # Allow manual trigger
+    - cron: '0 */4 * * *'  # Every 4 hours
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -12,7 +11,6 @@ permissions:
 jobs:
   fetch-jobs:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -37,6 +35,27 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "chore: update job alerts data $(date -u +%Y-%m-%d)"
+            git commit -m "chore: update job alerts data $(date -u +%Y-%m-%d-%H%M)"
             git push
           fi
+
+  deploy:
+    needs: fetch-jobs
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Pull latest
+        run: git pull origin main
+
+      - name: Deploy to gh-pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: .
+          publish_branch: gh-pages
