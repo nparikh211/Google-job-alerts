@@ -126,6 +126,9 @@
         .stat-total .stat-number { color: var(--green); }
         .stat-companies .stat-number { color: var(--accent-light); }
         .stat-today .stat-number { color: var(--orange); }
+        .stat-tracked .stat-number { color: var(--blue); }
+        .stat-tracked { cursor: pointer; }
+        .stat-tracked:hover { border-color: var(--blue); }
 
         /* Main Content */
         .main {
@@ -245,17 +248,57 @@
             display: flex;
             flex-direction: column;
             gap: 10px;
+            position: relative;
         }
         .job-card:hover {
             transform: translateY(-2px);
             border-color: var(--accent);
             box-shadow: 0 4px 20px rgba(108, 92, 231, 0.15);
         }
+        .job-card.tracked {
+            border-color: var(--blue);
+            background: linear-gradient(135deg, var(--surface) 0%, rgba(116, 185, 255, 0.05) 100%);
+        }
+        .track-checkbox {
+            appearance: none;
+            -webkit-appearance: none;
+            width: 20px;
+            height: 20px;
+            border: 2px solid var(--border);
+            border-radius: 4px;
+            cursor: pointer;
+            flex-shrink: 0;
+            position: relative;
+            transition: all 0.2s;
+            background: var(--surface2);
+        }
+        .track-checkbox:hover {
+            border-color: var(--blue);
+        }
+        .track-checkbox:checked {
+            background: var(--blue);
+            border-color: var(--blue);
+        }
+        .track-checkbox:checked::after {
+            content: "\2713";
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            color: white;
+            font-size: 13px;
+            font-weight: 700;
+        }
         .job-card-header {
             display: flex;
             justify-content: space-between;
             align-items: flex-start;
             gap: 10px;
+        }
+        .job-card-header-left {
+            display: flex;
+            align-items: center;
+            gap: 8px;
         }
         .job-company {
             font-size: 13px;
@@ -487,6 +530,10 @@
             <div class="stat-number" id="statRemote">-</div>
             <div class="stat-label">Remote</div>
         </div>
+        <div class="stat-card stat-tracked" onclick="setFilter('tracked', document.querySelector('[data-filter=tracked]'))">
+            <div class="stat-number" id="statTracked">-</div>
+            <div class="stat-label">Tracked</div>
+        </div>
     </div>
 
     <!-- Main Content -->
@@ -520,6 +567,7 @@
             <button class="filter-btn" data-filter="India" onclick="setFilter('India', this)">India</button>
             <button class="filter-btn" data-filter="Philippines" onclick="setFilter('Philippines', this)">Philippines</button>
             <button class="filter-btn" data-filter="Remote" onclick="setFilter('Remote', this)">Remote</button>
+            <button class="filter-btn" data-filter="tracked" onclick="setFilter('tracked', this)">Tracked</button>
             <select class="sort-select" id="sortSelect" onchange="renderJobs()">
                 <option value="date-desc">Newest First</option>
                 <option value="date-asc">Oldest First</option>
@@ -541,6 +589,28 @@
         let allJobs = [];
         let currentFilter = "all";
         let dashboardData = null;
+
+        // Tracked jobs - persisted in localStorage
+        function getTrackedIds() {
+            try {
+                return new Set(JSON.parse(localStorage.getItem("trackedJobs") || "[]"));
+            } catch { return new Set(); }
+        }
+        function saveTrackedIds(ids) {
+            localStorage.setItem("trackedJobs", JSON.stringify([...ids]));
+        }
+        function toggleTrack(jobId) {
+            const ids = getTrackedIds();
+            if (ids.has(jobId)) { ids.delete(jobId); } else { ids.add(jobId); }
+            saveTrackedIds(ids);
+            renderJobs();
+            updateTrackedStat();
+        }
+        function updateTrackedStat() {
+            const ids = getTrackedIds();
+            const count = allJobs.filter(j => ids.has(j.id)).length;
+            document.getElementById("statTracked").textContent = count;
+        }
 
         // Load data
         async function loadData() {
@@ -591,6 +661,7 @@
             document.getElementById("statIndia").textContent = indiaJobs;
             document.getElementById("statPhil").textContent = philJobs;
             document.getElementById("statRemote").textContent = remoteJobs;
+            updateTrackedStat();
         }
 
         function renderCharts() {
@@ -660,9 +731,14 @@
 
         function getFilteredJobs() {
             const search = document.getElementById("searchInput").value.toLowerCase();
+            const trackedIds = getTrackedIds();
             return allJobs.filter(job => {
+                // Tracked filter
+                if (currentFilter === "tracked") {
+                    if (!trackedIds.has(job.id)) return false;
+                }
                 // Region filter
-                if (currentFilter !== "all") {
+                else if (currentFilter !== "all") {
                     if (!job.regions || !job.regions.includes(currentFilter)) return false;
                 }
                 // Search filter
@@ -734,6 +810,8 @@
         }
 
         function renderJobCard(job) {
+            const trackedIds = getTrackedIds();
+            const isTracked = trackedIds.has(job.id);
             const tags = (job.regions || []).map(r => {
                 const cls = r.toLowerCase() === "india" ? "tag-india" :
                             r.toLowerCase() === "philippines" ? "tag-philippines" :
@@ -741,9 +819,14 @@
                 return `<span class="tag ${cls}">${r}</span>`;
             }).join("");
 
-            return `<div class="job-card">
+            return `<div class="job-card${isTracked ? " tracked" : ""}">
                 <div class="job-card-header">
-                    <span class="job-company">${escHtml(job.company)}</span>
+                    <div class="job-card-header-left">
+                        <input type="checkbox" class="track-checkbox" title="Track this role"
+                            ${isTracked ? "checked" : ""}
+                            onchange="toggleTrack('${job.id}')" />
+                        <span class="job-company">${escHtml(job.company)}</span>
+                    </div>
                     <span class="job-source">${escHtml(job.source)}</span>
                 </div>
                 <div class="job-role">
