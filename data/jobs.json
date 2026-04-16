@@ -1,28 +1,270 @@
 {
-  "last_updated": "2026-04-16T12:56:33.988809+00:00",
-  "total_jobs": 49,
+  "last_updated": "2026-04-16T17:00:37.422016+00:00",
+  "total_jobs": 65,
   "stats": {
-    "total_companies": 43,
-    "total_roles": 9,
+    "total_companies": 57,
+    "total_roles": 12,
     "regions": {
-      "India": 3,
+      "India": 5,
       "Philippines": 0,
       "Remote": 5,
-      "Unknown": 41
+      "Unknown": 55
     },
     "sources": {
-      "Other": 39,
+      "Other": 52,
       "Greenhouse": 4,
+      "Breezy": 3,
       "Workday": 2,
-      "Breezy": 2,
-      "SmartRecruiters": 2
+      "SmartRecruiters": 2,
+      "Ashby": 1,
+      "LinkedIn": 1
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-04-15"
+      "latest": "2026-04-16"
     }
   },
   "jobs": [
+    {
+      "id": "4bf6d53713df",
+      "title": "Machine Learning Engineer , Driver Understanding and Evaluation - Waymo Careers",
+      "company": "Waymo Careers",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Unknown"
+      ],
+      "link": "https://careers.withwaymo.com/jobs/machine-learning-engineer-driver-understanding-and-evaluation-mountain-view-california-united-states",
+      "source": "Other",
+      "description": "Machine Learning Engineer , Driver Understanding and Evaluation. Mountain View, California, United States Full-Time Software Engineering 4322. Apply ...",
+      "date": "2026-04-16",
+      "timestamp": "2026-04-16T13:37:13+00:00",
+      "fetched_at": "2026-04-16T17:00:37.417801+00:00"
+    },
+    {
+      "id": "74513abb2095",
+      "title": "Associate Data Engineer Job Details - Cargill Jobs",
+      "company": "Cargill Jobs",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.cargill.com/job/Bangalore-Associate-Data-Engineer-Karn-560087/1358083057/",
+      "source": "Other",
+      "description": "Title: Associate Data Engineer \u00b7 Job Requisition ID: 323610 \u00b7 Location: Bangalore, Karnataka, IN India, 560087 \u00b7 Category: Data \u00b7 Description: Job Purpose ...",
+      "date": "2026-04-16",
+      "timestamp": "2026-04-16T12:59:21+00:00",
+      "fetched_at": "2026-04-16T17:00:37.418036+00:00"
+    },
+    {
+      "id": "2890eef19bf9",
+      "title": "India, Jr. Software Platform Engineer - 16818 - MetLife Careers",
+      "company": "16818 - MetLife Careers",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.metlifecareers.com/en_US/ml/JobDetail/Jr-Software-Platform-Engineer-Oracle-HCM-Techno-Functional-Consultant/16818",
+      "source": "Other",
+      "description": "Software Platform Engineer . General Information. Primary Location. Hyderabad, Telangana. Country. India. Working Schedule. Full-Time. Work Arrangement.",
+      "date": "2026-04-16",
+      "timestamp": "2026-04-16T12:41:47+00:00",
+      "fetched_at": "2026-04-16T17:00:37.418302+00:00"
+    },
+    {
+      "id": "0a0abd688064",
+      "title": "Software Engineer - Front End - TeamViewer Germany GmbH",
+      "company": "Front End - TeamViewer Germany GmbH",
+      "role": "Software Engineer",
+      "regions": [
+        "Unknown"
+      ],
+      "link": "https://careers.teamviewer.com/jobs/7569868-software-engineer-front-end",
+      "source": "Other",
+      "description": "We are seeking a highly skilled Front-End Software Engineer with strong expertise in React and MUI Base to build modern, accessible, ...",
+      "date": "2026-04-16",
+      "timestamp": "2026-04-16T12:07:59+00:00",
+      "fetched_at": "2026-04-16T17:00:37.418649+00:00"
+    },
+    {
+      "id": "15d0d472e7e3",
+      "title": "Software Engineer II, Data Services in Los Angeles, California | FOX Careers",
+      "company": "FOX Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Unknown"
+      ],
+      "link": "https://www.foxcareers.com/Search/JobDetail/R50032264/software-engineer-ii-data-services-fox-corporation",
+      "source": "Other",
+      "description": "View the job requirements for the Software Engineer II, Data Services opening in Los Angeles, California |Apply Now at FOX Careers.",
+      "date": "2026-04-16",
+      "timestamp": "2026-04-16T09:39:13+00:00",
+      "fetched_at": "2026-04-16T17:00:37.419037+00:00"
+    },
+    {
+      "id": "2c2154045279",
+      "title": "Google: Interview for AI/ ML engineer role : r/learnmachinelearning - Reddit",
+      "company": "Reddit",
+      "role": "ML Engineer",
+      "regions": [
+        "Unknown"
+      ],
+      "link": "https://www.reddit.com/r/learnmachinelearning/comments/1smr30c/google_interview_for_aiml_engineer_role/",
+      "source": "Other",
+      "description": "Google: Interview for AI/ ML engineer role. Help. Hey everyone,. I just got the move-forward email for a Senior Software Engineer , AI/ML role at Google ...",
+      "date": "2026-04-16",
+      "timestamp": "2026-04-16T08:43:42+00:00",
+      "fetched_at": "2026-04-16T17:00:37.419227+00:00"
+    },
+    {
+      "id": "c96cf09bc761",
+      "title": "Full Stack Software Engineer - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "Unknown"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200658198-0157/full-stack-software-engineer",
+      "source": "Other",
+      "description": "Apply for a Full Stack Software Engineer job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-04-16",
+      "timestamp": "2026-04-16T08:19:39+00:00",
+      "fetched_at": "2026-04-16T17:00:37.419506+00:00"
+    },
+    {
+      "id": "0f24126be2d6",
+      "title": "Senior Full-Stack Engineer at Accrete",
+      "company": "Accrete Ai",
+      "role": "Stack Engineer",
+      "regions": [
+        "Unknown"
+      ],
+      "link": "https://accrete-ai.breezy.hr/p/405bf096c9a4-senior-full-stack-engineer?",
+      "source": "Breezy",
+      "description": "We are seeking a Senior Full-Stack Engineer to join our AI Platform team. This team is responsible for building the core infrastructure, tools, and ...",
+      "date": "2026-04-16",
+      "timestamp": "2026-04-16T07:22:44+00:00",
+      "fetched_at": "2026-04-16T17:00:37.420075+00:00"
+    },
+    {
+      "id": "9bba4f61712c",
+      "title": "Software Engineer , Infrastructure, Consumer Devices - OpenAI",
+      "company": "OpenAI",
+      "role": "Software Engineer",
+      "regions": [
+        "Unknown"
+      ],
+      "link": "https://openai.com/careers/software-engineer-infrastructure-consumer-devices-san-francisco/",
+      "source": "Other",
+      "description": "Software Engineer , Infrastructure, Consumer Devices \u00b7 Design and build scalable, reliable, and secure infrastructure platforms that power OpenAI ...",
+      "date": "2026-04-16",
+      "timestamp": "2026-04-16T05:07:02+00:00",
+      "fetched_at": "2026-04-16T17:00:37.420300+00:00"
+    },
+    {
+      "id": "6d4009769ef2",
+      "title": "Software Engineer (GenAI Evaluations), AI & Data Platforms (AiDP) - Jobs",
+      "company": "Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "Unknown"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200585184-0157/software-engineer-genai-evaluations-ai-data-platforms-aidp?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Software Engineer (GenAI Evaluations), AI & Data Platforms (AiDP) job at Apple. Read about the role and find out if it's right for ...",
+      "date": "2026-04-16",
+      "timestamp": "2026-04-16T04:17:57+00:00",
+      "fetched_at": "2026-04-16T17:00:37.420526+00:00"
+    },
+    {
+      "id": "9111e0306881",
+      "title": "Full Stack Engineer at UnitedHealth Group",
+      "company": "UnitedHealth Group",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Unknown"
+      ],
+      "link": "https://careers.unitedhealthgroup.com/job/gurgaon/full-stack-engineer/34088/94000260976",
+      "source": "Other",
+      "description": "Full Stack Engineer . Apply Job ID 2349825 ... Here at Optum, our Product Engineering team is looking for an exceptional Senior Software Engineer ...",
+      "date": "2026-04-16",
+      "timestamp": "2026-04-16T03:50:05+00:00",
+      "fetched_at": "2026-04-16T17:00:37.420803+00:00"
+    },
+    {
+      "id": "7784bdfa8d1a",
+      "title": "Software Engineer - Platform @ C1 - Jobs",
+      "company": "C1",
+      "role": "Software Engineer",
+      "regions": [
+        "Unknown"
+      ],
+      "link": "https://jobs.ashbyhq.com/c1/f8a5bde1-0127-494d-a992-d71330675fb3",
+      "source": "Ashby",
+      "description": "Software Engineer - Platform. Location. Portland Office. Employment Type. Full time. Location Type. Hybrid. Department. Engineering. Overview ...",
+      "date": "2026-04-16",
+      "timestamp": "2026-04-16T03:48:35+00:00",
+      "fetched_at": "2026-04-16T17:00:37.420899+00:00"
+    },
+    {
+      "id": "529ddd274154",
+      "title": "Software Engineer , Borrower Experience - - Upstart Careers",
+      "company": "- Upstart Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Unknown"
+      ],
+      "link": "https://careers.upstart.com/jobs/software-engineer-borrower-experience",
+      "source": "Other",
+      "description": "Software Engineer , Borrower Experience. Software Engineer ... Apply now! Similar Jobs. Finance Template \u00b7 Senior Software Engineer , Upstart Bank ...",
+      "date": "2026-04-16",
+      "timestamp": "2026-04-16T03:46:26+00:00",
+      "fetched_at": "2026-04-16T17:00:37.421054+00:00"
+    },
+    {
+      "id": "f9eb3b2739b0",
+      "title": "Software Engineer - Expedient - Career Page",
+      "company": "Expedient - Career Page",
+      "role": "Software Engineer",
+      "regions": [
+        "Unknown"
+      ],
+      "link": "https://careers.expedient.com/apply/A6Ve2vmG23/Software-Engineer",
+      "source": "Other",
+      "description": "Expedient is seeking a Software Engineer to join our Information Systems Team. This person will work across our full application portfolio, ...",
+      "date": "2026-04-16",
+      "timestamp": "2026-04-16T03:16:46+00:00",
+      "fetched_at": "2026-04-16T17:00:37.421188+00:00"
+    },
+    {
+      "id": "4ed755d9b142",
+      "title": "Heizen (2025 & 2026 Batch) Heizen is hiring engineers who don't just code \u2014 they build ... - LinkedIn",
+      "company": "LinkedIn",
+      "role": "hiring engineer",
+      "regions": [
+        "Unknown"
+      ],
+      "link": "https://www.linkedin.com/posts/dhruvdabhi101_software-engineer-hiring-drive-heizen-activity-7450209819678060544-99dM",
+      "source": "LinkedIn",
+      "description": "Software Engineer Hiring Drive \u2013 Heizen ( ... Senior Software Engineer @Heizen | Tech Enthusiast | Full Stack Engineer | React Native Developer.",
+      "date": "2026-04-16",
+      "timestamp": "2026-04-16T03:13:16+00:00",
+      "fetched_at": "2026-04-16T17:00:37.421522+00:00"
+    },
+    {
+      "id": "6411e894688e",
+      "title": "Cloud Engineer - Cisco Careers",
+      "company": "Cisco Careers",
+      "role": "Cloud Engineer",
+      "regions": [
+        "Unknown"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/2012429/Cloud-Engineer",
+      "source": "Other",
+      "description": "Kubernetes Platform Engineer \u2013 Control Plane & AI Infrastructure (hybrid) - 2010276 ... Lead Site Reliability Engineer (GCP & Hybrid Cloud) Hybrid.",
+      "date": "2026-04-16",
+      "timestamp": "2026-04-16T03:06:23+00:00",
+      "fetched_at": "2026-04-16T17:00:37.421654+00:00"
+    },
     {
       "id": "7eb342dac9c7",
       "title": "Job Application for Full Stack Software Engineer (Starlink) at SpaceX - Greenhouse",
