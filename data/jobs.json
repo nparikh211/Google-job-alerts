@@ -1,23 +1,24 @@
 {
-  "last_updated": "2026-04-17T12:46:46.018518+00:00",
-  "total_jobs": 83,
+  "last_updated": "2026-04-17T16:40:00.209440+00:00",
+  "total_jobs": 101,
   "stats": {
-    "total_companies": 69,
-    "total_roles": 14,
+    "total_companies": 85,
+    "total_roles": 15,
     "regions": {
-      "India": 5,
+      "India": 7,
       "Philippines": 0,
-      "Remote": 6,
-      "Unknown": 72
+      "Remote": 10,
+      "Unknown": 84
     },
     "sources": {
-      "Other": 66,
-      "Greenhouse": 4,
-      "Ashby": 3,
+      "Other": 78,
+      "Greenhouse": 6,
+      "Ashby": 5,
+      "LinkedIn": 3,
       "Workday": 3,
       "Breezy": 3,
-      "LinkedIn": 2,
-      "SmartRecruiters": 2
+      "SmartRecruiters": 2,
+      "Lever": 1
     },
     "date_range": {
       "earliest": "2026-04-14",
@@ -25,6 +26,276 @@
     }
   },
   "jobs": [
+    {
+      "id": "a359663e7aaa",
+      "title": "Data Engineer III - JPMC Candidate Experience page Careers",
+      "company": "JPMC Candidate Experience page Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Unknown"
+      ],
+      "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210736552",
+      "source": "Other",
+      "description": "Data Engineer III. Jersey City, NJ, United States. Apply Now. Job ... AWS Software Engineer III - Python/Data Pipeline. Jersey City, NJ ...",
+      "date": "2026-04-17",
+      "timestamp": "2026-04-17T15:11:54+00:00",
+      "fetched_at": "2026-04-17T16:40:00.205722+00:00"
+    },
+    {
+      "id": "0624a1ebf70b",
+      "title": "Software Engineer Integration & Test - Lockheed Martin Careers",
+      "company": "Lockheed Martin Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Unknown"
+      ],
+      "link": "https://www.lockheedmartinjobs.com/job/herndon/software-engineer-integration-and-test/694/94040860528",
+      "source": "Other",
+      "description": "Learn more about applying for Software Engineer Integration & Test at Lockheed Martin Corporation.",
+      "date": "2026-04-17",
+      "timestamp": "2026-04-17T15:08:09+00:00",
+      "fetched_at": "2026-04-17T16:40:00.205950+00:00"
+    },
+    {
+      "id": "3dd5456979eb",
+      "title": "Foodsmart - Senior Data Engineer - Lever",
+      "company": "Foodsmart",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.lever.co/foodsmart/24ff9250-2abf-46a4-aae5-59bcc0667645/apply",
+      "source": "Lever",
+      "description": "Senior Data Engineer . Remote (US). Engineering /. Full-Time /. Remote. Submit your application. LinkedIn profile. Loading... Apply with LinkedIn.",
+      "date": "2026-04-17",
+      "timestamp": "2026-04-17T14:45:09+00:00",
+      "fetched_at": "2026-04-17T16:40:00.206056+00:00"
+    },
+    {
+      "id": "6e34c297d7e0",
+      "title": "Full-Stack Engineer @ Cognition - Jobs",
+      "company": "Cognition",
+      "role": "Stack Engineer",
+      "regions": [
+        "Unknown"
+      ],
+      "link": "https://jobs.ashbyhq.com/cognition/20f8d655-da65-413e-88e6-5b1d81377717",
+      "source": "Ashby",
+      "description": "Full-Stack Engineer . Location. San Francisco Bay Area; New ... We are behind Devin, the first AI software engineer , and Windsurf, an AI-native IDE.",
+      "date": "2026-04-17",
+      "timestamp": "2026-04-17T14:29:06+00:00",
+      "fetched_at": "2026-04-17T16:40:00.206174+00:00"
+    },
+    {
+      "id": "8a086d005f9d",
+      "title": "Azure DevOps Engineer - Jobs",
+      "company": "Jobs",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.miba.com/Job/6303/Azure-DevOps-Engineer",
+      "source": "Other",
+      "description": "Azure DevOps Engineer . Pune. Fulltime. Work experience. More about Miba. Your common path with Miba. Apply online! What you can expect. Must have.",
+      "date": "2026-04-17",
+      "timestamp": "2026-04-17T14:28:25+00:00",
+      "fetched_at": "2026-04-17T16:40:00.206327+00:00"
+    },
+    {
+      "id": "ee6b788f3c56",
+      "title": "Software Engineer Job Details | Knorr-Bremse",
+      "company": "Knorr-Bremse",
+      "role": "Software Engineer",
+      "regions": [
+        "Unknown"
+      ],
+      "link": "https://careers.knorr-bremse.com/job/Irving-Software-Engineer-TX-75039/1384712633/",
+      "source": "Other",
+      "description": "Software Engineer . LOCATION: Irving / Texas (US-TX), United States | BRAND: Knorr Brake Company | REQUISITION ID: 10084 | JOB GRADE:15 | ON-SITE ...",
+      "date": "2026-04-17",
+      "timestamp": "2026-04-17T14:15:17+00:00",
+      "fetched_at": "2026-04-17T16:40:00.206528+00:00"
+    },
+    {
+      "id": "2e9463f088cd",
+      "title": "Software Engineer | One Acre Fund",
+      "company": "One Acre Fund",
+      "role": "Software Engineer",
+      "regions": [
+        "Unknown"
+      ],
+      "link": "https://oneacrefund.org/vacancies/software-engineer",
+      "source": "Other",
+      "description": "Software Engineer . Vacancy. Share. Share. Vacancy. Share. Share. Join One Acre Fund's Retail & Sales Team to build and scale mission-critical Sales ...",
+      "date": "2026-04-17",
+      "timestamp": "2026-04-17T13:54:40+00:00",
+      "fetched_at": "2026-04-17T16:40:00.206670+00:00"
+    },
+    {
+      "id": "5f0cc01f2863",
+      "title": "Sr. Software Engineer (Design Engineering) @ Benepass - Jobs",
+      "company": "Benepass",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.ashbyhq.com/benepass/cb6b9cb8-efa5-4325-84ba-7d78cc3b15c5",
+      "source": "Ashby",
+      "description": "... FRONTEND ENGINEER - 5+ years of frontend experience with deep knowledge ... Sr. Software Engineer (Design Engineering). Location. U.S Remote ...",
+      "date": "2026-04-17",
+      "timestamp": "2026-04-17T13:48:55+00:00",
+      "fetched_at": "2026-04-17T16:40:00.206774+00:00"
+    },
+    {
+      "id": "6058e7949655",
+      "title": "Job Application for Software Engineer at J&J Snack Foods - Greenhouse",
+      "company": "Jjsnackfoods",
+      "role": "Software Engineer",
+      "regions": [
+        "Unknown"
+      ],
+      "link": "https://job-boards.greenhouse.io/jjsnackfoods/jobs/5182020008",
+      "source": "Greenhouse",
+      "description": "POSITION SUMMARY: Under the supervision of the Software Engineering Manager, the Software Engineer is responsible for the development, support, and ...",
+      "date": "2026-04-17",
+      "timestamp": "2026-04-17T13:16:38+00:00",
+      "fetched_at": "2026-04-17T16:40:00.206885+00:00"
+    },
+    {
+      "id": "4e81c404d4e1",
+      "title": "I see two camps right now: 1. People saying coding is dead 2. Engineers saying\u2026 | Cam Trew",
+      "company": "Cam Trew",
+      "role": "I see two camps right now: 1. People saying coding is dead 2",
+      "regions": [
+        "Unknown"
+      ],
+      "link": "https://www.linkedin.com/posts/camerontrew_someone-studying-to-become-a-software-engineer-activity-7450890059563757568-mbO0",
+      "source": "LinkedIn",
+      "description": "Someone studying to become a Software Engineer at university asked me if he should quit. And this got me thinking: I see two camps right now: 1.",
+      "date": "2026-04-17",
+      "timestamp": "2026-04-17T13:15:20+00:00",
+      "fetched_at": "2026-04-17T16:40:00.207288+00:00"
+    },
+    {
+      "id": "8b1f3d45a8c6",
+      "title": "Salesforce CRM Software Engineer Senior- (Veterans Encouraged to Apply) at USAA",
+      "company": "USAA",
+      "role": "Software Engineer",
+      "regions": [
+        "Unknown"
+      ],
+      "link": "https://www.usaajobs.com/job/san-antonio/salesforce-crm-software-engineer-senior-veterans-encouraged-to-apply/1207/94025852256",
+      "source": "Other",
+      "description": "Learn more about and apply for the Salesforce CRM Software Engineer Senior- (Veterans Encouraged to Apply) job at USAA here.",
+      "date": "2026-04-17",
+      "timestamp": "2026-04-17T12:55:46+00:00",
+      "fetched_at": "2026-04-17T16:40:00.207520+00:00"
+    },
+    {
+      "id": "47e150e93ac9",
+      "title": "Job Application for Senior Software Engineer , Cloud Platform at Signifyd - Greenhouse",
+      "company": "Signifyd95",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/signifyd95/jobs/7811547",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer , Cloud Platform. United States (Remote);. Apply. At Signifyd, we help merchants confidently grow their businesses by ...",
+      "date": "2026-04-17",
+      "timestamp": "2026-04-17T12:54:42+00:00",
+      "fetched_at": "2026-04-17T16:40:00.207616+00:00"
+    },
+    {
+      "id": "3dbfec795866",
+      "title": "Senior Platform Data Engineer Job in Danville at Geisinger",
+      "company": "Geisinger",
+      "role": "Data Engineer",
+      "regions": [
+        "Unknown"
+      ],
+      "link": "https://jobs.geisinger.org/job/danville/senior-platform-data-engineer/12064/94031795616",
+      "source": "Other",
+      "description": "Job Summary. The Senior Platform Data Engineer owns roadmap, priorities, platform standards, and architecture reviews; provides formal input on ...",
+      "date": "2026-04-17",
+      "timestamp": "2026-04-17T12:30:29+00:00",
+      "fetched_at": "2026-04-17T16:40:00.207946+00:00"
+    },
+    {
+      "id": "867ca10b5153",
+      "title": "Senior Software Engineer - C++, Embedded, Chromium - Bengaluru, Karnataka, India - Roku Jobs",
+      "company": "C++, Embedded, Chromium - Bengaluru, Karnataka, India - Roku Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.weareroku.com/jobs/senior-software-engineer-c-embedded-chromium-bengaluru-karnataka-india",
+      "source": "Other",
+      "description": "Senior Software Engineer - C++, Embedded, Chromium. Software Engineering | Bengaluru, India | ID: 8751. Apply View more jobs. Senior Software ...",
+      "date": "2026-04-17",
+      "timestamp": "2026-04-17T11:53:11+00:00",
+      "fetched_at": "2026-04-17T16:40:00.208225+00:00"
+    },
+    {
+      "id": "5a72016c3be8",
+      "title": "Lead Software Engineer - Appian Careers",
+      "company": "Appian Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Unknown"
+      ],
+      "link": "https://careers.appian.com/jobs/7812187-lead-software-engineer?gh_src=a046ea921us",
+      "source": "Other",
+      "description": "Lead Software Engineer . April 16, 2026. Apply Now. Experienced Hire Engineering McLean, Virginia. Here at Appian, our values of Intensity and ...",
+      "date": "2026-04-17",
+      "timestamp": "2026-04-17T11:24:13+00:00",
+      "fetched_at": "2026-04-17T16:40:00.208558+00:00"
+    },
+    {
+      "id": "08422bd299a3",
+      "title": "Senior Full Stack Engineer , Westlake, TX / Durham, NC | Fidelity Careers",
+      "company": "Fidelity Careers",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Unknown"
+      ],
+      "link": "https://jobs.fidelity.com/en/jobs/2126080/senior-full-stack-engineer/",
+      "source": "Other",
+      "description": "Job Description: Senior Software Engineer Job Description The Role ... Full Stack Engineer to join our dynamic team. As a key member of a ...",
+      "date": "2026-04-17",
+      "timestamp": "2026-04-17T08:16:30+00:00",
+      "fetched_at": "2026-04-17T16:40:00.208712+00:00"
+    },
+    {
+      "id": "882469a0d1b7",
+      "title": "Software Engineer , Full Stack, Spectacles Cloud, Level 4 - Snap Inc. Careers",
+      "company": "Snap Inc. Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Unknown"
+      ],
+      "link": "https://careers.snap.com/job?id=R0043263&lang=kn-IN",
+      "source": "Other",
+      "description": "... Software Engineer to join the Spectacles team at Snap Inc! What you'll do: Design, implement, and operate features across Spectacles device and ...",
+      "date": "2026-04-17",
+      "timestamp": "2026-04-17T06:08:53+00:00",
+      "fetched_at": "2026-04-17T16:40:00.208857+00:00"
+    },
+    {
+      "id": "aea4d37f4add",
+      "title": "Data Engineer in Remote, Nationwide | Technology and Digital Analytics at Humana",
+      "company": "Humana",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.humana.com/us/en/job/R-410931/Data-Engineer",
+      "source": "Other",
+      "description": "You will report to the Lead Data Engineer . \u00b7 You will ingest data from internal and external sources using cloud-native platforms and applies industry ...",
+      "date": "2026-04-17",
+      "timestamp": "2026-04-17T05:16:05+00:00",
+      "fetched_at": "2026-04-17T16:40:00.208974+00:00"
+    },
     {
       "id": "0a6e924101fe",
       "title": "Software Engineer 1 - Fullstack at Intuit",
