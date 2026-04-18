@@ -1,31 +1,303 @@
 {
-  "last_updated": "2026-04-18T05:27:33.908528+00:00",
-  "total_jobs": 101,
+  "last_updated": "2026-04-18T08:33:55.576856+00:00",
+  "total_jobs": 119,
   "stats": {
-    "total_companies": 85,
+    "total_companies": 98,
     "total_roles": 15,
     "regions": {
-      "India": 7,
+      "India": 9,
       "Philippines": 0,
-      "Remote": 10,
-      "Unknown": 84
+      "Remote": 16,
+      "Unknown": 94
     },
     "sources": {
-      "Other": 78,
+      "Other": 93,
+      "Ashby": 6,
       "Greenhouse": 6,
-      "Ashby": 5,
       "LinkedIn": 3,
       "Workday": 3,
       "Breezy": 3,
       "SmartRecruiters": 2,
+      "Workable": 1,
+      "iCIMS": 1,
       "Lever": 1
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-04-17"
+      "latest": "2026-04-18"
     }
   },
   "jobs": [
+    {
+      "id": "94b11f690928",
+      "title": "Software Engineer at Barclays",
+      "company": "Barclays",
+      "role": "Software Engineer",
+      "regions": [
+        "Unknown"
+      ],
+      "link": "https://search.jobs.barclays/job/pune/software-engineer/13015/94069379952",
+      "source": "Other",
+      "description": "Data Engineer AVP. Whippany (United States) ... Akshat, Senior Software Engineer , reveals the key factors behind his decision to join Barclays.",
+      "date": "2026-04-18",
+      "timestamp": "2026-04-18T07:15:49+00:00",
+      "fetched_at": "2026-04-18T08:33:55.207901+00:00"
+    },
+    {
+      "id": "0def02dcb3a5",
+      "title": "Platform Engineer - Benchmark Lead at ARC Prize Foundation | Y Combinator",
+      "company": "ARC Prize Foundation",
+      "role": "Platform Engineer",
+      "regions": [
+        "Unknown"
+      ],
+      "link": "https://www.ycombinator.com/companies/arc-prize-foundation/jobs/AKZRZDN-platform-engineer-benchmark-lead",
+      "source": "Other",
+      "description": "Senior Software Engineer (Full Stack) \u00b7 SmartAsset \u00b7 Senior ... Backend focused Full-Stack Engineer (Founding Team) \u00b7 Corgea.",
+      "date": "2026-04-18",
+      "timestamp": "2026-04-18T06:29:34+00:00",
+      "fetched_at": "2026-04-18T08:33:55.208108+00:00"
+    },
+    {
+      "id": "b1edfda08fa0",
+      "title": "Azure DevOps Engineer - Assistant Manager - Hyderabad - - 329837 - Deloitte",
+      "company": "Azure DevOps Engineer",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://usijobs.deloitte.com/en_US/careersUSI/JobDetail/USI-FY26-Azure-Devops-Engineer-Assistant-Manager-Hyderabad/329837",
+      "source": "Other",
+      "description": "Azure Devops Engineer \u2013 Assistant Manager You will be part of our technology organization and will have great opportunities to work across various ...",
+      "date": "2026-04-18",
+      "timestamp": "2026-04-18T06:09:52+00:00",
+      "fetched_at": "2026-04-18T08:33:55.208463+00:00"
+    },
+    {
+      "id": "42d8e52726ab",
+      "title": "Senior Software Engineer , Adaptive Classification Team | Abnormal AI",
+      "company": "Abnormal AI",
+      "role": "Software Engineer",
+      "regions": [
+        "Unknown"
+      ],
+      "link": "https://abnormal.ai/careers/jobs/7692552003?gh_jid=7692552003",
+      "source": "Other",
+      "description": "About the Role. Abnormal AI is looking for a Senior Software Engineer to join the Adaptive Classifications Team. The team owns & operates ...",
+      "date": "2026-04-18",
+      "timestamp": "2026-04-18T06:05:02+00:00",
+      "fetched_at": "2026-04-18T08:33:55.208896+00:00"
+    },
+    {
+      "id": "a98d370eef0b",
+      "title": "Backend/ Fullstack Engineer , Creativity Apps - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Fullstack Engineer",
+      "regions": [
+        "Unknown"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200658632-3543/backend-fullstack-engineer-creativity-apps?team=SFTWR",
+      "source": "Other",
+      "description": "Backend/ Fullstack Engineer , Creativity Apps ... The Creativity Apps teams is seeking a highly skilled Senior Backend Engineer , with prior experience ...",
+      "date": "2026-04-18",
+      "timestamp": "2026-04-18T03:38:35+00:00",
+      "fetched_at": "2026-04-18T08:33:55.209064+00:00"
+    },
+    {
+      "id": "fc9f2b08eb49",
+      "title": "Software Engineer IV Job Details | Grainger Businesses",
+      "company": "Grainger Businesses",
+      "role": "Software Engineer",
+      "regions": [
+        "Unknown"
+      ],
+      "link": "https://jobs.grainger.com/job/CHICAGO-Software-Engineer-IV-IL-60654-4203/1383560500/",
+      "source": "Other",
+      "description": "Software Engineer IV. Apply now \u00bb. Date: Apr 17, 2026. Location: CHICAGO, IL, US, 60654-4203. Company: Grainger Businesses.",
+      "date": "2026-04-18",
+      "timestamp": "2026-04-18T03:37:33+00:00",
+      "fetched_at": "2026-04-18T08:33:55.209220+00:00"
+    },
+    {
+      "id": "22c8d38317a8",
+      "title": "Cleared AWS Certified ML Engineer Associate (969) , What should be my next focus, one ... - Reddit",
+      "company": "should be my next focus, one ...",
+      "role": "ML Engineer",
+      "regions": [
+        "Unknown"
+      ],
+      "link": "https://www.reddit.com/r/AWSCertifications/comments/1snyl5p/cleared_aws_certified_ml_engineer_associate_969/",
+      "source": "Other",
+      "description": "r/AWSCertifications - Passed AWS Certified Machine Learning Engineer Associate! ... Passed my AWS data engineer associate. 53 upvotes \u00b7 31 ...",
+      "date": "2026-04-18",
+      "timestamp": "2026-04-18T03:24:38+00:00",
+      "fetched_at": "2026-04-18T08:33:55.209396+00:00"
+    },
+    {
+      "id": "8a0859418431",
+      "title": "Data Engineer III - JPMC Candidate Experience page Careers",
+      "company": "JPMC Candidate Experience page Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Unknown"
+      ],
+      "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/cx_1001/job/210736552",
+      "source": "Other",
+      "description": "Data Engineer III. Jersey City, NJ, United States. Apply Now. Job ... AWS Software Engineer III - Python/Data Pipeline. Jersey City, NJ ...",
+      "date": "2026-04-18",
+      "timestamp": "2026-04-18T03:12:51+00:00",
+      "fetched_at": "2026-04-18T08:33:55.209552+00:00"
+    },
+    {
+      "id": "a4ddc49ad3aa",
+      "title": "Senior Software Engineer in Longmont, Colorado | Intrado Life & Safety, Inc.",
+      "company": "Intrado Life & Safety, Inc.",
+      "role": "Software Engineer",
+      "regions": [
+        "Unknown"
+      ],
+      "link": "https://careers.intrado.com/careers-home/jobs/4505?lang=en-us",
+      "source": "Other",
+      "description": "Careers Home | Intrado is hiring a Senior Software Engineer in Longmont, Colorado. Review all of the job details and apply today!",
+      "date": "2026-04-18",
+      "timestamp": "2026-04-18T02:03:43+00:00",
+      "fetched_at": "2026-04-18T08:33:55.209890+00:00"
+    },
+    {
+      "id": "1b645f135215",
+      "title": "Junior Software Engineer - Rokt - Application - Jobs By Workable",
+      "company": "Rokt",
+      "role": "Software Engineer",
+      "regions": [
+        "Unknown"
+      ],
+      "link": "https://apply.workable.com/rokt/j/783A754DDB/apply",
+      "source": "Workable",
+      "description": "Junior Software Engineer . On-siteEngineeringFull time5. New York, New York, United States. OverviewApplication. Autofill application. Save time by ...",
+      "date": "2026-04-18",
+      "timestamp": "2026-04-18T01:41:29+00:00",
+      "fetched_at": "2026-04-18T08:33:55.209985+00:00"
+    },
+    {
+      "id": "5fa93cbc38d4",
+      "title": "AI and Distributed Systems Fullstack Engineer - Consulting - Location OPEN Job in Arlington, VA",
+      "company": "Consulting - Location OPEN Job in Arlington, VA",
+      "role": "Fullstack Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://ey.jobs/locations/arlington-va/job-titles/ai-and-distributed-systems-fullstack-engineer-senior-consulting-location-open/jobs/?q=executive+assistant",
+      "source": "Other",
+      "description": "AI and Distributed Systems Fullstack Engineer - Senior - Consulting - Location OPEN Job in Arlington, VA, updated and verified daily by ...",
+      "date": "2026-04-18",
+      "timestamp": "2026-04-18T01:36:54+00:00",
+      "fetched_at": "2026-04-18T08:33:55.210246+00:00"
+    },
+    {
+      "id": "efb3346709f8",
+      "title": "AI and Distributed Systems Fullstack Engineer - Consulting - Location OPEN Jobs in New York - Jobs",
+      "company": "Consulting - Location OPEN Jobs in New York - Jobs",
+      "role": "Fullstack Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://ey.jobs/locations/new-york/job-titles/ai-and-distributed-systems-fullstack-engineer-senior-consulting-location-open/jobs/?q=executive+assistant",
+      "source": "Other",
+      "description": "AI and Distributed Systems Fullstack Engineer - Senior - Consulting - Location OPEN Jobs in New York, updated and verified daily by ...",
+      "date": "2026-04-18",
+      "timestamp": "2026-04-18T01:34:56+00:00",
+      "fetched_at": "2026-04-18T08:33:55.210505+00:00"
+    },
+    {
+      "id": "e01e227f7cfe",
+      "title": "Software Engineer as remote Canada job | FOX Careers",
+      "company": "FOX Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.foxcareers.com/Search/JobDetail/R50032286/software-engineer-fox-corporation",
+      "source": "Other",
+      "description": "Software Engineer ; Job Number: R50032286 ; Brand: Fox Corporation ; Job Type: Engineering, Technology ; Location Type: Remote ; Experience Level: ...",
+      "date": "2026-04-18",
+      "timestamp": "2026-04-18T00:18:29+00:00",
+      "fetched_at": "2026-04-18T08:33:55.210649+00:00"
+    },
+    {
+      "id": "5496e7951dff",
+      "title": "Apply For Senior Software Engineer - Product Security SME - Stryker",
+      "company": "Product Security SME - Stryker",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.stryker.com/senior-software-engineer-product-security-sme/job/66F88B8BCF267460FAB5643FA75939A7",
+      "source": "Other",
+      "description": "Senior Software Engineer - Product Security SME. Return to Search. Apply Now. Gurugram, 122001, IN. Job details. Work flexibility: Hybrid Req ID: ...",
+      "date": "2026-04-17",
+      "timestamp": "2026-04-17T23:42:39+00:00",
+      "fetched_at": "2026-04-18T08:33:55.210955+00:00"
+    },
+    {
+      "id": "36343a23459c",
+      "title": "Data Engineer - AI in Remote | Careers at US Nationwide Remote - Cotiviti",
+      "company": "US Nationwide Remote",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers-cotiviti.icims.com/jobs/18377/data-engineer---ai/job",
+      "source": "iCIMS",
+      "description": "US Nationwide Remote is now hiring a Data Engineer - AI in Remote. Review all of the job details and apply today!",
+      "date": "2026-04-17",
+      "timestamp": "2026-04-17T23:34:10+00:00",
+      "fetched_at": "2026-04-18T08:33:55.211059+00:00"
+    },
+    {
+      "id": "c91970f06a4c",
+      "title": "Software Engineer @ Valon Tech - Jobs",
+      "company": "Valon",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.ashbyhq.com/Valon/580ec8b6-c894-497e-9769-270e6e21efbe/application",
+      "source": "Ashby",
+      "description": "Software Engineer . Location. New York; Remote; San Francisco. Employment Type. Full time. Location Type. On-site. Department. Engineering. Overview ...",
+      "date": "2026-04-17",
+      "timestamp": "2026-04-17T23:14:37+00:00",
+      "fetched_at": "2026-04-18T08:33:55.211139+00:00"
+    },
+    {
+      "id": "47c47ff29978",
+      "title": "Site Reliability Engineer (Plano) job - Experis USA - 393396",
+      "company": "Experis USA - 393396",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "Unknown"
+      ],
+      "link": "https://www.experis.com/it/job/393396/site-reliability-engineer-plano-",
+      "source": "Other",
+      "description": "As a Site Reliability Engineer , you will be part of the MAPS Quartz team supporting core infrastructure and platform reliability. The ideal candidate ...",
+      "date": "2026-04-17",
+      "timestamp": "2026-04-17T22:59:01+00:00",
+      "fetched_at": "2026-04-18T08:33:55.211267+00:00"
+    },
+    {
+      "id": "8bcd56a75d04",
+      "title": "Distinguished Data Engineer - McLean - Capital One Career",
+      "company": "McLean - Capital One Career",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.capitalonecareers.com/job/mclean/distinguished-data-engineer/1732/94070051008",
+      "source": "Other",
+      "description": "Distinguished Data Engineer . McLean, Virginia Pin job. Apply. Category ... Distinguished Software Engineer - AML (Remote - Eligible). McLean ...",
+      "date": "2026-04-17",
+      "timestamp": "2026-04-17T22:22:07+00:00",
+      "fetched_at": "2026-04-18T08:33:55.211406+00:00"
+    },
     {
       "id": "a359663e7aaa",
       "title": "Data Engineer III - JPMC Candidate Experience page Careers",
