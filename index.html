@@ -19,6 +19,10 @@
                 <button class="nav-tab" data-view="tracked" onclick="switchView('tracked')">Tracked <span class="tab-count" id="tabTrackedCount">0</span></button>
             </div>
             <div class="nav-right">
+                <button class="refresh-btn" id="refreshBtn" onclick="triggerRefresh()" title="Trigger the GitHub Actions workflow to fetch fresh jobs now">
+                    <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 1 1-3-6.7L21 8"/><path d="M21 3v5h-5"/></svg>
+                    <span id="refreshBtnText">Refresh</span>
+                </button>
                 <div class="last-updated" id="lastUpdated">Loading...</div>
             </div>
         </div>
@@ -89,6 +93,42 @@
     function getTrackedIds(){try{return new Set(JSON.parse(localStorage.getItem("trackedJobs")||"[]"))}catch{return new Set()}}
     function saveTrackedIds(ids){localStorage.setItem("trackedJobs",JSON.stringify([...ids]))}
     function toggleTrack(id){const ids=getTrackedIds();ids.has(id)?ids.delete(id):ids.add(id);saveTrackedIds(ids);renderCurrentView();updateCounts()}
+
+    const GH_OWNER="nparikh211",GH_REPO="Google-job-alerts",GH_WORKFLOW="fetch-jobs.yml",GH_REF="main";
+    async function triggerRefresh(){
+        const btn=document.getElementById("refreshBtn"),lbl=document.getElementById("refreshBtnText");
+        let token=localStorage.getItem("ghToken");
+        if(!token){
+            token=prompt("To trigger the fetch workflow from this page we need a GitHub personal access token with 'actions: write' scope for this repo.\n\nCreate one at https://github.com/settings/personal-access-tokens/new (fine-grained, repo: nparikh211/Google-job-alerts, Actions: Read and write), then paste it below. It will be saved only in your browser's localStorage.\n\nPaste token:");
+            if(!token)return;
+            localStorage.setItem("ghToken",token.trim());
+            token=token.trim();
+        }
+        btn.disabled=true;lbl.textContent="Triggering...";
+        try{
+            const res=await fetch(`https://api.github.com/repos/${GH_OWNER}/${GH_REPO}/actions/workflows/${GH_WORKFLOW}/dispatches`,{
+                method:"POST",
+                headers:{"Accept":"application/vnd.github+json","Authorization":`Bearer ${token}`,"X-GitHub-Api-Version":"2022-11-28","Content-Type":"application/json"},
+                body:JSON.stringify({ref:GH_REF})
+            });
+            if(res.status===204){
+                lbl.textContent="Queued \u2713";
+                setTimeout(()=>{lbl.textContent="Refresh";btn.disabled=false;location.reload();},8000);
+            }else{
+                const txt=await res.text();
+                if(res.status===401||res.status===403){
+                    localStorage.removeItem("ghToken");
+                    alert(`GitHub rejected the token (${res.status}). It has been cleared \u2014 click Refresh again to paste a new one.\n\n${txt}`);
+                }else{
+                    alert(`Failed to trigger workflow: ${res.status}\n\n${txt}`);
+                }
+                lbl.textContent="Refresh";btn.disabled=false;
+            }
+        }catch(e){
+            alert("Network error: "+e.message);
+            lbl.textContent="Refresh";btn.disabled=false;
+        }
+    }
 
     function switchView(v){currentView=v;document.querySelectorAll(".view").forEach(e=>e.classList.remove("active"));document.getElementById("view-"+v).classList.add("active");document.querySelectorAll(".nav-tab").forEach(t=>t.classList.remove("active"));document.querySelector(`[data-view="${v}"]`).classList.add("active");if(v==="roles")renderJobs();if(v==="tracked")renderTrackedJobs()}
     function statClick(f){switchView("roles");currentFilter=f==="today"?"all":f;document.querySelectorAll("#view-roles .filter-btn").forEach(b=>b.classList.toggle("active",b.dataset.filter===(f==="today"?"all":f)));renderJobs()}
