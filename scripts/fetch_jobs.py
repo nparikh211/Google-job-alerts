@@ -110,23 +110,37 @@ def extract_role_from_title(title, known_roles):
     return title[:60] if len(title) > 60 else title
 
 
-def extract_region(title, description):
-    """Determine the region from the job listing."""
-    text = f"{title} {description}".lower()
+def extract_region(title, description, url="", region_hint=None):
+    """Determine the region from the job listing.
+
+    Checks title, description, and URL for region keywords. If no explicit
+    region is found but a region_hint (from the source feed) is provided,
+    fall back to that hint so we don't throw away legitimate entries whose
+    short RSS summary happens to omit a city name.
+    """
+    text = f"{title} {description} {url}".lower()
     regions = []
-    if any(kw in text for kw in ["india", "bangalore", "bengaluru", "mumbai", "delhi",
-                                   "hyderabad", "pune", "chennai", "kolkata", "noida",
-                                   "gurgaon", "gurugram", "ahmedabad", "jaipur"]):
+    india_kw = ["india", "bangalore", "bengaluru", "mumbai", "delhi",
+                "hyderabad", "pune", "chennai", "kolkata", "noida",
+                "gurgaon", "gurugram", "ahmedabad", "jaipur",
+                "/india/", ".in/", "-in-", "_india"]
+    ph_kw = ["philippines", "manila", "cebu", "davao", "makati",
+             "quezon", "taguig", "pasig", "bgc", "clark",
+             "onlinejobs.ph", "remotework.ph", "virtualstaff.ph",
+             "jobstreet.com.ph", "kalibrr", "/philippines/", ".ph/", "-ph-"]
+    remote_kw = ["remote", "work from home", "wfh", "anywhere",
+                 "distributed", "fully remote", "worldwide"]
+    if any(kw in text for kw in india_kw):
         regions.append("India")
-    if any(kw in text for kw in ["philippines", "manila", "cebu", "davao", "makati",
-                                   "quezon", "taguig", "pasig", "bgc", "clark",
-                                   "onlinejobs.ph", "remotework.ph", "virtualstaff.ph",
-                                   "jobstreet.com.ph", "kalibrr"]):
+    if any(kw in text for kw in ph_kw):
         regions.append("Philippines")
-    if any(kw in text for kw in ["remote", "work from home", "wfh", "anywhere",
-                                   "distributed", "fully remote"]):
+    if any(kw in text for kw in remote_kw):
         regions.append("Remote")
-    return regions if regions else ["Unknown"]
+    if regions:
+        return regions
+    if region_hint:
+        return [region_hint]
+    return ["Unknown"]
 
 
 def is_excluded_company(company_name, excluded_list):
@@ -202,7 +216,7 @@ def parse_date(date_str):
     return datetime.now(timezone.utc)
 
 
-def parse_atom_feed(xml_content, config):
+def parse_atom_feed(xml_content, config, region_hint=None):
     """Parse an Atom XML feed and return job listings."""
     jobs = []
     ns = {"atom": "http://www.w3.org/2005/Atom"}
@@ -259,8 +273,10 @@ def parse_atom_feed(xml_content, config):
         # Extract role
         role = extract_role_from_title(title, config.get("roles", []))
 
-        # Extract region
-        regions = extract_region(title, description)
+        # Extract region - SKIP jobs not in India/Philippines/Remote
+        regions = extract_region(title, description, actual_link, region_hint)
+        if regions == ["Unknown"]:
+            continue  # Not an offshore/remote role, skip it
 
         # Extract source
         source = extract_source_site(actual_link)
@@ -292,12 +308,13 @@ def fetch_rss_feeds(config):
     for feed_config in feeds:
         url = feed_config.get("url", "")
         name = feed_config.get("name", "Unknown Feed")
+        region_hint = feed_config.get("region_hint")
 
         if not url:
             print(f"  Skipping '{name}' - no URL configured")
             continue
 
-        print(f"  Fetching: {name}")
+        print(f"  Fetching: {name} (region_hint={region_hint})")
         try:
             req = Request(url, headers={
                 "User-Agent": "Mozilla/5.0 (compatible; JobAlertsDashboard/1.0)"
@@ -305,7 +322,7 @@ def fetch_rss_feeds(config):
             with urlopen(req, timeout=30) as response:
                 xml_content = response.read()
 
-            feed_jobs = parse_atom_feed(xml_content, config)
+            feed_jobs = parse_atom_feed(xml_content, config, region_hint=region_hint)
             jobs.extend(feed_jobs)
             print(f"    Found {len(feed_jobs)} jobs after filtering")
 
