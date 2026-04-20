@@ -25,7 +25,23 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Fetch job alerts
-        run: python scripts/fetch_jobs.py
+        run: |
+          set -o pipefail
+          python scripts/fetch_jobs.py 2>&1 | tee fetch.log
+
+      - name: Write run summary
+        if: always()
+        run: |
+          {
+            echo "## Fetch run $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            echo ""
+            echo '```'
+            tail -n 60 fetch.log 2>/dev/null || echo "(no log captured)"
+            echo '```'
+            echo ""
+            echo "### data/jobs.json header"
+            python -c "import json; d=json.load(open('data/jobs.json')); print('total_jobs:', d['total_jobs']); print('last_updated:', d['last_updated']); print('regions:', d['stats']['regions'])"
+          } >> "$GITHUB_STEP_SUMMARY"
 
       - name: Commit and push updated data
         run: |

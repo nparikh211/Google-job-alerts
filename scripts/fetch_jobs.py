@@ -46,8 +46,8 @@ def extract_company_from_url(url):
     patterns = [
         # Workday: company.wd5.myworkdayjobs.com
         r"(\w+)\.wd\d+\.myworkdayjobs\.com",
-        # Greenhouse: boards.greenhouse.io/company or job-boards.greenhouse.io/company
-        r"(?:boards|job-boards)\.greenhouse\.io/(\w+)",
+        # Greenhouse: boards.greenhouse.io/company
+        r"boards\.greenhouse\.io/(\w+)",
         # Lever: jobs.lever.co/company
         r"jobs\.lever\.co/([\w-]+)",
         # SmartRecruiters: jobs.smartrecruiters.com/Company
@@ -64,45 +64,31 @@ def extract_company_from_url(url):
         r"([\w-]+)\.recruitee\.com",
         # Workable: apply.workable.com/company
         r"apply\.workable\.com/([\w-]+)",
-        # Generic: careers.company.com or www.careers.company.com
-        r"(?:www\.)?careers\.([\w-]+)\.com",
-        # Generic: jobs.company.com
-        r"(?:www\.)?jobs\.([\w-]+)\.com",
-        # Generic: company.jobs/
-        r"([\w-]+)\.jobs/",
     ]
     for pattern in patterns:
         match = re.search(pattern, url, re.IGNORECASE)
         if match:
             name = match.group(1)
-            if name.lower() in ("www", "en", "us", "job", "apply", "boards"):
-                continue
+            # Clean up: replace hyphens with spaces, title case
             return name.replace("-", " ").replace("_", " ").title()
     return None
 
 
 def extract_company_from_title(title):
     """Try to extract company name from the alert title."""
+    # Common patterns: "Role at Company", "Role - Company", "Company - Role"
     patterns = [
-        # "Role at Company"
-        r"(?:at|@)\s+(.+?)(?:\s*$)",
-        # "Role | Company" or "Role - Company" (company at end)
-        r"[-|]+\s*(.+?)\s*$",
-        # "Company | Role" or "Company - Role" (company at start, role keyword after separator)
-        r"^(.+?)\s*[-|]+\s*(?:.*(?:Engineer|Developer|Manager|Designer|Analyst|Scientist|Lead|Architect|Specialist|Representative|Admin))",
+        r"(?:at|@)\s+(.+?)(?:\s*[-|]|$)",
+        r"^(.+?)\s*[-|]\s*.+(?:Engineer|Developer|Manager|Designer|Analyst|Scientist|Lead|Architect)",
+        r"(?:Engineer|Developer|Manager|Designer|Analyst|Scientist|Lead|Architect).+?[-|]\s*(.+?)$",
     ]
     for pattern in patterns:
         match = re.search(pattern, title, re.IGNORECASE)
         if match:
             company = match.group(1).strip()
-            # Remove common noise
+            # Remove common suffixes
             company = re.sub(r"\s*\(.*?\)\s*$", "", company)
-            company = re.sub(r"^(?:Job Application for|Apply for|Join)\s+", "", company, flags=re.IGNORECASE)
-            # Skip if it looks like a role, not a company
-            role_words = ["engineer", "developer", "manager", "designer", "analyst", "scientist", "lead", "architect", "specialist", "senior", "junior", "staff", "principal", "data", "software", "full-stack", "fullstack", "backend", "frontend", "devops"]
-            if any(w in company.lower() for w in role_words):
-                continue
-            if 2 < len(company) < 60:
+            if len(company) > 2 and len(company) < 80:
                 return company
     return None
 
@@ -124,23 +110,37 @@ def extract_role_from_title(title, known_roles):
     return title[:60] if len(title) > 60 else title
 
 
-def extract_region(title, description):
-    """Determine the region from the job listing."""
-    text = f"{title} {description}".lower()
+def extract_region(title, description, url="", region_hint=None):
+    """Determine the region from the job listing.
+
+    Checks title, description, and URL for region keywords. If no explicit
+    region is found but a region_hint (from the source feed) is provided,
+    fall back to that hint so we don't throw away legitimate entries whose
+    short RSS summary happens to omit a city name.
+    """
+    text = f"{title} {description} {url}".lower()
     regions = []
-    if any(kw in text for kw in ["india", "bangalore", "bengaluru", "mumbai", "delhi",
-                                   "hyderabad", "pune", "chennai", "kolkata", "noida",
-                                   "gurgaon", "gurugram", "ahmedabad", "jaipur"]):
+    india_kw = ["india", "bangalore", "bengaluru", "mumbai", "delhi",
+                "hyderabad", "pune", "chennai", "kolkata", "noida",
+                "gurgaon", "gurugram", "ahmedabad", "jaipur",
+                "/india/", ".in/", "-in-", "_india"]
+    ph_kw = ["philippines", "manila", "cebu", "davao", "makati",
+             "quezon", "taguig", "pasig", "bgc", "clark",
+             "onlinejobs.ph", "remotework.ph", "virtualstaff.ph",
+             "jobstreet.com.ph", "kalibrr", "/philippines/", ".ph/", "-ph-"]
+    remote_kw = ["remote", "work from home", "wfh", "anywhere",
+                 "distributed", "fully remote", "worldwide"]
+    if any(kw in text for kw in india_kw):
         regions.append("India")
-    if any(kw in text for kw in ["philippines", "manila", "cebu", "davao", "makati",
-                                   "quezon", "taguig", "pasig", "bgc", "clark",
-                                   "onlinejobs.ph", "remotework.ph", "virtualstaff.ph",
-                                   "jobstreet.com.ph", "kalibrr"]):
+    if any(kw in text for kw in ph_kw):
         regions.append("Philippines")
-    if any(kw in text for kw in ["remote", "work from home", "wfh", "anywhere",
-                                   "distributed", "fully remote"]):
+    if any(kw in text for kw in remote_kw):
         regions.append("Remote")
-    return regions if regions else ["Unknown"]
+    if regions:
+        return regions
+    if region_hint:
+        return [region_hint]
+    return ["Unknown"]
 
 
 def is_excluded_company(company_name, excluded_list):
@@ -185,16 +185,11 @@ def extract_source_site(url):
         "kalibrr.com": "Kalibrr",
         "linkedin.com": "LinkedIn",
         "indeed.com": "Indeed",
-        "dice.com": "Dice",
     }
     url_lower = url.lower()
     for domain, name in site_names.items():
         if domain in url_lower:
             return name
-    # For company career sites, label by company
-    m = re.search(r"(?:careers|jobs)\.([\w-]+)\.", url_lower)
-    if m:
-        return m.group(1).title() + " Careers"
     return "Other"
 
 
@@ -221,7 +216,7 @@ def parse_date(date_str):
     return datetime.now(timezone.utc)
 
 
-def parse_atom_feed(xml_content, config):
+def parse_atom_feed(xml_content, config, region_hint=None):
     """Parse an Atom XML feed and return job listings."""
     jobs = []
     ns = {"atom": "http://www.w3.org/2005/Atom"}
@@ -279,7 +274,7 @@ def parse_atom_feed(xml_content, config):
         role = extract_role_from_title(title, config.get("roles", []))
 
         # Extract region - SKIP jobs not in India/Philippines/Remote
-        regions = extract_region(title, description)
+        regions = extract_region(title, description, actual_link, region_hint)
         if regions == ["Unknown"]:
             continue  # Not an offshore/remote role, skip it
 
@@ -313,12 +308,13 @@ def fetch_rss_feeds(config):
     for feed_config in feeds:
         url = feed_config.get("url", "")
         name = feed_config.get("name", "Unknown Feed")
+        region_hint = feed_config.get("region_hint")
 
         if not url:
             print(f"  Skipping '{name}' - no URL configured")
             continue
 
-        print(f"  Fetching: {name}")
+        print(f"  Fetching: {name} (region_hint={region_hint})")
         try:
             req = Request(url, headers={
                 "User-Agent": "Mozilla/5.0 (compatible; JobAlertsDashboard/1.0)"
@@ -326,7 +322,7 @@ def fetch_rss_feeds(config):
             with urlopen(req, timeout=30) as response:
                 xml_content = response.read()
 
-            feed_jobs = parse_atom_feed(xml_content, config)
+            feed_jobs = parse_atom_feed(xml_content, config, region_hint=region_hint)
             jobs.extend(feed_jobs)
             print(f"    Found {len(feed_jobs)} jobs after filtering")
 
