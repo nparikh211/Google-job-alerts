@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-04-22T12:53:06.001453+00:00",
-  "total_jobs": 217,
+  "last_updated": "2026-04-22T16:46:46.367228+00:00",
+  "total_jobs": 225,
   "stats": {
-    "total_companies": 179,
+    "total_companies": 185,
     "total_roles": 16,
     "regions": {
-      "India": 44,
+      "India": 49,
       "Philippines": 11,
-      "Remote": 27,
+      "Remote": 30,
       "Unknown": 135
     },
     "sources": {
-      "Other": 178,
-      "Greenhouse": 10,
+      "Other": 184,
+      "Greenhouse": 11,
       "Workday": 7,
       "Ashby": 7,
+      "Breezy": 4,
       "Lever": 3,
       "LinkedIn": 3,
-      "Breezy": 3,
       "iCIMS": 2,
       "SmartRecruiters": 2,
       "Indeed": 1,
@@ -29,6 +29,126 @@
     }
   },
   "jobs": [
+    {
+      "id": "31012bf4984b",
+      "title": "Data Engineer - Careers at Cross Screen Media",
+      "company": "Cross Screen Media",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://cross-screen-media.breezy.hr/p/63f915da21c8-data-engineer",
+      "source": "Breezy",
+      "description": "Data Engineer . Austin, TX - Remote (any location); Full-Time; Technology; $0.00 / year. Job Openings; Data Engineer . Apply To Position; Use My Indeed ...",
+      "date": "2026-04-22",
+      "timestamp": "2026-04-22T15:00:35+00:00",
+      "fetched_at": "2026-04-22T16:46:46.173010+00:00"
+    },
+    {
+      "id": "d34df1d1ef66",
+      "title": "Senior Software Engineer in Test in Budapest at Arm",
+      "company": "Arm",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.arm.com/job/budapest/senior-software-engineer-in-test/33099/94252474592",
+      "source": "Other",
+      "description": "Senior Software Engineer in Test. Job ID 2026-16964 Date posted Apr. 22, 2026 Location Budapest, Hungary Category Software Engineering Apply.",
+      "date": "2026-04-22",
+      "timestamp": "2026-04-22T14:36:01+00:00",
+      "fetched_at": "2026-04-22T16:46:46.173508+00:00"
+    },
+    {
+      "id": "5e6883594c64",
+      "title": "Job Application for Deployed Software Engineer at Hungryroot - Greenhouse",
+      "company": "Hungryroot",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/hungryroot/jobs/5978366004",
+      "source": "Greenhouse",
+      "description": "Deployed Software Engineer . Remote. Apply. About Us. Hungryroot is using AI to build the most consumer-centric food and wellness company to ever exist ...",
+      "date": "2026-04-22",
+      "timestamp": "2026-04-22T14:20:27+00:00",
+      "fetched_at": "2026-04-22T16:46:46.173617+00:00"
+    },
+    {
+      "id": "4687bd11f829",
+      "title": "Software Engineer - Full Stack (Angular, Java), Alpharetta | Equifax Careers",
+      "company": "Full Stack (Angular, Java), Alpharetta | Equifax Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.equifax.com/en/jobs/j00176091/software-engineer-full-stack-angular-java/",
+      "source": "Other",
+      "description": "Equifax is seeking a creative, high-energy and driven Software Engineer - Full Stack (Angular, Java) with hands-on development skills to work on a ...",
+      "date": "2026-04-22",
+      "timestamp": "2026-04-22T12:51:27+00:00",
+      "fetched_at": "2026-04-22T16:46:46.174472+00:00"
+    },
+    {
+      "id": "5f5839f4fd9d",
+      "title": "Software Engineer , Andromeda - Search for your career at Google.",
+      "company": "Google.",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.google.com/jobs/results/90915196586861254-software-engineer/",
+      "source": "Other",
+      "description": "As a software engineer , you will work on a specific project critical to Google Cloud's needs with opportunities to switch teams and projects as ...",
+      "date": "2026-04-22",
+      "timestamp": "2026-04-22T12:21:04+00:00",
+      "fetched_at": "2026-04-22T16:46:46.174624+00:00"
+    },
+    {
+      "id": "049fa2426c60",
+      "title": "Senior Software Engineer Job Details - STERIS Careers",
+      "company": "STERIS Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.steris.com/job/Chicago-Senior-Software-Engineer-IL-60612/1384368500/",
+      "source": "Other",
+      "description": "Senior Software Engineer . Req ID: 54005. Job Category: Engineering. Location: Chicago, IL, US, 60612. Workplace Type: Remote. At STERIS, we help ...",
+      "date": "2026-04-22",
+      "timestamp": "2026-04-22T11:56:54+00:00",
+      "fetched_at": "2026-04-22T16:46:46.174797+00:00"
+    },
+    {
+      "id": "354301f5090e",
+      "title": "Sr Software Engineer - Minneapolis, MN - SmartThings Careers",
+      "company": "Minneapolis, MN - SmartThings Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://smartthings.pinpointhq.com/postings/c314d289-ead6-48cb-880d-dc1be7e0ae97",
+      "source": "Other",
+      "description": "Sr Software Engineer . Department: Core Cloud; Employment Type: Full Time; Location: Minneapolis, MN; Workplace type: Hybrid; Reporting To: Josh Klun ...",
+      "date": "2026-04-22",
+      "timestamp": "2026-04-22T11:35:15+00:00",
+      "fetched_at": "2026-04-22T16:46:46.174975+00:00"
+    },
+    {
+      "id": "125b10b0528b",
+      "title": "Software Engineer I Job Details | Avaya",
+      "company": "Avaya",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.avaya.com/job/Pune-Software-Engineer-I/1386131733/",
+      "source": "Other",
+      "description": "Software Engineer I. Date: Apr 21, 2026. Location: Pune, IN. Requisition ID: 37586. About Avaya. Avaya is an enterprise software leader that helps the ...",
+      "date": "2026-04-22",
+      "timestamp": "2026-04-22T11:33:39+00:00",
+      "fetched_at": "2026-04-22T16:46:46.175097+00:00"
+    },
     {
       "id": "97c895cf4be3",
       "title": "Software Engineer II- Front end/DevOps - JPMC Candidate Experience page Careers",
