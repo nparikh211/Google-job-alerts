@@ -1,27 +1,27 @@
 {
-  "last_updated": "2026-04-22T09:08:54.554570+00:00",
-  "total_jobs": 200,
+  "last_updated": "2026-04-22T12:53:06.001453+00:00",
+  "total_jobs": 217,
   "stats": {
-    "total_companies": 167,
-    "total_roles": 15,
+    "total_companies": 179,
+    "total_roles": 16,
     "regions": {
-      "India": 29,
+      "India": 44,
       "Philippines": 11,
-      "Remote": 25,
+      "Remote": 27,
       "Unknown": 135
     },
     "sources": {
-      "Other": 164,
-      "Greenhouse": 9,
+      "Other": 178,
+      "Greenhouse": 10,
+      "Workday": 7,
       "Ashby": 7,
-      "Workday": 6,
       "Lever": 3,
       "LinkedIn": 3,
       "Breezy": 3,
+      "iCIMS": 2,
       "SmartRecruiters": 2,
       "Indeed": 1,
-      "Workable": 1,
-      "iCIMS": 1
+      "Workable": 1
     },
     "date_range": {
       "earliest": "2026-04-14",
@@ -29,6 +29,231 @@
     }
   },
   "jobs": [
+    {
+      "id": "97c895cf4be3",
+      "title": "Software Engineer II- Front end/DevOps - JPMC Candidate Experience page Careers",
+      "company": "Front end/DevOps - JPMC Candidate Experience page Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/cx_1001/job/210738275",
+      "source": "Other",
+      "description": "Software Engineer II- Front end/DevOps. Columbus, OH, United States. Apply Now. Job Information. Job Identification 210738275; Job Category Software ...",
+      "date": "2026-04-22",
+      "timestamp": "2026-04-22T11:15:49+00:00",
+      "fetched_at": "2026-04-22T12:53:05.725647+00:00"
+    },
+    {
+      "id": "e886fa591e1a",
+      "title": "Backend Engineer | Careers - RELAI.ai",
+      "company": "Careers - RELAI.ai",
+      "role": "Backend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://relai.ai/careers/roles/backend-engineer",
+      "source": "Other",
+      "description": "Enterprise deployment. Our ambition is to define how AI systems are built in production. The Role. We are hiring a very senior Backend Engineer to ...",
+      "date": "2026-04-22",
+      "timestamp": "2026-04-22T11:12:50+00:00",
+      "fetched_at": "2026-04-22T12:53:05.725821+00:00"
+    },
+    {
+      "id": "282386677506",
+      "title": "An incoming software engineer explains how she picked between two offers: a role at a ... - Facebook",
+      "company": "a ...",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.facebook.com/insider/posts/an-incoming-software-engineer-explains-how-she-picked-between-two-offers-a-role-/1321461956508071/",
+      "source": "Other",
+      "description": "Choosing to pursue a career in tech and become a software engineer has been one of my best life choices. ... Internship 1: Pros: Data Platform Engineer ...",
+      "date": "2026-04-22",
+      "timestamp": "2026-04-22T10:20:50+00:00",
+      "fetched_at": "2026-04-22T12:53:05.726076+00:00"
+    },
+    {
+      "id": "077063830c59",
+      "title": "Machine Learning Engineer , (Applied Machine Learning), AI & Data Platforms (AiDP) - Jobs",
+      "company": "Jobs",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200658947-0157/machine-learning-engineer-applied-machine-learning-ai-data-platforms-aidp",
+      "source": "Other",
+      "description": "Apply for a Machine Learning Engineer , (Applied Machine Learning), AI & Data Platforms (AiDP) job at Apple. Read about the role and find out if ...",
+      "date": "2026-04-22",
+      "timestamp": "2026-04-22T09:57:23+00:00",
+      "fetched_at": "2026-04-22T12:53:05.726310+00:00"
+    },
+    {
+      "id": "aec3c08c4d00",
+      "title": "Data Engineer Intern - Pune (2026) job in Pune, India | Data, Analytics and AI jobs at Snowflake",
+      "company": "Snowflake",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.snowflake.com/us/en/job/SNCOUS97879D11040B471CAB908A9497E6D01EEXTERNALENUS8904ED8575D648CFB01B7941677FDE4A/Data-Engineer-Intern-Pune-2026",
+      "source": "Other",
+      "description": "Apply for Data Engineer Intern - Pune (2026) job in Pune, India. Browse and apply for Data, Analytics and AI jobs at Snowflake.",
+      "date": "2026-04-22",
+      "timestamp": "2026-04-22T09:53:37+00:00",
+      "fetched_at": "2026-04-22T12:53:05.726602+00:00"
+    },
+    {
+      "id": "75392459d727",
+      "title": "ML Engineer II job at NYU Langone Health",
+      "company": "NYU Langone Health",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.nyulangone.org/job/23228150/ml-engineer-ii-new-york-ny/",
+      "source": "Other",
+      "description": "ML Engineer II. Job ID: 1157134_RR00116091. Facility: NYU Grossman School of Medicine. Position Type: Full-Time/Regular. Shift: Day. Schedule: 9am-5pm.",
+      "date": "2026-04-22",
+      "timestamp": "2026-04-22T09:46:17+00:00",
+      "fetched_at": "2026-04-22T12:53:05.726726+00:00"
+    },
+    {
+      "id": "57e15bd58629",
+      "title": "Senior Software Engineer in Remote | Careers at US Nationwide Remote - Cotiviti",
+      "company": "US Nationwide Remote",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers-cotiviti.icims.com/jobs/18973/senior-software-engineer/job",
+      "source": "iCIMS",
+      "description": "US Nationwide Remote is now hiring a Senior Software Engineer in Remote. Review all of the job details and apply today!",
+      "date": "2026-04-22",
+      "timestamp": "2026-04-22T09:37:08+00:00",
+      "fetched_at": "2026-04-22T12:53:05.726856+00:00"
+    },
+    {
+      "id": "fc99b6a5449c",
+      "title": "Bloomberg - 4-hour virtual interview for Senior Software Engineer : r/cscareerquestionsEU",
+      "company": "Bloomberg",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/cscareerquestionsEU/comments/1srnwwh/bloomberg_4hour_virtual_interview_for_senior/",
+      "source": "Other",
+      "description": "Hi everyone, I have a 4-hour virtual interview coming up for a Senior Software Engineer (C++) position ... Senior AI Engineer interviews at Bloomberg.",
+      "date": "2026-04-22",
+      "timestamp": "2026-04-22T08:50:05+00:00",
+      "fetched_at": "2026-04-22T12:53:05.727030+00:00"
+    },
+    {
+      "id": "9e516d246983",
+      "title": "Backend Software Engineer Job Available, Remote (US) or San Francisco (HQ) - Fieldwire",
+      "company": "Fieldwire",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.fieldwire.com/job/8517598002/",
+      "source": "Other",
+      "description": "Who we're looking for: As a Backend Software Engineer , you'll join a small, full-stack team building tools for General Contractors to improve ...",
+      "date": "2026-04-22",
+      "timestamp": "2026-04-22T08:39:12+00:00",
+      "fetched_at": "2026-04-22T12:53:05.727144+00:00"
+    },
+    {
+      "id": "0c1a6099d61d",
+      "title": "Job Application for Senior Software Engineer - Full Stack at Topstep - Greenhouse",
+      "company": "Topsteptrader",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/topsteptrader/jobs/7710255003",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer - Full Stack. United States. Apply. Summary. As a Senior Full Stack Engineer at Topstep, you'll play a key role in building ...",
+      "date": "2026-04-22",
+      "timestamp": "2026-04-22T08:13:37+00:00",
+      "fetched_at": "2026-04-22T12:53:05.727233+00:00"
+    },
+    {
+      "id": "0ecf9b298f47",
+      "title": "Data Engineer - HelioCampus - Teamtailor",
+      "company": "HelioCampus - Teamtailor",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://heliocampus.teamtailor.com/jobs/7610348-data-engineer",
+      "source": "Other",
+      "description": "Data Engineer \u00b7 Develop: Design, build, and deploy robust ETL/ELT solutions using SQL and Python. \u00b7 Test & Deploy: Perform comprehensive unit testing ...",
+      "date": "2026-04-22",
+      "timestamp": "2026-04-22T07:43:13+00:00",
+      "fetched_at": "2026-04-22T12:53:05.727361+00:00"
+    },
+    {
+      "id": "b0cd06fd874f",
+      "title": "Software Engineer - Myworkdayjobs.com",
+      "company": "Autodesk",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Software-Engineer_26WD96719-1",
+      "source": "Workday",
+      "description": "We are hiring a Software Engineer to join Autodesk's Enterprise Data Management team. This is for engineers early in their career who are excited ...",
+      "date": "2026-04-22",
+      "timestamp": "2026-04-22T07:25:58+00:00",
+      "fetched_at": "2026-04-22T12:53:05.727563+00:00"
+    },
+    {
+      "id": "3d4c7461d416",
+      "title": "Software Engineer - Sutherland Global",
+      "company": "Sutherland Global",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.jobs.sutherlandglobal.com/job-details/software-engineer-in-technologyst-jobs-1506039",
+      "source": "Other",
+      "description": "Work on interesting projects. Software Engineer . Contract Type: Temporary WAH. Location: Bogot\u00e1 - //BOGOTA. Date Published: 04-21-2026. Job ID:.",
+      "date": "2026-04-22",
+      "timestamp": "2026-04-22T07:24:08+00:00",
+      "fetched_at": "2026-04-22T12:53:05.727720+00:00"
+    },
+    {
+      "id": "c02df4286c6e",
+      "title": "Software Engineer | GE Vernova",
+      "company": "GE Vernova",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.gevernova.com/software-engineer/job/R5039481",
+      "source": "Other",
+      "description": "Job Description Summary. We are looking for a Software Engineer \u2013 Full Stack to design, develop, and deliver cloud\u2011native, scalable, ...",
+      "date": "2026-04-22",
+      "timestamp": "2026-04-22T07:11:05+00:00",
+      "fetched_at": "2026-04-22T12:53:05.727845+00:00"
+    },
+    {
+      "id": "f2a78d5a46e4",
+      "title": "Data Engineer II (Enterprise Data Warehouse) Job Details - Simplot",
+      "company": "Simplot",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.simplot.com/job/Boise-Data-Engineer-II-%28Enterprise-Data-Warehouse%29-ID-83702-6924/1384197500/",
+      "source": "Other",
+      "description": "Data Engineer II (Enterprise Data Warehouse). The J.R. Simplot Company is a diverse, privately held global food and agriculture company ...",
+      "date": "2026-04-22",
+      "timestamp": "2026-04-22T07:02:54+00:00",
+      "fetched_at": "2026-04-22T12:53:05.728127+00:00"
+    },
     {
       "id": "83f769a0d175",
       "title": "Software Engineer Job Details | Purpose Financial",
@@ -43,6 +268,36 @@
       "date": "2026-04-22",
       "timestamp": "2026-04-22T06:40:46+00:00",
       "fetched_at": "2026-04-22T09:08:54.167361+00:00"
+    },
+    {
+      "id": "d0f4479e5dbf",
+      "title": "Principal Site Reliability Engineer at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-site-reliability-engineer/47263/94234015424",
+      "source": "Other",
+      "description": "Principal Software Engineer (NetSec-PanOS Dev) San Francisco, California, United States ... Sr Staff Machine Learning Engineer Santa Clara ...",
+      "date": "2026-04-22",
+      "timestamp": "2026-04-22T06:22:55+00:00",
+      "fetched_at": "2026-04-22T12:53:05.728412+00:00"
+    },
+    {
+      "id": "0d6a21113006",
+      "title": "Data Engineer | Citi Careers",
+      "company": "Citi Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.citi.com/job/pune/data-engineer/287/94210539072",
+      "source": "Other",
+      "description": "Learn more about applying for Data Engineer at Citi. Learn more about potential responsibilities, qualifications and career paths.",
+      "date": "2026-04-22",
+      "timestamp": "2026-04-22T06:08:54+00:00",
+      "fetched_at": "2026-04-22T12:53:05.728510+00:00"
     },
     {
       "id": "4d7cdaa9230c",
