@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-04-23T17:06:30.983433+00:00",
-  "total_jobs": 298,
+  "last_updated": "2026-04-23T20:41:10.844679+00:00",
+  "total_jobs": 319,
   "stats": {
-    "total_companies": 233,
+    "total_companies": 248,
     "total_roles": 19,
     "regions": {
-      "India": 114,
-      "Philippines": 12,
-      "Remote": 37,
+      "India": 130,
+      "Philippines": 13,
+      "Remote": 41,
       "Unknown": 135
     },
     "sources": {
-      "Other": 241,
+      "Other": 259,
       "Greenhouse": 16,
-      "Ashby": 11,
+      "Ashby": 12,
       "Workday": 10,
+      "Lever": 5,
       "LinkedIn": 5,
-      "Lever": 4,
       "Breezy": 4,
+      "iCIMS": 3,
       "SmartRecruiters": 3,
-      "iCIMS": 2,
       "Indeed": 1,
       "Workable": 1
     },
@@ -29,6 +29,321 @@
     }
   },
   "jobs": [
+    {
+      "id": "be23c91ddf9a",
+      "title": "Software Engineer in Huntsville, Alabama (No Remote) - Leidos Careers",
+      "company": "Leidos Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.leidos.com/jobs/17654442-software-engineer",
+      "source": "Other",
+      "description": "Leidos Defense is seeking a talented Software Engineer to join a multi-disciplinary team within a matrixed organization to create unique solutions ...",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T19:44:41+00:00",
+      "fetched_at": "2026-04-23T20:41:10.579888+00:00"
+    },
+    {
+      "id": "c69972b2a408",
+      "title": "Software Engineer in Huntsville, Alabama (No Remote) - Leidos Careers",
+      "company": "Leidos Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.leidos.com/jobs/17654443-software-engineer",
+      "source": "Other",
+      "description": "Software Engineer \u00b7 Developing software for use in a Linux environment \u00b7 Developing software in an Agile Scrum environment using Jira and Gitlab ...",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T19:44:41+00:00",
+      "fetched_at": "2026-04-23T20:41:10.840341+00:00"
+    },
+    {
+      "id": "e0f19fa2d63c",
+      "title": "Data Engineer in Reston, Virginia, United States - SAIC Careers",
+      "company": "SAIC Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.saic.com/jobs/17654270-data-engineer",
+      "source": "Other",
+      "description": "... data engineer , database administrator, geospatial analyst/engineer, machine learning engineer , or software engineer , or related field. \u2022 Ability ...",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T19:19:46+00:00",
+      "fetched_at": "2026-04-23T20:41:10.580088+00:00"
+    },
+    {
+      "id": "9213de3d782a",
+      "title": "Associate, Software Engineer - Intern - Pearson.jobs",
+      "company": "Intern - Pearson.jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://pearson.jobs/poznan-pol/associate-software-engineer-intern/9DC8A79062C04905834C3237B27D9FE4/job/",
+      "source": "Other",
+      "description": "Associate, Software Engineer - Intern. Poznan, POL. Job: Engineering; Schedule: FULL_TIME; Req ID: 23814. Role: Associate, Software Engineer - Intern.",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T19:01:38+00:00",
+      "fetched_at": "2026-04-23T20:41:10.580272+00:00"
+    },
+    {
+      "id": "d1eb316b5e14",
+      "title": "Data Engineer in Glastonbury, Connecticut - Liberty Mutual - ICIMS",
+      "company": "Liberty Mutual - ICIMS",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers-libertymutual.icims.com/jobs/75725/data-engineer/job",
+      "source": "iCIMS",
+      "description": "Data Engineer . Job Locations US-CT-Glastonbury. ID: 2026-75725. Position Type: Full-Time. Minimum Salary: USD $105,997.00/Yr. Maximum Salary: USD ...",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T18:31:51+00:00",
+      "fetched_at": "2026-04-23T20:41:10.580406+00:00"
+    },
+    {
+      "id": "fb8abe4f848c",
+      "title": "AI Engineer - Mercedes-Benz Jobs",
+      "company": "Mercedes-Benz Jobs",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.mercedes-benz.com/en/ai-engineer-204209-mer0003vmi",
+      "source": "Other",
+      "description": "... Investors Press. Provider/Privacy. Company \u00b7 Technology \u00b7 Sustainability \u00b7 Careers \u00b7 Investors \u00b7 Press \u00b7 Products \u00b7 Careers Job search AI Engineer . AI ...",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T18:31:41+00:00",
+      "fetched_at": "2026-04-23T20:41:10.580548+00:00"
+    },
+    {
+      "id": "a8168d8a4964",
+      "title": "Software Engineer I - Peloton Careers",
+      "company": "Peloton Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.onepeloton.com/en/all-jobs/7733271/software-engineer-i/?gh_jid=7733271&gh_src=sgod66td1us&source=LinkedIn",
+      "source": "Other",
+      "description": "Software Engineer I. Location New York, New York. Status Full-Time. ABOUT THE ROLE. Join the team powering the Peloton experience on the go. We build ...",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T18:26:40+00:00",
+      "fetched_at": "2026-04-23T20:41:10.580838+00:00"
+    },
+    {
+      "id": "a43c6d3c1972",
+      "title": "Software Engineer Job Details - Careers at Paramount",
+      "company": "Paramount",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.paramount.com/job/New-York-Software-Engineer-NY-10036/1384680800/",
+      "source": "Other",
+      "description": "Overview Paramount Skydance Corp is seeking a Software Engineer to build AI\u2011powered tools, backend services, and internal platforms that support the ...",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T17:58:16+00:00",
+      "fetched_at": "2026-04-23T20:41:10.580984+00:00"
+    },
+    {
+      "id": "063ee64081c5",
+      "title": "Senior Software Engineer in Gaithersburg, Maryland (Hybrid Remote) - Leidos Careers",
+      "company": "Leidos Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.leidos.com/jobs/17653624-senior-software-engineer",
+      "source": "Other",
+      "description": "Leidos Digital Modernization sector is seeking an experienced Senior Software Engineer to support the delivery, enhancement, and adoption of ...",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T17:32:04+00:00",
+      "fetched_at": "2026-04-23T20:41:10.841340+00:00"
+    },
+    {
+      "id": "1207f39c5574",
+      "title": "Senior Software Engineer in Alexandria, Virginia (Hybrid Remote) - Leidos Careers",
+      "company": "Leidos Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.leidos.com/jobs/17653623-senior-software-engineer",
+      "source": "Other",
+      "description": "Leidos Digital Modernization sector is seeking an experienced Senior Software Engineer to support the delivery, enhancement, and adoption of ...",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T17:32:01+00:00",
+      "fetched_at": "2026-04-23T20:41:10.581161+00:00"
+    },
+    {
+      "id": "9ab7f632baf5",
+      "title": "Software Engineer , Machine Learning (SWE II & SWE I) - Salesforce Careers",
+      "company": "Salesforce Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.salesforce.com/en/jobs/jr328085/software-engineer-machine-learning-swe-ii-swe-i/",
+      "source": "Other",
+      "description": "IN SCHOOL OR GRADUATED WITHIN THE LAST 12 MONTHS? PLEASE VISIT FUTURE FORCE FOR OPPORTUNITIES* Slack is looking for a Machine Learning Engineer to ...",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T17:23:53+00:00",
+      "fetched_at": "2026-04-23T20:41:10.581332+00:00"
+    },
+    {
+      "id": "84705e3dc449",
+      "title": "Software Engineer Mid-level (Java Full Stack) - USAA Careers",
+      "company": "level (Java Full Stack) - USAA Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.usaajobs.com/job/san-antonio/software-engineer-mid-level-java-full-stack/1207/94269942864",
+      "source": "Other",
+      "description": "Learn more about and apply for the Software Engineer Mid-level (Java Full Stack) job at USAA here ... As a dedicated Java Full Stack Engineer , you will ...",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T17:17:20+00:00",
+      "fetched_at": "2026-04-23T20:41:10.581497+00:00"
+    },
+    {
+      "id": "cdec697bd13f",
+      "title": "Software Engineer III \u2014 Full Stack (Backend-Focused, Core Platform Services)",
+      "company": "Focused, Core Platform Services)",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mckesson.com/en/job/irving/software-engineer-iii-full-stack-backend-focused-core-platform-services/733/94295986800",
+      "source": "Other",
+      "description": "Learn more about applying for Software Engineer III \u2014 Full Stack (Backend-Focused, Core Platform Services) at MCKESSON.",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T17:17:07+00:00",
+      "fetched_at": "2026-04-23T20:41:10.581722+00:00"
+    },
+    {
+      "id": "0d0bbdd0270b",
+      "title": "Software Engineer @ Mach Industries - Jobs",
+      "company": "Mach",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/mach/f55cee73-55aa-47f3-9baf-8292817c70dc",
+      "source": "Ashby",
+      "description": "Software Engineer . Location. San Francisco. Employment Type. Full time. Location Type. Hybrid. Department. EngineeringSoftware. Compensation. $125K \u2013 ...",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T17:02:29+00:00",
+      "fetched_at": "2026-04-23T20:41:10.842014+00:00"
+    },
+    {
+      "id": "55cfcb7cc367",
+      "title": "Senior Software Engineer , App Hub - Search for your career at Google.",
+      "company": "Google.",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.google.com/jobs/results/126285283061572294-senior-software-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer , App Hub. share. linkCopy link; emailEmail a friend. corporate_fareGoogleplaceWarsaw, Poland. bar_chartMid. Mid. Experience ...",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T16:59:14+00:00",
+      "fetched_at": "2026-04-23T20:41:10.582006+00:00"
+    },
+    {
+      "id": "c2deac4aa04e",
+      "title": "Senior Software Engineer , Ad Auctions - Cambridge, England, United Kingdom - Roku Jobs",
+      "company": "Cambridge, England, United Kingdom - Roku Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.weareroku.com/jobs/senior-software-engineer-ad-auctions-cambridge-england-united-kingdom",
+      "source": "Other",
+      "description": "Senior Software Engineer , Ad Auctions. Advertising | Cambridge, United Kingdom | ID: 11174. Apply View more jobs. Senior Software Engineer , Ad ...",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T16:58:46+00:00",
+      "fetched_at": "2026-04-23T20:41:10.582215+00:00"
+    },
+    {
+      "id": "d3c8a5261ec4",
+      "title": "Patrick J McGovern Foundation - Jr DevOps Engineer - Lever",
+      "company": "Mcgovern",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.lever.co/mcgovern/885d7a1a-16f6-4326-9d7c-da7404dfd1f5",
+      "source": "Lever",
+      "description": "About the role: We are seeking a self-driven Junior DevOps Engineer to contribute to the development, deployment, and maintenance of data and AI ...",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T16:51:17+00:00",
+      "fetched_at": "2026-04-23T20:41:10.582301+00:00"
+    },
+    {
+      "id": "afccb83716f6",
+      "title": "Data, Lakehouse and AI Data Platform Engineer -Hyderabad-Analyst - gs",
+      "company": "Data, Lakehouse and AI Data Platform Engineer",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://higher.gs.com/roles/169321",
+      "source": "Other",
+      "description": "... Platform Engineer -Hyderabad-Analystlocation_onHyderabad, Telangana, India. Apply. Role Summary. As a Data Engineer in the Lakehouse and AI Data ...",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T16:40:56+00:00",
+      "fetched_at": "2026-04-23T20:41:10.582399+00:00"
+    },
+    {
+      "id": "341db5d4d722",
+      "title": "Software Engineer III - Verisk Careers - Cloud Sign In",
+      "company": "Verisk Careers - Cloud Sign In",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3665",
+      "source": "Other",
+      "description": "Software Engineer III. Boston, MA, United States (Hybrid). Apply ... Senior Software Engineer . Boston, MA, United States Posted on 10/03/2025.",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T16:40:00+00:00",
+      "fetched_at": "2026-04-23T20:41:10.582542+00:00"
+    },
+    {
+      "id": "3830a2aa75df",
+      "title": "software engineer for ~9 years now, what my mentors and the world taught me - Reddit",
+      "company": "my mentors and the world taught me",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/developersIndia/comments/1stcewt/software_engineer_for_9_years_now_what_my_mentors/",
+      "source": "Other",
+      "description": "Intern -> backend engineer -> Machine learning engineer -> Senior ... Hey there, i am a senior frontend engineer with 7 Yoe in angular ...",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T16:32:46+00:00",
+      "fetched_at": "2026-04-23T20:41:10.582712+00:00"
+    },
+    {
+      "id": "6708b30293f3",
+      "title": "Senior Site Reliability Engineer \u2013 Automation Platform (x/f/m) (Paris) | Doctolib Careers",
+      "company": "Doctolib Careers",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.doctolib.com/jobs/senior-site-reliability-engineer-automation-platform-x-f-m-7481360003/",
+      "source": "Other",
+      "description": "Senior Site Reliability Engineer ... Machine Learning Engineer - AI Teams (x/f/m)New. Unlimited Contract. Paris. Engineering \u00b7 Senior Software Engineer ...",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T16:12:58+00:00",
+      "fetched_at": "2026-04-23T20:41:10.583079+00:00"
+    },
     {
       "id": "8d481b1bdcf9",
       "title": "I'd Rather Work a Warehouse Job Than Be a Software Engineer : r/findapath - Reddit",
