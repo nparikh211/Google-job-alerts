@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-04-23T09:16:10.872995+00:00",
-  "total_jobs": 273,
+  "last_updated": "2026-04-23T12:52:44.723808+00:00",
+  "total_jobs": 280,
   "stats": {
-    "total_companies": 215,
+    "total_companies": 220,
     "total_roles": 19,
     "regions": {
-      "India": 93,
+      "India": 98,
       "Philippines": 11,
-      "Remote": 34,
+      "Remote": 36,
       "Unknown": 135
     },
     "sources": {
-      "Other": 221,
-      "Greenhouse": 14,
+      "Other": 226,
+      "Greenhouse": 16,
       "Ashby": 9,
       "Workday": 9,
       "LinkedIn": 5,
@@ -30,6 +30,66 @@
   },
   "jobs": [
     {
+      "id": "8dee3562549a",
+      "title": "Apprentice \u2014 Software Engineer (AI) in Bengaluru, India - GSK Careers Apply",
+      "company": "GSK Careers Apply",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.gsk.com/en-gb/jobs/439925?lang=en-us",
+      "source": "Other",
+      "description": "GSK Careers is hiring a Apprentice \u2014 Software Engineer (AI) in Bengaluru, India. Review all of the job details and apply today!",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T10:16:19+00:00",
+      "fetched_at": "2026-04-23T12:52:44.650703+00:00"
+    },
+    {
+      "id": "ff2aebc69f5c",
+      "title": "Summer 2027 Intern - Software Engineer",
+      "company": "Summer 2027 Intern",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.salesforce.com/en/jobs/jr337715/summer-2027-intern-software-engineer/",
+      "source": "Other",
+      "description": "Class of 2028 Intern - Software Engineer AMTS Location: Hyderabad/Bangalore, India This is your time to shine and be part of Salesforce, ...",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T09:33:30+00:00",
+      "fetched_at": "2026-04-23T12:52:44.650914+00:00"
+    },
+    {
+      "id": "947c3741d12a",
+      "title": "Job Application for Senior Software Engineer at Digible - Greenhouse",
+      "company": "Digible",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/digible/jobs/5977315004",
+      "source": "Greenhouse",
+      "description": "Digible is looking for a Senior Software Engineer to join our Engineering team! ... In this role, you'll operate as a full-stack engineer across a ...",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T08:41:06+00:00",
+      "fetched_at": "2026-04-23T12:52:44.651029+00:00"
+    },
+    {
+      "id": "decf7a47b3da",
+      "title": "Software Engineer in Louisville, Kentucky | Technology and Digital Analytics at Humana",
+      "company": "Humana",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.humana.com/us/en/job/R-413930/Software-Engineer",
+      "source": "Other",
+      "description": "This role will get some direction from a Senior Software Engineer . It ... Platform Engineer . Available in 6 locationsAvailable in 6 locations.",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T08:24:52+00:00",
+      "fetched_at": "2026-04-23T12:52:44.651223+00:00"
+    },
+    {
       "id": "7f944575eb2b",
       "title": "Platform Engineer at Cargill",
       "company": "Cargill",
@@ -43,6 +103,36 @@
       "date": "2026-04-23",
       "timestamp": "2026-04-23T05:50:33+00:00",
       "fetched_at": "2026-04-23T09:16:10.583914+00:00"
+    },
+    {
+      "id": "cffec876b57b",
+      "title": "Software Engineer (C#/.Net) | Remote, IL - Allstate Careers",
+      "company": "Remote, IL - Allstate Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.allstate.jobs/job/23290373/software-engineer-c-net-/",
+      "source": "Other",
+      "description": "Software Engineer (C#/.Net). United ... Allstate is committed to helping employees continuously develop and grow. Kelly. Cloud Engineer . Kelly.",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T05:37:27+00:00",
+      "fetched_at": "2026-04-23T12:52:44.651736+00:00"
+    },
+    {
+      "id": "f1b1ca2e6aab",
+      "title": "Job Application for Senior Software Engineer (US) at VulnCheck - Greenhouse",
+      "company": "Vulncheck",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/vulncheck/jobs/4230563009",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer (US). Maryland. Apply. Sr. Software Engineer - US. Location: Massachusetts, Maryland, or Greater Austin, TX (Remote) Team ...",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T03:25:26+00:00",
+      "fetched_at": "2026-04-23T12:52:44.651920+00:00"
     },
     {
       "id": "e0874cc4e334",
@@ -103,6 +193,21 @@
       "date": "2026-04-23",
       "timestamp": "2026-04-23T02:44:00+00:00",
       "fetched_at": "2026-04-23T09:16:10.585234+00:00"
+    },
+    {
+      "id": "3391584d6e0d",
+      "title": "Senior Identity & SaaS Platform Engineer in Los Angeles, California | FOX Careers",
+      "company": "FOX Careers",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.foxcareers.com/Search/JobDetail/R50032358/senior-identity-saas-platform-engineer-fox-corporation",
+      "source": "Other",
+      "description": "View the job requirements for the Senior Identity & SaaS Platform Engineer opening in Los Angeles, California |Apply Now at FOX Careers.",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T02:41:52+00:00",
+      "fetched_at": "2026-04-23T12:52:44.652995+00:00"
     },
     {
       "id": "e8b28f09c188",
