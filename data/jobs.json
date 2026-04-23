@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-04-23T05:57:57.394493+00:00",
-  "total_jobs": 266,
+  "last_updated": "2026-04-23T09:16:10.872995+00:00",
+  "total_jobs": 273,
   "stats": {
-    "total_companies": 211,
+    "total_companies": 215,
     "total_roles": 19,
     "regions": {
-      "India": 87,
+      "India": 93,
       "Philippines": 11,
-      "Remote": 33,
+      "Remote": 34,
       "Unknown": 135
     },
     "sources": {
-      "Other": 216,
-      "Greenhouse": 13,
+      "Other": 221,
+      "Greenhouse": 14,
+      "Ashby": 9,
       "Workday": 9,
-      "Ashby": 8,
       "LinkedIn": 5,
       "Lever": 4,
       "Breezy": 4,
@@ -30,6 +30,51 @@
   },
   "jobs": [
     {
+      "id": "7f944575eb2b",
+      "title": "Platform Engineer at Cargill",
+      "company": "Cargill",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cargill.com/en/job/atlanta/platform-engineer/23251/94259463696",
+      "source": "Other",
+      "description": "Platform Engineer . Platform Engineer . Apply Now Save Job Remove Job. Job ID 324081 Date posted 04/22/2026 Location : Atlanta, Georgia Category ...",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T05:50:33+00:00",
+      "fetched_at": "2026-04-23T09:16:10.583914+00:00"
+    },
+    {
+      "id": "e0874cc4e334",
+      "title": "Machine Learning Engineer - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200657324-0836/machine-learning-engineer",
+      "source": "Other",
+      "description": "As a Machine Learning Engineer , you will design and build cutting-edge AI/ML systems that drive meaningful business outcomes at scale.",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T03:13:49+00:00",
+      "fetched_at": "2026-04-23T09:16:10.584084+00:00"
+    },
+    {
+      "id": "7bd4e9915c72",
+      "title": "Android Software Engineer - UIKIT, Markham, Ontario | General Motors Careers",
+      "company": "UIKIT, Markham, Ontario | General Motors Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://search-careers.gm.com/en/jobs/jr-202608573/android-software-engineer-uikit/",
+      "source": "Other",
+      "description": "As an Android Software Engineer \u2013 UIKIT you will design, implement, and maintain Android applications that power the in\u2011vehicle experience for our ...",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T02:57:04+00:00",
+      "fetched_at": "2026-04-23T09:16:10.584651+00:00"
+    },
+    {
       "id": "738478618a4b",
       "title": "Software Engineer (GenAi - Platform & Solution), AI & Data Platforms (AiDP) - Jobs",
       "company": "Platform & Solution), AI & Data Platforms (AiDP) - Jobs",
@@ -43,6 +88,36 @@
       "date": "2026-04-23",
       "timestamp": "2026-04-23T02:49:46+00:00",
       "fetched_at": "2026-04-23T05:57:57.035844+00:00"
+    },
+    {
+      "id": "467142594a37",
+      "title": "AI Engineer , Plano, Texas, United States - Hilti Careers",
+      "company": "Hilti Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.hilti.group/en/jobs/17264-en/ai-engineer/",
+      "source": "Other",
+      "description": "AI Engineer \u00b7 Orchestrate AI into real business impact. The purpose of the AI Orchestrator role is to translate business and engineering requirements ...",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T02:44:00+00:00",
+      "fetched_at": "2026-04-23T09:16:10.585234+00:00"
+    },
+    {
+      "id": "e8b28f09c188",
+      "title": "Job Application for Software Engineer , I - Middleware at Torc Robotics - Greenhouse",
+      "company": "Torcrobotics",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/torcrobotics/jobs/8516987002",
+      "source": "Greenhouse",
+      "description": "Software Engineer , I - Middleware. Ann Arbor, MI. Apply. About the Company. At Torc, we have always believed that autonomous vehicle technology will ...",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T01:57:06+00:00",
+      "fetched_at": "2026-04-23T09:16:10.585363+00:00"
     },
     {
       "id": "9f7c3a042fd1",
@@ -88,6 +163,21 @@
       "date": "2026-04-23",
       "timestamp": "2026-04-23T00:03:23+00:00",
       "fetched_at": "2026-04-23T01:16:33.423106+00:00"
+    },
+    {
+      "id": "75436e779460",
+      "title": "Software Engineer , Banking @ Ramp - Jobs",
+      "company": "Ramp",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.ashbyhq.com/ramp/d818443f-d4c5-4eab-892d-3715a935c165",
+      "source": "Ashby",
+      "description": "Software Engineer , Banking. Location. New York, NY (HQ); Remote (US); San Francisco, CA. Employment Type. Full time. Location Type. Remote. Department.",
+      "date": "2026-04-22",
+      "timestamp": "2026-04-22T23:43:26+00:00",
+      "fetched_at": "2026-04-23T09:16:10.585977+00:00"
     },
     {
       "id": "1bf0634699e2",
@@ -208,6 +298,21 @@
       "date": "2026-04-22",
       "timestamp": "2026-04-22T21:52:36+00:00",
       "fetched_at": "2026-04-23T01:16:33.424729+00:00"
+    },
+    {
+      "id": "2e022797c805",
+      "title": "Sr. Principal Software Engineer - Layer 7 at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-principal-software-engineer-layer-7/47263/94266527280",
+      "source": "Other",
+      "description": "Sr. Principal Software Engineer - Layer 7 \u00b7 B.S. degree in Computer Science, similar technical discipline or equivalent practical experience plus 7 or ...",
+      "date": "2026-04-22",
+      "timestamp": "2026-04-22T21:47:07+00:00",
+      "fetched_at": "2026-04-23T09:16:10.587711+00:00"
     },
     {
       "id": "b990cca33fdb",
