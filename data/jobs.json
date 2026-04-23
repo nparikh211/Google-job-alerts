@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-04-23T12:52:44.723808+00:00",
-  "total_jobs": 280,
+  "last_updated": "2026-04-23T17:06:30.983433+00:00",
+  "total_jobs": 298,
   "stats": {
-    "total_companies": 220,
+    "total_companies": 233,
     "total_roles": 19,
     "regions": {
-      "India": 98,
-      "Philippines": 11,
-      "Remote": 36,
+      "India": 114,
+      "Philippines": 12,
+      "Remote": 37,
       "Unknown": 135
     },
     "sources": {
-      "Other": 226,
+      "Other": 241,
       "Greenhouse": 16,
-      "Ashby": 9,
-      "Workday": 9,
+      "Ashby": 11,
+      "Workday": 10,
       "LinkedIn": 5,
       "Lever": 4,
       "Breezy": 4,
@@ -29,6 +29,261 @@
     }
   },
   "jobs": [
+    {
+      "id": "8d481b1bdcf9",
+      "title": "I'd Rather Work a Warehouse Job Than Be a Software Engineer : r/findapath - Reddit",
+      "company": "Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/findapath/comments/1ssqawk/id_rather_work_a_warehouse_job_than_be_a_software/",
+      "source": "Other",
+      "description": "... software engineer background. You won't be able to relate to your ... I worked as a software engineer , electrical engineer, researcher, and data ...",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T16:09:39+00:00",
+      "fetched_at": "2026-04-23T17:06:30.896691+00:00"
+    },
+    {
+      "id": "3d0d328aca49",
+      "title": "India, Senior Big Data Engineer I - 16794 - MetLife Careers",
+      "company": "16794 - MetLife Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.metlifecareers.com/en_US/ml/JobDetail/Senior-Big-Data-Engineer-I/16794",
+      "source": "Other",
+      "description": "GG11.1 Role Value Proposition Data Engineer plays a critical role in data and analytics life cycle and significantly contributes to production ...",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T16:02:42+00:00",
+      "fetched_at": "2026-04-23T17:06:30.896902+00:00"
+    },
+    {
+      "id": "5fa455a014f2",
+      "title": "Job Opening: Senior Data Engineer at EAB in Washington, D.C.",
+      "company": "EAB in Washington, D.C.",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://recruit.hirebridge.com/v3/Jobs/JobDetails.aspx?cid=7856&jid=609602&locvalue=1036",
+      "source": "Other",
+      "description": "This position is also posted at the Principal Data Engineer level; candidates are being considered at both levels for the current opening. Primary ...",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T15:56:23+00:00",
+      "fetched_at": "2026-04-23T17:06:30.897184+00:00"
+    },
+    {
+      "id": "e51d8724a87f",
+      "title": "Software Engineer in Huntsville, Alabama, United States - SAIC Careers",
+      "company": "SAIC Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.saic.com/jobs/17652721-software-engineer",
+      "source": "Other",
+      "description": "Job Description. Description. SAIC is seeking a Software Engineer to join the STARS Products team. This position will sit at Redstone Arsenal in ...",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T15:28:55+00:00",
+      "fetched_at": "2026-04-23T17:06:30.897395+00:00"
+    },
+    {
+      "id": "9332a43b44cd",
+      "title": "Sr Staff Software Engineer (Chronosphere) at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/chicago/sr-staff-software-engineer-chronosphere/47263/94291723664",
+      "source": "Other",
+      "description": "Sr Staff Software Engineer (Chronosphere). Chicago, Illinois, United States Product Engineering Ref ID: JR-016907. Apply Save Job.",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T15:17:21+00:00",
+      "fetched_at": "2026-04-23T17:06:30.897574+00:00"
+    },
+    {
+      "id": "b99969c65adf",
+      "title": "Senior Software Engineer , (AI) | Sprout Social",
+      "company": "Sprout Social",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://sproutsocial.com/careers/open-positions/7700124/?gh_jid=7700124",
+      "source": "Other",
+      "description": "Senior Software Engineer , (AI). Remote US. Engineering. We know experience ... Senior Software Engineer , (AI). Engineering. Remote US. Senior ...",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T14:52:53+00:00",
+      "fetched_at": "2026-04-23T17:06:30.979467+00:00"
+    },
+    {
+      "id": "d01acda807b0",
+      "title": "Lead Software Engineer - Rippling",
+      "company": "Rippling",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://ats.rippling.com/emeraldx/jobs/031d6ba6-31bc-42a0-b955-cc22a638da66",
+      "source": "Other",
+      "description": "Emerald is seeking an experienced Lead Software Engineer with strong development expertise, architectural leadership, and a passion for AI-enabled ...",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T14:48:38+00:00",
+      "fetched_at": "2026-04-23T17:06:30.979626+00:00"
+    },
+    {
+      "id": "f290ca8f3383",
+      "title": "Full Stack Engineer (8826) Jobs in Richmond VA \\ Other Job Recruiters - Morton",
+      "company": "Morton",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.themortonway.com/Full-Stack-Engineer-8826-Jobs-in-Richmond-Virginia/14030146",
+      "source": "Other",
+      "description": "Position Title: Full Stack Engineer Location: Richmond Virginia Position Status: 6 month contract to direct hire. Schedule: Hybrid Richmond, VA",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T14:43:28+00:00",
+      "fetched_at": "2026-04-23T17:06:30.897767+00:00"
+    },
+    {
+      "id": "6ee24373ef7b",
+      "title": "Applied AI & ML Engineer - Myworkdayjobs.com",
+      "company": "Boseallaboutme",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/Applied-AI---ML-Engineer_R28868",
+      "source": "Workday",
+      "description": "The Data and AI organization is seeking an entry-level Applied AI & ML Engineer to join the team. In this role, you will work at the intersection of ...",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T14:21:16+00:00",
+      "fetched_at": "2026-04-23T17:06:30.897868+00:00"
+    },
+    {
+      "id": "082cf48a612a",
+      "title": "Software Engineer , Machine Learning Infrastructure @ Whatnot - Jobs",
+      "company": "Whatnot",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/whatnot/5b592753-40a8-405e-8ced-35c311ff1354",
+      "source": "Ashby",
+      "description": "... Platform Engineer you should have 4+ years of professional experience ... Software Engineer , Machine Learning Infrastructure. Location. San ...",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T13:53:42+00:00",
+      "fetched_at": "2026-04-23T17:06:30.897979+00:00"
+    },
+    {
+      "id": "f49bca3ed15b",
+      "title": "Junior Data Engineer in United States | Progressive Careers",
+      "company": "Progressive Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.progressive.com/jobs/17651756-junior-data-engineer/",
+      "source": "Other",
+      "description": "Apply today and take the first step to Destination: Progress. As a data engineer on the Property Underwriting Decision Engine (UDE) team, you'll be ...",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T13:30:01+00:00",
+      "fetched_at": "2026-04-23T17:06:30.898137+00:00"
+    },
+    {
+      "id": "55be6ca0476a",
+      "title": "Software Engineer III, Monolith Systems in United States - GitHub Careers",
+      "company": "GitHub Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.github.careers/careers-home/jobs/5345?lang=en-us",
+      "source": "Other",
+      "description": "GitHub Careers Home is hiring a Software Engineer III, Monolith Systems in United States. Review all of the job details and apply today!",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T13:14:37+00:00",
+      "fetched_at": "2026-04-23T17:06:30.898298+00:00"
+    },
+    {
+      "id": "c783abad88e1",
+      "title": "Sr. Applied AI Engineer @ Zapier - Jobs",
+      "company": "Zapier",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/zapier/38434b88-086c-424b-8d18-8d006e0b71b8",
+      "source": "Ashby",
+      "description": "... AI Engineer ! As a key member of this team, you'll help build and evolve the shared infrastructure that powers AI and ML development across Zapier ...",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T13:14:00+00:00",
+      "fetched_at": "2026-04-23T17:06:30.898406+00:00"
+    },
+    {
+      "id": "3be252063720",
+      "title": "Software Engineer | GE Vernova",
+      "company": "GE Vernova",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.gevernova.com/software-engineer/job/R5038479",
+      "source": "Other",
+      "description": "Apply for the position Software Engineer today ... Software Engineer . Digital Engineering; PB. Type: Full Time. Location(s): ...",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T13:02:16+00:00",
+      "fetched_at": "2026-04-23T17:06:30.898529+00:00"
+    },
+    {
+      "id": "d0bb568c1cbb",
+      "title": "Fullstack Software Engineer II, Cadence - San Francisco, California | Uber Careers",
+      "company": "San Francisco, California | Uber Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.uber.com/careers/list/157364",
+      "source": "Other",
+      "description": "Fullstack Software Engineer II, Cadence ... We are looking for a full stack engineer with the primary focus on building our user interface and tooling.",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T12:47:25+00:00",
+      "fetched_at": "2026-04-23T17:06:30.898664+00:00"
+    },
+    {
+      "id": "ab28259a856f",
+      "title": "Machine Learning Engineer II - AV Labs - Sunnyvale, California | Uber Careers",
+      "company": "AV Labs - Sunnyvale, California | Uber Careers",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.uber.com/careers/list/158789",
+      "source": "Other",
+      "description": "Machine Learning Engineer II - AV Labs. Machine Learning, Engineering. in ... As a ML Engineer , you will be at the forefront of Physical AI ...",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T12:47:25+00:00",
+      "fetched_at": "2026-04-23T17:06:30.898820+00:00"
+    },
+    {
+      "id": "faba524dc923",
+      "title": "Data Engineer - Uline Careers",
+      "company": "Uline Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.uline.jobs/JobDetails?culture=en&jobid=R263373&jobtitle=Data-Engineer&requestId=",
+      "source": "Other",
+      "description": "Next-level analytics to guide and support our growing company! As a Data Engineer at Uline, deliver custom data warehousing solutions and help build ...",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T10:25:12+00:00",
+      "fetched_at": "2026-04-23T17:06:30.898963+00:00"
+    },
     {
       "id": "8dee3562549a",
       "title": "Apprentice \u2014 Software Engineer (AI) in Bengaluru, India - GSK Careers Apply",
@@ -73,6 +328,21 @@
       "date": "2026-04-23",
       "timestamp": "2026-04-23T08:41:06+00:00",
       "fetched_at": "2026-04-23T12:52:44.651029+00:00"
+    },
+    {
+      "id": "193a9a2f8164",
+      "title": "Senior Software Engineer - ML/AI - Adyen Careers",
+      "company": "ML/AI - Adyen Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.adyen.com/vacancies/7711481-senior-software-engineer-ml-ai",
+      "source": "Other",
+      "description": "Senior Software Engineer - ML/AI. Data Analytics Amsterdam. This is Adyen. Adyen provides payments, data, and financial products in a single solution ...",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T08:39:32+00:00",
+      "fetched_at": "2026-04-23T17:06:30.899540+00:00"
     },
     {
       "id": "decf7a47b3da",
