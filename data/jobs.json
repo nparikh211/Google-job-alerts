@@ -1,34 +1,259 @@
 {
-  "last_updated": "2026-04-22T20:40:35.952246+00:00",
-  "total_jobs": 243,
+  "last_updated": "2026-04-23T01:16:33.686622+00:00",
+  "total_jobs": 259,
   "stats": {
-    "total_companies": 196,
-    "total_roles": 18,
+    "total_companies": 208,
+    "total_roles": 19,
     "regions": {
-      "India": 66,
+      "India": 80,
       "Philippines": 11,
-      "Remote": 31,
+      "Remote": 33,
       "Unknown": 135
     },
     "sources": {
-      "Other": 198,
-      "Greenhouse": 11,
-      "Workday": 8,
+      "Other": 209,
+      "Greenhouse": 13,
+      "Workday": 9,
       "Ashby": 8,
       "LinkedIn": 5,
+      "Lever": 4,
       "Breezy": 4,
-      "Lever": 3,
+      "SmartRecruiters": 3,
       "iCIMS": 2,
-      "SmartRecruiters": 2,
       "Indeed": 1,
       "Workable": 1
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-04-22"
+      "latest": "2026-04-23"
     }
   },
   "jobs": [
+    {
+      "id": "9294c34c9b68",
+      "title": "How do you interview senior software engineer ? What do u consider is a good interview",
+      "company": "do u consider is a good interview",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1ssoua3/how_do_you_interview_senior_software_engineer/",
+      "source": "Other",
+      "description": "What skills (soft / technical) would you expect from a Senior Software Engineer ? 30 upvotes \u00b7 23 comments. How many software engineering job ...",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T00:03:23+00:00",
+      "fetched_at": "2026-04-23T01:16:33.423106+00:00"
+    },
+    {
+      "id": "8ca07605e547",
+      "title": "Senior Software Engineer \u2013 Item Modernization | Publix Store & Corporate Careers",
+      "company": "Publix Store & Corporate Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.publix.com/job-opening/senior-software-engineer-item-modernization/",
+      "source": "Other",
+      "description": "Join Publix and grow your career as a Senior Software Engineer \u2013 Item Modernization. Apply today.",
+      "date": "2026-04-22",
+      "timestamp": "2026-04-22T22:33:55+00:00",
+      "fetched_at": "2026-04-23T01:16:33.423668+00:00"
+    },
+    {
+      "id": "c62d37685ee5",
+      "title": "Data Engineer Student Program 2026 | Wix Careers",
+      "company": "Wix Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.wix.com/position/oracle-6e0dccf7-a383-5e9a-9e37-6ba4c8afd8a7-T1776339847-744000122327329",
+      "source": "Other",
+      "description": "By the end of the program, you'll join one of our Data teams as a part-time Student Data Engineer . In your day-to-day, you will: Learn to ask the ...",
+      "date": "2026-04-22",
+      "timestamp": "2026-04-22T22:21:01+00:00",
+      "fetched_at": "2026-04-23T01:16:33.424133+00:00"
+    },
+    {
+      "id": "9739a570fc48",
+      "title": "Frontend Engineer , Payments & Risk - Stripe",
+      "company": "Stripe",
+      "role": "Frontend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://stripe.com/en-ee/jobs/listing/frontend-engineer-payments-risk/7833796",
+      "source": "Other",
+      "description": "Frontend Engineer , Payments & Risk. Note: if you are an intern, new grad, or staff applicant, please do not apply using this link and visit our ...",
+      "date": "2026-04-22",
+      "timestamp": "2026-04-22T22:12:30+00:00",
+      "fetched_at": "2026-04-23T01:16:33.424297+00:00"
+    },
+    {
+      "id": "05f5d702a930",
+      "title": "Sr Software Engineer | GE Vernova",
+      "company": "GE Vernova",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.gevernova.com/sr-software-engineer/job/R5039077",
+      "source": "Other",
+      "description": "Sr Software Engineer . Digital Engineering; LPB. Type: Full Time. Location(s):. Wilmington NC US; Atlanta VERNOVA GA US 4; Greenville SC US; Houston ...",
+      "date": "2026-04-22",
+      "timestamp": "2026-04-22T22:09:27+00:00",
+      "fetched_at": "2026-04-23T01:16:33.424438+00:00"
+    },
+    {
+      "id": "102f0948d792",
+      "title": "Senior DevOps Engineer - Cyber and jobs at Comcast",
+      "company": "Comcast",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.comcast.com/job/philadelphia/senior-devops-engineer-cyber/45483/92907149248",
+      "source": "Other",
+      "description": "Senior DevOps Engineer - Cyber turn big ideas into solutions our customers love. Search our jobs to launch a career in Pennsylvania or Virginia.",
+      "date": "2026-04-22",
+      "timestamp": "2026-04-22T21:58:41+00:00",
+      "fetched_at": "2026-04-23T01:16:33.424589+00:00"
+    },
+    {
+      "id": "c1c0e3525fea",
+      "title": "Senior Software Engineer , (AI) | Sprout Social",
+      "company": "Sprout Social",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://sproutsocial.com/careers/open-positions/7700124/",
+      "source": "Other",
+      "description": "Senior Software Engineer , (AI). Remote US. Engineering. We know experience ... Senior Software Engineer , (AI). Engineering. Remote US. Senior ...",
+      "date": "2026-04-22",
+      "timestamp": "2026-04-22T21:52:36+00:00",
+      "fetched_at": "2026-04-23T01:16:33.424729+00:00"
+    },
+    {
+      "id": "81457ea05a2c",
+      "title": "Senior Software Engineer - Jitx Inc. - Lever",
+      "company": "Jitxinc",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.lever.co/jitxinc/0a97f3ef-57ee-4ce0-a218-579eb36a25f3",
+      "source": "Lever",
+      "description": "The Role. We're looking for a senior software engineer with a strong mathematical and algorithmic foundation who can own significant product areas end ...",
+      "date": "2026-04-22",
+      "timestamp": "2026-04-22T21:05:42+00:00",
+      "fetched_at": "2026-04-23T01:16:33.424832+00:00"
+    },
+    {
+      "id": "5728ab733627",
+      "title": "Job Application for AI Engineer at Impiricus - Greenhouse",
+      "company": "Impiricus",
+      "role": "AI Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/impiricus/jobs/5195577008",
+      "source": "Greenhouse",
+      "description": "AI Engineer . NYC, NY | Atlanta, GA | Remote, USA. Apply. Job Title: AI ... software engineer with a focus on generative AI technologies?*. Select ...",
+      "date": "2026-04-22",
+      "timestamp": "2026-04-22T20:52:51+00:00",
+      "fetched_at": "2026-04-23T01:16:33.424927+00:00"
+    },
+    {
+      "id": "a170e8a843a6",
+      "title": "AI / ML Engineer II - Myworkdayjobs.com",
+      "company": "Ffive",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Seattle/AI---ML-Engineer-II_RP1037328-1",
+      "source": "Workday",
+      "description": "AI / ML Engineer II \u00b7 Support research and evaluation of emerging AI, machine learning, and generative AI techniques for product, platform, and ...",
+      "date": "2026-04-22",
+      "timestamp": "2026-04-22T20:21:46+00:00",
+      "fetched_at": "2026-04-23T01:16:33.425019+00:00"
+    },
+    {
+      "id": "cf2eac5b279f",
+      "title": "Job Application for Software Engineer at Shift4 - Greenhouse",
+      "company": "Shift4",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/shift4/jobs/5106495007",
+      "source": "Greenhouse",
+      "description": "Software Engineer . Center Valley, Pennsylvania, United States. Apply. Overview. Shift4 (NYSE: FOUR) is boldly redefining commerce by simplifying ...",
+      "date": "2026-04-22",
+      "timestamp": "2026-04-22T20:01:06+00:00",
+      "fetched_at": "2026-04-23T01:16:33.425134+00:00"
+    },
+    {
+      "id": "a61b63b5fc43",
+      "title": "NBCUniversal Software Engineer | SmartRecruiters",
+      "company": "Nbcuniversal3",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.smartrecruiters.com/NBCUniversal3/744000122269958-software-engineer",
+      "source": "SmartRecruiters",
+      "description": "Software Engineer . 30 Rockefeller Plaza, New York, NEW YORK Employees work in a hybrid mode; Full-time. Business Segment: Media Group Functions ...",
+      "date": "2026-04-22",
+      "timestamp": "2026-04-22T19:49:59+00:00",
+      "fetched_at": "2026-04-23T01:16:33.425237+00:00"
+    },
+    {
+      "id": "e5cf13197741",
+      "title": "DevOps Engineer | Careers at Fresenius Medical Care",
+      "company": "Fresenius Medical Care",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.freseniusmedicalcare.com/devops-engineer/job/9CC00F7E319A4F83BDD7FDA57C90779D",
+      "source": "Other",
+      "description": "DevOps Engineer . Address: VIA GIOVANNI PAOLO II-41, VAIANO CREMASCO, CREMONA, Cremona, 26010, Italy. Job ID: R0248784. Location Type: Hybrid. Apply ...",
+      "date": "2026-04-22",
+      "timestamp": "2026-04-22T19:45:30+00:00",
+      "fetched_at": "2026-04-23T01:16:33.425397+00:00"
+    },
+    {
+      "id": "b9468209595c",
+      "title": "Cloud Engineer , Westlake, TX / Smithfield, RI | Fidelity Careers",
+      "company": "Fidelity Careers",
+      "role": "Cloud Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.fidelity.com/en/jobs/2124991/cloud-engineer/",
+      "source": "Other",
+      "description": "Cloud Engineer . Published: Apr 22. ID: 2124991. Time onsite: blend of ... Principal Site Reliability Engineer . Save Saved. Technology Published ...",
+      "date": "2026-04-22",
+      "timestamp": "2026-04-22T19:20:34+00:00",
+      "fetched_at": "2026-04-23T01:16:33.425609+00:00"
+    },
+    {
+      "id": "7619644907b4",
+      "title": "India, Software Platform Engineer I - 17114 - MetLife Careers",
+      "company": "17114 - MetLife Careers",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.metlifecareers.com/en_US/ml/JobDetail/Software-Platform-Engineer-II/17114",
+      "source": "Other",
+      "description": "Software Platform Engineer I. General Information. Location. Hyderabad, Telangana. City/Cities. Hyderabad. Country. India. Working Schedule. Full-Time.",
+      "date": "2026-04-22",
+      "timestamp": "2026-04-22T19:18:46+00:00",
+      "fetched_at": "2026-04-23T01:16:33.425768+00:00"
+    },
     {
       "id": "d33eed22bfbb",
       "title": "Machine Learning Engineer \u2013 Recommendations & Personalization (Feature Engineering)",
@@ -43,6 +268,21 @@
       "date": "2026-04-22",
       "timestamp": "2026-04-22T19:16:28+00:00",
       "fetched_at": "2026-04-22T20:40:35.881145+00:00"
+    },
+    {
+      "id": "3d5099a94885",
+      "title": "Staff Software Engineer , Employee Lifecycle Management - Toronto, Ontario, Canada - Toast",
+      "company": "Toronto, Ontario, Canada - Toast",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.toasttab.com/jobs/staff-software-engineer-employee-lifecycle-management-toronto-ontario-canada",
+      "source": "Other",
+      "description": "Staff Software Engineer , Employee Lifecycle Management ... About Toast: Toast creates technology to help restaurants and local businesses succeed in a ...",
+      "date": "2026-04-22",
+      "timestamp": "2026-04-22T18:57:45+00:00",
+      "fetched_at": "2026-04-23T01:16:33.426636+00:00"
     },
     {
       "id": "434b78964e58",
