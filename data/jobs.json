@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-04-24T06:00:46.945863+00:00",
-  "total_jobs": 345,
+  "last_updated": "2026-04-24T09:20:19.435670+00:00",
+  "total_jobs": 353,
   "stats": {
-    "total_companies": 265,
+    "total_companies": 271,
     "total_roles": 19,
     "regions": {
-      "India": 144,
-      "Philippines": 19,
+      "India": 148,
+      "Philippines": 23,
       "Remote": 47,
       "Unknown": 135
     },
     "sources": {
-      "Other": 280,
+      "Other": 286,
       "Greenhouse": 17,
-      "Ashby": 12,
-      "Workday": 11,
+      "Ashby": 13,
+      "Workday": 12,
       "Breezy": 6,
       "Lever": 5,
       "LinkedIn": 5,
@@ -29,6 +29,96 @@
     }
   },
   "jobs": [
+    {
+      "id": "27dc240b0143",
+      "title": "Software Engineer , AI Cloud - - 76696 - Jobs at Lenovo",
+      "company": "Lenovo",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.lenovo.com/en_US/careers/JobDetail/Software-Engineer-AI-Cloud/76696",
+      "source": "Other",
+      "description": "Software Engineer , AI Cloud at created 23-Apr-2026.",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T06:32:06+00:00",
+      "fetched_at": "2026-04-24T09:20:19.431002+00:00"
+    },
+    {
+      "id": "eacd5505821a",
+      "title": "Data Engineer - Perform",
+      "company": "Perform",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.totalperform.com/jobs/596708-data-engineer",
+      "source": "Other",
+      "description": "Data Engineer . Own end-to-end data pipelines and migrations on Azure; ship reliable, production-ready data solutions, collaborate across teams, and ...",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T06:24:08+00:00",
+      "fetched_at": "2026-04-24T09:20:19.431145+00:00"
+    },
+    {
+      "id": "01c9cdbe4f11",
+      "title": "Software Engineering Jobs at Mastercard",
+      "company": "Mastercard",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.mastercard.com/us/en/software-engineering-jobs",
+      "source": "Other",
+      "description": "Mentor and develop team members, fostering a high-performing and collabo... Senior Software Engineer . Location Arlington, United States ...",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T06:16:29+00:00",
+      "fetched_at": "2026-04-24T09:20:19.431270+00:00"
+    },
+    {
+      "id": "38ebe448275a",
+      "title": "Software Engineer , New Grad @ Notion - Jobs",
+      "company": "Notion",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/notion/a6311f97-4850-4674-a5f3-d9fe5f6f2555/application",
+      "source": "Ashby",
+      "description": "Software Engineer , New Grad. Location. San Francisco, California. Employment Type. Full time. Location Type. Hybrid. Department. University. Overview ...",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T05:33:44+00:00",
+      "fetched_at": "2026-04-24T09:20:19.431367+00:00"
+    },
+    {
+      "id": "0966d01ba12b",
+      "title": "Principal AI Engineer - Enterprise AI Solutions at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-ai-engineer-enterprise-ai-solutions/47263/94312004576",
+      "source": "Other",
+      "description": "Learn more about applying for Principal AI Engineer ... Sr Site Reliability Engineer (Advanced Threat Protection) Santa Clara, California, United States",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T04:59:36+00:00",
+      "fetched_at": "2026-04-24T09:20:18.400475+00:00"
+    },
+    {
+      "id": "b5a93a60f226",
+      "title": "Staff/Sr. Staff AI Engineer - Enterprise AI Solutions at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/santa-clara/staff-sr-staff-ai-engineer-enterprise-ai-solutions/47263/94312004544",
+      "source": "Other",
+      "description": "Staff Software Engineer Santa Clara, California ... Principal Site Reliability Engineer (DNS Security) Santa Clara, California, United States",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T04:59:36+00:00",
+      "fetched_at": "2026-04-24T09:20:18.400725+00:00"
+    },
     {
       "id": "36a314b2b27d",
       "title": "DevOps Engineer at Driver",
@@ -60,6 +150,21 @@
       "fetched_at": "2026-04-24T06:00:46.845057+00:00"
     },
     {
+      "id": "2277a00d028c",
+      "title": "Software Engineer (Developer Tooling) - Cloudsmith",
+      "company": "Cloudsmith",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cloudsmith.com/jobs/7599914-software-engineer-developer-tooling",
+      "source": "Other",
+      "description": "TL;DR: We're seeking a platform-minded software engineer to build and own the developer-facing tools that sit at the heart of how engineers ...",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T04:06:28+00:00",
+      "fetched_at": "2026-04-24T09:20:18.401627+00:00"
+    },
+    {
       "id": "ac59093a22ad",
       "title": "Job Application for Senior Software Engineer , AI Operations at RapidSOS - Greenhouse",
       "company": "Rapidsos",
@@ -73,6 +178,21 @@
       "date": "2026-04-24",
       "timestamp": "2026-04-24T04:06:22+00:00",
       "fetched_at": "2026-04-24T06:00:46.845176+00:00"
+    },
+    {
+      "id": "ce21192b7f79",
+      "title": "Software & AI Engineer III - Myworkdayjobs.com",
+      "company": "Blueorigin",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Software---AI-Engineer-III_R58791",
+      "source": "Workday",
+      "description": "... Full Stack Engineer , you will be at the forefront of software ... Software & AI Engineer III. Apply. locations: Greater Seattle Area: Huntsville ...",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T02:29:54+00:00",
+      "fetched_at": "2026-04-24T09:20:18.401840+00:00"
     },
     {
       "id": "b91d197ea977",
