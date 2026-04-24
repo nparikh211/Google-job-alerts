@@ -1,27 +1,28 @@
 {
-  "last_updated": "2026-04-24T16:42:14.188827+00:00",
-  "total_jobs": 373,
+  "last_updated": "2026-04-24T20:32:53.561924+00:00",
+  "total_jobs": 389,
   "stats": {
-    "total_companies": 285,
+    "total_companies": 299,
     "total_roles": 19,
     "regions": {
-      "India": 164,
-      "Philippines": 24,
-      "Remote": 50,
+      "India": 174,
+      "Philippines": 26,
+      "Remote": 56,
       "Unknown": 135
     },
     "sources": {
-      "Other": 302,
-      "Greenhouse": 18,
+      "Other": 312,
+      "Greenhouse": 19,
+      "Workday": 15,
       "Ashby": 14,
-      "Workday": 12,
       "Breezy": 7,
       "Lever": 6,
       "LinkedIn": 5,
       "SmartRecruiters": 4,
       "iCIMS": 3,
-      "Indeed": 1,
-      "Workable": 1
+      "Workable": 2,
+      "Jobvite": 1,
+      "Indeed": 1
     },
     "date_range": {
       "earliest": "2026-04-14",
@@ -29,6 +30,218 @@
     }
   },
   "jobs": [
+    {
+      "id": "4fae5f230594",
+      "title": "Data Engineer - TTX Careers",
+      "company": "TTX Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ejjc.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/6218",
+      "source": "Other",
+      "description": "Job Description. POSITION SUMMARY. The Data Engineer is an interdisciplinary individual on the Data Analytics team who collaborates closely with ...",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T20:02:00+00:00",
+      "fetched_at": "2026-04-24T20:32:53.382703+00:00"
+    },
+    {
+      "id": "e9af5c544fd2",
+      "title": "Sr. Data Engineer (Hybrid or Remote) - Mashura LLC - Career Page - JazzHR",
+      "company": "Mashura LLC - Career Page - JazzHR",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://cubex.applytojob.com/apply/YxLUzmHk3v/Sr-Data-Engineer-Hybrid-Or-Remote",
+      "source": "Other",
+      "description": "Remote Senior Data Engineer : Build scalable Microsoft Fabric data platform, lakehouse pipelines, and AI-ready analytics for global IoT healthcare ...",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T18:58:09+00:00",
+      "fetched_at": "2026-04-24T20:32:53.557360+00:00"
+    },
+    {
+      "id": "0f39db58a214",
+      "title": "Senior Software Engineer - ITHAKA",
+      "company": "ITHAKA",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.ithaka.org/job/4688693005/?gh_jid=4688693005",
+      "source": "Other",
+      "description": "Senior Software Engineer . Location: Remote within the Continental United States. ITHAKA's mission is to expand access to knowledge and education ...",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T18:45:34+00:00",
+      "fetched_at": "2026-04-24T20:32:53.383014+00:00"
+    },
+    {
+      "id": "7257f474def5",
+      "title": "Software Engineer , Senior - Myworkdayjobs.com",
+      "company": "Rjet",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://rjet.wd108.myworkdayjobs.com/External_Career_Site/job/Indianapolis-IN/Software-Engineer--Senior_JR-007327",
+      "source": "Workday",
+      "description": "Job Category: Information Technology POSITION PURPOSE The Senior Software Engineer provides hands\u2011on technical guidance and support to development ...",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T18:40:54+00:00",
+      "fetched_at": "2026-04-24T20:32:53.383150+00:00"
+    },
+    {
+      "id": "3ee1be1de00e",
+      "title": "Staff Data Engineer in London, London | FOX Careers",
+      "company": "FOX Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.foxcareers.com/Search/JobDetail/R50032357/staff-data-engineer-fox-corporation",
+      "source": "Other",
+      "description": "View the job requirements for the Staff Data Engineer opening in London, London |Apply Now at FOX Careers.",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T18:21:42+00:00",
+      "fetched_at": "2026-04-24T20:32:53.557666+00:00"
+    },
+    {
+      "id": "36a0ffbe74d3",
+      "title": "[ DevOps Engineer ] [Warsaw, Poland] - $66.000 + Stocks : r/Salary - Reddit",
+      "company": "$66.000 + Stocks : r/Salary - Reddit",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/Salary/comments/1suddck/devops_engineer_warsaw_poland_66000_stocks/",
+      "source": "Other",
+      "description": "Senior software engineer . 5 upvotes \u00b7 11 comments. [ Software Engineer ] ... r/Salary - [ AI Engineer ] [London, UK] - \u00a3420,000. 112 upvotes \u00b7 114 ...",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T17:53:27+00:00",
+      "fetched_at": "2026-04-24T20:32:53.383373+00:00"
+    },
+    {
+      "id": "710617814399",
+      "title": "DevOps Engineer (Kubernetes) - Myworkdayjobs.com",
+      "company": "Fico",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://fico.wd1.myworkdayjobs.com/en-US/External/job/DevOps-Engineer--Kubernetes-_31778-1",
+      "source": "Workday",
+      "description": "DevOps Engineer (Kubernetes) \u00b7 Proven experience building and operating data-intensive, containerized applications on Kubernetes, including debugging ...",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T17:47:14+00:00",
+      "fetched_at": "2026-04-24T20:32:53.383477+00:00"
+    },
+    {
+      "id": "0d6abe8fd8ae",
+      "title": "Software Engineer AI Job Details - Boehringer Ingelheim Careers",
+      "company": "Boehringer Ingelheim Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.boehringer-ingelheim.com/job/Ridgefield%2C-CT-Software-Engineer-AI-Unit/1386962833/",
+      "source": "Other",
+      "description": "Senior Software Engineer : Associate degree in Computer Science or MIS with a minimum of 4 years experience; or Bachelor degree in Computer Science ...",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T17:17:25+00:00",
+      "fetched_at": "2026-04-24T20:32:53.383677+00:00"
+    },
+    {
+      "id": "5b021be27fb0",
+      "title": "Job Application for Software Engineer at Pilot.com - Greenhouse",
+      "company": "Pilothq",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/pilothq/jobs/8516101002",
+      "source": "Greenhouse",
+      "description": "The Role. Pilot is hiring a Software Engineer to join our Bookkeeping Automation team. This team builds the systems and tooling that power ...",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T17:14:46+00:00",
+      "fetched_at": "2026-04-24T20:32:53.383773+00:00"
+    },
+    {
+      "id": "20be681ddaca",
+      "title": "Software Engineer 1 (Frontend) - Sortly - Jobs By Workable",
+      "company": "Sortly",
+      "role": "Software Engineer",
+      "regions": [
+        "India",
+        "Remote"
+      ],
+      "link": "https://apply.workable.com/sortly/j/DC4161BD63/",
+      "source": "Workable",
+      "description": "Software Engineer 1 (Frontend). RemoteEngineeringFull time. India ... Sortly, renowned for its simplicity and ease of use, is seeking a Software ...",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T17:13:41+00:00",
+      "fetched_at": "2026-04-24T20:32:53.383887+00:00"
+    },
+    {
+      "id": "62f1eadd3505",
+      "title": "New Pig Careers - Data Engineer - Jobvite",
+      "company": "Newpig",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.jobvite.com/newpig/job/oMX2zfw4",
+      "source": "Jobvite",
+      "description": "Data Engineer . Tipton, Pennsylvania. Apply. Description. Position at New Pig Corporation. Data Engineer New Pig | Tipton, PA. About the Role New Pig ...",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T16:39:50+00:00",
+      "fetched_at": "2026-04-24T20:32:53.383991+00:00"
+    },
+    {
+      "id": "d28168339b00",
+      "title": "Software Engineer II - AI Solutions in KING OF PRUSSIA, Pennsylvania - UHS Careers",
+      "company": "AI Solutions in KING OF PRUSSIA, Pennsylvania - UHS Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.uhsinc.com/the-george-washington-university-hospital-getting-hired/jobs/350180",
+      "source": "Other",
+      "description": "the-george-washington-university-hospital-getting-hired is hiring a Software Engineer II - AI Solutions in KING OF PRUSSIA, Pennsylvania.",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T16:35:20+00:00",
+      "fetched_at": "2026-04-24T20:32:53.558786+00:00"
+    },
+    {
+      "id": "4dc5e51e9a58",
+      "title": "Senior Data Platform Engineer , Remote - Search Jobs | Experian",
+      "company": "Search Jobs | Experian",
+      "role": "Platform Engineer",
+      "regions": [
+        "India",
+        "Remote"
+      ],
+      "link": "https://jobs.experian.com/job/senior-data-platform-engineer-remote-in-united-states-jid-4033",
+      "source": "Other",
+      "description": "OverviewWe are looking for an accomplished Principal Data Platform Engineer to lead the design, implementation, and governance of complex database ...",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T16:15:21+00:00",
+      "fetched_at": "2026-04-24T20:32:53.384277+00:00"
+    },
+    {
+      "id": "743c9b87b33c",
+      "title": "Senior Staff Software Engineer , Gov - OpenAI",
+      "company": "OpenAI",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://openai.com/careers/senior-staff-software-engineer-gov-washington-dc/",
+      "source": "Other",
+      "description": "Senior Staff Software Engineer , Gov. B2B Applications - Washington, DC, Seattle, and San Francisco. Apply now (opens in ...",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T16:15:12+00:00",
+      "fetched_at": "2026-04-24T20:32:53.384464+00:00"
+    },
     {
       "id": "623bf0bf14c5",
       "title": "Sr Analyst, Data Engineer - Careers at Nationwide",
@@ -43,6 +256,36 @@
       "date": "2026-04-24",
       "timestamp": "2026-04-24T15:54:18+00:00",
       "fetched_at": "2026-04-24T16:42:13.912109+00:00"
+    },
+    {
+      "id": "f7a638f27321",
+      "title": "AI Engineer Jobs and Careers at Wolverine in Rockford",
+      "company": "Wolverine in Rockford",
+      "role": "AI Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.wolverineworldwide.com/job/rockford/ai-engineer/25935/94332729696",
+      "source": "Other",
+      "description": "Join the Wolverine Worldwide team in a rewarding career. Learn about the AI Engineer job in Rockford and apply here.",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T15:49:08+00:00",
+      "fetched_at": "2026-04-24T20:32:53.384930+00:00"
+    },
+    {
+      "id": "0bd99df7e0ea",
+      "title": "Fullstack Engineer - AI Capability Center (Remote) - Myworkdayjobs.com",
+      "company": "Huron",
+      "role": "Fullstack Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://huron.wd1.myworkdayjobs.com/en-US/huroncareers/job/Fullstack-Engineer---AI-Capability-Center--Remote-_JR-0014964",
+      "source": "Workday",
+      "description": "... Full Stack Engineer and help build innovative, enterprise ... Fullstack Engineer - AI Capability Center (Remote). Apply. remote type ...",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T15:40:52+00:00",
+      "fetched_at": "2026-04-24T20:32:53.385026+00:00"
     },
     {
       "id": "c2ace6abbb4b",
