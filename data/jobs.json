@@ -1,34 +1,349 @@
 {
-  "last_updated": "2026-04-23T20:41:10.844679+00:00",
-  "total_jobs": 319,
+  "last_updated": "2026-04-24T01:15:59.051713+00:00",
+  "total_jobs": 341,
   "stats": {
-    "total_companies": 248,
+    "total_companies": 262,
     "total_roles": 19,
     "regions": {
-      "India": 130,
-      "Philippines": 13,
-      "Remote": 41,
+      "India": 142,
+      "Philippines": 19,
+      "Remote": 45,
       "Unknown": 135
     },
     "sources": {
-      "Other": 259,
+      "Other": 278,
       "Greenhouse": 16,
       "Ashby": 12,
-      "Workday": 10,
+      "Workday": 11,
+      "Breezy": 5,
       "Lever": 5,
       "LinkedIn": 5,
-      "Breezy": 4,
+      "SmartRecruiters": 4,
       "iCIMS": 3,
-      "SmartRecruiters": 3,
       "Indeed": 1,
       "Workable": 1
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-04-23"
+      "latest": "2026-04-24"
     }
   },
   "jobs": [
+    {
+      "id": "b91d197ea977",
+      "title": "Sr Site Reliability Engineer (Advanced Threat Protection) at Palo Alto Networks",
+      "company": "Protection) at Palo Alto Networks",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-site-reliability-engineer-advanced-threat-protection/47263/94312003312",
+      "source": "Other",
+      "description": "Principal AI Engineer - Enterprise AI Solutions Santa Clara, California, United States ... Staff Software Engineer Santa Clara, California ...",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T01:00:28+00:00",
+      "fetched_at": "2026-04-24T01:15:59.047564+00:00"
+    },
+    {
+      "id": "1b12fcd5f6ae",
+      "title": "Sr Site Reliability Engineer (Internet Security Platform) at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-site-reliability-engineer-internet-security-platform/47263/94312003296",
+      "source": "Other",
+      "description": "Staff AI Engineer - Enterprise AI Solutions Santa Clara, California, United States ... Staff Software Engineer Santa Clara, California, United States",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T01:00:27+00:00",
+      "fetched_at": "2026-04-24T01:15:59.047755+00:00"
+    },
+    {
+      "id": "03cb5ee05b26",
+      "title": "Junior Machine Learning Data Engineer in United States | Progressive Careers",
+      "company": "Progressive Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.progressive.com/en/jobs/17612930-junior-machine-learning-data-engineer/",
+      "source": "Other",
+      "description": "Junior Machine Learning Data Engineer in United States. ... Data focused software engineer with experience integrating cloud ...",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T22:48:23+00:00",
+      "fetched_at": "2026-04-24T01:15:58.675813+00:00"
+    },
+    {
+      "id": "b8f2928d0265",
+      "title": "Staff Software Engineer , Front End (Datagrid) - Bay Area, California, United States",
+      "company": "Bay Area, California, United States",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.procore.com/jobs/staff-software-engineer-front-end-datagrid-bay-area-california-united-states-de34720c-3526-4321-bb7e-e75691cff297",
+      "source": "Other",
+      "description": "We're looking for Staff Software Engineer , Front End to join Procore's Pages Team within the Data and AI Division. In this role, you'll play a ...",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T22:27:37+00:00",
+      "fetched_at": "2026-04-24T01:15:59.048458+00:00"
+    },
+    {
+      "id": "d1eb77e5c719",
+      "title": "Senior Software Engineer - MongoDB",
+      "company": "MongoDB",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.mongodb.com/careers/jobs/7816572",
+      "source": "Other",
+      "description": "Senior Software Engineer . Austin; New York City. Atlas Stream Processing enables developers to continuously process streaming data alongside ...",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T22:15:48+00:00",
+      "fetched_at": "2026-04-24T01:15:58.676090+00:00"
+    },
+    {
+      "id": "6678c6292af0",
+      "title": "Senior Software Engineer - Trader Interactive",
+      "company": "Trader Interactive",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.traderinteractive.com/jobs/596683-senior-software-engineer",
+      "source": "Other",
+      "description": "Senior Software Engineer . Apply for this job. Are you ready to be a big part of something big? At Trader Interactive, we make buying and selling a ...",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T21:50:25+00:00",
+      "fetched_at": "2026-04-24T01:15:58.676240+00:00"
+    },
+    {
+      "id": "4673ea393299",
+      "title": "Asset & Wealth Management - Software Engineer - Associate - Dallas - gs - Goldman Sachs",
+      "company": "Asset & Wealth Management",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://higher.gs.com/roles/166884",
+      "source": "Other",
+      "description": "Are you a seasoned Full Stack Engineer with over 5 years of experience? ... The Digital Technology team is seeking a Digital Software Engineer ...",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T21:28:21+00:00",
+      "fetched_at": "2026-04-24T01:15:59.048806+00:00"
+    },
+    {
+      "id": "25b026b1b7f9",
+      "title": "Data Engineer | OpenAI",
+      "company": "OpenAI",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://openai.com/careers/data-engineer-san-francisco/",
+      "source": "Other",
+      "description": "Data Engineer | OpenAI. Careers. Data Engineer . Applied AI Engineering - San Francisco. Apply now (opens in a new window). About the team. The Applied ...",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T21:24:18+00:00",
+      "fetched_at": "2026-04-24T01:15:58.676361+00:00"
+    },
+    {
+      "id": "89a99f14fd33",
+      "title": "Senior Software Engineer (NodeJS, AWS) - Social Discovery Group",
+      "company": "Social Discovery Ventures",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://social-discovery-ventures.breezy.hr/p/62bef19792cc01-senior-software-engineer-nodejs-aws/apply",
+      "source": "Breezy",
+      "description": "... Senior Software Engineer (NodeJS, AWS). Your main tasks will be: Collaborate with the team and business stakeholders to find the most effective ...",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T21:16:49+00:00",
+      "fetched_at": "2026-04-24T01:15:59.049046+00:00"
+    },
+    {
+      "id": "8caf1f75b17a",
+      "title": "Engineer II - Data Engineer /Operations Support - Myworkdayjobs.com",
+      "company": "Westernalliancebank",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://westernalliancebank.wd5.myworkdayjobs.com/en-US/WAB/job/Engineer-II---Data-Engineer-Operations-Support_R12828",
+      "source": "Workday",
+      "description": "Job Title: Engineer II - Data Engineer /Operations Support Location: Block 23 What you'll do: As an Engineer II, you will be responsible for ...",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T21:04:36+00:00",
+      "fetched_at": "2026-04-24T01:15:58.676463+00:00"
+    },
+    {
+      "id": "45d70e2825bd",
+      "title": "Software Engineer I - OpportunityDetail.Index.PageTitle",
+      "company": "OpportunityDetail.Index.PageTitle",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://recruiting2.ultipro.com/spa1004aura/JobBoard/9cf2a278-d835-42ac-8e8e-461f753e0db0/OpportunityDetail?opportunityId=2c01ccae-2680-48e5-9f6f-1659d87c9055",
+      "source": "Other",
+      "description": "Software Engineer I. Opportunity.Opportunities.JobCategory: NSF ... NSO is hiring for a Software Engineer I to support the development ...",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T20:56:02+00:00",
+      "fetched_at": "2026-04-24T01:15:58.676806+00:00"
+    },
+    {
+      "id": "421be80753fc",
+      "title": "ML Platform Engineer , tvScientific - Pinterest Careers",
+      "company": "Pinterest Careers",
+      "role": "Platform Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.pinterestcareers.com/jobs/7782571/ml-platform-engineer-tvscientific/",
+      "source": "Other",
+      "description": "ML Platform Engineer , tvScientific. San Francisco / Remote ... Machine Learning Engineer , tvScientific. Save Saved. San Francisco + 1 ...",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T20:52:29+00:00",
+      "fetched_at": "2026-04-24T01:15:59.049486+00:00"
+    },
+    {
+      "id": "dfa8067c6e6a",
+      "title": "Cloud Platform Engineer Intern - United States - 38712 - Maximus",
+      "company": "United States - 38712 - Maximus",
+      "role": "Platform Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://maximus.avature.net/careers/FolderDetail/United-States-2026-Summer-Intern-Cloud-Platform-Engineer/38712",
+      "source": "Other",
+      "description": "Cloud Platform Engineer Intern. General information. Job Posting Title. Cloud Platform Engineer Intern. Date. Thursday, April 23, 2026. City. Remote.",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T20:49:05+00:00",
+      "fetched_at": "2026-04-24T01:15:58.676998+00:00"
+    },
+    {
+      "id": "8b6637aef0ac",
+      "title": "Software Engineer - Travel & Expenses - Spendesk",
+      "company": "Travel & Expenses - Spendesk",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://career.spendesk.com/jobs/7613188-software-engineer-travel-expenses",
+      "source": "Other",
+      "description": "We are looking for a talented Software Engineer to join our Product, Design, and Engineering organization and help shape the future of spend ...",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T20:44:48+00:00",
+      "fetched_at": "2026-04-24T01:15:58.677159+00:00"
+    },
+    {
+      "id": "b525f44a984d",
+      "title": "Sr. Backend Engineer , tvScientific - Pinterest Careers",
+      "company": "Pinterest Careers",
+      "role": "Backend Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.pinterestcareers.com/jobs/7782548/sr-backend-engineer-tvscientific/",
+      "source": "Other",
+      "description": "Backend Engineer , tvScientific. San Francisco / Remote; Regular. a ... Machine Learning Engineer , tvScientific. Save Saved. San Francisco + 1 ...",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T20:44:30+00:00",
+      "fetched_at": "2026-04-24T01:15:59.049767+00:00"
+    },
+    {
+      "id": "f26bf0a527a1",
+      "title": "As a software engineer , how to work with a vibe coding business partner? - Reddit",
+      "company": "Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/ycombinator/comments/1stk359/as_a_software_engineer_how_to_work_with_a_vibe/",
+      "source": "Other",
+      "description": "As a software engineer , how to work with a vibe coding business partner? I'm currently looking for a business cofounder. Many business co-founders ...",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T20:44:22+00:00",
+      "fetched_at": "2026-04-24T01:15:58.677332+00:00"
+    },
+    {
+      "id": "93a2f64f43c7",
+      "title": "Senior Software Engineer , Cloud Efficiency - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200656766-0157/senior-software-engineer-cloud-efficiency",
+      "source": "Other",
+      "description": "Apply for a Senior Software Engineer , Cloud Efficiency job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T20:20:46+00:00",
+      "fetched_at": "2026-04-24T01:15:58.677564+00:00"
+    },
+    {
+      "id": "205d44748961",
+      "title": "Staff Machine Learning Engineer - FanDuel Careers",
+      "company": "FanDuel Careers",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.fanduel.careers/jobs/fanduel/staff-machine-learning-engineer/",
+      "source": "Other",
+      "description": "Staff Machine Learning Engineer . New York City Data Engineering. THE POSITION Our roster has an opening with your name on it. At FanDuel, data is the ...",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T20:20:00+00:00",
+      "fetched_at": "2026-04-24T01:15:58.677693+00:00"
+    },
+    {
+      "id": "18a60d852534",
+      "title": "Staff Machine Learning Engineer - FanDuel Careers",
+      "company": "FanDuel Careers",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.fanduel.careers/jobs/fanduel/staff-machine-learning-engineer-2/",
+      "source": "Other",
+      "description": "Staff Machine Learning Engineer . Atlanta Data Engineering. THE POSITION Our roster has an opening with your name on it. At FanDuel, data is the ...",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T20:18:20+00:00",
+      "fetched_at": "2026-04-24T01:15:59.050300+00:00"
+    },
+    {
+      "id": "af1a34509fd1",
+      "title": "SquareTrade Software Engineer | SmartRecruiters",
+      "company": "Squaretrade1",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.smartrecruiters.com/SquareTrade1/744000122344039-software-engineer",
+      "source": "SmartRecruiters",
+      "description": "Other jobs at SquareTrade. Digital Product Manager. San Francisco, CA. Senior Software Engineer . San Francisco, CA. Senior Software Engineer . San ...",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T20:04:26+00:00",
+      "fetched_at": "2026-04-24T01:15:58.677780+00:00"
+    },
+    {
+      "id": "dd2999924474",
+      "title": "What keeps you going as a DevOps Engineer ? - Reddit",
+      "company": "keeps you going as a DevOps Engineer ?",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/devops/comments/1stiz5v/what_keeps_you_going_as_a_devops_engineer/",
+      "source": "Other",
+      "description": "... DevOps Engineer and the methods of a professional DevOps Engineer . ... Transitioning from Software Engineer to DevOps. 33 upvotes \u00b7 33 comments ...",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T19:53:20+00:00",
+      "fetched_at": "2026-04-24T01:15:58.678072+00:00"
+    },
     {
       "id": "be23c91ddf9a",
       "title": "Software Engineer in Huntsville, Alabama (No Remote) - Leidos Careers",
@@ -58,6 +373,21 @@
       "date": "2026-04-23",
       "timestamp": "2026-04-23T19:44:41+00:00",
       "fetched_at": "2026-04-23T20:41:10.840341+00:00"
+    },
+    {
+      "id": "0d0f0b29c25d",
+      "title": "Sr. Software Engineer , tvScientific - Pinterest Careers",
+      "company": "Pinterest Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.pinterestcareers.com/jobs/7782563/sr-software-engineer-tvscientific/?gh_jid=7782563",
+      "source": "Other",
+      "description": "Software Engineer , tvScientific. San Francisco / Remote \u00b7 tvScientific ... ML Platform Engineer , tvScientific. Save Saved. San Francisco + 1 other ...",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-23T19:42:16+00:00",
+      "fetched_at": "2026-04-24T01:15:58.678349+00:00"
     },
     {
       "id": "e0f19fa2d63c",
