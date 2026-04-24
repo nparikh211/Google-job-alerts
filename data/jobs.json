@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-04-24T12:50:52.441830+00:00",
-  "total_jobs": 360,
+  "last_updated": "2026-04-24T16:42:14.188827+00:00",
+  "total_jobs": 373,
   "stats": {
-    "total_companies": 277,
+    "total_companies": 285,
     "total_roles": 19,
     "regions": {
-      "India": 153,
-      "Philippines": 23,
-      "Remote": 49,
+      "India": 164,
+      "Philippines": 24,
+      "Remote": 50,
       "Unknown": 135
     },
     "sources": {
-      "Other": 291,
+      "Other": 302,
       "Greenhouse": 18,
-      "Ashby": 13,
+      "Ashby": 14,
       "Workday": 12,
+      "Breezy": 7,
       "Lever": 6,
-      "Breezy": 6,
       "LinkedIn": 5,
       "SmartRecruiters": 4,
       "iCIMS": 3,
@@ -29,6 +29,171 @@
     }
   },
   "jobs": [
+    {
+      "id": "623bf0bf14c5",
+      "title": "Sr Analyst, Data Engineer - Careers at Nationwide",
+      "company": "Nationwide",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.nationwide.com/sr-analyst-data-engineer/job/CDEABE76D2EC36FAF52C92E271751A58",
+      "source": "Other",
+      "description": "Join Nationwide in Columbus, OH! Apply for the Sr Analyst, Data Engineer role today and start your journey with us.",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T15:54:18+00:00",
+      "fetched_at": "2026-04-24T16:42:13.912109+00:00"
+    },
+    {
+      "id": "c2ace6abbb4b",
+      "title": "Senior Software Engineer - AI Job Details | Acuity Inc.",
+      "company": "AI Job Details | Acuity Inc.",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.acuityinc.com/job/Atlanta-Software-Engineer-Senior-GA-30309/1385088600/",
+      "source": "Other",
+      "description": "Senior Software Engineer - AI. Req ID: 13605. Work Flexibility: Hybrid. Acuity Inc. (NYSE: AYI) is a market-leading industrial technology company. We ...",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T15:27:13+00:00",
+      "fetched_at": "2026-04-24T16:42:13.912645+00:00"
+    },
+    {
+      "id": "6d33ec27fb4d",
+      "title": "Senior Software Engineer (NodeJS, AWS) - Social Discovery Group",
+      "company": "Social Discovery Ventures",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://social-discovery-ventures.breezy.hr/p/62bef19792cc01-senior-software-engineer-nodejs-aws",
+      "source": "Breezy",
+      "description": "We are looking for a Senior Software Engineer (NodeJS, AWS). Your main tasks will be: Collaborate with the team and business stakeholders to find the ...",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T14:30:03+00:00",
+      "fetched_at": "2026-04-24T16:42:13.912786+00:00"
+    },
+    {
+      "id": "0f6aeb236987",
+      "title": "Software Engineer at Ford Motor Company - Ford Careers",
+      "company": "Ford Motor Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.careers.ford.com/job/united-states/software-engineer/48560/94311929280",
+      "source": "Other",
+      "description": "The Software Engineer will be responsible for the development and ongoing support/maintenance of the services. Product And Requirements Management: ...",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T13:56:49+00:00",
+      "fetched_at": "2026-04-24T16:42:13.912912+00:00"
+    },
+    {
+      "id": "ea75559b76e8",
+      "title": "AI ML Engineer at UnitedHealth Group",
+      "company": "UnitedHealth Group",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.unitedhealthgroup.com/job/hyderabad/ai-ml-engineer/34088/94321271632",
+      "source": "Other",
+      "description": "AI ML Engineer . Requisition number: 2355396 Job category: Technology Primary location: Hyderabad, Telangana Date posted: 04/24/ ...",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T13:56:34+00:00",
+      "fetched_at": "2026-04-24T16:42:13.913033+00:00"
+    },
+    {
+      "id": "90b07a7fc553",
+      "title": "Data engineer , Machine Learning @ Sesame - Jobs",
+      "company": "Sesame",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/sesame/08ade360-a4bc-4584-9c40-04dc380276a5",
+      "source": "Ashby",
+      "description": "... Data Engineer to build and maintain the data pipelines that feed Sesame's AI models. You'll collaborate directly with machine learning engineers ...",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T13:30:24+00:00",
+      "fetched_at": "2026-04-24T16:42:13.913138+00:00"
+    },
+    {
+      "id": "cb3bb2a7822e",
+      "title": "Lead Data Engineer to FullStack Vibe Coder : r/dataengineering - Reddit",
+      "company": "Reddit",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/dataengineering/comments/1su3kj8/lead_data_engineer_to_fullstack_vibe_coder/",
+      "source": "Other",
+      "description": "Lead Data Engineer to FullStack Vibe Coder. Rant. I swear you can't make this up. I have been using Claude Pro as a rubber duck / google search ...",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T13:06:30+00:00",
+      "fetched_at": "2026-04-24T16:42:13.913327+00:00"
+    },
+    {
+      "id": "75afd41f9402",
+      "title": "Jr. DevOps Engineer - MetLife Careers",
+      "company": "MetLife Careers",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.metlifecareers.com/en_US/ml/JobDetail/Software-Engineer-II/17262",
+      "source": "Other",
+      "description": "DevOps Engineer . General Information. Location. Hyderabad, Telangana ... The Data engineer will be responsible for design and development of ...",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T12:53:11+00:00",
+      "fetched_at": "2026-04-24T16:42:13.913464+00:00"
+    },
+    {
+      "id": "d946318733de",
+      "title": "Technology Lead Software Engineer in Dallas, Texas, United States of America - Southwest Careers",
+      "company": "Southwest Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.southwestair.com/us/en/job/R-2026-67669/Technology-Lead-Software-Engineer",
+      "source": "Other",
+      "description": "Job Description: As a Technology Lead Software Engineer supporting the Microsoft and Quickbase Center of Excellence, you'll own the translation of ...",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T12:48:33+00:00",
+      "fetched_at": "2026-04-24T16:42:13.913614+00:00"
+    },
+    {
+      "id": "8f5f1087343a",
+      "title": "Senior Software Engineer , Test - Bengaluru, Karnataka, India - Roku Jobs",
+      "company": "Bengaluru, Karnataka, India - Roku Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.weareroku.com/jobs/senior-software-engineer-test-bengaluru-karnataka-india",
+      "source": "Other",
+      "description": "Senior Software Engineer , Test. Software Engineering | Bengaluru, India | ID: 11065. Apply View more jobs. Senior Software Engineer , Test. Add to ...",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T12:23:35+00:00",
+      "fetched_at": "2026-04-24T16:42:13.913788+00:00"
+    },
+    {
+      "id": "d42b6d7628e6",
+      "title": "Senior Data Engineer Job Details | Westinghouse Electric Company, LLC",
+      "company": "Westinghouse Electric Company, LLC",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Senior-Data-Engineer-NC/1385011200/",
+      "source": "Other",
+      "description": "The Senior Data Engineer will also support Data Engineer leaders to maintain standards and collaborate with IT for database administration. You ...",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T12:17:12+00:00",
+      "fetched_at": "2026-04-24T16:42:13.913957+00:00"
+    },
     {
       "id": "eb832d5b20c8",
       "title": "Intern - Software Engineer - Job Detail | Careers Marketplace - Siemens",
@@ -43,6 +208,36 @@
       "date": "2026-04-24",
       "timestamp": "2026-04-24T11:30:21+00:00",
       "fetched_at": "2026-04-24T12:50:52.192457+00:00"
+    },
+    {
+      "id": "0aeef71f7991",
+      "title": "Software Engineer II - Remote, United States - Amentum Careers",
+      "company": "Remote, United States - Amentum Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.amentumcareers.com/jobs/software-engineer-ii-remote-united-states",
+      "source": "Other",
+      "description": "Software Engineer II \u00b7 Under general supervision, design, develop, troubleshoot, and analyze software programs for computer-based systems \u00b7 Ensure ...",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T11:03:30+00:00",
+      "fetched_at": "2026-04-24T16:42:13.914232+00:00"
+    },
+    {
+      "id": "7e4d88ab2107",
+      "title": "Software Engineer I (Datagrid) - Bay Area, California, United States - Procore Technologies",
+      "company": "Bay Area, California, United States - Procore Technologies",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.procore.com/jobs/software-engineer-i-datagrid-bay-area-california-united-states-98af7f22-e3ef-4558-94d8-df847580acea",
+      "source": "Other",
+      "description": "We're looking for Software Engineer I to join Procore's Pages Team within the Data and AI Division. In this role, you'll play a critical role in ...",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T10:07:12+00:00",
+      "fetched_at": "2026-04-24T16:42:14.186204+00:00"
     },
     {
       "id": "5e4c13567439",
