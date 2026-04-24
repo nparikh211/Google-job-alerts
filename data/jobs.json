@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-04-24T01:15:59.051713+00:00",
-  "total_jobs": 341,
+  "last_updated": "2026-04-24T06:00:46.945863+00:00",
+  "total_jobs": 345,
   "stats": {
-    "total_companies": 262,
+    "total_companies": 265,
     "total_roles": 19,
     "regions": {
-      "India": 142,
+      "India": 144,
       "Philippines": 19,
-      "Remote": 45,
+      "Remote": 47,
       "Unknown": 135
     },
     "sources": {
-      "Other": 278,
-      "Greenhouse": 16,
+      "Other": 280,
+      "Greenhouse": 17,
       "Ashby": 12,
       "Workday": 11,
-      "Breezy": 5,
+      "Breezy": 6,
       "Lever": 5,
       "LinkedIn": 5,
       "SmartRecruiters": 4,
@@ -29,6 +29,51 @@
     }
   },
   "jobs": [
+    {
+      "id": "36a314b2b27d",
+      "title": "DevOps Engineer at Driver",
+      "company": "Driver Ai Inc",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://driver-ai-inc.breezy.hr/p/abb60439ed3c-devops-engineer",
+      "source": "Breezy",
+      "description": "DevOps Engineer (AI-Native, Builder Mindset) Location: Remote Company: Driver AI Type: Full-time Introduction At Driver, we're building systems ...",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T04:33:42+00:00",
+      "fetched_at": "2026-04-24T06:00:46.844108+00:00"
+    },
+    {
+      "id": "3ab26bbc4f80",
+      "title": "Lead Software Engineer , Full Stack (Global Payment Network) - Capital One Career",
+      "company": "Capital One Career",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.capitalonecareers.com/job/riverwoods/lead-software-engineer-full-stack-global-payment-network/1732/94308570176",
+      "source": "Other",
+      "description": "Learn more about applying for Lead Software Engineer , Full Stack (Global Payment Network) at Capital One. ... Lead Platform Engineer (pTAL, TAL, TACL, ...",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T04:16:49+00:00",
+      "fetched_at": "2026-04-24T06:00:46.845057+00:00"
+    },
+    {
+      "id": "ac59093a22ad",
+      "title": "Job Application for Senior Software Engineer , AI Operations at RapidSOS - Greenhouse",
+      "company": "Rapidsos",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/rapidsos/jobs/5101673007",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer , AI Operations. United States (Remote). Apply. In the time it takes you to read this job description, RapidSOS will have ...",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T04:06:22+00:00",
+      "fetched_at": "2026-04-24T06:00:46.845176+00:00"
+    },
     {
       "id": "b91d197ea977",
       "title": "Sr Site Reliability Engineer (Advanced Threat Protection) at Palo Alto Networks",
@@ -58,6 +103,21 @@
       "date": "2026-04-24",
       "timestamp": "2026-04-24T01:00:27+00:00",
       "fetched_at": "2026-04-24T01:15:59.047755+00:00"
+    },
+    {
+      "id": "6da187874e9d",
+      "title": "Senior Software Engineer Data Engineering - Chime Careers",
+      "company": "Chime Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.chime.com/jobs/8505462002/senior-software-engineer-data-engineering/",
+      "source": "Other",
+      "description": "Senior Software Engineer , Data Engineering. Share: Share on LinkedIn ... Be a hands-on data engineer , building, scaling and optimizing ETL pipelines ...",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T00:28:58+00:00",
+      "fetched_at": "2026-04-24T06:00:46.845855+00:00"
     },
     {
       "id": "03cb5ee05b26",
