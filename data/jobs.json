@@ -1,26 +1,27 @@
 {
-  "last_updated": "2026-04-24T20:32:53.561924+00:00",
-  "total_jobs": 389,
+  "last_updated": "2026-04-25T01:09:13.180706+00:00",
+  "total_jobs": 401,
   "stats": {
-    "total_companies": 299,
-    "total_roles": 19,
+    "total_companies": 305,
+    "total_roles": 21,
     "regions": {
-      "India": 174,
-      "Philippines": 26,
-      "Remote": 56,
+      "India": 184,
+      "Philippines": 27,
+      "Remote": 57,
       "Unknown": 135
     },
     "sources": {
-      "Other": 312,
+      "Other": 319,
       "Greenhouse": 19,
-      "Workday": 15,
-      "Ashby": 14,
+      "Workday": 16,
+      "Ashby": 15,
+      "LinkedIn": 7,
       "Breezy": 7,
       "Lever": 6,
-      "LinkedIn": 5,
       "SmartRecruiters": 4,
       "iCIMS": 3,
       "Workable": 2,
+      "Recruitee": 1,
       "Jobvite": 1,
       "Indeed": 1
     },
@@ -30,6 +31,126 @@
     }
   },
   "jobs": [
+    {
+      "id": "a5e55d102693",
+      "title": "Marc Minor's Post - LinkedIn",
+      "company": "Unknown Company",
+      "role": "Marc Minor's Post - LinkedIn",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/marcminor_x-homebuilder-are-you-a-software-engineer-activity-7453494773065318400-XwZ_",
+      "source": "LinkedIn",
+      "description": "X + homebuilder. Are you a software engineer , PM, or UX designer? Have you built or renovated a home before? DM me!",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T22:43:46+00:00",
+      "fetched_at": "2026-04-25T01:09:13.106875+00:00"
+    },
+    {
+      "id": "5cc302c2de70",
+      "title": "Data engineer (lead) vs senior data engineer vs lead data engineer : r/dataengineering - Reddit",
+      "company": "Reddit",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.reddit.com/r/dataengineering/comments/1sujjjo/data_engineer_lead_vs_senior_data_engineer_vs/",
+      "source": "Other",
+      "description": "From Data Analyst to Data Engineer - ML Engineer - Data Scientist. 17 ... Data Engineer or Software Engineer - Data. 35 upvotes \u00b7 22 comments ...",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T22:06:38+00:00",
+      "fetched_at": "2026-04-25T01:09:13.176141+00:00"
+    },
+    {
+      "id": "7a09547e124f",
+      "title": "Machine Learning Engineer - Health AIML - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200659977-0836/machine-learning-engineer-health-aiml",
+      "source": "Other",
+      "description": "Apply for a Machine Learning Engineer - Health AIML job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T21:28:49+00:00",
+      "fetched_at": "2026-04-25T01:09:13.107135+00:00"
+    },
+    {
+      "id": "0dee9ce510db",
+      "title": "Internship, Software Engineer , Camera & Robotics (Fall 2026) - Tesla",
+      "company": "Tesla",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.tesla.com/careers/search/job/internship-software-engineer-camera-robotics-fall-2026-268906",
+      "source": "Other",
+      "description": "Apply for the Internship, Software Engineer , Camera & Robotics (Fall 2026) position in PALO ALTO, California.",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T21:14:44+00:00",
+      "fetched_at": "2026-04-25T01:09:13.107364+00:00"
+    },
+    {
+      "id": "627575455098",
+      "title": "Senior Software Engineer , Data Platform - Open Jobs | Form Energy",
+      "company": "Open Jobs | Form Energy",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://formenergy.com/careers/open-jobs?ashby_jid=b789ae60-dbbd-4767-83e2-80e350618c6b&utm_source=jobs.greentownlabs.com",
+      "source": "Other",
+      "description": "Senior Software Engineer , Data Platform. Location. Berkeley, CA ... Minimum 5 years of professional experience as a software or data engineer working on ...",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T20:48:30+00:00",
+      "fetched_at": "2026-04-25T01:09:13.107737+00:00"
+    },
+    {
+      "id": "657c910ab50e",
+      "title": "Software Engineer - Embedded Engineer in United States - Texas - Irving - Abbott Jobs",
+      "company": "Software Engineer",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.jobs.abbott/global/pt/job/31147978/Software-Engineer-Embedded-Engineer",
+      "source": "Other",
+      "description": "... Senior Software Engineer , Cloud. Localiza\u00e7\u00e3o United States - Illinois ... DevOPS Engineer . Localiza\u00e7\u00e3o United States of America : Remote ...",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T20:25:53+00:00",
+      "fetched_at": "2026-04-25T01:09:13.107913+00:00"
+    },
+    {
+      "id": "ae75a1365ba0",
+      "title": "Shubham Srivastava's Post - LinkedIn",
+      "company": "Unknown Company",
+      "role": "Shubham Srivastava's Post - LinkedIn",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/shubham-srivstv_i-am-a-principal-data-engineer-at-amazon-activity-7453487083236651008-RiL4",
+      "source": "LinkedIn",
+      "description": "I am a Principal Data Engineer at Amazon with more than 13 years of experience. Here is the #1 advice I give to anyone wanting to break into Data ...",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T20:21:17+00:00",
+      "fetched_at": "2026-04-25T01:09:13.108423+00:00"
+    },
+    {
+      "id": "3d341c74a589",
+      "title": "Software Engineer - Myworkdayjobs.com",
+      "company": "Toyota",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Software-Engineer_10325010",
+      "source": "Workday",
+      "description": "Software Engineer \u00b7 Build and maintain backend services and APIs as part of a collaborative engineering team \u00b7 Write clean, well-tested code in ...",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T20:02:49+00:00",
+      "fetched_at": "2026-04-25T01:09:13.108529+00:00"
+    },
     {
       "id": "4fae5f230594",
       "title": "Data Engineer - TTX Careers",
@@ -46,6 +167,51 @@
       "fetched_at": "2026-04-24T20:32:53.382703+00:00"
     },
     {
+      "id": "72be90a8b54d",
+      "title": "Sr. Software Engineer , App Processing Infrastructure - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200654982-3337/sr-software-engineer-app-processing-infrastructure",
+      "source": "Other",
+      "description": "Apply for a Sr. Software Engineer , App Processing Infrastructure job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T19:58:51+00:00",
+      "fetched_at": "2026-04-25T01:09:13.108883+00:00"
+    },
+    {
+      "id": "c2e23982991c",
+      "title": "Full Stack Engineer - Front End - 1X Technologies AS",
+      "company": "1X",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://1x.recruitee.com/o/full-stack-engineer-front-end",
+      "source": "Recruitee",
+      "description": "Full Stack Engineer - FrontendSan Carlos, CA (on-site)We believe that to truly understand the world and grow in intelligence, humanoid robots must ...",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T19:29:37+00:00",
+      "fetched_at": "2026-04-25T01:09:13.109306+00:00"
+    },
+    {
+      "id": "bc48d2e281b7",
+      "title": "Software Engineer - Voice AI (Inference Runtime) @ Baseten - Jobs",
+      "company": "Baseten",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/baseten/6e396eb7-acb3-436a-89ec-05e755c477f2",
+      "source": "Ashby",
+      "description": "Software Engineer - Voice AI (Inference Runtime). Location. San Francisco; New York. Employment Type. Full time. Location Type. Hybrid. Department.",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T19:15:43+00:00",
+      "fetched_at": "2026-04-25T01:09:13.109401+00:00"
+    },
+    {
       "id": "e9af5c544fd2",
       "title": "Sr. Data Engineer (Hybrid or Remote) - Mashura LLC - Career Page - JazzHR",
       "company": "Mashura LLC - Career Page - JazzHR",
@@ -59,6 +225,21 @@
       "date": "2026-04-24",
       "timestamp": "2026-04-24T18:58:09+00:00",
       "fetched_at": "2026-04-24T20:32:53.557360+00:00"
+    },
+    {
+      "id": "24444bab060c",
+      "title": "Principal Software Engineer at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer/47263/94339355344",
+      "source": "Other",
+      "description": "Principal Software Engineer . Santa Clara, California, United States Product Engineering Ref ID: JR-016747. Apply Save Job. Current Employees, apply ...",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T18:49:20+00:00",
+      "fetched_at": "2026-04-25T01:09:13.109626+00:00"
     },
     {
       "id": "0f39db58a214",
