@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-04-25T08:38:21.583663+00:00",
-  "total_jobs": 412,
+  "last_updated": "2026-04-25T12:32:39.963155+00:00",
+  "total_jobs": 426,
   "stats": {
-    "total_companies": 313,
-    "total_roles": 21,
+    "total_companies": 320,
+    "total_roles": 22,
     "regions": {
-      "India": 192,
-      "Philippines": 30,
-      "Remote": 57,
+      "India": 201,
+      "Philippines": 34,
+      "Remote": 58,
       "Unknown": 135
     },
     "sources": {
-      "Other": 329,
-      "Greenhouse": 19,
+      "Other": 339,
+      "Greenhouse": 20,
       "Workday": 16,
       "Ashby": 15,
-      "LinkedIn": 8,
+      "LinkedIn": 11,
       "Breezy": 7,
       "Lever": 6,
       "SmartRecruiters": 4,
@@ -31,6 +31,111 @@
     }
   },
   "jobs": [
+    {
+      "id": "ba93298e5eaf",
+      "title": "Intuit Software Engineer 1 US \u2013 Recruiter 1:1 Call : r/leetcode - Reddit",
+      "company": "Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.reddit.com/r/leetcode/comments/1sutr8z/intuit_software_engineer_1_us_recruiter_11_call/",
+      "source": "Other",
+      "description": "Intuit Software Engineer 1 US \u2013 Recruiter 1:1 Call. Intervew Prep.",
+      "date": "2026-04-25",
+      "timestamp": "2026-04-25T09:50:58+00:00",
+      "fetched_at": "2026-04-25T12:32:39.958523+00:00"
+    },
+    {
+      "id": "eaa27bc29d99",
+      "title": "Small title change, big responsibility Got promoted to Software Engineer III at Google \u2764\ufe0f",
+      "company": "Google \u2764\ufe0f",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/prernasharma24_small-title-change-big-responsibility-activity-7453711714623332352-jsMC",
+      "source": "LinkedIn",
+      "description": "Bilal Saifi. Backend Engineer | Spring Boot & Microservices | System ... Senior Software Engineer @ Qualcomm | IIITD. 1h. Report this comment",
+      "date": "2026-04-25",
+      "timestamp": "2026-04-25T09:22:55+00:00",
+      "fetched_at": "2026-04-25T12:32:39.886793+00:00"
+    },
+    {
+      "id": "ada898c70aef",
+      "title": "Entry Level Software Engineer - Site Reliability (Remote - Mexico) - Yelp Careers",
+      "company": "Site Reliability (Remote - Mexico) - Yelp Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.yelp.careers/us/en/job/13766/Entry-Level-Software-Engineer-Site-Reliability-Remote-Mexico",
+      "source": "Other",
+      "description": "As an entry-level Site Reliability Engineer , you'll help keep our ... Application Backend Engineer - Client Data (Remote - Mexico). Available ...",
+      "date": "2026-04-25",
+      "timestamp": "2026-04-25T09:22:09+00:00",
+      "fetched_at": "2026-04-25T12:32:39.958959+00:00"
+    },
+    {
+      "id": "7e43b028153c",
+      "title": "Principal Software Engineer (Java API Development) - Fidelity Careers",
+      "company": "Fidelity Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.fidelity.com/en/jobs/2126195/principal-software-engineer-java-api-development/",
+      "source": "Other",
+      "description": "Principal Full Stack Engineer . Save Saved. Technology Published: Apr 26; Smithfield, RI. Details \u00b7 Principal Software Engineer - Contact Center ...",
+      "date": "2026-04-25",
+      "timestamp": "2026-04-25T09:20:15+00:00",
+      "fetched_at": "2026-04-25T12:32:39.887224+00:00"
+    },
+    {
+      "id": "f00eccf816f2",
+      "title": "Senior Software Engineer | Microsoft Careers | Roni Burd - LinkedIn",
+      "company": "Microsoft Careers | Roni Burd - LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/posts/roniburd_senior-software-engineer-microsoft-careers-activity-7453580972526157825-2l3d",
+      "source": "LinkedIn",
+      "description": "Senior Software Engineer ... Senior Software Engineer @ Microsoft AI Hosted Agents | ex- {Getir ...",
+      "date": "2026-04-25",
+      "timestamp": "2026-04-25T07:30:34+00:00",
+      "fetched_at": "2026-04-25T12:32:39.959201+00:00"
+    },
+    {
+      "id": "05cdffba25ee",
+      "title": "Associate C++ Software Engineer - Boeing",
+      "company": "Boeing",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.boeing.com/job/gdansk/associate-c-software-engineer/185/94339531760",
+      "source": "Other",
+      "description": "Associate C++ Software Engineer . Gdansk, Pomerania; Rzesz\u00f3w, Subcarpathia Job ID JR2026507420 Category Engineering - Software Role Type Hybrid Post ...",
+      "date": "2026-04-25",
+      "timestamp": "2026-04-25T06:53:02+00:00",
+      "fetched_at": "2026-04-25T12:32:39.959329+00:00"
+    },
+    {
+      "id": "605b713ec1e0",
+      "title": "Databricks Data Engineer - Manager - Consulting - Location Open Job in Jericho, NY | EY",
+      "company": "Databricks Data Engineer",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ey.jobs/locations/jericho-ny/job-titles/databricks-data-engineer-manager-consulting-location-open/jobs/",
+      "source": "Other",
+      "description": "Databricks Data Engineer - Manager - Consulting - Location Open Job in Jericho, NY, updated and verified daily by DirectEmployers Association.",
+      "date": "2026-04-25",
+      "timestamp": "2026-04-25T06:38:13+00:00",
+      "fetched_at": "2026-04-25T12:32:39.887544+00:00"
+    },
     {
       "id": "d6dc25ce5ad4",
       "title": "Senior Software Engineer at Cargill",
@@ -77,6 +182,21 @@
       "fetched_at": "2026-04-25T08:38:21.465137+00:00"
     },
     {
+      "id": "3a50cab87f13",
+      "title": "Nora Lewin, PhD's Post - LinkedIn",
+      "company": "Unknown Company",
+      "role": "Nora Lewin, PhD's Post - LinkedIn",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/nora-lewin-phd-48a44b17_ill-be-hiring-soon-for-a-data-engineer-to-activity-7453450832328495104-xyfL",
+      "source": "LinkedIn",
+      "description": "Aashritha V. Data Specialist | AI Engineer | Content Engineer | AWS ... Kalyani C. Data Engineer @Meta |Experienced Data Engineer (AI/ML) ...",
+      "date": "2026-04-25",
+      "timestamp": "2026-04-25T04:59:37+00:00",
+      "fetched_at": "2026-04-25T12:32:39.888420+00:00"
+    },
+    {
       "id": "0969809a005c",
       "title": "Senior Software Engineer - San Jose, California, United States - Zoom Careers",
       "company": "San Jose, California, United States - Zoom Careers",
@@ -105,6 +225,66 @@
       "date": "2026-04-25",
       "timestamp": "2026-04-25T03:19:37+00:00",
       "fetched_at": "2026-04-25T08:38:21.466303+00:00"
+    },
+    {
+      "id": "238f3b698d36",
+      "title": "Software Engineer at Ford Motor Company",
+      "company": "Ford Motor Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.careers.ford.com/job/dearborn/software-engineer/48560/94347995152",
+      "source": "Other",
+      "description": "The Software Engineer will work on a back-end software engineering team and collaborate with the other Software Engineers, Designers, ...",
+      "date": "2026-04-25",
+      "timestamp": "2026-04-25T03:15:44+00:00",
+      "fetched_at": "2026-04-25T12:32:39.888995+00:00"
+    },
+    {
+      "id": "86b4c7d667d3",
+      "title": "Software Engineer II - Careers - The Trade Desk",
+      "company": "Careers - The Trade Desk",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.thetradedesk.com/jobs/5120396007/software-engineer-ii",
+      "source": "Other",
+      "description": "Software Engineer II. Posted: April 24, 2026. Location: Madrid. Job ... Lead Senior Software Engineer \u00b7 April 13, 2026 Bellevue, Boulder, Chicago ...",
+      "date": "2026-04-25",
+      "timestamp": "2026-04-25T02:38:27+00:00",
+      "fetched_at": "2026-04-25T12:32:39.889108+00:00"
+    },
+    {
+      "id": "fbe3cb5ed8ab",
+      "title": "Cloud Platform Engineer | Schwab Jobs",
+      "company": "Schwab Jobs",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.schwabjobs.com/job/austin/cloud-platform-engineer/33727/94332979568",
+      "source": "Other",
+      "description": "Cloud Platform Engineer . Austin, TX. Requisition ID 2026-121340 Category Engineering & Software Development Position type Regular Pay range USD ...",
+      "date": "2026-04-25",
+      "timestamp": "2026-04-25T02:02:42+00:00",
+      "fetched_at": "2026-04-25T12:32:39.889221+00:00"
+    },
+    {
+      "id": "fef92726bdc3",
+      "title": "Principal Software Engineer (Cortex Platform) at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-cortex-platform/47263/94339350080",
+      "source": "Other",
+      "description": "Principal AI Engineer - Enterprise AI Solutions ... Principal Site Reliability Engineer (DNS Security) Santa Clara, California, United States",
+      "date": "2026-04-25",
+      "timestamp": "2026-04-25T01:58:12+00:00",
+      "fetched_at": "2026-04-25T12:32:39.960261+00:00"
     },
     {
       "id": "cb443669284f",
@@ -167,6 +347,21 @@
       "fetched_at": "2026-04-25T08:38:21.467497+00:00"
     },
     {
+      "id": "dcda59529296",
+      "title": "Sr. Staff Software Engineer , Ads Measurement - Pinterest Careers",
+      "company": "Pinterest Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.pinterestcareers.com/jobs/7782478/sr-staff-software-engineer-ads-measurement/?gh_jid=7782478",
+      "source": "Other",
+      "description": "Staff Software Engineer , Ads Measurement. Seattle / Palo Alto / San Francisco \u00b7 Engineering; Regular. a screenshot of a social media post. Share.",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T22:51:28+00:00",
+      "fetched_at": "2026-04-25T12:32:39.889959+00:00"
+    },
+    {
       "id": "a5e55d102693",
       "title": "Marc Minor's Post - LinkedIn",
       "company": "Unknown Company",
@@ -210,6 +405,21 @@
       "date": "2026-04-24",
       "timestamp": "2026-04-24T22:06:38+00:00",
       "fetched_at": "2026-04-25T01:09:13.176141+00:00"
+    },
+    {
+      "id": "d64f29cb452d",
+      "title": "Job Application for Senior Software Engineer at \u014cura - Greenhouse",
+      "company": "Oura",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/oura/jobs/4223183009",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer . Hybrid - Helsinki, Uusimaa. Apply. Our mission at Oura is to empower every person to own their inner potential. Our award ...",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T21:39:16+00:00",
+      "fetched_at": "2026-04-25T12:32:39.890446+00:00"
     },
     {
       "id": "7a09547e124f",
