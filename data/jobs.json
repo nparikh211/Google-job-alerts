@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-04-25T12:32:39.963155+00:00",
-  "total_jobs": 426,
+  "last_updated": "2026-04-25T16:26:54.380551+00:00",
+  "total_jobs": 434,
   "stats": {
-    "total_companies": 320,
+    "total_companies": 327,
     "total_roles": 22,
     "regions": {
-      "India": 201,
-      "Philippines": 34,
-      "Remote": 58,
+      "India": 207,
+      "Philippines": 35,
+      "Remote": 59,
       "Unknown": 135
     },
     "sources": {
-      "Other": 339,
-      "Greenhouse": 20,
+      "Other": 345,
+      "Greenhouse": 22,
       "Workday": 16,
       "Ashby": 15,
       "LinkedIn": 11,
@@ -32,6 +32,66 @@
   },
   "jobs": [
     {
+      "id": "b876c861c02b",
+      "title": "Day in the Life of a Software Engineer at Amazon - YouTube",
+      "company": "Amazon",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.youtube.com/watch?v=DYHCG6G5R_k",
+      "source": "Other",
+      "description": "Day in the Life of a Software Engineer at Amazon ... Comments. 12. Hi Sarah I am a software engineering student but I want to become a backend engineer ...",
+      "date": "2026-04-25",
+      "timestamp": "2026-04-25T13:55:50+00:00",
+      "fetched_at": "2026-04-25T16:26:54.132856+00:00"
+    },
+    {
+      "id": "bb8fdb64ed8c",
+      "title": "SENIOR SOFTWARE ENGINEER | City of New York Jobs",
+      "company": "City of New York Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://cityjobs.nyc.gov/job/senior-software-engineer-in-manhattan-jid-43123",
+      "source": "Other",
+      "description": "Information Technology Services (ITS) is recruiting for one (1) IT Project Specialist, to function as Senior Software Engineer , who will: - Manage the ...",
+      "date": "2026-04-25",
+      "timestamp": "2026-04-25T13:09:24+00:00",
+      "fetched_at": "2026-04-25T16:26:54.133356+00:00"
+    },
+    {
+      "id": "bc363fe2d336",
+      "title": "Job Application for Data Engineer at xAI - Greenhouse",
+      "company": "Xai",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/xai/jobs/5120884007",
+      "source": "Greenhouse",
+      "description": "As a Data Engineer / AI Engineer on xAI's Data team, you will be ... Software Engineer II). X Profile. LinkedIn Profile. If you have a public ...",
+      "date": "2026-04-25",
+      "timestamp": "2026-04-25T12:44:49+00:00",
+      "fetched_at": "2026-04-25T16:26:54.133603+00:00"
+    },
+    {
+      "id": "5a1b1a4a38f2",
+      "title": "Senior Software Engineer in west valley city, Utah, United States of America - RTX - Careers",
+      "company": "RTX - Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.rtx.com/global/en/job/01840931/Senior-Software-Engineer",
+      "source": "Other",
+      "description": "Apply for Senior Software Engineer job with Raytheon in west valley city, Utah, United States of America. Engineering at Raytheon.",
+      "date": "2026-04-25",
+      "timestamp": "2026-04-25T11:40:10+00:00",
+      "fetched_at": "2026-04-25T16:26:54.133737+00:00"
+    },
+    {
       "id": "ba93298e5eaf",
       "title": "Intuit Software Engineer 1 US \u2013 Recruiter 1:1 Call : r/leetcode - Reddit",
       "company": "Reddit",
@@ -45,6 +105,21 @@
       "date": "2026-04-25",
       "timestamp": "2026-04-25T09:50:58+00:00",
       "fetched_at": "2026-04-25T12:32:39.958523+00:00"
+    },
+    {
+      "id": "eb065b7019b8",
+      "title": "CNO Software Engineer - - 122123 - Booz | Allen | Hamilton \u00ae - Careers",
+      "company": "- 122123 - Booz | Allen | Hamilton \u00ae - Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.boozallen.com/jobs/JobDetail/Annapolis-Junction-CNO-Software-Engineer-R0236196/122123",
+      "source": "Other",
+      "description": "CNO Software Engineer . Annapolis Junction, Maryland, USA. Apply. CREATEYOUR CAREER. CREATE AND GROW WITH US. Grow. Your growth matters to us - explore ...",
+      "date": "2026-04-25",
+      "timestamp": "2026-04-25T09:23:39+00:00",
+      "fetched_at": "2026-04-25T16:26:54.376343+00:00"
     },
     {
       "id": "eaa27bc29d99",
@@ -137,6 +212,21 @@
       "fetched_at": "2026-04-25T12:32:39.887544+00:00"
     },
     {
+      "id": "cfaed0c82df6",
+      "title": "Job Application for Senior Full Stack Software Engineer (.NET/React) at CentralReach",
+      "company": "Centralreach",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/centralreach/jobs/4232881009",
+      "source": "Greenhouse",
+      "description": "Senior Full Stack Software Engineer (.NET/React). Remote - US. Apply. CentralReach is a leading provider of autism and IDD care software for Applied ...",
+      "date": "2026-04-25",
+      "timestamp": "2026-04-25T06:37:01+00:00",
+      "fetched_at": "2026-04-25T16:26:54.135202+00:00"
+    },
+    {
       "id": "d6dc25ce5ad4",
       "title": "Senior Software Engineer at Cargill",
       "company": "Cargill",
@@ -150,6 +240,21 @@
       "date": "2026-04-25",
       "timestamp": "2026-04-25T06:18:14+00:00",
       "fetched_at": "2026-04-25T08:38:21.463868+00:00"
+    },
+    {
+      "id": "ed8021d7ef1e",
+      "title": "Lead Specialty Software Engineer , CHARLOTTE, North Carolina | Wells Fargo",
+      "company": "Wells Fargo",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.wellsfargojobs.com/en/jobs/r-538245/lead-specialty-software-engineer/",
+      "source": "Other",
+      "description": "About this role: Wells Fargo is seeking a Lead Specialty Software Engineer to provide technical leadership for complex, business-critical ...",
+      "date": "2026-04-25",
+      "timestamp": "2026-04-25T05:55:21+00:00",
+      "fetched_at": "2026-04-25T16:26:54.135442+00:00"
     },
     {
       "id": "5d874799e4a0",
@@ -195,6 +300,21 @@
       "date": "2026-04-25",
       "timestamp": "2026-04-25T04:59:37+00:00",
       "fetched_at": "2026-04-25T12:32:39.888420+00:00"
+    },
+    {
+      "id": "419f76d38950",
+      "title": "Senior Software Engineer - Pearson",
+      "company": "Pearson",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://pearson.jobs/37EC1F4FFA6B474CA03AACE705AD8BE525",
+      "source": "Other",
+      "description": "Job Title: Senior Software Engineer (Full Stack \u2013 Frontend Focus). Location: Bangalore / Chennai (Hybrid). Experience: 6+ Years. About Pearson plc.",
+      "date": "2026-04-25",
+      "timestamp": "2026-04-25T04:42:17+00:00",
+      "fetched_at": "2026-04-25T16:26:54.136411+00:00"
     },
     {
       "id": "0969809a005c",
