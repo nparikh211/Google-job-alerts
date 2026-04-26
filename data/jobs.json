@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-04-26T08:46:28.778017+00:00",
-  "total_jobs": 475,
+  "last_updated": "2026-04-26T12:34:51.633980+00:00",
+  "total_jobs": 485,
   "stats": {
-    "total_companies": 358,
+    "total_companies": 363,
     "total_roles": 22,
     "regions": {
-      "India": 234,
-      "Philippines": 43,
-      "Remote": 65,
+      "India": 239,
+      "Philippines": 47,
+      "Remote": 66,
       "Unknown": 135
     },
     "sources": {
-      "Other": 377,
+      "Other": 386,
       "Greenhouse": 24,
       "Workday": 19,
       "Ashby": 15,
       "LinkedIn": 12,
       "Breezy": 7,
       "Lever": 6,
-      "Indeed": 4,
+      "Indeed": 5,
       "SmartRecruiters": 4,
       "iCIMS": 3,
       "Workable": 2,
@@ -31,6 +31,111 @@
     }
   },
   "jobs": [
+    {
+      "id": "3e72c9900cb7",
+      "title": "Software Engineer Jobs, Employment | Indeed",
+      "company": "Indeed",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.indeed.com/q-Software-Engineer-jobs.html?vjk=b0c0769c2591cc50",
+      "source": "Indeed",
+      "description": "... Site Reliability Engineer - SRE. Easily apply. Open Practice Solutions ... Senior Software Engineer IV. Easily apply. NetAlly. Hybrid remote in ...",
+      "date": "2026-04-26",
+      "timestamp": "2026-04-26T11:12:48+00:00",
+      "fetched_at": "2026-04-26T12:34:51.628543+00:00"
+    },
+    {
+      "id": "85ac681752c3",
+      "title": "Site Reliability Engineer (Mid / Senior) - Platform Infrastructure - Careers at Elastic",
+      "company": "Elastic",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.elastic.co/form?gh_jid=7852721",
+      "source": "Other",
+      "description": "Site Reliability Engineer (Mid / Senior) - Platform Infrastructure ... This website and all associated content, software, discussion forums, products, ...",
+      "date": "2026-04-26",
+      "timestamp": "2026-04-26T10:09:03+00:00",
+      "fetched_at": "2026-04-26T12:34:51.628682+00:00"
+    },
+    {
+      "id": "4ff2ed965797",
+      "title": "Associate Software Engineer at Boeing",
+      "company": "Boeing",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.boeing.com/job/bengaluru/associate-software-engineer/185/94397075904",
+      "source": "Other",
+      "description": "Associate Software Engineer . Bengaluru, Karnataka Job ID JR2026507367 Category Engineering Role Type Hybrid Post Date Apr. 26, 2026.",
+      "date": "2026-04-26",
+      "timestamp": "2026-04-26T09:19:26+00:00",
+      "fetched_at": "2026-04-26T12:34:51.266711+00:00"
+    },
+    {
+      "id": "203972f55a07",
+      "title": "Software Engineer - - 123550 - Booz | Allen | Hamilton \u00ae - Careers",
+      "company": "- 123550 - Booz | Allen | Hamilton \u00ae - Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.boozallen.com/jobs/JobDetail/McLean-Software-Engineer-R0238535/123550",
+      "source": "Other",
+      "description": "As a Software Engineer , you can resolve a problem with a complete end-to-end solution in a fast and agile environment. If you're looking for the ...",
+      "date": "2026-04-26",
+      "timestamp": "2026-04-26T08:55:30+00:00",
+      "fetched_at": "2026-04-26T12:34:51.629064+00:00"
+    },
+    {
+      "id": "65109d76b04a",
+      "title": "Associate Software Engineer , Backend, Tel Aviv, IL | DraftKings Careers",
+      "company": "DraftKings Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.draftkings.com/jobs/jr13065/associate-software-engineer-backend/",
+      "source": "Other",
+      "description": "Associate Software Engineer , Backend. Tel Aviv, IL. Engineering; Campus. a group of people sitting at tables in a room with orange walls. About ...",
+      "date": "2026-04-26",
+      "timestamp": "2026-04-26T08:49:48+00:00",
+      "fetched_at": "2026-04-26T12:34:51.629229+00:00"
+    },
+    {
+      "id": "fd4949c0a222",
+      "title": "Lead Full Stack Engineer , Backend Oriented, Israel - Tel Aviv | Salesforce Careers",
+      "company": "Tel Aviv | Salesforce Careers",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.salesforce.com/en/jobs/jr339975/lead-full-stack-engineer-backend-oriented/",
+      "source": "Other",
+      "description": "Note: By applying to the Software Full Stack Development posting, recruiters and hiring managers across the organization hiring Software Engineers ...",
+      "date": "2026-04-26",
+      "timestamp": "2026-04-26T08:36:13+00:00",
+      "fetched_at": "2026-04-26T12:34:51.267277+00:00"
+    },
+    {
+      "id": "65b262991b2d",
+      "title": "Site Reliability Engineer (AHT) - Northrop Grumman",
+      "company": "Northrop Grumman",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://northropgrumman.jobs/wright-patterson-afb-oh/site-reliability-engineer-aht/944407847AFC48E092A7A4E0BAF53C21/job/",
+      "source": "Other",
+      "description": "Site Reliability Engineer (AHT). Wright Patterson Afb, OH. Apply Now. RELOCATION ASSISTANCE: Relocation assistance may be available. CLEARANCE ...",
+      "date": "2026-04-26",
+      "timestamp": "2026-04-26T07:38:24+00:00",
+      "fetched_at": "2026-04-26T12:34:51.629970+00:00"
+    },
     {
       "id": "2f4ce7f02475",
       "title": "Sr. Software Engineer - Myworkdayjobs.com",
@@ -137,6 +242,21 @@
       "fetched_at": "2026-04-26T08:46:28.690844+00:00"
     },
     {
+      "id": "9ff117ce8499",
+      "title": "Senior Software Engineer , Information Security - Walmart Careers",
+      "company": "Walmart Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.walmart.com/us/en/jobs/R-2481158",
+      "source": "Other",
+      "description": "What you'll bring: As a Senior software engineer , experience in building scalable, resilient, secure enterprise application platforms using micro ...",
+      "date": "2026-04-26",
+      "timestamp": "2026-04-26T03:45:05+00:00",
+      "fetched_at": "2026-04-26T12:34:51.269160+00:00"
+    },
+    {
       "id": "eb1521b25784",
       "title": "Software Engineer Jobs, Employment | Indeed",
       "company": "Indeed",
@@ -240,6 +360,36 @@
       "date": "2026-04-26",
       "timestamp": "2026-04-26T00:47:30+00:00",
       "fetched_at": "2026-04-26T01:17:48.762704+00:00"
+    },
+    {
+      "id": "571ab6594227",
+      "title": "Senior Fullstack Engineer \u2022 Security / AI \u2022 Paris Office at Escape - Y Combinator",
+      "company": "Escape",
+      "role": "Fullstack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.ycombinator.com/companies/escape/jobs/TEjc3IT-senior-fullstack-engineer-security-ai-paris-office",
+      "source": "Other",
+      "description": "Senior AI Engineer - Utah \u00b7 Truewind \u00b7 Senior Software Engineer \u00b7 Atomic Industries \u00b7 Infrastructure Engineer \u00b7 Mendral.",
+      "date": "2026-04-26",
+      "timestamp": "2026-04-26T00:47:26+00:00",
+      "fetched_at": "2026-04-26T12:34:51.270187+00:00"
+    },
+    {
+      "id": "122079c9bd00",
+      "title": "DBT Cloud Engineer / Administrator - Federated Data Platform in Cracovie, Pologne",
+      "company": "Federated Data Platform in Cracovie, Pologne",
+      "role": "Cloud Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://join.pmicareers.com/fr/fr/job/25899/DBT-Cloud-Engineer-Administrator-Federated-Data-Platform",
+      "source": "Other",
+      "description": "We are looking for a talented Platform Engineer to join our dynamic ... Backend Engineer to join our IoT Platform team. This role is critical ...",
+      "date": "2026-04-26",
+      "timestamp": "2026-04-26T00:24:16+00:00",
+      "fetched_at": "2026-04-26T12:34:51.270435+00:00"
     },
     {
       "id": "24f18e157227",
