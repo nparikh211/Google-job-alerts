@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-04-25T20:24:32.340449+00:00",
-  "total_jobs": 438,
+  "last_updated": "2026-04-26T01:17:48.768010+00:00",
+  "total_jobs": 452,
   "stats": {
-    "total_companies": 330,
+    "total_companies": 339,
     "total_roles": 22,
     "regions": {
-      "India": 209,
-      "Philippines": 37,
+      "India": 222,
+      "Philippines": 38,
       "Remote": 59,
       "Unknown": 135
     },
     "sources": {
-      "Other": 349,
+      "Other": 362,
       "Greenhouse": 22,
       "Workday": 16,
       "Ashby": 15,
@@ -20,17 +20,107 @@
       "Lever": 6,
       "SmartRecruiters": 4,
       "iCIMS": 3,
+      "Indeed": 2,
       "Workable": 2,
       "Recruitee": 1,
-      "Jobvite": 1,
-      "Indeed": 1
+      "Jobvite": 1
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-04-25"
+      "latest": "2026-04-26"
     }
   },
   "jobs": [
+    {
+      "id": "ec8a12b522f2",
+      "title": "Senior Software Engineer at Arcline | Y Combinator",
+      "company": "Arcline",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.ycombinator.com/companies/arcline/jobs/kCVDDK3-senior-software-engineer",
+      "source": "Other",
+      "description": "Senior Software Engineer . $80K - $150K\u20220.30% - 1.00%\u2022Oslo, Oslo, NO. Job ... Full Stack Engineer (Python/Node.JS) \u00b7 Avent \u00b7 Founding Forward ...",
+      "date": "2026-04-26",
+      "timestamp": "2026-04-26T00:47:30+00:00",
+      "fetched_at": "2026-04-26T01:17:48.762704+00:00"
+    },
+    {
+      "id": "6ed9d29e4ed5",
+      "title": "DevOps engineer offer : r/cscareerquestions - Reddit",
+      "company": "Reddit",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/cscareerquestions/comments/1svqhz6/devops_engineer_offer/",
+      "source": "Other",
+      "description": "DevOps engineer offer. New Grad. Hi everyone, I was recently offered a ... Software Engineer or Data Engineer Career Choice? 8 upvotes \u00b7 19 ...",
+      "date": "2026-04-25",
+      "timestamp": "2026-04-25T23:07:25+00:00",
+      "fetched_at": "2026-04-26T01:17:48.688783+00:00"
+    },
+    {
+      "id": "84242b5aa818",
+      "title": "Software Engineer - Level 3 Jobs in Alabama - Northrop Grumman",
+      "company": "Level 3 Jobs in Alabama - Northrop Grumman",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://northropgrumman.jobs/locations/alabama/job-titles/software-engineer-level-3/jobs/?q=security&sort=date",
+      "source": "Other",
+      "description": "3 security Jobs in Alabama \u00b7 Software Engineer - level 3 \u00b7 Software Engineer - Level 3 \u00b7 Software Engineer - Level 3 \u00b7 Current Search Criteria \u00b7 Sorted By ...",
+      "date": "2026-04-25",
+      "timestamp": "2026-04-25T21:32:12+00:00",
+      "fetched_at": "2026-04-26T01:17:48.689155+00:00"
+    },
+    {
+      "id": "db7066bee0af",
+      "title": "Senior Lead, Software Engineer - Salesforce Careers | Build the Future of AI with Us",
+      "company": "Salesforce Careers | Build the Future of AI with Us",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.salesforce.com/en/jobs/jr324787/senior-lead-software-engineer/",
+      "source": "Other",
+      "description": "We are seeking a Lead AI Engineer to shape the technical foundations of Salesforce's Agentic Enterprise product suite.",
+      "date": "2026-04-25",
+      "timestamp": "2026-04-25T18:44:59+00:00",
+      "fetched_at": "2026-04-26T01:17:48.689488+00:00"
+    },
+    {
+      "id": "f65b7f3c2ee0",
+      "title": "Cloud Engineer Principal | GDIT",
+      "company": "GDIT",
+      "role": "Cloud Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.gdit.com/careers/job/e2879340e/cloud-engineer-principal/",
+      "source": "Other",
+      "description": "Job Description. GDIT is seeking a Cloud Engineer Principal to support our internal GDIT Internal Government Cloud Azure and Oracle environments. In ...",
+      "date": "2026-04-25",
+      "timestamp": "2026-04-25T18:28:57+00:00",
+      "fetched_at": "2026-04-26T01:17:48.689653+00:00"
+    },
+    {
+      "id": "d557f926487f",
+      "title": "Principal Data Engineer at Fidelity Investments in Merrimack, NH to - Union Leader",
+      "company": "Fidelity Investments in Merrimack, NH to",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.unionleader.com/classifieds/job/general_employment/principal-data-engineer-at-fidelity-investments-in-merrimack-nh-to/ad_a60c89f4-e0d6-5ab8-ae67-f3e086ebd1d4.html",
+      "source": "Other",
+      "description": "Principal Data Engineer at Fidelity Investments in Merrimack, NH to develop data pipelines that support next generation surveillance solutions on ...",
+      "date": "2026-04-25",
+      "timestamp": "2026-04-25T18:03:48+00:00",
+      "fetched_at": "2026-04-26T01:17:48.763883+00:00"
+    },
     {
       "id": "a7ce64c8f9c1",
       "title": "Software Engineer II, Web Platform - Pinterest Careers",
@@ -45,6 +135,96 @@
       "date": "2026-04-25",
       "timestamp": "2026-04-25T17:52:33+00:00",
       "fetched_at": "2026-04-25T20:24:32.334838+00:00"
+    },
+    {
+      "id": "08e96321704b",
+      "title": "Performance Modeling Software Engineer , Platform Architecture - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200660072-0505/performance-modeling-software-engineer-platform-architecture?team=HRDWR",
+      "source": "Other",
+      "description": "Apply for a Performance Modeling Software Engineer , Platform Architecture job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-04-25",
+      "timestamp": "2026-04-25T17:42:00+00:00",
+      "fetched_at": "2026-04-26T01:17:48.690060+00:00"
+    },
+    {
+      "id": "4b1313928e91",
+      "title": "Staff, Software Engineer - Walmart Careers",
+      "company": "Walmart Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.walmart.com/us/en/jobs/R-2467543",
+      "source": "Other",
+      "description": "Staff, Software Engineer . 1395 Crossman Ave Sunnyvale, CA 94089-1114. R-2467543.",
+      "date": "2026-04-25",
+      "timestamp": "2026-04-25T17:13:34+00:00",
+      "fetched_at": "2026-04-26T01:17:48.690188+00:00"
+    },
+    {
+      "id": "b04cf56095f2",
+      "title": "DevOps Engineer Job in Chantilly, VA | Jacobs",
+      "company": "Jacobs",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jacobs.jobs/locations/chantilly-va/job-titles/devops-engineer/jobs/?vs=11641",
+      "source": "Other",
+      "description": "DevOps Engineer Job in Chantilly, VA, updated and verified daily by DirectEmployers Association.",
+      "date": "2026-04-25",
+      "timestamp": "2026-04-25T16:46:10+00:00",
+      "fetched_at": "2026-04-26T01:17:48.690333+00:00"
+    },
+    {
+      "id": "1d1f4d94e692",
+      "title": "Software Engineer Lead - GPU Platform Engineer job in Pittsburgh, Pennsylvania, United ...",
+      "company": "Software Engineer Lead",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.pnc.com/global/en/job/R219612/Software-Engineer-Lead-GPU-Platform-Engineer",
+      "source": "Other",
+      "description": "Software Engineer Lead - GPU Platform Engineer . location Pittsburgh ... Senior Software Engineer - Java, Angular. Location Pittsburgh ...",
+      "date": "2026-04-25",
+      "timestamp": "2026-04-25T16:16:07+00:00",
+      "fetched_at": "2026-04-26T01:17:48.690505+00:00"
+    },
+    {
+      "id": "6d15344b2631",
+      "title": "Senior Frontend Software Engineer - Notebooks job in Menlo Park, California, United States",
+      "company": "Notebooks job in Menlo Park, California, United States",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.snowflake.com/us/en/job/SNCOUS25E4F888EBBF48BA8821D460B518257FEXTERNALENUS364C14FFE4C94F50B5AAB02B0AA98E7A/Senior-Frontend-Software-Engineer-Notebooks",
+      "source": "Other",
+      "description": "AS A SENIOR SOFTWARE ENGINEER FOR SNOWFLAKE NOTEBOOKS, YOU WILL: Drive ... Frontend Engineer . Location Menlo Park, California, United States ...",
+      "date": "2026-04-25",
+      "timestamp": "2026-04-25T16:01:45+00:00",
+      "fetched_at": "2026-04-26T01:17:48.690926+00:00"
+    },
+    {
+      "id": "f94d31a1be52",
+      "title": "Lead Software Engineer \u2013Developer at Boeing",
+      "company": "Boeing",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.boeing.com/job/berkeley/lead-software-engineer-developer/185/94354135920",
+      "source": "Other",
+      "description": "Lead Software Engineer \u2013Developer. Berkeley, Missouri Job ID JR2026506929 Category Security Clearance Role Type Onsite Post Date Apr. 24, 2026 ...",
+      "date": "2026-04-25",
+      "timestamp": "2026-04-25T14:03:44+00:00",
+      "fetched_at": "2026-04-26T01:17:48.691086+00:00"
     },
     {
       "id": "b876c861c02b",
@@ -105,6 +285,36 @@
       "date": "2026-04-25",
       "timestamp": "2026-04-25T11:40:10+00:00",
       "fetched_at": "2026-04-25T16:26:54.133737+00:00"
+    },
+    {
+      "id": "e805546d95d2",
+      "title": "Software Engineer Jobs, Employment | Indeed",
+      "company": "Indeed",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.indeed.com/q-Software-Engineer-jobs.html?vjk=45489a44dd157783",
+      "source": "Indeed",
+      "description": "83391 Software Engineer jobs available on Indeed.com. Apply to Software Engineer , Senior Software Engineer , Site Reliability Engineer and more!",
+      "date": "2026-04-25",
+      "timestamp": "2026-04-25T11:04:38+00:00",
+      "fetched_at": "2026-04-26T01:17:48.691943+00:00"
+    },
+    {
+      "id": "f910d788dbda",
+      "title": "Software Engineer III - Agentic AI Engineer - JPMC Candidate Experience page Careers",
+      "company": "Software Engineer III",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/cx_1001/job/210738545",
+      "source": "Other",
+      "description": "Software Engineer III - Agentic AI Engineer . OH, United States. Apply Now. Job Information. Job Identification 210738545; Job Category Software ...",
+      "date": "2026-04-25",
+      "timestamp": "2026-04-25T10:39:46+00:00",
+      "fetched_at": "2026-04-26T01:17:48.692089+00:00"
     },
     {
       "id": "ba93298e5eaf",
