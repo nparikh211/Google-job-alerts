@@ -1,26 +1,26 @@
 {
-  "last_updated": "2026-04-26T01:17:48.768010+00:00",
-  "total_jobs": 452,
+  "last_updated": "2026-04-26T05:59:44.795564+00:00",
+  "total_jobs": 462,
   "stats": {
-    "total_companies": 339,
+    "total_companies": 348,
     "total_roles": 22,
     "regions": {
-      "India": 222,
-      "Philippines": 38,
-      "Remote": 59,
+      "India": 227,
+      "Philippines": 41,
+      "Remote": 61,
       "Unknown": 135
     },
     "sources": {
-      "Other": 362,
-      "Greenhouse": 22,
-      "Workday": 16,
+      "Other": 367,
+      "Greenhouse": 24,
+      "Workday": 18,
       "Ashby": 15,
       "LinkedIn": 11,
       "Breezy": 7,
       "Lever": 6,
       "SmartRecruiters": 4,
+      "Indeed": 3,
       "iCIMS": 3,
-      "Indeed": 2,
       "Workable": 2,
       "Recruitee": 1,
       "Jobvite": 1
@@ -31,6 +31,51 @@
     }
   },
   "jobs": [
+    {
+      "id": "1dfaef74f41c",
+      "title": "Software Engineer III",
+      "company": "Ghr",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ghr.wd1.myworkdayjobs.com/Contractor-Conversion/job/Software-Engineer-III_26014679",
+      "source": "Workday",
+      "description": "Software Engineer III \u00b7 Codes solutions and unit test to deliver a requirement/story per the defined acceptance criteria and compliance requirements ...",
+      "date": "2026-04-26",
+      "timestamp": "2026-04-26T01:57:13+00:00",
+      "fetched_at": "2026-04-26T05:59:44.726067+00:00"
+    },
+    {
+      "id": "de3963ebaede",
+      "title": "Lead Software Engineer , Kubernetes - Myworkdayjobs.com",
+      "company": "Livenation",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://livenation.wd503.myworkdayjobs.com/TMExternalSite/job/Senior-Software-Engineer-I---Integration_JR-89087-4",
+      "source": "Workday",
+      "description": "Job Summary: JOB DESCRIPTION \u2013 Lead Software Engineer , Kubernetes Location: East Coast, US (Remote) Division: Ticketmaster NA Line Manager: Lead ...",
+      "date": "2026-04-26",
+      "timestamp": "2026-04-26T01:34:59+00:00",
+      "fetched_at": "2026-04-26T05:59:44.790257+00:00"
+    },
+    {
+      "id": "cf5478b12cb0",
+      "title": "Senior Software Engineer \u2022 Security / AI \u2022 Paris Office at Escape | Y Combinator",
+      "company": "Escape",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.ycombinator.com/companies/escape/jobs/vfZxURA-senior-software-engineer-security-ai-paris-office",
+      "source": "Other",
+      "description": "... Senior Software Engineer , you will guide and mentor a team of talented ... Senior Backend Engineer (Python) \u00b7 JustAI \u00b7 Senior Software ...",
+      "date": "2026-04-26",
+      "timestamp": "2026-04-26T00:48:02+00:00",
+      "fetched_at": "2026-04-26T05:59:44.790475+00:00"
+    },
     {
       "id": "ec8a12b522f2",
       "title": "Senior Software Engineer at Arcline | Y Combinator",
@@ -45,6 +90,51 @@
       "date": "2026-04-26",
       "timestamp": "2026-04-26T00:47:30+00:00",
       "fetched_at": "2026-04-26T01:17:48.762704+00:00"
+    },
+    {
+      "id": "24f18e157227",
+      "title": "Job Application for Data Engineer (4-month contract) at Outrider - Greenhouse",
+      "company": "Outrider",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/outrider/jobs/5200829008",
+      "source": "Greenhouse",
+      "description": "We are seeking a Data Engineer with strong Python and distributed processing skills to design, build, and maintain scalable data pipelines and the ...",
+      "date": "2026-04-26",
+      "timestamp": "2026-04-26T00:17:46+00:00",
+      "fetched_at": "2026-04-26T05:59:44.790760+00:00"
+    },
+    {
+      "id": "7bd2b706f526",
+      "title": "SOFTWARE ENGINEER II Job Details | TE Connectivity",
+      "company": "TE Connectivity",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.te.com/job/Webster-SOFTWARE-ENGINEER-II-NY-14580-9709/151541-en_US/",
+      "source": "Other",
+      "description": "Job Title: SOFTWARE ENGINEER II \u00b7 Posting Start Date: 4/23/26 \u00b7 At TE, you will unleash your potential working with people from diverse backgrounds and ...",
+      "date": "2026-04-25",
+      "timestamp": "2026-04-25T23:52:18+00:00",
+      "fetched_at": "2026-04-26T05:59:44.727329+00:00"
+    },
+    {
+      "id": "b95dc86b2b7e",
+      "title": "Software Engineer (AHT) - Northrop Grumman",
+      "company": "Northrop Grumman",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://northropgrumman.jobs/beavercreek-oh/software-engineer-aht/68692CA483F14835BAE867C06D606DF4/job/",
+      "source": "Other",
+      "description": "Software Engineer (AHT). Beavercreek, OH. Apply Now. RELOCATION ASSISTANCE: Relocation assistance may be available. CLEARANCE REQUIRED FOR START: No.",
+      "date": "2026-04-25",
+      "timestamp": "2026-04-25T23:10:01+00:00",
+      "fetched_at": "2026-04-26T05:59:44.791168+00:00"
     },
     {
       "id": "6ed9d29e4ed5",
@@ -77,6 +167,36 @@
       "fetched_at": "2026-04-26T01:17:48.689155+00:00"
     },
     {
+      "id": "a5da1a8b19b4",
+      "title": "Platform Engineer - Cloudpepper",
+      "company": "Cloudpepper",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://cloudpepper.io/careers/platform-engineer/",
+      "source": "Other",
+      "description": "Platform / DevOps Engineer (Symfony / Ansible). Build and operate the platform behind 10,000+ Odoo instances. Symfony/PHP control plane, Ansible ...",
+      "date": "2026-04-25",
+      "timestamp": "2026-04-25T20:56:57+00:00",
+      "fetched_at": "2026-04-26T05:59:44.728045+00:00"
+    },
+    {
+      "id": "59e5ed09a4dc",
+      "title": "Software Engineer Jobs, Employment | Indeed",
+      "company": "Indeed",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.indeed.com/q-Software-Engineer-jobs.html?vjk=c9ce6bb97e0d4cea",
+      "source": "Indeed",
+      "description": "... Senior Software Engineer jobs in Arlington, VA Site Reliability Engineer jobs in Portland, Or Site Reliability Engineer jobs in Kennesaw, Ga Site ...",
+      "date": "2026-04-25",
+      "timestamp": "2026-04-25T19:08:51+00:00",
+      "fetched_at": "2026-04-26T05:59:44.791855+00:00"
+    },
+    {
       "id": "db7066bee0af",
       "title": "Senior Lead, Software Engineer - Salesforce Careers | Build the Future of AI with Us",
       "company": "Salesforce Careers | Build the Future of AI with Us",
@@ -105,6 +225,21 @@
       "date": "2026-04-25",
       "timestamp": "2026-04-25T18:28:57+00:00",
       "fetched_at": "2026-04-26T01:17:48.689653+00:00"
+    },
+    {
+      "id": "7770b023e8c5",
+      "title": "Job Application for Senior Software Engineer , AI Product Insights at Mixpanel - Greenhouse",
+      "company": "Mixpanel",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/mixpanel/jobs/7850960",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer , AI Product Insights. San Francisco (Hybrid). Apply. About Mixpanel. Mixpanel turns data clarity into innovation. Trusted by ...",
+      "date": "2026-04-25",
+      "timestamp": "2026-04-25T18:20:38+00:00",
+      "fetched_at": "2026-04-26T05:59:44.728689+00:00"
     },
     {
       "id": "d557f926487f",
@@ -210,6 +345,21 @@
       "date": "2026-04-25",
       "timestamp": "2026-04-25T16:01:45+00:00",
       "fetched_at": "2026-04-26T01:17:48.690926+00:00"
+    },
+    {
+      "id": "4171c0eca513",
+      "title": "Software Engineer II Job in London, ON - TD Bank",
+      "company": "TD Bank",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://tdbank.jobs/locations/london-on/job-titles/software-engineer-ii/jobs/",
+      "source": "Other",
+      "description": "Software Engineer II Job in London, ON, updated and verified daily by DirectEmployers Association.",
+      "date": "2026-04-25",
+      "timestamp": "2026-04-25T14:52:30+00:00",
+      "fetched_at": "2026-04-26T05:59:44.730150+00:00"
     },
     {
       "id": "f94d31a1be52",
