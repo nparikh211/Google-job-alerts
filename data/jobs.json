@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-04-27T06:19:55.808183+00:00",
-  "total_jobs": 529,
+  "last_updated": "2026-04-27T10:01:38.770040+00:00",
+  "total_jobs": 541,
   "stats": {
-    "total_companies": 391,
+    "total_companies": 399,
     "total_roles": 22,
     "regions": {
-      "India": 272,
-      "Philippines": 55,
+      "India": 283,
+      "Philippines": 56,
       "Remote": 69,
       "Unknown": 135
     },
     "sources": {
-      "Other": 421,
-      "Greenhouse": 27,
+      "Other": 430,
+      "Greenhouse": 28,
       "Workday": 20,
+      "LinkedIn": 16,
       "Ashby": 15,
-      "LinkedIn": 14,
       "Indeed": 7,
       "Breezy": 7,
       "Lever": 6,
@@ -32,6 +32,111 @@
   },
   "jobs": [
     {
+      "id": "a7d14a8c1fab",
+      "title": "Software Engineer | KUKA Switzerland",
+      "company": "KUKA Switzerland",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.kuka.com/en-ch/company/careers/vacancies/software-engineer-4060",
+      "source": "Other",
+      "description": "Software Engineer . 27 April 2026. Apply now online. Discover your impact with KUKA Group. KUKA Group offers an ...",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T09:02:47+00:00",
+      "fetched_at": "2026-04-27T10:01:38.551411+00:00"
+    },
+    {
+      "id": "fb41b5d51e23",
+      "title": "Job Application for Sr. Data Engineer (Starlink Grwoth) at SpaceX - Greenhouse",
+      "company": "Spacex",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/spacex/jobs/8522525002",
+      "source": "Greenhouse",
+      "description": "Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. SR. DATA ENGINEER ( ...",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T08:41:20+00:00",
+      "fetched_at": "2026-04-27T10:01:38.551554+00:00"
+    },
+    {
+      "id": "240699248a29",
+      "title": "Lead Site Reliability Engineer - JPMC Candidate Experience page Careers",
+      "company": "JPMC Candidate Experience page Careers",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/cx_1001/job/210741112",
+      "source": "Other",
+      "description": "Lead Site Reliability Engineer . Houston, TX, United States. Apply ... Lead Software Engineer - Java Lead. Plano, TX, United States. and 4 more.",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T08:24:07+00:00",
+      "fetched_at": "2026-04-27T10:01:38.551728+00:00"
+    },
+    {
+      "id": "01e230b87260",
+      "title": "Senior Software Engineer - AI/ML (GenAI, RAG) - Gartner Careers",
+      "company": "AI/ML (GenAI, RAG) - Gartner Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.gartner.com/jobs/job/108540-senior-software-engineer-ai-ml-genai-rag/",
+      "source": "Other",
+      "description": "Senior Software Engineer - AI/ML (GenAI, RAG). Senior Software Engineer ... Work as an AI/ ML Engineer . Work with Open-source frameworks and ...",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T08:01:48+00:00",
+      "fetched_at": "2026-04-27T10:01:38.551966+00:00"
+    },
+    {
+      "id": "da82914f5984",
+      "title": "Full Stack / Backend Engineer Seeking New Opportunities | ~5 YOE | Open to Referrals",
+      "company": "~5 YOE | Open to Referrals",
+      "role": "Backend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/jobhunting/comments/1swwo61/full_stack_backend_engineer_seeking_new/",
+      "source": "Other",
+      "description": "Full Stack / Backend Engineer Seeking New Opportunities | ~5 YOE | Open to Referrals ... Senior Software Engineer trying to stand out in a very crowded ...",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T07:47:05+00:00",
+      "fetched_at": "2026-04-27T10:01:38.552172+00:00"
+    },
+    {
+      "id": "aaffdd81f0bd",
+      "title": "Rippling Frontend Interview Experience | Senior Software Engineer - Medium",
+      "company": "Rippling Frontend Interview Experience",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://medium.com/frontend-army/rippling-frontend-interview-experience-senior-software-engineer-f0c86ec2c4fd",
+      "source": "Other",
+      "description": "Role: Senior Software Engineer Experience: 9 Years Background: Master's from \u2026 ... Senior Frontend Engineer (6+ years) | 30K+ LinkedIn | 225K+ ...",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T07:44:18+00:00",
+      "fetched_at": "2026-04-27T10:01:38.552441+00:00"
+    },
+    {
+      "id": "77b14bb87026",
+      "title": "Software Engineer - AWS -Senior Associate in Bangalore, India",
+      "company": "AWS -Senior Associate in Bangalore, India",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs-ta.pwc.com/global/en/job/724181WD/Software-Engineer-AWS-Senior-Associate",
+      "source": "Other",
+      "description": "Apply for Software Engineer - AWS -Senior Associate job with PwC Acceleration Centres in Bangalore, India ... Data Engineer - AWS - Senior Associate.",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T07:42:47+00:00",
+      "fetched_at": "2026-04-27T10:01:38.552622+00:00"
+    },
+    {
       "id": "5768ac4effd9",
       "title": "Principal Software Engineer at UnitedHealth Group",
       "company": "UnitedHealth Group",
@@ -45,6 +150,51 @@
       "date": "2026-04-27",
       "timestamp": "2026-04-27T04:51:56+00:00",
       "fetched_at": "2026-04-27T06:19:55.802242+00:00"
+    },
+    {
+      "id": "95adf8e883f8",
+      "title": "Mercor hiring Senior Software Engineer | Upto $100/hr - AI Trainer in New York, NY",
+      "company": "Upto $100/hr - AI Trainer in New York, NY",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/senior-software-engineer-upto-%24100-hr-ai-trainer-at-mercor-4405953470",
+      "source": "LinkedIn",
+      "description": "Senior Software Engineer | Upto $100/hr - AI Trainer in Mountain View ... Full Stack Engineer jobs \u00b7 Senior Dotnet Developer jobs \u00b7 Senior ...",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T04:39:19+00:00",
+      "fetched_at": "2026-04-27T10:01:38.553027+00:00"
+    },
+    {
+      "id": "a79901543b7c",
+      "title": "Site Reliability Engineer 3 - MongoDB",
+      "company": "MongoDB",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.mongodb.com/careers/job/?gh_jid=7821318&utm_source=Otta",
+      "source": "Other",
+      "description": "Site Reliability Engineer 3. Dublin \u00b7 Responsibilities. Design and build the infrastructure for a global cloud service that comprises hundreds of ...",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T03:58:36+00:00",
+      "fetched_at": "2026-04-27T10:01:38.553178+00:00"
+    },
+    {
+      "id": "adcbe9137f54",
+      "title": "Data Engineer \u2013 Development & Analytics (Bedford, MA) - Philips Careers",
+      "company": "Philips Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.careers.philips.com/na/en/job/582453/Data-Engineer-Development-Analytics-Bedford-MA",
+      "source": "Other",
+      "description": "Apply for Data Engineer \u2013 Development & Analytics (Bedford, MA) job with philips-canva in Bedford, Massachusetts, United States, Massachusetts, ...",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T03:55:12+00:00",
+      "fetched_at": "2026-04-27T10:01:38.553384+00:00"
     },
     {
       "id": "9d66889f1677",
@@ -107,6 +257,21 @@
       "fetched_at": "2026-04-27T06:19:55.560556+00:00"
     },
     {
+      "id": "ab585fdfc17d",
+      "title": "AI and ML Software Engineer - - 123538 - Booz | Allen | Hamilton \u00ae",
+      "company": "- 123538 - Booz | Allen | Hamilton \u00ae",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.boozallen.com/jobs/JobDetail/Chantilly-AI-and-ML-Software-Engineer-R0238514/123538",
+      "source": "Other",
+      "description": "AI and ML Software Engineer . Chantilly, Virginia, USA. Apply. CREATEYOUR CAREER. CREATE AND GROW WITH US. Grow. Your growth matters to us - explore ...",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T01:59:31+00:00",
+      "fetched_at": "2026-04-27T10:01:38.554391+00:00"
+    },
+    {
       "id": "de74fc411abc",
       "title": "Senior Lead Software Engineer , Full Stack (Programming Language Excellence Center ...",
       "company": "Unknown Company",
@@ -135,6 +300,21 @@
       "date": "2026-04-27",
       "timestamp": "2026-04-27T01:13:34+00:00",
       "fetched_at": "2026-04-27T06:19:55.561239+00:00"
+    },
+    {
+      "id": "a59de33b8819",
+      "title": "Uber hiring Software Engineer II in Sunnyvale, CA | LinkedIn",
+      "company": "LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/software-engineer-ii-at-uber-4407152694",
+      "source": "LinkedIn",
+      "description": "Full-Stack Engineer . Mage. Santa Clara, CA 2 days ago. Software ... Senior Software Engineer Technical Lead jobs. 45,622 open jobs \u00b7 Software ...",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T00:55:00+00:00",
+      "fetched_at": "2026-04-27T10:01:38.766346+00:00"
     },
     {
       "id": "2638b7a05b16",
