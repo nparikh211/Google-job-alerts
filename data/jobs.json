@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-04-27T01:19:07.392322+00:00",
-  "total_jobs": 516,
+  "last_updated": "2026-04-27T06:19:55.808183+00:00",
+  "total_jobs": 529,
   "stats": {
-    "total_companies": 386,
+    "total_companies": 391,
     "total_roles": 22,
     "regions": {
-      "India": 262,
-      "Philippines": 52,
+      "India": 272,
+      "Philippines": 55,
       "Remote": 69,
       "Unknown": 135
     },
     "sources": {
-      "Other": 409,
+      "Other": 421,
       "Greenhouse": 27,
       "Workday": 20,
       "Ashby": 15,
       "LinkedIn": 14,
+      "Indeed": 7,
       "Breezy": 7,
-      "Indeed": 6,
       "Lever": 6,
       "SmartRecruiters": 4,
       "Workable": 3,
@@ -27,10 +27,130 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-04-26"
+      "latest": "2026-04-27"
     }
   },
   "jobs": [
+    {
+      "id": "5768ac4effd9",
+      "title": "Principal Software Engineer at UnitedHealth Group",
+      "company": "UnitedHealth Group",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.unitedhealthgroup.com/job/noida/principal-software-engineer/34088/94430986944",
+      "source": "Other",
+      "description": "Principal Software Engineer . Requisition number: 2352973 Job category: Technology Primary location: Noida, Uttar Pradesh Date posted: 04/27 ...",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T04:51:56+00:00",
+      "fetched_at": "2026-04-27T06:19:55.802242+00:00"
+    },
+    {
+      "id": "9d66889f1677",
+      "title": "WiFi Machine Learning Engineer for Wireless SoC - Jobs at Apple",
+      "company": "Apple",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-il/details/200659673-0865/wifi-machine-learning-engineer-for-wireless-soc",
+      "source": "Other",
+      "description": "Apply for a WiFi Machine Learning Engineer for Wireless SoC job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T03:37:11+00:00",
+      "fetched_at": "2026-04-27T06:19:55.559562+00:00"
+    },
+    {
+      "id": "8e694b3b10e9",
+      "title": "Principal Network Platform Engineer in Dunstable, United Kingdom, LU5 4TB - Mastercard careers",
+      "company": "Mastercard careers",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mastercard.com/us/en/job/R-275956/Principal-Network-Platform-Engineer",
+      "source": "Other",
+      "description": "... Site Reliability Engineer . Location Dublin 18, Ireland Category Engineering ... Senior Software Engineer . Location Dublin 18, Ireland Category ...",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T03:16:28+00:00",
+      "fetched_at": "2026-04-27T06:19:55.560134+00:00"
+    },
+    {
+      "id": "487932820650",
+      "title": "Software Engineer - Developer (Mid-Level, Senior) at Boeing",
+      "company": "Boeing",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.boeing.com/job/titusville/software-engineer-developer-mid-level-senior/185/94428180064",
+      "source": "Other",
+      "description": "This position will focus on supporting the Boeing Defense, Space & Security (BDS) business organization. The Senior Software Engineer will be ...",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T03:14:41+00:00",
+      "fetched_at": "2026-04-27T06:19:55.560330+00:00"
+    },
+    {
+      "id": "813c5a09e854",
+      "title": "Associate Software Engineer II - JAVA Angular Devops CI/CD at UnitedHealth Group",
+      "company": "UnitedHealth Group",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.unitedhealthgroup.com/job/hyderabad/associate-software-engineer-ii-java-angular-devops-ci-cd/34088/94427906432",
+      "source": "Other",
+      "description": "Associate Software Engineer II - JAVA+Angular+Devops+CI/CD. Requisition number: 2357004 Job category: Technology Primary location: Hyderabad, ...",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T02:55:24+00:00",
+      "fetched_at": "2026-04-27T06:19:55.560556+00:00"
+    },
+    {
+      "id": "de74fc411abc",
+      "title": "Senior Lead Software Engineer , Full Stack (Programming Language Excellence Center ...",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.capitalonecareers.com/job/mclean/senior-lead-software-engineer-full-stack-programming-language-excellence-center-enterprise-platform/1732/94424992992",
+      "source": "Other",
+      "description": "Senior Lead Software Engineer , Full Stack (Programming Language ... Lead Data Engineer (Python, AWS, SQL, GenAI) (Enterprise Platforms ...",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T01:53:38+00:00",
+      "fetched_at": "2026-04-27T06:19:55.560956+00:00"
+    },
+    {
+      "id": "ce18c22df1de",
+      "title": "Associate AI Engineer in United States - BigBear.ai Careers",
+      "company": "BigBear.ai Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.bigbear.ai/jobs/4373?lang=en-us",
+      "source": "Other",
+      "description": "We are seeking a highly skilled and experienced Associate AI Engineer with expertise in Python, generative AI, and Agent Orchestration. What you will ...",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T01:13:34+00:00",
+      "fetched_at": "2026-04-27T06:19:55.561239+00:00"
+    },
+    {
+      "id": "2638b7a05b16",
+      "title": "Senior Specialty Software Engineer - Capital Markets Reference Data - Wells Fargo",
+      "company": "Capital Markets Reference Data - Wells Fargo",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.wellsfargojobs.com/en/jobs/r-539670/senior-specialty-software-engineer-capital-markets-reference-data/",
+      "source": "Other",
+      "description": "Senior Specialty Software Engineer - Capital Markets Reference Data. Save Saved. CHARLOTTE, North Carolina; Technology. Senior Software Engineer . Save",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T00:45:42+00:00",
+      "fetched_at": "2026-04-27T06:19:55.803977+00:00"
+    },
     {
       "id": "c2cd72eb432b",
       "title": "JPMorgan Software Engineer (Multiple Positions Available) Interview First Round \u2013 What to Expect?",
@@ -45,6 +165,21 @@
       "date": "2026-04-26",
       "timestamp": "2026-04-26T23:23:43+00:00",
       "fetched_at": "2026-04-27T01:19:06.460852+00:00"
+    },
+    {
+      "id": "272e1a580e80",
+      "title": "Senior Software Engineer Jobs, Employment | Indeed",
+      "company": "Indeed",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.indeed.com/q-senior-software-engineer-jobs.html?start=15",
+      "source": "Indeed",
+      "description": "16927 Senior Software Engineer jobs available on Indeed.com. Apply to Senior Software Engineer , Senior CNC Programmer, Senior CNC Machinist and ...",
+      "date": "2026-04-26",
+      "timestamp": "2026-04-26T23:20:26+00:00",
+      "fetched_at": "2026-04-27T06:19:55.561626+00:00"
     },
     {
       "id": "6e27b4527043",
@@ -107,6 +242,36 @@
       "fetched_at": "2026-04-27T01:19:07.387142+00:00"
     },
     {
+      "id": "1712833008b8",
+      "title": "Mr Kien Vu, Senior Software Engineer | Adelaide University People Directory",
+      "company": "Adelaide University People Directory",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://adelaide.edu.au/people/kien.vu",
+      "source": "Other",
+      "description": "Senior Software Engineer . kien.vu@adelaide.edu.au. Organisation unit. Corporate Information Technology IT Engagement and Education Success. Location.",
+      "date": "2026-04-26",
+      "timestamp": "2026-04-26T22:43:26+00:00",
+      "fetched_at": "2026-04-27T06:19:55.562372+00:00"
+    },
+    {
+      "id": "51240817e89a",
+      "title": "Software Engineer , Quantum Algorithms (Optimization) job with AlphaStaffHCM | 41955578",
+      "company": "41955578",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.avs.org/job/41955578/software-engineer-quantum-algorithms-optimization-/",
+      "source": "Other",
+      "description": "Software Engineer , Quantum Algorithms (Optimization) in Bachelor, Experienced Career, Engineer, Physics with AlphaStaffHCM. Apply Today.",
+      "date": "2026-04-26",
+      "timestamp": "2026-04-26T22:32:59+00:00",
+      "fetched_at": "2026-04-27T06:19:55.805038+00:00"
+    },
+    {
       "id": "d1d820c4a342",
       "title": "best way to prepare for a platform engineer position coming as a SWE? - Reddit",
       "company": "Reddit",
@@ -135,6 +300,21 @@
       "date": "2026-04-26",
       "timestamp": "2026-04-26T21:45:26+00:00",
       "fetched_at": "2026-04-27T01:19:06.461742+00:00"
+    },
+    {
+      "id": "80b8845092ec",
+      "title": "Software Engineer III - React - JPMC Candidate Experience page Careers",
+      "company": "React - JPMC Candidate Experience page Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210740786?utm_source=Tech%3ANYC+job+board&utm_medium=getro.com&gh_src=Tech%3ANYC+job+board",
+      "source": "Other",
+      "description": "We have an exciting and rewarding opportunity for you to take your software engineering career to the next level. As a Software Engineer III ...",
+      "date": "2026-04-26",
+      "timestamp": "2026-04-26T20:41:28+00:00",
+      "fetched_at": "2026-04-27T06:19:55.805544+00:00"
     },
     {
       "id": "700af6e34ec9",
@@ -210,6 +390,21 @@
       "date": "2026-04-26",
       "timestamp": "2026-04-26T18:42:17+00:00",
       "fetched_at": "2026-04-27T01:19:07.388590+00:00"
+    },
+    {
+      "id": "bce7d5b448cb",
+      "title": "Fabric Data Engineer - Senior Associate in Bangalore, India",
+      "company": "Senior Associate in Bangalore, India",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs-ta.pwc.com/global/en/job/723095WD/Fabric-Data-Engineer-Senior-Associate",
+      "source": "Other",
+      "description": "Apply for Fabric Data Engineer - Senior Associate job with PwC Acceleration Centres in Bangalore, India ... Software Engineer - Senior Associate.",
+      "date": "2026-04-26",
+      "timestamp": "2026-04-26T18:33:51+00:00",
+      "fetched_at": "2026-04-27T06:19:55.563209+00:00"
     },
     {
       "id": "03a0f6992907",
