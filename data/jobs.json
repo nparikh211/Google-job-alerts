@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-04-27T13:10:45.599142+00:00",
-  "total_jobs": 541,
+  "last_updated": "2026-04-27T17:13:10.308315+00:00",
+  "total_jobs": 566,
   "stats": {
-    "total_companies": 399,
+    "total_companies": 414,
     "total_roles": 22,
     "regions": {
-      "India": 283,
-      "Philippines": 56,
-      "Remote": 69,
+      "India": 300,
+      "Philippines": 61,
+      "Remote": 72,
       "Unknown": 135
     },
     "sources": {
-      "Other": 430,
+      "Other": 452,
       "Greenhouse": 28,
-      "Workday": 20,
+      "Workday": 21,
+      "Ashby": 16,
       "LinkedIn": 16,
-      "Ashby": 15,
-      "Indeed": 7,
+      "Indeed": 8,
       "Breezy": 7,
       "Lever": 6,
       "SmartRecruiters": 4,
@@ -31,6 +31,381 @@
     }
   },
   "jobs": [
+    {
+      "id": "f59393d08319",
+      "title": "Senior GenAI Platform Engineer - VP | Citi Careers",
+      "company": "VP | Citi Careers",
+      "role": "Platform Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.citi.com/job/new-york/senior-genai-platform-engineer-vp/287/94447066160",
+      "source": "Other",
+      "description": "Learn more about applying for Senior GenAI Platform Engineer - VP at Citi. Learn more about potential responsibilities, qualifications and career ...",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T16:42:34+00:00",
+      "fetched_at": "2026-04-27T17:13:10.302779+00:00"
+    },
+    {
+      "id": "cd4173cfb258",
+      "title": "Applied AI/ ML Engineer at Ford Motor Company",
+      "company": "Ford Motor Company",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.careers.ford.com/job/chennai/applied-ai-ml-engineer/48560/94447779296",
+      "source": "Other",
+      "description": "Applied AI/ ML Engineer ... Business Requirement Gathering: Partner with supply chain functional leads to elicit and document business requirements and ...",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T16:40:04+00:00",
+      "fetched_at": "2026-04-27T17:13:10.302951+00:00"
+    },
+    {
+      "id": "bf5dbf55e360",
+      "title": "Software Engineer , YouTube Shopping Merchant - Careers - Google",
+      "company": "Careers - Google",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/116764632277754566-software-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer , Operations Research. Z\u00fcrich, Switzerland ... Software Engineer , YouTube Shopping Merchant. share. linkCopy link; email ...",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T16:36:25+00:00",
+      "fetched_at": "2026-04-27T17:13:10.303135+00:00"
+    },
+    {
+      "id": "44c605c0a253",
+      "title": "IT Cloud Engineer - Cloud Platform Engineering at Mayo Clinic",
+      "company": "Mayo Clinic",
+      "role": "Cloud Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.mayoclinic.org/job/rochester/it-cloud-engineer-cloud-platform-engineering/33647/94446642608",
+      "source": "Other",
+      "description": "IT Cloud Engineer - Cloud Platform Engineering. Job ID 381319 Date posted 04/27/2026 Job Expiration Date 05/03/2026. Rochester, MN; Full Time; Remote ...",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T16:24:08+00:00",
+      "fetched_at": "2026-04-27T17:13:10.221477+00:00"
+    },
+    {
+      "id": "414cd5c0c1c3",
+      "title": "ML Engineer @ NOX METALS - Jobs",
+      "company": "Nox Metals",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/nox-metals/687c6982-2d69-4a9a-b0e1-3e32dcd8ac9e/application",
+      "source": "Ashby",
+      "description": "ML Engineer | Nox Metals | Detroit, MI American factories deserve a supply chain that moves as fast as they do. The next generation of American ...",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T16:17:36+00:00",
+      "fetched_at": "2026-04-27T17:13:10.221622+00:00"
+    },
+    {
+      "id": "253dff39c247",
+      "title": "Data Engineer - UNIX, Data Stage, Python, Data Warehouse, Cloud at UnitedHealth Group",
+      "company": "UnitedHealth Group",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.unitedhealthgroup.com/job/hyderabad/data-engineer-unix-data-stage-python-data-warehouse-cloud/34088/94434248032",
+      "source": "Other",
+      "description": "Data Engineer - UNIX, Data Stage, Python, Data Warehouse, Cloud. Requisition number: 2355738 Job category: Technology Primary location: Hyderabad, ...",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T16:05:16+00:00",
+      "fetched_at": "2026-04-27T17:13:10.303553+00:00"
+    },
+    {
+      "id": "949457ef631b",
+      "title": "Senior Data Engineer - Pandora Careers",
+      "company": "Pandora Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.pandoragroup.com/senior-data-engineer/job/AA2F663EABE3261B0F8603A7DCDBBBEB",
+      "source": "Other",
+      "description": "As our new Senior Data Engineer in London, you will take end-to-end ownership of critical data products on our Azure Databricks-based data ...",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T16:05:10+00:00",
+      "fetched_at": "2026-04-27T17:13:10.303721+00:00"
+    },
+    {
+      "id": "f91fb3713aef",
+      "title": "Software Engineer II, Applied AI Engineer - Search for your career at Google.",
+      "company": "Google.",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.google.com/jobs/results/90860032026911430-software-engineer-ii/",
+      "source": "Other",
+      "description": "Senior Software Engineer , Operations Research. Z\u00fcrich, Switzerland ... Software Engineer II, Applied AI Engineer . share. linkCopy link; email ...",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T15:09:57+00:00",
+      "fetched_at": "2026-04-27T17:13:10.304146+00:00"
+    },
+    {
+      "id": "f47fbe38d550",
+      "title": "Software Engineer I - Jobs - Cox Careers",
+      "company": "Jobs - Cox Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.coxenterprises.com/en/jobs/r202676259/software-engineer-i/",
+      "source": "Other",
+      "description": "Software Engineer I \u00b7 6325 Peachtree Dunwoody Rd, Atlanta, Georgia \u00b7 Job Level: Individual Contributor \u00b7 Job Category: Engineering / Product Development ...",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T14:55:11+00:00",
+      "fetched_at": "2026-04-27T17:13:10.222304+00:00"
+    },
+    {
+      "id": "e83d2df6be4c",
+      "title": "Software Engineer - DevOps - Bangalore, India - Soci\u00e9t\u00e9 G\u00e9n\u00e9rale Careers",
+      "company": "DevOps - Bangalore, India - Soci\u00e9t\u00e9 G\u00e9n\u00e9rale Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.societegenerale.com/en/job-offers/software-engineer-devops-260002OF-en",
+      "source": "Other",
+      "description": "Are you looking for a new opportunity as a Software Engineer - DevOps in India? Discover our offer, apply quickly and join us!",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T14:54:12+00:00",
+      "fetched_at": "2026-04-27T17:13:10.222538+00:00"
+    },
+    {
+      "id": "30f1453708dc",
+      "title": "Senior/Principal Backend Engineer (CIEM) at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Backend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/senior-principal-backend-engineer-ciem/47263/94443964064",
+      "source": "Other",
+      "description": "We are seeking an experienced and talented backend principal software engineer to work with Java in a Spring Boot framework and a microservices ...",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T14:49:46+00:00",
+      "fetched_at": "2026-04-27T17:13:10.222720+00:00"
+    },
+    {
+      "id": "5e2238cb7bc9",
+      "title": "Software Engineer , Dublin, Leinster | General Motors Careers",
+      "company": "General Motors Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://search-careers.gm.com/en/jobs/jr-202608917/software-engineer/",
+      "source": "Other",
+      "description": "Software Engineer . Location. Dublin, Leinster. (+) Show all locations ... Principal Staff AI/ ML Engineer - AV ML Infra. Engineering 3. Engineering ...",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T14:30:11+00:00",
+      "fetched_at": "2026-04-27T17:13:10.222878+00:00"
+    },
+    {
+      "id": "384e6f6bf963",
+      "title": "Data Engineer Cloud Data Integration & Transformation - Remote Role - Magnum Technologies, Inc.",
+      "company": "Remote Role - Magnum Technologies, Inc.",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.dice.com/job-detail/16c07130-04c9-4349-a8c5-5422c5452d4c",
+      "source": "Other",
+      "description": "3 hours ago - Data Engineer Cloud Data Integration & Transformation - Remote RoleRequired Skills & Experience5+ years of experience in data ...",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T14:23:15+00:00",
+      "fetched_at": "2026-04-27T17:13:10.223076+00:00"
+    },
+    {
+      "id": "c3fb2b7c66c1",
+      "title": "Senior Software Engineer in Pune, India, 411006 - Mastercard careers",
+      "company": "Mastercard careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mastercard.com/us/en/job/R-274882/Senior-Software-Engineer",
+      "source": "Other",
+      "description": "Apply for Senior Software Engineer job with Mastercard in Pune, India, 411006. Engineering at Mastercard.",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T14:12:02+00:00",
+      "fetched_at": "2026-04-27T17:13:10.223254+00:00"
+    },
+    {
+      "id": "59036669b782",
+      "title": "Senior Software Engineer in Arlington, Virginia (No Remote) - Leidos Careers",
+      "company": "Leidos Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.leidos.com/jobs/17663002-senior-software-engineer",
+      "source": "Other",
+      "description": "We are seeking an experienced Senior Software Engineer to join our team in developing the forefront of unmanned and autonomous ship development ...",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T14:11:22+00:00",
+      "fetched_at": "2026-04-27T17:13:10.223413+00:00"
+    },
+    {
+      "id": "092bcdb92f2e",
+      "title": "Software Engineer | KUKA Global",
+      "company": "KUKA Global",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.kuka.com/en-us/company/careers/vacancies/software-engineer-4060",
+      "source": "Other",
+      "description": "Software Engineer . April 27, 2026. Apply now online. Discover your impact with KUKA Group. KUKA Group offers ...",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T13:57:33+00:00",
+      "fetched_at": "2026-04-27T17:13:10.304954+00:00"
+    },
+    {
+      "id": "9f0678deba30",
+      "title": "Data Engineer \u2013 Development & Analytics (Bedford, MA)",
+      "company": "Philips",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Data-Engineer---Development---Analytics--Bedford--MA-_582453",
+      "source": "Workday",
+      "description": "Job Description. Data Engineer \u2013 Development & Analytics (Bedford, MA). You will join a high-performing team focused on Advanced Imaging products in ...",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T13:36:11+00:00",
+      "fetched_at": "2026-04-27T17:13:10.223525+00:00"
+    },
+    {
+      "id": "5ac8fe5f6ebc",
+      "title": "Senior Embedded Software Engineer Job Details - Careers | Volvo Cars",
+      "company": "Careers | Volvo Cars",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.volvocars.com/job/Krakow-Senior-Embedded-Software-Engineer-08-884/1387724933/",
+      "source": "Other",
+      "description": "Senior Embedded Software Engineer . Software, the fuel for mobility. We bring bold digital visions to life. So we're on the lookout for more curious ...",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T13:35:35+00:00",
+      "fetched_at": "2026-04-27T17:13:10.223722+00:00"
+    },
+    {
+      "id": "25b54c88f49e",
+      "title": "AI Engineer II - Pune, India - Careers at Rapid7",
+      "company": "Rapid7",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.rapid7.com/jobs/ai-engineer-ii-pune-india-bb412831-162f-4db8-8c93-f99548297987",
+      "source": "Other",
+      "description": "AI Engineer II ... The AI Center of Excellence leverages advanced machine learning, LLMs, and agentic systems to enhance threat detection and automate ...",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T13:23:49+00:00",
+      "fetched_at": "2026-04-27T17:13:10.223924+00:00"
+    },
+    {
+      "id": "3310a5507ca1",
+      "title": "Staff Software Engineer - Lifecycle Management - Okta",
+      "company": "Lifecycle Management - Okta",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.okta.com/company/careers/engineering/staff-software-engineer-lifecycle-management-6879868/",
+      "source": "Other",
+      "description": "Staff Software Engineer - Lifecycle Management. Bengaluru, India. Secure Every Identity, from AI to Human Identity is the key to unlocking the ...",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T13:16:24+00:00",
+      "fetched_at": "2026-04-27T17:13:10.305677+00:00"
+    },
+    {
+      "id": "edc207c49f39",
+      "title": "Senior Software Engineer , Cloud Databases \u2014 Google Careers",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.google.com/jobs/results/106815151558009542-senior-software-engineer/",
+      "source": "Other",
+      "description": "We work closely with internal and external customers to ensure analytic queries scale and perform on exabytes of data. As a Senior Software Engineer , ...",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T13:03:11+00:00",
+      "fetched_at": "2026-04-27T17:13:10.224313+00:00"
+    },
+    {
+      "id": "15700790da95",
+      "title": "Java Back End Software Engineer - Assistant Vice President | Citi Careers",
+      "company": "Assistant Vice President | Citi Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.citi.com/job/tampa/java-back-end-software-engineer-assistant-vice-president/287/94439214448",
+      "source": "Other",
+      "description": "Qualifications: 5 + years of professional experience as a Java Software Engineer with experience in developing enterprise scale applications.",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T12:34:58+00:00",
+      "fetched_at": "2026-04-27T17:13:10.224537+00:00"
+    },
+    {
+      "id": "9f5ac0449689",
+      "title": "DevOps Engineer Job Details - Ametek Careers",
+      "company": "Ametek Careers",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ametek.com/job/Bangalore-DevOps-Engineer-KA-560048/1385595300/",
+      "source": "Other",
+      "description": "We are seeking a DevOps Engineer to own and continuously improve our CI/CD pipelines and test automation capabilities for Windows\u2011based products.",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T12:27:56+00:00",
+      "fetched_at": "2026-04-27T17:13:10.224694+00:00"
+    },
+    {
+      "id": "8345b114771d",
+      "title": "Software Engineer I (Onsite) in fulton, Maryland, United States of America - RTX - Careers",
+      "company": "RTX - Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.rtx.com/global/en/job/01840846/Software-Engineer-I-Onsite",
+      "source": "Other",
+      "description": "Senior Software Engineer - Mission Engineering (Onsite). Available in 2 locations. Category Engineering Posted Date 01/29/2026. Manager, Software ...",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T11:33:49+00:00",
+      "fetched_at": "2026-04-27T17:13:10.224997+00:00"
+    },
+    {
+      "id": "603a01801566",
+      "title": "Software Engineer Jobs, Employment | Indeed",
+      "company": "Indeed",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.indeed.com/q-Software-Engineer-jobs.html?vjk=943a5699800501e0",
+      "source": "Indeed",
+      "description": "65211 Software Engineer jobs available on Indeed.com. Apply to Software Engineer , Senior Software Engineer , Software Trainer and more!",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T11:15:45+00:00",
+      "fetched_at": "2026-04-27T17:13:10.225317+00:00"
+    },
     {
       "id": "a7d14a8c1fab",
       "title": "Software Engineer | KUKA Switzerland",
