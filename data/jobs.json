@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-04-27T20:46:11.785479+00:00",
-  "total_jobs": 588,
+  "last_updated": "2026-04-28T01:25:28.349530+00:00",
+  "total_jobs": 604,
   "stats": {
-    "total_companies": 422,
+    "total_companies": 431,
     "total_roles": 23,
     "regions": {
-      "India": 314,
-      "Philippines": 64,
-      "Remote": 77,
+      "India": 323,
+      "Philippines": 66,
+      "Remote": 82,
       "Unknown": 135
     },
     "sources": {
-      "Other": 469,
-      "Greenhouse": 28,
-      "Workday": 22,
-      "Ashby": 18,
-      "LinkedIn": 17,
+      "Other": 479,
+      "Greenhouse": 29,
+      "Workday": 24,
+      "Ashby": 19,
+      "LinkedIn": 18,
       "Indeed": 8,
+      "Lever": 7,
       "Breezy": 7,
-      "Lever": 6,
       "SmartRecruiters": 4,
       "Workable": 3,
       "iCIMS": 3,
@@ -27,10 +27,190 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-04-27"
+      "latest": "2026-04-28"
     }
   },
   "jobs": [
+    {
+      "id": "14f158499b2b",
+      "title": "AI/ Machine Learning Engineer - Myworkdayjobs.com",
+      "company": "Argonne",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://argonne.wd1.myworkdayjobs.com/en-US/Argonne_Careers/job/Lemont-IL-USA/AI-Machine-Learning-Engineer_422674",
+      "source": "Workday",
+      "description": "AI/ Machine Learning Engineer ... The Argonne Leadership Computing Facility (ALCF) is looking for an AI/Machine Learning Software Engineer to help build, ...",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T00:19:00+00:00",
+      "fetched_at": "2026-04-28T01:25:28.186002+00:00"
+    },
+    {
+      "id": "2e964abc7964",
+      "title": "Senior Software Engineer , R37 - Myworkdayjobs.com",
+      "company": "R1Rcm",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://r1rcm.wd1.myworkdayjobs.com/r1rcm/job/Remote-USA/Senior-Software-Engineer--R37_R250000009046",
+      "source": "Workday",
+      "description": "As our Senior Software Engineer , R37 you will play a pivotal role in shaping and delivering technical solutions that drive real business outcomes.",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T23:10:51+00:00",
+      "fetched_at": "2026-04-28T01:25:28.343875+00:00"
+    },
+    {
+      "id": "5f867ea132cc",
+      "title": "Senior Software Engineer - Artera - Lever",
+      "company": "Artera 2",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.lever.co/artera-2/7c87e4ad-854c-452b-8365-21fce822d0d9",
+      "source": "Lever",
+      "description": "JOB TITLE: Senior Software Engineer ; WORKSITE ADDRESS: Santa Barbara, CA ; ANNUAL SALARY: $134,000.00- $204,000.00 per year ; NUMBER OF HOURS/WEEK: 40 ...",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T22:21:21+00:00",
+      "fetched_at": "2026-04-28T01:25:28.187180+00:00"
+    },
+    {
+      "id": "86cc84472413",
+      "title": "Software Engineer in Milpitas, California, United States of America - Cisco Careers",
+      "company": "Cisco Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2013361EXTERNALENGLOBAL/Software-Engineer",
+      "source": "Other",
+      "description": "Apply for Software Engineer job with Cisco in Milpitas, California, United States of America. Product and Engineering at Cisco.",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T22:13:43+00:00",
+      "fetched_at": "2026-04-28T01:25:28.187360+00:00"
+    },
+    {
+      "id": "8574a2f87f79",
+      "title": "Software Engineer , Production Engineering @ Ramp - Jobs",
+      "company": "Ramp",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/ramp/be496b52-cfbf-494e-b862-61fb4a188b24",
+      "source": "Ashby",
+      "description": "Software Engineer , Production Engineering. Location. New York, NY (HQ). Employment Type. Full time. Location Type. Hybrid. Department. Engineering ...",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T22:02:43+00:00",
+      "fetched_at": "2026-04-28T01:25:28.187484+00:00"
+    },
+    {
+      "id": "015d8cd991e9",
+      "title": "Software Engineer Lead - Mainframe; Retail/Deposit job in Pittsburgh ... - PNC Careers",
+      "company": "Mainframe; Retail/Deposit job in Pittsburgh ... - PNC Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.pnc.com/global/en/job/R218328/Software-Engineer-Lead-Mainframe;-Retail-Deposit",
+      "source": "Other",
+      "description": "Apply for Software Engineer Lead - Mainframe; Retail/Deposit job with PNC in Pittsburgh, Pennsylvania, United States of America.",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T21:36:06+00:00",
+      "fetched_at": "2026-04-28T01:25:28.187819+00:00"
+    },
+    {
+      "id": "224da70f86b7",
+      "title": "Data Engineer Advisor - FedEx Careers",
+      "company": "FedEx Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.fedex.com/data-engineer-advisor/job/P25-333746-1",
+      "source": "Other",
+      "description": "Data Engineer Advisor. Professional. Company: Federal Express Corporation; Category: Professional; Employment Type: Full Time; Worker Sub-Type: ...",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T21:23:24+00:00",
+      "fetched_at": "2026-04-28T01:25:28.187951+00:00"
+    },
+    {
+      "id": "7f38c3ba22bb",
+      "title": "Title: Principal Software Engineer ( Drools and Java) Location: Durham, NC (Relocation ...",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/kristin-k-knudson_title-principal-software-engineer-drools-activity-7454606168682971136-Cta9",
+      "source": "LinkedIn",
+      "description": "Title: Principal Software Engineer ( Drools and Java) Location: Durham, NC (Relocation works) Duration: 12+ Months Rate: $70-$80/hr on W2 ...",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T20:35:52+00:00",
+      "fetched_at": "2026-04-28T01:25:28.188297+00:00"
+    },
+    {
+      "id": "e9c7e4fd5835",
+      "title": "Embedded Software Engineer \u2013 Motor Control (m/f/d) - Hilti Careers",
+      "company": "Hilti Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.hilti.group/en-us/jobs/17643-en/embedded-software-engineer-motor-control-m-f-d/",
+      "source": "Other",
+      "description": "Embedded Software Engineer \u2013 Motor Control (m/f/d) \u00b7 Kaufering near Munich, Bavaria, Germany \u00b7 Research & Development \u00b7 Experienced Professionals \u00b7 17643 ...",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T20:30:28+00:00",
+      "fetched_at": "2026-04-28T01:25:28.345144+00:00"
+    },
+    {
+      "id": "6d781eb99959",
+      "title": "Software Engineer II - Web Engineering - Careers at Elastic",
+      "company": "Elastic",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.elastic.co/jobs/marketing/spain/software-engineer-ii-web-engineering/7808997",
+      "source": "Other",
+      "description": "Software Engineer II - Web Engineering. Distributed Locations: Spain. Greece. Portugal. Athens, Greece.",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T20:29:24+00:00",
+      "fetched_at": "2026-04-28T01:25:28.188464+00:00"
+    },
+    {
+      "id": "81e498ecbc29",
+      "title": "Data Engineer - CrossBoundary - Career Page - JazzHR",
+      "company": "CrossBoundary - Career Page - JazzHR",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://crossboundary.applytojob.com/apply/mzrqNvrP70/Data-Engineer",
+      "source": "Other",
+      "description": "Apply to Data Engineer at CrossBoundary in Nairobi, Nairobi, Kenya.",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T20:26:42+00:00",
+      "fetched_at": "2026-04-28T01:25:28.188623+00:00"
+    },
+    {
+      "id": "31780341ee6c",
+      "title": "My friend is a 10x software engineer . He is insanely gifted. We were looking at the Yamauchi ...",
+      "company": "the Yamauchi ...",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://x.com/leerob/status/2048761048786690391",
+      "source": "Other",
+      "description": "Lee Robinson (@leerob). 49 replies. My friend is a 10x software engineer . He is insanely gifted. We were looking at the Yamauchi No.10 Family ...",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T20:24:20+00:00",
+      "fetched_at": "2026-04-28T01:25:28.345538+00:00"
+    },
     {
       "id": "6a8a482d4241",
       "title": "Infrastructure Software Engineer - Jobs - Careers at Apple",
@@ -77,6 +257,36 @@
       "fetched_at": "2026-04-27T20:46:11.539572+00:00"
     },
     {
+      "id": "549e6f84bf21",
+      "title": "Software Engineer in Arlington, Virginia (Hybrid Remote) - Leidos Careers",
+      "company": "Leidos Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.leidos.com/jobs/17665441-software-engineer",
+      "source": "Other",
+      "description": "... Software Engineer . READ MORE. Senior Software Engineer . READ MORE. Junior Software Engineer . READ MORE. Chief Engineer. READ MORE. Senior Splunk ...",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T20:15:45+00:00",
+      "fetched_at": "2026-04-28T01:25:28.189042+00:00"
+    },
+    {
+      "id": "ff432ecc8f23",
+      "title": "Senior Software Engineer in Arlington, Virginia (Hybrid Remote) - Leidos Careers",
+      "company": "Leidos Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.leidos.com/jobs/17665443-senior-software-engineer",
+      "source": "Other",
+      "description": "Senior Software Engineer \u00b7 Primary Responsibilities: Provide technical leadership and strategic direction for software solutions using Java, Rust, ...",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T20:15:45+00:00",
+      "fetched_at": "2026-04-28T01:25:28.345683+00:00"
+    },
+    {
       "id": "27e3b38b73e8",
       "title": "Software Engineer , Engineering Platform @ Ramp - Jobs",
       "company": "Ramp",
@@ -90,6 +300,21 @@
       "date": "2026-04-27",
       "timestamp": "2026-04-27T20:11:36+00:00",
       "fetched_at": "2026-04-27T20:46:11.539752+00:00"
+    },
+    {
+      "id": "2bc12e793828",
+      "title": "Job Application for Software Engineer at Gravity Payments - Greenhouse",
+      "company": "Gravitypayments17",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/gravitypayments17/jobs/4231732009",
+      "source": "Greenhouse",
+      "description": "Software Engineer . Remote. Apply. A career ... We are looking for a full stack engineer to join us in helping to expand and improve the platform.",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T19:56:16+00:00",
+      "fetched_at": "2026-04-28T01:25:28.189342+00:00"
     },
     {
       "id": "ddac09a9c178",
@@ -150,6 +375,21 @@
       "date": "2026-04-27",
       "timestamp": "2026-04-27T19:29:45+00:00",
       "fetched_at": "2026-04-27T20:46:11.780260+00:00"
+    },
+    {
+      "id": "c9ff2beafb56",
+      "title": "Software Engineer - Formation Bio | Built In NYC",
+      "company": "Formation Bio | Built In NYC",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.builtinnyc.com/job/software-engineer/9171355",
+      "source": "Other",
+      "description": "As a Software Engineer , you'll design and build production software that accelerates drug development, collaborate across teams, and leverage AI tools ...",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T19:23:29+00:00",
+      "fetched_at": "2026-04-28T01:25:28.189932+00:00"
     },
     {
       "id": "f1898a6307f9",
