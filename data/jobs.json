@@ -1,27 +1,27 @@
 {
-  "last_updated": "2026-04-28T13:21:10.949591+00:00",
-  "total_jobs": 640,
+  "last_updated": "2026-04-28T17:25:57.795619+00:00",
+  "total_jobs": 654,
   "stats": {
-    "total_companies": 454,
-    "total_roles": 23,
+    "total_companies": 463,
+    "total_roles": 24,
     "regions": {
-      "India": 341,
+      "India": 352,
       "Philippines": 78,
-      "Remote": 88,
+      "Remote": 91,
       "Unknown": 135
     },
     "sources": {
-      "Other": 510,
+      "Other": 518,
       "Greenhouse": 30,
-      "Workday": 25,
+      "Workday": 27,
+      "LinkedIn": 22,
       "Ashby": 20,
-      "LinkedIn": 20,
       "Indeed": 8,
       "Lever": 7,
       "Breezy": 7,
+      "iCIMS": 5,
       "SmartRecruiters": 4,
       "Workable": 3,
-      "iCIMS": 3,
       "Recruitee": 2,
       "Jobvite": 1
     },
@@ -31,6 +31,186 @@
     }
   },
   "jobs": [
+    {
+      "id": "7ead90a108dd",
+      "title": "Software Engineer at UnitedHealth Group",
+      "company": "UnitedHealth Group",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.unitedhealthgroup.com/job/eden-prairie/software-engineer/34088/94473868832",
+      "source": "Other",
+      "description": "Software Engineer . Requisition number: 2357091 Job category: Technology Primary location: Eden Prairie, MN Date posted: 04/28 ...",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T16:40:48+00:00",
+      "fetched_at": "2026-04-28T17:25:57.685000+00:00"
+    },
+    {
+      "id": "cb7c4d252401",
+      "title": "Azure Data Engineer in West Hartford, Connecticut | Careers at Legrand",
+      "company": "Legrand",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs-legrand.icims.com/jobs/10011/azure-data-engineer/job",
+      "source": "iCIMS",
+      "description": "Legrand is now hiring a Azure Data Engineer in West Hartford, Connecticut. Review all of the job details and apply today!",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T16:37:28+00:00",
+      "fetched_at": "2026-04-28T17:25:57.685183+00:00"
+    },
+    {
+      "id": "bad97cda0d36",
+      "title": "Software Engineer Complier Technologies - MathWorks Jobs",
+      "company": "MathWorks Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.mathworks.com/company/jobs/opportunities/37146-software-engineer-complier-technologies",
+      "source": "Other",
+      "description": "We are seeking a motivated and talented software engineer to propel the core technology that enables automatic code generation from MATLAB and ...",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T16:36:42+00:00",
+      "fetched_at": "2026-04-28T17:25:57.685796+00:00"
+    },
+    {
+      "id": "3773f853c632",
+      "title": "Data Engineer II - Myworkdayjobs.com",
+      "company": "Fgcu",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://fgcu.wd5.myworkdayjobs.com/eaglejobs/job/Main-Campus/Data-Engineer-II_R0007378",
+      "source": "Workday",
+      "description": "Job Summary The Data Engineer II supports data informed decision making by designing, building, and maintaining modern data pipelines, data models ...",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T15:56:32+00:00",
+      "fetched_at": "2026-04-28T17:25:57.685925+00:00"
+    },
+    {
+      "id": "4c8b4db4a000",
+      "title": "AI Engineer - Seattle, Washington, United States - Zoom Careers",
+      "company": "Seattle, Washington, United States - Zoom Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.zoom.us/jobs/ai-engineer-seattle-washington-united-states-00f6ad04-438f-45b1-a04f-de1f51a1ae7a",
+      "source": "Other",
+      "description": "AI Engineer \u00b7 Have 5+ years of software engineering experience with a focus on API and/or SDK development \u00b7 Have strong proficiency in modern ...",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T14:55:13+00:00",
+      "fetched_at": "2026-04-28T17:25:57.686411+00:00"
+    },
+    {
+      "id": "ca12065e45da",
+      "title": "Sr. Software Engineer job - Experis USA - 394041",
+      "company": "Experis USA - 394041",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.experis.com/en/job/394041/sr-software-engineer",
+      "source": "Other",
+      "description": "Sr. Software Engineer \u00b7 Create and optimize data pipelines using Apache Airflow DAGs, Docker, AWS, Python, or Snowflake. \u00b7 Assemble large, complex ...",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T14:53:54+00:00",
+      "fetched_at": "2026-04-28T17:25:57.686565+00:00"
+    },
+    {
+      "id": "1d04851a1d9f",
+      "title": "Sr Software Engineer Job Details | Ascend Learning, LLC",
+      "company": "Ascend Learning, LLC",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://ascendlearning.jobs.hr.cloud.sap/job/Remote-Sr-Software-Engineer/1385817900/",
+      "source": "Other",
+      "description": "As a Senior Software Engineer in the Healthcare Workforce Solutions (HWS) group, you'll play a pivotal role in shaping our technology and ...",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T14:39:37+00:00",
+      "fetched_at": "2026-04-28T17:25:57.686739+00:00"
+    },
+    {
+      "id": "2114868ae29e",
+      "title": "Full Stack Software Engineer - US-California-San Jose | Align Technology Careers",
+      "company": "US-California-San Jose | Align Technology Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.aligntech.com/en/postings/7baae754-a9de-497a-9e40-d2e759353dc7",
+      "source": "Other",
+      "description": "Join Align Technology in Information Technology, US-California-San Jose as a Full Stack Software Engineer .",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T14:20:05+00:00",
+      "fetched_at": "2026-04-28T17:25:57.686934+00:00"
+    },
+    {
+      "id": "60ede1332dae",
+      "title": "Kent C. Dodds' Post - The Last Software Engineer - LinkedIn",
+      "company": "Kent C. Dodds' Post",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/kentcdodds_the-last-software-engineer-activity-7454663113796345856-U_2i",
+      "source": "LinkedIn",
+      "description": "Close menu. The Last Software Engineer https://lnkd.in/g25_nBH6 \u00b7 The Last Software Engineer epicproduct.engineer ... Senior Full Stack Engineer at ...",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T14:02:53+00:00",
+      "fetched_at": "2026-04-28T17:25:57.687180+00:00"
+    },
+    {
+      "id": "1e88402723d0",
+      "title": "John Crickett's Post - LinkedIn",
+      "company": "Unknown Company",
+      "role": "John Crickett's Post - LinkedIn",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/johncrickett_becoming-a-great-ai-first-software-engineer-activity-7454869615542972416-5R3D",
+      "source": "LinkedIn",
+      "description": "Becoming a great AI-first software engineer takes 10 years and one day ... Ilya Rabchynski. Fullstack Engineer | 8+ Years Experience | React ...",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T13:22:31+00:00",
+      "fetched_at": "2026-04-28T17:25:57.687793+00:00"
+    },
+    {
+      "id": "52b2fa41f87a",
+      "title": "Software Engineer [Multiple Positions Available] - JPMC Candidate Experience page Careers",
+      "company": "JPMC Candidate Experience page Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/cx_1001/job/210740572",
+      "source": "Other",
+      "description": "Software Engineer [Multiple Positions Available]. Plano, TX, United States. Apply Now. Job Information. Job Identification 210740572; Job Category ...",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T13:18:49+00:00",
+      "fetched_at": "2026-04-28T17:25:57.687979+00:00"
+    },
+    {
+      "id": "1bddfdce4c81",
+      "title": "Data Engineer Job Details - Careers - NRG",
+      "company": "Careers - NRG",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.nrgenergy.com/nrg/job/Houston-Data-Engineer-TX-77010/1385902700/",
+      "source": "Other",
+      "description": "The Data Engineer is responsible for building, maintaining, and supporting data pipelines and data platforms used for analytics, reporting, ...",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T13:11:22+00:00",
+      "fetched_at": "2026-04-28T17:25:57.688138+00:00"
+    },
     {
       "id": "d76998931931",
       "title": "Senior Software Engineer , Google.org, Data Analytics",
@@ -45,6 +225,21 @@
       "date": "2026-04-28",
       "timestamp": "2026-04-28T12:58:24+00:00",
       "fetched_at": "2026-04-28T13:21:10.944036+00:00"
+    },
+    {
+      "id": "e779af6d3236",
+      "title": "DevOps Engineer - Logo - Myworkdayjobs.com",
+      "company": "Nant",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://nant.wd5.myworkdayjobs.com/ImmunityBio/job/Remote/DevOps-Engineer_R2958",
+      "source": "Workday",
+      "description": "Ability to join a growing company with professional development opportunities. Position Summary. The DevOps Engineer serves as the critical bridge ...",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T12:54:48+00:00",
+      "fetched_at": "2026-04-28T17:25:57.791243+00:00"
     },
     {
       "id": "8495ddb8c380",
@@ -120,6 +315,21 @@
       "date": "2026-04-28",
       "timestamp": "2026-04-28T10:41:29+00:00",
       "fetched_at": "2026-04-28T13:21:10.653425+00:00"
+    },
+    {
+      "id": "ba7d7a5f9c7d",
+      "title": "Senior Data Engineer AI in Remote | Careers at US Nationwide Remote - Cotiviti",
+      "company": "US Nationwide Remote",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers-cotiviti.icims.com/jobs/19015/senior-data-engineer-ai/job",
+      "source": "iCIMS",
+      "description": "Senior Data Engineer AI. Job Locations US-Remote. ID 2026-19015. Category: Engineering/IT. Position Type: Full-Time. Overview. At Cotiviti, we are ...",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T10:14:49+00:00",
+      "fetched_at": "2026-04-28T17:25:57.792398+00:00"
     },
     {
       "id": "43133a5fe403",
