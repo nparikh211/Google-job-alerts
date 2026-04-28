@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-04-28T06:22:55.116175+00:00",
-  "total_jobs": 617,
+  "last_updated": "2026-04-28T10:03:25.370862+00:00",
+  "total_jobs": 630,
   "stats": {
-    "total_companies": 439,
+    "total_companies": 447,
     "total_roles": 23,
     "regions": {
-      "India": 328,
-      "Philippines": 70,
-      "Remote": 86,
+      "India": 337,
+      "Philippines": 73,
+      "Remote": 87,
       "Unknown": 135
     },
     "sources": {
-      "Other": 489,
+      "Other": 500,
       "Greenhouse": 30,
-      "Workday": 24,
+      "Workday": 25,
       "Ashby": 20,
-      "LinkedIn": 19,
+      "LinkedIn": 20,
       "Indeed": 8,
       "Lever": 7,
       "Breezy": 7,
@@ -31,6 +31,111 @@
     }
   },
   "jobs": [
+    {
+      "id": "0a2ff6cabb1f",
+      "title": "Machine Learning Engineer in San Jose, California, United States of America - Adobe Careers",
+      "company": "Adobe Careers",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.adobe.com/us/en/job/R167407/Machine-Learning-Engineer",
+      "source": "Other",
+      "description": "Machine Learning Engineer \u00b7 Develop and implement scalable, efficient, and modern algorithms that can work with large-scale data in production systems ...",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T08:17:04+00:00",
+      "fetched_at": "2026-04-28T10:03:25.266050+00:00"
+    },
+    {
+      "id": "e6775df001e9",
+      "title": "Software Engineer 1 - Backend - Abnormal AI",
+      "company": "Backend - Abnormal AI",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://abnormal.ai/careers/jobs/7687403003?gh_jid=7687403003",
+      "source": "Other",
+      "description": "What you will do. Abnormal AI is looking for a driven and growth\u2011oriented Backend Software Engineer to join the Customer Journey (CJ) team. The team ...",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T07:38:39+00:00",
+      "fetched_at": "2026-04-28T10:03:25.266378+00:00"
+    },
+    {
+      "id": "51f6142a42ec",
+      "title": "Senior Software Engineer - Operational Systems",
+      "company": "Operational Systems",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://windbornesystems.com/careers/senior-software-engineer---operational-systems",
+      "source": "Other",
+      "description": "We're looking for a Senior Software Engineer to own the operational software layer of our business. This is not a pure individual contributor role ...",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T07:19:03+00:00",
+      "fetched_at": "2026-04-28T10:03:25.266617+00:00"
+    },
+    {
+      "id": "2f1305963b9f",
+      "title": "Apply For Staff Embedded Software Engineer (R&D) - Stryker",
+      "company": "Stryker",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.stryker.com/staff-embedded-software-engineer-r-d/job/FF8100FA40BF1EB0D222E0F2B76EDF6A",
+      "source": "Other",
+      "description": "Staff Embedded Software Engineer (R&D). Return to Search. Apply Now. Portage, MI, 49002, US; United States of America-Michigan-Grand Rapids; United ...",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T06:36:17+00:00",
+      "fetched_at": "2026-04-28T10:03:25.266823+00:00"
+    },
+    {
+      "id": "7ee050f1eeeb",
+      "title": "Cloud Engineer Lead - Security - Elevance Health",
+      "company": "Security - Elevance Health",
+      "role": "Cloud Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.elevancehealth.com/cloud-engineer-lead-security/job/FACCF0E4D12044E919611C73BDE69BE0",
+      "source": "Other",
+      "description": "Cloud Engineer Lead - Security. Location: TX-GRAND PRAIRIE, 2505 N HWY 360, STE 300, United States of America; FL-LAKE MARY, 3200 LAKE EMMA RD, STE ...",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T06:24:56+00:00",
+      "fetched_at": "2026-04-28T10:03:25.361521+00:00"
+    },
+    {
+      "id": "31bccf31b3e9",
+      "title": "From Solo Data Engineer to Head of Data & Processes : r/dataengineering - Reddit",
+      "company": "Reddit",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.reddit.com/r/dataengineering/comments/1sx4p9v/from_solo_data_engineer_to_head_of_data_processes/",
+      "source": "Other",
+      "description": "How I ultimately got into management. I had a more technical background, but being the solo/founding data engineer is definitely something I've done ...",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T05:22:49+00:00",
+      "fetched_at": "2026-04-28T10:03:25.361935+00:00"
+    },
+    {
+      "id": "d38e6604c78f",
+      "title": "Software Engineer III -Python Fullstack - AI/ML - JPMC Candidate Experience page Careers",
+      "company": "Python Fullstack - AI/ML - JPMC Candidate Experience page Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210735926",
+      "source": "Other",
+      "description": "We have an exciting and rewarding opportunity for you to take your software engineering career to the next level. As a Software Engineer III at ...",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T05:13:07+00:00",
+      "fetched_at": "2026-04-28T10:03:25.267025+00:00"
+    },
     {
       "id": "de4f8652ca06",
       "title": "Backend Software Engineer - Growth @ Substack - Jobs",
@@ -62,6 +167,66 @@
       "fetched_at": "2026-04-28T06:22:55.039048+00:00"
     },
     {
+      "id": "c07397f17ed6",
+      "title": "Job Description - Software Engineer | GE Vernova",
+      "company": "Job Description",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.gevernova.com/software-engineer/job/R5039972",
+      "source": "Other",
+      "description": "Software Engineer . Applications and Software; PB. Type: Full Time. Location(s): ... We are looking for a skilled DevOps Engineer with 3+ years of ...",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T04:40:00+00:00",
+      "fetched_at": "2026-04-28T10:03:25.267434+00:00"
+    },
+    {
+      "id": "aa43678acabc",
+      "title": "Machine Learning Engineer - News, Books, and Stocks Team - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200660323-0836/machine-learning-engineer-news-books-and-stocks-team?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Machine Learning Engineer - News, Books, and Stocks Team job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T04:38:32+00:00",
+      "fetched_at": "2026-04-28T10:03:25.363197+00:00"
+    },
+    {
+      "id": "5389c1d89089",
+      "title": "Full Stack Software Engineer \u2013 Cloud & Integration Platforms (Remote)",
+      "company": "Ferguson",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://ferguson.wd1.myworkdayjobs.com/en-US/Ferguson_Experienced/job/Full-Stack-Software-Engineer---Cloud---Integration-Platforms--Remote-_R-136015",
+      "source": "Workday",
+      "description": "... Software Engineer \u2013 Cloud & Integration Platforms Join Ferguson's Enterprise Data & Analytics organization as a Full Stack Software Engineer ...",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T04:24:54+00:00",
+      "fetched_at": "2026-04-28T10:03:25.363389+00:00"
+    },
+    {
+      "id": "d1a53819d94e",
+      "title": "The Last Software Engineer | Kent C. Dodds - LinkedIn",
+      "company": "Kent C. Dodds - LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/kentcdodds_the-last-software-engineer-activity-7454663113796345856-U_2i",
+      "source": "LinkedIn",
+      "description": "Close menu. The Last Software Engineer https://lnkd.in/g25_nBH6 \u00b7 The Last Software Engineer epicproduct.engineer ... Senior Full Stack Engineer at ...",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T02:19:44+00:00",
+      "fetched_at": "2026-04-28T10:03:25.364103+00:00"
+    },
+    {
       "id": "838b81d700cc",
       "title": "AI Data Engineer Job Details | Terumo BCT, Inc.",
       "company": "Terumo BCT, Inc.",
@@ -75,6 +240,21 @@
       "date": "2026-04-28",
       "timestamp": "2026-04-28T01:34:38+00:00",
       "fetched_at": "2026-04-28T06:22:55.039561+00:00"
+    },
+    {
+      "id": "095a397bb38d",
+      "title": "Software Engineer , Sunnyvale, California | General Motors Careers",
+      "company": "General Motors Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://search-careers.gm.com/en/jobs/jr-202609402/software-engineer/",
+      "source": "Other",
+      "description": "Staff Software Engineer , Simulation. Save Saved. Sunnyvale, California. Senior Software Engineer \u2013 Simulation Validation. Engineering 3. Engineering ...",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T01:30:54+00:00",
+      "fetched_at": "2026-04-28T10:03:25.267775+00:00"
     },
     {
       "id": "85648358509d",
@@ -135,6 +315,21 @@
       "date": "2026-04-28",
       "timestamp": "2026-04-28T00:19:00+00:00",
       "fetched_at": "2026-04-28T01:25:28.186002+00:00"
+    },
+    {
+      "id": "3b6dcf6fdb8b",
+      "title": "Senior Software Engineer , Durham, NC | Fidelity Careers",
+      "company": "Fidelity Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.fidelity.com/en/jobs/2126899/senior-software-engineer/",
+      "source": "Other",
+      "description": "As a Senior Software Engineer in Test, you blend extensive technical experience in test automation with business domain knowledge and data analysis.",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T00:12:30+00:00",
+      "fetched_at": "2026-04-28T10:03:25.268163+00:00"
     },
     {
       "id": "45d42f78c750",
