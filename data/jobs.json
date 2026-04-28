@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-04-28T01:25:28.349530+00:00",
-  "total_jobs": 604,
+  "last_updated": "2026-04-28T06:22:55.116175+00:00",
+  "total_jobs": 617,
   "stats": {
-    "total_companies": 431,
+    "total_companies": 439,
     "total_roles": 23,
     "regions": {
-      "India": 323,
-      "Philippines": 66,
-      "Remote": 82,
+      "India": 328,
+      "Philippines": 70,
+      "Remote": 86,
       "Unknown": 135
     },
     "sources": {
-      "Other": 479,
-      "Greenhouse": 29,
+      "Other": 489,
+      "Greenhouse": 30,
       "Workday": 24,
-      "Ashby": 19,
-      "LinkedIn": 18,
+      "Ashby": 20,
+      "LinkedIn": 19,
       "Indeed": 8,
       "Lever": 7,
       "Breezy": 7,
@@ -32,6 +32,96 @@
   },
   "jobs": [
     {
+      "id": "de4f8652ca06",
+      "title": "Backend Software Engineer - Growth @ Substack - Jobs",
+      "company": "Substack",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.ashbyhq.com/substack/7360d659-4706-4a37-b225-625856bd4607",
+      "source": "Ashby",
+      "description": "Backend Software Engineer - Growth. Location. San Francisco (HQ); New York; Remote. Employment Type. Full time. Location Type. Hybrid. Department.",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T05:09:42+00:00",
+      "fetched_at": "2026-04-28T06:22:55.038374+00:00"
+    },
+    {
+      "id": "c6df1ec21f7b",
+      "title": "23 Salary progression for software engineer at FAANG - Reddit",
+      "company": "FAANG",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/Salary/comments/1sxnjsp/23_salary_progression_for_software_engineer_at/",
+      "source": "Other",
+      "description": "r/Salary - 15yr Salary Progression. Software Engineer . Low COL area. 610 upvotes \u00b7 144 comments ...",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T04:54:19+00:00",
+      "fetched_at": "2026-04-28T06:22:55.039048+00:00"
+    },
+    {
+      "id": "838b81d700cc",
+      "title": "AI Data Engineer Job Details | Terumo BCT, Inc.",
+      "company": "Terumo BCT, Inc.",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.terumobct.com/job/Lakewood-AI-Data-Engineer-CO-80123/1385799000/",
+      "source": "Other",
+      "description": "The AI Data Engineer focuses on context engineering and data enablement for AI: acquiring, normalizing, structuring, and surfacing data for use by LLM ...",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T01:34:38+00:00",
+      "fetched_at": "2026-04-28T06:22:55.039561+00:00"
+    },
+    {
+      "id": "85648358509d",
+      "title": "AI and Distributed Systems Backend Engineer - Consulting - Location OPEN Job in Huntsville, AL",
+      "company": "Consulting - Location OPEN Job in Huntsville, AL",
+      "role": "Backend Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://ey.jobs/locations/huntsville-al/job-titles/ai-and-distributed-systems-backend-engineer-manager-consulting-location-open/jobs/",
+      "source": "Other",
+      "description": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN Job in Huntsville, AL, updated and verified daily by ...",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T00:49:18+00:00",
+      "fetched_at": "2026-04-28T06:22:55.110737+00:00"
+    },
+    {
+      "id": "5cf1b846de16",
+      "title": "Mobile DevOps Engineer Apprentice at Jack Henry & Associates, Inc",
+      "company": "Jack Henry & Associates, Inc",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.jackhenry.com/job/united-states/mobile-devops-engineer-apprentice/42859/94450051232",
+      "source": "Other",
+      "description": "Learn more about applying for Mobile DevOps Engineer Apprentice at Jack Henry & Associates, Inc. ... As a Mobile Deployment Software Engineer Apprentice ...",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T00:27:54+00:00",
+      "fetched_at": "2026-04-28T06:22:55.039743+00:00"
+    },
+    {
+      "id": "8d482c7608d3",
+      "title": "I'm currently writing an article titled \"The Last Software Engineer \"",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://x.com/kentcdodds/status/2048807113934385491",
+      "source": "Other",
+      "description": "Kent C. Dodds (@kentcdodds). 175 likes 53 replies. I'm currently writing an article titled \"The Last Software Engineer \"",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T00:25:38+00:00",
+      "fetched_at": "2026-04-28T06:22:55.111056+00:00"
+    },
+    {
       "id": "14f158499b2b",
       "title": "AI/ Machine Learning Engineer - Myworkdayjobs.com",
       "company": "Argonne",
@@ -47,6 +137,51 @@
       "fetched_at": "2026-04-28T01:25:28.186002+00:00"
     },
     {
+      "id": "45d42f78c750",
+      "title": "Job Application for Senior Software Engineer at Gravity Payments - Greenhouse",
+      "company": "Gravitypayments17",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/gravitypayments17/jobs/4218485009",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer . Remote. Apply. A career with Gravity Payments is an opportunity to be on a collaborative team where creative leadership ...",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T23:41:07+00:00",
+      "fetched_at": "2026-04-28T06:22:55.039953+00:00"
+    },
+    {
+      "id": "3885296bd3a1",
+      "title": "DevOps Engineer - Swish Analytics - Teamtailor",
+      "company": "Swish Analytics - Teamtailor",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://swishanalytics.na.teamtailor.com/jobs/598172-devops-engineer",
+      "source": "Other",
+      "description": "Job Description: DevOps Engineer Location: Remote Company Overview . Swish Analytics is a sports analytics, betting and fantasy startup building ...",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T23:35:09+00:00",
+      "fetched_at": "2026-04-28T06:22:55.040132+00:00"
+    },
+    {
+      "id": "470320f6f73f",
+      "title": "Software Engineer - Moveworks, Mountain View | ServiceNow Careers",
+      "company": "Moveworks, Mountain View | ServiceNow Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.servicenow.com/jobs/744000123281859/software-engineer-moveworks/",
+      "source": "Other",
+      "description": "Software Engineer - Moveworks \u00b7 Company Description \u00b7 Job Description \u00b7 Qualifications \u00b7 Additional Information.",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T23:12:30+00:00",
+      "fetched_at": "2026-04-28T06:22:55.040328+00:00"
+    },
+    {
       "id": "2e964abc7964",
       "title": "Senior Software Engineer , R37 - Myworkdayjobs.com",
       "company": "R1Rcm",
@@ -60,6 +195,36 @@
       "date": "2026-04-27",
       "timestamp": "2026-04-27T23:10:51+00:00",
       "fetched_at": "2026-04-28T01:25:28.343875+00:00"
+    },
+    {
+      "id": "1ebb5cbad984",
+      "title": "Senior Full Stack Engineer - United States - 185630 - Koch",
+      "company": "United States - 185630 - Koch",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://koch.avature.net/en_US/careers/JobDetail/United-States-Senior-Full-Stack-Engineer/185630",
+      "source": "Other",
+      "description": "GCH Tech is seeking an experienced Senior Full Stack Engineer to take technical ownership of key platform capabilities on our short code registry.",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T22:58:44+00:00",
+      "fetched_at": "2026-04-28T06:22:55.040596+00:00"
+    },
+    {
+      "id": "c3b636a3aa29",
+      "title": "Software Engineer in Vancouver, Canada, V6C 3T4 - Mastercard careers",
+      "company": "Mastercard careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.mastercard.com/us/en/job/R-276631/Software-Engineer",
+      "source": "Other",
+      "description": "Software Engineer . Apply Now. Back to search results. Previous job Next job ... Senior Software Engineer (AWS Cloud Engineer ). Location Vancouver ...",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T22:55:06+00:00",
+      "fetched_at": "2026-04-28T06:22:55.111875+00:00"
     },
     {
       "id": "5f867ea132cc",
@@ -107,6 +272,21 @@
       "fetched_at": "2026-04-28T01:25:28.187484+00:00"
     },
     {
+      "id": "e54d73b54e04",
+      "title": "Senior Software Engineer \u2014 Video Applications (FX Plug API's) - Jobs - Careers at Apple | Bill Davis",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/posts/billmdavis_senior-software-engineer-video-applications-activity-7454590351203467264-owCN",
+      "source": "LinkedIn",
+      "description": "Calling all macOS API engineers with a love for pro video. Apple is hiring a Senior Software Engineer for FxPlug \u2014 the API powering third-party ...",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T22:01:04+00:00",
+      "fetched_at": "2026-04-28T06:22:55.112575+00:00"
+    },
+    {
       "id": "015d8cd991e9",
       "title": "Software Engineer Lead - Mainframe; Retail/Deposit job in Pittsburgh ... - PNC Careers",
       "company": "Mainframe; Retail/Deposit job in Pittsburgh ... - PNC Careers",
@@ -135,6 +315,21 @@
       "date": "2026-04-27",
       "timestamp": "2026-04-27T21:23:24+00:00",
       "fetched_at": "2026-04-28T01:25:28.187951+00:00"
+    },
+    {
+      "id": "1c0577e80461",
+      "title": "Senior Software Engineer , High Performance Computing \u2014 Google Careers",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/134314312104583878-senior-software-engineer-high-performance-computing",
+      "source": "Other",
+      "description": "Senior Software Engineer , High Performance Computing. share. linkCopy link; emailEmail a friend. corporate_fareGoogleplaceKirkland, WA, USA. bar_chart ...",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-27T21:08:32+00:00",
+      "fetched_at": "2026-04-28T06:22:55.113369+00:00"
     },
     {
       "id": "7f38c3ba22bb",
