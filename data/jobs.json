@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-04-28T17:25:57.795619+00:00",
-  "total_jobs": 654,
+  "last_updated": "2026-04-28T20:55:35.762009+00:00",
+  "total_jobs": 666,
   "stats": {
-    "total_companies": 463,
+    "total_companies": 468,
     "total_roles": 24,
     "regions": {
-      "India": 352,
-      "Philippines": 78,
-      "Remote": 91,
+      "India": 360,
+      "Philippines": 79,
+      "Remote": 94,
       "Unknown": 135
     },
     "sources": {
-      "Other": 518,
-      "Greenhouse": 30,
+      "Other": 528,
+      "Greenhouse": 31,
       "Workday": 27,
-      "LinkedIn": 22,
+      "LinkedIn": 23,
       "Ashby": 20,
       "Indeed": 8,
       "Lever": 7,
@@ -31,6 +31,96 @@
     }
   },
   "jobs": [
+    {
+      "id": "1a8d7156852c",
+      "title": "Senior Software Engineer in San Diego, California, United States - SAIC Careers",
+      "company": "SAIC Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.saic.com/jobs/17670222-senior-software-engineer",
+      "source": "Other",
+      "description": "SAIC is looking for a Senior Software Engineer for a position located in San Diego, CA. This position needs to be highly experienced in JavaScript, ...",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T19:44:51+00:00",
+      "fetched_at": "2026-04-28T20:55:35.641889+00:00"
+    },
+    {
+      "id": "cef40536098f",
+      "title": "Senior Software Engineer - BrickLink - Careers - LEGO.com",
+      "company": "BrickLink - Careers - LEGO.com",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.lego.com/en-us/careers/job/senior-software-engineer-bricklink-e6e639b2f8861000d275e5f006750000",
+      "source": "Other",
+      "description": "Senior Software Engineer - BrickLink: Job Description BrickLink is where the world's most passionate LEGO\u00ae fans come together - to trade, build, ...",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T18:13:21+00:00",
+      "fetched_at": "2026-04-28T20:55:35.642211+00:00"
+    },
+    {
+      "id": "1e75d2e93949",
+      "title": "Data Engineer - Research Business Intelligence at Mayo Clinic",
+      "company": "Mayo Clinic",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.mayoclinic.org/job/rochester/data-engineer-research-business-intelligence/33647/94484204112",
+      "source": "Other",
+      "description": "Data Engineer - Research Business Intelligence. Job ID 380679 Date posted 04/28/2026. Rochester, Minnesota; Full Time; Research; Remote: No. Apply Now",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T17:41:21+00:00",
+      "fetched_at": "2026-04-28T20:55:35.642554+00:00"
+    },
+    {
+      "id": "1aba335dae6b",
+      "title": "r/Salary - [ Software engineer ] [Canada] - $260000 - My progression since 15 years old",
+      "company": "r/Salary",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/Salary/comments/1sy1oga/software_engineer_canada_260000_my_progression/",
+      "source": "Other",
+      "description": "[ Software engineer ] [Canada] - $260,000 - My progression since 15 years old ... [ Cloud Engineer ][WMA] - 26 year old salary progression working in Tech.",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T17:24:40+00:00",
+      "fetched_at": "2026-04-28T20:55:35.642762+00:00"
+    },
+    {
+      "id": "aa5801b3a3a1",
+      "title": "Meet Bob. From software engineer to making $15M a year selling shipping containers ... - LinkedIn",
+      "company": "LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/codiesanchez_meet-bob-from-software-engineer-to-making-activity-7454904144877846528-y3g1",
+      "source": "LinkedIn",
+      "description": "Meet Bob. From software engineer to making $15M a year selling shipping containers. He turns containers into homes, bars, bathrooms, ...",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T17:03:09+00:00",
+      "fetched_at": "2026-04-28T20:55:35.643087+00:00"
+    },
+    {
+      "id": "2ae30f24bb8d",
+      "title": "eSimplicity - Data Engineer I - Paylocity",
+      "company": "eSimplicity",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://recruiting.paylocity.com/recruiting/jobs/Details/4112555/eSimplicity/Data-Engineer-I",
+      "source": "Other",
+      "description": "eSimplicity is seeking a skilled and motivated Data Engineer to join our data analytics team. In this role, you will support the design, build ...",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T16:44:04+00:00",
+      "fetched_at": "2026-04-28T20:55:35.643226+00:00"
+    },
     {
       "id": "7ead90a108dd",
       "title": "Software Engineer at UnitedHealth Group",
@@ -77,6 +167,81 @@
       "fetched_at": "2026-04-28T17:25:57.685796+00:00"
     },
     {
+      "id": "b830066a5cd1",
+      "title": "Sr Software Engineer - High Performance Computing - Rates & Fees Team - Careers",
+      "company": "High Performance Computing - Rates & Fees Team - Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.thetradedesk.com/jobs/5121510007/sr-software-engineer-high-performance-computing-rates-fees-team",
+      "source": "Other",
+      "description": "Sr Software Engineer \u2014 High Performance Computing \u2014 Rates & Fees Team ... Lead Senior Software Engineer \u00b7 April 13, 2026 Bellevue, Boulder, Chicago ...",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T16:35:06+00:00",
+      "fetched_at": "2026-04-28T20:55:35.643963+00:00"
+    },
+    {
+      "id": "9e1e9dc0cf21",
+      "title": "Software Engineer - Assistant Vice President | Citi Careers",
+      "company": "Assistant Vice President | Citi Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.citi.com/job/mississauga/software-engineer-assistant-vice-president/287/94484664496",
+      "source": "Other",
+      "description": "Learn more about applying for Software Engineer - Assistant Vice President at Citi. Learn more about potential responsibilities, ...",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T16:29:58+00:00",
+      "fetched_at": "2026-04-28T20:55:35.644148+00:00"
+    },
+    {
+      "id": "807e2f619201",
+      "title": "Software Engineer - Assistant Vice President | Citi Careers",
+      "company": "Assistant Vice President | Citi Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.citi.com/job/jersey-city/software-engineer-assistant-vice-president/287/94484664512",
+      "source": "Other",
+      "description": "Learn more about applying for Software Engineer - Assistant Vice President at Citi. Learn more about potential responsibilities, ...",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T16:29:58+00:00",
+      "fetched_at": "2026-04-28T20:55:35.757651+00:00"
+    },
+    {
+      "id": "314f8ca7ae8e",
+      "title": "Job Application for Senior DevOps Engineer at Akido - Greenhouse",
+      "company": "Akidolabs",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/akidolabs/jobs/4675209006",
+      "source": "Greenhouse",
+      "description": "Senior DevOps Engineer . Remote. Apply. Akido builds AI-powered doctors. Akido is the first AI-native care provider, combining cutting-edge technology ...",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T16:14:30+00:00",
+      "fetched_at": "2026-04-28T20:55:35.757732+00:00"
+    },
+    {
+      "id": "7533be898e5d",
+      "title": "Careers - Software Engineer , Cash App - Lending Products - Block",
+      "company": "Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://block.xyz/careers/jobs/5201726008",
+      "source": "Other",
+      "description": "cashapp. Software Engineer , Cash App - Lending Products. Apply. Remote. New York, NY, US. Req ID: R0006380. Posted Date: 04/27/26. Posted today. Apply.",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T15:56:42+00:00",
+      "fetched_at": "2026-04-28T20:55:35.644244+00:00"
+    },
+    {
       "id": "3773f853c632",
       "title": "Data Engineer II - Myworkdayjobs.com",
       "company": "Fgcu",
@@ -90,6 +255,21 @@
       "date": "2026-04-28",
       "timestamp": "2026-04-28T15:56:32+00:00",
       "fetched_at": "2026-04-28T17:25:57.685925+00:00"
+    },
+    {
+      "id": "1c5ae3268cec",
+      "title": "Senior Software Engineer (Backend / Enterprise Systems) - McKesson Careers",
+      "company": "McKesson Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mckesson.com/en/job/mississauga/senior-software-engineer-backend-enterprise-systems/733/91089556656",
+      "source": "Other",
+      "description": "Learn more about applying for Senior Software Engineer (Backend / Enterprise Systems) at MCKESSON.",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T15:50:39+00:00",
+      "fetched_at": "2026-04-28T20:55:35.644596+00:00"
     },
     {
       "id": "4c8b4db4a000",
