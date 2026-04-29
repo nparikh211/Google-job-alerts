@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-04-28T20:55:35.762009+00:00",
-  "total_jobs": 666,
+  "last_updated": "2026-04-29T01:28:35.831027+00:00",
+  "total_jobs": 682,
   "stats": {
-    "total_companies": 468,
+    "total_companies": 480,
     "total_roles": 24,
     "regions": {
-      "India": 360,
-      "Philippines": 79,
-      "Remote": 94,
+      "India": 371,
+      "Philippines": 82,
+      "Remote": 96,
       "Unknown": 135
     },
     "sources": {
-      "Other": 528,
-      "Greenhouse": 31,
-      "Workday": 27,
-      "LinkedIn": 23,
-      "Ashby": 20,
+      "Other": 538,
+      "Greenhouse": 32,
+      "Workday": 29,
+      "LinkedIn": 24,
+      "Ashby": 21,
+      "Lever": 8,
       "Indeed": 8,
-      "Lever": 7,
       "Breezy": 7,
       "iCIMS": 5,
       "SmartRecruiters": 4,
@@ -27,10 +27,145 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-04-28"
+      "latest": "2026-04-29"
     }
   },
   "jobs": [
+    {
+      "id": "c67ec6bda55c",
+      "title": "Software Engineer , Frameworks/UI, Sensing & Connectivity - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200660577-0836/software-engineer-frameworks-ui-sensing-connectivity?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Software Engineer , Frameworks/UI, Sensing & Connectivity job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-04-29",
+      "timestamp": "2026-04-29T00:04:38+00:00",
+      "fetched_at": "2026-04-29T01:28:35.625050+00:00"
+    },
+    {
+      "id": "6ada10788603",
+      "title": "Senior DevOps Engineer - Book of the Month - Career Page",
+      "company": "Book of the Month - Career Page",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://bookofthemonth.applytojob.com/apply/gCEchKYREj/Senior-DevOps-Engineer",
+      "source": "Other",
+      "description": "Senior DevOps Engineer \u00b7 4-5+ years of experience in a DevOps, SRE, or an Infrastructure Engineering role. \u00b7 Strong experience with cloud platforms (AWS ...",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T23:03:18+00:00",
+      "fetched_at": "2026-04-29T01:28:35.625607+00:00"
+    },
+    {
+      "id": "250eabfbabef",
+      "title": "ML Engineer - Toronto, Ontario, Canada - Dallas, Texas, United States - Equinix Careers",
+      "company": "Toronto, Ontario, Canada - Dallas, Texas, United States - Equinix Careers",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.equinix.com/jobs/ml-engineer-toronto-ontario-canada-dallas-texas-united-states",
+      "source": "Other",
+      "description": "... ML Engineer who can design, build, and integrate AI-powered systems by combining machine learning models, LLMs, APIs, and enterprise...",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T23:02:17+00:00",
+      "fetched_at": "2026-04-29T01:28:35.625914+00:00"
+    },
+    {
+      "id": "902431a88b46",
+      "title": "Sr. Software Engineer - Myworkdayjobs.com",
+      "company": "Shi",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://shi.wd12.myworkdayjobs.com/en-US/shicareers/job/Sr-Software-Engineer_JR2983",
+      "source": "Workday",
+      "description": "Job Summary. SHI is seeking a highly motivated Senior Software Engineer to join our Customer Experience Development Team. In this role, you will help ...",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T22:44:49+00:00",
+      "fetched_at": "2026-04-29T01:28:35.626022+00:00"
+    },
+    {
+      "id": "784e4cdff864",
+      "title": "Software Engineer @ Latent - Jobs",
+      "company": "Latent",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/latent/37081ba7-cd44-4a40-bc5f-4a2829c0d079",
+      "source": "Ashby",
+      "description": "SOFTWARE ENGINEER Location: San Francisco, CA We're building the intelligence layer of American healthcare. Our systems sit directly in critical ...",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T22:39:43+00:00",
+      "fetched_at": "2026-04-29T01:28:35.626291+00:00"
+    },
+    {
+      "id": "407d56d06acd",
+      "title": "Job Application for Senior Backend Engineer at Postscript - Greenhouse",
+      "company": "Postscript",
+      "role": "Backend Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/postscript/jobs/8525612002",
+      "source": "Greenhouse",
+      "description": "Senior Backend Engineer . Remote. Apply. Trusted by more than 18,000 Shopify and Shopify Plus stores\u2014like Brooklinen, Ruggable, True Classic and Dr ...",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T21:54:57+00:00",
+      "fetched_at": "2026-04-29T01:28:35.626405+00:00"
+    },
+    {
+      "id": "fecb3ee9d1f3",
+      "title": "Software Engineer I Job Details | Steris Corporation",
+      "company": "Steris Corporation",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.steris.com/job/Mentor-Software-Engineer-I-OH-44060/1386183800/",
+      "source": "Other",
+      "description": "Debug log. Software Engineer I. Req ID: 53940. Job Category: Engineering. Location: Mentor, OH, US, 44060. Workplace Type: Hybrid. At STERIS, we help ...",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T20:39:24+00:00",
+      "fetched_at": "2026-04-29T01:28:35.626580+00:00"
+    },
+    {
+      "id": "2377080b109f",
+      "title": "Data Engineer , Operations Finance - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200657904-3956/data-engineer-operations-finance?team=OPMFG",
+      "source": "Other",
+      "description": "Apply for a Data Engineer , Operations Finance job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T20:33:58+00:00",
+      "fetched_at": "2026-04-29T01:28:35.825178+00:00"
+    },
+    {
+      "id": "dbc0a0c6fa75",
+      "title": "Senior Software Engineer (.NET) #609579 US-Remote",
+      "company": "Remote",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://recruit.hirebridge.com/v3/Jobs/JobDetails.aspx?cid=6875&jid=609579&locvalue=1170",
+      "source": "Other",
+      "description": "As a Senior Software Engineer , you'll serve as a technical authority and force multiplier for the team: setting direction, driving modernization ...",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T20:23:11+00:00",
+      "fetched_at": "2026-04-29T01:28:35.626733+00:00"
+    },
     {
       "id": "1a8d7156852c",
       "title": "Senior Software Engineer in San Diego, California, United States - SAIC Careers",
@@ -45,6 +180,66 @@
       "date": "2026-04-28",
       "timestamp": "2026-04-28T19:44:51+00:00",
       "fetched_at": "2026-04-28T20:55:35.641889+00:00"
+    },
+    {
+      "id": "0f982cb55e78",
+      "title": "Lewis Woollard's Post - Hiring: Data Engineer (Contract)",
+      "company": "Lewis Woollard's Post",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/lewis-woollard-251299301_hiring-data-engineer-contract-immediate-activity-7454896856947638274-Xvp9",
+      "source": "LinkedIn",
+      "description": "... Data Engineer (Contractor) to join their team ASAP. This is a ... ML Engineer | Software Engineer | End-to-End ML Pipelines, LLMs, and ...",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T19:16:44+00:00",
+      "fetched_at": "2026-04-29T01:28:35.627340+00:00"
+    },
+    {
+      "id": "39a368213dba",
+      "title": "Machine Learning Engineer , Video Search Team - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200660508-3337/machine-learning-engineer-video-search-team",
+      "source": "Other",
+      "description": "Apply for a Machine Learning Engineer , Video Search Team job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T19:08:41+00:00",
+      "fetched_at": "2026-04-29T01:28:35.627513+00:00"
+    },
+    {
+      "id": "97b8e1ce9d67",
+      "title": "Intermediate Software Engineer \u2013 Accounting Automation & AI - Publix Careers",
+      "company": "Publix Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.publix.com/job-opening/intermediate-software-engineer-accounting-automation-ai/",
+      "source": "Other",
+      "description": "Join Publix and grow your career as a Intermediate Software Engineer \u2013 Accounting Automation & AI. Apply today ... Senior Software Engineer \u2013 Labor ...",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T18:42:12+00:00",
+      "fetched_at": "2026-04-29T01:28:35.627908+00:00"
+    },
+    {
+      "id": "abff9ef2dfd5",
+      "title": "Data Engineer , AVP | Citi Careers",
+      "company": "Citi Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.citi.com/job/irving/data-engineer-avp/287/94476722032",
+      "source": "Other",
+      "description": "Learn more about applying for Data Engineer , AVP at Citi. Learn more about potential responsibilities, qualifications and career paths.",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T18:16:39+00:00",
+      "fetched_at": "2026-04-29T01:28:35.628041+00:00"
     },
     {
       "id": "cef40536098f",
@@ -62,6 +257,36 @@
       "fetched_at": "2026-04-28T20:55:35.642211+00:00"
     },
     {
+      "id": "cf6fbc624099",
+      "title": "Software Engineer (AI Platform) - Conversica - Lever",
+      "company": "Conversica",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.lever.co/conversica/765d2754-a07a-4a83-8a9d-fc25b80d73c3/apply",
+      "source": "Lever",
+      "description": "Submit your application \u00b7 Links \u00b7 Software Engineer (AI Platform) \u00b7 U.S. Equal Employment Opportunity information (Completion is voluntary and will not ...",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T18:03:15+00:00",
+      "fetched_at": "2026-04-29T01:28:35.826647+00:00"
+    },
+    {
+      "id": "41710eea8d79",
+      "title": "Genesys Cloud Engineer - EmblemHealth Careers",
+      "company": "EmblemHealth Careers",
+      "role": "Cloud Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.emblemhealth.com/jobs/genesys-cloud-engineer-7325",
+      "source": "Other",
+      "description": "Access your employee profile to view internal job postings and explore new opportunities. Genesys Cloud Engineer . New York, New York.",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T17:52:00+00:00",
+      "fetched_at": "2026-04-29T01:28:35.826856+00:00"
+    },
+    {
       "id": "1e75d2e93949",
       "title": "Data Engineer - Research Business Intelligence at Mayo Clinic",
       "company": "Mayo Clinic",
@@ -75,6 +300,21 @@
       "date": "2026-04-28",
       "timestamp": "2026-04-28T17:41:21+00:00",
       "fetched_at": "2026-04-28T20:55:35.642554+00:00"
+    },
+    {
+      "id": "daebf7dcff41",
+      "title": "Software Engineer Apprentices - Myworkdayjobs.com",
+      "company": "Alcon",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://alcon.wd5.myworkdayjobs.com/en-US/careers_alcon/job/Software-Engineer-Apprentices_R-2026-46681",
+      "source": "Workday",
+      "description": "Software Engineer Apprentices ; time type: Full time ; posted on: Posted Today ; time left to apply: End Date: May 4, 2026 (5 days left to apply) ; job ...",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T17:34:49+00:00",
+      "fetched_at": "2026-04-29T01:28:35.628856+00:00"
     },
     {
       "id": "1aba335dae6b",
