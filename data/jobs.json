@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-04-29T01:28:35.831027+00:00",
-  "total_jobs": 682,
+  "last_updated": "2026-04-29T06:14:49.523506+00:00",
+  "total_jobs": 695,
   "stats": {
-    "total_companies": 480,
-    "total_roles": 24,
+    "total_companies": 486,
+    "total_roles": 25,
     "regions": {
-      "India": 371,
-      "Philippines": 82,
-      "Remote": 96,
+      "India": 375,
+      "Philippines": 88,
+      "Remote": 99,
       "Unknown": 135
     },
     "sources": {
-      "Other": 538,
-      "Greenhouse": 32,
+      "Other": 548,
+      "Greenhouse": 34,
       "Workday": 29,
-      "LinkedIn": 24,
+      "LinkedIn": 25,
       "Ashby": 21,
       "Lever": 8,
       "Indeed": 8,
@@ -32,6 +32,111 @@
   },
   "jobs": [
     {
+      "id": "f89053d4476d",
+      "title": "Software Engineer (Tools), Engagement Engineering - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200660652-0836/software-engineer-tools-engagement-engineering?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Software Engineer (Tools), Engagement Engineering job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-04-29",
+      "timestamp": "2026-04-29T03:14:24+00:00",
+      "fetched_at": "2026-04-29T06:14:49.516963+00:00"
+    },
+    {
+      "id": "dcd4d6457f6e",
+      "title": "Associate Software Engineer , Search Infrastructure - Moveworks - ServiceNow Careers",
+      "company": "Moveworks - ServiceNow Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.servicenow.com/jobs/744000123528060/associate-software-engineer-search-infrastructure-moveworks/",
+      "source": "Other",
+      "description": "Associate Software Engineer , Search Infrastructure - Moveworks ... Senior Software Engineer , Search Infrastructure - Moveworks. Save Saved.",
+      "date": "2026-04-29",
+      "timestamp": "2026-04-29T02:49:21+00:00",
+      "fetched_at": "2026-04-29T06:14:49.517215+00:00"
+    },
+    {
+      "id": "8c2487919924",
+      "title": "Software Engineer , DevOps - Moveworks, Mountain View | ServiceNow Careers",
+      "company": "Moveworks, Mountain View | ServiceNow Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.servicenow.com/jobs/744000123530949/software-engineer-devops-moveworks/",
+      "source": "Other",
+      "description": "Staff Devops Engineer - Moveworks. Save Saved. Bangalore. Senior Software Engineer , DevOps - Moveworks. Save Saved. Mountain View. Senior Identity ...",
+      "date": "2026-04-29",
+      "timestamp": "2026-04-29T02:49:20+00:00",
+      "fetched_at": "2026-04-29T06:14:49.517433+00:00"
+    },
+    {
+      "id": "885d50bbf759",
+      "title": "Data Engineer II - Remote - US - Samsara",
+      "company": "Remote - US - Samsara",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.samsara.com/company/careers/roles/7859406?gh_jid=7859406",
+      "source": "Other",
+      "description": "As a Data Engineer II, you'll own the data platforms that power Samsara's GTM AI engine. You'll be responsible for building, scaling, and optimizing ...",
+      "date": "2026-04-29",
+      "timestamp": "2026-04-29T01:06:59+00:00",
+      "fetched_at": "2026-04-29T06:14:49.517591+00:00"
+    },
+    {
+      "id": "a8320c0f1b36",
+      "title": "Senior Software Engineer - Publishing Platform, Riot Mobile",
+      "company": "Publishing Platform, Riot Mobile",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.riotgames.com/en/work-with-us/job/7838550/senior-software-engineer-publishing-platform-riot-mobile-los-angeles-usa",
+      "source": "Other",
+      "description": "Senior Software Engineer - Publishing Platform, Riot Mobile. Los Angeles, USA. Job Id: REQ-0009950. Riot engineers bring deep knowledge of specific ...",
+      "date": "2026-04-29",
+      "timestamp": "2026-04-29T01:03:27+00:00",
+      "fetched_at": "2026-04-29T06:14:49.517860+00:00"
+    },
+    {
+      "id": "ec64f4d98622",
+      "title": "Senior Software Engineer , AI Agents in San Jose at Arm",
+      "company": "Arm",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.arm.com/job/san-jose/senior-software-engineer-ai-agents/33099/94500679728",
+      "source": "Other",
+      "description": "Senior Software Engineer , AI Agents. Job ID 2025-13585 Date posted Apr. 28, 2026 Location San Jose, California Category Software Engineering Apply.",
+      "date": "2026-04-29",
+      "timestamp": "2026-04-29T01:00:25+00:00",
+      "fetched_at": "2026-04-29T06:14:49.518003+00:00"
+    },
+    {
+      "id": "236999c561d7",
+      "title": "Software Engineer , Frameworks/UI, Sensing & Connectivity - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200660577-0836/software-engineer-frameworks-ui-sensing-connectivity",
+      "source": "Other",
+      "description": "Apply for a Software Engineer , Frameworks/UI, Sensing & Connectivity job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-04-29",
+      "timestamp": "2026-04-29T00:07:05+00:00",
+      "fetched_at": "2026-04-29T06:14:49.518195+00:00"
+    },
+    {
       "id": "c67ec6bda55c",
       "title": "Software Engineer , Frameworks/UI, Sensing & Connectivity - Jobs - Careers at Apple",
       "company": "Apple",
@@ -45,6 +150,21 @@
       "date": "2026-04-29",
       "timestamp": "2026-04-29T00:04:38+00:00",
       "fetched_at": "2026-04-29T01:28:35.625050+00:00"
+    },
+    {
+      "id": "f3ce1357682f",
+      "title": "Software Engineer , BENGALURU, Karn\u0101taka | Wells Fargo",
+      "company": "Wells Fargo",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.wellsfargojobs.com/en/jobs/r-537699/software-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer - Java , Spring boot, Microservices. Save Saved. BENGALURU, Karn\u0101taka; Technology. Senior Software Engineer . Save Saved.",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T23:29:33+00:00",
+      "fetched_at": "2026-04-29T06:14:49.215677+00:00"
     },
     {
       "id": "6ada10788603",
@@ -107,6 +227,36 @@
       "fetched_at": "2026-04-29T01:28:35.626291+00:00"
     },
     {
+      "id": "a77a9b5b2a7f",
+      "title": "Data Engineer with (Google Cloud Platform & AI/ML) - Rivago infotech inc - Irving, TX, US",
+      "company": "Rivago infotech inc - Irving, TX, US",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.dice.com/job-detail/80625d43-d792-4e14-b71a-50cf76446a4e",
+      "source": "Other",
+      "description": "Data Engineer with (Google Cloud Platform & AI/ML). Irving, TX, US ... Professional Machine Learning Engineer . Employers have access to ...",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T22:38:17+00:00",
+      "fetched_at": "2026-04-29T06:14:49.216746+00:00"
+    },
+    {
+      "id": "5616af105818",
+      "title": "Ana Carolina Feltrin's Post - LinkedIn",
+      "company": "Unknown Company",
+      "role": "Ana Carolina Feltrin's Post - LinkedIn",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.linkedin.com/posts/anafeltrin_hiring-senior-software-engineer-part-time-activity-7454943122058510336-NNjo",
+      "source": "LinkedIn",
+      "description": "Hiring: Senior Software Engineer (Part-time, Remote \u2013 Europe) We ... Juan Cruz Cordoneda (FULL STACK - DATA ENGINEER ). DATA ENGINEER | SOFTWARE ENGINEER .",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T22:30:57+00:00",
+      "fetched_at": "2026-04-29T06:14:49.217346+00:00"
+    },
+    {
       "id": "407d56d06acd",
       "title": "Job Application for Senior Backend Engineer at Postscript - Greenhouse",
       "company": "Postscript",
@@ -167,6 +317,36 @@
       "fetched_at": "2026-04-29T01:28:35.626733+00:00"
     },
     {
+      "id": "980c4399672d",
+      "title": "Job Application for Senior Software Engineer at Wrike - Greenhouse",
+      "company": "Wrike",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/wrike/jobs/4689565005",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer . Nicosia. Apply. Wrike is the most powerful work management platform. Built for teams and organizations looking to ...",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T20:04:24+00:00",
+      "fetched_at": "2026-04-29T06:14:49.520062+00:00"
+    },
+    {
+      "id": "51ae1cc21e0a",
+      "title": "Job Application for Senior Software Engineer , Backend (Continuous Delivery) at Affirm",
+      "company": "Affirm",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/affirm/jobs/7703207003",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer , Backend (Continuous Delivery). Remote US. Apply. Affirm is reinventing credit to make it more honest and friendly, giving ...",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T19:56:26+00:00",
+      "fetched_at": "2026-04-29T06:14:49.217893+00:00"
+    },
+    {
       "id": "1a8d7156852c",
       "title": "Senior Software Engineer in San Diego, California, United States - SAIC Careers",
       "company": "SAIC Careers",
@@ -180,6 +360,21 @@
       "date": "2026-04-28",
       "timestamp": "2026-04-28T19:44:51+00:00",
       "fetched_at": "2026-04-28T20:55:35.641889+00:00"
+    },
+    {
+      "id": "8a021a16a9e5",
+      "title": "Senior Full Stack Engineer (70% Angular; 30% Java) - Fidelity Careers",
+      "company": "Fidelity Careers",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.fidelity.com/en/jobs/2123712/senior-full-stack-engineer-70-angular-30-java/",
+      "source": "Other",
+      "description": "Job Description: Senior Full Stack Engineer Fidelity Wealth \u2013 Wealth Solutions Engineering Chapter Area is looking for a passionate Full Stack ...",
+      "date": "2026-04-28",
+      "timestamp": "2026-04-28T19:38:07+00:00",
+      "fetched_at": "2026-04-29T06:14:49.218227+00:00"
     },
     {
       "id": "0f982cb55e78",
