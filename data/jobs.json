@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-04-29T13:14:01.784332+00:00",
-  "total_jobs": 709,
+  "last_updated": "2026-04-29T17:12:33.052863+00:00",
+  "total_jobs": 722,
   "stats": {
-    "total_companies": 495,
-    "total_roles": 25,
+    "total_companies": 504,
+    "total_roles": 26,
     "regions": {
-      "India": 387,
-      "Philippines": 88,
-      "Remote": 101,
+      "India": 396,
+      "Philippines": 90,
+      "Remote": 103,
       "Unknown": 135
     },
     "sources": {
-      "Other": 558,
+      "Other": 568,
       "Greenhouse": 35,
       "Workday": 30,
       "LinkedIn": 25,
-      "Ashby": 23,
-      "Lever": 8,
+      "Ashby": 24,
+      "Lever": 9,
+      "Breezy": 8,
       "Indeed": 8,
-      "Breezy": 7,
       "iCIMS": 5,
       "SmartRecruiters": 4,
       "Workable": 3,
@@ -31,6 +31,141 @@
     }
   },
   "jobs": [
+    {
+      "id": "7fe384e357af",
+      "title": "Applied AI Engineer at Norbert Health",
+      "company": "Norbert Health",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://norbert-health.breezy.hr/p/874c21a483b3-applied-ai-engineer",
+      "source": "Breezy",
+      "description": "Applied AI Engineer . Brooklyn, NY; Full-Time. Job Openings; Applied AI Engineer . Apply To Position; Use My Indeed Resume; Apply Using LinkedIn. The ...",
+      "date": "2026-04-29",
+      "timestamp": "2026-04-29T16:36:11+00:00",
+      "fetched_at": "2026-04-29T17:12:33.046200+00:00"
+    },
+    {
+      "id": "39b84a46647a",
+      "title": "Consultant Job Portal - LABUR",
+      "company": "Unknown Company",
+      "role": "Consultant Job Portal - LABUR",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.labur.com/career-portal/jobs/8877",
+      "source": "Other",
+      "description": "Compensation. $75-80/hr. Related Jobs. Senior Software Engineer Development | Scottsdale , Arizona ... Senior Applied AI Engineer . Position Type.",
+      "date": "2026-04-29",
+      "timestamp": "2026-04-29T16:31:57+00:00",
+      "fetched_at": "2026-04-29T17:12:32.908999+00:00"
+    },
+    {
+      "id": "6ee482086d96",
+      "title": "DevOps Engineer at Teradata",
+      "company": "Teradata",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.teradata.com/jobs/220144/devops-engineer?j_idx=42",
+      "source": "Other",
+      "description": "DevOps Engineer - 220144 \u00b7 Build and maintain CI/CD pipelines using GitHub Actions and Jenkins \u00b7 Implement automation using Ansible or similar tools.",
+      "date": "2026-04-29",
+      "timestamp": "2026-04-29T15:54:32+00:00",
+      "fetched_at": "2026-04-29T17:12:33.046495+00:00"
+    },
+    {
+      "id": "1d06a8ed57fe",
+      "title": "Software Engineer I - New York City - Careers - Compass Real Estate",
+      "company": "New York City - Careers - Compass Real Estate",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.compass.com/careers/?gh_jid=7861748&gh_board=urbancompass",
+      "source": "Other",
+      "description": "Software Engineer I. At Compass, our mission is to help everyone find their place in the world.",
+      "date": "2026-04-29",
+      "timestamp": "2026-04-29T14:41:22+00:00",
+      "fetched_at": "2026-04-29T17:12:32.909406+00:00"
+    },
+    {
+      "id": "95802a4eedfd",
+      "title": "Senior Azure Data & Platform Engineer Job Details | Hexion Careers",
+      "company": "Hexion Careers",
+      "role": "Platform Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.hexion.com/job/Remote-Senior-Azure-Data-&-Platform-Engineer-OH-44654/1386226400/",
+      "source": "Other",
+      "description": "Senior Azure Data & Platform Engineer ... Azure certifications such as Azure Solutions Architect Expert. Databricks certifications such as Data Engineer ...",
+      "date": "2026-04-29",
+      "timestamp": "2026-04-29T14:12:11+00:00",
+      "fetched_at": "2026-04-29T17:12:32.909618+00:00"
+    },
+    {
+      "id": "93cef8e5482a",
+      "title": "Full Stack Engineer - Vice President | Citi Careers",
+      "company": "Vice President | Citi Careers",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.citi.com/job/tampa/full-stack-engineer-vice-president/287/94514627456",
+      "source": "Other",
+      "description": "Learn more about applying for Full Stack Engineer - Vice President at Citi. Learn more about potential responsibilities, qualifications and career ...",
+      "date": "2026-04-29",
+      "timestamp": "2026-04-29T14:09:43+00:00",
+      "fetched_at": "2026-04-29T17:12:32.909815+00:00"
+    },
+    {
+      "id": "cd5208e6b29c",
+      "title": "Associate Software Engineer - Cargill Jobs",
+      "company": "Cargill Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.cargill.com/job/Bangalore-Associate-Software-Engineer-Karn-560087/1359196857/",
+      "source": "Other",
+      "description": "The Associate Software Engineer (Portal Solution) role supports, enhances, and maintains an internal portal application that provides easy access ...",
+      "date": "2026-04-29",
+      "timestamp": "2026-04-29T13:37:25+00:00",
+      "fetched_at": "2026-04-29T17:12:32.910169+00:00"
+    },
+    {
+      "id": "ed369a3bbfc2",
+      "title": "Principal, Full Stack Engineer (Python), Merrimack, NH / Jersey City, NJ | Fidelity Careers",
+      "company": "Fidelity Careers",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.fidelity.com/en/jobs/2126415/principal-full-stack-engineer-python/",
+      "source": "Other",
+      "description": "... Full Stack Engineer . In this role you will contribute to a dynamic and ... Full Stack Engineer . In this role you will contribute to a dynamic ...",
+      "date": "2026-04-29",
+      "timestamp": "2026-04-29T13:20:40+00:00",
+      "fetched_at": "2026-04-29T17:12:32.910481+00:00"
+    },
+    {
+      "id": "bb63f49dc26b",
+      "title": "Basis - Sr Software Engineer , Applications - Lever",
+      "company": "Basis",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.lever.co/basis/bb213682-6e49-48d4-bdfe-3b17aba79366/apply",
+      "source": "Lever",
+      "description": "Sr Software Engineer , Applications. United States. Engineering \u2013 Software Engineering, Applications /. Full time /. Remote. Submit your application.",
+      "date": "2026-04-29",
+      "timestamp": "2026-04-29T12:58:29+00:00",
+      "fetched_at": "2026-04-29T17:12:32.910981+00:00"
+    },
     {
       "id": "700f2233dc04",
       "title": "Senior Software Engineer -iOS | Marriott Careers",
@@ -45,6 +180,21 @@
       "date": "2026-04-29",
       "timestamp": "2026-04-29T10:49:40+00:00",
       "fetched_at": "2026-04-29T13:14:01.458833+00:00"
+    },
+    {
+      "id": "778d5205980c",
+      "title": "Lead Software Engineer - (SAP ABAP/PI/PO/BTP) - 90408965 - Washington Job Details",
+      "company": "(SAP ABAP/PI/PO/BTP) - 90408965 - Washington Job Details",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.amtrak.com/job/Washington-Lead-Software-Engineer-%28SAP-ABAPPIPOBTP%29-90408965-Washington-DC-20001/1386159300/",
+      "source": "Other",
+      "description": "Washington Lead Software Engineer - (SAP ABAP/PI/PO/BTP) - 90408965 - Washington - DC, 20001.",
+      "date": "2026-04-29",
+      "timestamp": "2026-04-29T10:46:57+00:00",
+      "fetched_at": "2026-04-29T17:12:32.912133+00:00"
     },
     {
       "id": "acdae03170d7",
@@ -62,6 +212,36 @@
       "fetched_at": "2026-04-29T13:14:01.458965+00:00"
     },
     {
+      "id": "3fdc0b0c1f7c",
+      "title": "Software Engineer @ Sofar Ocean - Jobs",
+      "company": "Sofarocean",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/sofarocean/28baef4b-7bc6-40ee-a479-b4a940ecdbfd",
+      "source": "Ashby",
+      "description": "THE ROLE: We are looking for a product-driven software engineer to join our team as we scale our groundbreaking Wayfinder weather routing service ...",
+      "date": "2026-04-29",
+      "timestamp": "2026-04-29T09:48:13+00:00",
+      "fetched_at": "2026-04-29T17:12:32.912524+00:00"
+    },
+    {
+      "id": "a51a94cf7e15",
+      "title": "Senior Staff Software Engineer at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/bengaluru/senior-staff-software-engineer/47263/91053599376",
+      "source": "Other",
+      "description": "Senior Staff Software Engineer . Bengaluru, Karnataka, India ... Senior Angular Frontend Engineer - Identity Security (Cortex) Tel Aviv, Israel",
+      "date": "2026-04-29",
+      "timestamp": "2026-04-29T09:40:35+00:00",
+      "fetched_at": "2026-04-29T17:12:32.912805+00:00"
+    },
+    {
       "id": "7713529d8361",
       "title": "Software Engineer , AI Agents in Austin at Arm",
       "company": "Arm",
@@ -75,6 +255,21 @@
       "date": "2026-04-29",
       "timestamp": "2026-04-29T09:39:01+00:00",
       "fetched_at": "2026-04-29T13:14:01.459090+00:00"
+    },
+    {
+      "id": "8e08347ae338",
+      "title": "Platform DevOps Engineer - - 123721 - Booz | Allen | Hamilton \u00ae - Careers",
+      "company": "- 123721 - Booz | Allen | Hamilton \u00ae - Careers",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.boozallen.com/jobs/JobDetail/Colorado-Springs-Platform-DevOps-Engineer-R0238775/123721",
+      "source": "Other",
+      "description": "Platform DevOps Engineer . Colorado Springs, Colorado, USA. View Additional Locations. Apply. CREATEYOUR CAREER. CREATE AND GROW WITH US. Grow. Your ...",
+      "date": "2026-04-29",
+      "timestamp": "2026-04-29T09:18:47+00:00",
+      "fetched_at": "2026-04-29T17:12:32.913593+00:00"
     },
     {
       "id": "0dd365f737fa",
