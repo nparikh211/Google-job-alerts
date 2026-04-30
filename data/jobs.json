@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-04-30T01:26:55.209196+00:00",
-  "total_jobs": 758,
+  "last_updated": "2026-04-30T06:20:04.550569+00:00",
+  "total_jobs": 773,
   "stats": {
-    "total_companies": 528,
+    "total_companies": 536,
     "total_roles": 27,
     "regions": {
-      "India": 425,
-      "Philippines": 92,
-      "Remote": 108,
+      "India": 431,
+      "Philippines": 97,
+      "Remote": 112,
       "Unknown": 135
     },
     "sources": {
-      "Other": 591,
-      "Greenhouse": 38,
-      "Workday": 33,
+      "Other": 601,
+      "Greenhouse": 40,
+      "Workday": 35,
+      "Ashby": 26,
       "LinkedIn": 26,
-      "Ashby": 25,
       "Breezy": 10,
       "Lever": 10,
       "Indeed": 8,
@@ -31,6 +31,171 @@
     }
   },
   "jobs": [
+    {
+      "id": "211353b78c87",
+      "title": "Data Engineer -Senior II-1 in Chennai, Tamil N\u0101du | FedEx Careers",
+      "company": "Senior II-1 in Chennai, Tamil N\u0101du | FedEx Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.fedex.com/data-engineer-senior-ii-1/job/P25-334619-1",
+      "source": "Other",
+      "description": "Data Engineer -Senior II-1. Professional. Company: Federal Express Corporation AMEA; Category: Professional; Employment Type: Full Time; Worker Sub- ...",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T05:51:13+00:00",
+      "fetched_at": "2026-04-30T06:20:04.544394+00:00"
+    },
+    {
+      "id": "ee913a046b61",
+      "title": "Staff Frontend Engineer - Adobe Careers",
+      "company": "Adobe Careers",
+      "role": "Frontend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.adobe.com/us/en/job/R165316/Staff-Frontend-Engineer",
+      "source": "Other",
+      "description": "Senior Manager, Forward Deployed AI Engineer . Job Id R164661 Posted Date ... Senior Backend Engineer . Job Id R165415 Posted Date 03/16/2026. Job ...",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T04:39:38+00:00",
+      "fetched_at": "2026-04-30T06:20:04.463069+00:00"
+    },
+    {
+      "id": "20c99a568eb8",
+      "title": "Principal Site Reliability Engineer at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-site-reliability-engineer/47263/94533451584",
+      "source": "Other",
+      "description": "Principal Site Reliability Engineer . Santa Clara, California, United States Product Engineering Ref ID: JR-016960. Apply Save Job. Current Employees ...",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T03:30:40+00:00",
+      "fetched_at": "2026-04-30T06:20:04.463440+00:00"
+    },
+    {
+      "id": "324e357bc19e",
+      "title": "Associate Software Engineer at Mayo Clinic",
+      "company": "Mayo Clinic",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.mayoclinic.org/job/rochester/associate-software-engineer/33647/94534532880",
+      "source": "Other",
+      "description": "Associate Software Engineer . Job ID 381542 Date posted 04/29/2026 Job Expiration Date 05/12/2026. Rochester, MN; Full Time; Remote: Yes. Apply Now",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T03:24:31+00:00",
+      "fetched_at": "2026-04-30T06:20:04.544715+00:00"
+    },
+    {
+      "id": "884e4b73e15a",
+      "title": "Software Engineer - Early Career (Front-end) - Jobs",
+      "company": "Early Career (Front-end) - Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200660851-0157/software-engineer-early-career-front-end",
+      "source": "Other",
+      "description": "Apply for a Software Engineer - Early Career (Front-end) job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T03:24:06+00:00",
+      "fetched_at": "2026-04-30T06:20:04.544904+00:00"
+    },
+    {
+      "id": "1521cdf7a5bb",
+      "title": "Software Engineer - Myworkdayjobs.com",
+      "company": "Broadcom",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://broadcom.wd1.myworkdayjobs.com/es/External_Career/job/Software-Engineer_R025847",
+      "source": "Workday",
+      "description": "Software Engineer page is loaded. Software Engineer . Solicitar. locations: USA-CA - Promontory B. time type: Full time. posted on ...",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T01:51:58+00:00",
+      "fetched_at": "2026-04-30T06:20:04.545001+00:00"
+    },
+    {
+      "id": "8fbaf3ab6f7f",
+      "title": "Job Application for Backend Engineer - DevEx Team at Next Insurance - Greenhouse",
+      "company": "Nextinsurance66",
+      "role": "Backend Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/nextinsurance66/jobs/7719281003",
+      "source": "Greenhouse",
+      "description": "Backend Engineer - DevEx Team. Boston, MA ... We are looking for a talented Software Engineer to lead our Platform Engineering presence in the US.",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T01:45:52+00:00",
+      "fetched_at": "2026-04-30T06:20:04.545099+00:00"
+    },
+    {
+      "id": "99ff127434e2",
+      "title": "Job Application for Software Engineer , Data at xAI - Greenhouse",
+      "company": "Xai",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/xai/jobs/5124616007",
+      "source": "Greenhouse",
+      "description": "Software Engineer , Data. Palo Alto, CA. Apply. ABOUT xAI. xAI's mission is to create AI systems that can accurately understand the universe and aid ...",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T01:45:26+00:00",
+      "fetched_at": "2026-04-30T06:20:04.463551+00:00"
+    },
+    {
+      "id": "dfda821d9b05",
+      "title": "Software Engineer - Visual Intelligence, System Experience - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200604470-3337/software-engineer-visual-intelligence-system-experience",
+      "source": "Other",
+      "description": "Apply for a Software Engineer - Visual Intelligence, System Experience job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T01:42:38+00:00",
+      "fetched_at": "2026-04-30T06:20:04.545382+00:00"
+    },
+    {
+      "id": "bac6c224b0b0",
+      "title": "Software Engineer - Visual Intelligence, System Experience - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200604470-3337/software-engineer-visual-intelligence-system-experience?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Software Engineer - Visual Intelligence, System Experience job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T01:41:32+00:00",
+      "fetched_at": "2026-04-30T06:20:04.463942+00:00"
+    },
+    {
+      "id": "a36e8b9bc7ce",
+      "title": "Senior Software Engineer (Java/Angular)--100% REMOTE Madison Wisconsin - Beacon Hill",
+      "company": "-100% REMOTE Madison Wisconsin - Beacon Hill",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://bhsg.com/jobs/job/hsmad429_1777475339-senior-software-engineer-java-angular-100-remote-madison-wisconsin/",
+      "source": "Other",
+      "description": "Senior Software Engineer (Java/Angular)--100% REMOTE Madison Wisconsin ... full-stack engineer with strong Angular expertise and hands-on Java ...",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T00:39:33+00:00",
+      "fetched_at": "2026-04-30T06:20:04.545705+00:00"
+    },
     {
       "id": "e86b95108fc4",
       "title": "Data Engineer Job Details - Qualitest Careers",
@@ -62,6 +227,21 @@
       "fetched_at": "2026-04-30T01:26:55.024251+00:00"
     },
     {
+      "id": "48bed2f6133a",
+      "title": "Principal Site Reliability Engineer at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/%E3%82%B5%E3%83%B3%E3%82%BF%E3%82%AF%E3%83%A9%E3%83%A9/principal-site-reliability-engineer/47263/94533451584",
+      "source": "Other",
+      "description": "Principal Site Reliability Engineer . Santa Clara, California, United States Product Engineering Ref ID: JR-016960. Apply Save Job. Current Employees ...",
+      "date": "2026-04-29",
+      "timestamp": "2026-04-29T23:53:47+00:00",
+      "fetched_at": "2026-04-30T06:20:04.546222+00:00"
+    },
+    {
       "id": "b62b3ce9f3d5",
       "title": "Senior Software Engineer - Myworkdayjobs.com",
       "company": "Prescryptive",
@@ -75,6 +255,21 @@
       "date": "2026-04-29",
       "timestamp": "2026-04-29T23:32:28+00:00",
       "fetched_at": "2026-04-30T01:26:55.024359+00:00"
+    },
+    {
+      "id": "b56a95089707",
+      "title": "Senior Software Engineer - Myworkdayjobs.com",
+      "company": "Tbc",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://tbc.wd12.myworkdayjobs.com/LyricCareers/job/Remote---US/Senior-Software-Engineer_JR811",
+      "source": "Workday",
+      "description": "... Full Stack Engineer to build intuitive, performant web experiences ... Senior Software Engineer . Apply. locations: Remote - US. time type: Full ...",
+      "date": "2026-04-29",
+      "timestamp": "2026-04-29T22:54:03+00:00",
+      "fetched_at": "2026-04-30T06:20:04.464516+00:00"
     },
     {
       "id": "4e02fc0c30ad",
@@ -135,6 +330,36 @@
       "date": "2026-04-29",
       "timestamp": "2026-04-29T21:43:47+00:00",
       "fetched_at": "2026-04-30T01:26:55.025068+00:00"
+    },
+    {
+      "id": "1a1be91d9ce2",
+      "title": "Senior Software Engineer , Full Stack (Node, React) @ Teamworks - Jobs",
+      "company": "Teamworks",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.ashbyhq.com/teamworks/807e0d90-4a1b-4336-9a79-89c302c2dfd5",
+      "source": "Ashby",
+      "description": "Senior Software Engineer , Full Stack (Node, React). Location. United States. Employment Type. Full time. Location Type. Remote. Department. R&D ...",
+      "date": "2026-04-29",
+      "timestamp": "2026-04-29T21:17:02+00:00",
+      "fetched_at": "2026-04-30T06:20:04.465428+00:00"
+    },
+    {
+      "id": "36ebe22c4c0b",
+      "title": "Data Engineer Job Details - McCormick Careers",
+      "company": "McCormick Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mccormick.com/job/GURGAON-Data-Engineer-122001/1386556200/",
+      "source": "Other",
+      "description": "Data Engineer . GURGAON, IN, 122001. At McCormick, we bring our passion for flavor to work each day. We encourage growth, respect everyone's ...",
+      "date": "2026-04-29",
+      "timestamp": "2026-04-29T21:02:57+00:00",
+      "fetched_at": "2026-04-30T06:20:04.547231+00:00"
     },
     {
       "id": "df5bb3c2876c",
