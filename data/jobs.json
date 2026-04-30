@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-04-30T13:13:20.397858+00:00",
-  "total_jobs": 788,
+  "last_updated": "2026-04-30T17:06:14.355059+00:00",
+  "total_jobs": 797,
   "stats": {
-    "total_companies": 543,
+    "total_companies": 549,
     "total_roles": 27,
     "regions": {
-      "India": 442,
+      "India": 450,
       "Philippines": 97,
-      "Remote": 116,
+      "Remote": 117,
       "Unknown": 135
     },
     "sources": {
-      "Other": 613,
+      "Other": 621,
       "Greenhouse": 41,
-      "Workday": 36,
+      "Workday": 37,
       "Ashby": 26,
       "LinkedIn": 26,
       "Breezy": 10,
@@ -31,6 +31,141 @@
     }
   },
   "jobs": [
+    {
+      "id": "b9fa87cf9762",
+      "title": "Senior Data Engineer at Carrier",
+      "company": "Carrier",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.carrier.com/en/job/atlanta/senior-data-engineer/29289/94529190320",
+      "source": "Other",
+      "description": "Senior Data Engineer . CAG23: DLS VRF- Atlanta 3300 Riverwood Pkwy , Atlanta, GA, 30339 USA. Job ID 30202262 Job Category Digital Technology. Posted ...",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T16:15:34+00:00",
+      "fetched_at": "2026-04-30T17:06:14.054597+00:00"
+    },
+    {
+      "id": "f3f4b2ff0584",
+      "title": "Senior Software Engineer (Remote) - Myworkdayjobs.com",
+      "company": "Firstam",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://firstam.wd1.myworkdayjobs.com/en-US/firstamericancareers/job/Senior-Software-Engineer--Remote-_R056302",
+      "source": "Workday",
+      "description": "... Senior Software Engineer who has proven track record of success and is eager to collaborate with our team. The Senior Software Engineer will work ...",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T15:39:59+00:00",
+      "fetched_at": "2026-04-30T17:06:14.054749+00:00"
+    },
+    {
+      "id": "dc864ee005ac",
+      "title": "Software Engineer - Subaru Careers - oracle",
+      "company": "Subaru Careers - oracle",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://hcal.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2226",
+      "source": "Other",
+      "description": "Senior Software Engineer . Camden, NJ, United States Posted on 12/23 ... Senior Software Engineer - Data & BI. Camden, NJ, United States Posted ...",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T15:12:43+00:00",
+      "fetched_at": "2026-04-30T17:06:14.055258+00:00"
+    },
+    {
+      "id": "35c8b4d186a1",
+      "title": "Cloud Engineer II (8846) Jobs in Richmond VA \\ Software Development/Engineering Job Recruiters",
+      "company": "Unknown Company",
+      "role": "Cloud Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.themortonway.com/Cloud-Engineer-II-8846-Jobs-in-Richmond-Virginia/14043670",
+      "source": "Other",
+      "description": "Job Description. Morton is seeking a Cloud Engineer for our client in Richmond, VA. This person is responsible for designing, implementing, and ...",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T14:54:51+00:00",
+      "fetched_at": "2026-04-30T17:06:14.055473+00:00"
+    },
+    {
+      "id": "b0732158135e",
+      "title": "Senior Data Engineer - Blue Orange Digital career site",
+      "company": "Blue Orange Digital career site",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.blueorange.digital/jobs/600113-senior-data-engineer",
+      "source": "Other",
+      "description": "Senior Data Engineer . Apply for this job. Company Overview: Blue Orange Digital is a boutique data & AI consultancy that delivers enterprise-grade ...",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T14:15:13+00:00",
+      "fetched_at": "2026-04-30T17:06:14.055640+00:00"
+    },
+    {
+      "id": "49925331ac5e",
+      "title": "Data Engineer Senior | U-M Careers",
+      "company": "U-M Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.umich.edu/job_detail/276934/data-engineer-senior",
+      "source": "Other",
+      "description": "Data Engineer Senior \u00b7 Data Engineering, Modeling & Delivery \u00b7 Reporting, Analytics Support & Small-Team Flexibility \u00b7 Documentation, Standards & ...",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T13:49:04+00:00",
+      "fetched_at": "2026-04-30T17:06:14.055815+00:00"
+    },
+    {
+      "id": "e463275411e1",
+      "title": "Software Engineer | GE Vernova",
+      "company": "GE Vernova",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.gevernova.com/software-engineer/job/R5040367",
+      "source": "Other",
+      "description": "Job Description Summary. The Software Engineer supports the design, development, deployment, and maintenance of industrial analytics solutions.",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T13:42:42+00:00",
+      "fetched_at": "2026-04-30T17:06:14.055944+00:00"
+    },
+    {
+      "id": "0bd2d54fa87e",
+      "title": "Senior Software Engineer , Frontend - Zoo.dev",
+      "company": "Zoo.dev",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://zoo.dev/jobs/4690541005?gh_jid=4690541005",
+      "source": "Other",
+      "description": "Senior Software Engineer , Frontend. Departments: Engineering. Location ... As a Senior Frontend Engineer at Zoo, you'll play a crucial role in ...",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T13:33:06+00:00",
+      "fetched_at": "2026-04-30T17:06:14.056218+00:00"
+    },
+    {
+      "id": "3582078b733c",
+      "title": "Senior Software Engineer in Pune, India | ZS",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.zs.com/jobs/24434?lang=en-us",
+      "source": "Other",
+      "description": "ZS Associates, Inc. is hiring a Senior Software Engineer in Pune, India. Review all of the job details and apply today!",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T12:41:51+00:00",
+      "fetched_at": "2026-04-30T17:06:14.056340+00:00"
+    },
     {
       "id": "823775cdf197",
       "title": "What's the actual appeal of working as a software engineer at the big banks? - Reddit",
