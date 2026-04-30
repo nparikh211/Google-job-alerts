@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-04-30T17:06:14.355059+00:00",
-  "total_jobs": 797,
+  "last_updated": "2026-04-30T20:45:58.895485+00:00",
+  "total_jobs": 813,
   "stats": {
-    "total_companies": 549,
+    "total_companies": 559,
     "total_roles": 27,
     "regions": {
-      "India": 450,
-      "Philippines": 97,
-      "Remote": 117,
+      "India": 461,
+      "Philippines": 99,
+      "Remote": 120,
       "Unknown": 135
     },
     "sources": {
-      "Other": 621,
-      "Greenhouse": 41,
+      "Other": 631,
+      "Greenhouse": 43,
       "Workday": 37,
-      "Ashby": 26,
-      "LinkedIn": 26,
+      "LinkedIn": 27,
+      "Ashby": 27,
+      "Lever": 11,
       "Breezy": 10,
-      "Lever": 10,
+      "iCIMS": 8,
       "Indeed": 8,
-      "iCIMS": 7,
       "SmartRecruiters": 5,
       "Workable": 3,
       "Recruitee": 2,
@@ -31,6 +31,171 @@
     }
   },
   "jobs": [
+    {
+      "id": "d59051078c07",
+      "title": "Software Engineer - Applications - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200659680-3337/software-engineer-applications?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Software Engineer - Applications job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T19:42:53+00:00",
+      "fetched_at": "2026-04-30T20:45:58.587294+00:00"
+    },
+    {
+      "id": "6c870d9fa717",
+      "title": "Junior Software Engineer in Bronx, New York | Careers at Bronx, NY - ICIMS",
+      "company": "Bronx, NY",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers-essenmed.icims.com/jobs/2228/junior-software-engineer/job",
+      "source": "iCIMS",
+      "description": "Position Title: Senior Software Engineer . The role: We're hiring Junior Software Engineers to join our founding engineering team. You'll take well ...",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T19:04:38+00:00",
+      "fetched_at": "2026-04-30T20:45:58.587476+00:00"
+    },
+    {
+      "id": "ab3bb4a7495f",
+      "title": "10 Steps Roadmap to become AI DevOps Engineer in 2026 | Beginner Friendly - YouTube",
+      "company": "Beginner Friendly - YouTube",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.youtube.com/watch?v=Yb-asGyMM8A",
+      "source": "Other",
+      "description": "DevOps Engineer to AI DevOps Engineer in 7 Steps | Proven roadmap ... Become Top 0.1% AI Engineer in 90 Days - How? Ayush Singh\u2022267K views \u00b7 12 ...",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T18:56:38+00:00",
+      "fetched_at": "2026-04-30T20:45:58.587963+00:00"
+    },
+    {
+      "id": "7963c9930cbb",
+      "title": "Machine Learning Engineer - Personalization | Life at Spotify",
+      "company": "Spotify",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.lifeatspotify.com/jobs/machine-learning-engineer-personalization-4",
+      "source": "Other",
+      "description": "Machine Learning Engineer ... Flexible public holidays, swap days off according to your values and beliefs. Similar jobs. Data Engineer , Gen AI, Music.",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T18:41:52+00:00",
+      "fetched_at": "2026-04-30T20:45:58.588153+00:00"
+    },
+    {
+      "id": "8ac1ec43ce52",
+      "title": "Software Engineer III in United States | GitHub, Inc.",
+      "company": "GitHub, Inc.",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.github.careers/careers-home/jobs/5348?lang=en-us",
+      "source": "Other",
+      "description": "GitHub Careers Home is hiring a Software Engineer III in United States. Review all of the job details and apply today!",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T18:20:12+00:00",
+      "fetched_at": "2026-04-30T20:45:58.588290+00:00"
+    },
+    {
+      "id": "c14750a42a7c",
+      "title": "Job Application for Senior Full-Stack Software Engineer at DNSFilter - Greenhouse",
+      "company": "Dnsfilter",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/dnsfilter/jobs/5116133007?gh_jid=5116133007",
+      "source": "Greenhouse",
+      "description": "As a full-stack software engineer , you will work closely with our Engineering Organization team to modernize our application and convert it to our new ...",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T18:06:28+00:00",
+      "fetched_at": "2026-04-30T20:45:58.889255+00:00"
+    },
+    {
+      "id": "f8e2a7a9a6da",
+      "title": "John Crickett's Post - LinkedIn",
+      "company": "Unknown Company",
+      "role": "John Crickett's Post - LinkedIn",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/posts/johncrickett_if-you-want-to-become-a-better-software-engineer-activity-7455639624930103296-5_88",
+      "source": "LinkedIn",
+      "description": "If you want to become a better software engineer , you need to build software. Books, blogs, and tutorials are all great for learning that a tool, ...",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T17:47:05+00:00",
+      "fetched_at": "2026-04-30T20:45:58.889901+00:00"
+    },
+    {
+      "id": "9182366b7b35",
+      "title": "AI/ ML Engineer for Multidisciplinary Engineering Design-Associate Staff",
+      "company": "Associate Staff",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.ll.mit.edu/job/Lexington-AIML-Engineer-for-Multidisciplinary-Engineering-Design-Associate-Staff-MA-02420/1386765200/",
+      "source": "Other",
+      "description": "Lexington AI/ ML Engineer for Multidisciplinary Engineering Design-Associate Staff - MA, 02420.",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T17:45:47+00:00",
+      "fetched_at": "2026-04-30T20:45:58.588795+00:00"
+    },
+    {
+      "id": "6c36bcae5ac8",
+      "title": "Job Application for Software Engineer , Applications at CentralReach - Greenhouse",
+      "company": "Centralreach",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/centralreach/jobs/4236142009",
+      "source": "Greenhouse",
+      "description": "Software Engineer , Applications. Remote - US. Apply. CentralReach is a leading provider of autism and IDD care software for Applied Behavior Analysis ...",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T17:31:47+00:00",
+      "fetched_at": "2026-04-30T20:45:58.588893+00:00"
+    },
+    {
+      "id": "8702e4cdf7a8",
+      "title": "Software Engineer , Integrations @ Juicebox - Jobs",
+      "company": "Juicebox",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/juicebox/ac503cfb-e98b-4681-ae73-3dabce4d340c",
+      "source": "Ashby",
+      "description": "... Software Engineer , Integrations to build and own critical external integrations that help customers get value from Juicebox quickly and reliably ...",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T17:10:01+00:00",
+      "fetched_at": "2026-04-30T20:45:58.589035+00:00"
+    },
+    {
+      "id": "2ac636224590",
+      "title": "Software Engineer , PUNE, , INDIA | Global Payments Careers",
+      "company": "Global Payments Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.globalpayments.com/en/jobs/r0070779/software-engineer/",
+      "source": "Other",
+      "description": "Software Engineer . Back To Search Results. PUNE, , INDIA. Applications System Development; Full time; Apr 29 2026; Job ID: R0070779. Description.",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T17:05:37+00:00",
+      "fetched_at": "2026-04-30T20:45:58.589186+00:00"
+    },
     {
       "id": "b9fa87cf9762",
       "title": "Senior Data Engineer at Carrier",
@@ -45,6 +210,51 @@
       "date": "2026-04-30",
       "timestamp": "2026-04-30T16:15:34+00:00",
       "fetched_at": "2026-04-30T17:06:14.054597+00:00"
+    },
+    {
+      "id": "25626c2a370e",
+      "title": "Fullstack Lead Software Engineer - Java/Spring/Microservices - JPMorgan Chase",
+      "company": "Java/Spring/Microservices - JPMorgan Chase",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/210739980",
+      "source": "Other",
+      "description": "Fullstack Lead Software Engineer - Java/Spring/Microservices. Wilmington, DE, United States. Apply Now. Job Information. Job Identification 210739980 ...",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T16:14:01+00:00",
+      "fetched_at": "2026-04-30T20:45:58.589461+00:00"
+    },
+    {
+      "id": "5590a29b8c34",
+      "title": "Senior Software Engineer - Fixed Income Pricing - 18944 - Bloomberg",
+      "company": "Fixed Income Pricing - 18944 - Bloomberg",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://bloomberg.avature.net/careers/JobDetail/Senior-Software-Engineer-Fixed-Income-Pricing/18944",
+      "source": "Other",
+      "description": "Senior Software Engineer - Fixed Income Pricing. Location. New York. Business Area. Engineering and CTO. Ref #. 10050766. Description & Requirements.",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T16:12:03+00:00",
+      "fetched_at": "2026-04-30T20:45:58.589660+00:00"
+    },
+    {
+      "id": "e27808ea34ac",
+      "title": "Data Engineer Intern in Rockville, United States | Emmes Group",
+      "company": "Emmes Group",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.emmes.com/jobs/2940?lang=en-us",
+      "source": "Other",
+      "description": "Job Description. Overview. Data Engineer Intern. Location: US Remote. Veridix AI is the technology, data, and AI arm of the Emmes Group, ...",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T15:50:08+00:00",
+      "fetched_at": "2026-04-30T20:45:58.589771+00:00"
     },
     {
       "id": "f3f4b2ff0584",
@@ -75,6 +285,36 @@
       "date": "2026-04-30",
       "timestamp": "2026-04-30T15:12:43+00:00",
       "fetched_at": "2026-04-30T17:06:14.055258+00:00"
+    },
+    {
+      "id": "879b9a93394f",
+      "title": "Tesorio - Senior Full Stack Software Engineer - Lever",
+      "company": "Tesorio",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.lever.co/tesorio/ec16cdad-da35-4296-894c-8db131dc68ef/apply",
+      "source": "Lever",
+      "description": "Senior Full Stack Software Engineer . Remote - Latam Only. Engineering /. Full-time /. Remote. Submit your application. LinkedIn profile. Loading...",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T15:08:40+00:00",
+      "fetched_at": "2026-04-30T20:45:58.590227+00:00"
+    },
+    {
+      "id": "009e18f07b0f",
+      "title": "Data Engineer job - Experis USA - 396070",
+      "company": "Experis USA - 396070",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.experis.com/en/job/396070/data-engineer",
+      "source": "Other",
+      "description": "As a Data Engineer , you will be an integral part of the Data & Analytics Department supporting cross-functional teams. The ideal candidate will ...",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T14:56:33+00:00",
+      "fetched_at": "2026-04-30T20:45:58.590337+00:00"
     },
     {
       "id": "35c8b4d186a1",
