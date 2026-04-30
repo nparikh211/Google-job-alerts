@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-04-30T06:20:04.550569+00:00",
-  "total_jobs": 773,
+  "last_updated": "2026-04-30T09:55:01.023774+00:00",
+  "total_jobs": 782,
   "stats": {
-    "total_companies": 536,
+    "total_companies": 541,
     "total_roles": 27,
     "regions": {
-      "India": 431,
+      "India": 437,
       "Philippines": 97,
-      "Remote": 112,
+      "Remote": 115,
       "Unknown": 135
     },
     "sources": {
-      "Other": 601,
-      "Greenhouse": 40,
-      "Workday": 35,
+      "Other": 608,
+      "Greenhouse": 41,
+      "Workday": 36,
       "Ashby": 26,
       "LinkedIn": 26,
       "Breezy": 10,
@@ -32,6 +32,111 @@
   },
   "jobs": [
     {
+      "id": "f188b027c7cf",
+      "title": "DevOps Engineer - Glassbox",
+      "company": "Glassbox",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.glassbox.com/careers/4851133101/devops-engineer/norwich-remote/",
+      "source": "Other",
+      "description": "DevOps Engineer . Norwich - Remote - Engineering - Full-time - Intermediate. Refer a Friend. The Company. Glassbox's mission is to ...",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T09:20:20+00:00",
+      "fetched_at": "2026-04-30T09:55:00.698683+00:00"
+    },
+    {
+      "id": "121c1fe35e76",
+      "title": "Job Application for Senior Software Engineer II at Extend - Greenhouse",
+      "company": "Extend",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/extend/jobs/5984956004",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer II. Remote, US. Apply. About Extend: Extend is revolutionizing the post-purchase experience for retailers and their ...",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T08:16:01+00:00",
+      "fetched_at": "2026-04-30T09:55:00.698816+00:00"
+    },
+    {
+      "id": "089d1561466a",
+      "title": "The true cost of LLMs: PoV as a software engineer , using it daily. : r/BetterOffline - Reddit",
+      "company": "Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/BetterOffline/comments/1szigwj/the_true_cost_of_llms_pov_as_a_software_engineer/",
+      "source": "Other",
+      "description": "\" Senior Software Engineer : 200k p.a., including 120k p.a. of tokens!\" (take home pay, 80k.) I probably should have run the numbers a year ago, but ...",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T07:00:40+00:00",
+      "fetched_at": "2026-04-30T09:55:00.699043+00:00"
+    },
+    {
+      "id": "033fa89bf8c4",
+      "title": "Paylocity - Implementation Software Engineer",
+      "company": "Paylocity",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://2000recruiting.paylocity.com/Recruiting/Jobs/Details/44457",
+      "source": "Other",
+      "description": "The Implementation Software Engineer builds and maintains software solutions that power Paylocity's Implementation teams. This role sits at the ...",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T06:47:02+00:00",
+      "fetched_at": "2026-04-30T09:55:00.699222+00:00"
+    },
+    {
+      "id": "ef07cdcce091",
+      "title": "Senior Data Engineer - Jobs at Nucor",
+      "company": "Nucor",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.nucor.com/job/Charlotte-Senior-Data-Engineer-NC-28211/1386765300/",
+      "source": "Other",
+      "description": "Basic Job Functions: Nucor Business Technology (NBT) is seeking qualified applicants for the position of Senior Data Engineer . The Senior ...",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T05:56:53+00:00",
+      "fetched_at": "2026-04-30T09:55:00.699387+00:00"
+    },
+    {
+      "id": "0a1ef4c4a494",
+      "title": "Machine Learning Engineer - Gen AI - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200656735-3543/machine-learning-engineer-gen-ai?team=OPMFG",
+      "source": "Other",
+      "description": "Apply for a Machine Learning Engineer - Gen AI job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T05:56:25+00:00",
+      "fetched_at": "2026-04-30T09:55:00.699696+00:00"
+    },
+    {
+      "id": "4ce789136771",
+      "title": "Data Engineer -Senior II-1 in Chennai, Tamil N\u0101du | FedEx Careers",
+      "company": "Senior II-1 in Chennai, Tamil N\u0101du | FedEx Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.fedex.com/data-engineer-senior-ii-1/job/P25-334619-1?utm_source=CareerSiteOrganic",
+      "source": "Other",
+      "description": "Data Engineer -Senior II-1. Professional. Company: Federal Express Corporation AMEA; Category: Professional; Employment Type: Full Time; Worker Sub- ...",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T05:51:20+00:00",
+      "fetched_at": "2026-04-30T09:55:00.699914+00:00"
+    },
+    {
       "id": "211353b78c87",
       "title": "Data Engineer -Senior II-1 in Chennai, Tamil N\u0101du | FedEx Careers",
       "company": "Senior II-1 in Chennai, Tamil N\u0101du | FedEx Careers",
@@ -45,6 +150,21 @@
       "date": "2026-04-30",
       "timestamp": "2026-04-30T05:51:13+00:00",
       "fetched_at": "2026-04-30T06:20:04.544394+00:00"
+    },
+    {
+      "id": "0ad086f1898d",
+      "title": "FTS Platform Engineer - Sr. Messaging Engineer in Milwaukee, Wisconsin, United States of America",
+      "company": "FTS Platform Engineer",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.fiserv.com/us/en/job/R-10393664/FTS-Platform-Engineer-Sr-Messaging-Engineer",
+      "source": "Other",
+      "description": "FTS Platform Engineer - Sr. Messaging Engineer. Calling all ... Cybersecurity Network Cloud Engineer . Available in 5 locationsAvailable ...",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T05:11:18+00:00",
+      "fetched_at": "2026-04-30T09:55:00.700130+00:00"
     },
     {
       "id": "ee913a046b61",
@@ -180,6 +300,21 @@
       "date": "2026-04-30",
       "timestamp": "2026-04-30T01:41:32+00:00",
       "fetched_at": "2026-04-30T06:20:04.463942+00:00"
+    },
+    {
+      "id": "a0e3ff91cf92",
+      "title": "Senior Principal DevOps Engineer I - Myworkdayjobs.com",
+      "company": "Abcfinancial",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://abcfinancial.wd5.myworkdayjobs.com/abcfinancialservices/job/remote-united-states/senior-principal-devops-engineer-i_req-1274",
+      "source": "Workday",
+      "description": "BONUS SKILLS: Certified Kubernetes Administrator (CKA) or Certified Kubernetes Application Developer (CKAD). AWS Certified DevOps Engineer \u2013 ...",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T01:00:00+00:00",
+      "fetched_at": "2026-04-30T09:55:00.701190+00:00"
     },
     {
       "id": "a36e8b9bc7ce",
