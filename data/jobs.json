@@ -1,36 +1,246 @@
 {
-  "last_updated": "2026-04-29T20:47:18.350194+00:00",
-  "total_jobs": 740,
+  "last_updated": "2026-04-30T01:26:55.209196+00:00",
+  "total_jobs": 758,
   "stats": {
-    "total_companies": 516,
-    "total_roles": 26,
+    "total_companies": 528,
+    "total_roles": 27,
     "regions": {
-      "India": 409,
-      "Philippines": 91,
-      "Remote": 107,
+      "India": 425,
+      "Philippines": 92,
+      "Remote": 108,
       "Unknown": 135
     },
     "sources": {
-      "Other": 579,
+      "Other": 591,
       "Greenhouse": 38,
-      "Workday": 31,
-      "LinkedIn": 25,
-      "Ashby": 24,
+      "Workday": 33,
+      "LinkedIn": 26,
+      "Ashby": 25,
+      "Breezy": 10,
       "Lever": 10,
-      "Breezy": 9,
       "Indeed": 8,
       "iCIMS": 6,
-      "SmartRecruiters": 4,
+      "SmartRecruiters": 5,
       "Workable": 3,
       "Recruitee": 2,
       "Jobvite": 1
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-04-29"
+      "latest": "2026-04-30"
     }
   },
   "jobs": [
+    {
+      "id": "e86b95108fc4",
+      "title": "Data Engineer Job Details - Qualitest Careers",
+      "company": "Qualitest Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.qualitestgroup.com/job/Santa-Clara-Data-Engineer-CA-95054/55515744/",
+      "source": "Other",
+      "description": "We are looking for a Data Engineer to join our growing team in United States! Qualifications: Strong hands-on experience in Python and PySpark, with a ...",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T00:17:31+00:00",
+      "fetched_at": "2026-04-30T01:26:55.024046+00:00"
+    },
+    {
+      "id": "399609e21d77",
+      "title": "India, Lead PLatform Engineer II - 17266 - MetLife Careers",
+      "company": "17266 - MetLife Careers",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.metlifecareers.com/en_US/ml/JobDetail/Lead-Platform-Engineer-II/17266",
+      "source": "Other",
+      "description": "Description and Requirements. MGCC GG 12.2\u2013 Lead Platform Engineer II.",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T00:03:40+00:00",
+      "fetched_at": "2026-04-30T01:26:55.024251+00:00"
+    },
+    {
+      "id": "b62b3ce9f3d5",
+      "title": "Senior Software Engineer - Myworkdayjobs.com",
+      "company": "Prescryptive",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://prescryptive.wd503.myworkdayjobs.com/en-US/Prescryptive_Health_External/job/Senior-Software-Engineer_JR100130-1",
+      "source": "Workday",
+      "description": "Senior Software Engineer ... Who is Prescryptive? Prescryptive is the healthcare technology company enabling the direct access marketplace for ...",
+      "date": "2026-04-29",
+      "timestamp": "2026-04-29T23:32:28+00:00",
+      "fetched_at": "2026-04-30T01:26:55.024359+00:00"
+    },
+    {
+      "id": "4e02fc0c30ad",
+      "title": "Full Stack Engineer , AI Team - Avantos",
+      "company": "Avantos",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://avantos.breezy.hr/p/5c732d72a444-full-stack-engineer-ai-team/apply",
+      "source": "Breezy",
+      "description": "Full Stack Engineer , AI Team \u00b7 Saint Louis, MO - Hybrid (Remote and In Person) \u00b7 Full-Time \u00b7 Engineering.",
+      "date": "2026-04-29",
+      "timestamp": "2026-04-29T22:01:36+00:00",
+      "fetched_at": "2026-04-30T01:26:55.024490+00:00"
+    },
+    {
+      "id": "9e65b6816229",
+      "title": "Senior Software Engineer - Myworkdayjobs.com",
+      "company": "Fifththird",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Senior-Software-Engineer_R67627-1",
+      "source": "Workday",
+      "description": "... Senior Software Engineer At Fifth Third, we understand the importance ... Senior Platform Engineer - Fixed Income Trading. locations ...",
+      "date": "2026-04-29",
+      "timestamp": "2026-04-29T21:52:42+00:00",
+      "fetched_at": "2026-04-30T01:26:55.024587+00:00"
+    },
+    {
+      "id": "5c90fedab48e",
+      "title": "Software Engineer , Infrastructure, Geo Earth Engine \u2014 Google Careers",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/133268525148971718-software-engineer-infrastructure-geo-earth-engine",
+      "source": "Other",
+      "description": "Senior Software Engineer , Embedded Security, Silicon. Mountain View, CA, USA; San Diego, CA, USA \u00b7 Senior Software Engineer , Operations Research.",
+      "date": "2026-04-29",
+      "timestamp": "2026-04-29T21:51:02+00:00",
+      "fetched_at": "2026-04-30T01:26:55.024894+00:00"
+    },
+    {
+      "id": "0c2e6a32996d",
+      "title": "Software Engineer - App Store Discovery - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200660654-3577/software-engineer-app-store-discovery",
+      "source": "Other",
+      "description": "Apply for a Software Engineer - App Store Discovery job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-04-29",
+      "timestamp": "2026-04-29T21:43:47+00:00",
+      "fetched_at": "2026-04-30T01:26:55.025068+00:00"
+    },
+    {
+      "id": "df5bb3c2876c",
+      "title": "Frontend Engineer - Book of the Month - Career Page",
+      "company": "Book of the Month - Career Page",
+      "role": "Frontend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://bookofthemonth.applytojob.com/apply/wduSs8PH7y/Frontend-Engineer",
+      "source": "Other",
+      "description": "Frontend Engineer . New York, NY. Full Time. Engineering. Entry Level ... We are looking for a Frontend Software Engineer to design, develop, and ...",
+      "date": "2026-04-29",
+      "timestamp": "2026-04-29T20:58:02+00:00",
+      "fetched_at": "2026-04-30T01:26:55.025240+00:00"
+    },
+    {
+      "id": "3a49576b2ebc",
+      "title": "Senior Software Engineer (Python) \u2013 Fixed Income Assistant Vice President | Citi Careers",
+      "company": "Citi Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.citi.com/job/mississauga/senior-software-engineer-python-fixed-income-assistant-vice-president/287/94530474944",
+      "source": "Other",
+      "description": "Learn more about applying for Senior Software Engineer (Python) \u2013 Fixed Income Assistant Vice President at Citi. Learn more about potential ...",
+      "date": "2026-04-29",
+      "timestamp": "2026-04-29T20:52:31+00:00",
+      "fetched_at": "2026-04-30T01:26:55.025507+00:00"
+    },
+    {
+      "id": "d5db2497771c",
+      "title": "Managed Services - AI-Native Software Engineer - Senior Consultant Jobs in California | EY",
+      "company": "Managed Services",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://ey.jobs/locations/california/job-titles/managed-services-ai-native-software-engineer-senior-consultant/jobs/",
+      "source": "Other",
+      "description": "Managed Services - AI-Native Software Engineer - Senior Consultant Jobs in California, updated and verified daily by DirectEmployers Association.",
+      "date": "2026-04-29",
+      "timestamp": "2026-04-29T20:50:21+00:00",
+      "fetched_at": "2026-04-30T01:26:55.203722+00:00"
+    },
+    {
+      "id": "ed3f34aafea5",
+      "title": "Software Engineer (Java, AWS) - Tential",
+      "company": "Tential",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://wordpress.tential.com/jobs/software-engineer-java-aws-19022/",
+      "source": "Other",
+      "description": "Senior Full Stack Engineer . Location: Rockville, Maryland. Category ... AI Software Engineer Position Summary We are seeking an AI Software Engineer ...",
+      "date": "2026-04-29",
+      "timestamp": "2026-04-29T20:47:45+00:00",
+      "fetched_at": "2026-04-30T01:26:55.025658+00:00"
+    },
+    {
+      "id": "9625d88ad07d",
+      "title": "Senior Software Engineer - Pearson.jobs",
+      "company": "Pearson.jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://pearson.jobs/virtual-ind/senior-software-engineer/21A153224EE3480C9B23DE99AA581267/job/",
+      "source": "Other",
+      "description": "Req ID: 23782. Senior Software Engineer . We are looking for a skilled Backend Engineer with expertise in Java, Spring Boot, Python, and Go Lang ...",
+      "date": "2026-04-29",
+      "timestamp": "2026-04-29T20:34:56+00:00",
+      "fetched_at": "2026-04-30T01:26:55.025887+00:00"
+    },
+    {
+      "id": "6c25f8465e8c",
+      "title": "Machine Learning Engineer , Growth @ Whatnot - Jobs",
+      "company": "Whatnot",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/whatnot/e3e7c019-4657-47a9-a9f3-123d2cd1a75e",
+      "source": "Ashby",
+      "description": "... Machine Learning Engineer to accelerate buyer growth at Whatnot through intelligent, data-driven experiences. As the first ML engineer , you'll ...",
+      "date": "2026-04-29",
+      "timestamp": "2026-04-29T20:29:47+00:00",
+      "fetched_at": "2026-04-30T01:26:55.025998+00:00"
+    },
+    {
+      "id": "0ed9f7955683",
+      "title": "Software Engineer , Finance Applications - Careers - Block",
+      "company": "Careers - Block",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://block.xyz/careers/jobs/4888459008",
+      "source": "Other",
+      "description": "As a Software Engineer , you'll design and build the backend services, integrations, and workflow engines that keep the foundational financial ...",
+      "date": "2026-04-29",
+      "timestamp": "2026-04-29T20:27:33+00:00",
+      "fetched_at": "2026-04-30T01:26:55.026123+00:00"
+    },
     {
       "id": "2e598fb5924b",
       "title": "AI Engineer Job Details | Duke Careers",
@@ -47,6 +257,21 @@
       "fetched_at": "2026-04-29T20:47:18.264161+00:00"
     },
     {
+      "id": "ae6738b26db1",
+      "title": "Marina Petrovi\u0107's Post - LinkedIn",
+      "company": "Unknown Company",
+      "role": "Marina Petrovi\u0107's Post - LinkedIn",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/decodebymarinapetrovic_if-you-are-a-software-engineer-laid-off-or-activity-7455237445958336513-rOEU",
+      "source": "LinkedIn",
+      "description": "If you are a software engineer laid off or thinking about making a ... Woiny T. Machine Learning Engineer @ AI/ML GenAI | Data Science, MBA. 5h.",
+      "date": "2026-04-29",
+      "timestamp": "2026-04-29T20:08:57+00:00",
+      "fetched_at": "2026-04-30T01:26:55.027127+00:00"
+    },
+    {
       "id": "44a3b7c7c842",
       "title": "Re-training as a software engineer ? : r/irishpersonalfinance - Reddit",
       "company": "Reddit",
@@ -60,6 +285,51 @@
       "date": "2026-04-29",
       "timestamp": "2026-04-29T19:59:37+00:00",
       "fetched_at": "2026-04-29T20:47:18.264419+00:00"
+    },
+    {
+      "id": "cc8fa02c2fa8",
+      "title": "Senior Data Engineer - MD Anderson Cancer Center Careers",
+      "company": "MD Anderson Cancer Center Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://mdanderson.referrals.selectminds.com/jobs/senior-data-engineer-75052",
+      "source": "Other",
+      "description": "The Senior Data Engineer role sits within the Enterprise Data Engineering & Analytics Department and plays a critical part in operationalizing...",
+      "date": "2026-04-29",
+      "timestamp": "2026-04-29T19:54:02+00:00",
+      "fetched_at": "2026-04-30T01:26:55.027479+00:00"
+    },
+    {
+      "id": "1aa43f87afb7",
+      "title": "City of New York Data Engineer | SmartRecruiters",
+      "company": "Cityofnewyork",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.smartrecruiters.com/CityOfNewYork/3743990012868246-data-engineer",
+      "source": "SmartRecruiters",
+      "description": "Data Engineer . New York City, NY; Full-time. Agency: TAXI & LIMOUSINE COMMISSION; Job Category: Policy, Research & Analysis; Compensation: USD 98,159 ...",
+      "date": "2026-04-29",
+      "timestamp": "2026-04-29T19:38:13+00:00",
+      "fetched_at": "2026-04-30T01:26:55.027583+00:00"
+    },
+    {
+      "id": "a3718e2ac506",
+      "title": "Data Engineer I Job Details - AGCO Careers",
+      "company": "AGCO Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.agcocorp.com/job/Pune-Data-Engineer-I-MH/1367337100/",
+      "source": "Other",
+      "description": "AGCO is looking to hire candidates for the position of Data Engineer . The Data Engineer I role in Analytics and Automation team is responsible for ...",
+      "date": "2026-04-29",
+      "timestamp": "2026-04-29T19:34:16+00:00",
+      "fetched_at": "2026-04-30T01:26:55.027721+00:00"
     },
     {
       "id": "693a90a4a27e",
