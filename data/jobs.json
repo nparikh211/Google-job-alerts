@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-04-30T09:55:01.023774+00:00",
-  "total_jobs": 782,
+  "last_updated": "2026-04-30T13:13:20.397858+00:00",
+  "total_jobs": 788,
   "stats": {
-    "total_companies": 541,
+    "total_companies": 543,
     "total_roles": 27,
     "regions": {
-      "India": 437,
+      "India": 442,
       "Philippines": 97,
-      "Remote": 115,
+      "Remote": 116,
       "Unknown": 135
     },
     "sources": {
-      "Other": 608,
+      "Other": 613,
       "Greenhouse": 41,
       "Workday": 36,
       "Ashby": 26,
@@ -19,7 +19,7 @@
       "Breezy": 10,
       "Lever": 10,
       "Indeed": 8,
-      "iCIMS": 6,
+      "iCIMS": 7,
       "SmartRecruiters": 5,
       "Workable": 3,
       "Recruitee": 2,
@@ -31,6 +31,66 @@
     }
   },
   "jobs": [
+    {
+      "id": "823775cdf197",
+      "title": "What's the actual appeal of working as a software engineer at the big banks? - Reddit",
+      "company": "the big banks?",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/auscorp/comments/1szp7pw/whats_the_actual_appeal_of_working_as_a_software/",
+      "source": "Other",
+      "description": "What's the actual appeal of working as a software engineer at the big banks? ... Why are so many software engineers still gunning for roles at the big ...",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T12:03:02+00:00",
+      "fetched_at": "2026-04-30T13:13:19.080770+00:00"
+    },
+    {
+      "id": "4bcda3424fdc",
+      "title": "Staff Software Engineer , Google Global Networking WANForms",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.google.com/jobs/results/77207098718331590-staff-software-engineer/",
+      "source": "Other",
+      "description": "Software Engineer , Mobile iOS, Maps. San Francisco, CA, USA; Mountain View, CA, USA \u00b7 Senior Software Engineer , Performance Optimizations for LLM.",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T11:04:17+00:00",
+      "fetched_at": "2026-04-30T13:13:19.081298+00:00"
+    },
+    {
+      "id": "a9b66f5c7798",
+      "title": "Machine Learning Engineer , Firefly Services - Adobe Careers",
+      "company": "Adobe Careers",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.adobe.com/us/en/job/R168300/Machine-Learning-Engineer-Firefly-Services",
+      "source": "Other",
+      "description": "Apply for Machine Learning Engineer , Firefly Services job with Adobe in Seattle, Washington, United States of America. Engineering and Product at ...",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T10:24:53+00:00",
+      "fetched_at": "2026-04-30T13:13:19.081491+00:00"
+    },
+    {
+      "id": "99a74cd86ece",
+      "title": "Senior Software Engineer , Software Developer Foundation - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200660873-0836/senior-software-engineer-software-developer-foundation?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Senior Software Engineer , Software Developer Foundation job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T10:01:38+00:00",
+      "fetched_at": "2026-04-30T13:13:19.081835+00:00"
+    },
     {
       "id": "f188b027c7cf",
       "title": "DevOps Engineer - Glassbox",
@@ -47,6 +107,21 @@
       "fetched_at": "2026-04-30T09:55:00.698683+00:00"
     },
     {
+      "id": "3e2f97bfbdf9",
+      "title": "Sr. Software Engineer , ML Platform, tvScientific - Pinterest Careers",
+      "company": "Pinterest Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.pinterestcareers.com/jobs/7642249/sr-software-engineer-ml-platform-tvscientific/",
+      "source": "Other",
+      "description": "Software Engineer , ML Platform, tvScientific. San Francisco / Remote ... We are looking for an experienced ML Platform Engineer to join a team ...",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T08:19:57+00:00",
+      "fetched_at": "2026-04-30T13:13:20.391988+00:00"
+    },
+    {
       "id": "121c1fe35e76",
       "title": "Job Application for Senior Software Engineer II at Extend - Greenhouse",
       "company": "Extend",
@@ -60,6 +135,21 @@
       "date": "2026-04-30",
       "timestamp": "2026-04-30T08:16:01+00:00",
       "fetched_at": "2026-04-30T09:55:00.698816+00:00"
+    },
+    {
+      "id": "49acf3dfc960",
+      "title": "Backend Engineer Intern in New York, New York | Careers at Cadent - ICIMS",
+      "company": "Cadent",
+      "role": "Backend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers-cadent.icims.com/jobs/1359/backend-engineer-intern/job",
+      "source": "iCIMS",
+      "description": "Cadent is now hiring a Backend Engineer Intern in New York, New York. Review all of the job details and apply today!",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T08:14:55+00:00",
+      "fetched_at": "2026-04-30T13:13:19.082242+00:00"
     },
     {
       "id": "089d1561466a",
