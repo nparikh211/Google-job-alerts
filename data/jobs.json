@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-04-30T20:45:58.895485+00:00",
-  "total_jobs": 813,
+  "last_updated": "2026-05-01T01:29:44.617568+00:00",
+  "total_jobs": 828,
   "stats": {
-    "total_companies": 559,
+    "total_companies": 567,
     "total_roles": 27,
     "regions": {
-      "India": 461,
-      "Philippines": 99,
-      "Remote": 120,
+      "India": 471,
+      "Philippines": 101,
+      "Remote": 123,
       "Unknown": 135
     },
     "sources": {
-      "Other": 631,
+      "Other": 642,
       "Greenhouse": 43,
-      "Workday": 37,
-      "LinkedIn": 27,
+      "Workday": 38,
+      "LinkedIn": 28,
       "Ashby": 27,
+      "Breezy": 12,
       "Lever": 11,
-      "Breezy": 10,
       "iCIMS": 8,
       "Indeed": 8,
       "SmartRecruiters": 5,
@@ -27,10 +27,205 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-04-30"
+      "latest": "2026-05-01"
     }
   },
   "jobs": [
+    {
+      "id": "37b2c826610d",
+      "title": "United States, Junior Software Engineer - 17311 - MetLife Careers",
+      "company": "17311 - MetLife Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.metlifecareers.com/en_US/ml/JobDetail/Jr-Software-Platform-Engineer-CFT/17311",
+      "source": "Other",
+      "description": "Junior Software Engineer . General Information. Location. Cary, North Carolina ... Software / Platform Engineer is responsible for supporting the ...",
+      "date": "2026-05-01",
+      "timestamp": "2026-05-01T00:19:27+00:00",
+      "fetched_at": "2026-05-01T01:29:44.610903+00:00"
+    },
+    {
+      "id": "b46862559e1e",
+      "title": "Senior Software Engineer - Myworkdayjobs.com",
+      "company": "Ancestry",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote---US-Only/Senior-Software-Engineer_R003346",
+      "source": "Workday",
+      "description": "Senior Software Engineer \u00b7 5+ years of experience with JavaScript / Node.js and frontend technologies such as HTML, CSS, and frontend frameworks like ...",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T23:39:09+00:00",
+      "fetched_at": "2026-05-01T01:29:44.432056+00:00"
+    },
+    {
+      "id": "999fb99c9d0c",
+      "title": "Data Engineer - Book of the Month - Career Page - JazzHR",
+      "company": "Book of the Month - Career Page - JazzHR",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://bookofthemonth.applytojob.com/apply/H3LCYFvhXy/Data-Engineer",
+      "source": "Other",
+      "description": "We are looking for a highly organized Data Engineer to facilitate data delivery and reporting across the business. Our user base generates millions of ...",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T21:48:41+00:00",
+      "fetched_at": "2026-05-01T01:29:44.433536+00:00"
+    },
+    {
+      "id": "4525c8940c3a",
+      "title": "Senior Software Engineer , Atlas Enablement - MongoDB",
+      "company": "MongoDB",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.mongodb.com/careers/jobs/7862628",
+      "source": "Other",
+      "description": "Senior Software Engineer , Atlas Enablement. United States. The Atlas Enablement team is looking for a software engineer to help us build the next ...",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T21:40:37+00:00",
+      "fetched_at": "2026-05-01T01:29:44.433682+00:00"
+    },
+    {
+      "id": "88cbff4b461e",
+      "title": "Senior Data Engineer Job Details | Grainger Businesses",
+      "company": "Grainger Businesses",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.grainger.com/job/CHICAGO-Senior-Data-Engineer-IL-60661-4555/1386717000/",
+      "source": "Other",
+      "description": "Grainger is seeking a Senior Data Engineer for our Project Management Operations (PMO) Analytics team. The PMO Analytics team's primary mission is ...",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T21:27:32+00:00",
+      "fetched_at": "2026-05-01T01:29:44.433966+00:00"
+    },
+    {
+      "id": "187097dfe4fd",
+      "title": "Machine Learning Engineer Principal in San Diego, California, United States - SAIC Careers",
+      "company": "SAIC Careers",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.saic.com/jobs/17679833-machine-learning-engineer-principal",
+      "source": "Other",
+      "description": "Job Description. Description. SAIC is seeking an AI/ Machine Learning Engineer to support the Enterprise Center of Excellence (ECOE) in developing ...",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T20:36:20+00:00",
+      "fetched_at": "2026-05-01T01:29:44.434609+00:00"
+    },
+    {
+      "id": "f5ae14678156",
+      "title": "Software Engineer - SLC",
+      "company": "Solen Software Group",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://solen-software-group.breezy.hr/p/f3ad3542ff5b-software-engineer-slc/apply",
+      "source": "Breezy",
+      "description": "Software Engineer - SLC. Salt Lake City, UT - Hybrid (Remote and In Person); Full-Time. Job Openings \u00b7 Software Engineer - SLC; Apply. Upload Resume*.",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T20:22:44+00:00",
+      "fetched_at": "2026-05-01T01:29:44.434749+00:00"
+    },
+    {
+      "id": "ae387423c25e",
+      "title": "AI Engineer @ NeuBird.ai | Mayfield Job Board - Getro",
+      "company": "NeuBird.ai",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://mayfield.getro.com/companies/neubird-ai-2/jobs/76803600-ai-engineer",
+      "source": "Other",
+      "description": "Job Description:As an AI engineer , you will be involved in model training, deployment, and maintenance. You will work with RLHF and fine-tuning of ...",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T20:19:54+00:00",
+      "fetched_at": "2026-05-01T01:29:44.434910+00:00"
+    },
+    {
+      "id": "57711c020c16",
+      "title": "AI/ ML Engineer - Shared Services Automation-Remote - Sign in",
+      "company": "Shared Services Automation-Remote - Sign in",
+      "role": "ML Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Mayo-US/job/381616",
+      "source": "Other",
+      "description": "Partner with Solution Architects and the Senior AI/ ML Engineer on architecture alignment, reuse, and standards. ... Azure AI Engineer , AWS ML Specialty, ...",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T20:17:27+00:00",
+      "fetched_at": "2026-05-01T01:29:44.435135+00:00"
+    },
+    {
+      "id": "4c21aefc92ea",
+      "title": "Software Engineer - Systems - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200659674-3543/software-engineer-systems",
+      "source": "Other",
+      "description": "Apply for a Software Engineer - Systems job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T20:12:13+00:00",
+      "fetched_at": "2026-05-01T01:29:44.435294+00:00"
+    },
+    {
+      "id": "3bf4fcca580c",
+      "title": "Software Engineer - CPD (SME) - Rubrik",
+      "company": "CPD (SME) - Rubrik",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.rubrik.com/company/careers/departments/job.7844785",
+      "source": "Other",
+      "description": "Job Summary. Location : Bangalore About Team & About Role: As a Software Engineer \u2014 SMB Specialist in ...",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T20:07:19+00:00",
+      "fetched_at": "2026-05-01T01:29:44.435435+00:00"
+    },
+    {
+      "id": "3dce0c6e9dd8",
+      "title": "Software Engineer - SLC at Solen Software Group",
+      "company": "Solen Software Group",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://solen-software-group.breezy.hr/p/f3ad3542ff5b-software-engineer-slc",
+      "source": "Breezy",
+      "description": "As an Software Engineer in our Utah office, you will contribute to building standardized code, tools, and best practices that make our portfolio ...",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T19:55:36+00:00",
+      "fetched_at": "2026-05-01T01:29:44.435552+00:00"
+    },
+    {
+      "id": "05620dac086f",
+      "title": "Senior ML Engineer , Apple Ray, Apple Data Platform - Jobs - Careers at Apple | Reza Shiftehfar",
+      "company": "Apple",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/reza-shiftehfar-39301b6_senior-ml-engineer-apple-ray-apple-data-activity-7455667849953579008-3JCZ",
+      "source": "LinkedIn",
+      "description": "We're hiring a Senior ML Engineer to join the Apple Cloud AI Platform team to work on training and inference using Ray.",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T19:46:01+00:00",
+      "fetched_at": "2026-05-01T01:29:44.435891+00:00"
+    },
     {
       "id": "d59051078c07",
       "title": "Software Engineer - Applications - Jobs - Careers at Apple",
@@ -62,6 +257,21 @@
       "fetched_at": "2026-04-30T20:45:58.587476+00:00"
     },
     {
+      "id": "3292042d18a6",
+      "title": "Software Engineer in Jerusalem, Israel | at Clarivate",
+      "company": "Clarivate",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.clarivate.com/job/JREQ135458/Software-Engineer",
+      "source": "Other",
+      "description": "Software Engineer . We are looking for a Junior Software Developer to join our UI/UX development team in Jerusalem. This is an excellent opportunity ...",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T18:57:03+00:00",
+      "fetched_at": "2026-05-01T01:29:44.613538+00:00"
+    },
+    {
       "id": "ab3bb4a7495f",
       "title": "10 Steps Roadmap to become AI DevOps Engineer in 2026 | Beginner Friendly - YouTube",
       "company": "Beginner Friendly - YouTube",
@@ -90,6 +300,21 @@
       "date": "2026-04-30",
       "timestamp": "2026-04-30T18:41:52+00:00",
       "fetched_at": "2026-04-30T20:45:58.588153+00:00"
+    },
+    {
+      "id": "8208b184ee33",
+      "title": "Software Engineer - Careers at Moody's",
+      "company": "Moody's",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.moodys.com/en/job/land-berlin/software-engineer/49841/94510266448",
+      "source": "Other",
+      "description": "Software Engineer . Berlin. Apply now. Save job. Posted: 04/29/2026. Job ... Data Engineer -Data Platform & Analytics. Boca Raton, Florida. Save for ...",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T18:38:15+00:00",
+      "fetched_at": "2026-05-01T01:29:44.436813+00:00"
     },
     {
       "id": "8ac1ec43ce52",
