@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-05-02T08:55:02.762978+00:00",
-  "total_jobs": 907,
+  "last_updated": "2026-05-02T12:38:20.764640+00:00",
+  "total_jobs": 913,
   "stats": {
-    "total_companies": 608,
+    "total_companies": 612,
     "total_roles": 29,
     "regions": {
       "India": 520,
-      "Philippines": 121,
+      "Philippines": 127,
       "Remote": 134,
       "Unknown": 135
     },
     "sources": {
-      "Other": 705,
+      "Other": 710,
       "Greenhouse": 48,
-      "Workday": 39,
+      "Workday": 40,
       "LinkedIn": 32,
       "Ashby": 28,
       "Lever": 12,
@@ -32,6 +32,66 @@
   },
   "jobs": [
     {
+      "id": "63d98b1a9c7e",
+      "title": "Software Engineer I - Myworkdayjobs.com",
+      "company": "Stewart",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://stewart.wd1.myworkdayjobs.com/External/job/USA-MI-Plymouth---40600-Ann-Arbor-Rd/Software-Engineer-I_JR107742",
+      "source": "Workday",
+      "description": "Software Engineer I ... At Stewart, we know that success begins with great people. As a Stewart employee, you'll be joining a company that was named a ...",
+      "date": "2026-05-02",
+      "timestamp": "2026-05-02T09:17:23+00:00",
+      "fetched_at": "2026-05-02T12:38:20.757475+00:00"
+    },
+    {
+      "id": "8c443d313631",
+      "title": "Software Engineer - HigherEdJobs",
+      "company": "HigherEdJobs",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.higheredjobs.com/details.cfm?JobCode=179432527",
+      "source": "Other",
+      "description": "Software Engineer \u00b7 Work in the always evolving and growing field of advanced high speed computer networking, frequently taking on new challenges and ...",
+      "date": "2026-05-02",
+      "timestamp": "2026-05-02T08:48:42+00:00",
+      "fetched_at": "2026-05-02T12:38:20.757772+00:00"
+    },
+    {
+      "id": "402d43748197",
+      "title": "Databricks Data Engineer - Manager - Consulting - Miami Jobs in New Jersey | EY",
+      "company": "Databricks Data Engineer",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://ey.jobs/locations/new-jersey/job-titles/databricks-data-engineer-manager-consulting-miami/jobs/?vs=5",
+      "source": "Other",
+      "description": "Databricks Data Engineer - Manager - Consulting - Miami Jobs in New Jersey, updated and verified daily by DirectEmployers Association.",
+      "date": "2026-05-02",
+      "timestamp": "2026-05-02T08:02:20+00:00",
+      "fetched_at": "2026-05-02T12:38:20.758019+00:00"
+    },
+    {
+      "id": "96244a85d7f8",
+      "title": "Data Engineer - Knowledge Graph - Point72 Careers",
+      "company": "Knowledge Graph - Point72 Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.point72.com/CSJobDetail?jobName=data-engineer-knowledge-graph&jobCode=IVS-0014838",
+      "source": "Other",
+      "description": "What you'll do. As a Data Engineer , you will help leverage knowledge graphs that connect companies, industries, and insights about the broader economy ...",
+      "date": "2026-05-02",
+      "timestamp": "2026-05-02T06:50:51+00:00",
+      "fetched_at": "2026-05-02T12:38:20.758323+00:00"
+    },
+    {
       "id": "cce7877a1ef3",
       "title": "Lead Software Engineer , Full Stack (Enterprise Platforms Technology) - Capital One Career",
       "company": "Capital One Career",
@@ -45,6 +105,21 @@
       "date": "2026-05-02",
       "timestamp": "2026-05-02T04:14:35+00:00",
       "fetched_at": "2026-05-02T05:59:02.418821+00:00"
+    },
+    {
+      "id": "3cc8000bff48",
+      "title": "Consultant, Site Reliability Engineer - Careers at Nationwide",
+      "company": "Nationwide",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.nationwide.com/consultant-site-reliability-engineer/job/9BE6E3F9F056603A5E2593F53BB68784",
+      "source": "Other",
+      "description": "Join Nationwide in Columbus, OH! Apply for the Consultant, Site Reliability Engineer ... Certificates like AWS Certified DevOps Engineer , AWS Certified ...",
+      "date": "2026-05-02",
+      "timestamp": "2026-05-02T03:16:54+00:00",
+      "fetched_at": "2026-05-02T12:38:20.758912+00:00"
     },
     {
       "id": "878f6381667a",
@@ -180,6 +255,21 @@
       "date": "2026-05-01",
       "timestamp": "2026-05-01T22:47:28+00:00",
       "fetched_at": "2026-05-02T01:21:00.062266+00:00"
+    },
+    {
+      "id": "0b7e006d5967",
+      "title": "Senior Software Engineer - Full-Stack in Multiple Locations | Viasat, Inc.",
+      "company": "Full-Stack in Multiple Locations | Viasat, Inc.",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.viasat.com/diversity-event-minority/jobs/5799?lang=en-us",
+      "source": "Other",
+      "description": "Test - DEI Event - Minority Tag is hiring a Senior Software Engineer - Full-Stack in Multiple Locations. Review all of the job details and apply ...",
+      "date": "2026-05-01",
+      "timestamp": "2026-05-01T22:19:24+00:00",
+      "fetched_at": "2026-05-02T12:38:20.760414+00:00"
     },
     {
       "id": "86bf3c0863d9",
