@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-05-02T16:33:11.313513+00:00",
-  "total_jobs": 919,
+  "last_updated": "2026-05-02T20:27:45.817878+00:00",
+  "total_jobs": 933,
   "stats": {
-    "total_companies": 616,
-    "total_roles": 29,
+    "total_companies": 622,
+    "total_roles": 30,
     "regions": {
-      "India": 520,
-      "Philippines": 132,
+      "India": 529,
+      "Philippines": 137,
       "Remote": 135,
       "Unknown": 135
     },
     "sources": {
-      "Other": 715,
-      "Greenhouse": 49,
+      "Other": 726,
+      "Greenhouse": 50,
       "Workday": 40,
-      "LinkedIn": 32,
-      "Ashby": 28,
+      "LinkedIn": 33,
+      "Ashby": 29,
       "Lever": 12,
       "Breezy": 12,
       "iCIMS": 10,
@@ -32,6 +32,66 @@
   },
   "jobs": [
     {
+      "id": "634f02eee304",
+      "title": "Is it possible to become a machine learning engineer from WGU's compsci degree? - Reddit",
+      "company": "Reddit",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/WGU/comments/1t19slu/is_it_possible_to_become_a_machine_learning/",
+      "source": "Other",
+      "description": "Yeah, you can become a machine learning engineer with a compsci degree from WGU. Just make sure to add relevant projects and maybe take some ...",
+      "date": "2026-05-02",
+      "timestamp": "2026-05-02T19:08:22+00:00",
+      "fetched_at": "2026-05-02T20:27:45.594906+00:00"
+    },
+    {
+      "id": "893a4b00627e",
+      "title": "Unrealistic Day in the Life as an Amazon Software Engineer - YouTube",
+      "company": "YouTube",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.youtube.com/watch?v=IdBazOMnPI0",
+      "source": "Other",
+      "description": "come spend a rare day with me as a software engineer in big tech where i go to work to not work. we're not just glued to our monitors all the time ...",
+      "date": "2026-05-02",
+      "timestamp": "2026-05-02T18:42:30+00:00",
+      "fetched_at": "2026-05-02T20:27:45.595220+00:00"
+    },
+    {
+      "id": "023b06411800",
+      "title": "Gyani Kumari's Post - LinkedIn",
+      "company": "Unknown Company",
+      "role": "Gyani Kumari's Post - LinkedIn",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/posts/gyani-kumari-102002_happy-to-share-that-ive-been-promoted-to-activity-7456358507534135298-BB6i",
+      "source": "LinkedIn",
+      "description": "Happy to share that I've been promoted to Software Engineer III at Google. The best part of this journey has been the constant learning curve.",
+      "date": "2026-05-02",
+      "timestamp": "2026-05-02T18:23:09+00:00",
+      "fetched_at": "2026-05-02T20:27:45.810471+00:00"
+    },
+    {
+      "id": "58d779f45fc2",
+      "title": "Senior Backend Engineer @ Archive - Jobs",
+      "company": "Archive",
+      "role": "Backend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/archive/f0b56e34-56f2-4100-9ce6-8f7c7c1a9d2c",
+      "source": "Ashby",
+      "description": "... Backend Engineer on our Data Team you will design and build the data ... platform engineer - Strong proficiency in Python and/or TypeScript ...",
+      "date": "2026-05-02",
+      "timestamp": "2026-05-02T17:12:04+00:00",
+      "fetched_at": "2026-05-02T20:27:45.595329+00:00"
+    },
+    {
       "id": "373536470933",
       "title": "Senior Software Engineer , Monitoring & Alerting - Snowflake Careers",
       "company": "Snowflake Careers",
@@ -45,6 +105,21 @@
       "date": "2026-05-02",
       "timestamp": "2026-05-02T15:34:25+00:00",
       "fetched_at": "2026-05-02T16:33:11.306236+00:00"
+    },
+    {
+      "id": "7dc6112b341a",
+      "title": "Cloud Engineer , Senior - - 123942 - Booz | Allen | Hamilton \u00ae - Careers",
+      "company": "- 123942 - Booz | Allen | Hamilton \u00ae - Careers",
+      "role": "Cloud Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.boozallen.com/jobs/JobDetail/Huntsville-Cloud-Engineer-Senior-R0239111/123942",
+      "source": "Other",
+      "description": "Cloud Engineer , Senior. The Opportunity: Manage, administer, support, and enhance cloud environments, ensuring continuous improvement and rapid ...",
+      "date": "2026-05-02",
+      "timestamp": "2026-05-02T14:33:55+00:00",
+      "fetched_at": "2026-05-02T20:27:45.596251+00:00"
     },
     {
       "id": "b08b0cfd34a2",
@@ -77,6 +152,36 @@
       "fetched_at": "2026-05-02T16:33:11.306563+00:00"
     },
     {
+      "id": "52245ff415a7",
+      "title": "Applied AI Engineer - Fundamental Equity Tech Investing Team at BlackRock",
+      "company": "BlackRock",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.blackrock.com/job/san-francisco/applied-ai-engineer-fundamental-equity-tech-investing-team/45831/94607448352",
+      "source": "Other",
+      "description": "Applied AI Engineer - Fundamental Equity Tech Investing Team. Location: San Francisco, California Team: Data Science Job Requisition #: ...",
+      "date": "2026-05-02",
+      "timestamp": "2026-05-02T11:51:40+00:00",
+      "fetched_at": "2026-05-02T20:27:45.596760+00:00"
+    },
+    {
+      "id": "86b80ac8b040",
+      "title": "Sr. Data Engineer , Westlake, Texas | Fidelity TalentSource",
+      "company": "Fidelity TalentSource",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.fidelitytalentsource.com/job-search/180954/sr-data-engineer/?job-id=180954",
+      "source": "Other",
+      "description": "As a Senior Data Engineer at Fidelity Investments, you will be at the forefront of designing, building, and maintaining our analytics platform for ...",
+      "date": "2026-05-02",
+      "timestamp": "2026-05-02T11:39:56+00:00",
+      "fetched_at": "2026-05-02T20:27:45.596923+00:00"
+    },
+    {
       "id": "4e96d2523cfb",
       "title": "Platform Engineer , Senior - - 123555 - Booz | Allen | Hamilton \u00ae - Careers",
       "company": "- 123555 - Booz | Allen | Hamilton \u00ae - Careers",
@@ -105,6 +210,21 @@
       "date": "2026-05-02",
       "timestamp": "2026-05-02T09:43:18+00:00",
       "fetched_at": "2026-05-02T16:33:11.306981+00:00"
+    },
+    {
+      "id": "53f4060c9754",
+      "title": "Job Application for AI Engineer at Cargomatic - Greenhouse",
+      "company": "Cargomatic",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/cargomatic/jobs/5207803008",
+      "source": "Greenhouse",
+      "description": "AI Engineer Location: San Francisco, CA, in-office. Compensation: 150,000 \u2013 $210,000. Company: Cargomatic, Inc.",
+      "date": "2026-05-02",
+      "timestamp": "2026-05-02T09:35:23+00:00",
+      "fetched_at": "2026-05-02T20:27:45.812266+00:00"
     },
     {
       "id": "63d98b1a9c7e",
@@ -137,6 +257,21 @@
       "fetched_at": "2026-05-02T12:38:20.757772+00:00"
     },
     {
+      "id": "9b1933421d44",
+      "title": "Databricks Data Engineer - Manager - Consulting - Miami Job in Trenton, NJ | EY - Jobs",
+      "company": "Databricks Data Engineer",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ey.jobs/locations/trenton-nj/job-titles/databricks-data-engineer-manager-consulting-miami/jobs/?vs=5",
+      "source": "Other",
+      "description": "Databricks Data Engineer - Manager - Consulting - Miami Job in Trenton, NJ, updated and verified daily by DirectEmployers Association.",
+      "date": "2026-05-02",
+      "timestamp": "2026-05-02T08:47:53+00:00",
+      "fetched_at": "2026-05-02T20:27:45.597428+00:00"
+    },
+    {
       "id": "402d43748197",
       "title": "Databricks Data Engineer - Manager - Consulting - Miami Jobs in New Jersey | EY",
       "company": "Databricks Data Engineer",
@@ -150,6 +285,51 @@
       "date": "2026-05-02",
       "timestamp": "2026-05-02T08:02:20+00:00",
       "fetched_at": "2026-05-02T12:38:20.758019+00:00"
+    },
+    {
+      "id": "b8902466cbd5",
+      "title": "Databricks Data Engineer - Manager - Consulting - Miami Jobs in Florida | EY",
+      "company": "Databricks Data Engineer",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://ey.jobs/locations/florida/job-titles/databricks-data-engineer-manager-consulting-miami/jobs/?vs=5",
+      "source": "Other",
+      "description": "Databricks Data Engineer - Manager - Consulting - Miami Jobs in Florida, updated and verified daily by DirectEmployers Association.",
+      "date": "2026-05-02",
+      "timestamp": "2026-05-02T08:00:03+00:00",
+      "fetched_at": "2026-05-02T20:27:45.812891+00:00"
+    },
+    {
+      "id": "2198ee0af75d",
+      "title": "Databricks Data Engineer - Manager - Consulting - Miami Job in Albany, NY | EY - Jobs",
+      "company": "Databricks Data Engineer",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://ey.jobs/locations/albany-ny/job-titles/databricks-data-engineer-manager-consulting-miami/jobs/?vs=5",
+      "source": "Other",
+      "description": "Databricks Data Engineer - Manager - Consulting - Miami Job in Albany, NY, updated and verified daily by DirectEmployers Association.",
+      "date": "2026-05-02",
+      "timestamp": "2026-05-02T07:59:46+00:00",
+      "fetched_at": "2026-05-02T20:27:45.813090+00:00"
+    },
+    {
+      "id": "295249bcd7d4",
+      "title": "Mid-Level Software Engineer - Developer at Boeing",
+      "company": "Boeing",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.boeing.com/job/berkeley/mid-level-software-engineer-developer/185/94602530656",
+      "source": "Other",
+      "description": "Mid-Level Software Engineer - Developer. Berkeley, Missouri Job ID JR2026508556 Category Engineering - Software Role Type Onsite Post Date May 01, ...",
+      "date": "2026-05-02",
+      "timestamp": "2026-05-02T07:58:45+00:00",
+      "fetched_at": "2026-05-02T20:27:45.813228+00:00"
     },
     {
       "id": "96244a85d7f8",
@@ -195,6 +375,36 @@
       "date": "2026-05-02",
       "timestamp": "2026-05-02T04:14:35+00:00",
       "fetched_at": "2026-05-02T05:59:02.418821+00:00"
+    },
+    {
+      "id": "16615a1a6659",
+      "title": "Senior Backend Software Engineer in Dublin 18, Ireland - Mastercard",
+      "company": "Mastercard",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mastercard.com/us/en/job/R-276226/Senior-Backend-Software-Engineer",
+      "source": "Other",
+      "description": "Tr\u016bata is now seeking a Senior Software Engineer to join our growing Engineering team in Dublin, Ireland. ... Principal DevOps Engineer - Decision ...",
+      "date": "2026-05-02",
+      "timestamp": "2026-05-02T03:41:54+00:00",
+      "fetched_at": "2026-05-02T20:27:45.598240+00:00"
+    },
+    {
+      "id": "cc62eda5a6ab",
+      "title": "Lead Software Engineer -Database Automation - Wells Fargo",
+      "company": "Database Automation - Wells Fargo",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.wellsfargojobs.com/en/jobs/r-542607/lead-software-engineer-database-automation/",
+      "source": "Other",
+      "description": "Wells Fargo is seeking a Lead Software Engineer -Database Automation with strong hands\u2011on expertise in Ansible, Python, and YAML to design, develop, ...",
+      "date": "2026-05-02",
+      "timestamp": "2026-05-02T03:32:46+00:00",
+      "fetched_at": "2026-05-02T20:27:45.598422+00:00"
     },
     {
       "id": "3cc8000bff48",
