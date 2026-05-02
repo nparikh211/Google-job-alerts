@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-05-01T20:39:16.309824+00:00",
-  "total_jobs": 881,
+  "last_updated": "2026-05-02T01:21:00.387180+00:00",
+  "total_jobs": 899,
   "stats": {
-    "total_companies": 596,
+    "total_companies": 604,
     "total_roles": 29,
     "regions": {
-      "India": 508,
-      "Philippines": 111,
-      "Remote": 130,
+      "India": 520,
+      "Philippines": 113,
+      "Remote": 134,
       "Unknown": 135
     },
     "sources": {
-      "Other": 684,
-      "Greenhouse": 46,
-      "Workday": 38,
-      "LinkedIn": 31,
-      "Ashby": 27,
+      "Other": 698,
+      "Greenhouse": 47,
+      "Workday": 39,
+      "LinkedIn": 32,
+      "Ashby": 28,
       "Lever": 12,
       "Breezy": 12,
       "iCIMS": 10,
@@ -27,10 +27,220 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-05-01"
+      "latest": "2026-05-02"
     }
   },
   "jobs": [
+    {
+      "id": "fa76f9a4ab45",
+      "title": "Senior Software Engineer , Site Reliability Engineering - Search for your career at Google.",
+      "company": "Google.",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.google.com/jobs/results/108694809635365574-senior-software-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer , Site Reliability Engineering. share. linkCopy link; emailEmail a friend. corporate_fareGoogleplacePittsburgh, PA, USA.",
+      "date": "2026-05-02",
+      "timestamp": "2026-05-02T00:08:21+00:00",
+      "fetched_at": "2026-05-02T01:21:00.380905+00:00"
+    },
+    {
+      "id": "ec64d1007f28",
+      "title": "Senior Software Engineer - Search for your career at Google.",
+      "company": "Google.",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.google.com/jobs/results/87413143604470470-senior-software-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer . share. linkCopy link; emailEmail a friend. corporate_fareGoogleplacePittsburgh, PA, USA. bar_chartMid. Mid. Experience ...",
+      "date": "2026-05-02",
+      "timestamp": "2026-05-02T00:04:02+00:00",
+      "fetched_at": "2026-05-02T01:21:00.381068+00:00"
+    },
+    {
+      "id": "db92bdf997cf",
+      "title": "AI Engineer @ Distyl AI - Jobs",
+      "company": "Distyl",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/distyl/de4bdf84-bbe8-4a7c-8d5f-09492ad223f5/application",
+      "source": "Ashby",
+      "description": "AI Engineer . Location. San Francisco; New York. Employment Type. Full time. Location Type. Hybrid. Department. Engineering. OverviewApplication ...",
+      "date": "2026-05-01",
+      "timestamp": "2026-05-01T22:47:28+00:00",
+      "fetched_at": "2026-05-02T01:21:00.062266+00:00"
+    },
+    {
+      "id": "86bf3c0863d9",
+      "title": "Machine Learning Engineer (1 Year Fixed Term, 2 Openings) - Stanford University Careers",
+      "company": "Stanford University Careers",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careersearch.stanford.edu/jobs/machine-learning-engineer-1-year-fixed-term-2-openings-30679",
+      "source": "Other",
+      "description": "Machine Learning Engineer (1 Year Fixed Term, 2 Openings). School of Medicine, Stanford, California, United States. New. Apply for Job.",
+      "date": "2026-05-01",
+      "timestamp": "2026-05-01T22:17:54+00:00",
+      "fetched_at": "2026-05-02T01:21:00.063194+00:00"
+    },
+    {
+      "id": "a98b46850676",
+      "title": "Software Engineer II - Bangalore, India | Uber Careers",
+      "company": "Bangalore, India | Uber Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.uber.com/global/en/careers/list/159050/",
+      "source": "Other",
+      "description": "Apply to the Software Engineer II position on the Uber Engineering team, based out of the Uber Bangalore, India office.",
+      "date": "2026-05-01",
+      "timestamp": "2026-05-01T22:12:29+00:00",
+      "fetched_at": "2026-05-02T01:21:00.063326+00:00"
+    },
+    {
+      "id": "be63c9f3ed75",
+      "title": "Software Engineer | GDIT",
+      "company": "GDIT",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.gdit.com/careers/job/6f20f111d/software-engineer/",
+      "source": "Other",
+      "description": "Job Description. SOFTWARE ENGINEER Praxis Engineering, a GDIT company, provides cutting-edge technology capabilities and unmatched expertise to ...",
+      "date": "2026-05-01",
+      "timestamp": "2026-05-01T21:50:37+00:00",
+      "fetched_at": "2026-05-02T01:21:00.063447+00:00"
+    },
+    {
+      "id": "215be98369e9",
+      "title": "Software Engineer III - Applied AI - Myworkdayjobs.com",
+      "company": "Blueorigin",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Software-Engineer-III---Applied-AI_R63824",
+      "source": "Workday",
+      "description": "Software Engineer III - Applied AI ... Application close date: Applications will be accepted on an ongoing basis until the requisition is closed. At ...",
+      "date": "2026-05-01",
+      "timestamp": "2026-05-01T21:42:47+00:00",
+      "fetched_at": "2026-05-02T01:21:00.063537+00:00"
+    },
+    {
+      "id": "eace4417958e",
+      "title": "Infopro Digital hiring DevOps Engineer in Atlanta, GA | LinkedIn",
+      "company": "LinkedIn",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-infopro-digital-4409414901",
+      "source": "LinkedIn",
+      "description": "Site Reliability Engineer (SRE). Florence Healthcare. Atlanta, GA 1 ... Senior Software Engineer - Site Reliability Engineering (Remote). The ...",
+      "date": "2026-05-01",
+      "timestamp": "2026-05-01T21:19:11+00:00",
+      "fetched_at": "2026-05-02T01:21:00.063694+00:00"
+    },
+    {
+      "id": "10fe7360ca6a",
+      "title": "Lead Data Engineer PennDnA- People in Philadelphia, Pennsylvania, United States",
+      "company": "People in Philadelphia, Pennsylvania, United States",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.pennmedicine.org/jobs/17682221-lead-data-engineer-penndna-people",
+      "source": "Other",
+      "description": "Lead Data Engineer PennDnA- People in Philadelphia, Pennsylvania, United States. ... Senior Machine Learning Software Engineer . Information Services ...",
+      "date": "2026-05-01",
+      "timestamp": "2026-05-01T21:11:09+00:00",
+      "fetched_at": "2026-05-02T01:21:00.063857+00:00"
+    },
+    {
+      "id": "2349e3c37e9e",
+      "title": "Software Engineer III \u2013 Python/PySpark/AWS - JPMC Candidate Experience page Careers",
+      "company": "JPMC Candidate Experience page Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/cx_1001/job/210742667",
+      "source": "Other",
+      "description": "We have an exciting and rewarding opportunity for you to take your software engineering career to the next level. As a Software Engineer III ...",
+      "date": "2026-05-01",
+      "timestamp": "2026-05-01T20:43:13+00:00",
+      "fetched_at": "2026-05-02T01:21:00.064029+00:00"
+    },
+    {
+      "id": "aa42d5a5044a",
+      "title": "Job Application for Senior Software Engineer at Defense Unicorns - Greenhouse",
+      "company": "Defenseunicorns",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/defenseunicorns/jobs/5125711007",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer . Remote, United States. Apply. Role Description: Defense Unicorns seeks an experienced Software Engineer to join our UDS ...",
+      "date": "2026-05-01",
+      "timestamp": "2026-05-01T20:42:29+00:00",
+      "fetched_at": "2026-05-02T01:21:00.381828+00:00"
+    },
+    {
+      "id": "451b04f36428",
+      "title": "Senior Embedded Software Engineer - Platform, Sunnyvale, CA, United States - Intuitive Careers",
+      "company": "Platform, Sunnyvale, CA, United States - Intuitive Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.intuitive.com/en/jobs/744000124157760/JOB209971/senior-embedded-software-engineer-platform/",
+      "source": "Other",
+      "description": "... an experienced Sr. Embedded Software Engineer to join our team. This role will focus on operating system internals, resource management, and system\u2026",
+      "date": "2026-05-01",
+      "timestamp": "2026-05-01T20:28:12+00:00",
+      "fetched_at": "2026-05-02T01:21:00.064269+00:00"
+    },
+    {
+      "id": "33659df82841",
+      "title": "Embedded Software Engineer - Platform, Sunnyvale, CA, United States - Intuitive Careers",
+      "company": "Platform, Sunnyvale, CA, United States - Intuitive Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.intuitive.com/en/jobs/744000124162069/JOB211589/embedded-software-engineer-platform/",
+      "source": "Other",
+      "description": "Embedded Software Engineer - Platform. Sunnyvale, CA, United States; Not Remote; Engineering; JOB211589. Clinical Development Engineering.",
+      "date": "2026-05-01",
+      "timestamp": "2026-05-01T20:28:07+00:00",
+      "fetched_at": "2026-05-02T01:21:00.064476+00:00"
+    },
+    {
+      "id": "cd50565af900",
+      "title": "How To Start Learning AI In 2026 | AI Engineer Skills | #Shorts | #Simplilearn - YouTube",
+      "company": "How To Start Learning AI In 2026",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.youtube.com/shorts/tryINqGT4nM",
+      "source": "Other",
+      "description": "How To Start Learning AI In 2026 | AI Engineer Roadmap | AI Engineer Skills | ...",
+      "date": "2026-05-01",
+      "timestamp": "2026-05-01T20:10:42+00:00",
+      "fetched_at": "2026-05-02T01:21:00.064587+00:00"
+    },
     {
       "id": "b8ec848a6aa8",
       "title": "What's the best route to software engineer now? : r/cscareerquestions - Reddit",
@@ -62,6 +272,21 @@
       "fetched_at": "2026-05-01T20:39:15.979913+00:00"
     },
     {
+      "id": "8da3ac9fdc95",
+      "title": "Software Engineer in Dallas, Texas, United States of America - Southwest Careers",
+      "company": "Southwest Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.southwestair.com/us/en/job/R-2026-67599/Software-Engineer",
+      "source": "Other",
+      "description": "Apply for Software Engineer job with Southwest in Dallas, Texas, United States of America. Corporate Careers at Southwest.",
+      "date": "2026-05-01",
+      "timestamp": "2026-05-01T19:09:45+00:00",
+      "fetched_at": "2026-05-02T01:21:00.065033+00:00"
+    },
+    {
       "id": "8a2307ed3991",
       "title": "Senior Software Engineer - Jobs - GFT Technologies",
       "company": "Jobs - GFT Technologies",
@@ -90,6 +315,51 @@
       "date": "2026-05-01",
       "timestamp": "2026-05-01T18:40:04+00:00",
       "fetched_at": "2026-05-01T20:39:15.980404+00:00"
+    },
+    {
+      "id": "5d3be428f2e1",
+      "title": "How To Become A DevOps Engineer In 2026 | #Shorts | #Simplilearn - YouTube",
+      "company": "#Shorts | #Simplilearn - YouTube",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.youtube.com/shorts/rJ0UBb4CsU0",
+      "source": "Other",
+      "description": "... DevOps engineer from scratch, even as a beginner. Learn the essential ... DevOps Engineer Roadmap 2026 | How To Become A DevOps Engineer In ...",
+      "date": "2026-05-01",
+      "timestamp": "2026-05-01T18:35:37+00:00",
+      "fetched_at": "2026-05-02T01:21:00.065581+00:00"
+    },
+    {
+      "id": "a8e0c5cce9f0",
+      "title": "Dev Ops Software Engineer in Remote Work, Texas, United States - SAIC Careers",
+      "company": "SAIC Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.saic.com/jobs/17682906-dev-ops-software-engineer",
+      "source": "Other",
+      "description": "Dev Ops Software Engineer in Remote Work, Texas, United States. ... AWS DevOps Engineer certification (or equivalent in Azure/GCP DevOps).",
+      "date": "2026-05-01",
+      "timestamp": "2026-05-01T18:10:39+00:00",
+      "fetched_at": "2026-05-02T01:21:00.065704+00:00"
+    },
+    {
+      "id": "5b30cd258f37",
+      "title": "3D C++ Software Engineer - US-North Carolina-Raleigh | Align Technology Careers",
+      "company": "US-North Carolina-Raleigh | Align Technology Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.aligntech.com/postings/ae2f6344-5612-4853-ba4d-befdc9c70012",
+      "source": "Other",
+      "description": "Join Align Technology in Research & Development, US-North Carolina-Raleigh as a 3D C++ Software Engineer .",
+      "date": "2026-05-01",
+      "timestamp": "2026-05-01T18:05:40+00:00",
+      "fetched_at": "2026-05-02T01:21:00.065864+00:00"
     },
     {
       "id": "92d446bbe8b8",
