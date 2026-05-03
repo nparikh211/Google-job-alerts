@@ -1,26 +1,26 @@
 {
-  "last_updated": "2026-05-03T09:09:20.746321+00:00",
-  "total_jobs": 960,
+  "last_updated": "2026-05-03T12:37:43.893040+00:00",
+  "total_jobs": 968,
   "stats": {
-    "total_companies": 642,
+    "total_companies": 646,
     "total_roles": 32,
     "regions": {
-      "India": 549,
-      "Philippines": 141,
+      "India": 554,
+      "Philippines": 144,
       "Remote": 139,
       "Unknown": 135
     },
     "sources": {
-      "Other": 741,
+      "Other": 747,
       "Greenhouse": 55,
       "Workday": 41,
       "LinkedIn": 36,
-      "Ashby": 31,
+      "Ashby": 32,
       "Lever": 13,
       "Breezy": 12,
       "iCIMS": 10,
       "Indeed": 8,
-      "Workable": 5,
+      "Workable": 6,
       "SmartRecruiters": 5,
       "Recruitee": 2,
       "Jobvite": 1
@@ -31,6 +31,36 @@
     }
   },
   "jobs": [
+    {
+      "id": "08bfee46350a",
+      "title": "Senior Software Engineer , Global Converse, ITC",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.converse.com/en/senior-software-engineer-global-converse-itc/job/R-83318",
+      "source": "Other",
+      "description": "Senior Software Engineer , Global Converse, ITC. Categories ID. Categories ... We are seeking a Senior Data Engineer to be part of a mission ...",
+      "date": "2026-05-03",
+      "timestamp": "2026-05-03T10:15:19+00:00",
+      "fetched_at": "2026-05-03T12:37:43.722304+00:00"
+    },
+    {
+      "id": "5057b1615e63",
+      "title": "Software Engineer , Internship - Job Detail | Careers Marketplace - Siemens",
+      "company": "Job Detail | Careers Marketplace - Siemens",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.siemens.com/de_DE/externaljobs/JobDetail/500388",
+      "source": "Other",
+      "description": "Software Engineer , Internship. Siemens Digital Industries Software \u2013 #TransformTheEveryday. Based: Yerevan, Armenia / Full-time internship / 1 year ...",
+      "date": "2026-05-03",
+      "timestamp": "2026-05-03T09:35:21+00:00",
+      "fetched_at": "2026-05-03T12:37:43.722586+00:00"
+    },
     {
       "id": "25c425d019e9",
       "title": "Sr. Software Engineer , Frontend - Prosper - Lever",
@@ -47,6 +77,21 @@
       "fetched_at": "2026-05-03T09:09:20.520693+00:00"
     },
     {
+      "id": "45c19e6c74c0",
+      "title": "Software Engineer , Applied AI @ Mercor - Jobs",
+      "company": "Mercor",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/mercor/e106399e-d85e-4af2-9bc8-6a0e144f318f",
+      "source": "Ashby",
+      "description": "... Software Engineer , Applied AI on Mercor's Enterprise team, you'll operate at the intersection of engineering, product, and customer success ...",
+      "date": "2026-05-03",
+      "timestamp": "2026-05-03T07:35:09+00:00",
+      "fetched_at": "2026-05-03T12:37:43.885762+00:00"
+    },
+    {
       "id": "638a4c711650",
       "title": "IDB Invest - Data Engineer (Sr Officer) Officer Job Details | interameri",
       "company": "IDB Invest",
@@ -60,6 +105,21 @@
       "date": "2026-05-03",
       "timestamp": "2026-05-03T06:53:42+00:00",
       "fetched_at": "2026-05-03T09:09:20.521550+00:00"
+    },
+    {
+      "id": "35f25ede15d1",
+      "title": "Senior Software Engineer , Code Search in United States | GitHub, Inc.",
+      "company": "GitHub, Inc.",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.github.careers/careers-home/jobs/5381?lang=en-us",
+      "source": "Other",
+      "description": "GitHub Careers Home is hiring a Senior Software Engineer , Code Search in United States. Review all of the job details and apply today!",
+      "date": "2026-05-03",
+      "timestamp": "2026-05-03T06:36:56+00:00",
+      "fetched_at": "2026-05-03T12:37:43.723351+00:00"
     },
     {
       "id": "04df2d7aa631",
@@ -78,6 +138,21 @@
       "fetched_at": "2026-05-03T09:09:20.522003+00:00"
     },
     {
+      "id": "df58276e4b64",
+      "title": "Senior Front End Software Engineer in Multiple Locations | Principal Financial Group",
+      "company": "Principal Financial Group",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.principal.com/careers-home/jobs/50699?lang=en-us",
+      "source": "Other",
+      "description": "What You'll Do. We're looking for a Senior Software Engineer to join our Experience Solutions technology team within Workplace Savings & Retirement ...",
+      "date": "2026-05-03",
+      "timestamp": "2026-05-03T06:28:15+00:00",
+      "fetched_at": "2026-05-03T12:37:43.723759+00:00"
+    },
+    {
       "id": "12e49e458d14",
       "title": "Update ( Software Engineer looking for healthIT careers) - Reddit",
       "company": "Reddit",
@@ -91,6 +166,21 @@
       "date": "2026-05-03",
       "timestamp": "2026-05-03T05:07:22+00:00",
       "fetched_at": "2026-05-03T09:09:20.738903+00:00"
+    },
+    {
+      "id": "e280ea59f80a",
+      "title": "Software Engineer - Texas Sports Academy Main - Application - Jobs By Workable",
+      "company": "Texas Sports Academy Main",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://apply.workable.com/texas-sports-academy-main/j/908B10C34B/apply/",
+      "source": "Workable",
+      "description": "Software Engineer (AI-Forward) As a Software Engineer with Texas Sports Academy, you play a key role in building the software that runs our school ...",
+      "date": "2026-05-03",
+      "timestamp": "2026-05-03T05:00:27+00:00",
+      "fetched_at": "2026-05-03T12:37:43.723899+00:00"
     },
     {
       "id": "80b154bd070a",
@@ -136,6 +226,21 @@
       "date": "2026-05-03",
       "timestamp": "2026-05-03T02:41:35+00:00",
       "fetched_at": "2026-05-03T06:19:23.009452+00:00"
+    },
+    {
+      "id": "e67289870263",
+      "title": "Designing and implementing a comprehensive research software engineer career ladder",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.sciencedirect.com/science/article/abs/pii/S0167739X26002086",
+      "source": "Other",
+      "description": "Designing and implementing a comprehensive research software engineer career ladder: A case study from princeton university\u2606 \u00b7 Background and ...",
+      "date": "2026-05-03",
+      "timestamp": "2026-05-03T02:25:21+00:00",
+      "fetched_at": "2026-05-03T12:37:43.887233+00:00"
     },
     {
       "id": "887978b8b48f",
@@ -241,6 +346,21 @@
       "date": "2026-05-02",
       "timestamp": "2026-05-02T23:13:37+00:00",
       "fetched_at": "2026-05-03T01:24:01.631751+00:00"
+    },
+    {
+      "id": "a3d4119262e4",
+      "title": "Lead Software Engineer - AI/ML - JPMC Candidate Experience page Careers",
+      "company": "AI/ML - JPMC Candidate Experience page Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210739264/?utm_source=google&utm_medium=getro.com&gh_src=Black+Women+in+Asset+Management+job+boardutm_medium?utm_medium=search+engine&utm_source=google",
+      "source": "Other",
+      "description": "As a Software Engineer III (Machine Learning Platform Engineer ) at JPMorgan Chase within the Consumer & Community Banking (CCB) line of business ...",
+      "date": "2026-05-02",
+      "timestamp": "2026-05-02T21:48:43+00:00",
+      "fetched_at": "2026-05-03T12:37:43.888719+00:00"
     },
     {
       "id": "6d469f97c1b3",
