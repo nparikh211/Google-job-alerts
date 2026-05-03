@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-05-03T16:33:36.794688+00:00",
-  "total_jobs": 980,
+  "last_updated": "2026-05-03T20:28:41.689631+00:00",
+  "total_jobs": 989,
   "stats": {
-    "total_companies": 653,
+    "total_companies": 659,
     "total_roles": 32,
     "regions": {
-      "India": 563,
-      "Philippines": 146,
-      "Remote": 140,
+      "India": 569,
+      "Philippines": 148,
+      "Remote": 141,
       "Unknown": 135
     },
     "sources": {
-      "Other": 756,
+      "Other": 764,
       "Greenhouse": 57,
       "Workday": 42,
       "LinkedIn": 36,
-      "Ashby": 32,
+      "Ashby": 33,
       "Lever": 13,
       "Breezy": 12,
       "iCIMS": 10,
@@ -31,6 +31,81 @@
     }
   },
   "jobs": [
+    {
+      "id": "f4cc1af6b3f5",
+      "title": "4 YOE DevOps Engineer \u2014 Can someone review my resume? A senior told me I need 3+ ... - Reddit",
+      "company": "Reddit",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.reddit.com/r/devops/comments/1t2nu5b/4_yoe_devops_engineer_can_someone_review_my/",
+      "source": "Other",
+      "description": "Please give honest resume review , targeting AI Engineer and architect roles for 2YOE (Remote) ... [6 YoE] Software Engineer - Big gaps in my resume, ...",
+      "date": "2026-05-03",
+      "timestamp": "2026-05-03T19:37:55+00:00",
+      "fetched_at": "2026-05-03T20:28:41.377012+00:00"
+    },
+    {
+      "id": "6305b94a600a",
+      "title": "Software Engineering Is Becoming Plan and Review \u2014 Louis Knight-Webb, Vibe Kanban",
+      "company": "Webb, Vibe Kanban",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.youtube.com/watch?v=W76woOYHlvY",
+      "source": "Other",
+      "description": "Software Engineering Is Becoming Plan and Review \u2014 Louis Knight-Webb, Vibe Kanban. 6.9K views \u00b7 21 hours ago ...more. AI Engineer ... Go to channel AI ...",
+      "date": "2026-05-03",
+      "timestamp": "2026-05-03T18:58:39+00:00",
+      "fetched_at": "2026-05-03T20:28:41.682927+00:00"
+    },
+    {
+      "id": "c23048adf0d5",
+      "title": "Senior/Principal Backend Engineer - Data Classification at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Backend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/senior-principal-backend-engineer-data-classification/47263/94657088976",
+      "source": "Other",
+      "description": "Learn more about applying for Senior/Principal Backend Engineer - Data Classification at Palo Alto Networks. ... Sr Staff DevOps Engineer - NetSec - ...",
+      "date": "2026-05-03",
+      "timestamp": "2026-05-03T17:45:28+00:00",
+      "fetched_at": "2026-05-03T20:28:41.377235+00:00"
+    },
+    {
+      "id": "2fe1aa209c4c",
+      "title": "I Let AI Run My Life For 24 Hours As a Software Engineer - OpenClaw Real Life Review",
+      "company": "OpenClaw Real Life Review",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.youtube.com/watch?v=C9Yr2M6VO5c",
+      "source": "Other",
+      "description": "I Let AI Run My Life For 24 Hours As a Software Engineer - OpenClaw Real Life Review. 2.3K views \u00b7 3 hours ago ...more. Luke Made It. 125K.",
+      "date": "2026-05-03",
+      "timestamp": "2026-05-03T17:19:58+00:00",
+      "fetched_at": "2026-05-03T20:28:41.377499+00:00"
+    },
+    {
+      "id": "3214ebcb8d2c",
+      "title": "Chip Validation Software Engineer - Job ID: 10409569 - Amazon Careers",
+      "company": "Job ID: 10409569 - Amazon Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://amazon.jobs/en/jobs/10409569/chip-validation-software-engineer",
+      "source": "Other",
+      "description": "Chip Validation Software Engineer . Job ID: 10409569 | Annapurna Labs Ltd. Apply now. Description. AWS Utility Computing (UC) provides product ...",
+      "date": "2026-05-03",
+      "timestamp": "2026-05-03T16:36:42+00:00",
+      "fetched_at": "2026-05-03T20:28:41.377686+00:00"
+    },
     {
       "id": "9a0a41aa2ea7",
       "title": "5 YoE, Senior Associate Software Engineer , Senior Full Stack Software Engineer , Worldwide - Reddit",
@@ -77,6 +152,21 @@
       "fetched_at": "2026-05-03T16:33:36.721347+00:00"
     },
     {
+      "id": "0fd80dcc750a",
+      "title": "Codex is faster coder, but Claude is better software engineer . Or so it seems.",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://x.com/relizarov/status/2050728539209519410",
+      "source": "Other",
+      "description": "Roman Elizarov (@relizarov). 31 likes 8 replies. Codex is faster coder, but Claude is better software engineer . Or so it seems.",
+      "date": "2026-05-03",
+      "timestamp": "2026-05-03T14:21:27+00:00",
+      "fetched_at": "2026-05-03T20:28:41.378311+00:00"
+    },
+    {
       "id": "f5ee6de32595",
       "title": "Junior Embedded Software Engineer , Graviton - Job ID: 3142759 - Amazon Careers",
       "company": "Job ID: 3142759 - Amazon Careers",
@@ -105,6 +195,21 @@
       "date": "2026-05-03",
       "timestamp": "2026-05-03T13:26:22+00:00",
       "fetched_at": "2026-05-03T16:33:36.721489+00:00"
+    },
+    {
+      "id": "e6e03d5eeff4",
+      "title": "Senior Lead/Lead Software Engineer , Back End (Bangkok based - Relocation provided)",
+      "company": "Relocation provided)",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careersatagoda.com/job/7880990-senior-lead-lead-software-engineer-back-end-bangkok-based-relocation-provided/",
+      "source": "Other",
+      "description": "... Senior Software Engineer , Staff Software Engineer , Lead Software Engineer , and Engineering Manager? *. Please select, Yes, No. Do you allow us to ...",
+      "date": "2026-05-03",
+      "timestamp": "2026-05-03T13:14:27+00:00",
+      "fetched_at": "2026-05-03T20:28:41.378685+00:00"
     },
     {
       "id": "c35f9195010f",
@@ -165,6 +270,21 @@
       "date": "2026-05-03",
       "timestamp": "2026-05-03T12:08:27+00:00",
       "fetched_at": "2026-05-03T16:33:36.722323+00:00"
+    },
+    {
+      "id": "c97c50b9c6b5",
+      "title": "Adaptive ML - Backend Engineer , Database - Jobs",
+      "company": "Adaptive Ml",
+      "role": "Backend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/adaptive-ml/ace3f535-ae0a-4b02-abe7-a2dc960073ac?utm_source=opnPywg96l&src=LinkedIn",
+      "source": "Ashby",
+      "description": "Adaptive ML is looking for a Backend Engineer to own the data infrastructure powering our breakthrough LLM platform \u2014 building the ...",
+      "date": "2026-05-03",
+      "timestamp": "2026-05-03T11:04:49+00:00",
+      "fetched_at": "2026-05-03T20:28:41.379409+00:00"
     },
     {
       "id": "2036cdce62cc",
@@ -270,6 +390,21 @@
       "date": "2026-05-03",
       "timestamp": "2026-05-03T07:35:09+00:00",
       "fetched_at": "2026-05-03T12:37:43.885762+00:00"
+    },
+    {
+      "id": "a2dad8ab667a",
+      "title": "Senior Software Engineer , Python - Amsterdam, Netherlands | Uber Careers",
+      "company": "Amsterdam, Netherlands | Uber Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.uber.com/global/en/careers/list/159079/",
+      "source": "Other",
+      "description": "Apply to the Senior Software Engineer , Python position on the Uber Engineering team, based out of the Uber Amsterdam, Netherlands office.",
+      "date": "2026-05-03",
+      "timestamp": "2026-05-03T07:13:46+00:00",
+      "fetched_at": "2026-05-03T20:28:41.685740+00:00"
     },
     {
       "id": "638a4c711650",
