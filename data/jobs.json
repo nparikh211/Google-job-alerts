@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-05-03T01:24:01.867047+00:00",
-  "total_jobs": 942,
+  "last_updated": "2026-05-03T06:19:23.338812+00:00",
+  "total_jobs": 954,
   "stats": {
-    "total_companies": 630,
-    "total_roles": 30,
+    "total_companies": 638,
+    "total_roles": 31,
     "regions": {
-      "India": 537,
-      "Philippines": 137,
-      "Remote": 136,
+      "India": 545,
+      "Philippines": 140,
+      "Remote": 137,
       "Unknown": 135
     },
     "sources": {
-      "Other": 731,
-      "Greenhouse": 51,
-      "Workday": 40,
-      "LinkedIn": 35,
-      "Ashby": 30,
+      "Other": 737,
+      "Greenhouse": 54,
+      "Workday": 41,
+      "LinkedIn": 36,
+      "Ashby": 31,
       "Lever": 12,
       "Breezy": 12,
       "iCIMS": 10,
@@ -27,10 +27,130 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-05-02"
+      "latest": "2026-05-03"
     }
   },
   "jobs": [
+    {
+      "id": "80b154bd070a",
+      "title": "What's the hands down best book for a mid level start up software engineer that wants to ... - Reddit",
+      "company": "wants to ...",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1t262vw/whats_the_hands_down_best_book_for_a_mid_level/",
+      "source": "Other",
+      "description": "What's the hands down best book for a mid level start up software engineer that wants to become a great senior engineer. Career/Workplace. I'm 30 ...",
+      "date": "2026-05-03",
+      "timestamp": "2026-05-03T04:07:59+00:00",
+      "fetched_at": "2026-05-03T06:19:23.009280+00:00"
+    },
+    {
+      "id": "4d787088e10a",
+      "title": "Software engineer thinking about starting a \u201cdirty\u201d service business\u2026.. am I crazy? - Reddit",
+      "company": "Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.reddit.com/r/sweatystartup/comments/1t1owii/software_engineer_thinking_about_starting_a_dirty/",
+      "source": "Other",
+      "description": "11 votes, 44 comments. I'm currently working as a software engineer , decent pay, stable job, etc. But I keep noticing something, a lot of local\u2026",
+      "date": "2026-05-03",
+      "timestamp": "2026-05-03T03:16:56+00:00",
+      "fetched_at": "2026-05-03T06:19:23.331484+00:00"
+    },
+    {
+      "id": "e00dc0ac9c1c",
+      "title": "Power Platform Engineer in Greenville, NC | Information Technology at ECU Health",
+      "company": "ECU Health",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.ecuhealth.org/us/en/job/98395",
+      "source": "Other",
+      "description": "Power Platform Engineer . Description. Position Summary. The AI & Power Platform Solutions Engineer is a senior individual contributor responsible for ...",
+      "date": "2026-05-03",
+      "timestamp": "2026-05-03T02:41:35+00:00",
+      "fetched_at": "2026-05-03T06:19:23.009452+00:00"
+    },
+    {
+      "id": "887978b8b48f",
+      "title": "Job Application for Senior Software Engineer (5+ years) at Foresite Labs - Greenhouse",
+      "company": "Foresitelabs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/foresitelabs/jobs/8533284002",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer (5+ years). San Francisco, CA. Apply. About Foresite Labs. Foresite Labs is a translational R&D team that derives insights ...",
+      "date": "2026-05-03",
+      "timestamp": "2026-05-03T01:17:35+00:00",
+      "fetched_at": "2026-05-03T06:19:23.009569+00:00"
+    },
+    {
+      "id": "881c20cb028a",
+      "title": "Sr Full Stack Software Engineer | Melisa Gomez - LinkedIn",
+      "company": "Melisa Gomez - LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/melisagomez_sr-full-stack-software-engineer-activity-7456457152141017088-v4c4",
+      "source": "LinkedIn",
+      "description": "I'm excited to announce a new opportunity on my team! We are looking for a Senior Full Stack Software Engineer to work with our Payments, ...",
+      "date": "2026-05-03",
+      "timestamp": "2026-05-03T01:11:35+00:00",
+      "fetched_at": "2026-05-03T06:19:23.010213+00:00"
+    },
+    {
+      "id": "7f80c77abcba",
+      "title": "Lead Software Engineer (C/C++) - Mastercard Careers",
+      "company": "Mastercard Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mastercard.com/us/en/job/R-274229/Lead-Software-Engineer-C-C",
+      "source": "Other",
+      "description": "Senior Software Engineer . Location O Fallon, United States of America, 63368-7263 Category Engineering. Senior Software Engineer (Big Data). Location ...",
+      "date": "2026-05-03",
+      "timestamp": "2026-05-03T00:43:39+00:00",
+      "fetched_at": "2026-05-03T06:19:23.010384+00:00"
+    },
+    {
+      "id": "88ebb6e37c46",
+      "title": "AI/ ML Engineer - Work - Myworkdayjobs.com",
+      "company": "Cengage",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://cengage.wd5.myworkdayjobs.com/en-US/CengageNorthAmericaCareers/job/AI-ML-Engineer---Work_R2026-418",
+      "source": "Workday",
+      "description": "The AI/ ML Engineer \u2013 Work builds AI-driven workforce and skills-based capabilities for Cengage's career and learning products. You will develop the ...",
+      "date": "2026-05-03",
+      "timestamp": "2026-05-03T00:26:22+00:00",
+      "fetched_at": "2026-05-03T06:19:23.010501+00:00"
+    },
+    {
+      "id": "4bad57a0a945",
+      "title": "Job Application for Staff Software Engineer , Core Exchange at Robinhood - Greenhouse",
+      "company": "Robinhood",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/robinhood/jobs/7716679",
+      "source": "Greenhouse",
+      "description": "Staff Software Engineer , Core Exchange. Ljubljana, Slovenia. Apply. Join us in building the future of finance. Our mission is to democratize finance ...",
+      "date": "2026-05-02",
+      "timestamp": "2026-05-02T23:50:01+00:00",
+      "fetched_at": "2026-05-03T06:19:23.332365+00:00"
+    },
     {
       "id": "0a36e1965da1",
       "title": "You will be a WORLD-CLASS SOFTWARE ENGINEER once you read these 20 books:",
@@ -47,6 +167,36 @@
       "fetched_at": "2026-05-03T01:24:01.631751+00:00"
     },
     {
+      "id": "6d469f97c1b3",
+      "title": "Job Application for Senior AI Data Engineer at Cortica - Greenhouse",
+      "company": "Cortica",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/cortica/jobs/8532683002",
+      "source": "Greenhouse",
+      "description": "The Senior AI Data Engineer will serve as both architect and builder of our data ecosystem. ... Databricks Certified Generative AI Engineer . AWS ...",
+      "date": "2026-05-02",
+      "timestamp": "2026-05-02T21:32:52+00:00",
+      "fetched_at": "2026-05-03T06:19:23.010852+00:00"
+    },
+    {
+      "id": "d02b07ff70a2",
+      "title": "AI Engineer (Security Research) at Escape | Y Combinator",
+      "company": "Escape",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.ycombinator.com/companies/escape/jobs/XIiBxli-ai-engineer-security-research",
+      "source": "Other",
+      "description": "Founding Machine Learning Engineer . MorphoAI \u00b7 Founding Engineer \u00b7 CellType \u00b7 Founding Platform Engineer , Data & ML Systems.",
+      "date": "2026-05-02",
+      "timestamp": "2026-05-02T20:34:26+00:00",
+      "fetched_at": "2026-05-03T06:19:23.332726+00:00"
+    },
+    {
       "id": "68cdbfd44148",
       "title": "Senior Software Engineer II, AI Labs & Foundations | Instacart Careers | David Evans",
       "company": "Instacart Careers | David Evans",
@@ -60,6 +210,21 @@
       "date": "2026-05-02",
       "timestamp": "2026-05-02T20:32:12+00:00",
       "fetched_at": "2026-05-03T01:24:01.632362+00:00"
+    },
+    {
+      "id": "838004df6239",
+      "title": "Open Positions - Confluent Careers",
+      "company": "Unknown Company",
+      "role": "Open Positions - Confluent Careers",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.confluent.io/jobs/15348479-junior-frontend-software-engineer-dublin-germany-united_states-poland-japan-illinois-canada-british_columbia-california-masovian",
+      "source": "Other",
+      "description": "Senior Software Engineer II. Available in Multiple Locations. Remote ... Remote, British Columbia, Canada. Staff Site Reliability Engineer - Incident ...",
+      "date": "2026-05-02",
+      "timestamp": "2026-05-02T20:03:54+00:00",
+      "fetched_at": "2026-05-03T06:19:23.012011+00:00"
     },
     {
       "id": "634f02eee304",
@@ -135,6 +300,21 @@
       "date": "2026-05-02",
       "timestamp": "2026-05-02T17:24:03+00:00",
       "fetched_at": "2026-05-03T01:24:01.633237+00:00"
+    },
+    {
+      "id": "8df9d441fb2c",
+      "title": "Software Engineer @ NOX METALS - Jobs",
+      "company": "Nox Metals",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/nox-metals/82698f55-d4d2-4fbf-8951-181c28103dc5",
+      "source": "Ashby",
+      "description": "Software Engineer . Location. Los Angeles. Employment Type. Full time ... A strong full-stack engineer who ships fast and ships often. Comfortable ...",
+      "date": "2026-05-02",
+      "timestamp": "2026-05-02T17:20:08+00:00",
+      "fetched_at": "2026-05-03T06:19:23.012999+00:00"
     },
     {
       "id": "58d779f45fc2",
