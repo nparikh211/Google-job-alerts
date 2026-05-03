@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-05-03T06:19:23.338812+00:00",
-  "total_jobs": 954,
+  "last_updated": "2026-05-03T09:09:20.746321+00:00",
+  "total_jobs": 960,
   "stats": {
-    "total_companies": 638,
-    "total_roles": 31,
+    "total_companies": 642,
+    "total_roles": 32,
     "regions": {
-      "India": 545,
-      "Philippines": 140,
-      "Remote": 137,
+      "India": 549,
+      "Philippines": 141,
+      "Remote": 139,
       "Unknown": 135
     },
     "sources": {
-      "Other": 737,
-      "Greenhouse": 54,
+      "Other": 741,
+      "Greenhouse": 55,
       "Workday": 41,
       "LinkedIn": 36,
       "Ashby": 31,
-      "Lever": 12,
+      "Lever": 13,
       "Breezy": 12,
       "iCIMS": 10,
       "Indeed": 8,
@@ -31,6 +31,67 @@
     }
   },
   "jobs": [
+    {
+      "id": "25c425d019e9",
+      "title": "Sr. Software Engineer , Frontend - Prosper - Lever",
+      "company": "Prosper",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.lever.co/prosper/1b969caf-44a5-4bc3-ac95-7dcebda2d99f?lever-source%5B%5D=careers.qedinvestors.com",
+      "source": "Lever",
+      "description": "Software Engineer , Frontend. San Francisco, CA. Technology ... As a Senior Frontend Engineer on the Personal Loans team, you will own ...",
+      "date": "2026-05-03",
+      "timestamp": "2026-05-03T07:48:51+00:00",
+      "fetched_at": "2026-05-03T09:09:20.520693+00:00"
+    },
+    {
+      "id": "638a4c711650",
+      "title": "IDB Invest - Data Engineer (Sr Officer) Officer Job Details | interameri",
+      "company": "IDB Invest",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.iadb.org/job/IDB-Invest-Data-Engineer-%28Sr-Officer%29-Officer/2954-en_US",
+      "source": "Other",
+      "description": "IDB Invest is seeking a Data Engineer Officer/Senior Officer with deep expertise in the Databricks platform to join a team of staff and consultants in ...",
+      "date": "2026-05-03",
+      "timestamp": "2026-05-03T06:53:42+00:00",
+      "fetched_at": "2026-05-03T09:09:20.521550+00:00"
+    },
+    {
+      "id": "04df2d7aa631",
+      "title": "Senior Software Engineer Job - Paramount+ - Remote/Virtual - ShowbizJobs",
+      "company": "Paramount+ - Remote/Virtual - ShowbizJobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India",
+        "Remote"
+      ],
+      "link": "https://www.showbizjobs.com/jobs/paramount--senior-software-engineer-in-studio-city/jid-z3nn2n",
+      "source": "Other",
+      "description": "We are seeking a Senior Software Engineer who will play a key role in optimizing and streamlining our video workflows. This engineer will leverage AI- ...",
+      "date": "2026-05-03",
+      "timestamp": "2026-05-03T06:32:19+00:00",
+      "fetched_at": "2026-05-03T09:09:20.522003+00:00"
+    },
+    {
+      "id": "12e49e458d14",
+      "title": "Update ( Software Engineer looking for healthIT careers) - Reddit",
+      "company": "Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.reddit.com/r/healthIT/comments/1t29n64/update_software_engineer_looking_for_healthit/",
+      "source": "Other",
+      "description": "r/askrecruiters - Applied to 200+ Senior Software Engineer roles, only getting rejections. 2. 17 upvotes \u00b7 41 comments. Community Info Section. r ...",
+      "date": "2026-05-03",
+      "timestamp": "2026-05-03T05:07:22+00:00",
+      "fetched_at": "2026-05-03T09:09:20.738903+00:00"
+    },
     {
       "id": "80b154bd070a",
       "title": "What's the hands down best book for a mid level start up software engineer that wants to ... - Reddit",
@@ -152,6 +213,21 @@
       "fetched_at": "2026-05-03T06:19:23.332365+00:00"
     },
     {
+      "id": "1cfe4f0f197f",
+      "title": "72 Covenant Childrens Hospital Jobs",
+      "company": "Unknown Company",
+      "role": "72 Covenant Childrens Hospital Jobs",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://providence.jobs/hospital/covenant-childrens-hospital/job-category/development-engineering/jobs/?q=behavioral+health",
+      "source": "Other",
+      "description": "Principal Service Engineer IS - Platform Engineer - CMDB, APM/EA and ITAM-Remote ... Cloud Engineer IS - Hybrid. Hobbs, NM \u00b7 Senior Cloud Engineer ...",
+      "date": "2026-05-02",
+      "timestamp": "2026-05-02T23:49:52+00:00",
+      "fetched_at": "2026-05-03T09:09:20.740348+00:00"
+    },
+    {
       "id": "0a36e1965da1",
       "title": "You will be a WORLD-CLASS SOFTWARE ENGINEER once you read these 20 books:",
       "company": "You will be a WORLD",
@@ -270,6 +346,21 @@
       "date": "2026-05-02",
       "timestamp": "2026-05-02T18:23:09+00:00",
       "fetched_at": "2026-05-02T20:27:45.810471+00:00"
+    },
+    {
+      "id": "b79fe797adac",
+      "title": "Job Application for DevOps Engineer at Parallel Systems - Greenhouse",
+      "company": "Parallel",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/parallel/jobs/5123096007?gh_jid=5123096007",
+      "source": "Greenhouse",
+      "description": "DevOps Engineer . Los Angeles, CA. Apply. Parallel Systems is pioneering autonomous battery-electric rail vehicles designed to transform freight ...",
+      "date": "2026-05-02",
+      "timestamp": "2026-05-02T17:32:48+00:00",
+      "fetched_at": "2026-05-03T09:09:20.525042+00:00"
     },
     {
       "id": "7c09b51750cf",
