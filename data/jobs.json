@@ -1,36 +1,156 @@
 {
-  "last_updated": "2026-05-04T01:23:27.109203+00:00",
-  "total_jobs": 995,
+  "last_updated": "2026-05-04T06:31:32.446610+00:00",
+  "total_jobs": 1006,
   "stats": {
-    "total_companies": 662,
-    "total_roles": 33,
+    "total_companies": 668,
+    "total_roles": 34,
     "regions": {
-      "India": 573,
-      "Philippines": 150,
-      "Remote": 141,
+      "India": 579,
+      "Philippines": 153,
+      "Remote": 143,
       "Unknown": 135
     },
     "sources": {
-      "Other": 768,
+      "Other": 776,
       "Greenhouse": 57,
       "Workday": 42,
-      "LinkedIn": 37,
+      "LinkedIn": 38,
       "Ashby": 33,
       "Lever": 13,
       "Breezy": 12,
+      "Indeed": 10,
       "iCIMS": 10,
-      "Indeed": 9,
-      "Workable": 6,
+      "Workable": 7,
       "SmartRecruiters": 5,
       "Recruitee": 2,
       "Jobvite": 1
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-05-03"
+      "latest": "2026-05-04"
     }
   },
   "jobs": [
+    {
+      "id": "f32fe546481b",
+      "title": "Software Engineer in Australia (No Remote) - Leidos Careers",
+      "company": "Leidos Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.leidos.com/jobs/17687005-software-engineer",
+      "source": "Other",
+      "description": "As a Software Engineer , you will be part of a high\u2011performing engineering delivery team, contributing to the development, integration, testing, and ...",
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T04:58:46+00:00",
+      "fetched_at": "2026-05-04T06:31:32.438657+00:00"
+    },
+    {
+      "id": "331a1cfdc5d8",
+      "title": "Senior Full Stack Engineer at UnitedHealth Group",
+      "company": "UnitedHealth Group",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.unitedhealthgroup.com/job/bengaluru/senior-full-stack-engineer/34088/94681101472",
+      "source": "Other",
+      "description": "As a Senior Full Stack Engineer , you will contribute across the entire software development lifecycle, from conception and design to deployment and ...",
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T04:48:20+00:00",
+      "fetched_at": "2026-05-04T06:31:32.438822+00:00"
+    },
+    {
+      "id": "b5a8e8d862e4",
+      "title": "Senior Software Engineer -SRE and AIOps, HYDERABAD, Telang\u0101na | Wells Fargo",
+      "company": "SRE and AIOps, HYDERABAD, Telang\u0101na | Wells Fargo",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.wellsfargojobs.com/fr-ca/jobs/r-540870/senior-software-engineer-sre-and-aiops/",
+      "source": "Other",
+      "description": "About this role: Wells Fargo is seeking a Senior Software Engineer within the Enterprise Functions Technology, Center of Excellence platform ...",
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T04:10:37+00:00",
+      "fetched_at": "2026-05-04T06:31:32.439027+00:00"
+    },
+    {
+      "id": "62ad2002560d",
+      "title": "Lead Software Engineer , HYDERABAD, Telang\u0101na | Wells Fargo",
+      "company": "Wells Fargo",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.wellsfargojobs.com/en/jobs/r-540886/lead-software-engineer/",
+      "source": "Other",
+      "description": "Lead Software Engineer . HYDERABAD. Technology; Full time; 04 May 2026 ... Senior Software Engineer -SRE and AIOps. Save Saved. HYDERABAD, Telang\u0101na ...",
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T03:48:15+00:00",
+      "fetched_at": "2026-05-04T06:31:32.439179+00:00"
+    },
+    {
+      "id": "b888c6267384",
+      "title": "[ Software Engineer ] [New York, NY] - $300k : r/Salary - Reddit",
+      "company": "$300k : r/Salary - Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/Salary/comments/1t2xkdt/software_engineer_new_york_ny_300k/",
+      "source": "Other",
+      "description": "r/Salary - [ Cloud Engineer ] [New York, NY] - $160,160. 130 upvotes \u00b7 47 ... [ Senior Software Engineer ] [VA, USA] - $132,600. 16 upvotes \u00b7 40 ...",
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T01:00:59+00:00",
+      "fetched_at": "2026-05-04T06:31:32.323788+00:00"
+    },
+    {
+      "id": "4481f3d7563f",
+      "title": "Machine Learning Engineer Jobs, Employment - Indeed",
+      "company": "Indeed",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.indeed.com/q-machine-learning-engineer-jobs.html?start=15",
+      "source": "Indeed",
+      "description": "17765 Machine Learning Engineer jobs available on Indeed.com. Apply to Machine Learning Engineer , Senior Software Engineer , Deep Learning Engineer ...",
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T00:40:22+00:00",
+      "fetched_at": "2026-05-04T06:31:32.324389+00:00"
+    },
+    {
+      "id": "fd39a3ccb23d",
+      "title": "Senior Software Engineer II - Applied AI (Remote Eligible) - Smartsheet",
+      "company": "Applied AI (Remote Eligible) - Smartsheet",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.smartsheet.com/careers/position/7849785/senior-software-engineer-ii-applied-ai-remote-eligible",
+      "source": "Other",
+      "description": "Senior Software Engineer II - Applied AI (Remote Eligible). For over 20 years, Smartsheet has helped people and teams achieve\u2013well, anything. From ...",
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T00:17:42+00:00",
+      "fetched_at": "2026-05-04T06:31:32.439786+00:00"
+    },
+    {
+      "id": "d2c8bd58bcc3",
+      "title": "Senior Software Engineer in Cheadle, Cheshire, SK3 0XB - Thales Careers",
+      "company": "Thales Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.thalesgroup.com/global/en/job/R0321013/Senior-Software-Engineer",
+      "source": "Other",
+      "description": "Apply for Senior Software Engineer job with Thales Group in Cheadle, Cheshire, SK3 0XB. Software at Thales Group.",
+      "date": "2026-05-03",
+      "timestamp": "2026-05-03T23:45:06+00:00",
+      "fetched_at": "2026-05-04T06:31:32.439930+00:00"
+    },
     {
       "id": "8f1fcc7afb47",
       "title": "What a Real Weekend as a Software Engineer Looks Like - YouTube",
@@ -60,6 +180,36 @@
       "date": "2026-05-03",
       "timestamp": "2026-05-03T21:11:48+00:00",
       "fetched_at": "2026-05-04T01:23:27.009288+00:00"
+    },
+    {
+      "id": "054c693f776b",
+      "title": "Soleyman Shahir's Post - LinkedIn",
+      "company": "Unknown Company",
+      "role": "Soleyman Shahir's Post - LinkedIn",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/posts/soleyman-shahir-702a24b8_70k-cloud-engineer-vs-250k-cloud-engineer-activity-7456764724131606528-sn0F",
+      "source": "LinkedIn",
+      "description": "K Cloud Engineer vs $250K Cloud Engineer . Same skills. Different level of thinking.",
+      "date": "2026-05-03",
+      "timestamp": "2026-05-03T21:04:04+00:00",
+      "fetched_at": "2026-05-04T06:31:32.440610+00:00"
+    },
+    {
+      "id": "3392803118ab",
+      "title": "DevOps Engineer - level 5 | Northrop Grumman",
+      "company": "level 5 | Northrop Grumman",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.northropgrumman.com/careers/job/1340070899101?location_distance_km=80",
+      "source": "Other",
+      "description": "DevOps Engineer \u2013 Level 3 or 4. United States-North Carolina-Morrisville. Software. Posted 3 days ago \u00b7 DevOps Engineer (Level 3 or4). United States ...",
+      "date": "2026-05-03",
+      "timestamp": "2026-05-03T20:18:50+00:00",
+      "fetched_at": "2026-05-04T06:31:32.440790+00:00"
     },
     {
       "id": "f4cc1af6b3f5",
@@ -240,6 +390,21 @@
       "date": "2026-05-03",
       "timestamp": "2026-05-03T14:21:27+00:00",
       "fetched_at": "2026-05-03T20:28:41.378311+00:00"
+    },
+    {
+      "id": "8073b21fd579",
+      "title": "Data Engineer - Banking - Unison Group - Jobs By Workable",
+      "company": "Unisongroup",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://apply.workable.com/unisongroup/j/1D9D3419C9/",
+      "source": "Workable",
+      "description": "Data Engineer - Banking. On-siteManishContract. Singapore, Singapore ... At least 6 years of experience as a Data Engineer , working with Hadoop ...",
+      "date": "2026-05-03",
+      "timestamp": "2026-05-03T13:43:49+00:00",
+      "fetched_at": "2026-05-04T06:31:32.329694+00:00"
     },
     {
       "id": "f5ee6de32595",
