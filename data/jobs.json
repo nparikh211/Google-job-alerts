@@ -1,27 +1,27 @@
 {
-  "last_updated": "2026-05-04T10:03:19.000956+00:00",
-  "total_jobs": 1018,
+  "last_updated": "2026-05-04T13:15:28.319181+00:00",
+  "total_jobs": 1032,
   "stats": {
-    "total_companies": 674,
-    "total_roles": 34,
+    "total_companies": 681,
+    "total_roles": 35,
     "regions": {
-      "India": 580,
-      "Philippines": 162,
+      "India": 584,
+      "Philippines": 172,
       "Remote": 145,
       "Unknown": 135
     },
     "sources": {
-      "Other": 786,
+      "Other": 797,
       "Greenhouse": 58,
       "Workday": 43,
-      "LinkedIn": 38,
+      "LinkedIn": 40,
       "Ashby": 33,
       "Lever": 13,
       "Breezy": 12,
       "Indeed": 10,
       "iCIMS": 10,
       "Workable": 7,
-      "SmartRecruiters": 5,
+      "SmartRecruiters": 6,
       "Recruitee": 2,
       "Jobvite": 1
     },
@@ -31,6 +31,171 @@
     }
   },
   "jobs": [
+    {
+      "id": "1592d837487c",
+      "title": "Data Engineer #00246 - Richmond, Virginia, United States - Virginia Jobs",
+      "company": "Richmond, Virginia, United States - Virginia Jobs",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.jobs.virginia.gov/jobs/data-engineer-00246-richmond-virginia-united-states-5a97b25f-cca9-4840-a9d3-b1ea72bdcb50",
+      "source": "Other",
+      "description": "Title: Data Engineer #00246 State Role Title: Information Tech Spec III Hiring Range: $100000 - $125000 Pay Band: 6 Agency: The Library of ...",
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T11:51:44+00:00",
+      "fetched_at": "2026-05-04T13:15:28.310897+00:00"
+    },
+    {
+      "id": "4843d60c4777",
+      "title": "Senior Software Engineer , AI and Infrastructure - Search for your career at Google.",
+      "company": "Google.",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.google.com/jobs/results/103563693811212998-senior-software-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer , AI and Infrastructure. share. linkCopy link; emailEmail a friend. corporate_fareGoogleplaceSunnyvale, CA, USA. bar_chartMid ...",
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T11:46:06+00:00",
+      "fetched_at": "2026-05-04T13:15:28.311078+00:00"
+    },
+    {
+      "id": "441d47500335",
+      "title": "Full Stack Software Engineer and Service Manager - careers.cern",
+      "company": "careers.cern",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.cern/jobs/full-stack-software-engineer-and-service-manager/",
+      "source": "Other",
+      "description": "Full Stack Software Engineer and Service Manager. Switzerland flag Geneva, Switzerland IT-PW-IAM-2026-100-LD Ideal start date: 01 ...",
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T10:50:56+00:00",
+      "fetched_at": "2026-05-04T13:15:28.311433+00:00"
+    },
+    {
+      "id": "da985c45f71c",
+      "title": "Principal Software Engineer at Ford Motor Company - Ford careers",
+      "company": "Ford Motor Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.careers.ford.com/job/chennai/principal-software-engineer/48560/94686768192",
+      "source": "Other",
+      "description": "Job Description: We are seeking a talented Senior Staff Software Engineer (Leadership Rank) to join our team and play a key role in developing ...",
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T10:36:09+00:00",
+      "fetched_at": "2026-05-04T13:15:28.311562+00:00"
+    },
+    {
+      "id": "374da87d900f",
+      "title": "Principal Software Engineer | Okta",
+      "company": "Okta",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.okta.com/company/careers/engineering/principal-software-engineer-7849955/",
+      "source": "Other",
+      "description": "Principal Software Engineer . Bengaluru, India. Secure Every Identity, from AI to Human Identity is the key to unlocking the ...",
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T10:24:12+00:00",
+      "fetched_at": "2026-05-04T13:15:28.311816+00:00"
+    },
+    {
+      "id": "933a421914e8",
+      "title": "Software Engineer - Caterpillar Careers",
+      "company": "Caterpillar Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.caterpillar.com/en/jobs/r0000366925/software-engineer/",
+      "source": "Other",
+      "description": "Software Engineer . Location, Bangalore, Karn\u0101taka / Chennai, Tamil N\u0101du ... Lead Software Engineer -- D365 CE. Save Saved. Bangalore, Karn\u0101taka ...",
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T10:03:57+00:00",
+      "fetched_at": "2026-05-04T13:15:28.311953+00:00"
+    },
+    {
+      "id": "adfd4bb1e7c3",
+      "title": "Senior Machine Learning Engineer - Policy & Safety | Life at Spotify",
+      "company": "Spotify",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.lifeatspotify.com/jobs/senior-machine-learning-engineer-policy-safety",
+      "source": "Other",
+      "description": "Senior Machine Learning Engineer . Policy & Safety. Link copied to clipboard. Apply now. Apply \u00b7 Engineering. Machine Learning. Permanent. London or ...",
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T09:56:04+00:00",
+      "fetched_at": "2026-05-04T13:15:28.312114+00:00"
+    },
+    {
+      "id": "d91653712074",
+      "title": "Databricks Certified Data Engineer Associate Exam Guide - May 4,2026 | Ramesh Retnasamy",
+      "company": "May 4,2026 | Ramesh Retnasamy",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/posts/ramesh-retnasamy_databricks-certified-data-engineer-associate-activity-7457002017933316096-6oAR",
+      "source": "LinkedIn",
+      "description": "Ramesh Retnasamy's Post. View profile for Ramesh Retnasamy \u00b7 Ramesh Retnasamy. Data Engineer | ML Engineer | Ex-Microsoft | Founder of CloudBox ...",
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T09:48:00+00:00",
+      "fetched_at": "2026-05-04T13:15:28.312480+00:00"
+    },
+    {
+      "id": "09e904f5709e",
+      "title": "Senior Software Engineer - AI Applications - Careers at Veeva",
+      "company": "Veeva",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.veeva.com/job/3565980c-1514-46b7-95e2-6bc4e86331ef/senior-software-engineer-ai-applications-portland-or/",
+      "source": "Other",
+      "description": "Senior Software Engineer - AI Applications. Team: Engineering. City ... Data Engineer . Engineering Toronto, Canada. Posted 19 days ago \u00b7 Data ...",
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T09:45:59+00:00",
+      "fetched_at": "2026-05-04T13:15:28.312720+00:00"
+    },
+    {
+      "id": "a82f9a6aa909",
+      "title": "Software Engineer , Cloud Service Mesh \u2014 Google Careers",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.google.com/jobs/results/110684083868050118-software-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer . Mountain View, CA, USA; San Bruno, CA, USA; +4 more; +3 more \u00b7 Solution Architect III, Platform, Telecommunications, Google ...",
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T09:38:14+00:00",
+      "fetched_at": "2026-05-04T13:15:28.312879+00:00"
+    },
+    {
+      "id": "4d5781105ce3",
+      "title": "Software Engineer in Pune, India, 411006 - Mastercard careers",
+      "company": "Mastercard careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mastercard.com/us/en/job/R-275759/Software-Engineer",
+      "source": "Other",
+      "description": "Similar Jobs \u00b7 Senior Software Engineer Test. Location Pune, India, 411006 Category Engineering \u00b7 Senior Software Engineer \u00b7 Lead Software Engineer (UI).",
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T09:30:08+00:00",
+      "fetched_at": "2026-05-04T13:15:28.313002+00:00"
+    },
     {
       "id": "c47560e53c47",
       "title": "Job Application for Senior Software Engineer at Defense Unicorns - Greenhouse",
@@ -45,6 +210,51 @@
       "date": "2026-05-04",
       "timestamp": "2026-05-04T08:30:46+00:00",
       "fetched_at": "2026-05-04T10:03:18.993020+00:00"
+    },
+    {
+      "id": "5b0916bf4f2e",
+      "title": "Lead Data Engineer - PM-Partners",
+      "company": "PM-Partners",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.pm-partners.com.au/join-the-team/pm-partners-group-sydney-new-south-wales-contract-lead-data-engineer/",
+      "source": "Other",
+      "description": "We are seeking a Lead Data Engineer to take ownership of the technical architecture and delivery of large\u2011scale, cloud\u2011based data platforms. This is a ...",
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T08:29:12+00:00",
+      "fetched_at": "2026-05-04T13:15:28.313326+00:00"
+    },
+    {
+      "id": "15bd68c749fc",
+      "title": "Scalable GmbH AI Software Engineer \u2013 Python (m/f/x) | SmartRecruiters",
+      "company": "Scalablegmbh",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.smartrecruiters.com/ScalableGmbH/744000124351164-ai-software-engineer-python-m-f-x-",
+      "source": "SmartRecruiters",
+      "description": "As an AI Software Engineer in our Data Science team, you will help design and deliver scalable backend and cloud systems that power our AI-driven ...",
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T07:51:32+00:00",
+      "fetched_at": "2026-05-04T13:15:28.313424+00:00"
+    },
+    {
+      "id": "ceb47bd2b684",
+      "title": "4.2L (Internshala) \ud83d\udee0\ufe0f Stack: Python, Keras, TensorFlow, Pandas, scikit-learn\u2026 | Anandnarayanan S",
+      "company": "Unknown Company",
+      "role": "4.2L (Internshala) \ud83d\udee0\ufe0f Stack: Python, Keras, TensorFlow, Pand",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/posts/anand-data_freshers-hiring-alert-ml-engineer-entry-activity-7456953485746647040-fBrk",
+      "source": "LinkedIn",
+      "description": "FRESHERS hiring alert \u2794 ML Engineer (Entry Level) \u23f3 Exp: Fresher (0 yrs) ... Sattari Sateesh Kumar. Data Engineer @PwC | SQL | Python | Pyspark | ETL ...",
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T07:31:12+00:00",
+      "fetched_at": "2026-05-04T13:15:28.313825+00:00"
     },
     {
       "id": "e9af11cb2fe6",
