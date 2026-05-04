@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-05-04T06:31:32.446610+00:00",
-  "total_jobs": 1006,
+  "last_updated": "2026-05-04T10:03:19.000956+00:00",
+  "total_jobs": 1018,
   "stats": {
-    "total_companies": 668,
+    "total_companies": 674,
     "total_roles": 34,
     "regions": {
-      "India": 579,
-      "Philippines": 153,
-      "Remote": 143,
+      "India": 580,
+      "Philippines": 162,
+      "Remote": 145,
       "Unknown": 135
     },
     "sources": {
-      "Other": 776,
-      "Greenhouse": 57,
-      "Workday": 42,
+      "Other": 786,
+      "Greenhouse": 58,
+      "Workday": 43,
       "LinkedIn": 38,
       "Ashby": 33,
       "Lever": 13,
@@ -31,6 +31,126 @@
     }
   },
   "jobs": [
+    {
+      "id": "c47560e53c47",
+      "title": "Job Application for Senior Software Engineer at Defense Unicorns - Greenhouse",
+      "company": "Defenseunicorns",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/defenseunicorns/jobs/5125872007",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer . Remote, United States. Apply. Role Description: Defense Unicorns is seeking a Senior Full-Stack Engineer to join our Fleet ...",
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T08:30:46+00:00",
+      "fetched_at": "2026-05-04T10:03:18.993020+00:00"
+    },
+    {
+      "id": "e9af11cb2fe6",
+      "title": "Lead Systems Software Engineer - Bengaluru, Karn\u0101taka, India",
+      "company": "Bengaluru, Karn\u0101taka, India",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cloud.com/jobs/lead-systems-software-engineer-bengaluru-karnataka-india-93b8c50c-3476-409e-b45e-72f72152673d",
+      "source": "Other",
+      "description": "The Staff Systems Software Engineer is a seasoned professional ... - Senior Software Engineer . What our engineers say about career mobility ...",
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T07:29:12+00:00",
+      "fetched_at": "2026-05-04T10:03:18.993392+00:00"
+    },
+    {
+      "id": "3f886c8082c3",
+      "title": "Senior WLAN/WIFI Networking/ Software Engineer in San Jose, California, 95002",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.hpe.com/us/en/job/1206440/senior-wlan-wifi-networking-software-engineer",
+      "source": "Other",
+      "description": "Join our team as a Senior Software Engineer , Networking & C/C++ and architect cutting-edge packet forwarding solutions for global networks.",
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T06:49:34+00:00",
+      "fetched_at": "2026-05-04T10:03:18.993573+00:00"
+    },
+    {
+      "id": "1c7485cf7393",
+      "title": "MW Consulting - Data Engineer (Databricks, Azure) - Just Join IT",
+      "company": "MW Consulting",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://justjoin.it/job-offer/mw-consulting-data-engineer-databricks-azure--wroclaw-data-34f6b4f2",
+      "source": "Other",
+      "description": "Position: As Data Engineer , you will broaden your experience by working in modern projects for various domains and industries. You will extend your ...",
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T06:37:40+00:00",
+      "fetched_at": "2026-05-04T10:03:18.993809+00:00"
+    },
+    {
+      "id": "ce5b61b89912",
+      "title": "Senior Data Engineer - Sanofi Careers",
+      "company": "Sanofi Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.sanofi.com/en/job/toronto/senior-data-engineer/2649/38023826304",
+      "source": "Other",
+      "description": "Join our R&D Data & AI Products and Platforms Team as a Senior Data Engineer and you can help make it happen. Your job? Sanofi has recently embarked ...",
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T06:23:12+00:00",
+      "fetched_at": "2026-05-04T10:03:18.993974+00:00"
+    },
+    {
+      "id": "3d0f1e7df611",
+      "title": "Senior Software Engineer Jobs in Singapore, SGP | Autodesk",
+      "company": "Autodesk",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://autodesk.dejobs.org/locations/singapore-sgp/job-titles/senior-software-engineer/jobs/",
+      "source": "Other",
+      "description": "Senior Software Engineer Jobs in Singapore, SGP, updated and verified daily by DirectEmployers Association.",
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T06:16:10+00:00",
+      "fetched_at": "2026-05-04T10:03:18.994129+00:00"
+    },
+    {
+      "id": "3e860c44b243",
+      "title": "_4G/5G Modem System Validation and AI Software Engineer | MediaTek Careers",
+      "company": "MediaTek Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.mediatek.com/en/jobs/MTK120260320015?categorys=9022&locations=0000009255",
+      "source": "Other",
+      "description": "_4G/5G Modem System Validation and AI Software Engineer . Apply Save Job. Category. System Application. Location. Taipei. Experience. More than 4 Years ...",
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T05:57:33+00:00",
+      "fetched_at": "2026-05-04T10:03:18.994293+00:00"
+    },
+    {
+      "id": "8bdfd55c250b",
+      "title": "Staff Agentic AI Engineer in Nashville, Tennessee, United States - HCA Healthcare Careers",
+      "company": "HCA Healthcare Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.hcahealthcare.com/en/jobs/17654843-staff-agentic-ai-engineer?tm_job=1-INFOR-4507583&tm_event=view&tm_company=2537",
+      "source": "Other",
+      "description": "Job Summary and Qualifications. Position Summary. The Staff Agentic AI Engineer will provide crucial engineering leadership in the application of ...",
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T05:02:12+00:00",
+      "fetched_at": "2026-05-04T10:03:18.994497+00:00"
+    },
     {
       "id": "f32fe546481b",
       "title": "Software Engineer in Australia (No Remote) - Leidos Careers",
@@ -60,6 +180,21 @@
       "date": "2026-05-04",
       "timestamp": "2026-05-04T04:48:20+00:00",
       "fetched_at": "2026-05-04T06:31:32.438822+00:00"
+    },
+    {
+      "id": "efa77fcfc1bc",
+      "title": "Sr Software Engineer - Myworkdayjobs.com",
+      "company": "Troweprice",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/Sr-Software-Engineer_81514",
+      "source": "Workday",
+      "description": "Role Summary. T. Rowe Price Associates, Inc. seeks a Software Engineer in Baltimore, MD to: Design, develop, modify, adapt and implement short- ...",
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T04:25:05+00:00",
+      "fetched_at": "2026-05-04T10:03:18.994901+00:00"
     },
     {
       "id": "b5a8e8d862e4",
@@ -92,6 +227,21 @@
       "fetched_at": "2026-05-04T06:31:32.439179+00:00"
     },
     {
+      "id": "2ef87624cb36",
+      "title": "Sr. UI -UX Software Engineer in Naperville, Illinois, United States of America | Information ...",
+      "company": "Sr. UI",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ecolab.com/global/en/job/EIYEIEUSR00291381EXTERNALENGLOBAL/Sr-UI-UX-Software-Engineer?utm_source=APPLICANT_SOURCE-6-91&utm_medium=phenom-feeds",
+      "source": "Other",
+      "description": "Apply for Sr. UI -UX Software Engineer job with Ecolab Inc. in Naperville, Illinois, United States of America. Information Technology at Ecolab ...",
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T02:14:18+00:00",
+      "fetched_at": "2026-05-04T10:03:18.995463+00:00"
+    },
+    {
       "id": "b888c6267384",
       "title": "[ Software Engineer ] [New York, NY] - $300k : r/Salary - Reddit",
       "company": "$300k : r/Salary - Reddit",
@@ -105,6 +255,21 @@
       "date": "2026-05-04",
       "timestamp": "2026-05-04T01:00:59+00:00",
       "fetched_at": "2026-05-04T06:31:32.323788+00:00"
+    },
+    {
+      "id": "e37773be2c88",
+      "title": "Full-Stack Software Engineer - Careers at Peraton",
+      "company": "Peraton",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.careers.peraton.com/jobs/full-stack-software-engineer-red-bank-new-jersey-166328-jobs--cms-scientific-research-analysis--?iis=BusinessAnalyst.com00000000&iis=BusinessAnalyst.com00000000",
+      "source": "Other",
+      "description": "Full-Stack Software Engineer . 2026-166328. CAtegory: Scientific ... No remote/telework allowed \u00b7 AI/ ML Engineer /Data Scientist / Public Trust.",
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T00:49:33+00:00",
+      "fetched_at": "2026-05-04T10:03:18.996028+00:00"
     },
     {
       "id": "4481f3d7563f",
@@ -150,6 +315,21 @@
       "date": "2026-05-03",
       "timestamp": "2026-05-03T23:45:06+00:00",
       "fetched_at": "2026-05-04T06:31:32.439930+00:00"
+    },
+    {
+      "id": "0b484685c447",
+      "title": "Lead Software Engineer - Java - JPMC Candidate Experience page Careers",
+      "company": "Java - JPMC Candidate Experience page Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/210740258",
+      "source": "Other",
+      "description": "Job Summary: As a Lead Software Engineer at JPMorgan Chase within the Wholesale Credit Risk team, you will play a pivotal role in designing and ...",
+      "date": "2026-05-03",
+      "timestamp": "2026-05-03T22:17:20+00:00",
+      "fetched_at": "2026-05-04T10:03:18.996712+00:00"
     },
     {
       "id": "8f1fcc7afb47",
