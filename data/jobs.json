@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-05-04T20:55:07.529546+00:00",
-  "total_jobs": 1077,
+  "last_updated": "2026-05-05T01:23:09.360444+00:00",
+  "total_jobs": 1094,
   "stats": {
-    "total_companies": 706,
+    "total_companies": 714,
     "total_roles": 35,
     "regions": {
-      "India": 611,
-      "Philippines": 188,
-      "Remote": 147,
+      "India": 622,
+      "Philippines": 190,
+      "Remote": 151,
       "Unknown": 135
     },
     "sources": {
-      "Other": 834,
+      "Other": 848,
       "Greenhouse": 58,
-      "Workday": 45,
+      "Workday": 47,
       "LinkedIn": 41,
       "Ashby": 35,
       "Breezy": 14,
       "Lever": 14,
+      "iCIMS": 11,
       "Indeed": 10,
-      "iCIMS": 10,
       "Workable": 7,
       "SmartRecruiters": 6,
       "Recruitee": 2,
@@ -31,6 +31,201 @@
     }
   },
   "jobs": [
+    {
+      "id": "ef83c17cd90a",
+      "title": "Software Engineer (SAP ABAP Application Engineer), IS&T Enterprise Systems - Jobs",
+      "company": "Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200645295-0157/software-engineer-sap-abap-application-engineer-is-t-enterprise-systems?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Software Engineer (SAP ABAP Application Engineer), IS&T Enterprise Systems job at Apple. Read about the role and find out if it's ...",
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T23:25:50+00:00",
+      "fetched_at": "2026-05-05T01:23:08.967938+00:00"
+    },
+    {
+      "id": "f070d6ebd43e",
+      "title": "Data Engineer at UnitedHealth Group",
+      "company": "UnitedHealth Group",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.unitedhealthgroup.com/job/eden-prairie/data-engineer/34088/94702434912",
+      "source": "Other",
+      "description": "Data Engineer . Requisition number: 2352907 Job category: Technology Primary location: Eden Prairie, MN Date posted: 05/04 ...",
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T23:10:53+00:00",
+      "fetched_at": "2026-05-05T01:23:08.968122+00:00"
+    },
+    {
+      "id": "ec22f549c950",
+      "title": "Senior Software Engineer , Sensor Infrastructure - Aurora",
+      "company": "Aurora",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://aurora.tech/careers/8512871002?gh_jid=8512871002",
+      "source": "Other",
+      "description": "We're searching for a Senior Software Engineer - Camera Systems. In this role, you will. Develop software for hardware calibration, benchtop testing, ...",
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T22:52:33+00:00",
+      "fetched_at": "2026-05-05T01:23:08.968266+00:00"
+    },
+    {
+      "id": "98ff4c3dd9fc",
+      "title": "[ Software Engineer 35m] [NYC] - 620K : r/Salary - Reddit",
+      "company": "620K : r/Salary - Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/Salary/comments/1t3vc8t/software_engineer_35m_nyc_620k/",
+      "source": "Other",
+      "description": "r/Salary ... Yep, FAANG Software Engineer $840k year, work 11 hours a week. income ...",
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T22:49:53+00:00",
+      "fetched_at": "2026-05-05T01:23:08.968445+00:00"
+    },
+    {
+      "id": "e606a74601f3",
+      "title": "Software Engineer (Java) in Test Job Details - Careers at Paramount",
+      "company": "Paramount",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.paramount.com/job/New-York-Software-Engineer-%28Java%29-in-Test-NY-10036/1387748400/",
+      "source": "Other",
+      "description": "Paramount Skydance Corp. is seeking a Software Engineer in Test to design, architect, and deliver high-quality, scalable, and reliable automated ...",
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T22:37:15+00:00",
+      "fetched_at": "2026-05-05T01:23:08.968616+00:00"
+    },
+    {
+      "id": "2c5ec7c76c66",
+      "title": "Sr Software Engineer - Myworkdayjobs.com",
+      "company": "Troweprice",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Sr-Software-Engineer_81514",
+      "source": "Workday",
+      "description": "T. Rowe Price Associates, Inc. seeks a Software Engineer in Baltimore, MD to: Design, develop, modify, adapt and implement short- and long-term ...",
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T22:32:12+00:00",
+      "fetched_at": "2026-05-05T01:23:08.968703+00:00"
+    },
+    {
+      "id": "366d8b0940de",
+      "title": "Data Engineer - Data Ideology - Career Page - JazzHR",
+      "company": "Data Ideology - Career Page - JazzHR",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://dataideology.applytojob.com/apply/0ZcMZpBvsj/Data-Engineer",
+      "source": "Other",
+      "description": "Data Engineer will leverage their business and technical knowledge to develop production-ready data models by integrating multiple data sources while ...",
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T22:22:58+00:00",
+      "fetched_at": "2026-05-05T01:23:08.968849+00:00"
+    },
+    {
+      "id": "26e4e74e66d3",
+      "title": "Full Stack Engineer (Intelligence Center) - MITRE jobs",
+      "company": "MITRE jobs",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mitre.org/us/en/job/R115435/Full-Stack-Engineer-Intelligence-Center",
+      "source": "Other",
+      "description": "DevOps/ AI Engineer ... Embrace the role of a Lead Cloud Engineer and drive innovative cloud and DevOps solutions for mission-critical projects.",
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T22:09:19+00:00",
+      "fetched_at": "2026-05-05T01:23:08.969010+00:00"
+    },
+    {
+      "id": "f4d327f8af52",
+      "title": "Senior Software Engineer - App Foundations | Abnormal AI",
+      "company": "App Foundations | Abnormal AI",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://abnormal.ai/careers/jobs/7722484003?gh_jid=7722484003",
+      "source": "Other",
+      "description": "Senior Software Engineer - App Foundations. Remote - USA. /. Full-time. About the Role. Abnormal AI is looking for a Senior Backend Engineer to join ...",
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T21:44:23+00:00",
+      "fetched_at": "2026-05-05T01:23:08.969153+00:00"
+    },
+    {
+      "id": "759f75c63e19",
+      "title": "Software Engineer , AI - Logo - Myworkdayjobs.com",
+      "company": "Nant",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://nant.wd5.myworkdayjobs.com/ImmunityBio/job/Remote/Software-Engineer--AI_R2972",
+      "source": "Workday",
+      "description": "The Software Engineer \u2013 AI is a hands-on role integrating data engineering, software development, and AI agent architecture, working closely with ...",
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T21:33:05+00:00",
+      "fetched_at": "2026-05-05T01:23:08.969245+00:00"
+    },
+    {
+      "id": "6d43486f7c52",
+      "title": "Senior Software Engineer",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/trustible/jobs/fd121a38-5dbd-4e59-9fb2-35ca2131cae6",
+      "source": "Other",
+      "description": "Senior Software Engineer \u00b7 Trustible is a leading technology provider of responsible AI governance software. \u00b7 AI is the most important technology ...",
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T21:29:28+00:00",
+      "fetched_at": "2026-05-05T01:23:08.969388+00:00"
+    },
+    {
+      "id": "abdf7dae5b6c",
+      "title": "Health DevOps Engineer - Observability/Reliability in Remote - LMI",
+      "company": "Observability/Reliability in Remote - LMI",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers-lmi.icims.com/jobs/13931/health-devops-engineer---observability-reliability/job",
+      "source": "iCIMS",
+      "description": "Remote-US is now hiring a Health DevOps Engineer - Observability/Reliability in Remote. Review all of the job details and apply today!",
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T21:22:51+00:00",
+      "fetched_at": "2026-05-05T01:23:08.969642+00:00"
+    },
+    {
+      "id": "a09628affbb2",
+      "title": "Software Engineer job - Experis USA - 395621",
+      "company": "Experis USA - 395621",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.experis.com/en/job/395621/software-engineer",
+      "source": "Other",
+      "description": "Job Title: Software Engineer . Location: Austin, TX (Onsite). Pay Range: $50/hr - $65/hr. What's the Job? The primary responsibilities of this ...",
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T20:26:12+00:00",
+      "fetched_at": "2026-05-05T01:23:08.970007+00:00"
+    },
     {
       "id": "83fba479b06f",
       "title": "Senior Software Engineer , Cloud Spanner Platform \u2014 Google Careers",
@@ -45,6 +240,21 @@
       "date": "2026-05-04",
       "timestamp": "2026-05-04T20:01:08+00:00",
       "fetched_at": "2026-05-04T20:55:07.222823+00:00"
+    },
+    {
+      "id": "2a278ffd28b5",
+      "title": "Senior Embedded Software Engineer - Platform, Sunnyvale, CA, United States",
+      "company": "Platform, Sunnyvale, CA, United States",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.intuitive.com/en/jobs/744000124422859/JOB209971/senior-embedded-software-engineer-platform/",
+      "source": "Other",
+      "description": "... Software Engineer who wants to own something consequential: the ... Senior Software Engineer , Platform Engineering. Save Saved. Sunnyvale, CA ...",
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T19:55:40+00:00",
+      "fetched_at": "2026-05-05T01:23:09.354584+00:00"
     },
     {
       "id": "4597a70c5733",
@@ -62,6 +272,36 @@
       "fetched_at": "2026-05-04T20:55:07.222991+00:00"
     },
     {
+      "id": "e4b5b714abea",
+      "title": "Data Engineer , Finance Data & BI - McKesson Careers",
+      "company": "McKesson Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mckesson.com/en/job/richmond/data-engineer-finance-data-and-bi/733/94702485792",
+      "source": "Other",
+      "description": "Data Engineer , Finance Data & BI. Richmond, Virginia Job ID JR0146609 Category Data Engineering, Information Technology Post Date May. 04, 2026.",
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T19:35:10+00:00",
+      "fetched_at": "2026-05-05T01:23:08.970644+00:00"
+    },
+    {
+      "id": "611d36787981",
+      "title": "Intermediate Cloud Engineer - MITRE jobs",
+      "company": "MITRE jobs",
+      "role": "Cloud Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.mitre.org/us/en/job/R116570/Intermediate-Cloud-Engineer",
+      "source": "Other",
+      "description": "Embrace the opportunity to become a DevOps/ AI Engineer and help drive digital transformation at MITRE. ... Senior Software Engineer . Available in 3 ...",
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T19:31:47+00:00",
+      "fetched_at": "2026-05-05T01:23:09.354860+00:00"
+    },
+    {
       "id": "12b23ce98ada",
       "title": "Software Engineer II - iOS | Careers at McDonald's - Corporate",
       "company": "McDonald's",
@@ -75,6 +315,21 @@
       "date": "2026-05-04",
       "timestamp": "2026-05-04T19:25:18+00:00",
       "fetched_at": "2026-05-04T20:55:07.223219+00:00"
+    },
+    {
+      "id": "d9abb62cff4b",
+      "title": "Sr Java Software Engineer - Remote at UnitedHealth Group",
+      "company": "UnitedHealth Group",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.unitedhealthgroup.com/job/basking-ridge/sr-java-software-engineer-remote/34088/92428812512",
+      "source": "Other",
+      "description": "Connecting. Growing together. We are seeking a talented Senior Software Engineer to join the dynamic engineering team at Optum Bank as an individual ...",
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T19:23:34+00:00",
+      "fetched_at": "2026-05-05T01:23:09.355003+00:00"
     },
     {
       "id": "597d852f4b62",
