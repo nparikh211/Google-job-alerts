@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-05-05T01:23:09.360444+00:00",
-  "total_jobs": 1094,
+  "last_updated": "2026-05-05T06:08:08.114192+00:00",
+  "total_jobs": 1101,
   "stats": {
-    "total_companies": 714,
-    "total_roles": 35,
+    "total_companies": 721,
+    "total_roles": 36,
     "regions": {
-      "India": 622,
+      "India": 627,
       "Philippines": 190,
-      "Remote": 151,
+      "Remote": 153,
       "Unknown": 135
     },
     "sources": {
-      "Other": 848,
+      "Other": 854,
       "Greenhouse": 58,
       "Workday": 47,
       "LinkedIn": 41,
-      "Ashby": 35,
+      "Ashby": 36,
       "Breezy": 14,
       "Lever": 14,
       "iCIMS": 11,
@@ -27,10 +27,100 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-05-04"
+      "latest": "2026-05-05"
     }
   },
   "jobs": [
+    {
+      "id": "aae490d42804",
+      "title": "Senior Full-stack Engineer at Flick | Y Combinator",
+      "company": "Flick",
+      "role": "stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.ycombinator.com/companies/flick/jobs/mqWOs5b-senior-full-stack-engineer",
+      "source": "Other",
+      "description": "Software Engineer (Founding Team) \u00b7 Terra \u00b7 Software Engineer \u00b7 Hive \u00b7 Senior Backend Software Engineer \u00b7 Acrely \u00b7 Senior Web Platform Engineer .",
+      "date": "2026-05-05",
+      "timestamp": "2026-05-05T03:34:49+00:00",
+      "fetched_at": "2026-05-05T06:08:07.619450+00:00"
+    },
+    {
+      "id": "1dd750db85f1",
+      "title": "Senior Software Engineer - API Development at Empower",
+      "company": "Empower",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.empower.com/job/united-states/senior-software-engineer-api-development/42743/94711801904",
+      "source": "Other",
+      "description": "Senior Software Engineer - API Development. Job ID R.0058512 Date posted 05/04/2026 Worker type Regular Workplace flexibility Remote - Nationwide.",
+      "date": "2026-05-05",
+      "timestamp": "2026-05-05T02:21:01+00:00",
+      "fetched_at": "2026-05-05T06:08:07.619644+00:00"
+    },
+    {
+      "id": "35c4991c3224",
+      "title": "Data Engineer job - Experis USA - 395391",
+      "company": "Experis USA - 395391",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.experis.com/en/job/395391/data-engineer",
+      "source": "Other",
+      "description": "As a Security Data Engineer , you will be part of the Security and Analytics Department supporting Threat Management, Incident Response, Cyber ...",
+      "date": "2026-05-05",
+      "timestamp": "2026-05-05T01:34:02+00:00",
+      "fetched_at": "2026-05-05T06:08:07.620122+00:00"
+    },
+    {
+      "id": "0768eda593bc",
+      "title": "Senior Platform Engineer , Remote - Ukraine | DraftKings Careers",
+      "company": "Ukraine | DraftKings Careers",
+      "role": "Platform Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.draftkings.com/jobs/jr14150/senior-platform-engineer/",
+      "source": "Other",
+      "description": "Senior Platform Engineer . Remote - Ukraine. Engineering; Full time. a group of people sitting at tables in a room with orange walls. About DraftKings.",
+      "date": "2026-05-05",
+      "timestamp": "2026-05-05T00:29:21+00:00",
+      "fetched_at": "2026-05-05T06:08:07.620298+00:00"
+    },
+    {
+      "id": "38e81448f4ef",
+      "title": "Senior Software Engineer , Enterprise Product @ Decagon - Jobs",
+      "company": "Decagon",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/decagon/03f56b39-866b-41b7-a805-9cf2e16373b9?src=jobright",
+      "source": "Ashby",
+      "description": "... Senior Software Engineer on the Enterprise Product team, you will take ownership of designing and building robust, scalable systems that allow ...",
+      "date": "2026-05-05",
+      "timestamp": "2026-05-05T00:18:49+00:00",
+      "fetched_at": "2026-05-05T06:08:07.620574+00:00"
+    },
+    {
+      "id": "2914f90c17a5",
+      "title": "Senior Atlassian Platform Engineer - DoorDash",
+      "company": "DoorDash",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careersatdoordash.com/jobs/senior-atlassian-platform-engineer/7890244",
+      "source": "Other",
+      "description": "We are looking for a Senior Atlassian Platform Engineer to join our Enterprise Systems team. In this role, you will own the administration ...",
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T23:27:25+00:00",
+      "fetched_at": "2026-05-05T06:08:07.620755+00:00"
+    },
     {
       "id": "ef83c17cd90a",
       "title": "Software Engineer (SAP ABAP Application Engineer), IS&T Enterprise Systems - Jobs",
@@ -45,6 +135,21 @@
       "date": "2026-05-04",
       "timestamp": "2026-05-04T23:25:50+00:00",
       "fetched_at": "2026-05-05T01:23:08.967938+00:00"
+    },
+    {
+      "id": "d24b66817385",
+      "title": "Data Engineer - - 124010 - Booz | Allen | Hamilton \u00ae - Careers",
+      "company": "- 124010 - Booz | Allen | Hamilton \u00ae - Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.boozallen.com/jobs/JobDetail?jobId=124010",
+      "source": "Other",
+      "description": "Data Engineer . Fayetteville, North Carolina, USA. Apply. CREATEYOUR CAREER. CREATE AND GROW WITH US. Grow. Your growth matters to us - explore our ...",
+      "date": "2026-05-04",
+      "timestamp": "2026-05-04T23:24:47+00:00",
+      "fetched_at": "2026-05-05T06:08:07.621266+00:00"
     },
     {
       "id": "f070d6ebd43e",
