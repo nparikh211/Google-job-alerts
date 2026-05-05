@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-05-05T06:08:08.114192+00:00",
-  "total_jobs": 1101,
+  "last_updated": "2026-05-05T09:48:20.456548+00:00",
+  "total_jobs": 1108,
   "stats": {
-    "total_companies": 721,
+    "total_companies": 726,
     "total_roles": 36,
     "regions": {
-      "India": 627,
+      "India": 634,
       "Philippines": 190,
       "Remote": 153,
       "Unknown": 135
     },
     "sources": {
-      "Other": 854,
+      "Other": 859,
       "Greenhouse": 58,
       "Workday": 47,
-      "LinkedIn": 41,
+      "LinkedIn": 42,
       "Ashby": 36,
+      "Lever": 15,
       "Breezy": 14,
-      "Lever": 14,
       "iCIMS": 11,
       "Indeed": 10,
       "Workable": 7,
@@ -31,6 +31,111 @@
     }
   },
   "jobs": [
+    {
+      "id": "328e0e88b4d4",
+      "title": "Data Scientist / AI Engineer - - 76961 - Jobs at Lenovo",
+      "company": "Lenovo",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.lenovo.com/en_US/careers/JobDetail/AI-Specialist/76961",
+      "source": "Other",
+      "description": "Data Scientist / AI Engineer . General ... Share Data Scientist / AI Engineer with LinkedIn ...",
+      "date": "2026-05-05",
+      "timestamp": "2026-05-05T07:38:57+00:00",
+      "fetched_at": "2026-05-05T09:48:20.343600+00:00"
+    },
+    {
+      "id": "cf3e2b9c7330",
+      "title": "Data Engineer , Aladdin Regulatory Technology, Associate - BlackRock Careers",
+      "company": "BlackRock Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.blackrock.com/job/budapest/data-engineer-aladdin-regulatory-technology-associate/45831/94690572560",
+      "source": "Other",
+      "description": "Job description. About this role. Aladdin Engineering is seeking a talented, hands-on Data Engineer to join its Regulatory Tech team. The ...",
+      "date": "2026-05-05",
+      "timestamp": "2026-05-05T06:16:44+00:00",
+      "fetched_at": "2026-05-05T09:48:20.344210+00:00"
+    },
+    {
+      "id": "4e679713ddf3",
+      "title": "Jr. Data Engineer Job Details | Lyondell Basell North America",
+      "company": "Lyondell Basell North America",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.lyondellbasell.com/job/Mumbai-Jr_-Data-Engineer-400076/1387755000/",
+      "source": "Other",
+      "description": "Data Engineer . Location: Mumbai, IN, 400076. Req ID: 90054. Facility ... DevOps Engineer will have the opportunity to provide significant ...",
+      "date": "2026-05-05",
+      "timestamp": "2026-05-05T05:50:45+00:00",
+      "fetched_at": "2026-05-05T09:48:20.344453+00:00"
+    },
+    {
+      "id": "584bea0e3bd7",
+      "title": "Senior / Staff ML Engineer - Jobs - Careers at Apple | Ravi Sharma - LinkedIn",
+      "company": "Apple",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/ravisharma999_senior-staff-ml-engineer-jobs-careers-activity-7457119378036375552-ya8D",
+      "source": "LinkedIn",
+      "description": "We're hiring a Senior Staff ML Engineer for our team to lead the next generation of AI-driven platforms if you're passionate about building ...",
+      "date": "2026-05-05",
+      "timestamp": "2026-05-05T05:20:13+00:00",
+      "fetched_at": "2026-05-05T09:48:20.344759+00:00"
+    },
+    {
+      "id": "6463df47acf4",
+      "title": "Site Reliability Engineer -VP - Barclays Careers",
+      "company": "VP - Barclays Careers",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://search.jobs.barclays/job/whippany/site-reliability-engineer-vp/13015/93930540112",
+      "source": "Other",
+      "description": "Akshat, Senior Software Engineer , reveals the key factors behind his decision to join Barclays. ... Data Engineer AVP. Whippany (United States). 17 ...",
+      "date": "2026-05-05",
+      "timestamp": "2026-05-05T05:15:19+00:00",
+      "fetched_at": "2026-05-05T09:48:20.344937+00:00"
+    },
+    {
+      "id": "a7825deee1ad",
+      "title": "Software Engineer - Research Park - University of Illinois",
+      "company": "Research Park - University of Illinois",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://researchpark.illinois.edu/job/par-software-engineer/",
+      "source": "Other",
+      "description": "About the Role. As a Software Engineer at PAR, you will join the team responsible for Bridg, our Identity Resolution platform. This team transforms ...",
+      "date": "2026-05-05",
+      "timestamp": "2026-05-05T05:13:26+00:00",
+      "fetched_at": "2026-05-05T09:48:20.345106+00:00"
+    },
+    {
+      "id": "ad45156e4e3d",
+      "title": "Full Stack Engineer - Vogo - Lever",
+      "company": "Vogo",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.lever.co/vogo/7edac10c-1c8d-4cfc-9dd2-293df519b53f",
+      "source": "Lever",
+      "description": "Full Stack Engineer . Dallas, TX. Engineering /. Full-Time /. Hybrid. apply for this job. About Vogo. Vogo is a global travel platform that brings all ...",
+      "date": "2026-05-05",
+      "timestamp": "2026-05-05T04:40:57+00:00",
+      "fetched_at": "2026-05-05T09:48:20.345207+00:00"
+    },
     {
       "id": "aae490d42804",
       "title": "Senior Full-stack Engineer at Flick | Y Combinator",
