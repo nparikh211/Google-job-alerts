@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-05-06T17:18:21.290194+00:00",
-  "total_jobs": 1204,
+  "last_updated": "2026-05-06T20:59:12.326182+00:00",
+  "total_jobs": 1212,
   "stats": {
-    "total_companies": 783,
+    "total_companies": 787,
     "total_roles": 37,
     "regions": {
-      "India": 702,
-      "Philippines": 205,
+      "India": 709,
+      "Philippines": 206,
       "Remote": 166,
       "Unknown": 135
     },
     "sources": {
-      "Other": 936,
-      "Greenhouse": 64,
+      "Other": 942,
+      "Greenhouse": 65,
       "Workday": 51,
       "LinkedIn": 44,
-      "Ashby": 41,
+      "Ashby": 42,
       "Lever": 15,
       "Breezy": 14,
       "iCIMS": 12,
@@ -32,6 +32,51 @@
   },
   "jobs": [
     {
+      "id": "d4fba4668b50",
+      "title": "Principal Full Stack Engineer , Durham, NC | Fidelity Careers",
+      "company": "Fidelity Careers",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.fidelity.com/en/jobs/2127838/principal-full-stack-engineer/",
+      "source": "Other",
+      "description": "... Full Stack Engineer . Job role will include helping in Production ... Principal Software Engineer /Developer. Save Saved. Technology Published ...",
+      "date": "2026-05-06",
+      "timestamp": "2026-05-06T18:38:23+00:00",
+      "fetched_at": "2026-05-06T20:59:12.318005+00:00"
+    },
+    {
+      "id": "5ae91a537427",
+      "title": "Open Role \u2014 Staff Full-Stack Software Engineer (.NET & Azure) | Ripple",
+      "company": "Open Role \u2014 Staff Full",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ripple.com/careers/all-jobs/job/7896103?gh_jid=7896103",
+      "source": "Other",
+      "description": "Other common names for this role: Staff Full-Stack Engineer , Staff Software Engineer (.NET &Azure). For positions that will be based in IL, the ...",
+      "date": "2026-05-06",
+      "timestamp": "2026-05-06T18:26:11+00:00",
+      "fetched_at": "2026-05-06T20:59:11.491767+00:00"
+    },
+    {
+      "id": "47a4606bbb8a",
+      "title": "Software Engineer III - C.H. Robinson",
+      "company": "C.H. Robinson",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.chrobinson.com/it-it/about-us/careers/jobs/eden-prairie/software-engineer-iii/r48022/",
+      "source": "Other",
+      "description": "C.H Robinson is seeking a Software Engineer III on our Asset Management team where you will use your passion for technology and experience ...",
+      "date": "2026-05-06",
+      "timestamp": "2026-05-06T17:17:15+00:00",
+      "fetched_at": "2026-05-06T20:59:11.492199+00:00"
+    },
+    {
       "id": "354b39f86df8",
       "title": "Senior AI Engineer | Everforth Apex",
       "company": "Everforth Apex",
@@ -45,6 +90,21 @@
       "date": "2026-05-06",
       "timestamp": "2026-05-06T17:02:17+00:00",
       "fetched_at": "2026-05-06T17:18:20.954349+00:00"
+    },
+    {
+      "id": "b35aa0416189",
+      "title": "Software Engineer , Data Infrastructure @ Cartesia - Jobs",
+      "company": "Cartesia",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/cartesia/6cfd3ad6-dec9-499e-9a47-c90f5823ce3b",
+      "source": "Ashby",
+      "description": "... Software Engineer to help build the training data and ML data infrastructure at Cartesia. This role sits at the intersection of data systems ...",
+      "date": "2026-05-06",
+      "timestamp": "2026-05-06T16:55:58+00:00",
+      "fetched_at": "2026-05-06T20:59:11.492547+00:00"
     },
     {
       "id": "5144ceb2767e",
@@ -92,6 +152,36 @@
       "fetched_at": "2026-05-06T17:18:20.955301+00:00"
     },
     {
+      "id": "dcdce46c6c52",
+      "title": "Sr Staff Site Reliability Engineer at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/warsaw/sr-staff-site-reliability-engineer/47263/94773387760",
+      "source": "Other",
+      "description": "Sr Staff Site Reliability Engineer . Warsaw, Mazovia, Poland Product Engineering Ref ID: JR-017159. Apply Save Job. Current Employees, apply here. Our ...",
+      "date": "2026-05-06",
+      "timestamp": "2026-05-06T16:36:30+00:00",
+      "fetched_at": "2026-05-06T20:59:11.493251+00:00"
+    },
+    {
+      "id": "8242007fe183",
+      "title": "Data Engineer II, Mobile Game Analytics at Mattel - Careers",
+      "company": "Mattel",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.mattel.com/en/job/el-segundo/data-engineer-ii-mobile-game-analytics/2015/94747865584",
+      "source": "Other",
+      "description": "Posting Title Data Engineer II, Mobile Game Analytics Requisition Number R237488 Company Mattel Sales Corp. Location El Segundo, California ...",
+      "date": "2026-05-06",
+      "timestamp": "2026-05-06T16:36:03+00:00",
+      "fetched_at": "2026-05-06T20:59:11.493413+00:00"
+    },
+    {
       "id": "70fd673c57da",
       "title": "Data Engineer - Auburn Hills - Careers at Stellantis",
       "company": "Stellantis",
@@ -107,6 +197,21 @@
       "fetched_at": "2026-05-06T17:18:20.955562+00:00"
     },
     {
+      "id": "7223b888418c",
+      "title": "Data Engineer - Assistant Vice President | Citi Careers",
+      "company": "Assistant Vice President | Citi Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.citi.com/job/tampa/data-engineer-assistant-vice-president/287/94776518080",
+      "source": "Other",
+      "description": "Job Overview. We are looking for a hands-on Data Engineer who is passionate about solving business problems through innovation and engineering ...",
+      "date": "2026-05-06",
+      "timestamp": "2026-05-06T16:26:15+00:00",
+      "fetched_at": "2026-05-06T20:59:11.493737+00:00"
+    },
+    {
       "id": "6d8442610717",
       "title": "GenAI Data Engineer - Tential",
       "company": "Tential",
@@ -120,6 +225,21 @@
       "date": "2026-05-06",
       "timestamp": "2026-05-06T16:17:07+00:00",
       "fetched_at": "2026-05-06T17:18:20.955820+00:00"
+    },
+    {
+      "id": "986b9ed32bc4",
+      "title": "Job Application for Software Engineer (Full Stack) at Financial Technology Partners",
+      "company": "Financialtechnologypartners",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/financialtechnologypartners/jobs/8535618002",
+      "source": "Greenhouse",
+      "description": "2 years as a Software Engineer and reputable boot camp certification OR; Engineering degree (4 year) and some projects or work experience to show.",
+      "date": "2026-05-06",
+      "timestamp": "2026-05-06T15:28:33+00:00",
+      "fetched_at": "2026-05-06T20:59:11.494381+00:00"
     },
     {
       "id": "b9dfeb785813",
