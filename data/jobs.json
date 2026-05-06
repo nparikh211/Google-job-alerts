@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-05-05T20:49:28.327751+00:00",
-  "total_jobs": 1148,
+  "last_updated": "2026-05-06T01:20:56.481513+00:00",
+  "total_jobs": 1161,
   "stats": {
-    "total_companies": 751,
-    "total_roles": 36,
+    "total_companies": 756,
+    "total_roles": 37,
     "regions": {
-      "India": 666,
-      "Philippines": 194,
-      "Remote": 157,
+      "India": 673,
+      "Philippines": 195,
+      "Remote": 162,
       "Unknown": 135
     },
     "sources": {
-      "Other": 892,
+      "Other": 903,
       "Greenhouse": 61,
-      "Workday": 49,
+      "Workday": 50,
       "LinkedIn": 42,
-      "Ashby": 38,
+      "Ashby": 39,
       "Lever": 15,
       "Breezy": 14,
       "iCIMS": 11,
@@ -27,10 +27,175 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-05-05"
+      "latest": "2026-05-06"
     }
   },
   "jobs": [
+    {
+      "id": "863d3ce24824",
+      "title": "DevOps Engineer Specialist | Careers at McDonald's - Corporate",
+      "company": "McDonald's",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.mcdonalds.com/devops-engineer-specialist/job/BD80D3D98046E8FD7BD54617E872602F",
+      "source": "Other",
+      "description": "Join McDonald's - Corporate in by applying to the DevOps Engineer Specialist job today! Start your career in now!",
+      "date": "2026-05-06",
+      "timestamp": "2026-05-06T00:18:42+00:00",
+      "fetched_at": "2026-05-06T01:20:56.473835+00:00"
+    },
+    {
+      "id": "15c1846cf1ca",
+      "title": "Data Engineer | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.apexsystems.com/job/3028821_usa/data-engineer",
+      "source": "Other",
+      "description": "Data Engineer . Apply. Job#: 3028821. Job Description: Data Engineer . Location: Johnston, Iowa (Remote) Employment Type: Contract. Role Overview. As a ...",
+      "date": "2026-05-05",
+      "timestamp": "2026-05-05T22:32:32+00:00",
+      "fetched_at": "2026-05-06T01:20:56.297192+00:00"
+    },
+    {
+      "id": "09f3b1992f7b",
+      "title": "Software Engineer - Cloud Infrastructure, Golang - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200661492/software-engineer-cloud-infrastructure-golang?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Software Engineer - Cloud Infrastructure, Golang job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-05-05",
+      "timestamp": "2026-05-05T22:29:47+00:00",
+      "fetched_at": "2026-05-06T01:20:56.297562+00:00"
+    },
+    {
+      "id": "3aef440b22da",
+      "title": "Careers Home - DocuSign Careers",
+      "company": "Unknown Company",
+      "role": "Careers Home - DocuSign Careers",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.docusign.com/careers-home/jobs",
+      "source": "Other",
+      "description": "Software Engineer . Categories Engineering. Location Bengaluru, Karnataka ... Senior Machine Learning Engineer . Categories Engineering. Location ...",
+      "date": "2026-05-05",
+      "timestamp": "2026-05-05T22:20:50+00:00",
+      "fetched_at": "2026-05-06T01:20:56.297957+00:00"
+    },
+    {
+      "id": "a9db7320dd95",
+      "title": "Big Data Engineer - Tential",
+      "company": "Tential",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://wordpress.tential.com/jobs/big-data-engineer-18877/",
+      "source": "Other",
+      "description": "Now hiring a Big Data Engineer in Rockville, Maryland for a data position. Read the full job description and apply online today on ...",
+      "date": "2026-05-05",
+      "timestamp": "2026-05-05T22:07:05+00:00",
+      "fetched_at": "2026-05-06T01:20:56.298107+00:00"
+    },
+    {
+      "id": "a5ecf0abd293",
+      "title": "Software Engineer , Guest & Host - Careers at Airbnb",
+      "company": "Airbnb",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.airbnb.com/positions/7892069/",
+      "source": "Other",
+      "description": "Software Engineer , Guest & Host. Remote, USA. Role overview. Application. Airbnb was born in 2007 when two hosts welcomed three guests to their San ...",
+      "date": "2026-05-05",
+      "timestamp": "2026-05-05T22:05:11+00:00",
+      "fetched_at": "2026-05-06T01:20:56.474741+00:00"
+    },
+    {
+      "id": "fc22a6fe1987",
+      "title": "Software Engineer , Guest & Host - Careers at Airbnb",
+      "company": "Airbnb",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.airbnb.com/positions/7892069/?gh_jid=7892069",
+      "source": "Other",
+      "description": "Software Engineer , Guest & Host. Remote, USA. Role overview. Application. Airbnb was born in 2007 when two hosts welcomed three guests to their San ...",
+      "date": "2026-05-05",
+      "timestamp": "2026-05-05T22:03:10+00:00",
+      "fetched_at": "2026-05-06T01:20:56.298244+00:00"
+    },
+    {
+      "id": "f82532d1dea1",
+      "title": "Senior Software Engineer , ML Data @ Voxel - Jobs",
+      "company": "Voxel",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/voxel/d625aa10-6a0e-4359-b465-e23408216d3b",
+      "source": "Ashby",
+      "description": "SENIOR SOFTWARE ENGINEER , ML DATA San Francisco, CA \u00b7 Hybrid \u00b7 Reports to Head of Vision & AI WHO WE ARE Voxel is building the future of Computer ...",
+      "date": "2026-05-05",
+      "timestamp": "2026-05-05T21:47:36+00:00",
+      "fetched_at": "2026-05-06T01:20:56.298387+00:00"
+    },
+    {
+      "id": "e7d06661637b",
+      "title": "Senior Software Engineer , Care Experience - - Toast",
+      "company": "- Toast",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.toasttab.com/jobs/senior-software-engineer-care-experience",
+      "source": "Other",
+      "description": "Senior Software Engineer , Care Experience ... About Toast: Toast is driven by building the restaurant platform that helps restaurants adapt, take ...",
+      "date": "2026-05-05",
+      "timestamp": "2026-05-05T21:21:33+00:00",
+      "fetched_at": "2026-05-06T01:20:56.298558+00:00"
+    },
+    {
+      "id": "3eaecb8d408f",
+      "title": "Senior Software Engineer - Logo - Myworkdayjobs.com",
+      "company": "Dtn",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://dtn.wd1.myworkdayjobs.com/dtn_careers/job/remote-tx/senior-software-engineer_r-003071",
+      "source": "Workday",
+      "description": "DTN is looking for a full stack Senior Software Engineer to join our team. In this role, you'll work on innovative products within DTN's Energy ...",
+      "date": "2026-05-05",
+      "timestamp": "2026-05-05T21:07:06+00:00",
+      "fetched_at": "2026-05-06T01:20:56.298665+00:00"
+    },
+    {
+      "id": "bc0d63571951",
+      "title": "Software Engineer (GenAI Evaluations), AI & Data Platforms (AiDP) - Jobs",
+      "company": "Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200660636-3956/software-engineer-genai-evaluations-ai-data-platforms-aidp",
+      "source": "Other",
+      "description": "Apply for a Software Engineer (GenAI Evaluations), AI & Data Platforms (AiDP) job at Apple. Read about the role and find out if it's right for ...",
+      "date": "2026-05-05",
+      "timestamp": "2026-05-05T20:49:58+00:00",
+      "fetched_at": "2026-05-06T01:20:56.298892+00:00"
+    },
     {
       "id": "b4a6c4ee844d",
       "title": "Data Engineer | Everforth Apex",
@@ -45,6 +210,21 @@
       "date": "2026-05-05",
       "timestamp": "2026-05-05T20:03:33+00:00",
       "fetched_at": "2026-05-05T20:49:27.959760+00:00"
+    },
+    {
+      "id": "769d3983c385",
+      "title": "Senior Software Engineer , Full Stack in Multiple Locations | Schneider Electric",
+      "company": "Schneider Electric",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.se.com/jobs/116197?lang=en-us",
+      "source": "Other",
+      "description": "Job Description. Senior Software Engineer \u2013 Full Stack (.NET / React). Efficiency Group \u2013 PCIS Platform. For this U.S. based position, ...",
+      "date": "2026-05-05",
+      "timestamp": "2026-05-05T19:37:04+00:00",
+      "fetched_at": "2026-05-06T01:20:56.299296+00:00"
     },
     {
       "id": "13a9aa380c79",
@@ -150,6 +330,21 @@
       "date": "2026-05-05",
       "timestamp": "2026-05-05T18:18:35+00:00",
       "fetched_at": "2026-05-05T20:49:27.960982+00:00"
+    },
+    {
+      "id": "70d11eef8629",
+      "title": "Data Engineer I, AWS WW Field Enablement, Analytics and Product Operations - Job ID",
+      "company": "Job ID",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://amazon.jobs/en/jobs/10410579/data-engineer-i-aws-ww-field-enablement-analytics-and-product-operations",
+      "source": "Other",
+      "description": "AWS Worldwide Field Enablement (WWFE) is looking for a Data Engineer helping us evolving our data infrastructure to next phase of providing insights ...",
+      "date": "2026-05-05",
+      "timestamp": "2026-05-05T18:15:44+00:00",
+      "fetched_at": "2026-05-06T01:20:56.300779+00:00"
     },
     {
       "id": "c927fd11098b",
