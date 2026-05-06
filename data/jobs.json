@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-05-06T06:22:55.440232+00:00",
-  "total_jobs": 1169,
+  "last_updated": "2026-05-06T10:05:18.351893+00:00",
+  "total_jobs": 1176,
   "stats": {
-    "total_companies": 760,
+    "total_companies": 765,
     "total_roles": 37,
     "regions": {
-      "India": 678,
-      "Philippines": 198,
-      "Remote": 162,
+      "India": 679,
+      "Philippines": 203,
+      "Remote": 163,
       "Unknown": 135
     },
     "sources": {
-      "Other": 910,
+      "Other": 916,
       "Greenhouse": 61,
       "Workday": 50,
       "LinkedIn": 43,
-      "Ashby": 39,
+      "Ashby": 40,
       "Lever": 15,
       "Breezy": 14,
       "iCIMS": 11,
@@ -32,6 +32,96 @@
   },
   "jobs": [
     {
+      "id": "9ac060ff30c0",
+      "title": "Senior Cloud Engineer - Job Market",
+      "company": "Job Market",
+      "role": "Cloud Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.koerber.com/pharma/job/Apex-Senior-Cloud-Engineer-NC/1390596133/",
+      "source": "Other",
+      "description": "Senior Cloud Engineer . Company: K\u00f6rber Pharma Software, Inc. Location: Apex, NC, US Remote work, US. Job ID: 9652. Senior Cloud Engineer . K\u00f6rber is ...",
+      "date": "2026-05-06",
+      "timestamp": "2026-05-06T08:09:44+00:00",
+      "fetched_at": "2026-05-06T10:05:18.343555+00:00"
+    },
+    {
+      "id": "7e82ad08ea57",
+      "title": "Senior Software Engineer , Picture Quality - Hsinchu, Taiwan - Roku Jobs",
+      "company": "Hsinchu, Taiwan - Roku Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.weareroku.com/jobs/senior-software-engineer-picture-quality-hsinchu-taiwan-b47d7fa2-cd07-4ff3-9b86-a6280637d353",
+      "source": "Other",
+      "description": "Roku TV Technology SW team work closely Display , Picture Quality and NPI Team to enable new features for Roku TV. As Senior Software Engineer working ...",
+      "date": "2026-05-06",
+      "timestamp": "2026-05-06T06:16:59+00:00",
+      "fetched_at": "2026-05-06T10:05:18.343915+00:00"
+    },
+    {
+      "id": "30260c2997fc",
+      "title": "Senior Software Engineer , Information Security @ Commure - Jobs",
+      "company": "Commure",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/commure/7b285a52-77fe-4c2d-89ee-b85b87fba853",
+      "source": "Ashby",
+      "description": "... Senior Software Engineer to architect scalable detection frameworks, integrate threat intelligence into automated security pipelines, and build AI ...",
+      "date": "2026-05-06",
+      "timestamp": "2026-05-06T05:35:22+00:00",
+      "fetched_at": "2026-05-06T10:05:18.344043+00:00"
+    },
+    {
+      "id": "80d06bcfe61a",
+      "title": "Software Engineer Technical Leader - Tetragon in San Jose, California, United States of America",
+      "company": "Tetragon in San Jose, California, United States of America",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/2012513/Software-Engineer-Technical-Leader-Tetragon",
+      "source": "Other",
+      "description": "Software Engineer Technical Leader - Tetragon \u00b7 Design and implement Runtime Security features for Tetragon. \u00b7 Develop high-quality Go (and eBPF) code ...",
+      "date": "2026-05-06",
+      "timestamp": "2026-05-06T05:24:06+00:00",
+      "fetched_at": "2026-05-06T10:05:18.344252+00:00"
+    },
+    {
+      "id": "eac13b1a9426",
+      "title": "Software Engineer - Fullstack Developer in Bengaluru, Karn\u0101taka, 560048 - HPE Careers",
+      "company": "Software Engineer",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.hpe.com/us/en/job/1205750/Software-Engineer-Fullstack-Developer",
+      "source": "Other",
+      "description": "Apply for Software Engineer - Fullstack Developer job with HPE in Bengaluru, Karn\u0101taka, 560048. Engineering & QA at HPE.",
+      "date": "2026-05-06",
+      "timestamp": "2026-05-06T04:55:47+00:00",
+      "fetched_at": "2026-05-06T10:05:18.344418+00:00"
+    },
+    {
+      "id": "1f3563713545",
+      "title": "Data Engineer / Senior Data Engineer | NTEN Job Board",
+      "company": "NTEN Job Board",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.nten.org/jobs/data-engineer-senior-data-engineer",
+      "source": "Other",
+      "description": "We are looking for 2 roles, one Senior and one Senior or Mid-level Data Engineer to join the Tech department. What the work looks like for our data ...",
+      "date": "2026-05-06",
+      "timestamp": "2026-05-06T04:14:50+00:00",
+      "fetched_at": "2026-05-06T10:05:18.344565+00:00"
+    },
+    {
       "id": "122fa19e2a1b",
       "title": "Full Stack Software Engineer , Productivity Apps - Jobs - Careers at Apple",
       "company": "Apple",
@@ -45,6 +135,21 @@
       "date": "2026-05-06",
       "timestamp": "2026-05-06T03:37:48+00:00",
       "fetched_at": "2026-05-06T06:22:55.432395+00:00"
+    },
+    {
+      "id": "5fe17ced659a",
+      "title": "Principal Data Engineer in Dallas, Texas | Technology and Digital Analytics at Humana",
+      "company": "Humana",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.humana.com/us/en/job/R-413834/Principal-Data-Engineer",
+      "source": "Other",
+      "description": "Principal Data Engineer . Description. Become a part of our caring ... Lead Applied AI Engineer (Agentic AI). Available in 6 locationsAvailable ...",
+      "date": "2026-05-06",
+      "timestamp": "2026-05-06T01:34:14+00:00",
+      "fetched_at": "2026-05-06T10:05:18.344857+00:00"
     },
     {
       "id": "dc381facda4e",
