@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-05-07T01:26:27.924975+00:00",
-  "total_jobs": 1228,
+  "last_updated": "2026-05-07T06:28:06.668988+00:00",
+  "total_jobs": 1239,
   "stats": {
-    "total_companies": 796,
+    "total_companies": 802,
     "total_roles": 38,
     "regions": {
-      "India": 720,
-      "Philippines": 206,
-      "Remote": 171,
+      "India": 726,
+      "Philippines": 210,
+      "Remote": 172,
       "Unknown": 135
     },
     "sources": {
-      "Other": 953,
+      "Other": 964,
       "Greenhouse": 66,
       "Workday": 51,
       "LinkedIn": 46,
@@ -27,10 +27,130 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-05-06"
+      "latest": "2026-05-07"
     }
   },
   "jobs": [
+    {
+      "id": "b61b51867302",
+      "title": "[ Software Engineer ] [VHCOL] - $550k : r/Salary - Reddit",
+      "company": "$550k : r/Salary - Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.reddit.com/r/Salary/comments/1t5rs00/software_engineer_vhcol_550k/",
+      "source": "Other",
+      "description": "[ Senior Software Engineer ] [VA, USA] - $132,600. 16 upvotes \u00b7 40 ... r/Salary - [Senior Data Engineer ] [Remote, US] - $182. 45 upvotes \u00b7 22 ...",
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T04:31:06+00:00",
+      "fetched_at": "2026-05-07T06:28:06.271895+00:00"
+    },
+    {
+      "id": "ca9707cb21b5",
+      "title": "Senior Software Engineer , Embedded Software Automation and Tools - Roku Jobs",
+      "company": "Roku Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.weareroku.com/jobs/senior-software-engineer-embedded-software-automation-and-tools-cambridge-england-united-kingdom",
+      "source": "Other",
+      "description": "Senior Software Engineer , Embedded Software Automation and Tools. Software Engineering | Cambridge, United Kingdom | ID: 11138. Apply View more jobs ...",
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T04:23:02+00:00",
+      "fetched_at": "2026-05-07T06:28:06.660059+00:00"
+    },
+    {
+      "id": "84abe2f7f1fe",
+      "title": "Site Reliability Engineer - FedRAMP in San Francisco, California, United States of America",
+      "company": "FedRAMP in San Francisco, California, United States of America",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2010472EXTERNALENGLOBAL/Site-Reliability-Engineer-FedRAMP",
+      "source": "Other",
+      "description": "Apply for Site Reliability Engineer - FedRAMP job with Cisco in San Francisco, California, United States of America. Product and Engineering at ...",
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T03:38:08+00:00",
+      "fetched_at": "2026-05-07T06:28:06.272183+00:00"
+    },
+    {
+      "id": "0c53489b9c4b",
+      "title": "Software Engineer II - AI in United States | McGraw Hill LLC.",
+      "company": "AI in United States | McGraw Hill LLC.",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mheducation.com/jobs/6753?lang=en-us",
+      "source": "Other",
+      "description": "McGraw Hill is hiring a Software Engineer II - AI in United States. Review all of the job details and apply today!",
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T03:34:40+00:00",
+      "fetched_at": "2026-05-07T06:28:06.272525+00:00"
+    },
+    {
+      "id": "86a36333d74d",
+      "title": "Lead Software Engineer - McLean - Capital One Career",
+      "company": "McLean - Capital One Career",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.capitalonecareers.com/job/mclean/lead-software-engineer/1732/94789243376",
+      "source": "Other",
+      "description": "Lead AI/ ML Engineer (Platform, kubeflow). San Jose, California \u00b7 94779280960. Lead Software Engineer , Back End (Java, Python, AWS). McLean, Virginia.",
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T03:34:35+00:00",
+      "fetched_at": "2026-05-07T06:28:06.272720+00:00"
+    },
+    {
+      "id": "7ee994b36b13",
+      "title": "Software Engineer Senior - Embedded, Dallas, TX - Lockheed Martin Careers",
+      "company": "Embedded, Dallas, TX - Lockheed Martin Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.lockheedmartinjobs.com/job/grand-prairie/software-engineer-senior-embedded-dallas-tx/694/94781616320",
+      "source": "Other",
+      "description": "Learn more about applying for Software Engineer Senior - Embedded, Dallas, TX at Lockheed Martin Corporation.",
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T02:02:51+00:00",
+      "fetched_at": "2026-05-07T06:28:06.660875+00:00"
+    },
+    {
+      "id": "bee9f712951b",
+      "title": "Senior Software Engineer : Payments at Jack Henry & Associates, Inc",
+      "company": "Jack Henry & Associates, Inc",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.jackhenry.com/job/united-states/senior-software-engineer-payments/42859/94779576672",
+      "source": "Other",
+      "description": "overview. As a Senior Software Engineer : Payments at Jack Henry, you'll have the opportunity to drive innovation and build platforms that will help ...",
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T00:02:38+00:00",
+      "fetched_at": "2026-05-07T06:28:06.272893+00:00"
+    },
+    {
+      "id": "3d58cea125c5",
+      "title": "26M Salary Progression as a software engineer . - Reddit",
+      "company": "Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/Salary/comments/1t52pqq/26m_salary_progression_as_a_software_engineer/",
+      "source": "Other",
+      "description": "42 year old Software Engineer here. Nah! Engineering, by ... Software Engineer . Low COL area. 610 upvotes \u00b7 144 comments. 26m Salary ...",
+      "date": "2026-05-06",
+      "timestamp": "2026-05-06T23:45:34+00:00",
+      "fetched_at": "2026-05-07T06:28:06.273095+00:00"
+    },
     {
       "id": "4960d990a80f",
       "title": "Senior Software Engineer - PlayOn - Lever",
@@ -60,6 +180,36 @@
       "date": "2026-05-06",
       "timestamp": "2026-05-06T23:31:11+00:00",
       "fetched_at": "2026-05-07T01:26:27.597073+00:00"
+    },
+    {
+      "id": "1b89ad9a7861",
+      "title": "Lead Full Stack Engineer in Louisville, Kentucky | Technology and Digital Analytics at Humana",
+      "company": "Humana",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.humana.com/us/en/job/R-415340/Lead-Full-Stack-Engineer",
+      "source": "Other",
+      "description": "Lead Full Stack Engineer . Description. Become a part of our caring ... Senior DevOps Platform Engineer . Available in 7 locationsAvailable in 7 ...",
+      "date": "2026-05-06",
+      "timestamp": "2026-05-06T23:29:19+00:00",
+      "fetched_at": "2026-05-07T06:28:06.661593+00:00"
+    },
+    {
+      "id": "201465a0de37",
+      "title": "Lead Data Engineer in Louisville, Kentucky | Technology and Digital Analytics at Humana",
+      "company": "Humana",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.humana.com/us/en/job/R-413566/Lead-Data-Engineer",
+      "source": "Other",
+      "description": "Lead Data Engineer . Description. Become a part of our caring ... Lead Applied AI Engineer (Agentic AI). Available in 6 locationsAvailable ...",
+      "date": "2026-05-06",
+      "timestamp": "2026-05-06T23:06:17+00:00",
+      "fetched_at": "2026-05-07T06:28:06.273466+00:00"
     },
     {
       "id": "095e06a049ba",
@@ -135,6 +285,21 @@
       "date": "2026-05-06",
       "timestamp": "2026-05-06T20:22:18+00:00",
       "fetched_at": "2026-05-07T01:26:27.598644+00:00"
+    },
+    {
+      "id": "bfa54436149f",
+      "title": "Senior Embedded Software Engineer - Advanced Energy, Sunnyvale, CA, United States",
+      "company": "Advanced Energy, Sunnyvale, CA, United States",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.intuitive.com/en/jobs/744000124958859/JOB214423/senior-embedded-software-engineer-advanced-energy/",
+      "source": "Other",
+      "description": "Job Description Primary Function of Position The Senior Embedded Software Engineer brings a key contribution to a team responsible for the ...",
+      "date": "2026-05-06",
+      "timestamp": "2026-05-06T20:02:31+00:00",
+      "fetched_at": "2026-05-07T06:28:06.663065+00:00"
     },
     {
       "id": "34eba2ce37fd",
