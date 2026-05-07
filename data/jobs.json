@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-05-07T17:28:34.649608+00:00",
-  "total_jobs": 1265,
+  "last_updated": "2026-05-07T20:54:28.116928+00:00",
+  "total_jobs": 1281,
   "stats": {
-    "total_companies": 819,
+    "total_companies": 828,
     "total_roles": 40,
     "regions": {
-      "India": 741,
-      "Philippines": 217,
-      "Remote": 176,
+      "India": 755,
+      "Philippines": 218,
+      "Remote": 177,
       "Unknown": 135
     },
     "sources": {
-      "Other": 982,
-      "Greenhouse": 68,
+      "Other": 993,
+      "Greenhouse": 70,
       "Workday": 52,
       "LinkedIn": 48,
-      "Ashby": 43,
+      "Ashby": 44,
       "Lever": 17,
-      "Breezy": 14,
-      "iCIMS": 12,
+      "Breezy": 15,
+      "iCIMS": 13,
       "Indeed": 10,
       "SmartRecruiters": 8,
       "Workable": 7,
@@ -32,6 +32,201 @@
     }
   },
   "jobs": [
+    {
+      "id": "fdbacbedc220",
+      "title": "Cloud Engineer in Scott Afb, Illinois, United States - SAIC Careers",
+      "company": "SAIC Careers",
+      "role": "Cloud Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.saic.com/jobs/17709751-cloud-engineer",
+      "source": "Other",
+      "description": "Description. *$5k sign-on bonus included if you have all certifications*. SAIC is seeking a skilled and motivated Cloud Engineer to join our team ...",
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T19:58:27+00:00",
+      "fetched_at": "2026-05-07T20:54:28.028978+00:00"
+    },
+    {
+      "id": "fce931aaabef",
+      "title": "Senior Software Engineer , Google Pay and Wallet",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.google.com/jobs/results/123471262365164230-senior-software-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer . Mountain View, CA, USA; San Bruno, CA, USA ... Senior Software Engineer , Google Pay and Wallet. share. linkCopy link ...",
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T19:56:25+00:00",
+      "fetched_at": "2026-05-07T20:54:28.029195+00:00"
+    },
+    {
+      "id": "986976f00769",
+      "title": "Job Application for Senior Software Engineer , Full Stack at Sidecar Health - Greenhouse",
+      "company": "Sidecarhealth",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/sidecarhealth/jobs/5990177004",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer , Full Stack. Remote. Apply. Sidecar Health is redefining health insurance. Our mission is to make excellent healthcare ...",
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T19:17:18+00:00",
+      "fetched_at": "2026-05-07T20:54:28.029299+00:00"
+    },
+    {
+      "id": "1a785855b7fd",
+      "title": "AI Data Engineer - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200660980-0836/ai-data-engineer?team=CORSV",
+      "source": "Other",
+      "description": "Apply for a AI Data Engineer job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T19:16:15+00:00",
+      "fetched_at": "2026-05-07T20:54:28.029564+00:00"
+    },
+    {
+      "id": "b176bf71c3e8",
+      "title": "AI Engineer in Fairfax, Virginia | Careers at ILS Headquarters",
+      "company": "ILS Headquarters",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers-intllogic.icims.com/jobs/1308/ai-engineer/job",
+      "source": "iCIMS",
+      "description": "ILS Headquarters is now hiring a AI Engineer in Fairfax, Virginia. Review all of the job details and apply today!",
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T19:06:04+00:00",
+      "fetched_at": "2026-05-07T20:54:28.029882+00:00"
+    },
+    {
+      "id": "97e295a0896f",
+      "title": "Backend Software Engineer , Applied Foundations - OpenAI",
+      "company": "OpenAI",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://openai.com/careers/backend-software-engineer-applied-foundations-san-francisco/",
+      "source": "Other",
+      "description": "Backend Software Engineer , Applied Foundations \u00b7 Architect, build, and improve scalable backend systems and APIs. \u00b7 Drive performance, reliability, and ...",
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T18:52:54+00:00",
+      "fetched_at": "2026-05-07T20:54:28.030090+00:00"
+    },
+    {
+      "id": "fc15704a0257",
+      "title": "Data Engineer - Technical/User support - Caterpillar Careers",
+      "company": "Technical/User support - Caterpillar Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.caterpillar.com/en/jobs/r0000366221/data-engineer-technicaluser-support/",
+      "source": "Other",
+      "description": "Similar Jobs. Data Specialist. Save Saved. East Peoria, Illinois, United States of America. Senior Software Engineer . Save Saved. Bangalore, Karn\u0101taka ...",
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T18:47:34+00:00",
+      "fetched_at": "2026-05-07T20:54:28.030285+00:00"
+    },
+    {
+      "id": "fa84684c7531",
+      "title": "Software Engineer Journeyman (Mobile Developer) at DS2",
+      "company": "Ds2",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ds2.breezy.hr/p/dea06f1ddcab-software-engineer-journeyman-mobile-developer",
+      "source": "Breezy",
+      "description": "Software Engineer Journeyman (Mobile Developer) Are you interested in creating mission critical software to support our warfighter?",
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T18:05:55+00:00",
+      "fetched_at": "2026-05-07T20:54:28.030407+00:00"
+    },
+    {
+      "id": "205dc7e59117",
+      "title": "Senior AWS Cloud DevOps Engineer in Coppell, Texas, 75019 - AAA Careers",
+      "company": "AAA Careers",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.ace.aaa.com/us/en/job/JR202634429/Senior-AWS-Cloud-DevOps-Engineer",
+      "source": "Other",
+      "description": "Senior AWS Cloud DevOps Engineer . Apply Now. JOB DESCRIPTION. Senior AWS Cloud DevOps Engineer ... Software Engineer - Hybrid. Location Coppell, Texas, ...",
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T17:49:36+00:00",
+      "fetched_at": "2026-05-07T20:54:28.030557+00:00"
+    },
+    {
+      "id": "8f4e3fdd4e0e",
+      "title": "Data Engineer II, Network Design Planning & Engineering - Job ID - Amazon Careers",
+      "company": "Job ID - Amazon Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.amazon.jobs/en/jobs/10413579/data-engineer-ii-network-design-planning-engineering",
+      "source": "Other",
+      "description": "Description. As a Data Engineer on the Network Design team, you'll architect the data infrastructure behind how Amazon moves millions of packages ...",
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T17:35:30+00:00",
+      "fetched_at": "2026-05-07T20:54:28.030791+00:00"
+    },
+    {
+      "id": "c2bbef500f63",
+      "title": "Staff Machine Learning Engineer @ Material Security - Jobs",
+      "company": "Materialsecurity",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/materialsecurity/576a136a-a7fd-4e7f-96c6-8b20a0d01ad4",
+      "source": "Ashby",
+      "description": "The Machine Learning Engineer builds, deploys and maintains high quality models that detece security relevant data and behavior (phishing emails, ...",
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T17:31:06+00:00",
+      "fetched_at": "2026-05-07T20:54:28.109771+00:00"
+    },
+    {
+      "id": "b528951d2a60",
+      "title": "Software Engineer at UnitedHealth Group",
+      "company": "UnitedHealth Group",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.unitedhealthgroup.com/job/gurgaon/software-engineer/34088/94792688032",
+      "source": "Other",
+      "description": "Software Engineer . Requisition number: 2360693 Job category: Technology Primary location: Gurgaon, Haryana Date posted: 05/06/ ...",
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T17:22:23+00:00",
+      "fetched_at": "2026-05-07T20:54:28.030924+00:00"
+    },
+    {
+      "id": "567300720306",
+      "title": "Data Engineer (Snowflake) - Global Bridge InfoTech Inc. - Hybrid in Richardson, TX, US",
+      "company": "Global Bridge InfoTech Inc. - Hybrid in Richardson, TX, US",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.dice.com/job-detail/e0010a3e-9698-4e0f-aad8-82064294d98c",
+      "source": "Other",
+      "description": "20 hours ago - Title: Data Engineer (Snowflake, SQL, ETL, Python)Location: Richardson, TX (Onsite Interview)Duration: Long-term ContractRequired ...",
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T17:00:21+00:00",
+      "fetched_at": "2026-05-07T20:54:28.031105+00:00"
+    },
     {
       "id": "b23a7ba7caa4",
       "title": "AI Engineer - Howmet Aerospace Careers - Cloud Sign In",
@@ -61,6 +256,51 @@
       "date": "2026-05-07",
       "timestamp": "2026-05-07T16:51:57+00:00",
       "fetched_at": "2026-05-07T17:28:34.304418+00:00"
+    },
+    {
+      "id": "3f687a261741",
+      "title": "Sr Staff Software Engineer at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/bengaluru/sr-staff-software-engineer/47263/91582226240",
+      "source": "Other",
+      "description": "Sr Staff Software Engineer . Bengaluru, Karnataka, India Product Engineering Ref ID: JR-014356. Apply Save Job. Current Employees, apply here. Our ...",
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T16:48:29+00:00",
+      "fetched_at": "2026-05-07T20:54:28.031471+00:00"
+    },
+    {
+      "id": "1568429d8097",
+      "title": "Job Application for Software Engineer , Infrastructure at CLEAR - Corporate - Greenhouse",
+      "company": "Clear",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/clear/jobs/7901600",
+      "source": "Greenhouse",
+      "description": "Software Engineer , Infrastructure. New York, New York, United States. Apply. CLEAR is building THE secure identity company of the future. Our mission ...",
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T16:42:21+00:00",
+      "fetched_at": "2026-05-07T20:54:28.031547+00:00"
+    },
+    {
+      "id": "57332472d3c7",
+      "title": "Software Engineer 2 - BHE Career Site Careers - Sign in",
+      "company": "BHE Career Site Careers - Sign in",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10004958",
+      "source": "Other",
+      "description": "Job Description. \ufeffUnder limited supervision, the software engineer 2 participates in the design, programming, testing, documentation and ...",
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T16:39:42+00:00",
+      "fetched_at": "2026-05-07T20:54:28.031723+00:00"
     },
     {
       "id": "ab68c50da2dc",
