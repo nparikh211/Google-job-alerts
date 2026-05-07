@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-05-07T10:11:13.639433+00:00",
-  "total_jobs": 1243,
+  "last_updated": "2026-05-07T13:21:48.366179+00:00",
+  "total_jobs": 1252,
   "stats": {
-    "total_companies": 803,
+    "total_companies": 811,
     "total_roles": 40,
     "regions": {
-      "India": 729,
-      "Philippines": 211,
-      "Remote": 172,
+      "India": 732,
+      "Philippines": 214,
+      "Remote": 175,
       "Unknown": 135
     },
     "sources": {
-      "Other": 965,
-      "Greenhouse": 66,
-      "Workday": 51,
+      "Other": 971,
+      "Greenhouse": 67,
+      "Workday": 52,
       "LinkedIn": 48,
       "Ashby": 43,
       "Lever": 17,
@@ -23,6 +23,7 @@
       "SmartRecruiters": 7,
       "Workable": 7,
       "Recruitee": 2,
+      "ADP": 1,
       "Jobvite": 1
     },
     "date_range": {
@@ -31,6 +32,111 @@
     }
   },
   "jobs": [
+    {
+      "id": "a78d27a0a6d3",
+      "title": "Senior Software Engineer - TriNet Hire",
+      "company": "TriNet Hire",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://app.trinethire.com/companies/38688-zontal-inc/jobs/120182-senior-software-engineer",
+      "source": "Other",
+      "description": "As a Senior Software Engineer , you will design and deliver production\u2011grade applications and data solutions supporting scientific workflows across ...",
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T13:05:08+00:00",
+      "fetched_at": "2026-05-07T13:21:48.356567+00:00"
+    },
+    {
+      "id": "1addec345225",
+      "title": "Software Engineer (Fully Remote) - Axiom Cloud - Career Page",
+      "company": "Axiom Cloud - Career Page",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://axiomcloud.applytojob.com/apply/4KchornRQq/Software-Engineer-Fully-Remote",
+      "source": "Other",
+      "description": "We are looking for a Software Engineer who wants to work at the intersection of IoT, cloud infrastructure, and real-world energy systems; and who ...",
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T12:59:31+00:00",
+      "fetched_at": "2026-05-07T13:21:48.356745+00:00"
+    },
+    {
+      "id": "cb220fb18de1",
+      "title": "Associate Software Engineer - Career Center | Recruitment",
+      "company": "Career Center | Recruitment",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=5c500a2b-27a7-4828-9817-166ddd8fb76e&ccId=19000101_000001&jobId=938183",
+      "source": "ADP",
+      "description": "Associate Software Engineer ... The role provides strong mentorship and growth opportunities toward becoming a well-rounded full-stack engineer .",
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T10:49:29+00:00",
+      "fetched_at": "2026-05-07T13:21:48.268167+00:00"
+    },
+    {
+      "id": "21333eb2ffbf",
+      "title": "Job Application for Senior Software Engineer , Backend at Sidecar Health - Greenhouse",
+      "company": "Sidecarhealth",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/sidecarhealth/jobs/5990181004",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer , Backend. Remote. Apply. Sidecar Health is redefining health insurance. Our mission is to make excellent healthcare ...",
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T10:34:04+00:00",
+      "fetched_at": "2026-05-07T13:21:48.357112+00:00"
+    },
+    {
+      "id": "200b630457c2",
+      "title": "Pega Software Engineer -Intermediate Level - USAA Careers",
+      "company": "Intermediate Level - USAA Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.usaajobs.com/job/san-antonio/pega-software-engineer-intermediate-level/1207/94791245088",
+      "source": "Other",
+      "description": "Learn more about and apply for the Pega Software Engineer -Intermediate Level job at USAA here.",
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T09:50:39+00:00",
+      "fetched_at": "2026-05-07T13:21:48.357365+00:00"
+    },
+    {
+      "id": "c75ae28acbe8",
+      "title": "Senior Software Engineer , Node/Typescript - Manchester, England, United Kingdom",
+      "company": "Manchester, England, United Kingdom",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.weareroku.com/jobs/senior-software-engineer-node-typescript-manchester-england-united-kingdom",
+      "source": "Other",
+      "description": "About the Role. We are looking for a Senior Software Engineer with deep backend expertise in TypeScript/Node.js to join our Enterprise Engineering Web ...",
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T08:18:30+00:00",
+      "fetched_at": "2026-05-07T13:21:48.268623+00:00"
+    },
+    {
+      "id": "19c119b5ba33",
+      "title": "Enterprise AI Engineer I in Gurgaon, Hary\u0101na - Expedia Group | Careers",
+      "company": "Expedia Group | Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.expediagroup.com/job/enterprise-ai-engineer-i/gurgaon-hary-na/R-104832/",
+      "source": "Other",
+      "description": "We're hiring an early\u2011career Enterprise AI Engineer I to support the design, deployment, and operation of our cloud\u2011based infrastructure and AI\u2011 ...",
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T08:16:41+00:00",
+      "fetched_at": "2026-05-07T13:21:48.268825+00:00"
+    },
     {
       "id": "940a3ad560be",
       "title": "Yangshun Tay's Post - LinkedIn",
@@ -122,6 +228,21 @@
       "fetched_at": "2026-05-07T06:28:06.660059+00:00"
     },
     {
+      "id": "74c261cfa80f",
+      "title": "Staff Software Engineer - Security & Privacy - Remote - US - Samsara",
+      "company": "Security & Privacy - Remote - US - Samsara",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.samsara.com/company/careers/roles/7559244?utm_campaign=remoteswe_job_board&gh_jid=7559244&utm_medium=referral&ref=remoteswe.fyi&utm_source=remoteswe.fyi",
+      "source": "Other",
+      "description": "Samsara is looking for an experienced Staff Software Engineer to join our Cloud Governance Platform team. This team builds the foundational platforms ...",
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T04:20:56+00:00",
+      "fetched_at": "2026-05-07T13:21:48.359765+00:00"
+    },
+    {
       "id": "84abe2f7f1fe",
       "title": "Site Reliability Engineer - FedRAMP in San Francisco, California, United States of America",
       "company": "FedRAMP in San Francisco, California, United States of America",
@@ -165,6 +286,21 @@
       "date": "2026-05-07",
       "timestamp": "2026-05-07T03:34:35+00:00",
       "fetched_at": "2026-05-07T06:28:06.272720+00:00"
+    },
+    {
+      "id": "ed1fc83685df",
+      "title": "Senior Data Engineer - Myworkdayjobs.com",
+      "company": "Montefiore",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://montefiore.wd12.myworkdayjobs.com/en-US/MMC/job/Senior-Data-Engineer_JR229608-1",
+      "source": "Workday",
+      "description": "We are seeking an expert senior data engineer to build, enhance, and support a wide variety of data pipelines integrating data feeds from diverse ...",
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T03:18:40+00:00",
+      "fetched_at": "2026-05-07T13:21:48.360346+00:00"
     },
     {
       "id": "7ee994b36b13",
