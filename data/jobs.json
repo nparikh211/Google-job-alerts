@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-05-07T06:28:06.668988+00:00",
-  "total_jobs": 1239,
+  "last_updated": "2026-05-07T10:11:13.639433+00:00",
+  "total_jobs": 1243,
   "stats": {
-    "total_companies": 802,
-    "total_roles": 38,
+    "total_companies": 803,
+    "total_roles": 40,
     "regions": {
-      "India": 726,
-      "Philippines": 210,
+      "India": 729,
+      "Philippines": 211,
       "Remote": 172,
       "Unknown": 135
     },
     "sources": {
-      "Other": 964,
+      "Other": 965,
       "Greenhouse": 66,
       "Workday": 51,
-      "LinkedIn": 46,
-      "Ashby": 42,
+      "LinkedIn": 48,
+      "Ashby": 43,
       "Lever": 17,
       "Breezy": 14,
       "iCIMS": 12,
@@ -31,6 +31,66 @@
     }
   },
   "jobs": [
+    {
+      "id": "940a3ad560be",
+      "title": "Yangshun Tay's Post - LinkedIn",
+      "company": "Unknown Company",
+      "role": "Yangshun Tay's Post - LinkedIn",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/posts/yangshun_what-is-an-ai-frontend-engineer-my-linkedin-activity-7458039243303669760-VlMl",
+      "source": "LinkedIn",
+      "description": "What is an \"AI Frontend Engineer \"? My LinkedIn title is now \"AI Frontend Engineer \", some people have ... Software Engineer | Curious learner interested ...",
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T06:36:31+00:00",
+      "fetched_at": "2026-05-07T10:11:13.630565+00:00"
+    },
+    {
+      "id": "c3ae77859982",
+      "title": "Full Stack Software Engineer - Video @ Substack - Jobs",
+      "company": "Substack",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/substack/c9b64abb-ff7d-441b-834d-8d17285bce32",
+      "source": "Ashby",
+      "description": "As a Software Engineer at Substack, you are responsible for the core product platform, from APIs, low-level services, and database operations, ...",
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T06:20:33+00:00",
+      "fetched_at": "2026-05-07T10:11:13.336842+00:00"
+    },
+    {
+      "id": "80869d3abcd3",
+      "title": "Senior Software Engineer III in Multiple Locations | Pacific Northwest National Laboratory",
+      "company": "Pacific Northwest National Laboratory",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.pnnl.gov/jobs/11702?lang=en-us",
+      "source": "Other",
+      "description": "PNNL is hiring a Senior Software Engineer III in Multiple Locations. Review all of the job details and apply today!",
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T06:03:39+00:00",
+      "fetched_at": "2026-05-07T10:11:13.337850+00:00"
+    },
+    {
+      "id": "c6acfe5f41d2",
+      "title": "Adrian Brudaru's Post - LinkedIn",
+      "company": "Unknown Company",
+      "role": "Adrian Brudaru's Post - LinkedIn",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/data-team_in-ten-years-as-a-data-engineer-half-the-activity-7457749829964967936-XZuN",
+      "source": "LinkedIn",
+      "description": "In ten years as a data engineer , half the time I did the same type of work over and over. Walk into a company two years post-Series A. We have a ...",
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T05:14:56+00:00",
+      "fetched_at": "2026-05-07T10:11:13.338459+00:00"
+    },
     {
       "id": "b61b51867302",
       "title": "[ Software Engineer ] [VHCOL] - $550k : r/Salary - Reddit",
