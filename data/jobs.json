@@ -1,27 +1,27 @@
 {
-  "last_updated": "2026-05-07T20:54:28.116928+00:00",
-  "total_jobs": 1281,
+  "last_updated": "2026-05-08T01:29:19.821329+00:00",
+  "total_jobs": 1295,
   "stats": {
-    "total_companies": 828,
-    "total_roles": 40,
+    "total_companies": 836,
+    "total_roles": 41,
     "regions": {
-      "India": 755,
-      "Philippines": 218,
-      "Remote": 177,
+      "India": 763,
+      "Philippines": 220,
+      "Remote": 181,
       "Unknown": 135
     },
     "sources": {
-      "Other": 993,
+      "Other": 999,
       "Greenhouse": 70,
-      "Workday": 52,
-      "LinkedIn": 48,
-      "Ashby": 44,
+      "Workday": 53,
+      "LinkedIn": 50,
+      "Ashby": 46,
       "Lever": 17,
-      "Breezy": 15,
-      "iCIMS": 13,
+      "Breezy": 16,
+      "iCIMS": 14,
       "Indeed": 10,
+      "Workable": 8,
       "SmartRecruiters": 8,
-      "Workable": 7,
       "Recruitee": 2,
       "ADP": 1,
       "Jobvite": 1
@@ -32,6 +32,171 @@
     }
   },
   "jobs": [
+    {
+      "id": "1bb7579d281b",
+      "title": "Senior Software Engineer @ Forma - Jobs",
+      "company": "Forma",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.ashbyhq.com/forma/08660d80-62f6-4706-9031-8069f37bf093",
+      "source": "Ashby",
+      "description": "Senior Software Engineer . Location. United States. Employment Type. Full time. Location Type. Remote. Department. Engineering. OverviewApplication ...",
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T22:57:39+00:00",
+      "fetched_at": "2026-05-08T01:29:19.493326+00:00"
+    },
+    {
+      "id": "0b49ec680ac8",
+      "title": "Software Engineer II in Chandler, Arizona | Careers at TSC - Iridium Satellite",
+      "company": "TSC",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers-iridium.icims.com/jobs/4942/software-engineer-ii/job",
+      "source": "iCIMS",
+      "description": "TSC is now hiring a Software Engineer II in Chandler, Arizona. Review all of the job details and apply today!",
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T22:26:39+00:00",
+      "fetched_at": "2026-05-08T01:29:19.493962+00:00"
+    },
+    {
+      "id": "e1a1404be0b5",
+      "title": "Data Engineer / Data Platform Engineer Internship Fall 2026 | Research Park - University of Illinois",
+      "company": "Research Park - University of Illinois",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://researchpark.illinois.edu/job/data-engineer-data-platform-engineer-internship-fall-2026/",
+      "source": "Other",
+      "description": "Data Engineer / Data Platform Engineer Internship Fall 2026. DOW. https:www.dow.comen-us. Student Employment & Internships; Closes: June 15, 2026 ...",
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T22:23:20+00:00",
+      "fetched_at": "2026-05-08T01:29:19.494573+00:00"
+    },
+    {
+      "id": "e7070d30c990",
+      "title": "#grafanacon26 #grafanacon #techlifebalance #agenticai #womenintech #observability ... - LinkedIn",
+      "company": "Unknown Company",
+      "role": "#grafanacon26 #grafanacon #techlifebalance #agenticai #women",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/posts/afuaaduece_grafanacon26-grafanacon-techlifebalance-activity-7458221095062544384-sCSU",
+      "source": "LinkedIn",
+      "description": "... AI #Engineer | 10 comments on LinkedIn. ... Software Engineer @ Dell Technologies in AI Operations & Telemetry| Engineers ...",
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T22:17:19+00:00",
+      "fetched_at": "2026-05-08T01:29:19.812944+00:00"
+    },
+    {
+      "id": "df81c20702ac",
+      "title": "Software Engineer , Core Network Engineering | OpenAI",
+      "company": "OpenAI",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://openai.com/careers/software-engineer-core-network-engineering-san-francisco/",
+      "source": "Other",
+      "description": "Software Engineer , Core Network Engineering | OpenAI. Careers. Software Engineer , Core Network Engineering. Scaling - San Francisco. Apply now ...",
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T21:51:35+00:00",
+      "fetched_at": "2026-05-08T01:29:19.494788+00:00"
+    },
+    {
+      "id": "9eb4970d7cf5",
+      "title": "Software Engineer (API Developer) - Myworkdayjobs.com",
+      "company": "Bcbsmn",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://bcbsmn.wd5.myworkdayjobs.com/bluecrossmn/job/Eagan-MN/Software-Engineer--API-Developer-_R0006441-1",
+      "source": "Workday",
+      "description": "Blue Cross and Blue Shield of Minnesota is looking for a Software Engineer (API Developer) to join our Enterprise Integrations development team! In ...",
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T21:07:33+00:00",
+      "fetched_at": "2026-05-08T01:29:19.495068+00:00"
+    },
+    {
+      "id": "7452447117f8",
+      "title": "Software Engineer - Concord Servicing - Workable Jobs",
+      "company": "Concord Servicing",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://apply.workable.com/concord-servicing/j/4CE89E7E3C/",
+      "source": "Workable",
+      "description": "Software Engineer . RemoteInformation Technology. Dallas, Texas, United ... We're looking for a Software Engineer who thinks like a product person.",
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T20:55:51+00:00",
+      "fetched_at": "2026-05-08T01:29:19.495192+00:00"
+    },
+    {
+      "id": "c64846c60c3f",
+      "title": "Consolidated Data Analytics Platform Engineer - - 124158 - Booz | Allen | Hamilton \u00ae",
+      "company": "- 124158 - Booz | Allen | Hamilton \u00ae",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.boozallen.com/careers/JobDetail/Fort-Meade-Consolidated-Data-Analytics-Platform-Engineer-R0239450/124158",
+      "source": "Other",
+      "description": "Consolidated Data Analytics Platform Engineer . Fort Meade, Maryland, USA. View Additional Locations. Apply. CREATEYOUR CAREER. CREATE AND GROW WITH US.",
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T20:50:44+00:00",
+      "fetched_at": "2026-05-08T01:29:19.495509+00:00"
+    },
+    {
+      "id": "25f17609ceaa",
+      "title": "Senior Data Engineer / Data Platform Lead - Dr. Berg Nutritionals",
+      "company": "Dr Berg Nutritionals",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://dr-berg-nutritionals.breezy.hr/p/d003a14870f5-senior-data-engineer-data-platform-lead",
+      "source": "Breezy",
+      "description": "Senior Data Engineer / Data Platform Lead \u00b7 United States - Remote (any location) \u00b7 Full-Time \u00b7 Techonology \u00b7 $185k - $225k / year.",
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T20:36:21+00:00",
+      "fetched_at": "2026-05-08T01:29:19.495688+00:00"
+    },
+    {
+      "id": "9f67fa88a366",
+      "title": "Data Engineer in San Francisco, California | careers-home - DocuSign Careers",
+      "company": "careers-home - DocuSign Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.docusign.com/careers-home/jobs/29360?lang=en-us",
+      "source": "Other",
+      "description": "Docusign is seeking a talented and results oriented Data Engineer to focus on delivering trusted data to the business. ... Data Platform Engineer . Req ...",
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T20:35:22+00:00",
+      "fetched_at": "2026-05-08T01:29:19.814162+00:00"
+    },
+    {
+      "id": "11b587c62335",
+      "title": "Notion - Software Engineer , Trust - Jobs",
+      "company": "Notion",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/notion/66236b7e-2905-4a93-84a5-ed036a1a6581",
+      "source": "Ashby",
+      "description": "Software Engineer , Trust. Location. San Francisco, California; New York, New York. Employment Type. Full time. Location Type. Hybrid. Department.",
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T20:32:36+00:00",
+      "fetched_at": "2026-05-08T01:29:19.495793+00:00"
+    },
     {
       "id": "fdbacbedc220",
       "title": "Cloud Engineer in Scott Afb, Illinois, United States - SAIC Careers",
@@ -63,6 +228,36 @@
       "fetched_at": "2026-05-07T20:54:28.029195+00:00"
     },
     {
+      "id": "debe8abaa403",
+      "title": "Axiom Cloud hiring Software Engineer (Fully Remote) in San Jose, CA | LinkedIn",
+      "company": "LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/software-engineer-fully-remote-at-axiom-cloud-4411436433",
+      "source": "LinkedIn",
+      "description": "R&D AI Software Engineer / End-to-End Machine Learning Engineer / RAG and LLM ... Senior Software Engineer jobs \u00b7 Web Development Intern jobs ...",
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T19:47:19+00:00",
+      "fetched_at": "2026-05-08T01:29:19.496444+00:00"
+    },
+    {
+      "id": "7eab26f1d556",
+      "title": "Data Engineer II, OTS - Data ANCHOR Team - Job ID: 10411461 - Amazon Careers",
+      "company": "Data ANCHOR Team - Job ID: 10411461 - Amazon Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.amazon.jobs/en/jobs/10411461/data-engineer-ii-ots-data-anchor-team",
+      "source": "Other",
+      "description": "Data Engineer II, OTS - Data ANCHOR Team. Job ID: 10411461 | Amazon.com ... Software Engineer I. Location: US, California, San Francisco. Posted ...",
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T19:27:59+00:00",
+      "fetched_at": "2026-05-08T01:29:19.496678+00:00"
+    },
+    {
       "id": "986976f00769",
       "title": "Job Application for Senior Software Engineer , Full Stack at Sidecar Health - Greenhouse",
       "company": "Sidecarhealth",
@@ -76,6 +271,21 @@
       "date": "2026-05-07",
       "timestamp": "2026-05-07T19:17:18+00:00",
       "fetched_at": "2026-05-07T20:54:28.029299+00:00"
+    },
+    {
+      "id": "ae6a2eeebde4",
+      "title": "Machine Learning Engineer , Sign-Up Flow Optimization Job Details - Careers at Paramount",
+      "company": "Paramount",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.paramount.com/job/West-Hollywood-Machine-Learning-Engineer%2C-Sign-Up-Flow-Optimization-CA-90069/1388780800/",
+      "source": "Other",
+      "description": "West Hollywood Machine Learning Engineer , Sign-Up Flow Optimization - CA, 90069.",
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T19:17:14+00:00",
+      "fetched_at": "2026-05-08T01:29:19.497121+00:00"
     },
     {
       "id": "1a785855b7fd",
