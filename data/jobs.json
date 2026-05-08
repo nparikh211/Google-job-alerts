@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-05-08T01:29:19.821329+00:00",
-  "total_jobs": 1295,
+  "last_updated": "2026-05-08T05:49:24.111953+00:00",
+  "total_jobs": 1305,
   "stats": {
-    "total_companies": 836,
+    "total_companies": 840,
     "total_roles": 41,
     "regions": {
-      "India": 763,
-      "Philippines": 220,
-      "Remote": 181,
+      "India": 768,
+      "Philippines": 223,
+      "Remote": 183,
       "Unknown": 135
     },
     "sources": {
-      "Other": 999,
+      "Other": 1007,
       "Greenhouse": 70,
-      "Workday": 53,
+      "Workday": 55,
       "LinkedIn": 50,
       "Ashby": 46,
       "Lever": 17,
@@ -28,10 +28,130 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-05-07"
+      "latest": "2026-05-08"
     }
   },
   "jobs": [
+    {
+      "id": "d28eb79d7964",
+      "title": "Associate Data Engineer - Stanford University Careers",
+      "company": "Stanford University Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careersearch.stanford.edu/jobs/associate-data-engineer-30772",
+      "source": "Other",
+      "description": "Associate Data Engineer . Business Affairs: University IT (UIT) ... DevOps Engineer . Business Affairs: University IT (UIT), Redwood City ...",
+      "date": "2026-05-08",
+      "timestamp": "2026-05-08T02:07:42+00:00",
+      "fetched_at": "2026-05-08T05:49:24.102321+00:00"
+    },
+    {
+      "id": "c8d945f4806b",
+      "title": "Staff Software Engineer , Batch Processing Platform - Pinterest Careers",
+      "company": "Pinterest Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.pinterestcareers.com/jobs/7832348/staff-software-engineer-batch-processing-platform/",
+      "source": "Other",
+      "description": "Senior Software Engineer , Fullstack. Save Saved. Seattle + 1 other locations; Engineering. Sr. Machine Learning Engineer , Core Engineering. Save",
+      "date": "2026-05-08",
+      "timestamp": "2026-05-08T01:43:17+00:00",
+      "fetched_at": "2026-05-08T05:49:23.922857+00:00"
+    },
+    {
+      "id": "0a776dcb6ecf",
+      "title": "Data Engineer - EHR Systems in Louisville, Kentucky | Technology and Digital Analytics at Humana",
+      "company": "Humana",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.humana.com/us/en/job/R-414600/Data-Engineer-EHR-Systems",
+      "source": "Other",
+      "description": "The Senior Software Engineer codes software applications based on business requirements. ... Senior DevOps Platform Engineer . Available in 7 ...",
+      "date": "2026-05-08",
+      "timestamp": "2026-05-08T01:39:01+00:00",
+      "fetched_at": "2026-05-08T05:49:24.102708+00:00"
+    },
+    {
+      "id": "aba94dec0a85",
+      "title": "Software Engineer II - GoCanvas - Career Page",
+      "company": "GoCanvas - Career Page",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://gocanvas.applytojob.com/apply/v64Mxs3t7H/Software-Engineer-II",
+      "source": "Other",
+      "description": "Position Overview: We are looking for an experienced Software Engineer who is responsible for the development and maintenance of a SaaS application ...",
+      "date": "2026-05-08",
+      "timestamp": "2026-05-08T00:57:03+00:00",
+      "fetched_at": "2026-05-08T05:49:24.102883+00:00"
+    },
+    {
+      "id": "6b15d86bd661",
+      "title": "Software Engineer - tylertech",
+      "company": "tylertech",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.tylertech.com/careers/job-listings/software-engineer-26-o9u4zfw0-01",
+      "source": "Other",
+      "description": "As a Software Engineer , you will play a key role in building and evolving applications that support critical public sector systems across...",
+      "date": "2026-05-08",
+      "timestamp": "2026-05-08T00:38:01+00:00",
+      "fetched_at": "2026-05-08T05:49:23.923054+00:00"
+    },
+    {
+      "id": "d554450b1c14",
+      "title": "Frontend Engineer , Payments & Risk - Stripe",
+      "company": "Stripe",
+      "role": "Frontend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://stripe.com/jobs/listing/frontend-engineer-payments-risk/7325252/apply?gh_src=73vnei",
+      "source": "Other",
+      "description": "... Life at Stripe \u00b7 Benefits \u00b7 University \u00b7 See open roles \u00b7 Roles at Stripe \u00b7 Role details; Application. Frontend Engineer , Payments & Risk.",
+      "date": "2026-05-08",
+      "timestamp": "2026-05-08T00:33:50+00:00",
+      "fetched_at": "2026-05-08T05:49:23.923396+00:00"
+    },
+    {
+      "id": "92c7e40ba10d",
+      "title": "Full Stack Software Engineer (Magento / PHP) - Remote - Myworkdayjobs.com",
+      "company": "Clearesult",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://clearesult.wd1.myworkdayjobs.com/en-US/CLEAResult_External_Careers/job/Full-Stack-Software-Engineer--Magento---PHP----Remote_R0017475",
+      "source": "Workday",
+      "description": "Full Stack Software Engineer (Magento / PHP) - Remote ... At CLEAResult, we lead the transition to a sustainable, equitable, and carbon-neutral energy- ...",
+      "date": "2026-05-08",
+      "timestamp": "2026-05-08T00:26:08+00:00",
+      "fetched_at": "2026-05-08T05:49:23.923508+00:00"
+    },
+    {
+      "id": "42f8b4211269",
+      "title": "Full Stack Software Engineer (Magento / PHP) - Remote - Myworkdayjobs.com",
+      "company": "Clearesult",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Remote---Texas/Full-Stack-Software-Engineer--Magento---PHP----Remote_R0017475",
+      "source": "Workday",
+      "description": "Full Stack Software Engineer (Magento / PHP) - Remote ... At CLEAResult, we lead the transition to a sustainable, equitable, and carbon-neutral energy- ...",
+      "date": "2026-05-08",
+      "timestamp": "2026-05-08T00:24:14+00:00",
+      "fetched_at": "2026-05-08T05:49:24.103344+00:00"
+    },
     {
       "id": "1bb7579d281b",
       "title": "Senior Software Engineer @ Forma - Jobs",
@@ -93,6 +213,21 @@
       "fetched_at": "2026-05-08T01:29:19.812944+00:00"
     },
     {
+      "id": "4de20365025c",
+      "title": "Senior ML engineer considering a PhD after ~10 years in industry \u2014 looking for honest advice",
+      "company": "Unknown Company",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/GradSchool/comments/1t6ck1g/senior_ml_engineer_considering_a_phd_after_10/",
+      "source": "Other",
+      "description": "Senior ML engineer considering a PhD after ~10 years in industry \u2014 looking for honest advice. Admissions & Applications. Hi everyone,. I've been ...",
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T22:08:30+00:00",
+      "fetched_at": "2026-05-08T05:49:23.924867+00:00"
+    },
+    {
       "id": "df81c20702ac",
       "title": "Software Engineer , Core Network Engineering | OpenAI",
       "company": "OpenAI",
@@ -106,6 +241,21 @@
       "date": "2026-05-07",
       "timestamp": "2026-05-07T21:51:35+00:00",
       "fetched_at": "2026-05-08T01:29:19.494788+00:00"
+    },
+    {
+      "id": "e26313914305",
+      "title": "Platform Engineer - - 124056 - Booz | Allen | Hamilton \u00ae - Careers",
+      "company": "- 124056 - Booz | Allen | Hamilton \u00ae - Careers",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.boozallen.com/careers/JobDetail/Fort-Belvoir-Platform-Engineer-R0239323/124056",
+      "source": "Other",
+      "description": "Platform Engineer . Fort Belvoir, Virginia, USA. Apply. CREATEYOUR CAREER. CREATE AND GROW WITH US. Grow. Your growth matters to us - explore our ...",
+      "date": "2026-05-07",
+      "timestamp": "2026-05-07T21:25:29+00:00",
+      "fetched_at": "2026-05-08T05:49:23.925534+00:00"
     },
     {
       "id": "9eb4970d7cf5",
