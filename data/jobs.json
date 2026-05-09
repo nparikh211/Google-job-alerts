@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-05-09T06:07:44.411399+00:00",
-  "total_jobs": 1367,
+  "last_updated": "2026-05-09T09:04:27.804882+00:00",
+  "total_jobs": 1370,
   "stats": {
     "total_companies": 870,
     "total_roles": 41,
     "regions": {
-      "India": 803,
+      "India": 805,
       "Philippines": 240,
-      "Remote": 194,
+      "Remote": 195,
       "Unknown": 135
     },
     "sources": {
-      "Other": 1055,
+      "Other": 1058,
       "Greenhouse": 76,
       "Workday": 57,
       "LinkedIn": 52,
@@ -33,6 +33,21 @@
   },
   "jobs": [
     {
+      "id": "580fae76f4ca",
+      "title": "AI Engineer | GDIT",
+      "company": "GDIT",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.gdit.com/careers/job/f662bd67d/ai-engineer/",
+      "source": "Other",
+      "description": "As an AI Engineer supporting the mission of the United States Postal Service (USPS), you will help design, develop, and deploy AI solutions that ...",
+      "date": "2026-05-09",
+      "timestamp": "2026-05-09T06:27:55+00:00",
+      "fetched_at": "2026-05-09T09:04:27.631232+00:00"
+    },
+    {
       "id": "2c9ffc6b1433",
       "title": "Job market for Data engineer : r/dataengineering - Reddit",
       "company": "Reddit",
@@ -46,6 +61,21 @@
       "date": "2026-05-09",
       "timestamp": "2026-05-09T04:22:26+00:00",
       "fetched_at": "2026-05-09T06:07:44.231735+00:00"
+    },
+    {
+      "id": "69b876f43c86",
+      "title": "Software Engineer , Payments - Careers at Airbnb",
+      "company": "Airbnb",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.airbnb.com/positions/7865724/",
+      "source": "Other",
+      "description": "Software Engineer , Payments. Bangalore, India. Role overview. Application. Airbnb was born in 2007 when two hosts welcomed three guests to their San ...",
+      "date": "2026-05-09",
+      "timestamp": "2026-05-09T04:21:42+00:00",
+      "fetched_at": "2026-05-09T09:04:27.631560+00:00"
     },
     {
       "id": "1042b015b9aa",
@@ -257,6 +287,21 @@
       "date": "2026-05-08",
       "timestamp": "2026-05-08T20:14:25+00:00",
       "fetched_at": "2026-05-09T01:27:01.913525+00:00"
+    },
+    {
+      "id": "54263d6ecd64",
+      "title": "Full-Stack Software Engineer",
+      "company": "Full",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://ats.rippling.com/harness-careers/jobs/05ce7384-3292-4851-8e41-b1c4bd14887d",
+      "source": "Other",
+      "description": "About the Role. We're looking for a Full-Stack Software Engineer (Remote, U.S.) to help power the next generation of Harness products. You ...",
+      "date": "2026-05-08",
+      "timestamp": "2026-05-08T20:10:33+00:00",
+      "fetched_at": "2026-05-09T09:04:27.634868+00:00"
     },
     {
       "id": "dcdb2411906c",
