@@ -1,26 +1,26 @@
 {
-  "last_updated": "2026-05-08T20:43:43.018373+00:00",
-  "total_jobs": 1344,
+  "last_updated": "2026-05-09T01:27:02.279059+00:00",
+  "total_jobs": 1354,
   "stats": {
-    "total_companies": 858,
+    "total_companies": 864,
     "total_roles": 41,
     "regions": {
-      "India": 786,
+      "India": 795,
       "Philippines": 238,
-      "Remote": 189,
+      "Remote": 190,
       "Unknown": 135
     },
     "sources": {
-      "Other": 1039,
+      "Other": 1047,
       "Greenhouse": 72,
       "Workday": 57,
-      "LinkedIn": 50,
+      "LinkedIn": 51,
       "Ashby": 47,
       "Lever": 18,
       "Breezy": 16,
       "iCIMS": 15,
       "Indeed": 10,
-      "Workable": 8,
+      "Workable": 9,
       "SmartRecruiters": 8,
       "Recruitee": 2,
       "ADP": 1,
@@ -32,6 +32,81 @@
     }
   },
   "jobs": [
+    {
+      "id": "c63c49c9fe2b",
+      "title": "Software Engineer I, Commerce Engineering - Job ID: 3202388 - Amazon Careers",
+      "company": "Job ID: 3202388 - Amazon Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://amazon.jobs/en/jobs/3202388/software-engineer-i-commerce-engineering",
+      "source": "Other",
+      "description": "Software Engineer I, Commerce Engineering. Job ID: 3202388 | Twitch ... Machine Learning Engineer , AWS Applied AI Solution. Location: USA, WA ...",
+      "date": "2026-05-08",
+      "timestamp": "2026-05-08T23:21:32+00:00",
+      "fetched_at": "2026-05-09T01:27:01.912580+00:00"
+    },
+    {
+      "id": "39dfe4331892",
+      "title": "AI Engineer - Stanford University Careers",
+      "company": "Stanford University Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careersearch.stanford.edu/jobs/ai-engineer-30788",
+      "source": "Other",
+      "description": "AI Engineer . Business Affairs: University IT (UIT), Redwood City ... Associate Data Engineer . Business Affairs: University IT (UIT) ...",
+      "date": "2026-05-08",
+      "timestamp": "2026-05-08T22:16:00+00:00",
+      "fetched_at": "2026-05-09T01:27:01.912759+00:00"
+    },
+    {
+      "id": "ffe33db32d9a",
+      "title": "DevOps Engineer - - 124226 - Booz | Allen | Hamilton \u00ae - Careers",
+      "company": "- 124226 - Booz | Allen | Hamilton \u00ae - Careers",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.boozallen.com/jobs/JobDetail/McLean-DevOps-Engineer-R0239389/124226",
+      "source": "Other",
+      "description": "DevOps Engineer at created 7-May ... As a site reliability engineer supporting container platforms on our ...",
+      "date": "2026-05-08",
+      "timestamp": "2026-05-08T21:36:19+00:00",
+      "fetched_at": "2026-05-09T01:27:01.913011+00:00"
+    },
+    {
+      "id": "8d31ae09d9f0",
+      "title": "Software Engineer , AI & Internal Tools (All Levels) - David Protein - Application",
+      "company": "David Protein",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://apply.workable.com/david-protein/j/186851CD65/apply/",
+      "source": "Workable",
+      "description": "Software Engineer , AI & Internal Tools (All Levels). On-siteFinanceFull time. New York, New York, United States. OverviewApplication. Autofill ...",
+      "date": "2026-05-08",
+      "timestamp": "2026-05-08T20:34:54+00:00",
+      "fetched_at": "2026-05-09T01:27:01.913132+00:00"
+    },
+    {
+      "id": "37eb567569e8",
+      "title": "Senior Software Engineer - Buy-Side Automation Frameworks | Jake Beckerman, SHRM-CP",
+      "company": "Buy-Side Automation Frameworks | Jake Beckerman, SHRM-CP",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/jakebeckerman_senior-software-engineer-buy-side-automation-activity-7458591421697179649-c-lf",
+      "source": "LinkedIn",
+      "description": "Senior Software Engineer - Buy-Side Automation Frameworks bloomberg.avature.net \u00b7 11 2 ...",
+      "date": "2026-05-08",
+      "timestamp": "2026-05-08T20:14:25+00:00",
+      "fetched_at": "2026-05-09T01:27:01.913525+00:00"
+    },
     {
       "id": "dcdb2411906c",
       "title": "Sr. Software Engineer -5588 and jobs at Comcast",
@@ -48,6 +123,51 @@
       "fetched_at": "2026-05-08T20:43:42.835558+00:00"
     },
     {
+      "id": "068d5c8f6cd9",
+      "title": "Senior Platform Engineer (Azure) - Remote (USA) | BSC Analytics Careers",
+      "company": "Remote (USA) | BSC Analytics Careers",
+      "role": "Platform Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://bluesentry.pinpointhq.com/postings/0b8ccb4d-9974-4500-bcaf-ca3d2a640262",
+      "source": "Other",
+      "description": "Join BSC Analytics in Engineering, Remote (USA) as a Senior Platform Engineer (Azure)",
+      "date": "2026-05-08",
+      "timestamp": "2026-05-08T19:24:10+00:00",
+      "fetched_at": "2026-05-09T01:27:01.913840+00:00"
+    },
+    {
+      "id": "f3b6129a023f",
+      "title": "Principal Software Engineer , Westlake, TX / Smithfield, RI | Fidelity Careers",
+      "company": "Fidelity Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.fidelity.com/en/jobs/2122325/principal-software-engineer/",
+      "source": "Other",
+      "description": "Job Description: Principal, Full Stack Engineer Job Description ... Senior Software Engineer /Developer. Save Saved. Technology Published: Apr ...",
+      "date": "2026-05-08",
+      "timestamp": "2026-05-08T19:15:49+00:00",
+      "fetched_at": "2026-05-09T01:27:01.913992+00:00"
+    },
+    {
+      "id": "3cc45ad3cdb1",
+      "title": "MID-LEVEL DATA ENGINEER -Python, AWS, Spark (Hybrid) - State Farm Careers",
+      "company": "MID",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.statefarm.com/main/jobs/44311?lang=en-us",
+      "source": "Other",
+      "description": "State Farm Careers is hiring a MID-LEVEL DATA ENGINEER -Python, AWS, Spark (Hybrid) in Multiple Locations. Review all of the job details and apply ...",
+      "date": "2026-05-08",
+      "timestamp": "2026-05-08T18:46:33+00:00",
+      "fetched_at": "2026-05-09T01:27:01.914392+00:00"
+    },
+    {
       "id": "643b643a3d5c",
       "title": "Software Engineer Intern (Quality and Efficiency Technology) - 2026 Summer (BS/MS)",
       "company": "2026 Summer",
@@ -61,6 +181,36 @@
       "date": "2026-05-08",
       "timestamp": "2026-05-08T18:43:33+00:00",
       "fetched_at": "2026-05-08T20:43:42.836041+00:00"
+    },
+    {
+      "id": "099ccd8d18e1",
+      "title": "Staff Machine Learning Engineer - Policy & Safety | Life at Spotify",
+      "company": "Spotify",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.lifeatspotify.com/jobs/staff-machine-learning-engineer-policy-safety",
+      "source": "Other",
+      "description": "Staff Machine Learning Engineer . Policy & Safety. Link copied to ... Senior Backend Engineer , Personalization. London or New York. London or ...",
+      "date": "2026-05-08",
+      "timestamp": "2026-05-08T18:16:08+00:00",
+      "fetched_at": "2026-05-09T01:27:01.914692+00:00"
+    },
+    {
+      "id": "f783f1e1f65f",
+      "title": "Senior Software Engineer - Backend Developer in Chennai, India | Viasat, Inc.",
+      "company": "Senior Software Engineer",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.viasat.com/networkengineering/jobs/5682?lang=en-us",
+      "source": "Other",
+      "description": "networkengineering is hiring a Senior Software Engineer - Backend Developer in Chennai, India. Review all of the job details and apply today!",
+      "date": "2026-05-08",
+      "timestamp": "2026-05-08T18:07:13+00:00",
+      "fetched_at": "2026-05-09T01:27:02.271942+00:00"
     },
     {
       "id": "83a0138060b5",
