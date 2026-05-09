@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-05-09T01:27:02.279059+00:00",
-  "total_jobs": 1354,
+  "last_updated": "2026-05-09T06:07:44.411399+00:00",
+  "total_jobs": 1367,
   "stats": {
-    "total_companies": 864,
+    "total_companies": 870,
     "total_roles": 41,
     "regions": {
-      "India": 795,
-      "Philippines": 238,
-      "Remote": 190,
+      "India": 803,
+      "Philippines": 240,
+      "Remote": 194,
       "Unknown": 135
     },
     "sources": {
-      "Other": 1047,
-      "Greenhouse": 72,
+      "Other": 1055,
+      "Greenhouse": 76,
       "Workday": 57,
-      "LinkedIn": 51,
+      "LinkedIn": 52,
       "Ashby": 47,
       "Lever": 18,
       "Breezy": 16,
@@ -28,10 +28,85 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-05-08"
+      "latest": "2026-05-09"
     }
   },
   "jobs": [
+    {
+      "id": "2c9ffc6b1433",
+      "title": "Job market for Data engineer : r/dataengineering - Reddit",
+      "company": "Reddit",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/dataengineering/comments/1t7rp7k/job_market_for_data_engineer/",
+      "source": "Other",
+      "description": "Have two roles to choose between: data platform engineer /owner or data engineer ... Data Engineer or Software Engineer - Data. 35 upvotes \u00b7 22 comments ...",
+      "date": "2026-05-09",
+      "timestamp": "2026-05-09T04:22:26+00:00",
+      "fetched_at": "2026-05-09T06:07:44.231735+00:00"
+    },
+    {
+      "id": "1042b015b9aa",
+      "title": "Software Engineer Intern (Infrastructure Automation) - Fall 2026 - Snowflake Careers",
+      "company": "Fall 2026 - Snowflake Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.snowflake.com/us/en/job/SNCOUSCC3FB214186D4B439D3F15B47307A231EXTERNALENUSBBDEE8BD443C456FA4F01B363D843310/Software-Engineer-Intern-Infrastructure-Automation-Fall-2026",
+      "source": "Other",
+      "description": "Senior Software Engineer - Production Control Plane. Location Menlo Park, California, United States Category Engineering ReqId REQ19475. Software ...",
+      "date": "2026-05-09",
+      "timestamp": "2026-05-09T01:37:34+00:00",
+      "fetched_at": "2026-05-09T06:07:44.232391+00:00"
+    },
+    {
+      "id": "aac7b9780461",
+      "title": "Senior Software Engineer - Cloud Platform Engineer - Careers at Moody's",
+      "company": "Moody's",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.moodys.com/en/job/heredia/senior-software-engineer-cloud-platform-engineer/49841/94865857936",
+      "source": "Other",
+      "description": "Senior Software Engineer - Cloud Platform Engineer . Heredia, Provincia de Heredia. Apply now. Save job. Posted: 05/08/2026. Job reference: 13523.",
+      "date": "2026-05-09",
+      "timestamp": "2026-05-09T01:16:14+00:00",
+      "fetched_at": "2026-05-09T06:07:44.232593+00:00"
+    },
+    {
+      "id": "a5b5565a0918",
+      "title": "Platform Engineer at Cargill",
+      "company": "Cargill",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cargill.com/en/job/atlanta/platform-engineer/23251/94870714448",
+      "source": "Other",
+      "description": "Job Purpose and Impact. The Platform Engineer will help build the foundation for the company's modern business applications. In this role, you will ...",
+      "date": "2026-05-09",
+      "timestamp": "2026-05-09T00:33:49+00:00",
+      "fetched_at": "2026-05-09T06:07:44.232732+00:00"
+    },
+    {
+      "id": "725b3f8a9fdd",
+      "title": "Senior Data Engineer -2 - Mitchell Martin, Inc. - Hybrid in Woodbridge Township, NJ, US",
+      "company": "2 - Mitchell Martin, Inc. - Hybrid in Woodbridge Township, NJ, US",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.dice.com/job-detail/56ff3c28-e771-4e34-84ac-9edcfea1aa58",
+      "source": "Other",
+      "description": "6 hours ago - Title: Senior Data Engineer -2Location: Iselin, NJPosition Type: ContractCompensationPay Range:$58.80-$84.00 Per HrDescriptionThis ...",
+      "date": "2026-05-08",
+      "timestamp": "2026-05-08T23:24:51+00:00",
+      "fetched_at": "2026-05-09T06:07:44.232975+00:00"
+    },
     {
       "id": "c63c49c9fe2b",
       "title": "Software Engineer I, Commerce Engineering - Job ID: 3202388 - Amazon Careers",
@@ -46,6 +121,22 @@
       "date": "2026-05-08",
       "timestamp": "2026-05-08T23:21:32+00:00",
       "fetched_at": "2026-05-09T01:27:01.912580+00:00"
+    },
+    {
+      "id": "879b3c7b771a",
+      "title": "Jaeca Stasiewicz, MBA - Data Engineer - Remote EST - LinkedIn",
+      "company": "Jaeca Stasiewicz, MBA",
+      "role": "Data Engineer",
+      "regions": [
+        "India",
+        "Remote"
+      ],
+      "link": "https://www.linkedin.com/posts/jaeca-pril-tayros_data-engineer-remote-est-activity-7458168291828846592-MwPt",
+      "source": "LinkedIn",
+      "description": "Title: Data Engineer - Remote EST Location: Audubon Salary: $69.72 - $90 per hour Sector: Utilities Apply here: https://lnkd.in/g5CnGhAX Data ...",
+      "date": "2026-05-08",
+      "timestamp": "2026-05-08T22:42:33+00:00",
+      "fetched_at": "2026-05-09T06:07:44.233442+00:00"
     },
     {
       "id": "39dfe4331892",
@@ -78,6 +169,36 @@
       "fetched_at": "2026-05-09T01:27:01.913011+00:00"
     },
     {
+      "id": "336ea1f188e1",
+      "title": "Software Engineer in Multiple Locations | careers-home",
+      "company": "careers-home",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.docusign.com/careers-home/jobs/28971?lang=en-us",
+      "source": "Other",
+      "description": "As a P3 Software Engineer in the B2B \u2013 Business To Business ... Senior Software Engineer . Req ID: 28933. location_on. Bengaluru, India.",
+      "date": "2026-05-08",
+      "timestamp": "2026-05-08T21:28:37+00:00",
+      "fetched_at": "2026-05-09T06:07:44.403847+00:00"
+    },
+    {
+      "id": "fed37ad61fd8",
+      "title": "Job Application for Senior Software Engineer (React Native) at Straight Arrow - Greenhouse",
+      "company": "Straightarrownews",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/straightarrownews/jobs/4240386009",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer (React Native). United States - Remote. Apply. About Us: Straight Arrow is fearlessly dedicated to exposing the hard truths ...",
+      "date": "2026-05-08",
+      "timestamp": "2026-05-08T20:49:58+00:00",
+      "fetched_at": "2026-05-09T06:07:44.233920+00:00"
+    },
+    {
       "id": "8d31ae09d9f0",
       "title": "Software Engineer , AI & Internal Tools (All Levels) - David Protein - Application",
       "company": "David Protein",
@@ -91,6 +212,36 @@
       "date": "2026-05-08",
       "timestamp": "2026-05-08T20:34:54+00:00",
       "fetched_at": "2026-05-09T01:27:01.913132+00:00"
+    },
+    {
+      "id": "82d793b437cc",
+      "title": "Open Role \u2014 Staff Software Engineer - Ripple",
+      "company": "Ripple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ripple.com/careers/all-jobs/job/7901641/?gh_jid=7901641",
+      "source": "Other",
+      "description": "Staff Software Engineer . San Francisco, CA, United States. Please note this is for San Francisco, CA, United States. You only need to apply to one ...",
+      "date": "2026-05-08",
+      "timestamp": "2026-05-08T20:15:44+00:00",
+      "fetched_at": "2026-05-09T06:07:44.234540+00:00"
+    },
+    {
+      "id": "2c9809993496",
+      "title": "Job Application for Senior Software Engineer (Cloud) at Straight Arrow - Greenhouse",
+      "company": "Straightarrownews",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/straightarrownews/jobs/4233168009",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer (Cloud). United States - Remote. Apply. About Us: Straight Arrow is fearlessly dedicated to exposing the hard truths in the ...",
+      "date": "2026-05-08",
+      "timestamp": "2026-05-08T20:15:41+00:00",
+      "fetched_at": "2026-05-09T06:07:44.234643+00:00"
     },
     {
       "id": "37eb567569e8",
@@ -123,6 +274,21 @@
       "fetched_at": "2026-05-08T20:43:42.835558+00:00"
     },
     {
+      "id": "203b5aadfe37",
+      "title": "Job Application for Senior Software Engineer (Full-stack) at Impiricus - Greenhouse",
+      "company": "Impiricus",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/impiricus/jobs/5206315008",
+      "source": "Greenhouse",
+      "description": "Job Title: Senior Software Engineer (Full Stack). Location: Atlanta, GA | NYC, NY | Remote, USA. Employment Type: Full-time, Salaried. Who We Are.",
+      "date": "2026-05-08",
+      "timestamp": "2026-05-08T19:58:39+00:00",
+      "fetched_at": "2026-05-09T06:07:44.235308+00:00"
+    },
+    {
       "id": "068d5c8f6cd9",
       "title": "Senior Platform Engineer (Azure) - Remote (USA) | BSC Analytics Careers",
       "company": "Remote (USA) | BSC Analytics Careers",
@@ -136,6 +302,21 @@
       "date": "2026-05-08",
       "timestamp": "2026-05-08T19:24:10+00:00",
       "fetched_at": "2026-05-09T01:27:01.913840+00:00"
+    },
+    {
+      "id": "a1875e792192",
+      "title": "Software Engineer III-ETL/PySpark - JPMC Candidate Experience page Careers",
+      "company": "ETL/PySpark - JPMC Candidate Experience page Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210745222",
+      "source": "Other",
+      "description": "We have an exciting and rewarding opportunity for you to take your software engineering career to the next level. As a Software Engineer ...",
+      "date": "2026-05-08",
+      "timestamp": "2026-05-08T19:17:12+00:00",
+      "fetched_at": "2026-05-09T06:07:44.404468+00:00"
     },
     {
       "id": "f3b6129a023f",
@@ -196,6 +377,21 @@
       "date": "2026-05-08",
       "timestamp": "2026-05-08T18:16:08+00:00",
       "fetched_at": "2026-05-09T01:27:01.914692+00:00"
+    },
+    {
+      "id": "fc042077c170",
+      "title": "Job Application for DevOps Engineer at MaintainX - Greenhouse",
+      "company": "Maintainx",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/maintainx/jobs/5131960007",
+      "source": "Greenhouse",
+      "description": "DevOps Engineer . Raleigh, NC. Apply - Postuler. MaintainX is the world's leading AI-powered maintenance and asset management platform, serving 13,000 ...",
+      "date": "2026-05-08",
+      "timestamp": "2026-05-08T18:11:00+00:00",
+      "fetched_at": "2026-05-09T06:07:44.405469+00:00"
     },
     {
       "id": "f783f1e1f65f",
