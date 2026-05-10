@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-05-10T01:28:14.391883+00:00",
-  "total_jobs": 1414,
+  "last_updated": "2026-05-10T06:26:58.694581+00:00",
+  "total_jobs": 1416,
   "stats": {
-    "total_companies": 889,
+    "total_companies": 891,
     "total_roles": 42,
     "regions": {
       "India": 831,
-      "Philippines": 253,
+      "Philippines": 255,
       "Remote": 200,
       "Unknown": 135
     },
     "sources": {
-      "Other": 1095,
+      "Other": 1097,
       "Greenhouse": 78,
       "Workday": 59,
       "LinkedIn": 53,
@@ -28,10 +28,25 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-05-09"
+      "latest": "2026-05-10"
     }
   },
   "jobs": [
+    {
+      "id": "e0b57843638c",
+      "title": "Senior Software Engineer - Enterprise AI - Mark43",
+      "company": "Enterprise AI - Mark43",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://mark43.com/list-job/7909267?gh_jid=7909267",
+      "source": "Other",
+      "description": "Senior Software Engineer - Enterprise AI. Location: Boston. Type: Full Time. Mark43 is approved to hire in Canada, the UK, and 36 U.S. states ...",
+      "date": "2026-05-10",
+      "timestamp": "2026-05-10T01:15:39+00:00",
+      "fetched_at": "2026-05-10T06:26:58.685562+00:00"
+    },
     {
       "id": "222d490a6bd6",
       "title": "I was given this as a take home assignment for an AI Engineer interview, with 4hrs time limit ...",
@@ -46,6 +61,21 @@
       "date": "2026-05-09",
       "timestamp": "2026-05-09T23:20:22+00:00",
       "fetched_at": "2026-05-10T01:28:14.382473+00:00"
+    },
+    {
+      "id": "6c072a32990c",
+      "title": "Best AI Engineer Jobs in San Francisco Bay Area, CA 2026 | Built In Seattle",
+      "company": "Built In Seattle",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.builtinsf.com/jobs/ai-machine-learning/search/ai-engineer",
+      "source": "Other",
+      "description": "Search the best AI Engineer Jobs from ... Lead Machine Learning Engineer . Machine Learning Engineer .NET Engineer. Back-End Engineer. Cloud Engineer .",
+      "date": "2026-05-09",
+      "timestamp": "2026-05-09T22:50:31+00:00",
+      "fetched_at": "2026-05-10T06:26:58.686028+00:00"
     },
     {
       "id": "8821c6629970",
