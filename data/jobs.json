@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-05-09T20:31:00.930599+00:00",
-  "total_jobs": 1398,
+  "last_updated": "2026-05-10T01:28:14.391883+00:00",
+  "total_jobs": 1414,
   "stats": {
-    "total_companies": 880,
+    "total_companies": 889,
     "total_roles": 42,
     "regions": {
-      "India": 821,
-      "Philippines": 250,
-      "Remote": 197,
+      "India": 831,
+      "Philippines": 253,
+      "Remote": 200,
       "Unknown": 135
     },
     "sources": {
-      "Other": 1081,
-      "Greenhouse": 77,
-      "Workday": 58,
+      "Other": 1095,
+      "Greenhouse": 78,
+      "Workday": 59,
       "LinkedIn": 53,
       "Ashby": 48,
       "Lever": 18,
@@ -32,6 +32,156 @@
     }
   },
   "jobs": [
+    {
+      "id": "222d490a6bd6",
+      "title": "I was given this as a take home assignment for an AI Engineer interview, with 4hrs time limit ...",
+      "company": "Unknown Company",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.reddit.com/r/learnmachinelearning/comments/1t84bv0/i_was_given_this_as_a_take_home_assignment_for_an/",
+      "source": "Other",
+      "description": "I was given this as a take home assignment for an AI Engineer interview, with 4hrs time limit. ... Best way to prepare for AI Engineer interviews?",
+      "date": "2026-05-09",
+      "timestamp": "2026-05-09T23:20:22+00:00",
+      "fetched_at": "2026-05-10T01:28:14.382473+00:00"
+    },
+    {
+      "id": "8821c6629970",
+      "title": "Staff Data Engineer in Nashville, Tennessee, United States - HCA Healthcare Careers",
+      "company": "HCA Healthcare Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.hcahealthcare.com/en/jobs/17712139-staff-data-engineer?tm_job=1-INFOR-4531869&tm_event=view&tm_company=2537",
+      "source": "Other",
+      "description": "As a Staff Data Engineer you will be part of the data engineering community which includes data platforms, data warehousing, data science, ...",
+      "date": "2026-05-09",
+      "timestamp": "2026-05-09T22:23:43+00:00",
+      "fetched_at": "2026-05-10T01:28:14.318536+00:00"
+    },
+    {
+      "id": "d2888b0a54f3",
+      "title": "Executive | Full Stack Engineer - - 20490 - Macquarie Group",
+      "company": "Executive",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=20490",
+      "source": "Other",
+      "description": "Executive | Full Stack Engineer . Additional office locations. Hyderabad. Job ID. 20490. Date. 09-May-2026. Permanent - Full time, Mid-level. Job ...",
+      "date": "2026-05-09",
+      "timestamp": "2026-05-09T21:54:09+00:00",
+      "fetched_at": "2026-05-10T01:28:14.318711+00:00"
+    },
+    {
+      "id": "3b17ac3e97e8",
+      "title": "Software Engineer - Myworkdayjobs.com",
+      "company": "Proofpoint",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers/job/Draper-UT/Software-Engineer_R14193-1",
+      "source": "Workday",
+      "description": "Software Engineer \u00b7 Solid experience with Linux and at least one scripting language such as Perl, Python, or Bash \u00b7 Hands-on experience with Claude Code ...",
+      "date": "2026-05-09",
+      "timestamp": "2026-05-09T21:36:42+00:00",
+      "fetched_at": "2026-05-10T01:28:14.318823+00:00"
+    },
+    {
+      "id": "86d2e359a6bd",
+      "title": "Job Application for Software Engineer , Core Product at Discord - Greenhouse",
+      "company": "Discord",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/discord/jobs/8520965002",
+      "source": "Greenhouse",
+      "description": "Software Engineer , Core Product. San Francisco Bay Area. Apply. Discord is used by over 200 million people every month for many different reasons ...",
+      "date": "2026-05-09",
+      "timestamp": "2026-05-09T21:34:27+00:00",
+      "fetched_at": "2026-05-10T01:28:14.318928+00:00"
+    },
+    {
+      "id": "366b444a1d1f",
+      "title": "Applied AI Engineer | Careers | Oscar Health",
+      "company": "Careers | Oscar Health",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.hioscar.com/careers/7909079?gh_jid=7909079",
+      "source": "Other",
+      "description": "We're hiring an Applied AI Engineer to join our AI team. Oscar is the first health insurance company built around a full stack technology platform and ...",
+      "date": "2026-05-09",
+      "timestamp": "2026-05-09T20:57:01+00:00",
+      "fetched_at": "2026-05-10T01:28:14.319114+00:00"
+    },
+    {
+      "id": "dc0dcfaa59a7",
+      "title": "Software Engineer at Nox Metals | Y Combinator",
+      "company": "Nox Metals",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.ycombinator.com/companies/nox-metals/jobs/0TYRCe6-software-engineer",
+      "source": "Other",
+      "description": "Senior Full Stack Engineer \u00b7 Circleback \u00b7 Senior Software Engineer \u00b7 Avallon AI \u00b7 Founding Forward Deployed Engineer \u00b7 Conduit.",
+      "date": "2026-05-09",
+      "timestamp": "2026-05-09T20:48:32+00:00",
+      "fetched_at": "2026-05-10T01:28:14.319267+00:00"
+    },
+    {
+      "id": "4fd1f549120c",
+      "title": "Software Engineer - FullStack at Cargill",
+      "company": "Cargill",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cargill.com/en/job/wayzata/software-engineer-fullstack/23251/94870714416",
+      "source": "Other",
+      "description": "The Software Engineer partners to design and develop software applications and systems. ... Platform Engineer Atlanta, Georgia; Software Engineer - ...",
+      "date": "2026-05-09",
+      "timestamp": "2026-05-09T20:44:26+00:00",
+      "fetched_at": "2026-05-10T01:28:14.319418+00:00"
+    },
+    {
+      "id": "2560fedc12c9",
+      "title": "AI and Distributed Systems Backend Engineer - Manager - Location OPEN Job in New York, NY",
+      "company": "AI and Distributed Systems Backend Engineer",
+      "role": "Backend Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://ey.jobs/locations/new-york-ny/job-titles/ai-and-distributed-systems-backend-engineer-manager-consulting-location-open/jobs/?vs=5",
+      "source": "Other",
+      "description": "AI and Distributed Systems Backend Engineer - Manager - Consulting - Location OPEN Job in New York, NY, updated and verified daily by ...",
+      "date": "2026-05-09",
+      "timestamp": "2026-05-09T20:29:31+00:00",
+      "fetched_at": "2026-05-10T01:28:14.319711+00:00"
+    },
+    {
+      "id": "40bee74473fb",
+      "title": "Software Engineer (Remote / Hybrid) in Boulder, Colorado, United States of America",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2010264EXTERNALENGLOBAL/Software-Engineer-Remote-Hybrid",
+      "source": "Other",
+      "description": "Apply for Software Engineer (Remote / Hybrid) job with Cisco in Boulder, Colorado, United States of America. Product and Engineering at Cisco.",
+      "date": "2026-05-09",
+      "timestamp": "2026-05-09T19:11:46+00:00",
+      "fetched_at": "2026-05-10T01:28:14.319902+00:00"
+    },
     {
       "id": "f83fa5fc9d75",
       "title": "Best Machine Learning Engineer Jobs in Boston, MA 2026",
@@ -63,6 +213,21 @@
       "fetched_at": "2026-05-09T20:31:00.756732+00:00"
     },
     {
+      "id": "141cc92b8e82",
+      "title": "Software Engineer , Balance Abstraction - Stripe",
+      "company": "Stripe",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://stripe.com/jobs/listing/software-engineer-balance-abstraction/7908923/apply?gh_src=Blind",
+      "source": "Other",
+      "description": "See open roles \u00b7 Roles at Stripe \u00b7 Role details; Application. Software Engineer , Balance Abstraction.",
+      "date": "2026-05-09",
+      "timestamp": "2026-05-09T18:07:42+00:00",
+      "fetched_at": "2026-05-10T01:28:14.320433+00:00"
+    },
+    {
       "id": "ea1b39c7f3a0",
       "title": "LineVision, Inc. - Senior Software Engineer - Paylocity",
       "company": "LineVision, Inc.",
@@ -76,6 +241,21 @@
       "date": "2026-05-09",
       "timestamp": "2026-05-09T17:28:00+00:00",
       "fetched_at": "2026-05-09T20:31:00.756917+00:00"
+    },
+    {
+      "id": "4a0cdf323f8c",
+      "title": "94274-Bioinformatic Software Engineer III - Biostatistics Service",
+      "company": "94274",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mskcc.org/vacancies/94274-bioinformatic-software-engineer-iii-biostatistics-service/",
+      "source": "Other",
+      "description": "Bioinformatic Software Engineer III - Biostatistics Service. Department: Informatics & Information Technology. Location: New York, NY. Salary: ...",
+      "date": "2026-05-09",
+      "timestamp": "2026-05-09T17:17:23+00:00",
+      "fetched_at": "2026-05-10T01:28:14.320787+00:00"
     },
     {
       "id": "867a90d6e3aa",
@@ -108,6 +288,36 @@
       "fetched_at": "2026-05-09T20:31:00.757251+00:00"
     },
     {
+      "id": "f793797021c1",
+      "title": "Principal Data Engineer - Remote at UnitedHealth Group",
+      "company": "UnitedHealth Group",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.unitedhealthgroup.com/job/raleigh/principal-data-engineer-remote/34088/94867786144",
+      "source": "Other",
+      "description": "Principal Data Engineer - Remote. Requisition number: 2350430 Job category: Technology Primary location: Raleigh, NC Date posted: 05/08/ ...",
+      "date": "2026-05-09",
+      "timestamp": "2026-05-09T15:26:48+00:00",
+      "fetched_at": "2026-05-10T01:28:14.384482+00:00"
+    },
+    {
+      "id": "e017527950aa",
+      "title": "Staff Software Engineer , Feature Platform, San Francisco, CA, USA - Unity Careers",
+      "company": "Unity Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://unity.com/careers/positions/7908769",
+      "source": "Other",
+      "description": "As a Staff Software Engineer on the Feature Platform team, you'll play a critical role in building the infrastructure that powers machine learning ...",
+      "date": "2026-05-09",
+      "timestamp": "2026-05-09T15:17:05+00:00",
+      "fetched_at": "2026-05-10T01:28:14.321243+00:00"
+    },
+    {
       "id": "3ff0e687d13c",
       "title": "Best AI Engineer Jobs in NYC, NY 2026",
       "company": "Unknown Company",
@@ -136,6 +346,36 @@
       "date": "2026-05-09",
       "timestamp": "2026-05-09T13:56:14+00:00",
       "fetched_at": "2026-05-09T16:37:33.040241+00:00"
+    },
+    {
+      "id": "40eabac02786",
+      "title": "Senior Software Engineer - Observe by Snowflake, APM & AI Observability",
+      "company": "Observe by Snowflake, APM & AI Observability",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.snowflake.com/us/en/job/SNCOUSA8A2BF77D20440F7BFCBD758B315CE28EXTERNALENUS87966ED394F547B58FA8855F10480346/Senior-Software-Engineer-Observe-by-Snowflake-APM-AI-Observability",
+      "source": "Other",
+      "description": "Apply for Senior Software Engineer - Observe by Snowflake, APM & AI Observability job in Menlo Park, California, United States.",
+      "date": "2026-05-09",
+      "timestamp": "2026-05-09T13:29:06+00:00",
+      "fetched_at": "2026-05-10T01:28:14.385510+00:00"
+    },
+    {
+      "id": "0a89c0ca3135",
+      "title": "Senior Software Engineer - Observe by Snowflake, OpenTelemetry",
+      "company": "Observe by Snowflake, OpenTelemetry",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.snowflake.com/us/en/job/SNCOUSA73FA5F0124944829B105D2181C2E413EXTERNALENUS47D4F4EB00BF4395971C52B3D23E6AE0/Senior-Software-Engineer-Observe-by-Snowflake-OpenTelemetry",
+      "source": "Other",
+      "description": "Apply for Senior Software Engineer - Observe by Snowflake, OpenTelemetry job in Menlo Park, California, United States.",
+      "date": "2026-05-09",
+      "timestamp": "2026-05-09T13:29:06+00:00",
+      "fetched_at": "2026-05-10T01:28:14.385934+00:00"
     },
     {
       "id": "95d2cfa22150",
