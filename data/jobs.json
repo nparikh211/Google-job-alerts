@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-05-11T21:06:43.533211+00:00",
-  "total_jobs": 1540,
+  "last_updated": "2026-05-12T01:28:05.765789+00:00",
+  "total_jobs": 1556,
   "stats": {
-    "total_companies": 948,
+    "total_companies": 955,
     "total_roles": 43,
     "regions": {
-      "India": 919,
-      "Philippines": 282,
-      "Remote": 210,
+      "India": 931,
+      "Philippines": 285,
+      "Remote": 211,
       "Unknown": 135
     },
     "sources": {
-      "Other": 1196,
+      "Other": 1210,
       "Greenhouse": 83,
-      "Workday": 63,
+      "Workday": 65,
       "LinkedIn": 59,
       "Ashby": 52,
       "Lever": 19,
@@ -34,6 +34,186 @@
   },
   "jobs": [
     {
+      "id": "7013cb7d6a29",
+      "title": "Software Engineer II - Hy-Vee Careers - Myworkdayjobs.com",
+      "company": "Hyvee",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Software-Engineer-II_R231608",
+      "source": "Workday",
+      "description": "Software Engineer II \u00b7 Understand and apply foundational organization and industry engineering principles and core competencies; start to identify ...",
+      "date": "2026-05-11",
+      "timestamp": "2026-05-11T22:36:53+00:00",
+      "fetched_at": "2026-05-12T01:28:05.416150+00:00"
+    },
+    {
+      "id": "c7863fc1cd39",
+      "title": "Senior Software Engineer - Omniverse Development - CDH - Remote at Mayo Clinic",
+      "company": "Mayo Clinic",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.mayoclinic.org/job/rochester/senior-software-engineer-omniverse-development-cdh-remote/33647/94981618816",
+      "source": "Other",
+      "description": "Senior Software Engineer - Omniverse Development - CDH - Remote \u00b7 Rochester, MN \u00b7 Full Time \u00b7 Remote: Yes.",
+      "date": "2026-05-11",
+      "timestamp": "2026-05-11T22:20:27+00:00",
+      "fetched_at": "2026-05-12T01:28:05.416353+00:00"
+    },
+    {
+      "id": "a74566d6f454",
+      "title": "Apply For Principal Software Engineer - Java (HYBRID San Jose, CA) - Stryker",
+      "company": "Java (HYBRID San Jose, CA) - Stryker",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.stryker.com/principal-software-engineer-java-hybrid-san-jose-ca/job/E564750F06330190BAB11F7B127C91F7",
+      "source": "Other",
+      "description": "We are looking for a Principal Software Engineer with strong Java expertise to join our Product Engineering team.",
+      "date": "2026-05-11",
+      "timestamp": "2026-05-11T22:20:06+00:00",
+      "fetched_at": "2026-05-12T01:28:05.757063+00:00"
+    },
+    {
+      "id": "7cc073e7df32",
+      "title": "Software Engineer , Hardware Health | OpenAI",
+      "company": "OpenAI",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://openai.com/careers/software-engineer-hardware-health-san-francisco/",
+      "source": "Other",
+      "description": "Software Engineer , Hardware Health | OpenAI. Careers. Software Engineer , Hardware Health. Frontiers Clusters - San Francisco. Apply now (opens in a ...",
+      "date": "2026-05-11",
+      "timestamp": "2026-05-11T22:18:56+00:00",
+      "fetched_at": "2026-05-12T01:28:05.416810+00:00"
+    },
+    {
+      "id": "b00259d2076d",
+      "title": "Data Engineer - Oliver James",
+      "company": "Oliver James",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.oliverjames.com/en/jobs/data-engineer-9102/",
+      "source": "Other",
+      "description": "Apply for a Data Engineer role in Charlotte, NC, onsite, building Snowflake, Python, and SQL data pipelines with salary up to $140K.",
+      "date": "2026-05-11",
+      "timestamp": "2026-05-11T22:18:43+00:00",
+      "fetched_at": "2026-05-12T01:28:05.416935+00:00"
+    },
+    {
+      "id": "d0389b00bfc6",
+      "title": "Data & ML Engineer - EssilorLuxottica Group Jobs",
+      "company": "EssilorLuxottica Group Jobs",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.essilorluxottica.com/job/Dallas-Data-&-ML-Engineer-TX-75204/1392454933/",
+      "source": "Other",
+      "description": "Bachelor's degree in Computer Science, Engineering, or related field \u00b7 Experience as a Data Engineer , ML Engineer , or Platform Engineer \u00b7 Strong hands ...",
+      "date": "2026-05-11",
+      "timestamp": "2026-05-11T22:05:40+00:00",
+      "fetched_at": "2026-05-12T01:28:05.417235+00:00"
+    },
+    {
+      "id": "9c16194a27d7",
+      "title": "Associate Data Engineer | Dayforce Jobs - dayforcehcm.com",
+      "company": "Dayforce Jobs - dayforcehcm.com",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.dayforcehcm.com/en-US/landmarkcu/CANDIDATEPORTAL/jobs/17023",
+      "source": "Other",
+      "description": "We invite you to learn more about this and other opportunities at Landmark Credit Union. NATURE AND SCOPE. The Associate Data Engineer is an entry- ...",
+      "date": "2026-05-11",
+      "timestamp": "2026-05-11T21:48:24+00:00",
+      "fetched_at": "2026-05-12T01:28:05.417378+00:00"
+    },
+    {
+      "id": "d266f174e939",
+      "title": "Staff Software Engineer - Barcelona, Spain - Singapore - Warsaw, Poland - Equinix Careers",
+      "company": "Barcelona, Spain - Singapore - Warsaw, Poland - Equinix Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.equinix.com/jobs/staff-software-engineer-barcelona-spain-singapore-warsaw-poland",
+      "source": "Other",
+      "description": "... Software Engineer to design, build, test, and operate a ... Senior Platform Engineer \u2013 Data & AI. Toronto Technology \u00b7 Staff Engineer ...",
+      "date": "2026-05-11",
+      "timestamp": "2026-05-11T21:44:16+00:00",
+      "fetched_at": "2026-05-12T01:28:05.757563+00:00"
+    },
+    {
+      "id": "7097a2a35f53",
+      "title": "Data Engineer - Glencore",
+      "company": "Glencore",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.glencore.com/careers/jobs/R200001467",
+      "source": "Other",
+      "description": "Data Engineer \u00b7 Design, implement, and maintain scalable data engineering pipelines using Python, Spark, and SQL, applying clean coding principles, and ...",
+      "date": "2026-05-11",
+      "timestamp": "2026-05-11T21:20:52+00:00",
+      "fetched_at": "2026-05-12T01:28:05.417493+00:00"
+    },
+    {
+      "id": "fdff1efc4096",
+      "title": "Senior Machine Learning Engineer Job Details | natgridProd - National Grid Careers",
+      "company": "natgridProd - National Grid Careers",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs-ats.nationalgrid.com/job/Waltham-Senior-Machine-Learning-Engineer-MA-02451/1389741400/",
+      "source": "Other",
+      "description": "Senior Machine Learning Engineer . Business Unit: IT and Digital. Requisition Number: 8478. About us. At National Grid we are committed to delivering ...",
+      "date": "2026-05-11",
+      "timestamp": "2026-05-11T20:54:48+00:00",
+      "fetched_at": "2026-05-12T01:28:05.757869+00:00"
+    },
+    {
+      "id": "151420f6a9c9",
+      "title": "Software Engineer - Front End (React) - Myworkdayjobs.com",
+      "company": "Intapp",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://intapp.wd1.myworkdayjobs.com/Intapp/job/Palo-Alto-CA/Software-Engineer---Front-End--React-_R2024971-1",
+      "source": "Workday",
+      "description": "We are looking for a software engineer with an emphasis on the front-end, to build and maintain software using React framework and technologies of ...",
+      "date": "2026-05-11",
+      "timestamp": "2026-05-11T20:46:12+00:00",
+      "fetched_at": "2026-05-12T01:28:05.417577+00:00"
+    },
+    {
+      "id": "7c75daa61639",
+      "title": "Senior Data Engineer - Vice President | Citi Careers",
+      "company": "Vice President | Citi Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.citi.com/job/irving/senior-data-engineer-vice-president/287/94977565872",
+      "source": "Other",
+      "description": "Senior Data Engineer - Vice President. Apply (opens in new window) Save ... Wealth Funds Technology Full Stack Engineer , SVP. Jersey City, New ...",
+      "date": "2026-05-11",
+      "timestamp": "2026-05-11T20:29:37+00:00",
+      "fetched_at": "2026-05-12T01:28:05.417735+00:00"
+    },
+    {
       "id": "2d05008171e7",
       "title": "Data Engineer II | Everforth Apex",
       "company": "Everforth Apex",
@@ -49,6 +229,21 @@
       "fetched_at": "2026-05-11T21:06:43.296033+00:00"
     },
     {
+      "id": "f167792ad31a",
+      "title": "Principal Software Engineer , Westlake, TX / Merrimack, NH | Fidelity Careers",
+      "company": "Fidelity Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.fidelity.com/en/jobs/2128072/principal-software-engineer/",
+      "source": "Other",
+      "description": "Job Description: Principal Software Engineer Note: Fidelity is not providing immigration sponsorship for this position The Role We are seeking an ...",
+      "date": "2026-05-11",
+      "timestamp": "2026-05-11T20:11:58+00:00",
+      "fetched_at": "2026-05-12T01:28:05.417989+00:00"
+    },
+    {
       "id": "b8de15001a23",
       "title": "Data Engineer , Data Acquisition (Web Crawling & Pipelines) - Vagaro",
       "company": "Vagaro",
@@ -62,6 +257,51 @@
       "date": "2026-05-11",
       "timestamp": "2026-05-11T19:36:43+00:00",
       "fetched_at": "2026-05-11T21:06:43.296216+00:00"
+    },
+    {
+      "id": "92b86eb1e8d4",
+      "title": "Sr Software Engineer (Platform Intelligence), Developer Workflows - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200662563-0836/sr-software-engineer-platform-intelligence-developer-workflows",
+      "source": "Other",
+      "description": "Apply for a Sr Software Engineer (Platform Intelligence), Developer Workflows job at Apple. Read about the role and find out if it's right for ...",
+      "date": "2026-05-11",
+      "timestamp": "2026-05-11T19:33:21+00:00",
+      "fetched_at": "2026-05-12T01:28:05.418293+00:00"
+    },
+    {
+      "id": "b589b59b5323",
+      "title": "Senior Software Engineer - Network Engineering Platform - Careers - LEGO.com",
+      "company": "Senior Software Engineer",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.lego.com/en-us/careers/job/senior-software-engineer-network-engineering-platform-8a9bbb4798331000dfbdaa1c269a0000",
+      "source": "Other",
+      "description": "Senior Software Engineer - Network Engineering Platform: Job Description Passionate about streamlining processes, automating tasks, and empowering ...",
+      "date": "2026-05-11",
+      "timestamp": "2026-05-11T19:19:52+00:00",
+      "fetched_at": "2026-05-12T01:28:05.418538+00:00"
+    },
+    {
+      "id": "de0b074b211b",
+      "title": "Devin the Autonomous AI Software Engineer - Quick Tutorial for Beginners - YouTube",
+      "company": "Quick Tutorial for Beginners - YouTube",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.youtube.com/watch?v=X35ZTR92Wcw",
+      "source": "Other",
+      "description": "... from Linear. Devin the Autonomous AI Software Engineer - Quick Tutorial for Beginners. 22 views \u00b7 18 minutes ago ...more. Nader Dabit. 54.5K.",
+      "date": "2026-05-11",
+      "timestamp": "2026-05-11T19:15:40+00:00",
+      "fetched_at": "2026-05-12T01:28:05.418666+00:00"
     },
     {
       "id": "b565ab5c09b1",
