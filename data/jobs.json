@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-05-12T13:28:47.570963+00:00",
-  "total_jobs": 1585,
+  "last_updated": "2026-05-12T17:51:07.662983+00:00",
+  "total_jobs": 1601,
   "stats": {
-    "total_companies": 965,
+    "total_companies": 973,
     "total_roles": 43,
     "regions": {
-      "India": 945,
-      "Philippines": 295,
-      "Remote": 216,
+      "India": 955,
+      "Philippines": 300,
+      "Remote": 217,
       "Unknown": 135
     },
     "sources": {
-      "Other": 1232,
-      "Greenhouse": 84,
-      "Workday": 66,
+      "Other": 1242,
+      "Greenhouse": 85,
+      "Workday": 69,
       "LinkedIn": 63,
-      "Ashby": 52,
+      "Ashby": 53,
       "Lever": 19,
       "Breezy": 18,
-      "iCIMS": 16,
+      "iCIMS": 17,
       "Indeed": 12,
       "Workable": 10,
       "SmartRecruiters": 8,
@@ -33,6 +33,126 @@
     }
   },
   "jobs": [
+    {
+      "id": "a7c5a2657170",
+      "title": "Software Engineer - Fleet @ Lambda - Jobs",
+      "company": "Lambda",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/lambda/d96f72bd-d78e-4a2b-9d9f-faa10b9ec883",
+      "source": "Ashby",
+      "description": "Software Engineer - Fleet. Location. San Francisco Office (Fremont St); Bellevue, WA; San Jose Office (Zanker). Employment Type. Full time. Location ...",
+      "date": "2026-05-12",
+      "timestamp": "2026-05-12T17:07:30+00:00",
+      "fetched_at": "2026-05-12T17:51:07.653074+00:00"
+    },
+    {
+      "id": "1acbad3ade68",
+      "title": "Job Application for Senior Software Engineer , Infrastructure at Epic Kids Inc. - Greenhouse",
+      "company": "Epickids",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/epickids/jobs/7731559003",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer , Infrastructure. US Remote. Apply. About Us. Epic is the leading digital reading platform for kids ages 12 and under, used by ...",
+      "date": "2026-05-12",
+      "timestamp": "2026-05-12T17:00:47+00:00",
+      "fetched_at": "2026-05-12T17:51:07.422545+00:00"
+    },
+    {
+      "id": "e8d8ef453dcc",
+      "title": "Senior Software Engineer , P2020 \u2014 Google Careers",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/125285465140929222-senior-software-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer , P2020. Dublin, Ireland \u00b7 Customer Engineer ... Senior Software Engineer , P2020. share. linkCopy link; emailEmail a friend.",
+      "date": "2026-05-12",
+      "timestamp": "2026-05-12T15:30:32+00:00",
+      "fetched_at": "2026-05-12T17:51:07.423725+00:00"
+    },
+    {
+      "id": "cdd361b11fb9",
+      "title": "Data Engineer in Needham, Massachusetts | Careers at Encore Corporate",
+      "company": "Encore Corporate",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers-encorefireprotection.icims.com/jobs/3578/data-engineer/job",
+      "source": "iCIMS",
+      "description": "Data Engineer . Location US-MA-Needham. ID 2026-3578. Category: IT Operations. Position Type: Full-Time. Who We Are. At Encore Fire Protection, we are ...",
+      "date": "2026-05-12",
+      "timestamp": "2026-05-12T15:03:32+00:00",
+      "fetched_at": "2026-05-12T17:51:07.653356+00:00"
+    },
+    {
+      "id": "1aefdac70de5",
+      "title": "Data Engineer - Myworkdayjobs.com",
+      "company": "Ambgroup",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ambgroup.wd1.myworkdayjobs.com/appl_only_site/job/Mercedes-Benz-Stadium/Data-Engineer_R0028968-3",
+      "source": "Workday",
+      "description": "As a Data Engineer , you will own key parts of the pipeline lifecycle\u2014from ingesting source data through transformation, testing, and publishing ...",
+      "date": "2026-05-12",
+      "timestamp": "2026-05-12T14:43:18+00:00",
+      "fetched_at": "2026-05-12T17:51:07.423837+00:00"
+    },
+    {
+      "id": "7948e25c5020",
+      "title": "Senior Software Engineer , P2020 - Careers - Google",
+      "company": "Careers - Google",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/125285465140929222-senior-software-engineer-p2020?sort_by=date",
+      "source": "Other",
+      "description": "Senior Software Engineer , P2020. share. linkCopy link; emailEmail a friend. corporate_fareGoogleplaceDublin, Ireland. bar_chartMid. Mid. Experience ...",
+      "date": "2026-05-12",
+      "timestamp": "2026-05-12T14:42:29+00:00",
+      "fetched_at": "2026-05-12T17:51:07.654071+00:00"
+    },
+    {
+      "id": "d29d25a74115",
+      "title": "Data Engineer - Myworkdayjobs.com",
+      "company": "Montefiore",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://montefiore.wd12.myworkdayjobs.com/en-US/MMC/job/Data-Engineer_JR229580",
+      "source": "Workday",
+      "description": "Our workforce is among the most diverse in the US: Montefiore associates speak 60+ languages. Position Summary: The Data Engineer , Research ...",
+      "date": "2026-05-12",
+      "timestamp": "2026-05-12T13:59:52+00:00",
+      "fetched_at": "2026-05-12T17:51:07.423926+00:00"
+    },
+    {
+      "id": "0a425c4c5a23",
+      "title": "Senior AI-First Full-Stack Engineer , Test Automation & Platform Readiness - Virtasant",
+      "company": "Senior AI",
+      "role": "Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://virtasant.teamtailor.com/jobs/7719465-senior-ai-first-full-stack-engineer-test-automation-platform-readiness",
+      "source": "Other",
+      "description": "Senior AI-First Full-Stack Engineer , Test Automation & Platform Readiness. We are looking for a senior engineer who can help assess, stabilize, and ...",
+      "date": "2026-05-12",
+      "timestamp": "2026-05-12T13:28:15+00:00",
+      "fetched_at": "2026-05-12T17:51:07.424448+00:00"
+    },
     {
       "id": "df662e1f2792",
       "title": "Machine Learning Engineer Job Details - SAP Careers",
@@ -49,6 +169,51 @@
       "fetched_at": "2026-05-12T13:28:47.468407+00:00"
     },
     {
+      "id": "556a14e14126",
+      "title": "Cadence Open Roles \u2013 Applied AI Engineer",
+      "company": "Unknown Company",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.cadence.care/jobs/applied-ai-engineer/",
+      "source": "Other",
+      "description": "Applied AI Engineer . Apply Now. Re\u2011architecting U.S. healthcare demands speed, precision, and an obsession with details. Cadence is building a ...",
+      "date": "2026-05-12",
+      "timestamp": "2026-05-12T11:03:38+00:00",
+      "fetched_at": "2026-05-12T17:51:07.425105+00:00"
+    },
+    {
+      "id": "be6d1d8a2554",
+      "title": "Senior Software Engineer - Full Stack Job Details - Careers | Volvo Cars",
+      "company": "Full Stack Job Details - Careers | Volvo Cars",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.volvocars.com/job/Bengaluru-Senior-Software-Engineer-Full-Stack-KA-562122/1392490433/",
+      "source": "Other",
+      "description": "Senior Software Engineer - Full Stack. Software, the fuel for mobility. We bring bold digital visions to life. So we're on the lookout for more ...",
+      "date": "2026-05-12",
+      "timestamp": "2026-05-12T11:02:00+00:00",
+      "fetched_at": "2026-05-12T17:51:07.425304+00:00"
+    },
+    {
+      "id": "fd2dfb581fe3",
+      "title": "Senior Software Engineer - Logo - Myworkdayjobs.com",
+      "company": "Wellington",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://wellington.wd5.myworkdayjobs.com/External/job/Boston-MA-United-States/Senior-Software-Engineer_R94133-1",
+      "source": "Workday",
+      "description": "... TITLE: Senior Software Engineer , Trading Technology TEAM: Investment Implementation & Trading Technology LOCATION: Boston or Needham ...",
+      "date": "2026-05-12",
+      "timestamp": "2026-05-12T10:59:01+00:00",
+      "fetched_at": "2026-05-12T17:51:07.425398+00:00"
+    },
+    {
       "id": "3444e3b5cb82",
       "title": "Senior Software Engineer , Cloud Security, Identity and Access Management",
       "company": "Unknown Company",
@@ -62,6 +227,36 @@
       "date": "2026-05-12",
       "timestamp": "2026-05-12T10:53:39+00:00",
       "fetched_at": "2026-05-12T13:28:47.560281+00:00"
+    },
+    {
+      "id": "2e293150a3ff",
+      "title": "Senior Full Stack Software Engineer",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/labric/jobs/ef835df4-ebd1-4c80-afa7-7d23d6b946da",
+      "source": "Other",
+      "description": "Senior Full Stack Software Engineer . About Labric. Effective use of AI will transform scientific research, but most lab data is stuck in silos.",
+      "date": "2026-05-12",
+      "timestamp": "2026-05-12T10:16:35+00:00",
+      "fetched_at": "2026-05-12T17:51:07.425523+00:00"
+    },
+    {
+      "id": "27aa1f443c20",
+      "title": "Senior Software Engineer \u2013 Cato Apps Team (AI)",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.catonetworks.com/careers/careers-post/4861512101/senior-software-engineer-cato-apps-team-ai",
+      "source": "Other",
+      "description": "Senior Software Engineer \u2013 Cato Apps Team (AI). Location: Tel Aviv District, Israel. Welcome to the future of cloud networking and security!",
+      "date": "2026-05-12",
+      "timestamp": "2026-05-12T09:36:33+00:00",
+      "fetched_at": "2026-05-12T17:51:07.655381+00:00"
     },
     {
       "id": "28625b380214",
@@ -94,6 +289,21 @@
       "fetched_at": "2026-05-12T10:18:55.062721+00:00"
     },
     {
+      "id": "49852785b5ad",
+      "title": "Senior Platform Engineer (Cloud & DevOps), Kuala Lumpur | \u00d8rsted",
+      "company": "\u00d8rsted",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://orsted.com/en/careers/vacancies-list/2026/05/32017-senior-platform-engineer-cloud-and-devops",
+      "source": "Other",
+      "description": "Senior Platform Engineer (Cloud & DevOps). Imagine a future where ... Senior Software Engineer . Malaysia \u00b7 See open positions. Imagine a future ...",
+      "date": "2026-05-12",
+      "timestamp": "2026-05-12T08:05:20+00:00",
+      "fetched_at": "2026-05-12T17:51:07.425814+00:00"
+    },
+    {
       "id": "bfdc2521e836",
       "title": "Cloud Engineer I - Cloud Services - FoodChain ID Group, Inc - Career Page",
       "company": "Cloud Services - FoodChain ID Group, Inc - Career Page",
@@ -107,6 +317,36 @@
       "date": "2026-05-12",
       "timestamp": "2026-05-12T07:49:27+00:00",
       "fetched_at": "2026-05-12T10:18:55.062905+00:00"
+    },
+    {
+      "id": "26a0fb70f0df",
+      "title": "Senior Software Engineer , Client Features Overwatch - Blizzard Careers",
+      "company": "Blizzard Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.blizzard.com/global/en/job/R027450/Senior-Software-Engineer-Client-Features-Overwatch",
+      "source": "Other",
+      "description": "Apply for Senior Software Engineer , Client Features Overwatch job with Blizzard Entertainment in Seoul, Korea, Republic of.",
+      "date": "2026-05-12",
+      "timestamp": "2026-05-12T07:45:02+00:00",
+      "fetched_at": "2026-05-12T17:51:07.656028+00:00"
+    },
+    {
+      "id": "274808ef2e5d",
+      "title": "Specialist, Software Engineer (Full Stack) - Careers at Nationwide",
+      "company": "Nationwide",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.nationwide.com/specialist-software-engineer-full-stack/job/F18FA28775E2AFA89236AD1D249FF62A",
+      "source": "Other",
+      "description": "Join Nationwide in Columbus, OH! Apply for the Specialist, Software Engineer (Full Stack) role today and start your journey with us.",
+      "date": "2026-05-12",
+      "timestamp": "2026-05-12T07:14:07+00:00",
+      "fetched_at": "2026-05-12T17:51:07.426094+00:00"
     },
     {
       "id": "8cd0251816ae",
