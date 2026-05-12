@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-05-12T06:30:02.993085+00:00",
-  "total_jobs": 1568,
+  "last_updated": "2026-05-12T10:18:55.072122+00:00",
+  "total_jobs": 1579,
   "stats": {
-    "total_companies": 958,
+    "total_companies": 964,
     "total_roles": 43,
     "regions": {
-      "India": 938,
-      "Philippines": 287,
-      "Remote": 214,
+      "India": 940,
+      "Philippines": 294,
+      "Remote": 216,
       "Unknown": 135
     },
     "sources": {
-      "Other": 1220,
-      "Greenhouse": 83,
+      "Other": 1227,
+      "Greenhouse": 84,
       "Workday": 66,
-      "LinkedIn": 60,
+      "LinkedIn": 62,
       "Ashby": 52,
       "Lever": 19,
       "Breezy": 18,
-      "iCIMS": 15,
+      "iCIMS": 16,
       "Indeed": 12,
       "Workable": 10,
       "SmartRecruiters": 8,
@@ -33,6 +33,81 @@
     }
   },
   "jobs": [
+    {
+      "id": "28625b380214",
+      "title": "Software Engineer in Remote - Cotiviti | Careers Center - ICIMS",
+      "company": "Cotiviti | Careers Center - ICIMS",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers-cotiviti.icims.com/jobs/19052/software-engineer/job",
+      "source": "iCIMS",
+      "description": "US Nationwide Remote is now hiring a Software Engineer in Remote. Review all of the job details and apply today!",
+      "date": "2026-05-12",
+      "timestamp": "2026-05-12T09:33:25+00:00",
+      "fetched_at": "2026-05-12T10:18:55.062526+00:00"
+    },
+    {
+      "id": "63a9a58f6778",
+      "title": "Databricks Data Engineer - Datavail Career Site Careers - oracle",
+      "company": "Datavail Career Site Careers - oracle",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://eifn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ExternalCareerSite/job/1838",
+      "source": "Other",
+      "description": "Databricks Data Engineer . Anywhere USA, United States (Remote). Trending. Datavail. About Us. Datavail is a leading provider of data ...",
+      "date": "2026-05-12",
+      "timestamp": "2026-05-12T08:59:27+00:00",
+      "fetched_at": "2026-05-12T10:18:55.062721+00:00"
+    },
+    {
+      "id": "bfdc2521e836",
+      "title": "Cloud Engineer I - Cloud Services - FoodChain ID Group, Inc - Career Page",
+      "company": "Cloud Services - FoodChain ID Group, Inc - Career Page",
+      "role": "Cloud Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://foodchainidgroupinc.applytojob.com/apply/hqfAzseebp/Cloud-Engineer-I-Cloud-Services",
+      "source": "Other",
+      "description": "FoodChain ID is seeking a motivated and detail-oriented Cloud Engineer I to join our Cloud Services team. This entry-level role is ideal for ...",
+      "date": "2026-05-12",
+      "timestamp": "2026-05-12T07:49:27+00:00",
+      "fetched_at": "2026-05-12T10:18:55.062905+00:00"
+    },
+    {
+      "id": "b64c49e88a53",
+      "title": "AI/ ML Engineer (Hybrid) - Cisco Careers",
+      "company": "Cisco Careers",
+      "role": "ML Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2012654EXTERNALENGLOBAL/AI-ML-Engineer-Hybrid",
+      "source": "Other",
+      "description": "As a Software Engineer specialized in AI/ML, you will guide the ... Lead Site Reliability Engineer (GCP & Hybrid Cloud) Hybrid. Available in ...",
+      "date": "2026-05-12",
+      "timestamp": "2026-05-12T06:04:12+00:00",
+      "fetched_at": "2026-05-12T10:18:55.063064+00:00"
+    },
+    {
+      "id": "7ae2691ea00f",
+      "title": "Software Engineer I - Investments Technology, #R-50406, Saint Paul, MN, US",
+      "company": "Investments Technology, #R-50406, Saint Paul, MN, US",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.travelers.com/job/23374257/software-engineer-i-investments-technology-saint-paul-mn/",
+      "source": "Other",
+      "description": "Discover Software Engineer I - Investments Technology and other Technology jobs at Travelers in Saint Paul, MN, US, and apply online today!",
+      "date": "2026-05-12",
+      "timestamp": "2026-05-12T06:04:08+00:00",
+      "fetched_at": "2026-05-12T10:18:55.063255+00:00"
+    },
     {
       "id": "5dcfb86423f2",
       "title": "Software Engineer - Jobs - Careers at Apple",
@@ -49,6 +124,21 @@
       "fetched_at": "2026-05-12T06:30:02.983185+00:00"
     },
     {
+      "id": "b3f974efb602",
+      "title": "Software Engineer Development or Testing - Sutherland Global",
+      "company": "Sutherland Global",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.jobs.sutherlandglobal.com/job-details/software-engineer-development-or-testing-in-hc-it-jobs-1546827",
+      "source": "Other",
+      "description": "Software Engineer Development or Testing. Contract Type: Permanent WAH. Location: Bengaluru - KA. Date Published: 05-11-2026. Job ID: REF42723C.",
+      "date": "2026-05-12",
+      "timestamp": "2026-05-12T05:30:40+00:00",
+      "fetched_at": "2026-05-12T10:18:55.063581+00:00"
+    },
+    {
       "id": "4d86fa63ac07",
       "title": "Principal Machine Learning Engineer at Palo Alto Networks",
       "company": "Palo Alto Networks",
@@ -62,6 +152,66 @@
       "date": "2026-05-12",
       "timestamp": "2026-05-12T04:20:08+00:00",
       "fetched_at": "2026-05-12T06:30:02.816661+00:00"
+    },
+    {
+      "id": "2000932790d1",
+      "title": "Want to level up as a backend engineer ? Quit overthinking & start building. It's the simplest ...",
+      "company": "Unknown Company",
+      "role": "Backend Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/posts/codingwithroby_want-to-level-up-as-a-backend-engineer-activity-7459558207254990848-IP2Q",
+      "source": "LinkedIn",
+      "description": "Software Engineer | Backend Enthusiast | AI Nerd | Good Person to Know. 16h. Report this post; Close menu. Want to level up as a backend engineer ?",
+      "date": "2026-05-12",
+      "timestamp": "2026-05-12T03:31:51+00:00",
+      "fetched_at": "2026-05-12T10:18:55.063982+00:00"
+    },
+    {
+      "id": "fa9f2167efe2",
+      "title": "Senior Software Engineer , Criminal Screenings | Brad Hubbard - LinkedIn",
+      "company": "Brad Hubbard - LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/posts/bradleyhubbard_senior-software-engineer-criminal-screenings-activity-7459673637411897345-MZil",
+      "source": "LinkedIn",
+      "description": "I've already applied for the Senior Software Engineer role at Checkr and wanted to reach out directly as well. ... Backend Engineer | Java ...",
+      "date": "2026-05-12",
+      "timestamp": "2026-05-12T03:30:20+00:00",
+      "fetched_at": "2026-05-12T10:18:55.064254+00:00"
+    },
+    {
+      "id": "46ac38f65d15",
+      "title": "Job Application for Full Stack Engineer at Scopely - Greenhouse",
+      "company": "Scopely",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/scopely/jobs/5105580008",
+      "source": "Greenhouse",
+      "description": "Full Stack Engineer . US - Bellevue, United States. APPLY. As a Full Stack Game Engineer, you will contribute to the development of gameplay features ...",
+      "date": "2026-05-12",
+      "timestamp": "2026-05-12T03:26:27+00:00",
+      "fetched_at": "2026-05-12T10:18:55.064337+00:00"
+    },
+    {
+      "id": "0abac7aa0980",
+      "title": "Staff Software Engineer , San Carlos, CA, United States - Intuitive Careers",
+      "company": "Intuitive Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.intuitive.com/en/jobs/744000125951989/JOB214920/staff-software-engineer/",
+      "source": "Other",
+      "description": "Our achievements have been recognized and celebrated around the world. Similar jobs. Join us. View all jobs \u00b7 Senior Software Engineer (Vision ...",
+      "date": "2026-05-12",
+      "timestamp": "2026-05-12T03:00:59+00:00",
+      "fetched_at": "2026-05-12T10:18:55.064489+00:00"
     },
     {
       "id": "f32f33d7da4d",
@@ -107,6 +257,21 @@
       "date": "2026-05-12",
       "timestamp": "2026-05-12T02:00:43+00:00",
       "fetched_at": "2026-05-12T06:30:02.817491+00:00"
+    },
+    {
+      "id": "ba3e39678c28",
+      "title": "AI Engineer , BENGALURU, Karn\u0101taka | Wells Fargo",
+      "company": "Wells Fargo",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.wellsfargojobs.com/en/jobs/r-542097/ai-engineer/",
+      "source": "Other",
+      "description": "AI Engineer . BENGALURU. Technology; Full time; 11 May 2026; R-542097. About ... Senior Software Engineer - Gen AI. Save Saved. BENGALURU, Karn\u0101taka ...",
+      "date": "2026-05-12",
+      "timestamp": "2026-05-12T01:20:47+00:00",
+      "fetched_at": "2026-05-12T10:18:55.065074+00:00"
     },
     {
       "id": "77edbf811a2a",
