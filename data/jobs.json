@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-05-13T17:53:11.010870+00:00",
-  "total_jobs": 1669,
+  "last_updated": "2026-05-13T21:13:06.579761+00:00",
+  "total_jobs": 1686,
   "stats": {
-    "total_companies": 1007,
+    "total_companies": 1018,
     "total_roles": 44,
     "regions": {
-      "India": 997,
-      "Philippines": 316,
-      "Remote": 227,
+      "India": 1009,
+      "Philippines": 320,
+      "Remote": 228,
       "Unknown": 135
     },
     "sources": {
-      "Other": 1297,
+      "Other": 1310,
       "Greenhouse": 89,
-      "Workday": 72,
+      "Workday": 74,
       "LinkedIn": 65,
-      "Ashby": 54,
+      "Ashby": 55,
       "Breezy": 20,
+      "iCIMS": 19,
       "Lever": 19,
-      "iCIMS": 18,
       "Indeed": 12,
       "Workable": 10,
       "SmartRecruiters": 8,
@@ -34,6 +34,186 @@
   },
   "jobs": [
     {
+      "id": "479543bce339",
+      "title": "Software Engineer Job Details - Corning Careers",
+      "company": "Corning Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://corningjobs.corning.com/job/Fairport-Software-Engineer-NY-14450/1390668700/",
+      "source": "Other",
+      "description": "Software Engineer \u00b7 Bachelor's degree in Computer Science, Computer Engineering, Software Engineering, or a closely related field. \u00b7 3-5+ years industry ...",
+      "date": "2026-05-13",
+      "timestamp": "2026-05-13T21:07:31+00:00",
+      "fetched_at": "2026-05-13T21:13:06.569518+00:00"
+    },
+    {
+      "id": "77f2ad863b25",
+      "title": "Data Engineer in Remote | Careers at Work From Home - US - DMI",
+      "company": "Work From Home",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers-dminc.icims.com/jobs/28720/data-engineer/job",
+      "source": "iCIMS",
+      "description": "Work From Home - US is now hiring a Data Engineer in Remote. Review all of the job details and apply today!",
+      "date": "2026-05-13",
+      "timestamp": "2026-05-13T20:43:01+00:00",
+      "fetched_at": "2026-05-13T21:13:06.569645+00:00"
+    },
+    {
+      "id": "0e735adcecde",
+      "title": "Software Engineer - Strategic Data Solutions - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200663080-0157/software-engineer-strategic-data-solutions?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Software Engineer - Strategic Data Solutions job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-05-13",
+      "timestamp": "2026-05-13T20:03:32+00:00",
+      "fetched_at": "2026-05-13T21:13:06.171266+00:00"
+    },
+    {
+      "id": "45dc1f770c0d",
+      "title": "Senior Software Engineer , Westlake, TX / Durham, NC | Fidelity Careers",
+      "company": "Fidelity Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.fidelity.com/en/jobs/2128422/senior-software-engineer/",
+      "source": "Other",
+      "description": "As a senior software engineer in Web Access Management, you will design ... Principal, Full Stack Engineer (SRE). Save Saved. Technology ...",
+      "date": "2026-05-13",
+      "timestamp": "2026-05-13T19:06:10+00:00",
+      "fetched_at": "2026-05-13T21:13:06.569964+00:00"
+    },
+    {
+      "id": "8e265f4701da",
+      "title": "India, Jr. Software Platform Engineer - 17126 - MetLife Careers",
+      "company": "17126 - MetLife Careers",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.metlifecareers.com/en_US/ml/JobDetail/Jr-Software-Platform-Engineer/17126",
+      "source": "Other",
+      "description": "Software Platform Engineer . General Information. Location. Hyderabad, Telangana. Working Schedule. Full-Time. Work Arrangement. Hybrid. Relocation ...",
+      "date": "2026-05-13",
+      "timestamp": "2026-05-13T19:05:33+00:00",
+      "fetched_at": "2026-05-13T21:13:06.171778+00:00"
+    },
+    {
+      "id": "2239a4f9dba3",
+      "title": "Cloud Data Engineer | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.apexsystems.com/job/3033812_usa/cloud-data-engineer",
+      "source": "Other",
+      "description": "Cloud Data Engineer . Apply. Job#: 3033812. Job Description: Cloud ... Cloud Engineer \u00b7 Cloud Engineer \u00b7 Cloud Data Engineer - NC, VA. Connect with",
+      "date": "2026-05-13",
+      "timestamp": "2026-05-13T18:15:46+00:00",
+      "fetched_at": "2026-05-13T21:13:06.172208+00:00"
+    },
+    {
+      "id": "e341e470c4ea",
+      "title": "Software Engineer - Networking in Research Triangle Park, North Carolina, United States of America",
+      "company": "Networking in Research Triangle Park, North Carolina, United States of America",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2011246EXTERNALENGLOBAL/Software-Engineer-Networking",
+      "source": "Other",
+      "description": "Apply for Software Engineer - Networking job with Cisco in Research Triangle Park, North Carolina, United States of America.",
+      "date": "2026-05-13",
+      "timestamp": "2026-05-13T18:09:32+00:00",
+      "fetched_at": "2026-05-13T21:13:06.172428+00:00"
+    },
+    {
+      "id": "af383c46a67d",
+      "title": "Site Reliability Engineer II - Careers - Myworkdayjobs.com",
+      "company": "Cmegroup",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Site-Reliability-Engineer-II_34015-1",
+      "source": "Workday",
+      "description": "Site Reliability Engineer II \u00b7 A keen interest in SRE, automation, and intelligent operations (AIOps). \u00b7 Experience with Linux-based systems.",
+      "date": "2026-05-13",
+      "timestamp": "2026-05-13T18:07:01+00:00",
+      "fetched_at": "2026-05-13T21:13:06.172519+00:00"
+    },
+    {
+      "id": "744869f65ef8",
+      "title": "IT AI&S Senior Data Engineer Dallas | SOCOTEC US",
+      "company": "SOCOTEC US",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.socotec.us/poste/it-ais-senior-data-engineer-dallas",
+      "source": "Other",
+      "description": "As a Senior Data Engineer , you will design and build scalable data systems that power SOCOTEC's digital platforms and enterprise analytics. You will ...",
+      "date": "2026-05-13",
+      "timestamp": "2026-05-13T17:55:47+00:00",
+      "fetched_at": "2026-05-13T21:13:06.172670+00:00"
+    },
+    {
+      "id": "bbf244a766a7",
+      "title": "Software Engineer III - JPMC Candidate Experience page Careers",
+      "company": "JPMC Candidate Experience page Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210746533",
+      "source": "Other",
+      "description": "Software Engineer III - AWS Cloud Engineer . Columbus, OH, United States ... Software Engineer III - AWS Glue / Data Engineer . Irvine, CA ...",
+      "date": "2026-05-13",
+      "timestamp": "2026-05-13T17:44:24+00:00",
+      "fetched_at": "2026-05-13T21:13:06.172824+00:00"
+    },
+    {
+      "id": "01bf0f472370",
+      "title": "Senior Software Engineer , Fullstack @ Dave - Jobs",
+      "company": "Dave",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/dave/e72434b7-5a4b-4b4f-ad48-f590615c8b89",
+      "source": "Ashby",
+      "description": "Senior Software Engineer , Fullstack. ... Dave is looking for a talented Senior Fullstack Engineer to continue building the ...",
+      "date": "2026-05-13",
+      "timestamp": "2026-05-13T17:37:59+00:00",
+      "fetched_at": "2026-05-13T21:13:06.172911+00:00"
+    },
+    {
+      "id": "34ece188dbf0",
+      "title": "Software Engineer II (.Net) - OpportunityDetail.Index.PageTitle",
+      "company": "OpportunityDetail.Index.PageTitle",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://recruiting.ultipro.com/saf1003sncc/JobBoard/eb5e6dcc-5a67-4833-b31e-f54b97ea0c3a/OpportunityDetail?opportunityId=a8f1036a-6d14-4654-ad97-b9e8330aaa9d",
+      "source": "Other",
+      "description": "Software Engineer II (.Net). Opportunity.Opportunities.JobCategory: Software Engineering, Level 2. Opportunity.Opportunities.RequisitionNumber ...",
+      "date": "2026-05-13",
+      "timestamp": "2026-05-13T17:31:59+00:00",
+      "fetched_at": "2026-05-13T21:13:06.173165+00:00"
+    },
+    {
       "id": "a796b0868c2c",
       "title": "Data Engineer - Recruitment Management Software for Hiring on All Cylinders | Rippling",
       "company": "Recruitment Management Software for Hiring on All Cylinders | Rippling",
@@ -47,6 +227,21 @@
       "date": "2026-05-13",
       "timestamp": "2026-05-13T17:08:32+00:00",
       "fetched_at": "2026-05-13T17:53:10.883893+00:00"
+    },
+    {
+      "id": "b9f971a2414d",
+      "title": "Software Engineer - Entry, Pune | Equifax Careers",
+      "company": "Entry, Pune | Equifax Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.equifax.com/en/jobs/j00176971/software-engineer-entry/",
+      "source": "Other",
+      "description": "... with leading-edge technology. You are ideal for this position if you are a forward-thinking, committed, and enthusiastic software engineer who\u2026",
+      "date": "2026-05-13",
+      "timestamp": "2026-05-13T16:54:51+00:00",
+      "fetched_at": "2026-05-13T21:13:06.173509+00:00"
     },
     {
       "id": "34619d7c0984",
@@ -94,6 +289,51 @@
       "fetched_at": "2026-05-13T17:53:10.884537+00:00"
     },
     {
+      "id": "1bda7f4ef488",
+      "title": "Software Engineer - Myworkdayjobs.com",
+      "company": "Psu",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Software-Engineer_REQ_0000077212-2",
+      "source": "Workday",
+      "description": "... Software Engineer to join our AI for Visual Analytics (AIVA) Team at ... Software Engineer . Apply. locations: Penn State University Park. time ...",
+      "date": "2026-05-13",
+      "timestamp": "2026-05-13T16:38:03+00:00",
+      "fetched_at": "2026-05-13T21:13:06.173936+00:00"
+    },
+    {
+      "id": "0d4ce46f7d62",
+      "title": "Senior Software Engineer , Machine Learning, Debug \u2014 Google Careers",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/117375887728353990-senior-software-engineer-machine-learning-debug?sort_by=date",
+      "source": "Other",
+      "description": "Software Engineer , Site Reliability Engineer , Play. Sydney NSW ... Senior Software Engineer , Machine Learning, Debug. share. linkCopy link; email ...",
+      "date": "2026-05-13",
+      "timestamp": "2026-05-13T16:34:13+00:00",
+      "fetched_at": "2026-05-13T21:13:06.174237+00:00"
+    },
+    {
+      "id": "b116961cac23",
+      "title": "DevOps Engineer \u2013 ADAS Platform - Ford Global Career Site Careers - oracle",
+      "company": "Ford Global Career Site Careers - oracle",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/62959",
+      "source": "Other",
+      "description": "Job Description. As a DevOps Engineer within the Ford ADAS DevOps Team, you will play a critical role in enabling scalable, reliable, and secure ...",
+      "date": "2026-05-13",
+      "timestamp": "2026-05-13T15:34:24+00:00",
+      "fetched_at": "2026-05-13T21:13:06.571980+00:00"
+    },
+    {
       "id": "9172f8f76200",
       "title": "Job Application for Software Engineer at Obsidian Security - Greenhouse",
       "company": "Obsidiansecurity",
@@ -107,6 +347,21 @@
       "date": "2026-05-13",
       "timestamp": "2026-05-13T15:26:56+00:00",
       "fetched_at": "2026-05-13T17:53:11.001240+00:00"
+    },
+    {
+      "id": "9625c2b36dc1",
+      "title": "Cloud Engineer - BorgWarner",
+      "company": "BorgWarner",
+      "role": "Cloud Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.borgwarner.com/careers/job-search?id=R2026-1808",
+      "source": "Other",
+      "description": "Cloud Engineer \u00b7 3+ Years of experience managing Data Center platforms including Azure cloud services \u00b7 Microsoft Windows Server administration ...",
+      "date": "2026-05-13",
+      "timestamp": "2026-05-13T15:26:35+00:00",
+      "fetched_at": "2026-05-13T21:13:06.572226+00:00"
     },
     {
       "id": "814340988ac5",
