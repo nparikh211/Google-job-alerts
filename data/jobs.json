@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-05-13T06:40:24.020326+00:00",
-  "total_jobs": 1641,
+  "last_updated": "2026-05-13T10:10:16.186936+00:00",
+  "total_jobs": 1645,
   "stats": {
-    "total_companies": 995,
+    "total_companies": 996,
     "total_roles": 44,
     "regions": {
-      "India": 978,
-      "Philippines": 311,
+      "India": 979,
+      "Philippines": 314,
       "Remote": 223,
       "Unknown": 135
     },
     "sources": {
-      "Other": 1276,
+      "Other": 1280,
       "Greenhouse": 86,
       "Workday": 71,
       "LinkedIn": 64,
@@ -33,6 +33,36 @@
     }
   },
   "jobs": [
+    {
+      "id": "f6ec1557c2ef",
+      "title": "Data Engineer - Cummins",
+      "company": "Cummins",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://cummins.jobs/pune-ind/data-engineer/9D0F7500BAFF4566B4913365B863D246/job/",
+      "source": "Other",
+      "description": "Data Engineer . Pune, IND. Career Path: Systems/Information ... Software Engineer - Senior. Pune, IND \u00b7 DevOps Engineer - Senior. Pune, IND.",
+      "date": "2026-05-13",
+      "timestamp": "2026-05-13T08:26:24+00:00",
+      "fetched_at": "2026-05-13T10:10:16.177061+00:00"
+    },
+    {
+      "id": "ee9d8fc023f6",
+      "title": "AI Engineer - GE Vernova Careers",
+      "company": "GE Vernova Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.gevernova.com/ai-engineer/job/R5041190",
+      "source": "Other",
+      "description": "GE Vernova is seeking a AI Engineer to support the development and deployment of AI-driven systems that enable intelligent automation across AEMS, ...",
+      "date": "2026-05-13",
+      "timestamp": "2026-05-13T07:10:24+00:00",
+      "fetched_at": "2026-05-13T10:10:16.177309+00:00"
+    },
     {
       "id": "a7ee0b969116",
       "title": "AI Engineer - Vagaro",
@@ -62,6 +92,36 @@
       "date": "2026-05-13",
       "timestamp": "2026-05-13T02:53:48+00:00",
       "fetched_at": "2026-05-13T06:40:24.010439+00:00"
+    },
+    {
+      "id": "49aa651f6c19",
+      "title": "Software Engineer , Enterprise & Education Frameworks, CoreOS - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200662185-3543/software-engineer-enterprise-education-frameworks-coreos?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Software Engineer , Enterprise & Education Frameworks, CoreOS job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-05-13",
+      "timestamp": "2026-05-13T02:28:47+00:00",
+      "fetched_at": "2026-05-13T10:10:16.178022+00:00"
+    },
+    {
+      "id": "591f31623a8e",
+      "title": "Data Engineer II Job Details | Grainger Businesses",
+      "company": "Grainger Businesses",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.grainger.com/job/LAKE-FOREST-Data-Engineer-II-IL-60045-5202/1390471900/",
+      "source": "Other",
+      "description": "LAKE FOREST Data Engineer II - IL, 60045-5202.",
+      "date": "2026-05-13",
+      "timestamp": "2026-05-13T02:22:52+00:00",
+      "fetched_at": "2026-05-13T10:10:16.178193+00:00"
     },
     {
       "id": "ea05dcf710af",
