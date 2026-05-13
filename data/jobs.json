@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-05-12T21:07:54.287668+00:00",
-  "total_jobs": 1616,
+  "last_updated": "2026-05-13T01:47:09.925853+00:00",
+  "total_jobs": 1634,
   "stats": {
-    "total_companies": 982,
-    "total_roles": 43,
+    "total_companies": 991,
+    "total_roles": 44,
     "regions": {
-      "India": 964,
-      "Philippines": 303,
-      "Remote": 220,
+      "India": 977,
+      "Philippines": 307,
+      "Remote": 221,
       "Unknown": 135
     },
     "sources": {
-      "Other": 1257,
+      "Other": 1272,
       "Greenhouse": 85,
-      "Workday": 69,
-      "LinkedIn": 63,
+      "Workday": 70,
+      "LinkedIn": 64,
       "Ashby": 53,
       "Lever": 19,
+      "iCIMS": 18,
       "Breezy": 18,
-      "iCIMS": 17,
       "Indeed": 12,
       "Workable": 10,
       "SmartRecruiters": 8,
@@ -29,10 +29,250 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-05-12"
+      "latest": "2026-05-13"
     }
   },
   "jobs": [
+    {
+      "id": "cb97da1f3ef0",
+      "title": "Senior Software Engineer | ZacTax",
+      "company": "ZacTax",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://zactax.com/careers/senior-software-engineer",
+      "source": "Other",
+      "description": "We're looking for a Senior Software Engineer to take ownership of a brand-new product category from the ground up. This is a greenfield role with ...",
+      "date": "2026-05-13",
+      "timestamp": "2026-05-13T00:10:03+00:00",
+      "fetched_at": "2026-05-13T01:47:09.914828+00:00"
+    },
+    {
+      "id": "cca86a62c5a3",
+      "title": "Software Engineer - Full Stack Java, Spring, ReactJS, UI, Gen AI - Wells Fargo",
+      "company": "Full Stack Java, Spring, ReactJS, UI, Gen AI - Wells Fargo",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.wellsfargojobs.com/en/jobs/r-538552/software-engineer-full-stack-java-spring-reactjs-ui-gen-ai/",
+      "source": "Other",
+      "description": "Senior Software Engineer - Gen AI. Save Saved. BENGALURU, Karn\u0101taka; Technology. Senior Software Engineer - Full Stack Java, React, Oracle, Gen AI.",
+      "date": "2026-05-12",
+      "timestamp": "2026-05-12T23:29:29+00:00",
+      "fetched_at": "2026-05-13T01:47:09.553044+00:00"
+    },
+    {
+      "id": "694d70047829",
+      "title": "Junior Software Engineer | Supernova Technology",
+      "company": "Supernova Technology",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/supernova-technology/jobs/7ea1a05c-b0e6-4f1a-b53c-193ce3d91502",
+      "source": "Other",
+      "description": "Junior Software Engineer . About Supernova Technology. Founded in 2014, we offer the industry's first and only cloud-based, fully-customizable, ...",
+      "date": "2026-05-12",
+      "timestamp": "2026-05-12T23:16:56+00:00",
+      "fetched_at": "2026-05-13T01:47:09.553284+00:00"
+    },
+    {
+      "id": "21d8d73bb3ed",
+      "title": "Data Engineer III | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.apexsystems.com/job/3034113_usa/data-engineer-iii",
+      "source": "Other",
+      "description": "The Data Engineer designs and builds platforms, tools, and solutions that help the organization manage, secure, and generate value from its data.",
+      "date": "2026-05-12",
+      "timestamp": "2026-05-12T22:44:08+00:00",
+      "fetched_at": "2026-05-13T01:47:09.915056+00:00"
+    },
+    {
+      "id": "1305b99397a3",
+      "title": "ERP Data Engineer Job Details | NEW YORK POWER AUTHORITY",
+      "company": "NEW YORK POWER AUTHORITY",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.nypa.gov/job/White-Plains-ERP-Data-Engineer-NY-10601/1390276300/",
+      "source": "Other",
+      "description": "ERP Data Engineer . Location: White Plains, US. Summary. Empower business to transform analytics with SAP SAC, Datasphere, BDC, and Generative AI. As ...",
+      "date": "2026-05-12",
+      "timestamp": "2026-05-12T22:05:03+00:00",
+      "fetched_at": "2026-05-13T01:47:09.553469+00:00"
+    },
+    {
+      "id": "c9105ea27313",
+      "title": "Associate Software Engineer (AI & Python) - Jobs at Lenovo",
+      "company": "Lenovo",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.lenovo.com/en_US/careers/JobDetail/Associate-Software-Engineer-AI-Python/76699",
+      "source": "Other",
+      "description": "Associate Software Engineer (AI & Python) at created 12-May-2026.",
+      "date": "2026-05-12",
+      "timestamp": "2026-05-12T21:33:41+00:00",
+      "fetched_at": "2026-05-13T01:47:09.553639+00:00"
+    },
+    {
+      "id": "4aacdbc306cf",
+      "title": "Applied ML Engineer Job Details - Careers at Paramount",
+      "company": "Paramount",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.paramount.com/job/Los-Angeles-Applied-ML-Engineer-CA-90038/1390248900/",
+      "source": "Other",
+      "description": "The Applied ML Engineer builds applied machine learning systems within a Production Platform Engineering pod. This role translates technical direction ...",
+      "date": "2026-05-12",
+      "timestamp": "2026-05-12T21:28:54+00:00",
+      "fetched_at": "2026-05-13T01:47:09.553804+00:00"
+    },
+    {
+      "id": "bcfa17770274",
+      "title": "Software Engineer , Marketplace ML Platform - Mountain View, California, United States",
+      "company": "Mountain View, California, United States",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.withwaymo.com/jobs/software-engineer-marketplace-ml-platform-mountain-view-california-united-states-san-francisco",
+      "source": "Other",
+      "description": "png. Software Engineer , Marketplace ML Platform. Mountain View, California, United States | San Francisco, California, United States ...",
+      "date": "2026-05-12",
+      "timestamp": "2026-05-12T21:27:47+00:00",
+      "fetched_at": "2026-05-13T01:47:09.554158+00:00"
+    },
+    {
+      "id": "32ad2b7e1ca2",
+      "title": "Site Reliability Engineer - Myworkdayjobs.com",
+      "company": "Mizuho",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://mizuho.wd1.myworkdayjobs.com/mizuhoamericas/job/NYC-1285/Site-Reliability-Engineer_R7020",
+      "source": "Workday",
+      "description": "Join Mizuho as a Site Reliability Engineer ! In this role you will play a crucial role in maintaining the reliability, scalability, ...",
+      "date": "2026-05-12",
+      "timestamp": "2026-05-12T21:24:29+00:00",
+      "fetched_at": "2026-05-13T01:47:09.554242+00:00"
+    },
+    {
+      "id": "68f4cef5ab88",
+      "title": "Senior AI Engineer - Vice President | Citi Careers",
+      "company": "Vice President | Citi Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.citi.com/job/irving/senior-ai-engineer-vice-president/287/95016686688",
+      "source": "Other",
+      "description": "Learn more about applying for Senior AI Engineer - Vice President at Citi. Learn more about potential responsibilities, qualifications and career ...",
+      "date": "2026-05-12",
+      "timestamp": "2026-05-12T21:09:48+00:00",
+      "fetched_at": "2026-05-13T01:47:09.916114+00:00"
+    },
+    {
+      "id": "f3d2fd56fd6b",
+      "title": "I'm giving a keynote at AI Engineer Melbourne in June called 'Craft in the Time of Agents'. AI ...",
+      "company": "AI Engineer Melbourne in June called 'Craft in the Time of Agents'. AI ...",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/annievella_im-giving-a-keynote-at-ai-engineer-melbourne-activity-7459810505709486081-L4JX",
+      "source": "LinkedIn",
+      "description": "I'm giving a keynote at AI Engineer Melbourne in June called 'Craft in the Time of Agents'. AI has me thinking a lot about what craft really means ...",
+      "date": "2026-05-12",
+      "timestamp": "2026-05-12T20:44:04+00:00",
+      "fetched_at": "2026-05-13T01:47:09.554600+00:00"
+    },
+    {
+      "id": "29c19079ffa8",
+      "title": "Artificial intelligence ( AI) Engineer Intern - Pindrop",
+      "company": "Pindrop",
+      "role": "Artificial intelligence ( AI) Engineer Intern - Pindrop",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.pindrop.com/careers/artificial-intelligence-ai-engineer-intern/?gh_jid=7899137",
+      "source": "Other",
+      "description": "Artificial intelligence ( AI) Engineer Intern. Digital trust isn't optional\u2014it's essential. Take the first step toward a safer, more secure future ...",
+      "date": "2026-05-12",
+      "timestamp": "2026-05-12T20:38:09+00:00",
+      "fetched_at": "2026-05-13T01:47:09.555193+00:00"
+    },
+    {
+      "id": "79f1a8858a42",
+      "title": "Senior Principal Software Engineer at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-principal-software-engineer/47263/95013321744",
+      "source": "Other",
+      "description": "Senior Principal Software Engineer . Santa Clara, California, United States Product Engineering Ref ID: JR-016305. Apply Save Job. Current Employees ...",
+      "date": "2026-05-12",
+      "timestamp": "2026-05-12T20:29:50+00:00",
+      "fetched_at": "2026-05-13T01:47:09.555365+00:00"
+    },
+    {
+      "id": "d35239ea46d7",
+      "title": "Data Engineer in McLean, Virginia - steampunk | Careers Center",
+      "company": "steampunk | Careers Center",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers-steampunk.icims.com/jobs/7732/data-engineer/job",
+      "source": "iCIMS",
+      "description": "We are hiring a Data Engineer in McLean, Virginia. Review all of the job details and apply today!",
+      "date": "2026-05-12",
+      "timestamp": "2026-05-12T20:16:45+00:00",
+      "fetched_at": "2026-05-13T01:47:09.555499+00:00"
+    },
+    {
+      "id": "12b8d0a7389c",
+      "title": "Senior Data Engineer (Databricks) - Purple Drive Technologies LLC - Remote in Chicago, IL, US",
+      "company": "Purple Drive Technologies LLC - Remote in Chicago, IL, US",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.dice.com/job-detail/01cde91e-c37e-4d77-bb87-b5277b0aca58",
+      "source": "Other",
+      "description": "Senior Data Engineer (Databricks) ... Similar Jobs. Purple Drive Technologies LLC \u00b7 Senior Software Engineer (.NET Full Stack).",
+      "date": "2026-05-12",
+      "timestamp": "2026-05-12T20:05:00+00:00",
+      "fetched_at": "2026-05-13T01:47:09.917474+00:00"
+    },
+    {
+      "id": "ffafc91afa00",
+      "title": "Senior Backend Engineer - Surfaces/PZN | Life at Spotify",
+      "company": "Spotify",
+      "role": "Backend Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.lifeatspotify.com/jobs/senior-backend-engineer-surfaces-pzn",
+      "source": "Other",
+      "description": "Software Engineer , Platform Infrastructure. New York. New York. Engineering. Backend. Permanent. Senior Software Engineer , Platform Infrastructure.",
+      "date": "2026-05-12",
+      "timestamp": "2026-05-12T19:58:46+00:00",
+      "fetched_at": "2026-05-13T01:47:09.917619+00:00"
+    },
     {
       "id": "6f495ea3f4c1",
       "title": "Data Engineer II Job Details - Kiewit Careers",
@@ -64,6 +304,21 @@
       "fetched_at": "2026-05-12T21:07:54.094777+00:00"
     },
     {
+      "id": "2ba80c436617",
+      "title": "Best Machine Learning Engineer Jobs in Austin, TX 2026",
+      "company": "Unknown Company",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.builtinaustin.com/jobs/ai-machine-learning/search/machine-learning-engineer",
+      "source": "Other",
+      "description": "Top Machine Learning Engineer Jobs in Austin, TX. General Motors Logo \u00b7 General Motors \u00b7 Staff AI/ ML Engineer , Developer Productivity.",
+      "date": "2026-05-12",
+      "timestamp": "2026-05-12T18:19:04+00:00",
+      "fetched_at": "2026-05-13T01:47:09.556314+00:00"
+    },
+    {
       "id": "31b7cfd86023",
       "title": "Staff Software Engineer , Care & Onboarding - Remote, United States - Toast",
       "company": "Remote, United States - Toast",
@@ -77,6 +332,21 @@
       "date": "2026-05-12",
       "timestamp": "2026-05-12T18:07:37+00:00",
       "fetched_at": "2026-05-12T21:07:54.273492+00:00"
+    },
+    {
+      "id": "9e37cd9212b0",
+      "title": "Data Engineer | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.apexsystems.com/job/3034130_usa/data-engineer",
+      "source": "Other",
+      "description": "Job#: 3034130. Job Description: Data Engineer . Location: Jersey City, New Jersey (hybrid). Employment Type: Contract. Duration: 12 months.",
+      "date": "2026-05-12",
+      "timestamp": "2026-05-12T18:06:20+00:00",
+      "fetched_at": "2026-05-13T01:47:09.556656+00:00"
     },
     {
       "id": "f379d043d344",
