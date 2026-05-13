@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-05-13T01:47:09.925853+00:00",
-  "total_jobs": 1634,
+  "last_updated": "2026-05-13T06:40:24.020326+00:00",
+  "total_jobs": 1641,
   "stats": {
-    "total_companies": 991,
+    "total_companies": 995,
     "total_roles": 44,
     "regions": {
-      "India": 977,
-      "Philippines": 307,
-      "Remote": 221,
+      "India": 978,
+      "Philippines": 311,
+      "Remote": 223,
       "Unknown": 135
     },
     "sources": {
-      "Other": 1272,
-      "Greenhouse": 85,
-      "Workday": 70,
+      "Other": 1276,
+      "Greenhouse": 86,
+      "Workday": 71,
       "LinkedIn": 64,
       "Ashby": 53,
+      "Breezy": 19,
       "Lever": 19,
       "iCIMS": 18,
-      "Breezy": 18,
       "Indeed": 12,
       "Workable": 10,
       "SmartRecruiters": 8,
@@ -34,6 +34,96 @@
   },
   "jobs": [
     {
+      "id": "a7ee0b969116",
+      "title": "AI Engineer - Vagaro",
+      "company": "Vagaro",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://vagaro.breezy.hr/p/8a16e4613ab0-ai-engineer/apply",
+      "source": "Breezy",
+      "description": "AI Engineer . Pleasanton, CA; Full-Time; Machine Learning; $170k - $200k / year. Job Openings \u00b7 AI Engineer ; Apply. Upload Resume*. Use My Indeed ...",
+      "date": "2026-05-13",
+      "timestamp": "2026-05-13T05:56:21+00:00",
+      "fetched_at": "2026-05-13T06:40:24.010203+00:00"
+    },
+    {
+      "id": "002f9849abc5",
+      "title": "Senior Software Engineer - Tech Foundations - Riot Games",
+      "company": "Tech Foundations - Riot Games",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.riotgames.com/en/work-with-us/job/7892751/senior-software-engineer-tech-foundations-shanghai-china",
+      "source": "Other",
+      "description": "Senior Software Engineer - Tech Foundations. Shanghai, China. Job Id: REQ-0009981. Riot Games was established in 2006 by entrepreneurial gamers who ...",
+      "date": "2026-05-13",
+      "timestamp": "2026-05-13T02:53:48+00:00",
+      "fetched_at": "2026-05-13T06:40:24.010439+00:00"
+    },
+    {
+      "id": "ea05dcf710af",
+      "title": "Job Application for Senior Fullstack Engineer at Imagine Pediatrics - Greenhouse",
+      "company": "Imaginepediatrics",
+      "role": "Fullstack Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/imaginepediatrics/jobs/4694659005",
+      "source": "Greenhouse",
+      "description": "Senior Fullstack Engineer . United States (Remote). Apply. Who We Are. Imagine Pediatrics is a tech enabled, pediatrician led medical group reimagining ...",
+      "date": "2026-05-13",
+      "timestamp": "2026-05-13T01:55:28+00:00",
+      "fetched_at": "2026-05-13T06:40:24.010531+00:00"
+    },
+    {
+      "id": "d9ff59328997",
+      "title": "DevOps Engineer SME in Chantilly, Virginia (No Remote) - Leidos Careers",
+      "company": "Leidos Careers",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.leidos.com/jobs/17731935-devops-engineer-sme",
+      "source": "Other",
+      "description": "DevOps Engineer SME in Chantilly, Virginia (No Remote) ... Senior Software Engineer / Data Scientist (Training Systems). READ MORE ...",
+      "date": "2026-05-13",
+      "timestamp": "2026-05-13T01:15:44+00:00",
+      "fetched_at": "2026-05-13T06:40:24.010663+00:00"
+    },
+    {
+      "id": "fc1e1d0b79a2",
+      "title": "Associate Machine Learning Engineer Jobs at Amgen in India",
+      "company": "Amgen in India",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.amgen.com/en/job/hyderabad/associate-machine-learning-engineer/87/95013087568",
+      "source": "Other",
+      "description": "Explore the details of a Associate Machine Learning Engineer career in Hyderabad. Live. Win. Thrive. Search and apply for a rewarding new career ...",
+      "date": "2026-05-13",
+      "timestamp": "2026-05-13T01:08:43+00:00",
+      "fetched_at": "2026-05-13T06:40:24.010799+00:00"
+    },
+    {
+      "id": "fd03e2faa718",
+      "title": "[2026] Software Engineer , Game Developer: Applications Now Open! - Community & Events",
+      "company": "Community & Events",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://devforum.roblox.com/t/2026-software-engineer-game-developer-applications-now-open/4632709",
+      "source": "Other",
+      "description": "**Note: We hire on a rolling basis, so don't wait! Hear from our Community Hire: Elle Deppe, Senior Software Engineer (she/her). \u201cAs someone who ...",
+      "date": "2026-05-13",
+      "timestamp": "2026-05-13T00:46:39+00:00",
+      "fetched_at": "2026-05-13T06:40:24.011041+00:00"
+    },
+    {
       "id": "cb97da1f3ef0",
       "title": "Senior Software Engineer | ZacTax",
       "company": "ZacTax",
@@ -47,6 +137,21 @@
       "date": "2026-05-13",
       "timestamp": "2026-05-13T00:10:03+00:00",
       "fetched_at": "2026-05-13T01:47:09.914828+00:00"
+    },
+    {
+      "id": "809bfb7059ac",
+      "title": "Software Engineer , Black Diamond - Myworkdayjobs.com",
+      "company": "Ssctech",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://ssctech.wd1.myworkdayjobs.com/en-US/SSCTechnologies/job/Software-Engineer--Black-Diamond_R43355",
+      "source": "Workday",
+      "description": "Software Engineer in Jacksonville. The Engineer must have excellent communication and analytical skills. They should possess the enthusiasm and ...",
+      "date": "2026-05-12",
+      "timestamp": "2026-05-12T23:33:29+00:00",
+      "fetched_at": "2026-05-13T06:40:24.011313+00:00"
     },
     {
       "id": "cca86a62c5a3",
