@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-05-14T13:21:10.341509+00:00",
-  "total_jobs": 1719,
+  "last_updated": "2026-05-14T17:28:42.324683+00:00",
+  "total_jobs": 1732,
   "stats": {
-    "total_companies": 1032,
+    "total_companies": 1040,
     "total_roles": 44,
     "regions": {
-      "India": 1033,
-      "Philippines": 325,
-      "Remote": 233,
+      "India": 1041,
+      "Philippines": 329,
+      "Remote": 234,
       "Unknown": 135
     },
     "sources": {
-      "Other": 1338,
-      "Greenhouse": 91,
+      "Other": 1349,
+      "Greenhouse": 92,
       "Workday": 75,
       "LinkedIn": 65,
-      "Ashby": 56,
+      "Ashby": 57,
       "Breezy": 20,
       "iCIMS": 19,
       "Lever": 19,
@@ -34,6 +34,156 @@
   },
   "jobs": [
     {
+      "id": "c409deb76850",
+      "title": "Sr Data Engineer Jobs at Amgen in India",
+      "company": "Amgen in India",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.amgen.com/en/job/hyderabad/sr-data-engineer/87/95085478128",
+      "source": "Other",
+      "description": "Explore the details of a Sr Data Engineer career in Hyderabad. Live. Win. Thrive. Search and apply for a rewarding new career at Amgen.",
+      "date": "2026-05-14",
+      "timestamp": "2026-05-14T16:51:29+00:00",
+      "fetched_at": "2026-05-14T17:28:42.313039+00:00"
+    },
+    {
+      "id": "7296b4f26778",
+      "title": "Mid Level Cloud Engineer - Careers At BTS Software Solutions",
+      "company": "BTS Software Solutions",
+      "role": "Cloud Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://btscommercial.hrmdirect.com/employment/job-opening.php?req=3714182&req_loc=1323301&&",
+      "source": "Other",
+      "description": "Mid Level Cloud Engineer . START YOUR APPLICATION. BTS is seeking a Mid-Level Cloud Software Engineer to join our Coast Guard Cloud Integration Team!",
+      "date": "2026-05-14",
+      "timestamp": "2026-05-14T16:47:26+00:00",
+      "fetched_at": "2026-05-14T17:28:42.313207+00:00"
+    },
+    {
+      "id": "8c328b774fba",
+      "title": "Cloud Engineer - Cisco Careers",
+      "company": "Cisco Careers",
+      "role": "Cloud Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2014640EXTERNALENGLOBAL/Cloud-Engineer",
+      "source": "Other",
+      "description": "Apply for Cloud Engineer job with Cisco in New York, New York, United States of America. Product and Engineering at Cisco.",
+      "date": "2026-05-14",
+      "timestamp": "2026-05-14T15:40:27+00:00",
+      "fetched_at": "2026-05-14T17:28:42.247582+00:00"
+    },
+    {
+      "id": "f5417c856080",
+      "title": "Senior Data Engineer Job Details | Royal Caribbean Cruises Ltd",
+      "company": "Royal Caribbean Cruises Ltd",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.royalcaribbeangroup.com/job/Miramar-Senior-Data-Engineer-FL-33132/1390821800/",
+      "source": "Other",
+      "description": "The Senior Data Engineer is also responsible for leading the task of curating datasets and data pipelines created by various business departments, ...",
+      "date": "2026-05-14",
+      "timestamp": "2026-05-14T15:02:57+00:00",
+      "fetched_at": "2026-05-14T17:28:42.247863+00:00"
+    },
+    {
+      "id": "d94702ce3ff2",
+      "title": "Job Application for Software Engineer II - Web Foundations at StubHub - Greenhouse",
+      "company": "StubHub",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4866281101",
+      "source": "Greenhouse",
+      "description": "Software Engineer II - Web Foundations. New York, New York, United States ... As a fullstack engineer on Web Foundations, you will work across ...",
+      "date": "2026-05-14",
+      "timestamp": "2026-05-14T14:46:34+00:00",
+      "fetched_at": "2026-05-14T17:28:42.248020+00:00"
+    },
+    {
+      "id": "51abc707434a",
+      "title": "Software Engineer [Multiple Positions Available] - JPMC Candidate Experience page Careers",
+      "company": "JPMC Candidate Experience page Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/cx_1001/job/210745086",
+      "source": "Other",
+      "description": "Software Engineer [Multiple Positions Available]. Wilmington, DE, United States. Apply Now. Job Information. Job Identification 210745086; Job ...",
+      "date": "2026-05-14",
+      "timestamp": "2026-05-14T14:31:32+00:00",
+      "fetched_at": "2026-05-14T17:28:42.248205+00:00"
+    },
+    {
+      "id": "2b57274444f3",
+      "title": "Software Engineer - Blacksburg, Virginia, United States",
+      "company": "Blacksburg, Virginia, United States",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apply.vt.edu/jobs/software-engineer-blacksburg-virginia-united-states",
+      "source": "Other",
+      "description": "Software Engineer \u00b7 536401 \u00b7 Blacksburg, Virginia \u00b7 Physics \u00b7 Hourly Wage/Part-Time \u00b7 College of Science.",
+      "date": "2026-05-14",
+      "timestamp": "2026-05-14T13:43:02+00:00",
+      "fetched_at": "2026-05-14T17:28:42.248831+00:00"
+    },
+    {
+      "id": "839d2cec6131",
+      "title": "AI Engineer - Cyclotron, Inc. - Career Page",
+      "company": "Cyclotron, Inc. - Career Page",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://cyclotroninc.applytojob.com/apply/bin3LMWL5w/AI-Engineer",
+      "source": "Other",
+      "description": "AI Engineer \u00b7 GENERAL DESCRIPTION & RESPONSIBILITIES. As an AI Developer, you will assist in building and deploying AI-driven applications using ...",
+      "date": "2026-05-14",
+      "timestamp": "2026-05-14T13:29:15+00:00",
+      "fetched_at": "2026-05-14T17:28:42.314449+00:00"
+    },
+    {
+      "id": "0fac7254ede9",
+      "title": "Software Engineer - Danfoss Jobs",
+      "company": "Danfoss Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.danfoss.com/job/Software-Engineer/45965-en_GB",
+      "source": "Other",
+      "description": "At Danfoss Power Electronics & Drives, we are excited to invite a talented. Software Engineer to join our forward-thinking Product Development ...",
+      "date": "2026-05-14",
+      "timestamp": "2026-05-14T13:22:04+00:00",
+      "fetched_at": "2026-05-14T17:28:42.248976+00:00"
+    },
+    {
+      "id": "4dc26adb11ed",
+      "title": "Data Engineer with Python & Azure - Altitude Technology Solutions Inc - Atlanta, GA, US",
+      "company": "Altitude Technology Solutions Inc - Atlanta, GA, US",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.dice.com/job-detail/ee79409f-a388-4a80-a381-179ab5aa6702",
+      "source": "Other",
+      "description": "Data Engineer with Python & Azure. Atlanta, GA, US \u2022 Posted 15 hours ago \u2022 Updated 15 hours ago. Contract Independent. Contract W2. 6 Months. No ...",
+      "date": "2026-05-14",
+      "timestamp": "2026-05-14T13:18:16+00:00",
+      "fetched_at": "2026-05-14T17:28:42.314966+00:00"
+    },
+    {
       "id": "3c4532399a22",
       "title": "Senior AI Engineer , Agentic Systems - 220207 - Teradata Careers",
       "company": "220207 - Teradata Careers",
@@ -49,6 +199,21 @@
       "fetched_at": "2026-05-14T13:21:10.164612+00:00"
     },
     {
+      "id": "5e30c37c7647",
+      "title": "Senior Platform Engineer @ OpenHands - Jobs",
+      "company": "Openhands",
+      "role": "Platform Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.ashbyhq.com/openhands/653a6bd6-c7df-486b-8788-10efa3001aba",
+      "source": "Ashby",
+      "description": "Senior Platform Engineer . Location. Remote. Employment Type. Full time. Location Type. Remote. Department. Engineering. Compensation. $175K \u2013 $225K \u2022 ...",
+      "date": "2026-05-14",
+      "timestamp": "2026-05-14T11:33:05+00:00",
+      "fetched_at": "2026-05-14T17:28:42.315402+00:00"
+    },
+    {
       "id": "a6911c572375",
       "title": "Job Application for Data Engineer I at ClimateAi - Greenhouse",
       "company": "Climateai",
@@ -62,6 +227,21 @@
       "date": "2026-05-14",
       "timestamp": "2026-05-14T11:05:47+00:00",
       "fetched_at": "2026-05-14T13:21:10.331253+00:00"
+    },
+    {
+      "id": "ae6579b0606b",
+      "title": "Senior Data Engineer , Python, Spark - Cambridge, England, United Kingdom - Roku Jobs",
+      "company": "Cambridge, England, United Kingdom - Roku Jobs",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.weareroku.com/jobs/senior-data-engineer-python-spark-cambridge-england-united-kingdom",
+      "source": "Other",
+      "description": "Sr Security Engineer, Milton, Cambridge, England. Senior Product Manager, Howdy, San Jose, California. Senior Software Engineer , Video Platform ...",
+      "date": "2026-05-14",
+      "timestamp": "2026-05-14T10:48:08+00:00",
+      "fetched_at": "2026-05-14T17:28:42.315995+00:00"
     },
     {
       "id": "fcdd5be629a2",
@@ -152,6 +332,21 @@
       "date": "2026-05-14",
       "timestamp": "2026-05-14T07:23:28+00:00",
       "fetched_at": "2026-05-14T13:21:10.331993+00:00"
+    },
+    {
+      "id": "4bc5e3feb376",
+      "title": "Software Engineer at Cargill",
+      "company": "Cargill",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cargill.com/en/job/-/-/23251/95039387072",
+      "source": "Other",
+      "description": "Software Engineer . Software Engineer . Apply Now Save Job Remove Job. Job ID 326690 Date posted 05/13/2026 Location : Bengaluru, India Category ...",
+      "date": "2026-05-14",
+      "timestamp": "2026-05-14T06:55:10+00:00",
+      "fetched_at": "2026-05-14T17:28:42.316969+00:00"
     },
     {
       "id": "debfa1abec52",
