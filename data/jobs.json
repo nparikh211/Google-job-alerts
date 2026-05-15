@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-05-15T01:47:34.978232+00:00",
-  "total_jobs": 1765,
+  "last_updated": "2026-05-15T06:48:15.985371+00:00",
+  "total_jobs": 1774,
   "stats": {
-    "total_companies": 1058,
+    "total_companies": 1064,
     "total_roles": 44,
     "regions": {
-      "India": 1064,
-      "Philippines": 338,
-      "Remote": 235,
+      "India": 1071,
+      "Philippines": 339,
+      "Remote": 236,
       "Unknown": 135
     },
     "sources": {
-      "Other": 1375,
+      "Other": 1382,
       "Greenhouse": 92,
       "Workday": 80,
-      "LinkedIn": 65,
+      "LinkedIn": 67,
       "Ashby": 58,
       "Breezy": 20,
       "iCIMS": 19,
@@ -34,6 +34,36 @@
   },
   "jobs": [
     {
+      "id": "f60606e2f112",
+      "title": "\"Software Engineering was never the hard part\" To the\u2026 | Mark Fisher | 16 comments - LinkedIn",
+      "company": "Mark Fisher | 16 comments - LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/markrfisher_when-a-software-engineer-says-coding-was-activity-7460340008542134272-lLsq",
+      "source": "LinkedIn",
+      "description": "When a Software Engineer says \"coding was never the hard part\", they mean *typing* the code. Unfortunately, what far too many people hear is: ...",
+      "date": "2026-05-15",
+      "timestamp": "2026-05-15T03:34:00+00:00",
+      "fetched_at": "2026-05-15T06:48:15.797265+00:00"
+    },
+    {
+      "id": "31c468d7556a",
+      "title": "Software Engineer - San Jose, California, United States - Zoom Careers",
+      "company": "San Jose, California, United States - Zoom Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.zoom.us/jobs/software-engineer-san-jose-california-united-states-926b3d0e-de3f-43a8-957a-04bd036a9655",
+      "source": "Other",
+      "description": "Senior Software Engineer . Engineering. Immigration sponsorship is not available for this position Responsibilities: Design and develop the Feature ...",
+      "date": "2026-05-15",
+      "timestamp": "2026-05-15T03:13:42+00:00",
+      "fetched_at": "2026-05-15T06:48:15.797657+00:00"
+    },
+    {
       "id": "3e5a7598034f",
       "title": "Senior Software Engineer , Formal Verification Engineer \u2014 Google Careers",
       "company": "Unknown Company",
@@ -49,6 +79,51 @@
       "fetched_at": "2026-05-15T01:47:34.873016+00:00"
     },
     {
+      "id": "01646a1b264b",
+      "title": "AI Engineer - Agent Automation - Seattle, Washington, United States - Zoom Careers",
+      "company": "Agent Automation - Seattle, Washington, United States - Zoom Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.zoom.us/jobs/ai-engineer-agent-automation-seattle-washington-united-states-san-jose-california-929d6e84-6412-4ac6-a6f2-b2d68a86d7a8",
+      "source": "Other",
+      "description": "What you can expectWe're seeking an experienced AI Engineer specialized in agent orchestrator design and implementation, agent workflow, ...",
+      "date": "2026-05-15",
+      "timestamp": "2026-05-15T00:17:20+00:00",
+      "fetched_at": "2026-05-15T06:48:15.798563+00:00"
+    },
+    {
+      "id": "c9e911ad026d",
+      "title": "Cloud Engineer in Bengaluru, India - BlackLine Careers",
+      "company": "BlackLine Careers",
+      "role": "Cloud Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.blackline.com/careers-home/jobs/7325?lang=en-us",
+      "source": "Other",
+      "description": "Relevant Bachelors Degree - B.Tech/B.E/M.Tech in computer science or related field. Proven experience as an SRE, DevOps Engineer , Cloud Engineer , ...",
+      "date": "2026-05-14",
+      "timestamp": "2026-05-14T23:54:40+00:00",
+      "fetched_at": "2026-05-15T06:48:15.798831+00:00"
+    },
+    {
+      "id": "5fcd7ba6df2c",
+      "title": "Data Engineer | Christy Wood, SHRM-CP - LinkedIn",
+      "company": "Christy Wood, SHRM-CP - LinkedIn",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/christy-wood-shrm-cp-5b00058a_data-engineer-activity-7460730923563741184-FCzp",
+      "source": "LinkedIn",
+      "description": "We're hiring a Data Engineer at Health-E Commerce You'll own critical data pipelines from day one \u2014 building and scaling the infrastructure that ...",
+      "date": "2026-05-14",
+      "timestamp": "2026-05-14T23:43:04+00:00",
+      "fetched_at": "2026-05-15T06:48:15.799193+00:00"
+    },
+    {
       "id": "7e0caa41cfcd",
       "title": "Software Engineer , Multiple Specialties - Mobius Digital",
       "company": "Mobius Digital",
@@ -62,6 +137,21 @@
       "date": "2026-05-14",
       "timestamp": "2026-05-14T22:48:43+00:00",
       "fetched_at": "2026-05-15T01:47:34.873264+00:00"
+    },
+    {
+      "id": "c98c948e54b0",
+      "title": "Full Stack Engineer (Contract) - nextSource Connect | Humanforce Talent",
+      "company": "nextSource Connect | Humanforce Talent",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.livehire.com/careers/nextsource-connect/job/CM84B/CU5OECEC1M/full-stack-engineer-contract",
+      "source": "Other",
+      "description": "Full Stack Engineer (Contract)Remote \u00b7 Software Engineer \u00b7 Javascript \u00b7 Node.JS \u00b7 Amazon Web Services (AWS) ...",
+      "date": "2026-05-14",
+      "timestamp": "2026-05-14T22:45:54+00:00",
+      "fetched_at": "2026-05-15T06:48:15.799563+00:00"
     },
     {
       "id": "abdf117223a4",
@@ -94,6 +184,21 @@
       "fetched_at": "2026-05-15T01:47:34.873877+00:00"
     },
     {
+      "id": "204eeee9dbb7",
+      "title": "Senior Platform Engineer - Global CI/CD Platform - Aegon",
+      "company": "Global CI/CD Platform - Aegon",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.aegon.com/careers/vacancies/united-states/denver/information-technology/senior-platform-engineer-global-cicd",
+      "source": "Other",
+      "description": "Proven experience as a Platform Engineer , DevOps Engineer , or similar role focused on CI/CD and developer tooling. Experience administering CI/CD ...",
+      "date": "2026-05-14",
+      "timestamp": "2026-05-14T21:00:04+00:00",
+      "fetched_at": "2026-05-15T06:48:15.800460+00:00"
+    },
+    {
       "id": "a4761edb467d",
       "title": "Software Engineer - RegTech - Tential",
       "company": "RegTech - Tential",
@@ -122,6 +227,21 @@
       "date": "2026-05-14",
       "timestamp": "2026-05-14T20:20:22+00:00",
       "fetched_at": "2026-05-15T01:47:34.968493+00:00"
+    },
+    {
+      "id": "903353c14294",
+      "title": "Junior AI Engineer - Early Career | Lockheed Martin",
+      "company": "Early Career | Lockheed Martin",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.lockheedmartinjobs.com/job/marietta/junior-ai-engineer-early-career/694/95095616656",
+      "source": "Other",
+      "description": "Lockheed Martin Aeronautics is seeking a full-time Early Junior AI Engineer - Early Career who has a passion for AI development and big data analyses.",
+      "date": "2026-05-14",
+      "timestamp": "2026-05-14T19:40:26+00:00",
+      "fetched_at": "2026-05-15T06:48:15.800905+00:00"
     },
     {
       "id": "2b762bc2f5ac",
@@ -197,6 +317,21 @@
       "date": "2026-05-14",
       "timestamp": "2026-05-14T19:38:12+00:00",
       "fetched_at": "2026-05-14T21:00:58.781285+00:00"
+    },
+    {
+      "id": "2f9a6cd5d495",
+      "title": "Software Engineer , Device Management, CoreOS - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200663201-0836/software-engineer-device-management-coreos?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Software Engineer , Device Management, CoreOS job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-05-14",
+      "timestamp": "2026-05-14T19:33:31+00:00",
+      "fetched_at": "2026-05-15T06:48:15.976858+00:00"
     },
     {
       "id": "800d2ce31ee3",
