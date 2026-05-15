@@ -1,26 +1,26 @@
 {
-  "last_updated": "2026-05-14T21:00:58.791474+00:00",
-  "total_jobs": 1750,
+  "last_updated": "2026-05-15T01:47:34.978232+00:00",
+  "total_jobs": 1765,
   "stats": {
-    "total_companies": 1052,
+    "total_companies": 1058,
     "total_roles": 44,
     "regions": {
-      "India": 1052,
-      "Philippines": 336,
-      "Remote": 234,
+      "India": 1064,
+      "Philippines": 338,
+      "Remote": 235,
       "Unknown": 135
     },
     "sources": {
-      "Other": 1362,
+      "Other": 1375,
       "Greenhouse": 92,
-      "Workday": 79,
+      "Workday": 80,
       "LinkedIn": 65,
       "Ashby": 58,
       "Breezy": 20,
       "iCIMS": 19,
       "Lever": 19,
       "Indeed": 12,
-      "Workable": 10,
+      "Workable": 11,
       "SmartRecruiters": 9,
       "Recruitee": 2,
       "Taleo": 1,
@@ -29,10 +29,70 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-05-14"
+      "latest": "2026-05-15"
     }
   },
   "jobs": [
+    {
+      "id": "3e5a7598034f",
+      "title": "Senior Software Engineer , Formal Verification Engineer \u2014 Google Careers",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/111680417496474310",
+      "source": "Other",
+      "description": "Senior Software Engineer , Formal Verification Engineer. share. linkCopy link; emailEmail a friend. corporate_fareGoogleplaceSeattle, WA, USA; Z\u00fcrich ...",
+      "date": "2026-05-15",
+      "timestamp": "2026-05-15T00:17:48+00:00",
+      "fetched_at": "2026-05-15T01:47:34.873016+00:00"
+    },
+    {
+      "id": "7e0caa41cfcd",
+      "title": "Software Engineer , Multiple Specialties - Mobius Digital",
+      "company": "Mobius Digital",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.mobiusdigitalgames.com/engineer-2026.html",
+      "source": "Other",
+      "description": "Software Engineer , Multiple Specialties\u200b. APPLICATION DEADLINE: Thursday, May 28th at 9AM Pacific Time We are expecting a large number of ...",
+      "date": "2026-05-14",
+      "timestamp": "2026-05-14T22:48:43+00:00",
+      "fetched_at": "2026-05-15T01:47:34.873264+00:00"
+    },
+    {
+      "id": "abdf117223a4",
+      "title": "Software Engineer in Lakehurst, New Jersey, United States - SAIC Careers",
+      "company": "SAIC Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.saic.com/jobs/17742674-software-engineer",
+      "source": "Other",
+      "description": "Software Engineer in Lakehurst, New Jersey, United States. ... Continuous Integration and Continuous Deployment (CI/CD) Engineer or DevOps Engineer :.",
+      "date": "2026-05-14",
+      "timestamp": "2026-05-14T21:41:41+00:00",
+      "fetched_at": "2026-05-15T01:47:34.873413+00:00"
+    },
+    {
+      "id": "2283698e9e08",
+      "title": "Mid-Level Software Engineer - Tential",
+      "company": "Mid",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://wordpress.tential.com/jobs/mid-level-software-engineer-19071/",
+      "source": "Other",
+      "description": "Software Engineer - RegTech Join our innovative team as a Software Engineer ... MS-SQL Data Engineer (Mid Level). Location: Minneapolis, MN. Salary ...",
+      "date": "2026-05-14",
+      "timestamp": "2026-05-14T21:32:43+00:00",
+      "fetched_at": "2026-05-15T01:47:34.873877+00:00"
+    },
     {
       "id": "a4761edb467d",
       "title": "Software Engineer - RegTech - Tential",
@@ -47,6 +107,51 @@
       "date": "2026-05-14",
       "timestamp": "2026-05-14T20:34:16+00:00",
       "fetched_at": "2026-05-14T21:00:58.484749+00:00"
+    },
+    {
+      "id": "551b6054c948",
+      "title": "Senior Data Engineer in Los Angeles, California | FOX Careers",
+      "company": "FOX Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.foxcareers.com/Search/JobDetail/R50032558/senior-data-engineer-fox-corporation",
+      "source": "Other",
+      "description": "View the job requirements for the Senior Data Engineer opening in Los Angeles, California |Apply Now at FOX Careers.",
+      "date": "2026-05-14",
+      "timestamp": "2026-05-14T20:20:22+00:00",
+      "fetched_at": "2026-05-15T01:47:34.968493+00:00"
+    },
+    {
+      "id": "2b762bc2f5ac",
+      "title": "Data & Software Engineer - Myworkdayjobs.com",
+      "company": "Ovative",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ovative.wd12.myworkdayjobs.com/en-US/ovative/job/Data---Software-Engineer_JR100236",
+      "source": "Workday",
+      "description": "About the Role: We are seeking a Data & Software Engineer to join our rapidly growing product and engineering development team.",
+      "date": "2026-05-14",
+      "timestamp": "2026-05-14T19:40:12+00:00",
+      "fetched_at": "2026-05-15T01:47:34.874448+00:00"
+    },
+    {
+      "id": "c6a096dd43f6",
+      "title": "Data Engineer , Associate at PG&E Corporation",
+      "company": "PG&E Corporation",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.pge.com/job/oakland/data-engineer-associate/29673/95095419184",
+      "source": "Other",
+      "description": "Data Engineer , Associate. Location: Oakland, California. Requisition ID # 172276-en_US. Save Job I'm Interested. Overview; Success Profile; Benefits ...",
+      "date": "2026-05-14",
+      "timestamp": "2026-05-14T19:39:11+00:00",
+      "fetched_at": "2026-05-15T01:47:34.874575+00:00"
     },
     {
       "id": "2e32a438693f",
@@ -64,6 +169,21 @@
       "fetched_at": "2026-05-14T21:00:58.484911+00:00"
     },
     {
+      "id": "ff0ecabb08cc",
+      "title": "Internship, Software Engineer , Automated Diagnostics Intern (Fall 2026) - Tesla",
+      "company": "Tesla",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.tesla.com/careers/search/job/internship-software-engineer-automated-diagnostics-intern-fall-2026-270521",
+      "source": "Other",
+      "description": "Apply for the Internship, Software Engineer , Automated Diagnostics Intern (Fall 2026) position in PALO ALTO, California.",
+      "date": "2026-05-14",
+      "timestamp": "2026-05-14T19:38:25+00:00",
+      "fetched_at": "2026-05-15T01:47:34.874945+00:00"
+    },
+    {
       "id": "b5ea83fa04dc",
       "title": "Data & Software Engineer - Myworkdayjobs.com",
       "company": "Ovative",
@@ -77,6 +197,51 @@
       "date": "2026-05-14",
       "timestamp": "2026-05-14T19:38:12+00:00",
       "fetched_at": "2026-05-14T21:00:58.781285+00:00"
+    },
+    {
+      "id": "800d2ce31ee3",
+      "title": "Senior Software Engineer - Fullstack - Curology - Application - Workable Jobs",
+      "company": "Curology",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://apply.workable.com/curology/j/B3613AE684/apply/",
+      "source": "Workable",
+      "description": "Senior Software Engineer - Fullstack. Remote. San Diego, California, United States. OverviewApplication. Autofill application. Save time by importing ...",
+      "date": "2026-05-14",
+      "timestamp": "2026-05-14T19:25:19+00:00",
+      "fetched_at": "2026-05-15T01:47:34.875046+00:00"
+    },
+    {
+      "id": "bc864426f93d",
+      "title": "Backend Software Engineer , Creativity Apps - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200663197-0836/backend-software-engineer-creativity-apps",
+      "source": "Other",
+      "description": "Apply for a Backend Software Engineer , Creativity Apps job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-05-14",
+      "timestamp": "2026-05-14T19:21:44+00:00",
+      "fetched_at": "2026-05-15T01:47:34.969189+00:00"
+    },
+    {
+      "id": "cf59fa26b351",
+      "title": "Backend Software Engineer , Creativity Apps - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200663197-0836/backend-software-engineer-creativity-apps?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Backend Software Engineer , Creativity Apps job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-05-14",
+      "timestamp": "2026-05-14T19:18:39+00:00",
+      "fetched_at": "2026-05-15T01:47:34.875213+00:00"
     },
     {
       "id": "bb0427a8d7b8",
@@ -139,6 +304,21 @@
       "fetched_at": "2026-05-14T21:00:58.781862+00:00"
     },
     {
+      "id": "6a397668d30b",
+      "title": "Senior Software Engineer , MLOps in Palo Alto, California | Rivian",
+      "company": "Rivian",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.rivian.com/careers-home/jobs/30239?lang=en-us",
+      "source": "Other",
+      "description": "Rivian Careers Home is hiring a Senior Software Engineer , MLOps in Palo Alto, California. Review all of the job details and apply today!",
+      "date": "2026-05-14",
+      "timestamp": "2026-05-14T18:36:19+00:00",
+      "fetched_at": "2026-05-15T01:47:34.875480+00:00"
+    },
+    {
       "id": "cc8d015b2a99",
       "title": "Data Engineer - - 124546 - Booz | Allen | Hamilton \u00ae - Careers",
       "company": "- 124546 - Booz | Allen | Hamilton \u00ae - Careers",
@@ -152,6 +332,51 @@
       "date": "2026-05-14",
       "timestamp": "2026-05-14T18:17:22+00:00",
       "fetched_at": "2026-05-14T21:00:58.782073+00:00"
+    },
+    {
+      "id": "8d966a5f43eb",
+      "title": "Web Application Software Engineer - 63791 - MANTECH",
+      "company": "63791 - MANTECH",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mantech.com/en_US/careers/JobDetail/Web-Application-Software-Engineer/63791",
+      "source": "Other",
+      "description": "Site Reliability Engineer \u00b7 TAK Elastic Search Software Engineer \u00b7 UI/UX Designer \u00b7 Java Software Developer \u00b7 View all. 2026 \u00a9 MANTECH International ...",
+      "date": "2026-05-14",
+      "timestamp": "2026-05-14T18:16:48+00:00",
+      "fetched_at": "2026-05-15T01:47:34.875869+00:00"
+    },
+    {
+      "id": "3736f032c6cf",
+      "title": "Forward Deployed AI Engineer - Rippling",
+      "company": "Rippling",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/accelerant/jobs/0cc6d354-58cd-4c13-a80d-7765d277b4bb",
+      "source": "Other",
+      "description": "Forward Deployed AI Engineer ... Accelerant is a data-driven risk exchange connecting underwriters of specialty insurance risk with risk capital ...",
+      "date": "2026-05-14",
+      "timestamp": "2026-05-14T18:08:49+00:00",
+      "fetched_at": "2026-05-15T01:47:34.876013+00:00"
+    },
+    {
+      "id": "43cd8014e59a",
+      "title": "AI Engineer Is a New Role \u2013 Frontend Masters Blog",
+      "company": "Unknown Company",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://frontendmasters.com/blog/ai-engineer-is-a-new-role/",
+      "source": "Other",
+      "description": "AI Engineer vs ML Engineer . I get this question a lot, especially from ... A software engineer optimizes deterministic code paths. A machine ...",
+      "date": "2026-05-14",
+      "timestamp": "2026-05-14T18:06:10+00:00",
+      "fetched_at": "2026-05-15T01:47:34.876147+00:00"
     },
     {
       "id": "d54e2e616801",
