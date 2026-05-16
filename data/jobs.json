@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-05-16T12:49:53.764362+00:00",
-  "total_jobs": 1858,
+  "last_updated": "2026-05-16T16:40:45.470349+00:00",
+  "total_jobs": 1868,
   "stats": {
-    "total_companies": 1101,
+    "total_companies": 1109,
     "total_roles": 45,
     "regions": {
-      "India": 1123,
-      "Philippines": 362,
+      "India": 1128,
+      "Philippines": 367,
       "Remote": 245,
       "Unknown": 135
     },
     "sources": {
-      "Other": 1445,
+      "Other": 1451,
       "Greenhouse": 99,
-      "Workday": 84,
+      "Workday": 86,
       "LinkedIn": 71,
-      "Ashby": 61,
+      "Ashby": 63,
       "Breezy": 21,
       "iCIMS": 20,
       "Lever": 19,
@@ -34,6 +34,111 @@
   },
   "jobs": [
     {
+      "id": "359b7097fb2a",
+      "title": "Software Engineer -> Managing : r/cscareerquestions - Reddit",
+      "company": "> Managing : r/cscareerquestions - Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.reddit.com/r/cscareerquestions/comments/1tew8sq/software_engineer_managing/",
+      "source": "Other",
+      "description": "Software Engineer or Data Engineer Career Choice? 10 upvotes \u00b7 19 ... Mid- senior software engineer getting 0 traction. 59 upvotes \u00b7 80 ...",
+      "date": "2026-05-16",
+      "timestamp": "2026-05-16T16:00:23+00:00",
+      "fetched_at": "2026-05-16T16:40:45.460172+00:00"
+    },
+    {
+      "id": "de40dc78a519",
+      "title": "Sr. Data & Software Engineer - Myworkdayjobs.com",
+      "company": "Ovative",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ovative.wd12.myworkdayjobs.com/ovative/job/Sr-Data---Software-Engineer_JR100237",
+      "source": "Workday",
+      "description": "About the Role: We are seeking a Sr. Data & Software Engineer to join our rapidly growing product and engineering development team.",
+      "date": "2026-05-16",
+      "timestamp": "2026-05-16T15:35:29+00:00",
+      "fetched_at": "2026-05-16T16:40:45.281781+00:00"
+    },
+    {
+      "id": "b3345d9c3ecf",
+      "title": "Data Engineer - Myworkdayjobs.com",
+      "company": "Guidehouse",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/Data-Engineer_39493",
+      "source": "Workday",
+      "description": "Guidehouse seeks a Data Engineer to support in building, optimizing, and maintaining data pipelines, cloud-based solutions, and analytics platforms.",
+      "date": "2026-05-16",
+      "timestamp": "2026-05-16T14:43:46+00:00",
+      "fetched_at": "2026-05-16T16:40:45.281893+00:00"
+    },
+    {
+      "id": "2a22a4178e61",
+      "title": "Senior Machine Learning Engineer , Search Assistant - San Jose, California, United States",
+      "company": "San Jose, California, United States",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.weareroku.com/jobs/senior-machine-learning-engineer-search-assistant-san-jose-california-united-states",
+      "source": "Other",
+      "description": "Senior Machine Learning Engineer , Search Assistant. Software ... Software Engineer , San Jose, California. Collage, Poster, Advertisement ...",
+      "date": "2026-05-16",
+      "timestamp": "2026-05-16T12:12:49+00:00",
+      "fetched_at": "2026-05-16T16:40:45.460670+00:00"
+    },
+    {
+      "id": "5a0710d952c6",
+      "title": "Senior Data Engineer Job Details - Boehringer Ingelheim Careers",
+      "company": "Boehringer Ingelheim Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.boehringer-ingelheim.com/job/London%2C-UK-Senior-Data-Engineer-Unit/1394182033/",
+      "source": "Other",
+      "description": "Senior Data Engineer . THE AI ACCELERATOR. The AI Accelerator is a brand-new, London-based hub, sitting within Computational Innovation (CI), which ...",
+      "date": "2026-05-16",
+      "timestamp": "2026-05-16T12:03:28+00:00",
+      "fetched_at": "2026-05-16T16:40:45.283188+00:00"
+    },
+    {
+      "id": "f2cb7aefa29c",
+      "title": "DevOps Engineer - Fire & Police Pension Association of Colorado",
+      "company": "Fire & Police Pension Association of Colorado",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.fppaco.org/devops-engineer",
+      "source": "Other",
+      "description": "DevOps Engineer . Do you have a passion for all things technical and enjoy working with and leading people? Are you looking to be part of a company ...",
+      "date": "2026-05-16",
+      "timestamp": "2026-05-16T11:36:31+00:00",
+      "fetched_at": "2026-05-16T16:40:45.460963+00:00"
+    },
+    {
+      "id": "8497cfe5be16",
+      "title": "Data Engineer , Senior - - 124529 - Booz | Allen | Hamilton \u00ae - Careers",
+      "company": "- 124529 - Booz | Allen | Hamilton \u00ae - Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.boozallen.com/jobs/JobDetail/Nellis-AFB-Data-Engineer-Senior-R0240106/124529",
+      "source": "Other",
+      "description": "Data Engineer , Senior. The Opportunity: Ever-expanding technology like IoT, machine learning, and artificial intelligence means that there's more ...",
+      "date": "2026-05-16",
+      "timestamp": "2026-05-16T10:42:38+00:00",
+      "fetched_at": "2026-05-16T16:40:45.283611+00:00"
+    },
+    {
       "id": "52366754b302",
       "title": "DevOps Engineer | Citi Careers",
       "company": "Citi Careers",
@@ -47,6 +152,21 @@
       "date": "2026-05-16",
       "timestamp": "2026-05-16T09:36:52+00:00",
       "fetched_at": "2026-05-16T12:49:53.663420+00:00"
+    },
+    {
+      "id": "8d99ec799015",
+      "title": "Platform Engineer @ Legora AB - Jobs",
+      "company": "Legora",
+      "role": "Platform Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/legora/97784bc1-e75b-4da9-89e0-e6e61a6d7e06?utm_source=Menlo+Ventures+job+board&utm_medium=getro.com&gh_src=Menlo+Ventures+job+board",
+      "source": "Ashby",
+      "description": "... Platform Engineer at Legora, you'll join an enabling team focused on making ... backend engineer but have solid infrastructure, observability ...",
+      "date": "2026-05-16",
+      "timestamp": "2026-05-16T09:24:22+00:00",
+      "fetched_at": "2026-05-16T16:40:45.461471+00:00"
     },
     {
       "id": "cfe820e0ebe0",
@@ -64,6 +184,21 @@
       "fetched_at": "2026-05-16T12:49:53.663739+00:00"
     },
     {
+      "id": "fd756ffe4b57",
+      "title": "Senior Software Engineer , Backend @ Plaid - Jobs",
+      "company": "Plaid",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/plaid/58033600-5c9e-40bc-877e-64479e957a1e?ref=jobsbyculture.com",
+      "source": "Ashby",
+      "description": "Senior Software Engineer , Backend. Location. San Francisco HQ. Address. 1098 Harrison Street, San Francisco, California, 94103. Employment Type. Full ...",
+      "date": "2026-05-16",
+      "timestamp": "2026-05-16T08:18:58+00:00",
+      "fetched_at": "2026-05-16T16:40:45.284046+00:00"
+    },
+    {
       "id": "97c1d646eda2",
       "title": "Software Engineer , Data Governance job in Menlo Park, California, United States",
       "company": "Unknown Company",
@@ -77,6 +212,21 @@
       "date": "2026-05-16",
       "timestamp": "2026-05-16T07:55:34+00:00",
       "fetched_at": "2026-05-16T09:17:02.230750+00:00"
+    },
+    {
+      "id": "3d8779a254e9",
+      "title": "Software Engineer and Developer - - 124614 - Booz | Allen | Hamilton \u00ae - Careers",
+      "company": "- 124614 - Booz | Allen | Hamilton \u00ae - Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.boozallen.com/locations/JobDetail?jobId=124614",
+      "source": "Other",
+      "description": "Software Engineer and Developer. Beavercreek, Ohio, USA. Apply. CREATEYOUR CAREER. CREATE AND GROW WITH US. Grow. Your growth matters to us - explore ...",
+      "date": "2026-05-16",
+      "timestamp": "2026-05-16T07:16:00+00:00",
+      "fetched_at": "2026-05-16T16:40:45.462087+00:00"
     },
     {
       "id": "3c5059a4151e",
