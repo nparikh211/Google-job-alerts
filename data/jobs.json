@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-05-16T16:40:45.470349+00:00",
-  "total_jobs": 1868,
+  "last_updated": "2026-05-16T20:34:55.041629+00:00",
+  "total_jobs": 1877,
   "stats": {
-    "total_companies": 1109,
-    "total_roles": 45,
+    "total_companies": 1115,
+    "total_roles": 46,
     "regions": {
-      "India": 1128,
-      "Philippines": 367,
-      "Remote": 245,
+      "India": 1130,
+      "Philippines": 373,
+      "Remote": 246,
       "Unknown": 135
     },
     "sources": {
-      "Other": 1451,
-      "Greenhouse": 99,
+      "Other": 1457,
+      "Greenhouse": 100,
       "Workday": 86,
-      "LinkedIn": 71,
-      "Ashby": 63,
+      "LinkedIn": 72,
+      "Ashby": 64,
       "Breezy": 21,
       "iCIMS": 20,
       "Lever": 19,
@@ -33,6 +33,36 @@
     }
   },
   "jobs": [
+    {
+      "id": "b531ea9dc7c9",
+      "title": "AI Engineer - San Diego, California, United States - 39780 - Jacobs",
+      "company": "San Diego, California, United States - 39780 - Jacobs",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.jacobs.com/en_US/careers/JobDetail/AI-Engineer/39780",
+      "source": "Other",
+      "description": "AI Engineer . San Diego, California, United States | 39780 | Advanced ... Java Software Engineer . Bristol, Bristol City, United Kingdom | 39760 ...",
+      "date": "2026-05-16",
+      "timestamp": "2026-05-16T18:53:53+00:00",
+      "fetched_at": "2026-05-16T20:34:54.645213+00:00"
+    },
+    {
+      "id": "c02ecf121b2a",
+      "title": "Software Engineer in Bangalore, Karnataka, India | Information Technology at Merck",
+      "company": "Merck",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.merckgroup.com/global/en/job/299104/Software-Engineer",
+      "source": "Other",
+      "description": "Software Engineer . Apply Now. Back to search ... Senior Software Engineer 1. Bangalore, Karnataka, India Job Type Full-time. Senior DevOps Engineer .",
+      "date": "2026-05-16",
+      "timestamp": "2026-05-16T17:41:51+00:00",
+      "fetched_at": "2026-05-16T20:34:54.645415+00:00"
+    },
     {
       "id": "359b7097fb2a",
       "title": "Software Engineer -> Managing : r/cscareerquestions - Reddit",
@@ -64,6 +94,36 @@
       "fetched_at": "2026-05-16T16:40:45.281781+00:00"
     },
     {
+      "id": "ddaaec00ff45",
+      "title": "Software Engineer - Team Growth @ Clipboard - Jobs",
+      "company": "Clipboard",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.ashbyhq.com/clipboard/e8f6d10c-61b7-42dd-978e-921004ea5a55",
+      "source": "Ashby",
+      "description": "Software Engineer - Team Growth. Location. U.S. (Remote). Employment Type. Full time. Location Type. Remote. Department. Engineering. Compensation.",
+      "date": "2026-05-16",
+      "timestamp": "2026-05-16T15:33:48+00:00",
+      "fetched_at": "2026-05-16T20:34:54.645846+00:00"
+    },
+    {
+      "id": "b249488894b1",
+      "title": "Software Data Engineer - - 124021 - Booz | Allen | Hamilton \u00ae - Careers",
+      "company": "- 124021 - Booz | Allen | Hamilton \u00ae - Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.boozallen.com/careers/JobDetail/Honolulu-Software-Data-Engineer-R0239243/124021",
+      "source": "Other",
+      "description": "Software Data Engineer . The Opportunity: Ever-expanding technology like IoT, machine learning, and artificial intelligence means that there's more ...",
+      "date": "2026-05-16",
+      "timestamp": "2026-05-16T15:02:23+00:00",
+      "fetched_at": "2026-05-16T20:34:55.030655+00:00"
+    },
+    {
       "id": "b3345d9c3ecf",
       "title": "Data Engineer - Myworkdayjobs.com",
       "company": "Guidehouse",
@@ -77,6 +137,36 @@
       "date": "2026-05-16",
       "timestamp": "2026-05-16T14:43:46+00:00",
       "fetched_at": "2026-05-16T16:40:45.281893+00:00"
+    },
+    {
+      "id": "6165361d0c08",
+      "title": "Software Engineer , Mid - - 124618 - Booz | Allen | Hamilton \u00ae - Careers",
+      "company": "- 124618 - Booz | Allen | Hamilton \u00ae - Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.boozallen.com/careers/JobDetail/McLean-Software-Engineer-Mid-R0240238/124618",
+      "source": "Other",
+      "description": "Software Engineer , Mid. McLean, Virginia, USA. View Additional Locations. Apply. CREATEYOUR CAREER. CREATE AND GROW WITH US. Grow. Your growth matters ...",
+      "date": "2026-05-16",
+      "timestamp": "2026-05-16T13:38:07+00:00",
+      "fetched_at": "2026-05-16T20:34:55.031010+00:00"
+    },
+    {
+      "id": "b8cab12a7620",
+      "title": "Senior Software Engineer - San Jose, California, United States | Roku Jobs",
+      "company": "San Jose, California, United States | Roku Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.weareroku.com/jobs/senior-software-engineer-san-jose-california-united-states-124304fa-f773-4df6-b0fd-9b1e1b3c5602",
+      "source": "Other",
+      "description": "Senior Software Engineer . Software Engineering | San Jose, United States ... Senior Machine Learning Engineer , Search Assistant, San Jose ...",
+      "date": "2026-05-16",
+      "timestamp": "2026-05-16T12:12:52+00:00",
+      "fetched_at": "2026-05-16T20:34:55.031527+00:00"
     },
     {
       "id": "2a22a4178e61",
@@ -107,6 +197,36 @@
       "date": "2026-05-16",
       "timestamp": "2026-05-16T12:03:28+00:00",
       "fetched_at": "2026-05-16T16:40:45.283188+00:00"
+    },
+    {
+      "id": "d0e1f5c2922e",
+      "title": "Job Application for Fullstack Platform Engineer at Kiva.org - Greenhouse",
+      "company": "Kivaorg",
+      "role": "Platform Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/kivaorg/jobs/7782356",
+      "source": "Greenhouse",
+      "description": "Fullstack Platform Engineer . Bogota, Colombia. Apply. About us: Kiva is ... We are seeking a Senior Full-Stack Engineer to help lead the design ...",
+      "date": "2026-05-16",
+      "timestamp": "2026-05-16T11:52:14+00:00",
+      "fetched_at": "2026-05-16T20:34:55.032092+00:00"
+    },
+    {
+      "id": "5bfc31d31166",
+      "title": "Data Engineer , Quality, Megafactory - Tesla",
+      "company": "Tesla",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.tesla.com/careers/search/job/265479?source=Circa",
+      "source": "Other",
+      "description": "The Energy Quality Team in Houston is looking for a Data Engineer to support Quality Engineering initiatives onsite. this position will support ...",
+      "date": "2026-05-16",
+      "timestamp": "2026-05-16T11:44:50+00:00",
+      "fetched_at": "2026-05-16T20:34:55.032212+00:00"
     },
     {
       "id": "f2cb7aefa29c",
@@ -167,6 +287,21 @@
       "date": "2026-05-16",
       "timestamp": "2026-05-16T09:24:22+00:00",
       "fetched_at": "2026-05-16T16:40:45.461471+00:00"
+    },
+    {
+      "id": "005529d692e7",
+      "title": "Bart Willaert's Post - LinkedIn",
+      "company": "Unknown Company",
+      "role": "Bart Willaert's Post - LinkedIn",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/posts/bart-willaert-198a22_as-a-software-engineer-by-education-i-hadn-activity-7461056029867307008-BGqh",
+      "source": "LinkedIn",
+      "description": "As a software engineer by education, I hadn't written code in a long time. Yesterday, I had the opportunity to join a Vibe Coding session together ...",
+      "date": "2026-05-16",
+      "timestamp": "2026-05-16T08:36:37+00:00",
+      "fetched_at": "2026-05-16T20:34:55.033687+00:00"
     },
     {
       "id": "cfe820e0ebe0",
