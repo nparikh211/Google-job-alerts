@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-05-16T09:17:02.242271+00:00",
-  "total_jobs": 1851,
+  "last_updated": "2026-05-16T12:49:53.764362+00:00",
+  "total_jobs": 1858,
   "stats": {
-    "total_companies": 1096,
+    "total_companies": 1101,
     "total_roles": 45,
     "regions": {
-      "India": 1118,
-      "Philippines": 360,
+      "India": 1123,
+      "Philippines": 362,
       "Remote": 245,
       "Unknown": 135
     },
     "sources": {
-      "Other": 1439,
+      "Other": 1445,
       "Greenhouse": 99,
       "Workday": 84,
       "LinkedIn": 71,
-      "Ashby": 60,
+      "Ashby": 61,
       "Breezy": 21,
       "iCIMS": 20,
       "Lever": 19,
@@ -34,6 +34,36 @@
   },
   "jobs": [
     {
+      "id": "52366754b302",
+      "title": "DevOps Engineer | Citi Careers",
+      "company": "Citi Careers",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.citi.com/job/pune/devops-engineer/287/95139884720",
+      "source": "Other",
+      "description": "Learn more about applying for DevOps Engineer at Citi. Learn more about potential responsibilities, qualifications and career paths.",
+      "date": "2026-05-16",
+      "timestamp": "2026-05-16T09:36:52+00:00",
+      "fetched_at": "2026-05-16T12:49:53.663420+00:00"
+    },
+    {
+      "id": "cfe820e0ebe0",
+      "title": "Data Engineer III - Careers At Ad Hoc - ClearCompany",
+      "company": "Ad Hoc",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://adhoc.hrmdirect.com/employment/job-opening.php?req=3715819&req_loc=1326370&&cust_sort1=245588&",
+      "source": "Other",
+      "description": "Join our team! Current job opportunities are posted here as they become available. Back To Openings. Data Engineer ...",
+      "date": "2026-05-16",
+      "timestamp": "2026-05-16T08:35:38+00:00",
+      "fetched_at": "2026-05-16T12:49:53.663739+00:00"
+    },
+    {
       "id": "97c1d646eda2",
       "title": "Software Engineer , Data Governance job in Menlo Park, California, United States",
       "company": "Unknown Company",
@@ -49,6 +79,21 @@
       "fetched_at": "2026-05-16T09:17:02.230750+00:00"
     },
     {
+      "id": "3c5059a4151e",
+      "title": "Staff Software Engineer , Android, Level 6 - Snap Careers",
+      "company": "Snap Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.snap.com/job?id=R0045463",
+      "source": "Other",
+      "description": "... Software Engineer to join the Monetization, Ad Format Team. The team owns Snapchat's client-side ads stack on iOS and Android \u2014 Ad format ...",
+      "date": "2026-05-16",
+      "timestamp": "2026-05-16T06:54:02+00:00",
+      "fetched_at": "2026-05-16T12:49:53.663922+00:00"
+    },
+    {
       "id": "ed8de1704992",
       "title": "The AI engineer market right now is honestly unreal. I'm talking to candidates in their mid ... - LinkedIn",
       "company": "LinkedIn",
@@ -62,6 +107,36 @@
       "date": "2026-05-16",
       "timestamp": "2026-05-16T06:05:38+00:00",
       "fetched_at": "2026-05-16T09:17:02.231156+00:00"
+    },
+    {
+      "id": "b64b93313d0a",
+      "title": "Senior DevOps Engineer - Job Detail | Careers Marketplace - Siemens",
+      "company": "Job Detail | Careers Marketplace - Siemens",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/506312?source=eJobs",
+      "source": "Other",
+      "description": "Senior DevOps Engineer . Job ID. 506312. Posted since. 13-May-2026 ... Site Reliability Engineer . Bangalore, Karnataka, India. Site Reliability ...",
+      "date": "2026-05-16",
+      "timestamp": "2026-05-16T05:47:48+00:00",
+      "fetched_at": "2026-05-16T12:49:53.753758+00:00"
+    },
+    {
+      "id": "416406181381",
+      "title": "Software Engineer , Developer Experience @ Replit - Jobs",
+      "company": "Replit",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/Replit/d0e0dd7d-59d1-4de8-afbb-54aea680b51d",
+      "source": "Ashby",
+      "description": "Software Engineer , Developer Experience. Location. Foster City, CA. Employment Type. Full time. Location Type. Hybrid. Department. EngineeringSRE ...",
+      "date": "2026-05-16",
+      "timestamp": "2026-05-16T04:46:48+00:00",
+      "fetched_at": "2026-05-16T12:49:53.753858+00:00"
     },
     {
       "id": "3ccb6698a2c8",
@@ -137,6 +212,21 @@
       "date": "2026-05-16",
       "timestamp": "2026-05-16T02:42:29+00:00",
       "fetched_at": "2026-05-16T09:17:02.232051+00:00"
+    },
+    {
+      "id": "5fe7ae99e478",
+      "title": "Principal Software Engineer - Job ID: 3133471 - Amazon Careers",
+      "company": "Job ID: 3133471 - Amazon Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://amazon.jobs/jobs/3133471",
+      "source": "Other",
+      "description": "Principal Software Engineer . Job ID: 3133471 | Amazon Web Services Development Center Germany GmbH. Apply now. Description. Are you interested in ...",
+      "date": "2026-05-16",
+      "timestamp": "2026-05-16T01:54:21+00:00",
+      "fetched_at": "2026-05-16T12:49:53.754940+00:00"
     },
     {
       "id": "fa2674e0c879",
@@ -257,6 +347,21 @@
       "date": "2026-05-15",
       "timestamp": "2026-05-15T22:34:43+00:00",
       "fetched_at": "2026-05-16T01:27:43.786169+00:00"
+    },
+    {
+      "id": "0e1981840457",
+      "title": "Senior Data Engineer - Software - WhiteWater Express Car Wash - Career Page - Jobs",
+      "company": "Software - WhiteWater Express Car Wash - Career Page - Jobs",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://whitewater.applytojob.com/apply/oWdYSbAETz/Senior-Data-Engineer-Software",
+      "source": "Other",
+      "description": "Apply to Senior Data Engineer - Software at WhiteWater Express Car Wash in Houston, TX ... We're looking for a Full-Stack Software Engineer who thrives ...",
+      "date": "2026-05-15",
+      "timestamp": "2026-05-15T22:02:06+00:00",
+      "fetched_at": "2026-05-16T12:49:53.666546+00:00"
     },
     {
       "id": "ff9c73166a90",
