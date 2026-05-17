@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-05-17T12:45:46.862365+00:00",
-  "total_jobs": 1903,
+  "last_updated": "2026-05-17T16:41:40.290806+00:00",
+  "total_jobs": 1916,
   "stats": {
-    "total_companies": 1134,
-    "total_roles": 46,
+    "total_companies": 1143,
+    "total_roles": 47,
     "regions": {
-      "India": 1149,
-      "Philippines": 377,
-      "Remote": 249,
+      "India": 1159,
+      "Philippines": 379,
+      "Remote": 250,
       "Unknown": 135
     },
     "sources": {
-      "Other": 1482,
-      "Greenhouse": 101,
-      "Workday": 86,
-      "LinkedIn": 72,
+      "Other": 1490,
+      "Greenhouse": 103,
+      "Workday": 88,
+      "LinkedIn": 73,
       "Ashby": 64,
       "Breezy": 21,
       "iCIMS": 20,
@@ -34,6 +34,141 @@
   },
   "jobs": [
     {
+      "id": "ff6170790a41",
+      "title": "System Software Engineer , Graviton Team - Job ID: 10421911 - Amazon Careers",
+      "company": "Job ID: 10421911 - Amazon Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.amazon.jobs/en/jobs/10421911/system-software-engineer-graviton-team",
+      "source": "Other",
+      "description": "System Software Engineer , Graviton Team \u00b7 Description. Annapurna Labs as part of Amazon, is looking for a System Engineer with Software Engineering ...",
+      "date": "2026-05-17",
+      "timestamp": "2026-05-17T16:25:23+00:00",
+      "fetched_at": "2026-05-17T16:41:40.199406+00:00"
+    },
+    {
+      "id": "c368d413210c",
+      "title": "Corporate Treasury, Liquidity Risk, AI Engineer , Vice President, Dallas - gs",
+      "company": "Unknown Company",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://higher.gs.com/roles/170576",
+      "source": "Other",
+      "description": "We are seeking an AI Engineer with 5+ years of experience to join the Liquidity Risk technology team. In this role, you will design, build, and ...",
+      "date": "2026-05-17",
+      "timestamp": "2026-05-17T15:25:05+00:00",
+      "fetched_at": "2026-05-17T16:41:40.199577+00:00"
+    },
+    {
+      "id": "5ec40deec9f6",
+      "title": "Kav - Software Engineer - Gem",
+      "company": "Kav",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.gem.com/43north/am9icG9zdDpp_8wKv0N6K22Zbj5sXd9m",
+      "source": "Other",
+      "description": "Software Engineer - The Digital Architect of Safety. The Mission: Save Brains. At KAV, you will use advanced manufacturing to save lives and insure ...",
+      "date": "2026-05-17",
+      "timestamp": "2026-05-17T13:11:35+00:00",
+      "fetched_at": "2026-05-17T16:41:40.271599+00:00"
+    },
+    {
+      "id": "d75078d92d86",
+      "title": "Evan Digney's Post - LinkedIn",
+      "company": "Unknown Company",
+      "role": "Evan Digney's Post - LinkedIn",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/evan-digney-249728117_senior-data-engineer-etihad-airways-abu-activity-7461502442858360832-JjDf",
+      "source": "LinkedIn",
+      "description": "Senior Data Engineer , Etihad Airways, Abu Dhabi My data engineering team is expanding, and we're on the lookout for a Senior Data Engineer who's ...",
+      "date": "2026-05-17",
+      "timestamp": "2026-05-17T12:59:46+00:00",
+      "fetched_at": "2026-05-17T16:41:40.200167+00:00"
+    },
+    {
+      "id": "40091896ae0e",
+      "title": "Principal Software Engineer , Boston, MA | Fidelity Careers",
+      "company": "Fidelity Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.fidelity.com/en/jobs/2128935/principal-software-engineer/",
+      "source": "Other",
+      "description": "Job Description: The Role Strategic Advisors Technology (SAT) is looking for a Principal Software Engineer who not only cares about what you ...",
+      "date": "2026-05-17",
+      "timestamp": "2026-05-17T12:37:55+00:00",
+      "fetched_at": "2026-05-17T16:41:40.200329+00:00"
+    },
+    {
+      "id": "567459d850ba",
+      "title": "Senior Security Software Engineer (Vulnerability Management) - Welcome to the Jungle",
+      "company": "Welcome to the Jungle",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.welcometothejungle.com/en/companies/roblox/jobs/senior-security-software-engineer-vulnerability-management_san-mateo-ca_x4zvraco",
+      "source": "Other",
+      "description": "Roblox is looking for a Senior Security Software Engineer (Vulnerability Management) in San Mateo, CA!",
+      "date": "2026-05-17",
+      "timestamp": "2026-05-17T11:11:54+00:00",
+      "fetched_at": "2026-05-17T16:41:40.200632+00:00"
+    },
+    {
+      "id": "b6c52b52e5b2",
+      "title": "Senior Cloud Engineer | Active Top Secret clearance - GDIT",
+      "company": "Active Top Secret clearance - GDIT",
+      "role": "Cloud Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.gdit.com/careers/job/955c650b0/senior-cloud-engineer-active-top-secret-clearance/",
+      "source": "Other",
+      "description": "Job Description. Transform technology into opportunity as a Cloud Engineer at GDIT. Shape what's next for mission-critical government projects while ...",
+      "date": "2026-05-17",
+      "timestamp": "2026-05-17T10:42:53+00:00",
+      "fetched_at": "2026-05-17T16:41:40.200837+00:00"
+    },
+    {
+      "id": "26040257d555",
+      "title": "Software Engineer Sr, Full Stack Developer - Myworkdayjobs.com",
+      "company": "Pnc",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://pnc.wd5.myworkdayjobs.com/external/job/pa---pittsburgh-15222/software-engineer-sr--full-stack-developer_r219822-2/apply",
+      "source": "Workday",
+      "description": "... Senior Software Engineer to drive development and long-term ownership of the Personetics Digital Insights platform. This role is critical for ...",
+      "date": "2026-05-17",
+      "timestamp": "2026-05-17T09:37:48+00:00",
+      "fetched_at": "2026-05-17T16:41:40.200923+00:00"
+    },
+    {
+      "id": "bb8b9fbb3e3e",
+      "title": "Sr Lead Software Engineer - Digital Assets / Blockchain - JPMC Candidate Experience page Careers",
+      "company": "Digital Assets / Blockchain - JPMC Candidate Experience page Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/cx_1001/job/210748607",
+      "source": "Other",
+      "description": "Sr Lead Software Engineer - Digital Assets / Blockchain. New York, NY, United States. Apply Now. Job Information. Job Identification 210748607; Job ...",
+      "date": "2026-05-17",
+      "timestamp": "2026-05-17T09:08:18+00:00",
+      "fetched_at": "2026-05-17T16:41:40.201120+00:00"
+    },
+    {
       "id": "882cd67eaed3",
       "title": "Data Engineer Job Details - Careers at ExxonMobil",
       "company": "ExxonMobil",
@@ -47,6 +182,21 @@
       "date": "2026-05-17",
       "timestamp": "2026-05-17T07:41:55+00:00",
       "fetched_at": "2026-05-17T09:25:22.356109+00:00"
+    },
+    {
+      "id": "baf4655a1b7d",
+      "title": "Job Application for Software Engineer , Data Platform at GlossGenius - Greenhouse",
+      "company": "Glossgenius",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/glossgenius/jobs/7538131003?gh_src=qjjd6pv53us",
+      "source": "Greenhouse",
+      "description": "Software Engineer , Data Platform. Hybrid - SF Bay Area. Apply. About GlossGenius. GlossGenius is the AI-powered system behind the world's most ...",
+      "date": "2026-05-17",
+      "timestamp": "2026-05-17T06:42:33+00:00",
+      "fetched_at": "2026-05-17T16:41:40.273594+00:00"
     },
     {
       "id": "869fad7c758e",
@@ -77,6 +227,36 @@
       "date": "2026-05-17",
       "timestamp": "2026-05-17T05:52:13+00:00",
       "fetched_at": "2026-05-17T09:25:22.221664+00:00"
+    },
+    {
+      "id": "5b6e5026b9cb",
+      "title": "Job opportunity: Senior AI Engineer - Cytoreason",
+      "company": "Cytoreason",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://cytoreason.com/career/co/tel-aviv-israel/8E.A65/senior-ai-engineer/",
+      "source": "Other",
+      "description": "We are seeking a Senior AI Engineer to lead the design and development of agent-based AI systems that transform how computational biology work is ...",
+      "date": "2026-05-17",
+      "timestamp": "2026-05-17T05:46:01+00:00",
+      "fetched_at": "2026-05-17T16:41:40.202159+00:00"
+    },
+    {
+      "id": "7fc8d0e80da1",
+      "title": "Principal Machine Learning Engineer - Myworkdayjobs.com",
+      "company": "Zillow",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://zillow.wd5.myworkdayjobs.com/zillow_group_external/job/remote-usa/principal-machine-learning-engineer_p750400-1",
+      "source": "Workday",
+      "description": "As a Principal Machine Learning Engineer in the Agentic Data Platform organization, you will: Set the technical direction. Define and own the multi- ...",
+      "date": "2026-05-17",
+      "timestamp": "2026-05-17T05:36:32+00:00",
+      "fetched_at": "2026-05-17T16:41:40.202237+00:00"
     },
     {
       "id": "30f51e302eb0",
@@ -122,6 +302,21 @@
       "date": "2026-05-17",
       "timestamp": "2026-05-17T03:06:28+00:00",
       "fetched_at": "2026-05-17T06:37:58.496399+00:00"
+    },
+    {
+      "id": "9aab615aa8da",
+      "title": "Job Application for Senior Software Engineer at Daymark Health - Greenhouse",
+      "company": "Daymarkhealth",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/daymarkhealth/jobs/5222679008",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer . Boston or NYC. Apply. Daymark Health is a value-based oncology company redefining the cancer care experience for patients ...",
+      "date": "2026-05-17",
+      "timestamp": "2026-05-17T01:41:38+00:00",
+      "fetched_at": "2026-05-17T16:41:40.203081+00:00"
     },
     {
       "id": "47b37fda514e",
