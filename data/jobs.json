@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-05-17T16:41:40.290806+00:00",
-  "total_jobs": 1916,
+  "last_updated": "2026-05-17T20:37:05.506399+00:00",
+  "total_jobs": 1929,
   "stats": {
-    "total_companies": 1143,
+    "total_companies": 1151,
     "total_roles": 47,
     "regions": {
-      "India": 1159,
-      "Philippines": 379,
-      "Remote": 250,
+      "India": 1168,
+      "Philippines": 382,
+      "Remote": 251,
       "Unknown": 135
     },
     "sources": {
-      "Other": 1490,
-      "Greenhouse": 103,
-      "Workday": 88,
-      "LinkedIn": 73,
-      "Ashby": 64,
+      "Other": 1497,
+      "Greenhouse": 104,
+      "Workday": 90,
+      "LinkedIn": 74,
+      "Ashby": 66,
       "Breezy": 21,
       "iCIMS": 20,
       "Lever": 19,
@@ -34,6 +34,81 @@
   },
   "jobs": [
     {
+      "id": "48c2195cac45",
+      "title": "DevOps Engineer , DOCA",
+      "company": "Nvidia",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/DevOps-Engineer--DOCA_JR2017774",
+      "source": "Workday",
+      "description": "... Software Engineer in the DevOps Group, you'll also be working with ... DevOps Engineer in a global software development organization ...",
+      "date": "2026-05-17",
+      "timestamp": "2026-05-17T19:20:12+00:00",
+      "fetched_at": "2026-05-17T20:37:05.411028+00:00"
+    },
+    {
+      "id": "ee230736d330",
+      "title": "Associate Software Engineer - Myworkdayjobs.com",
+      "company": "Maxar",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://maxar.wd1.myworkdayjobs.com/lanterisspace/job/Associate-Software-Engineer_R23888",
+      "source": "Workday",
+      "description": "Please review the job details below. Intuitive Machines - West is seeking an Associate Software Engineer to support our AI initiatives, ...",
+      "date": "2026-05-17",
+      "timestamp": "2026-05-17T17:41:41+00:00",
+      "fetched_at": "2026-05-17T20:37:05.491941+00:00"
+    },
+    {
+      "id": "72fbcd30cb45",
+      "title": "BackEnd Engineer in Krak\u00f3w, Poland - PepsiCo Careers",
+      "company": "PepsiCo Careers",
+      "role": "Backend Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.pepsicojobs.com/poland/jobs/450140?lang=en-us&previousLocale=en-US",
+      "source": "Other",
+      "description": "poland is hiring a BackEnd Engineer in Krak\u00f3w, Poland. Review all of the job details and apply today!",
+      "date": "2026-05-17",
+      "timestamp": "2026-05-17T17:40:39+00:00",
+      "fetched_at": "2026-05-17T20:37:05.492173+00:00"
+    },
+    {
+      "id": "95a7d9542878",
+      "title": "Lead Software Engineer in Pune, India, 411006 - Mastercard",
+      "company": "Mastercard",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mastercard.com/us/en/job/R-277278/Lead-Software-Engineer",
+      "source": "Other",
+      "description": "Senior Software Engineer - CS. Location Pune, India, 411006 Category Engineering. Senior Software Engineer (Java Backend Developer with experience ...",
+      "date": "2026-05-17",
+      "timestamp": "2026-05-17T17:29:05+00:00",
+      "fetched_at": "2026-05-17T20:37:05.412053+00:00"
+    },
+    {
+      "id": "2661d49c6665",
+      "title": "Senior Data Engineer @ Datavant | AnitaB.org Job Board",
+      "company": "Datavant",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.anitab.org/companies/datavant/jobs/79063197-senior-data-engineer",
+      "source": "Other",
+      "description": "If you are a data engineer who thrives at the intersection of technology and business, and enjoys collaborating with both technical and non-technical ...",
+      "date": "2026-05-17",
+      "timestamp": "2026-05-17T17:24:26+00:00",
+      "fetched_at": "2026-05-17T20:37:05.412211+00:00"
+    },
+    {
       "id": "ff6170790a41",
       "title": "System Software Engineer , Graviton Team - Job ID: 10421911 - Amazon Careers",
       "company": "Job ID: 10421911 - Amazon Careers",
@@ -49,6 +124,21 @@
       "fetched_at": "2026-05-17T16:41:40.199406+00:00"
     },
     {
+      "id": "f69f01a6d309",
+      "title": "Job Application for Senior Software Engineer , Privacy.com at Privacy - Greenhouse",
+      "company": "Privacy",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/privacy/jobs/5997321004",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer , Privacy.com. Remote. Apply. Privacy is the virtual card platform giving consumers and small businesses complete control ...",
+      "date": "2026-05-17",
+      "timestamp": "2026-05-17T15:51:16+00:00",
+      "fetched_at": "2026-05-17T20:37:05.412486+00:00"
+    },
+    {
       "id": "c368d413210c",
       "title": "Corporate Treasury, Liquidity Risk, AI Engineer , Vice President, Dallas - gs",
       "company": "Unknown Company",
@@ -62,6 +152,66 @@
       "date": "2026-05-17",
       "timestamp": "2026-05-17T15:25:05+00:00",
       "fetched_at": "2026-05-17T16:41:40.199577+00:00"
+    },
+    {
+      "id": "ba05e2652f25",
+      "title": "Apply to Frontend Engineer Intern at Valor Benefit Services - Recruiterflow",
+      "company": "Valor Benefit Services",
+      "role": "Frontend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://recruiterflow.com/db_8e0c6dbc64415efa94654a47ee376e52/jobs/210",
+      "source": "Other",
+      "description": "We're looking for a Frontend Engineer Intern to join our team in Bengaluru. This is a hands-on role - you'll work alongside engineers, designers ...",
+      "date": "2026-05-17",
+      "timestamp": "2026-05-17T15:21:21+00:00",
+      "fetched_at": "2026-05-17T20:37:05.493321+00:00"
+    },
+    {
+      "id": "b5b5ca275439",
+      "title": "Senior Machine Learning Engineer - Job Detail | Careers Marketplace - Siemens",
+      "company": "Job Detail | Careers Marketplace - Siemens",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/506581",
+      "source": "Other",
+      "description": "Senior Machine Learning Engineer . Job ID. 506581. Posted since. 17-May-2026. Organization. Information Technology. Field of work. Information ...",
+      "date": "2026-05-17",
+      "timestamp": "2026-05-17T14:56:02+00:00",
+      "fetched_at": "2026-05-17T20:37:05.412776+00:00"
+    },
+    {
+      "id": "18b687c89864",
+      "title": "How Daniel Landed a $90K Software Engineer Job in 9 Months - YouTube",
+      "company": "YouTube",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.youtube.com/watch?v=-ko3Z23oIjs",
+      "source": "Other",
+      "description": "... Why investing in yourself is worth it. How Daniel Landed a $90K Software Engineer Job in 9 Months. 10 views \u00b7 15 minutes ago ...more. Iman Musa. 34.3K.",
+      "date": "2026-05-17",
+      "timestamp": "2026-05-17T14:02:23+00:00",
+      "fetched_at": "2026-05-17T20:37:05.413037+00:00"
+    },
+    {
+      "id": "75c98a16a417",
+      "title": "Senior Software Engineer - Zoom | Built In San Francisco",
+      "company": "Zoom | Built In San Francisco",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.builtinsf.com/job/senior-software-engineer/9147818",
+      "source": "Other",
+      "description": "Zoom is hiring for a Senior Software Engineer in San Jose, CA, USA. Find more details about the job and how to apply at Built In San Francisco.",
+      "date": "2026-05-17",
+      "timestamp": "2026-05-17T13:57:09+00:00",
+      "fetched_at": "2026-05-17T20:37:05.413189+00:00"
     },
     {
       "id": "5ec40deec9f6",
@@ -124,6 +274,21 @@
       "fetched_at": "2026-05-17T16:41:40.200632+00:00"
     },
     {
+      "id": "a911399a6506",
+      "title": "Backend Engineer @ GovEagle - Jobs",
+      "company": "Goveagle",
+      "role": "Backend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/GovEagle/06981341-88a0-439e-829a-ac44ec6dbbfc?utm_source=ZAYdbv0mYE",
+      "source": "Ashby",
+      "description": "GovEagle (YC W23) is the AI platform trusted by some of the top 10 government contractors. We're growing 10x and hiring a Senior Backend Engineer ...",
+      "date": "2026-05-17",
+      "timestamp": "2026-05-17T10:43:48+00:00",
+      "fetched_at": "2026-05-17T20:37:05.414485+00:00"
+    },
+    {
       "id": "b6c52b52e5b2",
       "title": "Senior Cloud Engineer | Active Top Secret clearance - GDIT",
       "company": "Active Top Secret clearance - GDIT",
@@ -137,6 +302,21 @@
       "date": "2026-05-17",
       "timestamp": "2026-05-17T10:42:53+00:00",
       "fetched_at": "2026-05-17T16:41:40.200837+00:00"
+    },
+    {
+      "id": "e2a9bf8ea2db",
+      "title": "Your Roadmap to Becoming an Azure Data Engineer Looking ... - LinkedIn",
+      "company": "LinkedIn",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/posts/abhishek-agrawal-406105102_%F0%9D%97%AC%F0%9D%97%BC%F0%9D%98%82%F0%9D%97%BF-%F0%9D%97%A5%F0%9D%97%BC%F0%9D%97%AE%F0%9D%97%B1%F0%9D%97%BA%F0%9D%97%AE%F0%9D%97%BD-%F0%9D%98%81%F0%9D%97%BC-%F0%9D%97%95%F0%9D%97%B2%F0%9D%97%B0%F0%9D%97%BC%F0%9D%97%BA%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B4-activity-7461626556336033795-LDNK",
+      "source": "LinkedIn",
+      "description": "Your Roadmap to Becoming an Azure Data Engineer Looking to build a career as an Azure Data Engineer ? Here's your step-by-step guide to help you ...",
+      "date": "2026-05-17",
+      "timestamp": "2026-05-17T09:57:16+00:00",
+      "fetched_at": "2026-05-17T20:37:05.495792+00:00"
     },
     {
       "id": "26040257d555",
@@ -167,6 +347,21 @@
       "date": "2026-05-17",
       "timestamp": "2026-05-17T09:08:18+00:00",
       "fetched_at": "2026-05-17T16:41:40.201120+00:00"
+    },
+    {
+      "id": "005e570543c8",
+      "title": "Senior Software Engineer @ EliseAI - Jobs",
+      "company": "Eliseai",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/EliseAI/3e8782a8-f397-413d-8939-ab5e4913d954?utm_source=MjJDNn1Q2W",
+      "source": "Ashby",
+      "description": "... Software Engineer at EliseAI, you won't just write code; you'll build software that improves business operations and makes a real impact on ...",
+      "date": "2026-05-17",
+      "timestamp": "2026-05-17T08:22:58+00:00",
+      "fetched_at": "2026-05-17T20:37:05.415062+00:00"
     },
     {
       "id": "882cd67eaed3",
