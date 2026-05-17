@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-05-17T01:44:39.445917+00:00",
-  "total_jobs": 1888,
+  "last_updated": "2026-05-17T06:37:58.581155+00:00",
+  "total_jobs": 1898,
   "stats": {
-    "total_companies": 1122,
+    "total_companies": 1131,
     "total_roles": 46,
     "regions": {
-      "India": 1136,
-      "Philippines": 376,
-      "Remote": 248,
+      "India": 1144,
+      "Philippines": 377,
+      "Remote": 249,
       "Unknown": 135
     },
     "sources": {
-      "Other": 1468,
-      "Greenhouse": 100,
+      "Other": 1477,
+      "Greenhouse": 101,
       "Workday": 86,
       "LinkedIn": 72,
       "Ashby": 64,
@@ -29,10 +29,100 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-05-16"
+      "latest": "2026-05-17"
     }
   },
   "jobs": [
+    {
+      "id": "869fad7c758e",
+      "title": "Senior Software Engineer (Perception Architecture) \u2013 Stack AV - Welcome to the Jungle",
+      "company": "Welcome to the Jungle",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.welcometothejungle.com/en/companies/stack-av/jobs/senior-software-engineer-perception-architecture_pittsburgh_bor5gkk6",
+      "source": "Other",
+      "description": "Senior Software Engineer (Perception Architecture). Permanent contract. Pittsburgh\u2026+1. Fully-remote. Salary: Not specified. Experience: > 1 year.",
+      "date": "2026-05-17",
+      "timestamp": "2026-05-17T05:52:14+00:00",
+      "fetched_at": "2026-05-17T06:37:58.495730+00:00"
+    },
+    {
+      "id": "004f1272c591",
+      "title": "Staff Software Engineer , Gameplay Meta - Unpublished R&D Product | Riot Games",
+      "company": "Unpublished R&D Product | Riot Games",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.riotgames.com/ms/work-with-us/job/7773543/staff-software-engineer-gameplay-meta-unpublished-r-d-product-mercer-island-usa",
+      "source": "Other",
+      "description": "Staff Software Engineer , Gameplay Meta - Unpublished R&D Product. Mercer Island, USA. Job Id: REQ-0009916. Riot Engineers bring deep technical ...",
+      "date": "2026-05-17",
+      "timestamp": "2026-05-17T04:04:58+00:00",
+      "fetched_at": "2026-05-17T06:37:58.496087+00:00"
+    },
+    {
+      "id": "340c3c91d86e",
+      "title": "Principal AI Accelerator Software Engineer -Graph Optimization - Ampere Careers",
+      "company": "Graph Optimization - Ampere Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.amperecomputing.com/jobs/17747736-principal-ai-accelerator-software-engineer-graph-optimization",
+      "source": "Other",
+      "description": "Principal AI Accelerator Software Engineer -Graph Optimization \u00b7 Optimize deep learning computational graphs for performance, throughput, and latency on ...",
+      "date": "2026-05-17",
+      "timestamp": "2026-05-17T03:06:28+00:00",
+      "fetched_at": "2026-05-17T06:37:58.496399+00:00"
+    },
+    {
+      "id": "47b37fda514e",
+      "title": "[ Software Engineer ][Texas, USA] - $450,000 : r/Salary - Reddit",
+      "company": "$450,000 : r/Salary - Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/Salary/comments/1teqo8r/software_engineertexas_usa_450000/",
+      "source": "Other",
+      "description": "[ Data Engineer ] [TX, USA] - 370k + bonus. 229 upvotes \u00b7 48 comments ... [ Senior Software Engineer ] [VA, USA] - $132,600. 16 upvotes \u00b7 40 ...",
+      "date": "2026-05-17",
+      "timestamp": "2026-05-17T01:10:27+00:00",
+      "fetched_at": "2026-05-17T06:37:58.496583+00:00"
+    },
+    {
+      "id": "2b9363ffcea2",
+      "title": "DevOps Engineer job - Experis USA - 397999",
+      "company": "Experis USA - 397999",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.experis.com/en/job/397999/devops-engineer",
+      "source": "Other",
+      "description": "As a DevOps Engineer , you will be part of the Infrastructure and Quality Engineering department supporting innovative cloud infrastructure projects.",
+      "date": "2026-05-17",
+      "timestamp": "2026-05-17T00:55:16+00:00",
+      "fetched_at": "2026-05-17T06:37:58.496708+00:00"
+    },
+    {
+      "id": "9bd952bd10c3",
+      "title": "Full Stack Engineer job - Experis USA - 397764",
+      "company": "Experis USA - 397764",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.experis.com/en/job/397764/full-stack-engineer",
+      "source": "Other",
+      "description": "As a Full Stack Engineer , you will be part of the Asset Management Technology department supporting investment management and data analytics functions ...",
+      "date": "2026-05-17",
+      "timestamp": "2026-05-17T00:55:11+00:00",
+      "fetched_at": "2026-05-17T06:37:58.496840+00:00"
+    },
     {
       "id": "28e08e1f11d7",
       "title": "Software Engineer Sr Staff - Lockheed Martin Careers",
@@ -49,6 +139,21 @@
       "fetched_at": "2026-05-17T01:44:39.337427+00:00"
     },
     {
+      "id": "e4a276f1eefd",
+      "title": "Platform Engineer - - 124649 - Booz | Allen | Hamilton \u00ae - Careers",
+      "company": "- 124649 - Booz | Allen | Hamilton \u00ae - Careers",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.boozallen.com/careers/JobDetail/Colorado-Springs-Platform-Engineer-R0240174/124649",
+      "source": "Other",
+      "description": "As a Platform Engineer , you will help design, develop, and enhance a modern application platform leveraging\u2011 Kubernetes, container services, and ...",
+      "date": "2026-05-16",
+      "timestamp": "2026-05-16T22:42:04+00:00",
+      "fetched_at": "2026-05-17T06:37:58.497295+00:00"
+    },
+    {
       "id": "53b71dbf8d83",
       "title": "Data Engineer - I, DAVENGERS(Data Avengers) - Job ID: 10421880 | Amazon.jobs",
       "company": "I, DAVENGERS(Data Avengers) - Job ID: 10421880 | Amazon.jobs",
@@ -62,6 +167,21 @@
       "date": "2026-05-16",
       "timestamp": "2026-05-16T22:20:11+00:00",
       "fetched_at": "2026-05-17T01:44:39.337724+00:00"
+    },
+    {
+      "id": "0e73fa3db7f8",
+      "title": "Software Engineer , Core AI Compiler & Runtime, Pre-Silicon - Tesla",
+      "company": "Silicon - Tesla",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.tesla.com/careers/search/job/270299?source=Circa",
+      "source": "Other",
+      "description": "As a Software Engineer within our Autonomy teams, you will contribute to one of the most advanced and widely deployed AI Platforms in the world ...",
+      "date": "2026-05-16",
+      "timestamp": "2026-05-16T21:52:18+00:00",
+      "fetched_at": "2026-05-17T06:37:58.497748+00:00"
     },
     {
       "id": "0584839aa71f",
@@ -124,6 +244,21 @@
       "fetched_at": "2026-05-17T01:44:39.338350+00:00"
     },
     {
+      "id": "bb907c73acb4",
+      "title": "Job Application for Full Stack Software Engineer , Data at SpaceX - Greenhouse",
+      "company": "Spacex",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/spacex/jobs/8553026002",
+      "source": "Greenhouse",
+      "description": "Full Stack Software Engineer , Data \u00b7 Develop highly reliable and scalable data analysis libraries, systems, and data pipelines, to empower engineers ...",
+      "date": "2026-05-16",
+      "timestamp": "2026-05-16T19:39:49+00:00",
+      "fetched_at": "2026-05-17T06:37:58.571782+00:00"
+    },
+    {
       "id": "b531ea9dc7c9",
       "title": "AI Engineer - San Diego, California, United States - 39780 - Jacobs",
       "company": "San Diego, California, United States - 39780 - Jacobs",
@@ -167,6 +302,21 @@
       "date": "2026-05-16",
       "timestamp": "2026-05-16T18:19:29+00:00",
       "fetched_at": "2026-05-17T01:44:39.436223+00:00"
+    },
+    {
+      "id": "9c6102663731",
+      "title": "Senior Data Engineer (Python+GCP + French) @ Syone - Deel",
+      "company": "Syone",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.deel.com/syone/job-details/0d27df5e-f9d8-4b6a-a328-cc48a7ea478c/overview",
+      "source": "Other",
+      "description": "We're looking for a Data Engineer with strong Python skills and hands-on experience in Google Cloud Platform (GCP) to help design and maintain ...",
+      "date": "2026-05-16",
+      "timestamp": "2026-05-16T18:10:05+00:00",
+      "fetched_at": "2026-05-17T06:37:58.498785+00:00"
     },
     {
       "id": "7f3652941ffd",
