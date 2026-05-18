@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-05-18T14:47:37.813520+00:00",
-  "total_jobs": 1984,
+  "last_updated": "2026-05-18T17:49:26.083374+00:00",
+  "total_jobs": 1997,
   "stats": {
-    "total_companies": 1179,
+    "total_companies": 1184,
     "total_roles": 47,
     "regions": {
-      "India": 1199,
+      "India": 1211,
       "Philippines": 399,
-      "Remote": 259,
+      "Remote": 260,
       "Unknown": 135
     },
     "sources": {
-      "Other": 1540,
+      "Other": 1549,
       "Greenhouse": 107,
-      "Workday": 90,
-      "LinkedIn": 75,
+      "Workday": 91,
+      "LinkedIn": 76,
       "Ashby": 71,
+      "Breezy": 23,
       "Lever": 21,
-      "Breezy": 21,
       "iCIMS": 20,
       "Workable": 12,
       "Indeed": 12,
@@ -33,6 +33,186 @@
     }
   },
   "jobs": [
+    {
+      "id": "37bc68cd7434",
+      "title": "Data Engineer - Myworkdayjobs.com",
+      "company": "Stord",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://stord.wd503.myworkdayjobs.com/Stord_External_Career/job/Remote-United-States/Data-Engineer_JR101967",
+      "source": "Workday",
+      "description": "... Data Engineer to join our dynamic and innovative team and help us re-shape data at Stord. As a Senior Data Engineer at Stord, you will be the ...",
+      "date": "2026-05-18",
+      "timestamp": "2026-05-18T17:38:12+00:00",
+      "fetched_at": "2026-05-18T17:49:25.918862+00:00"
+    },
+    {
+      "id": "54a0cec57f77",
+      "title": "Senior Software Engineer at Beli",
+      "company": "Beli",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://beli.breezy.hr/p/88951770ccfa-senior-software-engineer",
+      "source": "Breezy",
+      "description": "Senior Software Engineer . New York, NY; Full-Time; $180k - $240k / year. Job Openings; Senior Software Engineer . Apply To Position; Use My Indeed ...",
+      "date": "2026-05-18",
+      "timestamp": "2026-05-18T17:22:05+00:00",
+      "fetched_at": "2026-05-18T17:49:25.919743+00:00"
+    },
+    {
+      "id": "8b34d740fdb6",
+      "title": "Senior Software Engineer - Beli",
+      "company": "Beli",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://beli.breezy.hr/p/88951770ccfa-senior-software-engineer/apply",
+      "source": "Breezy",
+      "description": "Senior Software Engineer . New York, NY; Full-Time; $180k - $240k / year. Job Openings \u00b7 Senior Software Engineer ; Apply. Upload Resume*. Use My Indeed ...",
+      "date": "2026-05-18",
+      "timestamp": "2026-05-18T17:04:03+00:00",
+      "fetched_at": "2026-05-18T17:49:25.919874+00:00"
+    },
+    {
+      "id": "448bc78743f0",
+      "title": "Senior Data Engineer - TEKEngineersInc - Hybrid in Austin, TX, US | Dice.com",
+      "company": "Senior Data Engineer",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.dice.com/job-detail/cf0ea35d-75e4-4f3f-b3b6-98adf9cd00f4",
+      "source": "Other",
+      "description": "Senior Data Engineer in Austin, TX with at least 10+ years of experience as a senior data engineer and 10 years working hands on with Azure cloud ...",
+      "date": "2026-05-18",
+      "timestamp": "2026-05-18T16:38:58+00:00",
+      "fetched_at": "2026-05-18T17:49:25.920218+00:00"
+    },
+    {
+      "id": "a36f3510ed21",
+      "title": "Senior Full Stack Engineer , Westlake, TX | Fidelity Careers",
+      "company": "Fidelity Careers",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.fidelity.com/en/jobs/2128394/senior-full-stack-engineer/",
+      "source": "Other",
+      "description": "... Senior Software Engineer to join their team to deliver next generation ... Senior Full Stack Engineer . Published: May 18. ID: 2128394. Time ...",
+      "date": "2026-05-18",
+      "timestamp": "2026-05-18T15:50:32+00:00",
+      "fetched_at": "2026-05-18T17:49:25.920704+00:00"
+    },
+    {
+      "id": "71c4c79f642d",
+      "title": "Senior Embedded Software Engineer in Dahlgren, Virginia, United States - SAIC Careers",
+      "company": "SAIC Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.saic.com/jobs/17751255-senior-embedded-software-engineer",
+      "source": "Other",
+      "description": "Job Description. Description. SAIC is seeking an Embedded Software Engineer in Dahlgren, VA. Responsibilities. \u2022 Design, implement, and test embedded ...",
+      "date": "2026-05-18",
+      "timestamp": "2026-05-18T15:38:00+00:00",
+      "fetched_at": "2026-05-18T17:49:25.920888+00:00"
+    },
+    {
+      "id": "e8c72b5a6e1e",
+      "title": "Data Engineer 1 | Schwab Jobs",
+      "company": "Schwab Jobs",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.schwabjobs.com/job/austin/data-engineer-1/33727/95252993568",
+      "source": "Other",
+      "description": "Data Engineer 1. Austin, TX. Requisition ID 2026-122047 Category Engineering & Software Development Position type Regular Pay range USD $45.67 ...",
+      "date": "2026-05-18",
+      "timestamp": "2026-05-18T15:37:42+00:00",
+      "fetched_at": "2026-05-18T17:49:25.921017+00:00"
+    },
+    {
+      "id": "0f6400966ab4",
+      "title": "Principal Software Engineer in Dublin 18, Ireland | Engineering at Mastercard",
+      "company": "Mastercard",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mastercard.com/us/en/job/R-276472/Principal-Software-Engineer",
+      "source": "Other",
+      "description": "The Virtual Card Management team are seeking a visionary and results-driven Principal Software Engineer (Architecture) to lead architecture for a ...",
+      "date": "2026-05-18",
+      "timestamp": "2026-05-18T14:21:41+00:00",
+      "fetched_at": "2026-05-18T17:49:25.921162+00:00"
+    },
+    {
+      "id": "5b68a80445ad",
+      "title": "Senior Software Engineer | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.apexsystems.com/job/3034787_usa/senior-software-engineer",
+      "source": "Other",
+      "description": "Job title: Senior Software Engineer . Employment type: Contract. Pricing (internal recruiter guidance): Low Bill Rate: $145/hr; High Bill Rate: ...",
+      "date": "2026-05-18",
+      "timestamp": "2026-05-18T14:18:24+00:00",
+      "fetched_at": "2026-05-18T17:49:25.921291+00:00"
+    },
+    {
+      "id": "b095219a3410",
+      "title": "ai engineer singapore just wrapped, and i still don't think i've fully processed it | Sherry Jiang",
+      "company": "Sherry Jiang",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/sherrypeek_ai-engineer-singapore-just-wrapped-and-i-activity-7462070768751915008-kUxL",
+      "source": "LinkedIn",
+      "description": "ai engineer singapore just wrapped, and i still don't think i've fully processed it - or recovered from the sleep deprivation. this was a labor of ...",
+      "date": "2026-05-18",
+      "timestamp": "2026-05-18T13:54:27+00:00",
+      "fetched_at": "2026-05-18T17:49:25.921593+00:00"
+    },
+    {
+      "id": "a5ba00ffa09a",
+      "title": "Software Engineer in Bangalore, India | Product and Engineering at Cisco - Cisco Careers",
+      "company": "Cisco",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/2014365/Software-Engineer",
+      "source": "Other",
+      "description": "As a Platform Engineer , you will contribute to the ... Join our team as a Senior Software Engineer specializing in C/C++ Networking & Security.",
+      "date": "2026-05-18",
+      "timestamp": "2026-05-18T13:52:48+00:00",
+      "fetched_at": "2026-05-18T17:49:25.921698+00:00"
+    },
+    {
+      "id": "127e76cbf94a",
+      "title": "IT Data Engineer -Level 2 Job Details - Cintas",
+      "company": "Level 2 Job Details - Cintas",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cintas.com/job/Mason-IT-Data-Engineer-Level-2-OH-45040/1391722400/",
+      "source": "Other",
+      "description": "Cintas is seeking a IT Data Engineer -Level 2 who will be primarily working on small to large, complex projects that require increased skills in ...",
+      "date": "2026-05-18",
+      "timestamp": "2026-05-18T13:15:34+00:00",
+      "fetched_at": "2026-05-18T17:49:25.921855+00:00"
+    },
     {
       "id": "77f3ee667c25",
       "title": "Senior Software Engineer , Google Distributed Cloud",
@@ -77,6 +257,21 @@
       "date": "2026-05-18",
       "timestamp": "2026-05-18T12:51:46+00:00",
       "fetched_at": "2026-05-18T14:47:37.731688+00:00"
+    },
+    {
+      "id": "4174bef05189",
+      "title": "DevOps Engineer - Careers at Moody's",
+      "company": "Moody's",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.moodys.com/en/job/bengaluru/devops-engineer/49841/95239879648",
+      "source": "Other",
+      "description": "DevOps Engineer . Bengaluru, Karnataka. Apply now. Save job. Posted: 05/18/2026 ... Senior Software Engineer . Bengaluru, India. Save for Later. DevOps ...",
+      "date": "2026-05-18",
+      "timestamp": "2026-05-18T12:51:46+00:00",
+      "fetched_at": "2026-05-18T17:49:25.922284+00:00"
     },
     {
       "id": "ccfaa09c50db",
