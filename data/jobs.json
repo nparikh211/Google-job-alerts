@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-05-17T20:37:05.506399+00:00",
-  "total_jobs": 1929,
+  "last_updated": "2026-05-18T01:53:16.180412+00:00",
+  "total_jobs": 1940,
   "stats": {
-    "total_companies": 1151,
+    "total_companies": 1155,
     "total_roles": 47,
     "regions": {
-      "India": 1168,
-      "Philippines": 382,
-      "Remote": 251,
+      "India": 1175,
+      "Philippines": 385,
+      "Remote": 252,
       "Unknown": 135
     },
     "sources": {
-      "Other": 1497,
+      "Other": 1505,
       "Greenhouse": 104,
       "Workday": 90,
       "LinkedIn": 74,
-      "Ashby": 66,
+      "Ashby": 68,
       "Breezy": 21,
+      "Lever": 20,
       "iCIMS": 20,
-      "Lever": 19,
       "Indeed": 12,
       "Workable": 11,
       "SmartRecruiters": 10,
@@ -29,10 +29,100 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-05-17"
+      "latest": "2026-05-18"
     }
   },
   "jobs": [
+    {
+      "id": "9cadb1582569",
+      "title": "What career can I pivot to as a Software Engineer with few years of experience? - Reddit",
+      "company": "career can I pivot to as a Software Engineer with few years of experience?",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/jobs/comments/1tg6rbt/what_career_can_i_pivot_to_as_a_software_engineer/",
+      "source": "Other",
+      "description": "Senior Data Engineer , 8 years experience, 2 STEM ... Senior software engineer with 12 years of experience but still a below average developer.",
+      "date": "2026-05-18",
+      "timestamp": "2026-05-18T00:54:40+00:00",
+      "fetched_at": "2026-05-18T01:53:15.806442+00:00"
+    },
+    {
+      "id": "d434adbcee01",
+      "title": "AI Engineer vs ML Engineer - YouTube",
+      "company": "YouTube",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.youtube.com/shorts/kzdeGNUuVmM",
+      "source": "Other",
+      "description": "AI Engineer vs ML Engineer . 36. Dislike. 2. Share. Video unavailable. This content isn't available. Skip video. Follow & Comment \"Projects\" for ...",
+      "date": "2026-05-17",
+      "timestamp": "2026-05-17T22:26:27+00:00",
+      "fetched_at": "2026-05-18T01:53:15.807211+00:00"
+    },
+    {
+      "id": "fa01ef71f24b",
+      "title": "Roadmap for Software Engineer : r/jobs - Reddit",
+      "company": "Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/jobs/comments/1tg2yz7/roadmap_for_software_engineer/",
+      "source": "Other",
+      "description": "Software Engineer or Data Engineer Career Choice? r/cscareerquestions. \u2022 2mo ago. Software Engineer or Data Engineer Career Choice? 10. 19. I need to ...",
+      "date": "2026-05-17",
+      "timestamp": "2026-05-17T22:12:44+00:00",
+      "fetched_at": "2026-05-18T01:53:15.807527+00:00"
+    },
+    {
+      "id": "53735f548d12",
+      "title": "Software Engineer I - JPMC Candidate Experience page Careers",
+      "company": "JPMC Candidate Experience page Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/210742917",
+      "source": "Other",
+      "description": "Software Engineer I. Mumbai, Maharashtra, India. Apply Now. Job Information. Job Identification 210742917; Job Category Software Engineering; Business ...",
+      "date": "2026-05-17",
+      "timestamp": "2026-05-17T22:03:55+00:00",
+      "fetched_at": "2026-05-18T01:53:15.807804+00:00"
+    },
+    {
+      "id": "a9652df4570a",
+      "title": "Senior Software Engineer (DAS) - Omnidian - Lever",
+      "company": "Omnidian",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.lever.co/omnidian/1f36706d-61a0-48fd-928d-11ea650295b1",
+      "source": "Lever",
+      "description": "If you are a backend engineer who is data-curious\u2014or already data ... Senior Software Engineer ; Staff Software Engineer ; Principal Software ...",
+      "date": "2026-05-17",
+      "timestamp": "2026-05-17T20:10:23+00:00",
+      "fetched_at": "2026-05-18T01:53:15.807997+00:00"
+    },
+    {
+      "id": "a256acc0cd79",
+      "title": "Data Engineer @ Mercor - Jobs",
+      "company": "Mercor",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/mercor/7d9d9439-848b-4fb4-b276-9efc71bb7148?ref=jobsbyculture.com",
+      "source": "Ashby",
+      "description": "... Software Engineer supporting our Data function, you will be responsible for creating and maintaining pipelines that enable our Data Science ...",
+      "date": "2026-05-17",
+      "timestamp": "2026-05-17T19:53:17+00:00",
+      "fetched_at": "2026-05-18T01:53:16.170021+00:00"
+    },
     {
       "id": "48c2195cac45",
       "title": "DevOps Engineer , DOCA",
@@ -109,6 +199,36 @@
       "fetched_at": "2026-05-17T20:37:05.412211+00:00"
     },
     {
+      "id": "ab8cbff47ccd",
+      "title": "Software Engineer , Information Experience - Cisco Careers",
+      "company": "Cisco Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/2013025/Software-Engineer-Information-Experience",
+      "source": "Other",
+      "description": "Join our team as a Senior Software Engineer , Infrastructure and drive the transformation of multi-cloud and on-premises platforms. Leverage your ...",
+      "date": "2026-05-17",
+      "timestamp": "2026-05-17T17:18:18+00:00",
+      "fetched_at": "2026-05-18T01:53:16.170801+00:00"
+    },
+    {
+      "id": "b36f3a6cde7d",
+      "title": "Senior ML Software Engineer , Data Plane - Job ID: 10420847 - Amazon Careers",
+      "company": "Job ID: 10420847 - Amazon Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.amazon.jobs/en/jobs/10420847/senior-ml-software-engineer-data-plane",
+      "source": "Other",
+      "description": "Senior ML Software Engineer , Data Plane. Job ID: 10420847 | Annapurna ... Machine Learning Engineer , AWS Applied AI Solution. Location: USA, WA ...",
+      "date": "2026-05-17",
+      "timestamp": "2026-05-17T16:25:24+00:00",
+      "fetched_at": "2026-05-18T01:53:16.170964+00:00"
+    },
+    {
       "id": "ff6170790a41",
       "title": "System Software Engineer , Graviton Team - Job ID: 10421911 - Amazon Careers",
       "company": "Job ID: 10421911 - Amazon Careers",
@@ -124,6 +244,21 @@
       "fetched_at": "2026-05-17T16:41:40.199406+00:00"
     },
     {
+      "id": "d032c6856bda",
+      "title": "Experienced Software Engineer Java / Python (Full Stack or Back End) - JPMorgan Chase",
+      "company": "JPMorgan Chase",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210682693/?ref=Boooom.co",
+      "source": "Other",
+      "description": "As an Experienced Software Engineer at JPMorganChase within the Global Technology team, you serve as member of an agile team to design and deliver ...",
+      "date": "2026-05-17",
+      "timestamp": "2026-05-17T16:04:48+00:00",
+      "fetched_at": "2026-05-18T01:53:15.810205+00:00"
+    },
+    {
       "id": "f69f01a6d309",
       "title": "Job Application for Senior Software Engineer , Privacy.com at Privacy - Greenhouse",
       "company": "Privacy",
@@ -137,6 +272,21 @@
       "date": "2026-05-17",
       "timestamp": "2026-05-17T15:51:16+00:00",
       "fetched_at": "2026-05-17T20:37:05.412486+00:00"
+    },
+    {
+      "id": "abaf32daa664",
+      "title": "Lead Software Engineer - Java, AWS, SpringBoot - JPMorgan Chase",
+      "company": "Java, AWS, SpringBoot - JPMorgan Chase",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210747488/",
+      "source": "Other",
+      "description": "Lead Software Engineer - Java, AWS, SpringBoot. Mumbai, Maharashtra, India. and 1 more. Apply Now. Job Identification 210747488; Job Category Software ...",
+      "date": "2026-05-17",
+      "timestamp": "2026-05-17T15:48:41+00:00",
+      "fetched_at": "2026-05-18T01:53:15.810659+00:00"
     },
     {
       "id": "c368d413210c",
@@ -167,6 +317,21 @@
       "date": "2026-05-17",
       "timestamp": "2026-05-17T15:21:21+00:00",
       "fetched_at": "2026-05-17T20:37:05.493321+00:00"
+    },
+    {
+      "id": "362e535857db",
+      "title": "Site Reliability Engineer @ Legora AB - Jobs",
+      "company": "Legora",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.ashbyhq.com/legora/5dbc669c-9af2-4430-ba23-fd02a77b259e?utm_source=oneremotejobs.com&utm_medium=job_board&utm_campaign=job_application&ref=oneremotejobs.com",
+      "source": "Ashby",
+      "description": "... Site Reliability Engineer at Legora you'll join the founding SRE team at our new NYC engineering hub, working within Foundations to keep our ...",
+      "date": "2026-05-17",
+      "timestamp": "2026-05-17T15:15:32+00:00",
+      "fetched_at": "2026-05-18T01:53:15.811081+00:00"
     },
     {
       "id": "b5b5ca275439",
