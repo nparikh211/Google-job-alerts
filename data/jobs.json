@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-05-19T17:54:15.509041+00:00",
-  "total_jobs": 2070,
+  "last_updated": "2026-05-19T21:08:38.841075+00:00",
+  "total_jobs": 2082,
   "stats": {
-    "total_companies": 1221,
+    "total_companies": 1229,
     "total_roles": 47,
     "regions": {
-      "India": 1261,
-      "Philippines": 418,
-      "Remote": 264,
+      "India": 1268,
+      "Philippines": 422,
+      "Remote": 266,
       "Unknown": 135
     },
     "sources": {
-      "Other": 1605,
+      "Other": 1613,
       "Greenhouse": 110,
-      "Workday": 96,
+      "Workday": 98,
       "LinkedIn": 80,
-      "Ashby": 72,
+      "Ashby": 73,
       "Breezy": 25,
       "iCIMS": 21,
       "Lever": 21,
@@ -24,6 +24,7 @@
       "SmartRecruiters": 10,
       "Jobvite": 2,
       "Recruitee": 2,
+      "BrassRing": 1,
       "Taleo": 1,
       "ADP": 1
     },
@@ -33,6 +34,127 @@
     }
   },
   "jobs": [
+    {
+      "id": "8cfa2e6eef44",
+      "title": "Machine Learning Engineer - 63865 - MANTECH",
+      "company": "63865 - MANTECH",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mantech.com/en_US/careers/JobDetail/Machine-Learning-Engineer/63865",
+      "source": "Other",
+      "description": "MANTECH seeks a motivated, career and customer-oriented Machine Learning Engineer to join our team. The Machine Learning Engineer will leverage ...",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T20:17:47+00:00",
+      "fetched_at": "2026-05-19T21:08:38.627898+00:00"
+    },
+    {
+      "id": "988c3715c044",
+      "title": "AI Engineer | Mortenson",
+      "company": "Mortenson",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.mortenson.com/careers/hq-business-support/ai-engineer-22447",
+      "source": "Other",
+      "description": "Mortenson is currently seeking an AI Engineer that will play a key role in developing, testing, and deploying AI solutions that enhance decision- ...",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T19:41:38+00:00",
+      "fetched_at": "2026-05-19T21:08:38.628174+00:00"
+    },
+    {
+      "id": "8e5c1b8cb0fb",
+      "title": "Full Stack Engineer (Remote) | Lititz, PA - Clark Associates | Careers",
+      "company": "Lititz, PA - Clark Associates | Careers",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Philippines",
+        "Remote"
+      ],
+      "link": "https://careers.clarkassociatesinc.biz/careerdetail/?id=101551",
+      "source": "Other",
+      "description": "Job Summary. We're looking for a Full Stack Engineer to join our Warehouse Optimization team, which develops services that support and streamline the ...",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T18:45:16+00:00",
+      "fetched_at": "2026-05-19T21:08:38.628635+00:00"
+    },
+    {
+      "id": "6e6f8ae4df64",
+      "title": "Platform Engineer , Merrimack, NH / Westlake, TX | Fidelity Careers",
+      "company": "Fidelity Careers",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.fidelity.com/en/jobs/2128835/platform-engineer/",
+      "source": "Other",
+      "description": "Principal, Cloud Engineer - Observability. Save Saved. Technology Published: May 26; Merrimack, NH / Westlake, TX. Details \u00b7 Principal, Data Engineer .",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T18:34:57+00:00",
+      "fetched_at": "2026-05-19T21:08:38.628797+00:00"
+    },
+    {
+      "id": "75ff8bff52bb",
+      "title": "Lead Software Engineer (Go, AWS) - McLean - Capital One Career",
+      "company": "McLean - Capital One Career",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.capitalonecareers.com/job/mclean/lead-software-engineer-go-aws/1732/95289963840",
+      "source": "Other",
+      "description": "Overview. Lead Software Engineer (Go, AWS). Do you love building and pioneering in the technology space? Do you enjoy solving complex business ...",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T18:32:27+00:00",
+      "fetched_at": "2026-05-19T21:08:38.628978+00:00"
+    },
+    {
+      "id": "c187e387481e",
+      "title": "AI Engineer @ Metriport - Jobs",
+      "company": "Metriport",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/metriport/d89fa823-9872-460b-a322-809e69e08598",
+      "source": "Ashby",
+      "description": "AI Engineer . Location. San Francisco. Employment Type. Full time ... You're a strong full-stack engineer first, AI engineer second. You can ...",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T18:13:51+00:00",
+      "fetched_at": "2026-05-19T21:08:38.830198+00:00"
+    },
+    {
+      "id": "8a6f31400890",
+      "title": "AI/ ML Engineer - Myworkdayjobs.com",
+      "company": "Guidehouse",
+      "role": "ML Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/AI-ML-Engineer_39609",
+      "source": "Workday",
+      "description": "The Border Security AI/ ML Engineer will join a dynamic team supporting U.S Federal border security customers. In this role, the candidate will ...",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T17:14:41+00:00",
+      "fetched_at": "2026-05-19T21:08:38.830641+00:00"
+    },
+    {
+      "id": "177b6b32d48b",
+      "title": "Software Engineer - Myworkdayjobs.com",
+      "company": "Autodesk",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Software-Engineer_26WD97950-1",
+      "source": "Workday",
+      "description": "Job Requisition ID # 26WD97950 Job Description: Software Engineer Overview We are looking for a Software Engineer to contribute to the design, ...",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T17:06:39+00:00",
+      "fetched_at": "2026-05-19T21:08:38.830729+00:00"
+    },
     {
       "id": "741ff5a7b0a6",
       "title": "Software Engineer - Myworkdayjobs.com",
@@ -64,6 +186,51 @@
       "fetched_at": "2026-05-19T17:54:15.242085+00:00"
     },
     {
+      "id": "2bf548e60581",
+      "title": "Data Engineer / Data Scientist - MLOps & Machine Learning Charlotte North Carolina",
+      "company": "MLOps & Machine Learning Charlotte North Carolina",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://bhsg.com/jobs/job/ns-dstb-ns_1779141647-data-engineer-data-scientist-mlops-machine-learning-charlotte-north-carolina/",
+      "source": "Other",
+      "description": "Data Engineer / Data Scientist - MLOps & Machine Learning Charlotte ... Cloud Engineer / Site Reliability Engineer (SRE). Temporary/Contract.",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T17:00:07+00:00",
+      "fetched_at": "2026-05-19T21:08:38.629621+00:00"
+    },
+    {
+      "id": "a33b7abe44c0",
+      "title": "Software Engineer | TomTom",
+      "company": "TomTom",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.tomtom.com/careers/jobdetails/6a277ac9-65ec-45e3-8c49-eee1c2a4bd0b/software-engineer/",
+      "source": "Other",
+      "description": "Software Engineer . Location: Amsterdam, The Netherlands; Contract: Employee, Full Time; Category: Engineering; Team: Customer Experience; Department ...",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T16:59:36+00:00",
+      "fetched_at": "2026-05-19T21:08:38.629793+00:00"
+    },
+    {
+      "id": "bbd882f3ade2",
+      "title": "Senior Software Engineer , Smart TV - Hsinchu, Taiwan | Roku Jobs",
+      "company": "Hsinchu, Taiwan | Roku Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.weareroku.com/jobs/senior-software-engineer-smart-tv-hsinchu-taiwan-227db685-79b5-44f5-b35c-7e77bb038fe5",
+      "source": "Other",
+      "description": "Senior Software Engineer , Smart TV. Software Engineering | Hsinchu ... Senior Data Engineer , Austin, Texas. Product Strategy and Operations ...",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T16:43:01+00:00",
+      "fetched_at": "2026-05-19T21:08:38.630116+00:00"
+    },
+    {
       "id": "ef6992ff73e7",
       "title": "Software Engineer - Travis Credit Union Careers - Jobvite",
       "company": "Travis Credit Union",
@@ -92,6 +259,21 @@
       "date": "2026-05-19",
       "timestamp": "2026-05-19T16:22:33+00:00",
       "fetched_at": "2026-05-19T17:54:15.498673+00:00"
+    },
+    {
+      "id": "be6ce5a3fab6",
+      "title": "Machine Learning Engineer - Remote | Harbor Freight Tools - jobs.brassring.com",
+      "company": "Remote | Harbor Freight Tools - jobs.brassring.com",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26281&siteid=6660&PageType=JobDetails&jobid=1408905",
+      "source": "BrassRing",
+      "description": "Machine Learning Engineer - Remote. 26677 Agoura Road. Calabasas. CA. Job Description. The ML Engineer is responsible for the overall development ...",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T15:56:54+00:00",
+      "fetched_at": "2026-05-19T21:08:38.630433+00:00"
     },
     {
       "id": "891a66900100",
