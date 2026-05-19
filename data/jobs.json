@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-05-19T01:53:36.319578+00:00",
-  "total_jobs": 2023,
+  "last_updated": "2026-05-19T07:33:28.417746+00:00",
+  "total_jobs": 2043,
   "stats": {
-    "total_companies": 1200,
+    "total_companies": 1209,
     "total_roles": 47,
     "regions": {
-      "India": 1230,
-      "Philippines": 404,
-      "Remote": 262,
+      "India": 1243,
+      "Philippines": 410,
+      "Remote": 263,
       "Unknown": 135
     },
     "sources": {
-      "Other": 1568,
+      "Other": 1585,
       "Greenhouse": 108,
-      "Workday": 93,
-      "LinkedIn": 78,
+      "Workday": 94,
+      "LinkedIn": 80,
       "Ashby": 72,
       "Breezy": 23,
       "iCIMS": 21,
@@ -34,6 +34,141 @@
   },
   "jobs": [
     {
+      "id": "0d5c83303502",
+      "title": "Data Engineer Jobs and Careers at SharkNinja in United States",
+      "company": "SharkNinja in United States",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.sharkninja.com/job/united-states/data-engineer/47204/95260665600",
+      "source": "Other",
+      "description": "SharkNinja is seeking a Data Engineer /Architect to play a critical role in evolving our data infrastructure and analytics capabilities. This position ...",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T06:07:24+00:00",
+      "fetched_at": "2026-05-19T07:33:28.406422+00:00"
+    },
+    {
+      "id": "d580a98ed981",
+      "title": "Lead Data Engineer - Data Transformation (Modeling and Architecture) at Capital One",
+      "company": "Capital One",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.capitalonecareers.com/job/richmond/lead-data-engineer-data-transformation-modeling-and-architecture/1732/95268758960",
+      "source": "Other",
+      "description": "Senior Lead AI Engineer (Gen AI Platform Services). San Jose, California \u00b7 93687685088. Lead Machine Learning Engineer (MLOps, KServe + building ...",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T06:04:20+00:00",
+      "fetched_at": "2026-05-19T07:33:28.406704+00:00"
+    },
+    {
+      "id": "8f6e8eb62270",
+      "title": "Senior Software Engineer , Site Reliability Engineer | Shanshan Song - LinkedIn",
+      "company": "Shanshan Song - LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/shanshansong_senior-software-engineer-site-reliability-activity-7461937688963612672-RQJI",
+      "source": "LinkedIn",
+      "description": "... Senior Software Engineer , Core Infrastructure https://lnkd.in/gAPWSuZX ... Lead AI Engineer | Ph.D. Candidate - AI, Edge Devices | AWS ...",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T05:39:28+00:00",
+      "fetched_at": "2026-05-19T07:33:28.406975+00:00"
+    },
+    {
+      "id": "026978b9e36f",
+      "title": "Software Engineer Intern (Summer 2026) at StarSling | Y Combinator",
+      "company": "StarSling",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.ycombinator.com/companies/starsling/jobs/J3VF6Ej-software-engineer-intern-summer-2026",
+      "source": "Other",
+      "description": "Senior Software Engineer \u00b7 Clearly AI \u00b7 Sr Software Engineer \u00b7 Usul \u00b7 Full Stack Engineer \u00b7 Nash \u00b7 Full Stack Engineering Intern \u00b7 10x.",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T04:59:46+00:00",
+      "fetched_at": "2026-05-19T07:33:28.320149+00:00"
+    },
+    {
+      "id": "bf11bd8a440a",
+      "title": "Tech Lead Software Engineer in Hyderabad, Telang\u0101na, India | Technology at Southwest",
+      "company": "Southwest",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.southwestair.com/in/en/job/R-2026-68056/Tech-Lead-Software-Engineer",
+      "source": "Other",
+      "description": "Job Description: As a Tech Lead Software Engineer Global supporting Southwest's AI Platforms, you'll lead the design, delivery, and operation of ...",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T03:31:49+00:00",
+      "fetched_at": "2026-05-19T07:33:28.407263+00:00"
+    },
+    {
+      "id": "1892d0e6d40a",
+      "title": ".@InsForge turns your coding agent into a principal backend engineer . Backend servers ...",
+      "company": "Unknown Company",
+      "role": "Backend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://x.com/ycombinator/status/2056434648155075068",
+      "source": "Other",
+      "description": "Y Combinator (@ycombinator). 234 likes 54 replies. .@InsForge turns your coding agent into a principal backend engineer . Backend servers, database ...",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T02:58:41+00:00",
+      "fetched_at": "2026-05-19T07:33:28.320619+00:00"
+    },
+    {
+      "id": "8ee08eb7f178",
+      "title": "Site Reliability Engineer , Customer Systems - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200663091-3956/site-reliability-engineer-customer-systems",
+      "source": "Other",
+      "description": "Apply for a Site Reliability Engineer , Customer Systems job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T02:55:19+00:00",
+      "fetched_at": "2026-05-19T07:33:28.407403+00:00"
+    },
+    {
+      "id": "7dda8d01073a",
+      "title": "Software Engineer at Barclays",
+      "company": "Barclays",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://search.jobs.barclays/job/pune/software-engineer/13015/95257264384",
+      "source": "Other",
+      "description": "Network Toolsets DevOps Engineer . Pune (India). 18 May. Senior Software Engineer \u2013 Network Automation. Pune (India). 18 May. Software Engineer \u2013 ...",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T01:56:59+00:00",
+      "fetched_at": "2026-05-19T07:33:28.320772+00:00"
+    },
+    {
+      "id": "f3ea45f06d52",
+      "title": "Mendral | The AI DevOps Engineer | Sam Alba - LinkedIn",
+      "company": "Mendral",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/samalba_mendral-the-ai-devops-engineer-activity-7462283714539102208-ljm0",
+      "source": "LinkedIn",
+      "description": "If you're an engineer who has lived through this at scale, we're hiring. Mendral | The AI DevOps Engineer mendral.com.",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T01:47:38+00:00",
+      "fetched_at": "2026-05-19T07:33:28.320992+00:00"
+    },
+    {
       "id": "e507668de91a",
       "title": "Software Engineer , Fleet Monitoring - San Francisco, California, United States",
       "company": "San Francisco, California, United States",
@@ -49,6 +184,81 @@
       "fetched_at": "2026-05-19T01:53:36.308902+00:00"
     },
     {
+      "id": "fe76aae8eda1",
+      "title": "Software Engineer , Amazon Photos - Job ID: 10423211",
+      "company": "Job ID: 10423211",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://amazon.jobs/jobs/10423211",
+      "source": "Other",
+      "description": "Software Engineer , Amazon Photos. Job ID: 10423211 | Amazon.com Services LLC. Apply now. Description. Amazon Photos helps consumers preserve and re ...",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T01:00:34+00:00",
+      "fetched_at": "2026-05-19T07:33:28.408090+00:00"
+    },
+    {
+      "id": "2fc4bd6a0b20",
+      "title": "Data Engineer , Compensation, CPSA - Job ID: 10422752 - Amazon Careers",
+      "company": "Job ID: 10422752 - Amazon Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.amazon.jobs/en/jobs/10422752/data-engineer-compensation-cpsa",
+      "source": "Other",
+      "description": "Description. Amazon Compensation Data team is looking for Data Engineer (DE) to join our team for modernizing data warehouses serving business ...",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T00:43:37+00:00",
+      "fetched_at": "2026-05-19T07:33:28.408247+00:00"
+    },
+    {
+      "id": "eebc2a6f39b0",
+      "title": "Gen AI Engineer III - Elevance Health",
+      "company": "Elevance Health",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.elevancehealth.com/gen-ai-engineer-iii/job/E6076C4EF4B05A49FF51F6C61DC4FF67",
+      "source": "Other",
+      "description": "Gen AI Engineer III. Location: Atlanta, GA. This role requires associates to be in-office 1 - 2 days per week, fostering collaboration and ...",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T00:33:13+00:00",
+      "fetched_at": "2026-05-19T07:33:28.321415+00:00"
+    },
+    {
+      "id": "c46c55a9ecdc",
+      "title": "Software Engineer - San Jose, California, United States - Zoom Careers",
+      "company": "San Jose, California, United States - Zoom Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.zoom.us/jobs/software-engineer-san-jose-california-united-states-13ee33a1-b634-4b12-a6c5-94b0eb43df14",
+      "source": "Other",
+      "description": "Software Engineer \u00b7 Requires a Master's degree in Computer Science, Management and Systems, a related field, or a foreign degree equivalent. \u00b7 Must have ...",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T00:30:13+00:00",
+      "fetched_at": "2026-05-19T07:33:28.321723+00:00"
+    },
+    {
+      "id": "c73fd676b421",
+      "title": "Open Role \u2014 Staff Software Engineer , GenAI Platform | Ripple",
+      "company": "Ripple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ripple.com/careers/all-jobs/job/7918366/?gh_jid=7918366",
+      "source": "Other",
+      "description": "At Ripple Labs Inc., we are seeking a GenAI Platform Staff Software Engineer to join our team in San Francisco, CA. You will collaborate with world- ...",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T00:14:18+00:00",
+      "fetched_at": "2026-05-19T07:33:28.321997+00:00"
+    },
+    {
       "id": "0eefd6b9ba11",
       "title": "Machine Learning Engineer II - Myworkdayjobs.com",
       "company": "Capgroup",
@@ -62,6 +272,36 @@
       "date": "2026-05-18",
       "timestamp": "2026-05-18T23:56:22+00:00",
       "fetched_at": "2026-05-19T01:53:36.102415+00:00"
+    },
+    {
+      "id": "1d718dd0b2cb",
+      "title": "Jr Data Engineer - Piper Companies",
+      "company": "Piper Companies",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.pipercompanies.com/details/166335/jr_data_engineer",
+      "source": "Other",
+      "description": "Data Engineer to oin a fast-paced Application Development and Data team. This role is ideal for someone who enjoys solving business problems through a ...",
+      "date": "2026-05-18",
+      "timestamp": "2026-05-18T23:03:29+00:00",
+      "fetched_at": "2026-05-19T07:33:28.322343+00:00"
+    },
+    {
+      "id": "af3bde3adb6a",
+      "title": "Data Engineer - - 124667 - Booz | Allen | Hamilton \u00ae - Careers",
+      "company": "- 124667 - Booz | Allen | Hamilton \u00ae - Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.boozallen.com/careers/JobDetail/San-Diego-Data-Engineer-R0237363/124667",
+      "source": "Other",
+      "description": "Data Engineer . The Opportunity: Ever-expanding technology like IoT, machine learning, and artificial intelligence means that there's more ...",
+      "date": "2026-05-18",
+      "timestamp": "2026-05-18T22:43:31+00:00",
+      "fetched_at": "2026-05-19T07:33:28.322673+00:00"
     },
     {
       "id": "59dd6498b65e",
@@ -94,6 +334,36 @@
       "fetched_at": "2026-05-19T01:53:36.104048+00:00"
     },
     {
+      "id": "24219b12d1dc",
+      "title": "Software Engineer - Host Access - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200663184-3337/software-engineer-host-access",
+      "source": "Other",
+      "description": "We are looking for a Senior Software Engineer who will play an important role in helping us build solutions to a variety of outstanding security ...",
+      "date": "2026-05-18",
+      "timestamp": "2026-05-18T22:16:00+00:00",
+      "fetched_at": "2026-05-19T07:33:28.323189+00:00"
+    },
+    {
+      "id": "88272b7b4044",
+      "title": "What You Should Learn to Be a Cloud Engineer in 2026 - YouTube",
+      "company": "You Should Learn to Be a Cloud Engineer in 2026",
+      "role": "Cloud Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.youtube.com/watch?v=ZkzkdhmcIVQ",
+      "source": "Other",
+      "description": "... #AI. What You Should Learn to Be a Cloud Engineer in 2026. 119 views \u00b7 1 hour ago. #AWS #CloudEngineering #AI ...more. AWS Developers. 1.72M.",
+      "date": "2026-05-18",
+      "timestamp": "2026-05-18T22:05:12+00:00",
+      "fetched_at": "2026-05-19T07:33:28.409509+00:00"
+    },
+    {
       "id": "857621481ecc",
       "title": "Data Engineer in Remote | Careers at US Nationwide Remote - Cotiviti | Careers Center",
       "company": "US Nationwide Remote",
@@ -122,6 +392,36 @@
       "date": "2026-05-18",
       "timestamp": "2026-05-18T21:54:34+00:00",
       "fetched_at": "2026-05-19T01:53:36.104179+00:00"
+    },
+    {
+      "id": "bd116651027e",
+      "title": "Senior Software Engineer - Backend - Myworkdayjobs.com",
+      "company": "Bigcommerce",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://bigcommerce.wd12.myworkdayjobs.com/en-US/Commerce/job/Senior-Software-Engineer---Backend_JR102660",
+      "source": "Workday",
+      "description": "We are looking for a highly motivated and experienced Senior Software Engineer - Backend to join the fully remote Engineering team at Feedonomics. You ...",
+      "date": "2026-05-18",
+      "timestamp": "2026-05-18T21:54:32+00:00",
+      "fetched_at": "2026-05-19T07:33:28.323379+00:00"
+    },
+    {
+      "id": "af3806c74c53",
+      "title": "What You Should Learn to Be a Cloud Engineer in 2026 - YouTube",
+      "company": "You Should Learn to Be a Cloud Engineer in 2026",
+      "role": "Cloud Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.youtube.com/watch?v=ZkzkdhmcIVQ&vl=ar",
+      "source": "Other",
+      "description": "... #AI. What You Should Learn to Be a Cloud Engineer in 2026. 106 views \u00b7 1 hour ago. #AWS #CloudEngineering #AI ...more. AWS Developers. 1.72M.",
+      "date": "2026-05-18",
+      "timestamp": "2026-05-18T21:44:17+00:00",
+      "fetched_at": "2026-05-19T07:33:28.323494+00:00"
     },
     {
       "id": "90bfaaad92f4",
