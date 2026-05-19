@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-05-19T07:33:28.417746+00:00",
-  "total_jobs": 2043,
+  "last_updated": "2026-05-19T10:51:03.982887+00:00",
+  "total_jobs": 2048,
   "stats": {
-    "total_companies": 1209,
+    "total_companies": 1212,
     "total_roles": 47,
     "regions": {
-      "India": 1243,
-      "Philippines": 410,
+      "India": 1246,
+      "Philippines": 412,
       "Remote": 263,
       "Unknown": 135
     },
     "sources": {
-      "Other": 1585,
+      "Other": 1589,
       "Greenhouse": 108,
-      "Workday": 94,
+      "Workday": 95,
       "LinkedIn": 80,
       "Ashby": 72,
       "Breezy": 23,
@@ -33,6 +33,51 @@
     }
   },
   "jobs": [
+    {
+      "id": "fab23e4eaaed",
+      "title": "[ Software Engineer ] [New York, NY] - 200k + equity : r/Salary - Reddit",
+      "company": "200k + equity : r/Salary - Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.reddit.com/r/Salary/comments/1thbgqy/software_engineer_new_york_ny_200k_equity/",
+      "source": "Other",
+      "description": "[ Software Engineer ] [New York, NY] - 200k + equity ... 200k base + equity. Been a rough couple of years finally feel like things are moving. 24M. If I ...",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T09:27:33+00:00",
+      "fetched_at": "2026-05-19T10:51:03.970542+00:00"
+    },
+    {
+      "id": "67a88a887b65",
+      "title": "Staff Software Engineer , Home Infrastructure - Search for your career at Google.",
+      "company": "Google.",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.google.com/jobs/results/109708409032319686-staff-software-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer , Data Cloud Frontier AI. Kirkland, WA, USA; Sunnyvale, CA, USA; +2 more; +1 more \u00b7 AI Technical Enablement Program Manager ...",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T08:29:27+00:00",
+      "fetched_at": "2026-05-19T10:51:03.888259+00:00"
+    },
+    {
+      "id": "ccc249c4c2e1",
+      "title": "Senior Software Engineer - Myworkdayjobs.com",
+      "company": "Transamerica",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://transamerica.wd5.myworkdayjobs.com/en-US/US/job/Senior-Software-Engineer_R20061579",
+      "source": "Workday",
+      "description": "The Senior Software Engineer designs, builds, and supports modern web applications using TypeScript, React, and a Node.js API tier deployed on cloud ...",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T08:27:24+00:00",
+      "fetched_at": "2026-05-19T10:51:03.970663+00:00"
+    },
     {
       "id": "0d5c83303502",
       "title": "Data Engineer Jobs and Careers at SharkNinja in United States",
@@ -107,6 +152,21 @@
       "date": "2026-05-19",
       "timestamp": "2026-05-19T03:31:49+00:00",
       "fetched_at": "2026-05-19T07:33:28.407263+00:00"
+    },
+    {
+      "id": "c6ac26a074b7",
+      "title": "Software Engineer /Developer at USC",
+      "company": "USC",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://usccareers.usc.edu/job/los-angeles/software-engineer-developer/1209/95269784560",
+      "source": "Other",
+      "description": "The Software Engineer / Developer will design, build, and maintain advanced software systems in support of DoD-related research and development ...",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T03:03:47+00:00",
+      "fetched_at": "2026-05-19T10:51:03.889719+00:00"
     },
     {
       "id": "1892d0e6d40a",
@@ -287,6 +347,21 @@
       "date": "2026-05-18",
       "timestamp": "2026-05-18T23:03:29+00:00",
       "fetched_at": "2026-05-19T07:33:28.322343+00:00"
+    },
+    {
+      "id": "c272be794773",
+      "title": "Software Engineer at Ford Motor Company",
+      "company": "Ford Motor Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.careers.ford.com/job/chennai/software-engineer/48560/95251147488",
+      "source": "Other",
+      "description": "Software Engineer \u00b7 Core Engineering: Strong programming background in Java and experience with build management tools (Gradle, Maven). \u00b7 Test ...",
+      "date": "2026-05-18",
+      "timestamp": "2026-05-18T22:49:26+00:00",
+      "fetched_at": "2026-05-19T10:51:03.891981+00:00"
     },
     {
       "id": "af3bde3adb6a",
