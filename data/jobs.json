@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-05-19T10:51:03.982887+00:00",
-  "total_jobs": 2048,
+  "last_updated": "2026-05-19T14:24:53.811610+00:00",
+  "total_jobs": 2054,
   "stats": {
-    "total_companies": 1212,
+    "total_companies": 1216,
     "total_roles": 47,
     "regions": {
-      "India": 1246,
-      "Philippines": 412,
+      "India": 1248,
+      "Philippines": 416,
       "Remote": 263,
       "Unknown": 135
     },
     "sources": {
-      "Other": 1589,
+      "Other": 1594,
       "Greenhouse": 108,
       "Workday": 95,
       "LinkedIn": 80,
       "Ashby": 72,
-      "Breezy": 23,
+      "Breezy": 24,
       "iCIMS": 21,
       "Lever": 21,
       "Workable": 12,
@@ -34,6 +34,51 @@
   },
   "jobs": [
     {
+      "id": "e0b8f1cdb19f",
+      "title": "Software Engineer in Bangalore, India | Product and Engineering at Cisco - Cisco Careers",
+      "company": "Cisco",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2013507EXTERNALENGLOBAL/Software-Engineer",
+      "source": "Other",
+      "description": "Apply for Software Engineer job with Cisco in Bangalore, India. Product and Engineering at Cisco. ... As a Platform Engineer , you will design, develop, ...",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T13:12:57+00:00",
+      "fetched_at": "2026-05-19T14:24:53.799700+00:00"
+    },
+    {
+      "id": "eac7a728011b",
+      "title": "Data Engineer / Analytics Engineer \u2013 People Analytics - Careers at Omnicell",
+      "company": "Omnicell",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://apply.omnicell.com/careers/job/1133913292457?domain=omnicell.com",
+      "source": "Other",
+      "description": "As a Data Engineer / Analytics Engineer, you will: Data Engineering & Ingestion Design, build, and maintain automated ingestion pipelines from HR ...",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T13:10:36+00:00",
+      "fetched_at": "2026-05-19T14:24:53.799901+00:00"
+    },
+    {
+      "id": "e2907cec092f",
+      "title": "Senior Software Engineer - Revver",
+      "company": "Revver",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://revver.breezy.hr/p/c9ab219137b0-senior-software-engineer/apply",
+      "source": "Breezy",
+      "description": "Senior Software Engineer . Lehi, UT; Full-Time; Product & Engineering. Job Openings \u00b7 Senior Software Engineer ; Apply. Upload Resume*. Use My Indeed ...",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T12:48:46+00:00",
+      "fetched_at": "2026-05-19T14:24:53.800033+00:00"
+    },
+    {
       "id": "fab23e4eaaed",
       "title": "[ Software Engineer ] [New York, NY] - 200k + equity : r/Salary - Reddit",
       "company": "200k + equity : r/Salary - Reddit",
@@ -47,6 +92,36 @@
       "date": "2026-05-19",
       "timestamp": "2026-05-19T09:27:33+00:00",
       "fetched_at": "2026-05-19T10:51:03.970542+00:00"
+    },
+    {
+      "id": "13025d8888ce",
+      "title": "Software Engineer Job Details | Viega GmbH & Co. KG - career",
+      "company": "Viega GmbH & Co. KG - career",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.viega.com/job/McPherson-KS-Software-Engineer-KS-67460/1361220857/",
+      "source": "Other",
+      "description": "Software Engineer \u00b7 Programming. Codes, tests and troubleshoots programs utilizing the appropriate hardware, database, and programming technology; ...",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T09:14:01+00:00",
+      "fetched_at": "2026-05-19T14:24:53.800409+00:00"
+    },
+    {
+      "id": "c9f5d9720b8f",
+      "title": "Data Engineer - Contract Role - Sourcebooks - Career Page",
+      "company": "Contract Role - Sourcebooks - Career Page",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://sourcebooks.applytojob.com/apply/Rarqh7feUi/Data-Engineer-Contract-Role",
+      "source": "Other",
+      "description": "Data Engineer - Contract Role. Naperville, IL. Full Time. Mid Level. Share. Join Sourcebooks, an innovative publishing powerhouse, where we believe in ...",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T08:32:57+00:00",
+      "fetched_at": "2026-05-19T14:24:53.800614+00:00"
     },
     {
       "id": "67a88a887b65",
@@ -152,6 +227,21 @@
       "date": "2026-05-19",
       "timestamp": "2026-05-19T03:31:49+00:00",
       "fetched_at": "2026-05-19T07:33:28.407263+00:00"
+    },
+    {
+      "id": "bda92a30830d",
+      "title": "Associate Software Engineer at Boeing",
+      "company": "Boeing",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.boeing.com/job/bengaluru/associate-software-engineer/185/95275698192",
+      "source": "Other",
+      "description": "Associate Software Engineer . Bengaluru, Karnataka Job ID JR2026510090 Category Engineering Role Type Hybrid Post Date May 19, 2026. Apply Now Save ...",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T03:09:48+00:00",
+      "fetched_at": "2026-05-19T14:24:53.802012+00:00"
     },
     {
       "id": "c6ac26a074b7",
