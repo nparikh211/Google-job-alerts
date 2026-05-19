@@ -1,31 +1,31 @@
 {
-  "last_updated": "2026-05-19T14:24:53.811610+00:00",
-  "total_jobs": 2054,
+  "last_updated": "2026-05-19T17:54:15.509041+00:00",
+  "total_jobs": 2070,
   "stats": {
-    "total_companies": 1216,
+    "total_companies": 1221,
     "total_roles": 47,
     "regions": {
-      "India": 1248,
-      "Philippines": 416,
-      "Remote": 263,
+      "India": 1261,
+      "Philippines": 418,
+      "Remote": 264,
       "Unknown": 135
     },
     "sources": {
-      "Other": 1594,
-      "Greenhouse": 108,
-      "Workday": 95,
+      "Other": 1605,
+      "Greenhouse": 110,
+      "Workday": 96,
       "LinkedIn": 80,
       "Ashby": 72,
-      "Breezy": 24,
+      "Breezy": 25,
       "iCIMS": 21,
       "Lever": 21,
       "Workable": 12,
       "Indeed": 12,
       "SmartRecruiters": 10,
+      "Jobvite": 2,
       "Recruitee": 2,
       "Taleo": 1,
-      "ADP": 1,
-      "Jobvite": 1
+      "ADP": 1
     },
     "date_range": {
       "earliest": "2026-04-14",
@@ -33,6 +33,126 @@
     }
   },
   "jobs": [
+    {
+      "id": "741ff5a7b0a6",
+      "title": "Software Engineer - Myworkdayjobs.com",
+      "company": "Autodesk",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Portland-OR-USA/Software-Engineer_26WD97950-1",
+      "source": "Workday",
+      "description": "Job Requisition ID # 26WD97950 Job Description: Software Engineer Overview We are looking for a Software Engineer to contribute to the design, ...",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T17:04:42+00:00",
+      "fetched_at": "2026-05-19T17:54:15.241016+00:00"
+    },
+    {
+      "id": "76ff357b9a8d",
+      "title": "Software Engineer Job Details - Careers - NRG",
+      "company": "Careers - NRG",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.nrgenergy.com/nrg/job/Software-Engineer-UT-84043/1392011500/",
+      "source": "Other",
+      "description": "Software Engineer . Date: May 18, 2026. Location: UT, US, 84043. Company: NRG. Welcome to the intersection of energy and home services. At NRG, we're ...",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T17:00:08+00:00",
+      "fetched_at": "2026-05-19T17:54:15.242085+00:00"
+    },
+    {
+      "id": "ef6992ff73e7",
+      "title": "Software Engineer - Travis Credit Union Careers - Jobvite",
+      "company": "Travis Credit Union",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.jobvite.com/travis-credit-union/job/ou87zfw2",
+      "source": "Jobvite",
+      "description": "Software Engineer . Vacaville, California. Apply. Description. Schedule: Monday -Friday 40 hours/week Remote (Must attend quarterly meetings at HQ).",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T16:30:16+00:00",
+      "fetched_at": "2026-05-19T17:54:15.242213+00:00"
+    },
+    {
+      "id": "4dc62a90ecdb",
+      "title": "Software Engineer , On Device Machine Learning - Careers - Google",
+      "company": "Careers - Google",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/128085257684427462-software-engineer-on-device-machine-learning",
+      "source": "Other",
+      "description": "Senior Software Engineer , Data Cloud Frontier AI. Kirkland, WA, USA; Sunnyvale, CA, USA; +2 more; +1 more \u00b7 AI Technical Enablement Program Manager ...",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T16:22:33+00:00",
+      "fetched_at": "2026-05-19T17:54:15.498673+00:00"
+    },
+    {
+      "id": "891a66900100",
+      "title": "Senior Software Engineer at Revver",
+      "company": "Revver",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://revver.breezy.hr/p/c9ab219137b0-senior-software-engineer",
+      "source": "Breezy",
+      "description": "Senior Software Engineer . Lehi, UT; Full-Time; Product & Engineering. Job Openings; Senior Software Engineer . Apply To Position; Use My Indeed Resume ...",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T15:45:06+00:00",
+      "fetched_at": "2026-05-19T17:54:15.242325+00:00"
+    },
+    {
+      "id": "632887b63d99",
+      "title": "Senior Full Stack Software Engineer | Mastery Logistics Systems - Rippling",
+      "company": "Mastery Logistics Systems - Rippling",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/mastery-logistics-systems/jobs/3e084f32-9204-4152-8d44-d5a2faabf577",
+      "source": "Other",
+      "description": "Senior Full Stack Software Engineer . About Mastery Logistics Systems ... As a Senior Full Stack Engineer at Mastery, you'll help build and ...",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T15:02:32+00:00",
+      "fetched_at": "2026-05-19T17:54:15.242679+00:00"
+    },
+    {
+      "id": "adc0e3e17a7a",
+      "title": "Data Engineer | Energy and Policy Institute",
+      "company": "Energy and Policy Institute",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://energyandpolicy.org/data-engineer/",
+      "source": "Other",
+      "description": "The Data Engineer will lead EPI's data and engineering work end-to-end \u2014 building the pipelines that ingest data from regulatory APIs and public ...",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T14:27:38+00:00",
+      "fetched_at": "2026-05-19T17:54:15.242814+00:00"
+    },
+    {
+      "id": "9bde11e2a992",
+      "title": "Job Application for Senior Fullstack Engineer - Typescript at Topstep - Greenhouse",
+      "company": "Topsteptrader",
+      "role": "Fullstack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/topsteptrader/jobs/7737871003",
+      "source": "Greenhouse",
+      "description": "Senior Fullstack Engineer - Typescript. United States. Apply. Summary: As a Senior Full Stack Engineer at Topstep, you'll play a key role in building ...",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T14:17:24+00:00",
+      "fetched_at": "2026-05-19T17:54:15.242914+00:00"
+    },
     {
       "id": "e0b8f1cdb19f",
       "title": "Software Engineer in Bangalore, India | Product and Engineering at Cisco - Cisco Careers",
@@ -77,6 +197,81 @@
       "date": "2026-05-19",
       "timestamp": "2026-05-19T12:48:46+00:00",
       "fetched_at": "2026-05-19T14:24:53.800033+00:00"
+    },
+    {
+      "id": "dee505b577d3",
+      "title": "Job Application for Senior Software Engineer at Amplitude - Greenhouse",
+      "company": "Amplitude",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/amplitude/jobs/8555732002",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer . San Francisco, CA. Apply. Amplitude is the leading AI analytics platform, helping over 4,700 customers\u2014including Atlassian ...",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T12:15:14+00:00",
+      "fetched_at": "2026-05-19T17:54:15.243395+00:00"
+    },
+    {
+      "id": "1b9430e151bd",
+      "title": "Intern - Software Engineer , Bengaluru | Coupang Careers",
+      "company": "Intern",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.coupang.jobs/en/jobs/7938474/intern-software-engineer/",
+      "source": "Other",
+      "description": "Intern - Software Engineer . Description. Intern \u2013 Software ... Staff Backend Engineer . Save Saved. Bengaluru. Staff Computer Vision and ...",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T12:11:12+00:00",
+      "fetched_at": "2026-05-19T17:54:15.243509+00:00"
+    },
+    {
+      "id": "737900d63947",
+      "title": "Software Engineer [Multiple Positions Available] - JPMC Candidate Experience page Careers",
+      "company": "JPMC Candidate Experience page Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/cx_1001/job/210744881",
+      "source": "Other",
+      "description": "Software Engineer [Multiple Positions Available]. Plano, TX, United States. Apply Now. Job Information. Job Identification 210744881; Job Category ...",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T12:09:42+00:00",
+      "fetched_at": "2026-05-19T17:54:15.243648+00:00"
+    },
+    {
+      "id": "b64fc8946fae",
+      "title": "Cloud Engineer - Falls Church, VA, US - RQ220320 | General Dynamics",
+      "company": "Falls Church, VA, US - RQ220320 | General Dynamics",
+      "role": "Cloud Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.gd.com/careers/cloud-engineer-falls-church-va-us-rq220320-gdit-opportunity",
+      "source": "Other",
+      "description": "Job Description: Advance your career while impacting our national security in cyber as Cloud Engineer at GDIT. Here, technologists have many paths to ...",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T11:15:10+00:00",
+      "fetched_at": "2026-05-19T17:54:15.499818+00:00"
+    },
+    {
+      "id": "ab97c37827d7",
+      "title": "Site IE Data Engineer job in Lebanon, Tennessee, United States - Mars career",
+      "company": "Mars career",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mars.com/us/en/job/R154093/Site-IE-Data-Engineer",
+      "source": "Other",
+      "description": "Apply for Site IE Data Engineer job with Mars in Lebanon, Tennessee, United States. Browse and apply for the Supply Chain & Engineering jobs at ...",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T10:03:09+00:00",
+      "fetched_at": "2026-05-19T17:54:15.243771+00:00"
     },
     {
       "id": "fab23e4eaaed",
@@ -152,6 +347,51 @@
       "date": "2026-05-19",
       "timestamp": "2026-05-19T08:27:24+00:00",
       "fetched_at": "2026-05-19T10:51:03.970663+00:00"
+    },
+    {
+      "id": "b95f0ce5e114",
+      "title": "Software Platform Engineer II - MetLife Careers",
+      "company": "MetLife Careers",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.metlifecareers.com/en_US/ml/JobDetail/Software-Platform-Engineer-II/17874",
+      "source": "Other",
+      "description": "Software Platform Engineer II. General Information. Location. Hyderabad, Telangana. Working Schedule. Full-Time. Work Arrangement. Hybrid. Relocation ...",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T06:59:22+00:00",
+      "fetched_at": "2026-05-19T17:54:15.500654+00:00"
+    },
+    {
+      "id": "d223f521e3e7",
+      "title": "Principal Software Engineer \u2013 MineStar Modernization & Innovation - Caterpillar Careers",
+      "company": "Caterpillar Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.caterpillar.com/en/jobs/r0000370571/principal-software-engineer-minestar-modernization-innovation/",
+      "source": "Other",
+      "description": "Seeking an experienced Principal Software Engineer to be part of an expert group of senior software engineers within the Autonomy and Automation ...",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T06:49:19+00:00",
+      "fetched_at": "2026-05-19T17:54:15.244357+00:00"
+    },
+    {
+      "id": "56220962eb74",
+      "title": "Software Engineer - Cloud in Hyderabad, Telang\u0101na, India | Technology at Southwest",
+      "company": "Southwest",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.southwestair.com/in/en/job/R-2026-68064/Software-Engineer-Cloud",
+      "source": "Other",
+      "description": "Job Description: As a Software Engineer Global supporting Southwest's AI Platforms Pod, you'll help build and maintain the cloud\u2011based services and ...",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T06:12:46+00:00",
+      "fetched_at": "2026-05-19T17:54:15.244484+00:00"
     },
     {
       "id": "0d5c83303502",
