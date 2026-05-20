@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-05-20T01:53:15.387436+00:00",
-  "total_jobs": 2092,
+  "last_updated": "2026-05-20T07:32:52.960935+00:00",
+  "total_jobs": 2106,
   "stats": {
-    "total_companies": 1236,
-    "total_roles": 47,
+    "total_companies": 1243,
+    "total_roles": 48,
     "regions": {
-      "India": 1272,
-      "Philippines": 426,
-      "Remote": 268,
+      "India": 1279,
+      "Philippines": 430,
+      "Remote": 271,
       "Unknown": 135
     },
     "sources": {
-      "Other": 1620,
-      "Greenhouse": 111,
-      "Workday": 98,
-      "LinkedIn": 80,
+      "Other": 1627,
+      "Greenhouse": 113,
+      "Workday": 100,
+      "LinkedIn": 81,
       "Ashby": 73,
       "Breezy": 25,
-      "iCIMS": 22,
+      "iCIMS": 24,
       "Lever": 21,
       "Workable": 12,
       "Indeed": 12,
@@ -36,6 +36,96 @@
   },
   "jobs": [
     {
+      "id": "74558ad87cf4",
+      "title": "Software Engineer - Sharing Excess - Career Page",
+      "company": "Sharing Excess - Career Page",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://sharingexcess.applytojob.com/apply/bvSLurxrDr/Software-Engineer",
+      "source": "Other",
+      "description": "We're looking to add a Software Engineer to our small but mighty tech team,currently consisting of our CTO, a Data Analyst,a Designer, and a team of ...",
+      "date": "2026-05-20",
+      "timestamp": "2026-05-20T06:55:53+00:00",
+      "fetched_at": "2026-05-20T07:32:52.945874+00:00"
+    },
+    {
+      "id": "a072caf0b80d",
+      "title": "Job Application for Data Engineer at Wheelhouse - Greenhouse",
+      "company": "Wheelhouse",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/wheelhouse/jobs/4697043005",
+      "source": "Greenhouse",
+      "description": "Data Engineer . United States (Remote). Apply. Mission and Importance of this Role. Accurate, fresh data is the absolute lifeblood of our business. Our ...",
+      "date": "2026-05-20",
+      "timestamp": "2026-05-20T06:35:01+00:00",
+      "fetched_at": "2026-05-20T07:32:52.867789+00:00"
+    },
+    {
+      "id": "2ad3ecca5d9e",
+      "title": "Associate Software Engineer in Remote - Cotiviti | Careers Center - ICIMS",
+      "company": "Cotiviti | Careers Center - ICIMS",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers-cotiviti.icims.com/jobs/19263/associate-software-engineer/job",
+      "source": "iCIMS",
+      "description": "US Nationwide Remote is now hiring a Associate Software Engineer in Remote. Review all of the job details and apply today!",
+      "date": "2026-05-20",
+      "timestamp": "2026-05-20T04:23:27+00:00",
+      "fetched_at": "2026-05-20T07:32:52.946217+00:00"
+    },
+    {
+      "id": "add51c3da9c1",
+      "title": "Software Engineer | GE Vernova",
+      "company": "GE Vernova",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.gevernova.com/software-engineer/job/R5042257",
+      "source": "Other",
+      "description": "We also offer a full range of educational courses through our Power Systems Engineering Course. The Software Engineer \u2013 Power Systems Short-Circuit ...",
+      "date": "2026-05-20",
+      "timestamp": "2026-05-20T04:12:23+00:00",
+      "fetched_at": "2026-05-20T07:32:52.869703+00:00"
+    },
+    {
+      "id": "bd9c585993d2",
+      "title": "Senior Software Engineer in Dallas, Texas, United States of America | Technology at Southwest",
+      "company": "Southwest",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.southwestair.com/us/en/job/R-2026-68121/Senior-Software-Engineer",
+      "source": "Other",
+      "description": "Apply for Senior Software Engineer job with Southwest in Dallas, Texas, United States of America. Technology at Southwest.",
+      "date": "2026-05-20",
+      "timestamp": "2026-05-20T03:53:19+00:00",
+      "fetched_at": "2026-05-20T07:32:52.869972+00:00"
+    },
+    {
+      "id": "02eb0aa190c6",
+      "title": "[ Software Engineer ] [Morgantown, WV] - Salary progression 13 years - Reddit",
+      "company": "Salary progression 13 years - Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/Salary/comments/1thik03/software_engineer_morgantown_wv_salary/",
+      "source": "Other",
+      "description": "... Software Engineer , promoted to Senior Software Engineer , then Staff Software Engineer ). ... [ Cloud Engineer ][WMA] - 26 year old salary ...",
+      "date": "2026-05-20",
+      "timestamp": "2026-05-20T03:42:43+00:00",
+      "fetched_at": "2026-05-20T07:32:52.870285+00:00"
+    },
+    {
       "id": "e0afb0ff587f",
       "title": "Remote Senior Software Engineer II at Nomad",
       "company": "Nomad",
@@ -49,6 +139,51 @@
       "date": "2026-05-20",
       "timestamp": "2026-05-20T01:28:52+00:00",
       "fetched_at": "2026-05-20T01:53:15.375658+00:00"
+    },
+    {
+      "id": "8ef69b70825f",
+      "title": "AI/ ML Engineer - Logo - Myworkdayjobs.com",
+      "company": "Nexstar",
+      "role": "ML Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://nexstar.wd5.myworkdayjobs.com/nexstar/job/NY-New-York1301-Avenue-of-the-Americas-Nexstar/AI-ML-Engineer_REQ-41499",
+      "source": "Workday",
+      "description": "AI/ ML Engineer . Apply. locations: NY-New York ... Nexstar is looking for an ML / AI Engineer to join our growing data science team in New York City.",
+      "date": "2026-05-20",
+      "timestamp": "2026-05-20T00:55:21+00:00",
+      "fetched_at": "2026-05-20T07:32:52.947328+00:00"
+    },
+    {
+      "id": "2a9c5e9a319b",
+      "title": "Job Application for Software Engineer I at Latitude AI - Greenhouse",
+      "company": "Latitude",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/latitude/jobs/7942554",
+      "source": "Greenhouse",
+      "description": "Software Engineer I. Pittsburgh, PA. Apply. Latitude AI (lat.ai) develops automated driving technologies, including L3, for Ford vehicles at scale ...",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T23:38:37+00:00",
+      "fetched_at": "2026-05-20T07:32:52.947731+00:00"
+    },
+    {
+      "id": "b79c80bc4e72",
+      "title": "Senior Cloud Full Stack Engineer in Remote, Nationwide - Humana Careers",
+      "company": "Humana Careers",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.humana.com/us/en/job/R-417119/Senior-Cloud-Full-Stack-Engineer",
+      "source": "Other",
+      "description": "Senior Cloud Full Stack Engineer . Description. Become a part of our ... Lead Software Engineer . Location: Remote, Nationwide. Remote Job: Yes.",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T23:12:27+00:00",
+      "fetched_at": "2026-05-20T07:32:52.870638+00:00"
     },
     {
       "id": "10f638d5550e",
@@ -66,6 +201,36 @@
       "fetched_at": "2026-05-20T01:53:15.207781+00:00"
     },
     {
+      "id": "163905cca238",
+      "title": "Software Engineer | School of Medicine -Pediatrics, Leukemia Lymphoma in Atlanta, Georgia - Emory",
+      "company": "School of Medicine -Pediatrics, Leukemia Lymphoma in Atlanta, Georgia - Emory",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://staff-emory.icims.com/jobs/165704/software-engineer-%7C-school-of-medicine--pediatrics%2C-leukemia-lymphoma/job",
+      "source": "iCIMS",
+      "description": "Emory Campus-Clifton Corridor is now hiring a Software Engineer | School of Medicine -Pediatrics, Leukemia Lymphoma in Atlanta, Georgia.",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T22:34:46+00:00",
+      "fetched_at": "2026-05-20T07:32:52.871576+00:00"
+    },
+    {
+      "id": "00878058d587",
+      "title": "Software Engineer I - Careers - Myworkdayjobs.com",
+      "company": "Cmegroup",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/Software-Engineer-I_34367-1",
+      "source": "Workday",
+      "description": "The Software Engineer I engineers secure, scalable and reliable technology solutions, with appropriate mentoring, to advance CMEG in the global ...",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T22:33:55+00:00",
+      "fetched_at": "2026-05-20T07:32:52.871729+00:00"
+    },
+    {
       "id": "5cb09dab13fe",
       "title": "Data Engineer - Marquette University",
       "company": "Marquette University",
@@ -79,6 +244,21 @@
       "date": "2026-05-19",
       "timestamp": "2026-05-19T22:29:20+00:00",
       "fetched_at": "2026-05-20T01:53:15.207965+00:00"
+    },
+    {
+      "id": "b62233b1afb7",
+      "title": "Meta Software Engineer , ML : r/leetcode - Reddit",
+      "company": "Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.reddit.com/r/leetcode/comments/1thyski/meta_software_engineer_ml/",
+      "source": "Other",
+      "description": "Senior Software Engineer Microsoft (Core AI). 52 upvotes \u00b7 35 comments ... Clearing Meta Data Engineer interview wasn't hard, but now I'm ...",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T22:17:23+00:00",
+      "fetched_at": "2026-05-20T07:32:52.949054+00:00"
     },
     {
       "id": "baac25a425d5",
@@ -126,6 +306,21 @@
       "fetched_at": "2026-05-20T01:53:15.208655+00:00"
     },
     {
+      "id": "6223c5276915",
+      "title": "Komal Vardhan Lolugu's Post - LinkedIn",
+      "company": "Unknown Company",
+      "role": "Komal Vardhan Lolugu's Post - LinkedIn",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/komalvardhanlolugu_every-ai-engineer-job-posting-in-india-activity-7462049607674408961-GDSk",
+      "source": "LinkedIn",
+      "description": "Every \" AI engineer \" job posting in India wants 5 years on a 2 ... Arun Mathe. AI | AI Platform Engineer | LLMs | Gen AI | Agentic AI ...",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T20:51:09+00:00",
+      "fetched_at": "2026-05-20T07:32:52.874001+00:00"
+    },
+    {
       "id": "19f489defc77",
       "title": "Senior Cloud Software Engineer - Snap Careers",
       "company": "Snap Careers",
@@ -139,6 +334,21 @@
       "date": "2026-05-19",
       "timestamp": "2026-05-19T20:36:50+00:00",
       "fetched_at": "2026-05-20T01:53:15.208975+00:00"
+    },
+    {
+      "id": "3fc41df90ac8",
+      "title": "Senior Software Engineer - API Platform - 19830 - Bloomberg",
+      "company": "API Platform - 19830 - Bloomberg",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://bloomberg.avature.net/careers/JobDetail/Senior-Software-Engineer-API-Platform/19830",
+      "source": "Other",
+      "description": "Senior Software Engineer - API Platform. Location. New York. Business Area ... We are looking for a Senior Full Stack Engineer to lead the evolution of ...",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T20:25:47+00:00",
+      "fetched_at": "2026-05-20T07:32:52.874517+00:00"
     },
     {
       "id": "8cfa2e6eef44",
