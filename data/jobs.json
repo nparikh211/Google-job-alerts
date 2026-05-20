@@ -1,39 +1,145 @@
 {
-  "last_updated": "2026-05-19T21:08:38.841075+00:00",
-  "total_jobs": 2082,
+  "last_updated": "2026-05-20T01:53:15.387436+00:00",
+  "total_jobs": 2092,
   "stats": {
-    "total_companies": 1229,
+    "total_companies": 1236,
     "total_roles": 47,
     "regions": {
-      "India": 1268,
-      "Philippines": 422,
-      "Remote": 266,
+      "India": 1272,
+      "Philippines": 426,
+      "Remote": 268,
       "Unknown": 135
     },
     "sources": {
-      "Other": 1613,
-      "Greenhouse": 110,
+      "Other": 1620,
+      "Greenhouse": 111,
       "Workday": 98,
       "LinkedIn": 80,
       "Ashby": 73,
       "Breezy": 25,
-      "iCIMS": 21,
+      "iCIMS": 22,
       "Lever": 21,
       "Workable": 12,
       "Indeed": 12,
       "SmartRecruiters": 10,
       "Jobvite": 2,
       "Recruitee": 2,
+      "WeWorkRemotely": 1,
       "BrassRing": 1,
       "Taleo": 1,
       "ADP": 1
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-05-19"
+      "latest": "2026-05-20"
     }
   },
   "jobs": [
+    {
+      "id": "e0afb0ff587f",
+      "title": "Remote Senior Software Engineer II at Nomad",
+      "company": "Nomad",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://weworkremotely.com/remote-jobs/nomad-senior-software-engineer-ii",
+      "source": "WeWorkRemotely",
+      "description": "Nomad is hiring a remote Senior Software Engineer II to join their remote Full-Stack Programming team ... Senior Fullstack Engineer (Ruby+React).",
+      "date": "2026-05-20",
+      "timestamp": "2026-05-20T01:28:52+00:00",
+      "fetched_at": "2026-05-20T01:53:15.375658+00:00"
+    },
+    {
+      "id": "10f638d5550e",
+      "title": "Embedded Software Engineer - Cutsforth, LLC - Career Page",
+      "company": "Cutsforth, LLC - Career Page",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.cutsforth.com/apply/LLn2JVPuOq/Embedded-Software-Engineer",
+      "source": "Other",
+      "description": "Job Title: Embedded Software Engineer ; Work Location: Fully remote position, home office; Employment Type: Full-time; Employment Status: Exempt, ...",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T22:42:49+00:00",
+      "fetched_at": "2026-05-20T01:53:15.207781+00:00"
+    },
+    {
+      "id": "5cb09dab13fe",
+      "title": "Data Engineer - Marquette University",
+      "company": "Marquette University",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://employment.marquette.edu/postings/24851",
+      "source": "Other",
+      "description": "Data Engineer . Below you will find the details for the position including any supplementary documentation and questions you should review before ...",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T22:29:20+00:00",
+      "fetched_at": "2026-05-20T01:53:15.207965+00:00"
+    },
+    {
+      "id": "baac25a425d5",
+      "title": "Senior Software Engineer in Dallas, Texas, United States of America - Southwest Careers",
+      "company": "Southwest Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.southwestair.com/us/en/job/R-2026-68121/Senior-Software-Engineer",
+      "source": "Other",
+      "description": "Senior Software Engineer . Apply Now. Are you a Southwest Employee? Current Southwest Employees should apply for jobs using the internal My Career ...",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T21:37:22+00:00",
+      "fetched_at": "2026-05-20T01:53:15.376017+00:00"
+    },
+    {
+      "id": "8218d19c9226",
+      "title": "Platform Engineer Job Details | QuantumScape Corporation",
+      "company": "QuantumScape Corporation",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.quantumscape.com/job/Platform-Engineer-CA-95131/1392248500/",
+      "source": "Other",
+      "description": "Title: Platform Engineer ... Description: QuantumScape is on a mission to transform energy storage with solid-state lithium-metal battery technology.",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T21:28:45+00:00",
+      "fetched_at": "2026-05-20T01:53:15.208136+00:00"
+    },
+    {
+      "id": "8e2ddce10c9d",
+      "title": "Software Engineer , Intelligent Systems - Arlington, Virginia, United States",
+      "company": "Arlington, Virginia, United States",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apply.vt.edu/jobs/software-engineer-intelligent-systems-arlington-virginia-united-states-998e0ebb-1dde-4704-bbaa-288e7337018c",
+      "source": "Other",
+      "description": "Software Engineer , Intelligent Systems. 536444. Arlington, Virginia. VTNSI. Administrative & Professional. Vice President for Research. Add to ...",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T20:52:19+00:00",
+      "fetched_at": "2026-05-20T01:53:15.208655+00:00"
+    },
+    {
+      "id": "19f489defc77",
+      "title": "Senior Cloud Software Engineer - Snap Careers",
+      "company": "Snap Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.snap.com/job?id=R0045488",
+      "source": "Other",
+      "description": "... Software Engineer to join the Specs team at Snap Inc! What you'll do: Design, build, and operate foundational cloud platform components on AWS and ...",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T20:36:50+00:00",
+      "fetched_at": "2026-05-20T01:53:15.208975+00:00"
+    },
     {
       "id": "8cfa2e6eef44",
       "title": "Machine Learning Engineer - 63865 - MANTECH",
@@ -50,6 +156,21 @@
       "fetched_at": "2026-05-19T21:08:38.627898+00:00"
     },
     {
+      "id": "c82ed85e74d1",
+      "title": "Data Engineer - Databricks in McLean, Virginia - steampunk | Careers Center",
+      "company": "Databricks in McLean, Virginia - steampunk | Careers Center",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers-steampunk.icims.com/jobs/7767/data-engineer---databricks/job",
+      "source": "iCIMS",
+      "description": "We are hiring a Data Engineer - Databricks in McLean, Virginia. Review all of the job details and apply today!",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T20:04:29+00:00",
+      "fetched_at": "2026-05-20T01:53:15.377253+00:00"
+    },
+    {
       "id": "988c3715c044",
       "title": "AI Engineer | Mortenson",
       "company": "Mortenson",
@@ -63,6 +184,21 @@
       "date": "2026-05-19",
       "timestamp": "2026-05-19T19:41:38+00:00",
       "fetched_at": "2026-05-19T21:08:38.628174+00:00"
+    },
+    {
+      "id": "a33ee3639f4d",
+      "title": "Senior Machine Learning Engineer - Personalization | Life at Spotify",
+      "company": "Spotify",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://lifeatspotify.com/jobs/senior-machine-learning-engineer-personalization",
+      "source": "Other",
+      "description": "Frontend Engineer , Music. New York. New York. Engineering. Web. Permanent. Senior Machine Learning Engineer , Personalization, Rewards. New York. New ...",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T18:48:09+00:00",
+      "fetched_at": "2026-05-20T01:53:15.377837+00:00"
     },
     {
       "id": "8e5c1b8cb0fb",
@@ -124,6 +260,21 @@
       "date": "2026-05-19",
       "timestamp": "2026-05-19T18:13:51+00:00",
       "fetched_at": "2026-05-19T21:08:38.830198+00:00"
+    },
+    {
+      "id": "aad7cb1e13c2",
+      "title": "Job Application for Senior Full Stack Software Engineer at DEFCON AI - Greenhouse",
+      "company": "Defcon",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/defcon/jobs/5127532007",
+      "source": "Greenhouse",
+      "description": "We're hiring a Senior Full Stack Software Engineer to design, build, and scale modern web applications end-to-end. You'll work across frontend UI, ...",
+      "date": "2026-05-19",
+      "timestamp": "2026-05-19T17:15:48+00:00",
+      "fetched_at": "2026-05-20T01:53:15.378674+00:00"
     },
     {
       "id": "8a6f31400890",
