@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-05-21T01:52:19.219742+00:00",
-  "total_jobs": 2164,
+  "last_updated": "2026-05-21T07:38:31.938363+00:00",
+  "total_jobs": 2176,
   "stats": {
-    "total_companies": 1275,
+    "total_companies": 1283,
     "total_roles": 49,
     "regions": {
-      "India": 1320,
-      "Philippines": 444,
-      "Remote": 274,
+      "India": 1329,
+      "Philippines": 446,
+      "Remote": 275,
       "Unknown": 135
     },
     "sources": {
-      "Other": 1671,
-      "Greenhouse": 115,
+      "Other": 1680,
+      "Greenhouse": 116,
       "Workday": 104,
       "LinkedIn": 82,
       "Ashby": 76,
       "iCIMS": 26,
+      "Lever": 25,
       "Breezy": 25,
-      "Lever": 23,
       "Workable": 12,
       "Indeed": 12,
       "SmartRecruiters": 10,
@@ -35,6 +35,126 @@
     }
   },
   "jobs": [
+    {
+      "id": "755d44c8fb09",
+      "title": "Data Engineer - Vacancies | Freudenberg Group",
+      "company": "Vacancies | Freudenberg Group",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.freudenberg.com/freudenberg/job/de/details/4006251/",
+      "source": "Other",
+      "description": "Data Engineer . Print Icon Share. LinkedIn Icon \u00b7 Facebook icon. Email Icon. arrow_drop_down. Responsibilitiesarrow_right. Build scalable lakehouse ...",
+      "date": "2026-05-21",
+      "timestamp": "2026-05-21T06:36:59+00:00",
+      "fetched_at": "2026-05-21T07:38:31.842716+00:00"
+    },
+    {
+      "id": "1102c7588f41",
+      "title": "I'm a software engineer with a decade of experience. I vibe code all of my side projects from ...",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/ClaudeAI/comments/1tj2i90/im_a_software_engineer_with_a_decade_of/",
+      "source": "Other",
+      "description": "Tell Claude what to change\\` allll the time to ask \"What is <section> about? What does that mean?\". Even if you aren't a software engineer , the more ...",
+      "date": "2026-05-21",
+      "timestamp": "2026-05-21T06:02:13+00:00",
+      "fetched_at": "2026-05-21T07:38:31.842976+00:00"
+    },
+    {
+      "id": "4f823885e25a",
+      "title": "Data Engineer at Arm - Arm Careers",
+      "company": "Arm",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.arm.com/job/cambridge/data-engineer/33099/95342830640",
+      "source": "Other",
+      "description": "Job Overview: Arm is seeking a Data Engineer to help build and scale the data foundations that support analytics, workflow automation, and AI-enabled ...",
+      "date": "2026-05-21",
+      "timestamp": "2026-05-21T04:40:16+00:00",
+      "fetched_at": "2026-05-21T07:38:31.843106+00:00"
+    },
+    {
+      "id": "774da7794011",
+      "title": "Valarian Technologies Limited - Senior Software Engineer - Lever",
+      "company": "Valarian",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.lever.co/valarian/872aec4d-d770-4962-a374-b278dcd513e2?lever-source%5B%5D=careers.playfair.vc",
+      "source": "Lever",
+      "description": "Senior Software Engineer . London. Product Development \u2013 Engineering /. Full time /. Hybrid. apply for this job. Valarian Technologies is a dual-use ...",
+      "date": "2026-05-21",
+      "timestamp": "2026-05-21T01:29:21+00:00",
+      "fetched_at": "2026-05-21T07:38:31.843355+00:00"
+    },
+    {
+      "id": "07a722d75a91",
+      "title": "Senior Software Engineer | Root Insurance",
+      "company": "Root Insurance",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/joinroot/jobs/cb5a1f0e-3cb5-4618-b6c4-d56a053094a3",
+      "source": "Other",
+      "description": "Senior Software Engineer . Root is on a mission to unbreak insurance by creating experiences people love at prices they can't believe. We believe ...",
+      "date": "2026-05-21",
+      "timestamp": "2026-05-21T01:16:50+00:00",
+      "fetched_at": "2026-05-21T07:38:31.843518+00:00"
+    },
+    {
+      "id": "0810adc23a25",
+      "title": "Principle Software Engineer - Ads - DoorDash",
+      "company": "Ads - DoorDash",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careersatdoordash.com/jobs/principle-software-engineer---ads/7947255",
+      "source": "Other",
+      "description": "Principle Software Engineer - Ads. Apply To Job. Job ID: 3297048. DoorDash, Inc. New York, NY; San Francisco, CA; Sunnyvale, CA. About the Team.",
+      "date": "2026-05-21",
+      "timestamp": "2026-05-21T01:04:38+00:00",
+      "fetched_at": "2026-05-21T07:38:31.843679+00:00"
+    },
+    {
+      "id": "c12d8ed2ad67",
+      "title": "Every great AI engineer is a software engineer first - YouTube",
+      "company": "AI engineer is a software engineer first",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.youtube.com/shorts/9_Pu40iSas0",
+      "source": "Other",
+      "description": "Every great AI engineer is a software engineer first. 14. Dislike. 1. Share. Video unavailable. This content isn't available. Skip video.",
+      "date": "2026-05-21",
+      "timestamp": "2026-05-21T00:31:13+00:00",
+      "fetched_at": "2026-05-21T07:38:31.843808+00:00"
+    },
+    {
+      "id": "fde8714d15fa",
+      "title": "Software Engineer II - Data Warehousing - Klaviyo",
+      "company": "Data Warehousing - Klaviyo",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.klaviyo.com/careers/jobs/7646781003",
+      "source": "Other",
+      "description": "We process thousands of queries per second to power Klaviyo's analytical reporting capabilities. How you'll make a difference: As a software engineer ...",
+      "date": "2026-05-21",
+      "timestamp": "2026-05-21T00:29:19+00:00",
+      "fetched_at": "2026-05-21T07:38:31.843948+00:00"
+    },
     {
       "id": "b61103a28575",
       "title": "Software Engineer - United States - 187317 - Koch",
@@ -126,6 +246,21 @@
       "fetched_at": "2026-05-21T01:52:19.033231+00:00"
     },
     {
+      "id": "ad730cc05282",
+      "title": "Clear Capital | CubiCasa - Software Engineer - Coldfusion - Lever",
+      "company": "Clearcapital",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.lever.co/clearcapital/b3a99fa9-a27f-487a-95c1-37f551396990/apply",
+      "source": "Lever",
+      "description": "Software Engineer - Coldfusion. Remote - US. Technology \u2013 Software Engineering /. Full-Time /. Remote. Submit your application. LinkedIn profile.",
+      "date": "2026-05-20",
+      "timestamp": "2026-05-20T22:23:34+00:00",
+      "fetched_at": "2026-05-21T07:38:31.844753+00:00"
+    },
+    {
       "id": "7261a2cf30a0",
       "title": "Software Engineer , Core Services - Jobs - Careers at Apple",
       "company": "Apple",
@@ -154,6 +289,21 @@
       "date": "2026-05-20",
       "timestamp": "2026-05-20T22:14:40+00:00",
       "fetched_at": "2026-05-21T01:52:19.033672+00:00"
+    },
+    {
+      "id": "7b1eadb7a6c4",
+      "title": "Software Engineer - Jobs at Nucor",
+      "company": "Nucor",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.nucor.com/job/Dallas-Software-Engineer-TX-75251/1392673400/",
+      "source": "Other",
+      "description": "Software Engineer . Apply now \u00bb. Date: May 20, 2026. Location: Dallas, TX, US, 75251. Company: Nucor. Job Details. Division: Nucor Business Technology.",
+      "date": "2026-05-20",
+      "timestamp": "2026-05-20T22:10:10+00:00",
+      "fetched_at": "2026-05-21T07:38:31.845230+00:00"
     },
     {
       "id": "f137e6a08226",
@@ -201,6 +351,21 @@
       "fetched_at": "2026-05-20T21:27:06.056647+00:00"
     },
     {
+      "id": "27330d03c626",
+      "title": "Software Engineer (Backend) - MTS, California - Redwood City | Salesforce Careers",
+      "company": "MTS, California - Redwood City | Salesforce Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.salesforce.com/en/jobs/jr342796/software-engineer-backend-mts/",
+      "source": "Other",
+      "description": "Role Overview Are you an engineer who loves solving hard problems, shipping real products, and growing fast? Join the Informatica IDMC team, ...",
+      "date": "2026-05-20",
+      "timestamp": "2026-05-20T20:43:51+00:00",
+      "fetched_at": "2026-05-21T07:38:31.928157+00:00"
+    },
+    {
       "id": "2388cd674746",
       "title": "Software Engineer , I - Careers - Myworkdayjobs.com",
       "company": "Zebra",
@@ -229,6 +394,21 @@
       "date": "2026-05-20",
       "timestamp": "2026-05-20T20:34:52+00:00",
       "fetched_at": "2026-05-21T01:52:19.034189+00:00"
+    },
+    {
+      "id": "ed83ce6a1616",
+      "title": "Job Application for Software Engineer at Unchained Labs - Greenhouse",
+      "company": "Unchainedlabs",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/unchainedlabs/jobs/8556861002",
+      "source": "Greenhouse",
+      "description": "Software Engineer \u00b7 Responsible for delivering custom lab automation software, firmware, and scripting solutions to the end customer \u00b7 Develop software ...",
+      "date": "2026-05-20",
+      "timestamp": "2026-05-20T20:32:53+00:00",
+      "fetched_at": "2026-05-21T07:38:31.928388+00:00"
     },
     {
       "id": "251600b0bb20",
