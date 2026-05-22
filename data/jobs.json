@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-05-22T14:06:26.317612+00:00",
-  "total_jobs": 2256,
+  "last_updated": "2026-05-22T17:30:17.519226+00:00",
+  "total_jobs": 2266,
   "stats": {
-    "total_companies": 1320,
+    "total_companies": 1324,
     "total_roles": 50,
     "regions": {
-      "India": 1379,
-      "Philippines": 461,
-      "Remote": 291,
+      "India": 1381,
+      "Philippines": 468,
+      "Remote": 292,
       "Unknown": 135
     },
     "sources": {
-      "Other": 1743,
+      "Other": 1751,
       "Greenhouse": 124,
       "Workday": 107,
-      "LinkedIn": 82,
+      "LinkedIn": 83,
       "Ashby": 80,
+      "Breezy": 26,
       "iCIMS": 26,
       "Lever": 25,
-      "Breezy": 25,
       "Workable": 13,
       "Indeed": 12,
       "SmartRecruiters": 11,
@@ -35,6 +35,111 @@
     }
   },
   "jobs": [
+    {
+      "id": "5c8de16206ad",
+      "title": "Data Engineer III - Employment - The University of Utah",
+      "company": "Employment - The University of Utah",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://employment.utah.edu/salt-lake-city-ut/data-engineer-iii/5B3417AC1C0F46F9A0FBB03E73F51567/job/",
+      "source": "Other",
+      "description": "Data Engineer III. Salt Lake City, UT. Reqid: PRN45144B. Job Category: Computer Employee. Job Type: Full Time. Job Shift: Day. Details. Open Date 05/ ...",
+      "date": "2026-05-22",
+      "timestamp": "2026-05-22T15:49:45+00:00",
+      "fetched_at": "2026-05-22T17:30:17.508016+00:00"
+    },
+    {
+      "id": "2a2f539ee94e",
+      "title": "Backend Engineer - Python - DiligenceVault - Career Page - JazzHR",
+      "company": "Python - DiligenceVault - Career Page - JazzHR",
+      "role": "Backend Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://diligencevault.applytojob.com/apply/OP5whwcgDm/Backend-Engineer-Python",
+      "source": "Other",
+      "description": "We're looking for a Senior Software Engineer \u2013 Backend / Infrastructure ... Full Stack Engineer , DevOps Engineer , Others. Primary Programming ...",
+      "date": "2026-05-22",
+      "timestamp": "2026-05-22T15:34:44+00:00",
+      "fetched_at": "2026-05-22T17:30:17.508266+00:00"
+    },
+    {
+      "id": "51491d19abd1",
+      "title": "Software Engineer II - Pearson Jobs",
+      "company": "Pearson Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://pearson.jobs/virtual-usa/software-engineer-ii/34729E694854479DA278924F7DA6FC26/job/",
+      "source": "Other",
+      "description": "Software Engineer II. USA. Workplace Type: Remote. Job: Engineering; Schedule: FULL_TIME; Req ID: 24358. Position. As a Software Developer, you will ...",
+      "date": "2026-05-22",
+      "timestamp": "2026-05-22T15:09:19+00:00",
+      "fetched_at": "2026-05-22T17:30:17.508459+00:00"
+    },
+    {
+      "id": "484b91e3e391",
+      "title": "Apply For Software Engineer , Cloud - Stryker",
+      "company": "Stryker",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.stryker.com/software-engineer-cloud/job/83CA700C1BCCA92DF6B18D56038EE714",
+      "source": "Other",
+      "description": "As a backend Cloud Software Engineer , you will design, develop, and maintain platforms and APIs built on Cloud infrastructure and services that power ...",
+      "date": "2026-05-22",
+      "timestamp": "2026-05-22T15:04:56+00:00",
+      "fetched_at": "2026-05-22T17:30:17.508658+00:00"
+    },
+    {
+      "id": "a0de3a411df2",
+      "title": "Software Engineer , HYDERABAD, Telang\u0101na | Wells Fargo",
+      "company": "Wells Fargo",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.wellsfargojobs.com/en/jobs/r-544856/software-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer . Save Saved. HYDERABAD, Telang\u0101na; Technology. Software Engineer . Save Saved. HYDERABAD, Telang\u0101na; Technology. Senior ...",
+      "date": "2026-05-22",
+      "timestamp": "2026-05-22T15:02:33+00:00",
+      "fetched_at": "2026-05-22T17:30:17.508832+00:00"
+    },
+    {
+      "id": "4b66408a6e4b",
+      "title": "Senior Software Engineer , Cloud Foundation in Multiple Locations | Sirius XM",
+      "company": "Sirius XM",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.siriusxm.com/careers/jobs/17412?lang=en-us",
+      "source": "Other",
+      "description": "SiriusXM Careers is hiring a Senior Software Engineer , Cloud Foundation in Multiple Locations. Review all of the job details and apply today!",
+      "date": "2026-05-22",
+      "timestamp": "2026-05-22T14:48:31+00:00",
+      "fetched_at": "2026-05-22T17:30:17.508947+00:00"
+    },
+    {
+      "id": "9eab181ca19b",
+      "title": "Forward Deployed AI Engineer \u2013 Claude 2026 - US at Aimpoint Digital",
+      "company": "Aimpoint Digital",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://aimpoint-digital.breezy.hr/p/6845c658955b-forward-deployed-ai-engineer-claude-2026--us",
+      "source": "Breezy",
+      "description": "As a Forward Deployed AI Engineer \u2013 Claude, you will work directly with enterprise clients to identify, design, build, and deploy high-impact AI ...",
+      "date": "2026-05-22",
+      "timestamp": "2026-05-22T13:16:03+00:00",
+      "fetched_at": "2026-05-22T17:30:17.509061+00:00"
+    },
     {
       "id": "8e5b9617ca8b",
       "title": "Job Application for Senior Software Engineer , Cloud at Redpanda Data - Greenhouse",
@@ -64,6 +169,51 @@
       "date": "2026-05-22",
       "timestamp": "2026-05-22T12:35:47+00:00",
       "fetched_at": "2026-05-22T14:06:26.304208+00:00"
+    },
+    {
+      "id": "392ae1f08537",
+      "title": "Senior Data Engineer (Foundations), Stellantis Job #2018245, Auburn Hills, MI",
+      "company": "Unknown Company",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.stellantis.com/job/23412546/senior-data-engineer-foundations-auburn-hills-mi/",
+      "source": "Other",
+      "description": "Discover Senior Data Engineer (Foundations) and other ICT, Digital and Data jobs at Stellantis in Auburn Hills, MI, US, and apply online today!",
+      "date": "2026-05-22",
+      "timestamp": "2026-05-22T12:12:00+00:00",
+      "fetched_at": "2026-05-22T17:30:17.509339+00:00"
+    },
+    {
+      "id": "acfefbc9ad5c",
+      "title": "Patricio Garza's Post - Discord \u2014 Data Engineer , Analytics - LinkedIn",
+      "company": "Patricio Garza's Post",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/posts/patriciogarza_discord-data-engineer-analytics-activity-7462981213813641216-CyQ_",
+      "source": "LinkedIn",
+      "description": "Discord \u2014 Data Engineer , Analytics discord.com ... Enmanuel H. AI/ML Software Engineer | ex-Meta (MSL/FAIR) | ex-SpaceX ...",
+      "date": "2026-05-22",
+      "timestamp": "2026-05-22T12:11:09+00:00",
+      "fetched_at": "2026-05-22T17:30:17.509563+00:00"
+    },
+    {
+      "id": "6168d563300f",
+      "title": "Sr Data Engineer \u2013 AI Ops in Hyderabad, Telang\u0101na, India | Technology at Southwest",
+      "company": "Southwest",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.southwestair.com/in/en/job/R-2026-68054/Sr-Data-Engineer-AI-Ops",
+      "source": "Other",
+      "description": "Job Description: As a Sr Data Engineer Global supporting Southwest's AI Platform Operations, you'll build and operate the data pipelines that power ...",
+      "date": "2026-05-22",
+      "timestamp": "2026-05-22T11:24:24+00:00",
+      "fetched_at": "2026-05-22T17:30:17.509694+00:00"
     },
     {
       "id": "3d28907b6989",
