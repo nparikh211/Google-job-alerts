@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-05-21T21:19:34.433684+00:00",
-  "total_jobs": 2221,
+  "last_updated": "2026-05-22T01:54:00.887618+00:00",
+  "total_jobs": 2235,
   "stats": {
-    "total_companies": 1300,
+    "total_companies": 1307,
     "total_roles": 50,
     "regions": {
-      "India": 1357,
-      "Philippines": 454,
-      "Remote": 285,
+      "India": 1368,
+      "Philippines": 455,
+      "Remote": 287,
       "Unknown": 135
     },
     "sources": {
-      "Other": 1714,
-      "Greenhouse": 122,
-      "Workday": 105,
+      "Other": 1725,
+      "Greenhouse": 123,
+      "Workday": 106,
       "LinkedIn": 82,
-      "Ashby": 78,
+      "Ashby": 79,
       "iCIMS": 26,
       "Lever": 25,
       "Breezy": 25,
@@ -31,10 +31,145 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-05-21"
+      "latest": "2026-05-22"
     }
   },
   "jobs": [
+    {
+      "id": "b70b15b886cc",
+      "title": "Software Engineer Job Details | Brightstar Lottery",
+      "company": "Brightstar Lottery",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.brightstarlottery.com/job/Lakeland-Software-Engineer-FL-33815/1396235333/",
+      "source": "Other",
+      "description": "Software Engineer . Location: Lakeland, FL, US, 33815. Requisition ID: 19309. Brightstar is an innovative, forward-thinking global leader in lottery ...",
+      "date": "2026-05-22",
+      "timestamp": "2026-05-22T00:16:48+00:00",
+      "fetched_at": "2026-05-22T01:54:00.756163+00:00"
+    },
+    {
+      "id": "eb1cf1485791",
+      "title": "Senior Machine Learning Engineer - Search AI, BLAW/BTAX/BGOV - 19866 - Bloomberg",
+      "company": "Search AI, BLAW/BTAX/BGOV - 19866 - Bloomberg",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://bloomberg.avature.net/careers/JobDetail/Senior-Machine-Learning-Engineer-Search-AI-BLAW-BTAX-BGOV/19866",
+      "source": "Other",
+      "description": "Senior Machine Learning Engineer - Search AI, BLAW/BTAX/BGOV. Location. New York. Business Area. Engineering and CTO. Ref #. 10051660. Description ...",
+      "date": "2026-05-21",
+      "timestamp": "2026-05-21T23:24:38+00:00",
+      "fetched_at": "2026-05-22T01:54:00.756473+00:00"
+    },
+    {
+      "id": "95743a782feb",
+      "title": "AI Engineer - Myworkdayjobs.com",
+      "company": "Bristolmyerssquibb",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Seattle-400-Dexter---WA---US/AI-Engineer_R1602671-1",
+      "source": "Workday",
+      "description": "As an AI Engineer within Bristol Myers Squibb's AI Venture Studio delivery team, you will be a hands-on individual contributor who partners with other ...",
+      "date": "2026-05-21",
+      "timestamp": "2026-05-21T23:17:12+00:00",
+      "fetched_at": "2026-05-22T01:54:00.875766+00:00"
+    },
+    {
+      "id": "46469f3e8a50",
+      "title": "AI Software Engineer",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/styliticscareers/jobs/c9a33a7a-be43-40a1-937e-b0249c1df4b9",
+      "source": "Other",
+      "description": "AI Software Engineer ... Stylitics is the leading visual outfitting and styling solution for the world's top retailers and brands. Our clients include ...",
+      "date": "2026-05-21",
+      "timestamp": "2026-05-21T23:02:28+00:00",
+      "fetched_at": "2026-05-22T01:54:00.756651+00:00"
+    },
+    {
+      "id": "44dca27679bc",
+      "title": "Senior AI Engineer - Oliver James",
+      "company": "Oliver James",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.oliverjames.com/en/jobs/senior-ai-engineer-9330/",
+      "source": "Other",
+      "description": "Senior AI Engineer ... My client, a leading global asset manager is looking to hire a Senior AI Software Engineer to join their AI Engineering team in ...",
+      "date": "2026-05-21",
+      "timestamp": "2026-05-21T22:33:50+00:00",
+      "fetched_at": "2026-05-22T01:54:00.756802+00:00"
+    },
+    {
+      "id": "d4d29b0c2533",
+      "title": "Software Engineer III - Paychex Careers and Job Openings",
+      "company": "Paychex Careers and Job Openings",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.paychex.com/careers/jobs/42179?lang=en-us",
+      "source": "Other",
+      "description": "Paychex Careers and Job Openings | Paychex is hiring a Software Engineer III in May reside in any Paychex location, United States.",
+      "date": "2026-05-21",
+      "timestamp": "2026-05-21T22:05:29+00:00",
+      "fetched_at": "2026-05-22T01:54:00.757084+00:00"
+    },
+    {
+      "id": "9eea6af6b223",
+      "title": "Software Engineer in Remote, Kentucky | Technology and Digital Analytics at Humana",
+      "company": "Humana",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.humana.com/us/en/job/R-417139/Software-Engineer",
+      "source": "Other",
+      "description": "As a Senior Software Engineer 2, you will: Design, build, and deliver ... Lead Full Stack Engineer . Available in 2 locationsAvailable in 2 ...",
+      "date": "2026-05-21",
+      "timestamp": "2026-05-21T21:29:31+00:00",
+      "fetched_at": "2026-05-22T01:54:00.757220+00:00"
+    },
+    {
+      "id": "b3142ca0a134",
+      "title": "Senior DevSecOps Platform Engineer , AI Automation - Dallas, Texas, United States - Equinix Careers",
+      "company": "Dallas, Texas, United States - Equinix Careers",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.equinix.com/jobs/senior-devsecops-platform-engineer-ai-automation-dallas-texas-united-states",
+      "source": "Other",
+      "description": "... Platform Engineer to design, build, and operate secure CI/CD and platform automation capabilities enhanced with LLM-driven...",
+      "date": "2026-05-21",
+      "timestamp": "2026-05-21T21:19:09+00:00",
+      "fetched_at": "2026-05-22T01:54:00.757525+00:00"
+    },
+    {
+      "id": "b5a8fee5ecca",
+      "title": "Job Application for Senior Software Engineer - DevX at Reddit - Greenhouse",
+      "company": "Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/reddit/jobs/7950520",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer - DevX. Remote - United States. Apply. Reddit is a community of communities. It's built on shared interests, passion, and ...",
+      "date": "2026-05-21",
+      "timestamp": "2026-05-21T21:13:06+00:00",
+      "fetched_at": "2026-05-22T01:54:00.757643+00:00"
+    },
     {
       "id": "96d0c0f56e8c",
       "title": "Software Engineer III-AI Developer - FedEx Careers",
@@ -51,6 +186,36 @@
       "fetched_at": "2026-05-21T21:19:34.421169+00:00"
     },
     {
+      "id": "5d65a3cf4e73",
+      "title": "Software Engineer - Careers at Marriott Careers",
+      "company": "Marriott Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26060811",
+      "source": "Other",
+      "description": "Senior Software Engineer - GraphQL Engineering. Bethesda, MD, United States. and 1 more. Posted on 05/07/2026. Trending \u00b7 FLEX Senior Software Engineer .",
+      "date": "2026-05-21",
+      "timestamp": "2026-05-21T20:36:35+00:00",
+      "fetched_at": "2026-05-22T01:54:00.757939+00:00"
+    },
+    {
+      "id": "b7f2473331ba",
+      "title": "Full Stack Software Engineer | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.apexsystems.com/job/3035223_usa/full-stack-software-engineer",
+      "source": "Other",
+      "description": "Full Stack Software Engineer . Apply. Job#: 3035223. Job Description ... Full Stack Engineer . Connect with our experts. Looking for your next ...",
+      "date": "2026-05-21",
+      "timestamp": "2026-05-21T20:28:50+00:00",
+      "fetched_at": "2026-05-22T01:54:00.758088+00:00"
+    },
+    {
       "id": "1e5a2b4d6a74",
       "title": "Data Engineer - eMed, LLC - Career Page",
       "company": "eMed, LLC - Career Page",
@@ -64,6 +229,21 @@
       "date": "2026-05-21",
       "timestamp": "2026-05-21T20:28:27+00:00",
       "fetched_at": "2026-05-21T21:19:34.234788+00:00"
+    },
+    {
+      "id": "5b3cd4dc2917",
+      "title": "Software Engineer Intern, Audio Technology - Aarhus, Denmark | Roku Jobs",
+      "company": "Aarhus, Denmark | Roku Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.weareroku.com/jobs/software-engineer-intern-audio-technology-aarhus-denmark",
+      "source": "Other",
+      "description": "Senior Data Engineer , Austin, Texas. Product Strategy and Operations ... Senior Machine Learning Engineer , Search Assistant, San Jose ...",
+      "date": "2026-05-21",
+      "timestamp": "2026-05-21T20:17:12+00:00",
+      "fetched_at": "2026-05-22T01:54:00.758474+00:00"
     },
     {
       "id": "6fa8c6170230",
@@ -94,6 +274,21 @@
       "date": "2026-05-21",
       "timestamp": "2026-05-21T20:13:57+00:00",
       "fetched_at": "2026-05-21T21:19:34.421562+00:00"
+    },
+    {
+      "id": "68edd11f8aff",
+      "title": "Senior Software Engineer @ Evvy - Jobs",
+      "company": "Evvy",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/Evvy/d7206a5b-612b-4c0f-b636-259027431d0b?utm_source=Evvy_Careers",
+      "source": "Ashby",
+      "description": "... Senior Software Engineer to join the product engineering team. You'll architect, build, and scale our personalized vaginal health platform, from ...",
+      "date": "2026-05-21",
+      "timestamp": "2026-05-21T20:05:27+00:00",
+      "fetched_at": "2026-05-22T01:54:00.758865+00:00"
     },
     {
       "id": "7d081b677760",
@@ -169,6 +364,21 @@
       "date": "2026-05-21",
       "timestamp": "2026-05-21T19:27:05+00:00",
       "fetched_at": "2026-05-21T21:19:34.422174+00:00"
+    },
+    {
+      "id": "42cda500d46a",
+      "title": "Software Engineer , Apps - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200661273-2926/software-engineer-apps?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Software Engineer , Apps job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-05-21",
+      "timestamp": "2026-05-21T19:25:33+00:00",
+      "fetched_at": "2026-05-22T01:54:00.759605+00:00"
     },
     {
       "id": "0a3529541cbe",
