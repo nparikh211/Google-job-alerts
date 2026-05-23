@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-05-23T16:43:57.603912+00:00",
-  "total_jobs": 2323,
+  "last_updated": "2026-05-23T20:37:14.842141+00:00",
+  "total_jobs": 2329,
   "stats": {
-    "total_companies": 1350,
+    "total_companies": 1353,
     "total_roles": 50,
     "regions": {
-      "India": 1417,
+      "India": 1421,
       "Philippines": 479,
-      "Remote": 302,
+      "Remote": 304,
       "Unknown": 135
     },
     "sources": {
-      "Other": 1798,
+      "Other": 1803,
       "Greenhouse": 128,
       "Workday": 109,
       "LinkedIn": 84,
@@ -22,9 +22,9 @@
       "Workable": 13,
       "Indeed": 12,
       "SmartRecruiters": 11,
+      "WeWorkRemotely": 2,
       "Jobvite": 2,
       "Recruitee": 2,
-      "WeWorkRemotely": 1,
       "BrassRing": 1,
       "Taleo": 1,
       "ADP": 1
@@ -35,6 +35,81 @@
     }
   },
   "jobs": [
+    {
+      "id": "fae9b3f886e1",
+      "title": "[ Senior Software Engineer ] [Boston, MA] - $174k + bonus : r/Salary - Reddit",
+      "company": "$174k + bonus : r/Salary - Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.reddit.com/r/Salary/comments/1tlnw7l/senior_software_engineer_boston_ma_174k_bonus/",
+      "source": "Other",
+      "description": "r/Salary ... [Senior Data Engineer ] [Remote, US] - $182k \u00b7 r/Salary - [Senior Data ...",
+      "date": "2026-05-23",
+      "timestamp": "2026-05-23T19:16:13+00:00",
+      "fetched_at": "2026-05-23T20:37:14.749739+00:00"
+    },
+    {
+      "id": "fddfeea5289b",
+      "title": "Senior Data Management Professional - Data Engineer - Earnings Extraction Data - 19662",
+      "company": "Senior Data Management Professional",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://bloomberg.avature.net/careers/JobDetail/Senior-Data-Management-Professional-Data-Engineer-Earnings-Extraction-Data/19662",
+      "source": "Other",
+      "description": "Senior Data Management Professional - Data Engineer - Earnings Extraction Data. Location. London. Business Area. Data. Ref #. 10051484. Description ...",
+      "date": "2026-05-23",
+      "timestamp": "2026-05-23T18:36:12+00:00",
+      "fetched_at": "2026-05-23T20:37:14.750244+00:00"
+    },
+    {
+      "id": "69a4bffa2cb9",
+      "title": "Remote Senior Software Engineer , Web at Speechify Inc",
+      "company": "Speechify Inc",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://weworkremotely.com/remote-jobs/speechify-inc-senior-software-engineer-web-1",
+      "source": "WeWorkRemotely",
+      "description": "Speechify Inc is hiring a remote Senior Software Engineer , Web to join their remote Front-End Programming team. Overview With that growth comes ...",
+      "date": "2026-05-23",
+      "timestamp": "2026-05-23T17:38:26+00:00",
+      "fetched_at": "2026-05-23T20:37:14.750545+00:00"
+    },
+    {
+      "id": "39689d7789c0",
+      "title": "Software Engineer , Founder's Office at SureBright | Y Combinator",
+      "company": "SureBright",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.ycombinator.com/companies/surebright/jobs/F4YIgxx-software-engineer-founder-s-office",
+      "source": "Other",
+      "description": "Backend Engineer \u00b7 Artifact \u00b7 Senior Software Engineer \u00b7 Bloom \u00b7 Founding Engineer \u00b7 ARQ \u00b7 Security Engineer \u00b7 CollectWise \u00b7 Senior ...",
+      "date": "2026-05-23",
+      "timestamp": "2026-05-23T17:12:26+00:00",
+      "fetched_at": "2026-05-23T20:37:14.750858+00:00"
+    },
+    {
+      "id": "2b061254ecbe",
+      "title": "Software Engineer , Planner Reasoning Platform - Mountain View, California, United States",
+      "company": "Mountain View, California, United States",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.withwaymo.com/jobs/software-engineer-planner-reasoning-platform-mountain-view-california-united-states-san-francisco",
+      "source": "Other",
+      "description": "Software Engineer , Multiverse. Mountain View, California. San Francisco, California. New York City, New York \u00b7 Senior Software Engineer , Planner.",
+      "date": "2026-05-23",
+      "timestamp": "2026-05-23T16:35:11+00:00",
+      "fetched_at": "2026-05-23T20:37:14.751462+00:00"
+    },
     {
       "id": "2baff3aedfd7",
       "title": "Amazon Senior Software Engineer L6 Loop Experience \u2014 Rejected - Reddit",
@@ -49,6 +124,21 @@
       "date": "2026-05-23",
       "timestamp": "2026-05-23T15:42:16+00:00",
       "fetched_at": "2026-05-23T16:43:57.590644+00:00"
+    },
+    {
+      "id": "41425d01e8ee",
+      "title": "Software Engineer - Wells Fargo",
+      "company": "Wells Fargo",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.wellsfargojobs.com/en/jobs/r-544487/software-engineer/",
+      "source": "Other",
+      "description": "Software Engineer . CHARLOTTE \u00b7 CHANDLER \u00b7 IRVING. Technology; Full time; 22 May ... Technology. Generative AI Engineer - Lead Specialty Software ...",
+      "date": "2026-05-23",
+      "timestamp": "2026-05-23T14:55:02+00:00",
+      "fetched_at": "2026-05-23T20:37:14.752263+00:00"
     },
     {
       "id": "5caafd65534f",
