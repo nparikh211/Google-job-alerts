@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-05-22T21:01:34.376590+00:00",
-  "total_jobs": 2280,
+  "last_updated": "2026-05-23T01:45:12.214418+00:00",
+  "total_jobs": 2293,
   "stats": {
-    "total_companies": 1330,
+    "total_companies": 1335,
     "total_roles": 50,
     "regions": {
-      "India": 1390,
-      "Philippines": 468,
-      "Remote": 297,
+      "India": 1398,
+      "Philippines": 471,
+      "Remote": 299,
       "Unknown": 135
     },
     "sources": {
-      "Other": 1762,
+      "Other": 1774,
       "Greenhouse": 126,
-      "Workday": 107,
+      "Workday": 108,
       "LinkedIn": 83,
       "Ashby": 80,
       "Breezy": 27,
@@ -36,6 +36,126 @@
   },
   "jobs": [
     {
+      "id": "26ce899f587d",
+      "title": "Software Engineer , Apple Services Engineering - Jobs",
+      "company": "Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200664944-3577/software-engineer-apple-services-engineering?team=SFTWR",
+      "source": "Other",
+      "description": "We are looking for an experienced Software Engineer to help develop the next-generation of Apple's cloud services infrastructure.",
+      "date": "2026-05-22",
+      "timestamp": "2026-05-22T21:26:27+00:00",
+      "fetched_at": "2026-05-23T01:45:11.812936+00:00"
+    },
+    {
+      "id": "79f32bb088e9",
+      "title": "Cloud DevOps Engineer , Warsaw | \u00d8rsted",
+      "company": "\u00d8rsted",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://orsted.com/en/careers/vacancies-list/2025/05/31013-cloud-devops-engineer",
+      "source": "Other",
+      "description": "Cloud DevOps Engineer . Imagine a future where you shape global ... Data Engineer . Poland \u00b7 IT and digital. IAM Technical Administrator. Poland.",
+      "date": "2026-05-22",
+      "timestamp": "2026-05-22T21:02:14+00:00",
+      "fetched_at": "2026-05-23T01:45:11.813243+00:00"
+    },
+    {
+      "id": "c3a8551d973c",
+      "title": "Software Engineer , ML Systems & Training Architecture | OpenAI",
+      "company": "OpenAI",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://openai.com/careers/software-engineer-ml-systems-and-training-architecture-san-francisco/",
+      "source": "Other",
+      "description": "As a Senior Software Engineer , ML Systems & Training Infrastructure, you will be a deeply hands-on engineering force multiplier for the robotics team.",
+      "date": "2026-05-22",
+      "timestamp": "2026-05-22T20:57:51+00:00",
+      "fetched_at": "2026-05-23T01:45:11.813496+00:00"
+    },
+    {
+      "id": "ca3523f537f9",
+      "title": "Sr. Software Engineer in United States - Frontline Education Careers",
+      "company": "Frontline Education Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.frontlineeducation.com/jobs/17769111-sr-software-engineer",
+      "source": "Other",
+      "description": "Every community stronger. We are looking for a Senior Software Engineer who is passionate about building intelligent, production-grade experiences ...",
+      "date": "2026-05-22",
+      "timestamp": "2026-05-22T20:52:22+00:00",
+      "fetched_at": "2026-05-23T01:45:11.813660+00:00"
+    },
+    {
+      "id": "f6e568a3a726",
+      "title": "Data Engineer II at Sony Pictures Entertainment, Inc.",
+      "company": "Sony Pictures Entertainment, Inc.",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.sonypicturesjobs.com/job/culver-city/data-engineer-ii/22978/95428744432",
+      "source": "Other",
+      "description": "Culver City , California; (Hybrid). REQ ID JR113125 Apply Save Job View Saved Jobs. Sony Pictures Entertainment is seeking a talented data engineer to ...",
+      "date": "2026-05-22",
+      "timestamp": "2026-05-22T20:43:29+00:00",
+      "fetched_at": "2026-05-23T01:45:11.813801+00:00"
+    },
+    {
+      "id": "bc387310eb14",
+      "title": "Senior Software Engineer , Data Eng - Bengaluru, Karnataka, India | Roku Jobs",
+      "company": "Bengaluru, Karnataka, India | Roku Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.weareroku.com/jobs/senior-software-engineer-data-eng-bengaluru-karnataka-india",
+      "source": "Other",
+      "description": "We are seeking a highly skilled Senior Software Engineer for this ... Senior Data Engineer , Austin, Texas. Product Strategy and Operations ...",
+      "date": "2026-05-22",
+      "timestamp": "2026-05-22T20:23:18+00:00",
+      "fetched_at": "2026-05-23T01:45:12.202265+00:00"
+    },
+    {
+      "id": "01f5c447ab6a",
+      "title": "Senior Software Engineer - Apache Kafka Infrastructure - 19855 - Bloomberg",
+      "company": "Apache Kafka Infrastructure - 19855 - Bloomberg",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://bloomberg.avature.net/careers/JobDetail/Senior-Software-Engineer-Apache-Kafka-Infrastructure/19855",
+      "source": "Other",
+      "description": "Senior Software Engineer - Apache Kafka Infrastructure. Location. New York. Business Area. Engineering and CTO. Ref #. 10051649. Description ...",
+      "date": "2026-05-22",
+      "timestamp": "2026-05-22T20:15:54+00:00",
+      "fetched_at": "2026-05-23T01:45:12.202497+00:00"
+    },
+    {
+      "id": "301de4df5e8a",
+      "title": "AI Engineer | Novartis",
+      "company": "Novartis",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.novartis.com/careers/career-search/job/details/req-10078476-ai-engineer",
+      "source": "Other",
+      "description": "This role is an opportunity to turn the Corporate Affairs AI strategy into working solutions that deliver measurable value. The AI Engineer will ...",
+      "date": "2026-05-22",
+      "timestamp": "2026-05-22T19:52:41+00:00",
+      "fetched_at": "2026-05-23T01:45:11.814090+00:00"
+    },
+    {
       "id": "318c735b0f01",
       "title": "Complete Hiring Process of BLINKIT Software Engineer - YouTube",
       "company": "YouTube",
@@ -49,6 +169,51 @@
       "date": "2026-05-22",
       "timestamp": "2026-05-22T19:46:01+00:00",
       "fetched_at": "2026-05-22T21:01:34.235691+00:00"
+    },
+    {
+      "id": "d804dd19fd31",
+      "title": "Principal Full Stack Software Engineer , Merrimack, NH | Fidelity Careers",
+      "company": "Fidelity Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.fidelity.com/en/jobs/2128587/principal-full-stack-software-engineer/",
+      "source": "Other",
+      "description": "Principal Full Stack Engineer . Save Saved. Technology Published: May 26; Merrimack, NH / Westlake, TX. Details \u00b7 Principal Quant Software Engineer .",
+      "date": "2026-05-22",
+      "timestamp": "2026-05-22T19:37:19+00:00",
+      "fetched_at": "2026-05-23T01:45:11.814370+00:00"
+    },
+    {
+      "id": "fa036c63b37c",
+      "title": "Senior Data Engineer - Remote - Multiple Levels",
+      "company": "Guidehouse",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---Remote-Any-location/Senior-Data-Engineer---Remote---Multiple-Levels_37822",
+      "source": "Workday",
+      "description": "... Data Engineer ); and 8+ years of relevant software engineering/data experience (for the Senior Data Engineer ). Advanced SQL and Python skills and ...",
+      "date": "2026-05-22",
+      "timestamp": "2026-05-22T19:27:14+00:00",
+      "fetched_at": "2026-05-23T01:45:11.814453+00:00"
+    },
+    {
+      "id": "2655c96c3263",
+      "title": "Machine Learning Engineer , Video Engineering - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200664594-3956/machine-learning-engineer-video-engineering",
+      "source": "Other",
+      "description": "Apply for a Machine Learning Engineer , Video Engineering job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-05-22",
+      "timestamp": "2026-05-22T19:03:23+00:00",
+      "fetched_at": "2026-05-23T01:45:12.203124+00:00"
     },
     {
       "id": "48477bf918cf",
@@ -66,6 +231,21 @@
       "fetched_at": "2026-05-22T21:01:34.235933+00:00"
     },
     {
+      "id": "988abbd609b7",
+      "title": "Senior Data Engineer | Dayforce Jobs - dayforcehcm.com",
+      "company": "Dayforce Jobs - dayforcehcm.com",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.dayforcehcm.com/en-US/diamondgen/BETMClientCareersSite/jobs/574",
+      "source": "Other",
+      "description": "Senior Data Engineer The Senior Data Engineer will help transform our cloud data systems by designing and operating architectures that drive ...",
+      "date": "2026-05-22",
+      "timestamp": "2026-05-22T18:59:13+00:00",
+      "fetched_at": "2026-05-23T01:45:12.203416+00:00"
+    },
+    {
       "id": "2943f1f613f8",
       "title": "Lead Platform Engineer (Cloud Operations Resilience Engineering) - Capital One Career",
       "company": "Capital One Career",
@@ -79,6 +259,21 @@
       "date": "2026-05-22",
       "timestamp": "2026-05-22T18:56:12+00:00",
       "fetched_at": "2026-05-22T21:01:34.236213+00:00"
+    },
+    {
+      "id": "ceb73122e911",
+      "title": "Senior Full Stack Engineer - Remote | SKIMS Careers",
+      "company": "Remote | SKIMS Careers",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://skims.pinpointhq.com/postings/e76c4fe9-665c-4dd6-b340-ce3daa4e8973",
+      "source": "Other",
+      "description": "Senior Full Stack Engineer . Department: Technology; Employment Type: Full Time; Location: Remote; Workplace type: Fully remote; Compensation: $190,000 ...",
+      "date": "2026-05-22",
+      "timestamp": "2026-05-22T18:27:18+00:00",
+      "fetched_at": "2026-05-23T01:45:12.203824+00:00"
     },
     {
       "id": "0dff7913b2d0",
