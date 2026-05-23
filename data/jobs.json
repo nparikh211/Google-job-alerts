@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-05-23T01:45:12.214418+00:00",
-  "total_jobs": 2293,
+  "last_updated": "2026-05-23T06:26:19.346216+00:00",
+  "total_jobs": 2300,
   "stats": {
-    "total_companies": 1335,
+    "total_companies": 1340,
     "total_roles": 50,
     "regions": {
-      "India": 1398,
-      "Philippines": 471,
-      "Remote": 299,
+      "India": 1403,
+      "Philippines": 472,
+      "Remote": 300,
       "Unknown": 135
     },
     "sources": {
-      "Other": 1774,
+      "Other": 1779,
       "Greenhouse": 126,
-      "Workday": 108,
+      "Workday": 109,
       "LinkedIn": 83,
-      "Ashby": 80,
+      "Ashby": 81,
       "Breezy": 27,
       "iCIMS": 26,
       "Lever": 25,
@@ -31,10 +31,70 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-05-22"
+      "latest": "2026-05-23"
     }
   },
   "jobs": [
+    {
+      "id": "cf3d58f5443f",
+      "title": "Robotics Software Engineer , Sunnyvale, CA, United States - Intuitive Careers",
+      "company": "Intuitive Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.intuitive.com/en/jobs/744000127977199/JOB213116/robotics-software-engineer/",
+      "source": "Other",
+      "description": "Robotics Software Engineer . Sunnyvale, CA, United States; Not Remote ... Future Opportunity -- Senior Software Engineer , GUI. Save Saved.",
+      "date": "2026-05-23",
+      "timestamp": "2026-05-23T03:26:41+00:00",
+      "fetched_at": "2026-05-23T06:26:18.942213+00:00"
+    },
+    {
+      "id": "92ff6cb1cc14",
+      "title": "Lead AWS Infrastructure Software Engineer IV Job Details - Grainger Careers",
+      "company": "Grainger Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.grainger.com/job/LAKE-FOREST-Lead-AWS-Infrastructure-Software-Engineer-IV-IL-60045-5202/1393535600/",
+      "source": "Other",
+      "description": "Lead AWS Infrastructure Software Engineer IV \u00b7 Lead engineer on a team responsible for the application and delivery of high-quality, maintainable ...",
+      "date": "2026-05-23",
+      "timestamp": "2026-05-23T01:33:54+00:00",
+      "fetched_at": "2026-05-23T06:26:18.942526+00:00"
+    },
+    {
+      "id": "1c369838c3c6",
+      "title": "AI Engineer in Lynchburg, Virginia, United States of America | IT at Genworth Financial",
+      "company": "Genworth Financial",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.genworth.com/us/en/job/GFOGFYUSREQ260203EXTERNALENUS/AI-Engineer",
+      "source": "Other",
+      "description": "AI Engineer . Description. At Genworth, we empower families to navigate ... AI Cloud Engineer . At Enact, we understand that there's no place like ...",
+      "date": "2026-05-22",
+      "timestamp": "2026-05-22T22:58:55+00:00",
+      "fetched_at": "2026-05-23T06:26:18.942698+00:00"
+    },
+    {
+      "id": "ebe40ad6f5b3",
+      "title": "DevOps Engineer , Mid - - 119045 - Booz | Allen | Hamilton \u00ae - Careers",
+      "company": "- 119045 - Booz | Allen | Hamilton \u00ae - Careers",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.boozallen.com/jobs/JobDetail/Chantilly-DevOps-Engineer-Mid-R0231408/119045",
+      "source": "Other",
+      "description": "Everyone is trying to \u201charness the cloud,\u201d but not everyone knows how. As a DevOps Engineer , you're eager to develop, manage, and secure a container ...",
+      "date": "2026-05-22",
+      "timestamp": "2026-05-22T21:35:39+00:00",
+      "fetched_at": "2026-05-23T06:26:18.943026+00:00"
+    },
     {
       "id": "26ce899f587d",
       "title": "Software Engineer , Apple Services Engineering - Jobs",
@@ -49,6 +109,51 @@
       "date": "2026-05-22",
       "timestamp": "2026-05-22T21:26:27+00:00",
       "fetched_at": "2026-05-23T01:45:11.812936+00:00"
+    },
+    {
+      "id": "1abf68868d94",
+      "title": "Sr. Software Engineer (Health AI and Machine Learning) - Myworkdayjobs.com",
+      "company": "23Andme",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://23andme.wd5.myworkdayjobs.com/23/job/Palo-Alto-HQ/Sr-Software-Engineer--Health-AI-and-Machine-Learning-_2026033",
+      "source": "Workday",
+      "description": "23andMe is looking for a Senior Software Engineer to help build the AI systems that turn one of the world's largest genetic datasets into ...",
+      "date": "2026-05-22",
+      "timestamp": "2026-05-22T21:19:28+00:00",
+      "fetched_at": "2026-05-23T06:26:19.334114+00:00"
+    },
+    {
+      "id": "9951e1a14a7c",
+      "title": "Machine Learning Engineer 5 in San Jose, California, United States of America",
+      "company": "Unknown Company",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.adobe.com/us/en/job/R169103/Machine-Learning-Engineer-5",
+      "source": "Other",
+      "description": "Join us at Adobe as a Machine Learning Engineer (MLE 50) on the Adobe Brand Intelligence Predict team in San Jose, CA! Help us build the next ...",
+      "date": "2026-05-22",
+      "timestamp": "2026-05-22T21:19:17+00:00",
+      "fetched_at": "2026-05-23T06:26:18.943527+00:00"
+    },
+    {
+      "id": "c8ca525e1212",
+      "title": "Senior Software Engineer @ Bastion - Jobs",
+      "company": "Bastion",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/bastion/337350f2-6583-4f70-b32a-0d25a110af80",
+      "source": "Ashby",
+      "description": "... Backend Engineer to join our engineering team and build the core infrastructure that powers ... Senior Software Engineer . Location. New York City ...",
+      "date": "2026-05-22",
+      "timestamp": "2026-05-22T21:12:23+00:00",
+      "fetched_at": "2026-05-23T06:26:18.943739+00:00"
     },
     {
       "id": "79f32bb088e9",
