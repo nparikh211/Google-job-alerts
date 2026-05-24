@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-05-23T20:37:14.842141+00:00",
-  "total_jobs": 2329,
+  "last_updated": "2026-05-24T01:51:03.942829+00:00",
+  "total_jobs": 2342,
   "stats": {
-    "total_companies": 1353,
+    "total_companies": 1363,
     "total_roles": 50,
     "regions": {
-      "India": 1421,
-      "Philippines": 479,
-      "Remote": 304,
+      "India": 1430,
+      "Philippines": 482,
+      "Remote": 305,
       "Unknown": 135
     },
     "sources": {
-      "Other": 1803,
+      "Other": 1814,
       "Greenhouse": 128,
       "Workday": 109,
-      "LinkedIn": 84,
+      "LinkedIn": 85,
       "Ashby": 81,
       "Breezy": 28,
       "iCIMS": 26,
@@ -23,9 +23,9 @@
       "Indeed": 12,
       "SmartRecruiters": 11,
       "WeWorkRemotely": 2,
+      "BrassRing": 2,
       "Jobvite": 2,
       "Recruitee": 2,
-      "BrassRing": 1,
       "Taleo": 1,
       "ADP": 1
     },
@@ -35,6 +35,51 @@
     }
   },
   "jobs": [
+    {
+      "id": "490af021d9bf",
+      "title": "Machine Learning Engineer , User Understanding (Entry-Level / New Grad) - Unity",
+      "company": "Level / New Grad) - Unity",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://unity.com/careers/positions/7947300",
+      "source": "Other",
+      "description": "We are seeking a motivated Machine Learning Engineer to support the development and maintenance of systems for understanding user behavior across ...",
+      "date": "2026-05-23",
+      "timestamp": "2026-05-23T21:18:05+00:00",
+      "fetched_at": "2026-05-24T01:51:03.930614+00:00"
+    },
+    {
+      "id": "36a7bed4b2e6",
+      "title": "Careers at Sony Interactive Entertainment I Software Engineer I",
+      "company": "Sony Interactive Entertainment I Software Engineer I",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.playstation.com/software-engineer-i/job/5859293004",
+      "source": "Other",
+      "description": "Join Sony Interactive Entertainment in SAN DIEGO, CA! Apply for the Software Engineer I role today and start your journey with us.",
+      "date": "2026-05-23",
+      "timestamp": "2026-05-23T20:31:57+00:00",
+      "fetched_at": "2026-05-24T01:51:03.702507+00:00"
+    },
+    {
+      "id": "6e4aad7e6967",
+      "title": "Robotics Software Engineer (human)",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.neura-robotics.com/offer/robotics-software-engineer-human/b5dc91f5-00b0-4be7-842c-2257b3145a01",
+      "source": "Other",
+      "description": "Fullstack Engineer (human) Neura Robotics Metzingen NEW \u00b7 Functional ... Senior Software Engineer - NEURAGym (human) Neura Robotics Metzingen NEW.",
+      "date": "2026-05-23",
+      "timestamp": "2026-05-23T20:23:33+00:00",
+      "fetched_at": "2026-05-24T01:51:03.702992+00:00"
+    },
     {
       "id": "fae9b3f886e1",
       "title": "[ Senior Software Engineer ] [Boston, MA] - $174k + bonus : r/Salary - Reddit",
@@ -96,6 +141,51 @@
       "fetched_at": "2026-05-23T20:37:14.750858+00:00"
     },
     {
+      "id": "c0b16e42761d",
+      "title": "Diaconia LLC - Databricks Data Engineer - Paylocity",
+      "company": "Diaconia LLC",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://recruiting.paylocity.com/recruiting/jobs/Details/4196430/Diaconia-LLC/Databricks-Data-Engineer",
+      "source": "Other",
+      "description": "We are seeking a Databricks Data Engineer with strong hands-on experience in Python and PySpark to support a fast-paced, high-impact delivery ...",
+      "date": "2026-05-23",
+      "timestamp": "2026-05-23T17:09:45+00:00",
+      "fetched_at": "2026-05-24T01:51:03.703882+00:00"
+    },
+    {
+      "id": "1527c518c73d",
+      "title": "Senior Software Engineer , Annapurna Labs - Job ID: 10428397 - Amazon Careers",
+      "company": "Job ID: 10428397 - Amazon Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://amazon.jobs/en/jobs/10428397/senior-software-engineer-annapurna-labs",
+      "source": "Other",
+      "description": "This. This position is for a Senior Software Engineer that will lead the development of machine learning tools to run, optimize, and analyze machine ...",
+      "date": "2026-05-23",
+      "timestamp": "2026-05-23T16:43:34+00:00",
+      "fetched_at": "2026-05-24T01:51:03.704046+00:00"
+    },
+    {
+      "id": "f79295caf3a8",
+      "title": "Software Engineer Backend/Platform II (Full Time)- United States ENG/CPO/WTG ETR",
+      "company": "United States ENG/CPO/WTG ETR",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2011251EXTERNALENGLOBAL/Software-Engineer-Backend-Platform-II-Full-Time-United-States-ENG-CPO-WTG-ETR",
+      "source": "Other",
+      "description": "Software Engineer Backend/Platform II (Full Time)- United States ENG ... Join our team as a SONiC Platform Engineer , where you will lead the ...",
+      "date": "2026-05-23",
+      "timestamp": "2026-05-23T16:36:52+00:00",
+      "fetched_at": "2026-05-24T01:51:03.704329+00:00"
+    },
+    {
       "id": "2b061254ecbe",
       "title": "Software Engineer , Planner Reasoning Platform - Mountain View, California, United States",
       "company": "Mountain View, California, United States",
@@ -109,6 +199,21 @@
       "date": "2026-05-23",
       "timestamp": "2026-05-23T16:35:11+00:00",
       "fetched_at": "2026-05-23T20:37:14.751462+00:00"
+    },
+    {
+      "id": "c3ea18a5383c",
+      "title": "Senior Software Engineer - Zeta Global | Built In San Francisco",
+      "company": "Zeta Global | Built In San Francisco",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.builtinsf.com/job/senior-software-engineer/9479767",
+      "source": "Other",
+      "description": "Senior Software Engineer wanted in San Francisco, CA to design, develop ... Full-stack Engineer . 16 Hours Ago. Easy Apply. Hybrid. San Francisco ...",
+      "date": "2026-05-23",
+      "timestamp": "2026-05-23T16:23:30+00:00",
+      "fetched_at": "2026-05-24T01:51:03.704768+00:00"
     },
     {
       "id": "2baff3aedfd7",
@@ -171,6 +276,36 @@
       "fetched_at": "2026-05-23T16:43:57.527548+00:00"
     },
     {
+      "id": "7c02f6402bd2",
+      "title": "Software Engineer (Java) - Unified Platform - Adyen Careers",
+      "company": "Unified Platform - Adyen Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.adyen.com/vacancies/7342887-software-engineer-java-unified-platform-financial-products?locale=it_IT",
+      "source": "Other",
+      "description": "Software Engineer (Java) - Unified Platform. Development Amsterdam. This is Adyen. Adyen provides payments, data, and financial products in a single ...",
+      "date": "2026-05-23",
+      "timestamp": "2026-05-23T13:49:43+00:00",
+      "fetched_at": "2026-05-24T01:51:03.705836+00:00"
+    },
+    {
+      "id": "28e4dc9521f2",
+      "title": "Erin Barkasy - Software Engineer , Astro Core Services - LinkedIn",
+      "company": "Erin Barkasy",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/erinbarkasy_software-engineer-astro-core-services-activity-7463715625576656897-tjI8",
+      "source": "LinkedIn",
+      "description": "Software Engineer , Astro Core ... Nisarg Shah. Software & ML Engineer | I build, deploy, and make AI ...",
+      "date": "2026-05-23",
+      "timestamp": "2026-05-23T13:07:23+00:00",
+      "fetched_at": "2026-05-24T01:51:03.706064+00:00"
+    },
+    {
       "id": "e488560427bc",
       "title": "Software Engineer - Backend at Cowrywise",
       "company": "Cowrywise",
@@ -184,6 +319,66 @@
       "date": "2026-05-23",
       "timestamp": "2026-05-23T12:52:22+00:00",
       "fetched_at": "2026-05-23T16:43:57.527711+00:00"
+    },
+    {
+      "id": "2c31461abea4",
+      "title": "Software Engineer Senior job in Farmers Branch, Texas, United States of America",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.pnc.com/global/en/job/R222542/Software-Engineer-Senior",
+      "source": "Other",
+      "description": "Senior Software Engineer - ETL, Informatica, Hadoop. Category Technology. Job available in 4 locations. Pittsburgh, Pennsylvania, United States of ...",
+      "date": "2026-05-23",
+      "timestamp": "2026-05-23T12:31:50+00:00",
+      "fetched_at": "2026-05-24T01:51:03.706298+00:00"
+    },
+    {
+      "id": "f365f7c2631f",
+      "title": "Sr. Frontend Engineer at OneDome \u2013 VueJobs",
+      "company": "OneDome \u2013 VueJobs",
+      "role": "Frontend Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://vuejobs.com/jobs/onedome-sr-frontend-engineer?utm_source=rssfeed",
+      "source": "Other",
+      "description": "Sr. Frontend Engineer . Work Place. remote. Work Type. contract. Seniority. senior. Salary. 3000-3500USD /year. Published at. 8 hours ago. Location.",
+      "date": "2026-05-23",
+      "timestamp": "2026-05-23T12:28:22+00:00",
+      "fetched_at": "2026-05-24T01:51:03.933405+00:00"
+    },
+    {
+      "id": "3b85946accf1",
+      "title": "Lead Software Engineer - JPMC Candidate Experience page Careers",
+      "company": "JPMC Candidate Experience page Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/cx_1001/job/210745952",
+      "source": "Other",
+      "description": "Lead Software Engineer . Tampa, FL, United States. Apply Now. Job Information. Job Identification 210745952; Job Category Software Engineering ...",
+      "date": "2026-05-23",
+      "timestamp": "2026-05-23T11:18:31+00:00",
+      "fetched_at": "2026-05-24T01:51:03.933537+00:00"
+    },
+    {
+      "id": "9a0b78c00285",
+      "title": "Associate Data Engineer | American Greetings Corporation - jobs.brassring.com",
+      "company": "American Greetings Corporation - jobs.brassring.com",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25519&siteid=5215&PageType=JobDetails&jobid=5224635",
+      "source": "BrassRing",
+      "description": "Associate Data Engineer | American Greetings Corporation. Quick Apply. Close. {{dynamicStrings.Link_ClearAll}}. Job Search Job Search Options expanded ...",
+      "date": "2026-05-23",
+      "timestamp": "2026-05-23T11:12:51+00:00",
+      "fetched_at": "2026-05-24T01:51:03.933693+00:00"
     },
     {
       "id": "b762ba36a46a",
