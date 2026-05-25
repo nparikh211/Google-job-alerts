@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-05-25T01:57:10.406035+00:00",
-  "total_jobs": 2399,
+  "last_updated": "2026-05-25T08:08:41.570367+00:00",
+  "total_jobs": 2415,
   "stats": {
-    "total_companies": 1391,
+    "total_companies": 1397,
     "total_roles": 51,
     "regions": {
-      "India": 1473,
-      "Philippines": 493,
+      "India": 1487,
+      "Philippines": 495,
       "Remote": 308,
       "Unknown": 135
     },
     "sources": {
-      "Other": 1859,
+      "Other": 1875,
       "Greenhouse": 131,
       "Workday": 113,
       "LinkedIn": 89,
@@ -31,10 +31,220 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-05-24"
+      "latest": "2026-05-25"
     }
   },
   "jobs": [
+    {
+      "id": "aa1f9800d258",
+      "title": "Distinguished, Software Engineer - Walmart Careers",
+      "company": "Walmart Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.walmart.com/us/en/jobs/R-2479555",
+      "source": "Other",
+      "description": "Position Summary... What you'll do... We are seeking a Distinguished Software Engineer to define and drive the technical architecture for ...",
+      "date": "2026-05-25",
+      "timestamp": "2026-05-25T05:11:09+00:00",
+      "fetched_at": "2026-05-25T08:08:41.555164+00:00"
+    },
+    {
+      "id": "2d84b1a59473",
+      "title": "C#/.NET Software Engineer II in indianapolis, Indiana, United States of America - RTX jobs",
+      "company": "RTX jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.rtx.com/global/en/job/01847699/C-NET-Software-Engineer-II",
+      "source": "Other",
+      "description": "Apply for C#/.NET Software Engineer II job with Raytheon in indianapolis, Indiana, United States of America. Engineering at Raytheon.",
+      "date": "2026-05-25",
+      "timestamp": "2026-05-25T05:03:18+00:00",
+      "fetched_at": "2026-05-25T08:08:41.555397+00:00"
+    },
+    {
+      "id": "0d4d7c9f2e64",
+      "title": "Software Engineer III - Walmart Careers",
+      "company": "Walmart Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.walmart.com/us/en/jobs/R-2459976",
+      "source": "Other",
+      "description": "Position: Software Engineer III Job Location: 1375 Crossman Ave, Sunnyvale, CA 94086 Duties: Design, develop, and support \u201cPromise and Sourcing Engine ...",
+      "date": "2026-05-25",
+      "timestamp": "2026-05-25T04:46:13+00:00",
+      "fetched_at": "2026-05-25T08:08:41.555610+00:00"
+    },
+    {
+      "id": "af3f87934a06",
+      "title": "AI Engineer - Devex",
+      "company": "Devex",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.devex.com/jobs/ai-engineer-1436732",
+      "source": "Other",
+      "description": "Overview As an AI Engineer specializing in Agentic AI enablement, you will design, prototype, iterate, and productionize reusable agent ...",
+      "date": "2026-05-25",
+      "timestamp": "2026-05-25T04:25:55+00:00",
+      "fetched_at": "2026-05-25T08:08:41.493611+00:00"
+    },
+    {
+      "id": "ab904c9e6588",
+      "title": "Senior software engineer : r/Mortgages - Reddit",
+      "company": "Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/Mortgages/comments/1tmx8ct/senior_software_engineer/",
+      "source": "Other",
+      "description": "Senior software engineer . I make $110 k at rocket in Michigan and I think I'm getting ripped off. Lots of work for the pay. Am I right? Upvote",
+      "date": "2026-05-25",
+      "timestamp": "2026-05-25T04:08:26+00:00",
+      "fetched_at": "2026-05-25T08:08:41.493809+00:00"
+    },
+    {
+      "id": "6676d9f5dd38",
+      "title": "GDS Consulting - AI and DATA - AWS Data Engineer - Manager Job Details - EY careers",
+      "company": "GDS Consulting",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.ey.com/ey/job/Bengaluru-EY-GDS-Consulting-AI-and-DATA-AWS-Data-Engineer-Manager-KA-560016/1392356033/",
+      "source": "Other",
+      "description": "Bengaluru EY - GDS Consulting - AI and DATA - AWS Data Engineer - Manager - KA, 560016.",
+      "date": "2026-05-25",
+      "timestamp": "2026-05-25T02:58:54+00:00",
+      "fetched_at": "2026-05-25T08:08:41.494082+00:00"
+    },
+    {
+      "id": "fe867813780c",
+      "title": "Distinguished, Software Engineer - Walmart Careers",
+      "company": "Walmart Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.walmart.com/us/en/jobs/R-2515636",
+      "source": "Other",
+      "description": "Position Summary... What you'll do... Role Summary We are seeking a Distinguished Software Engineer to define and drive the technical architecture ...",
+      "date": "2026-05-25",
+      "timestamp": "2026-05-25T02:58:22+00:00",
+      "fetched_at": "2026-05-25T08:08:41.494230+00:00"
+    },
+    {
+      "id": "f6b22109a647",
+      "title": "Software Engineer II in tucson, Arizona, United States of America - RTX jobs",
+      "company": "RTX jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.rtx.com/global/en/job/01847738/Software-Engineer-II",
+      "source": "Other",
+      "description": "Apply for Software Engineer II job with Raytheon in tucson, Arizona, United States of America. Engineering at Raytheon.",
+      "date": "2026-05-25",
+      "timestamp": "2026-05-25T02:54:40+00:00",
+      "fetched_at": "2026-05-25T08:08:41.494357+00:00"
+    },
+    {
+      "id": "d33b7db8fce9",
+      "title": "Colombia, Semi Senior Full Stack Software Engineer - 18001 - MetLife Careers",
+      "company": "18001 - MetLife Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.metlifecareers.com/en_US/ml/JobDetail/Software-Engineer-II/18001",
+      "source": "Other",
+      "description": "Description and Requirements. The Full Stack Software Engineer is responsible for designing, building, and maintaining backend services and frontend ...",
+      "date": "2026-05-25",
+      "timestamp": "2026-05-25T02:46:41+00:00",
+      "fetched_at": "2026-05-25T08:08:41.494513+00:00"
+    },
+    {
+      "id": "647ca32180ec",
+      "title": "[0 YoE, Unemployed, Software Engineer , USA] : r/resumes - Reddit",
+      "company": "Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/resumes/comments/1tmlv2b/0_yoe_unemployed_software_engineer_usa/",
+      "source": "Other",
+      "description": "r/resumes - [0 YoE, Unemployed, Software Engineer / AI Engineer ,. 43 ... [10 YoE, Senior Java Software Engineer , Backend Engineer , United States].",
+      "date": "2026-05-25",
+      "timestamp": "2026-05-25T02:08:13+00:00",
+      "fetched_at": "2026-05-25T08:08:41.494681+00:00"
+    },
+    {
+      "id": "4f4195ab4aae",
+      "title": "Software Engineer , Fleet Management - Tesla",
+      "company": "Tesla",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.tesla.com/careers/search/job/268132",
+      "source": "Other",
+      "description": "Software Engineer , Fleet Management. Job Category, Engineering & Information Technology. Location, AUSTIN, Texas. Req. ID, 268132. Job Type, Full-time ...",
+      "date": "2026-05-25",
+      "timestamp": "2026-05-25T00:52:33+00:00",
+      "fetched_at": "2026-05-25T08:08:41.494798+00:00"
+    },
+    {
+      "id": "4d1b81e5954d",
+      "title": "Lead Software Engineer (C# .Net) job in Bangalore, Karn\u0101taka, India - Danaher Careers",
+      "company": "Danaher Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.danaher.com/global/en/job/DANAGLOBALR1311904EXTERNALENGLOBAL/Lead-Software-Engineer-C-Net",
+      "source": "Other",
+      "description": "Senior Software Engineer (C# .Net). Location Bangalore, Karn\u0101taka, India Category Engineering Posted Date 05/15/2026. Senior Software Engineer (C# .",
+      "date": "2026-05-25",
+      "timestamp": "2026-05-25T00:46:31+00:00",
+      "fetched_at": "2026-05-25T08:08:41.556404+00:00"
+    },
+    {
+      "id": "2cbc7fc4fd77",
+      "title": "Senior Software Engineer - AI Developer Tooling Workflows - Canva Careers",
+      "company": "Senior Software Engineer",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.lifeatcanva.com/en/jobs/6000000001099150/senior-software-engineer-ai-developer-tooling-workflows/",
+      "source": "Other",
+      "description": "Medium skinned woman wearing a floral dress, holding a pair of glasses. Senior Software Engineer - AI Developer Tooling Workflows. Team. Engineering.",
+      "date": "2026-05-25",
+      "timestamp": "2026-05-25T00:18:28+00:00",
+      "fetched_at": "2026-05-25T08:08:41.494995+00:00"
+    },
+    {
+      "id": "81124dae20b9",
+      "title": "Principal Data Engineer (US) | TD Bank Jobs",
+      "company": "TD Bank Jobs",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://tdbank.jobs/new-york-ny/principal-data-engineer-us/67A780E6E4954F92A86ABDADCD6FC8BD/job/",
+      "source": "Other",
+      "description": "Principal Data Engineer (US)New York, NY Posted today \u00b7 University or Graduate / post graduate degree in Data Management or related Computer Science or ...",
+      "date": "2026-05-24",
+      "timestamp": "2026-05-24T23:26:48+00:00",
+      "fetched_at": "2026-05-25T08:08:41.495181+00:00"
+    },
     {
       "id": "785a920f05b7",
       "title": "Senior Applied AI Engineer \u2013 Creative Systems & Brand Intelligence, Adobe Express",
@@ -49,6 +259,21 @@
       "date": "2026-05-24",
       "timestamp": "2026-05-24T22:35:12+00:00",
       "fetched_at": "2026-05-25T01:57:10.392312+00:00"
+    },
+    {
+      "id": "0b629ed0e215",
+      "title": "Job Posting Title Principal Full-Stack Software Engineer (Shared Services) at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/santa-clara/job-posting-title-principal-full-stack-software-engineer-shared-services/47263/95490519840",
+      "source": "Other",
+      "description": "Learn more about applying for Job Posting Title Principal Full-Stack Software Engineer (Shared Services) at Palo Alto Networks. ... Applied AI Engineer ...",
+      "date": "2026-05-24",
+      "timestamp": "2026-05-24T21:56:22+00:00",
+      "fetched_at": "2026-05-25T08:08:41.495814+00:00"
     },
     {
       "id": "585afe64b239",
@@ -109,6 +334,21 @@
       "date": "2026-05-24",
       "timestamp": "2026-05-24T19:59:53+00:00",
       "fetched_at": "2026-05-25T01:57:10.325334+00:00"
+    },
+    {
+      "id": "dce2522e3a95",
+      "title": "DevOps Engineer @ Hexagon | SpaceTalent Job Board",
+      "company": "Hexagon",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.spacetalent.org/companies/hexagon-2/jobs/80248267-devops-engineer",
+      "source": "Other",
+      "description": "DevOps Engineer . Hexagon. Software Engineering. St Gallen ... We are looking for a Senior DevOps Platform Engineer with deep ...",
+      "date": "2026-05-24",
+      "timestamp": "2026-05-24T18:53:10+00:00",
+      "fetched_at": "2026-05-25T08:08:41.496402+00:00"
     },
     {
       "id": "d8a176ffcfec",
