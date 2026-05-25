@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-05-25T17:26:03.413646+00:00",
-  "total_jobs": 2445,
+  "last_updated": "2026-05-25T20:55:50.737854+00:00",
+  "total_jobs": 2454,
   "stats": {
-    "total_companies": 1408,
+    "total_companies": 1412,
     "total_roles": 51,
     "regions": {
-      "India": 1503,
-      "Philippines": 507,
-      "Remote": 310,
+      "India": 1510,
+      "Philippines": 508,
+      "Remote": 311,
       "Unknown": 135
     },
     "sources": {
-      "Other": 1903,
+      "Other": 1912,
       "Greenhouse": 131,
       "Workday": 113,
       "LinkedIn": 90,
@@ -36,6 +36,51 @@
   },
   "jobs": [
     {
+      "id": "1a5a215feab1",
+      "title": "Software Engineer , Build Systems / CI - OpenAI",
+      "company": "OpenAI",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://openai.com/careers/software-engineer-build-systems-ci-san-francisco/",
+      "source": "Other",
+      "description": "Software Engineer , Build Systems / CI | OpenAI. Careers. Software Engineer , Build Systems / CI. Applied AI Infrastructure - San Francisco, New York ...",
+      "date": "2026-05-25",
+      "timestamp": "2026-05-25T20:22:59+00:00",
+      "fetched_at": "2026-05-25T20:55:50.536486+00:00"
+    },
+    {
+      "id": "bda64f8e76f2",
+      "title": "Senior Software Engineer at Ford Motor Company",
+      "company": "Ford Motor Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.careers.ford.com/job/chennai/senior-software-engineer/48560/95551928096",
+      "source": "Other",
+      "description": "Senior Software Engineer \u00b7 Design, develop, and maintain scalable backend applications using Python and Spring Boot \u00b7 Build and deploy cloud-native ...",
+      "date": "2026-05-25",
+      "timestamp": "2026-05-25T18:48:22+00:00",
+      "fetched_at": "2026-05-25T20:55:50.536671+00:00"
+    },
+    {
+      "id": "7637f65e7a82",
+      "title": "Software Engineer IV - 331191 Job Details | Grainger Businesses",
+      "company": "331191 Job Details | Grainger Businesses",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.grainger.com/job/LAKE-FOREST-Software-Engineer-IV-331191-IL-60045-5201/1393701300/",
+      "source": "Other",
+      "description": "LAKE FOREST Software Engineer IV - 331191 - IL, 60045-5201.",
+      "date": "2026-05-25",
+      "timestamp": "2026-05-25T17:51:06+00:00",
+      "fetched_at": "2026-05-25T20:55:50.536902+00:00"
+    },
+    {
       "id": "189e21a583cb",
       "title": "Senior Software Engineer , GenAI GCP Security \u2014 Google Careers",
       "company": "Unknown Company",
@@ -49,6 +94,36 @@
       "date": "2026-05-25",
       "timestamp": "2026-05-25T17:03:40+00:00",
       "fetched_at": "2026-05-25T17:26:03.400562+00:00"
+    },
+    {
+      "id": "09ca7daae27f",
+      "title": "Mid Level Software Engineer at Zagged - Remote (work from home) | Get on Board",
+      "company": "Zagged",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.getonbrd.com/jobs/programming/mid-level-software-engineer-zagged-remote",
+      "source": "Other",
+      "description": "We're looking for a mid-level software engineer to help ship real features across both app development and web development. In this role, you'll ...",
+      "date": "2026-05-25",
+      "timestamp": "2026-05-25T16:50:26+00:00",
+      "fetched_at": "2026-05-25T20:55:50.537489+00:00"
+    },
+    {
+      "id": "1d1ca18e6fd4",
+      "title": "Senior Backend Engineer \u2013 C#/.NET, VMware & KVM - HPE Careers",
+      "company": "HPE Careers",
+      "role": "Backend Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.hpe.com/us/en/job/1206863/Senior-Backend-Engineer-C-NET-VMware-KVM",
+      "source": "Other",
+      "description": "Apply for Senior Backend Engineer ... Join our team as a Senior Software Engineer - Backend Developer and drive innovation in hybrid cloud solutions.",
+      "date": "2026-05-25",
+      "timestamp": "2026-05-25T16:49:34+00:00",
+      "fetched_at": "2026-05-25T20:55:50.724829+00:00"
     },
     {
       "id": "4c80cff50bf0",
@@ -111,6 +186,51 @@
       "fetched_at": "2026-05-25T17:26:03.401198+00:00"
     },
     {
+      "id": "7fb66ff7f4c3",
+      "title": "ML Engineer (Intern) | Pathos",
+      "company": "Pathos",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/pathos/jobs/430a21a7-8718-47ff-8963-2095727cce57?jobSite=LinkedIn",
+      "source": "Other",
+      "description": "ML Engineer (Intern). Drug development shouldn't be guesswork, not when ... We are hiring Machine Learning Engineer Interns. You will work ...",
+      "date": "2026-05-25",
+      "timestamp": "2026-05-25T16:01:25+00:00",
+      "fetched_at": "2026-05-25T20:55:50.538559+00:00"
+    },
+    {
+      "id": "c52fcb3e910d",
+      "title": "Cloud Engineer mentor opportunity : r/googlecloud - Reddit",
+      "company": "Reddit",
+      "role": "Cloud Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/googlecloud/comments/1tncep4/cloud_engineer_mentor_opportunity/",
+      "source": "Other",
+      "description": "Is Google Cloud Certified Professional Machine Learning Engineer certification worth it ? ... Google Cloud Professional Data Engineer certification.",
+      "date": "2026-05-25",
+      "timestamp": "2026-05-25T15:52:03+00:00",
+      "fetched_at": "2026-05-25T20:55:50.538719+00:00"
+    },
+    {
+      "id": "e0ab9b4dffab",
+      "title": "Software Engineer 1 in Bengaluru, Karn\u0101taka, 560048 | Engineering & QA at HPE",
+      "company": "HPE",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.hpe.com/us/en/job/1207071/Software-Engineer-1",
+      "source": "Other",
+      "description": "Apply for Software Engineer 1 job with HPE in Bengaluru, Karn\u0101taka, 560048. Engineering & QA at HPE.",
+      "date": "2026-05-25",
+      "timestamp": "2026-05-25T15:23:38+00:00",
+      "fetched_at": "2026-05-25T20:55:50.538854+00:00"
+    },
+    {
       "id": "ed6542ccf18e",
       "title": "AI Engineer (Prisma Browser - Agents Platform) at Palo Alto Networks",
       "company": "Palo Alto Networks",
@@ -169,6 +289,21 @@
       "date": "2026-05-25",
       "timestamp": "2026-05-25T14:04:08+00:00",
       "fetched_at": "2026-05-25T17:26:03.402014+00:00"
+    },
+    {
+      "id": "81c0aa19cdc6",
+      "title": "Gen AI Engineer job in Hyderabad, India | Experian",
+      "company": "Experian",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.experian.com/job/gen-ai-engineer-in-hyderabad-india-jid-5070",
+      "source": "Other",
+      "description": "Gen AI Engineer \u00b7 You will be #LI-hybrid based in Hyderabad and reporting to Director Engineering \u00b7 Work as a senior GenAI engineer in an agile team to ...",
+      "date": "2026-05-25",
+      "timestamp": "2026-05-25T13:42:00+00:00",
+      "fetched_at": "2026-05-25T20:55:50.539831+00:00"
     },
     {
       "id": "10f09158969a",
