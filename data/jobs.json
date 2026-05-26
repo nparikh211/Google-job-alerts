@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-05-25T20:55:50.737854+00:00",
-  "total_jobs": 2454,
+  "last_updated": "2026-05-26T01:49:39.884251+00:00",
+  "total_jobs": 2468,
   "stats": {
-    "total_companies": 1412,
+    "total_companies": 1418,
     "total_roles": 51,
     "regions": {
-      "India": 1510,
-      "Philippines": 508,
-      "Remote": 311,
+      "India": 1519,
+      "Philippines": 511,
+      "Remote": 313,
       "Unknown": 135
     },
     "sources": {
-      "Other": 1912,
-      "Greenhouse": 131,
+      "Other": 1923,
+      "Greenhouse": 132,
       "Workday": 113,
-      "LinkedIn": 90,
+      "LinkedIn": 91,
       "Ashby": 81,
       "Breezy": 28,
       "iCIMS": 26,
@@ -22,19 +22,124 @@
       "Indeed": 13,
       "Workable": 13,
       "SmartRecruiters": 12,
+      "Jobvite": 3,
       "WeWorkRemotely": 2,
       "BrassRing": 2,
-      "Jobvite": 2,
       "Recruitee": 2,
       "Taleo": 1,
       "ADP": 1
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-05-25"
+      "latest": "2026-05-26"
     }
   },
   "jobs": [
+    {
+      "id": "e746cc66423e",
+      "title": "People think Z\u00fcrich only works financially if you're a software engineer at Google or Meta ...",
+      "company": "Google or Meta ...",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://x.com/ludovico_bessi/status/2058805535864946795",
+      "source": "Other",
+      "description": "Ludovico Bessi (@ludovico_bessi). 462 likes 34 replies. People think Z\u00fcrich only works financially if you're a software engineer at Google or Meta ...",
+      "date": "2026-05-26",
+      "timestamp": "2026-05-26T00:47:35+00:00",
+      "fetched_at": "2026-05-26T01:49:39.578562+00:00"
+    },
+    {
+      "id": "c04f3a5cc95f",
+      "title": "Software Engineer II in Vancouver, Canada, V6C 3T4 - Mastercard",
+      "company": "Mastercard",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mastercard.com/us/en/job/R-276433/Software-Engineer-II",
+      "source": "Other",
+      "description": "... Senior Software Engineer . Location Vancouver, Canada, V6C 3T4 Category Engineering. Senior Software Engineer (AWS Cloud Engineer ). Location Vancouver ...",
+      "date": "2026-05-25",
+      "timestamp": "2026-05-25T23:22:51+00:00",
+      "fetched_at": "2026-05-26T01:49:39.579080+00:00"
+    },
+    {
+      "id": "6323128c9af9",
+      "title": "App/ AI Engineer (R&D) in Toronto, Ontario, Canada | Research & Development at McCain Foods",
+      "company": "McCain Foods",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.mccain.com/us/en/job/42629/App-AI-Engineer-R-D",
+      "source": "Other",
+      "description": "Apply for App/ AI Engineer (R&D) job with McCain Foods in Toronto, Ontario, Canada. Research & Development at McCain Foods.",
+      "date": "2026-05-25",
+      "timestamp": "2026-05-25T23:06:31+00:00",
+      "fetched_at": "2026-05-26T01:49:39.870143+00:00"
+    },
+    {
+      "id": "bb4d7b609da5",
+      "title": "Principal Site Reliability Engineer at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-site-reliability-engineer/47263/93767041728",
+      "source": "Other",
+      "description": "Principal Site Reliability Engineer . Santa Clara, California ... We are seeking a highly experienced and visionary Principal DevOps Engineer ...",
+      "date": "2026-05-25",
+      "timestamp": "2026-05-25T22:10:07+00:00",
+      "fetched_at": "2026-05-26T01:49:39.579267+00:00"
+    },
+    {
+      "id": "9f091c195890",
+      "title": "ComfyUI hiring Senior/Staff ML Engineer , Model Integration in San Francisco, CA | LinkedIn",
+      "company": "LinkedIn",
+      "role": "ML Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/senior-staff-ml-engineer-model-integration-at-comfyui-4418994319?position=59&pageNum=0&refId=UVaPjCHaj5KbNsRcskJm8g%3D%3D&trackingId=g29G4hICdIZ0gcnu1UKZbQ%3D%3D",
+      "source": "LinkedIn",
+      "description": "Machine Learning Engineer jobs. 148,937 open jobs \u00b7 Full Stack Engineer jobs. 38,546 open jobs \u00b7 Senior Software Engineer jobs. 78,145 open jobs ...",
+      "date": "2026-05-25",
+      "timestamp": "2026-05-25T22:02:45+00:00",
+      "fetched_at": "2026-05-26T01:49:39.870472+00:00"
+    },
+    {
+      "id": "bd3952a03266",
+      "title": "Studio Graphene Limited Careers - Associate Software Engineer - Full Stack - Jobvite",
+      "company": "Studiographene Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.jobvite.com/studiographene-careers/job/ox59Afw5",
+      "source": "Jobvite",
+      "description": "Associate Software Engineer - Full Stack. Gurgaon, India. Apply ... Senior Software Engineer - AI \u00b7 Powered by Jobvite. Search Jobs. Jobs \u00b7 About ...",
+      "date": "2026-05-25",
+      "timestamp": "2026-05-25T20:46:56+00:00",
+      "fetched_at": "2026-05-26T01:49:39.579389+00:00"
+    },
+    {
+      "id": "c9755419e460",
+      "title": "Senior Backend Engineer - Remote/Azerbaijan | Tabby Careers",
+      "company": "Remote/Azerbaijan | Tabby Careers",
+      "role": "Backend Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://tabby.pinpointhq.com/en/postings/85bbd74a-4817-4dd2-9b4d-a8e813f482fa",
+      "source": "Other",
+      "description": "Senior Backend Engineer . Department: Core Business Engineering; Employment Type: Full Time; Location: Remote/Azerbaijan; Workplace type: Fully remote ...",
+      "date": "2026-05-25",
+      "timestamp": "2026-05-25T20:27:00+00:00",
+      "fetched_at": "2026-05-26T01:49:39.579562+00:00"
+    },
     {
       "id": "1a5a215feab1",
       "title": "Software Engineer , Build Systems / CI - OpenAI",
@@ -49,6 +154,81 @@
       "date": "2026-05-25",
       "timestamp": "2026-05-25T20:22:59+00:00",
       "fetched_at": "2026-05-25T20:55:50.536486+00:00"
+    },
+    {
+      "id": "f122a98a396e",
+      "title": "Staff Software Engineer , Generative AI - Tesla",
+      "company": "Tesla",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.tesla.com/careers/search/job/staff-software-engineer-generative-ai-270096",
+      "source": "Other",
+      "description": "As a Software Engineer on the Bottlerocket team, you will drive the technical vision and architecture for Tesla's internal Generative AI platform.",
+      "date": "2026-05-25",
+      "timestamp": "2026-05-25T20:01:34+00:00",
+      "fetched_at": "2026-05-26T01:49:39.580108+00:00"
+    },
+    {
+      "id": "8ded37c9fe5b",
+      "title": "Software Engineer (AI Agents) - Marriott Careers",
+      "company": "Marriott Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.marriott.com/software-engineer-ai-agents/job/36E346C4FBBB9C95725F632B6F64A3C3",
+      "source": "Other",
+      "description": "Position Overview. An AI Software Engineer is an entry to mid\u2011level role responsible for building AI agents and agentic experiences for business ...",
+      "date": "2026-05-25",
+      "timestamp": "2026-05-25T19:48:26+00:00",
+      "fetched_at": "2026-05-26T01:49:39.580293+00:00"
+    },
+    {
+      "id": "29796cc93528",
+      "title": "Senior Embedded & Platform Software Engineer , Workforce Development - Arm Careers",
+      "company": "Arm Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.arm.com/job/cambridge/senior-embedded-and-platform-software-engineer-workforce-development/33099/95551972768",
+      "source": "Other",
+      "description": "Learn more about and apply for the Senior Embedded & Platform Software Engineer , Workforce Development job in Cambridge at Arm.",
+      "date": "2026-05-25",
+      "timestamp": "2026-05-25T19:04:08+00:00",
+      "fetched_at": "2026-05-26T01:49:39.580536+00:00"
+    },
+    {
+      "id": "6ae5f2946264",
+      "title": "Software Engineer II, Data - Pinterest Careers",
+      "company": "Pinterest Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.pinterestcareers.com/jobs/7901817/software-engineer-ii-data/?gh_jid=7901817",
+      "source": "Other",
+      "description": "As a Software Engineer (Data), you are a full stack data engineer that loves solving business problems with data. You work with key business and ...",
+      "date": "2026-05-25",
+      "timestamp": "2026-05-25T19:02:44+00:00",
+      "fetched_at": "2026-05-26T01:49:39.580834+00:00"
+    },
+    {
+      "id": "bf7fa7b6f408",
+      "title": "Software Engineer , BENGALURU, Karn\u0101taka | Wells Fargo",
+      "company": "Wells Fargo",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.wellsfargojobs.com/en/jobs/r-545819/software-engineer/",
+      "source": "Other",
+      "description": "About this role: Wells Fargo is seeking a Software Engineer - Gen AI. We believe in the power of working together because great ideas can come ...",
+      "date": "2026-05-25",
+      "timestamp": "2026-05-25T19:00:43+00:00",
+      "fetched_at": "2026-05-26T01:49:39.871693+00:00"
     },
     {
       "id": "bda64f8e76f2",
@@ -139,6 +319,36 @@
       "date": "2026-05-25",
       "timestamp": "2026-05-25T16:49:17+00:00",
       "fetched_at": "2026-05-25T17:26:03.400732+00:00"
+    },
+    {
+      "id": "906628269e6a",
+      "title": "Job Application for Machine Learning Engineer II at Affirm - Greenhouse",
+      "company": "Affirm",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/affirm/jobs/7719653003",
+      "source": "Greenhouse",
+      "description": "Machine Learning Engineer II. Remote Canada. Apply. Affirm is reinventing credit to make it more honest and friendly, giving consumers the ...",
+      "date": "2026-05-25",
+      "timestamp": "2026-05-25T16:47:36+00:00",
+      "fetched_at": "2026-05-26T01:49:39.582051+00:00"
+    },
+    {
+      "id": "e68b6296c717",
+      "title": "Senior Software Engineer in Prague, Central Bohemian, Czechia | IT & Digital Data at MSD",
+      "company": "MSD",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.msd.com/gb/en/job/R397409/Senior-Software-Engineer",
+      "source": "Other",
+      "description": "Apply for Senior Software Engineer job with MSD in Prague, Central Bohemian, Czechia. IT & Digital Data at MSD.",
+      "date": "2026-05-25",
+      "timestamp": "2026-05-25T16:43:08+00:00",
+      "fetched_at": "2026-05-26T01:49:39.872885+00:00"
     },
     {
       "id": "ea7d5b1a2179",
