@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-05-26T18:14:14.899314+00:00",
-  "total_jobs": 2508,
+  "last_updated": "2026-05-26T21:23:37.033206+00:00",
+  "total_jobs": 2526,
   "stats": {
-    "total_companies": 1434,
+    "total_companies": 1442,
     "total_roles": 51,
     "regions": {
-      "India": 1535,
-      "Philippines": 529,
-      "Remote": 319,
+      "India": 1544,
+      "Philippines": 532,
+      "Remote": 325,
       "Unknown": 135
     },
     "sources": {
-      "Other": 1956,
-      "Greenhouse": 134,
+      "Other": 1972,
+      "Greenhouse": 135,
       "Workday": 113,
       "LinkedIn": 92,
       "Ashby": 83,
-      "Breezy": 29,
+      "Breezy": 30,
       "iCIMS": 27,
       "Lever": 25,
       "Indeed": 13,
@@ -36,6 +36,171 @@
   },
   "jobs": [
     {
+      "id": "c21cbc0df797",
+      "title": "AI Platform Engineer , Full-Stack at Accrete",
+      "company": "Accrete Ai",
+      "role": "Platform Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://accrete-ai.breezy.hr/p/405bf096c9a4-ai-platform-engineer-full-stack",
+      "source": "Breezy",
+      "description": "We are seeking a AI Platform Engineer Full-Stack Engineer to join our AI Platform team. This team is responsible for building the core ...",
+      "date": "2026-05-26",
+      "timestamp": "2026-05-26T21:09:45+00:00",
+      "fetched_at": "2026-05-26T21:23:37.019064+00:00"
+    },
+    {
+      "id": "e8c7bdde955e",
+      "title": "Founding Software Engineer at Sage Care | Y Combinator",
+      "company": "Sage Care",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.ycombinator.com/companies/sagecare/jobs/xtloH8r-founding-software-engineer",
+      "source": "Other",
+      "description": "Founding Software Engineer . $125K - $250K\u20220.02% - 2.00%\u2022New York, NY ... Full Stack Engineer (San Francisco) \u00b7 Refactor \u00b7 Founding AI Engineer .",
+      "date": "2026-05-26",
+      "timestamp": "2026-05-26T20:29:58+00:00",
+      "fetched_at": "2026-05-26T21:23:36.873661+00:00"
+    },
+    {
+      "id": "ccc0468bf867",
+      "title": "Data Engineer | StrongMind, Inc.",
+      "company": "StrongMind, Inc.",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://ats.rippling.com/strongmind-inc/jobs/81cb2db1-615b-4452-ae07-1f76bf69ac75",
+      "source": "Other",
+      "description": "Title: Data Engineer \u00b7 Location: Remote (United States) \u00b7 Reports to: VP of Data Science \u00b7 StrongMind is a remote-first education and technology company ...",
+      "date": "2026-05-26",
+      "timestamp": "2026-05-26T20:22:05+00:00",
+      "fetched_at": "2026-05-26T21:23:36.873849+00:00"
+    },
+    {
+      "id": "e88678b895b6",
+      "title": "Advanced Information Technologist \u2013 Mid Level Cloud Engineer at Boeing",
+      "company": "Boeing",
+      "role": "Cloud Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.boeing.com/job/hazelwood/advanced-information-technologist-mid-level-cloud-engineer/185/95593861824",
+      "source": "Other",
+      "description": "Boeing Defense, Space & Security (BDS) is hiring an Advanced Information Technologist \u2013 Mid Level Cloud Engineer for the Digital Infrastructure ...",
+      "date": "2026-05-26",
+      "timestamp": "2026-05-26T20:13:25+00:00",
+      "fetched_at": "2026-05-26T21:23:36.874085+00:00"
+    },
+    {
+      "id": "cb8533e7d064",
+      "title": "Data Engineer in Reston, Virginia, United States - SAIC Careers",
+      "company": "SAIC Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.saic.com/jobs/17782402-data-engineer",
+      "source": "Other",
+      "description": "... data engineer , database administrator, geospatial analyst/engineer, machine learning engineer , or software engineer , or related field. Ability to ...",
+      "date": "2026-05-26",
+      "timestamp": "2026-05-26T20:03:53+00:00",
+      "fetched_at": "2026-05-26T21:23:36.874215+00:00"
+    },
+    {
+      "id": "3ae07efb3a11",
+      "title": "Senior Staff Site Reliability Engineer at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-staff-site-reliability-engineer/47263/95593723904",
+      "source": "Other",
+      "description": "Senior Staff Site Reliability Engineer . Santa Clara, California, United States Product Engineering Ref ID: JR-017850. Apply Save Job. Current ...",
+      "date": "2026-05-26",
+      "timestamp": "2026-05-26T19:43:28+00:00",
+      "fetched_at": "2026-05-26T21:23:36.874385+00:00"
+    },
+    {
+      "id": "431fa47fa7fe",
+      "title": "Job Application for Senior AI Engineer at GitLab - Greenhouse",
+      "company": "Gitlab",
+      "role": "AI Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/gitlab/jobs/8548545002",
+      "source": "Greenhouse",
+      "description": "Senior AI Engineer . Remote, US. Apply. GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase ...",
+      "date": "2026-05-26",
+      "timestamp": "2026-05-26T19:10:09+00:00",
+      "fetched_at": "2026-05-26T21:23:36.874482+00:00"
+    },
+    {
+      "id": "4ab88b23ea8f",
+      "title": "Senior Software Engineer - Careers - LEGO.com",
+      "company": "Careers - LEGO.com",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.lego.com/en-us/careers/job/senior-software-engineer-e67df73018b31001b587a7885fd20000",
+      "source": "Other",
+      "description": "Senior Software Engineer : Job Description We deliver collaborative, intuitive, and automated functions that ensure consistency, coherence, ...",
+      "date": "2026-05-26",
+      "timestamp": "2026-05-26T18:48:35+00:00",
+      "fetched_at": "2026-05-26T21:23:37.020440+00:00"
+    },
+    {
+      "id": "92b9d8383884",
+      "title": "Staff Data Engineer , AI & Robotics, Warren, Michigan | General Motors Careers",
+      "company": "General Motors Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://search-careers.gm.com/en/jobs/jr-202611496/staff-data-engineer-ai-robotics/",
+      "source": "Other",
+      "description": "Staff Data Engineer , AI & Robotics. Location. Warren, Michigan. (+) Show ... Staff ML Engineer - Embodied AI Scaling Foundations. Engineering 3 ...",
+      "date": "2026-05-26",
+      "timestamp": "2026-05-26T18:30:37+00:00",
+      "fetched_at": "2026-05-26T21:23:36.874656+00:00"
+    },
+    {
+      "id": "f5c675ab871e",
+      "title": "Open Role \u2014 Senior Software Engineer , Site Reliability | Ripple",
+      "company": "Ripple",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://ripple.com/careers/all-jobs/job/7947800?gh_jid=7947800",
+      "source": "Other",
+      "description": "Senior Software Engineer , Site Reliability. New York, NY, United States ... As a Senior Site Reliability Engineer you will be a force ...",
+      "date": "2026-05-26",
+      "timestamp": "2026-05-26T18:28:10+00:00",
+      "fetched_at": "2026-05-26T21:23:37.020754+00:00"
+    },
+    {
+      "id": "ab89d7f1190b",
+      "title": "Frontend Engineer , Fauna - Job ID: 10430060 - Amazon Careers",
+      "company": "Job ID: 10430060 - Amazon Careers",
+      "role": "Frontend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.amazon.jobs/en/jobs/10430060/frontend-engineer-fauna",
+      "source": "Other",
+      "description": "Frontend Engineer , Fauna. Job ID: 10430060 | Amazon.com ... Machine Learning Engineer II, Sponsored Products Search Sourcing, Amazon Advertising.",
+      "date": "2026-05-26",
+      "timestamp": "2026-05-26T18:10:29+00:00",
+      "fetched_at": "2026-05-26T21:23:36.874806+00:00"
+    },
+    {
       "id": "770fbb8dbdcc",
       "title": "Backend Engineer (Remote Opportunity) at VetsEZ",
       "company": "Vetsez",
@@ -49,6 +214,66 @@
       "date": "2026-05-26",
       "timestamp": "2026-05-26T18:04:31+00:00",
       "fetched_at": "2026-05-26T18:14:14.885647+00:00"
+    },
+    {
+      "id": "21410d7de940",
+      "title": "Software Engineer , Ads Manager | OpenAI",
+      "company": "OpenAI",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://openai.com/careers/software-engineer-ads-manager-seattle/",
+      "source": "Other",
+      "description": "Software Engineer , Ads Manager ... The Monetization team is a new cross-functional group working across engineering, product, research, and design to ...",
+      "date": "2026-05-26",
+      "timestamp": "2026-05-26T18:02:04+00:00",
+      "fetched_at": "2026-05-26T21:23:36.875047+00:00"
+    },
+    {
+      "id": "d1195c3c611f",
+      "title": "Senior Lead Software Engineer , Distributed Systems (Golang + Python on Kubernetes)",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.capitalonecareers.com/job/san-francisco/senior-lead-software-engineer-distributed-systems-golang-python-on-kubernetes/1732/95591445584",
+      "source": "Other",
+      "description": "Learn more about applying for Senior Lead Software Engineer , Distributed Systems (Golang Python on Kubernetes) at Capital One. ... Lead Data Engineer ( ...",
+      "date": "2026-05-26",
+      "timestamp": "2026-05-26T17:55:47+00:00",
+      "fetched_at": "2026-05-26T21:23:37.021417+00:00"
+    },
+    {
+      "id": "4ff88cf07d93",
+      "title": "Lead Agentic AI Engineer -US Remote - US-OH,Columbus Job Details | Hexion Careers",
+      "company": "US Remote - US-OH,Columbus Job Details | Hexion Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.hexion.com/job/Columbus-Lead-Agentic-AI-Engineer-US-Remote-US-OH%2CColumbus-OH-43085/1393842500/",
+      "source": "Other",
+      "description": "Lead Agentic AI Engineer -US Remote - US-OH,Columbus \u00b7 Job Responsibilities. Serve as the engineering lead for Agentic AI delivery across Supply ...",
+      "date": "2026-05-26",
+      "timestamp": "2026-05-26T17:46:42+00:00",
+      "fetched_at": "2026-05-26T21:23:36.875419+00:00"
+    },
+    {
+      "id": "d66d643c0822",
+      "title": "Senior Software Engineer (Front-end)",
+      "company": "end)",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/exacare-inc/jobs/ac679862-8c03-4c75-9d8c-a451f0bcb7f3",
+      "source": "Other",
+      "description": "We are looking for a Senior Software Engineer who brings strong ... We are intentionally hiring a frontend-leaning fullstack engineer because ...",
+      "date": "2026-05-26",
+      "timestamp": "2026-05-26T17:39:15+00:00",
+      "fetched_at": "2026-05-26T21:23:36.875597+00:00"
     },
     {
       "id": "a8bc86a258bd",
@@ -96,6 +321,36 @@
       "fetched_at": "2026-05-26T18:14:14.886339+00:00"
     },
     {
+      "id": "e12313d06889",
+      "title": "Data Engineer II - Pearson Jobs",
+      "company": "Pearson Jobs",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://pearson.jobs/virtual-usa/data-engineer-ii/A69A11BF87C04AB881846BEAF36CB561/job/",
+      "source": "Other",
+      "description": "Data Engineer II. USA. Workplace Type: Remote. Job: Engineering; Schedule: FULL_TIME; Req ID: 24302. Business Intelligence Developer (Power BI).",
+      "date": "2026-05-26",
+      "timestamp": "2026-05-26T16:55:51+00:00",
+      "fetched_at": "2026-05-26T21:23:36.876530+00:00"
+    },
+    {
+      "id": "818f833704a6",
+      "title": "Senior Software Engineer , Backend, Remote - Canada | DraftKings Careers",
+      "company": "Canada | DraftKings Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.draftkings.com/jobs/jr14268/senior-software-engineer-backend/",
+      "source": "Other",
+      "description": "Senior Software Engineer , Backend. Remote - Canada. Engineering; Full time. a group of people sitting at tables in a room with orange walls. About ...",
+      "date": "2026-05-26",
+      "timestamp": "2026-05-26T16:55:48+00:00",
+      "fetched_at": "2026-05-26T21:23:36.876689+00:00"
+    },
+    {
       "id": "0d15fe68f8bc",
       "title": "Senior Software Engineer , BENGALURU, Karn\u0101taka | Wells Fargo",
       "company": "Wells Fargo",
@@ -109,6 +364,21 @@
       "date": "2026-05-26",
       "timestamp": "2026-05-26T16:47:13+00:00",
       "fetched_at": "2026-05-26T18:14:14.655842+00:00"
+    },
+    {
+      "id": "38cfbf55bd40",
+      "title": "Software Engineer II job in Oaks, Pennsylvania, United States of America - Careers at SEI",
+      "company": "SEI",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.seic.com/global/en/job/R0036471/Software-Engineer-II",
+      "source": "Other",
+      "description": "Software Engineer II. posted May 26th 2026 location Oaks ... Senior DevOps Engineer . Location Oaks, Pennsylvania, United States of ...",
+      "date": "2026-05-26",
+      "timestamp": "2026-05-26T16:46:56+00:00",
+      "fetched_at": "2026-05-26T21:23:36.876946+00:00"
     },
     {
       "id": "a2450b93b8ba",
