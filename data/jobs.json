@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-05-26T21:23:37.033206+00:00",
-  "total_jobs": 2526,
+  "last_updated": "2026-05-27T01:57:36.635933+00:00",
+  "total_jobs": 2540,
   "stats": {
-    "total_companies": 1442,
+    "total_companies": 1450,
     "total_roles": 51,
     "regions": {
-      "India": 1544,
-      "Philippines": 532,
+      "India": 1556,
+      "Philippines": 534,
       "Remote": 325,
       "Unknown": 135
     },
     "sources": {
-      "Other": 1972,
-      "Greenhouse": 135,
+      "Other": 1985,
+      "Greenhouse": 136,
       "Workday": 113,
       "LinkedIn": 92,
       "Ashby": 83,
@@ -31,10 +31,130 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-05-26"
+      "latest": "2026-05-27"
     }
   },
   "jobs": [
+    {
+      "id": "be277387311a",
+      "title": "Senior, Data Engineer - Reliability Data - Working at Pacific Gas and Electric Company",
+      "company": "Pacific Gas and Electric Company",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.pge.com/job/oakland/senior-data-engineer-reliability-data/29673/95602038704",
+      "source": "Other",
+      "description": "Senior, Data Engineer - Reliability Data. LocationOakland, California;. Save Job I'm Interested. Requisition ID # 172361. Job Category: ...",
+      "date": "2026-05-27",
+      "timestamp": "2026-05-27T00:48:59+00:00",
+      "fetched_at": "2026-05-27T01:57:36.453971+00:00"
+    },
+    {
+      "id": "bdbd6fcc3934",
+      "title": "Data Engineer , Product Data Warehouse, Go-To-Market \u2014 Google Careers",
+      "company": "To-Market \u2014 Google Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/111473509594473158",
+      "source": "Other",
+      "description": "Staff Software Engineer , AI/ML GenAI, Google Cloud AI. Sunnyvale, CA ... Data Engineer , Product Data Warehouse, Go-To-Market. share. linkCopy ...",
+      "date": "2026-05-26",
+      "timestamp": "2026-05-26T23:46:30+00:00",
+      "fetched_at": "2026-05-27T01:57:36.622170+00:00"
+    },
+    {
+      "id": "c1cfee6bdd6f",
+      "title": "Backend Engineer - Chime Careers",
+      "company": "Chime Careers",
+      "role": "Backend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.chime.com/jobs/8342770002/backend-engineer/",
+      "source": "Other",
+      "description": "and may be used everywhere Visa debit cards are accepted. The secured Chime Visa \u00ae Credit Card is issued by The Bancorp Bank, N.A. or Stride Bank, ...",
+      "date": "2026-05-26",
+      "timestamp": "2026-05-26T23:44:52+00:00",
+      "fetched_at": "2026-05-27T01:57:36.454665+00:00"
+    },
+    {
+      "id": "e11f703ec021",
+      "title": "Machine Learning Engineer in San Jose, California, United States of America - Adobe Careers",
+      "company": "Adobe Careers",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.adobe.com/us/en/job/R169199/Machine-Learning-Engineer",
+      "source": "Other",
+      "description": "We are seeking a Machine Learning Engineer who is eager to apply ML and AI to solve real challenges in reliability, quality, and operational ...",
+      "date": "2026-05-26",
+      "timestamp": "2026-05-26T23:26:47+00:00",
+      "fetched_at": "2026-05-27T01:57:36.454849+00:00"
+    },
+    {
+      "id": "e091ef01fe9b",
+      "title": "Software Engineer (Security & Reliability Operations), IS&T Enterprise Systems - Jobs",
+      "company": "Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200664835-0240/software-engineer-security-reliability-operations-is-t-enterprise-systems?team=SFTWR",
+      "source": "Other",
+      "description": "Software Engineer (Security & Reliability Operations), IS&T Enterprise Systems ... As an SRE/ DevOps engineer , you will partner closely with multiple ...",
+      "date": "2026-05-26",
+      "timestamp": "2026-05-26T22:54:18+00:00",
+      "fetched_at": "2026-05-27T01:57:36.622649+00:00"
+    },
+    {
+      "id": "9507a4f65e56",
+      "title": "Job Application for Software Engineer - Fundamental Equities at Schonfeld - Greenhouse",
+      "company": "Schonfeld",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/schonfeld/jobs/7957507",
+      "source": "Greenhouse",
+      "description": "We are looking for a Software Engineer to join the Fundamental Equity COO team, embedded directly within the business rather than in a central ...",
+      "date": "2026-05-26",
+      "timestamp": "2026-05-26T22:26:15+00:00",
+      "fetched_at": "2026-05-27T01:57:36.454959+00:00"
+    },
+    {
+      "id": "8276936d228f",
+      "title": "Software Engineer , Monetization Products - Roblox Careers",
+      "company": "Roblox Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.roblox.com/jobs/7947219",
+      "source": "Other",
+      "description": "Senior Software Engineer , Developer Monetization (C++). San Mateo, CA ... Principal Frontend Engineer - Discovery. San Mateo, CA, United States.",
+      "date": "2026-05-26",
+      "timestamp": "2026-05-26T22:20:14+00:00",
+      "fetched_at": "2026-05-27T01:57:36.455089+00:00"
+    },
+    {
+      "id": "984c63755433",
+      "title": "r/agi - AI engineer builds \"I got fired\" panic button that would automatically make the entire ... - Reddit",
+      "company": "would automatically make the entire ...",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/agi/comments/1to6mg0/ai_engineer_builds_i_got_fired_panic_button_that/",
+      "source": "Other",
+      "description": "AI engineer builds \"I got fired\" panic button that would automatically make the entire company codebase public \u00b7 Comments Section.",
+      "date": "2026-05-26",
+      "timestamp": "2026-05-26T22:04:11+00:00",
+      "fetched_at": "2026-05-27T01:57:36.455303+00:00"
+    },
     {
       "id": "c21cbc0df797",
       "title": "AI Platform Engineer , Full-Stack at Accrete",
@@ -49,6 +169,51 @@
       "date": "2026-05-26",
       "timestamp": "2026-05-26T21:09:45+00:00",
       "fetched_at": "2026-05-26T21:23:37.019064+00:00"
+    },
+    {
+      "id": "a355a02e06cc",
+      "title": "Why ML Engineer Jobs Pay So Much (And How to Get One) - YouTube",
+      "company": "YouTube",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.youtube.com/watch?v=QQGF7WfcbZY",
+      "source": "Other",
+      "description": "... Machine Learning Engineer Certification - https ... How to Become an AI Engineer Fast (Even With Zero Experience). Egor ...",
+      "date": "2026-05-26",
+      "timestamp": "2026-05-26T21:08:47+00:00",
+      "fetched_at": "2026-05-27T01:57:36.455862+00:00"
+    },
+    {
+      "id": "6ba31dc838bd",
+      "title": "Software Engineer - India - Zoom Careers",
+      "company": "India - Zoom Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.zoom.us/jobs/software-engineer-india-13ae7c49-f36f-477e-8ab9-f133f0252fed",
+      "source": "Other",
+      "description": "View all jobs. Kiosk mode. Software Engineer . Engineering. Search by job title, location, department, category, etc. Search Jobs near me. Three_People ...",
+      "date": "2026-05-26",
+      "timestamp": "2026-05-26T21:06:16+00:00",
+      "fetched_at": "2026-05-27T01:57:36.456095+00:00"
+    },
+    {
+      "id": "77ba37ce5041",
+      "title": "Data Engineer - Wrapped - Fixed Term | Life at Spotify",
+      "company": "Spotify",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.lifeatspotify.com/jobs/data-engineer-wrapped-fixed-term",
+      "source": "Other",
+      "description": "Data Engineer ... This fixed term contract will run from June 2026 through December 2026. Similar jobs. Senior Backend Engineer , Platform Developer ...",
+      "date": "2026-05-26",
+      "timestamp": "2026-05-26T20:44:47+00:00",
+      "fetched_at": "2026-05-27T01:57:36.456236+00:00"
     },
     {
       "id": "e8c7bdde955e",
@@ -96,6 +261,36 @@
       "fetched_at": "2026-05-26T21:23:36.874085+00:00"
     },
     {
+      "id": "c3e8b7ab45a0",
+      "title": "UI Software Engineer , Camera & Photos - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200660343-0836/ui-software-engineer-camera-photos?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a UI Software Engineer , Camera & Photos job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-05-26",
+      "timestamp": "2026-05-26T20:13:02+00:00",
+      "fetched_at": "2026-05-27T01:57:36.457096+00:00"
+    },
+    {
+      "id": "3f375f2d67e1",
+      "title": "Data Engineer - Zachary Piper",
+      "company": "Zachary Piper",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.zacharypiper.com/details/166615/data_engineer",
+      "source": "Other",
+      "description": "Zachary Piper Solutions is currently seeking Data Engineers on our Professional Services team in McLean, VA. Are you a skilled Data Engineer ...",
+      "date": "2026-05-26",
+      "timestamp": "2026-05-26T20:12:10+00:00",
+      "fetched_at": "2026-05-27T01:57:36.457225+00:00"
+    },
+    {
       "id": "cb8533e7d064",
       "title": "Data Engineer in Reston, Virginia, United States - SAIC Careers",
       "company": "SAIC Careers",
@@ -109,6 +304,21 @@
       "date": "2026-05-26",
       "timestamp": "2026-05-26T20:03:53+00:00",
       "fetched_at": "2026-05-26T21:23:36.874215+00:00"
+    },
+    {
+      "id": "f867d3e8e951",
+      "title": "Test Automation Software Engineer in Laurel, Maryland - APL Careers",
+      "company": "APL Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.jhuapl.edu/jobs/59034?lang=en-us",
+      "source": "Other",
+      "description": "Johns Hopkins University Applied Physics Laboratory is hiring a Test Automation Software Engineer in Laurel, Maryland.",
+      "date": "2026-05-26",
+      "timestamp": "2026-05-26T20:01:24+00:00",
+      "fetched_at": "2026-05-27T01:57:36.457486+00:00"
     },
     {
       "id": "3ae07efb3a11",
