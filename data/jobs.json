@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-05-27T21:30:25.354960+00:00",
-  "total_jobs": 2587,
+  "last_updated": "2026-05-28T01:29:13.023041+00:00",
+  "total_jobs": 2598,
   "stats": {
-    "total_companies": 1468,
+    "total_companies": 1473,
     "total_roles": 51,
     "regions": {
-      "India": 1592,
-      "Philippines": 541,
-      "Remote": 329,
+      "India": 1601,
+      "Philippines": 542,
+      "Remote": 330,
       "Unknown": 135
     },
     "sources": {
-      "Other": 2029,
-      "Greenhouse": 136,
+      "Other": 2039,
+      "Greenhouse": 137,
       "Workday": 114,
       "LinkedIn": 92,
       "Ashby": 85,
@@ -31,10 +31,145 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-05-27"
+      "latest": "2026-05-28"
     }
   },
   "jobs": [
+    {
+      "id": "570f6b971bd3",
+      "title": "Federal prosecutors say a Google software engineer allegedly placed bets on Polymarket ...",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.facebook.com/WorldNewsTonight/videos/federal-prosecutors-say-a-google-software-engineer-allegedly-placed-bets-on-poly/1465709838101304/",
+      "source": "Other",
+      "description": "Federal prosecutors say a Google software engineer allegedly placed bets on Polymarket using confidential data he had access to, making more than ...",
+      "date": "2026-05-28",
+      "timestamp": "2026-05-28T00:27:11+00:00",
+      "fetched_at": "2026-05-28T01:29:13.009270+00:00"
+    },
+    {
+      "id": "df6bcdf798f3",
+      "title": "Machine Learning Engineer at Pelica | Y Combinator",
+      "company": "Pelica",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.ycombinator.com/companies/pelica/jobs/MDeC49o-machine-learning-engineer",
+      "source": "Other",
+      "description": "Senior AI/ ML Engineer \u00b7 Mage Legal \u00b7 Founding AI Engineer \u00b7 One Robot \u00b7 Founding Machine Learning - World Models \u00b7 Maywood.",
+      "date": "2026-05-27",
+      "timestamp": "2026-05-27T22:57:11+00:00",
+      "fetched_at": "2026-05-28T01:29:12.712746+00:00"
+    },
+    {
+      "id": "6aeb699134c1",
+      "title": "Data Engineer at Ford Motor Company - Ford Careers",
+      "company": "Ford Motor Company",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.careers.ford.com/job/dearborn/data-engineer/48560/95606298752",
+      "source": "Other",
+      "description": "What you'll be able to do: Data Engineer - positions offered by Ford Motor Company (Dearborn, Michigan). Note, this is a hybrid position whereby the ...",
+      "date": "2026-05-27",
+      "timestamp": "2026-05-27T22:25:48+00:00",
+      "fetched_at": "2026-05-28T01:29:12.712917+00:00"
+    },
+    {
+      "id": "9a91168e7dae",
+      "title": "Job Application for Data Engineer at Furniture.com America LLC - Greenhouse",
+      "company": "Furniturecomamericallc",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/furniturecomamericallc/jobs/4699519005",
+      "source": "Greenhouse",
+      "description": "Data Engineer . Atlanta, GA. Apply. About Us. Furniture.com is a high growth consumer tech start up that is addressing fundamental challenges in the ...",
+      "date": "2026-05-27",
+      "timestamp": "2026-05-27T21:45:01+00:00",
+      "fetched_at": "2026-05-28T01:29:12.713035+00:00"
+    },
+    {
+      "id": "67de14d24dc7",
+      "title": "New Software engineer : r/findapath - Reddit",
+      "company": "Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/findapath/comments/1tpjjmd/new_software_engineer/",
+      "source": "Other",
+      "description": "Hello everyone, I graduated with a cs degree last month, and will be starting as a software engineer at 80k for a defense contractor.",
+      "date": "2026-05-27",
+      "timestamp": "2026-05-27T21:42:44+00:00",
+      "fetched_at": "2026-05-28T01:29:12.713510+00:00"
+    },
+    {
+      "id": "cef39225e5b6",
+      "title": "Software Engineer , Cyber Frontier | OpenAI",
+      "company": "OpenAI",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://openai.com/careers/software-engineer-cyber-frontier-san-francisco/",
+      "source": "Other",
+      "description": "Software Engineer , Cyber Frontier ... Our Cyber team builds AI systems and products that help trusted defenders understand and respond to cyber threats ...",
+      "date": "2026-05-27",
+      "timestamp": "2026-05-27T21:40:29+00:00",
+      "fetched_at": "2026-05-28T01:29:12.713728+00:00"
+    },
+    {
+      "id": "83c9d7d93bdd",
+      "title": "Senior Software Engineer , Cloud in United States of America - Abbott Jobs",
+      "company": "Abbott Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.jobs.abbott/us/en/job/31151599/Senior-Software-Engineer-Cloud",
+      "source": "Other",
+      "description": "Apply for Senior Software Engineer , Cloud job with Abbott Canvas in United States of America : Remote ... AI Engineer . Location United States of ...",
+      "date": "2026-05-27",
+      "timestamp": "2026-05-27T21:31:37+00:00",
+      "fetched_at": "2026-05-28T01:29:12.713892+00:00"
+    },
+    {
+      "id": "4b62ffc1d035",
+      "title": "Data Engineer (Contract) - Anatta Design - Career Page - JazzHR",
+      "company": "Anatta Design - Career Page - JazzHR",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://anattadesigninc.applytojob.com/apply/pswFfjEaWQ/Data-Engineer-Contract",
+      "source": "Other",
+      "description": "Overview We are seeking a highly experienced Data Engineer to support a fast-growing eCommerce brand operating within a modern, warehouse-first ...",
+      "date": "2026-05-27",
+      "timestamp": "2026-05-27T21:27:52+00:00",
+      "fetched_at": "2026-05-28T01:29:12.714072+00:00"
+    },
+    {
+      "id": "0f7458dad2cf",
+      "title": "Data Engineer , AWS Compliance & Security Assurance - Job ID: 10431567 | Amazon.jobs",
+      "company": "Job ID: 10431567 | Amazon.jobs",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://amazon.jobs/en/jobs/10431567/data-engineer-aws-compliance-security-assurance",
+      "source": "Other",
+      "description": "As a Data Engineer , you will design and deliver scalable data products that power AWS Security initiatives. The role offers a unique opportunity to ...",
+      "date": "2026-05-27",
+      "timestamp": "2026-05-27T20:39:11+00:00",
+      "fetched_at": "2026-05-28T01:29:12.714286+00:00"
+    },
     {
       "id": "f8b886e39c1a",
       "title": "Senior Software Engineer in Kittery, Maine, United States - SAIC Careers",
@@ -49,6 +184,21 @@
       "date": "2026-05-27",
       "timestamp": "2026-05-27T20:36:41+00:00",
       "fetched_at": "2026-05-27T21:30:25.259395+00:00"
+    },
+    {
+      "id": "9e423a5bfad1",
+      "title": "w2 - Senior Data Engineer with RAI/AI Experience - NYC - Prohires - Hybrid in New York, NY, US",
+      "company": "NYC - Prohires - Hybrid in New York, NY, US",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.dice.com/job-detail/a4c09705-ca78-415c-9f78-e36eb1a82e21",
+      "source": "Other",
+      "description": "23 hours ago - Job Description: Job Role: Senior Data Engineer with RAI/AI Experience Location \u2013 NYC (3 days onsite, Hybrid) Syne...",
+      "date": "2026-05-27",
+      "timestamp": "2026-05-27T20:32:23+00:00",
+      "fetched_at": "2026-05-28T01:29:12.714634+00:00"
     },
     {
       "id": "d355f77247ed",
@@ -94,6 +244,21 @@
       "date": "2026-05-27",
       "timestamp": "2026-05-27T18:49:25+00:00",
       "fetched_at": "2026-05-27T21:30:25.260011+00:00"
+    },
+    {
+      "id": "f934150afa9a",
+      "title": "Software Engineer III in United States | GitHub, Inc.",
+      "company": "GitHub, Inc.",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.github.careers/careers-home/jobs/5428?lang=en-us",
+      "source": "Other",
+      "description": "GitHub Careers Home is hiring a Software Engineer III in United States. Review all of the job details and apply today!",
+      "date": "2026-05-27",
+      "timestamp": "2026-05-27T18:33:48+00:00",
+      "fetched_at": "2026-05-28T01:29:12.715660+00:00"
     },
     {
       "id": "1683b2be8a44",
