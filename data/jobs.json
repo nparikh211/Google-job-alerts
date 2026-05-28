@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-05-28T11:25:27.480412+00:00",
-  "total_jobs": 2613,
+  "last_updated": "2026-05-28T14:57:54.693984+00:00",
+  "total_jobs": 2625,
   "stats": {
-    "total_companies": 1480,
+    "total_companies": 1483,
     "total_roles": 51,
     "regions": {
-      "India": 1606,
-      "Philippines": 551,
-      "Remote": 332,
+      "India": 1608,
+      "Philippines": 558,
+      "Remote": 335,
       "Unknown": 135
     },
     "sources": {
-      "Other": 2051,
-      "Greenhouse": 137,
-      "Workday": 114,
+      "Other": 2059,
+      "Greenhouse": 139,
+      "Workday": 115,
       "LinkedIn": 93,
       "Ashby": 85,
       "Breezy": 31,
-      "iCIMS": 27,
+      "iCIMS": 28,
       "Lever": 25,
       "SmartRecruiters": 13,
       "Indeed": 13,
@@ -35,6 +35,156 @@
     }
   },
   "jobs": [
+    {
+      "id": "46746b86689c",
+      "title": "Software Engineer II, Big Data, tvScientific - Pinterest Careers",
+      "company": "Pinterest Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.pinterestcareers.com/jobs/7782546/software-engineer-ii-big-data-tvscientific/",
+      "source": "Other",
+      "description": "Software Engineer II, Big Data, tvScientific. San Francisco / Remote ... As a Data Engineer at tvScientific, you will be a key player in ...",
+      "date": "2026-05-28",
+      "timestamp": "2026-05-28T13:30:40+00:00",
+      "fetched_at": "2026-05-28T14:57:54.677862+00:00"
+    },
+    {
+      "id": "548ca7589c43",
+      "title": "Job Application for Senior Software Engineer at Carrot - Greenhouse",
+      "company": "Carrotfertility",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/carrotfertility/jobs/6001622004",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer . Remote. Apply. About Carrot: Carrot is a global, comprehensive fertility and family care platform, supporting members and ...",
+      "date": "2026-05-28",
+      "timestamp": "2026-05-28T13:24:44+00:00",
+      "fetched_at": "2026-05-28T14:57:54.678052+00:00"
+    },
+    {
+      "id": "f1824fd32093",
+      "title": "Lead Frontend Engineer AI in Remote - Cotiviti | Careers Center - ICIMS",
+      "company": "Cotiviti | Careers Center - ICIMS",
+      "role": "Frontend Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers-cotiviti.icims.com/jobs/19309/lead-frontend-engineer-ai/job",
+      "source": "iCIMS",
+      "description": "US Nationwide Remote is now hiring a Lead Frontend Engineer AI in Remote. Review all of the job details and apply today!",
+      "date": "2026-05-28",
+      "timestamp": "2026-05-28T13:04:31+00:00",
+      "fetched_at": "2026-05-28T14:57:54.678349+00:00"
+    },
+    {
+      "id": "deb9fd5cf173",
+      "title": "GitLab HM round for Backend Engineer and im a little tensed about it. - Reddit",
+      "company": "Reddit",
+      "role": "Backend Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.reddit.com/r/cscareerquestions/comments/1tq1sfg/gitlab_hm_round_for_backend_engineer_and_im_a/",
+      "source": "Other",
+      "description": "I have a Hiring Manager interview coming up with GitLab for a Backend Engineer ... Backend software engineer in oil and gas, long term career advice ...",
+      "date": "2026-05-28",
+      "timestamp": "2026-05-28T12:30:35+00:00",
+      "fetched_at": "2026-05-28T14:57:54.678748+00:00"
+    },
+    {
+      "id": "57c7a06d1532",
+      "title": "Software Engineer , Cloud CISO Security Engineering - Search for your career at Google.",
+      "company": "Google.",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.google.com/jobs/results/119262273871979206-software-engineer/",
+      "source": "Other",
+      "description": "... software engineer , you will work on a specific project critical to ... Senior Software Engineer , Full Stack. Atlanta, GA, USA \u00b7 Field Sales ...",
+      "date": "2026-05-28",
+      "timestamp": "2026-05-28T12:09:19+00:00",
+      "fetched_at": "2026-05-28T14:57:54.679050+00:00"
+    },
+    {
+      "id": "12673a6b94df",
+      "title": "Associate Software Engineer - PTC Careers - Myworkdayjobs.com",
+      "company": "Ptc",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://ptc.wd1.myworkdayjobs.com/en-US/PTC/job/Associate-Software-Engineer_JR112268",
+      "source": "Workday",
+      "description": "Associate Software Engineer \u00b7 Implement DevOps requirements and fixes in Python, JavaScript. \u00b7 Convert and refactor source code from Perl to Python or ...",
+      "date": "2026-05-28",
+      "timestamp": "2026-05-28T12:08:55+00:00",
+      "fetched_at": "2026-05-28T14:57:54.679237+00:00"
+    },
+    {
+      "id": "0966e009eb55",
+      "title": "Software Engineer II-2 in Pune, India, 411006 - Mastercard",
+      "company": "2 in Pune, India, 411006 - Mastercard",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mastercard.com/us/en/job/R-275520/Software-Engineer-II-2",
+      "source": "Other",
+      "description": "Senior Software Engineer -1. Location Pune, India, 411006 Category ... Senior Site Reliability Engineer . Location Pune, India, 411006 Category ...",
+      "date": "2026-05-28",
+      "timestamp": "2026-05-28T11:41:20+00:00",
+      "fetched_at": "2026-05-28T14:57:54.679536+00:00"
+    },
+    {
+      "id": "9bfcfeee1a9a",
+      "title": "Senior Software Engineer at Ford Motor Company",
+      "company": "Ford Motor Company",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.careers.ford.com/job/naucalpan-de-juarez/senior-software-engineer/48560/95636331152",
+      "source": "Other",
+      "description": "Senior Software Engineer . Job ID: 64094. Category: Enterprise Technology. Location: Naucalpan de Ju\u00e1rez, Mexico. Work Type: Hybrid. Apply Now. Ford ...",
+      "date": "2026-05-28",
+      "timestamp": "2026-05-28T09:04:28+00:00",
+      "fetched_at": "2026-05-28T14:57:54.679821+00:00"
+    },
+    {
+      "id": "e6a6df72bf13",
+      "title": "Job Application for Software Engineer , Claude Design at Anthropic - Greenhouse",
+      "company": "Anthropic",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5229345008",
+      "source": "Greenhouse",
+      "description": "Software Engineer , Claude Design. San Francisco, CA | New York City, NY | Seattle, WA. Apply. About Anthropic. Anthropic's mission is to create ...",
+      "date": "2026-05-28",
+      "timestamp": "2026-05-28T08:50:08+00:00",
+      "fetched_at": "2026-05-28T14:57:54.679998+00:00"
+    },
+    {
+      "id": "7ee13febd065",
+      "title": "Lead Software Engineer , HYDERABAD, Telang\u0101na | Wells Fargo",
+      "company": "Wells Fargo",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.wellsfargojobs.com/en/jobs/r-543593/lead-software-engineer/",
+      "source": "Other",
+      "description": "Lead Software Engineer . HYDERABAD. Technology; Full time; 27 May 2026; R ... Lead Software Engineer - Full Stack Engineer . Save Saved. BENGALURU ...",
+      "date": "2026-05-28",
+      "timestamp": "2026-05-28T07:19:53+00:00",
+      "fetched_at": "2026-05-28T14:57:54.680396+00:00"
+    },
     {
       "id": "437ce932b949",
       "title": "Data Engineer Job Details | Purpose Financial",
@@ -66,6 +216,21 @@
       "fetched_at": "2026-05-28T07:44:43.804303+00:00"
     },
     {
+      "id": "18dbf1746b0c",
+      "title": "Software Engineer II - OpportunityDetail.Index.PageTitle",
+      "company": "OpportunityDetail.Index.PageTitle",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://recruiting2.ultipro.com/MON1026MONOH/JobBoard/bcaf2db0-50c8-4e2f-9d65-e8e00c882a25/OpportunityDetail?opportunityId=4896404b-8e64-4f1a-a3ef-d9581cb0c6c2",
+      "source": "Other",
+      "description": "Position: Software Engineer II. The Software Engineer II role will be a driving force in shaping the future of our clinical and patient-facing ...",
+      "date": "2026-05-28",
+      "timestamp": "2026-05-28T06:00:19+00:00",
+      "fetched_at": "2026-05-28T14:57:54.681773+00:00"
+    },
+    {
       "id": "77d56ffef108",
       "title": "Principal Software Engineer - AI in Brighton, Massachusetts, United States of America",
       "company": "AI in Brighton, Massachusetts, United States of America",
@@ -94,6 +259,21 @@
       "date": "2026-05-28",
       "timestamp": "2026-05-28T05:27:07+00:00",
       "fetched_at": "2026-05-28T07:44:43.805011+00:00"
+    },
+    {
+      "id": "275661d36446",
+      "title": "Senior Data Engineer at Becton Dickinson & Company - Careers at BD",
+      "company": "Becton Dickinson & Company",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.bd.com/en/job/franklin-lakes/senior-data-engineer/159/95641886304",
+      "source": "Other",
+      "description": "Senior Data Engineer . Onsite, Franklin Lakes, NJ. Apply Now Save Job. Job ID: R-546176. Category: Information Technology.",
+      "date": "2026-05-28",
+      "timestamp": "2026-05-28T05:18:46+00:00",
+      "fetched_at": "2026-05-28T14:57:54.682673+00:00"
     },
     {
       "id": "8a12cfcc71c8",
