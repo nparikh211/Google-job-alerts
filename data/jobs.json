@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-05-29T07:42:47.276017+00:00",
-  "total_jobs": 2672,
+  "last_updated": "2026-05-29T10:59:52.689801+00:00",
+  "total_jobs": 2677,
   "stats": {
-    "total_companies": 1507,
+    "total_companies": 1510,
     "total_roles": 52,
     "regions": {
-      "India": 1643,
-      "Philippines": 565,
+      "India": 1645,
+      "Philippines": 568,
       "Remote": 340,
       "Unknown": 135
     },
     "sources": {
-      "Other": 2095,
+      "Other": 2098,
       "Greenhouse": 142,
-      "Workday": 118,
+      "Workday": 119,
       "LinkedIn": 94,
       "Ashby": 85,
       "Breezy": 34,
-      "iCIMS": 28,
+      "iCIMS": 29,
       "Lever": 25,
       "SmartRecruiters": 13,
       "Indeed": 13,
@@ -35,6 +35,36 @@
     }
   },
   "jobs": [
+    {
+      "id": "4c76ddb209e9",
+      "title": "Principal Site Reliability Engineer at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/sofia/principal-site-reliability-engineer/47263/95702837120",
+      "source": "Other",
+      "description": "Principal Site Reliability Engineer . Sofia, Sofia-grad, Bulgaria Product Engineering Ref ID: JR-018300. Apply Save Job. Current Employees, apply here.",
+      "date": "2026-05-29",
+      "timestamp": "2026-05-29T10:18:14+00:00",
+      "fetched_at": "2026-05-29T10:59:52.675372+00:00"
+    },
+    {
+      "id": "69ea2291d27f",
+      "title": "Data Engineer in Villanova, Pennsylvania | Careers at Devereux Advanced Behavioral Health",
+      "company": "Devereux Advanced Behavioral Health",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers-devereux.icims.com/jobs/51094/data-engineer/job",
+      "source": "iCIMS",
+      "description": "Corp Information Resources is now hiring a Data Engineer in Villanova, Pennsylvania. Review all of the job details and apply today!",
+      "date": "2026-05-29",
+      "timestamp": "2026-05-29T09:43:30+00:00",
+      "fetched_at": "2026-05-29T10:59:52.675613+00:00"
+    },
     {
       "id": "2a85175a95ff",
       "title": "Software Engineer II- Remote (USA) at Dozuki",
@@ -186,6 +216,21 @@
       "fetched_at": "2026-05-29T01:50:57.905078+00:00"
     },
     {
+      "id": "0a290a69df65",
+      "title": "Software Engineer : r/BESalary - Reddit",
+      "company": "Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.reddit.com/r/BESalary/comments/1tqfq08/software_engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer . 9 upvotes \u00b7 15 comments. Junior Software ... Data Engineer . 15 upvotes \u00b7 17 comments. Junior software developer \u00b7 r ...",
+      "date": "2026-05-29",
+      "timestamp": "2026-05-29T00:19:18+00:00",
+      "fetched_at": "2026-05-29T10:59:52.677239+00:00"
+    },
+    {
       "id": "96ad9c67d4d6",
       "title": "Ask HN: What Is an \" AI Engineer \"? - Hacker News",
       "company": "Is an \" AI Engineer \"?",
@@ -231,6 +276,21 @@
       "fetched_at": "2026-05-29T01:50:57.905642+00:00"
     },
     {
+      "id": "51de333b75a7",
+      "title": "Software Engineer II - ServiceNow - WGU - Myworkdayjobs.com",
+      "company": "Wgu",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://wgu.wd5.myworkdayjobs.com/External/job/Salt-Lake-City-UT/Software-Engineer-II---Service_JR-025264-1",
+      "source": "Workday",
+      "description": "Software Engineer II - ServiceNow \u00b7 Responsibilities: \u00b7 Design, develop, test, and deploy custom ServiceNow solutions. \u00b7 Research and develop new ...",
+      "date": "2026-05-28",
+      "timestamp": "2026-05-28T21:27:03+00:00",
+      "fetched_at": "2026-05-29T10:59:52.597054+00:00"
+    },
+    {
       "id": "cf9cc0d2e0b6",
       "title": "Job Application for Senior Software Engineer - CDS at MNTN - Greenhouse",
       "company": "Mntn",
@@ -274,6 +334,21 @@
       "date": "2026-05-28",
       "timestamp": "2026-05-28T21:09:18+00:00",
       "fetched_at": "2026-05-28T21:47:20.360896+00:00"
+    },
+    {
+      "id": "755e69b1fc05",
+      "title": "Senior Data Engineer - iManage - Career Page - JazzHR",
+      "company": "iManage - Career Page - JazzHR",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://imanagecom.applytojob.com/apply/GKFnxs9eGf/Senior-Data-Engineer",
+      "source": "Other",
+      "description": "You are passionate about building a reliable, scalable data infrastructure that powers modern AI products. \u00b7 As a Senior Data Engineer on the Applied ...",
+      "date": "2026-05-28",
+      "timestamp": "2026-05-28T20:53:12+00:00",
+      "fetched_at": "2026-05-29T10:59:52.597568+00:00"
     },
     {
       "id": "413d3b5b06f7",
