@@ -1,27 +1,27 @@
 {
-  "last_updated": "2026-05-29T10:59:52.689801+00:00",
-  "total_jobs": 2677,
+  "last_updated": "2026-05-29T14:30:45.423182+00:00",
+  "total_jobs": 2684,
   "stats": {
-    "total_companies": 1510,
-    "total_roles": 52,
+    "total_companies": 1513,
+    "total_roles": 53,
     "regions": {
-      "India": 1645,
+      "India": 1649,
       "Philippines": 568,
-      "Remote": 340,
+      "Remote": 343,
       "Unknown": 135
     },
     "sources": {
-      "Other": 2098,
-      "Greenhouse": 142,
+      "Other": 2103,
+      "Greenhouse": 143,
       "Workday": 119,
       "LinkedIn": 94,
       "Ashby": 85,
       "Breezy": 34,
       "iCIMS": 29,
       "Lever": 25,
+      "Workable": 14,
       "SmartRecruiters": 13,
       "Indeed": 13,
-      "Workable": 13,
       "Recruitee": 3,
       "Jobvite": 3,
       "WeWorkRemotely": 2,
@@ -35,6 +35,81 @@
     }
   },
   "jobs": [
+    {
+      "id": "81c0ff7cf21e",
+      "title": "Senior Software Engineer \u2013 Semantic Layer and AI Interfaces - Nucleus Security",
+      "company": "Nucleus Security",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://nucleussecurity.applytojob.com/apply/hXcQhxkqu6/Senior-Software-Engineer-Semantic-Layer-And-AI-Interfaces",
+      "source": "Other",
+      "description": "Senior Software Engineer \u2013 Semantic Layer and AI Interfaces Are you looking for more in life than just building another web app?",
+      "date": "2026-05-29",
+      "timestamp": "2026-05-29T13:35:24+00:00",
+      "fetched_at": "2026-05-29T14:30:45.183553+00:00"
+    },
+    {
+      "id": "2c8a3406d75a",
+      "title": "Principal Software Engineer - OpenFn - Jobs By Workable",
+      "company": "Openfn",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://apply.workable.com/openfn/j/0F9617F20B/",
+      "source": "Workable",
+      "description": "Principal Software Engineer . RemoteEngineeringFull time. Kenya. South Africa. Rwanda. Ethiopia. Tanzania, United Republic of. Nigeria. Overview ...",
+      "date": "2026-05-29",
+      "timestamp": "2026-05-29T13:22:16+00:00",
+      "fetched_at": "2026-05-29T14:30:45.183671+00:00"
+    },
+    {
+      "id": "52752844863a",
+      "title": "Senior Software Engineer , Cloud Applications - Greenhouse",
+      "company": "Temporaltechnologies",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/temporaltechnologies/jobs/5149574007",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer , Cloud Applications. United States - Remote Opportunity. Apply. About Us. Temporal is an open source programming model that ...",
+      "date": "2026-05-29",
+      "timestamp": "2026-05-29T13:02:14+00:00",
+      "fetched_at": "2026-05-29T14:30:45.183781+00:00"
+    },
+    {
+      "id": "82d8dcbeb0c7",
+      "title": "Jobs in Trading, Quant & Tech | Optiver",
+      "company": "Unknown Company",
+      "role": "Jobs in Trading, Quant & Tech | Optiver",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.optiver.com/join-us/jobs/",
+      "source": "Other",
+      "description": "Software Engineer - Reference Data. London. Experienced. Technology ... Observability Platform Engineer . Sydney. Experienced. Technology.",
+      "date": "2026-05-29",
+      "timestamp": "2026-05-29T12:47:17+00:00",
+      "fetched_at": "2026-05-29T14:30:45.184136+00:00"
+    },
+    {
+      "id": "e83b8834bf7a",
+      "title": "Python Software Engineer - careers.cern",
+      "company": "careers.cern",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cern/jobs/python-software-engineer/",
+      "source": "Other",
+      "description": "What you'll do. As a Python Software Engineer with a strong interest in both API development and desktop application engineering (with PyQt6), you ...",
+      "date": "2026-05-29",
+      "timestamp": "2026-05-29T12:06:07+00:00",
+      "fetched_at": "2026-05-29T14:30:45.184382+00:00"
+    },
     {
       "id": "4c76ddb209e9",
       "title": "Principal Site Reliability Engineer at Palo Alto Networks",
@@ -64,6 +139,21 @@
       "date": "2026-05-29",
       "timestamp": "2026-05-29T09:43:30+00:00",
       "fetched_at": "2026-05-29T10:59:52.675613+00:00"
+    },
+    {
+      "id": "a62b191a4b8d",
+      "title": "[ Cloud Engineer ] [US Northeast] - $260k : r/Salary - Reddit",
+      "company": "$260k : r/Salary - Reddit",
+      "role": "Cloud Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.reddit.com/r/Salary/comments/1tq2337/cloud_engineer_us_northeast_260k/",
+      "source": "Other",
+      "description": "[ Senior Software Engineer ] [Boston, MA] - $174k + bonus \u00b7 r/Salary - [ Senior Software Engineer ] [Boston, MA] - $174 ... [Senior Data Engineer ] [Remote, ...",
+      "date": "2026-05-29",
+      "timestamp": "2026-05-29T06:26:12+00:00",
+      "fetched_at": "2026-05-29T14:30:45.411337+00:00"
     },
     {
       "id": "2a85175a95ff",
@@ -244,6 +334,21 @@
       "date": "2026-05-29",
       "timestamp": "2026-05-29T00:10:57+00:00",
       "fetched_at": "2026-05-29T01:50:57.905333+00:00"
+    },
+    {
+      "id": "8643d72f0733",
+      "title": "Open Role \u2014 Staff Software Engineer , Cloud Infrastructure - Ripple",
+      "company": "Ripple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ripple.com/careers/all-jobs/job/7955335/?gh_jid=7955335",
+      "source": "Other",
+      "description": "Join us to build the future of corporate treasury and the infrastructure that powers the Internet of Value. THE WORK: As a Staff Software Engineer , ...",
+      "date": "2026-05-29",
+      "timestamp": "2026-05-29T00:03:30+00:00",
+      "fetched_at": "2026-05-29T14:30:45.186226+00:00"
     },
     {
       "id": "d975b2fa903e",
