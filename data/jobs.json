@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-05-29T01:50:58.191317+00:00",
-  "total_jobs": 2662,
+  "last_updated": "2026-05-29T07:42:47.276017+00:00",
+  "total_jobs": 2672,
   "stats": {
-    "total_companies": 1502,
+    "total_companies": 1507,
     "total_roles": 52,
     "regions": {
-      "India": 1637,
-      "Philippines": 564,
-      "Remote": 337,
+      "India": 1643,
+      "Philippines": 565,
+      "Remote": 340,
       "Unknown": 135
     },
     "sources": {
-      "Other": 2088,
-      "Greenhouse": 141,
+      "Other": 2095,
+      "Greenhouse": 142,
       "Workday": 118,
       "LinkedIn": 94,
       "Ashby": 85,
-      "Breezy": 32,
+      "Breezy": 34,
       "iCIMS": 28,
       "Lever": 25,
       "SmartRecruiters": 13,
@@ -35,6 +35,126 @@
     }
   },
   "jobs": [
+    {
+      "id": "2a85175a95ff",
+      "title": "Software Engineer II- Remote (USA) at Dozuki",
+      "company": "Dozuki",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://dozuki.breezy.hr/p/dabf4a5ba68e-software-engineer-ii-remote-usa",
+      "source": "Breezy",
+      "description": "Job description: We are seeking a Software Engineer with 3+ years of professional experience (or a candidate with equivalent demonstrated expertise) ...",
+      "date": "2026-05-29",
+      "timestamp": "2026-05-29T06:09:36+00:00",
+      "fetched_at": "2026-05-29T07:42:47.042966+00:00"
+    },
+    {
+      "id": "fd770f3379cc",
+      "title": "Staff Software Engineer , Networking \u2014 Google Careers",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/104978314304594630",
+      "source": "Other",
+      "description": "... software engineer , you will work on a specific project critical to ... Senior Software Engineer , Full Stack. Atlanta, GA, USA \u00b7 Data and AI ...",
+      "date": "2026-05-29",
+      "timestamp": "2026-05-29T05:53:43+00:00",
+      "fetched_at": "2026-05-29T07:42:47.043760+00:00"
+    },
+    {
+      "id": "2b7ffa7ca3ec",
+      "title": "Associate Data Engineer Job Details | Murata America",
+      "company": "Murata America",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.murata.com/pSemi/job/San-Diego-Associate-Data-Engineer-CA-92101/1394792600/",
+      "source": "Other",
+      "description": "Associate Data Engineer . Location: San Diego, CA, US. pSemi Corporation is a Murata company driving semiconductor integration. pSemi builds on ...",
+      "date": "2026-05-29",
+      "timestamp": "2026-05-29T05:05:06+00:00",
+      "fetched_at": "2026-05-29T07:42:47.260236+00:00"
+    },
+    {
+      "id": "5b0035f52741",
+      "title": "Day in the Life as an Amazon Software Engineer | Switching Teams, Moving to New York",
+      "company": "Switching Teams, Moving to New York",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.youtube.com/watch?v=IT0eDSoEIg4",
+      "source": "Other",
+      "description": "Try out Hostinger Horizons: hostinger.com/PhillipChe and use code PhillipChe for 10% off! A realistic look at what working as a software engineer ...",
+      "date": "2026-05-29",
+      "timestamp": "2026-05-29T04:32:07+00:00",
+      "fetched_at": "2026-05-29T07:42:47.044147+00:00"
+    },
+    {
+      "id": "e84c7e1a87bc",
+      "title": "Data Engineer II - AMZ24202.1 - Job ID: 10408829 - Amazon Careers",
+      "company": "AMZ24202.1 - Job ID: 10408829 - Amazon Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.amazon.jobs/en/jobs/10408829/data-engineer-ii-amz24202-1",
+      "source": "Other",
+      "description": "Data Engineer II - AMZ24202.1. Job ID: 10408829 | Amazon Web Services ... Software Engineer I. Location: US, California, San Francisco. Posted ...",
+      "date": "2026-05-29",
+      "timestamp": "2026-05-29T03:08:34+00:00",
+      "fetched_at": "2026-05-29T07:42:47.044351+00:00"
+    },
+    {
+      "id": "2e4d8bd03ea1",
+      "title": "Job Application for Senior Software Engineer , Full-Stack at Epic Kids Inc. - Greenhouse",
+      "company": "Epickids",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/epickids/jobs/7751592003",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer , Full-Stack. U.S.A, Remote. Apply. About Us. Epic Kids is the leading digital reading platform built for kids 12 and under ...",
+      "date": "2026-05-29",
+      "timestamp": "2026-05-29T02:58:52+00:00",
+      "fetched_at": "2026-05-29T07:42:47.261121+00:00"
+    },
+    {
+      "id": "d90660a5955c",
+      "title": "Software Engineer II",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/just-appraised-jobs/jobs/9d4f753f-6d55-4315-9736-40a9587cd122",
+      "source": "Other",
+      "description": "Software Engineer II ... At Just Appraised, we're building modern, AI-powered software for local government agencies \u2014 specifically around property tax ...",
+      "date": "2026-05-29",
+      "timestamp": "2026-05-29T02:03:45+00:00",
+      "fetched_at": "2026-05-29T07:42:47.044529+00:00"
+    },
+    {
+      "id": "e15d1218ac1b",
+      "title": "Software Engineer II- Remote (USA) - Dozuki",
+      "company": "Dozuki",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://dozuki.breezy.hr/p/dabf4a5ba68e-software-engineer-ii-remote-usa/apply",
+      "source": "Breezy",
+      "description": "... Software Engineer with 3+ years of professional experience (or a candidate with equivalent demonstrated expertise) who is ready to leverage their ...",
+      "date": "2026-05-29",
+      "timestamp": "2026-05-29T01:38:44+00:00",
+      "fetched_at": "2026-05-29T07:42:47.044662+00:00"
+    },
     {
       "id": "c9268650235c",
       "title": "Software Engineer at Ford Motor Company - Ford Careers",
@@ -156,6 +276,21 @@
       "fetched_at": "2026-05-28T21:47:20.360896+00:00"
     },
     {
+      "id": "413d3b5b06f7",
+      "title": "Machine Learning Engineer : r/BESalary - Reddit",
+      "company": "Reddit",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/BESalary/comments/1tqd2fs/machine_learning_engineer/",
+      "source": "Other",
+      "description": "AI Engineer . 5 upvotes \u00b7 11 comments. Automation Engineer \u00b7 r/BESalary ... Data engineer . 4 upvotes \u00b7 14 comments. Software engineer (AI) \u00b7 r ...",
+      "date": "2026-05-28",
+      "timestamp": "2026-05-28T20:46:15+00:00",
+      "fetched_at": "2026-05-29T07:42:47.046061+00:00"
+    },
+    {
       "id": "3534f542c5e6",
       "title": "Software Engineer - C++, Java | Careers - Dassault Syst\u00e8mes",
       "company": "C++, Java | Careers - Dassault Syst\u00e8mes",
@@ -199,6 +334,21 @@
       "date": "2026-05-28",
       "timestamp": "2026-05-28T19:51:01+00:00",
       "fetched_at": "2026-05-28T21:47:19.555209+00:00"
+    },
+    {
+      "id": "5cb1c58d409c",
+      "title": "Software Engineer - Marketplace Experimentation Platform - San Francisco, California, United States",
+      "company": "Marketplace Experimentation Platform - San Francisco, California, United States",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.withwaymo.com/jobs/software-engineer-marketplace-experimentation-platform-mountain-view-california-united-states-san-francisco",
+      "source": "Other",
+      "description": "Software Engineer - Marketplace Experimentation Platform. Mountain View, California, United States | San Francisco, California, United States Full ...",
+      "date": "2026-05-28",
+      "timestamp": "2026-05-28T19:36:24+00:00",
+      "fetched_at": "2026-05-29T07:42:47.046986+00:00"
     },
     {
       "id": "9bacc607050d",
