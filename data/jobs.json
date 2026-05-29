@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-05-29T18:24:24.786801+00:00",
-  "total_jobs": 2696,
+  "last_updated": "2026-05-29T21:30:12.396637+00:00",
+  "total_jobs": 2705,
   "stats": {
-    "total_companies": 1519,
+    "total_companies": 1523,
     "total_roles": 53,
     "regions": {
-      "India": 1660,
-      "Philippines": 569,
+      "India": 1668,
+      "Philippines": 570,
       "Remote": 343,
       "Unknown": 135
     },
     "sources": {
-      "Other": 2113,
+      "Other": 2121,
       "Greenhouse": 143,
       "Workday": 120,
       "LinkedIn": 94,
-      "Ashby": 86,
+      "Ashby": 87,
       "Breezy": 34,
       "iCIMS": 29,
       "Lever": 25,
@@ -35,6 +35,36 @@
     }
   },
   "jobs": [
+    {
+      "id": "813fbf01dd2d",
+      "title": "Lead Software Engineer , Data Protection at Capital One",
+      "company": "Capital One",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.capitalonecareers.com/job/mclean/lead-software-engineer-data-protection/1732/95722187216",
+      "source": "Other",
+      "description": "Lead Software Engineer , Data Protection. McLean, Virginia | Plano ... Senior Lead Data Engineer (Bank Tech). Wilmington, Delaware \u00b7 95722186608 ...",
+      "date": "2026-05-29",
+      "timestamp": "2026-05-29T18:09:43+00:00",
+      "fetched_at": "2026-05-29T21:30:11.977842+00:00"
+    },
+    {
+      "id": "608a2e0bf8c6",
+      "title": "Senior Lead Data Engineer (Bank Tech) - Capital One Career",
+      "company": "Capital One Career",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.capitalonecareers.com/job/wilmington/senior-lead-data-engineer-bank-tech/1732/95722187344",
+      "source": "Other",
+      "description": "Learn more about applying for Senior Lead Data Engineer (Bank Tech) at Capital One. ... Lead Software Engineer , Data Protection. McLean, Virginia.",
+      "date": "2026-05-29",
+      "timestamp": "2026-05-29T18:09:41+00:00",
+      "fetched_at": "2026-05-29T21:30:12.383171+00:00"
+    },
     {
       "id": "75b837dc3dd3",
       "title": "Machine Learning Engineer in Multiple Locations | careers-home - DocuSign Careers",
@@ -79,6 +109,66 @@
       "date": "2026-05-29",
       "timestamp": "2026-05-29T16:59:44+00:00",
       "fetched_at": "2026-05-29T18:24:23.759662+00:00"
+    },
+    {
+      "id": "78088a994f80",
+      "title": "Forward Deployed Data Engineer Expert Job Details - SAP Careers",
+      "company": "SAP Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.sap.com/job/Palo-Alto-Forward-Deployed-Data-Engineer-CA-94304/1398497033/",
+      "source": "Other",
+      "description": "Forward Deployed Data Engineer Expert. We help the world run better. At SAP, we keep it simple: you bring your best to us, and we'll bring out the ...",
+      "date": "2026-05-29",
+      "timestamp": "2026-05-29T16:59:08+00:00",
+      "fetched_at": "2026-05-29T21:30:11.978740+00:00"
+    },
+    {
+      "id": "28f0a553ef2a",
+      "title": "Inline Mailflow - Software Engineer II - Abnormal AI",
+      "company": "Inline Mailflow",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://abnormal.ai/careers/jobs/7751817003?gh_jid=7751817003",
+      "source": "Other",
+      "description": "About the Role. Abnormal AI is looking for a Software Engineer to join the newly formed Inline Mailflow team. This team is building Abnormal's ...",
+      "date": "2026-05-29",
+      "timestamp": "2026-05-29T16:50:53+00:00",
+      "fetched_at": "2026-05-29T21:30:11.978911+00:00"
+    },
+    {
+      "id": "9305561b3e52",
+      "title": "Data Engineer Job Details | Colgate-Palmolive Company",
+      "company": "Colgate-Palmolive Company",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.colgate.com/job/Data-Engineer/173490-en_US/",
+      "source": "Other",
+      "description": "Data Engineer . Travel Required?: Travel - up to 10% of time. Posting Start Date: 5/28/26. Hybrid. No Relocation Assistance Offered Job Number #173490 ...",
+      "date": "2026-05-29",
+      "timestamp": "2026-05-29T16:43:35+00:00",
+      "fetched_at": "2026-05-29T21:30:11.979035+00:00"
+    },
+    {
+      "id": "c6531d7cab8e",
+      "title": "Software Engineer , Applications @ Mecka - Jobs",
+      "company": "Mecka",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/mecka.ai/aabb85b0-7aac-4b26-997f-926093354be5",
+      "source": "Ashby",
+      "description": "Software Engineer , Applications. Mobile-first full stack engineer . About Mecka AI. Mecka AI is building the data infrastructure layer for robotics ...",
+      "date": "2026-05-29",
+      "timestamp": "2026-05-29T16:14:02+00:00",
+      "fetched_at": "2026-05-29T21:30:11.979126+00:00"
     },
     {
       "id": "18d7df2f58f9",
@@ -126,6 +216,21 @@
       "fetched_at": "2026-05-29T18:24:23.760372+00:00"
     },
     {
+      "id": "36e8719a0eb8",
+      "title": "Senior Machine Learning Engineer - Enrichment & Content Intelligence | Life at Spotify",
+      "company": "Spotify",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.lifeatspotify.com/jobs/senior-machine-learning-engineer-enrichment-content-intelligence",
+      "source": "Other",
+      "description": "We're looking for a Senior Machine Learning Engineer to help evolve the machine learning systems behind Recording Groups, Music Video Resolution, ...",
+      "date": "2026-05-29",
+      "timestamp": "2026-05-29T15:09:52+00:00",
+      "fetched_at": "2026-05-29T21:30:11.979886+00:00"
+    },
+    {
       "id": "313852631c2c",
       "title": "Software Specialist Engineer II - Full Stack Software Engineer - - 351111 - Deloitte",
       "company": "Software Specialist Engineer II",
@@ -139,6 +244,36 @@
       "date": "2026-05-29",
       "timestamp": "2026-05-29T15:09:37+00:00",
       "fetched_at": "2026-05-29T18:24:23.760641+00:00"
+    },
+    {
+      "id": "d24f36b27818",
+      "title": "India, Big Data Engineer I - 18016 - MetLife Careers",
+      "company": "18016 - MetLife Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.metlifecareers.com/en_US/ml/JobDetail/Big-Data-Engineer-I/18016",
+      "source": "Other",
+      "description": "Big Data Engineer I. General Information. Location. Hyderabad, Telangana. Working Schedule. Full-Time. Work Arrangement. Hybrid. Relocation Assistance ...",
+      "date": "2026-05-29",
+      "timestamp": "2026-05-29T14:55:22+00:00",
+      "fetched_at": "2026-05-29T21:30:11.980239+00:00"
+    },
+    {
+      "id": "0803e5c2241f",
+      "title": "Principal Site Reliability Engineer at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/sofia/principal-site-reliability-engineer/47263/95702837072",
+      "source": "Other",
+      "description": "Principal Site Reliability Engineer . Sofia, Sofia-grad, Bulgaria Product Engineering Ref ID: JR-018310. Apply Save Job. Current Employees, apply here.",
+      "date": "2026-05-29",
+      "timestamp": "2026-05-29T14:34:25+00:00",
+      "fetched_at": "2026-05-29T21:30:11.980370+00:00"
     },
     {
       "id": "11d0169cce16",
