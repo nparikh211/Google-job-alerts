@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-05-30T01:46:47.418221+00:00",
-  "total_jobs": 2719,
+  "last_updated": "2026-05-30T06:38:06.203780+00:00",
+  "total_jobs": 2730,
   "stats": {
-    "total_companies": 1530,
+    "total_companies": 1535,
     "total_roles": 54,
     "regions": {
-      "India": 1678,
-      "Philippines": 571,
-      "Remote": 346,
+      "India": 1682,
+      "Philippines": 577,
+      "Remote": 347,
       "Unknown": 135
     },
     "sources": {
-      "Other": 2131,
-      "Greenhouse": 144,
-      "Workday": 121,
+      "Other": 2138,
+      "Greenhouse": 145,
+      "Workday": 124,
       "LinkedIn": 94,
       "Ashby": 88,
       "Breezy": 34,
@@ -31,10 +31,130 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-05-29"
+      "latest": "2026-05-30"
     }
   },
   "jobs": [
+    {
+      "id": "f2df515fbdb0",
+      "title": "Data Engineer in Bangalore, India | Product and Engineering at Cisco - Cisco Careers",
+      "company": "Cisco",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2014072EXTERNALENGLOBAL/Data-Engineer",
+      "source": "Other",
+      "description": "Apply for Data Engineer job with Cisco in Bangalore, India. Product and Engineering at Cisco. ... Embrace the role of a Software Engineer and help ...",
+      "date": "2026-05-30",
+      "timestamp": "2026-05-30T06:14:20+00:00",
+      "fetched_at": "2026-05-30T06:38:06.192098+00:00"
+    },
+    {
+      "id": "7312f981be37",
+      "title": "Big Data Engineer (Java) - Tential",
+      "company": "Tential",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://wordpress.tential.com/jobs/big-data-engineer-java-19116/",
+      "source": "Other",
+      "description": "Now hiring a Big Data Engineer (Java) in Rockville, Maryland for a data position. Read the full job description and apply online today on ...",
+      "date": "2026-05-30",
+      "timestamp": "2026-05-30T04:29:16+00:00",
+      "fetched_at": "2026-05-30T06:38:06.192215+00:00"
+    },
+    {
+      "id": "8360e3145b6a",
+      "title": "Software Engineer - Myworkdayjobs.com",
+      "company": "Kaleris",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://kaleris.wd501.myworkdayjobs.com/kaleris_careers/job/Chennai/Software-Engineer_R-100536-1?source=LinkedIn",
+      "source": "Workday",
+      "description": "Software Engineer \u00b7 Excellent Object-Oriented programming skills and accomplished performance technologies \u00b7 Highly proficient in debugging preferably ...",
+      "date": "2026-05-30",
+      "timestamp": "2026-05-30T04:04:19+00:00",
+      "fetched_at": "2026-05-30T06:38:06.192393+00:00"
+    },
+    {
+      "id": "eeb0c2564a40",
+      "title": "was talking with a very senior software engineer at Microsoft. told me he almost never works ...",
+      "company": "Microsoft. told me he almost never works ...",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://x.com/auren/status/2060452826652811327",
+      "source": "Other",
+      "description": "Auren Hoffman (@auren). 87 likes 21 replies. was talking with a very senior software engineer at Microsoft. told me he almost never works more ...",
+      "date": "2026-05-30",
+      "timestamp": "2026-05-30T02:53:10+00:00",
+      "fetched_at": "2026-05-30T06:38:06.192497+00:00"
+    },
+    {
+      "id": "5b108c6f588e",
+      "title": "Senior Software Engineer , Alpharetta | Equifax Careers",
+      "company": "Equifax Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.equifax.com/en/jobs/j00177485/senior-software-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer \u00b7 Design, develop, and operate high scale applications across the full engineering stack \u00b7 Design, develop, test, deploy, ...",
+      "date": "2026-05-30",
+      "timestamp": "2026-05-30T02:34:10+00:00",
+      "fetched_at": "2026-05-30T06:38:06.192606+00:00"
+    },
+    {
+      "id": "8ff63a520ceb",
+      "title": "Job Description - Full Stack Engineer",
+      "company": "Job Description",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.accenture.com/us-en/careers/jobdetails?id=ATCI-5421984-S1971266_en",
+      "source": "Other",
+      "description": "Full Stack Engineer . Packaged Application Development Team Lead ... Software engineer jobs: Imagine it, build it, scale it. Create software ...",
+      "date": "2026-05-29",
+      "timestamp": "2026-05-29T23:50:28+00:00",
+      "fetched_at": "2026-05-30T06:38:06.192729+00:00"
+    },
+    {
+      "id": "6cfbb7583288",
+      "title": "Full Stack Software Engineer (Early Career) - Lindy.ai",
+      "company": "Lindy.ai",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.lindy.ai/jobs/613760-full-stack-software-engineer-early-career",
+      "source": "Other",
+      "description": "The Role. As a Full-Stack Software Engineer (Early Career) at Lindy, you'll join a small, talented team building the core Lindy Assistant ...",
+      "date": "2026-05-29",
+      "timestamp": "2026-05-29T22:55:22+00:00",
+      "fetched_at": "2026-05-30T06:38:05.869603+00:00"
+    },
+    {
+      "id": "a6f8370d30a5",
+      "title": "AI Engineer Associate Job Details | Volkswagen AG",
+      "company": "Volkswagen AG",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.volkswagen-group.com/Volkswagen-Group/job/Belmont-AI-Engineer-Associate-CA-94002/1398883833/",
+      "source": "Other",
+      "description": "AI Engineer Associate. AI Engineer Associate. Job ID: 26593. Company: Volkswagen ADMT, LLC. Location: Belmont, CA, US, 94002. Department: Autonomous ...",
+      "date": "2026-05-29",
+      "timestamp": "2026-05-29T22:43:11+00:00",
+      "fetched_at": "2026-05-30T06:38:06.192983+00:00"
+    },
     {
       "id": "403fdd62cabb",
       "title": "IT Controls Data Engineer | OpenAI",
@@ -49,6 +169,21 @@
       "date": "2026-05-29",
       "timestamp": "2026-05-29T22:24:10+00:00",
       "fetched_at": "2026-05-30T01:46:47.112328+00:00"
+    },
+    {
+      "id": "bc9d65c81c0f",
+      "title": "Job Application for Senior Software Engineer (Full-stack) at Impiricus - Greenhouse",
+      "company": "Impiricus",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/impiricus/jobs/5234351008",
+      "source": "Greenhouse",
+      "description": "Job Title: Senior Software Engineer (Full-Stack). Location: New York, NY | Atlanta, GA | Remote. Employment Type: Full-time, Salaried. Who We Are.",
+      "date": "2026-05-29",
+      "timestamp": "2026-05-29T22:10:45+00:00",
+      "fetched_at": "2026-05-30T06:38:06.193150+00:00"
     },
     {
       "id": "0624b6b5afde",
@@ -141,6 +276,21 @@
       "fetched_at": "2026-05-30T01:46:47.113326+00:00"
     },
     {
+      "id": "f2f22594b64d",
+      "title": "Senior Machine Learning Engineer - Myworkdayjobs.com",
+      "company": "Ouryahoo",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/Senior-Machine-Learning-Engineer_JR0027106",
+      "source": "Workday",
+      "description": "Senior Machine Learning Engineer \u00b7 Understand the technical challenges of a real world problem. \u00b7 Utilizing strong communication skills, iteratively ...",
+      "date": "2026-05-29",
+      "timestamp": "2026-05-29T20:27:07+00:00",
+      "fetched_at": "2026-05-30T06:38:06.193990+00:00"
+    },
+    {
       "id": "885bd78238aa",
       "title": "Senior Software Engineer \u2013 Live & VOD Video Infrastructure - Cambridge, England, United Kingdom",
       "company": "Cambridge, England, United Kingdom",
@@ -169,6 +319,21 @@
       "date": "2026-05-29",
       "timestamp": "2026-05-29T19:59:39+00:00",
       "fetched_at": "2026-05-30T01:46:47.113652+00:00"
+    },
+    {
+      "id": "73e7e561b746",
+      "title": "Software Engineer II - Myworkdayjobs.com",
+      "company": "Mimecast",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://mimecast.wd5.myworkdayjobs.com/Mimecast-Careers/job/United-States-of-America---Ohio---Columbus/Software-Engineer-II_R6452-1",
+      "source": "Workday",
+      "description": "Software Engineer II About Mimecast Relentless protection. Resilient world. Mimecast was born in 2003 with a focus on delivering relentless ...",
+      "date": "2026-05-29",
+      "timestamp": "2026-05-29T19:53:03+00:00",
+      "fetched_at": "2026-05-30T06:38:05.871542+00:00"
     },
     {
       "id": "d8329ee7df35",
