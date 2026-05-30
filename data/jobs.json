@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-05-30T06:38:06.203780+00:00",
-  "total_jobs": 2730,
+  "last_updated": "2026-05-30T09:46:46.196723+00:00",
+  "total_jobs": 2734,
   "stats": {
-    "total_companies": 1535,
+    "total_companies": 1538,
     "total_roles": 54,
     "regions": {
-      "India": 1682,
-      "Philippines": 577,
+      "India": 1683,
+      "Philippines": 580,
       "Remote": 347,
       "Unknown": 135
     },
     "sources": {
-      "Other": 2138,
+      "Other": 2142,
       "Greenhouse": 145,
       "Workday": 124,
       "LinkedIn": 94,
@@ -36,6 +36,51 @@
   },
   "jobs": [
     {
+      "id": "fcd7df12c297",
+      "title": "Sr Principal Site Reliability Engineer at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/sofia/sr-principal-site-reliability-engineer/47263/95715039232",
+      "source": "Other",
+      "description": "As a Senior Principal SRE and DevOps Engineer for the CDL/SLS ... Staff Software Engineer ( Cloud Infrastructure and Platform Engineering ) ...",
+      "date": "2026-05-30",
+      "timestamp": "2026-05-30T08:13:06+00:00",
+      "fetched_at": "2026-05-30T09:46:46.182277+00:00"
+    },
+    {
+      "id": "01f65b99d6c7",
+      "title": "Data Engineer II - CareSource Careers",
+      "company": "CareSource Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.caresource.com/search/jobdetails/data-engineer-ii/7db2528d-19ba-49a4-8bdb-026062952b1a",
+      "source": "Other",
+      "description": "CareSource is hiring for the position of Data Engineer II. Apply now.",
+      "date": "2026-05-30",
+      "timestamp": "2026-05-30T07:20:23+00:00",
+      "fetched_at": "2026-05-30T09:46:46.182467+00:00"
+    },
+    {
+      "id": "b892c5e844ba",
+      "title": "Software Engineer - Data Compliance - Careers - LEGO.com",
+      "company": "Data Compliance - Careers - LEGO.com",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.lego.com/en-us/careers/job/software-engineer-data-compliance-005ee9a07b0310016e2b623065f00000",
+      "source": "Other",
+      "description": "Software Engineer - Data Compliance: Job Description #LI-KO1 Are you ready to build data compliance tools that reduce effort for colleagues across ...",
+      "date": "2026-05-30",
+      "timestamp": "2026-05-30T06:52:21+00:00",
+      "fetched_at": "2026-05-30T09:46:45.938262+00:00"
+    },
+    {
       "id": "f2df515fbdb0",
       "title": "Data Engineer in Bangalore, India | Product and Engineering at Cisco - Cisco Careers",
       "company": "Cisco",
@@ -49,6 +94,21 @@
       "date": "2026-05-30",
       "timestamp": "2026-05-30T06:14:20+00:00",
       "fetched_at": "2026-05-30T06:38:06.192098+00:00"
+    },
+    {
+      "id": "50e0dda4c2b3",
+      "title": "Site Reliability Engineer III job - Experis USA - 398756",
+      "company": "Experis USA - 398756",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.experis.com/it/job/398756/site-reliability-engineer-iii",
+      "source": "Other",
+      "description": "Our client, a leading organization in the technology and infrastructure sector, is seeking a Site Reliability Engineer III to join their team.",
+      "date": "2026-05-30",
+      "timestamp": "2026-05-30T05:08:27+00:00",
+      "fetched_at": "2026-05-30T09:46:46.183084+00:00"
     },
     {
       "id": "7312f981be37",
