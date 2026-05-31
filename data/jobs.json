@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-05-30T20:41:17.943962+00:00",
-  "total_jobs": 2763,
+  "last_updated": "2026-05-31T01:58:15.807190+00:00",
+  "total_jobs": 2774,
   "stats": {
-    "total_companies": 1550,
+    "total_companies": 1554,
     "total_roles": 55,
     "regions": {
-      "India": 1705,
-      "Philippines": 585,
-      "Remote": 350,
+      "India": 1714,
+      "Philippines": 586,
+      "Remote": 351,
       "Unknown": 135
     },
     "sources": {
-      "Other": 2164,
-      "Greenhouse": 145,
+      "Other": 2173,
+      "Greenhouse": 146,
       "Workday": 126,
       "LinkedIn": 98,
       "Ashby": 88,
@@ -24,17 +24,167 @@
       "Indeed": 13,
       "Recruitee": 3,
       "Jobvite": 3,
+      "Taleo": 2,
       "WeWorkRemotely": 2,
       "BrassRing": 2,
-      "Taleo": 1,
       "ADP": 1
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-05-30"
+      "latest": "2026-05-31"
     }
   },
   "jobs": [
+    {
+      "id": "034177e65467",
+      "title": "Data Engineer , Fleet Analytics, Cell Quality & Field Reliability - Tesla",
+      "company": "Tesla",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.tesla.com/careers/search/job/data-engineer-fleet-analytics-cell-quality-field-reliability-272107",
+      "source": "Other",
+      "description": "Apply for the Data Engineer , Fleet Analytics, Cell Quality & Field Reliability position in Fremont, California.",
+      "date": "2026-05-31",
+      "timestamp": "2026-05-31T00:12:57+00:00",
+      "fetched_at": "2026-05-31T01:58:15.401876+00:00"
+    },
+    {
+      "id": "5a68731a3b11",
+      "title": "Software Engineer - Research Platform - Optiver",
+      "company": "Research Platform - Optiver",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.optiver.com/working-at-optiver/career-opportunities/8386968002/",
+      "source": "Other",
+      "description": "Software Engineer - Research Platform ... The Optiver Research Platform (ORP) is a vertically integrated platform team that manages both high- ...",
+      "date": "2026-05-30",
+      "timestamp": "2026-05-30T21:49:44+00:00",
+      "fetched_at": "2026-05-31T01:58:15.402091+00:00"
+    },
+    {
+      "id": "89e239385f62",
+      "title": "7 years of experience, but I feel behind as a Software Engineer . Is this normal? - Reddit",
+      "company": "Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/careeradvice/comments/1trxqim/7_years_of_experience_but_i_feel_behind_as_a/",
+      "source": "Other",
+      "description": "Experienced senior software engineer can't find work. 27 upvotes \u00b7 40 comments. \"Experienced\" Software developer now finding my experience useless \u00b7 r ...",
+      "date": "2026-05-30",
+      "timestamp": "2026-05-30T20:55:13+00:00",
+      "fetched_at": "2026-05-31T01:58:15.402316+00:00"
+    },
+    {
+      "id": "4bbef8b217f9",
+      "title": "Job Description - Senior Data Engineer (260003XU)",
+      "company": "Job Description",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://massanf.taleo.net/careersection/exm/jobdetail.ftl?job=260003XU&tz=GMT-07%3A00&tzname=America%2FLos_Angeles",
+      "source": "Taleo",
+      "description": "Job Description. Senior Data Engineer . 260003XU ... Data Engineer position within the Enterprise Data Management & Engineering (EDME) department.",
+      "date": "2026-05-30",
+      "timestamp": "2026-05-30T20:25:20+00:00",
+      "fetched_at": "2026-05-31T01:58:15.402595+00:00"
+    },
+    {
+      "id": "96580554fa28",
+      "title": "Software Engineer III - JPMC Candidate Experience page Careers",
+      "company": "JPMC Candidate Experience page Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/cx_1001/job/210753160",
+      "source": "Other",
+      "description": "Software Engineer III. Houston, TX, United States. Apply Now. Job ... Lead Software Engineer - Cloud Engineer . Houston, TX, United States ...",
+      "date": "2026-05-30",
+      "timestamp": "2026-05-30T19:38:21+00:00",
+      "fetched_at": "2026-05-31T01:58:15.402753+00:00"
+    },
+    {
+      "id": "759383d2c762",
+      "title": "Software Engineer [Multiple Positions Available] - JPMC Candidate Experience page Careers",
+      "company": "JPMC Candidate Experience page Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/cx_1001/job/210752013",
+      "source": "Other",
+      "description": "Software Engineer [Multiple Positions Available]. Columbus, OH, United States. Apply Now. Job Information. Job Identification 210752013; Job Category ...",
+      "date": "2026-05-30",
+      "timestamp": "2026-05-30T19:38:20+00:00",
+      "fetched_at": "2026-05-31T01:58:15.402908+00:00"
+    },
+    {
+      "id": "5b7fe3ad0ebd",
+      "title": "Job Application for AI-First Software Engineer at Seso Inc., - Greenhouse",
+      "company": "Sesolabor",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/sesolabor/jobs/4701277005",
+      "source": "Greenhouse",
+      "description": "AI-First Software Engineer . Remote Anywhere. Apply. American farmers have made tremendous technology advancements through hardware improvements and ...",
+      "date": "2026-05-30",
+      "timestamp": "2026-05-30T19:00:41+00:00",
+      "fetched_at": "2026-05-31T01:58:15.403009+00:00"
+    },
+    {
+      "id": "d05a668aaba4",
+      "title": "Senior Software Engineer - Datapath Forwarding (Sonic) - HPE Careers",
+      "company": "Datapath Forwarding (Sonic) - HPE Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.hpe.com/ca/fr/job/1206609/Senior-Software-Engineer-Datapath-Forwarding-Sonic",
+      "source": "Other",
+      "description": "Postulez \u00e0 Senior Software Engineer - Datapath Forwarding (Sonic) emploi chez HPE en Bengaluru, Karn\u0101taka, 560048. Ing\u00e9nierie et AQ chez HPE.",
+      "date": "2026-05-30",
+      "timestamp": "2026-05-30T18:55:18+00:00",
+      "fetched_at": "2026-05-31T01:58:15.403231+00:00"
+    },
+    {
+      "id": "671c2654165b",
+      "title": "Senior Software Engineer - Infrastructure R&D | Datadog Careers",
+      "company": "Infrastructure R&D | Datadog Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.datadoghq.com/detail/7967161/?gh_jid=7967161",
+      "source": "Other",
+      "description": "Senior Software Engineer - Infrastructure R&D. Denver, Colorado, USA; New York, New York, USA. The Environments Accelerator team, part of the ...",
+      "date": "2026-05-30",
+      "timestamp": "2026-05-30T18:41:23+00:00",
+      "fetched_at": "2026-05-31T01:58:15.403379+00:00"
+    },
+    {
+      "id": "76fd697be89b",
+      "title": "Data Engineer Staffing - KORE1",
+      "company": "KORE1",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.kore1.com/data-engineer-staffing/",
+      "source": "Other",
+      "description": "Data Scientist & Data Engineer Staffing Solutions DevOps Engineer Staffing Software Engineer ... ML Engineer StaffingCybersecurity Staffing Cloud Engineer ...",
+      "date": "2026-05-30",
+      "timestamp": "2026-05-30T17:26:08+00:00",
+      "fetched_at": "2026-05-31T01:58:15.793276+00:00"
+    },
     {
       "id": "e8dbd0a43468",
       "title": "Senior Staff Software Engineer , Storage - Careers at Airbnb",
@@ -64,6 +214,21 @@
       "date": "2026-05-30",
       "timestamp": "2026-05-30T16:49:32+00:00",
       "fetched_at": "2026-05-30T20:41:17.076456+00:00"
+    },
+    {
+      "id": "cc54447189b5",
+      "title": "How is your life as a software engineer ? : r/softwarearchitecture - Reddit",
+      "company": "Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/softwarearchitecture/comments/1ts4mf5/how_is_your_life_as_a_software_engineer/",
+      "source": "Other",
+      "description": "If you are a software engineer I want to ask you some questions. \u2022Why did you choose software engineering. \u2022What subjects did you study.",
+      "date": "2026-05-30",
+      "timestamp": "2026-05-30T16:45:26+00:00",
+      "fetched_at": "2026-05-31T01:58:15.404229+00:00"
     },
     {
       "id": "00eecd72efba",
