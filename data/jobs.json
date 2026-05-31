@@ -1,27 +1,27 @@
 {
-  "last_updated": "2026-05-31T16:51:36.138493+00:00",
-  "total_jobs": 2800,
+  "last_updated": "2026-05-31T20:44:39.608624+00:00",
+  "total_jobs": 2812,
   "stats": {
-    "total_companies": 1570,
-    "total_roles": 56,
+    "total_companies": 1578,
+    "total_roles": 57,
     "regions": {
-      "India": 1717,
-      "Philippines": 607,
+      "India": 1726,
+      "Philippines": 610,
       "Remote": 354,
       "Unknown": 135
     },
     "sources": {
-      "Other": 2193,
+      "Other": 2201,
       "Greenhouse": 146,
       "Workday": 126,
-      "LinkedIn": 101,
+      "LinkedIn": 104,
       "Ashby": 89,
       "Breezy": 34,
       "iCIMS": 31,
       "Lever": 26,
+      "Indeed": 14,
       "SmartRecruiters": 14,
       "Workable": 14,
-      "Indeed": 13,
       "Recruitee": 3,
       "Jobvite": 3,
       "Taleo": 2,
@@ -36,6 +36,36 @@
   },
   "jobs": [
     {
+      "id": "9c538c84fb85",
+      "title": "Senior DevOps Engineer \u2014 Careers at Hyro | Grab Your Cape & Join the SuperHyros",
+      "company": "Hyro",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.hyro.ai/careers/49.B66/",
+      "source": "Other",
+      "description": "Join Hyro as a Senior DevOps Engineer . Hyro, the leader in Responsible AI Agents for Healthcare, enables health systems to safely automate ...",
+      "date": "2026-05-31",
+      "timestamp": "2026-05-31T18:17:03+00:00",
+      "fetched_at": "2026-05-31T20:44:39.511137+00:00"
+    },
+    {
+      "id": "09ac0719745e",
+      "title": "Raj Vaibhav's Post - LinkedIn",
+      "company": "Unknown Company",
+      "role": "Raj Vaibhav's Post - LinkedIn",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/raj-vaibhaav_google-apple-dropped-their-software-activity-7466879718781341696-cyYt",
+      "source": "LinkedIn",
+      "description": "Google & Apple dropped their Software Engineer & Machine Learning Engineer ... Senior Software Engineer - $ 329200/year : https://lnkd.in/gVVMvQsd ...",
+      "date": "2026-05-31",
+      "timestamp": "2026-05-31T16:24:15+00:00",
+      "fetched_at": "2026-05-31T20:44:39.512046+00:00"
+    },
+    {
       "id": "c142d777d1fe",
       "title": "A practical Guide To Becoming An AI Engineer - YouTube",
       "company": "YouTube",
@@ -49,6 +79,21 @@
       "date": "2026-05-31",
       "timestamp": "2026-05-31T15:13:08+00:00",
       "fetched_at": "2026-05-31T16:51:36.122415+00:00"
+    },
+    {
+      "id": "9c343e0e5117",
+      "title": "What happens when a talented Grammy-winning singer, a software engineer and a South ...",
+      "company": "happens when a talented Grammy",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/suvosarkar_what-happens-when-a-talented-grammy-winning-activity-7466831265342603264-0YBW",
+      "source": "LinkedIn",
+      "description": "What happens when a talented Grammy-winning singer, a software engineer and a South Indian restaurateur all turn out to be the same person?",
+      "date": "2026-05-31",
+      "timestamp": "2026-05-31T14:13:34+00:00",
+      "fetched_at": "2026-05-31T20:44:39.593473+00:00"
     },
     {
       "id": "9b6765aab4a9",
@@ -66,6 +111,21 @@
       "fetched_at": "2026-05-31T16:51:36.122689+00:00"
     },
     {
+      "id": "e755145c6446",
+      "title": "Staff Software Engineer (Imaging) - Shifamed LLC - BeBee",
+      "company": "Shifamed LLC - BeBee",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://bebee.com/qa/jobs/staff-software-engineer-imaging-shifamed-llc-doha--theirstack-696721970",
+      "source": "Other",
+      "description": "Akura Medical, a Shifamed portfolio company, is seeking a highly skilled and motivated Staff Software Engineer to contribute to the design, ...",
+      "date": "2026-05-31",
+      "timestamp": "2026-05-31T13:04:52+00:00",
+      "fetched_at": "2026-05-31T20:44:39.512848+00:00"
+    },
+    {
       "id": "b0c338595d38",
       "title": "Software Engineer - Wisconsin in Wisconsin, United States | Johnson Financial Group",
       "company": "Wisconsin in Wisconsin, United States | Johnson Financial Group",
@@ -81,6 +141,21 @@
       "fetched_at": "2026-05-31T16:51:36.122871+00:00"
     },
     {
+      "id": "ffee9a3b86d6",
+      "title": "Issue #389 - The ML Engineer - by Alejandro Saucedo",
+      "company": "Issue #389",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://machinelearning.substack.com/p/issue-389-the-ml-engineer",
+      "source": "Other",
+      "description": "The Machine Learning Engineer . Subscribe Sign in. Read distraction-free on Substack. Issue #389 - The ML Engineer .",
+      "date": "2026-05-31",
+      "timestamp": "2026-05-31T12:05:36+00:00",
+      "fetched_at": "2026-05-31T20:44:39.513185+00:00"
+    },
+    {
       "id": "57ba589f1508",
       "title": "Senior Devops Engineer -AWS - Caterpillar Careers",
       "company": "AWS - Caterpillar Careers",
@@ -94,6 +169,51 @@
       "date": "2026-05-31",
       "timestamp": "2026-05-31T10:35:55+00:00",
       "fetched_at": "2026-05-31T13:04:36.695089+00:00"
+    },
+    {
+      "id": "454a1fc513a7",
+      "title": "Agentic AI Software Engineer | CACI International Jobs",
+      "company": "CACI International Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.caci.jobs/king-of-prussia-pa/agentic-ai-software-engineer/F362DD0E51AE4644B2257EC7FB1C158B/job/",
+      "source": "Other",
+      "description": "Job Title: Agentic AI Software Engineer . Job Category: Engineering. Time Type: Full time. Minimum Clearance Required to Start: TS/SCI with ...",
+      "date": "2026-05-31",
+      "timestamp": "2026-05-31T10:03:06+00:00",
+      "fetched_at": "2026-05-31T20:44:39.594645+00:00"
+    },
+    {
+      "id": "6a08ace9824a",
+      "title": "#DAY1: The story of unemployment peak for a software engineer - DEV Community",
+      "company": "DEV Community",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://dev.to/aliamerj/day1-the-story-of-peak-unemployment-for-a-software-engineer-jf8",
+      "source": "Other",
+      "description": "#DAY1: The story of unemployment peak for a software engineer . #career #go #kubernetes #sideprojects. Day 1 of Unemployment ...",
+      "date": "2026-05-31",
+      "timestamp": "2026-05-31T10:00:30+00:00",
+      "fetched_at": "2026-05-31T20:44:39.594866+00:00"
+    },
+    {
+      "id": "7a02541f3908",
+      "title": "Head-up Guidance System Software Engineer (Onsite) - RTX - Careers",
+      "company": "Head",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.rtx.com/global/en/job/01849007/Head-up-Guidance-System-Software-Engineer-Onsite",
+      "source": "Other",
+      "description": "Apply for Head-up Guidance System Software Engineer (Onsite) job with Raytheon in wilsonville, Oregon, United States of America.",
+      "date": "2026-05-31",
+      "timestamp": "2026-05-31T09:56:48+00:00",
+      "fetched_at": "2026-05-31T20:44:39.513583+00:00"
     },
     {
       "id": "f5242f1e3289",
@@ -126,6 +246,21 @@
       "fetched_at": "2026-05-31T10:03:47.858892+00:00"
     },
     {
+      "id": "7e299c08844e",
+      "title": "Netrolynx AI hiring AI Engineer -Python in United States | LinkedIn",
+      "company": "Python in United States | LinkedIn",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/ai-engineer-python-at-netrolynx-ai-4421376011",
+      "source": "LinkedIn",
+      "description": "Full-Stack Engineer 5 \u2013 AI Insights & Visualizations, AI Platform ... AI Engineer / ML Engineer - Senior Developers - AI Training - Austin, US.",
+      "date": "2026-05-31",
+      "timestamp": "2026-05-31T06:42:04+00:00",
+      "fetched_at": "2026-05-31T20:44:39.513853+00:00"
+    },
+    {
       "id": "0589086cfb1e",
       "title": "Software Engineer in Bangalore, India | Product and Engineering at Cisco - Cisco Careers",
       "company": "Cisco",
@@ -139,6 +274,36 @@
       "date": "2026-05-31",
       "timestamp": "2026-05-31T05:40:13+00:00",
       "fetched_at": "2026-05-31T10:03:47.859012+00:00"
+    },
+    {
+      "id": "e5fc991b38bc",
+      "title": "Senior Full Stack AI Engineer - Azure AI Foundry - Publicis Sapient Careers",
+      "company": "Azure AI Foundry - Publicis Sapient Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.publicissapient.com/job-details/2026-152531-senior-full-stack-ai-engineer---azure-ai-foundry-mexico-city?trid=fabf8f5c-18fc-43ce-ba06-84dac34b9203",
+      "source": "Other",
+      "description": "We are seeking a Senior Full-Stack AI Engineer to build and scale enterprise-grade AI applications, agents, copilots, and workflow automation ...",
+      "date": "2026-05-31",
+      "timestamp": "2026-05-31T04:48:32+00:00",
+      "fetched_at": "2026-05-31T20:44:39.514290+00:00"
+    },
+    {
+      "id": "7034e83ef2c7",
+      "title": "Staff Software Engineer : plus de 400 emplois (31 mai 2026) | Indeed",
+      "company": "Indeed",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://fr.indeed.com/q-staff-software-engineer-emplois.html?start=15",
+      "source": "Indeed",
+      "description": "... Senior Software Engineer , Vancouver, BC : emplois Software Engineer ... Data Engineer , Calgary, Ab : emploisTechnical Lead, Farciennes ...",
+      "date": "2026-05-31",
+      "timestamp": "2026-05-31T04:38:47+00:00",
+      "fetched_at": "2026-05-31T20:44:39.596410+00:00"
     },
     {
       "id": "83006e414ba9",
@@ -199,6 +364,21 @@
       "date": "2026-05-31",
       "timestamp": "2026-05-31T04:01:30+00:00",
       "fetched_at": "2026-05-31T10:03:47.859164+00:00"
+    },
+    {
+      "id": "cad7fdb79346",
+      "title": "Macquarie Group Data Engineer Interview Guide 2026 - Dataford",
+      "company": "Dataford",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://dataford.io/interview-guides/macquarie-group/data-engineer",
+      "source": "Other",
+      "description": "Complete interview guide for Data Engineer at Macquarie Group. Real salary data, process insights, and interview experiences.",
+      "date": "2026-05-31",
+      "timestamp": "2026-05-31T03:34:24+00:00",
+      "fetched_at": "2026-05-31T20:44:39.514787+00:00"
     },
     {
       "id": "e101c44890d8",
