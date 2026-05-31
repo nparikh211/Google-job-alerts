@@ -1,26 +1,26 @@
 {
-  "last_updated": "2026-05-31T01:58:15.807190+00:00",
-  "total_jobs": 2774,
+  "last_updated": "2026-05-31T07:36:04.773475+00:00",
+  "total_jobs": 2781,
   "stats": {
-    "total_companies": 1554,
+    "total_companies": 1557,
     "total_roles": 55,
     "regions": {
-      "India": 1714,
-      "Philippines": 586,
-      "Remote": 351,
+      "India": 1715,
+      "Philippines": 591,
+      "Remote": 353,
       "Unknown": 135
     },
     "sources": {
-      "Other": 2173,
+      "Other": 2178,
       "Greenhouse": 146,
       "Workday": 126,
-      "LinkedIn": 98,
+      "LinkedIn": 99,
       "Ashby": 88,
       "Breezy": 34,
       "iCIMS": 31,
       "Lever": 25,
+      "SmartRecruiters": 14,
       "Workable": 14,
-      "SmartRecruiters": 13,
       "Indeed": 13,
       "Recruitee": 3,
       "Jobvite": 3,
@@ -36,6 +36,21 @@
   },
   "jobs": [
     {
+      "id": "7b06e893f505",
+      "title": "Senior Software Engineer (Enforce, Safety Processing) \u2013 Discord - Welcome to the Jungle",
+      "company": "Welcome to the Jungle",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.welcometothejungle.com/en/companies/discord/jobs/senior-software-engineer-enforce-safety-processing_san-francisco_qg5ehr23",
+      "source": "Other",
+      "description": "Discord is looking for a Senior Software Engineer (Enforce, Safety Processing) in San Francisco!",
+      "date": "2026-05-31",
+      "timestamp": "2026-05-31T03:06:05+00:00",
+      "fetched_at": "2026-05-31T07:36:04.758239+00:00"
+    },
+    {
       "id": "034177e65467",
       "title": "Data Engineer , Fleet Analytics, Cell Quality & Field Reliability - Tesla",
       "company": "Tesla",
@@ -49,6 +64,37 @@
       "date": "2026-05-31",
       "timestamp": "2026-05-31T00:12:57+00:00",
       "fetched_at": "2026-05-31T01:58:15.401876+00:00"
+    },
+    {
+      "id": "04012cfdee12",
+      "title": "Senior Software Engineer - General Motors | Built In San Francisco",
+      "company": "General Motors | Built In San Francisco",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.builtinsf.com/job/senior-software-engineer/9553844",
+      "source": "Other",
+      "description": "General Motors is hiring for a Remote Senior Software Engineer in Sunnyvale, CA, USA. Find more details about the job and how to apply at Built In ...",
+      "date": "2026-05-30",
+      "timestamp": "2026-05-30T22:22:57+00:00",
+      "fetched_at": "2026-05-31T07:36:04.758673+00:00"
+    },
+    {
+      "id": "19695766bc2d",
+      "title": "Internship, Software Engineer , Service Engineering (Summer 2026) | Connor P. Tassi | 24 comments",
+      "company": "Connor P. Tassi | 24 comments",
+      "role": "Software Engineer",
+      "regions": [
+        "India",
+        "Remote"
+      ],
+      "link": "https://www.linkedin.com/posts/connor-tassi_internship-software-engineer-service-engineering-activity-7466267322580668416--8CZ",
+      "source": "LinkedIn",
+      "description": "... Data Engineer , Fleet Analytics https://lnkd.in/givTeh2n 2) Product ... AI Engineer | Software Engineer | Data Engineer | Distributed Systems.",
+      "date": "2026-05-30",
+      "timestamp": "2026-05-30T22:22:17+00:00",
+      "fetched_at": "2026-05-31T07:36:04.759026+00:00"
     },
     {
       "id": "5a68731a3b11",
@@ -81,6 +127,21 @@
       "fetched_at": "2026-05-31T01:58:15.402316+00:00"
     },
     {
+      "id": "307604e12cd0",
+      "title": "NBCUniversal Staff Site Reliability Engineer (Collaboration Engineering) | SmartRecruiters",
+      "company": "Nbcuniversal3",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.smartrecruiters.com/NBCUniversal3/744000129203104-staff-site-reliability-engineer-collaboration-engineering-",
+      "source": "SmartRecruiters",
+      "description": "Staff Site Reliability Engineer (Collaboration Engineering). 1000 Universal Studios Plaza, Orlando, FL 32819, USA Employees work in a hybrid mode ...",
+      "date": "2026-05-30",
+      "timestamp": "2026-05-30T20:40:56+00:00",
+      "fetched_at": "2026-05-31T07:36:04.759382+00:00"
+    },
+    {
       "id": "4bbef8b217f9",
       "title": "Job Description - Senior Data Engineer (260003XU)",
       "company": "Job Description",
@@ -94,6 +155,21 @@
       "date": "2026-05-30",
       "timestamp": "2026-05-30T20:25:20+00:00",
       "fetched_at": "2026-05-31T01:58:15.402595+00:00"
+    },
+    {
+      "id": "829d4e7f987b",
+      "title": "Principal Cyber Software Engineer | Northrop Grumman",
+      "company": "Northrop Grumman",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://northropgrumman.jobs/san-diego-ca/principal-cyber-software-engineer/FBBA5218641A4658A44141DD2113205E/job/",
+      "source": "Other",
+      "description": "Northrop Grumman Mission Systems would like you to join our team as a Principal Cyber Software Engineer . Places of performance for this position ...",
+      "date": "2026-05-30",
+      "timestamp": "2026-05-30T19:58:49+00:00",
+      "fetched_at": "2026-05-31T07:36:04.759741+00:00"
     },
     {
       "id": "96580554fa28",
@@ -171,6 +247,21 @@
       "fetched_at": "2026-05-31T01:58:15.403379+00:00"
     },
     {
+      "id": "65dbbd618c0b",
+      "title": "Embedded Software Engineer - Cybersecurity in Multiple Locations | Viasat, Inc.",
+      "company": "Cybersecurity in Multiple Locations | Viasat, Inc.",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.viasat.com/jobs/6117?lang=en-us",
+      "source": "Other",
+      "description": "As an Embedded Software Engineer \u2013 Cybersecurity, you will collaborate with software, security, and automation engineers to design, develop, and ...",
+      "date": "2026-05-30",
+      "timestamp": "2026-05-30T17:49:22+00:00",
+      "fetched_at": "2026-05-31T07:36:04.760593+00:00"
+    },
+    {
       "id": "76fd697be89b",
       "title": "Data Engineer Staffing - KORE1",
       "company": "KORE1",
@@ -184,6 +275,21 @@
       "date": "2026-05-30",
       "timestamp": "2026-05-30T17:26:08+00:00",
       "fetched_at": "2026-05-31T01:58:15.793276+00:00"
+    },
+    {
+      "id": "12d3baba99b2",
+      "title": "Staff Software Engineer , Git Storage in United Kingdom | GitHub, Inc.",
+      "company": "GitHub, Inc.",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.githubtalentcommunity.careers/interest/jobs/5194?lang=en-us",
+      "source": "Other",
+      "description": "Talent Community is hiring a Staff Software Engineer , Git Storage in United Kingdom. Review all of the job details and apply today!",
+      "date": "2026-05-30",
+      "timestamp": "2026-05-30T17:24:26+00:00",
+      "fetched_at": "2026-05-31T07:36:04.760846+00:00"
     },
     {
       "id": "e8dbd0a43468",
