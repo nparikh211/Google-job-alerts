@@ -1,27 +1,27 @@
 {
-  "last_updated": "2026-06-01T17:07:22.471861+00:00",
-  "total_jobs": 2871,
+  "last_updated": "2026-06-01T22:26:36.594110+00:00",
+  "total_jobs": 2897,
   "stats": {
-    "total_companies": 1598,
+    "total_companies": 1608,
     "total_roles": 58,
     "regions": {
-      "India": 1763,
-      "Philippines": 625,
-      "Remote": 362,
+      "India": 1776,
+      "Philippines": 634,
+      "Remote": 366,
       "Unknown": 135
     },
     "sources": {
-      "Other": 2251,
-      "Greenhouse": 147,
-      "Workday": 129,
+      "Other": 2272,
+      "Greenhouse": 148,
+      "Workday": 130,
       "LinkedIn": 106,
-      "Ashby": 90,
+      "Ashby": 91,
       "Breezy": 34,
       "iCIMS": 32,
       "Lever": 26,
+      "Workable": 16,
       "Indeed": 15,
       "SmartRecruiters": 14,
-      "Workable": 14,
       "Recruitee": 3,
       "Jobvite": 3,
       "Taleo": 2,
@@ -35,6 +35,396 @@
     }
   },
   "jobs": [
+    {
+      "id": "7aa16d2e2bfa",
+      "title": "Machine Learning Engineer - Multi Media LLC - Workable Jobs",
+      "company": "Multimediallc",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://apply.workable.com/multimediallc/j/73CB637EE8",
+      "source": "Workable",
+      "description": "We are looking for a Machine Learning Engineer to join our Artificial Intelligence and Machine Learning team. In this role, you will help build, ...",
+      "date": "2026-06-01",
+      "timestamp": "2026-06-01T22:05:29+00:00",
+      "fetched_at": "2026-06-01T22:26:36.578732+00:00"
+    },
+    {
+      "id": "abc34b942597",
+      "title": "Senior Software Engineer at USC",
+      "company": "USC",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://usccareers.usc.edu/job/los-angeles/senior-software-engineer/1209/95865715296",
+      "source": "Other",
+      "description": "Senior Software Engineer . Los Angeles, CA. Apply Save Job. Current employees apply here. Job ID REQ20175455 Category Information Technology. Helpful ...",
+      "date": "2026-06-01",
+      "timestamp": "2026-06-01T22:04:23+00:00",
+      "fetched_at": "2026-06-01T22:26:36.578884+00:00"
+    },
+    {
+      "id": "5d575370b71f",
+      "title": "Sr Machine Learning Engineer - Marketing and Corporate Systems (ML Ops) at TARGET",
+      "company": "TARGET",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://corporate.target.com/jobs/w01/00/sr-machine-learning-engineer-marketing-and-corporate-systems-ml-ops",
+      "source": "Other",
+      "description": "As a Sr AI/ ML Engineer , you will join a Data Sciences team responsible ... More jobs like this. Previous slide. Principal AI Engineer - Advanced AI ( ...",
+      "date": "2026-06-01",
+      "timestamp": "2026-06-01T21:14:09+00:00",
+      "fetched_at": "2026-06-01T22:26:36.579118+00:00"
+    },
+    {
+      "id": "3261769bad3c",
+      "title": "Software Engineer (Frontend Developer)-Early Career | Lockheed Martin",
+      "company": "Early Career | Lockheed Martin",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.lockheedmartinjobs.com/job/colorado-springs/software-engineer-frontend-developer-early-career/694/95866022784",
+      "source": "Other",
+      "description": "Learn more about applying for Software Engineer (Frontend Developer)-Early Career at Lockheed Martin Corporation.",
+      "date": "2026-06-01",
+      "timestamp": "2026-06-01T21:12:55+00:00",
+      "fetched_at": "2026-06-01T22:26:36.579325+00:00"
+    },
+    {
+      "id": "daf10b9fb4c6",
+      "title": "Senior Software Engineer \u2013 Artificial Intelligence at Boeing",
+      "company": "Boeing",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.boeing.com/job/berkeley/senior-software-engineer-artificial-intelligence/185/95865789088",
+      "source": "Other",
+      "description": "Senior Software Engineer \u2013 Artificial Intelligence. Berkeley, Missouri Job ID JR2026512643 Category Security Clearance Role Type Onsite Post Date ...",
+      "date": "2026-06-01",
+      "timestamp": "2026-06-01T21:10:29+00:00",
+      "fetched_at": "2026-06-01T22:26:36.579515+00:00"
+    },
+    {
+      "id": "d07f3b2b5f03",
+      "title": "Mozilla Careers \u2014 Senior Frontend Engineer \u2014 Open Positions",
+      "company": "Unknown Company",
+      "role": "Frontend Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.mozilla.org/en-US/careers/position/gh/7947576/",
+      "source": "Other",
+      "description": "Senior Frontend Engineer . at Mozilla Corporation. Team: Firefox ... A Senior Software Engineer is the next level from a Software Engineer .",
+      "date": "2026-06-01",
+      "timestamp": "2026-06-01T20:56:18+00:00",
+      "fetched_at": "2026-06-01T22:26:36.579635+00:00"
+    },
+    {
+      "id": "583ab616b2fb",
+      "title": "Software Engineer in Arlington, Virginia, United States - SAIC Careers",
+      "company": "SAIC Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.saic.com/jobs/17804096-software-engineer",
+      "source": "Other",
+      "description": "Software Engineer in Arlington, Virginia, United States. ... Azure DevOps Engineer . Arlington, VA, United States Software. DevSecOps ...",
+      "date": "2026-06-01",
+      "timestamp": "2026-06-01T20:43:03+00:00",
+      "fetched_at": "2026-06-01T22:26:36.505968+00:00"
+    },
+    {
+      "id": "17df3eb298f1",
+      "title": "Java Software Engineer | Schwab Jobs",
+      "company": "Schwab Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.schwabjobs.com/job/southlake/java-software-engineer/33727/95865188544",
+      "source": "Other",
+      "description": "Java Software Engineer . Southlake, TX. Requisition ID 2026-122475 Category Engineering & Software Development Position type Regular Pay range USD ...",
+      "date": "2026-06-01",
+      "timestamp": "2026-06-01T20:39:32+00:00",
+      "fetched_at": "2026-06-01T22:26:36.506131+00:00"
+    },
+    {
+      "id": "a821f0eaec8e",
+      "title": "Software Engineer , Remote - Canada | DraftKings Careers",
+      "company": "Canada | DraftKings Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.draftkings.com/jobs/jr14344/software-engineer/",
+      "source": "Other",
+      "description": "Software Engineer . Remote - Canada. Engineering; Full time. a group of people sitting at a table. About DraftKings. At DraftKings, AI is becoming an ...",
+      "date": "2026-06-01",
+      "timestamp": "2026-06-01T20:19:21+00:00",
+      "fetched_at": "2026-06-01T22:26:36.506286+00:00"
+    },
+    {
+      "id": "4864b1b3d68f",
+      "title": "Software Engineer - Fullstack (Nodejs, Python, React, AWS, PostgreSQL, AI/ML)",
+      "company": "Fullstack",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/2012925/Software-Engineer-Fullstack-Nodejs-Python-React-AWS-PostgreSQL-AI-ML",
+      "source": "Other",
+      "description": "Join our team as a Senior Software Engineer - Backend (Ruby on Rails) and help architect and build large-scale, cloud-managed web applications for ...",
+      "date": "2026-06-01",
+      "timestamp": "2026-06-01T19:52:13+00:00",
+      "fetched_at": "2026-06-01T22:26:36.506545+00:00"
+    },
+    {
+      "id": "e0069f735d94",
+      "title": "Software Engineer - ServiceNow - WGU - Myworkdayjobs.com",
+      "company": "Wgu",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://wgu.wd5.myworkdayjobs.com/External/job/Salt-Lake-City-UT/Software-Engineer---ServiceNow_JR-025294-1",
+      "source": "Workday",
+      "description": "Software Engineer - ServiceNow \u00b7 Design, develop, test, and deploy custom ServiceNow solutions. \u00b7 Research and develop new ServiceNow functionalities.",
+      "date": "2026-06-01",
+      "timestamp": "2026-06-01T19:39:18+00:00",
+      "fetched_at": "2026-06-01T22:26:36.506636+00:00"
+    },
+    {
+      "id": "5a3499304a1e",
+      "title": "AWS DevOps Engineer - EXL Talent Acquisition Team Careers - Sign in",
+      "company": "EXL Talent Acquisition Team Careers - Sign in",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/14993",
+      "source": "Other",
+      "description": "Job Role Cloud Engineer -Cloud DevOps Engineer ; Experience (In Years) 6-9. Job Description. Overview: A Cloud Engineer is responsible for designing ...",
+      "date": "2026-06-01",
+      "timestamp": "2026-06-01T19:35:10+00:00",
+      "fetched_at": "2026-06-01T22:26:36.506835+00:00"
+    },
+    {
+      "id": "2ccf26ab55f6",
+      "title": "Principal AI-Native Software Engineer Jobs and Careers in Dallas at AT&T",
+      "company": "AT&T",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.att.jobs/job/dallas/principal-ai-native-software-engineer/117/95854629520",
+      "source": "Other",
+      "description": "Build a more connected world in a telecommunications career at AT&T. Learn more and apply for our Principal AI-Native Software Engineer in Dallas ...",
+      "date": "2026-06-01",
+      "timestamp": "2026-06-01T19:17:27+00:00",
+      "fetched_at": "2026-06-01T22:26:36.580369+00:00"
+    },
+    {
+      "id": "c4b481599533",
+      "title": "Senior Software Engineer at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-software-engineer/47263/95860018560",
+      "source": "Other",
+      "description": "Senior Software Engineer . Santa Clara, California, United States Product Engineering Ref ID: JR-018368. Apply Save Job. Current Employees, apply here.",
+      "date": "2026-06-01",
+      "timestamp": "2026-06-01T18:59:45+00:00",
+      "fetched_at": "2026-06-01T22:26:36.506978+00:00"
+    },
+    {
+      "id": "dfc811457fad",
+      "title": "DevOps Engineer - Accurant International - Application - Workable Jobs",
+      "company": "Accurant",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://apply.workable.com/accurant/j/873CE2B7DE/apply/",
+      "source": "Workable",
+      "description": "DevOps Engineer . HybridRenovo AutomationFull time. Minneapolis, Minnesota, United States. OverviewApplication. Autofill application. Save time by ...",
+      "date": "2026-06-01",
+      "timestamp": "2026-06-01T18:58:58+00:00",
+      "fetched_at": "2026-06-01T22:26:36.580747+00:00"
+    },
+    {
+      "id": "ab1a254a7c82",
+      "title": "Software Engineer - Test and Validation - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200665937-0157/software-engineer-test-and-validation?team=HRDWR",
+      "source": "Other",
+      "description": "Apply for a Software Engineer - Test and Validation job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-06-01",
+      "timestamp": "2026-06-01T18:57:49+00:00",
+      "fetched_at": "2026-06-01T22:26:36.580911+00:00"
+    },
+    {
+      "id": "03055c58cbf7",
+      "title": "Software Data Engineer - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200666053-0865/software-data-engineer?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Software Data Engineer job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-06-01",
+      "timestamp": "2026-06-01T18:57:36+00:00",
+      "fetched_at": "2026-06-01T22:26:36.507246+00:00"
+    },
+    {
+      "id": "15ebdab52d68",
+      "title": "Data Engineer I @ Teamworks - Jobs",
+      "company": "Teamworks",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/teamworks/317433d0-072d-40ac-822f-0e268fa6b4c3",
+      "source": "Ashby",
+      "description": "There's meaningful work to own from day one, and I'm hiring a Data Engineer to join us at the build-and-ship layer and grow alongside the platform You ...",
+      "date": "2026-06-01",
+      "timestamp": "2026-06-01T18:52:55+00:00",
+      "fetched_at": "2026-06-01T22:26:36.507343+00:00"
+    },
+    {
+      "id": "87907f0a0fc7",
+      "title": "Senior Software Engineer , Paragon - Job ID: 10435618 - Amazon Careers",
+      "company": "Job ID: 10435618 - Amazon Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://amazon.jobs/en/jobs/10435618/senior-software-engineer-paragon",
+      "source": "Other",
+      "description": "Senior Software Engineer , Paragon \u00b7 Description. Would you like to work on one of the world's largest transactional distributed systems? \u00b7 Basic ...",
+      "date": "2026-06-01",
+      "timestamp": "2026-06-01T18:34:14+00:00",
+      "fetched_at": "2026-06-01T22:26:36.507507+00:00"
+    },
+    {
+      "id": "e342353462c2",
+      "title": "Azure DevOps Engineer - Senior Analyst- Hyderabad - - 354147 - Deloitte",
+      "company": "Azure DevOps Engineer",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://usijobs.deloitte.com/en_US/careersUSI/JobDetail/USI-EH27-L35-Azure-DevOps-Engineer-Senior-Analyst-Hyderabad/354147",
+      "source": "Other",
+      "description": "Seeking a DevOps Engineer to build and continuously improve secure, compliant CI/CD pipelines and automation across enterprise digital products.",
+      "date": "2026-06-01",
+      "timestamp": "2026-06-01T18:27:33+00:00",
+      "fetched_at": "2026-06-01T22:26:36.507860+00:00"
+    },
+    {
+      "id": "fea81edcaf4f",
+      "title": "Software Engineer II (Full-stack Developer)_REMOTE | Dayforce Jobs - dayforcehcm.com",
+      "company": "Software Engineer II (Full",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.dayforcehcm.com/en-US/c2fo/CANDIDATEPORTAL/jobs/2289",
+      "source": "Other",
+      "description": "Designation: Software Engineer II (Full-stack Developer) Experience: 2+ years Location: REMOTE ABOUT THE POSITION Our Engineers are at the ...",
+      "date": "2026-06-01",
+      "timestamp": "2026-06-01T18:13:07+00:00",
+      "fetched_at": "2026-06-01T22:26:36.507979+00:00"
+    },
+    {
+      "id": "87a7ee49a422",
+      "title": "Job Application for Senior Software Engineer (GO) at Catapult Sports - Greenhouse",
+      "company": "Catapultsports",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/catapultsports/jobs/7960837",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer (Go). Catapult is building the future of sports performance technology, with a mission to Unleash the Potential of every ...",
+      "date": "2026-06-01",
+      "timestamp": "2026-06-01T18:03:08+00:00",
+      "fetched_at": "2026-06-01T22:26:36.508198+00:00"
+    },
+    {
+      "id": "6af7fc1914ae",
+      "title": "Sr Software Engineer (Java +AI skills) - TEKEngineersInc - Remote | Dice.com",
+      "company": "Sr Software Engineer",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.dice.com/job-detail/c34706e3-a6d3-428c-bf02-5eeaa9e11922",
+      "source": "Other",
+      "description": "The Senior Software Engineer (AI) is a hands on contributor within the Workflow Orchestration Initiative, responsible for building intelligent backend ...",
+      "date": "2026-06-01",
+      "timestamp": "2026-06-01T18:01:54+00:00",
+      "fetched_at": "2026-06-01T22:26:36.508336+00:00"
+    },
+    {
+      "id": "9edac3a5340e",
+      "title": "Software engineer (high-performance pipelines) - SecureBio",
+      "company": "performance pipelines) - SecureBio",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://securebio.org/careers/2026-software-engineer-pipelines/",
+      "source": "Other",
+      "description": "Depending on prior experience and demonstrated skills, this role may be hired at the Software Engineer or Senior Software Engineer level. Our ...",
+      "date": "2026-06-01",
+      "timestamp": "2026-06-01T18:01:38+00:00",
+      "fetched_at": "2026-06-01T22:26:36.508472+00:00"
+    },
+    {
+      "id": "4a00401b337e",
+      "title": "Software Engineer , Fleet Automation - Warsaw, Masovian Voivodeship, Poland",
+      "company": "Warsaw, Masovian Voivodeship, Poland",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.withwaymo.com/jobs/software-engineer-fleet-automation-warsaw-masovian-voivodeship-poland",
+      "source": "Other",
+      "description": "Join our Waymo Fleet Automation team, and help us design the future of transportation! We are looking for a passionate Software Engineer who wants ...",
+      "date": "2026-06-01",
+      "timestamp": "2026-06-01T17:59:30+00:00",
+      "fetched_at": "2026-06-01T22:26:36.508729+00:00"
+    },
+    {
+      "id": "48ff61a140a7",
+      "title": "Lead Software Engineer , Full Stack (Enterprise Platforms Technology) - Capital One Career",
+      "company": "Capital One Career",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.capitalonecareers.com/job/mclean/lead-software-engineer-full-stack-enterprise-platforms-technology/1732/95857653408",
+      "source": "Other",
+      "description": "Overview. Lead Software Engineer , Full Stack (Enterprise Platforms Technology). Do you love building and pioneering in the technology space?",
+      "date": "2026-06-01",
+      "timestamp": "2026-06-01T17:59:02+00:00",
+      "fetched_at": "2026-06-01T22:26:36.508966+00:00"
+    },
     {
       "id": "f21bde0633bc",
       "title": "Principal Python Backend Engineer - Fidelity Careers",
