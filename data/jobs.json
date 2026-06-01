@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-06-01T09:06:44.306737+00:00",
-  "total_jobs": 2845,
+  "last_updated": "2026-06-01T17:07:22.471861+00:00",
+  "total_jobs": 2871,
   "stats": {
-    "total_companies": 1592,
+    "total_companies": 1598,
     "total_roles": 58,
     "regions": {
-      "India": 1748,
-      "Philippines": 617,
-      "Remote": 359,
+      "India": 1763,
+      "Philippines": 625,
+      "Remote": 362,
       "Unknown": 135
     },
     "sources": {
-      "Other": 2229,
+      "Other": 2251,
       "Greenhouse": 147,
-      "Workday": 127,
-      "LinkedIn": 105,
-      "Ashby": 89,
+      "Workday": 129,
+      "LinkedIn": 106,
+      "Ashby": 90,
       "Breezy": 34,
       "iCIMS": 32,
       "Lever": 26,
@@ -35,6 +35,396 @@
     }
   },
   "jobs": [
+    {
+      "id": "f21bde0633bc",
+      "title": "Principal Python Backend Engineer - Fidelity Careers",
+      "company": "Fidelity Careers",
+      "role": "Backend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.fidelity.com/en/jobs/2127858/principal-python-backend-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer - Python APIs. Save Saved. Technology Published: Apr 26; Jersey City, NJ / Westlake, TX. Details \u00b7 Principal, Cloud Engineer ...",
+      "date": "2026-06-01",
+      "timestamp": "2026-06-01T16:30:41+00:00",
+      "fetched_at": "2026-06-01T17:07:22.209589+00:00"
+    },
+    {
+      "id": "a25ae2298bee",
+      "title": "Senior Software Engineer at Empower",
+      "company": "Empower",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.empower.com/job/united-states/senior-software-engineer/42743/95848784544",
+      "source": "Other",
+      "description": "Senior Software Engineer . Job ID R.0058058 Date posted 06/01/2026 Worker type Regular Workplace flexibility Remote - Nationwide.",
+      "date": "2026-06-01",
+      "timestamp": "2026-06-01T15:49:11+00:00",
+      "fetched_at": "2026-06-01T17:07:22.209761+00:00"
+    },
+    {
+      "id": "e3260ab1fa74",
+      "title": "Cloud/ AI Engineer Job Details | Purdue University",
+      "company": "Purdue University",
+      "role": "AI Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.purdue.edu/job/REMOTE-CloudAI-Engineer-IN/42152-en_US/",
+      "source": "Other",
+      "description": "Cloud & AI Infrastructure Engineer Location: REMOTE. The Cloud/ AI Engineer will champion Purdue's Cloud and AI initiatives as a fully competent ...",
+      "date": "2026-06-01",
+      "timestamp": "2026-06-01T15:38:52+00:00",
+      "fetched_at": "2026-06-01T17:07:22.209931+00:00"
+    },
+    {
+      "id": "3db68086096e",
+      "title": "Senior Staff Software Engineer , Machine Learning - DoorDash",
+      "company": "DoorDash",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careersatdoordash.com/jobs/senior-staff-software-engineer-machine-learning/7967848",
+      "source": "Other",
+      "description": "Senior Staff Software Engineer , Machine Learning. Apply To Job. Job ID ... As a Senior Staff Machine Learning Engineer on Core Cx, you will set ...",
+      "date": "2026-06-01",
+      "timestamp": "2026-06-01T15:32:09+00:00",
+      "fetched_at": "2026-06-01T17:07:22.210130+00:00"
+    },
+    {
+      "id": "4d50ea23627f",
+      "title": "Software Engineer (Research and Development) - Sakana AI",
+      "company": "Sakana AI",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://sakana.ai/careers/software-engineer-research-and-development/",
+      "source": "Other",
+      "description": "Software Engineer (Research and Development). Build the full-stack infrastructure that turns ML research into deployed products \u2014 data pipelines ...",
+      "date": "2026-06-01",
+      "timestamp": "2026-06-01T14:49:07+00:00",
+      "fetched_at": "2026-06-01T17:07:22.210306+00:00"
+    },
+    {
+      "id": "c51df70c80d4",
+      "title": "Software Engineer (Platform) - Sakana AI",
+      "company": "Sakana AI",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://sakana.ai/careers/software-engineer-platform/",
+      "source": "Other",
+      "description": "Software Engineer (Platform). Builds the secure, critical infrastructure and data platforms needed to reliably deploy and scale Sakana AI's ...",
+      "date": "2026-06-01",
+      "timestamp": "2026-06-01T14:49:07+00:00",
+      "fetched_at": "2026-06-01T17:07:22.210477+00:00"
+    },
+    {
+      "id": "3cc69a9d1079",
+      "title": "Senior Software Engineer @ Vector - Jobs",
+      "company": "Vector",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/vector/36b29436-a950-42a9-a57a-a125344dc8d9",
+      "source": "Ashby",
+      "description": "... Senior Software Engineer you will work with others to design, develop, and implement any changes, bug fixes, and new features to our web ...",
+      "date": "2026-06-01",
+      "timestamp": "2026-06-01T14:48:19+00:00",
+      "fetched_at": "2026-06-01T17:07:22.210584+00:00"
+    },
+    {
+      "id": "5c939f3952ec",
+      "title": "Senior Staff Cloud Engineer - ARS Team (Idira) at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Cloud Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/senior-staff-cloud-engineer-ars-team-idira/47263/95850653968",
+      "source": "Other",
+      "description": "CyberArk is looking for a Senior software engineer to join our elite team which is responsible for building one of CyberArk's new SaaS products.",
+      "date": "2026-06-01",
+      "timestamp": "2026-06-01T14:42:56+00:00",
+      "fetched_at": "2026-06-01T17:07:22.210779+00:00"
+    },
+    {
+      "id": "932700a41f88",
+      "title": "Principal Software Engineer (ITDR) at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/principal-software-engineer-itdr/47263/95850654048",
+      "source": "Other",
+      "description": "Principal Software Engineer (ITDR). Petah Tikva, Central District, Israel Product Engineering Ref ID: JR-018209. Apply Save Job. Current Employees ...",
+      "date": "2026-06-01",
+      "timestamp": "2026-06-01T14:42:54+00:00",
+      "fetched_at": "2026-06-01T17:07:22.210939+00:00"
+    },
+    {
+      "id": "2ef843c5f683",
+      "title": "Associate Software Engineer \u2013 Asset Protection & Vendor Portal - Publix Careers",
+      "company": "Publix Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.publix.com/job-opening/associate-software-engineer-asset-protection-vendor-portal/?fromsearch=1",
+      "source": "Other",
+      "description": "Join Publix and grow your career as a Associate Software Engineer \u2013 Asset Protection & Vendor Portal. Apply today.",
+      "date": "2026-06-01",
+      "timestamp": "2026-06-01T14:42:35+00:00",
+      "fetched_at": "2026-06-01T17:07:22.211314+00:00"
+    },
+    {
+      "id": "746b309b5e96",
+      "title": "Senior Full Stack Engineer (Angular and Python), Jersey City, NJ | Fidelity Careers",
+      "company": "Fidelity Careers",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.fidelity.com/en/jobs/2129550/senior-full-stack-engineer-angular-and-python/",
+      "source": "Other",
+      "description": "Senior Full Stack Engineer (Angular and Python). Technology. Senior Full Stack Engineer (Angular and Python). Published: Jun 01. ID: 2129550. Time ...",
+      "date": "2026-06-01",
+      "timestamp": "2026-06-01T14:34:33+00:00",
+      "fetched_at": "2026-06-01T17:07:22.211530+00:00"
+    },
+    {
+      "id": "5f4eb1ed0e0b",
+      "title": "Staff Software Engineer , Pixel Graphics - Search for your career at Google.",
+      "company": "Google.",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.google.com/jobs/results/88904190994064070-staff-software-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer , Full Stack. Atlanta, GA, USA \u00b7 Software Engineer III, AI Infrastructure. Warsaw, Poland. Showing 1 to 20 of 3268 rows. 1\u201120 ...",
+      "date": "2026-06-01",
+      "timestamp": "2026-06-01T14:24:48+00:00",
+      "fetched_at": "2026-06-01T17:07:22.211704+00:00"
+    },
+    {
+      "id": "0b65425be28a",
+      "title": "Software Engineer III - RELX Jobs",
+      "company": "Relx",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://relx.wd3.myworkdayjobs.com/relx/job/Alpharetta-GA/Software-Engineer-III_R114356",
+      "source": "Workday",
+      "description": "LexisNexis Risk Solutions, Inc. Software Engineer III 1000 Alderman Drive, Alpharetta, GA 30005 JOB DESCRIPTION: Innovate process improvements ...",
+      "date": "2026-06-01",
+      "timestamp": "2026-06-01T14:22:51+00:00",
+      "fetched_at": "2026-06-01T17:07:22.211801+00:00"
+    },
+    {
+      "id": "55eee2b09279",
+      "title": "Senior Software Engineer",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://ats.rippling.com/rebound/jobs/961fbb3f-b71d-4179-ac58-f4f2de81262f",
+      "source": "Other",
+      "description": "Senior Software Engineer . About Rebound. Rebound delivers virtual ... Rebound is seeking a Senior Full Stack Engineer to join our rapidly ...",
+      "date": "2026-06-01",
+      "timestamp": "2026-06-01T14:22:43+00:00",
+      "fetched_at": "2026-06-01T17:07:22.458026+00:00"
+    },
+    {
+      "id": "f3cb17e4902e",
+      "title": "Senior Software Engineer , Chrome Web Store Platform - Search for your career at Google.",
+      "company": "Google.",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.google.com/jobs/results/109592601782297286-senior-software-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer , Chrome Web Store Platform. share. linkCopy link; emailEmail a friend. corporate_fareGoogleplaceWarsaw, Poland. bar_chartMid ...",
+      "date": "2026-06-01",
+      "timestamp": "2026-06-01T14:17:53+00:00",
+      "fetched_at": "2026-06-01T17:07:22.458194+00:00"
+    },
+    {
+      "id": "301c2d67dd79",
+      "title": "Senior Software Engineer , Vice President - BlackRock Careers",
+      "company": "BlackRock Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.blackrock.com/job/budapest/senior-software-engineer-vice-president/45831/95372523088",
+      "source": "Other",
+      "description": "We are seeking a Senior Software Engineer to join our Budapest engineering hub. This role focuses on designing and building a scalable automated ...",
+      "date": "2026-06-01",
+      "timestamp": "2026-06-01T13:52:42+00:00",
+      "fetched_at": "2026-06-01T17:07:22.211981+00:00"
+    },
+    {
+      "id": "9c74a416f726",
+      "title": "Lead Software Engineer in Farnborough, Hampshire (Hybrid Remote) - Leidos Careers",
+      "company": "Leidos Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.leidos.com/jobs/17800673-lead-software-engineer",
+      "source": "Other",
+      "description": "Lead Software Engineer (Full Stack). Location: Farnborough, with flexibility to work from home dependent on business demands.",
+      "date": "2026-06-01",
+      "timestamp": "2026-06-01T13:40:40+00:00",
+      "fetched_at": "2026-06-01T17:07:22.212120+00:00"
+    },
+    {
+      "id": "1447eeb6fa02",
+      "title": "Senior Software Engineer - AI-Powered Microservices | Citi Careers",
+      "company": "AI-Powered Microservices | Citi Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.citi.com/job/chennai/senior-software-engineer-ai-powered-microservices/287/95844864112",
+      "source": "Other",
+      "description": "Learn more about applying for Senior Software Engineer - AI-Powered Microservices at Citi. Learn more about potential responsibilities, ...",
+      "date": "2026-06-01",
+      "timestamp": "2026-06-01T13:26:09+00:00",
+      "fetched_at": "2026-06-01T17:07:22.212327+00:00"
+    },
+    {
+      "id": "3754c263c92b",
+      "title": "Concero hiring Software Engineer in St Louis, MO | LinkedIn",
+      "company": "LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/software-engineer-at-concero-4416641882",
+      "source": "LinkedIn",
+      "description": "Senior Software Engineer . Boeing. Hazelwood, MO 2 days ago. Software ... AWS Full Stack Engineer . Booz Allen Hamilton. Arnold, MO 2 weeks ago.",
+      "date": "2026-06-01",
+      "timestamp": "2026-06-01T12:42:28+00:00",
+      "fetched_at": "2026-06-01T17:07:22.212750+00:00"
+    },
+    {
+      "id": "d5e036d8e253",
+      "title": "Software Engineer in Bengaluru 1499 | Technology at Lowes",
+      "company": "Lowes",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://talent.lowes.com/in/en/job/JR-02494388/Software-Engineer",
+      "source": "Other",
+      "description": "We are looking for a Senior Software Engineer to innovate and deliver high-quality software solutions. ... Senior Data Engineer . Location D3 STPI ...",
+      "date": "2026-06-01",
+      "timestamp": "2026-06-01T12:41:19+00:00",
+      "fetched_at": "2026-06-01T17:07:22.212866+00:00"
+    },
+    {
+      "id": "406c482124d2",
+      "title": "DevOps Engineer - Myworkdayjobs.com",
+      "company": "Fhlbpgh",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://fhlbpgh.wd503.myworkdayjobs.com/en-US/fhlb-pgh/job/Pittsburgh/DevOps-Engineer_R418/apply/autofillWithResume",
+      "source": "Workday",
+      "description": "Position Summary The DevOps Engineer supports the delivery of modern, secure, and scalable technology solutions by combining full\u2011stack ...",
+      "date": "2026-06-01",
+      "timestamp": "2026-06-01T12:35:50+00:00",
+      "fetched_at": "2026-06-01T17:07:22.459194+00:00"
+    },
+    {
+      "id": "5f218805a046",
+      "title": "Software Engineer Intern (Robotics) \u2013 PlusAI \u2013 Internship in Santa Clara, CA",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.welcometothejungle.com/en/companies/plusai/jobs/software-engineer-intern-robotics_santa-clara-ca_4dobdvvu",
+      "source": "Other",
+      "description": "PlusAI is looking for a Software Engineer Intern (Robotics) in Santa Clara, CA!",
+      "date": "2026-06-01",
+      "timestamp": "2026-06-01T12:35:24+00:00",
+      "fetched_at": "2026-06-01T17:07:22.459442+00:00"
+    },
+    {
+      "id": "9700475e1506",
+      "title": "AI Engineer - Team8 VC",
+      "company": "Team8 VC",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://team8.vc/career/frame-security/ai-engineer/",
+      "source": "Other",
+      "description": "We are looking for a highly skilled AI Engineer to join our core engineering team and spearhead our quality assurance strategy. In this role, you won' ...",
+      "date": "2026-06-01",
+      "timestamp": "2026-06-01T12:30:26+00:00",
+      "fetched_at": "2026-06-01T17:07:22.459570+00:00"
+    },
+    {
+      "id": "c5939d5a75d2",
+      "title": "Software Engineer at UnitedHealth Group",
+      "company": "UnitedHealth Group",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.unitedhealthgroup.com/en/job/madison/software-engineer/34088/95835856912",
+      "source": "Other",
+      "description": "We are seeking a software engineer who can contribute across software, data, and AI/ML disciplines to enhance existing CDS solutions as well as work ...",
+      "date": "2026-06-01",
+      "timestamp": "2026-06-01T12:28:53+00:00",
+      "fetched_at": "2026-06-01T17:07:22.459704+00:00"
+    },
+    {
+      "id": "7b77965466c9",
+      "title": "Process Controls Software Engineer - careers.cern",
+      "company": "careers.cern",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.cern/jobs/te-crg-ic-2026-96-grap/",
+      "source": "Other",
+      "description": "Process Controls Software Engineer . Switzerland flag Geneva, Switzerland TE-CRG-IC-2026-96-GRAP Ideal start date: 01 ...",
+      "date": "2026-06-01",
+      "timestamp": "2026-06-01T12:10:43+00:00",
+      "fetched_at": "2026-06-01T17:07:22.459826+00:00"
+    },
+    {
+      "id": "4dfcbbb5037a",
+      "title": "Software Engineer - Low Latency Execution - Optiver",
+      "company": "Low Latency Execution - Optiver",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.optiver.com/working-at-optiver/career-opportunities/8523868002/",
+      "source": "Other",
+      "description": "Software Engineer - Low Latency Execution. Level. Experienced. Location. Chicago. Department. Technology. Apply. Apply. Overview: You'll work on the ...",
+      "date": "2026-06-01",
+      "timestamp": "2026-06-01T12:02:59+00:00",
+      "fetched_at": "2026-06-01T17:07:22.459977+00:00"
+    },
     {
       "id": "7bd52ff1f9fc",
       "title": "Senior Software Engineer AI/ML, Content Safety Applications \u2014 Google Careers",
