@@ -1,27 +1,27 @@
 {
-  "last_updated": "2026-06-02T08:17:09.523211+00:00",
-  "total_jobs": 2916,
+  "last_updated": "2026-06-02T15:48:58.659561+00:00",
+  "total_jobs": 2939,
   "stats": {
-    "total_companies": 1616,
+    "total_companies": 1625,
     "total_roles": 58,
     "regions": {
-      "India": 1787,
-      "Philippines": 638,
-      "Remote": 370,
+      "India": 1801,
+      "Philippines": 642,
+      "Remote": 375,
       "Unknown": 135
     },
     "sources": {
-      "Other": 2286,
-      "Greenhouse": 150,
-      "Workday": 130,
+      "Other": 2302,
+      "Greenhouse": 153,
+      "Workday": 131,
       "LinkedIn": 106,
       "Ashby": 91,
-      "Breezy": 34,
-      "iCIMS": 32,
+      "Breezy": 35,
+      "iCIMS": 33,
       "Lever": 26,
       "Workable": 18,
+      "SmartRecruiters": 15,
       "Indeed": 15,
-      "SmartRecruiters": 14,
       "Jobvite": 4,
       "Recruitee": 3,
       "Taleo": 2,
@@ -35,6 +35,351 @@
     }
   },
   "jobs": [
+    {
+      "id": "0fa35a52fcae",
+      "title": "Job Application for Senior Software Engineer at 1upHealth - Greenhouse",
+      "company": "1Uphealth",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/1uphealth/jobs/4685102006",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer . Remote. Apply. About 1upHealth. At 1upHealth, we're on a mission to unlock health data and empower the future of healthcare ...",
+      "date": "2026-06-02",
+      "timestamp": "2026-06-02T15:21:00+00:00",
+      "fetched_at": "2026-06-02T15:48:58.425480+00:00"
+    },
+    {
+      "id": "22d45ce2b7c0",
+      "title": "Software Engineer - Texas Instruments Careers - oracle",
+      "company": "Texas Instruments Careers - oracle",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010951",
+      "source": "Other",
+      "description": "Software Engineer . Bengaluru, Karnataka, India. Apply Now. Job Description. Change the world. Love your job. Software at TI usually refers to embedded ...",
+      "date": "2026-06-02",
+      "timestamp": "2026-06-02T14:51:32+00:00",
+      "fetched_at": "2026-06-02T15:48:58.426651+00:00"
+    },
+    {
+      "id": "f59f30a9ccb3",
+      "title": "Software Engineer , HYDERABAD, Telang\u0101na | Wells Fargo",
+      "company": "Wells Fargo",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.wellsfargojobs.com/en/jobs/r-549964/software-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer . Save Saved. HYDERABAD, Telang\u0101na; Technology. Senior Software Engineer . Save Saved. HYDERABAD, Telang\u0101na; Technology ...",
+      "date": "2026-06-02",
+      "timestamp": "2026-06-02T14:25:04+00:00",
+      "fetched_at": "2026-06-02T15:48:58.426828+00:00"
+    },
+    {
+      "id": "94cd365a5510",
+      "title": "Job Application for Software Engineer , Ads Product at xAI - Greenhouse",
+      "company": "Xai",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/xai/jobs/5152408007",
+      "source": "Greenhouse",
+      "description": "Software Engineer , Ads Product. Palo Alto, CA. Apply. ABOUT xAI. xAI's mission is to create AI systems that can accurately understand the universe and ...",
+      "date": "2026-06-02",
+      "timestamp": "2026-06-02T14:21:51+00:00",
+      "fetched_at": "2026-06-02T15:48:58.644926+00:00"
+    },
+    {
+      "id": "6c20f1d177c6",
+      "title": "Agentic AI Engineer - Fervo Energy Company - Paylocity",
+      "company": "Fervo Energy Company - Paylocity",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://recruiting.paylocity.com/recruiting/jobs/Details/4199292/Fervo-Energy-Company/Agentic-AI-Engineer",
+      "source": "Other",
+      "description": "The Agentic AI Engineer , within the Data & AI team, designs and ships agentic workflows that turn unstructured knowledge and structured ...",
+      "date": "2026-06-02",
+      "timestamp": "2026-06-02T14:07:39+00:00",
+      "fetched_at": "2026-06-02T15:48:58.427052+00:00"
+    },
+    {
+      "id": "23de941a8074",
+      "title": "Senior Site Reliability Engineer - Visa - Myworkdayjobs.com",
+      "company": "Visa",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/Senior-Site-Reliability-Engineer_REF082088W-1",
+      "source": "Workday",
+      "description": "The Sr. Site Reliability Engineer is responsible for supporting the deployment and configuration of monitoring and logging tools, automating routine ...",
+      "date": "2026-06-02",
+      "timestamp": "2026-06-02T14:05:50+00:00",
+      "fetched_at": "2026-06-02T15:48:58.427157+00:00"
+    },
+    {
+      "id": "2d7221547018",
+      "title": "Software Engineer in Morgantown, West Virginia (Remote) - Leidos Careers",
+      "company": "Leidos Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.leidos.com/jobs/17806687-software-engineer",
+      "source": "Other",
+      "description": "... DevOps Engineer / Site Reliability Engineer . READ MORE. Senior Software Engineer . READ MORE. Software Engineer . READ MORE. Senior Transmission Line ...",
+      "date": "2026-06-02",
+      "timestamp": "2026-06-02T13:14:11+00:00",
+      "fetched_at": "2026-06-02T15:48:58.645179+00:00"
+    },
+    {
+      "id": "2c78fcda9862",
+      "title": "Software Engineer | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.apexsystems.com/job/3036755_usa/software-engineer",
+      "source": "Other",
+      "description": "Software Engineer \u00b7 Strong Java full stack development experience \u00b7 Experience working with cloud platforms (AWS and/or Azure) \u00b7 Hands-on experience with ...",
+      "date": "2026-06-02",
+      "timestamp": "2026-06-02T12:38:20+00:00",
+      "fetched_at": "2026-06-02T15:48:58.427315+00:00"
+    },
+    {
+      "id": "a08d611f2b4b",
+      "title": "Agentic AI Engineer - Fervo Energy Company - Paylocity",
+      "company": "Fervo Energy Company - Paylocity",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4199292",
+      "source": "Other",
+      "description": "The Agentic AI Engineer , within the Data & AI team, designs and ships agentic workflows that turn unstructured knowledge and structured ...",
+      "date": "2026-06-02",
+      "timestamp": "2026-06-02T12:06:09+00:00",
+      "fetched_at": "2026-06-02T15:48:58.645593+00:00"
+    },
+    {
+      "id": "396d5b537957",
+      "title": "AI Platform Engineer - ERP Suites - Career Page",
+      "company": "ERP Suites - Career Page",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://erpsuites.applytojob.com/apply/Tss1YPxNoW/AI-Platform-Engineer",
+      "source": "Other",
+      "description": "AI Platform Engineer ... ERP Suites develops Enterprise AI agents and orchestration solutions hosted on Oracle Cloud Infrastructure (OCI). Our products ...",
+      "date": "2026-06-02",
+      "timestamp": "2026-06-02T12:02:59+00:00",
+      "fetched_at": "2026-06-02T15:48:58.427478+00:00"
+    },
+    {
+      "id": "596949639b8f",
+      "title": "Lead AI Engineer (Agentic AI) - NC, TX | Everforth Apex",
+      "company": "NC, TX | Everforth Apex",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.apexsystems.com/job/3036538_usa/lead-ai-engineer-agentic-ai---nc-tx",
+      "source": "Other",
+      "description": "Job#: 3036538. Job Description: Client: Financial Services. Team: TBA. Job Title: Software Engineer 4 / Lead AI Engineer (Agentic AI).",
+      "date": "2026-06-02",
+      "timestamp": "2026-06-02T11:58:57+00:00",
+      "fetched_at": "2026-06-02T15:48:58.645757+00:00"
+    },
+    {
+      "id": "62ee0e8013ad",
+      "title": "Job Application for Senior Software Engineer , Vault at Alt - Greenhouse",
+      "company": "Alt",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/alt/jobs/7758873003",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer , Vault. Remote. Apply. Alt is unlocking the value ... We're looking for a Senior Fullstack Engineer to help build Alt Vault ...",
+      "date": "2026-06-02",
+      "timestamp": "2026-06-02T11:58:38+00:00",
+      "fetched_at": "2026-06-02T15:48:58.427590+00:00"
+    },
+    {
+      "id": "9fb9d316b54e",
+      "title": "Senior Software Engineer , Reap Direct - Careers",
+      "company": "Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.reap.global/jobs/7831710-senior-software-engineer-reap-direct",
+      "source": "Other",
+      "description": "Senior Software Engineer , Reap Direct: own end-to-end full-stack fintech features, collaborate across teams, and build reliable, ...",
+      "date": "2026-06-02",
+      "timestamp": "2026-06-02T11:54:51+00:00",
+      "fetched_at": "2026-06-02T15:48:58.427760+00:00"
+    },
+    {
+      "id": "b88c7bef3423",
+      "title": "Software Engineer in Bangalore, India | Product and Engineering at Cisco - Cisco Careers",
+      "company": "Cisco",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/2015541/Software-Engineer",
+      "source": "Other",
+      "description": "Apply for Software Engineer job with Cisco in ... We are seeking an Cloud DevOps Engineer to join our dynamic and innovative technology team.",
+      "date": "2026-06-02",
+      "timestamp": "2026-06-02T11:50:07+00:00",
+      "fetched_at": "2026-06-02T15:48:58.427902+00:00"
+    },
+    {
+      "id": "27958a41e5eb",
+      "title": "Software Engineer - Sutherland Global",
+      "company": "Sutherland Global",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.jobs.sutherlandglobal.com/job-details/software-engineer-in-vertical-others-jobs-1580910",
+      "source": "Other",
+      "description": "Work on interesting projects. Software Engineer . Contract Type: Brick and Mortar. Location: Hyderabad - //TS. Date Published: 06-01-2026. Job ID:.",
+      "date": "2026-06-02",
+      "timestamp": "2026-06-02T11:11:28+00:00",
+      "fetched_at": "2026-06-02T15:48:58.428092+00:00"
+    },
+    {
+      "id": "0a6be79e1550",
+      "title": "AI Data Engineer in Rockville, United States | Emmes Group",
+      "company": "Emmes Group",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.emmes.com/jobs/2981?lang=en-us",
+      "source": "Other",
+      "description": "emmes is hiring a AI Data Engineer in Rockville, United States. Review all of the job details and apply today!",
+      "date": "2026-06-02",
+      "timestamp": "2026-06-02T09:09:11+00:00",
+      "fetched_at": "2026-06-02T15:48:58.428350+00:00"
+    },
+    {
+      "id": "f73e45887bb5",
+      "title": "Software Engineer | GE Vernova",
+      "company": "GE Vernova",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.gevernova.com/software-engineer/job/R5043015",
+      "source": "Other",
+      "description": "Software Engineer . Digital Engineering; PB. Type: Full Time. Location(s):: Bangalore VERNOVA (JFWTC) IN. Date Posted: Salary: Job Posting Start Date ...",
+      "date": "2026-06-02",
+      "timestamp": "2026-06-02T07:52:14+00:00",
+      "fetched_at": "2026-06-02T15:48:58.428478+00:00"
+    },
+    {
+      "id": "d9490f0e54fd",
+      "title": "NBCUniversal Software Engineer , Live and Interactive | SmartRecruiters",
+      "company": "Nbcuniversal3",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.smartrecruiters.com/NBCUniversal3/744000129584617-software-engineer-live-and-interactive",
+      "source": "SmartRecruiters",
+      "description": "We are looking for a Software Engineer I to help build the next generation of digital news experiences. This is an early-career role designed for ...",
+      "date": "2026-06-02",
+      "timestamp": "2026-06-02T07:49:29+00:00",
+      "fetched_at": "2026-06-02T15:48:58.646838+00:00"
+    },
+    {
+      "id": "9995167f3ec3",
+      "title": "Senior Backend Engineer at Lovevery",
+      "company": "Lovevery",
+      "role": "Backend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://lovevery.breezy.hr/p/fc2f908ef51e-senior-backend-engineer",
+      "source": "Breezy",
+      "description": "Senior Backend Engineer ... Lovevery is a fast-growing digitally native brand co-founded by successful serial entrepreneurs and based in Boise, Idaho.",
+      "date": "2026-06-02",
+      "timestamp": "2026-06-02T07:40:04+00:00",
+      "fetched_at": "2026-06-02T15:48:58.428594+00:00"
+    },
+    {
+      "id": "e36431a73b53",
+      "title": "Software Engineer \u2013 Distributed Systems & Platform Engineering - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200666169-0836/software-engineer-distributed-systems-platform-engineering?team=HRDWR",
+      "source": "Other",
+      "description": "Apply for a Software Engineer \u2013 Distributed Systems & Platform Engineering job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-06-02",
+      "timestamp": "2026-06-02T06:59:23+00:00",
+      "fetched_at": "2026-06-02T15:48:58.647098+00:00"
+    },
+    {
+      "id": "2a1e04c6e7b2",
+      "title": "Associate Data Engineer Artificial Intelligence AI in Remote - Cotiviti | Careers Center",
+      "company": "Cotiviti | Careers Center",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers-cotiviti.icims.com/jobs/19203/associate-data-engineer-artificial-intelligence-ai/job",
+      "source": "iCIMS",
+      "description": "US Nationwide Remote is now hiring a Associate Data Engineer Artificial Intelligence AI in Remote. Review all of the job details and apply today!",
+      "date": "2026-06-02",
+      "timestamp": "2026-06-02T06:25:14+00:00",
+      "fetched_at": "2026-06-02T15:48:58.428796+00:00"
+    },
+    {
+      "id": "0240769a03ab",
+      "title": "Sr. Fullstack Software Engineer , Diagnostics - Tesla",
+      "company": "Tesla",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.tesla.com/careers/search/job/sr-fullstack-software-engineer-diagnostics-272331",
+      "source": "Other",
+      "description": "Apply for the Sr. Fullstack Software Engineer , Diagnostics position in Palo Alto, California.",
+      "date": "2026-06-02",
+      "timestamp": "2026-06-02T05:30:34+00:00",
+      "fetched_at": "2026-06-02T15:48:58.428985+00:00"
+    },
+    {
+      "id": "fc73f62ec30a",
+      "title": "AI ML Engineer job - Experis USA - 399512",
+      "company": "Experis USA - 399512",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.experis.com/en/job/399512/ai-ml-engineer-",
+      "source": "Other",
+      "description": "AI ML Engineer \u00b7 Design, develop, and maintain scalable and robust machine learning models for predictive and prescriptive analytics. \u00b7 Perform data ...",
+      "date": "2026-06-02",
+      "timestamp": "2026-06-02T04:20:40+00:00",
+      "fetched_at": "2026-06-02T15:48:58.429125+00:00"
+    },
     {
       "id": "9b7ddc4a965b",
       "title": "Job Application for Full-Stack Engineer at Nordic Naturals - Greenhouse",
