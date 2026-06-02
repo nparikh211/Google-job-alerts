@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-06-02T15:48:58.659561+00:00",
-  "total_jobs": 2939,
+  "last_updated": "2026-06-02T19:33:31.543982+00:00",
+  "total_jobs": 2948,
   "stats": {
-    "total_companies": 1625,
+    "total_companies": 1628,
     "total_roles": 58,
     "regions": {
-      "India": 1801,
-      "Philippines": 642,
-      "Remote": 375,
+      "India": 1806,
+      "Philippines": 643,
+      "Remote": 378,
       "Unknown": 135
     },
     "sources": {
-      "Other": 2302,
-      "Greenhouse": 153,
+      "Other": 2310,
+      "Greenhouse": 154,
       "Workday": 131,
       "LinkedIn": 106,
       "Ashby": 91,
@@ -35,6 +35,96 @@
     }
   },
   "jobs": [
+    {
+      "id": "e8b5eefcefd9",
+      "title": "Machine Learning Engineer , Boise - Equifax Careers",
+      "company": "Equifax Careers",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.equifax.com/en/jobs/j00177354/machine-learning-engineer/",
+      "source": "Other",
+      "description": "This position does not offer immigration sponsorship (current or future) including F-1 STEM OPT extension support. As a Machine Learning Engineer ...",
+      "date": "2026-06-02",
+      "timestamp": "2026-06-02T17:08:03+00:00",
+      "fetched_at": "2026-06-02T19:33:31.529119+00:00"
+    },
+    {
+      "id": "d91cbe08d0e3",
+      "title": "AI Engineer - Oliver James",
+      "company": "Oliver James",
+      "role": "AI Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.oliverjames.com/en/jobs/ai-engineer-9525/",
+      "source": "Other",
+      "description": "Remote AI Engineer contract role supporting AI platform reliability, SRE, cloud operations, observability, automation, and production AI systems.",
+      "date": "2026-06-02",
+      "timestamp": "2026-06-02T16:51:19+00:00",
+      "fetched_at": "2026-06-02T19:33:31.529256+00:00"
+    },
+    {
+      "id": "9d879c58ea56",
+      "title": "Data Engineer I in Pune, India, 411006 | AI & Data at Mastercard",
+      "company": "Mastercard",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mastercard.com/us/en/job/R-277992/Data-Engineer-I",
+      "source": "Other",
+      "description": "Data Engineer I. Apply Now. Back to search results. Previous ... AI Engineer . Location Pune, India, 411006 Category AI & Data. Senior Software Engineer ...",
+      "date": "2026-06-02",
+      "timestamp": "2026-06-02T16:49:12+00:00",
+      "fetched_at": "2026-06-02T19:33:31.363291+00:00"
+    },
+    {
+      "id": "a7a80bcfffbb",
+      "title": "Job Application for Senior Data Engineer (AI Native) at Life360 - Greenhouse",
+      "company": "Life360",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/life360/jobs/8573676002",
+      "source": "Greenhouse",
+      "description": "Senior Data Engineer (AI Native). Remote, USA ; Remote, Canada. Apply. About Life360. Life360's mission is to keep people close to the ones they love ...",
+      "date": "2026-06-02",
+      "timestamp": "2026-06-02T16:43:15+00:00",
+      "fetched_at": "2026-06-02T19:33:31.363410+00:00"
+    },
+    {
+      "id": "5faabef4ca4d",
+      "title": "Software Engineer \u2013 Distributed Systems & Platform Engineering - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200666169-0157/software-engineer-distributed-systems-platform-engineering?team=HRDWR",
+      "source": "Other",
+      "description": "Apply for a Software Engineer \u2013 Distributed Systems & Platform Engineering job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-06-02",
+      "timestamp": "2026-06-02T16:31:07+00:00",
+      "fetched_at": "2026-06-02T19:33:31.364278+00:00"
+    },
+    {
+      "id": "5e949cb09c79",
+      "title": "Introducing the AI Engineer | Postman Blog",
+      "company": "Postman Blog",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://blog.postman.com/introducing-the-ai-engineer/",
+      "source": "Other",
+      "description": "Postman introduces the AI Engineer : an agentic platform built on the Context Graph to help dev teams explore, design, review, and test APIs at ...",
+      "date": "2026-06-02",
+      "timestamp": "2026-06-02T16:29:06+00:00",
+      "fetched_at": "2026-06-02T19:33:31.364438+00:00"
+    },
     {
       "id": "0fa35a52fcae",
       "title": "Job Application for Senior Software Engineer at 1upHealth - Greenhouse",
@@ -64,6 +154,21 @@
       "date": "2026-06-02",
       "timestamp": "2026-06-02T14:51:32+00:00",
       "fetched_at": "2026-06-02T15:48:58.426651+00:00"
+    },
+    {
+      "id": "191538742d02",
+      "title": "5 Skills That'll Make You a $300K AI Engineer in 2026 - YouTube",
+      "company": "YouTube",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.youtube.com/watch?v=lxYpYQ-v3is",
+      "source": "Other",
+      "description": "Build the foundational skills to become an AI Engineer with DataCamp's Associate AI Engineer ... Machine Learning Engineer ) at Twitch/Amazon. Outside of ...",
+      "date": "2026-06-02",
+      "timestamp": "2026-06-02T14:32:58+00:00",
+      "fetched_at": "2026-06-02T19:33:31.365043+00:00"
     },
     {
       "id": "f59f30a9ccb3",
@@ -139,6 +244,21 @@
       "date": "2026-06-02",
       "timestamp": "2026-06-02T13:14:11+00:00",
       "fetched_at": "2026-06-02T15:48:58.645179+00:00"
+    },
+    {
+      "id": "064dc780b7d8",
+      "title": "Staff Machine Learning Engineer - Pinterest Careers",
+      "company": "Pinterest Careers",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.pinterestcareers.com/jobs/7679180/staff-machine-learning-engineer/",
+      "source": "Other",
+      "description": "As a Staff Machine Learning Engineer focused on Agentic AI & Recommendations, you will lead the ML strategy and execution for the intelligence layer ...",
+      "date": "2026-06-02",
+      "timestamp": "2026-06-02T13:07:37+00:00",
+      "fetched_at": "2026-06-02T19:33:31.365631+00:00"
     },
     {
       "id": "2c78fcda9862",
@@ -244,6 +364,21 @@
       "date": "2026-06-02",
       "timestamp": "2026-06-02T11:50:07+00:00",
       "fetched_at": "2026-06-02T15:48:58.427902+00:00"
+    },
+    {
+      "id": "22980cb5edff",
+      "title": "Associate Data Engineer | Swiss Re",
+      "company": "Swiss Re",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.swissre.com/careers/job/Associate-Data-Engineer/1399781633",
+      "source": "Other",
+      "description": "As an Associate Data Engineer in our Reporting Solutions team, you'll be at the intersection of finance and technology, creating data solutions ...",
+      "date": "2026-06-02",
+      "timestamp": "2026-06-02T11:21:09+00:00",
+      "fetched_at": "2026-06-02T19:33:31.366444+00:00"
     },
     {
       "id": "27958a41e5eb",
