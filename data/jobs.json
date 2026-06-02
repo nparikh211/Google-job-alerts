@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-06-02T02:07:42.539646+00:00",
-  "total_jobs": 2911,
+  "last_updated": "2026-06-02T08:17:09.523211+00:00",
+  "total_jobs": 2916,
   "stats": {
-    "total_companies": 1613,
+    "total_companies": 1616,
     "total_roles": 58,
     "regions": {
-      "India": 1784,
+      "India": 1787,
       "Philippines": 638,
-      "Remote": 368,
+      "Remote": 370,
       "Unknown": 135
     },
     "sources": {
-      "Other": 2284,
-      "Greenhouse": 148,
+      "Other": 2286,
+      "Greenhouse": 150,
       "Workday": 130,
       "LinkedIn": 106,
       "Ashby": 91,
@@ -22,8 +22,8 @@
       "Workable": 18,
       "Indeed": 15,
       "SmartRecruiters": 14,
+      "Jobvite": 4,
       "Recruitee": 3,
-      "Jobvite": 3,
       "Taleo": 2,
       "WeWorkRemotely": 2,
       "BrassRing": 2,
@@ -35,6 +35,21 @@
     }
   },
   "jobs": [
+    {
+      "id": "9b7ddc4a965b",
+      "title": "Job Application for Full-Stack Engineer at Nordic Naturals - Greenhouse",
+      "company": "Nordicnaturals",
+      "role": "Stack Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/nordicnaturals/jobs/4261005009",
+      "source": "Greenhouse",
+      "description": "Full-Stack Engineer . Remote. Apply. Location: Remote. Salary: $105,000 to $120,000. POSITION SUMMARY. This position will be part of the technical team ...",
+      "date": "2026-06-02",
+      "timestamp": "2026-06-02T04:11:34+00:00",
+      "fetched_at": "2026-06-02T08:17:09.209781+00:00"
+    },
     {
       "id": "264d83c22742",
       "title": "Senior Machine Learning Engineer Jobs at Amgen in United States - Remote",
@@ -49,6 +64,21 @@
       "date": "2026-06-02",
       "timestamp": "2026-06-02T01:55:54+00:00",
       "fetched_at": "2026-06-02T02:07:42.525349+00:00"
+    },
+    {
+      "id": "c81b46fabceb",
+      "title": "AIML - Sr Machine Learning Engineer - Data and ML Innovation - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200666135-0836/aiml-sr-machine-learning-engineer-data-and-ml-innovation",
+      "source": "Other",
+      "description": "Apply for a AIML - Sr Machine Learning Engineer - Data and ML Innovation job at Apple ... As a Machine Learning ( ML) Engineer , you will be entrusted ...",
+      "date": "2026-06-02",
+      "timestamp": "2026-06-02T01:12:27+00:00",
+      "fetched_at": "2026-06-02T08:17:09.211134+00:00"
     },
     {
       "id": "212d8dbbc589",
@@ -96,6 +126,21 @@
       "fetched_at": "2026-06-02T02:07:42.323506+00:00"
     },
     {
+      "id": "8c8f7118936a",
+      "title": "Embedded Software Engineer , Austin, Texas plus 1 location | General Motors Careers",
+      "company": "General Motors Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://search-careers.gm.com/en/jobs/jr-202519828/embedded-software-engineer/",
+      "source": "Other",
+      "description": "Embedded Software Engineer . Location. Austin, Texas; Warren, Michigan ... Senior Software Engineer . Save Saved. Markham, Ontario plus 1 location ...",
+      "date": "2026-06-02",
+      "timestamp": "2026-06-02T00:49:37+00:00",
+      "fetched_at": "2026-06-02T08:17:09.211613+00:00"
+    },
+    {
       "id": "9dd64e23edd1",
       "title": "I dread the economic consequences, but as a software engineer I'm excited for this bubble to pop",
       "company": "Unknown Company",
@@ -111,6 +156,21 @@
       "fetched_at": "2026-06-02T02:07:42.323705+00:00"
     },
     {
+      "id": "dde0371f33b4",
+      "title": "Senior Software Engineer - Uplight Careers - Jobvite",
+      "company": "Uplight",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.jobvite.com/uplight/job/ocGdAfwp",
+      "source": "Jobvite",
+      "description": "Our solutions accelerate the transition to clean energy and save money for energy customers. We are looking for a Senior Software Engineer - Virtual ...",
+      "date": "2026-06-02",
+      "timestamp": "2026-06-02T00:24:06+00:00",
+      "fetched_at": "2026-06-02T08:17:09.211941+00:00"
+    },
+    {
       "id": "6cb749a90fd5",
       "title": "Software Engineer 1 in United States | Pacific Northwest National Laboratory",
       "company": "Pacific Northwest National Laboratory",
@@ -124,6 +184,21 @@
       "date": "2026-06-02",
       "timestamp": "2026-06-02T00:19:51+00:00",
       "fetched_at": "2026-06-02T02:07:42.525768+00:00"
+    },
+    {
+      "id": "c6fb404a43b1",
+      "title": "Job Application for Senior Software Engineer (Backend) - AI/ML at ClickHouse",
+      "company": "Clickhouse",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/clickhouse/jobs/6009092004",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer (Backend) - AI/ML. United States (remote). Apply ... Do you have experience working as a Backend Engineer on projects involving ...",
+      "date": "2026-06-01",
+      "timestamp": "2026-06-01T23:50:34+00:00",
+      "fetched_at": "2026-06-02T08:17:09.212026+00:00"
     },
     {
       "id": "cec8ae8a0799",
