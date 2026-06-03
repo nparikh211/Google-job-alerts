@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-06-02T22:13:59.496296+00:00",
-  "total_jobs": 2958,
+  "last_updated": "2026-06-03T02:15:41.888400+00:00",
+  "total_jobs": 2969,
   "stats": {
-    "total_companies": 1633,
+    "total_companies": 1640,
     "total_roles": 58,
     "regions": {
-      "India": 1812,
-      "Philippines": 645,
-      "Remote": 380,
+      "India": 1817,
+      "Philippines": 650,
+      "Remote": 381,
       "Unknown": 135
     },
     "sources": {
-      "Other": 2318,
-      "Greenhouse": 155,
-      "Workday": 131,
+      "Other": 2326,
+      "Greenhouse": 156,
+      "Workday": 133,
       "LinkedIn": 106,
       "Ashby": 92,
       "Breezy": 35,
@@ -36,6 +36,36 @@
   },
   "jobs": [
     {
+      "id": "1318e1ba01de",
+      "title": "Sr. Staff Software Engineer \u2014 Observability, Insights & Governance - Databricks",
+      "company": "Databricks",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.databricks.com/company/careers/engineering/sr-staff-software-engineer--observability-insights--governance-8575248002",
+      "source": "Other",
+      "description": "Sr. Staff Software Engineer \u2014 Observability, Insights & Governance, Mountain View, California; San Francisco, California. Join us!",
+      "date": "2026-06-02",
+      "timestamp": "2026-06-02T23:28:45+00:00",
+      "fetched_at": "2026-06-03T02:15:41.872116+00:00"
+    },
+    {
+      "id": "2886faa2a457",
+      "title": "the average 2026 software engineer experience : r/ClaudeCode - Reddit",
+      "company": "Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/ClaudeCode/comments/1tur2rj/the_average_2026_software_engineer_experience/",
+      "source": "Other",
+      "description": "Sr Software Engineer - Haven't written a line of code in months. 1.6K ... Software Engineer . 9 upvotes \u00b7 42 comments. Software Engineer \u00b7 r ...",
+      "date": "2026-06-02",
+      "timestamp": "2026-06-02T21:37:13+00:00",
+      "fetched_at": "2026-06-03T02:15:41.776264+00:00"
+    },
+    {
       "id": "cb4afeb91513",
       "title": "Senior Machine Learning Engineer , Sunnyvale, CA, United States",
       "company": "Unknown Company",
@@ -49,6 +79,81 @@
       "date": "2026-06-02",
       "timestamp": "2026-06-02T20:44:09+00:00",
       "fetched_at": "2026-06-02T22:13:59.395821+00:00"
+    },
+    {
+      "id": "74f1ea53be6e",
+      "title": "Data Engineer",
+      "company": "Qvc",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://qvc.wd5.myworkdayjobs.com/en-US/QRG/job/Data-Engineer_R82392",
+      "source": "Workday",
+      "description": ", Garnet Hill\u00ae and Grandin Road. Your Opportunity, Your Team The Data Engineer ... The Data Engineer supports QVC and will collaborate with an Agile ...",
+      "date": "2026-06-02",
+      "timestamp": "2026-06-02T20:38:33+00:00",
+      "fetched_at": "2026-06-03T02:15:41.872878+00:00"
+    },
+    {
+      "id": "0be59d1a4b62",
+      "title": "Junior C#/.NET Software Engineer (Remote) - Myworkdayjobs.com",
+      "company": "Ferguson",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://ferguson.wd1.myworkdayjobs.com/en-US/Ferguson_Experienced/job/Junior-C--NET-Software-Engineer--Remote-_R-133984",
+      "source": "Workday",
+      "description": "NET Software Engineer to join their team! The position will be responsible for software development (analysis, design, programming, and support) in ...",
+      "date": "2026-06-02",
+      "timestamp": "2026-06-02T20:38:32+00:00",
+      "fetched_at": "2026-06-03T02:15:41.776713+00:00"
+    },
+    {
+      "id": "57538ed5ff5d",
+      "title": "AI Engineer - ATS - PCC Talent Acquisition Portal",
+      "company": "ATS - PCC Talent Acquisition Portal",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://pcctalentacquisitionportal.tal.net/vx/mobile-0/appcentre-ext/brand-7/candidate/so/pm/1/pl/3/opp/22282-AI-Engineer/en-GB",
+      "source": "Other",
+      "description": "AI Engineer \u00b7 Work Mix: 50\u201360%: Build and maintain AI applications (Databricks-based) \u00b7 Core Responsibilities. Partner with Sales, Finance, and ...",
+      "date": "2026-06-02",
+      "timestamp": "2026-06-02T20:30:38+00:00",
+      "fetched_at": "2026-06-03T02:15:41.776931+00:00"
+    },
+    {
+      "id": "b28a6a9001e8",
+      "title": "Senior Data Engineer - Privacy - Bengaluru, Karnataka, India | Roku Jobs",
+      "company": "Privacy - Bengaluru, Karnataka, India | Roku Jobs",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.weareroku.com/jobs/senior-data-engineer-privacy-bengaluru-karnataka-india-aa0b4986-c82a-4f56-856a-b74783ef5f7d",
+      "source": "Other",
+      "description": "5+ years professional experience as a data or software engineer ; BS in ... Related Jobs. Senior Machine Learning Engineer , San Jose, California.",
+      "date": "2026-06-02",
+      "timestamp": "2026-06-02T20:16:33+00:00",
+      "fetched_at": "2026-06-03T02:15:41.777296+00:00"
+    },
+    {
+      "id": "6ea3f90f4adb",
+      "title": "Senior Software Engineer in United States | GitHub, Inc.",
+      "company": "GitHub, Inc.",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.github.careers/careers-home/jobs/5423?lang=en-us",
+      "source": "Other",
+      "description": "GitHub is looking for a Senior Software Engineer to join the Primer Engineering team to help evolve GitHub's open source design system, Primer.",
+      "date": "2026-06-02",
+      "timestamp": "2026-06-02T20:12:54+00:00",
+      "fetched_at": "2026-06-03T02:15:41.873633+00:00"
     },
     {
       "id": "89025d70660f",
@@ -111,6 +216,21 @@
       "fetched_at": "2026-06-02T22:13:59.396183+00:00"
     },
     {
+      "id": "8d656aef7f98",
+      "title": "Senior Software Engineer - Java, Angular job in Pittsburgh, Pennsylvania, United States of America",
+      "company": "Java, Angular job in Pittsburgh, Pennsylvania, United States of America",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.pnc.com/global/en/job/R223736/Senior-Software-Engineer-Java-Angular",
+      "source": "Other",
+      "description": "As a Senior Software Engineer within PNC's Asset Management organization, you will be based in Dallas, TX or Pittsburgh, PA. Key Responsibilities \u2022 ...",
+      "date": "2026-06-02",
+      "timestamp": "2026-06-02T19:23:31+00:00",
+      "fetched_at": "2026-06-03T02:15:41.874483+00:00"
+    },
+    {
       "id": "77a7ceec68e2",
       "title": "Fullstack Software Engineer , Applied AI @ Mercor - Jobs",
       "company": "Mercor",
@@ -124,6 +244,36 @@
       "date": "2026-06-02",
       "timestamp": "2026-06-02T18:54:02+00:00",
       "fetched_at": "2026-06-02T22:13:59.396260+00:00"
+    },
+    {
+      "id": "8b60668b8417",
+      "title": "AI Engineer job in Quezon City, Philippines | Other jobs at Thermo Fisher Scientific",
+      "company": "Thermo Fisher Scientific",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.thermofisher.com/global/en/job/R-01354508/AI-Engineer",
+      "source": "Other",
+      "description": "DESCRIPTION: We are looking for an AI Engineer to join our growing AI Engineering team supporting Global Business Services (GBS) Digital Enablement.",
+      "date": "2026-06-02",
+      "timestamp": "2026-06-02T18:31:24+00:00",
+      "fetched_at": "2026-06-03T02:15:41.777964+00:00"
+    },
+    {
+      "id": "7c0d172c9420",
+      "title": "(HYBRID) Software Engineer -AWS in Multiple Locations - State Farm Careers",
+      "company": "AWS in Multiple Locations - State Farm Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.statefarm.com/main/jobs/44489?lang=en-us",
+      "source": "Other",
+      "description": "State Farm Careers is hiring a (HYBRID) Software Engineer -AWS in Multiple Locations. Review all of the job details and apply today!",
+      "date": "2026-06-02",
+      "timestamp": "2026-06-02T18:14:49+00:00",
+      "fetched_at": "2026-06-03T02:15:41.778099+00:00"
     },
     {
       "id": "5a3f62c8473e",
@@ -184,6 +334,21 @@
       "date": "2026-06-02",
       "timestamp": "2026-06-02T17:18:56+00:00",
       "fetched_at": "2026-06-02T22:13:59.396804+00:00"
+    },
+    {
+      "id": "75ff6edfed0c",
+      "title": "Job Application for Software Engineer at Robinhood - Greenhouse",
+      "company": "Robinhood",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/robinhood/jobs/7960734?t=gh_src=&gh_jid=7960734",
+      "source": "Greenhouse",
+      "description": "Software Engineer . Menlo Park, CA. Apply. Join us in building the future of finance. Our mission is to democratize finance for all. An estimated $124 ...",
+      "date": "2026-06-02",
+      "timestamp": "2026-06-02T17:13:29+00:00",
+      "fetched_at": "2026-06-03T02:15:41.778947+00:00"
     },
     {
       "id": "e8b5eefcefd9",
