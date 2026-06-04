@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-06-04T18:04:57.262108+00:00",
-  "total_jobs": 3082,
+  "last_updated": "2026-06-04T21:19:38.055519+00:00",
+  "total_jobs": 3097,
   "stats": {
-    "total_companies": 1696,
-    "total_roles": 58,
+    "total_companies": 1704,
+    "total_roles": 60,
     "regions": {
-      "India": 1901,
-      "Philippines": 670,
-      "Remote": 391,
+      "India": 1911,
+      "Philippines": 672,
+      "Remote": 394,
       "Unknown": 135
     },
     "sources": {
-      "Other": 2418,
+      "Other": 2433,
       "Greenhouse": 161,
       "Workday": 140,
       "LinkedIn": 107,
@@ -36,6 +36,141 @@
   },
   "jobs": [
     {
+      "id": "7068456eabe5",
+      "title": "Software Engineer II, Enterprise Engineering | Datadog Careers",
+      "company": "Datadog Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.datadoghq.com/detail/7980350/?gh_jid=7980350",
+      "source": "Other",
+      "description": "Software Engineer II, Enterprise Engineering. New York, New York, USA. Enterprise Engineering is a global team of engineers building custom ...",
+      "date": "2026-06-04",
+      "timestamp": "2026-06-04T20:24:56+00:00",
+      "fetched_at": "2026-06-04T21:19:37.971948+00:00"
+    },
+    {
+      "id": "8d3799de0a4c",
+      "title": "Get started by using your email or phone number - Ford Global Career Site",
+      "company": "Unknown Company",
+      "role": "Get started by using your email or phone number - Ford Globa",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://apply.ford.com/en/sites/CX_1/job/64463/apply/email",
+      "source": "Other",
+      "description": "Senior Software Engineer ... Location: United States (Remote); Job Identification: 64463; Job Category: Enterprise Technology; Posting Date: 06/03 ...",
+      "date": "2026-06-04",
+      "timestamp": "2026-06-04T19:42:11+00:00",
+      "fetched_at": "2026-06-04T21:19:38.038189+00:00"
+    },
+    {
+      "id": "a5f3e5be9110",
+      "title": "Software Engineer , Safari Extensions - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200582815-3543/software-engineer-safari-extensions?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Software Engineer , Safari Extensions job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-06-04",
+      "timestamp": "2026-06-04T19:04:50+00:00",
+      "fetched_at": "2026-06-04T21:19:38.038410+00:00"
+    },
+    {
+      "id": "30d8a08f25da",
+      "title": "Data Engineer (IAM Data Lake \u2013 GCP) - OH, TX | Everforth Apex",
+      "company": "OH, TX | Everforth Apex",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.apexsystems.com/job/3037133_usa/data-engineer-iam-data-lake--gcp---oh-tx",
+      "source": "Other",
+      "description": "Data Engineer ... Software Engineer - Data Lake Architect - TX \u00b7 Lead Cloud Data Platform Engineer - MN, OH, IA, NC, TX, AZ \u00b7 Lead DevOps Engineer - OH, ...",
+      "date": "2026-06-04",
+      "timestamp": "2026-06-04T18:58:48+00:00",
+      "fetched_at": "2026-06-04T21:19:37.972200+00:00"
+    },
+    {
+      "id": "26a7743c8a9a",
+      "title": "AI Engineer - Manufacturing Data Job Details | Bausch+Lomb Companies Inc.",
+      "company": "Manufacturing Data Job Details | Bausch+Lomb Companies Inc.",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.bauschlomb.com/job/US-NY-Rochester-AI-Engineer-Manufacturing-Data-CA/1362861257/",
+      "source": "Other",
+      "description": "US-NY-Rochester AI Engineer - Manufacturing Data - CA.",
+      "date": "2026-06-04",
+      "timestamp": "2026-06-04T18:48:23+00:00",
+      "fetched_at": "2026-06-04T21:19:37.972441+00:00"
+    },
+    {
+      "id": "412262210817",
+      "title": "Data Engineer , Prime Video Global Brand & Marketing Insights - Job ID - Amazon Careers",
+      "company": "Job ID - Amazon Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://amazon.jobs/en/jobs/10439765/data-engineer-prime-video-global-brand-marketing-insights",
+      "source": "Other",
+      "description": "The Data Engineer , Global PV Brand Insights will work across a dynamic team of insights professionals focused on understanding and building customers' ...",
+      "date": "2026-06-04",
+      "timestamp": "2026-06-04T18:40:25+00:00",
+      "fetched_at": "2026-06-04T21:19:37.972882+00:00"
+    },
+    {
+      "id": "8240a399ab95",
+      "title": "Sr. Software Engineer (Payment Squad)",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/qu-careers/jobs/2d6d1bd3-1815-45a5-943e-4544fcffeca8",
+      "source": "Other",
+      "description": "Qu is looking for a Senior Software Engineer to join our Payments team. This role is central to building and maintaining high-performance, secure ...",
+      "date": "2026-06-04",
+      "timestamp": "2026-06-04T18:23:26+00:00",
+      "fetched_at": "2026-06-04T21:19:37.973045+00:00"
+    },
+    {
+      "id": "6909108764af",
+      "title": "SR Software Engineer - Tential",
+      "company": "Tential",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://wordpress.tential.com/jobs/sr-software-engineer-19142/",
+      "source": "Other",
+      "description": "Overview: Join our innovative team as a Senior Software Engineer where you will play a pivotal role in the development and architecture of robust and ...",
+      "date": "2026-06-04",
+      "timestamp": "2026-06-04T18:16:11+00:00",
+      "fetched_at": "2026-06-04T21:19:38.039418+00:00"
+    },
+    {
+      "id": "16fe8e658788",
+      "title": "Senior Artificial Intelligence ( AI) Engineer - Remote - Norfolk, VA - Sentara Health",
+      "company": "Remote - Norfolk, VA - Sentara Health",
+      "role": "Senior Artificial Intelligence ( AI) Engineer - Remote - Nor",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.sentaracareers.com/job/23452963/senior-artificial-intelligence-ai-engineer-remote-remote/",
+      "source": "Other",
+      "description": "The Senior AI Engineer drives end-to-end delivery of production ... DevOps Engineer - Remote. Talent Network. Join our talent network to sign ...",
+      "date": "2026-06-04",
+      "timestamp": "2026-06-04T17:54:22+00:00",
+      "fetched_at": "2026-06-04T21:19:38.039747+00:00"
+    },
+    {
       "id": "a6b05fc2b888",
       "title": "Software Engineer | Everforth Apex",
       "company": "Everforth Apex",
@@ -49,6 +184,51 @@
       "date": "2026-06-04",
       "timestamp": "2026-06-04T17:48:31+00:00",
       "fetched_at": "2026-06-04T18:04:57.160623+00:00"
+    },
+    {
+      "id": "40f3119b6a80",
+      "title": "Sr Machine Learning Engineer Job Details - Careers at Optimum",
+      "company": "Optimum",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.optimumcareers.com/job/Long-Island-City-Sr-Machine-Learning-Engineer-NY-11101/1396580900/",
+      "source": "Other",
+      "description": "Sr Machine Learning Engineer . Location: Long Island City, NY, US, 11101 Plano, TX, US, 75024. Brand: Optimum. Requisition #: 11810. Are you looking to ...",
+      "date": "2026-06-04",
+      "timestamp": "2026-06-04T17:46:45+00:00",
+      "fetched_at": "2026-06-04T21:19:37.973391+00:00"
+    },
+    {
+      "id": "47cef02a88db",
+      "title": "Senior Infrastructure Software Engineer , Search Platform - Dropbox Careers",
+      "company": "Dropbox Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.dropbox.jobs/en/jobs/7974878/senior-infrastructure-software-engineer-search-platform/",
+      "source": "Other",
+      "description": "Senior Infrastructure Software Engineer , Search Platform. Remote - US ... Staff Site Reliability Engineer , Production Engineering. Save Saved.",
+      "date": "2026-06-04",
+      "timestamp": "2026-06-04T17:43:22+00:00",
+      "fetched_at": "2026-06-04T21:19:37.973621+00:00"
+    },
+    {
+      "id": "ff15fd21070b",
+      "title": "Embedded Software Engineer - Boonton, NJ Job Details | Hubbell Incorporated",
+      "company": "Boonton, NJ Job Details | Hubbell Incorporated",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.hubbell.com/job/Boonton-Embedded-Software-Engineer-Boonton%2C-NJ-NJ-07005/1396567000/",
+      "source": "Other",
+      "description": "The Embedded Software Engineer designs, develops, troubleshoots and debugs products for enhancements and new products. The individual should be a ...",
+      "date": "2026-06-04",
+      "timestamp": "2026-06-04T17:18:37+00:00",
+      "fetched_at": "2026-06-04T21:19:37.973840+00:00"
     },
     {
       "id": "15488d0e9187",
@@ -79,6 +259,51 @@
       "date": "2026-06-04",
       "timestamp": "2026-06-04T16:50:41+00:00",
       "fetched_at": "2026-06-04T18:04:57.161168+00:00"
+    },
+    {
+      "id": "51daee15d882",
+      "title": "Data Engineer x2 | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.apexsystems.com/job/3036920_usa/data-engineer-x2",
+      "source": "Other",
+      "description": "We are seeking a Data Engineer to gain access to data across the organization and provide ongoing analysis by monitoring, profiling, and analyzing ...",
+      "date": "2026-06-04",
+      "timestamp": "2026-06-04T16:43:55+00:00",
+      "fetched_at": "2026-06-04T21:19:37.974319+00:00"
+    },
+    {
+      "id": "3cd9dbcbc345",
+      "title": "Senior Software Engineer - Furnished Finder - Career Page - JazzHR",
+      "company": "Furnished Finder - Career Page - JazzHR",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://furnishedfinder.applytojob.com/apply/NQzB3udPhW/Senior-Software-Engineer",
+      "source": "Other",
+      "description": "Senior Software Engineer \u00b7 Furnished Finder is the leading two-sided marketplace for monthly furnished rentals, connecting landlords with renters ...",
+      "date": "2026-06-04",
+      "timestamp": "2026-06-04T16:26:48+00:00",
+      "fetched_at": "2026-06-04T21:19:37.974492+00:00"
+    },
+    {
+      "id": "2f5ada9e43c0",
+      "title": "Senior Data Engineer #609468 US-GA-Atlanta",
+      "company": "GA-Atlanta",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://recruit.hirebridge.com/v3/Jobs/JobDetails.aspx?cid=6875&jid=609468&locvalue=1082",
+      "source": "Other",
+      "description": "At Sovos, we're building a world-class financial data platform to support a global tax compliance leader \u2013 and the Senior Data Engineer is the ...",
+      "date": "2026-06-04",
+      "timestamp": "2026-06-04T16:00:55+00:00",
+      "fetched_at": "2026-06-04T21:19:37.974671+00:00"
     },
     {
       "id": "3286492597f4",
