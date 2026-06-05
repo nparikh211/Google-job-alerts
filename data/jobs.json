@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-06-04T21:19:38.055519+00:00",
-  "total_jobs": 3097,
+  "last_updated": "2026-06-05T01:57:59.621355+00:00",
+  "total_jobs": 3112,
   "stats": {
-    "total_companies": 1704,
+    "total_companies": 1716,
     "total_roles": 60,
     "regions": {
-      "India": 1911,
-      "Philippines": 672,
-      "Remote": 394,
+      "India": 1922,
+      "Philippines": 673,
+      "Remote": 397,
       "Unknown": 135
     },
     "sources": {
-      "Other": 2433,
-      "Greenhouse": 161,
-      "Workday": 140,
+      "Other": 2445,
+      "Greenhouse": 162,
+      "Workday": 141,
       "LinkedIn": 107,
       "Ashby": 95,
       "Breezy": 36,
-      "iCIMS": 34,
+      "iCIMS": 35,
       "Lever": 28,
       "Workable": 19,
       "SmartRecruiters": 15,
@@ -31,10 +31,175 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-06-04"
+      "latest": "2026-06-05"
     }
   },
   "jobs": [
+    {
+      "id": "65f1cb560d5b",
+      "title": "United States, Junior Software Engineer - 18191 - MetLife Careers",
+      "company": "18191 - MetLife Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.metlifecareers.com/en_US/ml/JobDetail/Software-Development-Engineer/18191",
+      "source": "Other",
+      "description": "Junior Software Engineer . General Information. Location. Bridgewater, New Jersey. Working Schedule. Full-Time. Work Arrangement. Hybrid. Relocation ...",
+      "date": "2026-06-05",
+      "timestamp": "2026-06-05T00:37:16+00:00",
+      "fetched_at": "2026-06-05T01:57:59.518992+00:00"
+    },
+    {
+      "id": "c793fd924eb9",
+      "title": "Senior Software Engineer (Remote - Louisiana) - Myworkdayjobs.com",
+      "company": "Bcbsla",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://bcbsla.wd1.myworkdayjobs.com/external/job/remote-la/senior-software-engineer--remote---louisiana-_r11452",
+      "source": "Workday",
+      "description": "Senior Software Engineer (Remote - Louisiana) \u00b7 Bachelor's degree in Computer Science or a related field required \u00b7 Four years of related experience can ...",
+      "date": "2026-06-05",
+      "timestamp": "2026-06-05T00:20:35+00:00",
+      "fetched_at": "2026-06-05T01:57:59.605050+00:00"
+    },
+    {
+      "id": "5be4d64905ef",
+      "title": "Job Application for Machine Learning Engineer at 10a Labs - Greenhouse",
+      "company": "10Alabs",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/10alabs/jobs/4273194009",
+      "source": "Greenhouse",
+      "description": "Machine Learning Engineer . Washington D.C.. Apply. About 10a Labs: 10a Labs is the safety and threat-intelligence layer trusted by frontier AI labs ...",
+      "date": "2026-06-05",
+      "timestamp": "2026-06-05T00:11:42+00:00",
+      "fetched_at": "2026-06-05T01:57:59.519134+00:00"
+    },
+    {
+      "id": "a30ea65a0415",
+      "title": "Applied AI Engineer in Santa Clara, CA, United States - Qcells Careers",
+      "company": "Qcells Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.qcells.com/jobs/17819539-applied-ai-engineer",
+      "source": "Other",
+      "description": "Working closely with data scientists, software engineers, and business partners, the AI Engineer will drive end-to-end delivery of Generative AI, ...",
+      "date": "2026-06-04",
+      "timestamp": "2026-06-04T23:30:30+00:00",
+      "fetched_at": "2026-06-05T01:57:59.519287+00:00"
+    },
+    {
+      "id": "951cf6730a24",
+      "title": "[Hiring] Lead Software Engineer | Rails + React + LLM/AI | Remote US | $150k\u2013$190k",
+      "company": "Rails + React + LLM/AI | Remote US | $150k\u2013$190k",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.reddit.com/r/rails/comments/1twwx43/hiring_lead_software_engineer_rails_react_llmai/",
+      "source": "Other",
+      "description": "AI/ Full-Stack Engineer Who Has Shipped REAL LLM Systems (RAG, Agents ... [Hiring] AI Engineer (Remote | Late Evening/Night Shift). 41 upvotes ...",
+      "date": "2026-06-04",
+      "timestamp": "2026-06-04T23:21:21+00:00",
+      "fetched_at": "2026-06-05T01:57:59.519567+00:00"
+    },
+    {
+      "id": "58caa28d3660",
+      "title": "Machine Learning Engineer - Visual Intelligence - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200666805-3337/machine-learning-engineer-visual-intelligence?team=SFTWR",
+      "source": "Other",
+      "description": "Machine Learning Engineer - Visual Intelligence. Seattle, Washington ... We are looking for a software engineer to work on building the next ...",
+      "date": "2026-06-04",
+      "timestamp": "2026-06-04T23:10:02+00:00",
+      "fetched_at": "2026-06-05T01:57:59.519886+00:00"
+    },
+    {
+      "id": "7bd544d39102",
+      "title": "Platform Engineer - 64242 - MANTECH",
+      "company": "64242 - MANTECH",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mantech.com/en_US/careers/JobDetail/Platform-Engineer/64242",
+      "source": "Other",
+      "description": "MANTECH seeks a motivated, career and customer-oriented Platform Engineer to join our team in Tampa, FL.The Platform Engineer will leverage their ...",
+      "date": "2026-06-04",
+      "timestamp": "2026-06-04T22:51:23+00:00",
+      "fetched_at": "2026-06-05T01:57:59.520032+00:00"
+    },
+    {
+      "id": "567498434ef8",
+      "title": "Estimating the Productivity of an Autonomous AI Software Engineer - Cognition",
+      "company": "Cognition",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://cognition.ai/blog/ai-productivity",
+      "source": "Other",
+      "description": "Estimating the Productivity of an Autonomous AI Software Engineer . By ... backend engineer delivering work that would previously have required ...",
+      "date": "2026-06-04",
+      "timestamp": "2026-06-04T22:00:25+00:00",
+      "fetched_at": "2026-06-05T01:57:59.520149+00:00"
+    },
+    {
+      "id": "5c82ae258183",
+      "title": "Software Engineer , Full Stack - Cybersecurity Products - OpenAI",
+      "company": "Cybersecurity Products - OpenAI",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://openai.com/careers/software-engineer-full-stack-cybersecurity-products-san-francisco/",
+      "source": "Other",
+      "description": "As a Full Stack Software Engineer , you will build the product experiences and systems that make AI-powered security useful in real engineering ...",
+      "date": "2026-06-04",
+      "timestamp": "2026-06-04T21:35:13+00:00",
+      "fetched_at": "2026-06-05T01:57:59.520406+00:00"
+    },
+    {
+      "id": "1b813da98b17",
+      "title": "Software Engineer - THE HELPER BEES INC - Paylocity",
+      "company": "THE HELPER BEES INC - Paylocity",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://recruiting.paylocity.com/recruiting/jobs/Details/4224754/THE-HELPER-BEES-INC/Software-Engineer",
+      "source": "Other",
+      "description": "Job Summary: As a Software Engineer , You will join one of our product squads\u2014a small, durable team of engineers, a product manager, and a ...",
+      "date": "2026-06-04",
+      "timestamp": "2026-06-04T21:12:30+00:00",
+      "fetched_at": "2026-06-05T01:57:59.606717+00:00"
+    },
+    {
+      "id": "4fd0b996b88f",
+      "title": "Specialist - Platform Engineer - Data & AI - Bengaluru, Karn\u0101taka, India - Equinix Careers",
+      "company": "Specialist",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.equinix.com/jobs/specialist-platform-engineer-data-ai-bengaluru-karnataka-india",
+      "source": "Other",
+      "description": "... Platform Engineer \u2013 Data & AI to architect and build next ... AI/ ML Engineer - Senior Associate. Bengaluru Technology \u00b7 AI/ ML Engineer .",
+      "date": "2026-06-04",
+      "timestamp": "2026-06-04T20:49:26+00:00",
+      "fetched_at": "2026-06-05T01:57:59.606994+00:00"
+    },
     {
       "id": "7068456eabe5",
       "title": "Software Engineer II, Enterprise Engineering | Datadog Careers",
@@ -51,6 +216,21 @@
       "fetched_at": "2026-06-04T21:19:37.971948+00:00"
     },
     {
+      "id": "e6ba50d2cae5",
+      "title": "Staff Software Engineer - Careers at Moody's",
+      "company": "Moody's",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.moodys.com/en/job/bengaluru/staff-software-engineer/49841/95985542640",
+      "source": "Other",
+      "description": "Staff Software Engineer . Bengaluru, Karnataka. Apply now. Save job. Posted: 06/04/2026. Job reference: 13640. Experience level: Experienced Hire. Job ...",
+      "date": "2026-06-04",
+      "timestamp": "2026-06-04T19:59:15+00:00",
+      "fetched_at": "2026-06-05T01:57:59.521155+00:00"
+    },
+    {
       "id": "8d3799de0a4c",
       "title": "Get started by using your email or phone number - Ford Global Career Site",
       "company": "Unknown Company",
@@ -64,6 +244,36 @@
       "date": "2026-06-04",
       "timestamp": "2026-06-04T19:42:11+00:00",
       "fetched_at": "2026-06-04T21:19:38.038189+00:00"
+    },
+    {
+      "id": "3ce605e8d7e3",
+      "title": "AI/ ML Engineer - Bengaluru, Karn\u0101taka, India - Equinix Careers",
+      "company": "Bengaluru, Karn\u0101taka, India - Equinix Careers",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.equinix.com/jobs/ai-ml-engineer-bengaluru-karnataka-india",
+      "source": "Other",
+      "description": "... Software Engineer for AI/ML is a junior to mid-level engineering role ... Specialist - Platform Engineer - Data & AI. Bengaluru Technology \u00b7 VP ...",
+      "date": "2026-06-04",
+      "timestamp": "2026-06-04T19:27:28+00:00",
+      "fetched_at": "2026-06-05T01:57:59.607674+00:00"
+    },
+    {
+      "id": "7f0fd2e7ecf6",
+      "title": "Senior Software Engineer - Delta Dental Careers - oracle",
+      "company": "Delta Dental Careers - oracle",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ejep.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3079",
+      "source": "Other",
+      "description": "The Senior Software Engineer will help build the Next Gen Applications Suite. Along with writing effective code, the position will be responsible ...",
+      "date": "2026-06-04",
+      "timestamp": "2026-06-04T19:12:04+00:00",
+      "fetched_at": "2026-06-05T01:57:59.521736+00:00"
     },
     {
       "id": "a5f3e5be9110",
@@ -94,6 +304,21 @@
       "date": "2026-06-04",
       "timestamp": "2026-06-04T18:58:48+00:00",
       "fetched_at": "2026-06-04T21:19:37.972200+00:00"
+    },
+    {
+      "id": "dd49c493fb8d",
+      "title": "Full Stack Software Engineer - QA Support Engineer in Remote - LMI",
+      "company": "Full Stack Software Engineer",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers-lmi.icims.com/jobs/14130/full-stack-software-engineer---qa-support-engineer/job",
+      "source": "iCIMS",
+      "description": "Remote-US is now hiring a Full Stack Software Engineer - QA Support Engineer in Remote. Review all of the job details and apply today!",
+      "date": "2026-06-04",
+      "timestamp": "2026-06-04T18:52:21+00:00",
+      "fetched_at": "2026-06-05T01:57:59.522264+00:00"
     },
     {
       "id": "26a7743c8a9a",
