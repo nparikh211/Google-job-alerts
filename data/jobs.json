@@ -1,26 +1,26 @@
 {
-  "last_updated": "2026-06-05T07:56:35.040807+00:00",
-  "total_jobs": 3125,
+  "last_updated": "2026-06-05T11:18:02.814347+00:00",
+  "total_jobs": 3135,
   "stats": {
-    "total_companies": 1719,
+    "total_companies": 1725,
     "total_roles": 60,
     "regions": {
-      "India": 1928,
-      "Philippines": 677,
+      "India": 1935,
+      "Philippines": 680,
       "Remote": 400,
       "Unknown": 135
     },
     "sources": {
-      "Other": 2454,
+      "Other": 2461,
       "Greenhouse": 164,
       "Workday": 142,
-      "LinkedIn": 108,
+      "LinkedIn": 110,
       "Ashby": 95,
       "Breezy": 36,
       "iCIMS": 35,
       "Lever": 28,
       "Workable": 19,
-      "SmartRecruiters": 15,
+      "SmartRecruiters": 16,
       "Indeed": 15,
       "Jobvite": 4,
       "Recruitee": 3,
@@ -36,6 +36,111 @@
   },
   "jobs": [
     {
+      "id": "737eaebd0564",
+      "title": "Staff Software Engineer , Connectivity - Aurora",
+      "company": "Aurora",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://aurora.tech/careers/8572530002?gh_jid=8572530002",
+      "source": "Other",
+      "description": "We're searching for a Staff Software Engineer to join Aurora's Vehicle Connectivity team. This team is responsible for Aurora's self-driving vehicle ...",
+      "date": "2026-06-05",
+      "timestamp": "2026-06-05T08:50:36+00:00",
+      "fetched_at": "2026-06-05T11:18:02.797387+00:00"
+    },
+    {
+      "id": "c213f22f5de9",
+      "title": "EY-Parthenon - Strategy and Execution - Growth Platforms - Software Engineer - Sr Assoc/Consultant",
+      "company": "Sr Assoc/Consultant",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.ey.com/ey/job/New-York-EY-Parthenon-Strategy-and-Execution-Growth-Platforms-Software-Engineer-Sr-AssocConsultant-NY-10001-8604/1400814533/",
+      "source": "Other",
+      "description": "New York EY-Parthenon - Strategy and Execution - Growth Platforms - Software Engineer - Sr Assoc/Consultant - NY, 10001-8604.",
+      "date": "2026-06-05",
+      "timestamp": "2026-06-05T07:12:08+00:00",
+      "fetched_at": "2026-06-05T11:18:02.479163+00:00"
+    },
+    {
+      "id": "c369ab78ac88",
+      "title": "Senior DevOps Engineer - Bengaluru, Karn\u0101taka, India - Equinix Careers",
+      "company": "Bengaluru, Karn\u0101taka, India - Equinix Careers",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.equinix.com/jobs/senior-devops-engineer-bengaluru-karnataka-india",
+      "source": "Other",
+      "description": "Senior DevOps Engineer . Notice: Equinix is aware of scams ... AI/ ML Engineer - Senior Associate. Bengaluru Technology. About Us. Equinix ...",
+      "date": "2026-06-05",
+      "timestamp": "2026-06-05T06:16:27+00:00",
+      "fetched_at": "2026-06-05T11:18:02.798115+00:00"
+    },
+    {
+      "id": "95c8f087d84e",
+      "title": "Apply for Sr Software Engineer - Billing Platform - T\u2011mobile careers",
+      "company": "Billing Platform - T\u2011mobile careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.t-mobile.com/sr-software-engineer-billing-platform/job/077A3501FB841D50B0119E4C93D444D6",
+      "source": "Other",
+      "description": "Apply for Sr Software Engineer - Billing Platform at T-Mobile.",
+      "date": "2026-06-05",
+      "timestamp": "2026-06-05T05:16:26+00:00",
+      "fetched_at": "2026-06-05T11:18:02.479546+00:00"
+    },
+    {
+      "id": "14292a206fc6",
+      "title": "Bloomberg Senior Software Engineer -NYC : r/cscareerquestions - Reddit",
+      "company": "NYC : r/cscareerquestions - Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.reddit.com/r/cscareerquestions/comments/1tx2jqd/bloomberg_senior_software_engineernyc/",
+      "source": "Other",
+      "description": "Bloomberg Senior Software Engineer -NYC. I had 3 rounds of virtual interviews with Bloomberg for SSE and the recruiter told me that I'll have 3 more ...",
+      "date": "2026-06-05",
+      "timestamp": "2026-06-05T05:14:20+00:00",
+      "fetched_at": "2026-06-05T11:18:02.798663+00:00"
+    },
+    {
+      "id": "209d6adb6240",
+      "title": "Airbnb hiring Senior Software Engineer , AI Products in San Francisco, CA | LinkedIn",
+      "company": "LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/senior-software-engineer-ai-products-at-airbnb-4424109828",
+      "source": "LinkedIn",
+      "description": "Senior Software Engineer , AI Products in Mountain View, CA. Expand ... (Sr/Staff) Frontend Engineer . Terzo. San Francisco, CA 2 days ago.",
+      "date": "2026-06-05",
+      "timestamp": "2026-06-05T03:42:44+00:00",
+      "fetched_at": "2026-06-05T11:18:02.479755+00:00"
+    },
+    {
+      "id": "a31688324969",
+      "title": "Nearmap Senior Software Engineer | SmartRecruiters",
+      "company": "Nearmap",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.smartrecruiters.com/Nearmap/744000130310719-senior-software-engineer",
+      "source": "SmartRecruiters",
+      "description": "As a Senior Software Engineer on the Insurance Applications team, you ... Platform Engineer / Operations Engineer - (ML / AI). Barangaroo ...",
+      "date": "2026-06-05",
+      "timestamp": "2026-06-05T03:07:37+00:00",
+      "fetched_at": "2026-06-05T11:18:02.480008+00:00"
+    },
+    {
       "id": "616455615d56",
       "title": "Associate Senior Software Engineer , PUNE, , INDIA | Global Payments Careers",
       "company": "Global Payments Careers",
@@ -49,6 +154,21 @@
       "date": "2026-06-05",
       "timestamp": "2026-06-05T02:57:59+00:00",
       "fetched_at": "2026-06-05T07:56:35.024122+00:00"
+    },
+    {
+      "id": "11d4b8f58d66",
+      "title": "Senior Backend Engineer (High-Throughput Platforms) - LinkedIn",
+      "company": "Throughput Platforms) - LinkedIn",
+      "role": "Backend Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/senior-backend-engineer-high-throughput-platforms-at-bright-vision-technologies-4424121506?position=21&pageNum=0&refId=LQO7ZP%2BgkX0eDCdkx1hCbQ%3D%3D&trackingId=kgwmdMbR1cDemW3F3Y539g%3D%3D",
+      "source": "LinkedIn",
+      "description": "Similar jobs. Full-Stack Engineer . Full-Stack Engineer . Keep Company ... Computer Software Engineer jobs. 224,521 open jobs \u00b7 Senior PHP Developer ...",
+      "date": "2026-06-05",
+      "timestamp": "2026-06-05T02:53:05+00:00",
+      "fetched_at": "2026-06-05T11:18:02.799602+00:00"
     },
     {
       "id": "302b6bdde390",
@@ -109,6 +229,21 @@
       "date": "2026-06-05",
       "timestamp": "2026-06-05T01:52:28+00:00",
       "fetched_at": "2026-06-05T07:56:34.938608+00:00"
+    },
+    {
+      "id": "37690d5fbaaa",
+      "title": "Associate Software Engineer - Full Stack at Boeing",
+      "company": "Boeing",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.boeing.com/job/bengaluru/associate-software-engineer-full-stack/185/95942740000",
+      "source": "Other",
+      "description": "Associate Software Engineer - Full Stack. Bengaluru, Karnataka Job ID JR2026512933 Category Engineering Role Type Onsite Post Date Jun. 04, 2026.",
+      "date": "2026-06-05",
+      "timestamp": "2026-06-05T01:23:33+00:00",
+      "fetched_at": "2026-06-05T11:18:02.480636+00:00"
     },
     {
       "id": "65f1cb560d5b",
@@ -244,6 +379,21 @@
       "date": "2026-06-04",
       "timestamp": "2026-06-04T22:51:25+00:00",
       "fetched_at": "2026-06-05T07:56:34.940328+00:00"
+    },
+    {
+      "id": "8dfc6baca06f",
+      "title": "DevSecOps Platform Engineer - 64239 - MANTECH",
+      "company": "64239 - MANTECH",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mantech.com/en_US/careers/JobDetail/DevSecOps-Platform-Engineer/64239",
+      "source": "Other",
+      "description": "MANTECH seeks a motivated, career and customer-oriented DevSecOps Platform Engineer to join our team in Tampa, FL. The DevSecOps Engineer ...",
+      "date": "2026-06-04",
+      "timestamp": "2026-06-04T22:51:25+00:00",
+      "fetched_at": "2026-06-05T11:18:02.482306+00:00"
     },
     {
       "id": "7bd544d39102",
