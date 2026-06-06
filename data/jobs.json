@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-06-06T06:44:24.724917+00:00",
-  "total_jobs": 3205,
+  "last_updated": "2026-06-06T09:50:10.404665+00:00",
+  "total_jobs": 3208,
   "stats": {
-    "total_companies": 1756,
+    "total_companies": 1758,
     "total_roles": 60,
     "regions": {
-      "India": 1982,
+      "India": 1984,
       "Philippines": 698,
-      "Remote": 405,
+      "Remote": 406,
       "Unknown": 135
     },
     "sources": {
-      "Other": 2515,
+      "Other": 2517,
       "Greenhouse": 170,
       "Workday": 144,
       "LinkedIn": 114,
-      "Ashby": 98,
+      "Ashby": 99,
       "Breezy": 36,
       "iCIMS": 35,
       "Lever": 28,
@@ -35,6 +35,36 @@
     }
   },
   "jobs": [
+    {
+      "id": "571bfda51cf9",
+      "title": "Principal Software Engineer - Deep Sync - Paylocity",
+      "company": "Deep Sync - Paylocity",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3800390/Deep-Sync/Principal-Software-Engineer?source=Indeed_Feed",
+      "source": "Other",
+      "description": "Deep Sync is seeking a Principal Software Engineer to join as a founding technical leader of our new Agentic Platform team in India. This is a high- ...",
+      "date": "2026-06-06",
+      "timestamp": "2026-06-06T06:22:58+00:00",
+      "fetched_at": "2026-06-06T09:50:10.072024+00:00"
+    },
+    {
+      "id": "6ffe12f1d168",
+      "title": "Principal Applied AI Engineer - Vi Labs",
+      "company": "Vi Labs",
+      "role": "AI Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://vi.co/careers/principal-applied-ai-engineer/43.C6B/",
+      "source": "Other",
+      "description": "Principal Applied AI Engineer . Remote (EST/PST/CT). Apply for the position. About The Position. We're looking for a lead engineer who can take Vi's AI ...",
+      "date": "2026-06-06",
+      "timestamp": "2026-06-06T05:23:13+00:00",
+      "fetched_at": "2026-06-06T09:50:10.072225+00:00"
+    },
     {
       "id": "71e6befba4dd",
       "title": "Principal Software Engineer I at Spectrum | Apply Today",
@@ -274,6 +304,21 @@
       "date": "2026-06-05",
       "timestamp": "2026-06-05T21:41:57+00:00",
       "fetched_at": "2026-06-06T01:49:27.592821+00:00"
+    },
+    {
+      "id": "150487cd462f",
+      "title": "Backend Engineer - SDE2 @ Aspora - Jobs",
+      "company": "Aspora",
+      "role": "Backend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/Aspora/73311d4c-2ec3-4da7-b18b-87ef4886e6ed",
+      "source": "Ashby",
+      "description": "Backend Engineer - SDE2. Location. Bangalore. Employment Type. Full time. Location Type. On-site. Department. Engineering. OverviewApplication. About ...",
+      "date": "2026-06-05",
+      "timestamp": "2026-06-05T21:02:40+00:00",
+      "fetched_at": "2026-06-06T09:50:10.075132+00:00"
     },
     {
       "id": "121294fc8078",
