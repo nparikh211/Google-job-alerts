@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-06-06T01:49:27.700327+00:00",
-  "total_jobs": 3191,
+  "last_updated": "2026-06-06T06:44:24.724917+00:00",
+  "total_jobs": 3205,
   "stats": {
-    "total_companies": 1754,
+    "total_companies": 1756,
     "total_roles": 60,
     "regions": {
-      "India": 1974,
-      "Philippines": 693,
-      "Remote": 404,
+      "India": 1982,
+      "Philippines": 698,
+      "Remote": 405,
       "Unknown": 135
     },
     "sources": {
-      "Other": 2502,
+      "Other": 2515,
       "Greenhouse": 170,
       "Workday": 144,
-      "LinkedIn": 113,
+      "LinkedIn": 114,
       "Ashby": 98,
       "Breezy": 36,
       "iCIMS": 35,
@@ -31,10 +31,115 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-06-05"
+      "latest": "2026-06-06"
     }
   },
   "jobs": [
+    {
+      "id": "71e6befba4dd",
+      "title": "Principal Software Engineer I at Spectrum | Apply Today",
+      "company": "Spectrum",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.spectrum.com/job/charlotte/principal-software-engineer-i/6612/96042226352",
+      "source": "Other",
+      "description": "TITLE: Principal Software Engineer I (Multiple Openings). LOCATION: Charlotte, NC. JOB SUMMARY: Design and implement software systems to support ...",
+      "date": "2026-06-06",
+      "timestamp": "2026-06-06T03:30:39+00:00",
+      "fetched_at": "2026-06-06T06:44:24.625989+00:00"
+    },
+    {
+      "id": "3bc0b265a703",
+      "title": "Software Engineer (Framework Solutions), AI & Data Platforms (AiDP) - Apple Careers",
+      "company": "Apple Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200667030-0157/software-engineer-framework-solutions-ai-data-platforms-aidp?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Software Engineer (Framework Solutions), AI & Data Platforms (AiDP) job at Apple. Read about the role and find out if it's right for ...",
+      "date": "2026-06-06",
+      "timestamp": "2026-06-06T03:17:35+00:00",
+      "fetched_at": "2026-06-06T06:44:24.708127+00:00"
+    },
+    {
+      "id": "01b60a890828",
+      "title": "Software Engineer , Cloud Agents - OpenAI",
+      "company": "OpenAI",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://openai.com/careers/software-engineer-cloud-agents-san-francisco/",
+      "source": "Other",
+      "description": "We are looking for an experienced software engineer to help build and scale our cloud agent platform. You will design and operate systems for ...",
+      "date": "2026-06-06",
+      "timestamp": "2026-06-06T02:49:05+00:00",
+      "fetched_at": "2026-06-06T06:44:24.627169+00:00"
+    },
+    {
+      "id": "c56eac248bb6",
+      "title": "Senior Fullstack Engineer | Kake",
+      "company": "Kake",
+      "role": "Fullstack Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://kake.co/jobs/senior-fullstack-engineer-d486de56311d",
+      "source": "Other",
+      "description": "Apply for the Senior Fullstack Engineer . We are hiring for a Senior Full-Stack Engineer (Front-End Leaning) with strong AI/agentic building ...",
+      "date": "2026-06-06",
+      "timestamp": "2026-06-06T02:48:13+00:00",
+      "fetched_at": "2026-06-06T06:44:24.708450+00:00"
+    },
+    {
+      "id": "8f24a91c9393",
+      "title": "Internship, Site Reliability Engineer , Infrastructure Engineering (Fall 2026) - Tesla",
+      "company": "Tesla",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.tesla.com/careers/search/job/internship-site-reliability-engineer-infrastructure-engineering-fall-2026-271093",
+      "source": "Other",
+      "description": "Apply for the Internship, Site Reliability Engineer , Infrastructure Engineering (Fall 2026) position in Fremont, California.",
+      "date": "2026-06-06",
+      "timestamp": "2026-06-06T02:13:51+00:00",
+      "fetched_at": "2026-06-06T06:44:24.627682+00:00"
+    },
+    {
+      "id": "3dd83b28f162",
+      "title": "Software Engineer Professional job in McLean, VA - Freddie Mac Careers",
+      "company": "Freddie Mac Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.freddiemac.com/us/en/job/JR17316/Software-Engineer-Professional",
+      "source": "Other",
+      "description": "Freddie Mac is seeking a Software Engineer , Professional to drive technical delivery and engineering excellence for one or more agile delivery teams.",
+      "date": "2026-06-06",
+      "timestamp": "2026-06-06T01:58:22+00:00",
+      "fetched_at": "2026-06-06T06:44:24.708915+00:00"
+    },
+    {
+      "id": "71824a19c35c",
+      "title": "Software Engineer Senior job in McLean, VA - Freddie Mac Careers",
+      "company": "Freddie Mac Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.freddiemac.com/us/en/job/JR17314/Software-Engineer-Senior",
+      "source": "Other",
+      "description": "Apply for Software Engineer Senior job with Freddie Mac Careers Careers Careers in McLean, VA. Browse and apply for Technology jobs at Freddie Mac ...",
+      "date": "2026-06-06",
+      "timestamp": "2026-06-06T01:42:16+00:00",
+      "fetched_at": "2026-06-06T06:44:24.627954+00:00"
+    },
     {
       "id": "25b919e3e394",
       "title": "Senior Site Reliability Engineer in Virginia, United States - Ellucian Careers",
@@ -49,6 +154,21 @@
       "date": "2026-06-05",
       "timestamp": "2026-06-05T23:24:58+00:00",
       "fetched_at": "2026-06-06T01:49:27.592263+00:00"
+    },
+    {
+      "id": "7d53ea90ec9b",
+      "title": "Software Engineer (Data Solutions), AI & Data Platforms (AiDP) - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200667022-0157/software-engineer-data-solutions-ai-data-platforms-aidp?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Software Engineer (Data Solutions), AI & Data Platforms (AiDP) job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-06-05",
+      "timestamp": "2026-06-05T23:20:28+00:00",
+      "fetched_at": "2026-06-06T06:44:24.628833+00:00"
     },
     {
       "id": "01e91cadfe38",
@@ -66,6 +186,36 @@
       "fetched_at": "2026-06-06T01:49:27.592468+00:00"
     },
     {
+      "id": "6f5c196a4a01",
+      "title": "Software Engineer at Empower",
+      "company": "Empower",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.empower.com/job/united-states/software-engineer/42743/96053603392",
+      "source": "Other",
+      "description": "Software Engineer . Job ID R.0059326 Date posted 06/05/2026 Worker type Regular Workplace flexibility Remote - Nationwide.",
+      "date": "2026-06-05",
+      "timestamp": "2026-06-05T23:05:37+00:00",
+      "fetched_at": "2026-06-06T06:44:24.629635+00:00"
+    },
+    {
+      "id": "37643e6acf2b",
+      "title": "Software Engineer in Panama City Beach, Florida, United States - SAIC Careers",
+      "company": "SAIC Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.saic.com/jobs/17824869-software-engineer",
+      "source": "Other",
+      "description": "Software Engineer in Panama City Beach, Florida, United States. ... Senior Software Engineer . Panama City Beach, FL, United States Software ...",
+      "date": "2026-06-05",
+      "timestamp": "2026-06-05T23:00:58+00:00",
+      "fetched_at": "2026-06-06T06:44:24.629870+00:00"
+    },
+    {
       "id": "3ca84e42b0c6",
       "title": "AI Data Engineer in US - FDM Group",
       "company": "FDM Group",
@@ -79,6 +229,21 @@
       "date": "2026-06-05",
       "timestamp": "2026-06-05T22:43:04+00:00",
       "fetched_at": "2026-06-06T01:49:27.592603+00:00"
+    },
+    {
+      "id": "3c212c95e217",
+      "title": "eSimplicity - Senior DevOps Engineer - Paylocity",
+      "company": "eSimplicity",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4148484",
+      "source": "Other",
+      "description": "Experience with Atlassian Jira and Confluence. Desired Qualifications: AWS DevOps Engineer Professional certification; AWS Solutions Architect ...",
+      "date": "2026-06-05",
+      "timestamp": "2026-06-05T22:25:06+00:00",
+      "fetched_at": "2026-06-06T06:44:24.630294+00:00"
     },
     {
       "id": "d7a57abb7b83",
@@ -139,6 +304,51 @@
       "date": "2026-06-05",
       "timestamp": "2026-06-05T20:49:08+00:00",
       "fetched_at": "2026-06-05T21:13:15.705009+00:00"
+    },
+    {
+      "id": "498cc24aed74",
+      "title": "Software Engineer V | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.apexsystems.com/job/3037318_usa/software-engineering---software-engineer-v",
+      "source": "Other",
+      "description": "Software Engineering - Software Engineer V \u00b7 Develop and optimize features in a modern, low-level Vulkan rendering engine. \u00b7 Profile and improve GPU and ...",
+      "date": "2026-06-05",
+      "timestamp": "2026-06-05T20:34:53+00:00",
+      "fetched_at": "2026-06-06T06:44:24.710757+00:00"
+    },
+    {
+      "id": "b822e0dde7c7",
+      "title": "AI Engineer | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.apexsystems.com/job/3034721_usa/ai-engineer",
+      "source": "Other",
+      "description": "AI Engineer . Location: Greenwood Village, Colorado (Onsite 4 days a week). Role Overview. We are seeking an AI-focused Software Engineer to design ...",
+      "date": "2026-06-05",
+      "timestamp": "2026-06-05T20:34:45+00:00",
+      "fetched_at": "2026-06-06T06:44:24.631636+00:00"
+    },
+    {
+      "id": "8f01b7d8c2d2",
+      "title": "Premier Group hiring Senior Software Engineer in San Francisco Bay Area | LinkedIn",
+      "company": "LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/senior-software-engineer-at-premier-group-4424752885",
+      "source": "LinkedIn",
+      "description": "Senior Software Engineer . Premier Group San Francisco Bay Area. 3 hours ... Full-Stack Engineer . Mage. Santa Clara, CA 1 month ago. Software ...",
+      "date": "2026-06-05",
+      "timestamp": "2026-06-05T20:20:02+00:00",
+      "fetched_at": "2026-06-06T06:44:24.711050+00:00"
     },
     {
       "id": "c3491a31e541",
