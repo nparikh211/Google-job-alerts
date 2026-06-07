@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-06-07T07:44:29.835766+00:00",
-  "total_jobs": 3257,
+  "last_updated": "2026-06-07T10:18:09.503723+00:00",
+  "total_jobs": 3264,
   "stats": {
-    "total_companies": 1786,
+    "total_companies": 1789,
     "total_roles": 60,
     "regions": {
-      "India": 2021,
-      "Philippines": 704,
+      "India": 2026,
+      "Philippines": 706,
       "Remote": 412,
       "Unknown": 135
     },
     "sources": {
-      "Other": 2558,
+      "Other": 2565,
       "Greenhouse": 173,
       "Workday": 145,
       "LinkedIn": 116,
@@ -35,6 +35,51 @@
     }
   },
   "jobs": [
+    {
+      "id": "e2f97e21dbda",
+      "title": "A software engineer was granted a religious exemption from using AI at work. Legal experts ...",
+      "company": "work. Legal experts ...",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/cscareerquestions/comments/1tz3q2j/a_software_engineer_was_granted_a_religious/",
+      "source": "Other",
+      "description": "Soon to be unemployed software engineer that is. And the Pope has never had to maintain a shitty legacy enterprise app with a ton of tech debt written ...",
+      "date": "2026-06-07",
+      "timestamp": "2026-06-07T08:50:16+00:00",
+      "fetched_at": "2026-06-07T10:18:09.373899+00:00"
+    },
+    {
+      "id": "5b30abdfa8f5",
+      "title": "Full-Stack Engineer : AI-Augmented Development & Code Intelligence",
+      "company": "Full",
+      "role": "Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/oneorigin/jobs/417c0be7-f2d4-4655-8d82-6415bac6cadc",
+      "source": "Other",
+      "description": "Full-Stack Engineer : AI-Augmented Development & Code Intelligence. About OneOrigin: OneOrigin is an AI-native technology company headquartered in ...",
+      "date": "2026-06-07",
+      "timestamp": "2026-06-07T08:10:47+00:00",
+      "fetched_at": "2026-06-07T10:18:09.375015+00:00"
+    },
+    {
+      "id": "8ebd657013fc",
+      "title": "DevOps Engineer , DFX Software - Careers at NVIDIA Corporation",
+      "company": "NVIDIA Corporation",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.nvidia.com/careers/job/893394642101?domain=nvidia.com&hl=en",
+      "source": "Other",
+      "description": "We are a diverse team needing someone who is not afraid of a challenge. If this is you, come join us today. What you will be doing: Be responsible ...",
+      "date": "2026-06-07",
+      "timestamp": "2026-06-07T07:54:25+00:00",
+      "fetched_at": "2026-06-07T10:18:09.375562+00:00"
+    },
     {
       "id": "82db3ae19d74",
       "title": "Senior Full Stack Software Engineer - DNEE at Ford Motor Company",
@@ -64,6 +109,21 @@
       "date": "2026-06-07",
       "timestamp": "2026-06-07T03:20:02+00:00",
       "fetched_at": "2026-06-07T07:44:29.737786+00:00"
+    },
+    {
+      "id": "94b0f50dca28",
+      "title": "Principal Software Engineer in San Jose, California, United States of America",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2016142EXTERNALENGLOBAL/Principal-Software-Engineer",
+      "source": "Other",
+      "description": "Apply for Principal Software Engineer job with Cisco in San Jose, California, United States of America ... Join our team as a SONiC Platform Engineer , ...",
+      "date": "2026-06-07",
+      "timestamp": "2026-06-07T02:58:45+00:00",
+      "fetched_at": "2026-06-07T10:18:09.487383+00:00"
     },
     {
       "id": "6d139b89a38d",
@@ -201,6 +261,21 @@
       "fetched_at": "2026-06-07T07:44:29.820990+00:00"
     },
     {
+      "id": "565ee2380f27",
+      "title": "Junior Software Engineer - CACI",
+      "company": "CACI",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://searchcareers.caci.com/careers/job/1443151237805?domain=caci.com",
+      "source": "Other",
+      "description": "CACI has an immediate opening for a Junior Software Engineer with a Top Secret Clearance (TS/SCI) for our corporate development/test network and ...",
+      "date": "2026-06-06",
+      "timestamp": "2026-06-06T20:47:46+00:00",
+      "fetched_at": "2026-06-07T10:18:09.489276+00:00"
+    },
+    {
       "id": "fc252238b1a4",
       "title": "Software Engineer II - Space and RF Sensors (Onsite) - RTX jobs",
       "company": "Space and RF Sensors (Onsite) - RTX jobs",
@@ -304,6 +379,36 @@
       "date": "2026-06-06",
       "timestamp": "2026-06-06T18:36:08+00:00",
       "fetched_at": "2026-06-07T02:03:12.376159+00:00"
+    },
+    {
+      "id": "a4cc58f481aa",
+      "title": "Distinguished, Software Engineer - Walmart Careers",
+      "company": "Walmart Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.walmart.com/us/en/jobs/R-2500714",
+      "source": "Other",
+      "description": "... Software Engineer at Walmart, you will lead the design and development of scalable, cloud-native AI-powered systems, ensuring architectural ...",
+      "date": "2026-06-06",
+      "timestamp": "2026-06-06T18:25:19+00:00",
+      "fetched_at": "2026-06-07T10:18:09.379263+00:00"
+    },
+    {
+      "id": "6d6844e1abe0",
+      "title": "ML Engineer - 118876 - IBM",
+      "company": "118876 - IBM",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.ibm.com/en_US/careers/JobDetail/ML-Engineer/118876",
+      "source": "Other",
+      "description": "As an ML Engineer and Data Engineer specializing in Data Integration, you will be responsible for developing and maintaining software applications ...",
+      "date": "2026-06-06",
+      "timestamp": "2026-06-06T18:02:17+00:00",
+      "fetched_at": "2026-06-07T10:18:09.379389+00:00"
     },
     {
       "id": "04016bc9a4c6",
