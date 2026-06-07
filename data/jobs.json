@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-06-07T17:00:49.554321+00:00",
-  "total_jobs": 3280,
+  "last_updated": "2026-06-07T20:56:35.850403+00:00",
+  "total_jobs": 3285,
   "stats": {
-    "total_companies": 1797,
+    "total_companies": 1800,
     "total_roles": 60,
     "regions": {
-      "India": 2038,
+      "India": 2043,
       "Philippines": 710,
       "Remote": 412,
       "Unknown": 135
     },
     "sources": {
-      "Other": 2577,
+      "Other": 2581,
       "Greenhouse": 173,
       "Workday": 145,
       "LinkedIn": 119,
@@ -20,7 +20,7 @@
       "iCIMS": 35,
       "Lever": 28,
       "Workable": 19,
-      "SmartRecruiters": 16,
+      "SmartRecruiters": 17,
       "Indeed": 15,
       "Jobvite": 5,
       "Recruitee": 3,
@@ -36,6 +36,66 @@
   },
   "jobs": [
     {
+      "id": "6f9ad7404331",
+      "title": "NielsenIQ Software Engineer - SmartRecruiters Job Search",
+      "company": "Nielseniq",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.smartrecruiters.com/NielsenIQ/744000130662639-software-engineer",
+      "source": "SmartRecruiters",
+      "description": "About JobFull Stack Software Engineer , ChennaiAs a Full Stack Software Engineer , you will be part of a highly skilled team of technologists ...",
+      "date": "2026-06-07",
+      "timestamp": "2026-06-07T17:25:47+00:00",
+      "fetched_at": "2026-06-07T20:56:35.636400+00:00"
+    },
+    {
+      "id": "15442e4c90e3",
+      "title": "Senior Backend & AI Platform Engineer - Job Detail | Careers Marketplace - Siemens Jobs",
+      "company": "Job Detail | Careers Marketplace - Siemens Jobs",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/508859",
+      "source": "Other",
+      "description": "Senior Backend & AI Platform Engineer ... We are seeking a Senior Backend & AI Engineer with 6+ years of experience to lead the development and scaling ...",
+      "date": "2026-06-07",
+      "timestamp": "2026-06-07T17:00:58+00:00",
+      "fetched_at": "2026-06-07T20:56:35.637481+00:00"
+    },
+    {
+      "id": "46b500159601",
+      "title": "AI Engineer - Career Pathways Center | Texas Southern University",
+      "company": "Career Pathways Center | Texas Southern University",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://cpc.tsu.edu/jobs/tata-consultancy-services-ai-engineer/",
+      "source": "Other",
+      "description": "Description of the Role and Key Responsibilities: The AI Engineer \u2013 Trainee will be part of a dynamic technology team focused on building, enhancing, ...",
+      "date": "2026-06-07",
+      "timestamp": "2026-06-07T16:46:42+00:00",
+      "fetched_at": "2026-06-07T20:56:35.637695+00:00"
+    },
+    {
+      "id": "ebca27541a79",
+      "title": "Data Engineer -Data Platforms-Google - 117123 - IBM",
+      "company": "Data Platforms-Google - 117123 - IBM",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.ibm.com/en_US/careers/JobDetail/Data-Engineer-Data-Platforms-Google/117123",
+      "source": "Other",
+      "description": "As a Data Engineer specializing in Google's data platforms, you will design, build, and maintain data engineering solutions on Google's Cloud ...",
+      "date": "2026-06-07",
+      "timestamp": "2026-06-07T16:04:08+00:00",
+      "fetched_at": "2026-06-07T20:56:35.637919+00:00"
+    },
+    {
       "id": "8154c6e6577c",
       "title": "Devops Engineer Expert Certification Question - Microsoft Q&A",
       "company": "Microsoft Q&A",
@@ -49,6 +109,21 @@
       "date": "2026-06-07",
       "timestamp": "2026-06-07T15:36:00+00:00",
       "fetched_at": "2026-06-07T17:00:49.269849+00:00"
+    },
+    {
+      "id": "66af244a064b",
+      "title": "Senior DevOps Engineer (Secrets Manager) at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/senior-devops-engineer-secrets-manager/47263/95896738032",
+      "source": "Other",
+      "description": "Sr Staff DevOps Platform Engineer ... Senior Staff Backend Engineer (Modern DV) Petah Tikva, Israel save job; Principal Software Engineer (ITDR) Petah ...",
+      "date": "2026-06-07",
+      "timestamp": "2026-06-07T14:52:30+00:00",
+      "fetched_at": "2026-06-07T20:56:35.638307+00:00"
     },
     {
       "id": "750f5bcb242e",
