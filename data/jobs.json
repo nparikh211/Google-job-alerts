@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-06-08T18:15:26.181686+00:00",
-  "total_jobs": 3350,
+  "last_updated": "2026-06-08T21:30:09.189178+00:00",
+  "total_jobs": 3369,
   "stats": {
-    "total_companies": 1826,
+    "total_companies": 1837,
     "total_roles": 60,
     "regions": {
-      "India": 2095,
-      "Philippines": 717,
-      "Remote": 419,
+      "India": 2109,
+      "Philippines": 721,
+      "Remote": 420,
       "Unknown": 135
     },
     "sources": {
-      "Other": 2637,
+      "Other": 2651,
       "Greenhouse": 174,
-      "Workday": 149,
+      "Workday": 154,
       "LinkedIn": 120,
       "Ashby": 102,
       "Breezy": 37,
@@ -36,6 +36,201 @@
   },
   "jobs": [
     {
+      "id": "00722251fc34",
+      "title": "Platform DevOps Engineer - - 125508 - Booz | Allen | Hamilton \u00ae - Careers",
+      "company": "- 125508 - Booz | Allen | Hamilton \u00ae - Careers",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.boozallen.com/jobs/JobDetail?jobId=125508",
+      "source": "Other",
+      "description": "Platform DevOps Engineer . Annapolis Junction, Maryland, USA. View Additional Locations. Apply. CREATEYOUR CAREER. CREATE AND GROW WITH US. Grow. Your ...",
+      "date": "2026-06-08",
+      "timestamp": "2026-06-08T20:56:34+00:00",
+      "fetched_at": "2026-06-08T21:30:09.171563+00:00"
+    },
+    {
+      "id": "f3e5a907ece4",
+      "title": "Senior Software Engineer BaaS Platform (C# / Azure) - Tranzeal, Inc. - Hybrid in Los Angeles, CA, US",
+      "company": "Tranzeal, Inc. - Hybrid in Los Angeles, CA, US",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.dice.com/job-detail/8c186179-1694-4538-b31d-d039bc28758e",
+      "source": "Other",
+      "description": "1 hour ago - Senior Software Engineer BaaS Platform (C# / Azure) We are seeking a Senior Software Engineer to join a Banking-as-a-Service (Baa...",
+      "date": "2026-06-08",
+      "timestamp": "2026-06-08T19:46:17+00:00",
+      "fetched_at": "2026-06-08T21:30:09.171783+00:00"
+    },
+    {
+      "id": "cc0c4be33784",
+      "title": "HR Data Engineer - Contract CDI - Segula Technologies",
+      "company": "Contract CDI - Segula Technologies",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.segulatechnologies.com/fr/annonce/4437901-hr-data-engineer-contract-20170-herndon",
+      "source": "Other",
+      "description": "Offre d'emploi HR Data Engineer - Contract chez Segula Technologies \u00e0 20170 Herndon !",
+      "date": "2026-06-08",
+      "timestamp": "2026-06-08T19:00:41+00:00",
+      "fetched_at": "2026-06-08T21:30:08.722298+00:00"
+    },
+    {
+      "id": "1720525261b2",
+      "title": "Full Stack Engineer - - 21541 - Login - Macquarie Group",
+      "company": "- 21541 - Login - Macquarie Group",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://recruitment.macquarie.com/en_US/careers/JobDetail/Full-Stack-Engineer/21541",
+      "source": "Other",
+      "description": "Full Stack Engineer ... Join a dynamic and global technology team in delivering solutions for Risk Technology applications, where you will be working ...",
+      "date": "2026-06-08",
+      "timestamp": "2026-06-08T18:39:06+00:00",
+      "fetched_at": "2026-06-08T21:30:08.722538+00:00"
+    },
+    {
+      "id": "045c45b47608",
+      "title": "Machine Learning Engineer , AI Solutions Hub (AISH) - Myworkdayjobs.com",
+      "company": "Northeastern",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://northeastern.wd1.myworkdayjobs.com/careers/job/Portland-ME/Machine-Learning-Engineer--AI-Solutions-Hub--AISH-_R140085",
+      "source": "Workday",
+      "description": "The Machine Learning Engineer (MLE) at the AI Solutions Hub (AISH), the delivery arm of Northeastern University's Experiential AI Institute, will ...",
+      "date": "2026-06-08",
+      "timestamp": "2026-06-08T18:34:42+00:00",
+      "fetched_at": "2026-06-08T21:30:08.722646+00:00"
+    },
+    {
+      "id": "dcf717cbf1f1",
+      "title": "Sr. DevOps Engineer - Working at Santander Holdings USA Inc",
+      "company": "Santander Holdings USA Inc",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.santandercareers.com/job/dallas/sr-devops-engineer/1771/96172860528",
+      "source": "Other",
+      "description": "DevOps Engineer . Dallas, Texas. Apply Save Job. Job ID: Req1578676. Category: Solution Application, Infrastructure & Data Architecture. Date posted ...",
+      "date": "2026-06-08",
+      "timestamp": "2026-06-08T18:25:59+00:00",
+      "fetched_at": "2026-06-08T21:30:08.722992+00:00"
+    },
+    {
+      "id": "67356a7f5156",
+      "title": "As a DevOps Engineer , how do you see your colleagues problem solving skills? - Reddit",
+      "company": "Reddit",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/devops/comments/1u094am/as_a_devops_engineer_how_do_you_see_your/",
+      "source": "Other",
+      "description": "As a DevOps Engineer , how do you see your colleagues problem solving skills? Discussion. Whether you're on a team with other DevOps Engineers or ...",
+      "date": "2026-06-08",
+      "timestamp": "2026-06-08T18:20:19+00:00",
+      "fetched_at": "2026-06-08T21:30:08.723184+00:00"
+    },
+    {
+      "id": "07af30a5465e",
+      "title": "100% Remote- Data Engineer Los Angeles California - Beacon Hill",
+      "company": "100% Remote",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://bhsg.com/jobs/job/ns-dad-ns_1780937688-100-remote-data-engineer-los-angeles-california/",
+      "source": "Other",
+      "description": "NOTE: THIS IS A 100% Remote role. Senior Data Engineer . Must Haves. Strong hands-on experience building and supporting production-grade data pipelines ...",
+      "date": "2026-06-08",
+      "timestamp": "2026-06-08T18:00:18+00:00",
+      "fetched_at": "2026-06-08T21:30:08.723574+00:00"
+    },
+    {
+      "id": "54b4d5c6441a",
+      "title": "Data Engineer - Careers at Moody's",
+      "company": "Moody's",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.moodys.com/en/job/brussels/data-engineer/49841/96173596448",
+      "source": "Other",
+      "description": "Data Engineer . Brussels, Brussels Capital. Apply now. Save job ... Senior Software Engineer . Charlotte, North Carolina. Save for Later. Saved ...",
+      "date": "2026-06-08",
+      "timestamp": "2026-06-08T17:55:06+00:00",
+      "fetched_at": "2026-06-08T21:30:09.173093+00:00"
+    },
+    {
+      "id": "ebf25362e308",
+      "title": "Senior Data Engineer at Snooze Restaurant Support Center | Harri Jobs",
+      "company": "Snooze Restaurant Support Center",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://harri.com/snooze-rsc/job/2738614-senior-data-engineer",
+      "source": "Other",
+      "description": "Senior Data Engineer . Snooze Restaurant Support Center. Senior Data ... Senior Data Engineer . Full Time. 5 Years Experience. Coins Icon $140000 ...",
+      "date": "2026-06-08",
+      "timestamp": "2026-06-08T17:51:32+00:00",
+      "fetched_at": "2026-06-08T21:30:08.723711+00:00"
+    },
+    {
+      "id": "3e7038447b93",
+      "title": "Data Engineer - Senior Manager at PRICE WATERHOUSE COOPERS - PwC Jobs",
+      "company": "PRICE WATERHOUSE COOPERS",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.us.pwc.com/job/chicago/data-engineer-senior-manager/932/96173821568",
+      "source": "Other",
+      "description": "Data Engineer - Senior Manager. We solve together so you can deliver unexpected impact. Chicago, Illinois; Raleigh, North Carolina; Charlotte ...",
+      "date": "2026-06-08",
+      "timestamp": "2026-06-08T17:49:23+00:00",
+      "fetched_at": "2026-06-08T21:30:08.723856+00:00"
+    },
+    {
+      "id": "6081c39586d8",
+      "title": "Software Engineer - Devops Automation - - 31798 - HARMAN International",
+      "company": "Devops Automation - - 31798 - HARMAN International",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobsearch.harman.com/en_US/careers/JobDetail/Software-Engineer-Devops-Automation/31798",
+      "source": "Other",
+      "description": "Software Engineer - Devops Automation. General information. Location: Bangalore - Karnataka, India - Kalyani Platina. Job Family: Engineering. Worker ...",
+      "date": "2026-06-08",
+      "timestamp": "2026-06-08T17:49:03+00:00",
+      "fetched_at": "2026-06-08T21:30:08.724063+00:00"
+    },
+    {
+      "id": "c2b1c1c4fecf",
+      "title": "Senior Staff / Principal Software Engineer , Rust Genomics Infrastructure - 4886 - St. Jude",
+      "company": "4886 - St. Jude",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://talent.stjude.org/careers/JobDetail/Senior-Staff-Principal-Software-Engineer-Rust-Genomics-Infrastructure-JR6999/4886",
+      "source": "Other",
+      "description": "Job Description. The Senior Staff Software Engineer manages assigned software systems through strategic direction, technical design, implementation, ...",
+      "date": "2026-06-08",
+      "timestamp": "2026-06-08T17:44:46+00:00",
+      "fetched_at": "2026-06-08T21:30:08.724337+00:00"
+    },
+    {
       "id": "23a775d95b22",
       "title": "Principal MarTech SWE / AI Engineer at Palo Alto Networks",
       "company": "Palo Alto Networks",
@@ -51,6 +246,51 @@
       "fetched_at": "2026-06-08T18:15:26.165864+00:00"
     },
     {
+      "id": "762eca4aa1cf",
+      "title": "Software Engineer , Toolpath & Manufacturing Automation - Myworkdayjobs.com",
+      "company": "Blueorigin",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Software-Engineer--Toolpath---Manufacturing-Automation_R65620",
+      "source": "Workday",
+      "description": "Software Engineer , Toolpath & Manufacturing Automation \u00b7 Minimum of a B.S. in computer science or equivalent and 4 years of experience in a related ...",
+      "date": "2026-06-08",
+      "timestamp": "2026-06-08T17:27:08+00:00",
+      "fetched_at": "2026-06-08T21:30:09.174034+00:00"
+    },
+    {
+      "id": "862edfcd314d",
+      "title": "Senior System Software Engineer - DevOps and Infrastructure Automation",
+      "company": "Nvidia",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---DevOps-and-Infrastructure-Automation_JR2018919",
+      "source": "Workday",
+      "description": "Become a Senior System Software Engineer on NVIDIA's AI Inference Operations Team, focusing on DevOps and Infrastructure Automation.",
+      "date": "2026-06-08",
+      "timestamp": "2026-06-08T17:25:08+00:00",
+      "fetched_at": "2026-06-08T21:30:08.724417+00:00"
+    },
+    {
+      "id": "acae3509c88f",
+      "title": "Senior Data Engineer & Analytics Developer | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.apexsystems.com/job/3037535_usa/senior-data-engineer--analytics-developer",
+      "source": "Other",
+      "description": "Job#: 3037535. Job Description: Role Summary. We are seeking a Data Engineer with strong analytics capabilities who can own the full data ...",
+      "date": "2026-06-08",
+      "timestamp": "2026-06-08T17:20:49+00:00",
+      "fetched_at": "2026-06-08T21:30:08.724713+00:00"
+    },
+    {
       "id": "02c2c9dde5f3",
       "title": "Software Engineer at NetApp, Inc.",
       "company": "NetApp, Inc.",
@@ -64,6 +304,51 @@
       "date": "2026-06-08",
       "timestamp": "2026-06-08T17:19:32+00:00",
       "fetched_at": "2026-06-08T18:15:26.166153+00:00"
+    },
+    {
+      "id": "3a912d9d1fe5",
+      "title": "Machine Learning Engineer - Document Intelligence - Myworkdayjobs.com",
+      "company": "Workday",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Machine-Learning-Engineer---Document-Intelligence_JR-0107515",
+      "source": "Workday",
+      "description": "Machine Learning Engineer - Document Intelligence \u00b7 Collaborate with software engineers, Workday app developers, product managers, and other ML teams.",
+      "date": "2026-06-08",
+      "timestamp": "2026-06-08T17:15:06+00:00",
+      "fetched_at": "2026-06-08T21:30:08.724813+00:00"
+    },
+    {
+      "id": "b1e441003119",
+      "title": "Software Engineer",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/closinglock/jobs/00263a48-3158-443d-bbdc-7bf1249a57a7",
+      "source": "Other",
+      "description": "Software Engineer . Company Overview. Closinglock is modernizing the real estate world's way of transferring information and funds to eliminate wire ...",
+      "date": "2026-06-08",
+      "timestamp": "2026-06-08T17:11:16+00:00",
+      "fetched_at": "2026-06-08T21:30:08.724950+00:00"
+    },
+    {
+      "id": "3d751ea040ec",
+      "title": "Software Engineer I - Myworkdayjobs.com",
+      "company": "Usaa",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Software-Engineer-I_R0118061",
+      "source": "Workday",
+      "description": "Software Engineer I \u00b7 Guidewire InsuranceSuite platform; \u00b7 Guidewire AWS Cloud; \u00b7 Gosu programming language; \u00b7 SOAP web service development; \u00b7 REST ...",
+      "date": "2026-06-08",
+      "timestamp": "2026-06-08T17:06:06+00:00",
+      "fetched_at": "2026-06-08T21:30:08.725026+00:00"
     },
     {
       "id": "59b5d5a48fe8",
