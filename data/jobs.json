@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-06-08T15:19:27.127243+00:00",
-  "total_jobs": 3331,
+  "last_updated": "2026-06-08T18:15:26.181686+00:00",
+  "total_jobs": 3350,
   "stats": {
-    "total_companies": 1821,
+    "total_companies": 1826,
     "total_roles": 60,
     "regions": {
-      "India": 2082,
-      "Philippines": 714,
-      "Remote": 416,
+      "India": 2095,
+      "Philippines": 717,
+      "Remote": 419,
       "Unknown": 135
     },
     "sources": {
-      "Other": 2621,
+      "Other": 2637,
       "Greenhouse": 174,
-      "Workday": 147,
+      "Workday": 149,
       "LinkedIn": 120,
       "Ashby": 102,
       "Breezy": 37,
@@ -23,10 +23,10 @@
       "SmartRecruiters": 17,
       "Indeed": 15,
       "Jobvite": 5,
+      "BrassRing": 3,
       "Recruitee": 3,
       "Taleo": 2,
       "WeWorkRemotely": 2,
-      "BrassRing": 2,
       "ADP": 1
     },
     "date_range": {
@@ -35,6 +35,261 @@
     }
   },
   "jobs": [
+    {
+      "id": "23a775d95b22",
+      "title": "Principal MarTech SWE / AI Engineer at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-martech-swe-ai-engineer/47263/92055674608",
+      "source": "Other",
+      "description": "Distinguished Software Engineer - ADEM (Backend) Santa Clara, California, United States ... Principal Site Reliability Engineer Santa Clara ...",
+      "date": "2026-06-08",
+      "timestamp": "2026-06-08T17:43:12+00:00",
+      "fetched_at": "2026-06-08T18:15:26.165864+00:00"
+    },
+    {
+      "id": "02c2c9dde5f3",
+      "title": "Software Engineer at NetApp, Inc.",
+      "company": "NetApp, Inc.",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.netapp.com/job/bengaluru/software-engineer/27600/96160597888",
+      "source": "Other",
+      "description": "Job Summary. As a Senior Software Engineer , your responsibilities will include developing and maintaining Software defined Storage solutions. You will ...",
+      "date": "2026-06-08",
+      "timestamp": "2026-06-08T17:19:32+00:00",
+      "fetched_at": "2026-06-08T18:15:26.166153+00:00"
+    },
+    {
+      "id": "59b5d5a48fe8",
+      "title": "Mozilla Careers \u2014 Senior Software Engineer (Contract) \u2014 Open Positions",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.mozilla.org/en-US/careers/position/gh/7977875/",
+      "source": "Other",
+      "description": "Mozilla is hiring a Senior Software Engineer (Contract) in Remote , New Products, Core Services, Mozilla.org, Firefox, Firefox, Core Services, ...",
+      "date": "2026-06-08",
+      "timestamp": "2026-06-08T16:59:45+00:00",
+      "fetched_at": "2026-06-08T18:15:26.073330+00:00"
+    },
+    {
+      "id": "3a028edd28c8",
+      "title": "Machine Learning Engineer III, Search Relevance, Redwood City - Careers - Box",
+      "company": "Careers - Box",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.box.com/en/jobs/7926448/machine-learning-engineer-iii-search-relevance/",
+      "source": "Other",
+      "description": "Machine Learning Engineer III, Search Relevance. Redwood City ... Engineering. Senior Software Engineer , Trust and Safety Engineering. Save",
+      "date": "2026-06-08",
+      "timestamp": "2026-06-08T16:46:08+00:00",
+      "fetched_at": "2026-06-08T18:15:26.073558+00:00"
+    },
+    {
+      "id": "f65c0d683103",
+      "title": "AI Engineer - AI/ML at UnitedHealth Group",
+      "company": "UnitedHealth Group",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.unitedhealthgroup.com/job/minnetonka/ai-engineer-ai-ml/34088/96171508208",
+      "source": "Other",
+      "description": "AI Engineer - AI/ML ... We are seeking a highly skilled and motivated AI/ ML Engineer to lead innovations in claims adjudication through advanced ...",
+      "date": "2026-06-08",
+      "timestamp": "2026-06-08T16:37:01+00:00",
+      "fetched_at": "2026-06-08T18:15:26.073720+00:00"
+    },
+    {
+      "id": "782a4c04a881",
+      "title": "Software Engineer II | Best Buy - jobs.brassring.com",
+      "company": "Best Buy - jobs.brassring.com",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25632&siteid=5649&PageType=JobDetails&jobid=3734248",
+      "source": "BrassRing",
+      "description": "Software Engineer II. Full time. Regular. Job Description. Best Buy Co. has openings in Richfield, Minnesota, for the position of Lead Engineer ...",
+      "date": "2026-06-08",
+      "timestamp": "2026-06-08T16:32:50+00:00",
+      "fetched_at": "2026-06-08T18:15:26.074038+00:00"
+    },
+    {
+      "id": "c6487326b172",
+      "title": "AI/ ML Engineer II - Myworkdayjobs.com",
+      "company": "Usaa",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/AI-ML-Engineer-II_R0118099",
+      "source": "Workday",
+      "description": "AI/ ML Engineer II \u00b7 Programming Languages: Pandas, NumPy, PySpark, Snowflake SQL, BigQuery, HTML and CSS; \u00b7 Machine Learning & NLP Frameworks: Scikit- ...",
+      "date": "2026-06-08",
+      "timestamp": "2026-06-08T16:25:56+00:00",
+      "fetched_at": "2026-06-08T18:15:26.074146+00:00"
+    },
+    {
+      "id": "11de8b1343e8",
+      "title": "Security Software Engineer , OS Security - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200667231-0836/security-software-engineer-os-security?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Security Software Engineer , OS Security job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-06-08",
+      "timestamp": "2026-06-08T16:23:38+00:00",
+      "fetched_at": "2026-06-08T18:15:26.074323+00:00"
+    },
+    {
+      "id": "05a1db3502a4",
+      "title": "Senior Staff Software Engineer , Cloud Billing - Search for your career at Google.",
+      "company": "Google.",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.google.com/jobs/results/113257742189109958-senior-staff-software-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer , Storage AI/ML. Seattle, WA, USA \u00b7 Regional IoT Operations and Cyber security Specialist. New York, NY, USA \u00b7 Customer ...",
+      "date": "2026-06-08",
+      "timestamp": "2026-06-08T16:14:39+00:00",
+      "fetched_at": "2026-06-08T18:15:26.074529+00:00"
+    },
+    {
+      "id": "d6169eb9b4a7",
+      "title": "Senior Software Engineer , Cloud Infrastructure Monitoring \u2014 Google Careers",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.google.com/jobs/results/142748843069317830-senior-software-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer , Cloud Infrastructure Monitoring. share. linkCopy link; emailEmail a friend. corporate_fareGoogleplaceTaipei, Taiwan.",
+      "date": "2026-06-08",
+      "timestamp": "2026-06-08T16:11:08+00:00",
+      "fetched_at": "2026-06-08T18:15:26.074716+00:00"
+    },
+    {
+      "id": "5cd88fce88ec",
+      "title": "Global Tech Apprentice Program \u2013 Software Engineer - Charlotte, NC and Pennington, NJ",
+      "company": "Charlotte, NC and Pennington, NJ",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.bankofamerica.com/en-us/job-detail/26019811/global-tech-apprentice-program-software-engineer-charlotte-nc-and-pennington-nj-multiple-locations",
+      "source": "Other",
+      "description": "Apply for the Global Tech Apprentice Program \u2013 Software Engineer - Charlotte, NC and Pennington, NJ position (Job ID: 26019811), with openings in ...",
+      "date": "2026-06-08",
+      "timestamp": "2026-06-08T16:04:54+00:00",
+      "fetched_at": "2026-06-08T18:15:26.075074+00:00"
+    },
+    {
+      "id": "74ac4de59973",
+      "title": "Mozilla Careers \u2014 Senior Site Reliability Engineer \u2014 Open Positions",
+      "company": "Unknown Company",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.mozilla.org/en-US/careers/position/gh/7985337/",
+      "source": "Other",
+      "description": "Mozilla is hiring a Senior Site Reliability Engineer in Remote , New Products, Core Services, Mozilla.org, Firefox, Firefox, Core Services, ...",
+      "date": "2026-06-08",
+      "timestamp": "2026-06-08T16:01:44+00:00",
+      "fetched_at": "2026-06-08T18:15:26.075211+00:00"
+    },
+    {
+      "id": "db6b1f8f6e78",
+      "title": "Sr AI/ ML Engineer - Careers at Citizens Bank",
+      "company": "Citizens Bank",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.citizensbank.com/job/johnston/sr-ai-ml-engineer/288/96168594608",
+      "source": "Other",
+      "description": "Ready to thrive, personally and professionally. Learn more about and apply for the Sr AI/ ML Engineer job at Citizens now.",
+      "date": "2026-06-08",
+      "timestamp": "2026-06-08T15:45:12+00:00",
+      "fetched_at": "2026-06-08T18:15:26.075339+00:00"
+    },
+    {
+      "id": "7bf78bc7810d",
+      "title": "Senior Software Engineer - Visa - Myworkdayjobs.com",
+      "company": "Visa",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/Senior-Software-Engineer_REF078421W",
+      "source": "Workday",
+      "description": "Pismo are looking for a mid-level backend Engineer to help begin the Europe Localisation team. ... Senior Software Engineer . remote type: Hybrid.",
+      "date": "2026-06-08",
+      "timestamp": "2026-06-08T15:28:03+00:00",
+      "fetched_at": "2026-06-08T18:15:26.167687+00:00"
+    },
+    {
+      "id": "a9225b9eecc3",
+      "title": "Analytics and AI Engineer - Swiss Re",
+      "company": "Swiss Re",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.swissre.com/careers/job/Analytics-and-AI-Engineer/1401967133",
+      "source": "Other",
+      "description": "Analytics and AI Engineer \u00b7 Own and drive AI product development from initial concept through to production deployment and continuous improvement.",
+      "date": "2026-06-08",
+      "timestamp": "2026-06-08T15:21:30+00:00",
+      "fetched_at": "2026-06-08T18:15:26.075478+00:00"
+    },
+    {
+      "id": "0a31a9acd57b",
+      "title": "Sr MDM Data Engineer Jobs at Amgen in India",
+      "company": "Amgen in India",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.amgen.com/en/job/hyderabad/sr-mdm-data-engineer/87/96167273360",
+      "source": "Other",
+      "description": "Explore the details of a Sr MDM Data Engineer career in Hyderabad. Live. Win. Thrive. Search and apply for a rewarding new career at Amgen.",
+      "date": "2026-06-08",
+      "timestamp": "2026-06-08T15:06:36+00:00",
+      "fetched_at": "2026-06-08T18:15:26.075822+00:00"
+    },
+    {
+      "id": "a42d57456950",
+      "title": "Software Engineer II in Amsterdam, North Holland, Netherlands - WBD Careers",
+      "company": "WBD Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.wbd.com/global/en/job/R000105431/Software-Engineer-II",
+      "source": "Other",
+      "description": "Apply for Software Engineer II job with Warner Bros. Discovery in Amsterdam, North Holland, Netherlands. Technology at Warner Bros. Discovery.",
+      "date": "2026-06-08",
+      "timestamp": "2026-06-08T15:05:23+00:00",
+      "fetched_at": "2026-06-08T18:15:26.168096+00:00"
+    },
     {
       "id": "b9a35bccfcfd",
       "title": "MTS/SMTS/LMTS/ Software Engineer - Salesforce Careers",
@@ -49,6 +304,21 @@
       "date": "2026-06-08",
       "timestamp": "2026-06-08T14:56:03+00:00",
       "fetched_at": "2026-06-08T15:19:27.032483+00:00"
+    },
+    {
+      "id": "7c4ca0681b11",
+      "title": "Associate Software Engineer at UnitedHealth Group",
+      "company": "UnitedHealth Group",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.unitedhealthgroup.com/job/cypress/associate-software-engineer/34088/96166861840",
+      "source": "Other",
+      "description": "Associate Software Engineer . Requisition number: 2351435 Job category: Technology Primary location: Cypress, CA Date posted: 06/08/ ...",
+      "date": "2026-06-08",
+      "timestamp": "2026-06-08T14:36:49+00:00",
+      "fetched_at": "2026-06-08T18:15:26.076249+00:00"
     },
     {
       "id": "24d3d0302486",
@@ -79,6 +349,21 @@
       "date": "2026-06-08",
       "timestamp": "2026-06-08T14:07:03+00:00",
       "fetched_at": "2026-06-08T15:19:27.032805+00:00"
+    },
+    {
+      "id": "eb1f34ed2183",
+      "title": "Data Engineer Spring TEXAS - INSPYR Solutions",
+      "company": "INSPYR Solutions",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.inspyrsolutions.com/job/26-157255-data-engineer-spring-tx/",
+      "source": "Other",
+      "description": "Job Description: We are looking for a highly motivated Data Engineer with a passion for data modeling, data architecture patterns, and modern ...",
+      "date": "2026-06-08",
+      "timestamp": "2026-06-08T13:58:37+00:00",
+      "fetched_at": "2026-06-08T18:15:26.168658+00:00"
     },
     {
       "id": "2bc53895eff8",
