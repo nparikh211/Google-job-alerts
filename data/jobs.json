@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-06-09T07:34:12.406701+00:00",
-  "total_jobs": 3395,
+  "last_updated": "2026-06-09T10:48:58.839693+00:00",
+  "total_jobs": 3402,
   "stats": {
-    "total_companies": 1850,
+    "total_companies": 1854,
     "total_roles": 61,
     "regions": {
-      "India": 2134,
-      "Philippines": 721,
-      "Remote": 421,
+      "India": 2135,
+      "Philippines": 725,
+      "Remote": 423,
       "Unknown": 135
     },
     "sources": {
-      "Other": 2674,
+      "Other": 2680,
       "Greenhouse": 174,
       "Workday": 156,
       "LinkedIn": 120,
       "Ashby": 103,
       "Breezy": 37,
       "iCIMS": 35,
-      "Lever": 28,
+      "Lever": 29,
       "Workable": 20,
       "SmartRecruiters": 17,
       "Indeed": 15,
@@ -36,6 +36,66 @@
   },
   "jobs": [
     {
+      "id": "3fb9d90332c4",
+      "title": "Senior Software Engineer - EasyPost - Lever",
+      "company": "Easypost 2",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.lever.co/easypost-2/9f9c0cf8-f73c-4409-a1ea-2ce726a9e9cc/apply",
+      "source": "Lever",
+      "description": "Senior Software Engineer . Remote. Engineering \u2013 Carrier /. Full time /. Remote. Submit your application. LinkedIn profile. Loading... Apply with ...",
+      "date": "2026-06-09",
+      "timestamp": "2026-06-09T08:04:10+00:00",
+      "fetched_at": "2026-06-09T10:48:58.822180+00:00"
+    },
+    {
+      "id": "188ff6069758",
+      "title": "Data Engineer - Sterling Heights | Continental Services Careers",
+      "company": "Sterling Heights | Continental Services Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://continentalserves.pinpointhq.com/en/postings/a1121d0f-0dfe-4dbe-9dfe-f4d9d08fc169",
+      "source": "Other",
+      "description": "Data Engineer . A Taste of Who We Are: Backed by a tireless commitment to high quality, innovative culinary offerings and unparalleled client and ...",
+      "date": "2026-06-09",
+      "timestamp": "2026-06-09T07:27:23+00:00",
+      "fetched_at": "2026-06-09T10:48:58.822395+00:00"
+    },
+    {
+      "id": "8964cdd4b7bc",
+      "title": "Staff Software Engineer - 118816 - IBM",
+      "company": "118816 - IBM",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=118816&source=SN_LinkedIn",
+      "source": "Other",
+      "description": "Staff Software Engineer ... Ready to grow your career in the Cloud? Want to have a feeling that you are making a difference? This is your chance to ...",
+      "date": "2026-06-09",
+      "timestamp": "2026-06-09T07:11:53+00:00",
+      "fetched_at": "2026-06-09T10:48:58.822594+00:00"
+    },
+    {
+      "id": "a619c34d7f56",
+      "title": "LA Kings - Sr. Data Engineer | AEG Worldwide",
+      "company": "LA Kings",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://aegworldwide.com/careers/jobs/KINGS9374/la-kings---sr.-data-engineer",
+      "source": "Other",
+      "description": "Data Engineer . Los Angeles Kings. El Segundo, CA. Info Technology & Software Engineering. Full Time. KINGS9374. Company Information For more than 20 ...",
+      "date": "2026-06-09",
+      "timestamp": "2026-06-09T03:56:45+00:00",
+      "fetched_at": "2026-06-09T10:48:58.822879+00:00"
+    },
+    {
       "id": "ab3e9a45768a",
       "title": "Why More Context Makes Your Agent Dumber and What to Do About It \u2014 Nupur Sharma, Qodo",
       "company": "to Do About It \u2014 Nupur Sharma, Qodo",
@@ -51,6 +111,21 @@
       "fetched_at": "2026-06-09T07:34:11.569243+00:00"
     },
     {
+      "id": "eeac92d6e9cf",
+      "title": "Software Engineer , System Services & Daemons, Core OS - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200667318-0505/software-engineer-system-services-daemons-core-os",
+      "source": "Other",
+      "description": "Apply for a Software Engineer , System Services & Daemons, Core OS job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-06-09",
+      "timestamp": "2026-06-09T03:03:40+00:00",
+      "fetched_at": "2026-06-09T10:48:58.823258+00:00"
+    },
+    {
       "id": "c355a021655b",
       "title": "Software Engineer (Front End), Retail and Marcom Engineering - Jobs - Careers at Apple",
       "company": "Apple",
@@ -64,6 +139,21 @@
       "date": "2026-06-09",
       "timestamp": "2026-06-09T02:58:01+00:00",
       "fetched_at": "2026-06-09T07:34:11.569509+00:00"
+    },
+    {
+      "id": "a19085454f06",
+      "title": "Software Engineer : Agentic Evaluation - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200666976-0836/software-engineer-agentic-evaluation",
+      "source": "Other",
+      "description": "Apply for a Software Engineer : Agentic Evaluation job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-06-09",
+      "timestamp": "2026-06-09T02:31:08+00:00",
+      "fetched_at": "2026-06-09T10:48:58.659618+00:00"
     },
     {
       "id": "4336d342f4d9",
@@ -94,6 +184,21 @@
       "date": "2026-06-09",
       "timestamp": "2026-06-09T00:50:15+00:00",
       "fetched_at": "2026-06-09T01:46:02.559653+00:00"
+    },
+    {
+      "id": "d3afab43f763",
+      "title": "Software Engineer Associate in El Paso, Texas, United States - SAIC Careers",
+      "company": "SAIC Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.saic.com/jobs/17843488-software-engineer-associate",
+      "source": "Other",
+      "description": "Job Description. Description. SAIC is seeking a Software Engineer to support the U. S. Army program in creating experimental software applications.",
+      "date": "2026-06-09",
+      "timestamp": "2026-06-09T00:45:04+00:00",
+      "fetched_at": "2026-06-09T10:48:58.824105+00:00"
     },
     {
       "id": "49bb0d69aa38",
