@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-06-10T01:56:38.638510+00:00",
-  "total_jobs": 3453,
+  "last_updated": "2026-06-10T07:57:14.491750+00:00",
+  "total_jobs": 3466,
   "stats": {
-    "total_companies": 1875,
-    "total_roles": 61,
+    "total_companies": 1880,
+    "total_roles": 62,
     "regions": {
-      "India": 2164,
-      "Philippines": 738,
+      "India": 2167,
+      "Philippines": 748,
       "Remote": 432,
       "Unknown": 135
     },
     "sources": {
-      "Other": 2720,
+      "Other": 2729,
       "Greenhouse": 178,
-      "Workday": 158,
-      "LinkedIn": 120,
+      "Workday": 161,
+      "LinkedIn": 121,
       "Ashby": 105,
       "Breezy": 37,
       "iCIMS": 36,
@@ -36,6 +36,126 @@
   },
   "jobs": [
     {
+      "id": "edf1b582a354",
+      "title": "Staff / Senior IT Software Engineer at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/santa-clara/staff-senior-it-software-engineer/47263/96174868688",
+      "source": "Other",
+      "description": "Staff / Senior IT Software Engineer . Santa Clara, California, United States IT Ref ID: JR-015096. Apply Save Job. Current Employees, apply here. Our ...",
+      "date": "2026-06-10",
+      "timestamp": "2026-06-10T06:39:11+00:00",
+      "fetched_at": "2026-06-10T07:57:14.473274+00:00"
+    },
+    {
+      "id": "8eacfe097a75",
+      "title": "Software Engineer (Java, AWS) - Myworkdayjobs.com",
+      "company": "Autodesk",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Pune-IND/Software-Engineer--Java--AWS-_26WD97051-1?src=JB-10065&source=LinkedIn",
+      "source": "Workday",
+      "description": "Software Engineer (Java, AWS) \u00b7 Contribute to all aspects of software development from architecture to design to estimation to development to testing ...",
+      "date": "2026-06-10",
+      "timestamp": "2026-06-10T06:38:56+00:00",
+      "fetched_at": "2026-06-10T07:57:14.473399+00:00"
+    },
+    {
+      "id": "311e98e0f7d4",
+      "title": "Software Engineer /Lead Software Engineer in Multiple Locations - State Farm Careers",
+      "company": "State Farm Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.statefarm.com/main/jobs/44591?lang=en-us",
+      "source": "Other",
+      "description": "State Farm is looking for a Software Engineer or Lead Software Engineer to help business partners build and operate resilient cloud applications with ...",
+      "date": "2026-06-10",
+      "timestamp": "2026-06-10T05:07:18+00:00",
+      "fetched_at": "2026-06-10T07:57:14.473547+00:00"
+    },
+    {
+      "id": "a5801e65d3d3",
+      "title": "Software Engineer - Salesforce in United States | Members 1st Federal Credit Union",
+      "company": "Salesforce in United States | Members 1st Federal Credit Union",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.members1st.org/jobs/2821?lang=en-us",
+      "source": "Other",
+      "description": "Members 1st Federal Credit Union is hiring a Software Engineer - Salesforce in United States. Review all of the job details and apply today!",
+      "date": "2026-06-10",
+      "timestamp": "2026-06-10T04:51:51+00:00",
+      "fetched_at": "2026-06-10T07:57:14.473714+00:00"
+    },
+    {
+      "id": "fc8c861e4e2e",
+      "title": "Senior Cloud Engineer - Boston, Massachusetts, United States - SOPHiA GENETICS",
+      "company": "Boston, Massachusetts, United States - SOPHiA GENETICS",
+      "role": "Cloud Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.sophiagenetics.com/jobs/senior-cloud-engineer-boston-massachusetts-united-states",
+      "source": "Other",
+      "description": "5+ years of experience as a Cloud Engineer , DevOps Engineer , SRE or similar role. Proven experience designing and implementing secure cloud ...",
+      "date": "2026-06-10",
+      "timestamp": "2026-06-10T04:18:43+00:00",
+      "fetched_at": "2026-06-10T07:57:14.473990+00:00"
+    },
+    {
+      "id": "77acfebe136c",
+      "title": "Senior Media Platform Engineer in Tempe, Arizona | FOX Careers",
+      "company": "FOX Careers",
+      "role": "Platform Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.foxcareers.com/Search/JobDetail/R50032819/senior-media-platform-engineer-fox-corporation",
+      "source": "Other",
+      "description": "View the job requirements for the Senior Media Platform Engineer opening in Tempe, Arizona |Apply Now at FOX Careers.",
+      "date": "2026-06-10",
+      "timestamp": "2026-06-10T03:48:26+00:00",
+      "fetched_at": "2026-06-10T07:57:14.474236+00:00"
+    },
+    {
+      "id": "14819fa7fb0f",
+      "title": "Rob T. Lee's Post - LinkedIn",
+      "company": "Unknown Company",
+      "role": "Rob T. Lee's Post - LinkedIn",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/posts/leerob_what-makes-an-ai-expert-or-an-ai-engineer-activity-7470256709576327168-3GUI",
+      "source": "LinkedIn",
+      "description": "What makes an AI expert or an AI engineer ? Is it a degree and a piece of paper? Decades of experience? Or is it determination, and someone who ...",
+      "date": "2026-06-10",
+      "timestamp": "2026-06-10T01:27:52+00:00",
+      "fetched_at": "2026-06-10T07:57:14.475070+00:00"
+    },
+    {
+      "id": "4815db2ce48d",
+      "title": "Software Engineer - Riot Operations Center (SRE)",
+      "company": "Riot Operations Center",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.riotgames.com/en/work-with-us/job/7981545/software-engineer-riot-operations-center-sre-singapore",
+      "source": "Other",
+      "description": "Software Engineer - Riot Operations Center (SRE). Singapore. Job Id: REQ-0010057. Riot Games was established in 2006 by entrepreneurial gamers who ...",
+      "date": "2026-06-10",
+      "timestamp": "2026-06-10T01:15:39+00:00",
+      "fetched_at": "2026-06-10T07:57:14.290703+00:00"
+    },
+    {
       "id": "d92e3eb47ae6",
       "title": "Sr. Software Engineer in Bengaluru, India - DocuSign Careers",
       "company": "DocuSign Careers",
@@ -49,6 +169,36 @@
       "date": "2026-06-10",
       "timestamp": "2026-06-10T00:52:00+00:00",
       "fetched_at": "2026-06-10T01:56:38.327188+00:00"
+    },
+    {
+      "id": "1e8541c62c29",
+      "title": "Data Engineer - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200667006-0836/data-engineer?team=HRDWR",
+      "source": "Other",
+      "description": "Data Engineer . Cupertino, California, United States Hardware. Submit Resume. Summary. Posted: Jun 09, 2026. Role Number:200667006-0836. Do you have a ...",
+      "date": "2026-06-09",
+      "timestamp": "2026-06-09T23:56:00+00:00",
+      "fetched_at": "2026-06-10T07:57:14.291502+00:00"
+    },
+    {
+      "id": "53c6ab14cae6",
+      "title": "AI & Data - Data Engineer - PTR Global - Pleasanton, CA, US | Dice.com",
+      "company": "AI & Data",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.dice.com/job-detail/df2e9f30-d553-4458-86d6-477e05b57fab",
+      "source": "Other",
+      "description": "AI & Data - Data Engineer . Pleasanton, CA, US \u2022 Posted 23 hours ago ... Software Engineer 4 - Contingent. Concord, California. \u2022. Today. THIS JOB ...",
+      "date": "2026-06-09",
+      "timestamp": "2026-06-09T23:12:29+00:00",
+      "fetched_at": "2026-06-10T07:57:14.475891+00:00"
     },
     {
       "id": "4a9a85fc967a",
@@ -66,6 +216,36 @@
       "fetched_at": "2026-06-10T01:56:38.327383+00:00"
     },
     {
+      "id": "82cb911908bf",
+      "title": "Principal Software Engineer (Virtualization) at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-virtualization/47263/96174881328",
+      "source": "Other",
+      "description": "Principal/ Senior Backend & Cloud Engineer Agentless (Cortex Cloud) Tel Aviv, Israel ... Principal Site Reliability Engineer Santa Clara, California, ...",
+      "date": "2026-06-09",
+      "timestamp": "2026-06-09T22:48:34+00:00",
+      "fetched_at": "2026-06-10T07:57:14.476257+00:00"
+    },
+    {
+      "id": "74cffa2655e3",
+      "title": "AI Engineer - Myworkdayjobs.com",
+      "company": "Cni",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://cni.wd503.myworkdayjobs.com/en-US/CNI/job/AI-Engineer_R9121",
+      "source": "Workday",
+      "description": "AI Engineer will design and deliver AI based solutions for a web based workflow application for the Federal Government.",
+      "date": "2026-06-09",
+      "timestamp": "2026-06-09T22:43:53+00:00",
+      "fetched_at": "2026-06-10T07:57:14.476350+00:00"
+    },
+    {
       "id": "5a992c473d37",
       "title": "Job Application for Senior Software Engineer - Fern at Postman - Greenhouse",
       "company": "Postman",
@@ -79,6 +259,21 @@
       "date": "2026-06-09",
       "timestamp": "2026-06-09T22:43:40+00:00",
       "fetched_at": "2026-06-10T01:56:38.327466+00:00"
+    },
+    {
+      "id": "8ca7b66bccc5",
+      "title": "Sr. Data Engineer - Visa - Myworkdayjobs.com",
+      "company": "Visa",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/Sr-Data-Engineer_REF081275W",
+      "source": "Workday",
+      "description": "Sr. Data Engineer ... Visa is a world leader in payments technology, facilitating transactions between consumers, merchants, financial institutions and ...",
+      "date": "2026-06-09",
+      "timestamp": "2026-06-09T22:39:50+00:00",
+      "fetched_at": "2026-06-10T07:57:14.476525+00:00"
     },
     {
       "id": "aa886ac3263c",
