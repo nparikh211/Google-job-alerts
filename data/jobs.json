@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-06-11T15:24:52.112645+00:00",
-  "total_jobs": 3555,
+  "last_updated": "2026-06-11T18:38:12.721002+00:00",
+  "total_jobs": 3565,
   "stats": {
-    "total_companies": 1930,
+    "total_companies": 1935,
     "total_roles": 62,
     "regions": {
-      "India": 2234,
-      "Philippines": 756,
+      "India": 2242,
+      "Philippines": 758,
       "Remote": 446,
       "Unknown": 135
     },
     "sources": {
-      "Other": 2799,
+      "Other": 2807,
       "Greenhouse": 184,
       "Workday": 165,
       "LinkedIn": 122,
-      "Ashby": 109,
-      "iCIMS": 38,
+      "Ashby": 110,
+      "iCIMS": 39,
       "Breezy": 37,
       "Lever": 29,
       "Workable": 22,
@@ -35,6 +35,111 @@
     }
   },
   "jobs": [
+    {
+      "id": "0cfaf2d99684",
+      "title": "Senior Software Engineer , Auth - Minneapolis, MN | SmartThings Careers",
+      "company": "Minneapolis, MN | SmartThings Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://smartthings.pinpointhq.com/en/postings/768803a0-4095-4758-83f3-686c54f37f40",
+      "source": "Other",
+      "description": "Join SmartThings in Core Cloud, Minneapolis, MN as a Senior Software Engineer , Auth.",
+      "date": "2026-06-11",
+      "timestamp": "2026-06-11T17:31:04+00:00",
+      "fetched_at": "2026-06-11T18:38:12.618686+00:00"
+    },
+    {
+      "id": "9fe837068156",
+      "title": "Software Engineer , Perception @ Voxel - Jobs",
+      "company": "Voxel",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/voxel/9614f69a-b74b-486f-97b9-081f769cf804",
+      "source": "Ashby",
+      "description": "Software Engineer , Perception. Location. San Francisco, CA. Employment Type. Full time. Location Type. Hybrid. Department. EngineeringComputer Vision ...",
+      "date": "2026-06-11",
+      "timestamp": "2026-06-11T16:44:39+00:00",
+      "fetched_at": "2026-06-11T18:38:12.618827+00:00"
+    },
+    {
+      "id": "23720a0d7562",
+      "title": "Snowflake Data Engineer",
+      "company": "Unknown Company",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://ats.rippling.com/inn-flow/jobs/4330b135-bc69-4e56-9506-5a0a2e5494fd",
+      "source": "Other",
+      "description": "Snowflake Data Engineer . Inn-Flow Careers. Snowflake Data Engineer . A Little About Inn-Flow. At Inn-Flow, we're more than a hotel software company ...",
+      "date": "2026-06-11",
+      "timestamp": "2026-06-11T16:40:42+00:00",
+      "fetched_at": "2026-06-11T18:38:12.703423+00:00"
+    },
+    {
+      "id": "32e9d8930704",
+      "title": "Data Engineer in Fort Wayne, Indiana | Careers at SDI Corporate Office - Steel Dynamics",
+      "company": "SDI Corporate Office",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers-steeldynamics.icims.com/jobs/7590/data-engineer/job",
+      "source": "iCIMS",
+      "description": "SDI Corporate Office is now hiring a Data Engineer in Fort Wayne, Indiana. Review all of the job details and apply today!",
+      "date": "2026-06-11",
+      "timestamp": "2026-06-11T16:17:16+00:00",
+      "fetched_at": "2026-06-11T18:38:12.619118+00:00"
+    },
+    {
+      "id": "98c48d392b4d",
+      "title": "Senior Machine Learning Engineer / Rockstar New England (Analytics)",
+      "company": "Unknown Company",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.rockstargames.com/careers/openings/position/7754045003",
+      "source": "Other",
+      "description": "Rockstar Games is on the lookout for a skilled Senior Machine Learning Engineer with strong software development skills who is passionate about games, ...",
+      "date": "2026-06-11",
+      "timestamp": "2026-06-11T15:53:26+00:00",
+      "fetched_at": "2026-06-11T18:38:12.619293+00:00"
+    },
+    {
+      "id": "4f6b7304a717",
+      "title": "Data Engineer at Lamb Weston",
+      "company": "Lamb Weston",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.lambweston.com/job/eagle/data-engineer/46162/96273219600",
+      "source": "Other",
+      "description": "Data Engineer . Apply now. Save job. Eagle, ID, USA (Global Headquarters). Additional locations: None. Job Posted: 06/10/2026. Req-270931. Category ...",
+      "date": "2026-06-11",
+      "timestamp": "2026-06-11T15:37:43+00:00",
+      "fetched_at": "2026-06-11T18:38:12.619428+00:00"
+    },
+    {
+      "id": "1e94ccade982",
+      "title": "Senior AI Engineer in United States - Illinois - Abbott Park | Research & Development at ...",
+      "company": "...",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.jobs.abbott/us/en/job/31151704/Senior-AI-Engineer",
+      "source": "Other",
+      "description": "... Senior Software Engineer , Cloud. Location United States - Illinois ... Full stack Engineer . Location United States - Illinois - Abbott Park ...",
+      "date": "2026-06-11",
+      "timestamp": "2026-06-11T15:16:46+00:00",
+      "fetched_at": "2026-06-11T18:38:12.619559+00:00"
+    },
     {
       "id": "924f8ed6423f",
       "title": "C++ Software Engineer - Job Detail | Careers Marketplace - Siemens",
@@ -171,6 +276,21 @@
       "fetched_at": "2026-06-11T15:24:52.012947+00:00"
     },
     {
+      "id": "93b5f72a1610",
+      "title": "Data Engineer , Partner Experience - Job ID: 10444729 - Amazon Careers",
+      "company": "Job ID: 10444729 - Amazon Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.amazon.jobs/jobs/10444729",
+      "source": "Other",
+      "description": "We are seeking a talented Data Engineer to enhance PCF Data's core data infrastructure by implementing AWS services to build data pipelines, improve ...",
+      "date": "2026-06-11",
+      "timestamp": "2026-06-11T11:49:26+00:00",
+      "fetched_at": "2026-06-11T18:38:12.704667+00:00"
+    },
+    {
       "id": "5d46d1a8fdd9",
       "title": "Software Engineer @ Codes Health - Jobs",
       "company": "Codes Health",
@@ -186,6 +306,21 @@
       "fetched_at": "2026-06-11T15:24:52.093497+00:00"
     },
     {
+      "id": "b7f3d72f88d8",
+      "title": "Data Engineer I in Mumbai-SPECTRA, India - General Mills Careers",
+      "company": "SPECTRA, India - General Mills Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.generalmills.com/asia-locations/jobs/40324",
+      "source": "Other",
+      "description": "asia-locations is hiring a Data Engineer I in Mumbai-SPECTRA, India. Review all of the job details and apply today!",
+      "date": "2026-06-11",
+      "timestamp": "2026-06-11T11:05:20+00:00",
+      "fetched_at": "2026-06-11T18:38:12.704898+00:00"
+    },
+    {
       "id": "5e13f5287ef4",
       "title": "Software Engineer job in Singapore, Singapore | Research & Development jobs at Thermo ...",
       "company": "Thermo ...",
@@ -199,6 +334,21 @@
       "date": "2026-06-11",
       "timestamp": "2026-06-11T09:42:20+00:00",
       "fetched_at": "2026-06-11T15:24:52.013079+00:00"
+    },
+    {
+      "id": "5ca5ff02509e",
+      "title": "Senior Principal Data Engineer en Bengaluru, Karn\u0101taka, 560048 | Ing\u00e9nierie et AQ au HPE",
+      "company": "Ing\u00e9nierie et AQ au HPE",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.hpe.com/ca/fr/job/1207609/Senior-Principal-Data-Engineer",
+      "source": "Other",
+      "description": "Join us redefine what's next for you. About the Role. We are looking for a highly skilled Senior Principal Data Engineer with strong architectural ...",
+      "date": "2026-06-11",
+      "timestamp": "2026-06-11T08:22:12+00:00",
+      "fetched_at": "2026-06-11T18:38:12.705493+00:00"
     },
     {
       "id": "9b77ec3a53b4",
