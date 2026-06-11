@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-06-10T21:48:19.285438+00:00",
-  "total_jobs": 3508,
+  "last_updated": "2026-06-11T02:08:03.871769+00:00",
+  "total_jobs": 3522,
   "stats": {
-    "total_companies": 1904,
+    "total_companies": 1912,
     "total_roles": 62,
     "regions": {
-      "India": 2200,
+      "India": 2210,
       "Philippines": 749,
-      "Remote": 440,
+      "Remote": 444,
       "Unknown": 135
     },
     "sources": {
-      "Other": 2759,
+      "Other": 2771,
       "Greenhouse": 181,
-      "Workday": 164,
-      "LinkedIn": 121,
+      "Workday": 165,
+      "LinkedIn": 122,
       "Ashby": 107,
       "iCIMS": 38,
       "Breezy": 37,
@@ -31,10 +31,130 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-06-10"
+      "latest": "2026-06-11"
     }
   },
   "jobs": [
+    {
+      "id": "310a308a2765",
+      "title": "Sr. Cloud Engineer at MCKESSON",
+      "company": "MCKESSON",
+      "role": "Cloud Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mckesson.com/en/job/mississauga/sr-cloud-engineer/733/96272436432",
+      "source": "Other",
+      "description": "Sr. Cloud Engineer . Mississauga, Canada Job ID JR0148146 Category Infrastructure Engineering Post Date Jun. 10, 2026. Apply Save Job. McKesson is an ...",
+      "date": "2026-06-11",
+      "timestamp": "2026-06-11T01:27:43+00:00",
+      "fetched_at": "2026-06-11T02:08:03.683283+00:00"
+    },
+    {
+      "id": "562becf5330c",
+      "title": "Senior Data Engineer I - Remote - US - Samsara",
+      "company": "Remote - US - Samsara",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.samsara.com/company/careers/roles/7859702?gh_jid=7859702",
+      "source": "Other",
+      "description": "Our data engineers develop and maintain data pipelines integral to our analytics data model. As a Senior Data Engineer , your primary responsibility ...",
+      "date": "2026-06-11",
+      "timestamp": "2026-06-11T00:48:50+00:00",
+      "fetched_at": "2026-06-11T02:08:03.683991+00:00"
+    },
+    {
+      "id": "df930421e322",
+      "title": "AI Engineer - Myworkdayjobs.com",
+      "company": "Directsupply",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://directsupply.wd501.myworkdayjobs.com/direct-supply-careers/job/Durham-NC/AI-Engineer_REQ-2026-2440",
+      "source": "Workday",
+      "description": "AI Engineer \u00b7 About the Role \u00b7 Direct Supply is building AI systems that change how care is delivered to millions of seniors and support the people who ...",
+      "date": "2026-06-11",
+      "timestamp": "2026-06-11T00:47:03+00:00",
+      "fetched_at": "2026-06-11T02:08:03.684108+00:00"
+    },
+    {
+      "id": "53682b550665",
+      "title": "AI/ ML Engineer - ATAS - Open Rank - Atlanta, Georgia, United States - GTRI Careers",
+      "company": "ATAS - Open Rank - Atlanta, Georgia, United States - GTRI Careers",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.gtri.gatech.edu/jobs/ai-ml-engineer-atas-open-rank-atlanta-georgia-united-states",
+      "source": "Other",
+      "description": "AI/ ML Engineer - ATAS - Open Rank ... The Embedded Real-Time Software Engineer is responsible for developing hard real-time embedded systems software.",
+      "date": "2026-06-10",
+      "timestamp": "2026-06-10T23:39:48+00:00",
+      "fetched_at": "2026-06-11T02:08:03.684428+00:00"
+    },
+    {
+      "id": "b9e78030b6b1",
+      "title": "AI Engineer - Jobs - Tential",
+      "company": "Jobs - Tential",
+      "role": "AI Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://wordpress.tential.com/jobs/ai-engineer-19177/",
+      "source": "Other",
+      "description": "AI Engineer . Location: Remote - Remote. Category: Software Engineering ... Senior Software Engineer . Location: Rockville, Maryland - Remote.",
+      "date": "2026-06-10",
+      "timestamp": "2026-06-10T22:44:45+00:00",
+      "fetched_at": "2026-06-11T02:08:03.684908+00:00"
+    },
+    {
+      "id": "d5476f46f307",
+      "title": "Data Engineer , Partner Experience - Job ID: 10444729 - Amazon Careers",
+      "company": "Job ID: 10444729 - Amazon Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://amazon.jobs/en/jobs/10444729/data-engineer-partner-experience",
+      "source": "Other",
+      "description": "We are seeking a talented Data Engineer to enhance PCF Data's core data infrastructure by implementing AWS services to build data pipelines, improve ...",
+      "date": "2026-06-10",
+      "timestamp": "2026-06-10T22:35:23+00:00",
+      "fetched_at": "2026-06-11T02:08:03.685090+00:00"
+    },
+    {
+      "id": "259d66a54514",
+      "title": "Staff Software Engineer at Becton Dickinson & Company - Careers at BD",
+      "company": "Becton Dickinson & Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.bd.com/en/job/irvine/staff-software-engineer/159/96261816272",
+      "source": "Other",
+      "description": "Staff Software Engineer . In-Office, Irvine, CA. Apply Now Save Job. Job ID: R-547316. Category: Engineering. Location: Irvine, California. We are the ...",
+      "date": "2026-06-10",
+      "timestamp": "2026-06-10T21:30:34+00:00",
+      "fetched_at": "2026-06-11T02:08:03.685428+00:00"
+    },
+    {
+      "id": "77093de78dcd",
+      "title": "Docusign hiring Software Engineer in San Francisco, CA | LinkedIn",
+      "company": "LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/software-engineer-at-docusign-4426139234?position=25&pageNum=0&refId=yM6fszW5UNgIzGeaOFDBJA%3D%3D&trackingId=MA0cqLXLJp2n08NkandKNg%3D%3D",
+      "source": "LinkedIn",
+      "description": "Software Engineer . Docusign San Francisco, CA. 2 hours ago 74 applicants.",
+      "date": "2026-06-10",
+      "timestamp": "2026-06-10T20:53:49+00:00",
+      "fetched_at": "2026-06-11T02:08:03.685670+00:00"
+    },
     {
       "id": "8384a3842d89",
       "title": "Software Engineer - Cisco Careers",
@@ -51,6 +171,51 @@
       "fetched_at": "2026-06-10T21:48:18.908822+00:00"
     },
     {
+      "id": "53a9a99fa9c5",
+      "title": "Senior Software Engineer (Python) - Remote in Reston, Virginia, United States of America",
+      "company": "Remote in Reston, Virginia, United States of America",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.icf.com/us/en/job/R2602057/Senior-Software-Engineer-Python-Remote",
+      "source": "Other",
+      "description": "... DevOps Engineer - (US - Remote). Location Reston, Virginia, United ... Senior Software Engineer \u2013 Reston, VA. Location Reston, Virginia, United ...",
+      "date": "2026-06-10",
+      "timestamp": "2026-06-10T20:36:26+00:00",
+      "fetched_at": "2026-06-11T02:08:03.855411+00:00"
+    },
+    {
+      "id": "fa161319cc06",
+      "title": "Fullstack Engineer -AI | Everforth Apex",
+      "company": "AI | Everforth Apex",
+      "role": "Fullstack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.apexsystems.com/job/3034951_usa/fullstack-engineer-ai",
+      "source": "Other",
+      "description": "We are seeking a qualified Fullstack Engineer with a focus on AI. This position involves developing and maintaining software applications.",
+      "date": "2026-06-10",
+      "timestamp": "2026-06-10T20:35:39+00:00",
+      "fetched_at": "2026-06-11T02:08:03.685988+00:00"
+    },
+    {
+      "id": "56ca884afc73",
+      "title": "Backend Software Engineer , API Multicloud - OpenAI",
+      "company": "OpenAI",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://openai.com/careers/backend-software-engineer-api-multicloud-san-francisco/",
+      "source": "Other",
+      "description": "Backend Software Engineer , API Multicloud. Core Product & Platform | API ... We're looking for a backend engineer who can quickly understand ...",
+      "date": "2026-06-10",
+      "timestamp": "2026-06-10T20:23:37+00:00",
+      "fetched_at": "2026-06-11T02:08:03.686179+00:00"
+    },
+    {
       "id": "49422ef0e0c5",
       "title": "DevOps Engineer - Jobs | InEight",
       "company": "Jobs | InEight",
@@ -64,6 +229,51 @@
       "date": "2026-06-10",
       "timestamp": "2026-06-10T20:19:10+00:00",
       "fetched_at": "2026-06-10T21:48:18.909090+00:00"
+    },
+    {
+      "id": "30a3316709a5",
+      "title": "Hiring - Software Engineer (Java & AI) - Austin, TX (Locals Only) - Dice",
+      "company": "Hiring",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.dice.com/job-detail/555316f6-eaf9-4414-82c0-905ec2bd93d4",
+      "source": "Other",
+      "description": "Hiring - Software Engineer (Java & AI) - Austin, TX (Locals Only) ... AI Engineer - Remote. Remote or Nebraska. \u2022. Today. AI Engineer - Remote ...",
+      "date": "2026-06-10",
+      "timestamp": "2026-06-10T20:15:14+00:00",
+      "fetched_at": "2026-06-11T02:08:03.686535+00:00"
+    },
+    {
+      "id": "381e9570abec",
+      "title": "Senior Software Engineer (.NET) #610185 US-MN-Hopkins",
+      "company": "MN-Hopkins",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://recruit.hirebridge.com/v3/Jobs/JobDetails.aspx?cid=6875&jid=610185&locvalue=1142",
+      "source": "Other",
+      "description": "As a Senior Software Engineer , you'll serve as a technical authority and force multiplier for the team: setting direction, driving modernization ...",
+      "date": "2026-06-10",
+      "timestamp": "2026-06-10T20:07:58+00:00",
+      "fetched_at": "2026-06-11T02:08:03.686777+00:00"
+    },
+    {
+      "id": "67dd3ab80a4f",
+      "title": "AI/ ML Engineer | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.apexsystems.com/job/3030196_usa/aiml-engineer",
+      "source": "Other",
+      "description": "AI/ ML Engineer . Apply. Job#: 3030196. Job Description: Role: AI/ ML ... AI Engineer \u00b7 AI Engineer \u00b7 AI engineer \u00b7 AI Engineer \u00b7 AI Engineer . Connect ...",
+      "date": "2026-06-10",
+      "timestamp": "2026-06-10T19:58:48+00:00",
+      "fetched_at": "2026-06-11T02:08:03.686916+00:00"
     },
     {
       "id": "a2ba701e90a3",
