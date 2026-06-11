@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-06-11T02:08:03.871769+00:00",
-  "total_jobs": 3522,
+  "last_updated": "2026-06-11T08:25:15.942901+00:00",
+  "total_jobs": 3535,
   "stats": {
-    "total_companies": 1912,
+    "total_companies": 1918,
     "total_roles": 62,
     "regions": {
-      "India": 2210,
-      "Philippines": 749,
-      "Remote": 444,
+      "India": 2219,
+      "Philippines": 752,
+      "Remote": 445,
       "Unknown": 135
     },
     "sources": {
-      "Other": 2771,
+      "Other": 2783,
       "Greenhouse": 181,
       "Workday": 165,
       "LinkedIn": 122,
-      "Ashby": 107,
+      "Ashby": 108,
       "iCIMS": 38,
       "Breezy": 37,
       "Lever": 29,
@@ -35,6 +35,141 @@
     }
   },
   "jobs": [
+    {
+      "id": "f17d4a80b62d",
+      "title": "Junior Software Engineer",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://ats.rippling.com/icp-globalcareers/jobs/6adf2f8f-dc05-48a0-a891-9e037e3b4065",
+      "source": "Other",
+      "description": "Junior Software Engineer . About ICP. ICP is a global leader in Content Operations, partnering with some of the world's most recognizable brands, ...",
+      "date": "2026-06-11",
+      "timestamp": "2026-06-11T06:45:13+00:00",
+      "fetched_at": "2026-06-11T08:25:15.924632+00:00"
+    },
+    {
+      "id": "3c1555855fbe",
+      "title": "Junior Software Engineer",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/en-GB/icp-globalcareers/jobs/6adf2f8f-dc05-48a0-a891-9e037e3b4065",
+      "source": "Other",
+      "description": "Junior Software Engineer . About ICP. ICP is a global leader in Content Operations, partnering with some of the world's most recognizable brands, ...",
+      "date": "2026-06-11",
+      "timestamp": "2026-06-11T06:43:13+00:00",
+      "fetched_at": "2026-06-11T08:25:15.849670+00:00"
+    },
+    {
+      "id": "6a2c50ff813f",
+      "title": "Software Engineer_Frontend in Bengaluru 1499 | Technology at Lowes - Lowe's Careers",
+      "company": "Lowes",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://talent.lowes.com/in/en/job/JR-02476003/Software-Engineer-Frontend",
+      "source": "Other",
+      "description": "We are looking for a Senior Software Engineer to build optimized solutions for business problems using Golang and Kubernetes. Join our innovative ...",
+      "date": "2026-06-11",
+      "timestamp": "2026-06-11T05:53:52+00:00",
+      "fetched_at": "2026-06-11T08:25:15.924794+00:00"
+    },
+    {
+      "id": "6689a7c0b5a4",
+      "title": "Sr Software Engineer , AI Experience Job Details - Careers - NRG",
+      "company": "Careers - NRG",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.nrgenergy.com/SMARTHOMES/job/VIRTUAL-Sr-Software-Engineer%2C-AI-Experience-WA-00000/1398566300/",
+      "source": "Other",
+      "description": "Sr Software Engineer , AI Experience ... As an NRG employee, we encourage you to take charge of your career and development journey. We invite you to ...",
+      "date": "2026-06-11",
+      "timestamp": "2026-06-11T03:44:39+00:00",
+      "fetched_at": "2026-06-11T08:25:15.850283+00:00"
+    },
+    {
+      "id": "fe70c4b9b2bc",
+      "title": "Data Engineer - Data & Analytics @ Sardine - Jobs",
+      "company": "Sardine",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.ashbyhq.com/sardine/6c3dd41c-0ca6-47c5-86fb-bd5114f2a5ac",
+      "source": "Ashby",
+      "description": "Data Engineer - Data & Analytics. Location. United States. Employment Type. Full time. Location Type. Remote. Department. Engineering. Compensation.",
+      "date": "2026-06-11",
+      "timestamp": "2026-06-11T03:39:21+00:00",
+      "fetched_at": "2026-06-11T08:25:15.850402+00:00"
+    },
+    {
+      "id": "9331ca8c2755",
+      "title": "Senior Software Engineer - Code Gen | Datadog Careers",
+      "company": "Code Gen | Datadog Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.datadoghq.com/detail/7993198/?gh_jid=7993198",
+      "source": "Other",
+      "description": "Senior Software Engineer - Code Gen. New York, New York, USA. ]The Bits Code product is Datadog's cutting-edge coding agent, designed to take all of ...",
+      "date": "2026-06-11",
+      "timestamp": "2026-06-11T02:48:18+00:00",
+      "fetched_at": "2026-06-11T08:25:15.925271+00:00"
+    },
+    {
+      "id": "137638dac9d4",
+      "title": "Sr. Staff Software Engineer , Advertiser and Seller Experience - Pinterest Careers",
+      "company": "Pinterest Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.pinterestcareers.com/jobs/7842999/sr-staff-software-engineer-advertiser-and-seller-experience/",
+      "source": "Other",
+      "description": "You can read more about our AI interview philosophy and how we use AI in our recruiting process here. We're hiring a Senior Staff Software Engineer ...",
+      "date": "2026-06-11",
+      "timestamp": "2026-06-11T02:35:52+00:00",
+      "fetched_at": "2026-06-11T08:25:15.850638+00:00"
+    },
+    {
+      "id": "e5b39670ab64",
+      "title": "Software Engineer I | Atlanta, GA US - Jobs at Coca-Cola",
+      "company": "Coca",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.coca-colacompany.com/job/23484808/software-engineer-i-atlanta-ga/",
+      "source": "Other",
+      "description": "Senior Software Engineer - CRM. Atlanta, GA. Senior Software Engineer . Atlanta, GA. Software Engineer II. Atlanta, GA. More To Enjoy. Discover more ...",
+      "date": "2026-06-11",
+      "timestamp": "2026-06-11T02:22:03+00:00",
+      "fetched_at": "2026-06-11T08:25:15.925419+00:00"
+    },
+    {
+      "id": "e4f62a6dcda9",
+      "title": "Data Engineer (GCP) x2 job - Experis USA - 395313",
+      "company": "Experis USA - 395313",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.experis.com/en/job/395313/data-engineer-gcp-x2",
+      "source": "Other",
+      "description": "As a Data Engineer (GCP), you will be part of the Global Risk & Compliance Technology (GRCT) supporting innovative data solutions. The ideal candidate ...",
+      "date": "2026-06-11",
+      "timestamp": "2026-06-11T01:49:16+00:00",
+      "fetched_at": "2026-06-11T08:25:15.850788+00:00"
+    },
     {
       "id": "310a308a2765",
       "title": "Sr. Cloud Engineer at MCKESSON",
@@ -81,6 +216,21 @@
       "fetched_at": "2026-06-11T02:08:03.684108+00:00"
     },
     {
+      "id": "f3387682e48e",
+      "title": "Senior Software Engineer , IRVING, Texas | Wells Fargo",
+      "company": "Wells Fargo",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.wellsfargojobs.com/en/jobs/r-548432/senior-software-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer . IRVING. Technology; Full time; 10 Jun 2026; R-548432. About this role: At Wells Fargo, we want to satisfy our customers ...",
+      "date": "2026-06-11",
+      "timestamp": "2026-06-11T00:23:08+00:00",
+      "fetched_at": "2026-06-11T08:25:15.851367+00:00"
+    },
+    {
       "id": "53682b550665",
       "title": "AI/ ML Engineer - ATAS - Open Rank - Atlanta, Georgia, United States - GTRI Careers",
       "company": "ATAS - Open Rank - Atlanta, Georgia, United States - GTRI Careers",
@@ -94,6 +244,21 @@
       "date": "2026-06-10",
       "timestamp": "2026-06-10T23:39:48+00:00",
       "fetched_at": "2026-06-11T02:08:03.684428+00:00"
+    },
+    {
+      "id": "2401a1d809fb",
+      "title": "Software Engineer - Backend Systems, Insights & Release Technologies - Jobs",
+      "company": "Backend Systems, Insights & Release Technologies - Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200667543-0836/software-engineer-backend-systems-insights-release-technologies",
+      "source": "Other",
+      "description": "Software Engineer - Backend Systems, Insights & Release Technologies ... We are looking for a passionate and experienced Backend / DevOps Engineer ...",
+      "date": "2026-06-10",
+      "timestamp": "2026-06-10T23:23:16+00:00",
+      "fetched_at": "2026-06-11T08:25:15.852092+00:00"
     },
     {
       "id": "b9e78030b6b1",
@@ -124,6 +289,36 @@
       "date": "2026-06-10",
       "timestamp": "2026-06-10T22:35:23+00:00",
       "fetched_at": "2026-06-11T02:08:03.685090+00:00"
+    },
+    {
+      "id": "7a102bdc35b8",
+      "title": "Agentic AI- Software Engineer II - - 350996 - Deloitte",
+      "company": "Agentic AI",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://usijobs.deloitte.com/en_US/careersUSI/JobDetail/USI-EH27-Consulting-Services-AI-E-EaaS-SWE-Software-Engineer-II-Agentic-AI-Engineer/350996",
+      "source": "Other",
+      "description": "As a Software Engineer II on the AI & Engineering team, you will be responsible for: Designing, building, and deploying agentic AI solutions, ...",
+      "date": "2026-06-10",
+      "timestamp": "2026-06-10T22:10:51+00:00",
+      "fetched_at": "2026-06-11T08:25:15.852807+00:00"
+    },
+    {
+      "id": "26205ff17e3e",
+      "title": "Senior DevOps Engineer (Cloud Platform) - TeamBuilder - Career Page - JazzHR",
+      "company": "TeamBuilder - Career Page - JazzHR",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://teambuilder.applytojob.com/apply/C5sZBVaWl1/Senior-DevOps-Engineer-Cloud-Platform",
+      "source": "Other",
+      "description": "Apply to Senior DevOps Engineer (Cloud Platform) at TeamBuilder in New York, NY ... We are seeking an experienced DevOps / Cloud Platform Engineer to ...",
+      "date": "2026-06-10",
+      "timestamp": "2026-06-10T21:39:56+00:00",
+      "fetched_at": "2026-06-11T08:25:15.853369+00:00"
     },
     {
       "id": "259d66a54514",
