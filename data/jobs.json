@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-06-12T17:55:22.927972+00:00",
-  "total_jobs": 3628,
+  "last_updated": "2026-06-12T21:21:45.300256+00:00",
+  "total_jobs": 3643,
   "stats": {
-    "total_companies": 1958,
+    "total_companies": 1965,
     "total_roles": 62,
     "regions": {
-      "India": 2288,
-      "Philippines": 769,
-      "Remote": 452,
+      "India": 2298,
+      "Philippines": 772,
+      "Remote": 454,
       "Unknown": 135
     },
     "sources": {
-      "Other": 2858,
+      "Other": 2868,
       "Greenhouse": 188,
-      "Workday": 168,
+      "Workday": 171,
       "LinkedIn": 124,
-      "Ashby": 112,
-      "iCIMS": 39,
+      "Ashby": 113,
+      "iCIMS": 40,
       "Breezy": 37,
       "Lever": 29,
       "Workable": 22,
@@ -36,6 +36,171 @@
   },
   "jobs": [
     {
+      "id": "7440fdf91bb8",
+      "title": "Senior Software Engineer - Piper Companies",
+      "company": "Piper Companies",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.pipercompanies.com/details/167646/senior_software_engineer",
+      "source": "Other",
+      "description": "Responsibilities of the Senior Software Engineer : Design core platform services, applications, and artificial intelligence workflows with a primary ...",
+      "date": "2026-06-12",
+      "timestamp": "2026-06-12T20:05:52+00:00",
+      "fetched_at": "2026-06-12T21:21:45.200463+00:00"
+    },
+    {
+      "id": "90c42facee41",
+      "title": "Open Role \u2014 Senior Staff DevOps Engineer - Ripple",
+      "company": "Ripple",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ripple.com/careers/all-jobs/job/8002049?gh_jid=8002049",
+      "source": "Other",
+      "description": "Senior Staff DevOps Engineer . Chicago, Illinois, United States. Please ... The Senior Staff Software Engineer , DevOps will contribute to the ...",
+      "date": "2026-06-12",
+      "timestamp": "2026-06-12T19:56:52+00:00",
+      "fetched_at": "2026-06-12T21:21:45.200787+00:00"
+    },
+    {
+      "id": "b9e8b3a5ec8d",
+      "title": "Software Engineer \u2013 N-Tiered Software Developer - Chicago, IL - Careers at",
+      "company": "Software Engineer \u2013 N",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.wolve.com/en/postings/ce3f9cb7-4219-4676-8241-5c8b7903d4c6",
+      "source": "Other",
+      "description": "Software Engineer \u2013 N-Tiered Software Developer. Join a small, talented team of developers at Wolverine Asset Management to solve the business's ...",
+      "date": "2026-06-12",
+      "timestamp": "2026-06-12T19:11:51+00:00",
+      "fetched_at": "2026-06-12T21:21:45.200973+00:00"
+    },
+    {
+      "id": "46eec1830b07",
+      "title": "Full Stack Engineer - Job Detail | Careers Marketplace - Siemens",
+      "company": "Job Detail | Careers Marketplace - Siemens",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/510001",
+      "source": "Other",
+      "description": "Full Stack Engineer . Job ID. 510001. Posted since. 11-Jun-2026 ... Senior Software Engineer . Charlotte, North Carolina, United States of ...",
+      "date": "2026-06-12",
+      "timestamp": "2026-06-12T18:50:34+00:00",
+      "fetched_at": "2026-06-12T21:21:45.201170+00:00"
+    },
+    {
+      "id": "68bcebaedc7a",
+      "title": "Software Engineer - Auburn Hills - Careers at Stellantis",
+      "company": "Stellantis",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.stellantis.com/job/23489696/software-engineer-auburn-hills-mi/",
+      "source": "Other",
+      "description": "Discover Software Engineer and other Engineering jobs at Stellantis in Auburn Hills, MI, US, and apply online today!",
+      "date": "2026-06-12",
+      "timestamp": "2026-06-12T18:40:55+00:00",
+      "fetched_at": "2026-06-12T21:21:45.201317+00:00"
+    },
+    {
+      "id": "a3f0c9b36837",
+      "title": "Data Engineer job - Experis USA - 400955",
+      "company": "Experis USA - 400955",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.experis.com/en/job/400955/data-engineer",
+      "source": "Other",
+      "description": "Our client is seeking Data Engineer to join their team. Job Description : Data Engineer Work Location: Remote Contract 1. IDMC 2. Snowflake 3. ETL",
+      "date": "2026-06-12",
+      "timestamp": "2026-06-12T18:25:46+00:00",
+      "fetched_at": "2026-06-12T21:21:45.201441+00:00"
+    },
+    {
+      "id": "c3f4652829eb",
+      "title": "Senior Software Engineer - Logo - Myworkdayjobs.com",
+      "company": "Pureinsurance",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://pureinsurance.wd5.myworkdayjobs.com/PURE/job/Remote---US/Senior-Software-Engineer_R2674",
+      "source": "Workday",
+      "description": "Senior Software Engineer ... About the role: We are seeking an analytically minded Python developer to help build an in-house rating engine at PURE. The ...",
+      "date": "2026-06-12",
+      "timestamp": "2026-06-12T18:00:51+00:00",
+      "fetched_at": "2026-06-12T21:21:45.201522+00:00"
+    },
+    {
+      "id": "3488b6aed769",
+      "title": "Senior AI Engineer - Myworkdayjobs.com",
+      "company": "Bristolmyerssquibb",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Brisbane---CA/Senior-AI-Engineer_R1603458-1",
+      "source": "Workday",
+      "description": "... AI Engineer within Bristol ... Senior Data Engineer . locations: 2 Locations. time type: Full time. posted on: Posted 2 Days Ago. Senior Cloud Engineer .",
+      "date": "2026-06-12",
+      "timestamp": "2026-06-12T17:36:39+00:00",
+      "fetched_at": "2026-06-12T21:21:45.201615+00:00"
+    },
+    {
+      "id": "50c21a67725e",
+      "title": "Software Engineer I - WGU - Myworkdayjobs.com",
+      "company": "Wgu",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Software-Engineer-I_JR-025400",
+      "source": "Workday",
+      "description": "As a Software Engineer I, you'll contribute directly to building and evolving modern applications that support WGU's digital experiences. You'll work ...",
+      "date": "2026-06-12",
+      "timestamp": "2026-06-12T17:30:36+00:00",
+      "fetched_at": "2026-06-12T21:21:45.201703+00:00"
+    },
+    {
+      "id": "ee2d48985a7d",
+      "title": "Data Engineer I Job Details - Relias - Create Your Own Career",
+      "company": "Relias - Create Your Own Career",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobsearch.createyourowncareer.com/Relias_Learning/job/Morrisville-Data-Engineer-I-NC-27560/289680-en_US/",
+      "source": "Other",
+      "description": "Are you looking for a high energy, strategic, and fast-paced position as a Data Engineer I? Join Relias, the company changing lives throughout the ...",
+      "date": "2026-06-12",
+      "timestamp": "2026-06-12T17:25:49+00:00",
+      "fetched_at": "2026-06-12T21:21:45.201905+00:00"
+    },
+    {
+      "id": "6aee891cf898",
+      "title": "Staff Data Platform Engineer @ Tilt Finance - Jobs",
+      "company": "Tilthq",
+      "role": "Platform Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/tilthq/d652a8a7-ac54-45db-9699-d0f25e4574f1",
+      "source": "Ashby",
+      "description": "... PLATFORM ENGINEER Tilt runs on data-driven decisions, and our Data Platform is what makes that possible. Over the last two years our team built ...",
+      "date": "2026-06-12",
+      "timestamp": "2026-06-12T17:17:58+00:00",
+      "fetched_at": "2026-06-12T21:21:45.282613+00:00"
+    },
+    {
       "id": "3c39b5690e01",
       "title": "AI Research Software Engineer - LBL Careers",
       "company": "LBL Careers",
@@ -49,6 +214,51 @@
       "date": "2026-06-12",
       "timestamp": "2026-06-12T16:54:50+00:00",
       "fetched_at": "2026-06-12T17:55:22.830454+00:00"
+    },
+    {
+      "id": "a90c3ede7198",
+      "title": "Data Engineer Job Details - Corning Careers",
+      "company": "Corning Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://corningjobs.corning.com/job/Phoenix-Data-Engineer-AZ-85353/1399225900/",
+      "source": "Other",
+      "description": "Working closely with AMPS leadership, functional teams, IT, and business stakeholders, the Data Engineer will help define data requirements, reporting ...",
+      "date": "2026-06-12",
+      "timestamp": "2026-06-12T16:39:09+00:00",
+      "fetched_at": "2026-06-12T21:21:45.283227+00:00"
+    },
+    {
+      "id": "50486992fa49",
+      "title": "Senior Software Engineer in Boston, Massachusetts | Careers at Boston, MA - Liberty Mutual",
+      "company": "Boston, MA",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers-libertymutual.icims.com/jobs/76351/senior-software-engineer/job",
+      "source": "iCIMS",
+      "description": "The USRM Servicing Technology group is seeking to hire a Senior Software Engineer for a team in our Automation portfolio. In this role you will work ...",
+      "date": "2026-06-12",
+      "timestamp": "2026-06-12T16:20:41+00:00",
+      "fetched_at": "2026-06-12T21:21:45.283356+00:00"
+    },
+    {
+      "id": "291c21c18278",
+      "title": "Data Engineer I in Mumbai-SPECTRA, India - General Mills Careers",
+      "company": "SPECTRA, India - General Mills Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.generalmills.com/na/jobs/40318",
+      "source": "Other",
+      "description": "na is hiring a Data Engineer I in Mumbai-SPECTRA, India. Review all of the job details and apply today!",
+      "date": "2026-06-12",
+      "timestamp": "2026-06-12T16:20:07+00:00",
+      "fetched_at": "2026-06-12T21:21:45.202498+00:00"
     },
     {
       "id": "afbbc2c6d730",
@@ -79,6 +289,21 @@
       "date": "2026-06-12",
       "timestamp": "2026-06-12T16:07:52+00:00",
       "fetched_at": "2026-06-12T17:55:22.830945+00:00"
+    },
+    {
+      "id": "bff650fcf3d7",
+      "title": "AI Engineer Full Course | Artificial Intelligence Tutorial For Beginners | #Shorts - YouTube",
+      "company": "Artificial Intelligence Tutorial For Beginners | #Shorts - YouTube",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.youtube.com/shorts/W1T2G5UH3Ao",
+      "source": "Other",
+      "description": "... AI Engineer Program - https://www.simplilearn.com/ ai-engineer -course?utm_campaign=ReplaceWithVideoID&utm_medium=ShortsDescription&utm_source ...",
+      "date": "2026-06-12",
+      "timestamp": "2026-06-12T16:05:03+00:00",
+      "fetched_at": "2026-06-12T21:21:45.203152+00:00"
     },
     {
       "id": "e691a845653a",
