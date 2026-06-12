@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-06-12T02:03:48.998405+00:00",
-  "total_jobs": 3594,
+  "last_updated": "2026-06-12T08:13:10.282011+00:00",
+  "total_jobs": 3604,
   "stats": {
-    "total_companies": 1944,
+    "total_companies": 1949,
     "total_roles": 62,
     "regions": {
-      "India": 2262,
-      "Philippines": 765,
+      "India": 2270,
+      "Philippines": 767,
       "Remote": 448,
       "Unknown": 135
     },
     "sources": {
-      "Other": 2831,
+      "Other": 2840,
       "Greenhouse": 186,
       "Workday": 168,
       "LinkedIn": 122,
-      "Ashby": 110,
+      "Ashby": 111,
       "iCIMS": 39,
       "Breezy": 37,
       "Lever": 29,
@@ -31,10 +31,85 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-06-11"
+      "latest": "2026-06-12"
     }
   },
   "jobs": [
+    {
+      "id": "ffc77b42983f",
+      "title": "ML Engineer , Agentic Systems @ Mirage - Jobs",
+      "company": "Mirage",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/mirage/76ce0b2f-70f3-490c-a7d7-9a191258f49e",
+      "source": "Ashby",
+      "description": "... ML Engineer to push the boundaries of large language models for multimodal creative tasks. You'll develop new approaches for building and ...",
+      "date": "2026-06-12",
+      "timestamp": "2026-06-12T06:08:56+00:00",
+      "fetched_at": "2026-06-12T08:13:10.197965+00:00"
+    },
+    {
+      "id": "426b17945df3",
+      "title": "Software Engineer Job Details | PacifiCorp",
+      "company": "PacifiCorp",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.pacificorp.com/job/PORTLAND-Software-Engineer-OR-97232/1399028900/",
+      "source": "Other",
+      "description": "PORTLAND Software Engineer - OR, 97232.",
+      "date": "2026-06-12",
+      "timestamp": "2026-06-12T02:44:04+00:00",
+      "fetched_at": "2026-06-12T08:13:10.199062+00:00"
+    },
+    {
+      "id": "63b0ab612257",
+      "title": "Software Engineer , Reliability Platforms - DoorDash",
+      "company": "DoorDash",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careersatdoordash.com/jobs/software-engineer-reliability-platforms/7994290",
+      "source": "Other",
+      "description": "Software Engineer , Reliability Platforms. Apply To Job. Job ID: 3467821. DoorDash, Inc. San Francisco, CA; Sunnyvale, CA; New York, NY. About the Team.",
+      "date": "2026-06-12",
+      "timestamp": "2026-06-12T01:11:26+00:00",
+      "fetched_at": "2026-06-12T08:13:10.199625+00:00"
+    },
+    {
+      "id": "43dda95da3e3",
+      "title": "Software Engineer (C++ and Python) - Cognyte",
+      "company": "Cognyte",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.cognyte.com/careers/5C.C6A/software-engineer-c-and-python/",
+      "source": "Other",
+      "description": "... Software Engineer with strong algorithmic thinking, problem-solving skills, and hands-on software development experience. While experience in ...",
+      "date": "2026-06-12",
+      "timestamp": "2026-06-12T00:55:31+00:00",
+      "fetched_at": "2026-06-12T08:13:10.199799+00:00"
+    },
+    {
+      "id": "c7e15c30fcb7",
+      "title": "Software Engineer - FoundationDB - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200668121-0836/software-engineer-foundationdb?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Software Engineer - FoundationDB job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-06-12",
+      "timestamp": "2026-06-12T00:23:00+00:00",
+      "fetched_at": "2026-06-12T08:13:10.199973+00:00"
+    },
     {
       "id": "597854ffa2c4",
       "title": "Full Stack Software Engineer , Codex | OpenAI",
@@ -49,6 +124,51 @@
       "date": "2026-06-11",
       "timestamp": "2026-06-11T23:15:24+00:00",
       "fetched_at": "2026-06-12T02:03:48.681504+00:00"
+    },
+    {
+      "id": "fc6fd2fac21b",
+      "title": "DevOps Engineer at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/santa-clara/devops-engineer/47263/96314287168",
+      "source": "Other",
+      "description": "We are seeking a high-level DevOps Platform Engineer to lead the evolution of our Multi-Cloud Platform. ... Principal Software Engineer ...",
+      "date": "2026-06-11",
+      "timestamp": "2026-06-11T22:53:15+00:00",
+      "fetched_at": "2026-06-12T08:13:10.200389+00:00"
+    },
+    {
+      "id": "9c18233859d1",
+      "title": "Data Engineer II - American Express Careers",
+      "company": "American Express Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26009300",
+      "source": "Other",
+      "description": "Data Engineer II. Phoenix, AZ, United States (Hybrid). Apply Now. Job Description. Joining Amex Tech means discovering and shaping your contribution ...",
+      "date": "2026-06-11",
+      "timestamp": "2026-06-11T22:41:37+00:00",
+      "fetched_at": "2026-06-12T08:13:10.200532+00:00"
+    },
+    {
+      "id": "667cd9f38bf9",
+      "title": "Software Engineer , Simulation Sr. Stf - Level 5 - Lockheed Martin Careers",
+      "company": "Level 5 - Lockheed Martin Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.lockheedmartinjobs.com/job/fort-worth/software-engineer-simulation-sr-stf-level-5/694/96315404432",
+      "source": "Other",
+      "description": "Job Responsibilities. Job ID: 732204BR Date posted: Jun. 11, 2026. Description: You will be the Software Engineer , Simulation ...",
+      "date": "2026-06-11",
+      "timestamp": "2026-06-11T22:23:31+00:00",
+      "fetched_at": "2026-06-12T08:13:10.200809+00:00"
     },
     {
       "id": "31b4351eb125",
@@ -169,6 +289,36 @@
       "date": "2026-06-11",
       "timestamp": "2026-06-11T21:22:19+00:00",
       "fetched_at": "2026-06-12T02:03:48.682877+00:00"
+    },
+    {
+      "id": "117d9be22d79",
+      "title": "Sr. Software Engineer , Siri Speech - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200667547-0836/sr-software-engineer-siri-speech?team=MLAI",
+      "source": "Other",
+      "description": "We are seeking an exceptional Senior Software Engineer to lead the design and development of the next-generation Speech-to-Text APIs. In this role ...",
+      "date": "2026-06-11",
+      "timestamp": "2026-06-11T21:21:51+00:00",
+      "fetched_at": "2026-06-12T08:13:10.265872+00:00"
+    },
+    {
+      "id": "3a5d0b16a2c8",
+      "title": "Platform Engineer - GraphQL/API in Dublin, Ireland - eBay Jobs",
+      "company": "GraphQL/API in Dublin, Ireland - eBay Jobs",
+      "role": "Platform Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ebayinc.com/us/en/job/R0074499/Platform-Engineer-GraphQL-API",
+      "source": "Other",
+      "description": "Platform Engineer - GraphQL/API. Apply Now. Back to search results ... Hadoop Software Engineer . Location Dublin, Ireland. Graduate SWE \u2013 Data ...",
+      "date": "2026-06-11",
+      "timestamp": "2026-06-11T21:18:19+00:00",
+      "fetched_at": "2026-06-12T08:13:10.266045+00:00"
     },
     {
       "id": "06a82cc21765",
