@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-06-12T21:21:45.300256+00:00",
-  "total_jobs": 3643,
+  "last_updated": "2026-06-13T01:57:22.923179+00:00",
+  "total_jobs": 3660,
   "stats": {
-    "total_companies": 1965,
+    "total_companies": 1973,
     "total_roles": 62,
     "regions": {
-      "India": 2298,
-      "Philippines": 772,
-      "Remote": 454,
+      "India": 2309,
+      "Philippines": 776,
+      "Remote": 456,
       "Unknown": 135
     },
     "sources": {
-      "Other": 2868,
-      "Greenhouse": 188,
-      "Workday": 171,
-      "LinkedIn": 124,
+      "Other": 2881,
+      "Greenhouse": 189,
+      "Workday": 172,
+      "LinkedIn": 125,
       "Ashby": 113,
       "iCIMS": 40,
-      "Breezy": 37,
+      "Breezy": 38,
       "Lever": 29,
       "Workable": 22,
       "SmartRecruiters": 19,
@@ -35,6 +35,141 @@
     }
   },
   "jobs": [
+    {
+      "id": "004e65b330f4",
+      "title": "Data Engineer at Empower",
+      "company": "Empower",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.empower.com/job/united-states/data-engineer/42743/96361050224",
+      "source": "Other",
+      "description": "Data Engineer . Job ID R.0059476 Date posted 06/12/2026 Worker type Regular Workplace flexibility Remote - Nationwide. Apply Save. Our vision for the ...",
+      "date": "2026-06-12",
+      "timestamp": "2026-06-12T23:14:55+00:00",
+      "fetched_at": "2026-06-13T01:57:22.536252+00:00"
+    },
+    {
+      "id": "ee60fd2e592a",
+      "title": "DevOps Engineer at Clever Real Estate",
+      "company": "Clever Real Estate",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://clever-real-estate.breezy.hr/p/3dfdf2b7addf-devops-engineer",
+      "source": "Breezy",
+      "description": "DevOps Engineer Location: Remote [United States] Salary: $140-160k base + bonus & equity About CleverClever is a venture-backed real estate ...",
+      "date": "2026-06-12",
+      "timestamp": "2026-06-12T22:51:58+00:00",
+      "fetched_at": "2026-06-13T01:57:22.536405+00:00"
+    },
+    {
+      "id": "96e30a0225e9",
+      "title": "EOI - Recruitment of Senior Software Engineer / Software Architect - TCIS",
+      "company": "EOI",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.afdb.org/en/consultants/eoi-recruitment-senior-software-engineer/software-architect-tcis-94381",
+      "source": "Other",
+      "description": "EOI - Recruitment of Senior Software Engineer / Software Architect - TCIS. afdb_default_banner_hidden_class.jpg. Consultant type: Individual ...",
+      "date": "2026-06-12",
+      "timestamp": "2026-06-12T22:09:08+00:00",
+      "fetched_at": "2026-06-13T01:57:22.536816+00:00"
+    },
+    {
+      "id": "b85364270ad5",
+      "title": "AI Machine Learning Engineer - Myworkdayjobs.com",
+      "company": "Thehartford",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/AI-Machine-Learning-Engineer_R2625795",
+      "source": "Workday",
+      "description": "Data Engineer - GE08AE We're determined to make a difference and are proud ... AI Engineer , you will play a key role in contributing to the ...",
+      "date": "2026-06-12",
+      "timestamp": "2026-06-12T21:39:33+00:00",
+      "fetched_at": "2026-06-13T01:57:22.536931+00:00"
+    },
+    {
+      "id": "c0d5f254460b",
+      "title": "Jr Data Engineer Job Details | UGI Corporation",
+      "company": "UGI Corporation",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.ugicorp.com/AmeriGas/job/King-Of-Prussia-Jr-Data-Engineer-PA-19406/1399409000/",
+      "source": "Other",
+      "description": "Jr Data Engineer . Location: King Of Prussia, PA, US, 19406. Workplace Environment: Hybrid. Company: AmeriGas Propane, Inc. Requisition Number: 29752.",
+      "date": "2026-06-12",
+      "timestamp": "2026-06-12T21:20:17+00:00",
+      "fetched_at": "2026-06-13T01:57:22.537297+00:00"
+    },
+    {
+      "id": "b91f6bf87052",
+      "title": "Senior Snowflake Data Engineer Modern Data Platforms & AI Exposure - V.L.S. Systems, Inc",
+      "company": "V.L.S. Systems, Inc",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.dice.com/job-detail/807040ad-f5e4-4080-8b00-7e89e7a5fb73",
+      "source": "Other",
+      "description": "3 hours ago - Senior Snowflake Data Engineer Modern Data Platforms & AI ExposureExperience: 8 10 YearsLocation: Oregon (Local candidates ...",
+      "date": "2026-06-12",
+      "timestamp": "2026-06-12T21:04:25+00:00",
+      "fetched_at": "2026-06-13T01:57:22.537488+00:00"
+    },
+    {
+      "id": "4cdd0aed6f1c",
+      "title": "Machine Learning Engineer - Large Language Models & Generative AI Inference - Jobs",
+      "company": "Large Language Models & Generative AI Inference - Jobs",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200667252-0836/machine-learning-engineer-large-language-models-generative-ai-inference?team=MLAI",
+      "source": "Other",
+      "description": "Apply for a Machine Learning Engineer - Large Language Models & Generative AI Inference job at Apple. Read about the role and find out if it's ...",
+      "date": "2026-06-12",
+      "timestamp": "2026-06-12T20:35:01+00:00",
+      "fetched_at": "2026-06-13T01:57:22.537960+00:00"
+    },
+    {
+      "id": "9b4ea6ca9086",
+      "title": "Job Application for Senior Software Engineer at Otter - Greenhouse",
+      "company": "Otter",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/otter/jobs/8355059002",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer . Seattle, WA. Apply. Who we are. In the past, to be a successful restaurateur, you simply had to have a passion for food and ...",
+      "date": "2026-06-12",
+      "timestamp": "2026-06-12T20:26:48+00:00",
+      "fetched_at": "2026-06-13T01:57:22.906015+00:00"
+    },
+    {
+      "id": "7b7bffd0aa70",
+      "title": "Software Engineer Infrastructure - Chime Careers",
+      "company": "Chime Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.chime.com/jobs/8573625002/software-engineer-infrastructure",
+      "source": "Other",
+      "description": "Software Engineer , Infrastructure ... Copy URL to clipboard. About the role. You'd be joining the Data Infra team \u2014 a small, high- ...",
+      "date": "2026-06-12",
+      "timestamp": "2026-06-12T20:26:05+00:00",
+      "fetched_at": "2026-06-13T01:57:22.538142+00:00"
+    },
     {
       "id": "7440fdf91bb8",
       "title": "Senior Software Engineer - Piper Companies",
@@ -66,6 +201,81 @@
       "fetched_at": "2026-06-12T21:21:45.200787+00:00"
     },
     {
+      "id": "4da0f2a4dc9c",
+      "title": "eSimplicity - Senior DevOps Engineer - Paylocity",
+      "company": "eSimplicity",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://recruiting.paylocity.com/recruiting/jobs/Details/4243738/eSimplicity/Senior-DevOps-Engineer",
+      "source": "Other",
+      "description": "Experience with Atlassian Jira and Confluence. Desired Qualifications: AWS DevOps Engineer Professional certification; AWS Solutions Architect ...",
+      "date": "2026-06-12",
+      "timestamp": "2026-06-12T19:51:03+00:00",
+      "fetched_at": "2026-06-13T01:57:22.906792+00:00"
+    },
+    {
+      "id": "64c582662efc",
+      "title": "Staff Machine Learning Engineer , Platform & Production - WBD Careers",
+      "company": "WBD Careers",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.wbd.com/global/en/job/R000092181/Staff-Machine-Learning-Engineer-Platform-Production",
+      "source": "Other",
+      "description": "Staff Machine Learning Engineer , Platform & Production. Apply Now. Back to ... Senior Software Engineer - Roku. CNN Job Type Full time Job Id ...",
+      "date": "2026-06-12",
+      "timestamp": "2026-06-12T19:31:55+00:00",
+      "fetched_at": "2026-06-13T01:57:22.538643+00:00"
+    },
+    {
+      "id": "61848ed56771",
+      "title": "Galent hiring Senior Machine Learning Engineer in San Jose, CA | LinkedIn",
+      "company": "LinkedIn",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-at-galent-4424893594",
+      "source": "LinkedIn",
+      "description": "Senior AI Engineer - Machine Learning (US). Gauss Labs. Palo Alto, CA ... Senior Software Engineer , Algorithms + ML. ALSO. Palo Alto, CA 8 hours ...",
+      "date": "2026-06-12",
+      "timestamp": "2026-06-12T19:29:56+00:00",
+      "fetched_at": "2026-06-13T01:57:22.907199+00:00"
+    },
+    {
+      "id": "5db70c5a0ab8",
+      "title": "Data Engineer - - 125786 - Booz | Allen | Hamilton \u00ae",
+      "company": "- 125786 - Booz | Allen | Hamilton \u00ae",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.boozallen.com/jobs/JobDetail?jobId=125786",
+      "source": "Other",
+      "description": "As a data engineer at Booz Allen, you'll use your expertise to help build advanced technology solutions and lead data engineering activities on some ...",
+      "date": "2026-06-12",
+      "timestamp": "2026-06-12T19:16:28+00:00",
+      "fetched_at": "2026-06-13T01:57:22.538853+00:00"
+    },
+    {
+      "id": "a757bd2390ac",
+      "title": "Software Engineer \u2013 N-Tiered Software Developer - Chicago, IL | Wolverine Careers",
+      "company": "Software Engineer \u2013 N",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.wolve.com/postings/ce3f9cb7-4219-4676-8241-5c8b7903d4c6",
+      "source": "Other",
+      "description": "Join Wolverine in Technology, Chicago, IL as a Software Engineer \u2013 N-Tiered Software Developer.",
+      "date": "2026-06-12",
+      "timestamp": "2026-06-12T19:13:53+00:00",
+      "fetched_at": "2026-06-13T01:57:22.539019+00:00"
+    },
+    {
       "id": "b9e8b3a5ec8d",
       "title": "Software Engineer \u2013 N-Tiered Software Developer - Chicago, IL - Careers at",
       "company": "Software Engineer \u2013 N",
@@ -79,6 +289,21 @@
       "date": "2026-06-12",
       "timestamp": "2026-06-12T19:11:51+00:00",
       "fetched_at": "2026-06-12T21:21:45.200973+00:00"
+    },
+    {
+      "id": "50b3ceabbc32",
+      "title": "Site Reliability Engineer (SRE) job in Bangalore, Karnataka, India - Philips Careers",
+      "company": "Philips Careers",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.careers.philips.com/global/en/job/583553/Site-Reliability-Engineer-SRE",
+      "source": "Other",
+      "description": "Apply for Site Reliability Engineer (SRE) job with Philips in Bangalore, Karnataka, India. Browse and apply for Software development jobs at ...",
+      "date": "2026-06-12",
+      "timestamp": "2026-06-12T19:08:42+00:00",
+      "fetched_at": "2026-06-13T01:57:22.539336+00:00"
     },
     {
       "id": "46eec1830b07",
@@ -96,6 +321,21 @@
       "fetched_at": "2026-06-12T21:21:45.201170+00:00"
     },
     {
+      "id": "72d31238a511",
+      "title": "Software Engineer - Piper Companies",
+      "company": "Piper Companies",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.pipercompanies.com/details/167672/software_engineer",
+      "source": "Other",
+      "description": "Requirements of the Software Engineer : 2-5 years of full stack engineer experience is needed; Bachelor's degree in Computer Science; Proficient in ...",
+      "date": "2026-06-12",
+      "timestamp": "2026-06-12T18:41:42+00:00",
+      "fetched_at": "2026-06-13T01:57:22.908187+00:00"
+    },
+    {
       "id": "68bcebaedc7a",
       "title": "Software Engineer - Auburn Hills - Careers at Stellantis",
       "company": "Stellantis",
@@ -109,6 +349,21 @@
       "date": "2026-06-12",
       "timestamp": "2026-06-12T18:40:55+00:00",
       "fetched_at": "2026-06-12T21:21:45.201317+00:00"
+    },
+    {
+      "id": "9ed5983e4e70",
+      "title": "Senior Software Engineer in Atlanta, Georgia, United States of America - WBD Careers",
+      "company": "WBD Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.wbd.com/global/en/job/R000105074/Senior-Software-Engineer",
+      "source": "Other",
+      "description": "Apply for Senior Software Engineer job with Warner Bros. Discovery in ... Machine Learning Engineer I. CNN Job Type Full time Job Id ...",
+      "date": "2026-06-12",
+      "timestamp": "2026-06-12T18:29:09+00:00",
+      "fetched_at": "2026-06-13T01:57:22.539791+00:00"
     },
     {
       "id": "a3f0c9b36837",
