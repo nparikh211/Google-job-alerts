@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-06-13T17:04:53.907709+00:00",
-  "total_jobs": 3688,
+  "last_updated": "2026-06-13T20:57:45.726546+00:00",
+  "total_jobs": 3702,
   "stats": {
-    "total_companies": 1981,
+    "total_companies": 1986,
     "total_roles": 62,
     "regions": {
-      "India": 2322,
-      "Philippines": 786,
+      "India": 2335,
+      "Philippines": 787,
       "Remote": 461,
       "Unknown": 135
     },
     "sources": {
-      "Other": 2900,
+      "Other": 2911,
       "Greenhouse": 192,
       "Workday": 173,
-      "LinkedIn": 130,
-      "Ashby": 113,
+      "LinkedIn": 131,
+      "Ashby": 114,
       "iCIMS": 40,
       "Breezy": 38,
-      "Lever": 29,
+      "Lever": 30,
       "Workable": 22,
       "SmartRecruiters": 19,
       "Indeed": 15,
@@ -36,6 +36,111 @@
   },
   "jobs": [
     {
+      "id": "6c2c229c88b7",
+      "title": "My interview experience with @SarvamAI for ML engineer role. : r/developersIndia - Reddit",
+      "company": "Reddit",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/developersIndia/comments/1u4uf70/my_interview_experience_with_sarvamai_for_ml/",
+      "source": "Other",
+      "description": "My interview experience with @SarvamAI for ML engineer role. Interviews. This was during campus placements-dec'24 (freshers take notes). CTC : 84 ...",
+      "date": "2026-06-13",
+      "timestamp": "2026-06-13T17:48:20+00:00",
+      "fetched_at": "2026-06-13T20:57:45.628667+00:00"
+    },
+    {
+      "id": "56a7878879c8",
+      "title": "What's the overall consensus on being an ai engineer ? : r/cscareerquestions - Reddit",
+      "company": "Reddit",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/cscareerquestions/comments/1u4v8vy/whats_the_overall_consensus_on_being_an_ai/",
+      "source": "Other",
+      "description": "Machine Learning Engineer is different, you ... How realistic is it to transition into an AI / ML Engineer as a Full Stack engineer with 10 YOE?",
+      "date": "2026-06-13",
+      "timestamp": "2026-06-13T17:25:03+00:00",
+      "fetched_at": "2026-06-13T20:57:45.628948+00:00"
+    },
+    {
+      "id": "16c3c611b60a",
+      "title": "Software Engineer - Caterpillar Careers",
+      "company": "Caterpillar Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.caterpillar.com/en/jobs/r0000376140/software-engineer/",
+      "source": "Other",
+      "description": "Software Engineer . Location, Virginia Beach, Virginia, United States Of America. Date Posted, Friday, June 12, 2026. Apply By, Thursday, June 18, 2026.",
+      "date": "2026-06-13",
+      "timestamp": "2026-06-13T16:56:56+00:00",
+      "fetched_at": "2026-06-13T20:57:45.629098+00:00"
+    },
+    {
+      "id": "276ed951e13a",
+      "title": "The Cypress Group hiring Data Engineer in New York, NY | LinkedIn",
+      "company": "LinkedIn",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/data-engineer-at-the-cypress-group-4428152285",
+      "source": "LinkedIn",
+      "description": "Software Engineer (Junior). Paces. Brooklyn, NY $110,000 - $160,000 3 ... Data & AI Engineer . The Carlyle Group. New York, NY $160,000 - $180,000 ...",
+      "date": "2026-06-13",
+      "timestamp": "2026-06-13T16:52:49+00:00",
+      "fetched_at": "2026-06-13T20:57:45.629281+00:00"
+    },
+    {
+      "id": "18e3e2d249b8",
+      "title": "(AI Experienced) Software Engineer /Lead Software Engineer in Multiple Locations",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.statefarm.com/event-19085/jobs/43740",
+      "source": "Other",
+      "description": "Responsibilities. We are seeking an amazing Software Engineer to join the Innovation Group. The ideal candidate must have a successful track ...",
+      "date": "2026-06-13",
+      "timestamp": "2026-06-13T15:24:22+00:00",
+      "fetched_at": "2026-06-13T20:57:45.629410+00:00"
+    },
+    {
+      "id": "0ef30876409b",
+      "title": "Lead Machine Learning Engineer - Wells Fargo",
+      "company": "Wells Fargo",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.wellsfargojobs.com/en/jobs/r-550945/lead-machine-learning-engineer/",
+      "source": "Other",
+      "description": "Senior Data Engineer . Save Saved. SAN FRANCISCO, California / CHARLOTTE ... Senior Software Engineer : Data Engineering, GCP, GenAI. Save Saved.",
+      "date": "2026-06-13",
+      "timestamp": "2026-06-13T14:45:16+00:00",
+      "fetched_at": "2026-06-13T20:57:45.629562+00:00"
+    },
+    {
+      "id": "7bd4e167b9ba",
+      "title": "GDB/DC - DevOps Engineer (M/F/D) Job Details | BASF SE",
+      "company": "GDB/DC",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://basf.jobs/dark_blue_AP/job/GDBDC-DevOps-Engineer-%28MFD%29/138907-en_US/",
+      "source": "Other",
+      "description": "DevOps Engineer OrgCode: GDB/DC Product Team: Click or tap here to enter text. Responsibilities: We are seeking a highly motivated and ...",
+      "date": "2026-06-13",
+      "timestamp": "2026-06-13T13:46:37+00:00",
+      "fetched_at": "2026-06-13T20:57:45.629845+00:00"
+    },
+    {
       "id": "0cf548a67b0d",
       "title": "Software Engineer - Careers at Moody's",
       "company": "Moody's",
@@ -49,6 +154,21 @@
       "date": "2026-06-13",
       "timestamp": "2026-06-13T13:36:29+00:00",
       "fetched_at": "2026-06-13T17:04:53.816409+00:00"
+    },
+    {
+      "id": "85ca7eec2236",
+      "title": "SAP Software Engineer in SAN JOSE, Costa Rica | Information Technology at Procter & Gamble",
+      "company": "Procter & Gamble",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.pgcareers.com/uk/en/job/R000153061/SAP-Software-Engineer",
+      "source": "Other",
+      "description": "We are looking for an IT Software Engineer with a strong interest and foundation in SAP ABAP development to join a global team focused on HR Services ...",
+      "date": "2026-06-13",
+      "timestamp": "2026-06-13T12:55:08+00:00",
+      "fetched_at": "2026-06-13T20:57:45.630106+00:00"
     },
     {
       "id": "4929c14783f8",
@@ -66,6 +186,21 @@
       "fetched_at": "2026-06-13T13:15:46.559025+00:00"
     },
     {
+      "id": "d8549b193e2f",
+      "title": "Senior Software Engineer | Apply on Job - Opportunities - Micro1",
+      "company": "Apply on Job - Opportunities - Micro1",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.micro1.ai/post/1de0c840-f6ff-47d6-9507-1ac5a0afbb72",
+      "source": "Other",
+      "description": "Senior Software Engineer . $40 - $85/hourpay. Required Skills. Python3. JAVA. Rust. Algorithms. Basics C++. Typescript. bug fixing. feature ...",
+      "date": "2026-06-13",
+      "timestamp": "2026-06-13T10:06:04+00:00",
+      "fetched_at": "2026-06-13T20:57:45.630441+00:00"
+    },
+    {
       "id": "458fc8ddc385",
       "title": "Data Engineer in Hyderabad, Telang\u0101na, India | Product and Engineering at Cisco",
       "company": "Cisco",
@@ -79,6 +214,36 @@
       "date": "2026-06-13",
       "timestamp": "2026-06-13T09:52:40+00:00",
       "fetched_at": "2026-06-13T13:15:46.384014+00:00"
+    },
+    {
+      "id": "8bc10a895799",
+      "title": "Software Engineer II, ML Ops, tvScientific - Pinterest Careers",
+      "company": "Pinterest Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.pinterestcareers.com/jobs/7782571/software-engineer-ii-ml-ops-tvscientific/?gh_jid=7782571",
+      "source": "Other",
+      "description": "We are looking for an ambitious Systems / Platform Engineer to join a ... Staff Machine Learning Engineer . Save Saved. San Francisco + 1 other ...",
+      "date": "2026-06-13",
+      "timestamp": "2026-06-13T09:36:03+00:00",
+      "fetched_at": "2026-06-13T20:57:45.709183+00:00"
+    },
+    {
+      "id": "e0b995fe8d83",
+      "title": "Senior AI Engineer | Nectir",
+      "company": "Nectir",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/nectir/jobs/93adfa5e-bad2-460f-a138-03261b3f5c8a",
+      "source": "Other",
+      "description": "Senior AI Engineer . About Nectir. Nectir is the secure AI infrastructure purpose-built for schools. Nectir AI provides 24/7 personalized learning ...",
+      "date": "2026-06-13",
+      "timestamp": "2026-06-13T09:12:34+00:00",
+      "fetched_at": "2026-06-13T20:57:45.630747+00:00"
     },
     {
       "id": "7488eb61648b",
@@ -111,6 +276,36 @@
       "fetched_at": "2026-06-13T10:18:28.962810+00:00"
     },
     {
+      "id": "e438b3b57685",
+      "title": "Senior Software Engineer in San Jose, California, United States of America - Adobe Careers",
+      "company": "Adobe Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.adobe.com/us/en/job/R152679/Senior-Software-Engineer",
+      "source": "Other",
+      "description": "Apply for Senior Software Engineer job with Adobe in San Jose, California, United States of America ... Senior Backend Engineer \u2013 Cloud Platform.",
+      "date": "2026-06-13",
+      "timestamp": "2026-06-13T07:53:27+00:00",
+      "fetched_at": "2026-06-13T20:57:45.631532+00:00"
+    },
+    {
+      "id": "bf22a9ed99b0",
+      "title": "Valarian Technologies Limited - Software Engineer - Lever",
+      "company": "Valarian",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.lever.co/valarian/c0734a93-9c4c-4b36-81be-ca47257cfec6?lever-source%5B%5D=careers.playfair.vc",
+      "source": "Lever",
+      "description": "Software Engineer \u00b7 Backend engineering experience, with some exposure to Go. \u00b7 Experience building APIs, backend services, or microservices.",
+      "date": "2026-06-13",
+      "timestamp": "2026-06-13T06:50:06+00:00",
+      "fetched_at": "2026-06-13T20:57:45.631632+00:00"
+    },
+    {
       "id": "cc75555eb69d",
       "title": "Verticalmove, Inc hiring Senior AI Engineer - Contract in Newark, NJ | LinkedIn",
       "company": "Contract in Newark, NJ | LinkedIn",
@@ -124,6 +319,21 @@
       "date": "2026-06-13",
       "timestamp": "2026-06-13T06:34:17+00:00",
       "fetched_at": "2026-06-13T17:04:53.886847+00:00"
+    },
+    {
+      "id": "b79619a15ec1",
+      "title": "Software Engineer @ Ataraxis AI - Jobs",
+      "company": "Ataraxis Ai",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/ataraxis-ai/6548cc32-6db1-452c-b0b2-516e042fe8d2",
+      "source": "Ashby",
+      "description": "Software Engineer . Location. New York HQ. Employment Type. Full time. Department. Engineering. Compensation. $100K \u2013 $180K \u2022 Offers Equity. See More.",
+      "date": "2026-06-13",
+      "timestamp": "2026-06-13T06:26:19+00:00",
+      "fetched_at": "2026-06-13T20:57:45.631720+00:00"
     },
     {
       "id": "1bc2983e88b9",
