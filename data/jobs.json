@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-06-13T01:57:22.923179+00:00",
-  "total_jobs": 3660,
+  "last_updated": "2026-06-13T07:37:18.321573+00:00",
+  "total_jobs": 3671,
   "stats": {
-    "total_companies": 1973,
+    "total_companies": 1977,
     "total_roles": 62,
     "regions": {
-      "India": 2309,
-      "Philippines": 776,
-      "Remote": 456,
+      "India": 2315,
+      "Philippines": 778,
+      "Remote": 459,
       "Unknown": 135
     },
     "sources": {
-      "Other": 2881,
-      "Greenhouse": 189,
+      "Other": 2889,
+      "Greenhouse": 191,
       "Workday": 172,
-      "LinkedIn": 125,
+      "LinkedIn": 126,
       "Ashby": 113,
       "iCIMS": 40,
       "Breezy": 38,
@@ -31,10 +31,70 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-06-12"
+      "latest": "2026-06-13"
     }
   },
   "jobs": [
+    {
+      "id": "309be65486a4",
+      "title": "my last day as a software engineer at google - YouTube",
+      "company": "google",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.youtube.com/watch?v=D1F8HqlZfLk",
+      "source": "Other",
+      "description": "Day in the Life as an Amazon Software Engineer | Switching Teams, Moving to New York. phillip che\u202280K \u00b7 18:43 \u00b7 Go to channel The Automated Engineer ...",
+      "date": "2026-06-13",
+      "timestamp": "2026-06-13T02:10:11+00:00",
+      "fetched_at": "2026-06-13T07:37:18.238664+00:00"
+    },
+    {
+      "id": "a617a73f4f84",
+      "title": "Software Engineer , Computer Use & Frontier Interfaces | OpenAI",
+      "company": "OpenAI",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://openai.com/careers/software-engineer-computer-use-and-frontier-interfaces-san-francisco/",
+      "source": "Other",
+      "description": "Software Engineer , Computer Use & Frontier Interfaces | OpenAI. Careers. Software Engineer , Computer Use & Frontier Interfaces. Codex - Engineering ...",
+      "date": "2026-06-13",
+      "timestamp": "2026-06-13T00:22:23+00:00",
+      "fetched_at": "2026-06-13T07:37:18.239258+00:00"
+    },
+    {
+      "id": "17c2631d6259",
+      "title": "How to level up as a data engineer ? : r/dataengineering - Reddit",
+      "company": "Reddit",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/dataengineering/comments/1u3phha/how_to_level_up_as_a_data_engineer/",
+      "source": "Other",
+      "description": "From Data Analyst to Data Engineer - ML Engineer - Data Scientist ... Software Engineer hired as a Data Engineer . What to expect, and what to ...",
+      "date": "2026-06-12",
+      "timestamp": "2026-06-12T23:54:02+00:00",
+      "fetched_at": "2026-06-13T07:37:18.239451+00:00"
+    },
+    {
+      "id": "930d6127c558",
+      "title": "Sr. Lead Machine Learning Engineer - Capital One Career",
+      "company": "Capital One Career",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.capitalonecareers.com/job/new-york/sr-lead-machine-learning-engineer/1732/96359807344",
+      "source": "Other",
+      "description": "Lead Data Engineer (Enterprise Platforms Technology) ( Java, Python ... Software Engineer , Strategy, Students and Grads Early Internship ...",
+      "date": "2026-06-12",
+      "timestamp": "2026-06-12T23:42:40+00:00",
+      "fetched_at": "2026-06-13T07:37:18.303636+00:00"
+    },
     {
       "id": "004e65b330f4",
       "title": "Data Engineer at Empower",
@@ -66,6 +126,36 @@
       "fetched_at": "2026-06-13T01:57:22.536405+00:00"
     },
     {
+      "id": "120ae9c3a2bc",
+      "title": "Software Engineer - CH- AXS | AEG Worldwide",
+      "company": "CH- AXS | AEG Worldwide",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://aegworldwide.com/careers/jobs/AXSDG9337/software-engineer--ch--axs",
+      "source": "Other",
+      "description": "Software Engineer - CH- AXS. AXS - Charlotte, NC. Charlotte, NC. Info Technology & Software Engineering. Full Time. AXSDG9337. AXS connects fans with ...",
+      "date": "2026-06-12",
+      "timestamp": "2026-06-12T22:25:23+00:00",
+      "fetched_at": "2026-06-13T07:37:18.239846+00:00"
+    },
+    {
+      "id": "7e1b30e17397",
+      "title": "Microsoft hiring Senior Software Engineer - CTJ - POLY in Reston, VA | LinkedIn",
+      "company": "CTJ - POLY in Reston, VA | LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/senior-software-engineer-ctj-poly-at-microsoft-4422400504?refId=sE%2FX1M0XFdm5F1IpFai%2F%2BA%3D%3D&trackingId=dmpU0N0ElFLO5th%2FT8BO%2FA%3D%3D",
+      "source": "LinkedIn",
+      "description": "Senior Backend Engineer . Antithesis. Vienna, VA 3 weeks ago. Senior ... Senior Software Engineer (SEG3). Decision Technologies, Inc. Washington ...",
+      "date": "2026-06-12",
+      "timestamp": "2026-06-12T22:20:21+00:00",
+      "fetched_at": "2026-06-13T07:37:18.304172+00:00"
+    },
+    {
       "id": "96e30a0225e9",
       "title": "EOI - Recruitment of Senior Software Engineer / Software Architect - TCIS",
       "company": "EOI",
@@ -79,6 +169,21 @@
       "date": "2026-06-12",
       "timestamp": "2026-06-12T22:09:08+00:00",
       "fetched_at": "2026-06-13T01:57:22.536816+00:00"
+    },
+    {
+      "id": "eb386cdd6b2c",
+      "title": "Senior Software Engineer (Java) - General Motors Careers",
+      "company": "General Motors Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://search-careers.gm.com/en/jobs/jr-202612650/senior-software-engineer-java/",
+      "source": "Other",
+      "description": "We are seeking a Senior Software Engineer to build and support Java-based services in a microservices environment. The role emphasizes Spring Boot ...",
+      "date": "2026-06-12",
+      "timestamp": "2026-06-12T21:48:57+00:00",
+      "fetched_at": "2026-06-13T07:37:18.240201+00:00"
     },
     {
       "id": "b85364270ad5",
@@ -111,6 +216,21 @@
       "fetched_at": "2026-06-13T01:57:22.537297+00:00"
     },
     {
+      "id": "2d87a0116768",
+      "title": "Job Opening - Full Stack Software Engineer - San Francisco, CA | Randstad USA",
+      "company": "Job Opening",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.randstadusa.com/jobs/4/1335606/full-stack-software-engineer_san-francisco/",
+      "source": "Other",
+      "description": "... Senior Software Engineer to serve as their foundational, backend-focused hire. In this highly impactful role, you will scale sophisticated APIs ...",
+      "date": "2026-06-12",
+      "timestamp": "2026-06-12T21:13:10+00:00",
+      "fetched_at": "2026-06-13T07:37:18.240608+00:00"
+    },
+    {
       "id": "b91f6bf87052",
       "title": "Senior Snowflake Data Engineer Modern Data Platforms & AI Exposure - V.L.S. Systems, Inc",
       "company": "V.L.S. Systems, Inc",
@@ -124,6 +244,21 @@
       "date": "2026-06-12",
       "timestamp": "2026-06-12T21:04:25+00:00",
       "fetched_at": "2026-06-13T01:57:22.537488+00:00"
+    },
+    {
+      "id": "43f1aa48cb5a",
+      "title": "Senior Full Stack Engineer \u2013 Java / Angular | Citi Careers",
+      "company": "Citi Careers",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.citi.com/job/jacksonville/senior-full-stack-engineer-java-angular/287/96354152064",
+      "source": "Other",
+      "description": "Learn more about applying for Senior Full Stack Engineer \u2013 Java / Angular at Citi. Learn more about potential responsibilities, qualifications and ...",
+      "date": "2026-06-12",
+      "timestamp": "2026-06-12T20:41:27+00:00",
+      "fetched_at": "2026-06-13T07:37:18.240940+00:00"
     },
     {
       "id": "4cdd0aed6f1c",
@@ -171,6 +306,21 @@
       "fetched_at": "2026-06-13T01:57:22.538142+00:00"
     },
     {
+      "id": "42c0d062abfd",
+      "title": "Job Application for IT Systems Engineer, Client Platform Engineer at Anthropic",
+      "company": "Anthropic",
+      "role": "Platform Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5255853008",
+      "source": "Greenhouse",
+      "description": "IT Systems Engineer, Client Platform Engineer . Boston, MA; New York City, NY; Remote-Friendly (Travel-Required) | Washington, DC. Apply. About ...",
+      "date": "2026-06-12",
+      "timestamp": "2026-06-12T20:07:16+00:00",
+      "fetched_at": "2026-06-13T07:37:18.241490+00:00"
+    },
+    {
       "id": "7440fdf91bb8",
       "title": "Senior Software Engineer - Piper Companies",
       "company": "Piper Companies",
@@ -214,6 +364,21 @@
       "date": "2026-06-12",
       "timestamp": "2026-06-12T19:51:03+00:00",
       "fetched_at": "2026-06-13T01:57:22.906792+00:00"
+    },
+    {
+      "id": "02f23d42f3b7",
+      "title": "Job Application for Senior Fullstack Engineer at Jukebox Health - Greenhouse",
+      "company": "Jukeboxhealth",
+      "role": "Fullstack Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/jukeboxhealth/jobs/4284648009",
+      "source": "Greenhouse",
+      "description": "Senior Fullstack Engineer . Remote. Apply. At Jukebox Health, our mission is to empower everyone to live safer, healthier, more independent lives at ...",
+      "date": "2026-06-12",
+      "timestamp": "2026-06-12T19:39:09+00:00",
+      "fetched_at": "2026-06-13T07:37:18.241833+00:00"
     },
     {
       "id": "64c582662efc",
