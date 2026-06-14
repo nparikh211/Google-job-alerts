@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-06-13T20:57:45.726546+00:00",
-  "total_jobs": 3702,
+  "last_updated": "2026-06-14T02:06:30.776343+00:00",
+  "total_jobs": 3717,
   "stats": {
-    "total_companies": 1986,
+    "total_companies": 1993,
     "total_roles": 62,
     "regions": {
-      "India": 2335,
-      "Philippines": 787,
-      "Remote": 461,
+      "India": 2345,
+      "Philippines": 791,
+      "Remote": 462,
       "Unknown": 135
     },
     "sources": {
-      "Other": 2911,
+      "Other": 2922,
       "Greenhouse": 192,
-      "Workday": 173,
-      "LinkedIn": 131,
+      "Workday": 174,
+      "LinkedIn": 133,
       "Ashby": 114,
       "iCIMS": 40,
       "Breezy": 38,
@@ -22,8 +22,8 @@
       "Workable": 22,
       "SmartRecruiters": 19,
       "Indeed": 15,
+      "BrassRing": 5,
       "Jobvite": 5,
-      "BrassRing": 4,
       "Recruitee": 3,
       "Taleo": 2,
       "WeWorkRemotely": 2,
@@ -35,6 +35,81 @@
     }
   },
   "jobs": [
+    {
+      "id": "f55748168ab7",
+      "title": "Software Engineer (New College Grad - Masters)) - Myworkdayjobs.com",
+      "company": "Amat",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Software-Engineer--New-College-Grad---Masters--_R2621945",
+      "source": "Workday",
+      "description": "As a Software Engineer at Applied Materials, you'll dive deep into ground-breaking technologies\u2014like machine learning and AI\u2014to craft novel software ...",
+      "date": "2026-06-13",
+      "timestamp": "2026-06-13T21:23:06+00:00",
+      "fetched_at": "2026-06-14T02:06:30.757522+00:00"
+    },
+    {
+      "id": "e146d9da0116",
+      "title": "Senior Software Engineer , Client Implementations at Cohere Health - VentureFizz",
+      "company": "Cohere Health",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://venturefizz.com/job/cohere-health-senior-software-engineer-client-implementations/",
+      "source": "Other",
+      "description": "We are seeking a Senior Software Engineer to join our Engineering team ... Staff Data Engineer . Remote. Remote \u00b7 Apply. Company Details. Cohere ...",
+      "date": "2026-06-13",
+      "timestamp": "2026-06-13T21:11:28+00:00",
+      "fetched_at": "2026-06-14T02:06:30.689712+00:00"
+    },
+    {
+      "id": "4e6f42b45896",
+      "title": "Senior Software Engineer , Mobile (Android), Bangalore, India | Grab Careers",
+      "company": "Grab Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.grab.careers/en/jobs/744000131028475/senior-software-engineer-mobile-android/",
+      "source": "Other",
+      "description": "Senior Software Engineer , Mobile (Android). Team Engineering; Location Bangalore, India; Job Type Full-time. The role at a glance; Skills you need",
+      "date": "2026-06-13",
+      "timestamp": "2026-06-13T20:52:42+00:00",
+      "fetched_at": "2026-06-14T02:06:30.690548+00:00"
+    },
+    {
+      "id": "c8535d822c8c",
+      "title": "Software engineer considering PCB design \u2014 is AI threatening this craft? How's the ... - Reddit",
+      "company": "Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/PrintedCircuitBoard/comments/1u4qc4u/software_engineer_considering_pcb_design_is_ai/",
+      "source": "Other",
+      "description": "Software engineer considering PCB design \u2014 is AI threatening this craft? How's the freelance market? I'm a senior software/ data engineer (5 years ...",
+      "date": "2026-06-13",
+      "timestamp": "2026-06-13T20:48:17+00:00",
+      "fetched_at": "2026-06-14T02:06:30.690973+00:00"
+    },
+    {
+      "id": "da181bf16359",
+      "title": "Software Engineer in Bangalore, India | Product and Engineering at Cisco - Cisco Careers",
+      "company": "Cisco",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2016165EXTERNALENGLOBAL/Software-Engineer",
+      "source": "Other",
+      "description": "Join our team as a Senior Software Engineer and help shape the future of Silicon One network processors. Work with cutting-edge technologies like ...",
+      "date": "2026-06-13",
+      "timestamp": "2026-06-13T18:03:11+00:00",
+      "fetched_at": "2026-06-14T02:06:30.691275+00:00"
+    },
     {
       "id": "6c2c229c88b7",
       "title": "My interview experience with @SarvamAI for ML engineer role. : r/developersIndia - Reddit",
@@ -111,6 +186,21 @@
       "fetched_at": "2026-06-13T20:57:45.629410+00:00"
     },
     {
+      "id": "cc92335ed0cd",
+      "title": "Vision Systems Senior Software Engineer in goleta, California, United States of America",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.rtx.com/global/en/job/01851951/Vision-Systems-Senior-Software-Engineer",
+      "source": "Other",
+      "description": "Apply for Vision Systems Senior Software Engineer job with Raytheon in goleta, California, United States of America. Engineering at Raytheon.",
+      "date": "2026-06-13",
+      "timestamp": "2026-06-13T15:03:54+00:00",
+      "fetched_at": "2026-06-14T02:06:30.693341+00:00"
+    },
+    {
       "id": "0ef30876409b",
       "title": "Lead Machine Learning Engineer - Wells Fargo",
       "company": "Wells Fargo",
@@ -124,6 +214,51 @@
       "date": "2026-06-13",
       "timestamp": "2026-06-13T14:45:16+00:00",
       "fetched_at": "2026-06-13T20:57:45.629562+00:00"
+    },
+    {
+      "id": "a90bcdc3813e",
+      "title": "Lead Software Engineer | ASSA ABLOY",
+      "company": "ASSA ABLOY",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.assaabloy.com/career/en/open-positions/job.48807",
+      "source": "Other",
+      "description": "Lead Software Engineer . tbd. We are the ASSA ABLOY Group Our people have made us the global leader in access solutions. In return, we open doors for ...",
+      "date": "2026-06-13",
+      "timestamp": "2026-06-13T14:41:01+00:00",
+      "fetched_at": "2026-06-14T02:06:30.693593+00:00"
+    },
+    {
+      "id": "045e127d86d6",
+      "title": "Principal Software Engineer (Health100 Platform) - CVS Health",
+      "company": "CVS Health",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.cvshealth.com/us/en/job/R0918008/Principal-Software-Engineer-Health100-Platform",
+      "source": "Other",
+      "description": "Apply for Principal Software Engineer (Health100 Platform) job with CVS Health in One CVS Drive, Woonsocket, Rhode Island,United States.",
+      "date": "2026-06-13",
+      "timestamp": "2026-06-13T14:29:32+00:00",
+      "fetched_at": "2026-06-14T02:06:30.693746+00:00"
+    },
+    {
+      "id": "2a7890a734e3",
+      "title": "Senior Data Engineer - Wells Fargo",
+      "company": "Wells Fargo",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.wellsfargojobs.com/en/jobs/r-550968/senior-data-engineer/",
+      "source": "Other",
+      "description": "Related Jobs \u00b7 Lead Machine Learning Engineer \u00b7 Lead Data Engineer - GCP Platform Services & Frameworks \u00b7 Senior Software Engineer : Data Engineering, GCP ...",
+      "date": "2026-06-13",
+      "timestamp": "2026-06-13T14:16:19+00:00",
+      "fetched_at": "2026-06-14T02:06:30.693909+00:00"
     },
     {
       "id": "7bd4e167b9ba",
@@ -156,6 +291,36 @@
       "fetched_at": "2026-06-13T17:04:53.816409+00:00"
     },
     {
+      "id": "ee1706bcd971",
+      "title": "Machine Learning Engineer at Terranox AI - Jack & Jill - LinkedIn",
+      "company": "Terranox AI",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-terranox-ai-at-jack-jill-4427279319",
+      "source": "LinkedIn",
+      "description": "Applied AI Engineer . Arcade. San Francisco, CA 1 month ago. Machine ... Machine Learning ( ML) Engineer . Vectara. San Francisco, CA 2 months ago ...",
+      "date": "2026-06-13",
+      "timestamp": "2026-06-13T13:30:13+00:00",
+      "fetched_at": "2026-06-14T02:06:30.694369+00:00"
+    },
+    {
+      "id": "d4bcafcec23a",
+      "title": "Harbor.ai hiring Full Stack Engineer in New York, NY | LinkedIn",
+      "company": "LinkedIn",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/full-stack-engineer-at-harbor-ai-4428120045?position=41&pageNum=0&refId=JBF4uSNhUDnsfuO1BXPrew%3D%3D&trackingId=XtSsnoMRBfadNsgAOm6qLQ%3D%3D",
+      "source": "LinkedIn",
+      "description": "Staff Frontend Engineer . Porter. New York, NY $200,000 - $280,000 9 ... Senior Software Engineer jobs. 78,145 open jobs \u00b7 PHP Developer jobs.",
+      "date": "2026-06-13",
+      "timestamp": "2026-06-13T12:56:43+00:00",
+      "fetched_at": "2026-06-14T02:06:30.759797+00:00"
+    },
+    {
       "id": "85ca7eec2236",
       "title": "SAP Software Engineer in SAN JOSE, Costa Rica | Information Technology at Procter & Gamble",
       "company": "Procter & Gamble",
@@ -171,6 +336,36 @@
       "fetched_at": "2026-06-13T20:57:45.630106+00:00"
     },
     {
+      "id": "32030cb0647d",
+      "title": "Staff Software Engineer , AI Infrastructure, Google Cloud, Applied AI",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/105418748269077190-staff-software-engineer-ai-infrastructure-google-cloud-applied-ai",
+      "source": "Other",
+      "description": "... Software Engineer , you will be passionate about bridging the gap ... Senior Software Engineer , Storage AI/ML. Seattle, WA, USA \u00b7 Staff Data ...",
+      "date": "2026-06-13",
+      "timestamp": "2026-06-13T11:45:17+00:00",
+      "fetched_at": "2026-06-14T02:06:30.694785+00:00"
+    },
+    {
+      "id": "db8f244053fa",
+      "title": "Lead Software Engineer - Job Detail | Careers Marketplace - Siemens",
+      "company": "Job Detail | Careers Marketplace - Siemens",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/509884",
+      "source": "Other",
+      "description": "Lead Software Engineer . Job ID. 509884. Posted since. 11-Jun-2026 ... Senior Software Engineer . Bangalore, Karnataka, India. Software Architect ...",
+      "date": "2026-06-13",
+      "timestamp": "2026-06-13T11:26:47+00:00",
+      "fetched_at": "2026-06-14T02:06:30.760072+00:00"
+    },
+    {
       "id": "4929c14783f8",
       "title": "Senior Software Engineer - Full Stack in Sunnyvale, California, 94089 - HPE Careers",
       "company": "Full Stack in Sunnyvale, California, 94089 - HPE Careers",
@@ -184,6 +379,36 @@
       "date": "2026-06-13",
       "timestamp": "2026-06-13T11:15:38+00:00",
       "fetched_at": "2026-06-13T13:15:46.559025+00:00"
+    },
+    {
+      "id": "7405a3fffb7c",
+      "title": "Software Engineer (Backend Development) | Lockheed Martin - jobs.brassring.com",
+      "company": "Lockheed Martin - jobs.brassring.com",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25037&siteid=5010&PageType=JobDetails&jobid=853450",
+      "source": "BrassRing",
+      "description": "Software Engineer (Backend Development). Rotary and Mission Systems. Colorado, Pennsylvania. 732084BR. Basic Qualifications. \u2022 Experience/Familiarity ...",
+      "date": "2026-06-13",
+      "timestamp": "2026-06-13T11:14:36+00:00",
+      "fetched_at": "2026-06-14T02:06:30.760413+00:00"
+    },
+    {
+      "id": "335d7fc2e32c",
+      "title": "Lead Software Engineer - Platform Engineering - Chase- Candidate Experience page Careers",
+      "company": "Lead Software Engineer",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210755748/?utm_medium=jobshare&=undefinedutm_medium&utm_source=google",
+      "source": "Other",
+      "description": "Lead Software Engineer - Platform Engineering. LONDON, LONDON, United ... Lead Software Engineer - AWS - Lead AI/ML Platform Engineer . LONDON ...",
+      "date": "2026-06-13",
+      "timestamp": "2026-06-13T11:00:26+00:00",
+      "fetched_at": "2026-06-14T02:06:30.760590+00:00"
     },
     {
       "id": "d8549b193e2f",
