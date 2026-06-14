@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-06-14T08:04:47.247927+00:00",
-  "total_jobs": 3730,
+  "last_updated": "2026-06-14T13:21:03.931264+00:00",
+  "total_jobs": 3746,
   "stats": {
-    "total_companies": 1998,
+    "total_companies": 2005,
     "total_roles": 62,
     "regions": {
-      "India": 2351,
-      "Philippines": 797,
+      "India": 2362,
+      "Philippines": 802,
       "Remote": 463,
       "Unknown": 135
     },
     "sources": {
-      "Other": 2934,
+      "Other": 2947,
       "Greenhouse": 192,
       "Workday": 175,
-      "LinkedIn": 133,
+      "LinkedIn": 136,
       "Ashby": 114,
       "iCIMS": 40,
       "Breezy": 38,
@@ -36,6 +36,126 @@
   },
   "jobs": [
     {
+      "id": "90eea007f09f",
+      "title": "Staff Fullstack Software Engineer \u2013 Sigma Computing \u2013 Permanent contract in San Francisco",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.welcometothejungle.com/en/companies/sigma-computing/jobs/staff-fullstack-software-engineer_san-francisco_pcnwdbeo",
+      "source": "Other",
+      "description": "Staff Fullstack Software Engineer . Job summary. Permanent contract. San ... Java Backend Engineer - RUM (m/f/x). Dynatrace. Permanent ...",
+      "date": "2026-06-14",
+      "timestamp": "2026-06-14T10:42:02+00:00",
+      "fetched_at": "2026-06-14T13:21:03.832182+00:00"
+    },
+    {
+      "id": "6ecf2361e743",
+      "title": "Backend Engineer - Sartiq (Lugano) - JOIN",
+      "company": "Sartiq (Lugano) - JOIN",
+      "role": "Backend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://join.com/companies/shootifyio/16267029-backend-engineer",
+      "source": "Other",
+      "description": "Sartiq has a job opening for Backend Engineer in Lugano (published: 25.05.2026). Apply now or check the other available jobs.",
+      "date": "2026-06-14",
+      "timestamp": "2026-06-14T09:29:01+00:00",
+      "fetched_at": "2026-06-14T13:21:03.832662+00:00"
+    },
+    {
+      "id": "0ca66b5e71e2",
+      "title": "Senior Software Engineer - Liberty Mutual Insurance | Built In Boston",
+      "company": "Liberty Mutual Insurance | Built In Boston",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.builtinboston.com/job/senior-software-engineer/9729961",
+      "source": "Other",
+      "description": "Liberty Mutual Insurance is hiring for a Senior Software Engineer in Boston, MA, USA. Find more details about the job and how to apply at Built In ...",
+      "date": "2026-06-14",
+      "timestamp": "2026-06-14T08:51:14+00:00",
+      "fetched_at": "2026-06-14T13:21:03.832837+00:00"
+    },
+    {
+      "id": "71ca11538489",
+      "title": "Schonfeld hiring Senior Software Engineer in New York, NY | LinkedIn",
+      "company": "LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/senior-software-engineer-at-schonfeld-4428374628",
+      "source": "LinkedIn",
+      "description": "Senior Software Engineer , Back-End (Multiple Opportunities). S32. New ... Full Stack Engineer jobs \u00b7 Senior Dotnet Developer jobs \u00b7 Senior Software ...",
+      "date": "2026-06-14",
+      "timestamp": "2026-06-14T08:48:55+00:00",
+      "fetched_at": "2026-06-14T13:21:03.833021+00:00"
+    },
+    {
+      "id": "8520fa7977d2",
+      "title": "Unity South APAC (SEA, ANZ, IND Subcont.) hiring Senior Software Engineer , Attribution in ...",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/senior-software-engineer-attribution-at-unity-south-apac-sea-anz-ind-subcont-4425382822",
+      "source": "LinkedIn",
+      "description": "We are looking for a Senior Software Engineer to help architect and ... Senior Full Stack Engineer , Partnerships & Martech. Rocket Money. San ...",
+      "date": "2026-06-14",
+      "timestamp": "2026-06-14T08:35:08+00:00",
+      "fetched_at": "2026-06-14T13:21:03.833338+00:00"
+    },
+    {
+      "id": "79f0e4bd17d9",
+      "title": "Data Engineer II job in Boston, MA | Technology jobs at Chewy Inc",
+      "company": "Chewy Inc",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.chewy.com/us/en/job/R29808/Data-Engineer-II",
+      "source": "Other",
+      "description": "Similar Jobs \u00b7 Software Engineer II - Python. Location Boston, MA Category Technology \u00b7 Data Engineer II. Location Boston, MA Category Technology.",
+      "date": "2026-06-14",
+      "timestamp": "2026-06-14T07:55:45+00:00",
+      "fetched_at": "2026-06-14T13:21:03.833452+00:00"
+    },
+    {
+      "id": "bbc9e1ed920a",
+      "title": "Senior Software Engineer - ML Network Stack, ML Network Stack - Annapurna Labs",
+      "company": "ML Network Stack, ML Network Stack - Annapurna Labs",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://amazon.jobs/en/jobs/10448422/senior-software-engineer-ml-network-stack-ml-network-stack-annapurna-labs",
+      "source": "Other",
+      "description": "Senior Software Engineer - ML Network Stack, ML Network Stack - Annapurna Labs. Job ID: 10448422 | Annapurna Labs Ltd. Apply now. Description. We are ...",
+      "date": "2026-06-14",
+      "timestamp": "2026-06-14T07:18:02+00:00",
+      "fetched_at": "2026-06-14T13:21:03.911982+00:00"
+    },
+    {
+      "id": "22b3c3d4b790",
+      "title": "Software Engineer (C/C++) IRC297242 in Gothenburg, Sweden - Hitachi Careers",
+      "company": "Hitachi Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.hitachi.com/jobs/17867198-software-engineer-c-slash-c-plus-plus-irc297242",
+      "source": "Other",
+      "description": "We are seeking a Software Engineer , focused on ensuring stability and ongoing evolution of critical security components for the automotive middle- ...",
+      "date": "2026-06-14",
+      "timestamp": "2026-06-14T06:54:56+00:00",
+      "fetched_at": "2026-06-14T13:21:03.833677+00:00"
+    },
+    {
       "id": "49b73f438220",
       "title": "Devops Engineer /SRE , struggling to figure out the right career for me : r/devopsjobs - Reddit",
       "company": "Reddit",
@@ -51,6 +171,36 @@
       "fetched_at": "2026-06-14T08:04:47.229254+00:00"
     },
     {
+      "id": "04e28c00ad6a",
+      "title": "Senior Software Engineer - ML Network Stack, ML Network Stack - Annapurna Labs",
+      "company": "ML Network Stack, ML Network Stack - Annapurna Labs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.amazon.jobs/en-gb/jobs/10448422/senior-software-engineer-ml-network-stack-ml-network-stack-annapurna-labs",
+      "source": "Other",
+      "description": "Senior Software Engineer - ML Network Stack, ML Network Stack - Annapurna Labs. Job ID: 10448422 | Annapurna Labs Ltd. Apply now. Description. We are ...",
+      "date": "2026-06-14",
+      "timestamp": "2026-06-14T06:38:15+00:00",
+      "fetched_at": "2026-06-14T13:21:03.833961+00:00"
+    },
+    {
+      "id": "b0e28237d616",
+      "title": "FullStack Software Engineer - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200666980-3715/fullstack-software-engineer?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a FullStack Software Engineer job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-06-14",
+      "timestamp": "2026-06-14T06:17:22+00:00",
+      "fetched_at": "2026-06-14T13:21:03.834229+00:00"
+    },
+    {
       "id": "fcc4d53f9f74",
       "title": "FullStack Software Engineer - Jobs - Careers at Apple",
       "company": "Apple",
@@ -64,6 +214,36 @@
       "date": "2026-06-14",
       "timestamp": "2026-06-14T06:17:18+00:00",
       "fetched_at": "2026-06-14T08:04:47.229419+00:00"
+    },
+    {
+      "id": "a0dc25f09241",
+      "title": "Machine Learning Engineer - ML Applications - Careers at HP",
+      "company": "ML Applications - Careers at HP",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://apply.hp.com/careers/job/42226008",
+      "source": "Other",
+      "description": "Machine Learning Engineer . 3. Data Scientist. 4. Software Engineer . 5. Senior Software Engineer . Similar jobs. Machine Learning Engineer - ML ...",
+      "date": "2026-06-14",
+      "timestamp": "2026-06-14T05:45:32+00:00",
+      "fetched_at": "2026-06-14T13:21:03.834361+00:00"
+    },
+    {
+      "id": "1cefa2819c15",
+      "title": "CoinFlip - DevOps Engineer - Paylocity",
+      "company": "CoinFlip",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://recruiting.paylocity.com/recruiting/jobs/Details/4248462/GPD-HOLDINGS-LLC/DevOps-Engineer",
+      "source": "Other",
+      "description": "To learn more about CoinFlip and how to get started on your digital currency journey, visit?www.CoinFlip.tech.?? We're seeking a DevOps Engineer to ...",
+      "date": "2026-06-14",
+      "timestamp": "2026-06-14T05:20:15+00:00",
+      "fetched_at": "2026-06-14T13:21:03.912638+00:00"
     },
     {
       "id": "d5fca94d3fa8",
@@ -111,6 +291,36 @@
       "fetched_at": "2026-06-14T08:04:47.051912+00:00"
     },
     {
+      "id": "5e3a7df92abc",
+      "title": "Senior Software Engineer (Fern) \u2013 Postman \u2013 Permanent contract - Welcome to the Jungle",
+      "company": "Welcome to the Jungle",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.welcometothejungle.com/en/companies/postman/jobs/senior-software-engineer-fern_new-york_ppsnshls",
+      "source": "Other",
+      "description": "The position. Job description. As a Senior Software Engineer at Fern, you ... Java Backend Engineer - RUM (m/f/x). Dynatrace. Permanent ...",
+      "date": "2026-06-14",
+      "timestamp": "2026-06-14T01:55:07+00:00",
+      "fetched_at": "2026-06-14T13:21:03.913205+00:00"
+    },
+    {
+      "id": "dc1b05ad02d3",
+      "title": "Software Engineer II (Onsite) in cedar rapids, Iowa, United States of America - RTX - Careers",
+      "company": "RTX - Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.rtx.com/global/en/job/01851417/Software-Engineer-II-Onsite",
+      "source": "Other",
+      "description": "Apply for Software Engineer II (Onsite) job with Raytheon in cedar rapids, Iowa, United States of America. Engineering at Raytheon.",
+      "date": "2026-06-14",
+      "timestamp": "2026-06-14T01:15:25+00:00",
+      "fetched_at": "2026-06-14T13:21:03.913340+00:00"
+    },
+    {
       "id": "14d1390a6473",
       "title": "Senior Platform Engineer (AI & Analytics) - Hybrid - Allianz Careers",
       "company": "Hybrid - Allianz Careers",
@@ -154,6 +364,21 @@
       "date": "2026-06-14",
       "timestamp": "2026-06-14T00:52:37+00:00",
       "fetched_at": "2026-06-14T08:04:47.230455+00:00"
+    },
+    {
+      "id": "eca4556c64b5",
+      "title": "Software Engineer II (Power Distribution Equipment, Utility, HMI) Job in Raleigh, NC",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://southerncompany.jobs/locations/raleigh-nc/job-titles/software-engineer-ii-power-distribution-equipment-utility-hmi/jobs/?vs=107",
+      "source": "Other",
+      "description": "1 Software Engineer II (Power Distribution Equipment, Utility, HMI) Job in Raleigh, NC. Sort Date caret-icon ...",
+      "date": "2026-06-14",
+      "timestamp": "2026-06-14T00:52:01+00:00",
+      "fetched_at": "2026-06-14T13:21:03.835257+00:00"
     },
     {
       "id": "92b63126f64c",
@@ -244,6 +469,21 @@
       "date": "2026-06-13",
       "timestamp": "2026-06-13T20:48:17+00:00",
       "fetched_at": "2026-06-14T02:06:30.690973+00:00"
+    },
+    {
+      "id": "1c77e4b20246",
+      "title": "Senior Full-Stack Engineer ($180k-$200k + Equity) at blok - LinkedIn",
+      "company": "blok",
+      "role": "Stack Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/senior-full-stack-engineer-%24180k-%24200k-%2B-equity-at-blok-at-jack-jill-4427290114",
+      "source": "LinkedIn",
+      "description": "Senior Full-Stack Engineer ($180k-$200k + Equity) at blok in Pryor, OK ... Senior Software Engineer jobs. 78,145 open jobs \u00b7 PHP Developer jobs.",
+      "date": "2026-06-13",
+      "timestamp": "2026-06-13T19:29:57+00:00",
+      "fetched_at": "2026-06-14T13:21:03.915605+00:00"
     },
     {
       "id": "9846fd14a664",
