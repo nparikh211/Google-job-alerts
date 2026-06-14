@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-06-14T02:06:30.776343+00:00",
-  "total_jobs": 3717,
+  "last_updated": "2026-06-14T08:04:47.247927+00:00",
+  "total_jobs": 3730,
   "stats": {
-    "total_companies": 1993,
+    "total_companies": 1998,
     "total_roles": 62,
     "regions": {
-      "India": 2345,
-      "Philippines": 791,
-      "Remote": 462,
+      "India": 2351,
+      "Philippines": 797,
+      "Remote": 463,
       "Unknown": 135
     },
     "sources": {
-      "Other": 2922,
+      "Other": 2934,
       "Greenhouse": 192,
-      "Workday": 174,
+      "Workday": 175,
       "LinkedIn": 133,
       "Ashby": 114,
       "iCIMS": 40,
@@ -31,10 +31,160 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-06-13"
+      "latest": "2026-06-14"
     }
   },
   "jobs": [
+    {
+      "id": "49b73f438220",
+      "title": "Devops Engineer /SRE , struggling to figure out the right career for me : r/devopsjobs - Reddit",
+      "company": "Reddit",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.reddit.com/r/devopsjobs/comments/1u5dlny/devops_engineersre_struggling_to_figure_out_the/",
+      "source": "Other",
+      "description": "Devops Engineer /SRE , struggling to figure out the right career for me ... 18 months of job searching as a DevOps / Cloud Engineer in NL \u2013 feeling stuck ...",
+      "date": "2026-06-14",
+      "timestamp": "2026-06-14T06:53:31+00:00",
+      "fetched_at": "2026-06-14T08:04:47.229254+00:00"
+    },
+    {
+      "id": "fcc4d53f9f74",
+      "title": "FullStack Software Engineer - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200666981-3715/fullstack-software-engineer?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a FullStack Software Engineer job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-06-14",
+      "timestamp": "2026-06-14T06:17:18+00:00",
+      "fetched_at": "2026-06-14T08:04:47.229419+00:00"
+    },
+    {
+      "id": "d5fca94d3fa8",
+      "title": "DevOps Engineer #730645 REMOTE",
+      "company": "Unknown Company",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://recruit.hirebridge.com/v3/jobs/jobdetails.aspx?cid=7884&jid=730645",
+      "source": "Other",
+      "description": "Job Summary: We are seeking an experienced DevOps Engineer to design, build, and maintain modern cloud infrastructure and CI/CD pipelines supporting ...",
+      "date": "2026-06-14",
+      "timestamp": "2026-06-14T05:18:01+00:00",
+      "fetched_at": "2026-06-14T08:04:47.229557+00:00"
+    },
+    {
+      "id": "c4d3acabc4f6",
+      "title": "Software Engineer I - Walgreens Careers",
+      "company": "Walgreens Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.walgreens.com/en/job/-/-/1242/96236836400",
+      "source": "Other",
+      "description": "Creating a better framework for our company and your career. Software Engineer I. Address: 106 WILMOT RD,DEERFIELD,IL ...",
+      "date": "2026-06-14",
+      "timestamp": "2026-06-14T02:21:18+00:00",
+      "fetched_at": "2026-06-14T08:04:47.229688+00:00"
+    },
+    {
+      "id": "f6fcd4693a29",
+      "title": "AI Engineer Jobs - ClearanceJobs",
+      "company": "ClearanceJobs",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.clearancejobs.com/jobs/8974813/ai-engineer",
+      "source": "Other",
+      "description": "AI Engineer requiring an active security clearance. Find other MANTECH defense and intelligence career opportunities on ClearanceJobs.com.",
+      "date": "2026-06-14",
+      "timestamp": "2026-06-14T02:09:26+00:00",
+      "fetched_at": "2026-06-14T08:04:47.051912+00:00"
+    },
+    {
+      "id": "14d1390a6473",
+      "title": "Senior Platform Engineer (AI & Analytics) - Hybrid - Allianz Careers",
+      "company": "Hybrid - Allianz Careers",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.allianz.com/us/en/job/100603/Senior-Platform-Engineer-AI-Analytics-Hybrid",
+      "source": "Other",
+      "description": "Apply for Senior Platform Engineer (AI & Analytics) - Hybrid job with Allianz in Minneapolis, Minnesota, United States, 55416.",
+      "date": "2026-06-14",
+      "timestamp": "2026-06-14T01:09:29+00:00",
+      "fetched_at": "2026-06-14T08:04:47.052168+00:00"
+    },
+    {
+      "id": "c286bba20d34",
+      "title": "Lead Software Engineer - Android - Chase- Candidate Experience page Careers",
+      "company": "Android - Chase- Candidate Experience page Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210716140/?utm_medium=WorkWithAIML&src=WorkWithAIML&utm_source=google&utm_campaign=WorkWithAIML&source=WorkWithAIMLutm_mediumutm_mediumutm_medium",
+      "source": "Other",
+      "description": "As a Senior Lead Software Engineer at JPMorgan Chase within an agile team, you are an integral part of an agile team that works to enhance, build, and ...",
+      "date": "2026-06-14",
+      "timestamp": "2026-06-14T01:05:12+00:00",
+      "fetched_at": "2026-06-14T08:04:47.230313+00:00"
+    },
+    {
+      "id": "c713df7e578b",
+      "title": "Software Engineer II Job in Mississauga, ON - TD Bank",
+      "company": "TD Bank",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://tdbank.jobs/locations/mississauga-on/job-titles/software-engineer-ii/jobs/",
+      "source": "Other",
+      "description": "Software Engineer II Job in Mississauga, ON, updated and verified daily by DirectEmployers Association.",
+      "date": "2026-06-14",
+      "timestamp": "2026-06-14T00:52:37+00:00",
+      "fetched_at": "2026-06-14T08:04:47.230455+00:00"
+    },
+    {
+      "id": "92b63126f64c",
+      "title": "Senior Software Engineer - Myworkdayjobs.com",
+      "company": "Visa",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Austin-TX/Senior-Software-Engineer_REF079040W/apply",
+      "source": "Workday",
+      "description": "Senior Software Engineer . Choose an option to complete your application. On the next page, you will be required to create an account or log into ...",
+      "date": "2026-06-13",
+      "timestamp": "2026-06-13T23:40:47+00:00",
+      "fetched_at": "2026-06-14T08:04:47.052281+00:00"
+    },
+    {
+      "id": "f56609b63c5a",
+      "title": "Embedded Software Engineer (cleared) - Scottsdale, AZ, US - 2026-72250",
+      "company": "Scottsdale, AZ, US - 2026-72250",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://gdmissionsystems.com/careers/embedded-software-engineer-cleared-scottsdale-az-us-2026-72250-opportunity?mode=job&iis=LocalJobNetwork",
+      "source": "Other",
+      "description": "A Software Engineer designs, develops, tests, and maintains software applications or related, Science, Engineering or Mathematics fields, ...",
+      "date": "2026-06-13",
+      "timestamp": "2026-06-13T21:51:11+00:00",
+      "fetched_at": "2026-06-14T08:04:47.052710+00:00"
+    },
     {
       "id": "f55748168ab7",
       "title": "Software Engineer (New College Grad - Masters)) - Myworkdayjobs.com",
@@ -94,6 +244,36 @@
       "date": "2026-06-13",
       "timestamp": "2026-06-13T20:48:17+00:00",
       "fetched_at": "2026-06-14T02:06:30.690973+00:00"
+    },
+    {
+      "id": "9846fd14a664",
+      "title": "Software Engineer [Multiple Positions Available] - JPMorgan Chase",
+      "company": "JPMorgan Chase",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210754005/?utm_=undefined",
+      "source": "Other",
+      "description": "Software Engineer [Multiple Positions Available]. Plano, TX, United States. Apply Now. Job Identification 210754005; Job Category Software Engineering ...",
+      "date": "2026-06-13",
+      "timestamp": "2026-06-13T18:23:50+00:00",
+      "fetched_at": "2026-06-14T08:04:47.053751+00:00"
+    },
+    {
+      "id": "1d865b00509f",
+      "title": "Machine Learning Engineer , Simulation Evaluation - Mountain View, California, United States",
+      "company": "Mountain View, California, United States",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.withwaymo.com/jobs/machine-learning-engineer-simulation-evaluation-mountain-view-california-united-states",
+      "source": "Other",
+      "description": "Machine Learning Engineer , Simulation Evaluation. Mountain View, California, United States Full-Time Software Engineering 4971. Apply now. Machine ...",
+      "date": "2026-06-13",
+      "timestamp": "2026-06-13T18:10:32+00:00",
+      "fetched_at": "2026-06-14T08:04:47.054050+00:00"
     },
     {
       "id": "da181bf16359",
@@ -169,6 +349,21 @@
       "date": "2026-06-13",
       "timestamp": "2026-06-13T16:52:49+00:00",
       "fetched_at": "2026-06-13T20:57:45.629281+00:00"
+    },
+    {
+      "id": "753fea1dc7a0",
+      "title": "Lead Software Engineer | ASSA ABLOY",
+      "company": "ASSA ABLOY",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.assaabloy.com/career/en/open-positions/job.48850",
+      "source": "Other",
+      "description": "Lead Software Engineer . ASSA ABLOY is a global leader in access solutions, dedicated to shaping the future of security and convenience. With a rich ...",
+      "date": "2026-06-13",
+      "timestamp": "2026-06-13T15:41:46+00:00",
+      "fetched_at": "2026-06-14T08:04:47.232821+00:00"
     },
     {
       "id": "18e3e2d249b8",
