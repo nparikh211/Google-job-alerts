@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-06-14T20:55:18.713632+00:00",
-  "total_jobs": 3769,
+  "last_updated": "2026-06-15T02:11:01.925434+00:00",
+  "total_jobs": 3781,
   "stats": {
-    "total_companies": 2015,
+    "total_companies": 2022,
     "total_roles": 62,
     "regions": {
-      "India": 2377,
-      "Philippines": 809,
+      "India": 2387,
+      "Philippines": 811,
       "Remote": 464,
       "Unknown": 135
     },
     "sources": {
-      "Other": 2965,
+      "Other": 2974,
       "Greenhouse": 192,
-      "Workday": 175,
-      "LinkedIn": 139,
+      "Workday": 176,
+      "LinkedIn": 140,
       "Ashby": 114,
       "iCIMS": 40,
       "Breezy": 38,
-      "Lever": 30,
+      "Lever": 31,
       "Workable": 22,
       "SmartRecruiters": 19,
       "Indeed": 17,
@@ -31,10 +31,145 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-06-14"
+      "latest": "2026-06-15"
     }
   },
   "jobs": [
+    {
+      "id": "19d1fc178bc5",
+      "title": "Senior Software Engineer - Power BI, SQL at UnitedHealth Group",
+      "company": "UnitedHealth Group",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.unitedhealthgroup.com/job/gurgaon/senior-software-engineer-power-bi-sql/50688/96447863344",
+      "source": "Other",
+      "description": "Senior Software Engineer - Power BI, SQL. Requisition number: 2365468 Job category: Technology Primary location: Gurgaon, Haryana Date posted: 06/14/ ...",
+      "date": "2026-06-15",
+      "timestamp": "2026-06-15T00:35:04+00:00",
+      "fetched_at": "2026-06-15T02:11:01.646201+00:00"
+    },
+    {
+      "id": "b1cff002c0d0",
+      "title": "Vibe Coder vs Software Engineer - Yusuf Aytas",
+      "company": "Yusuf Aytas",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://yusufaytas.com/vibe-coder-vs-software-engineer",
+      "source": "Other",
+      "description": "A software engineer is someone who thinks about the entire software development lifecycle. So the difference is not the tool. The difference is where ...",
+      "date": "2026-06-14",
+      "timestamp": "2026-06-14T23:49:08+00:00",
+      "fetched_at": "2026-06-15T02:11:01.646748+00:00"
+    },
+    {
+      "id": "7eee7b675b20",
+      "title": "Vibe Coder vs. Software Engineer - Hacker News",
+      "company": "Hacker News",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://news.ycombinator.com/item?id=48532116",
+      "source": "Other",
+      "description": "A software engineer is someone who thinks about the entire software development lifecycle. I don't think it's such a simple dichotomy; And ...",
+      "date": "2026-06-14",
+      "timestamp": "2026-06-14T23:01:19+00:00",
+      "fetched_at": "2026-06-15T02:11:01.647033+00:00"
+    },
+    {
+      "id": "f0411bc6c57e",
+      "title": "Software Engineer - Myworkdayjobs.com",
+      "company": "Firstpremier",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://firstpremier.wd503.myworkdayjobs.com/en-US/PREMIER_Careers/job/Software-Engineer_R-293",
+      "source": "Workday",
+      "description": "Position Description: Software Engineer for Premier Bankcard LLC, Sioux Falls, SD. Works from systems designs and specifications and uses standard ...",
+      "date": "2026-06-14",
+      "timestamp": "2026-06-14T22:19:59+00:00",
+      "fetched_at": "2026-06-15T02:11:01.647140+00:00"
+    },
+    {
+      "id": "233913733816",
+      "title": "Genesis Global - Senior Software Engineer (C2 ) - Lever",
+      "company": "Genesis",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.lever.co/genesis/f43f221e-c974-4a35-9030-5924b354e646?lever-source%5B%5D=jobs.illuminatefinancial.com",
+      "source": "Lever",
+      "description": "Senior Software Engineer (C2 ) ... We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, ...",
+      "date": "2026-06-14",
+      "timestamp": "2026-06-14T21:34:53+00:00",
+      "fetched_at": "2026-06-15T02:11:01.647265+00:00"
+    },
+    {
+      "id": "b9e03d4a082e",
+      "title": "Recon Software Engineer in Haifa, Haifa District, Israel, 3508409 - GE HealthCare",
+      "company": "GE HealthCare",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.gehealthcare.com/global/en/job/R4042269/Recon-Software-Engineer",
+      "source": "Other",
+      "description": "The Reconstruction Software Engineer is responsible for design and implementation of medical imaging tomographic reconstruction software, through ...",
+      "date": "2026-06-14",
+      "timestamp": "2026-06-14T21:30:06+00:00",
+      "fetched_at": "2026-06-15T02:11:01.647430+00:00"
+    },
+    {
+      "id": "9b5f44e7719e",
+      "title": "Software Engineer (Infrastructure) \u2013 Peregrine \u2013 Permanent contract in San Francisco",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.welcometothejungle.com/en/companies/peregrine/jobs/software-engineer-infrastructure_san-francisco_52hzehpd",
+      "source": "Other",
+      "description": "Software Engineer (Infrastructure). Job summary. Permanent contract. San ... Senior Backend Engineer (Ruby on Rails) M/F/X. Trustpair.",
+      "date": "2026-06-14",
+      "timestamp": "2026-06-14T21:17:22+00:00",
+      "fetched_at": "2026-06-15T02:11:01.647691+00:00"
+    },
+    {
+      "id": "e4c6c5d3f280",
+      "title": "Software Engineer (Data Platform) - Breathe Battery Technologies - Teamtailor",
+      "company": "Breathe Battery Technologies - Teamtailor",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://breathebatterytechnologies.teamtailor.com/jobs/7901761-software-engineer-data-platform?utm_source=LinkedIn",
+      "source": "Other",
+      "description": "Software Engineer (Data Platform). Apply for this job. Are you passionate about fighting climate change? Do you want to work on creating a world ...",
+      "date": "2026-06-14",
+      "timestamp": "2026-06-14T20:02:14+00:00",
+      "fetched_at": "2026-06-15T02:11:01.907182+00:00"
+    },
+    {
+      "id": "94e4b0f677e4",
+      "title": "Backend Engineer (India) at VectorShift | Y Combinator's Work at a Startup",
+      "company": "VectorShift",
+      "role": "Backend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.workatastartup.com/jobs/96510",
+      "source": "Other",
+      "description": "",
+      "date": "2026-06-14",
+      "timestamp": "2026-06-14T20:01:29+00:00",
+      "fetched_at": "2026-06-15T02:11:01.647813+00:00"
+    },
     {
       "id": "185136237819",
       "title": "Site Reliability Engineer - (4- 7 years) Work Location - Bangalore - Cisco Careers",
@@ -156,6 +291,21 @@
       "fetched_at": "2026-06-14T20:55:18.536673+00:00"
     },
     {
+      "id": "a8ab17b80960",
+      "title": "Senior Software Engineer at Maersk | Flexa Careers",
+      "company": "Maersk",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://flexa.careers/in/jobs/maersk-senior-software-engineer-6967fc88a278ff95eabfaf4a",
+      "source": "Other",
+      "description": "Senior Software Engineer . Employment type: Full time. Salary: $105,000 \u2013 $113,000 per annum. Save job. Apply now. Something wrong? Job Description.",
+      "date": "2026-06-14",
+      "timestamp": "2026-06-14T16:03:47+00:00",
+      "fetched_at": "2026-06-15T02:11:01.649552+00:00"
+    },
+    {
       "id": "aba38b26835d",
       "title": "Senior CUDA Test Development Software Engineer , SDET | NVIDIA Corporation",
       "company": "NVIDIA Corporation",
@@ -169,6 +319,36 @@
       "date": "2026-06-14",
       "timestamp": "2026-06-14T15:42:47+00:00",
       "fetched_at": "2026-06-14T20:55:18.536846+00:00"
+    },
+    {
+      "id": "495f6c9c80ad",
+      "title": "Senior Full Stack Software Engineer \u2013 Sigma Computing \u2013 Permanent contract in San Francisco",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.welcometothejungle.com/en/companies/sigma-computing/jobs/senior-full-stack-software-engineer_san-francisco_naw2dpzh",
+      "source": "Other",
+      "description": "Senior Full Stack Software Engineer . Job summary. Permanent contract. San ... Java Backend Engineer - RUM (m/f/x). Dynatrace. Permanent ...",
+      "date": "2026-06-14",
+      "timestamp": "2026-06-14T14:47:34+00:00",
+      "fetched_at": "2026-06-15T02:11:01.909343+00:00"
+    },
+    {
+      "id": "5baadd0ebeb4",
+      "title": "Senior Full-Stack Software Engineer - Brady Corporation - LinkedIn",
+      "company": "Senior Full",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/senior-full-stack-software-engineer-at-brady-corporation-4427425536",
+      "source": "LinkedIn",
+      "description": "Get notified about new Senior Software Engineer jobs in Salt Lake City, UT. Sign in to create job alert. Similar jobs. Senior Full Stack Engineer ...",
+      "date": "2026-06-14",
+      "timestamp": "2026-06-14T14:07:21+00:00",
+      "fetched_at": "2026-06-15T02:11:01.649936+00:00"
     },
     {
       "id": "452e99f95d84",
