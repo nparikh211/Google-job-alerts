@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-06-15T16:47:09.230366+00:00",
-  "total_jobs": 3822,
+  "last_updated": "2026-06-15T22:06:57.284551+00:00",
+  "total_jobs": 3844,
   "stats": {
-    "total_companies": 2040,
+    "total_companies": 2051,
     "total_roles": 62,
     "regions": {
-      "India": 2414,
-      "Philippines": 820,
-      "Remote": 469,
+      "India": 2429,
+      "Philippines": 824,
+      "Remote": 472,
       "Unknown": 135
     },
     "sources": {
-      "Other": 3010,
-      "Greenhouse": 194,
-      "Workday": 176,
+      "Other": 3028,
+      "Greenhouse": 195,
+      "Workday": 178,
       "LinkedIn": 142,
-      "Ashby": 114,
+      "Ashby": 115,
       "iCIMS": 40,
       "Breezy": 39,
       "Lever": 31,
@@ -35,6 +35,336 @@
     }
   },
   "jobs": [
+    {
+      "id": "b15a62b05cc3",
+      "title": "Job Application for Senior Software Engineer at Parachute Health - Greenhouse",
+      "company": "Parachutehealth",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/parachutehealth/jobs/5164811007",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer . U.S. (Remote). Apply. Parachute Health is transforming post-acute care as the leading digital ordering platform for medical ...",
+      "date": "2026-06-15",
+      "timestamp": "2026-06-15T21:12:56+00:00",
+      "fetched_at": "2026-06-15T22:06:57.194423+00:00"
+    },
+    {
+      "id": "a5d9f547b034",
+      "title": "Data Engineer - Databricks (No Sponsorship Available) - Myworkdayjobs.com",
+      "company": "Thgrp",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://thgrp.wd12.myworkdayjobs.com/HeritageConstructionMaterials/job/Indianapolis-IN/Data-Engineer---Databricks--No-Sponsorship-Available-_R-1544",
+      "source": "Workday",
+      "description": "Build Your Career at Heritage Construction + Materials! We are seeking a highly skilled Data Engineer to support the design, development, ...",
+      "date": "2026-06-15",
+      "timestamp": "2026-06-15T20:54:34+00:00",
+      "fetched_at": "2026-06-15T22:06:57.194557+00:00"
+    },
+    {
+      "id": "6372764ce9b2",
+      "title": "Senior Software Engineer - AI Opportunity Opening in Atlanta, Georgia",
+      "company": "AI Opportunity Opening in Atlanta, Georgia",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://cb.careerwebsite.com/job/senior-software-engineer-ai/84711541/",
+      "source": "Other",
+      "description": "A new Senior Software Engineer - AI opportunity is available in Atlanta, Georgia ... Opportunities You May Like. CB. Senior Data Engineer .",
+      "date": "2026-06-15",
+      "timestamp": "2026-06-15T20:50:03+00:00",
+      "fetched_at": "2026-06-15T22:06:57.195712+00:00"
+    },
+    {
+      "id": "68eba9276412",
+      "title": "Senior Software Engineer | Pearson",
+      "company": "Pearson",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://pearson.jobs/virtual-usa/senior-software-engineer/90F1C00CB92246148D88C3BD79D095DC/job/",
+      "source": "Other",
+      "description": "We're looking for a Senior Software Engineer / Architect to join our engineering organization as a senior individual contributor. This is a high- ...",
+      "date": "2026-06-15",
+      "timestamp": "2026-06-15T20:48:17+00:00",
+      "fetched_at": "2026-06-15T22:06:57.196239+00:00"
+    },
+    {
+      "id": "c6508ade1150",
+      "title": "Cloud Engineer | Onyx CenterSource",
+      "company": "Onyx CenterSource",
+      "role": "Cloud Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/onyxcentersource/jobs/10c83280-5547-40b3-a5a1-d2c109f5b3bc",
+      "source": "Other",
+      "description": "The Cloud Engineer is responsible for supporting and maintaining network, cloud, and infrastructure systems with a strong emphasis on AWS networking ...",
+      "date": "2026-06-15",
+      "timestamp": "2026-06-15T20:38:24+00:00",
+      "fetched_at": "2026-06-15T22:06:57.196418+00:00"
+    },
+    {
+      "id": "dd14ec0953f7",
+      "title": "Senior Site Reliability Engineer , Durham, NC | Fidelity Careers",
+      "company": "Fidelity Careers",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.fidelity.com/en/jobs/2129812/senior-site-reliability-engineer/",
+      "source": "Other",
+      "description": "Senior Site Reliability Engineer . Published: Jun 15. ID: 2129812 ... Senior Software Engineer /Developer. Save Saved. Technology Published: Jun ...",
+      "date": "2026-06-15",
+      "timestamp": "2026-06-15T19:40:03+00:00",
+      "fetched_at": "2026-06-15T22:06:57.196584+00:00"
+    },
+    {
+      "id": "a72fe6c28ae6",
+      "title": "AI Software Engineer - Search Infrastructure - Seattle, Washington, United States",
+      "company": "Search Infrastructure - Seattle, Washington, United States",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.zoom.us/jobs/ai-software-engineer-search-infrastructure-seattle-washington-united-states-b1f374ec-db1f-4acc-96eb-09351e0da268",
+      "source": "Other",
+      "description": "AI Software Engineer - Search InfrastructureWhat you can expectWe ... Applied AI Engineer What you can expect Deploy production AI agents for ...",
+      "date": "2026-06-15",
+      "timestamp": "2026-06-15T19:25:43+00:00",
+      "fetched_at": "2026-06-15T22:06:57.197075+00:00"
+    },
+    {
+      "id": "39d6478fafd9",
+      "title": "Senior Software Engineer - Piper Companies",
+      "company": "Piper Companies",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.pipercompanies.com/details/167866/senior_software_engineer",
+      "source": "Other",
+      "description": "Senior Software Engineer . Durham, North Carolina. Apply Now. Back To Search. Job Attributes. Piper Companies Logo. Job Id: 167866. Job Category: Job ...",
+      "date": "2026-06-15",
+      "timestamp": "2026-06-15T18:53:41+00:00",
+      "fetched_at": "2026-06-15T22:06:57.197241+00:00"
+    },
+    {
+      "id": "fa14dc3dd46e",
+      "title": "Full Stack Engineer , ChatGPT Finances | OpenAI",
+      "company": "OpenAI",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://openai.com/careers/full-stack-engineer-chatgpt-finances-san-francisco/",
+      "source": "Other",
+      "description": "Full Stack Engineer , ChatGPT Finances | OpenAI. Careers. Full Stack Engineer , ChatGPT Finances. Applied AI Engineering - San Francisco. Apply now ...",
+      "date": "2026-06-15",
+      "timestamp": "2026-06-15T18:41:59+00:00",
+      "fetched_at": "2026-06-15T22:06:57.197417+00:00"
+    },
+    {
+      "id": "f177accb0238",
+      "title": "Transitioning From Frontend Engineer to DevOps Engineer - Reddit",
+      "company": "Reddit",
+      "role": "Frontend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/devops/comments/1u6l1xb/transitioning_from_frontend_engineer_to_devops/",
+      "source": "Other",
+      "description": "Transitioning From Frontend Engineer to DevOps Engineer . Career / learning. To put it plainly, I am currently a Frontend engineer looking to ...",
+      "date": "2026-06-15",
+      "timestamp": "2026-06-15T18:37:13+00:00",
+      "fetched_at": "2026-06-15T22:06:57.197604+00:00"
+    },
+    {
+      "id": "71b958b52f10",
+      "title": "Staff Software Engineer Embedded UI, Sunnyvale, CA, United States - Intuitive Careers",
+      "company": "Intuitive Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.intuitive.com/en/jobs/744000132240830/JOB214302/staff-software-engineer-embedded-ui/",
+      "source": "Other",
+      "description": "Job Description Primary Function of Position: As a Staff Software Engineer Embedded UI on the Future Forward team, you will develop innovative ...",
+      "date": "2026-06-15",
+      "timestamp": "2026-06-15T18:21:38+00:00",
+      "fetched_at": "2026-06-15T22:06:57.197957+00:00"
+    },
+    {
+      "id": "b66b8c914dc2",
+      "title": "Software Engineer \u2013 Front-End Focus (.NET) - (Remote) @ Archesys Inc",
+      "company": "Archesys Inc",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://archesys.rippling-ats.com/job/672299/software-engineer-front-end-focus-net-remote",
+      "source": "Other",
+      "description": "We're looking for a great Software Engineer \u2013 Front-End Focus (.NET) - (Remote) to join our team at Archesys Inc.",
+      "date": "2026-06-15",
+      "timestamp": "2026-06-15T18:21:10+00:00",
+      "fetched_at": "2026-06-15T22:06:57.198141+00:00"
+    },
+    {
+      "id": "0cba8725e30c",
+      "title": "Lead Google Cloud Platform Data Engineer - Lorven Technologies, Inc. - Charlotte, NC, US",
+      "company": "Lorven Technologies, Inc. - Charlotte, NC, US",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.dice.com/job-detail/b4d968a7-332c-4f4b-833d-654c5e18b49a",
+      "source": "Other",
+      "description": "Today. Location: Charlotte, NC Salary: $69.00 USD Hourly - $74.00 USD Hourly Description: Senior Software Engineer - Data Engineering (Google Cloud ...",
+      "date": "2026-06-15",
+      "timestamp": "2026-06-15T18:17:38+00:00",
+      "fetched_at": "2026-06-15T22:06:57.198323+00:00"
+    },
+    {
+      "id": "59fa89eda3cb",
+      "title": "Data Engineer - Remote at UnitedHealth Group",
+      "company": "UnitedHealth Group",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.unitedhealthgroup.com/job/minnetonka/data-engineer-remote/50688/96476225152",
+      "source": "Other",
+      "description": "Collaborate with the other data engineer to share responsibility across different pipelines or sources, ensuring redundancy and knowledge transfer ...",
+      "date": "2026-06-15",
+      "timestamp": "2026-06-15T18:06:59+00:00",
+      "fetched_at": "2026-06-15T22:06:57.198462+00:00"
+    },
+    {
+      "id": "690629bb5178",
+      "title": "Software Engineer - Apple TV App - Jobs",
+      "company": "Apple TV App - Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200668249-3337/software-engineer-apple-tv-app?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Software Engineer - Apple TV App job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-06-15",
+      "timestamp": "2026-06-15T17:55:05+00:00",
+      "fetched_at": "2026-06-15T22:06:57.198769+00:00"
+    },
+    {
+      "id": "f4d874801e77",
+      "title": "Machine Learning Engineer in Bucharest, Bucure\u015fti, Romania - Adobe Careers",
+      "company": "Adobe Careers",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.adobe.com/us/en/job/R169475/Machine-Learning-Engineer",
+      "source": "Other",
+      "description": "Platform Engineer - Observability. Location Bucharest, Bucure\u015fti ... DevOps Engineer - Observability. Location Bucharest, Bucure\u015fti, Romania ...",
+      "date": "2026-06-15",
+      "timestamp": "2026-06-15T17:49:42+00:00",
+      "fetched_at": "2026-06-15T22:06:57.199140+00:00"
+    },
+    {
+      "id": "8fad75cff2e9",
+      "title": "Software Engineer at UnitedHealth Group",
+      "company": "UnitedHealth Group",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.unitedhealthgroup.com/job/noida/software-engineer/50688/95092881280",
+      "source": "Other",
+      "description": "We are looking for a Senior Software Engineer with strong CICS application development experience to support and enhance mission critical healthcare ...",
+      "date": "2026-06-15",
+      "timestamp": "2026-06-15T17:48:05+00:00",
+      "fetched_at": "2026-06-15T22:06:57.267708+00:00"
+    },
+    {
+      "id": "84762d57d010",
+      "title": "Software Engineer - Visa - Myworkdayjobs.com",
+      "company": "Visa",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/IN---Bengaluru-India/Software-Engineer_REF082862W-1",
+      "source": "Workday",
+      "description": "This position is ideal for a software engineer with a strong engineering mindset who enjoys solving real-world reliability challenges at scale, ...",
+      "date": "2026-06-15",
+      "timestamp": "2026-06-15T17:45:45+00:00",
+      "fetched_at": "2026-06-15T22:06:57.267788+00:00"
+    },
+    {
+      "id": "bee46096e63f",
+      "title": "Senior AI/ ML Engineer - Jobs - Fidelity Careers",
+      "company": "Jobs - Fidelity Careers",
+      "role": "ML Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.fidelity.com/en/jobs/2129112/senior-aiml-engineer/",
+      "source": "Other",
+      "description": "Job Description: Note: Fidelity is not providing immigration sponsorship for this position. Principal AI/ML Platforms and Backend Engineer Bring a ...",
+      "date": "2026-06-15",
+      "timestamp": "2026-06-15T17:43:44+00:00",
+      "fetched_at": "2026-06-15T22:06:57.267954+00:00"
+    },
+    {
+      "id": "a89dc4a24c9a",
+      "title": "AI Engineer @ Roger Healthcare - Jobs",
+      "company": "Rogerhealthcare",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/rogerhealthcare/5c5a96ca-819b-4fe2-97c3-50e7245f8937",
+      "source": "Ashby",
+      "description": "Roger is hiring an AI Engineer to build the intelligence layer behind our healthcare AI platform: training and fine-tuning models, building eval ...",
+      "date": "2026-06-15",
+      "timestamp": "2026-06-15T17:34:25+00:00",
+      "fetched_at": "2026-06-15T22:06:57.268055+00:00"
+    },
+    {
+      "id": "9412534a3404",
+      "title": "Senior Data Engineer Job Opening in Atlanta, Georgia - abilityJOBS",
+      "company": "abilityJOBS",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://career.abilityjobs.com/job/senior-data-engineer/84711543/",
+      "source": "Other",
+      "description": "A new Senior Data Engineer job is available in Atlanta, Georgia. Check ... Senior Software Engineer - AI. Community Brands. Atlanta, GA, United ...",
+      "date": "2026-06-15",
+      "timestamp": "2026-06-15T17:34:18+00:00",
+      "fetched_at": "2026-06-15T22:06:57.268190+00:00"
+    },
+    {
+      "id": "ed938b1094ab",
+      "title": "Principal Software Engineer - - Upstart Careers",
+      "company": "- Upstart Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.upstart.com/jobs/principal-software-engineer-35cade25-dd9a-44ab-8a86-00a6198c5c83",
+      "source": "Other",
+      "description": "As a Principal Software Engineer , you will provide technical leadership across a growing portfolio of internal platforms and automation systems. You ...",
+      "date": "2026-06-15",
+      "timestamp": "2026-06-15T17:33:50+00:00",
+      "fetched_at": "2026-06-15T22:06:57.268410+00:00"
+    },
     {
       "id": "fa4e3ebd1e14",
       "title": "Site Reliability Engineer - Observability in Bucharest, Bucure\u015fti, Romania | Design at Adobe",
