@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-06-16T02:14:45.378616+00:00",
-  "total_jobs": 3858,
+  "last_updated": "2026-06-16T09:12:50.471614+00:00",
+  "total_jobs": 3868,
   "stats": {
-    "total_companies": 2056,
+    "total_companies": 2060,
     "total_roles": 62,
     "regions": {
-      "India": 2442,
-      "Philippines": 824,
-      "Remote": 473,
+      "India": 2446,
+      "Philippines": 829,
+      "Remote": 474,
       "Unknown": 135
     },
     "sources": {
-      "Other": 3042,
+      "Other": 3048,
       "Greenhouse": 195,
-      "Workday": 178,
-      "LinkedIn": 142,
-      "Ashby": 115,
+      "Workday": 180,
+      "LinkedIn": 143,
+      "Ashby": 116,
       "iCIMS": 40,
       "Breezy": 39,
       "Lever": 31,
@@ -35,6 +35,141 @@
     }
   },
   "jobs": [
+    {
+      "id": "88d918cec381",
+      "title": "Software Engineer I - Careers - Myworkdayjobs.com",
+      "company": "Zebra",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Bengaluru-India/Software-Engineer-I_JR101992",
+      "source": "Workday",
+      "description": "Software Engineer I ... Overview: At Zebra, we are a community of innovators who come together to create new ways of working. United by curiosity and a ...",
+      "date": "2026-06-16",
+      "timestamp": "2026-06-16T07:50:45+00:00",
+      "fetched_at": "2026-06-16T09:12:50.451930+00:00"
+    },
+    {
+      "id": "3fe2df0e08f0",
+      "title": "Senior Software Engineer - - Upstart Careers",
+      "company": "- Upstart Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.upstart.com/jobs/senior-software-engineer-973ba897-5d40-4431-b128-1141c58f3adf",
+      "source": "Other",
+      "description": "As a Senior Software Engineer , you will design and build internal applications that power critical bank functions. You'll work across software systems ...",
+      "date": "2026-06-16",
+      "timestamp": "2026-06-16T06:47:41+00:00",
+      "fetched_at": "2026-06-16T09:12:50.452192+00:00"
+    },
+    {
+      "id": "9e9851e0007b",
+      "title": "Senior Software Engineer (Full-Stack) @ Found - Jobs",
+      "company": "Found",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.ashbyhq.com/found/20795864-e7c3-4836-b5bc-26190f79bed3",
+      "source": "Ashby",
+      "description": "Senior Software Engineer (Full-Stack). Location. San Francisco, New York or Remote (USA); Vancouver, Toronto or Remote (Canada). Employment Type. Full ...",
+      "date": "2026-06-16",
+      "timestamp": "2026-06-16T06:30:02+00:00",
+      "fetched_at": "2026-06-16T09:12:50.452326+00:00"
+    },
+    {
+      "id": "eab695232548",
+      "title": "Java Backend Engineer , Aladdin Engineering, Associate - BlackRock Careers",
+      "company": "BlackRock Careers",
+      "role": "Backend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.blackrock.com/job/mumbai/java-backend-engineer-aladdin-engineering-associate/45831/96465192992",
+      "source": "Other",
+      "description": "At BlackRock, technology is the foundation of our business. As an Associate, Java Backend Engineer , you'll build resilient systems that power our ...",
+      "date": "2026-06-16",
+      "timestamp": "2026-06-16T04:33:56+00:00",
+      "fetched_at": "2026-06-16T09:12:50.452548+00:00"
+    },
+    {
+      "id": "06251b327cdb",
+      "title": "Applied AI Engineer | Barry Eom - LinkedIn",
+      "company": "Barry Eom - LinkedIn",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/posts/barium56_applied-ai-engineer-activity-7472305353209331714-IuHU",
+      "source": "LinkedIn",
+      "description": "Applied AI Engineer ... AI/ ML Engineer | GenAI & RAG | Databricks | PySpark | MLOps | AWS SageMaker | Machine Learning Engineer | Data Scientist.",
+      "date": "2026-06-16",
+      "timestamp": "2026-06-16T03:04:39+00:00",
+      "fetched_at": "2026-06-16T09:12:50.452786+00:00"
+    },
+    {
+      "id": "3585f2b56eee",
+      "title": "Software Engineer II - Pinterest Careers",
+      "company": "Pinterest Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.pinterestcareers.com/jobs/7958766/software-engineer-ii/?gh_jid=7958766",
+      "source": "Other",
+      "description": "Staff Software Engineer , Merchants. Save Saved. San Francisco + 1 other locations; Engineering. Software Engineer II, Backend, tvScientific. Save",
+      "date": "2026-06-16",
+      "timestamp": "2026-06-16T02:58:14+00:00",
+      "fetched_at": "2026-06-16T09:12:50.172538+00:00"
+    },
+    {
+      "id": "7fdc66e1da69",
+      "title": "Full-Stack Engineer - Stripe",
+      "company": "Full",
+      "role": "Stack Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://stripe.com/jobs/listing/full-stack-engineer/8003382/apply",
+      "source": "Other",
+      "description": "Jobs \u00b7 Jobs \u00b7 Full-Stack Engineer .",
+      "date": "2026-06-16",
+      "timestamp": "2026-06-16T01:56:22+00:00",
+      "fetched_at": "2026-06-16T09:12:50.453435+00:00"
+    },
+    {
+      "id": "df4bd0b6cef9",
+      "title": "Senior Machine Learning Engineer - Rubrik",
+      "company": "Rubrik",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.rubrik.com/company/careers/departments/job.7942501.1929?reqId=10978",
+      "source": "Other",
+      "description": "Senior Machine Learning Engineer . Palo Alto, CA HQ Office. Engineering ... As an Applied ML Engineer on the SAGE team, you'll work end-to-end ...",
+      "date": "2026-06-16",
+      "timestamp": "2026-06-16T00:36:26+00:00",
+      "fetched_at": "2026-06-16T09:12:50.453600+00:00"
+    },
+    {
+      "id": "90bac0618157",
+      "title": "Data Engineer , Prime Video - GSS Planning & Strategy - Job ID: 10449267 | Amazon.jobs",
+      "company": "GSS Planning & Strategy - Job ID: 10449267 | Amazon.jobs",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.amazon.jobs/en/jobs/10449267/data-engineer-prime-video-gss-planning-strategy",
+      "source": "Other",
+      "description": "Within our Prime Video Global Operations team, we're looking for a results-driven Data Engineer to build and scale the data infrastructure backbone ...",
+      "date": "2026-06-16",
+      "timestamp": "2026-06-16T00:29:31+00:00",
+      "fetched_at": "2026-06-16T09:12:50.173220+00:00"
+    },
     {
       "id": "e0d2aa76b059",
       "title": "Lead Data Engineer at Capital One",
@@ -64,6 +199,21 @@
       "date": "2026-06-16",
       "timestamp": "2026-06-16T00:11:19+00:00",
       "fetched_at": "2026-06-16T02:14:45.128686+00:00"
+    },
+    {
+      "id": "70adbd5fd155",
+      "title": "AI Core Software Engineer - Logo - Myworkdayjobs.com",
+      "company": "Dtn",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://dtn.wd1.myworkdayjobs.com/en-US/DTN_Careers/job/Software-Engineer---AI-Core-Team_R-003084",
+      "source": "Workday",
+      "description": "... Software Engineer on the AI Core Team, you'll be at the heart of ... ML Engineer , Coursera/DeepLearning.AI specializations). Experience or ...",
+      "date": "2026-06-15",
+      "timestamp": "2026-06-15T23:57:48+00:00",
+      "fetched_at": "2026-06-16T09:12:50.454343+00:00"
     },
     {
       "id": "233cf1d6fbe5",
