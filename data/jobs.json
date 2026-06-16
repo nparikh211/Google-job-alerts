@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-06-16T09:12:50.471614+00:00",
-  "total_jobs": 3868,
+  "last_updated": "2026-06-16T16:16:16.278244+00:00",
+  "total_jobs": 3887,
   "stats": {
-    "total_companies": 2060,
+    "total_companies": 2069,
     "total_roles": 62,
     "regions": {
-      "India": 2446,
-      "Philippines": 829,
-      "Remote": 474,
+      "India": 2454,
+      "Philippines": 835,
+      "Remote": 479,
       "Unknown": 135
     },
     "sources": {
-      "Other": 3048,
+      "Other": 3060,
       "Greenhouse": 195,
-      "Workday": 180,
+      "Workday": 182,
       "LinkedIn": 143,
-      "Ashby": 116,
-      "iCIMS": 40,
-      "Breezy": 39,
+      "Ashby": 118,
+      "iCIMS": 42,
+      "Breezy": 40,
       "Lever": 31,
       "Workable": 22,
       "SmartRecruiters": 19,
@@ -36,6 +36,216 @@
   },
   "jobs": [
     {
+      "id": "3f2ff6561e01",
+      "title": "Data Engineer - Hours are Sat thru Wed 9-6 PT in Remote - Cotiviti | Careers Center - ICIMS",
+      "company": "thru Wed 9",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers-cotiviti.icims.com/jobs/19160/data-engineer---hours-are-sat-thru-wed-9-6-pt/job",
+      "source": "iCIMS",
+      "description": "US Nationwide Remote is now hiring a Data Engineer - Hours are Sat thru Wed 9-6 PT in Remote. Review all of the job details and apply today!",
+      "date": "2026-06-16",
+      "timestamp": "2026-06-16T16:10:14+00:00",
+      "fetched_at": "2026-06-16T16:16:16.258365+00:00"
+    },
+    {
+      "id": "863bd1048d38",
+      "title": "Software Engineer - Dallas, TX - Corporate Tools",
+      "company": "Dallas, TX - Corporate Tools",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.corporatetools.com/job-postings/engineering-and-development/software-engineer-dallas-tx/",
+      "source": "Other",
+      "description": "Corporate Tools is hiring a Software Engineer in Dallas, TX. You will be a traditional company employee. This role is remote for now, ...",
+      "date": "2026-06-16",
+      "timestamp": "2026-06-16T16:07:18+00:00",
+      "fetched_at": "2026-06-16T16:16:16.258568+00:00"
+    },
+    {
+      "id": "4964237e14da",
+      "title": "Senior DevOps Platform Engineer (Remote Opportunity) at VetsEZ",
+      "company": "Vetsez",
+      "role": "Platform Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://vetsez.breezy.hr/p/14ac852d075501-senior-devops-platform-engineer-remote-opportunity",
+      "source": "Breezy",
+      "description": "VetsEZ is seeking a Senior DevSecOps / Platform Engineer to support a large federal healthcare technology program. In this role, you will design, ...",
+      "date": "2026-06-16",
+      "timestamp": "2026-06-16T15:09:54+00:00",
+      "fetched_at": "2026-06-16T16:16:16.258706+00:00"
+    },
+    {
+      "id": "a3b150795652",
+      "title": "Data Engineer Job Details | Coloplast A/S",
+      "company": "Coloplast A/S",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.coloplast.com/ComfortMedical/job/Minneapolis-Data-Engineer-MN-55401/1404772033/",
+      "source": "Other",
+      "description": "Data Engineer \u00b7 Collaborate with analysts to standardize and streamline Power BI and Fabric Semantic Models, reducing inconsistencies in reporting ...",
+      "date": "2026-06-16",
+      "timestamp": "2026-06-16T14:52:56+00:00",
+      "fetched_at": "2026-06-16T16:16:15.856873+00:00"
+    },
+    {
+      "id": "cc97b821781d",
+      "title": "Software Engineer , Applications @ Voxel - Jobs",
+      "company": "Voxel",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/voxel/eaed8e6e-fc6e-4d21-91b9-a722fda3997e",
+      "source": "Ashby",
+      "description": "Software Engineer , Applications. Location. San Francisco, CA. Employment Type. Full time. Location Type. Hybrid. Department. EngineeringApplications ...",
+      "date": "2026-06-16",
+      "timestamp": "2026-06-16T14:35:35+00:00",
+      "fetched_at": "2026-06-16T16:16:16.258952+00:00"
+    },
+    {
+      "id": "e7bd6ac51ddd",
+      "title": "Senior AI Engineer - Blue Orange Digital",
+      "company": "Blue Orange Digital",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.blueorange.digital/jobs/644325-senior-ai-engineer",
+      "source": "Other",
+      "description": "Senior AI Engineer . Apply for this job. Company overview: Blue Orange Digital is a boutique data & AI consultancy that delivers enterprise-grade ...",
+      "date": "2026-06-16",
+      "timestamp": "2026-06-16T14:33:46+00:00",
+      "fetched_at": "2026-06-16T16:16:16.259099+00:00"
+    },
+    {
+      "id": "a51ce90d6b7d",
+      "title": "Software Engineer - 64465 - MANTECH",
+      "company": "64465 - MANTECH",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.mantech.com/en_US/careers/JobDetail/Software-Engineer/64465",
+      "source": "Other",
+      "description": "Software Engineer . General information. Requisition #. R68670. Locations. USA-MD-Annapolis Junction. Posting Date. 06/16/2026. Security Clearance ...",
+      "date": "2026-06-16",
+      "timestamp": "2026-06-16T14:21:08+00:00",
+      "fetched_at": "2026-06-16T16:16:16.259237+00:00"
+    },
+    {
+      "id": "bf877b388504",
+      "title": "Software Engineer - Dallas, TX | Corporate Tools",
+      "company": "Dallas, TX | Corporate Tools",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.corporatetools.com/job-postings/engineering-and-development/software-engineer-dallas-tx/",
+      "source": "Other",
+      "description": "Corporate Tools is hiring a Software Engineer in Dallas, TX. You will be a traditional company employee. This role is remote for now, ...",
+      "date": "2026-06-16",
+      "timestamp": "2026-06-16T13:06:37+00:00",
+      "fetched_at": "2026-06-16T16:16:15.857310+00:00"
+    },
+    {
+      "id": "00f50e03f420",
+      "title": "Sr. Data Engineer III - Piper Companies",
+      "company": "Piper Companies",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.pipercompanies.com/details/167881/sr_data_engineer_iii",
+      "source": "Other",
+      "description": "Data Engineer III: Design and maintain scalable data pipelines and ETL workflows; Develop and optimize advanced SQL queries for performance and ...",
+      "date": "2026-06-16",
+      "timestamp": "2026-06-16T12:56:14+00:00",
+      "fetched_at": "2026-06-16T16:16:15.857458+00:00"
+    },
+    {
+      "id": "736c4c4e604a",
+      "title": "Software Engineer I - Careers - Myworkdayjobs.com",
+      "company": "Zebra",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://zebra.wd501.myworkdayjobs.com/en-US/Zebra_careers/job/Software-Engineer-I_JR101990",
+      "source": "Workday",
+      "description": "Software Engineer I ... Overview: At Zebra, we are a community of innovators who come together to create new ways of working. United by curiosity and a ...",
+      "date": "2026-06-16",
+      "timestamp": "2026-06-16T12:19:08+00:00",
+      "fetched_at": "2026-06-16T16:16:15.857643+00:00"
+    },
+    {
+      "id": "538a1dba7809",
+      "title": "Frontend Software Engineer - Myworkdayjobs.com",
+      "company": "Fluenceenergy",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://fluenceenergy.wd12.myworkdayjobs.com/en-GB/fluenceenergy-jobs/job/Frontend-Software-Engineer_JR101196",
+      "source": "Workday",
+      "description": "Frontend Software Engineer ... Fluence (Nasdaq: FLNC) is a global market leader delivering intelligent energy storage and optimization software for ...",
+      "date": "2026-06-16",
+      "timestamp": "2026-06-16T11:29:47+00:00",
+      "fetched_at": "2026-06-16T16:16:15.857726+00:00"
+    },
+    {
+      "id": "645c06d37274",
+      "title": "Constellation Software Engineer , Infrastructure - WindBorne Systems",
+      "company": "WindBorne Systems",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://windbornesystems.com/careers/constellation-software-engineer-infrastructure?utm_source=FireUp+job+board&utm_medium=getro.com&gh_src=FireUp+job+board",
+      "source": "Other",
+      "description": "Constellation Software Engineer , Infrastructure ... WindBorne Systems is supercharging weather forecasts with a unique proprietary data source: a global ...",
+      "date": "2026-06-16",
+      "timestamp": "2026-06-16T10:54:19+00:00",
+      "fetched_at": "2026-06-16T16:16:16.259679+00:00"
+    },
+    {
+      "id": "edb47d6b6716",
+      "title": "Sr Associate Software Engineer \u2013 Biological Studies (LIMS) Jobs at Amgen in India",
+      "company": "Amgen in India",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.amgen.com/en/job/hyderabad/sr-associate-software-engineer-biological-studies-lims/87/96499374896",
+      "source": "Other",
+      "description": "Explore the details of a Sr Associate Software Engineer \u2013 Biological Studies (LIMS) career in Hyderabad. Live. Win. Thrive.",
+      "date": "2026-06-16",
+      "timestamp": "2026-06-16T10:31:59+00:00",
+      "fetched_at": "2026-06-16T16:16:15.857933+00:00"
+    },
+    {
+      "id": "a81c1eb71ef2",
+      "title": "Senior Software Engineer , Backend @ Dave - Jobs",
+      "company": "Dave",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/dave/75e61fb3-3883-4d8f-8c2d-44f75ef9fc1a",
+      "source": "Ashby",
+      "description": "... Backend Engineer to continue building the foundation that empowers ... Senior Software Engineer , Backend. Location. United States. Employment ...",
+      "date": "2026-06-16",
+      "timestamp": "2026-06-16T08:46:55+00:00",
+      "fetched_at": "2026-06-16T16:16:15.858045+00:00"
+    },
+    {
       "id": "88d918cec381",
       "title": "Software Engineer I - Careers - Myworkdayjobs.com",
       "company": "Zebra",
@@ -49,6 +259,21 @@
       "date": "2026-06-16",
       "timestamp": "2026-06-16T07:50:45+00:00",
       "fetched_at": "2026-06-16T09:12:50.451930+00:00"
+    },
+    {
+      "id": "aca9857b49b0",
+      "title": "Senior Software Engineer , BENGALURU, Karn\u0101taka | Wells Fargo",
+      "company": "Wells Fargo",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.wellsfargojobs.com/en/jobs/r-552356/senior-software-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer \u00b7 Lead moderately complex initiatives and deliverables within technical domain environments \u00b7 Contribute to large scale ...",
+      "date": "2026-06-16",
+      "timestamp": "2026-06-16T07:44:46+00:00",
+      "fetched_at": "2026-06-16T16:16:15.858197+00:00"
     },
     {
       "id": "3fe2df0e08f0",
@@ -66,6 +291,21 @@
       "fetched_at": "2026-06-16T09:12:50.452192+00:00"
     },
     {
+      "id": "2c0911219f47",
+      "title": "Data Engineer in Murfreesboro, Tennessee - Job Listings at Ascend Federal Credit Union",
+      "company": "Ascend Federal Credit Union",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://external-ascendfcu.icims.com/jobs/5593/data-engineer/job",
+      "source": "iCIMS",
+      "description": "Murfreesboro Operations Center is now hiring a Data Engineer in Murfreesboro, Tennessee. Review all of the job details and apply today!",
+      "date": "2026-06-16",
+      "timestamp": "2026-06-16T06:30:30+00:00",
+      "fetched_at": "2026-06-16T16:16:16.260284+00:00"
+    },
+    {
       "id": "9e9851e0007b",
       "title": "Senior Software Engineer (Full-Stack) @ Found - Jobs",
       "company": "Found",
@@ -81,6 +321,36 @@
       "fetched_at": "2026-06-16T09:12:50.452326+00:00"
     },
     {
+      "id": "71b3ee400db6",
+      "title": "Staff Software Engineer , Partners & Integrations (Remote - US) - TixTrack - Teamtailor",
+      "company": "US) - TixTrack - Teamtailor",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://tixtrack.teamtailor.com/jobs/7914467-staff-software-engineer-partners-integrations-remote-us",
+      "source": "Other",
+      "description": "Staff Software Engineer , Partners & Integrations (Remote - US). Your ticket to a meaningful career. Apply. We usually respond within two weeks. At ...",
+      "date": "2026-06-16",
+      "timestamp": "2026-06-16T05:46:20+00:00",
+      "fetched_at": "2026-06-16T16:16:16.260592+00:00"
+    },
+    {
+      "id": "8185ae3634ae",
+      "title": "Industrial AI Engineer Job Details - Careers | Volvo Cars",
+      "company": "Careers | Volvo Cars",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.volvocars.com/job/Ridgeville-Industrial-AI-Engineer-SC-29472/1404789033/",
+      "source": "Other",
+      "description": "Industrial AI Engineer . Let's introduce ourselves. Industrial AI Enginner. Ridgeville, SC. Volvo Cars is at the forefront of automotive innovation ...",
+      "date": "2026-06-16",
+      "timestamp": "2026-06-16T05:45:45+00:00",
+      "fetched_at": "2026-06-16T16:16:15.858675+00:00"
+    },
+    {
       "id": "eab695232548",
       "title": "Java Backend Engineer , Aladdin Engineering, Associate - BlackRock Careers",
       "company": "BlackRock Careers",
@@ -94,6 +364,21 @@
       "date": "2026-06-16",
       "timestamp": "2026-06-16T04:33:56+00:00",
       "fetched_at": "2026-06-16T09:12:50.452548+00:00"
+    },
+    {
+      "id": "dcadac3dc735",
+      "title": "Software Engineer - Careers at Moody's",
+      "company": "Moody's",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.moodys.com/en/job/charlotte/software-engineer/49841/96485591664",
+      "source": "Other",
+      "description": "Software Engineer . Charlotte, NC. Apply now. Save job. Posted: 06/15/2026. Job reference: 13656. Experience level: Experienced Hire. Job category ...",
+      "date": "2026-06-16",
+      "timestamp": "2026-06-16T03:22:56+00:00",
+      "fetched_at": "2026-06-16T16:16:16.261071+00:00"
     },
     {
       "id": "06251b327cdb",
