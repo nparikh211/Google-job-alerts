@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-06-17T18:06:27.094926+00:00",
-  "total_jobs": 3952,
+  "last_updated": "2026-06-17T21:48:37.611872+00:00",
+  "total_jobs": 3971,
   "stats": {
-    "total_companies": 2098,
+    "total_companies": 2106,
     "total_roles": 62,
     "regions": {
-      "India": 2499,
-      "Philippines": 842,
-      "Remote": 492,
+      "India": 2513,
+      "Philippines": 844,
+      "Remote": 495,
       "Unknown": 135
     },
     "sources": {
-      "Other": 3113,
+      "Other": 3130,
       "Greenhouse": 199,
       "Workday": 184,
-      "LinkedIn": 144,
+      "LinkedIn": 145,
       "Ashby": 120,
       "iCIMS": 42,
       "Breezy": 41,
@@ -25,9 +25,9 @@
       "BrassRing": 5,
       "Jobvite": 5,
       "Recruitee": 3,
+      "ADP": 2,
       "Taleo": 2,
-      "WeWorkRemotely": 2,
-      "ADP": 1
+      "WeWorkRemotely": 2
     },
     "date_range": {
       "earliest": "2026-04-14",
@@ -35,6 +35,156 @@
     }
   },
   "jobs": [
+    {
+      "id": "31ec0749fa68",
+      "title": "AI Engineer - Forward Deployed Engineer (Multiple Levels), Mexico - Salesforce Careers",
+      "company": "AI Engineer",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.salesforce.com/en/jobs/jr346848/ai-engineer-forward-deployed-engineer-multiple-levels/",
+      "source": "Other",
+      "description": "AI ENGINEER Forward Deployed Engineer Agentforce About Salesforce We're Salesforce, the Customer Company, inspiring the future of business with AI ...",
+      "date": "2026-06-17",
+      "timestamp": "2026-06-17T20:21:33+00:00",
+      "fetched_at": "2026-06-17T21:48:37.399725+00:00"
+    },
+    {
+      "id": "036cadad04ad",
+      "title": "Software Engineer - Caterpillar Careers",
+      "company": "Caterpillar Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.caterpillar.com/pt/empregos/r0000375739/software-engineer/",
+      "source": "Other",
+      "description": "As a Senior Software Engineer on the Data Engineering team, you will be ... Senior Software Engineer . Salvar Salvou. Chicago, Illinois, United ...",
+      "date": "2026-06-17",
+      "timestamp": "2026-06-17T19:30:47+00:00",
+      "fetched_at": "2026-06-17T21:48:37.588494+00:00"
+    },
+    {
+      "id": "b02a15263a70",
+      "title": "Full Stack Software Engineer , Health AI | OpenAI",
+      "company": "OpenAI",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://openai.com/careers/full-stack-software-engineer-health-ai-san-francisco/",
+      "source": "Other",
+      "description": "Full Stack Software Engineer , Health AI \u00b7 Design and build scalable fullstack systems for consumer and enterprise health. \u00b7 Own end-to-end feature ...",
+      "date": "2026-06-17",
+      "timestamp": "2026-06-17T19:20:57+00:00",
+      "fetched_at": "2026-06-17T21:48:37.400153+00:00"
+    },
+    {
+      "id": "97c127965beb",
+      "title": "Software Engineer - South Dakota Board of Regents Employment Opportunities",
+      "company": "South Dakota Board of Regents Employment Opportunities",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://yourfuture.sdbor.edu/postings/48661",
+      "source": "Other",
+      "description": "The University of South Dakota is seeking a Software Engineer to provide application, development, data, and integration support for the USD ...",
+      "date": "2026-06-17",
+      "timestamp": "2026-06-17T19:04:17+00:00",
+      "fetched_at": "2026-06-17T21:48:37.400322+00:00"
+    },
+    {
+      "id": "7c488b6c36a7",
+      "title": "Software Engineer in Reston, Virginia (Hybrid Remote) - Leidos Careers",
+      "company": "Leidos Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.leidos.com/jobs/17883368-software-engineer",
+      "source": "Other",
+      "description": "Software Engineer in Reston, Virginia (Hybrid Remote) ... Cloud Engineer . READ MORE. Oracle ERP / Fusion Solution Architect. READ ...",
+      "date": "2026-06-17",
+      "timestamp": "2026-06-17T19:00:44+00:00",
+      "fetched_at": "2026-06-17T21:48:37.589020+00:00"
+    },
+    {
+      "id": "499eb5be531a",
+      "title": "W2 ONLY- Need AWS Lead Data Engineer in Newark NJ - Digitive LLC - Dice",
+      "company": "W2 ONLY",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.dice.com/job-detail/b2a2af7d-1207-4f52-b70b-962d4ddc75d8",
+      "source": "Other",
+      "description": "21 hours ago - Job title: AWS Lead Data Engineer Location:- 3 days from office - Newark NJ 6-12 Months contract W2 Only&n...",
+      "date": "2026-06-17",
+      "timestamp": "2026-06-17T18:48:50+00:00",
+      "fetched_at": "2026-06-17T21:48:37.400484+00:00"
+    },
+    {
+      "id": "4910f26d8ebf",
+      "title": "Trustcraft ft. Yanxi Chen, Sr. Software Engineer at Vanta | Iccha Sethi - LinkedIn",
+      "company": "Vanta",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/icchasethi_trustcraft-ft-yanxi-chen-sr-software-engineer-activity-7473064229852303360-ceS8",
+      "source": "LinkedIn",
+      "description": "Show Captions. Mute. Fullscreen. Trustcraft ft. Yanxi Chen, Sr. Software Engineer at Vanta. Like Comment. Share. Copy; LinkedIn; Facebook; X; Close ...",
+      "date": "2026-06-17",
+      "timestamp": "2026-06-17T18:04:27+00:00",
+      "fetched_at": "2026-06-17T21:48:37.400786+00:00"
+    },
+    {
+      "id": "412c0f64bc4f",
+      "title": "Databricks Data Engineer | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.apexsystems.com/job/3038893_usa/databricks-data-engineer",
+      "source": "Other",
+      "description": "Databricks Data Engineer . Apply. Job#: 3038893. Job ... $65 - $75 per hour. Similar Jobs. Senior ML Engineer \u2013 Deployment and Databricks MLOps ...",
+      "date": "2026-06-17",
+      "timestamp": "2026-06-17T17:42:57+00:00",
+      "fetched_at": "2026-06-17T21:48:37.400950+00:00"
+    },
+    {
+      "id": "51164d8ce863",
+      "title": "Data Engineer , Vice President - Aladdin Financial Engineering - BlackRock Careers",
+      "company": "Data Engineer , Vice President",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.blackrock.com/job/new-york/data-engineer-vice-president-aladdin-financial-engineering/45831/91621763888",
+      "source": "Other",
+      "description": "Learn more about applying for Data Engineer , Vice President - Aladdin Financial Engineering at BlackRock.",
+      "date": "2026-06-17",
+      "timestamp": "2026-06-17T17:36:08+00:00",
+      "fetched_at": "2026-06-17T21:48:37.401187+00:00"
+    },
+    {
+      "id": "146ebf2d7ee2",
+      "title": "Software Engineer - Caterpillar Careers",
+      "company": "Caterpillar Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.caterpillar.com/en/jobs/r0000375739/software-engineer/",
+      "source": "Other",
+      "description": "As a Senior Software Engineer on the Data Engineering team, you ... Senior Software Engineer . Save Saved. Chicago, Illinois, United States of ...",
+      "date": "2026-06-17",
+      "timestamp": "2026-06-17T17:36:02+00:00",
+      "fetched_at": "2026-06-17T21:48:37.401342+00:00"
+    },
     {
       "id": "1afa972efeca",
       "title": "Sr Data Engineer Jobs at Amgen in India",
@@ -49,6 +199,81 @@
       "date": "2026-06-17",
       "timestamp": "2026-06-17T17:25:20+00:00",
       "fetched_at": "2026-06-17T18:06:26.998788+00:00"
+    },
+    {
+      "id": "b8ef42f74ac7",
+      "title": "Associate Software Engineer - ADP Careers",
+      "company": "ADP Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.adp.com/en/jobs/6012895006042026/associate-software-engineer/",
+      "source": "ADP",
+      "description": "Work Location(s): Chennai Reports to: Engineering Manager Department: Global Product - Technology ADP is hiring Associate Software Engineer Do ...",
+      "date": "2026-06-17",
+      "timestamp": "2026-06-17T17:11:07+00:00",
+      "fetched_at": "2026-06-17T21:48:37.401601+00:00"
+    },
+    {
+      "id": "d7d4211a377b",
+      "title": "Senior Staff AI Engineer at Veeam",
+      "company": "Veeam",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.veeam.com/job/united-states/senior-staff-ai-engineer/22681/96561195856",
+      "source": "Other",
+      "description": "Staff AI Engineer , Veeam Data Cloud. About the Role. The VDC Intelligence team is Veeam's AI and data intelligence engine, operating across the full ...",
+      "date": "2026-06-17",
+      "timestamp": "2026-06-17T17:10:16+00:00",
+      "fetched_at": "2026-06-17T21:48:37.401745+00:00"
+    },
+    {
+      "id": "b21c4b94cf42",
+      "title": "Data Engineer Junior or Senior in United States | Progressive Careers",
+      "company": "Progressive Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.progressive.com/jobs/17881620-data-engineer-junior-or-senior/",
+      "source": "Other",
+      "description": "Apply today and take the first step to Destination: Progress. As a data engineer intermediate or senior within the CRM Direct Acquisition Experience ...",
+      "date": "2026-06-17",
+      "timestamp": "2026-06-17T17:03:15+00:00",
+      "fetched_at": "2026-06-17T21:48:37.401914+00:00"
+    },
+    {
+      "id": "34aadf6402d9",
+      "title": "r/Salary - [29m Software Engineer ] [Toronto, Canada] - Reddit",
+      "company": "r/Salary",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.reddit.com/r/Salary/comments/1u7qiuh/29m_software_engineer_toronto_canada_210000/",
+      "source": "Other",
+      "description": "r/Salary - [Senior Data Engineer ] [Remote, US] - $182. 45 upvotes ... r/Salary - [ Senior Software Engineer ] [Boston, MA] - $174. 76 upvotes ...",
+      "date": "2026-06-17",
+      "timestamp": "2026-06-17T17:02:18+00:00",
+      "fetched_at": "2026-06-17T21:48:37.402104+00:00"
+    },
+    {
+      "id": "c5c09a3a8c0d",
+      "title": "Azure Cloud Engineer - Cushman & Wakefield Careers",
+      "company": "Cushman & Wakefield Careers",
+      "role": "Cloud Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cushmanwakefield.com/en/jobs/r322928/azure-cloud-engineer/",
+      "source": "Other",
+      "description": "As an Azure Cloud Engineer , you will play a crucial role in implementing and managing cloud solutions that leverage Microsoft Azure and VMware ...",
+      "date": "2026-06-17",
+      "timestamp": "2026-06-17T16:44:23+00:00",
+      "fetched_at": "2026-06-17T21:48:37.402275+00:00"
     },
     {
       "id": "72febeca4251",
@@ -66,6 +291,51 @@
       "fetched_at": "2026-06-17T18:06:26.999350+00:00"
     },
     {
+      "id": "984499190649",
+      "title": "Day in my life as a machine learning engineer | #dayinmylife #worklife - YouTube",
+      "company": "#dayinmylife #worklife - YouTube",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.youtube.com/shorts/qkGXQSP6f3I",
+      "source": "Other",
+      "description": "Part-time surfer, full-time machine learning engineer . From EDGE associate to LLM architect, George shares wisdom he's learned over the course of ...",
+      "date": "2026-06-17",
+      "timestamp": "2026-06-17T16:04:24+00:00",
+      "fetched_at": "2026-06-17T21:48:37.402564+00:00"
+    },
+    {
+      "id": "42de5c17efdd",
+      "title": "Software Engineer - BPM Developer, Westlake, TX | Fidelity Careers",
+      "company": "Software Engineer",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.fidelity.com/en/jobs/2127722/software-engineer-bpm-developer/",
+      "source": "Other",
+      "description": "Software Engineer - BPM Developer. Published: Jun 17. ID: 2127722 ... Senior Software Engineer /Developer. Save Saved. Technology Published: Jun ...",
+      "date": "2026-06-17",
+      "timestamp": "2026-06-17T15:25:18+00:00",
+      "fetched_at": "2026-06-17T21:48:37.402705+00:00"
+    },
+    {
+      "id": "985cff606a03",
+      "title": "[29m Software Engineer ] [Toronto, Canada] - $210,000 : r/Salary - Reddit",
+      "company": "$210,000 : r/Salary - Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.reddit.com/r/Salary/comments/1u7qiuh/29m_software_engineer_toronto_canada_210000/",
+      "source": "Other",
+      "description": "r/Salary - [Senior Data Engineer ] [Remote, US] - $182 ... [ Senior Software Engineer ] [Boston, MA] - $174k + bonus \u00b7 r/Salary - [ Senior Software Engineer ] ...",
+      "date": "2026-06-17",
+      "timestamp": "2026-06-17T15:03:17+00:00",
+      "fetched_at": "2026-06-17T21:48:37.593056+00:00"
+    },
+    {
       "id": "c0eb7599b381",
       "title": "Data Engineer - 64517 - MANTECH",
       "company": "64517 - MANTECH",
@@ -79,6 +349,21 @@
       "date": "2026-06-17",
       "timestamp": "2026-06-17T14:17:01+00:00",
       "fetched_at": "2026-06-17T18:06:26.999512+00:00"
+    },
+    {
+      "id": "0708001e4b63",
+      "title": "Senior Software Engineer - Salesforce - HigherEdJobs",
+      "company": "Salesforce - HigherEdJobs",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.higheredjobs.com/admin/details.cfm?JobCode=179473546",
+      "source": "Other",
+      "description": "We're looking for a Senior Software Engineer - Salesforce to join the Student Lifecycle Services engineering team at WGU. You'll work on a large, ...",
+      "date": "2026-06-17",
+      "timestamp": "2026-06-17T13:38:46+00:00",
+      "fetched_at": "2026-06-17T21:48:37.594245+00:00"
     },
     {
       "id": "4ffa2d6ac8ab",
