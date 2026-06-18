@@ -1,26 +1,26 @@
 {
-  "last_updated": "2026-06-17T21:48:37.611872+00:00",
-  "total_jobs": 3971,
+  "last_updated": "2026-06-18T02:08:11.497434+00:00",
+  "total_jobs": 3986,
   "stats": {
-    "total_companies": 2106,
+    "total_companies": 2114,
     "total_roles": 62,
     "regions": {
-      "India": 2513,
-      "Philippines": 844,
-      "Remote": 495,
+      "India": 2522,
+      "Philippines": 848,
+      "Remote": 497,
       "Unknown": 135
     },
     "sources": {
-      "Other": 3130,
-      "Greenhouse": 199,
+      "Other": 3141,
+      "Greenhouse": 200,
       "Workday": 184,
-      "LinkedIn": 145,
+      "LinkedIn": 146,
       "Ashby": 120,
-      "iCIMS": 42,
+      "iCIMS": 43,
       "Breezy": 41,
       "Lever": 31,
       "Workable": 24,
-      "SmartRecruiters": 19,
+      "SmartRecruiters": 20,
       "Indeed": 17,
       "BrassRing": 5,
       "Jobvite": 5,
@@ -31,10 +31,235 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-06-17"
+      "latest": "2026-06-18"
     }
   },
   "jobs": [
+    {
+      "id": "61247c844181",
+      "title": "AI Engineer | Mercedes-Benz > Karriere > Jobsuche > Stellenausschreibungen",
+      "company": "Mercedes-Benz > Karriere > Jobsuche > Stellenausschreibungen",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.mercedes-benz.com/ai-engineer--224356-MER00044KJ",
+      "source": "Other",
+      "description": "Anbieter/Datenschutz. Unternehmen \u00b7 Technologie \u00b7 Nachhaltigkeit \u00b7 Karriere \u00b7 Investoren \u00b7 Presse \u00b7 Produkte \u00b7 Karriere Jobsuche AI Engineer . AI ...",
+      "date": "2026-06-18",
+      "timestamp": "2026-06-18T00:32:39+00:00",
+      "fetched_at": "2026-06-18T02:08:11.180640+00:00"
+    },
+    {
+      "id": "b1e0dbb73152",
+      "title": "Associate Site Reliability Engineer in Santa Monica, California, United States of America",
+      "company": "Unknown Company",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.activision.com/job/ACPUUSR027696EXTERNAL/Associate-Site-Reliability-Engineer",
+      "source": "Other",
+      "description": "Apply for Associate Site Reliability Engineer job with Activision in Santa Monica, California, United States of America.",
+      "date": "2026-06-17",
+      "timestamp": "2026-06-17T23:38:41+00:00",
+      "fetched_at": "2026-06-18T02:08:11.180848+00:00"
+    },
+    {
+      "id": "3a55017e7e84",
+      "title": "Full Stack Engineer - Tampa, FL - Concurrent Investment Advisors Careers",
+      "company": "Tampa, FL - Concurrent Investment Advisors Careers",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.poweredbyconcurrent.com/en/postings/53d63dcc-c9da-4818-bf82-444d866aea90",
+      "source": "Other",
+      "description": "Full Stack Engineer . Department: Technology; Employment Type: Full Time; Location: Tampa, FL; Workplace type: Fully remote; Compensation: $150,000 ...",
+      "date": "2026-06-17",
+      "timestamp": "2026-06-17T23:29:19+00:00",
+      "fetched_at": "2026-06-18T02:08:11.477805+00:00"
+    },
+    {
+      "id": "28cb9da84fa8",
+      "title": "Software Engineer II in Arlington, Virginia - Airlines Reporting Corporation",
+      "company": "Airlines Reporting Corporation",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers-arccorp.icims.com/jobs/2506/software-engineer-ii/job",
+      "source": "iCIMS",
+      "description": "Arlington is now hiring a Software Engineer II in Arlington, Virginia. Review all of the job details and apply today!",
+      "date": "2026-06-17",
+      "timestamp": "2026-06-17T23:27:30+00:00",
+      "fetched_at": "2026-06-18T02:08:11.181006+00:00"
+    },
+    {
+      "id": "9f677abea9eb",
+      "title": "Job Application for Senior Software Engineer (front end focus) at Aquia - Greenhouse",
+      "company": "Aquia",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/aquia/jobs/5267549008",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer (front end focus). United States. Apply. About Aquia Inc. Named the \u201c#1 Best Remote Startup to Work For in 2025\u201d by Built In ...",
+      "date": "2026-06-17",
+      "timestamp": "2026-06-17T23:23:34+00:00",
+      "fetched_at": "2026-06-18T02:08:11.181120+00:00"
+    },
+    {
+      "id": "ad47bf442614",
+      "title": "NBCUniversal Software Engineer | SmartRecruiters",
+      "company": "Nbcuniversal3",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.smartrecruiters.com/NBCUniversal3/744000132631171-software-engineer",
+      "source": "SmartRecruiters",
+      "description": "Software Engineer . 30 Rockefeller Plaza, New York, NEW YORK Employees work in a hybrid mode; Full-time. Business Segment: Media Group Functions ...",
+      "date": "2026-06-17",
+      "timestamp": "2026-06-17T23:16:05+00:00",
+      "fetched_at": "2026-06-18T02:08:11.181249+00:00"
+    },
+    {
+      "id": "7717e125b97a",
+      "title": "Senior Software Engineer , Ads Platform - Roblox Careers",
+      "company": "Roblox Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.roblox.com/jobs/8011079",
+      "source": "Other",
+      "description": "As a Senior Software Engineer on our Ads Platform team, you will architect and build foundational ads systems that are capable of reliably serving ...",
+      "date": "2026-06-17",
+      "timestamp": "2026-06-17T23:03:40+00:00",
+      "fetched_at": "2026-06-18T02:08:11.478288+00:00"
+    },
+    {
+      "id": "2fc5946b55e4",
+      "title": "Senior Software Engineer (m/f/x) - Hyperscaler & Strategic Partner Integrations (AI)",
+      "company": "Hyperscaler & Strategic Partner Integrations",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.dynatrace.com/careers/jobs/1400274500/",
+      "source": "Other",
+      "description": "Join the Engineering team at Dynatrace as a Senior Software Engineer (m/f/x) - Hyperscaler & Strategic Partner Integrations (AI). Apply now!",
+      "date": "2026-06-17",
+      "timestamp": "2026-06-17T21:56:01+00:00",
+      "fetched_at": "2026-06-18T02:08:11.181415+00:00"
+    },
+    {
+      "id": "45280196f0c1",
+      "title": "Savance hiring Senior DevOps Engineer in Walled Lake, MI | LinkedIn",
+      "company": "LinkedIn",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/senior-devops-engineer-at-savance-4429731134",
+      "source": "LinkedIn",
+      "description": "DevOps / Data Engineer (AWS). Hashlist. Auburn Hills, MI 6 days ago ... Senior, Software Engineer - Release Pipelines. Torc Robotics. Ann Arbor ...",
+      "date": "2026-06-17",
+      "timestamp": "2026-06-17T21:54:38+00:00",
+      "fetched_at": "2026-06-18T02:08:11.478464+00:00"
+    },
+    {
+      "id": "4b8a01a76456",
+      "title": "Software Engineer , Machine Learning Infrastructure - Gen AI - DoorDash",
+      "company": "Gen AI - DoorDash",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careersatdoordash.com/jobs/software-engineer-machine-learning-infrastructure---gen-ai/8013249",
+      "source": "Other",
+      "description": "Software Engineer , Machine Learning Infrastructure - Gen AI. Apply To Job. Job ID: 3474261. DoorDash, Inc. San Francisco, CA. About the Team.",
+      "date": "2026-06-17",
+      "timestamp": "2026-06-17T21:51:24+00:00",
+      "fetched_at": "2026-06-18T02:08:11.181631+00:00"
+    },
+    {
+      "id": "7a2444aa11f8",
+      "title": "Senior Software Engineer in cambridge, Massachusetts, United States of America",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.rtx.com/global/en/job/01852171/Senior-Software-Engineer",
+      "source": "Other",
+      "description": "Apply for Senior Software Engineer job with Raytheon in cambridge, Massachusetts, United States of America. Engineering at Raytheon.",
+      "date": "2026-06-17",
+      "timestamp": "2026-06-17T21:39:25+00:00",
+      "fetched_at": "2026-06-18T02:08:11.181983+00:00"
+    },
+    {
+      "id": "ab133b139a51",
+      "title": "Senior Software Engineer , Spectacles - Snap Inc. Careers",
+      "company": "Snap Inc. Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.snap.com/job?id=R0045873",
+      "source": "Other",
+      "description": "Senior Software Engineer , Spectacles \u00b7 Bachelor's degree in Computer Science, related degree or equivalent practical experience \u00b7 2+ years of post- ...",
+      "date": "2026-06-17",
+      "timestamp": "2026-06-17T21:20:04+00:00",
+      "fetched_at": "2026-06-18T02:08:11.479297+00:00"
+    },
+    {
+      "id": "b5512b480827",
+      "title": "Staff Software Engineer / Tech Lead - Onboard Model Consolidation - Waymo Careers",
+      "company": "Onboard Model Consolidation - Waymo Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.withwaymo.com/jobs/staff-software-engineer-tech-lead-onboard-model-consolidation-mountain-view-california-united-states",
+      "source": "Other",
+      "description": "Staff Software Engineer / Tech Lead - Onboard Model Consolidation. Mountain View, California, United States Full-Time Software Engineering 4976.",
+      "date": "2026-06-17",
+      "timestamp": "2026-06-17T21:12:49+00:00",
+      "fetched_at": "2026-06-18T02:08:11.182352+00:00"
+    },
+    {
+      "id": "147d8d335d25",
+      "title": "Senior Data Engineer at MCKESSON",
+      "company": "MCKESSON",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.mckesson.com/en/job/irving/senior-data-engineer/733/96569243232",
+      "source": "Other",
+      "description": "Senior Data Engineer . Irving, Texas Job ID JR0149334 Category Data Engineering, Information Technology Post Date Jun. 17, 2026. Apply Save Job.",
+      "date": "2026-06-17",
+      "timestamp": "2026-06-17T20:39:37+00:00",
+      "fetched_at": "2026-06-18T02:08:11.479778+00:00"
+    },
+    {
+      "id": "d0b5a45044a0",
+      "title": "Full Stack Engineer - Tampa, FL | Concurrent Investment Advisors Careers",
+      "company": "Tampa, FL | Concurrent Investment Advisors Careers",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.poweredbyconcurrent.com/en/postings/53d63dcc-c9da-4818-bf82-444d866aea90",
+      "source": "Other",
+      "description": "Full Stack Engineer . The Full Stack Software Engineer is responsible for designing, developing, and maintaining internal applications, integrations ...",
+      "date": "2026-06-17",
+      "timestamp": "2026-06-17T20:26:27+00:00",
+      "fetched_at": "2026-06-18T02:08:11.182559+00:00"
+    },
     {
       "id": "31ec0749fa68",
       "title": "AI Engineer - Forward Deployed Engineer (Multiple Levels), Mexico - Salesforce Careers",
