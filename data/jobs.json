@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-06-18T18:18:34.813802+00:00",
-  "total_jobs": 4031,
+  "last_updated": "2026-06-18T21:53:29.465300+00:00",
+  "total_jobs": 4042,
   "stats": {
-    "total_companies": 2141,
+    "total_companies": 2146,
     "total_roles": 62,
     "regions": {
-      "India": 2554,
-      "Philippines": 854,
-      "Remote": 504,
+      "India": 2563,
+      "Philippines": 855,
+      "Remote": 505,
       "Unknown": 135
     },
     "sources": {
-      "Other": 3175,
+      "Other": 3184,
       "Greenhouse": 204,
       "Workday": 186,
       "LinkedIn": 147,
-      "Ashby": 121,
+      "Ashby": 122,
+      "iCIMS": 44,
       "Breezy": 44,
-      "iCIMS": 43,
       "Lever": 31,
       "Workable": 24,
       "SmartRecruiters": 20,
@@ -35,6 +35,111 @@
     }
   },
   "jobs": [
+    {
+      "id": "d491682d0921",
+      "title": "Sr. Cloud Platform Engineer in | Careers at Applied Systems, Inc.",
+      "company": "Applied Systems, Inc.",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers-appliedsystems.icims.com/jobs/7552/sr.-cloud-platform-engineer/job",
+      "source": "iCIMS",
+      "description": "Azure certifications (AZ-104, AZ-305) or GCP Professional Certifications (Cloud Architect, Cloud DevOps Engineer ); Linux system administration ...",
+      "date": "2026-06-18",
+      "timestamp": "2026-06-18T19:58:22+00:00",
+      "fetched_at": "2026-06-18T21:53:29.144878+00:00"
+    },
+    {
+      "id": "bbff4567ab04",
+      "title": "Software Engineer - ISU Research Park",
+      "company": "ISU Research Park",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.isupark.org/careers/230/software-engineer",
+      "source": "Other",
+      "description": "Location: Mason City, IA. Job Description. Our software engineering team is growing! We are looking for an on-site Software Engineer to work in ...",
+      "date": "2026-06-18",
+      "timestamp": "2026-06-18T19:47:21+00:00",
+      "fetched_at": "2026-06-18T21:53:29.145386+00:00"
+    },
+    {
+      "id": "ea0b8b99d4a5",
+      "title": "India, Software Platform Engineer II - 18466 - MetLife Careers",
+      "company": "18466 - MetLife Careers",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.metlifecareers.com/en_US/ml/JobDetail/Software-Platform-Engineer-II/18466",
+      "source": "Other",
+      "description": "Software Platform Engineer II. General Information. Location. Pune ... Seeking an AI Engineer to independently implement AI use cases using an ...",
+      "date": "2026-06-18",
+      "timestamp": "2026-06-18T18:57:37+00:00",
+      "fetched_at": "2026-06-18T21:53:29.145576+00:00"
+    },
+    {
+      "id": "9bd084f0a53e",
+      "title": "Staff Software Engineer , Vector Search, Vertex AI \u2014 Google Careers",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/120243435629093574-staff-software-engineer-vector-search-vertex-ai",
+      "source": "Other",
+      "description": "Software Engineer III, Business Mobile App, Google Pay. Singapore \u00b7 Senior Software Engineer . Mountain View, CA, USA; San Bruno, CA, USA; +4 more; +3 ...",
+      "date": "2026-06-18",
+      "timestamp": "2026-06-18T18:55:56+00:00",
+      "fetched_at": "2026-06-18T21:53:29.145851+00:00"
+    },
+    {
+      "id": "30882a0bc612",
+      "title": "Senior Software Engineer @ Fathom - Jobs",
+      "company": "Fathom",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/fathom/5064c014-5014-4fe4-8663-97a6d40f6733",
+      "source": "Ashby",
+      "description": "... Senior Software Engineer to build the products and infrastructure at the core of that system. This is an agentic engineering role. You will direct ...",
+      "date": "2026-06-18",
+      "timestamp": "2026-06-18T18:30:49+00:00",
+      "fetched_at": "2026-06-18T21:53:29.146349+00:00"
+    },
+    {
+      "id": "3b3eb190073d",
+      "title": "Data Engineer - Clinisys Careers",
+      "company": "Clinisys Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.clinisys.com/jobs/7935436-data-engineer",
+      "source": "Other",
+      "description": "Purpose As a Data Engineer , you'll build and operate reliable, scalable data platforms, data pipelines and data products that power analytics, ...",
+      "date": "2026-06-18",
+      "timestamp": "2026-06-18T18:03:06+00:00",
+      "fetched_at": "2026-06-18T21:53:29.146488+00:00"
+    },
+    {
+      "id": "fdac90e144f8",
+      "title": "Wifi/Bluetooth Software Engineer - Wireless Technologies & Ecosystems - Jobs",
+      "company": "Wireless Technologies & Ecosystems - Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200668873-3543/wifi-bluetooth-software-engineer-wireless-technologies-ecosystems?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Wifi/Bluetooth Software Engineer - Wireless Technologies & Ecosystems job at Apple. Read about the role and find out if it's right for ...",
+      "date": "2026-06-18",
+      "timestamp": "2026-06-18T17:39:46+00:00",
+      "fetched_at": "2026-06-18T21:53:29.146750+00:00"
+    },
     {
       "id": "bda5f777a203",
       "title": "Software Engineer in Carlsbad, California | Viasat, Inc.",
@@ -64,6 +169,21 @@
       "date": "2026-06-18",
       "timestamp": "2026-06-18T17:28:39+00:00",
       "fetched_at": "2026-06-18T18:18:34.793238+00:00"
+    },
+    {
+      "id": "60d01018ed80",
+      "title": "eSimplicity - Data Engineer II - Paylocity",
+      "company": "eSimplicity",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://recruiting.paylocity.com/recruiting/jobs/Details/4253688/eSimplicity/Data-Engineer-II",
+      "source": "Other",
+      "description": "All Jobs > Data Engineer II. eSimplicity. Apply. Data Engineer II. Fully Remote \u2022 Columbia, MD \u2022 Engineering. Apply. Job Type. Full- ...",
+      "date": "2026-06-18",
+      "timestamp": "2026-06-18T17:22:11+00:00",
+      "fetched_at": "2026-06-18T21:53:29.147536+00:00"
     },
     {
       "id": "83181be4975a",
@@ -124,6 +244,51 @@
       "date": "2026-06-18",
       "timestamp": "2026-06-18T16:36:43+00:00",
       "fetched_at": "2026-06-18T18:18:34.714790+00:00"
+    },
+    {
+      "id": "b21694b57460",
+      "title": "DevOps Engineer - Ericsson Careers",
+      "company": "Ericsson Careers",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ericsson.com/careers/job/563121775170473-devops-engineer-noida-uttar-pradesh-india?domain=ericsson.com",
+      "source": "Other",
+      "description": "DevOps Engineer . Noida,Uttar Pradesh,India. Apply Now. Find out how well you match with this job. Upload your resume. Job description. Company and ...",
+      "date": "2026-06-18",
+      "timestamp": "2026-06-18T16:09:31+00:00",
+      "fetched_at": "2026-06-18T21:53:29.447589+00:00"
+    },
+    {
+      "id": "344d3669e65d",
+      "title": "Software Engineer III - Java/Python - Learn AI / LLM - JPMorgan Chase",
+      "company": "Java/Python - Learn AI / LLM - JPMorgan Chase",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210760076",
+      "source": "Other",
+      "description": "Software Engineer III - Java/Python - Learn AI / LLM. New York, NY, United States. Apply Now. Job Information. Job Identification 210760076; Job ...",
+      "date": "2026-06-18",
+      "timestamp": "2026-06-18T16:01:09+00:00",
+      "fetched_at": "2026-06-18T21:53:29.148278+00:00"
+    },
+    {
+      "id": "bce202117f6d",
+      "title": "The irony is that this \" AI Engineer \" is positioned to do the kind of work that is not being done ...",
+      "company": "Unknown Company",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://x.com/GergelyOrosz/status/2067569195886198921",
+      "source": "Other",
+      "description": "Either this founder is not eating their dogfood, or it doesn't work. Or, most likely, they are so focused on building the AI Engineer that just ignore ...",
+      "date": "2026-06-18",
+      "timestamp": "2026-06-18T15:55:02+00:00",
+      "fetched_at": "2026-06-18T21:53:29.448022+00:00"
     },
     {
       "id": "1a5ca7574080",
