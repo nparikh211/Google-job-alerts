@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-06-18T14:36:20.422271+00:00",
-  "total_jobs": 4013,
+  "last_updated": "2026-06-18T18:18:34.813802+00:00",
+  "total_jobs": 4031,
   "stats": {
-    "total_companies": 2131,
+    "total_companies": 2141,
     "total_roles": 62,
     "regions": {
-      "India": 2542,
-      "Philippines": 852,
-      "Remote": 500,
+      "India": 2554,
+      "Philippines": 854,
+      "Remote": 504,
       "Unknown": 135
     },
     "sources": {
-      "Other": 3162,
-      "Greenhouse": 201,
+      "Other": 3175,
+      "Greenhouse": 204,
       "Workday": 186,
       "LinkedIn": 147,
       "Ashby": 121,
+      "Breezy": 44,
       "iCIMS": 43,
-      "Breezy": 42,
       "Lever": 31,
       "Workable": 24,
       "SmartRecruiters": 20,
@@ -35,6 +35,261 @@
     }
   },
   "jobs": [
+    {
+      "id": "bda5f777a203",
+      "title": "Software Engineer in Carlsbad, California | Viasat, Inc.",
+      "company": "Viasat, Inc.",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.viasat.com/jobs/6442?lang=en-us",
+      "source": "Other",
+      "description": "Viasat is hiring a Software Engineer in Carlsbad, California. Review all of the job details and apply today!",
+      "date": "2026-06-18",
+      "timestamp": "2026-06-18T17:33:03+00:00",
+      "fetched_at": "2026-06-18T18:18:34.793013+00:00"
+    },
+    {
+      "id": "2e11f91faa9f",
+      "title": "Senior Software Engineer - Finance & Business Systems - Gem",
+      "company": "Finance & Business Systems - Gem",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.gem.com/midwestern-interactive/am9icG9zdDrB4LGWMTu8D0wmmyaq85Cn",
+      "source": "Other",
+      "description": "Senior Software Engineer - Finance & Business Systems. Remote U.S.. Recruiting Business Unit. Remote. Full-time. About the Company. A profitable, fast ...",
+      "date": "2026-06-18",
+      "timestamp": "2026-06-18T17:28:39+00:00",
+      "fetched_at": "2026-06-18T18:18:34.793238+00:00"
+    },
+    {
+      "id": "83181be4975a",
+      "title": "HCLTech MASS Hiring & Deloitte Software Engineer | BATCH: 2026/2025/2024 - YouTube",
+      "company": "BATCH: 2026/2025/2024 - YouTube",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.youtube.com/watch?v=Q3cUZfO5E1M",
+      "source": "Other",
+      "description": "... data engineer intern mba jobs hiring for interns 2021 jobs freshers ... HCLTech MASS Hiring & Deloitte Software Engineer | BATCH: 2026/2025/2024 | Any ...",
+      "date": "2026-06-18",
+      "timestamp": "2026-06-18T17:18:01+00:00",
+      "fetched_at": "2026-06-18T18:18:34.714303+00:00"
+    },
+    {
+      "id": "bbf14b08a1ca",
+      "title": "DevOps Engineer | U-M Careers",
+      "company": "U-M Careers",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.umich.edu/job_detail/279045/devops-engineer",
+      "source": "Other",
+      "description": "What You'll Do. The Center for Academic Innovation at the University of Michigan is seeking a qualified DevOps Engineer to support the reliability, ...",
+      "date": "2026-06-18",
+      "timestamp": "2026-06-18T16:47:11+00:00",
+      "fetched_at": "2026-06-18T18:18:34.714508+00:00"
+    },
+    {
+      "id": "d0d1ce017de7",
+      "title": "Job Application for Data Engineer at Arva Intelligence - Greenhouse",
+      "company": "Arvaintelligence",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/arvaintelligence/jobs/5265566008",
+      "source": "Greenhouse",
+      "description": "Data Engineer . Houston, Texas. Apply. Job Title: Data Engineer . Department: Modeling & Analytics. Reports to: Lead Modeling Scientist. Location: ...",
+      "date": "2026-06-18",
+      "timestamp": "2026-06-18T16:42:11+00:00",
+      "fetched_at": "2026-06-18T18:18:34.714655+00:00"
+    },
+    {
+      "id": "56359bb8aa0c",
+      "title": "Software Engineer - Sports Reference",
+      "company": "Sports Reference Llc",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://sports-reference-llc.breezy.hr/p/79e583d55a8f-software-engineer/apply",
+      "source": "Breezy",
+      "description": "Software Engineer . United States - Remote (any location); Full-Time; Engineering; $86k. Job Openings \u00b7 Software Engineer ; Apply. Upload Resume*. A ...",
+      "date": "2026-06-18",
+      "timestamp": "2026-06-18T16:36:43+00:00",
+      "fetched_at": "2026-06-18T18:18:34.714790+00:00"
+    },
+    {
+      "id": "1a5ca7574080",
+      "title": "Data Engineer - FULLY REMOTE | Everforth Apex",
+      "company": "FULLY REMOTE | Everforth Apex",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.apexsystems.com/job/3039015_usa/data-engineer---fully-remote",
+      "source": "Other",
+      "description": "Job Description: Apex Systems is hiring a Data Engineer for a large Healthcare client. Location: Fully remote anywhere in the US. *YOU MUST BE ...",
+      "date": "2026-06-18",
+      "timestamp": "2026-06-18T15:32:08+00:00",
+      "fetched_at": "2026-06-18T18:18:34.715127+00:00"
+    },
+    {
+      "id": "b55fcee1747d",
+      "title": "Associate Data Engineer - ISU Research Park",
+      "company": "ISU Research Park",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.isupark.org/careers/224/associate-data-engineer",
+      "source": "Other",
+      "description": "Job Description. Associate Data Engineer . Urbandale, IA or Remote. The Associate Data Engineer supporting Digital, Marketing, and Pro CX at Pella is ...",
+      "date": "2026-06-18",
+      "timestamp": "2026-06-18T15:23:01+00:00",
+      "fetched_at": "2026-06-18T18:18:34.715274+00:00"
+    },
+    {
+      "id": "f346787e86a8",
+      "title": "Sr. Data Engineer | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.apexsystems.com/job/3038847_usa/sr-data-engineer",
+      "source": "Other",
+      "description": "Sr. Data Engineer \u00b7 Design, develop, and implement ETL/ELT pipelines supporting migration activities. \u00b7 Build and enhance AWS Glue jobs using PySpark.",
+      "date": "2026-06-18",
+      "timestamp": "2026-06-18T15:18:06+00:00",
+      "fetched_at": "2026-06-18T18:18:34.715420+00:00"
+    },
+    {
+      "id": "95a508cebfbd",
+      "title": "Job Application for Senior Software Engineer , AI at Synack - Greenhouse",
+      "company": "Synack",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/synack/jobs/8014258",
+      "source": "Greenhouse",
+      "description": "Please note: We can only hire U.S. citizens for this position due to federal government contract requirements. Are you a U.S. citizen?*. Select.",
+      "date": "2026-06-18",
+      "timestamp": "2026-06-18T14:47:48+00:00",
+      "fetched_at": "2026-06-18T18:18:34.715709+00:00"
+    },
+    {
+      "id": "e3a680ff68dd",
+      "title": "Sr. DevOps Engineer (GCP) - United States | Intermedia Intelligent Communications Careers",
+      "company": "United States | Intermedia Intelligent Communications Careers",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://intermedia.pinpointhq.com/postings/cf8571a1-a8ee-4355-b5a8-7511c90f5c0a",
+      "source": "Other",
+      "description": "Join Intermedia Intelligent Communications in Tech Operations, United States as a Sr. DevOps Engineer (GCP)",
+      "date": "2026-06-18",
+      "timestamp": "2026-06-18T14:45:49+00:00",
+      "fetched_at": "2026-06-18T18:18:34.715917+00:00"
+    },
+    {
+      "id": "c62d0c2b4fa6",
+      "title": "Specialist Software Engineer - Full Stack & AI Jobs at Amgen in Portugal",
+      "company": "Amgen in Portugal",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.amgen.com/en/job/lisbon/specialist-software-engineer-full-stack-and-ai/87/96592105760",
+      "source": "Other",
+      "description": "Explore the details of a Specialist Software Engineer - Full Stack & AI career in Lisbon. Live. Win. Thrive. Search and apply for a rewarding new ...",
+      "date": "2026-06-18",
+      "timestamp": "2026-06-18T14:41:04+00:00",
+      "fetched_at": "2026-06-18T18:18:34.716095+00:00"
+    },
+    {
+      "id": "701e8bd13d0b",
+      "title": "Senior Software Engineer at Sports Reference - Breezy HR",
+      "company": "Sports Reference Llc",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://sports-reference-llc.breezy.hr/p/9befdf74c0e5-senior-software-engineer",
+      "source": "Breezy",
+      "description": "Senior Software Engineer Job Summary Sports Reference LLC is searching for a Senior Software Engineer to design, build, and test software for our ...",
+      "date": "2026-06-18",
+      "timestamp": "2026-06-18T14:36:10+00:00",
+      "fetched_at": "2026-06-18T18:18:34.795189+00:00"
+    },
+    {
+      "id": "e9ebb425cebb",
+      "title": "Senior Applied Machine Learning Engineer",
+      "company": "Unknown Company",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/respondology-careers/jobs/67285f6c-cbee-4507-8c5b-c7f3466450ab",
+      "source": "Other",
+      "description": "Senior Applied Machine Learning Engineer ... Who we are: Respondology is the AI-powered social engagement platform that modernizes how social marketers ...",
+      "date": "2026-06-18",
+      "timestamp": "2026-06-18T14:33:44+00:00",
+      "fetched_at": "2026-06-18T18:18:34.716264+00:00"
+    },
+    {
+      "id": "ad0c97e65563",
+      "title": "Software Engineer - Careers at Circana",
+      "company": "Circana",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.circana.com/careers/job/1133912848742?domain=circana.com&source=LinkedIn",
+      "source": "Other",
+      "description": "Software Engineer . Bangalore,KA,India. Apply Now. Add to cart. Find out how well you match with this job. Upload your resume. Job description. Job ID.",
+      "date": "2026-06-18",
+      "timestamp": "2026-06-18T14:30:53+00:00",
+      "fetched_at": "2026-06-18T18:18:34.716402+00:00"
+    },
+    {
+      "id": "cc42a6e21675",
+      "title": "Job Application for Software Engineer III - Automation Engineering at Horace Mann",
+      "company": "Horacemannservicecorporation",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/horacemannservicecorporation/jobs/6030524004",
+      "source": "Greenhouse",
+      "description": "Software Engineer III - Automation Engineering \u00b7 Design, develop, and maintain scalable automation frameworks and solutions across testing, operational ...",
+      "date": "2026-06-18",
+      "timestamp": "2026-06-18T14:25:00+00:00",
+      "fetched_at": "2026-06-18T18:18:34.716513+00:00"
+    },
+    {
+      "id": "9db736ce0086",
+      "title": "Software Engineer , Associate II job in McLean, VA - Freddie Mac Careers",
+      "company": "Freddie Mac Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.freddiemac.com/us/en/job/JR17189/Software-Engineer-Associate-II",
+      "source": "Other",
+      "description": "Apply for Software Engineer , Associate II job with Freddie Mac Careers Careers Careers in McLean, VA ... Site Reliability Engineer Tech Lead. Category ...",
+      "date": "2026-06-18",
+      "timestamp": "2026-06-18T12:58:34+00:00",
+      "fetched_at": "2026-06-18T18:18:34.716843+00:00"
+    },
     {
       "id": "fdab0e34db24",
       "title": "As a fullstack engineer , how do you create frontends without AI? : r/webdev - Reddit",
@@ -64,6 +319,21 @@
       "date": "2026-06-18",
       "timestamp": "2026-06-18T11:36:43+00:00",
       "fetched_at": "2026-06-18T14:36:20.299714+00:00"
+    },
+    {
+      "id": "73ba124e634c",
+      "title": "AI Engineer - Clinisys Careers",
+      "company": "Clinisys Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.clinisys.com/jobs/7935490-ai-engineer",
+      "source": "Other",
+      "description": "Purpose As an AI Engineer , you'll be a builder, deployer, and operator of AI/ML, Agentic AI, and GenAI solutions that deliver measurable outcomes ...",
+      "date": "2026-06-18",
+      "timestamp": "2026-06-18T10:59:15+00:00",
+      "fetched_at": "2026-06-18T18:18:34.717272+00:00"
     },
     {
       "id": "29fa0577e02e",
