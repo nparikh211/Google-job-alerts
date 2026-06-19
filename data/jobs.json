@@ -1,26 +1,26 @@
 {
-  "last_updated": "2026-06-19T17:44:46.919520+00:00",
-  "total_jobs": 4105,
+  "last_updated": "2026-06-19T20:57:41.719842+00:00",
+  "total_jobs": 4116,
   "stats": {
-    "total_companies": 2172,
+    "total_companies": 2178,
     "total_roles": 63,
     "regions": {
-      "India": 2606,
-      "Philippines": 866,
-      "Remote": 514,
+      "India": 2612,
+      "Philippines": 869,
+      "Remote": 516,
       "Unknown": 135
     },
     "sources": {
-      "Other": 3235,
+      "Other": 3241,
       "Greenhouse": 207,
-      "Workday": 191,
+      "Workday": 192,
       "LinkedIn": 148,
-      "Ashby": 123,
+      "Ashby": 126,
       "iCIMS": 44,
       "Breezy": 44,
       "Lever": 31,
       "Workable": 24,
-      "SmartRecruiters": 22,
+      "SmartRecruiters": 23,
       "Indeed": 17,
       "BrassRing": 5,
       "Jobvite": 5,
@@ -36,6 +36,111 @@
   },
   "jobs": [
     {
+      "id": "97b35d42a27c",
+      "title": "Two Sigma Securities, Software Engineer - New York",
+      "company": "New York",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Two-Sigma-Securities-Software-Engineer/13992",
+      "source": "Other",
+      "description": "We are looking for a Software Engineer to join our Wholesale Market Making (WMM) Engineering team. This role will involve building trading systems ...",
+      "date": "2026-06-19",
+      "timestamp": "2026-06-19T20:30:48+00:00",
+      "fetched_at": "2026-06-19T20:57:41.704243+00:00"
+    },
+    {
+      "id": "035841d1820b",
+      "title": "Privia Health Sr. AI Engineer | SmartRecruiters",
+      "company": "Priviahealth",
+      "role": "AI Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.smartrecruiters.com/PriviaHealth/744000132985889-sr-ai-engineer-",
+      "source": "SmartRecruiters",
+      "description": "AI Engineer . Remote, USA, United States Employees can work remotely; Full-time. Department: Product Engineering. Company Description. Privia Health\u2122 ...",
+      "date": "2026-06-19",
+      "timestamp": "2026-06-19T19:03:55+00:00",
+      "fetched_at": "2026-06-19T20:57:41.704477+00:00"
+    },
+    {
+      "id": "f40acd120f34",
+      "title": "Software Engineer in Multiple Locations - State Farm Careers",
+      "company": "State Farm Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.statefarm.com/main/jobs/44836?lang=en-us",
+      "source": "Other",
+      "description": "State Farm Careers is hiring a Software Engineer in Multiple Locations. Review all of the job details and apply today!",
+      "date": "2026-06-19",
+      "timestamp": "2026-06-19T18:49:09+00:00",
+      "fetched_at": "2026-06-19T20:57:41.546697+00:00"
+    },
+    {
+      "id": "d76926993954",
+      "title": "Senior Software Engineer , AI - Squad Team @ Ironclad - Jobs",
+      "company": "Ironcladhq",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/ironcladhq/fa6f1cdc-4e73-4041-a8cc-aeb26a75e647",
+      "source": "Ashby",
+      "description": "Senior Software Engineer , AI - Squad Team. Location. San Francisco. Address. San Francisco, California. Employment Type. Full time. Location Type.",
+      "date": "2026-06-19",
+      "timestamp": "2026-06-19T18:48:43+00:00",
+      "fetched_at": "2026-06-19T20:57:41.546803+00:00"
+    },
+    {
+      "id": "2260a0381045",
+      "title": "Software Engineer (Java/Angular) - Boise, Idaho | Highwire Careers",
+      "company": "Boise, Idaho | Highwire Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://alcumus.pinpointhq.com/en/postings/ab656136-3e38-4608-bfb3-b6d6d1021198",
+      "source": "Other",
+      "description": "Join Veriforce in Technology, Boise, Idaho as a Software Engineer (Java/Angular) ... A full-stack engineer . You should be proficient in a modern ...",
+      "date": "2026-06-19",
+      "timestamp": "2026-06-19T18:41:37+00:00",
+      "fetched_at": "2026-06-19T20:57:41.704778+00:00"
+    },
+    {
+      "id": "7d411246dde2",
+      "title": "Associate Director, AI Engineer - Remote | Novartis",
+      "company": "Remote | Novartis",
+      "role": "AI Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.novartis.com/careers/career-search/job/details/req-10081465-associate-director-ai-engineer-remote",
+      "source": "Other",
+      "description": "The Associate Director, AI Engineer will lead the engineering strategy, design, development, deployment, and ongoing optimization of our agentic AI ...",
+      "date": "2026-06-19",
+      "timestamp": "2026-06-19T18:24:47+00:00",
+      "fetched_at": "2026-06-19T20:57:41.546971+00:00"
+    },
+    {
+      "id": "423b9ea298dc",
+      "title": "Software Engineer II - Python job in Boston, MA | Technology jobs at Chewy Inc",
+      "company": "Chewy Inc",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.chewy.com/us/en/job/R29125/Software-Engineer-II-Python",
+      "source": "Other",
+      "description": "Our Opportunity: Chewy is looking for a Software Engineer to join our Supply Chain Simulation technology team. In this role, you will combine an ...",
+      "date": "2026-06-19",
+      "timestamp": "2026-06-19T17:54:36+00:00",
+      "fetched_at": "2026-06-19T20:57:41.547086+00:00"
+    },
+    {
       "id": "8b8e5c0d05ab",
       "title": "Software Engineer II - BDX Developer Experience in Washington D.C., District of Columbia",
       "company": "Software Engineer II",
@@ -49,6 +154,36 @@
       "date": "2026-06-19",
       "timestamp": "2026-06-19T17:26:09+00:00",
       "fetched_at": "2026-06-19T17:44:46.804955+00:00"
+    },
+    {
+      "id": "c376429b95e3",
+      "title": "Senior Software Engineer , AI Systems @ Homebase - Jobs",
+      "company": "Homebase",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/homebase/aeaa1000-e4fd-4aff-b76a-6f9b358c2420",
+      "source": "Ashby",
+      "description": "... Senior Software Engineer , AI Systems, to help build the foundation that enables AI-powered engineering across Homebase. This role sits at the ...",
+      "date": "2026-06-19",
+      "timestamp": "2026-06-19T17:18:27+00:00",
+      "fetched_at": "2026-06-19T20:57:41.547359+00:00"
+    },
+    {
+      "id": "842a11cb65a4",
+      "title": "AI Software Engineer \u2013 Agentic AI System - Intel - Myworkdayjobs.com",
+      "company": "Intel",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/AI-Software-Engineer---Agentic-AI-System-_JR0284975-1",
+      "source": "Workday",
+      "description": "Job Details: Job Description: As an AI Software Engineer \u2013 Agentic AI System you will contribute to building infrastructure and tooling that ...",
+      "date": "2026-06-19",
+      "timestamp": "2026-06-19T17:18:07+00:00",
+      "fetched_at": "2026-06-19T20:57:41.547443+00:00"
     },
     {
       "id": "a77aa8faa8a0",
@@ -111,6 +246,21 @@
       "fetched_at": "2026-06-19T17:44:46.806878+00:00"
     },
     {
+      "id": "67a4503da129",
+      "title": "Senior AI Software Engineer - iManage - Career Page",
+      "company": "iManage - Career Page",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://imanagecom.applytojob.com/apply/s8WcECcH4I/Senior-AI-Software-Engineer",
+      "source": "Other",
+      "description": "Being a Senior AI Software Engineer at iManage Means\u2026 You are passionate about building and deploying AI systems that work at scale in production. You ...",
+      "date": "2026-06-19",
+      "timestamp": "2026-06-19T16:35:45+00:00",
+      "fetched_at": "2026-06-19T20:57:41.548169+00:00"
+    },
+    {
       "id": "8f945d2bf15c",
       "title": "Software Engineer at NetApp, Inc.",
       "company": "NetApp, Inc.",
@@ -124,6 +274,21 @@
       "date": "2026-06-19",
       "timestamp": "2026-06-19T16:28:43+00:00",
       "fetched_at": "2026-06-19T17:44:46.807422+00:00"
+    },
+    {
+      "id": "e779b5b6424d",
+      "title": "Software Engineer III - Integrations @ Limble - Jobs",
+      "company": "Limble",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/limble/32efb93f-fc98-434f-8068-36d64710f816",
+      "source": "Ashby",
+      "description": "... Software Engineer III that will join our Integrations Team with ownership over our in-app integrations center and external-facing API. You will be ...",
+      "date": "2026-06-19",
+      "timestamp": "2026-06-19T16:09:49+00:00",
+      "fetched_at": "2026-06-19T20:57:41.706180+00:00"
     },
     {
       "id": "e61579bd2913",
