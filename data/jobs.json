@@ -1,26 +1,26 @@
 {
-  "last_updated": "2026-06-19T08:55:30.024794+00:00",
-  "total_jobs": 4072,
+  "last_updated": "2026-06-19T14:33:39.247799+00:00",
+  "total_jobs": 4091,
   "stats": {
-    "total_companies": 2157,
-    "total_roles": 62,
+    "total_companies": 2166,
+    "total_roles": 63,
     "regions": {
-      "India": 2582,
-      "Philippines": 863,
-      "Remote": 508,
+      "India": 2595,
+      "Philippines": 865,
+      "Remote": 512,
       "Unknown": 135
     },
     "sources": {
-      "Other": 3211,
-      "Greenhouse": 204,
-      "Workday": 188,
-      "LinkedIn": 147,
-      "Ashby": 122,
+      "Other": 3224,
+      "Greenhouse": 206,
+      "Workday": 189,
+      "LinkedIn": 148,
+      "Ashby": 123,
       "iCIMS": 44,
       "Breezy": 44,
       "Lever": 31,
       "Workable": 24,
-      "SmartRecruiters": 21,
+      "SmartRecruiters": 22,
       "Indeed": 17,
       "BrassRing": 5,
       "Jobvite": 5,
@@ -36,6 +36,261 @@
   },
   "jobs": [
     {
+      "id": "136a757199e9",
+      "title": "out of every interview loop I've gone through, this was the toughest one to\u2026 | Yashpreet Bathla",
+      "company": "Unknown Company",
+      "role": "out of every interview loop I've gone through, this was the ",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/yashpreetbathla_recently-interviewed-at-confluent-for-a-senior-activity-7473671320715698176-FySN",
+      "source": "LinkedIn",
+      "description": "... frontend engineer . Managerial Round Honest career conversation ... Yashpreet Bathla. Senior Software Engineer | x { Microsoft, Amazon } | 0 ...",
+      "date": "2026-06-19",
+      "timestamp": "2026-06-19T13:19:38+00:00",
+      "fetched_at": "2026-06-19T14:33:39.149664+00:00"
+    },
+    {
+      "id": "5a3b8df6fde7",
+      "title": "Senior Software Engineer , Formal Verification @ Category Labs - Jobs",
+      "company": "Category Labs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/category-labs/4717412e-8243-4eb9-bed1-4c585d7ff977",
+      "source": "Ashby",
+      "description": "... Senior Software Engineer in Formal Verification to prove the correctness of the Monad implementation. Your work will involve writing machine ...",
+      "date": "2026-06-19",
+      "timestamp": "2026-06-19T12:46:18+00:00",
+      "fetched_at": "2026-06-19T14:33:39.149830+00:00"
+    },
+    {
+      "id": "06e2de33f97b",
+      "title": "Asset Management Engineering - Associate Software Engineer (AI Engineering) - Dallas - gs",
+      "company": "Asset Management Engineering",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://higher.gs.com/roles/168670",
+      "source": "Other",
+      "description": "The Asset Management Engineering team is seeking an Associate Software Engineer with an AI Engineering focus, based in Dallas. In this role, you ...",
+      "date": "2026-06-19",
+      "timestamp": "2026-06-19T12:38:47+00:00",
+      "fetched_at": "2026-06-19T14:33:39.150028+00:00"
+    },
+    {
+      "id": "e0d8042082fe",
+      "title": "AI Engineer - Travelport Candidate Experience site Careers - oracle",
+      "company": "Travelport Candidate Experience site Careers - oracle",
+      "role": "AI Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://ejzg.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2717",
+      "source": "Other",
+      "description": "Job Description. AI Engineer | US | Remote. Travel obsessed? Big tech fan? Hey, you're ...",
+      "date": "2026-06-19",
+      "timestamp": "2026-06-19T12:27:01+00:00",
+      "fetched_at": "2026-06-19T14:33:39.150215+00:00"
+    },
+    {
+      "id": "2c1376977ea0",
+      "title": "Software Engineer , Conversion - - Upstart Careers",
+      "company": "- Upstart Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.upstart.com/jobs/software-engineer-conversion",
+      "source": "Other",
+      "description": "Apply now! Similar Jobs. Senior Software Engineer \u00b7 Senior Software Engineer , Auto \u00b7 Software Engineer , Distribution Platform. Current Upstart ...",
+      "date": "2026-06-19",
+      "timestamp": "2026-06-19T12:23:51+00:00",
+      "fetched_at": "2026-06-19T14:33:39.150381+00:00"
+    },
+    {
+      "id": "22bab3b75a48",
+      "title": "Senior Machine Learning Engineer , Applied AI Modeling \u2014 Open Positions - Mozilla",
+      "company": "Mozilla",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.mozilla.org/en-US/careers/position/gh/8017587/",
+      "source": "Other",
+      "description": "Mozilla is hiring a Senior Machine Learning Engineer , Applied AI Modeling in Remote Canada, Firefox, New Products, Firefox, Firefox, Core Services ...",
+      "date": "2026-06-19",
+      "timestamp": "2026-06-19T12:12:08+00:00",
+      "fetched_at": "2026-06-19T14:33:39.150533+00:00"
+    },
+    {
+      "id": "99dfca7203d9",
+      "title": "Versant Sr. Site Reliability Engineer | SmartRecruiters",
+      "company": "Versant3",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.smartrecruiters.com/Versant3/744000132912900-sr-site-reliability-engineer",
+      "source": "SmartRecruiters",
+      "description": "Qualifications \u00b7 AWS certifications such as Solutions Architect or DevOps Engineer . \u00b7 Experience supporting high-scale consumer-facing digital platforms ...",
+      "date": "2026-06-19",
+      "timestamp": "2026-06-19T11:40:28+00:00",
+      "fetched_at": "2026-06-19T14:33:39.150648+00:00"
+    },
+    {
+      "id": "519c09991274",
+      "title": "Salesforce/Conga Software Engineer Jobs at Amgen in India",
+      "company": "Amgen in India",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.amgen.com/en/job/hyderabad/salesforce-conga-software-engineer/87/96638486336",
+      "source": "Other",
+      "description": "Explore the details of a Salesforce/Conga Software Engineer career in Hyderabad. Live. Win. Thrive. Search and apply for a rewarding new career at ...",
+      "date": "2026-06-19",
+      "timestamp": "2026-06-19T11:32:15+00:00",
+      "fetched_at": "2026-06-19T14:33:39.228261+00:00"
+    },
+    {
+      "id": "42eca690f2b8",
+      "title": "Software Engineer , BENGALURU, Karn\u0101taka | Wells Fargo",
+      "company": "Wells Fargo",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.wellsfargojobs.com/en/jobs/r-553178/software-engineer/",
+      "source": "Other",
+      "description": "Software Engineer . BENGALURU. Technology; Full time; 19 Jun 2026; R-553178 ... Senior Software Engineer . Save Saved. BENGALURU, Karn\u0101taka; Technology ...",
+      "date": "2026-06-19",
+      "timestamp": "2026-06-19T10:00:36+00:00",
+      "fetched_at": "2026-06-19T14:33:39.228411+00:00"
+    },
+    {
+      "id": "eececc8f26ee",
+      "title": "Job Application for Fullstack Engineer (Senior and Staff) at Gametime United - Greenhouse",
+      "company": "Gametimeunited",
+      "role": "Fullstack Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/gametimeunited/jobs/5265389008",
+      "source": "Greenhouse",
+      "description": "Fullstack Engineer (Senior and Staff). United States - Remote. Apply. About Us: Live experiences help people cross today's digital divide and focus ...",
+      "date": "2026-06-19",
+      "timestamp": "2026-06-19T09:44:06+00:00",
+      "fetched_at": "2026-06-19T14:33:39.150786+00:00"
+    },
+    {
+      "id": "39a8db01a7eb",
+      "title": "Senior AI Engineer (GenAI and Data Platform - AWS) - Info Dinamica Inc - Irvine, CA, US",
+      "company": "AWS) - Info Dinamica Inc - Irvine, CA, US",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.dice.com/job-detail/2fe8350a-8aa7-4530-aa6b-b2ccd68b4106",
+      "source": "Other",
+      "description": "Senior AI Engineer (GenAI and Data Platform - AWS). Irvine, CA, US ... AWS Data Engineer Certification. The ideal candidate will own end-to-end ...",
+      "date": "2026-06-19",
+      "timestamp": "2026-06-19T09:03:30+00:00",
+      "fetched_at": "2026-06-19T14:33:39.150987+00:00"
+    },
+    {
+      "id": "56fd63925f07",
+      "title": "Senior Software Engineer , MyHealthTeam | Swoop",
+      "company": "Swoop",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://ats.rippling.com/swoopishiring/jobs/d6bdb29a-57e7-495f-9ffd-732f5b6d64fa",
+      "source": "Other",
+      "description": "Senior Software Engineer , MyHealthTeam. Swoop, a market leader in privacy-safe, award-winning omnichannel healthcare marketing, connects patients ...",
+      "date": "2026-06-19",
+      "timestamp": "2026-06-19T08:09:25+00:00",
+      "fetched_at": "2026-06-19T14:33:39.228894+00:00"
+    },
+    {
+      "id": "701e4e3937c0",
+      "title": "Senior Machine Learning Engineer - San Jose, California, United States | Roku Jobs",
+      "company": "San Jose, California, United States | Roku Jobs",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.weareroku.com/jobs/senior-machine-learning-engineer-san-jose-california-united-states-ea7194b1-a6d8-439b-9de0-0c7fe160aab7",
+      "source": "Other",
+      "description": "Senior Machine Learning Engineer . Software Engineering | San Jose, United States | ID: 11287. Apply View more jobs. Senior Machine Learning Engineer .",
+      "date": "2026-06-19",
+      "timestamp": "2026-06-19T07:48:18+00:00",
+      "fetched_at": "2026-06-19T14:33:39.151379+00:00"
+    },
+    {
+      "id": "465ad30e943a",
+      "title": "Part-time Data Engineer - Myworkdayjobs.com",
+      "company": "Tntp",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://tntp.wd5.myworkdayjobs.com/TNTP/job/United-States/Part-time-Data-Engineer_JR-2211",
+      "source": "Workday",
+      "description": "Part-time Data Engineer Flexible Location This position is based in a home office anywhere in the U.S. WHO WE ARE TNTP is the nation's preeminent ...",
+      "date": "2026-06-19",
+      "timestamp": "2026-06-19T07:43:16+00:00",
+      "fetched_at": "2026-06-19T14:33:39.151474+00:00"
+    },
+    {
+      "id": "228684fcd9f3",
+      "title": "Cloud Engineer III - Northwestern Mutual Careers",
+      "company": "Northwestern Mutual Careers",
+      "role": "Cloud Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.northwesternmutual.com/corporate-careers/jr-45486/cloud-engineer-iii/",
+      "source": "Other",
+      "description": "Cloud Engineer III. Information Technology \u00b7 Milwaukee, WI Corporate ... Senior Systems Software Engineer . Milwaukee, WI Corporate. Assistant ...",
+      "date": "2026-06-19",
+      "timestamp": "2026-06-19T07:19:40+00:00",
+      "fetched_at": "2026-06-19T14:33:39.151779+00:00"
+    },
+    {
+      "id": "f3dd6c91e74b",
+      "title": "Software Engineer at NetApp, Inc.",
+      "company": "NetApp, Inc.",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.netapp.com/job/bengaluru/software-engineer/27600/96590629904",
+      "source": "Other",
+      "description": "If you run toward knowledge and problem-solving, join us. Software Engineer . Bengaluru, India. Apply Save.",
+      "date": "2026-06-19",
+      "timestamp": "2026-06-19T07:17:29+00:00",
+      "fetched_at": "2026-06-19T14:33:39.151899+00:00"
+    },
+    {
+      "id": "6996dc27df1b",
+      "title": "Job Application for Software Engineer , Fullstack at Archer - Greenhouse",
+      "company": "Archer56",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/archer56/jobs/7703616003",
+      "source": "Greenhouse",
+      "description": "Software Engineer , Fullstack. San Jose, California, United States ... As a Fullstack Engineer , you will develop, maintain, and scale both the ...",
+      "date": "2026-06-19",
+      "timestamp": "2026-06-19T06:15:25+00:00",
+      "fetched_at": "2026-06-19T14:33:39.151991+00:00"
+    },
+    {
       "id": "b8c20cd01f32",
       "title": "Senior Software Engineer II in O Fallon, United States of America, 63368-7263 - Mastercard",
       "company": "7263 - Mastercard",
@@ -49,6 +304,21 @@
       "date": "2026-06-19",
       "timestamp": "2026-06-19T06:02:37+00:00",
       "fetched_at": "2026-06-19T08:55:30.003259+00:00"
+    },
+    {
+      "id": "19346cdea5e9",
+      "title": "Data Engineer III | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.apexsystems.com/job/3038874_usa/data-engineer-iii",
+      "source": "Other",
+      "description": "Data Engineer III. Apply. Job ... $60 - $85 per hour. Similar Jobs. Data Engineer III \u00b7 Data Engineer III \u00b7 Software Engineer / Data Engineer III ...",
+      "date": "2026-06-19",
+      "timestamp": "2026-06-19T05:50:15+00:00",
+      "fetched_at": "2026-06-19T14:33:39.229933+00:00"
     },
     {
       "id": "2fa3776a90b1",
@@ -79,6 +349,21 @@
       "date": "2026-06-19",
       "timestamp": "2026-06-19T05:11:37+00:00",
       "fetched_at": "2026-06-19T08:55:29.832490+00:00"
+    },
+    {
+      "id": "03c2e74d2190",
+      "title": "Path for Data/ ML Engineer : r/AWSCertifications - Reddit",
+      "company": "Reddit",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/AWSCertifications/comments/1u9nv63/path_for_dataml_engineer/",
+      "source": "Other",
+      "description": "Comments Section ; Passed Machine Learning Engineer \u2013 Associate. 29 \u00b7 21 ; What learning plan for ML Engineer Associate? 7 \u00b7 5 ; Failed AWS Data Engineer ...",
+      "date": "2026-06-19",
+      "timestamp": "2026-06-19T03:25:10+00:00",
+      "fetched_at": "2026-06-19T14:33:39.152773+00:00"
     },
     {
       "id": "1ec93baa1830",
