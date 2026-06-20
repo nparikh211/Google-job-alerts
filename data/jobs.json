@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-06-20T01:58:07.821017+00:00",
-  "total_jobs": 4126,
+  "last_updated": "2026-06-20T07:39:17.830986+00:00",
+  "total_jobs": 4135,
   "stats": {
-    "total_companies": 2180,
+    "total_companies": 2182,
     "total_roles": 63,
     "regions": {
-      "India": 2619,
-      "Philippines": 870,
+      "India": 2622,
+      "Philippines": 876,
       "Remote": 518,
       "Unknown": 135
     },
     "sources": {
-      "Other": 3251,
+      "Other": 3259,
       "Greenhouse": 207,
-      "Workday": 192,
+      "Workday": 193,
       "LinkedIn": 148,
       "Ashby": 126,
       "iCIMS": 44,
@@ -31,10 +31,100 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-06-19"
+      "latest": "2026-06-20"
     }
   },
   "jobs": [
+    {
+      "id": "add141af6376",
+      "title": "Lead DevOps Engineer - Arlington, VA | Careers at CoStar Group",
+      "company": "CoStar Group",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.costargroup.com/careers/job/446718550617-lead-devops-engineer-arlington-va-arlington-virginia-united-states-of-america?domain=costar.com&microsite=all",
+      "source": "Other",
+      "description": "Site Reliability Engineer . Cloud Engineer . Principal DevOps Engineer ... Lead Software Engineer - CoStar- Arlington, VA. Arlington, Virginia ...",
+      "date": "2026-06-20",
+      "timestamp": "2026-06-20T03:40:57+00:00",
+      "fetched_at": "2026-06-20T07:39:17.809422+00:00"
+    },
+    {
+      "id": "1739d06f0b44",
+      "title": "Staff Machine Learning Engineer , Adobe Firefly Services",
+      "company": "Unknown Company",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.adobe.com/us/en/job/R167971/Staff-Machine-Learning-Engineer-Adobe-Firefly-Services",
+      "source": "Other",
+      "description": "Apply for Staff Machine Learning Engineer , Adobe Firefly Services job with Adobe in Seattle, Washington, United States of America.",
+      "date": "2026-06-20",
+      "timestamp": "2026-06-20T03:13:20+00:00",
+      "fetched_at": "2026-06-20T07:39:17.423108+00:00"
+    },
+    {
+      "id": "a5a0efcf2c57",
+      "title": "Sr. Software Engineer at MCKESSON",
+      "company": "MCKESSON",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.mckesson.com/en/job/irving/sr-software-engineer/733/96661940288",
+      "source": "Other",
+      "description": "Tackling challenges no one else can. Sr. Software Engineer . Irving, Texas. Job IDJR0149464 See Job Responsibilities.",
+      "date": "2026-06-20",
+      "timestamp": "2026-06-20T02:58:18+00:00",
+      "fetched_at": "2026-06-20T07:39:17.809749+00:00"
+    },
+    {
+      "id": "c0dd6d13c5bd",
+      "title": "GDB/X - Junior Agentic AI Engineer (m/f/d) Job Details | BASF SE",
+      "company": "GDB/X",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://basf.jobs/dark_blue_AP/job/GDBX-Junior-Agentic-AI-Engineer-%28mfd%29/138920-en_US/",
+      "source": "Other",
+      "description": "Junior Agentic AI Engineer OrgCode: GDB/X Product Team: Intelligent Automation Responsibilities: - Create Agent Tools: Write Python functions and ...",
+      "date": "2026-06-20",
+      "timestamp": "2026-06-20T02:49:49+00:00",
+      "fetched_at": "2026-06-20T07:39:17.809904+00:00"
+    },
+    {
+      "id": "4f7778397b83",
+      "title": "Software Engineer - New Grad - Myworkdayjobs.com",
+      "company": "Stord",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://stord.wd503.myworkdayjobs.com/en-US/Stord_External_Career/job/Software-Engineer---New-Grad_JR102585",
+      "source": "Workday",
+      "description": "Software Engineer - New Grad \u00b7 Own features end-to-end from API design through UI on a core product domain \u00b7 Deploy your own work and monitor it in ...",
+      "date": "2026-06-20",
+      "timestamp": "2026-06-20T01:56:33+00:00",
+      "fetched_at": "2026-06-20T07:39:17.810058+00:00"
+    },
+    {
+      "id": "6e6879a8fc3d",
+      "title": "Software Engineer at NetApp, Inc.",
+      "company": "NetApp, Inc.",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.netapp.com/job/bengaluru/software-engineer/27600/96634756880",
+      "source": "Other",
+      "description": "Software Engineer . Bengaluru, India. Apply Save. Jump To: Overview ... Senior Software Engineer (Full stack Developer) Bengaluru, Karnataka, India.",
+      "date": "2026-06-19",
+      "timestamp": "2026-06-19T23:51:18+00:00",
+      "fetched_at": "2026-06-20T07:39:17.423337+00:00"
+    },
     {
       "id": "37aeee63b6d8",
       "title": "Software Engineer VI (Multiple Openings) at Spectrum | Apply Today",
@@ -81,6 +171,21 @@
       "fetched_at": "2026-06-20T01:58:07.718434+00:00"
     },
     {
+      "id": "47480e64371d",
+      "title": "Software Engineer , API",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/supernova-technology/jobs/f35a81fc-26b0-41ab-9417-4a93b0d36645",
+      "source": "Other",
+      "description": "Software Engineer , API. About Supernova Technology. Founded in 2014, we offer the industry's first and only cloud-based, fully-customizable, ...",
+      "date": "2026-06-19",
+      "timestamp": "2026-06-19T22:23:20+00:00",
+      "fetched_at": "2026-06-20T07:39:17.424139+00:00"
+    },
+    {
       "id": "d1a97ef8d769",
       "title": "The only Agentic AI/ AI Engineer Roadmap to Follow in 2026. - YouTube",
       "company": "YouTube",
@@ -94,6 +199,21 @@
       "date": "2026-06-19",
       "timestamp": "2026-06-19T22:11:32+00:00",
       "fetched_at": "2026-06-20T01:58:07.718698+00:00"
+    },
+    {
+      "id": "a2c885e056eb",
+      "title": "Apply For Senior DevSecOps/ Site Reliability Engineer - Stryker",
+      "company": "Stryker",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.stryker.com/senior-devsecops-site-reliability-engineer/job/91F526368249A1FFAFA4C35420A07B7A",
+      "source": "Other",
+      "description": "3+ years of professional experience as a DevOps/ Site Reliability Engineer . Experience with public cloud providers such as Azure (preferred), AWS.",
+      "date": "2026-06-19",
+      "timestamp": "2026-06-19T21:37:56+00:00",
+      "fetched_at": "2026-06-20T07:39:17.811612+00:00"
     },
     {
       "id": "52e20f42c3f0",
@@ -184,6 +304,21 @@
       "date": "2026-06-19",
       "timestamp": "2026-06-19T20:19:05+00:00",
       "fetched_at": "2026-06-20T01:58:07.720039+00:00"
+    },
+    {
+      "id": "4a8ca9435afd",
+      "title": "Software Engineer Intern/Co-op (Fall 2026) Preferred Candidate | TD Bank Jobs",
+      "company": "op (Fall 2026) Preferred Candidate | TD Bank Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://tdbank.jobs/toronto-on/software-engineer-internco-op-fall-2026-preferred-candidate/9B5F9EEAD7384C95B1A8CBDA55B182F5/job/",
+      "source": "Other",
+      "description": "Software Engineer Intern/Co-op (Fall 2026) Preferred CandidateToronto, ON Posted 66 days ago \u00b7 Role Type: Internship/Co-op \u00b7 Work Term: Fall/Term 1.",
+      "date": "2026-06-19",
+      "timestamp": "2026-06-19T19:53:28+00:00",
+      "fetched_at": "2026-06-20T07:39:17.813039+00:00"
     },
     {
       "id": "035841d1820b",
