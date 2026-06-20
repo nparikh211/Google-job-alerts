@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-06-20T10:23:10.601282+00:00",
-  "total_jobs": 4139,
+  "last_updated": "2026-06-20T13:17:55.493168+00:00",
+  "total_jobs": 4144,
   "stats": {
-    "total_companies": 2184,
+    "total_companies": 2186,
     "total_roles": 63,
     "regions": {
-      "India": 2625,
+      "India": 2630,
       "Philippines": 877,
       "Remote": 518,
       "Unknown": 135
     },
     "sources": {
-      "Other": 3263,
-      "Greenhouse": 207,
+      "Other": 3266,
+      "Greenhouse": 208,
       "Workday": 193,
       "LinkedIn": 148,
       "Ashby": 126,
@@ -22,7 +22,7 @@
       "Workable": 24,
       "SmartRecruiters": 23,
       "Indeed": 17,
-      "BrassRing": 5,
+      "BrassRing": 6,
       "Jobvite": 5,
       "Recruitee": 3,
       "ADP": 2,
@@ -35,6 +35,66 @@
     }
   },
   "jobs": [
+    {
+      "id": "56e2ffe21dc2",
+      "title": "Job Application for Sr. Site Reliability Engineer at SpaceX - Greenhouse",
+      "company": "Spacex",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/spacex/jobs/8601438002",
+      "source": "Greenhouse",
+      "description": "SR. SITE RELIABILITY ENGINEER (STARSHIELD). Starshield leverages SpaceX's Starlink technology and launch capability to support national security ...",
+      "date": "2026-06-20",
+      "timestamp": "2026-06-20T13:10:04+00:00",
+      "fetched_at": "2026-06-20T13:17:55.312957+00:00"
+    },
+    {
+      "id": "5d85b66a44b5",
+      "title": "Senior Site Reliability Engineer - SRE, Multi Cloud, Exp: 7-12 Yrs - Cisco Careers",
+      "company": "SRE, Multi Cloud, Exp: 7-12 Yrs - Cisco Careers",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2005539EXTERNALENGLOBAL/Senior-Site-Reliability-Engineer-SRE-Multi-Cloud-Exp-7-12-Yrs",
+      "source": "Other",
+      "description": "Apply for Senior Site Reliability Engineer - SRE, Multi Cloud, Exp: 7-12 Yrs job with Cisco in Bangalore, India. Product and Engineering at Cisco.",
+      "date": "2026-06-20",
+      "timestamp": "2026-06-20T11:14:07+00:00",
+      "fetched_at": "2026-06-20T13:17:55.314280+00:00"
+    },
+    {
+      "id": "3f5fb982d0d8",
+      "title": "Is this the worst time to be a software engineer ? : r/developersIndia - Reddit",
+      "company": "Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/developersIndia/comments/1uarizq/is_this_the_worst_time_to_be_a_software_engineer/",
+      "source": "Other",
+      "description": "Comments Section ; I figured it out that software engineer is not for me. 309 \u00b7 132 ; I need to admit this as a software engineer in this day and age.",
+      "date": "2026-06-20",
+      "timestamp": "2026-06-20T10:45:12+00:00",
+      "fetched_at": "2026-06-20T13:17:55.314552+00:00"
+    },
+    {
+      "id": "1f9b8b819ce2",
+      "title": "Data Engineer , Alpharetta - Equifax Careers",
+      "company": "Equifax Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.equifax.com/en/jobs/j00177602/data-engineer/",
+      "source": "Other",
+      "description": "Equifax is searching for an innovative Intermediate Data Engineer to join our Global Keying & Linking group. In this role, you will be a key ...",
+      "date": "2026-06-20",
+      "timestamp": "2026-06-20T09:38:09+00:00",
+      "fetched_at": "2026-06-20T13:17:55.314711+00:00"
+    },
     {
       "id": "f8139855e863",
       "title": "Platform Engineer I (DevOps) in Pune, India, 411006 - Mastercard",
@@ -184,6 +244,21 @@
       "date": "2026-06-19",
       "timestamp": "2026-06-19T23:51:18+00:00",
       "fetched_at": "2026-06-20T07:39:17.423337+00:00"
+    },
+    {
+      "id": "5a458634aa6a",
+      "title": "Associate Software Engineer | Infinite Computer Solutions - jobs.brassring.com",
+      "company": "Infinite Computer Solutions - jobs.brassring.com",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26656&siteid=5008&PageType=JobDetails&jobid=54153",
+      "source": "BrassRing",
+      "description": "Associate Software Engineer . 48439BR. California. Job description. Associate Software Engineer . Qualifications. Graduate. Range of Year Experience-Min ...",
+      "date": "2026-06-19",
+      "timestamp": "2026-06-19T23:36:06+00:00",
+      "fetched_at": "2026-06-20T13:17:55.316987+00:00"
     },
     {
       "id": "37aeee63b6d8",
