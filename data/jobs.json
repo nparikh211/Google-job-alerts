@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-06-21T02:09:36.703307+00:00",
-  "total_jobs": 4172,
+  "last_updated": "2026-06-21T08:18:01.074038+00:00",
+  "total_jobs": 4185,
   "stats": {
-    "total_companies": 2201,
+    "total_companies": 2209,
     "total_roles": 64,
     "regions": {
-      "India": 2647,
-      "Philippines": 882,
-      "Remote": 524,
+      "India": 2654,
+      "Philippines": 887,
+      "Remote": 525,
       "Unknown": 135
     },
     "sources": {
-      "Other": 3289,
+      "Other": 3300,
       "Greenhouse": 209,
-      "Workday": 193,
-      "LinkedIn": 151,
+      "Workday": 194,
+      "LinkedIn": 152,
       "Ashby": 127,
       "iCIMS": 44,
       "Breezy": 44,
@@ -31,10 +31,100 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-06-20"
+      "latest": "2026-06-21"
     }
   },
   "jobs": [
+    {
+      "id": "51c5ab5b5739",
+      "title": "Senior Software Engineer (DevOps) \u2013 Wealth.com \u2013 Permanent contract in",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.welcometothejungle.com/en/companies/wealth-com/jobs/senior-software-engineer-devops_us_ghnvj3nh",
+      "source": "Other",
+      "description": "As a Senior DevOps Engineer , you will design and manage our cloud ... Senior Software Engineer . Tilt Energy. Permanent contract.",
+      "date": "2026-06-21",
+      "timestamp": "2026-06-21T06:23:57+00:00",
+      "fetched_at": "2026-06-21T08:18:01.055860+00:00"
+    },
+    {
+      "id": "da15582a2600",
+      "title": "Senior Data Engineer - KARGO",
+      "company": "KARGO",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.kargo.com/careers/4788311007?gh_jid=4788311007",
+      "source": "Other",
+      "description": "Senior Data Engineer . Apply. London, England. Who We Are. Kargo creates powerful moments of connection between brands and consumers to build ...",
+      "date": "2026-06-21",
+      "timestamp": "2026-06-21T05:42:57+00:00",
+      "fetched_at": "2026-06-21T08:18:00.985965+00:00"
+    },
+    {
+      "id": "df3687195e6b",
+      "title": "Experienced Software Engineer Considering Salesforce \u2013 Good Move or Too Late? - Reddit",
+      "company": "Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/salesforce/comments/1ubh86y/experienced_software_engineer_considering/",
+      "source": "Other",
+      "description": "Experienced Software Engineer Considering Salesforce \u2013 Good Move or Too Late? \u00b7 If you had my background, which direction would you take? \u00b7 Is it ...",
+      "date": "2026-06-21",
+      "timestamp": "2026-06-21T05:39:21+00:00",
+      "fetched_at": "2026-06-21T08:18:00.986160+00:00"
+    },
+    {
+      "id": "f62bc3c7241a",
+      "title": "Platform Engineer (Early to Mid-level)- Geospatial Data Systems at Carbon Mapper, Inc.",
+      "company": "Carbon Mapper, Inc.",
+      "role": "Platform Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.gusto.com/postings/carbon-mapper-inc-platform-engineer-early-to-mid-level-geospatial-data-systems-c4e01787-bf23-458d-a2b9-af2dc6213585",
+      "source": "Other",
+      "description": "The Platform Engineer will work closely with our Engineering and Science teams to support AWS cloud services, GitLab CI/CD pipelines, infrastructure ...",
+      "date": "2026-06-21",
+      "timestamp": "2026-06-21T00:36:22+00:00",
+      "fetched_at": "2026-06-21T08:18:01.056511+00:00"
+    },
+    {
+      "id": "1cecd9d3e39a",
+      "title": "Principal Data Engineer (PMTS) - MDM, California - Salesforce Careers",
+      "company": "MDM, California - Salesforce Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.salesforce.com/en/jobs/jr345860/principal-data-engineer-pmts-mdm/",
+      "source": "Other",
+      "description": "The Experience Salesforce is building the next generation Enterprise Knowledge Graph platform to power AI-driven experiences, agentic applications ...",
+      "date": "2026-06-20",
+      "timestamp": "2026-06-20T23:29:53+00:00",
+      "fetched_at": "2026-06-21T08:18:00.986306+00:00"
+    },
+    {
+      "id": "faa617f491fd",
+      "title": "Software Engineer II - paycomonline.net",
+      "company": "paycomonline.net",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.paycomonline.net/v4/ats/web.php/portal/01350CF494085F3FF60A45E3AB7A67DE/jobs/358113",
+      "source": "Other",
+      "description": "Employer: Konami Gaming, Inc. Position Location: Las Vegas, NV. Position: Software Engineer II. Job Duties: Assist in development and maintenance ...",
+      "date": "2026-06-20",
+      "timestamp": "2026-06-20T23:29:11+00:00",
+      "fetched_at": "2026-06-21T08:18:00.986449+00:00"
+    },
     {
       "id": "ac79ecb7ba70",
       "title": "Lead Production Software Engineer - Global-e",
@@ -96,6 +186,66 @@
       "fetched_at": "2026-06-21T02:09:36.603761+00:00"
     },
     {
+      "id": "fdbcc94afe80",
+      "title": "Data Engineer III - Myworkdayjobs.com",
+      "company": "Hntb",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/atlanta-ga/data-engineer-iii_r-30553-1",
+      "source": "Workday",
+      "description": "Sign In. HNTB Careers Search for Jobs. Data Engineer III page is loaded. Data Engineer III. Apply. locations: Atlanta, GA. time type: Full time.",
+      "date": "2026-06-20",
+      "timestamp": "2026-06-20T21:04:57+00:00",
+      "fetched_at": "2026-06-21T08:18:00.987134+00:00"
+    },
+    {
+      "id": "689e5a4535d6",
+      "title": "Frontend Engineer (Product) \u2013 Grow Therapy \u2013 Permanent contract in - Welcome to the Jungle",
+      "company": "Welcome to the Jungle",
+      "role": "Frontend Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.welcometothejungle.com/en/companies/grow-therapy/jobs/frontend-engineer-product_us_z4iqa7j7",
+      "source": "Other",
+      "description": "Frontend Engineer (Product) ... These companies are also recruiting for the position of \u201cSoftware & Web Development\u201d. Senior Software Engineer .",
+      "date": "2026-06-20",
+      "timestamp": "2026-06-20T20:55:37+00:00",
+      "fetched_at": "2026-06-21T08:18:01.057336+00:00"
+    },
+    {
+      "id": "b754a8bb53e6",
+      "title": "Senior Platform Engineer (Onsite) in plano, Texas, United States of America - RTX - Careers",
+      "company": "RTX - Careers",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.rtx.com/global/en/job/01833023/Senior-Platform-Engineer-Onsite",
+      "source": "Other",
+      "description": "Apply for Senior Platform Engineer (Onsite) job with Raytheon in plano, Texas, United States of America ... Senior Software Engineer . Location mckinney, ...",
+      "date": "2026-06-20",
+      "timestamp": "2026-06-20T20:54:34+00:00",
+      "fetched_at": "2026-06-21T08:18:00.987249+00:00"
+    },
+    {
+      "id": "3f223b07b9df",
+      "title": "Full Stack Software Engineer at Crosslake Technologies LLC - Remote",
+      "company": "Crosslake Technologies LLC",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://remote.com/jobs/crosslake-technologies-llc-c1nd4vpf/full-stack-software-engineer-j1oyxxb1",
+      "source": "Other",
+      "description": "Crosslake Technologies LLC is hiring a Full Stack Software Engineer . Apply now on remote ... We are seeking a Full Stack Engineer with strong experience ...",
+      "date": "2026-06-20",
+      "timestamp": "2026-06-20T20:17:58+00:00",
+      "fetched_at": "2026-06-21T08:18:00.987377+00:00"
+    },
+    {
       "id": "92669d3c0473",
       "title": "Specializedsoft.com hiring Senior Software Engineer in Chicago, IL | LinkedIn",
       "company": "LinkedIn",
@@ -124,6 +274,36 @@
       "date": "2026-06-20",
       "timestamp": "2026-06-20T18:10:30+00:00",
       "fetched_at": "2026-06-21T02:09:36.687546+00:00"
+    },
+    {
+      "id": "adb2000f6518",
+      "title": "Staff Software Engineer , Embedded Systems, Pixel Sensor Intelligence - Google",
+      "company": "Google",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/118548194857493190-staff-software-engineer-embedded-systems-pixel-sensor-intelligence",
+      "source": "Other",
+      "description": "Senior Staff Software Engineer , Cloud Billing. Seattle, WA, USA; Kirkland, WA, USA \u00b7 Senior Software Engineer . Mountain View, CA, USA; San Bruno, CA ...",
+      "date": "2026-06-20",
+      "timestamp": "2026-06-20T18:07:56+00:00",
+      "fetched_at": "2026-06-21T08:18:00.987982+00:00"
+    },
+    {
+      "id": "a0dc2562bce6",
+      "title": "Steel Ridge Partners hiring Software Engineer in Katy, TX | LinkedIn",
+      "company": "LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/software-engineer-at-steel-ridge-partners-4431194751",
+      "source": "LinkedIn",
+      "description": "Senior Software Engineer . Steel Ridge Partners. Katy, TX 8 hours ago. Lead ... Cloud Engineer Senior_ITCE1I. ENGIE North America Inc. Houston, TX ...",
+      "date": "2026-06-20",
+      "timestamp": "2026-06-20T17:35:49+00:00",
+      "fetched_at": "2026-06-21T08:18:01.058050+00:00"
     },
     {
       "id": "67e22e8ab3e3",
@@ -169,6 +349,21 @@
       "date": "2026-06-20",
       "timestamp": "2026-06-20T16:56:07+00:00",
       "fetched_at": "2026-06-20T20:59:18.065586+00:00"
+    },
+    {
+      "id": "980a1ce083c3",
+      "title": "GDB/Z - SAP Datasphere Platform Engineer (m/f/d) Job Details | BASF SE",
+      "company": "GDB/Z",
+      "role": "Platform Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://basf.jobs/dark_blue_AP/job/GDBZ-SAP-Datasphere-Platform-Engineer-%28mfd%29/138925-en_US/",
+      "source": "Other",
+      "description": "SAP Datasphere Platform Engineer OrgCode: GDB/Z Product Team: Data Fundation Responsibilities: Role Purpose: Responsible for designing, ...",
+      "date": "2026-06-20",
+      "timestamp": "2026-06-20T16:45:02+00:00",
+      "fetched_at": "2026-06-21T08:18:01.058662+00:00"
     },
     {
       "id": "197869e32821",
