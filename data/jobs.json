@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-06-23T01:52:15.802837+00:00",
-  "total_jobs": 4304,
+  "last_updated": "2026-06-23T07:35:29.267823+00:00",
+  "total_jobs": 4312,
   "stats": {
-    "total_companies": 2268,
+    "total_companies": 2272,
     "total_roles": 65,
     "regions": {
-      "India": 2735,
-      "Philippines": 914,
-      "Remote": 536,
+      "India": 2741,
+      "Philippines": 915,
+      "Remote": 537,
       "Unknown": 135
     },
     "sources": {
-      "Other": 3401,
+      "Other": 3408,
       "Greenhouse": 211,
       "Workday": 198,
       "LinkedIn": 159,
       "Ashby": 130,
-      "iCIMS": 44,
+      "iCIMS": 45,
       "Breezy": 44,
       "Lever": 31,
       "Workable": 25,
@@ -31,10 +31,100 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-06-22"
+      "latest": "2026-06-23"
     }
   },
   "jobs": [
+    {
+      "id": "549a48131461",
+      "title": "Senior Software Engineer , Identity Platform - - Upstart Careers",
+      "company": "- Upstart Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.upstart.com/jobs/senior-software-engineer-identity-platform",
+      "source": "Other",
+      "description": "As a Senior Software Engineer on Upstart's Identity Platform Team, you'll play a critical role in building and securing our authentication, ...",
+      "date": "2026-06-23",
+      "timestamp": "2026-06-23T04:18:40+00:00",
+      "fetched_at": "2026-06-23T07:35:29.246591+00:00"
+    },
+    {
+      "id": "fcbdd39c219a",
+      "title": "How are AWS skills actually assessed in DevOps/ Platform Engineer interviews? - Reddit",
+      "company": "Reddit",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/devops/comments/1ucxhw7/how_are_aws_skills_actually_assessed_in/",
+      "source": "Other",
+      "description": "I'm now targeting Platform Engineer / DevOps / SRE-type roles. I ... Transitioning from manual testing to devops engineer , suggestions required.",
+      "date": "2026-06-23",
+      "timestamp": "2026-06-23T02:45:13+00:00",
+      "fetched_at": "2026-06-23T07:35:29.075483+00:00"
+    },
+    {
+      "id": "dffe578f4f05",
+      "title": "Project - Data Engineer - - 357376 - Deloitte US",
+      "company": "Project",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://apply.deloitte.com/en_US/careers/JobDetail/Project-Data-Engineer/357376",
+      "source": "Other",
+      "description": "Are you an experienced, passionate pioneer in technology who wants to work in a collaborative environment? As an experienced Data Engineer ...",
+      "date": "2026-06-23",
+      "timestamp": "2026-06-23T02:27:10+00:00",
+      "fetched_at": "2026-06-23T07:35:29.075671+00:00"
+    },
+    {
+      "id": "97eff03a059f",
+      "title": "Software Engineer , Expert - SAP PI/PO/CPI Development at CHS Inc",
+      "company": "CHS Inc",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.chsinc.com/job/inver-grove-heights/software-engineer-expert-sap-pi-po-cpi-development/34006/96800841184",
+      "source": "Other",
+      "description": "Software Engineer , Expert - SAP PI/PO/CPI Development. Location Remote Date posted 06/22/2026 Job ID 24105 Salary range $103,200.00 - $172,400.00 ...",
+      "date": "2026-06-23",
+      "timestamp": "2026-06-23T01:40:08+00:00",
+      "fetched_at": "2026-06-23T07:35:29.075882+00:00"
+    },
+    {
+      "id": "94ca222bc5b7",
+      "title": "Software Engineer - Piper Companies",
+      "company": "Piper Companies",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.pipercompanies.com/details/168314/software_engineer",
+      "source": "Other",
+      "description": "Requirements of the Software Engineer : 2-5 years of full stack engineer experience is needed; Bachelor's degree in Computer Science; Proficient in ...",
+      "date": "2026-06-23",
+      "timestamp": "2026-06-23T00:03:17+00:00",
+      "fetched_at": "2026-06-23T07:35:29.076058+00:00"
+    },
+    {
+      "id": "2ba246b8a055",
+      "title": "AI Engineer II - American Express Careers",
+      "company": "American Express Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009805",
+      "source": "Other",
+      "description": "AI Engineer II. New York, NY, United States (Hybrid). Apply Now. Job ... Data Engineer II. Chennai, TN, India. and 1 more. (Hybrid) Posted on 06/17 ...",
+      "date": "2026-06-22",
+      "timestamp": "2026-06-22T23:37:11+00:00",
+      "fetched_at": "2026-06-23T07:35:29.076220+00:00"
+    },
     {
       "id": "63fa986e01e7",
       "title": "Agentic AI Engineer - Remote - United States | Deep Seas Careers",
@@ -111,6 +201,21 @@
       "fetched_at": "2026-06-23T01:52:15.411722+00:00"
     },
     {
+      "id": "f62c5aade0c4",
+      "title": "Cloud Engineer I in Pontiac, Michigan | Careers at United Wholesale Mortgage - UWM",
+      "company": "United Wholesale Mortgage",
+      "role": "Cloud Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers-uwmcareers.icims.com/jobs/15592/cloud-engineer-i/job",
+      "source": "iCIMS",
+      "description": "We are seeking a highly skilled and experienced Cloud Engineer with a strong background in both Microsoft Azure and Google Cloud Platform (GCP).",
+      "date": "2026-06-22",
+      "timestamp": "2026-06-22T21:32:27+00:00",
+      "fetched_at": "2026-06-23T07:35:29.077457+00:00"
+    },
+    {
       "id": "007ea7cb25d6",
       "title": "Software Engineer - Myworkdayjobs.com",
       "company": "Hklaw",
@@ -184,6 +289,21 @@
       "date": "2026-06-22",
       "timestamp": "2026-06-22T20:55:06+00:00",
       "fetched_at": "2026-06-23T01:52:15.412643+00:00"
+    },
+    {
+      "id": "b46d1da6d3bf",
+      "title": "Data Engineer - FCP Euro - Career Page",
+      "company": "FCP Euro - Career Page",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://fcpeuro.applytojob.com/apply/HY1RDUBilQ/Data-Engineer",
+      "source": "Other",
+      "description": "FCP Euro is seeking a highly skilled Data Engineer with hands-on experience across the modern data stack to design, build, and maintain our data ...",
+      "date": "2026-06-22",
+      "timestamp": "2026-06-22T20:45:27+00:00",
+      "fetched_at": "2026-06-23T07:35:29.078534+00:00"
     },
     {
       "id": "79f327a6a025",
