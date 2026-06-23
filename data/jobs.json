@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-06-22T21:52:41.241961+00:00",
-  "total_jobs": 4295,
+  "last_updated": "2026-06-23T01:52:15.802837+00:00",
+  "total_jobs": 4304,
   "stats": {
-    "total_companies": 2264,
+    "total_companies": 2268,
     "total_roles": 65,
     "regions": {
-      "India": 2728,
-      "Philippines": 913,
-      "Remote": 535,
+      "India": 2735,
+      "Philippines": 914,
+      "Remote": 536,
       "Unknown": 135
     },
     "sources": {
-      "Other": 3394,
+      "Other": 3401,
       "Greenhouse": 211,
-      "Workday": 196,
+      "Workday": 198,
       "LinkedIn": 159,
       "Ashby": 130,
       "iCIMS": 44,
@@ -36,6 +36,111 @@
   },
   "jobs": [
     {
+      "id": "63fa986e01e7",
+      "title": "Agentic AI Engineer - Remote - United States | Deep Seas Careers",
+      "company": "Remote - United States | Deep Seas Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://deepseas.pinpointhq.com/en/postings/e10b6a6a-b47b-4be8-88b1-5d824295a33e",
+      "source": "Other",
+      "description": "Agentic AI Engineer . We're a small fast-moving team building AI Agents to solve real-world cybersecurity challenges - things like threat ...",
+      "date": "2026-06-22",
+      "timestamp": "2026-06-22T23:22:48+00:00",
+      "fetched_at": "2026-06-23T01:52:15.410970+00:00"
+    },
+    {
+      "id": "ee204373b3f0",
+      "title": "AI/ ML Engineer - Jobs and Careers at CRATE & BARREL",
+      "company": "CRATE & BARREL",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.crateandbarrel.com/job/northbrook/ai-ml-engineer/351/96784604016",
+      "source": "Other",
+      "description": "We are looking for an AI / Machine Learning Engineer with 2-5 ... Senior Software Engineer , Order Management - Northbrook, Illinois; Lead ...",
+      "date": "2026-06-22",
+      "timestamp": "2026-06-22T23:17:06+00:00",
+      "fetched_at": "2026-06-23T01:52:15.411132+00:00"
+    },
+    {
+      "id": "7caa9b344877",
+      "title": "Software Engineer , Frontier AI Infrastructure - Tesla",
+      "company": "Tesla",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.tesla.com/careers/search/job/software-engineer-frontier-ai-infrastructure-274102",
+      "source": "Other",
+      "description": "Software Engineer , Frontier AI Infrastructure. Job Category, Tesla AI. Location, Palo Alto, California. Req. ID, 274102. Job Type ...",
+      "date": "2026-06-22",
+      "timestamp": "2026-06-22T23:02:26+00:00",
+      "fetched_at": "2026-06-23T01:52:15.411319+00:00"
+    },
+    {
+      "id": "52cc5c402a8e",
+      "title": "Cloud DevOps Engineer in United States - PlanSource Careers",
+      "company": "PlanSource Careers",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.plansource.com/jobs/4829",
+      "source": "Other",
+      "description": "plansource is hiring a Cloud DevOps Engineer in United States. Review all of the job details and apply today!",
+      "date": "2026-06-22",
+      "timestamp": "2026-06-22T22:29:12+00:00",
+      "fetched_at": "2026-06-23T01:52:15.411434+00:00"
+    },
+    {
+      "id": "e1ff55777c8d",
+      "title": "Software Engineer - Career Center",
+      "company": "Career Center",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://amphenol-tcs.acquiretm.com/job_details_clean.aspx?ID=7857",
+      "source": "Other",
+      "description": "Title: Software Engineer - High Speed Cables Location: Nashua, NH Amphenol High Speed Products Group is the market leader for high speed, ...",
+      "date": "2026-06-22",
+      "timestamp": "2026-06-22T22:00:08+00:00",
+      "fetched_at": "2026-06-23T01:52:15.411722+00:00"
+    },
+    {
+      "id": "007ea7cb25d6",
+      "title": "Software Engineer - Myworkdayjobs.com",
+      "company": "Hklaw",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://hklaw.wd1.myworkdayjobs.com/en-US/Holland_Knight/job/Software-Engineer_R5492-1",
+      "source": "Workday",
+      "description": "Holland & Knight is hiring a Software Engineer to join its Workflow Design & Automation team. Our team's focus is on the design and build of ...",
+      "date": "2026-06-22",
+      "timestamp": "2026-06-22T21:22:31+00:00",
+      "fetched_at": "2026-06-23T01:52:15.411818+00:00"
+    },
+    {
+      "id": "630daa486776",
+      "title": "Software Engineer , Test - ServiceTitan Careers - Myworkdayjobs.com",
+      "company": "Servicetitan",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://servicetitan.wd1.myworkdayjobs.com/en-US/ServiceTitan/job/Software-Engineer--Test_JR115219",
+      "source": "Workday",
+      "description": "Ready to be a Titan? As a Software Engineer , Test on the Dispatch Engineering Proton Squad, you'll own automated test coverage for one of ...",
+      "date": "2026-06-22",
+      "timestamp": "2026-06-22T21:14:29+00:00",
+      "fetched_at": "2026-06-23T01:52:15.782165+00:00"
+    },
+    {
       "id": "335b33101000",
       "title": "Software Engineer , Test - ServiceTitan Careers - Myworkdayjobs.com",
       "company": "Servicetitan",
@@ -49,6 +154,36 @@
       "date": "2026-06-22",
       "timestamp": "2026-06-22T21:12:28+00:00",
       "fetched_at": "2026-06-22T21:52:41.110189+00:00"
+    },
+    {
+      "id": "584c0757b05b",
+      "title": "Senior Software Engineer , San Francisco, California | General Motors Careers",
+      "company": "General Motors Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://search-careers.gm.com/en/jobs/jr-202613786/senior-software-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer . Location. San Francisco, California. (+) Show all locations (-) Hide all locations. Job Type Full time; Posted Jun 22 2026 ...",
+      "date": "2026-06-22",
+      "timestamp": "2026-06-22T21:05:17+00:00",
+      "fetched_at": "2026-06-23T01:52:15.412212+00:00"
+    },
+    {
+      "id": "2497119093f6",
+      "title": "DevOps Engineer - - 126156 - Booz | Allen | Hamilton \u00ae - Careers",
+      "company": "- 126156 - Booz | Allen | Hamilton \u00ae - Careers",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.boozallen.com/jobs/JobDetail/Beavercreek-DevOps-Engineer-R0242669/126156",
+      "source": "Other",
+      "description": "The Opportunity: As a DevOps engineer , you know how to set up cloud environments and provision computer networking, storage, and virtual networks\u2014 ...",
+      "date": "2026-06-22",
+      "timestamp": "2026-06-22T20:55:06+00:00",
+      "fetched_at": "2026-06-23T01:52:15.412643+00:00"
     },
     {
       "id": "79f327a6a025",
