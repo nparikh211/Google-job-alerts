@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-06-23T14:12:10.363858+00:00",
-  "total_jobs": 4317,
+  "last_updated": "2026-06-23T17:42:30.999226+00:00",
+  "total_jobs": 4333,
   "stats": {
-    "total_companies": 2274,
-    "total_roles": 65,
+    "total_companies": 2281,
+    "total_roles": 66,
     "regions": {
-      "India": 2745,
-      "Philippines": 915,
-      "Remote": 538,
+      "India": 2757,
+      "Philippines": 917,
+      "Remote": 540,
       "Unknown": 135
     },
     "sources": {
-      "Other": 3413,
-      "Greenhouse": 211,
-      "Workday": 198,
-      "LinkedIn": 159,
-      "Ashby": 130,
+      "Other": 3421,
+      "Greenhouse": 213,
+      "Workday": 200,
+      "LinkedIn": 161,
+      "Ashby": 132,
       "iCIMS": 45,
       "Breezy": 44,
       "Lever": 31,
@@ -36,6 +36,126 @@
   },
   "jobs": [
     {
+      "id": "6f5b1518d953",
+      "title": "Job Application for DevOps Engineer at CivicActions - Greenhouse",
+      "company": "Civicactions",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/civicactions/jobs/4707657005",
+      "source": "Greenhouse",
+      "description": "DevOps Engineer . United States. Apply. CivicActions is a mission-minded company. We focus on helping the government deliver better services through ...",
+      "date": "2026-06-23",
+      "timestamp": "2026-06-23T15:20:29+00:00",
+      "fetched_at": "2026-06-23T17:42:30.817041+00:00"
+    },
+    {
+      "id": "c7c5b5d023bb",
+      "title": "Software Engineer , Enablement",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/capacity/jobs/ed4612c7-a1ca-44bc-9663-902fbf7c2475",
+      "source": "Other",
+      "description": "Software Engineer , Enablement. Who we are. Our mission at Capacity is to help teams do their best work through our AI-powered ...",
+      "date": "2026-06-23",
+      "timestamp": "2026-06-23T15:08:49+00:00",
+      "fetched_at": "2026-06-23T17:42:30.817223+00:00"
+    },
+    {
+      "id": "57c3eee43b93",
+      "title": "Software Engineer 2 - San Antonio | HOLT Group Careers",
+      "company": "San Antonio | HOLT Group Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://holtgrp.pinpointhq.com/en/postings/8c67d54c-9d9b-455f-9d29-2edaff740704",
+      "source": "Other",
+      "description": "Software Engineer 2. May work remotely from anywhere in the state of Texas. Plays a crucial role as a technical representative for various ...",
+      "date": "2026-06-23",
+      "timestamp": "2026-06-23T14:57:20+00:00",
+      "fetched_at": "2026-06-23T17:42:30.817416+00:00"
+    },
+    {
+      "id": "be6672479994",
+      "title": "Senior Data Engineer @ Interra Health - Jobs",
+      "company": "Interrahealth",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.ashbyhq.com/interrahealth/1dfd16fc-d48c-4d43-9a17-e5c9284cd0c4",
+      "source": "Ashby",
+      "description": "Senior Data Engineer . Location. USA - Remote. Employment Type. Full time. Location Type. Remote. Department. Software & TechnologyData & Analytics ...",
+      "date": "2026-06-23",
+      "timestamp": "2026-06-23T14:54:35+00:00",
+      "fetched_at": "2026-06-23T17:42:30.817527+00:00"
+    },
+    {
+      "id": "911a89ee23ba",
+      "title": "Senior Data Engineer - Myworkdayjobs.com",
+      "company": "Heidrick",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://heidrick.wd1.myworkdayjobs.com/heidrickandstruggles/job/Chicago/Senior-Data-Engineer_R2617908",
+      "source": "Workday",
+      "description": "... Data Engineer with 4\u20135 years of experience to help shape and scale our ... Senior Data Engineer . Apply. locations: Chicago. time type: Full time.",
+      "date": "2026-06-23",
+      "timestamp": "2026-06-23T14:16:54+00:00",
+      "fetched_at": "2026-06-23T17:42:30.817635+00:00"
+    },
+    {
+      "id": "2720cb637289",
+      "title": "How to Become a Software Engineer in 2026 (Full Roadmap) - YouTube",
+      "company": "YouTube",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.youtube.com/watch?v=0mi3IrUH6P0",
+      "source": "Other",
+      "description": "... contact [at] jamesblueyt.com. How to Become a Software Engineer in 2026 (Full Roadmap). 1.9K views \u00b7 16 minutes ago ...more. James Blue. 30.9K.",
+      "date": "2026-06-23",
+      "timestamp": "2026-06-23T14:16:41+00:00",
+      "fetched_at": "2026-06-23T17:42:30.978211+00:00"
+    },
+    {
+      "id": "a5313021e668",
+      "title": "Sr. Data Engineer Job Details | Crocs, Inc.",
+      "company": "Crocs, Inc.",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.crocs.com/job/Broomfield-Sr_-Data-Engineer-CO-80021/1402212600/",
+      "source": "Other",
+      "description": "Sr. Data Engineer . Requisition ID: 15563. Job Location(s):. Broomfield, CO, US, 80021. Time in Office: Hybrid. At Crocs, Inc., every career offers a ...",
+      "date": "2026-06-23",
+      "timestamp": "2026-06-23T13:40:19+00:00",
+      "fetched_at": "2026-06-23T17:42:30.978382+00:00"
+    },
+    {
+      "id": "659f22fbe798",
+      "title": "Frontend Engineer - Everyman Health",
+      "company": "Everyman Health",
+      "role": "Frontend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://everyman-health.homerun.co/frontend-engineer",
+      "source": "Other",
+      "description": "TL;DR. EVERYMAN is scaling and looking for a Frontend Engineer to own the public face of its digital-first healthcare platform.",
+      "date": "2026-06-23",
+      "timestamp": "2026-06-23T13:17:36+00:00",
+      "fetched_at": "2026-06-23T17:42:30.817766+00:00"
+    },
+    {
       "id": "afa4c4e25f02",
       "title": "Data Engineer in Hyderabad, Telang\u0101na, India | Product and Engineering at Cisco",
       "company": "Cisco",
@@ -51,6 +171,36 @@
       "fetched_at": "2026-06-23T14:12:10.244304+00:00"
     },
     {
+      "id": "6a8fba68dd7e",
+      "title": "Apprentice Software Engineer - Myworkdayjobs.com",
+      "company": "Calyx",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://calyx.wd1.myworkdayjobs.com/en-US/Perceptive/job/Apprentice-Software-Engineer_JR104836",
+      "source": "Workday",
+      "description": "Apprentice Software Engineer page is loaded. Apprentice Software Engineer . Apply. locations: Hyderabad, India. posted on: Posted Yesterday. job ...",
+      "date": "2026-06-23",
+      "timestamp": "2026-06-23T12:08:29+00:00",
+      "fetched_at": "2026-06-23T17:42:30.818078+00:00"
+    },
+    {
+      "id": "350e8f001445",
+      "title": "Cloud Engineer 1 at IQVIA",
+      "company": "IQVIA",
+      "role": "Cloud Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.iqvia.com/en/jobs/R1545728-0",
+      "source": "Other",
+      "description": "Cloud Engineer 1 ... Education/certification: ... Degree level educated, preferably in science, maths or engineering areas. ... Azure or AWS Fundamentals ...",
+      "date": "2026-06-23",
+      "timestamp": "2026-06-23T12:03:09+00:00",
+      "fetched_at": "2026-06-23T17:42:30.818188+00:00"
+    },
+    {
       "id": "42bb1b0e9d38",
       "title": "Engineering Specialists Inc - Software Engineer - Paylocity",
       "company": "Engineering Specialists Inc",
@@ -64,6 +214,66 @@
       "date": "2026-06-23",
       "timestamp": "2026-06-23T10:13:46+00:00",
       "fetched_at": "2026-06-23T14:12:10.245062+00:00"
+    },
+    {
+      "id": "997701f2c2cc",
+      "title": "where his job is to weave AI as deeply as possible\u2026 | Kent Buse - LinkedIn",
+      "company": "Unknown Company",
+      "role": "where his job is to weave AI as deeply as possible\u2026 | Kent B",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/kent-buse-8953b86b_a-young-ai-engineer-spent-the-weekend-with-activity-7475068640254447617-v0ii",
+      "source": "LinkedIn",
+      "description": "A young AI engineer spent the weekend with us. Eye-opening doesn't quite cover it. Tom works for Minikai - an Australian care-related AI start up ...",
+      "date": "2026-06-23",
+      "timestamp": "2026-06-23T09:53:31+00:00",
+      "fetched_at": "2026-06-23T17:42:30.819199+00:00"
+    },
+    {
+      "id": "97dc354e4b73",
+      "title": "Software Engineer at NetApp, Inc.",
+      "company": "NetApp, Inc.",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.netapp.com/job/cork/software-engineer/27600/96811457184",
+      "source": "Other",
+      "description": "If you run toward knowledge and problem-solving, join us. Software Engineer . Cork, Ireland. Apply Save.",
+      "date": "2026-06-23",
+      "timestamp": "2026-06-23T08:21:23+00:00",
+      "fetched_at": "2026-06-23T17:42:30.819330+00:00"
+    },
+    {
+      "id": "4a0e943e438e",
+      "title": "Software Engineer at NetApp, Inc.",
+      "company": "NetApp, Inc.",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.netapp.com/job/bengaluru/software-engineer/27600/96811457408",
+      "source": "Other",
+      "description": "Software Engineer . Bengaluru, India. Apply Save. Jump To: Overview ... We're looking for a collaborative and curious Senior Software Engineer ...",
+      "date": "2026-06-23",
+      "timestamp": "2026-06-23T08:21:23+00:00",
+      "fetched_at": "2026-06-23T17:42:30.819457+00:00"
+    },
+    {
+      "id": "dff865d0233d",
+      "title": "Software Engineer , Marketing Growth @ Suno - Jobs",
+      "company": "Suno",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/suno/6f27a62f-02ac-46c0-8e77-347cf28881ed",
+      "source": "Ashby",
+      "description": "Software Engineer , Marketing Growth. Location. NYC. Employment Type. Full time. Department. Growth. Compensation. $200K \u2013 $250K. OverviewApplication ...",
+      "date": "2026-06-23",
+      "timestamp": "2026-06-23T07:40:23+00:00",
+      "fetched_at": "2026-06-23T17:42:30.819560+00:00"
     },
     {
       "id": "a5b037fc310f",
@@ -96,6 +306,21 @@
       "fetched_at": "2026-06-23T07:35:29.246591+00:00"
     },
     {
+      "id": "3e2d15bf68ab",
+      "title": "GDH hiring AI Engineer in Phoenix, AZ | LinkedIn",
+      "company": "LinkedIn",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/ai-engineer-at-gdh-4432038879",
+      "source": "LinkedIn",
+      "description": "AI Engineer / ML Engineer - Senior Developers - AI Training - Mesa, US ... People also viewed. Senior Machine Learning Engineer , Applied AI & Data. Senior ...",
+      "date": "2026-06-23",
+      "timestamp": "2026-06-23T03:49:32+00:00",
+      "fetched_at": "2026-06-23T17:42:30.820036+00:00"
+    },
+    {
       "id": "7bfe56b72ba0",
       "title": "Software Engineer in Dallas, Texas, United States of America | Technology at Southwest",
       "company": "Southwest",
@@ -109,6 +334,21 @@
       "date": "2026-06-23",
       "timestamp": "2026-06-23T03:19:21+00:00",
       "fetched_at": "2026-06-23T14:12:10.245550+00:00"
+    },
+    {
+      "id": "d3c9d4216dcd",
+      "title": "Job Application for Senior Software Engineer 1 at The Farmer's Dog - Greenhouse",
+      "company": "Thefarmersdog",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/thefarmersdog/jobs/8602423002",
+      "source": "Greenhouse",
+      "description": "As a Senior Software Engineer on the Business Logic pod, you'll work on ... You are a strong full stack engineer with 6 - 8+ years of ...",
+      "date": "2026-06-23",
+      "timestamp": "2026-06-23T02:45:38+00:00",
+      "fetched_at": "2026-06-23T17:42:30.820266+00:00"
     },
     {
       "id": "fcbdd39c219a",
