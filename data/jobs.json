@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-06-23T17:42:30.999226+00:00",
-  "total_jobs": 4333,
+  "last_updated": "2026-06-23T21:20:46.767678+00:00",
+  "total_jobs": 4349,
   "stats": {
-    "total_companies": 2281,
-    "total_roles": 66,
+    "total_companies": 2290,
+    "total_roles": 67,
     "regions": {
-      "India": 2757,
-      "Philippines": 917,
-      "Remote": 540,
+      "India": 2768,
+      "Philippines": 920,
+      "Remote": 542,
       "Unknown": 135
     },
     "sources": {
-      "Other": 3421,
-      "Greenhouse": 213,
-      "Workday": 200,
-      "LinkedIn": 161,
+      "Other": 3430,
+      "Greenhouse": 214,
+      "Workday": 202,
+      "LinkedIn": 162,
       "Ashby": 132,
-      "iCIMS": 45,
-      "Breezy": 44,
+      "iCIMS": 47,
+      "Breezy": 45,
       "Lever": 31,
       "Workable": 25,
       "SmartRecruiters": 23,
@@ -35,6 +35,216 @@
     }
   },
   "jobs": [
+    {
+      "id": "705a7f86a5dc",
+      "title": "Software Engineer - Intel - Myworkdayjobs.com",
+      "company": "Intel",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Software-Engineer_JR0285009",
+      "source": "Workday",
+      "description": "... Intel. Software Engineer page is loaded. Software Engineer . Apply. locations: US, Arizona, Phoenix: US, Oregon, Hillsboro. time type: Full time.",
+      "date": "2026-06-23",
+      "timestamp": "2026-06-23T20:02:22+00:00",
+      "fetched_at": "2026-06-23T21:20:46.473410+00:00"
+    },
+    {
+      "id": "427ca38876ab",
+      "title": "Get started by using your email or phone number - Ford Global Career Site",
+      "company": "Unknown Company",
+      "role": "Get started by using your email or phone number - Ford Globa",
+      "regions": [
+        "India"
+      ],
+      "link": "https://apply.ford.com/en/sites/CX_1/job/65318/apply/email",
+      "source": "Other",
+      "description": "AI/ ML Engineer - Supply Chain ... Location: Dearborn, MI, United States (Hybrid); Job Identification: 65318; Job Category: Enterprise Technology ...",
+      "date": "2026-06-23",
+      "timestamp": "2026-06-23T19:36:13+00:00",
+      "fetched_at": "2026-06-23T21:20:46.474711+00:00"
+    },
+    {
+      "id": "dda24e71f5f7",
+      "title": "Associate Data Engineer Job Details | NEW YORK POWER AUTHORITY",
+      "company": "NEW YORK POWER AUTHORITY",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.nypa.gov/job/White-Plains-Associate-Data-Engineer-NY-10601/1402377300/",
+      "source": "Other",
+      "description": "Summary. We are seeking an Associate Data Engineer to join our growing Data Engineering organization. As NYPA continues to accelerate its data ...",
+      "date": "2026-06-23",
+      "timestamp": "2026-06-23T18:43:51+00:00",
+      "fetched_at": "2026-06-23T21:20:46.474982+00:00"
+    },
+    {
+      "id": "86feb19d5e8f",
+      "title": "Software Engineer - 64588 - MANTECH",
+      "company": "64588 - MANTECH",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mantech.com/en_US/careers/JobDetail/Software-Engineer/64588",
+      "source": "Other",
+      "description": "MANTECH seeks a motivated, career and customer-oriented Software Engineer to join our team in Hollywood, FL. This is an onsite position.",
+      "date": "2026-06-23",
+      "timestamp": "2026-06-23T18:19:00+00:00",
+      "fetched_at": "2026-06-23T21:20:46.475127+00:00"
+    },
+    {
+      "id": "611819b7ed3f",
+      "title": "Senior Software Engineer - Multi Cloud Efficiency - Databricks",
+      "company": "Multi Cloud Efficiency - Databricks",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.databricks.com/company/careers/engineering---pipeline/senior-software-engineer---multi-cloud-efficiency-8602402002",
+      "source": "Other",
+      "description": "Senior Software Engineer - Multi Cloud Efficiency, Bengaluru, India. Join us! Together we can use data to solve the challenges of tomorrow.",
+      "date": "2026-06-23",
+      "timestamp": "2026-06-23T18:16:31+00:00",
+      "fetched_at": "2026-06-23T21:20:46.747238+00:00"
+    },
+    {
+      "id": "67fa96a46da5",
+      "title": "Data Engineer in McLean, Virginia - steampunk | Careers Center",
+      "company": "steampunk | Careers Center",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers-steampunk.icims.com/jobs/7859/data-engineer/job",
+      "source": "iCIMS",
+      "description": "We are hiring a Data Engineer in McLean, Virginia. Review all of the job details and apply today!",
+      "date": "2026-06-23",
+      "timestamp": "2026-06-23T17:48:13+00:00",
+      "fetched_at": "2026-06-23T21:20:46.475455+00:00"
+    },
+    {
+      "id": "fe5d370418c2",
+      "title": "Senior Data Engineer - Myworkdayjobs.com",
+      "company": "Heidrick",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://heidrick.wd1.myworkdayjobs.com/en-US/heidrickandstruggles/job/Senior-Data-Engineer_R2617908",
+      "source": "Workday",
+      "description": "Additional information on the firm can be found at www.heidrick.com. The Role. We are seeking a highly skilled, hands\u2011on Senior Data Engineer with 4\u20135 ...",
+      "date": "2026-06-23",
+      "timestamp": "2026-06-23T17:40:32+00:00",
+      "fetched_at": "2026-06-23T21:20:46.747636+00:00"
+    },
+    {
+      "id": "880d9f428047",
+      "title": "Data Engineer at Leverage - Gusto",
+      "company": "Leverage",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.gusto.com/postings/leverage-data-engineer-92f78e26-01f0-42e2-8b27-4f6ccba07b8a",
+      "source": "Other",
+      "description": "Leverage is hiring a Data Engineer who will be an operational backbone of our data ecosystem \u2014 keeping data quality high, building automations/ ...",
+      "date": "2026-06-23",
+      "timestamp": "2026-06-23T17:19:26+00:00",
+      "fetched_at": "2026-06-23T21:20:46.475996+00:00"
+    },
+    {
+      "id": "17d741955746",
+      "title": "Get Hired as an AI Engineer in 2026 | Follow this - YouTube",
+      "company": "Follow this - YouTube",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.youtube.com/watch?v=tp6MDFfh0GY",
+      "source": "Other",
+      "description": "... AI Engineer in 2026? In this video, I am sharing the fastest and ... software engineer , or complete beginner, this step-by-step guide will ...",
+      "date": "2026-06-23",
+      "timestamp": "2026-06-23T16:59:51+00:00",
+      "fetched_at": "2026-06-23T21:20:46.748031+00:00"
+    },
+    {
+      "id": "eddaa61f87d7",
+      "title": "Senior Software Engineer in Rochester, Minnesota - Expleo",
+      "company": "Expleo",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://trissential-jobs.icims.com/jobs/54082/senior-software-engineer/job",
+      "source": "iCIMS",
+      "description": "Rochester, MN is now hiring a Senior Software Engineer in Rochester, Minnesota. Review all of the job details and apply today!",
+      "date": "2026-06-23",
+      "timestamp": "2026-06-23T16:51:14+00:00",
+      "fetched_at": "2026-06-23T21:20:46.476125+00:00"
+    },
+    {
+      "id": "82b736348306",
+      "title": "Job Application for Senior Software Engineer at SRS Acquiom - Greenhouse",
+      "company": "Srsacquiom",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/srsacquiom/jobs/5167539007",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer . Remote - United States. Apply. About SRS Acquiom. SRS Acquiom delivers the smartest way to run a deal\u2122 through a platform ...",
+      "date": "2026-06-23",
+      "timestamp": "2026-06-23T16:40:46+00:00",
+      "fetched_at": "2026-06-23T21:20:46.476216+00:00"
+    },
+    {
+      "id": "66bd26fa2344",
+      "title": "Senior Site Reliability Engineer (C#, .NET) - Openings at Climavision",
+      "company": "Climavision",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://climavision.breezy.hr/p/f8710da36ec5-senior-site-reliability-engineer-c-net/apply",
+      "source": "Breezy",
+      "description": "Senior Site Reliability Engineer Remote | US (EST Preferred) About Climavision At Climavision, we're rebuilding climate technology from the ground ...",
+      "date": "2026-06-23",
+      "timestamp": "2026-06-23T16:28:18+00:00",
+      "fetched_at": "2026-06-23T21:20:46.476346+00:00"
+    },
+    {
+      "id": "a2dc1058be32",
+      "title": "Zach Lloyd's Post - LinkedIn",
+      "company": "Unknown Company",
+      "role": "Zach Lloyd's Post - LinkedIn",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/zachlloyd_really-excited-to-speak-at-the-ai-engineer-activity-7475216161249443842-rnEa",
+      "source": "LinkedIn",
+      "description": "Really excited to speak at the AI Engineer World's Fair in SF. I'm speaking on software factories and loops to run those factories effectively: ...",
+      "date": "2026-06-23",
+      "timestamp": "2026-06-23T16:27:48+00:00",
+      "fetched_at": "2026-06-23T21:20:46.476690+00:00"
+    },
+    {
+      "id": "43918ab0002e",
+      "title": "Software Engineer Job Details | Leonardo DRS, Inc.",
+      "company": "Leonardo DRS, Inc.",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.leonardodrs.com/job/Beavercreek-Software-Engineer-OH-45431/1402189400/",
+      "source": "Other",
+      "description": "Software Engineer . Location: Beavercreek, OH, US, 45431. Job ID: 114810. The Leonardo DRS Airborne and Intelligence Systems business is a global ...",
+      "date": "2026-06-23",
+      "timestamp": "2026-06-23T16:14:45+00:00",
+      "fetched_at": "2026-06-23T21:20:46.476855+00:00"
+    },
     {
       "id": "6f5b1518d953",
       "title": "Job Application for DevOps Engineer at CivicActions - Greenhouse",
@@ -94,6 +304,36 @@
       "date": "2026-06-23",
       "timestamp": "2026-06-23T14:54:35+00:00",
       "fetched_at": "2026-06-23T17:42:30.817527+00:00"
+    },
+    {
+      "id": "d2bd62d2acd2",
+      "title": "Sr Data Engineer I in Multiple Locations | Principal Financial Group",
+      "company": "Principal Financial Group",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.principal.com/ph/jobs/51416",
+      "source": "Other",
+      "description": "ph is hiring a Sr Data Engineer I in Multiple Locations. Review all of the job details and apply today!",
+      "date": "2026-06-23",
+      "timestamp": "2026-06-23T14:52:04+00:00",
+      "fetched_at": "2026-06-23T21:20:46.748915+00:00"
+    },
+    {
+      "id": "48a8bc583750",
+      "title": "Senior Software Engineer - External Connectivity - 20394 - Bloomberg",
+      "company": "External Connectivity - 20394 - Bloomberg",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://bloomberg.avature.net/careers/JobDetail/Senior-Software-Engineer-External-Connectivity/20394",
+      "source": "Other",
+      "description": "Senior Software Engineer - External Connectivity. Location. New York. Business Area. Engineering and CTO. Ref #. 10052188. Description & Requirements.",
+      "date": "2026-06-23",
+      "timestamp": "2026-06-23T14:41:53+00:00",
+      "fetched_at": "2026-06-23T21:20:46.477512+00:00"
     },
     {
       "id": "911a89ee23ba",
