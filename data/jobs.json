@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-06-24T07:29:09.691709+00:00",
-  "total_jobs": 4371,
+  "last_updated": "2026-06-24T10:37:25.187091+00:00",
+  "total_jobs": 4377,
   "stats": {
-    "total_companies": 2300,
+    "total_companies": 2304,
     "total_roles": 67,
     "regions": {
-      "India": 2782,
+      "India": 2787,
       "Philippines": 925,
-      "Remote": 545,
+      "Remote": 546,
       "Unknown": 135
     },
     "sources": {
-      "Other": 3448,
-      "Greenhouse": 216,
+      "Other": 3452,
+      "Greenhouse": 218,
       "Workday": 203,
       "LinkedIn": 162,
       "Ashby": 132,
@@ -36,6 +36,81 @@
   },
   "jobs": [
     {
+      "id": "7b6a5c169eac",
+      "title": "Data Engineer (Cycle) - Washington, DC - America Votes Jobs",
+      "company": "Washington, DC - America Votes Jobs",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://americavotes.isolvedhire.com/jobs/1800528",
+      "source": "Other",
+      "description": "Data Engineer (Cycle) \u00b7 Strong SQL skills: comfortable writing queries and scripts to clean, transform, and analyze data. \u00b7 Experience working in a ...",
+      "date": "2026-06-24",
+      "timestamp": "2026-06-24T07:56:11+00:00",
+      "fetched_at": "2026-06-24T10:37:25.084972+00:00"
+    },
+    {
+      "id": "3a5a8721a8ac",
+      "title": "Job Application for Data Engineer at Newsela - Greenhouse",
+      "company": "Newsela",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/newsela/jobs/7985789",
+      "source": "Greenhouse",
+      "description": "Data Engineer \u00b7 Why You'll Love This Role: Develop and maintain custom integrations and ETL processes between K-12 data and internal/external systems.",
+      "date": "2026-06-24",
+      "timestamp": "2026-06-24T07:55:23+00:00",
+      "fetched_at": "2026-06-24T10:37:25.085134+00:00"
+    },
+    {
+      "id": "98eafaa0529e",
+      "title": "Software Engineer , C# / .NET / SQL - Jobs at Sonova",
+      "company": "Sonova",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.sonova.com/job/Singapore-Software-Engineer%2C-C-_NET-SQL/1407384033/",
+      "source": "Other",
+      "description": "Join us in our mission to create a more connected world, where every voice is heard and every story matters. Singapore, Singapore. Software Engineer , ...",
+      "date": "2026-06-24",
+      "timestamp": "2026-06-24T05:33:20+00:00",
+      "fetched_at": "2026-06-24T10:37:25.085426+00:00"
+    },
+    {
+      "id": "0514de27fa8a",
+      "title": "Software Engineer I - Core Topics Platform job in Provo, Utah, United States - Qualtrics",
+      "company": "Core Topics Platform job in Provo, Utah, United States - Qualtrics",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.qualtrics.com/careers/us/en/job/8018763/Software-Engineer-I-Core-Topics-Platform",
+      "source": "Other",
+      "description": "Apply for Software Engineer I - Core Topics Platform job with Qualtrics in Provo, Utah, United States. Browse and apply for Engineering, Product, ...",
+      "date": "2026-06-24",
+      "timestamp": "2026-06-24T04:29:56+00:00",
+      "fetched_at": "2026-06-24T10:37:25.085640+00:00"
+    },
+    {
+      "id": "500ab991216d",
+      "title": "Job Application for Senior Software Engineer , Presence at Reddit - Greenhouse",
+      "company": "Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/reddit/jobs/8024892",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer , Presence. Remote - United States. Apply. Reddit is a community of communities. It's built on shared interests, passion, and ...",
+      "date": "2026-06-24",
+      "timestamp": "2026-06-24T04:14:34+00:00",
+      "fetched_at": "2026-06-24T10:37:25.085749+00:00"
+    },
+    {
       "id": "17c84a4c59fc",
       "title": "Software Engineer II (Full Time) \u2013 United States - Cisco Careers",
       "company": "Cisco Careers",
@@ -49,6 +124,21 @@
       "date": "2026-06-24",
       "timestamp": "2026-06-24T02:28:17+00:00",
       "fetched_at": "2026-06-24T07:29:09.669929+00:00"
+    },
+    {
+      "id": "467dfc8d523e",
+      "title": "AI engineer vs Software engineer : r/BESalary - Reddit",
+      "company": "Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/BESalary/comments/1udqiaz/ai_engineer_vs_software_engineer/",
+      "source": "Other",
+      "description": "... AI engineer or Software engineer . Software engineer ... Machine learning engineer : I feel like i'm a lot better in this option ...",
+      "date": "2026-06-24",
+      "timestamp": "2026-06-24T02:00:07+00:00",
+      "fetched_at": "2026-06-24T10:37:25.085918+00:00"
     },
     {
       "id": "40448b1f69ad",
