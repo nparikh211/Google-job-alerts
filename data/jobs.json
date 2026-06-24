@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-06-24T13:56:38.932201+00:00",
-  "total_jobs": 4388,
+  "last_updated": "2026-06-24T17:44:56.374797+00:00",
+  "total_jobs": 4403,
   "stats": {
-    "total_companies": 2308,
+    "total_companies": 2317,
     "total_roles": 67,
     "regions": {
-      "India": 2795,
-      "Philippines": 927,
-      "Remote": 547,
+      "India": 2807,
+      "Philippines": 929,
+      "Remote": 548,
       "Unknown": 135
     },
     "sources": {
-      "Other": 3461,
+      "Other": 3474,
       "Greenhouse": 219,
       "Workday": 203,
       "LinkedIn": 162,
-      "Ashby": 133,
+      "Ashby": 134,
       "iCIMS": 47,
-      "Breezy": 45,
+      "Breezy": 46,
       "Lever": 31,
       "Workable": 26,
       "SmartRecruiters": 23,
@@ -36,6 +36,171 @@
   },
   "jobs": [
     {
+      "id": "e4483a1a147d",
+      "title": "Machine Learning Engineer , Payment Intelligence - Stripe",
+      "company": "Stripe",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://stripe.com/jobs/listing/machine-learning-engineer-payment-intelligence/7983456/apply",
+      "source": "Other",
+      "description": "See open roles \u00b7 Roles at Stripe \u00b7 Role details; Application. Machine Learning Engineer , Payment Intelligence.",
+      "date": "2026-06-24",
+      "timestamp": "2026-06-24T16:47:40+00:00",
+      "fetched_at": "2026-06-24T17:44:56.033390+00:00"
+    },
+    {
+      "id": "d12e2e7bae1a",
+      "title": "Full Stack Engineer , Machine Learning Tooling @ Flock - Jobs",
+      "company": "Flock",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.ashbyhq.com/flock%20safety/edad75bb-6b93-46ff-b336-c45c96b93120",
+      "source": "Ashby",
+      "description": "Full Stack Engineer , Machine Learning Tooling. Location. Remote - USA. Employment Type. Full time. Location Type. Remote. Department. Engineering ...",
+      "date": "2026-06-24",
+      "timestamp": "2026-06-24T16:35:31+00:00",
+      "fetched_at": "2026-06-24T17:44:56.353759+00:00"
+    },
+    {
+      "id": "5c640770e0e1",
+      "title": "Junior Data Engineer Job Details - Aramark Careers",
+      "company": "Aramark Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://aramarkcareers.com/UnitedStates/job/Philadelphia-Junior-Data-Engineer-PA-19103/1402584600/",
+      "source": "Other",
+      "description": "Philadelphia Junior Data Engineer - PA, 19103. ... We are seeking a Junior Data Engineer who will work collaboratively with our ...",
+      "date": "2026-06-24",
+      "timestamp": "2026-06-24T16:31:01+00:00",
+      "fetched_at": "2026-06-24T17:44:56.033616+00:00"
+    },
+    {
+      "id": "3dd330e32758",
+      "title": "Sr. Software Engineer :UI at SwipeSense",
+      "company": "Swipesense",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://swipesense.breezy.hr/p/52d4e621b37f-sr-software-engineer-ui",
+      "source": "Breezy",
+      "description": "Senior Software Engineer : UI WHO WE ARE SwipeSense is a healthcare technology company on a mission to eliminate harm and waste in medicine.",
+      "date": "2026-06-24",
+      "timestamp": "2026-06-24T16:23:09+00:00",
+      "fetched_at": "2026-06-24T17:44:56.033741+00:00"
+    },
+    {
+      "id": "02bb78c41e90",
+      "title": "Data Engineer , People Analytics - Brazil - Vaga exclusiva para PCD - DoorDash",
+      "company": "Brazil - Vaga exclusiva para PCD - DoorDash",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careersatdoordash.com/jobs/data-engineer-people-analytics---brazil---vaga-exclusiva-para-pcd/8025951",
+      "source": "Other",
+      "description": "About the Role. DoorDash is seeking an experienced data engineer to join our People Intelligence team supporting HR functions. We're a data-driven ...",
+      "date": "2026-06-24",
+      "timestamp": "2026-06-24T15:57:13+00:00",
+      "fetched_at": "2026-06-24T17:44:56.354395+00:00"
+    },
+    {
+      "id": "16e2dc0f7a29",
+      "title": "Senior Software Engineer in Cambridge at Arm",
+      "company": "Arm",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.arm.com/job/cambridge/senior-software-engineer/33099/96868588672",
+      "source": "Other",
+      "description": "Senior Software Engineer . Job ID 2023-10014 Date posted Jun. 24, 2026 Location Cambridge, United Kingdom Category Software Engineering Apply. Jump ...",
+      "date": "2026-06-24",
+      "timestamp": "2026-06-24T15:28:02+00:00",
+      "fetched_at": "2026-06-24T17:44:56.033912+00:00"
+    },
+    {
+      "id": "812d5603055e",
+      "title": "CareMetx - Senior Software Engineer II - Paylocity",
+      "company": "CareMetx",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://recruiting.paylocity.com/recruiting/jobs/Details/4275642/CareMetx/Senior-Software-Engineer-II",
+      "source": "Other",
+      "description": "The Senior Software Engineer II is a highly experienced software engineer and technical leader who drives the design, development, and delivery of ...",
+      "date": "2026-06-24",
+      "timestamp": "2026-06-24T15:16:46+00:00",
+      "fetched_at": "2026-06-24T17:44:56.034086+00:00"
+    },
+    {
+      "id": "37faa5f07646",
+      "title": "Software Engineer in Multiple Locations | State Farm",
+      "company": "State Farm",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.statefarm.com/main/jobs/44900?lang=en-us",
+      "source": "Other",
+      "description": "State Farm is hiring a Software Engineer to design and build end-to-end data pipelines that pull from source systems including Entra ID, ServiceNow, ...",
+      "date": "2026-06-24",
+      "timestamp": "2026-06-24T15:15:22+00:00",
+      "fetched_at": "2026-06-24T17:44:56.034361+00:00"
+    },
+    {
+      "id": "454f2379e23e",
+      "title": "Big Data Engineer | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.apexsystems.com/job/3039383_usa/big-data-engineer",
+      "source": "Other",
+      "description": "Big Data Engineer \u00b7 Develop, implement, and test Big Data applications (API & Batch) on the AWS Cloud. \u00b7 Utilize Java, Scala, Kotlin, Cassandra, Python, ...",
+      "date": "2026-06-24",
+      "timestamp": "2026-06-24T14:52:45+00:00",
+      "fetched_at": "2026-06-24T17:44:56.034511+00:00"
+    },
+    {
+      "id": "5f57901daedd",
+      "title": "Principal - Data Engineer , Bangalore, KA | Fidelity Careers",
+      "company": "Principal",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.fidelity.com/in/jobs/2127928/principal-data-engineer/",
+      "source": "Other",
+      "description": "Job Description: Job Title: Principal - Data Engineer The Purpose of This Role Are you an experienced software engineer ... Principal, AI/ ML Engineer .",
+      "date": "2026-06-24",
+      "timestamp": "2026-06-24T14:39:30+00:00",
+      "fetched_at": "2026-06-24T17:44:56.034651+00:00"
+    },
+    {
+      "id": "e249b201d848",
+      "title": "Data Engineer - Databricks At Affine - Sense",
+      "company": "Affine",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://affine.sensehq.com/careers/jobs/54765",
+      "source": "Other",
+      "description": "Data Engineer - Databricks (CON01519). Bengaluru,Hyderabad,Gurugram. Hybrid. Apply Now. About Us. Affine is a leading global AI and analytics company ...",
+      "date": "2026-06-24",
+      "timestamp": "2026-06-24T14:27:49+00:00",
+      "fetched_at": "2026-06-24T17:44:56.355195+00:00"
+    },
+    {
       "id": "3baab3a7f2d6",
       "title": "Senior Software Engineer , Platform Engineering @ Decagon - Jobs",
       "company": "Decagon",
@@ -49,6 +214,21 @@
       "date": "2026-06-24",
       "timestamp": "2026-06-24T12:27:55+00:00",
       "fetched_at": "2026-06-24T13:56:38.833219+00:00"
+    },
+    {
+      "id": "98baa8f3518e",
+      "title": "Senior Associate, R&D Tax Credits - Software Engineer (AMCS) - KPMG Careers",
+      "company": "Senior Associate, R&D Tax Credits",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.kpmguscareers.com/jobdetail?jobId=134777",
+      "source": "Other",
+      "description": "Senior Associate, R&D Tax Credits - Software Engineer (AMCS). Boston, MA. 134777. Apply Now. Share. Career Level Requirement. Experienced. At KPMG, ...",
+      "date": "2026-06-24",
+      "timestamp": "2026-06-24T12:19:54+00:00",
+      "fetched_at": "2026-06-24T17:44:56.035060+00:00"
     },
     {
       "id": "e0e5733f4edb",
@@ -81,6 +261,36 @@
       "fetched_at": "2026-06-24T13:56:38.834206+00:00"
     },
     {
+      "id": "016de5360818",
+      "title": "Associate Software Engineer (Full Stack) Jobs at Amgen in India",
+      "company": "Amgen in India",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.amgen.com/en/job/hyderabad/associate-software-engineer-full-stack/87/96859484416",
+      "source": "Other",
+      "description": "It's time for a career you can be proud of. Senior Associate Software Engineer ( Full Stack Engineer ). About Amgen. Amgen harnesses the best of biology ...",
+      "date": "2026-06-24",
+      "timestamp": "2026-06-24T11:52:27+00:00",
+      "fetched_at": "2026-06-24T17:44:56.035492+00:00"
+    },
+    {
+      "id": "8f117963990b",
+      "title": "Principal Software Engineer - Candidate Experience site Careers - oracle",
+      "company": "Candidate Experience site Careers - oracle",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/preview/47611?utm_medium=jobboard&utm_source=BuiltIn",
+      "source": "Other",
+      "description": "Principal Software Engineer . United States. Be the First to Apply ... Principal Data Engineer (Java/Spark). United States Posted on 05/06/2026.",
+      "date": "2026-06-24",
+      "timestamp": "2026-06-24T11:41:59+00:00",
+      "fetched_at": "2026-06-24T17:44:56.035684+00:00"
+    },
+    {
       "id": "167ee2931f47",
       "title": "Software Engineer (Pathum Thani-Thailand) Job Details - Teradyne Careers",
       "company": "Thailand) Job Details - Teradyne Careers",
@@ -94,6 +304,21 @@
       "date": "2026-06-24",
       "timestamp": "2026-06-24T11:15:12+00:00",
       "fetched_at": "2026-06-24T13:56:38.834537+00:00"
+    },
+    {
+      "id": "79d76a596331",
+      "title": "Senior Software Engineer - Job Detail | Careers Marketplace - Siemens",
+      "company": "Job Detail | Careers Marketplace - Siemens",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/509310",
+      "source": "Other",
+      "description": "Senior Software Engineer \u00b7 Demonstrated language competency in more than one programming language or discipline (frontend, backend, infrastructure, ...) ...",
+      "date": "2026-06-24",
+      "timestamp": "2026-06-24T09:10:43+00:00",
+      "fetched_at": "2026-06-24T17:44:56.356335+00:00"
     },
     {
       "id": "a57fcc3326a8",
