@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-06-24T01:50:16.074549+00:00",
-  "total_jobs": 4365,
+  "last_updated": "2026-06-24T07:29:09.691709+00:00",
+  "total_jobs": 4371,
   "stats": {
-    "total_companies": 2298,
+    "total_companies": 2300,
     "total_roles": 67,
     "regions": {
-      "India": 2778,
-      "Philippines": 923,
+      "India": 2782,
+      "Philippines": 925,
       "Remote": 545,
       "Unknown": 135
     },
     "sources": {
-      "Other": 3444,
+      "Other": 3448,
       "Greenhouse": 216,
-      "Workday": 202,
+      "Workday": 203,
       "LinkedIn": 162,
       "Ashby": 132,
       "iCIMS": 47,
       "Breezy": 45,
       "Lever": 31,
-      "Workable": 25,
+      "Workable": 26,
       "SmartRecruiters": 23,
       "Indeed": 18,
       "BrassRing": 6,
@@ -35,6 +35,51 @@
     }
   },
   "jobs": [
+    {
+      "id": "17c84a4c59fc",
+      "title": "Software Engineer II (Full Time) \u2013 United States - Cisco Careers",
+      "company": "Cisco Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2015873EXTERNALENGLOBAL/Software-Engineer-II-Full-Time-United-States",
+      "source": "Other",
+      "description": "Software Engineer II (Full Time) \u2013 United States. Share. Share via ... We are seeking a dedicated Frontend Engineer to build intuitive, high ...",
+      "date": "2026-06-24",
+      "timestamp": "2026-06-24T02:28:17+00:00",
+      "fetched_at": "2026-06-24T07:29:09.669929+00:00"
+    },
+    {
+      "id": "40448b1f69ad",
+      "title": "Senior Software Engineer - Authentication - Pindrop",
+      "company": "Authentication - Pindrop",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.pindrop.com/careers/senior-software-engineer-authentication/?gh_jid=8009896",
+      "source": "Other",
+      "description": "Senior Software Engineer \u2013 Authentication. Digital trust isn't optional\u2014it's essential. Take the first step toward a safer, more secure future for ...",
+      "date": "2026-06-24",
+      "timestamp": "2026-06-24T01:52:15+00:00",
+      "fetched_at": "2026-06-24T07:29:08.623852+00:00"
+    },
+    {
+      "id": "96f7526f6ebf",
+      "title": "Junior Software Engineer (AI-Forward) - Texas Sports Academy Main - Application",
+      "company": "Texas Sports Academy Main",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://apply.workable.com/texas-sports-academy-main/j/7CA2AC17A5/apply/",
+      "source": "Workable",
+      "description": "As a Junior Software Engineer with Texas Sports Academy, you'll help build the software that runs our school, student records, academic mastery ...",
+      "date": "2026-06-24",
+      "timestamp": "2026-06-24T01:31:15+00:00",
+      "fetched_at": "2026-06-24T07:29:09.670281+00:00"
+    },
     {
       "id": "aed9c0d08e12",
       "title": "Software Engineer Job Details | Fitch Group",
@@ -64,6 +109,21 @@
       "date": "2026-06-23",
       "timestamp": "2026-06-23T23:55:47+00:00",
       "fetched_at": "2026-06-24T01:50:16.053169+00:00"
+    },
+    {
+      "id": "f4cdaaf92a8d",
+      "title": "Principal Platform Engineer , Observability (CIPE) at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-platform-engineer-observability-cipe/47263/96840039872",
+      "source": "Other",
+      "description": "We are looking for a Principal Software Engineer to architect, build, and evolve our observability platform across infrastructure, applications, and ...",
+      "date": "2026-06-23",
+      "timestamp": "2026-06-23T23:12:23+00:00",
+      "fetched_at": "2026-06-24T07:29:08.624617+00:00"
     },
     {
       "id": "b549a9ec2162",
@@ -109,6 +169,21 @@
       "date": "2026-06-23",
       "timestamp": "2026-06-23T22:00:18+00:00",
       "fetched_at": "2026-06-24T01:50:15.966253+00:00"
+    },
+    {
+      "id": "31f78e455f12",
+      "title": "Senior Data Engineer Jobs at Amgen in India",
+      "company": "Amgen in India",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.amgen.com/en/job/hyderabad/senior-data-engineer/87/96824278288",
+      "source": "Other",
+      "description": "Explore the details of a Senior Data Engineer career in Hyderabad. Live. Win. Thrive. Search and apply for a rewarding new career at Amgen.",
+      "date": "2026-06-23",
+      "timestamp": "2026-06-23T21:59:02+00:00",
+      "fetched_at": "2026-06-24T07:29:09.671847+00:00"
     },
     {
       "id": "a88cbcfd441d",
@@ -214,6 +289,21 @@
       "date": "2026-06-23",
       "timestamp": "2026-06-23T19:58:34+00:00",
       "fetched_at": "2026-06-24T01:50:16.055349+00:00"
+    },
+    {
+      "id": "2e261221a9e1",
+      "title": "Senior DevOps Engineer - Contingent - Myworkdayjobs.com",
+      "company": "Cryoport",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://cryoport.wd12.myworkdayjobs.com/en-US/external/job/Senior-DevOps-Engineer---Contingent_JR101597",
+      "source": "Workday",
+      "description": "Senior DevOps Engineer - Contingent \u00b7 Cloud Platforms (AWS): Extensive experience with AWS services such as EC2, ECS/EKS, S3, RDS, Lambda, IAM, and ...",
+      "date": "2026-06-23",
+      "timestamp": "2026-06-23T19:58:22+00:00",
+      "fetched_at": "2026-06-24T07:29:08.626569+00:00"
     },
     {
       "id": "0f733e8f3dcf",
