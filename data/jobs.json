@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-06-24T17:44:56.374797+00:00",
-  "total_jobs": 4403,
+  "last_updated": "2026-06-24T21:14:25.168944+00:00",
+  "total_jobs": 4414,
   "stats": {
-    "total_companies": 2317,
+    "total_companies": 2325,
     "total_roles": 67,
     "regions": {
-      "India": 2807,
-      "Philippines": 929,
-      "Remote": 548,
+      "India": 2812,
+      "Philippines": 931,
+      "Remote": 552,
       "Unknown": 135
     },
     "sources": {
-      "Other": 3474,
+      "Other": 3482,
       "Greenhouse": 219,
-      "Workday": 203,
+      "Workday": 204,
       "LinkedIn": 162,
       "Ashby": 134,
+      "Breezy": 47,
       "iCIMS": 47,
-      "Breezy": 46,
       "Lever": 31,
-      "Workable": 26,
+      "Workable": 27,
       "SmartRecruiters": 23,
       "Indeed": 18,
       "BrassRing": 6,
@@ -35,6 +35,141 @@
     }
   },
   "jobs": [
+    {
+      "id": "2aa0e12f1148",
+      "title": "Senior Software Engineer at SkySpecs",
+      "company": "Skyspecs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://skyspecs.breezy.hr/p/fb99f76cf519-senior-software-engineer",
+      "source": "Breezy",
+      "description": "Senior Software Engineer What will I be getting myself into? As a Senior Software Engineer , you will help shape the future of our Horizon platform ...",
+      "date": "2026-06-24",
+      "timestamp": "2026-06-24T20:13:15+00:00",
+      "fetched_at": "2026-06-24T21:14:25.084106+00:00"
+    },
+    {
+      "id": "dd646b7e0d73",
+      "title": "Software Engineer , AI Productization - - 78974 - Jobs at Lenovo",
+      "company": "Lenovo",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.lenovo.com/en_US/careers/JobDetail/Software-Engineer-AI-Productization/78974",
+      "source": "Other",
+      "description": "Software Engineer , AI Productization at created 23-Jun-2026.",
+      "date": "2026-06-24",
+      "timestamp": "2026-06-24T19:42:45+00:00",
+      "fetched_at": "2026-06-24T21:14:25.084805+00:00"
+    },
+    {
+      "id": "7231431fe245",
+      "title": "Software Engineer , XR , Fauna - Job ID: 10457352 - Amazon Careers",
+      "company": "Job ID: 10457352 - Amazon Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.amazon.jobs/en/jobs/10457352/software-engineer-xr-fauna",
+      "source": "Other",
+      "description": "Description. We are seeking a Software Engineer to contribute to the development of XR applications for teleoperating Fauna robots.",
+      "date": "2026-06-24",
+      "timestamp": "2026-06-24T18:41:52+00:00",
+      "fetched_at": "2026-06-24T21:14:25.153056+00:00"
+    },
+    {
+      "id": "2a7d9be5f446",
+      "title": "Agentic AI Engineer - Remote - United States | Deep Seas Careers",
+      "company": "Remote - United States | Deep Seas Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://deepseas.pinpointhq.com/en/postings/f931f510-2dda-423c-908d-f55f8e730a97",
+      "source": "Other",
+      "description": "Join Deep Seas in Threat Management: Strategic Services, Remote - United States as a Agentic AI Engineer .",
+      "date": "2026-06-24",
+      "timestamp": "2026-06-24T18:38:29+00:00",
+      "fetched_at": "2026-06-24T21:14:25.085086+00:00"
+    },
+    {
+      "id": "29de9fae114b",
+      "title": "Sr. Software Engineer - Tactiq - Application - Workable Jobs",
+      "company": "Tactiq",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://apply.workable.com/tactiq/j/A2667A27B2/apply/",
+      "source": "Workable",
+      "description": "Sr. Software Engineer . RemoteTechnologyFull time. United States. OverviewApplication. Autofill application. Save time by importing your resume in one ...",
+      "date": "2026-06-24",
+      "timestamp": "2026-06-24T18:38:07+00:00",
+      "fetched_at": "2026-06-24T21:14:25.085174+00:00"
+    },
+    {
+      "id": "63ef894aaef7",
+      "title": "AI Engineer , Brooklyn Direct Indexing - TIAA Careers",
+      "company": "TIAA Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.tiaa.org/ai-engineer-brooklyn-direct-indexing/job/999E766CF4E508FC653DB730D2E9978F",
+      "source": "Other",
+      "description": "Join TIAA in New York, NY! Apply for the AI Engineer , Brooklyn Direct Indexing role today and start your journey with us.",
+      "date": "2026-06-24",
+      "timestamp": "2026-06-24T18:00:11+00:00",
+      "fetched_at": "2026-06-24T21:14:25.085317+00:00"
+    },
+    {
+      "id": "a3a5a3c78904",
+      "title": "Site Reliability Engineer - NOV Careers - oracle",
+      "company": "NOV Careers - oracle",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/41952",
+      "source": "Other",
+      "description": "Job Description. As a Site Reliability Engineer , you will be responsible for: Operational Excellence & Incident Management. - Maintain and monitor ...",
+      "date": "2026-06-24",
+      "timestamp": "2026-06-24T17:55:02+00:00",
+      "fetched_at": "2026-06-24T21:14:25.085452+00:00"
+    },
+    {
+      "id": "2f3b3c1cb48a",
+      "title": "Software Engineer II, AWS Elastic Block Store (EBS) Performance - Job ID: 10457529",
+      "company": "Job ID: 10457529",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.amazon.jobs/en/jobs/10457529/software-engineer-ii-aws-elastic-block-store-ebs-performance",
+      "source": "Other",
+      "description": "Software Engineer II, AWS Elastic Block Store (EBS) Performance. Job ID: 10457529 | Amazon Development Center U.S., Inc. Apply now. Description. AWS ...",
+      "date": "2026-06-24",
+      "timestamp": "2026-06-24T17:51:11+00:00",
+      "fetched_at": "2026-06-24T21:14:25.153692+00:00"
+    },
+    {
+      "id": "2cee5940804e",
+      "title": "Software Engineer III - Myworkdayjobs.com",
+      "company": "Wow",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://wow.wd503.myworkdayjobs.com/wowcareers/job/CO-Denver/Software-Engineer-III_REQ-2026-4317",
+      "source": "Workday",
+      "description": "Software Engineer III \u00b7 This is a HYBRID position and will require 3 days in office 2 days WFH. \u00b7 This position sits at the intersection of full-stack ...",
+      "date": "2026-06-24",
+      "timestamp": "2026-06-24T17:17:56+00:00",
+      "fetched_at": "2026-06-24T21:14:25.085742+00:00"
+    },
     {
       "id": "e4483a1a147d",
       "title": "Machine Learning Engineer , Payment Intelligence - Stripe",
@@ -96,6 +231,21 @@
       "fetched_at": "2026-06-24T17:44:56.033741+00:00"
     },
     {
+      "id": "719cbf77ab31",
+      "title": "Data Engineer , People Analytics - Brazil - Vaga para mulheres - DoorDash",
+      "company": "Brazil - Vaga para mulheres - DoorDash",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careersatdoordash.com/jobs/data-engineer-people-analytics---brazil---vaga-para-mulheres/8025950",
+      "source": "Other",
+      "description": "About the Role. DoorDash is seeking an experienced data engineer to join our People Intelligence team supporting HR functions. We're a data-driven ...",
+      "date": "2026-06-24",
+      "timestamp": "2026-06-24T15:57:14+00:00",
+      "fetched_at": "2026-06-24T21:14:25.086468+00:00"
+    },
+    {
       "id": "02bb78c41e90",
       "title": "Data Engineer , People Analytics - Brazil - Vaga exclusiva para PCD - DoorDash",
       "company": "Brazil - Vaga exclusiva para PCD - DoorDash",
@@ -109,6 +259,21 @@
       "date": "2026-06-24",
       "timestamp": "2026-06-24T15:57:13+00:00",
       "fetched_at": "2026-06-24T17:44:56.354395+00:00"
+    },
+    {
+      "id": "cdd7212d64bb",
+      "title": "Senior Backend Engineer - Virtasant - Teamtailor",
+      "company": "Virtasant - Teamtailor",
+      "role": "Backend Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://virtasant.teamtailor.com/jobs/7963896-senior-backend-engineer",
+      "source": "Other",
+      "description": "Senior Backend Engineer . Come help create, fully remotely (if you live in Latin America and have at least 5 years of relevant exp.), an intuitive ...",
+      "date": "2026-06-24",
+      "timestamp": "2026-06-24T15:51:05+00:00",
+      "fetched_at": "2026-06-24T21:14:25.086582+00:00"
     },
     {
       "id": "16e2dc0f7a29",
