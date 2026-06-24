@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-06-23T21:20:46.767678+00:00",
-  "total_jobs": 4349,
+  "last_updated": "2026-06-24T01:50:16.074549+00:00",
+  "total_jobs": 4365,
   "stats": {
-    "total_companies": 2290,
+    "total_companies": 2298,
     "total_roles": 67,
     "regions": {
-      "India": 2768,
-      "Philippines": 920,
-      "Remote": 542,
+      "India": 2778,
+      "Philippines": 923,
+      "Remote": 545,
       "Unknown": 135
     },
     "sources": {
-      "Other": 3430,
-      "Greenhouse": 214,
+      "Other": 3444,
+      "Greenhouse": 216,
       "Workday": 202,
       "LinkedIn": 162,
       "Ashby": 132,
@@ -31,10 +31,160 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-06-23"
+      "latest": "2026-06-24"
     }
   },
   "jobs": [
+    {
+      "id": "aed9c0d08e12",
+      "title": "Software Engineer Job Details | Fitch Group",
+      "company": "Fitch Group",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.fitch.group/job/Chicago-Software-Engineer-IL-60290/1407629233/",
+      "source": "Other",
+      "description": "Fitch Group is currently seeking a Software Engineer based out of our Chicago office. As a leading, global financial information services provider ...",
+      "date": "2026-06-24",
+      "timestamp": "2026-06-24T00:21:11+00:00",
+      "fetched_at": "2026-06-24T01:50:15.965363+00:00"
+    },
+    {
+      "id": "7ec6815f2f42",
+      "title": "Intern, Software Engineer - fullstack - Cairo, Egypt - Procore Technologies",
+      "company": "fullstack - Cairo, Egypt - Procore Technologies",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.procore.com/jobs/intern-software-engineer-fullstack-cairo-egypt-b318414a-a6c0-4777-a633-9240bbce0ab7",
+      "source": "Other",
+      "description": "We're looking for a Software Engineer Intern to join Procore's Product & Technology organization. In this role, you'll contribute to the design, ...",
+      "date": "2026-06-23",
+      "timestamp": "2026-06-23T23:55:47+00:00",
+      "fetched_at": "2026-06-24T01:50:16.053169+00:00"
+    },
+    {
+      "id": "b549a9ec2162",
+      "title": "Senior Software Engineer - Azara Healthcare",
+      "company": "Azara Healthcare",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.azarahealthcare.com/senior-software-engineer?utm_source=Mass+Digital+Health+job+board&utm_medium=getro.com&gh_src=Mass+Digital+Health+job+board",
+      "source": "Other",
+      "description": "Join Azara Healthcare as a Senior Software Engineer to design and enhance our data warehouse platform, focusing on high-performance applications ...",
+      "date": "2026-06-23",
+      "timestamp": "2026-06-23T23:09:24+00:00",
+      "fetched_at": "2026-06-24T01:50:15.965756+00:00"
+    },
+    {
+      "id": "610073c20a1b",
+      "title": "AI/ ML Engineer or AI Engineer (Local to MA) - Lorvenk Technologies LLC - Hybrid in Boston, MA, US",
+      "company": "Lorvenk Technologies LLC - Hybrid in Boston, MA, US",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.dice.com/job-detail/4602950b-e8f3-4d44-87d8-52991f0ed753",
+      "source": "Other",
+      "description": "AI/ ML Engineer or AI Engineer (Local to MA). Hybrid in Boston, MA, US \u2022 Posted 6 hours ago \u2022 Updated 6 hours ago. Full Time. Able to Sponsor. Hybrid.",
+      "date": "2026-06-23",
+      "timestamp": "2026-06-23T22:15:02+00:00",
+      "fetched_at": "2026-06-24T01:50:15.966137+00:00"
+    },
+    {
+      "id": "5157b613c102",
+      "title": "Software Engineer 3 - MongoDB",
+      "company": "MongoDB",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.mongodb.com/careers/jobs/8015792",
+      "source": "Other",
+      "description": "We're seeking a Software Engineer for the Atlas Stream Processing team to develop and improve the user and developer experience that GA'd in the ...",
+      "date": "2026-06-23",
+      "timestamp": "2026-06-23T22:00:18+00:00",
+      "fetched_at": "2026-06-24T01:50:15.966253+00:00"
+    },
+    {
+      "id": "a88cbcfd441d",
+      "title": "Job Application for Senior Data Engineer at Z\u00f3calo Health - Greenhouse",
+      "company": "Zocalohealth",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/zocalohealth/jobs/5275831008",
+      "source": "Greenhouse",
+      "description": "Senior Data Engineer . at Z\u00f3calo Health. Remote (Full Time). Compensation: $160,000 - $180,000 (per year). About Us.",
+      "date": "2026-06-23",
+      "timestamp": "2026-06-23T21:25:46+00:00",
+      "fetched_at": "2026-06-24T01:50:15.966349+00:00"
+    },
+    {
+      "id": "3c8b015fab2a",
+      "title": "Senior AI Engineer - Agentic Workflow - Seattle, Washington, United States - Zoom Careers",
+      "company": "Agentic Workflow - Seattle, Washington, United States - Zoom Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.zoom.us/jobs/senior-ai-engineer-agentic-workflow-seattle-washington-united-states-san-jose-california",
+      "source": "Other",
+      "description": "What you can expectWe're seeking an experienced AI Engineer specialized in agent orchestrator design and implementation, agent workflow, ...",
+      "date": "2026-06-23",
+      "timestamp": "2026-06-23T21:13:20+00:00",
+      "fetched_at": "2026-06-24T01:50:15.966722+00:00"
+    },
+    {
+      "id": "eb3b3823535d",
+      "title": "Machine Learning Engineer , Apple Search & Knowledge Platforms - Jobs",
+      "company": "Jobs",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200669635-3760/machine-learning-engineer-apple-search-knowledge-platforms?team=MLAI",
+      "source": "Other",
+      "description": "Apply for a Machine Learning Engineer , Apple Search & Knowledge Platforms job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-06-23",
+      "timestamp": "2026-06-23T20:41:14+00:00",
+      "fetched_at": "2026-06-24T01:50:15.966955+00:00"
+    },
+    {
+      "id": "73d8e7869b6e",
+      "title": "Tips for a first time senior data engineer : r/dataengineering - Reddit",
+      "company": "Reddit",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/dataengineering/comments/1udj2rb/tips_for_a_first_time_senior_data_engineer/",
+      "source": "Other",
+      "description": "How to improve as a new Data Engineer in the AI era? upvotes \u00b7 comments. Software Engineer hired as a Data Engineer . What to expect, and what to ...",
+      "date": "2026-06-23",
+      "timestamp": "2026-06-23T20:36:21+00:00",
+      "fetched_at": "2026-06-24T01:50:15.967145+00:00"
+    },
+    {
+      "id": "f958db3bd9c1",
+      "title": "Job Application for Data Engineer at SRS Acquiom - Greenhouse",
+      "company": "Srsacquiom",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/srsacquiom/jobs/5167615007",
+      "source": "Greenhouse",
+      "description": "Data Engineer . Remote - United States. Apply. About SRS Acquiom. SRS Acquiom delivers the smartest way to run a deal\u2122 through a platform and services ...",
+      "date": "2026-06-23",
+      "timestamp": "2026-06-23T20:23:31+00:00",
+      "fetched_at": "2026-06-24T01:50:15.967239+00:00"
+    },
     {
       "id": "705a7f86a5dc",
       "title": "Software Engineer - Intel - Myworkdayjobs.com",
@@ -51,6 +201,51 @@
       "fetched_at": "2026-06-23T21:20:46.473410+00:00"
     },
     {
+      "id": "38296b922775",
+      "title": "Software Engineer - Careers at Moody's",
+      "company": "Moody's",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.moodys.com/en/job/vilnius/software-engineer/49841/96830999072",
+      "source": "Other",
+      "description": "Software Engineer . Vilnius, Vilnius. Apply now. Save job. Posted: 06/23/2026. Job reference: 13941. Experience level: Experienced Hire. Job category ...",
+      "date": "2026-06-23",
+      "timestamp": "2026-06-23T19:58:34+00:00",
+      "fetched_at": "2026-06-24T01:50:16.055349+00:00"
+    },
+    {
+      "id": "0f733e8f3dcf",
+      "title": "Gifthealth Inc - Senior Software Engineer - Automation - Paylocity",
+      "company": "Gifthealth Inc",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://recruiting.paylocity.com/recruiting/jobs/Details/4272405/Gifthealth/Senior-Software-Engineer---Automation",
+      "source": "Other",
+      "description": "Position Summary. Reporting to the Director of AI Engineering, the Senior Software Engineer \u2013 Automation designs, builds, and maintains the internal ...",
+      "date": "2026-06-23",
+      "timestamp": "2026-06-23T19:44:31+00:00",
+      "fetched_at": "2026-06-24T01:50:15.967601+00:00"
+    },
+    {
+      "id": "23330bf84839",
+      "title": "Senior Data Engineer - Remote - US - Samsara",
+      "company": "Remote - US - Samsara",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.samsara.com/company/careers/roles/7964565?gh_jid=7964565",
+      "source": "Other",
+      "description": "We are looking for a Senior Data Engineer who brings a software engineer's mindset to data infrastructure. This isn't just a pipeline-builder role ...",
+      "date": "2026-06-23",
+      "timestamp": "2026-06-23T19:41:29+00:00",
+      "fetched_at": "2026-06-24T01:50:15.967777+00:00"
+    },
+    {
       "id": "427ca38876ab",
       "title": "Get started by using your email or phone number - Ford Global Career Site",
       "company": "Unknown Company",
@@ -64,6 +259,51 @@
       "date": "2026-06-23",
       "timestamp": "2026-06-23T19:36:13+00:00",
       "fetched_at": "2026-06-23T21:20:46.474711+00:00"
+    },
+    {
+      "id": "5d02adbb6e2d",
+      "title": "Staff Machine Learning Engineer , Sunnyvale, CA, United States - Intuitive Careers",
+      "company": "Intuitive Careers",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.intuitive.com/en/jobs/744000133610922/JOB216389/staff-machine-learning-engineer/",
+      "source": "Other",
+      "description": "Staff Machine Learning Engineer . Sunnyvale, CA, United ... Ion Sales, Customer Services and Experiences, Software Engineer , CDE, Human Factors, ...",
+      "date": "2026-06-23",
+      "timestamp": "2026-06-23T19:30:12+00:00",
+      "fetched_at": "2026-06-24T01:50:16.055968+00:00"
+    },
+    {
+      "id": "0d29d1ea927a",
+      "title": "Azure Developer (Full Stack Azure Data Engineer ) - R Systems, Inc. - Hybrid in NYC, NY, US",
+      "company": "R Systems, Inc. - Hybrid in NYC, NY, US",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.dice.com/job-detail/c6647fad-d36c-4886-948c-ee4ca962f2e7",
+      "source": "Other",
+      "description": "22 hours ago - Position: Azure Developer (Full Stack Azure Data Engineer ) Location: NYC, NY (3 Days Onsite from NY office) Duration: Long Term ...",
+      "date": "2026-06-23",
+      "timestamp": "2026-06-23T19:16:14+00:00",
+      "fetched_at": "2026-06-24T01:50:15.968369+00:00"
+    },
+    {
+      "id": "11695d9004ac",
+      "title": "Senior Data Engineer in Vancouver, BC, Canada - Ledcor",
+      "company": "Ledcor",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ledcor.com/jobs/17899857-senior-data-engineer",
+      "source": "Other",
+      "description": "Ledcor is hiring a Senior Data Engineer to join our Data & Analytics Platform team. In this role, you will design, build, and maintain enterprise- ...",
+      "date": "2026-06-23",
+      "timestamp": "2026-06-23T18:44:48+00:00",
+      "fetched_at": "2026-06-24T01:50:15.968498+00:00"
     },
     {
       "id": "dda24e71f5f7",
