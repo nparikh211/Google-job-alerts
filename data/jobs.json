@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-06-24T21:14:25.168944+00:00",
-  "total_jobs": 4414,
+  "last_updated": "2026-06-25T01:54:29.160730+00:00",
+  "total_jobs": 4431,
   "stats": {
-    "total_companies": 2325,
+    "total_companies": 2334,
     "total_roles": 67,
     "regions": {
-      "India": 2812,
-      "Philippines": 931,
-      "Remote": 552,
+      "India": 2823,
+      "Philippines": 934,
+      "Remote": 555,
       "Unknown": 135
     },
     "sources": {
-      "Other": 3482,
+      "Other": 3496,
       "Greenhouse": 219,
       "Workday": 204,
       "LinkedIn": 162,
-      "Ashby": 134,
-      "Breezy": 47,
+      "Ashby": 135,
+      "Breezy": 48,
       "iCIMS": 47,
-      "Lever": 31,
+      "Lever": 32,
       "Workable": 27,
       "SmartRecruiters": 23,
       "Indeed": 18,
@@ -31,10 +31,190 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-06-24"
+      "latest": "2026-06-25"
     }
   },
   "jobs": [
+    {
+      "id": "8b76e54a3066",
+      "title": "Associate Software Engineer @ Ibotta - Jobs",
+      "company": "Ibotta",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/ibotta/b5cac3f7-fa1d-431f-8c09-9d06bec0873d",
+      "source": "Ashby",
+      "description": "Ibotta is looking for an Associate Software Engineer to join our innovative team and contribute to our mission to Make Every Purchase Rewarding by ...",
+      "date": "2026-06-25",
+      "timestamp": "2026-06-25T00:06:29+00:00",
+      "fetched_at": "2026-06-25T01:54:29.130577+00:00"
+    },
+    {
+      "id": "4289e1e1b00a",
+      "title": "Software Engineer , Accessibility - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200669805-0836/software-engineer-accessibility?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Software Engineer , Accessibility job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-06-24",
+      "timestamp": "2026-06-24T23:54:43+00:00",
+      "fetched_at": "2026-06-25T01:54:28.973533+00:00"
+    },
+    {
+      "id": "11d46a0515b4",
+      "title": "Forward Deployed AI Engineer - $130K \u2013 $160K \u2022 Offers Equity - Amigo AI Careers",
+      "company": "$130K \u2013 $160K \u2022 Offers Equity - Amigo AI Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.amigo.ai/careers/forward-deployed-ai-engineer-e21088e2-de85-49ce-aea4-cc7228e6b7d9",
+      "source": "Other",
+      "description": "Forward Deployed AI Engineer at Amigo AI \u2022 New York City \u2022 FullTime \u2022 Field \u2022 $130K \u2013 $160K \u2022 Offers Equity. Apply now!",
+      "date": "2026-06-24",
+      "timestamp": "2026-06-24T23:06:29+00:00",
+      "fetched_at": "2026-06-25T01:54:28.974229+00:00"
+    },
+    {
+      "id": "f14511cbdb5e",
+      "title": "Entry Level Software Engineer (Austin, TX) - Cox Careers",
+      "company": "Cox Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.coxenterprises.com/en/jobs/r202679234/entry-level-software-engineer-austin-tx/",
+      "source": "Other",
+      "description": "Entry Level Software Engineer (Austin, TX). 10415 Morado Cir ... Senior Software Engineer . Save Saved. Austin, Texas. Software Engineer II.",
+      "date": "2026-06-24",
+      "timestamp": "2026-06-24T22:10:38+00:00",
+      "fetched_at": "2026-06-25T01:54:28.974423+00:00"
+    },
+    {
+      "id": "839d6c56bdb0",
+      "title": "Senior Software Engineer at Transact Campus",
+      "company": "Transact Campus",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://transact-campus.breezy.hr/p/6769348f9875-senior-software-engineer",
+      "source": "Breezy",
+      "description": "Senior Software Engineer . Scottsdale, AZ; Full-Time; $110k - $150k. Job Openings; Senior Software Engineer . Apply To Position; Use My Indeed Resume ...",
+      "date": "2026-06-24",
+      "timestamp": "2026-06-24T22:05:20+00:00",
+      "fetched_at": "2026-06-25T01:54:29.131186+00:00"
+    },
+    {
+      "id": "ab3746a301fa",
+      "title": "Principal Software Engineer - Digital Systems - Formlabs Careers",
+      "company": "Digital Systems - Formlabs Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.formlabs.com/job/8023165/apply/",
+      "source": "Other",
+      "description": "As a Principal Software Engineer at Formlabs, you will be a strategic technical leader within the Systems Department, reporting directly to the CIO.",
+      "date": "2026-06-24",
+      "timestamp": "2026-06-24T21:21:49+00:00",
+      "fetched_at": "2026-06-25T01:54:29.131442+00:00"
+    },
+    {
+      "id": "4d567addc7d3",
+      "title": "Software Engineer , Storage - DoorDash",
+      "company": "DoorDash",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careersatdoordash.com/jobs/software-engineer-storage/8024644",
+      "source": "Other",
+      "description": "Software Engineer , Storage. Apply To Job. Job ID: 3478812. DoorDash, Inc. San Francisco, CA; Seattle, WA; New York, NY. About the Team. The Storage ...",
+      "date": "2026-06-24",
+      "timestamp": "2026-06-24T21:14:36+00:00",
+      "fetched_at": "2026-06-25T01:54:28.974720+00:00"
+    },
+    {
+      "id": "f96aac7e9ec4",
+      "title": "Software Engineer - Platform & Reliability Job Details - Corning Careers",
+      "company": "Platform & Reliability Job Details - Corning Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://corningjobs.corning.com/job/Gurgaon-Software-Engineer-Platform-&-Reliability-HR-122002/1402760500/",
+      "source": "Other",
+      "description": "Gurgaon Software Engineer - Platform & Reliability - HR, 122002. ... We are looking for a Site Reliability Engineer with a strong software ...",
+      "date": "2026-06-24",
+      "timestamp": "2026-06-24T20:56:59+00:00",
+      "fetched_at": "2026-06-25T01:54:29.131821+00:00"
+    },
+    {
+      "id": "3e537456cbcf",
+      "title": "Full Stack Software Engineer - AI Applications - Ford Global Career Site Careers - oracle",
+      "company": "AI Applications - Ford Global Career Site Careers - oracle",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/66003",
+      "source": "Other",
+      "description": "A software engineer's job is to architect solutions, not wrestle with syntax. You don't copy an architecture because \"that's how it's done\" \u2014 you ...",
+      "date": "2026-06-24",
+      "timestamp": "2026-06-24T20:54:31+00:00",
+      "fetched_at": "2026-06-25T01:54:28.974946+00:00"
+    },
+    {
+      "id": "c58c55b64ee1",
+      "title": "Consultant- Data engineer in Hyderabad, TS, India - careers at CDW",
+      "company": "CDW",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.cdwjobs.com/jobs/17909834-consultant-data-engineer",
+      "source": "Other",
+      "description": "The Data Engineer will support CDW's enterprise data and analytics initiatives by designing, building, and maintaining reliable and scalable data ...",
+      "date": "2026-06-24",
+      "timestamp": "2026-06-24T20:49:40+00:00",
+      "fetched_at": "2026-06-25T01:54:29.131958+00:00"
+    },
+    {
+      "id": "320ceda16c73",
+      "title": "Software Engineer at Y/n | Y Combinator",
+      "company": "Y/n",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.ycombinator.com/companies/yn/jobs/vBQxHHP-software-engineer",
+      "source": "Other",
+      "description": "Senior Software Engineer - Full Stack \u00b7 Loombotic \u00b7 Software ... Senior Full-Stack Engineer \u00b7 LiveFlow \u00b7 Senior Full Stack ...",
+      "date": "2026-06-24",
+      "timestamp": "2026-06-24T20:32:05+00:00",
+      "fetched_at": "2026-06-25T01:54:28.975086+00:00"
+    },
+    {
+      "id": "0cacca066a34",
+      "title": "Software Engineer 3, Query Integration - MongoDB",
+      "company": "MongoDB",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.mongodb.com/careers/jobs/8010102",
+      "source": "Other",
+      "description": "As a Mid-Level Software Engineer on the Query Integration team, you will bridge the gap between core database internals and user-facing features.",
+      "date": "2026-06-24",
+      "timestamp": "2026-06-24T20:25:07+00:00",
+      "fetched_at": "2026-06-25T01:54:28.975216+00:00"
+    },
     {
       "id": "2aa0e12f1148",
       "title": "Senior Software Engineer at SkySpecs",
@@ -64,6 +244,51 @@
       "date": "2026-06-24",
       "timestamp": "2026-06-24T19:42:45+00:00",
       "fetched_at": "2026-06-24T21:14:25.084805+00:00"
+    },
+    {
+      "id": "878cd00c51a2",
+      "title": "Software Engineer I- Eng - Careers at UKG",
+      "company": "UKG",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://apply.ukg.com/careers/job/893395631350",
+      "source": "Other",
+      "description": "Software Engineer I- Eng. Noida,UP,India. Apply Now. Add to Job Cart.",
+      "date": "2026-06-24",
+      "timestamp": "2026-06-24T19:29:53+00:00",
+      "fetched_at": "2026-06-25T01:54:28.975865+00:00"
+    },
+    {
+      "id": "f529e8ada5fc",
+      "title": "Senior Devops Engineer - Job Detail | Careers Marketplace - Siemens",
+      "company": "Job Detail | Careers Marketplace - Siemens",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/510605",
+      "source": "Other",
+      "description": "Senior Devops Engineer . Job ID. 510605. Posted since. 17-Jun-2026. Organization. Foundational Technologies. Field of work. Research & Development.",
+      "date": "2026-06-24",
+      "timestamp": "2026-06-24T19:24:57+00:00",
+      "fetched_at": "2026-06-25T01:54:28.976035+00:00"
+    },
+    {
+      "id": "b156ed606b9f",
+      "title": "Software Engineer , Enterprise Apps, Remote - USA - Coinbase",
+      "company": "USA - Coinbase",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.coinbase.com/careers/positions/7958901",
+      "source": "Other",
+      "description": "Software Engineer , Enterprise Apps \u00b7 Build and ship full-stack services and applications using Golang, gRPC, TypeScript, and React to support CX agent ...",
+      "date": "2026-06-24",
+      "timestamp": "2026-06-24T18:42:05+00:00",
+      "fetched_at": "2026-06-25T01:54:28.976167+00:00"
     },
     {
       "id": "7231431fe245",
@@ -109,6 +334,36 @@
       "date": "2026-06-24",
       "timestamp": "2026-06-24T18:38:07+00:00",
       "fetched_at": "2026-06-24T21:14:25.085174+00:00"
+    },
+    {
+      "id": "18eedc983a88",
+      "title": "Principal Platform Engineer at Empower",
+      "company": "Empower",
+      "role": "Platform Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.empower.com/job/united-states/principal-platform-engineer/42743/96876120784",
+      "source": "Other",
+      "description": "Principal Platform Engineer . Job ID R.0059499 Date posted 06/24/2026 Worker type Regular Workplace flexibility Remote - Nationwide. Apply Save. Our ...",
+      "date": "2026-06-24",
+      "timestamp": "2026-06-24T18:21:34+00:00",
+      "fetched_at": "2026-06-25T01:54:28.976596+00:00"
+    },
+    {
+      "id": "cffef6c8f533",
+      "title": "Senior Software Engineer , Adaptive - Radformation - Lever",
+      "company": "Radformation",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.lever.co/radformation/41ef1c30-80ee-46a7-a184-5159df8cf342/apply",
+      "source": "Lever",
+      "description": "Senior Software Engineer , Adaptive. Remote US / Remote Canada. Engineering \u2013 Engineering /. Full-Time /. Remote. Submit your application. Which ...",
+      "date": "2026-06-24",
+      "timestamp": "2026-06-24T18:04:38+00:00",
+      "fetched_at": "2026-06-25T01:54:28.976733+00:00"
     },
     {
       "id": "63ef894aaef7",
