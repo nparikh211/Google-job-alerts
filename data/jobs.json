@@ -1,30 +1,30 @@
 {
-  "last_updated": "2026-06-25T17:58:22.655973+00:00",
-  "total_jobs": 4471,
+  "last_updated": "2026-06-25T21:19:00.721179+00:00",
+  "total_jobs": 4486,
   "stats": {
-    "total_companies": 2355,
+    "total_companies": 2363,
     "total_roles": 68,
     "regions": {
-      "India": 2844,
-      "Philippines": 945,
-      "Remote": 563,
+      "India": 2854,
+      "Philippines": 948,
+      "Remote": 565,
       "Unknown": 135
     },
     "sources": {
-      "Other": 3522,
-      "Greenhouse": 224,
-      "Workday": 207,
+      "Other": 3528,
+      "Greenhouse": 226,
+      "Workday": 208,
       "LinkedIn": 163,
-      "Ashby": 137,
+      "Ashby": 138,
       "Breezy": 49,
       "iCIMS": 48,
-      "Lever": 33,
-      "Workable": 27,
-      "SmartRecruiters": 23,
+      "Lever": 34,
+      "Workable": 28,
+      "SmartRecruiters": 24,
       "Indeed": 18,
       "BrassRing": 6,
+      "Recruitee": 5,
       "Jobvite": 5,
-      "Recruitee": 3,
       "ADP": 2,
       "Taleo": 2,
       "WeWorkRemotely": 2
@@ -35,6 +35,171 @@
     }
   },
   "jobs": [
+    {
+      "id": "f03841716129",
+      "title": "Senior Data Engineer , Analytics - Careers at Great Minds - Recruitee",
+      "company": "Greatminds",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://greatminds.recruitee.com/o/senior-data-engineer-analytics-3",
+      "source": "Recruitee",
+      "description": "Great Minds is seeking a hands-on Senior Data Engineer to lead delivery of reliable, scalable data pipelines and strengthen data platform support that ...",
+      "date": "2026-06-25",
+      "timestamp": "2026-06-25T20:56:08+00:00",
+      "fetched_at": "2026-06-25T21:19:00.586484+00:00"
+    },
+    {
+      "id": "339013606482",
+      "title": "Senior Data Engineer , Analytics - Application - Careers at Great Minds - Recruitee",
+      "company": "Greatminds",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://greatminds.recruitee.com/o/senior-data-engineer-analytics-3/c/new",
+      "source": "Recruitee",
+      "description": "Senior Data Engineer , Analytics. Remote. DC, District of Columbia, United States. Enterprise Data and Insights. Job details. Application ...",
+      "date": "2026-06-25",
+      "timestamp": "2026-06-25T20:34:50+00:00",
+      "fetched_at": "2026-06-25T21:19:00.699802+00:00"
+    },
+    {
+      "id": "8fd876564c69",
+      "title": "Staff Site Reliability Engineer , Core Networking - Careers - Google",
+      "company": "Careers - Google",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/101868384420799174-staff-site-reliability-engineer-core-networking",
+      "source": "Other",
+      "description": "job details. arrow_back. Back to jobs search. Jobs search results. 3,701 jobs matched. Senior Software Engineer , Site Reliability Engineering, Cloud ...",
+      "date": "2026-06-25",
+      "timestamp": "2026-06-25T19:30:23+00:00",
+      "fetched_at": "2026-06-25T21:19:00.700146+00:00"
+    },
+    {
+      "id": "588b74e507b0",
+      "title": "[Remote] Senior FullStack Platform Software Engineer - Clinical Digital Assistant",
+      "company": "Clinical Digital Assistant",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/338196",
+      "source": "Other",
+      "description": "[Remote] Senior FullStack Platform Software Engineer - Clinical Digital Assistant. United States. Trending. Job Identification 338196; Job Category ...",
+      "date": "2026-06-25",
+      "timestamp": "2026-06-25T19:04:34+00:00",
+      "fetched_at": "2026-06-25T21:19:00.587244+00:00"
+    },
+    {
+      "id": "11cf0297e501",
+      "title": "Full-Stack Software Engineer I - Myworkdayjobs.com",
+      "company": "Washpost",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://washpost.wd5.myworkdayjobs.com/washingtonpostcareers/job/DC-Washington-TWP-Headquarters/Full-Stack-Software-Engineer-I_JR-90275811",
+      "source": "Workday",
+      "description": "... Software Engineer I to help modernize the core platforms that power ... full-stack engineer while contributing to products used by a large ...",
+      "date": "2026-06-25",
+      "timestamp": "2026-06-25T18:59:02+00:00",
+      "fetched_at": "2026-06-25T21:19:00.587358+00:00"
+    },
+    {
+      "id": "a327ad766b27",
+      "title": "Machine Learning Engineer - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200668947-0836/machine-learning-engineer?team=HRDWR",
+      "source": "Other",
+      "description": "Apply for a Machine Learning Engineer job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-06-25",
+      "timestamp": "2026-06-25T18:13:14+00:00",
+      "fetched_at": "2026-06-25T21:19:00.587645+00:00"
+    },
+    {
+      "id": "aff8efef9d86",
+      "title": "Software Engineer II, Managed Platform Services @ Crusoe - Jobs",
+      "company": "Crusoe",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/crusoe/d4287b1b-c78b-44fb-bd2b-d2cca26cdc2a",
+      "source": "Ashby",
+      "description": "Software Engineer II, Managed Platform Services. Location. San Francisco, CA - US. Employment Type. Full time. Location Type. On-site. Department.",
+      "date": "2026-06-25",
+      "timestamp": "2026-06-25T17:52:14+00:00",
+      "fetched_at": "2026-06-25T21:19:00.587784+00:00"
+    },
+    {
+      "id": "016385cbfdf1",
+      "title": "Data Engineer II, #R-51084, Atlanta, GA, US - Travelers Careers",
+      "company": "51084, Atlanta, GA, US - Travelers Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.travelers.com/job/23534958/data-engineer-ii-atlanta-ga/",
+      "source": "Other",
+      "description": "Discover Data Engineer II and other Data Analytics jobs at Travelers in Atlanta, GA, US, and apply online today!",
+      "date": "2026-06-25",
+      "timestamp": "2026-06-25T17:47:13+00:00",
+      "fetched_at": "2026-06-25T21:19:00.587954+00:00"
+    },
+    {
+      "id": "d31a65f16662",
+      "title": "Principal Software Engineer - Tulsa, OK | Gitwit Careers",
+      "company": "Tulsa, OK | Gitwit Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://gitwit.pinpointhq.com/en/postings/6b2a4336-9327-4056-92e5-d4420bb5b051",
+      "source": "Other",
+      "description": "Principal Software Engineer . Zero-to-One Builder for an AI-First Venture Studio. Great zero-to-one builders are becoming more careful about where to ...",
+      "date": "2026-06-25",
+      "timestamp": "2026-06-25T17:38:55+00:00",
+      "fetched_at": "2026-06-25T21:19:00.588134+00:00"
+    },
+    {
+      "id": "db62a1d55645",
+      "title": "Principal Software Engineer , Backend & AI Workflow Integration in United States",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.frontlineeducation.com/jobs/17890164-principal-software-engineer-backend-and-ai-workflow-integration",
+      "source": "Other",
+      "description": "We are seeking a Principal Software Engineer with deep expertise in back-end .NET engineering, enterprise platform architecture, and the practical ...",
+      "date": "2026-06-25",
+      "timestamp": "2026-06-25T17:06:16+00:00",
+      "fetched_at": "2026-06-25T21:19:00.588397+00:00"
+    },
+    {
+      "id": "ded541112ab2",
+      "title": "Loop - Software Engineer - Lever",
+      "company": "Loopreturns",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.lever.co/loopreturns/4fc9603b-95c6-4d05-8d5a-4247fa108418/apply",
+      "source": "Lever",
+      "description": "Software Engineer \u00b7 Submit your application \u00b7 US Work Eligibility \u00b7 Laravel Experience \u00b7 AI Experience \u00b7 Why Loop? \u00b7 U.S. Equal Employment Opportunity ...",
+      "date": "2026-06-25",
+      "timestamp": "2026-06-25T17:01:54+00:00",
+      "fetched_at": "2026-06-25T21:19:00.701070+00:00"
+    },
     {
       "id": "2cfb845257a7",
       "title": "Consultant AI & Data Engineer | North Highland",
@@ -49,6 +214,51 @@
       "date": "2026-06-25",
       "timestamp": "2026-06-25T17:01:49+00:00",
       "fetched_at": "2026-06-25T17:58:22.482009+00:00"
+    },
+    {
+      "id": "a423abd174d5",
+      "title": "Senior AI Engineer - Atria Health and Research Institute - Jobs By Workable",
+      "company": "Atria Health",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://apply.workable.com/atria-health/j/457FBDEE30/",
+      "source": "Workable",
+      "description": "About this role. As a Senior AI Engineer at Atria, you will own the design, development, and production deployment of the LLM-powered systems that put ...",
+      "date": "2026-06-25",
+      "timestamp": "2026-06-25T16:57:20+00:00",
+      "fetched_at": "2026-06-25T21:19:00.588839+00:00"
+    },
+    {
+      "id": "fcc5581a121a",
+      "title": "Job Application for Senior Software Engineer - Developer Platform at Pave - Greenhouse",
+      "company": "Paveakatroveinformationtechnologies",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/paveakatroveinformationtechnologies/jobs/4709104005",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer - Developer Platform. San Francisco, CA & New York, NY. Apply. Who We Are. At Pave, we're building the industry's leading ...",
+      "date": "2026-06-25",
+      "timestamp": "2026-06-25T16:54:53+00:00",
+      "fetched_at": "2026-06-25T21:19:00.588956+00:00"
+    },
+    {
+      "id": "59d051c09a38",
+      "title": "Western Digital Software Engineer (Apps & Firmware) | SmartRecruiters",
+      "company": "Westerndigital",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.smartrecruiters.com/WesternDigital/744000134025669-software-engineer-apps-firmware-",
+      "source": "SmartRecruiters",
+      "description": "Software Engineer (Apps & Firmware). San Jose, CA Employees work in a hybrid mode; Full-time; Job Type (exemption status): Exempt position - Please ...",
+      "date": "2026-06-25",
+      "timestamp": "2026-06-25T16:51:29+00:00",
+      "fetched_at": "2026-06-25T21:19:00.589062+00:00"
     },
     {
       "id": "33fedb70d5fb",
@@ -94,6 +304,21 @@
       "date": "2026-06-25",
       "timestamp": "2026-06-25T15:56:00+00:00",
       "fetched_at": "2026-06-25T17:58:22.483073+00:00"
+    },
+    {
+      "id": "23c163f4d61a",
+      "title": "Job Application for Software Engineer II at PlayStation Global - Greenhouse",
+      "company": "Sonyinteractiveentertainmentglobal",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6101023004",
+      "source": "Greenhouse",
+      "description": "Sony Interactive Entertainment LLC seeks a Software Engineer II in San Mateo, CA to develop and maintain high-quality applications and services, ...",
+      "date": "2026-06-25",
+      "timestamp": "2026-06-25T15:46:43+00:00",
+      "fetched_at": "2026-06-25T21:19:00.702538+00:00"
     },
     {
       "id": "a8dba733b545",
