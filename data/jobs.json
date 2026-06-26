@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-06-26T01:56:18.599535+00:00",
-  "total_jobs": 4498,
+  "last_updated": "2026-06-26T07:39:28.324145+00:00",
+  "total_jobs": 4505,
   "stats": {
     "total_companies": 2370,
     "total_roles": 68,
     "regions": {
-      "India": 2864,
-      "Philippines": 949,
+      "India": 2869,
+      "Philippines": 951,
       "Remote": 567,
       "Unknown": 135
     },
     "sources": {
-      "Other": 3535,
+      "Other": 3542,
       "Greenhouse": 226,
       "Workday": 209,
       "LinkedIn": 164,
@@ -31,10 +31,85 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-06-25"
+      "latest": "2026-06-26"
     }
   },
   "jobs": [
+    {
+      "id": "5488670bb97f",
+      "title": "Software Engineer , Data Engineering - Roblox Careers",
+      "company": "Roblox Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.roblox.com/jobs/8025021",
+      "source": "Other",
+      "description": "Software Engineer , Data Engineering. ... Senior Machine Learning Engineer , User Behavior. San Mateo, CA, United ...",
+      "date": "2026-06-26",
+      "timestamp": "2026-06-26T04:07:57+00:00",
+      "fetched_at": "2026-06-26T07:39:28.301581+00:00"
+    },
+    {
+      "id": "84f28fc9867d",
+      "title": "Machine Learning Engineer in Ontario, Canada | GitHub, Inc.",
+      "company": "GitHub, Inc.",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.github.careers/careers-home/jobs/5509?lang=en-us",
+      "source": "Other",
+      "description": "We're looking for an experienced machine learning engineer to help design, build and deploy agentic solutions, and to conduct ad-hoc analysis, as you ...",
+      "date": "2026-06-26",
+      "timestamp": "2026-06-26T03:02:16+00:00",
+      "fetched_at": "2026-06-26T07:39:28.301743+00:00"
+    },
+    {
+      "id": "55919449f9eb",
+      "title": "Software Engineer Development or Testing - Sutherland Global",
+      "company": "Sutherland Global",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.jobs.sutherlandglobal.com/job-details/software-engineer-development-or-testing-in-hc-it-jobs-1614672",
+      "source": "Other",
+      "description": "... DevOps Engineer in GE digital area. ... Software Engineer Development or Testing. Contract Type: Permanent WAH. Location: Bengaluru - KA. Date ...",
+      "date": "2026-06-26",
+      "timestamp": "2026-06-26T00:53:57+00:00",
+      "fetched_at": "2026-06-26T07:39:28.302001+00:00"
+    },
+    {
+      "id": "b271772c510d",
+      "title": "Software Engineer , Full Stack, Level 5 - Snap Inc. Careers",
+      "company": "Snap Inc. Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.snap.com/job?id=Q226SWEFS6",
+      "source": "Other",
+      "description": "... Full Stack Engineer to join Snap Inc! What you'll do: Build State of ... Software Engineer , Full Stack, Level 5. Bellevue. Los Angeles. New York.",
+      "date": "2026-06-26",
+      "timestamp": "2026-06-26T00:00:35+00:00",
+      "fetched_at": "2026-06-26T07:39:28.090431+00:00"
+    },
+    {
+      "id": "cd9c552a1b0e",
+      "title": "Software Engineer - Systems - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200669153-0836/software-engineer-systems?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Software Engineer - Systems job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-06-25",
+      "timestamp": "2026-06-25T23:27:19+00:00",
+      "fetched_at": "2026-06-26T07:39:28.090633+00:00"
+    },
     {
       "id": "5e5788755bcf",
       "title": "Senior Software Engineer | Arjun Bhatnagar - LinkedIn",
@@ -215,6 +290,36 @@
       "date": "2026-06-25",
       "timestamp": "2026-06-25T20:25:19+00:00",
       "fetched_at": "2026-06-26T01:56:18.263096+00:00"
+    },
+    {
+      "id": "4a6849b68d98",
+      "title": "Senior Software Engineer - Careers at Moody's",
+      "company": "Moody's",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.moodys.com/en/job/charlotte/senior-software-engineer/49841/96920655088",
+      "source": "Other",
+      "description": "Senior Software Engineer . Charlotte, NC. Apply now. Save job. Posted: 06/25/2026. Job reference: 13598. Experience level: Experienced Hire. Job ...",
+      "date": "2026-06-25",
+      "timestamp": "2026-06-25T20:25:14+00:00",
+      "fetched_at": "2026-06-26T07:39:28.093024+00:00"
+    },
+    {
+      "id": "dabde225bb2b",
+      "title": "Software Engineer at Barclays",
+      "company": "Barclays",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://search.jobs.barclays/job/pune/software-engineer/13015/96905478144",
+      "source": "Other",
+      "description": "Data Engineer Lead. Glasgow (United Kingdom) ... Akshat, Senior Software Engineer , reveals the key factors behind his decision to join Barclays.",
+      "date": "2026-06-25",
+      "timestamp": "2026-06-25T19:49:52+00:00",
+      "fetched_at": "2026-06-26T07:39:28.093138+00:00"
     },
     {
       "id": "7788059a760e",
