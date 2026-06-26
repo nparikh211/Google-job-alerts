@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-06-26T10:39:55.024194+00:00",
-  "total_jobs": 4510,
+  "last_updated": "2026-06-26T13:52:20.636092+00:00",
+  "total_jobs": 4520,
   "stats": {
-    "total_companies": 2373,
+    "total_companies": 2377,
     "total_roles": 68,
     "regions": {
-      "India": 2874,
+      "India": 2883,
       "Philippines": 951,
-      "Remote": 567,
+      "Remote": 568,
       "Unknown": 135
     },
     "sources": {
-      "Other": 3545,
+      "Other": 3555,
       "Greenhouse": 227,
       "Workday": 209,
       "LinkedIn": 164,
@@ -35,6 +35,111 @@
     }
   },
   "jobs": [
+    {
+      "id": "9334aa65d3c4",
+      "title": "I was a software engineer for 20+ years. Now I'm stacking shelves at Waitrose : r/UKJobs",
+      "company": "Waitrose : r/UKJobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/UKJobs/comments/1ug50v4/i_was_a_software_engineer_for_20_years_now_im/",
+      "source": "Other",
+      "description": "I knew a platform engineer laid off and he was unemployed 10 months. He ... Former senior software engineer here, now facing a similar situation.",
+      "date": "2026-06-26",
+      "timestamp": "2026-06-26T12:57:43+00:00",
+      "fetched_at": "2026-06-26T13:52:20.369410+00:00"
+    },
+    {
+      "id": "366c693e0f6f",
+      "title": "Senior Full Stack Engineer , Event Logging - Careers at Airbnb",
+      "company": "Airbnb",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.airbnb.com/positions/8029198/",
+      "source": "Other",
+      "description": "Senior Full Stack Engineer , Event Logging. United States. Role overview. Application. Airbnb was born in 2007 when two hosts welcomed three guests to ...",
+      "date": "2026-06-26",
+      "timestamp": "2026-06-26T11:23:31+00:00",
+      "fetched_at": "2026-06-26T13:52:20.369988+00:00"
+    },
+    {
+      "id": "e63781807bef",
+      "title": "Mozilla Careers \u2014 Senior Software Engineer , Firefox Security \u2014 Open Positions",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.mozilla.org/en-US/careers/position/gh/8026958/",
+      "source": "Other",
+      "description": "Senior Software Engineer , Firefox Security. at Mozilla Corporation. Team: Firefox; Locations: Remote Sweden, Remote Germany, Remote Netherlands ...",
+      "date": "2026-06-26",
+      "timestamp": "2026-06-26T10:29:26+00:00",
+      "fetched_at": "2026-06-26T13:52:20.370226+00:00"
+    },
+    {
+      "id": "fdcb446b7b4b",
+      "title": "Senior Software Engineer , Code Search in United States | GitHub, Inc.",
+      "company": "GitHub, Inc.",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.github.careers/benefits/jobs/5381?lang=en-us",
+      "source": "Other",
+      "description": "GitHub is hiring a Senior Software Engineer , Code Search in United States. Review all of the job details and apply today!",
+      "date": "2026-06-26",
+      "timestamp": "2026-06-26T10:22:06+00:00",
+      "fetched_at": "2026-06-26T13:52:20.370429+00:00"
+    },
+    {
+      "id": "0ffafac694c7",
+      "title": "Senior Software Engineer (Cloud & DevOps) - 3Shape",
+      "company": "3Shape",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.3shape.com/jobs/7973579-senior-software-engineer-cloud-devops",
+      "source": "Other",
+      "description": "Join 3Shape as Senior Software Engineer ! \u00b7 At 3Shape, we use cloud platforms to deliver secure, reliable services to both internal teams and external ...",
+      "date": "2026-06-26",
+      "timestamp": "2026-06-26T09:05:11+00:00",
+      "fetched_at": "2026-06-26T13:52:20.370575+00:00"
+    },
+    {
+      "id": "44f0d89f2362",
+      "title": "Sr. Software Engineer , Machine Learning, tvScientific - Pinterest Careers",
+      "company": "Pinterest Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.pinterestcareers.com/jobs/7999050/sr-software-engineer-machine-learning-tvscientific/?gh_jid=7999050",
+      "source": "Other",
+      "description": "Software Engineer , Machine Learning, tvScientific. San Francisco ... Machine Learning Engineer at tvScientific, you'll build the ML and AI ...",
+      "date": "2026-06-26",
+      "timestamp": "2026-06-26T08:28:51+00:00",
+      "fetched_at": "2026-06-26T13:52:20.370749+00:00"
+    },
+    {
+      "id": "310cb064bcba",
+      "title": "Software Engineer in Pune, India, 411006 | Engineering at Mastercard",
+      "company": "Mastercard",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mastercard.com/us/en/job/R-280785/Software-Engineer",
+      "source": "Other",
+      "description": "Apply for Software Engineer job with Mastercard in Pune, India, 411006. Engineering at Mastercard.",
+      "date": "2026-06-26",
+      "timestamp": "2026-06-26T07:56:50+00:00",
+      "fetched_at": "2026-06-26T13:52:20.371017+00:00"
+    },
     {
       "id": "d0c6f8c989b4",
       "title": "Software Engineer , Backend - Cisco Careers",
@@ -109,6 +214,51 @@
       "date": "2026-06-26",
       "timestamp": "2026-06-26T03:02:16+00:00",
       "fetched_at": "2026-06-26T07:39:28.301743+00:00"
+    },
+    {
+      "id": "914ebd45fb3e",
+      "title": "Data Engineer - FinTech, Fintech - Job ID: 10459074 | Amazon.jobs",
+      "company": "FinTech, Fintech - Job ID: 10459074 | Amazon.jobs",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://amazon.jobs/en/jobs/10459074/data-engineer-fintech-fintech",
+      "source": "Other",
+      "description": "Description. We are seeking a highly skilled Data Engineer to join our FinTech ADA team, responsible for building and optimizing scalable data ...",
+      "date": "2026-06-26",
+      "timestamp": "2026-06-26T01:55:40+00:00",
+      "fetched_at": "2026-06-26T13:52:20.371749+00:00"
+    },
+    {
+      "id": "1392913fd143",
+      "title": "Backend Engineer - Los Angeles HQ | SKIMS Careers",
+      "company": "Los Angeles HQ | SKIMS Careers",
+      "role": "Backend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://skims.pinpointhq.com/postings/285df7c1-5ead-4bfe-94d7-16bbda576beb",
+      "source": "Other",
+      "description": "Backend Engineer . Department: Technology; Employment Type: Full Time; Location: Los Angeles HQ; Workplace type: Hybrid; Compensation: $150,000 - ...",
+      "date": "2026-06-26",
+      "timestamp": "2026-06-26T01:42:57+00:00",
+      "fetched_at": "2026-06-26T13:52:20.371871+00:00"
+    },
+    {
+      "id": "0e825ca87346",
+      "title": "Data Engineer | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.apexsystems.com/job/3039969_usa/data-engineer",
+      "source": "Other",
+      "description": "Data Engineer . Apply. Job#: 3039969. Job Description: Data Engineer . Location: Charlotte, North Carolina (Onsite). Role Overview. We are seeking a ...",
+      "date": "2026-06-26",
+      "timestamp": "2026-06-26T01:12:19+00:00",
+      "fetched_at": "2026-06-26T13:52:20.371957+00:00"
     },
     {
       "id": "faa338874f86",
