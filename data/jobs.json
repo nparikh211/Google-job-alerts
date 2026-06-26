@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-06-26T13:52:20.636092+00:00",
-  "total_jobs": 4520,
+  "last_updated": "2026-06-26T17:26:17.262190+00:00",
+  "total_jobs": 4538,
   "stats": {
-    "total_companies": 2377,
+    "total_companies": 2383,
     "total_roles": 68,
     "regions": {
-      "India": 2883,
-      "Philippines": 951,
-      "Remote": 568,
+      "India": 2897,
+      "Philippines": 953,
+      "Remote": 570,
       "Unknown": 135
     },
     "sources": {
-      "Other": 3555,
+      "Other": 3572,
       "Greenhouse": 227,
       "Workday": 209,
       "LinkedIn": 164,
       "Ashby": 139,
+      "iCIMS": 50,
       "Breezy": 50,
-      "iCIMS": 49,
       "Lever": 34,
       "Workable": 29,
       "SmartRecruiters": 24,
@@ -36,6 +36,201 @@
   },
   "jobs": [
     {
+      "id": "79017ecaad42",
+      "title": "Software Engineer II - Videndum",
+      "company": "Videndum",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.videndum.com/jobs/7972345-software-engineer-ii",
+      "source": "Other",
+      "description": "Join SmallHD in Cary, NC as Software Engineer II: develop and maintain embedded C on Linux for video monitoring; collaborate with FPGA/EC teams; ...",
+      "date": "2026-06-26",
+      "timestamp": "2026-06-26T16:45:07+00:00",
+      "fetched_at": "2026-06-26T17:26:17.233929+00:00"
+    },
+    {
+      "id": "6865a7f64784",
+      "title": "IT Software Engineer - Erie Insurance Jobs",
+      "company": "Erie Insurance Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.erieinsurance.com/job/Erie-IT-Software-Engineer-PA-16530/1403361200/",
+      "source": "Other",
+      "description": "The Hiring Manager will also consider candidates for a Senior Software Engineer . Level of position offered will be based upon the depth and ...",
+      "date": "2026-06-26",
+      "timestamp": "2026-06-26T16:32:27+00:00",
+      "fetched_at": "2026-06-26T17:26:17.164009+00:00"
+    },
+    {
+      "id": "b3013b576737",
+      "title": "Senior DevOps Engineer - Book of the Month - Career Page",
+      "company": "Book of the Month - Career Page",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://bookofthemonth.applytojob.com/apply/xY5NS40DmL/Senior-DevOps-Engineer",
+      "source": "Other",
+      "description": "Senior DevOps Engineer \u00b7 4-5+ years of experience in a DevOps, SRE, or an Infrastructure Engineering role. \u00b7 Strong experience with cloud platforms (AWS ...",
+      "date": "2026-06-26",
+      "timestamp": "2026-06-26T15:58:41+00:00",
+      "fetched_at": "2026-06-26T17:26:17.164229+00:00"
+    },
+    {
+      "id": "579ba3966e11",
+      "title": "Consultant - Software Engineer in Hyderabad, India | Principal Global Services",
+      "company": "Consultant",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.principal.com/in/jobs/51413/job",
+      "source": "Other",
+      "description": "in is hiring a Consultant - Software Engineer in Hyderabad, India. Review all of the job details and apply today!",
+      "date": "2026-06-26",
+      "timestamp": "2026-06-26T15:40:07+00:00",
+      "fetched_at": "2026-06-26T17:26:17.164360+00:00"
+    },
+    {
+      "id": "cf14d34bd527",
+      "title": "Embedded Software Engineer Job Details | Endress+Hauser",
+      "company": "Endress+Hauser",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.endress.com/USA/job/Greenwood%2C-IN-Embedded-Software-Engineer-IN-46143/1408341833/",
+      "source": "Other",
+      "description": "As an Embedded Software Engineer , you will integrate and test components for Level and Pressure products used in industrial process automation. You ...",
+      "date": "2026-06-26",
+      "timestamp": "2026-06-26T15:37:11+00:00",
+      "fetched_at": "2026-06-26T17:26:17.164741+00:00"
+    },
+    {
+      "id": "8586cf4c020d",
+      "title": "Staff Software Engineer , Growth",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/brightside-health-jobs/jobs/f86872f2-4c82-4777-965b-6c04a6e8709d",
+      "source": "Other",
+      "description": "Staff Software Engineer , Growth. Brightside Health delivers life-saving virtual mental healthcare to everyone who needs it. We are powered by ...",
+      "date": "2026-06-26",
+      "timestamp": "2026-06-26T14:56:10+00:00",
+      "fetched_at": "2026-06-26T17:26:17.164915+00:00"
+    },
+    {
+      "id": "e2029c5dd95d",
+      "title": "AI Engineer Job Details | Royal Caribbean Cruises Ltd",
+      "company": "Royal Caribbean Cruises Ltd",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.royalcaribbeangroup.com/job/Miami-AI-Engineer-FL-33131/1403299800/",
+      "source": "Other",
+      "description": "POSITION SUMMARY: We are seeking a AI Engineer to build, deploy, and maintain production AI/ML and GenAI services that make enterprise AI capabilities ...",
+      "date": "2026-06-26",
+      "timestamp": "2026-06-26T14:54:22+00:00",
+      "fetched_at": "2026-06-26T17:26:17.165090+00:00"
+    },
+    {
+      "id": "7720977ae4dc",
+      "title": "DevOps Engineer in Remote - Common Securitization Solutions",
+      "company": "Common Securitization Solutions",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers-usfintech.icims.com/jobs/2412/devops-engineer/job",
+      "source": "iCIMS",
+      "description": "Remote is now hiring a DevOps Engineer in Remote. Review all of the job details and apply today!",
+      "date": "2026-06-26",
+      "timestamp": "2026-06-26T14:29:43+00:00",
+      "fetched_at": "2026-06-26T17:26:17.165230+00:00"
+    },
+    {
+      "id": "49a1ed76a2e6",
+      "title": "AI Engineer / Application Analyst - Southern Company",
+      "company": "Southern Company",
+      "role": "AI Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://southerncompany.jobs/atlanta-ga/ai-engineer-application-analyst/33804F8C94EB480EBAB9B1C7EDEB4AF2/job/",
+      "source": "Other",
+      "description": "AI Engineer or Analyst. Location: Atlanta, GA. or Birmingham, AL. (Onsite Monday-Thursday - Remote on Friday). The AI Engineer /Analyst will design ...",
+      "date": "2026-06-26",
+      "timestamp": "2026-06-26T14:24:09+00:00",
+      "fetched_at": "2026-06-26T17:26:17.235532+00:00"
+    },
+    {
+      "id": "2ca60e5a52c4",
+      "title": "Software Engineer I - Sunnyvale, California | Uber Careers",
+      "company": "Sunnyvale, California | Uber Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.uber.com/global/en/careers/list/159863/",
+      "source": "Other",
+      "description": "Apply to the Software Engineer I position on the Uber Engineering team, based out of the Uber Sunnyvale, California office.",
+      "date": "2026-06-26",
+      "timestamp": "2026-06-26T13:59:54+00:00",
+      "fetched_at": "2026-06-26T17:26:17.236013+00:00"
+    },
+    {
+      "id": "074d0c0324fc",
+      "title": "Full Stack Software Engineer - Contractor - US-California-San Jose",
+      "company": "Contractor - US-California-San Jose",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.aligntech.com/en/postings/3582827f-9195-4414-933d-96d8c3717651",
+      "source": "Other",
+      "description": "Join Align Technology in Information Technology, US-California-San Jose as a Full Stack Software Engineer - Contractor.",
+      "date": "2026-06-26",
+      "timestamp": "2026-06-26T13:58:46+00:00",
+      "fetched_at": "2026-06-26T17:26:17.165438+00:00"
+    },
+    {
+      "id": "d87faee8f68d",
+      "title": "Software Engineer , Cloud Infrastructure - DoorDash",
+      "company": "DoorDash",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careersatdoordash.com/jobs/software-engineer-cloud-infrastructure/8010827",
+      "source": "Other",
+      "description": "Software Engineer , Cloud Infrastructure. Apply To Job. Job ID: 3473296. DoorDash, Inc. San Francisco, CA; Seattle, WA. About the Company. Help us ...",
+      "date": "2026-06-26",
+      "timestamp": "2026-06-26T13:31:43+00:00",
+      "fetched_at": "2026-06-26T17:26:17.165618+00:00"
+    },
+    {
+      "id": "511070bf2542",
+      "title": "Software Engineer - Careers at Moody's",
+      "company": "Moody's",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.moodys.com/en/job/bengaluru/software-engineer/49841/96943999856",
+      "source": "Other",
+      "description": "Contribute to ETL and data pipeline work under the direction of the Senior Data Engineer ... Senior Software Engineer . Brussels, Belgium. Save for Later ...",
+      "date": "2026-06-26",
+      "timestamp": "2026-06-26T13:08:14+00:00",
+      "fetched_at": "2026-06-26T17:26:17.165753+00:00"
+    },
+    {
       "id": "9334aa65d3c4",
       "title": "I was a software engineer for 20+ years. Now I'm stacking shelves at Waitrose : r/UKJobs",
       "company": "Waitrose : r/UKJobs",
@@ -49,6 +244,81 @@
       "date": "2026-06-26",
       "timestamp": "2026-06-26T12:57:43+00:00",
       "fetched_at": "2026-06-26T13:52:20.369410+00:00"
+    },
+    {
+      "id": "cbd165536937",
+      "title": "Career advice: Data platform engineer , worth it ? : r/dataengineering - Reddit",
+      "company": "Reddit",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/dataengineering/comments/1ug1rp4/career_advice_data_platform_engineer_worth_it/",
+      "source": "Other",
+      "description": "Career advice: Data platform engineer , worth it ? Career. Hello ... Solo data engineer reporting to VP Tech. upvotes \u00b7 comments. How long to ...",
+      "date": "2026-06-26",
+      "timestamp": "2026-06-26T12:52:25+00:00",
+      "fetched_at": "2026-06-26T17:26:17.166136+00:00"
+    },
+    {
+      "id": "a6102c223579",
+      "title": "Software Engineer | MO Cape Girardeau - Careers at Vizient",
+      "company": "Vizient",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.vizientinc.com/careers/job/446719365023-software-engineer-mo-cape-girardeau?domain=vizientinc.com",
+      "source": "Other",
+      "description": "Senior Software Engineer . TX Irving Corporate Office. Senior Software Engineer . TX Irving Corporate Office. Senior Software Engineer . TX Irving ...",
+      "date": "2026-06-26",
+      "timestamp": "2026-06-26T12:26:16+00:00",
+      "fetched_at": "2026-06-26T17:26:17.166329+00:00"
+    },
+    {
+      "id": "47bb7a83bdd9",
+      "title": "DevOps Engineer - India - Zoom Careers",
+      "company": "India - Zoom Careers",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.zoom.us/jobs/devops-engineer-india-1c1eaa0e-ccac-4f39-9677-6aaa27f45d04",
+      "source": "Other",
+      "description": "DevOps Engineer . Engineering. Search by job title, location, department ... What you can expect As an Audio AI Engineer , you will research and ...",
+      "date": "2026-06-26",
+      "timestamp": "2026-06-26T12:23:20+00:00",
+      "fetched_at": "2026-06-26T17:26:17.166559+00:00"
+    },
+    {
+      "id": "0eab5be3d328",
+      "title": "Senior Software Machine Learning Engineer (Teradyne, North Reading, MA) Job Details",
+      "company": "Unknown Company",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Senior-Software-Machine-Learning-Engineer-%28Teradyne%2C-North-Reading%2C-MA%29-MA/1403257000/?utm_source=Israel+VC+Forum+job+board&utm_medium=getro.com&gh_src=Israel+VC+Forum+job+board",
+      "source": "Other",
+      "description": "As Senior Machine Learning Engineer , you are Teradyne's highest individual contributor technical authority in ML. You own the end-to-end technical ...",
+      "date": "2026-06-26",
+      "timestamp": "2026-06-26T11:55:28+00:00",
+      "fetched_at": "2026-06-26T17:26:17.167089+00:00"
+    },
+    {
+      "id": "c15a4de3bfc8",
+      "title": "Senior Staff Software Engineer at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/hyderabad/senior-staff-software-engineer/47263/96947977456",
+      "source": "Other",
+      "description": "As a Senior Staff Software Engineer , you will be a technical cornerstone of our engineering organization. You will design, build, and scale highly ...",
+      "date": "2026-06-26",
+      "timestamp": "2026-06-26T11:30:25+00:00",
+      "fetched_at": "2026-06-26T17:26:17.167247+00:00"
     },
     {
       "id": "366c693e0f6f",
