@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-06-26T07:39:28.324145+00:00",
-  "total_jobs": 4505,
+  "last_updated": "2026-06-26T10:39:55.024194+00:00",
+  "total_jobs": 4510,
   "stats": {
-    "total_companies": 2370,
+    "total_companies": 2373,
     "total_roles": 68,
     "regions": {
-      "India": 2869,
+      "India": 2874,
       "Philippines": 951,
       "Remote": 567,
       "Unknown": 135
     },
     "sources": {
-      "Other": 3542,
-      "Greenhouse": 226,
+      "Other": 3545,
+      "Greenhouse": 227,
       "Workday": 209,
       "LinkedIn": 164,
       "Ashby": 139,
+      "Breezy": 50,
       "iCIMS": 49,
-      "Breezy": 49,
       "Lever": 34,
       "Workable": 29,
       "SmartRecruiters": 24,
@@ -35,6 +35,51 @@
     }
   },
   "jobs": [
+    {
+      "id": "d0c6f8c989b4",
+      "title": "Software Engineer , Backend - Cisco Careers",
+      "company": "Cisco Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2016066EXTERNALENGLOBAL/Software-Engineer-Backend",
+      "source": "Other",
+      "description": "Kubernetes Platform Engineer \u2013 AI Infrastructure ... Join our team as a Senior Software Engineer and help shape the future of next-generation networking ...",
+      "date": "2026-06-26",
+      "timestamp": "2026-06-26T07:54:26+00:00",
+      "fetched_at": "2026-06-26T10:39:54.917189+00:00"
+    },
+    {
+      "id": "bc61f2676dab",
+      "title": "Job Application for Data Engineer at Courier Health - Greenhouse",
+      "company": "Courierhealth",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/courierhealth/jobs/5174299007",
+      "source": "Greenhouse",
+      "description": "Data Engineer \u00b7 Build data models: develop dbt models and SQL transformations, backed by tests, that turn raw data into reliable datasets. \u00b7 Improve ...",
+      "date": "2026-06-26",
+      "timestamp": "2026-06-26T07:09:49+00:00",
+      "fetched_at": "2026-06-26T10:39:54.917320+00:00"
+    },
+    {
+      "id": "1c2b392ff911",
+      "title": "Software Engineer II, Web - Pinterest Careers",
+      "company": "Pinterest Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.pinterestcareers.com/jobs/8024883/software-engineer-ii-web/",
+      "source": "Other",
+      "description": "Software Engineer II, Web. Toronto \u00b7 Engineering; Regular. a screenshot of a social media post. Share. Apply Now. Description. About Pinterest:.",
+      "date": "2026-06-26",
+      "timestamp": "2026-06-26T06:05:45+00:00",
+      "fetched_at": "2026-06-26T10:39:54.917520+00:00"
+    },
     {
       "id": "5488670bb97f",
       "title": "Software Engineer , Data Engineering - Roblox Careers",
@@ -64,6 +109,21 @@
       "date": "2026-06-26",
       "timestamp": "2026-06-26T03:02:16+00:00",
       "fetched_at": "2026-06-26T07:39:28.301743+00:00"
+    },
+    {
+      "id": "faa338874f86",
+      "title": "Staff Platform Engineer (U.S.-based required) at Arch Systems",
+      "company": "Arch Systems",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://arch-systems.breezy.hr/p/a5082204b5c7-staff-platform-engineer-u-s-based-required",
+      "source": "Breezy",
+      "description": "About the Role Arch Systems is seeking a talented Staff Platform Engineer to join our rapidly scaling team and help build, secure, and operate the ...",
+      "date": "2026-06-26",
+      "timestamp": "2026-06-26T00:56:40+00:00",
+      "fetched_at": "2026-06-26T10:39:54.918241+00:00"
     },
     {
       "id": "55919449f9eb",
@@ -124,6 +184,21 @@
       "date": "2026-06-25",
       "timestamp": "2026-06-25T23:09:11+00:00",
       "fetched_at": "2026-06-26T01:56:18.260847+00:00"
+    },
+    {
+      "id": "9fabe9988789",
+      "title": "Software Engineer lll in Coral Gables, Florida - Allvue Systems Careers",
+      "company": "Allvue Systems Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.allvuesystems.com/jobs/2912?lang=en-us",
+      "source": "Other",
+      "description": "Allvue Systems is hiring a Software Engineer lll in Coral Gables, Florida. Review all of the job details and apply today!",
+      "date": "2026-06-25",
+      "timestamp": "2026-06-25T22:25:05+00:00",
+      "fetched_at": "2026-06-26T10:39:54.919189+00:00"
     },
     {
       "id": "49aa7ea89460",
