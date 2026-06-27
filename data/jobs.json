@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-06-27T16:52:07.883705+00:00",
-  "total_jobs": 4583,
+  "last_updated": "2026-06-27T20:45:32.117140+00:00",
+  "total_jobs": 4595,
   "stats": {
-    "total_companies": 2399,
+    "total_companies": 2402,
     "total_roles": 68,
     "regions": {
-      "India": 2926,
-      "Philippines": 964,
+      "India": 2937,
+      "Philippines": 965,
       "Remote": 576,
       "Unknown": 135
     },
     "sources": {
-      "Other": 3609,
-      "Greenhouse": 230,
-      "Workday": 209,
-      "LinkedIn": 166,
+      "Other": 3618,
+      "Greenhouse": 231,
+      "Workday": 210,
+      "LinkedIn": 167,
       "Ashby": 139,
       "iCIMS": 52,
       "Breezy": 50,
@@ -36,6 +36,96 @@
   },
   "jobs": [
     {
+      "id": "735031c4a4ba",
+      "title": "Hacksultan is the most influential software engineer in Africa. Recognized as the most ... - LinkedIn",
+      "company": "LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/posts/hacksultan_hacksultan-is-the-most-influential-software-activity-7476651304040239104-5ZJe",
+      "source": "LinkedIn",
+      "description": "Senior Software Engineer | Architecting Optimized & Resilient Systems ... Cloud Engineer | AI Automation Specialist | AWS | CI/CD | n8n | 7+ ...",
+      "date": "2026-06-27",
+      "timestamp": "2026-06-27T18:32:53+00:00",
+      "fetched_at": "2026-06-27T20:45:32.094929+00:00"
+    },
+    {
+      "id": "090f04ee2922",
+      "title": "Junior Data Engineer in Cincinnati, Ohio | Medpace, Inc.",
+      "company": "Medpace, Inc.",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.medpace.com/careers/jobs/12454?lang=en-us",
+      "source": "Other",
+      "description": "Medpace Careers is hiring a Junior Data Engineer in Cincinnati, Ohio. Review all of the job details and apply today!",
+      "date": "2026-06-27",
+      "timestamp": "2026-06-27T18:15:30+00:00",
+      "fetched_at": "2026-06-27T20:45:31.879981+00:00"
+    },
+    {
+      "id": "acb1df06c12a",
+      "title": "Data Engineer in Bangalore, India | Product and Engineering at Cisco",
+      "company": "Cisco",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2017614EXTERNALENGLOBAL/Data-Engineer",
+      "source": "Other",
+      "description": "Embrace the role of a Data Engineer and help shape the future of enterprise data at Cisco. Design and build scalable data pipelines, optimize ...",
+      "date": "2026-06-27",
+      "timestamp": "2026-06-27T17:30:54+00:00",
+      "fetched_at": "2026-06-27T20:45:31.880191+00:00"
+    },
+    {
+      "id": "418a8050a41f",
+      "title": "From a lead fullstack engineer in Germany, interviewing",
+      "company": "Unknown Company",
+      "role": "Fullstack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://x.com/GergelyOrosz/status/2070904082630680987",
+      "source": "Other",
+      "description": "Gergely Orosz (@GergelyOrosz). 296 likes 27 replies. From a lead fullstack engineer in Germany, interviewing: \"Interviews have changed, a LOT!",
+      "date": "2026-06-27",
+      "timestamp": "2026-06-27T17:07:38+00:00",
+      "fetched_at": "2026-06-27T20:45:31.880335+00:00"
+    },
+    {
+      "id": "645f7d556e59",
+      "title": "Senior Software Engineer - AI Tools - Myworkdayjobs.com",
+      "company": "Workday",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://workday.wd5.myworkdayjobs.com/Workday/job/Senior-Software-Engineer---AI-Tools_JR-0108404",
+      "source": "Workday",
+      "description": "Senior Software Engineer - AI Tools \u00b7 Design and build the AI platform layer: LLM gateways, MCP registries, abstraction APIs, and shared infrastructure ...",
+      "date": "2026-06-27",
+      "timestamp": "2026-06-27T16:36:21+00:00",
+      "fetched_at": "2026-06-27T20:45:31.880446+00:00"
+    },
+    {
+      "id": "9573d30c58e1",
+      "title": "Associate, Frontend Software Engineer (React) - BlackRock Careers",
+      "company": "BlackRock Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.blackrock.com/job/chicago/associate-frontend-software-engineer-react/45831/96973243520",
+      "source": "Other",
+      "description": "Learn more about applying for Associate, Frontend Software Engineer (React) at BlackRock.",
+      "date": "2026-06-27",
+      "timestamp": "2026-06-27T16:01:09+00:00",
+      "fetched_at": "2026-06-27T20:45:31.880672+00:00"
+    },
+    {
       "id": "ec660195f6bb",
       "title": "Day in the Life of an Amazon Software Engineer (Job Searching + Oncall) - YouTube",
       "company": "YouTube",
@@ -49,6 +139,36 @@
       "date": "2026-06-27",
       "timestamp": "2026-06-27T15:58:58+00:00",
       "fetched_at": "2026-06-27T16:52:07.749381+00:00"
+    },
+    {
+      "id": "66c04834fe14",
+      "title": "Lead Software Engineer (Spring Boot, REST/JSON, Kafka, ETL, Cloud) - U.S. Bank careers",
+      "company": "U.S. Bank careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.usbank.com/global/en/job/UBNAGLOBAL20260015060EXTERNALENGLOBAL/Lead-Software-Engineer-Spring-Boot-REST-JSON-Kafka-ETL-Cloud",
+      "source": "Other",
+      "description": "Lead Software Engineer (Spring Boot, REST/JSON, Kafka, ETL, Cloud). Apply ... Senior Software Engineer (Hogan API). Available in 7 locations. Sr ...",
+      "date": "2026-06-27",
+      "timestamp": "2026-06-27T14:54:06+00:00",
+      "fetched_at": "2026-06-27T20:45:31.881099+00:00"
+    },
+    {
+      "id": "873ea6c3f8e7",
+      "title": "Title: Best Azure Certification & Skill Roadmap to Land Cloud Engineer / Cloud Security ... - Reddit",
+      "company": "Reddit",
+      "role": "Cloud Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/AzureCertification/comments/1ugi4na/title_best_azure_certification_skill_roadmap_to/",
+      "source": "Other",
+      "description": "14 votes, 22 comments. Hi everyone, I'm planning to build my career as a Cloud Engineer or Cloud Security Engineer and would love some guidance ...",
+      "date": "2026-06-27",
+      "timestamp": "2026-06-27T13:11:18+00:00",
+      "fetched_at": "2026-06-27T20:45:31.881336+00:00"
     },
     {
       "id": "7dd4149ae0f1",
@@ -126,6 +246,21 @@
       "fetched_at": "2026-06-27T16:52:07.750824+00:00"
     },
     {
+      "id": "3559963bbd07",
+      "title": "Job Application for Senior Data Engineer at Babylist - Greenhouse",
+      "company": "Babylist",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/babylist/jobs/6100946004",
+      "source": "Greenhouse",
+      "description": "Senior Data Engineer \u00b7 Experienced building production AI/LLM systems \u2014 RAG pipelines, agentic workflows, tool integrations (e.g., MCP servers) that ...",
+      "date": "2026-06-27",
+      "timestamp": "2026-06-27T09:25:52+00:00",
+      "fetched_at": "2026-06-27T20:45:31.882543+00:00"
+    },
+    {
       "id": "deb9d7670101",
       "title": "Data Engineer in Bangalore, India | Product and Engineering at Cisco - Cisco Careers",
       "company": "Cisco",
@@ -141,6 +276,36 @@
       "fetched_at": "2026-06-27T16:52:07.751424+00:00"
     },
     {
+      "id": "b71fc293305d",
+      "title": "Software Engineer (f/m/d) \u2013 Data Platforms - smartclip Europe GmbH",
+      "company": "smartclip Europe GmbH",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.smartclip.tv/jobs/7978992-software-engineer-f-m-d-data-platforms",
+      "source": "Other",
+      "description": "Careful where it matters. Your mission. Join our team at smartclip as a Software Engineer , Data Platforms. You will design and build the engines that ...",
+      "date": "2026-06-27",
+      "timestamp": "2026-06-27T08:42:25+00:00",
+      "fetched_at": "2026-06-27T20:45:31.882903+00:00"
+    },
+    {
+      "id": "b39e8670ad9b",
+      "title": "Backend Software Engineer - Universal Media - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200669674-3543/backend-software-engineer-universal-media",
+      "source": "Other",
+      "description": "Backend Software Engineer - Universal Media. San Diego, California ... This group is seeking a highly skilled Backend Engineer to help design ...",
+      "date": "2026-06-27",
+      "timestamp": "2026-06-27T07:20:55+00:00",
+      "fetched_at": "2026-06-27T20:45:31.883063+00:00"
+    },
+    {
       "id": "b8d61cffd471",
       "title": "Data Engineer Job Details - SAP Careers",
       "company": "SAP Careers",
@@ -154,6 +319,21 @@
       "date": "2026-06-27",
       "timestamp": "2026-06-27T07:20:20+00:00",
       "fetched_at": "2026-06-27T16:52:07.751747+00:00"
+    },
+    {
+      "id": "2ea293f6de09",
+      "title": "Senior Software Engineer , Data Governance job in Menlo Park, California, United States",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.snowflake.com/us/en/job/SNCOUS073A05D7D82546C3B04766FE6396D6A5EXTERNALENUSC4F240740F854503A88594301E5AD70A/Senior-Software-Engineer-Data-Governance",
+      "source": "Other",
+      "description": "Apply for Senior Software Engineer , Data Governance job in Menlo Park, California, United States. Browse and apply for Engineering jobs at ...",
+      "date": "2026-06-27",
+      "timestamp": "2026-06-27T07:13:57+00:00",
+      "fetched_at": "2026-06-27T20:45:31.883701+00:00"
     },
     {
       "id": "fbaa56160792",
