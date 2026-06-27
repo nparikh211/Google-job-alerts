@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-06-27T13:00:36.503540+00:00",
-  "total_jobs": 4572,
+  "last_updated": "2026-06-27T16:52:07.883705+00:00",
+  "total_jobs": 4583,
   "stats": {
-    "total_companies": 2395,
+    "total_companies": 2399,
     "total_roles": 68,
     "regions": {
-      "India": 2918,
-      "Philippines": 963,
-      "Remote": 574,
+      "India": 2926,
+      "Philippines": 964,
+      "Remote": 576,
       "Unknown": 135
     },
     "sources": {
-      "Other": 3599,
-      "Greenhouse": 229,
+      "Other": 3609,
+      "Greenhouse": 230,
       "Workday": 209,
       "LinkedIn": 166,
       "Ashby": 139,
@@ -36,6 +36,126 @@
   },
   "jobs": [
     {
+      "id": "ec660195f6bb",
+      "title": "Day in the Life of an Amazon Software Engineer (Job Searching + Oncall) - YouTube",
+      "company": "YouTube",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.youtube.com/watch?v=xQgFVbUv-Mk",
+      "source": "Other",
+      "description": "Day in the Life of an Amazon Software Engineer (Job Searching + Oncall). 2.8K views \u00b7 3 hours ago. #soundcore #liberty5pro #liberty5promax ...more ...",
+      "date": "2026-06-27",
+      "timestamp": "2026-06-27T15:58:58+00:00",
+      "fetched_at": "2026-06-27T16:52:07.749381+00:00"
+    },
+    {
+      "id": "7dd4149ae0f1",
+      "title": "Senior Software Engineer /Line Manager Detalles del puesto | GFT Technologies SE",
+      "company": "GFT Technologies SE",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.gft.com/Costarica/job/Heredia-Senior-Software-EngineerLine-Manager-40101/1409050133/?utm_source=Israel+VC+Forum+job+board&utm_medium=getro.com&gh_src=Israel+VC+Forum+job+board",
+      "source": "Other",
+      "description": "Senior Software Engineer /Line Manager \u00b7 Utilize AI-powered development tools such as Cursor and other coding assistants to accelerate software delivery ...",
+      "date": "2026-06-27",
+      "timestamp": "2026-06-27T12:14:22+00:00",
+      "fetched_at": "2026-06-27T16:52:07.749873+00:00"
+    },
+    {
+      "id": "fae0715a6e2e",
+      "title": "Software Engineer at Nox Metals | Y Combinator",
+      "company": "Nox Metals",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer",
+      "source": "Other",
+      "description": "Senior Full-Stack Engineer , Payments (Remote \u00b7 US + LATAM \u00b7 Engineering) \u00b7 Craniometrix \u00b7 Senior Software Engineer (AI Series A Healthtech).",
+      "date": "2026-06-27",
+      "timestamp": "2026-06-27T12:06:44+00:00",
+      "fetched_at": "2026-06-27T16:52:07.750125+00:00"
+    },
+    {
+      "id": "0a993ef69be9",
+      "title": "Job Application for Software Engineer (Starshield) at SpaceX - Greenhouse",
+      "company": "Spacex",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/spacex/jobs/8605075002",
+      "source": "Greenhouse",
+      "description": "SOFTWARE ENGINEER (STARSHIELD). Starshield leverages SpaceX's Starlink technology and launch capability to support national security efforts.",
+      "date": "2026-06-27",
+      "timestamp": "2026-06-27T11:52:23+00:00",
+      "fetched_at": "2026-06-27T16:52:07.862511+00:00"
+    },
+    {
+      "id": "f9259ca25d37",
+      "title": "Senior Cybersecurity Systems Software Engineer - HPE Careers",
+      "company": "HPE Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.hpe.com/ca/fr/job/1208400/Senior-Cybersecurity-Systems-Software-Engineer",
+      "source": "Other",
+      "description": "Postulez \u00e0 Senior Cybersecurity Systems Software Engineer emploi chez HPE en Colorado Springs, Colorado, 80919. Ing\u00e9nierie et AQ chez HPE.",
+      "date": "2026-06-27",
+      "timestamp": "2026-06-27T11:35:48+00:00",
+      "fetched_at": "2026-06-27T16:52:07.750440+00:00"
+    },
+    {
+      "id": "fe3e464309f6",
+      "title": "Senior Software Engineer - Login Platform - 20520 - Bloomberg",
+      "company": "Login Platform - 20520 - Bloomberg",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://bloomberg.avature.net/careers/JobDetail/Senior-Software-Engineer-Login-Platform/20520",
+      "source": "Other",
+      "description": "As a Senior Software Engineer , you'll play a key role in shaping and scaling the infrastructure that powers session creation, enrichment and ...",
+      "date": "2026-06-27",
+      "timestamp": "2026-06-27T11:31:10+00:00",
+      "fetched_at": "2026-06-27T16:52:07.750824+00:00"
+    },
+    {
+      "id": "deb9d7670101",
+      "title": "Data Engineer in Bangalore, India | Product and Engineering at Cisco - Cisco Careers",
+      "company": "Cisco",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2015741EXTERNALENGLOBAL/Data-Engineer",
+      "source": "Other",
+      "description": "As a Data Engineer with an AI Analytics specialization, you will own the design and delivery of AI-augmented data pipelines and analytical systems ...",
+      "date": "2026-06-27",
+      "timestamp": "2026-06-27T08:53:32+00:00",
+      "fetched_at": "2026-06-27T16:52:07.751424+00:00"
+    },
+    {
+      "id": "b8d61cffd471",
+      "title": "Data Engineer Job Details - SAP Careers",
+      "company": "SAP Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.sap.com/job/Bellevue-Data-Engineer-WA-98004/1409064133/",
+      "source": "Other",
+      "description": "Constant learning, skill growth, great benefits, and a team that wants you to grow and succeed. What you'll do. As a Data Engineer in Bellevue, you ...",
+      "date": "2026-06-27",
+      "timestamp": "2026-06-27T07:20:20+00:00",
+      "fetched_at": "2026-06-27T16:52:07.751747+00:00"
+    },
+    {
       "id": "fbaa56160792",
       "title": "AI Software Engineer in Multiple Locations - S&P Global Careers",
       "company": "S&P Global Careers",
@@ -49,6 +169,36 @@
       "date": "2026-06-27",
       "timestamp": "2026-06-27T06:59:20+00:00",
       "fetched_at": "2026-06-27T09:53:11.976164+00:00"
+    },
+    {
+      "id": "14aa02edf0cd",
+      "title": "Senior Software Engineer Job Details | sesengin - Careers @ SES SD",
+      "company": "SES SD",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.sessd.com/job/Reston-Senior-Software-Engineer-VA-20191/1403768000/",
+      "source": "Other",
+      "description": "Senior Software Engineer . Location: Reston, VA, US, 20191. Work Arrangement: Remote. Job ID: 1193. Who We Are: At SES Space & Defense, we are a ...",
+      "date": "2026-06-27",
+      "timestamp": "2026-06-27T05:16:22+00:00",
+      "fetched_at": "2026-06-27T16:52:07.752287+00:00"
+    },
+    {
+      "id": "cc00399b3e7c",
+      "title": "Should I start Google certifications with the Associate Cloud Engineer ? - Reddit",
+      "company": "Reddit",
+      "role": "Cloud Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/googlecloud/comments/1ugau4f/should_i_start_google_certifications_with_the/",
+      "source": "Other",
+      "description": "Is Google Cloud Certified Professional Machine Learning Engineer certification worth it ? ... Cleared Google Cloud Professional Data Engineer ...",
+      "date": "2026-06-27",
+      "timestamp": "2026-06-27T05:05:37+00:00",
+      "fetched_at": "2026-06-27T16:52:07.752676+00:00"
     },
     {
       "id": "ee34171b9d16",
@@ -79,6 +229,21 @@
       "date": "2026-06-27",
       "timestamp": "2026-06-27T04:32:08+00:00",
       "fetched_at": "2026-06-27T09:53:12.129046+00:00"
+    },
+    {
+      "id": "0e74bde3580a",
+      "title": "Software Engineer at Tarpon Health, Inc. - Gusto",
+      "company": "Tarpon Health, Inc.",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.gusto.com/postings/tarpon-health-inc-software-engineer-ee525ddf-901f-47a6-8904-efc82cbd20e8",
+      "source": "Other",
+      "description": "Summary: As a Software Engineer at Tarpon Health, you will help build applied AI products that change how healthcare providers run their operations ...",
+      "date": "2026-06-27",
+      "timestamp": "2026-06-27T04:17:56+00:00",
+      "fetched_at": "2026-06-27T16:52:07.753889+00:00"
     },
     {
       "id": "7c6314e01f7c",
