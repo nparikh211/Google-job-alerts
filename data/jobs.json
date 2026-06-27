@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-06-26T21:10:10.531307+00:00",
-  "total_jobs": 4555,
+  "last_updated": "2026-06-27T01:49:36.319024+00:00",
+  "total_jobs": 4561,
   "stats": {
-    "total_companies": 2390,
+    "total_companies": 2391,
     "total_roles": 68,
     "regions": {
-      "India": 2910,
-      "Philippines": 956,
-      "Remote": 572,
+      "India": 2913,
+      "Philippines": 957,
+      "Remote": 574,
       "Unknown": 135
     },
     "sources": {
-      "Other": 3587,
-      "Greenhouse": 227,
+      "Other": 3589,
+      "Greenhouse": 229,
       "Workday": 209,
       "LinkedIn": 165,
       "Ashby": 139,
-      "iCIMS": 51,
+      "iCIMS": 52,
       "Breezy": 50,
       "Lever": 34,
-      "Workable": 29,
+      "Workable": 30,
       "SmartRecruiters": 24,
       "Indeed": 18,
       "BrassRing": 6,
@@ -35,6 +35,81 @@
     }
   },
   "jobs": [
+    {
+      "id": "634e4d9506bb",
+      "title": "Job Application for Software Engineer , Developer Success at Discord - Greenhouse",
+      "company": "Discord",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/discord/jobs/8609250002",
+      "source": "Greenhouse",
+      "description": "Software Engineer , Developer Success. San Francisco Bay Area. Apply. Discord has a highly engaged community of millions of daily active users who use ...",
+      "date": "2026-06-26",
+      "timestamp": "2026-06-26T23:45:50+00:00",
+      "fetched_at": "2026-06-27T01:49:36.297202+00:00"
+    },
+    {
+      "id": "21584918bcbe",
+      "title": "Job Application for Senior Data Engineer at Imagine Pediatrics - Greenhouse",
+      "company": "Imaginepediatrics",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/imaginepediatrics/jobs/4709050005",
+      "source": "Greenhouse",
+      "description": "Senior Data Engineer . United States (Remote). Apply. Who We Are. Imagine Pediatrics is a tech enabled, pediatrician led medical group reimagining care ...",
+      "date": "2026-06-26",
+      "timestamp": "2026-06-26T23:29:32+00:00",
+      "fetched_at": "2026-06-27T01:49:36.105056+00:00"
+    },
+    {
+      "id": "615673494f73",
+      "title": "IT Intern- Software Engineer in Remote Location | Careers at TDS Corporate",
+      "company": "TDS Corporate",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://external-telecom-teldta.icims.com/jobs/29561/it-intern-software-engineer/job",
+      "source": "iCIMS",
+      "description": "TDS Corporate is now hiring a IT Intern- Software Engineer in Remote Location. Review all of the job details and apply today!",
+      "date": "2026-06-26",
+      "timestamp": "2026-06-26T22:29:54+00:00",
+      "fetched_at": "2026-06-27T01:49:36.105882+00:00"
+    },
+    {
+      "id": "5b585d25c22d",
+      "title": "Sr Data Engineer | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.apexsystems.com/job/3034798_usa/sr-data-engineer",
+      "source": "Other",
+      "description": "We are seeking a Senior Data Engineer to design, develop, and maintain robust data pipelines and ETL/ELT processes. This role requires a candidate ...",
+      "date": "2026-06-26",
+      "timestamp": "2026-06-26T21:58:38+00:00",
+      "fetched_at": "2026-06-27T01:49:36.106368+00:00"
+    },
+    {
+      "id": "b4b1fb5554eb",
+      "title": "Software Engineer - Release Recovery - Application - Workable Jobs",
+      "company": "Release Recovery",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://apply.workable.com/release-recovery/j/26E0060A83/apply/",
+      "source": "Workable",
+      "description": "Position SummaryRelease Recovery is looking for a Software Engineer with strong full-stack experience to help design, build, and maintain digital ...",
+      "date": "2026-06-26",
+      "timestamp": "2026-06-26T21:18:01+00:00",
+      "fetched_at": "2026-06-27T01:49:36.106696+00:00"
+    },
     {
       "id": "793f0a498a0f",
       "title": "Backend Software Engineer - Universal Media - Jobs - Careers at Apple",
@@ -140,6 +215,21 @@
       "date": "2026-06-26",
       "timestamp": "2026-06-26T18:12:27+00:00",
       "fetched_at": "2026-06-26T21:10:10.431991+00:00"
+    },
+    {
+      "id": "7081405c0007",
+      "title": "Site Reliability Engineer , Apple Maps - Jobs",
+      "company": "Jobs",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200670051-0836/site-reliability-engineer-apple-maps?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Site Reliability Engineer , Apple Maps job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-06-26",
+      "timestamp": "2026-06-26T17:57:32+00:00",
+      "fetched_at": "2026-06-27T01:49:36.108543+00:00"
     },
     {
       "id": "f2b89143c5e9",
