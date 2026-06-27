@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-06-27T01:49:36.319024+00:00",
-  "total_jobs": 4561,
+  "last_updated": "2026-06-27T06:44:14.038412+00:00",
+  "total_jobs": 4564,
   "stats": {
-    "total_companies": 2391,
+    "total_companies": 2392,
     "total_roles": 68,
     "regions": {
-      "India": 2913,
+      "India": 2916,
       "Philippines": 957,
       "Remote": 574,
       "Unknown": 135
     },
     "sources": {
-      "Other": 3589,
+      "Other": 3592,
       "Greenhouse": 229,
       "Workday": 209,
       "LinkedIn": 165,
@@ -31,10 +31,25 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-06-26"
+      "latest": "2026-06-27"
     }
   },
   "jobs": [
+    {
+      "id": "7c6314e01f7c",
+      "title": "Job ID:26021371 - Software Engineer II B - GBS IND - Multiple Locations",
+      "company": "Job ID:26021371",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.bankofamerica.com/en-us/job-detail/26021371/software-engineer-ii-b-gbs-ind-multiple-locations",
+      "source": "Other",
+      "description": "Apply for the Software Engineer II B - GBS IND position (Job ID: 26021371), with openings in multiple locations, at Bank of America.",
+      "date": "2026-06-27",
+      "timestamp": "2026-06-27T01:35:41+00:00",
+      "fetched_at": "2026-06-27T06:44:13.575431+00:00"
+    },
     {
       "id": "634e4d9506bb",
       "title": "Job Application for Software Engineer , Developer Success at Discord - Greenhouse",
@@ -79,6 +94,21 @@
       "date": "2026-06-26",
       "timestamp": "2026-06-26T22:29:54+00:00",
       "fetched_at": "2026-06-27T01:49:36.105882+00:00"
+    },
+    {
+      "id": "12d930e3dbdd",
+      "title": "Software Engineer , Quality, Retail and Marcom Engineering - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200670205-3956/software-engineer-quality-retail-and-marcom-engineering?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Software Engineer , Quality, Retail and Marcom Engineering job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-06-26",
+      "timestamp": "2026-06-26T22:03:03+00:00",
+      "fetched_at": "2026-06-27T06:44:13.576600+00:00"
     },
     {
       "id": "5b585d25c22d",
@@ -154,6 +184,21 @@
       "date": "2026-06-26",
       "timestamp": "2026-06-26T19:36:52+00:00",
       "fetched_at": "2026-06-26T21:10:10.431299+00:00"
+    },
+    {
+      "id": "a4ae972afe7e",
+      "title": "AI Engineer at MassMutual",
+      "company": "MassMutual",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.massmutual.com/job/springfield/ai-engineer/724/96967351248",
+      "source": "Other",
+      "description": "AI Engineer . Springfield, Massachusetts; Boston, Massachusetts; New York, New York. Job Category Business Analysis ID R20723. Save Job Saved Apply ...",
+      "date": "2026-06-26",
+      "timestamp": "2026-06-26T19:30:19+00:00",
+      "fetched_at": "2026-06-27T06:44:13.578556+00:00"
     },
     {
       "id": "ba83ea2154ed",
