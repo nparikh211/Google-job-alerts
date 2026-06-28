@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-06-28T01:59:34.834780+00:00",
-  "total_jobs": 4605,
+  "last_updated": "2026-06-28T07:41:03.514796+00:00",
+  "total_jobs": 4609,
   "stats": {
     "total_companies": 2405,
     "total_roles": 68,
     "regions": {
       "India": 2946,
-      "Philippines": 966,
-      "Remote": 576,
+      "Philippines": 969,
+      "Remote": 577,
       "Unknown": 135
     },
     "sources": {
-      "Other": 3628,
+      "Other": 3632,
       "Greenhouse": 231,
       "Workday": 210,
       "LinkedIn": 167,
@@ -31,10 +31,55 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-06-27"
+      "latest": "2026-06-28"
     }
   },
   "jobs": [
+    {
+      "id": "f46d041e88bb",
+      "title": "Senior Software Engineer (SE3) - Rippling",
+      "company": "Rippling",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://ats.rippling.com/strongmind-inc/jobs/0cae1395-3ebc-4c6e-9d91-98bf9fbe85b0",
+      "source": "Other",
+      "description": "Job Title: Senior Software Engineer . Location: Remote (or specify if role/location-dependent) Reports to: Vice President of Engineering & AI",
+      "date": "2026-06-28",
+      "timestamp": "2026-06-28T03:20:02+00:00",
+      "fetched_at": "2026-06-28T07:41:03.493317+00:00"
+    },
+    {
+      "id": "06b1e5d64b5c",
+      "title": "Schedule \u00b7 AI Engineer World's Fair 2026",
+      "company": "Unknown Company",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.ai.engineer/worldsfair/schedule?view=canvas",
+      "source": "Other",
+      "description": "Full session schedule for AI Engineer World's Fair 2026 \u2014 June 29 - July 2, 2026, Moscone West, San Francisco, CA.",
+      "date": "2026-06-28",
+      "timestamp": "2026-06-28T02:54:30+00:00",
+      "fetched_at": "2026-06-28T07:41:03.493483+00:00"
+    },
+    {
+      "id": "d9f9444af1fb",
+      "title": "Software Engineer I - Jobs - Cox Careers",
+      "company": "Jobs - Cox Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.coxenterprises.com/en/jobs/r202679352/software-engineer-i/",
+      "source": "Other",
+      "description": "Software Engineer I \u00b7 Cox Division: Cox Automotive \u00b7 Type: Full time, Day \u00b7 Travel: Yes, 5% of the time \u00b7 Additional locations: Austin TX; Burlington VT.",
+      "date": "2026-06-27",
+      "timestamp": "2026-06-27T22:16:38+00:00",
+      "fetched_at": "2026-06-28T07:41:03.493649+00:00"
+    },
     {
       "id": "3c4ac84cfb76",
       "title": "Software engineer at a small company : r/BESalary - Reddit",
@@ -64,6 +109,21 @@
       "date": "2026-06-27",
       "timestamp": "2026-06-27T19:23:09+00:00",
       "fetched_at": "2026-06-28T01:59:34.566518+00:00"
+    },
+    {
+      "id": "87a4e6792184",
+      "title": "Software Engineer 2 in Multiple Locations - Rivian Careers",
+      "company": "Rivian Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.rivian.com/careers-home/jobs/31871",
+      "source": "Other",
+      "description": "Software Engineer 2. JOB_DESCRIPTION.SHARE.HTML. CAROUSEL_PARAGRAPH ... As a Full Stack Engineer , we want you to join our diverse, talented ...",
+      "date": "2026-06-27",
+      "timestamp": "2026-06-27T19:04:06+00:00",
+      "fetched_at": "2026-06-28T07:41:03.494316+00:00"
     },
     {
       "id": "b5c373c0b43f",
