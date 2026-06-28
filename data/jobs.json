@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-06-27T20:45:32.117140+00:00",
-  "total_jobs": 4595,
+  "last_updated": "2026-06-28T01:59:34.834780+00:00",
+  "total_jobs": 4605,
   "stats": {
-    "total_companies": 2402,
+    "total_companies": 2405,
     "total_roles": 68,
     "regions": {
-      "India": 2937,
-      "Philippines": 965,
+      "India": 2946,
+      "Philippines": 966,
       "Remote": 576,
       "Unknown": 135
     },
     "sources": {
-      "Other": 3618,
+      "Other": 3628,
       "Greenhouse": 231,
       "Workday": 210,
       "LinkedIn": 167,
@@ -36,6 +36,51 @@
   },
   "jobs": [
     {
+      "id": "3c4ac84cfb76",
+      "title": "Software engineer at a small company : r/BESalary - Reddit",
+      "company": "a small company : r/BESalary",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.reddit.com/r/BESalary/comments/1uhdfqs/software_engineer_at_a_small_company/",
+      "source": "Other",
+      "description": "Software engineer at a small company. Salary. **1. PERSONALIA**. * Age: 32. * Education: Master's degree in computer science ... Data engineer . 8. 5 ...",
+      "date": "2026-06-27",
+      "timestamp": "2026-06-27T21:32:29+00:00",
+      "fetched_at": "2026-06-28T01:59:34.813220+00:00"
+    },
+    {
+      "id": "205a336ec1c3",
+      "title": "I am interested in the thought of becoming a software engineer , but maybe for the wrong ... - Reddit",
+      "company": "Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/SoftwareEngineering/comments/1uh92xu/i_am_interested_in_the_thought_of_becoming_a/",
+      "source": "Other",
+      "description": "Need an AI Engineer role or a Data Scientist role. 11 upvotes \u00b7 9 ... Advice from Senior Software engineer . 20 upvotes \u00b7 28 comments. I'm ...",
+      "date": "2026-06-27",
+      "timestamp": "2026-06-27T19:23:09+00:00",
+      "fetched_at": "2026-06-28T01:59:34.566518+00:00"
+    },
+    {
+      "id": "b5c373c0b43f",
+      "title": "Senior Lead Software Engineer (Embedded C++), Boston, MA | DraftKings Careers",
+      "company": "DraftKings Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.draftkings.com/jobs/jr13951/senior-lead-software-engineer-embedded-cplusplus/",
+      "source": "Other",
+      "description": "Senior Lead Software Engineer (Embedded C++). Boston, MA. Engineering; Full time. a man and woman sitting on a couch with laptops. About DraftKings.",
+      "date": "2026-06-27",
+      "timestamp": "2026-06-27T18:44:09+00:00",
+      "fetched_at": "2026-06-28T01:59:34.566730+00:00"
+    },
+    {
       "id": "735031c4a4ba",
       "title": "Hacksultan is the most influential software engineer in Africa. Recognized as the most ... - LinkedIn",
       "company": "LinkedIn",
@@ -49,6 +94,21 @@
       "date": "2026-06-27",
       "timestamp": "2026-06-27T18:32:53+00:00",
       "fetched_at": "2026-06-27T20:45:32.094929+00:00"
+    },
+    {
+      "id": "60a9243a095a",
+      "title": "AI Software Engineer",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.sw.siemens.com/cambridge-gbr/ai-software-engineer/9036E56DB4EC477FBE4F46B3D9AAB90B/job/",
+      "source": "Other",
+      "description": "AI Software Engineer . Cambridge, GBR. Work Type: Onsite. Job Family: Research & Development. Req ID: 511305. Apply Now. Job Family: Software. Req ID ...",
+      "date": "2026-06-27",
+      "timestamp": "2026-06-27T18:17:30+00:00",
+      "fetched_at": "2026-06-28T01:59:34.566893+00:00"
     },
     {
       "id": "090f04ee2922",
@@ -66,6 +126,51 @@
       "fetched_at": "2026-06-27T20:45:31.879981+00:00"
     },
     {
+      "id": "c24aa9889a63",
+      "title": "Artificial Intelligence (AI) & Machine Learning Engineer - Jaheziya Careers Site - Teamtailor",
+      "company": "Jaheziya Careers Site - Teamtailor",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jaheziya.teamtailor.com/jobs/7980456-artificial-intelligence-ai-machine-learning-engineer",
+      "source": "Other",
+      "description": "Artificial Intelligence (AI) & Machine Learning Engineer \u00b7 Join us as an AI & ML Engineer to design scalable AI systems, build automated pipelines, and ...",
+      "date": "2026-06-27",
+      "timestamp": "2026-06-27T18:11:51+00:00",
+      "fetched_at": "2026-06-28T01:59:34.567385+00:00"
+    },
+    {
+      "id": "81d28ed5bd6d",
+      "title": "DevOps Lead Software Engineer - Wells Fargo",
+      "company": "Wells Fargo",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.wellsfargojobs.com/en/jobs/r-538004/devops-lead-software-engineer/?utm_source=rdb_ms",
+      "source": "Other",
+      "description": "Associate cloud engineer certification for GCP (or better GCP certification). ... Lead Machine Learning Engineer . Save Saved. SAN FRANCISCO ...",
+      "date": "2026-06-27",
+      "timestamp": "2026-06-27T17:54:46+00:00",
+      "fetched_at": "2026-06-28T01:59:34.567533+00:00"
+    },
+    {
+      "id": "6f9130ae6d98",
+      "title": "Principal Identity & SaaS Platform Engineer in New York, New York - FOX Careers",
+      "company": "FOX Careers",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.foxcareers.com/Search/JobDetail/R50032981/principal-identity-saas-platform-engineer-fox-corporation",
+      "source": "Other",
+      "description": "Principal Identity & SaaS Platform Engineer . Job Number: R50032981. Brand: Fox Corporation. Job Type: Engineering, Technology. Location Type: Hybrid.",
+      "date": "2026-06-27",
+      "timestamp": "2026-06-27T17:41:29+00:00",
+      "fetched_at": "2026-06-28T01:59:34.567714+00:00"
+    },
+    {
       "id": "acb1df06c12a",
       "title": "Data Engineer in Bangalore, India | Product and Engineering at Cisco",
       "company": "Cisco",
@@ -79,6 +184,21 @@
       "date": "2026-06-27",
       "timestamp": "2026-06-27T17:30:54+00:00",
       "fetched_at": "2026-06-27T20:45:31.880191+00:00"
+    },
+    {
+      "id": "a1ed0ca812a0",
+      "title": "DataOS Data Engineer - Careers at HP",
+      "company": "Careers at HP",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://apply.hp.com/careers/job/42342521?domain=hp.com&hl=it",
+      "source": "Other",
+      "description": "Senior Software Engineer . 4. Software Developer. 5. Senior Data Engineer ... Senior Machine Learning Engineer - AI Applications. Porto Alegre ...",
+      "date": "2026-06-27",
+      "timestamp": "2026-06-27T17:13:25+00:00",
+      "fetched_at": "2026-06-28T01:59:34.567998+00:00"
     },
     {
       "id": "418a8050a41f",
@@ -186,6 +306,21 @@
       "fetched_at": "2026-06-27T16:52:07.749873+00:00"
     },
     {
+      "id": "4a2cf68c7f5a",
+      "title": "Senior Core Java Data Engineer job - Experis USA - 402522",
+      "company": "Experis USA - 402522",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.experis.com/en/job/402522/senior-core-java-data-engineer",
+      "source": "Other",
+      "description": "Our client, a leading organization in the financial services industry, is seeking a Senior Core Java Data Engineer to join their team.",
+      "date": "2026-06-27",
+      "timestamp": "2026-06-27T12:09:32+00:00",
+      "fetched_at": "2026-06-28T01:59:34.569208+00:00"
+    },
+    {
       "id": "fae0715a6e2e",
       "title": "Software Engineer at Nox Metals | Y Combinator",
       "company": "Nox Metals",
@@ -214,6 +349,21 @@
       "date": "2026-06-27",
       "timestamp": "2026-06-27T11:52:23+00:00",
       "fetched_at": "2026-06-27T16:52:07.862511+00:00"
+    },
+    {
+      "id": "c297167b11df",
+      "title": "Sr Data Engineer , Energy Service Engineering - Tesla",
+      "company": "Tesla",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.tesla.com/careers/search/job/sr-data-engineer-energy-service-engineering-273211",
+      "source": "Other",
+      "description": "Sr Data Engineer , Energy Service Engineering. Job Category, Energy - Solar & Storage. Location, Amsterdam, Noord-Holland. Req. ID, 273211.",
+      "date": "2026-06-27",
+      "timestamp": "2026-06-27T11:39:39+00:00",
+      "fetched_at": "2026-06-28T01:59:34.569554+00:00"
     },
     {
       "id": "f9259ca25d37",
