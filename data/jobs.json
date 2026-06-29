@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-06-29T02:01:08.772689+00:00",
-  "total_jobs": 4645,
+  "last_updated": "2026-06-29T08:45:33.562537+00:00",
+  "total_jobs": 4659,
   "stats": {
-    "total_companies": 2420,
+    "total_companies": 2425,
     "total_roles": 69,
     "regions": {
-      "India": 2971,
+      "India": 2984,
       "Philippines": 977,
-      "Remote": 580,
+      "Remote": 581,
       "Unknown": 135
     },
     "sources": {
-      "Other": 3660,
+      "Other": 3673,
       "Greenhouse": 232,
-      "Workday": 210,
+      "Workday": 211,
       "LinkedIn": 170,
       "Ashby": 142,
       "iCIMS": 52,
@@ -36,6 +36,156 @@
   },
   "jobs": [
     {
+      "id": "159c59abca4a",
+      "title": "Associate Software Engineer - Myworkdayjobs.com",
+      "company": "Kaleris",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://kaleris.wd501.myworkdayjobs.com/kaleris_careers/job/Chennai/Associate-Software-Engineer_R-100596",
+      "source": "Workday",
+      "description": "Associate Software Engineer ... Kaleris is a private equity-backed software firm focused on supply chain optimization, headquartered in Atlanta, Georgia ...",
+      "date": "2026-06-29",
+      "timestamp": "2026-06-29T07:32:18+00:00",
+      "fetched_at": "2026-06-29T08:45:33.480369+00:00"
+    },
+    {
+      "id": "da264b507dc1",
+      "title": "Software Engineer (ServiceNow), BENGALURU, Karn\u0101taka | Wells Fargo",
+      "company": "Wells Fargo",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.wellsfargojobs.com/en/jobs/r-555977/software-engineer-servicenow/",
+      "source": "Other",
+      "description": "ServiceNow Senior Software Engineer . Save Saved. BENGALURU, Karn\u0101taka; Technology. ServiceNow Senior Software Engineer . Save Saved. BENGALURU, ...",
+      "date": "2026-06-29",
+      "timestamp": "2026-06-29T06:54:07+00:00",
+      "fetched_at": "2026-06-29T08:45:33.481617+00:00"
+    },
+    {
+      "id": "9dea1d581b46",
+      "title": "Cloud Engineer | Careers - Dassault Syst\u00e8mes",
+      "company": "Careers - Dassault Syst\u00e8mes",
+      "role": "Cloud Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.3ds.com/careers/jobs/cloud-engineer-548707",
+      "source": "Other",
+      "description": "Cloud Engineer \u00b7 Deep knowledge of networking fundamentals, physical and virtual system & storage infrastructure. \u00b7 Handson experience provisioning, ...",
+      "date": "2026-06-29",
+      "timestamp": "2026-06-29T04:26:48+00:00",
+      "fetched_at": "2026-06-29T08:45:33.481804+00:00"
+    },
+    {
+      "id": "a5105e66b7bc",
+      "title": "Digital Earth Pacific Platform Engineer - New Caledonia (France) - ReliefWeb",
+      "company": "New Caledonia (France) - ReliefWeb",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://reliefweb.int/job/4218336/digital-earth-pacific-platform-engineer",
+      "source": "Other",
+      "description": "Digital Earth Pacific Platform Engineer \u00b7 Provision and manage Kubernetes clusters for deploying and scaling earth observation and scientific data ...",
+      "date": "2026-06-29",
+      "timestamp": "2026-06-29T04:21:19+00:00",
+      "fetched_at": "2026-06-29T08:45:33.482039+00:00"
+    },
+    {
+      "id": "f579c6370371",
+      "title": "Electrical & Software Engineer job in Shanghai, SD, China - Wabtec Careers",
+      "company": "Wabtec Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.wabtec.com/job/electrical-and-software-engineer-in-shanghai-sd-china-jid-3196",
+      "source": "Other",
+      "description": "Electrical & Software Engineer . Salary: __vacancyopjusttionswidget ... Cloud Engineer ; Production Supervisor; Quality Engineer; Sourcing Manager ...",
+      "date": "2026-06-29",
+      "timestamp": "2026-06-29T03:47:51+00:00",
+      "fetched_at": "2026-06-29T08:45:33.482270+00:00"
+    },
+    {
+      "id": "5e3754ed2fb1",
+      "title": "Machine Learning Engineer \u2013 Modulate \u2013 Permanent contract \u2013 Fully-remote",
+      "company": "remote",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.welcometothejungle.com/en/companies/modulate/jobs/machine-learning-engineer_somerville_nyghu372",
+      "source": "Other",
+      "description": "Machine Learning Engineer . Job summary. Permanent contract ... Software & Data Engineer (H/F). Key Consulting. Permanent ...",
+      "date": "2026-06-29",
+      "timestamp": "2026-06-29T03:19:07+00:00",
+      "fetched_at": "2026-06-29T08:45:33.482477+00:00"
+    },
+    {
+      "id": "9e7bffbc85c0",
+      "title": "Software Engineer - Ag & Trade at Cargill",
+      "company": "Cargill",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cargill.com/en/job/bengaluru/software-engineer-ag-and-trade/23251/97070568368",
+      "source": "Other",
+      "description": "Software Engineer - Ag & Trade. Apply Now Save Job Remove Job. Job ID ... The ideal candidate is a hands-on full-stack engineer with strong ...",
+      "date": "2026-06-29",
+      "timestamp": "2026-06-29T02:47:06+00:00",
+      "fetched_at": "2026-06-29T08:45:33.541510+00:00"
+    },
+    {
+      "id": "baec121762fa",
+      "title": "Data Engineer III in Conshohocken, Pennsylvania, United States of America - Cencora Careers",
+      "company": "Cencora Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cencora.com/us/en/job/R2611037/Engineer-Data-Engineer-III",
+      "source": "Other",
+      "description": "Apply for Engineer \u2013 Data Engineer III job with Cencora in Conshohocken, Pennsylvania, United States of America. Information Technology at Cencora.",
+      "date": "2026-06-29",
+      "timestamp": "2026-06-29T02:33:18+00:00",
+      "fetched_at": "2026-06-29T08:45:33.482637+00:00"
+    },
+    {
+      "id": "33b477d03c8c",
+      "title": "Distinguished AI Engineer - Elevance Health",
+      "company": "Elevance Health",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.elevancehealth.com/distinguished-ai-engineer/job/FDE0ACA97FA46C127DBF35884F294008",
+      "source": "Other",
+      "description": "Distinguished AI Engineer . Location: CA-WALNUT CREEK, 2121 N CALIFORNIA BLVD, 7TH FL, United States of America. Job Reference: JR195741. Date Posted ...",
+      "date": "2026-06-29",
+      "timestamp": "2026-06-29T02:12:11+00:00",
+      "fetched_at": "2026-06-29T08:45:33.482827+00:00"
+    },
+    {
+      "id": "6082d5a99d01",
+      "title": "Senior/Lead Machine Learning Data Engineer in United States | Progressive Careers",
+      "company": "Progressive Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.progressive.com/jobs/17740811-senior-slash-lead-machine-learning-data-engineer/",
+      "source": "Other",
+      "description": "Senior/Lead Machine Learning Data Engineer in United States. ... Data focused software engineer with experience integrating cloud ...",
+      "date": "2026-06-29",
+      "timestamp": "2026-06-29T01:52:33+00:00",
+      "fetched_at": "2026-06-29T08:45:33.483075+00:00"
+    },
+    {
       "id": "0fc0892f297d",
       "title": "Senior Software Engineer , Chicago, Illinois, United States of America | Caterpillar Careers",
       "company": "Caterpillar Careers",
@@ -49,6 +199,21 @@
       "date": "2026-06-29",
       "timestamp": "2026-06-29T00:35:38+00:00",
       "fetched_at": "2026-06-29T02:01:08.641120+00:00"
+    },
+    {
+      "id": "d189d436c4d9",
+      "title": "Staff Backend Engineer - ChargePoint",
+      "company": "ChargePoint",
+      "role": "Backend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.chargepoint.com/about/opportunities/staff-backend-engineer",
+      "source": "Other",
+      "description": "All-new DC fast charging system engineered to solve the toughest challenges in high-power deployments. Express 280.",
+      "date": "2026-06-29",
+      "timestamp": "2026-06-29T00:28:02+00:00",
+      "fetched_at": "2026-06-29T08:45:33.483527+00:00"
     },
     {
       "id": "30328fe5fb78",
@@ -81,6 +246,21 @@
       "fetched_at": "2026-06-29T02:01:08.749888+00:00"
     },
     {
+      "id": "9a7de0e76c57",
+      "title": "Staff Software Engineer Salary Guide 2026 - KORE1",
+      "company": "KORE1",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.kore1.com/staff-software-engineer-salary-guide/",
+      "source": "Other",
+      "description": "Data Scientist & Data Engineer Staffing Solutions DevOps Engineer Staffing Software Engineer ... platform engineer all carry the same rung but ...",
+      "date": "2026-06-28",
+      "timestamp": "2026-06-28T23:21:56+00:00",
+      "fetched_at": "2026-06-29T08:45:33.484137+00:00"
+    },
+    {
       "id": "f7b0826a51f9",
       "title": "Test and Inspection Embedded Software Engineer -Entry Level at Boeing",
       "company": "Boeing",
@@ -96,6 +276,21 @@
       "fetched_at": "2026-06-29T02:01:08.641419+00:00"
     },
     {
+      "id": "3932a3d3e01d",
+      "title": "If you're a software engineer in healthcare, I bet you that we're going to be your favorite. Ship ...",
+      "company": "we're going to be your favorite. Ship ...",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://x.com/nikillinit/status/2071254273745125527",
+      "source": "Other",
+      "description": "Nikhil Krishnan (@nikillinit). 14 likes. If you're a software engineer in healthcare, I bet you that we're going to be your favorite.",
+      "date": "2026-06-28",
+      "timestamp": "2026-06-28T22:28:42+00:00",
+      "fetched_at": "2026-06-29T08:45:33.484458+00:00"
+    },
+    {
       "id": "a9d251847ba8",
       "title": "Senior Software Engineer - Air Traffic Solutions (Onsite) - RTX Careers",
       "company": "Air Traffic Solutions (Onsite) - RTX Careers",
@@ -109,6 +304,21 @@
       "date": "2026-06-28",
       "timestamp": "2026-06-28T21:04:41+00:00",
       "fetched_at": "2026-06-29T02:01:08.641903+00:00"
+    },
+    {
+      "id": "566c560e5fb2",
+      "title": "AI/ML Engineer - Careers at Peraton",
+      "company": "Peraton",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.careers.peraton.com/jobs/ai-ml-engineer-herndon-virginia-168152-jobs--information-technology--",
+      "source": "Other",
+      "description": "Peraton Labs is seeking an AI/ ML Engineer to support the development of AI-enabled products and technical capabilities for the FAA BNATCS Program.",
+      "date": "2026-06-28",
+      "timestamp": "2026-06-28T21:03:40+00:00",
+      "fetched_at": "2026-06-29T08:45:33.485152+00:00"
     },
     {
       "id": "2adcec1f52b1",
