@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-06-29T18:00:59.304205+00:00",
-  "total_jobs": 4696,
+  "last_updated": "2026-06-29T21:14:13.162827+00:00",
+  "total_jobs": 4713,
   "stats": {
-    "total_companies": 2439,
+    "total_companies": 2443,
     "total_roles": 69,
     "regions": {
-      "India": 3012,
-      "Philippines": 981,
-      "Remote": 586,
+      "India": 3023,
+      "Philippines": 982,
+      "Remote": 591,
       "Unknown": 135
     },
     "sources": {
-      "Other": 3703,
-      "Greenhouse": 232,
+      "Other": 3718,
+      "Greenhouse": 233,
       "Workday": 211,
-      "LinkedIn": 173,
+      "LinkedIn": 174,
       "Ashby": 143,
       "iCIMS": 52,
       "Breezy": 50,
@@ -36,6 +36,216 @@
   },
   "jobs": [
     {
+      "id": "eb8a325263d7",
+      "title": "Senior Data Engineer - Prudent Technologies and Consulting - Hybrid in Glendale, CA, US",
+      "company": "Prudent Technologies and Consulting - Hybrid in Glendale, CA, US",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.dice.com/job-detail/5ae16092-f7a5-4c87-8b90-f9e7bac9b3c2",
+      "source": "Other",
+      "description": "Data Engineer . DBT. AWS. S3. Lambda. SNS. Airflow. Python. OLTP. Summary. Role: Senior Data Engineer . Location: Glendale, CA (4 Days Work From Office).",
+      "date": "2026-06-29",
+      "timestamp": "2026-06-29T20:30:41+00:00",
+      "fetched_at": "2026-06-29T21:14:12.982640+00:00"
+    },
+    {
+      "id": "60d0badae266",
+      "title": "Software Engineer (React/Node) - Piper Companies",
+      "company": "Piper Companies",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.pipercompanies.com/details/168575/software_engineer_reactnode",
+      "source": "Other",
+      "description": "Software Engineer (React/Node). Remote, North ... full stack engineer , web applications, API development, modern frontend, backend development.",
+      "date": "2026-06-29",
+      "timestamp": "2026-06-29T20:23:57+00:00",
+      "fetched_at": "2026-06-29T21:14:12.982846+00:00"
+    },
+    {
+      "id": "d5863d10bc1e",
+      "title": "Data Engineer - DataStage ETL I | Everforth Apex",
+      "company": "DataStage ETL I | Everforth Apex",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.apexsystems.com/job/3040310_usa/data-engineer---datastage-etl-i",
+      "source": "Other",
+      "description": "Job#: 3040310. Job Description: Job Title: Data Engineer - DataStage ETL I. Location: Cincinnati, OH. Length: 6 months. Pay Range: $31-$33.",
+      "date": "2026-06-29",
+      "timestamp": "2026-06-29T20:01:29+00:00",
+      "fetched_at": "2026-06-29T21:14:12.983022+00:00"
+    },
+    {
+      "id": "5404ed5e6ade",
+      "title": "Job Opening - Full Stack Engineer - Salt Lake City, UT | Randstad USA",
+      "company": "Job Opening",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.randstadusa.com/jobs/4/1338025/full-stack-engineer_salt-lake-city/",
+      "source": "Other",
+      "description": "Explore and apply for Full Stack Engineer jobs in Salt Lake City, Utah with Randstad. Find the perfect job for you today!",
+      "date": "2026-06-29",
+      "timestamp": "2026-06-29T19:31:02+00:00",
+      "fetched_at": "2026-06-29T21:14:12.983178+00:00"
+    },
+    {
+      "id": "f6a1b73b4751",
+      "title": "Platform Engineer Job Details - Trulieve | Careers",
+      "company": "Trulieve | Careers",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.trulieve.com/job/Tallahassee-Platform-Engineer-FL-32312/1404022200/",
+      "source": "Other",
+      "description": "Trulieve seeks a Platform Engineer to build, automate, and operate the cloud infrastructure and delivery pipelines that power our enterprise. This is ...",
+      "date": "2026-06-29",
+      "timestamp": "2026-06-29T19:10:39+00:00",
+      "fetched_at": "2026-06-29T21:14:12.983358+00:00"
+    },
+    {
+      "id": "f173abeacb98",
+      "title": "Job Application for .NET Software Engineer II at Precision AQ - Greenhouse",
+      "company": "Precisionaq",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/precisionaq/jobs/6103109004",
+      "source": "Greenhouse",
+      "description": ".NET Software Engineer II. Remote, United States. Apply. Are you passionate about technology and building advanced solutions that make a real-world ...",
+      "date": "2026-06-29",
+      "timestamp": "2026-06-29T18:51:58+00:00",
+      "fetched_at": "2026-06-29T21:14:12.983468+00:00"
+    },
+    {
+      "id": "cf65bc5e10fa",
+      "title": "Senior Software Engineer - 2373638 at UnitedHealth Group",
+      "company": "UnitedHealth Group",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.unitedhealthgroup.com/job/eden-prairie/senior-software-engineer-2373638/34088/97098393712",
+      "source": "Other",
+      "description": "EMPLOYER: Optum Services, Inc. JOB TITLE: Senior Software Engineer . LOCATION: 1 Optum Circle, Eden Prairie, MN 55344 (Telecommuting from anywhere in ...",
+      "date": "2026-06-29",
+      "timestamp": "2026-06-29T18:42:28+00:00",
+      "fetched_at": "2026-06-29T21:14:12.983634+00:00"
+    },
+    {
+      "id": "1481b36ddbbb",
+      "title": "Software Engineer , Discover Recommendations and AI Feed \u2014 Google Careers",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/84616918131974854-software-engineer-discover-recommendations-and-ai-feed?q=%22Software+Engineer%22",
+      "source": "Other",
+      "description": "Senior Software Engineer , Eye Tracking Core. San Jose, CA, USA \u00b7 Senior Software Engineer , Control Plane Network. Bengaluru, Karnataka, India \u00b7 Senior ...",
+      "date": "2026-06-29",
+      "timestamp": "2026-06-29T18:37:07+00:00",
+      "fetched_at": "2026-06-29T21:14:12.984087+00:00"
+    },
+    {
+      "id": "124e66efb221",
+      "title": "Open Role \u2014 Staff Software Engineer , Data Engineering | Ripple",
+      "company": "Ripple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ripple.com/careers/all-jobs/job/8030778/?gh_jid=8030778",
+      "source": "Other",
+      "description": "As a Staff Software Engineer on the Data Engineering team, you set the technical direction for the Caspian Data Platform \u2014 Ripple's centralized ...",
+      "date": "2026-06-29",
+      "timestamp": "2026-06-29T18:24:44+00:00",
+      "fetched_at": "2026-06-29T21:14:12.984253+00:00"
+    },
+    {
+      "id": "c21a5942288b",
+      "title": "Open Role \u2014 Staff Software Engineer , Data Engineering | Ripple",
+      "company": "Ripple",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://ripple.com/careers/all-jobs/job/8030778?gh_jid=8030778",
+      "source": "Other",
+      "description": "As a Staff Software Engineer on the Data Engineering team, you set the technical direction for the Caspian Data Platform \u2014 Ripple's centralized ...",
+      "date": "2026-06-29",
+      "timestamp": "2026-06-29T18:24:44+00:00",
+      "fetched_at": "2026-06-29T21:14:13.141624+00:00"
+    },
+    {
+      "id": "f75eb9af1206",
+      "title": "ETL Data Engineer | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.apexsystems.com/job/3040229_usa/etl-data-engineer",
+      "source": "Other",
+      "description": "ETL Data Engineer \u00b7 Work with relational databases, specifically Oracle Exadata. Apply knowledge of Data Warehouse, Data Mart, Data Modeling, and ...",
+      "date": "2026-06-29",
+      "timestamp": "2026-06-29T18:18:28+00:00",
+      "fetched_at": "2026-06-29T21:14:12.984395+00:00"
+    },
+    {
+      "id": "8abc2a4041ae",
+      "title": "SRE/ DevOps Engineer - Signify Technology",
+      "company": "Signify Technology",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.signifytechnology.com/jobs/SRE-DevOps-Engineer-20960/",
+      "source": "Other",
+      "description": "SRE/ DevOps Engineer . Location ... Location. US Remote, United States. Salary. $300,000 - $325,000 - Per Annum. View job \u00b7 Freelance Full-Stack Engineer .",
+      "date": "2026-06-29",
+      "timestamp": "2026-06-29T17:58:42+00:00",
+      "fetched_at": "2026-06-29T21:14:12.984712+00:00"
+    },
+    {
+      "id": "14ef7d9af14a",
+      "title": "Data Engineer - Cutsforth, LLC - Career Page",
+      "company": "Cutsforth, LLC - Career Page",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.cutsforth.com/apply/Sd1gkoAl5I/Data-Engineer",
+      "source": "Other",
+      "description": "Role Information: Job Title: Data Engineer ; Work Location: Fully remote position, home office; Employment Type: Full-time; Employment Status: ...",
+      "date": "2026-06-29",
+      "timestamp": "2026-06-29T17:53:20+00:00",
+      "fetched_at": "2026-06-29T21:14:12.984858+00:00"
+    },
+    {
+      "id": "deae4d22ddd6",
+      "title": "Senior Staff Software Engineer , Configuration & Coordination - Pinterest Careers",
+      "company": "Pinterest Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.pinterestcareers.com/jobs/7679640/senior-staff-software-engineer-configuration-coordination/?gh_jid=7679640",
+      "source": "Other",
+      "description": "As a Senior Staff Software Engineer (IC17), you'll own the end-to-end technical strategy and long-term vision for our configuration and coordination ...",
+      "date": "2026-06-29",
+      "timestamp": "2026-06-29T17:34:58+00:00",
+      "fetched_at": "2026-06-29T21:14:12.985081+00:00"
+    },
+    {
       "id": "5e3eb305a567",
       "title": "Marina Rubin - Sr Lead Software Engineer (ON-SITE) - LinkedIn",
       "company": "Marina Rubin",
@@ -51,6 +261,21 @@
       "fetched_at": "2026-06-29T18:00:59.282568+00:00"
     },
     {
+      "id": "83a62d52a2fa",
+      "title": "Software Engineer , System Experience - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200607406-0836/software-engineer-system-experience?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Software Engineer , System Experience job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-06-29",
+      "timestamp": "2026-06-29T17:14:12+00:00",
+      "fetched_at": "2026-06-29T21:14:12.985237+00:00"
+    },
+    {
       "id": "52ea083f023c",
       "title": "Data Engineer - THG",
       "company": "THG",
@@ -64,6 +289,36 @@
       "date": "2026-06-29",
       "timestamp": "2026-06-29T17:11:31+00:00",
       "fetched_at": "2026-06-29T18:00:59.179075+00:00"
+    },
+    {
+      "id": "c99e81fcab73",
+      "title": "Goliath Partners hiring Full Stack Engineer in New York City Metropolitan Area | LinkedIn",
+      "company": "LinkedIn",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/full-stack-engineer-at-goliath-partners-4434715445",
+      "source": "LinkedIn",
+      "description": "Fullstack Engineer . Medal. New York, NY $180,000 - $275,000 1 week ago ... Senior Software Engineer jobs. 78,145 open jobs \u00b7 PHP Developer jobs.",
+      "date": "2026-06-29",
+      "timestamp": "2026-06-29T17:03:12+00:00",
+      "fetched_at": "2026-06-29T21:14:12.985538+00:00"
+    },
+    {
+      "id": "d983b3553ff9",
+      "title": "Software Engineer II - Backend APIs and Services Job Details | CNH",
+      "company": "Backend APIs and Services Job Details | CNH",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://join.cnh.com/job/Software-Engineer-II-Backend-APIs-and-Services/4823-en_US",
+      "source": "Other",
+      "description": "... Senior Software Engineer - Identity and Authentication. Sioux Falls, US. Hydraulic Design Engineer. Fargo, US. Senior Software Engineer - SRE Focus.",
+      "date": "2026-06-29",
+      "timestamp": "2026-06-29T16:44:58+00:00",
+      "fetched_at": "2026-06-29T21:14:12.985911+00:00"
     },
     {
       "id": "8cefc1e92d11",
