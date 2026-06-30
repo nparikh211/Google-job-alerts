@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-06-29T21:14:13.162827+00:00",
-  "total_jobs": 4713,
+  "last_updated": "2026-06-30T01:54:49.794231+00:00",
+  "total_jobs": 4724,
   "stats": {
-    "total_companies": 2443,
-    "total_roles": 69,
+    "total_companies": 2446,
+    "total_roles": 70,
     "regions": {
-      "India": 3023,
-      "Philippines": 982,
-      "Remote": 591,
+      "India": 3031,
+      "Philippines": 983,
+      "Remote": 593,
       "Unknown": 135
     },
     "sources": {
-      "Other": 3718,
-      "Greenhouse": 233,
+      "Other": 3728,
+      "Greenhouse": 234,
       "Workday": 211,
       "LinkedIn": 174,
       "Ashby": 143,
@@ -31,10 +31,115 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-06-29"
+      "latest": "2026-06-30"
     }
   },
   "jobs": [
+    {
+      "id": "78616da4aeea",
+      "title": "Hiring an ( AI) Engineer in 2026 : r/ITManagers - Reddit",
+      "company": "Reddit",
+      "role": "Hiring an ( AI) Engineer in 2026 : r/ITManagers - Reddit",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/ITManagers/comments/1uj91iy/hiring_an_ai_engineer_in_2026/",
+      "source": "Other",
+      "description": "AI ENGINEER ROLE \u00b7 r/ProgrammingBondha - AI ENGINEER ROLE. 211 upvotes ... Machine Learning Engineer . 17 upvotes \u00b7 15 comments. Community Info ...",
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T00:09:03+00:00",
+      "fetched_at": "2026-06-30T01:54:49.598389+00:00"
+    },
+    {
+      "id": "3e5ea0a9a9e4",
+      "title": "AI Engineer Job Details | Terumo BCT, Inc.",
+      "company": "Terumo BCT, Inc.",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.terumobct.com/job/Lakewood-AI-Engineer-CO-80123/1404165600/",
+      "source": "Other",
+      "description": "AI Engineer \u00b7 Participates in evaluation of tools and approaches that improve engineering productivity and operational reliability of AI systems.",
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T00:07:36+00:00",
+      "fetched_at": "2026-06-30T01:54:49.598639+00:00"
+    },
+    {
+      "id": "6cd1a286abb0",
+      "title": "Staff Software Engineer , Service Communications - Pinterest Careers",
+      "company": "Pinterest Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.pinterestcareers.com/jobs/7990086/staff-software-engineer-service-communications/?gh_jid=7990086",
+      "source": "Other",
+      "description": "Staff Software Engineer , Service Communications. San Francisco / Remote ... Staff Machine Learning Engineer . Save Saved. San Francisco + 1 other ...",
+      "date": "2026-06-29",
+      "timestamp": "2026-06-29T22:58:06+00:00",
+      "fetched_at": "2026-06-30T01:54:49.599166+00:00"
+    },
+    {
+      "id": "bb88e1aeb1b3",
+      "title": "Machine Learning Engineer / AI Engineer | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.apexsystems.com/job/3038483_usa/machine-learning-engineerai-engineer",
+      "source": "Other",
+      "description": "Machine Learning Engineer / AI Engineer . Apply. Job#: 3038483. Job Description: AI Application Developer / Python Engineer. Location: Hybrid. Onsite ...",
+      "date": "2026-06-29",
+      "timestamp": "2026-06-29T22:55:40+00:00",
+      "fetched_at": "2026-06-30T01:54:49.599340+00:00"
+    },
+    {
+      "id": "2e69eca17c00",
+      "title": "Senior Software Engineer in Hyderabad, India | Principal Global Services",
+      "company": "Principal Global Services",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.principal.com/IN-talent/jobs/51622?lang=en-us",
+      "source": "Other",
+      "description": "IN - Principal Careers | Talent Community Interest Form is hiring a Senior Software Engineer in Hyderabad, India. Review all of the job details ...",
+      "date": "2026-06-29",
+      "timestamp": "2026-06-29T22:11:30+00:00",
+      "fetched_at": "2026-06-30T01:54:49.599524+00:00"
+    },
+    {
+      "id": "9941a5a14ad6",
+      "title": "Software Engineer , C++, Level 5 (Fixed Term) - Snap Inc. Careers",
+      "company": "Snap Inc. Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.snap.com/job?id=R0045981",
+      "source": "Other",
+      "description": "Software Engineer , C++, Level 5 (Fixed Term) \u00b7 Design, develop, and maintain a cross-platform, high-performance graphics rendering engine to make ...",
+      "date": "2026-06-29",
+      "timestamp": "2026-06-29T20:51:28+00:00",
+      "fetched_at": "2026-06-30T01:54:49.773275+00:00"
+    },
+    {
+      "id": "8b4343dd07ab",
+      "title": "Job Application for Software Engineer - Engineering Productivity at Clover Health",
+      "company": "Cloverhealth",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/cloverhealth/jobs/8031845",
+      "source": "Greenhouse",
+      "description": "Software Engineer - Engineering Productivity. Remote - Canada; Remote - USA. Apply. At Counterpart Health, we are transforming healthcare and ...",
+      "date": "2026-06-29",
+      "timestamp": "2026-06-29T20:50:31+00:00",
+      "fetched_at": "2026-06-30T01:54:49.599629+00:00"
+    },
     {
       "id": "eb8a325263d7",
       "title": "Senior Data Engineer - Prudent Technologies and Consulting - Hybrid in Glendale, CA, US",
@@ -81,6 +186,21 @@
       "fetched_at": "2026-06-29T21:14:12.983022+00:00"
     },
     {
+      "id": "ba53978610ef",
+      "title": "Detroit Defense - AI Engineer - Paylocity",
+      "company": "Detroit Defense",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://recruiting.paylocity.com/recruiting/jobs/Details/4288627/Ricardo-Defense/AI-Engineer",
+      "source": "Other",
+      "description": "The AI Engineer plays a pivotal role in advancing Detroit Defense's mission across the Department of Defense (DoD) by designing, building, and ...",
+      "date": "2026-06-29",
+      "timestamp": "2026-06-29T19:49:44+00:00",
+      "fetched_at": "2026-06-30T01:54:49.600468+00:00"
+    },
+    {
       "id": "5404ed5e6ade",
       "title": "Job Opening - Full Stack Engineer - Salt Lake City, UT | Randstad USA",
       "company": "Job Opening",
@@ -94,6 +214,21 @@
       "date": "2026-06-29",
       "timestamp": "2026-06-29T19:31:02+00:00",
       "fetched_at": "2026-06-29T21:14:12.983178+00:00"
+    },
+    {
+      "id": "a013d6ef762e",
+      "title": "AI Platform Engineer at MassMutual",
+      "company": "MassMutual",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.massmutual.com/job/boston/ai-platform-engineer/724/97098571888",
+      "source": "Other",
+      "description": "Job Description. AI Platform Engineer | AI Platform Engineering. Full-Time Hybrid Onsite (3 days/week in office). The Opportunity. MassMutual's ...",
+      "date": "2026-06-29",
+      "timestamp": "2026-06-29T19:19:31+00:00",
+      "fetched_at": "2026-06-30T01:54:49.600750+00:00"
     },
     {
       "id": "f6a1b73b4751",
@@ -141,6 +276,21 @@
       "fetched_at": "2026-06-29T21:14:12.983634+00:00"
     },
     {
+      "id": "48db3a33935b",
+      "title": "Data Engineer at UnitedHealth Group",
+      "company": "UnitedHealth Group",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.unitedhealthgroup.com/job/eden-prairie/data-engineer/34088/97098395056",
+      "source": "Other",
+      "description": "Data Engineer ; Requisition number: 2373853 ; Job category: Technology ; Primary location: Eden Prairie, MN ; Date posted: 06/29/2026 ; Overtime status: ...",
+      "date": "2026-06-29",
+      "timestamp": "2026-06-29T18:42:28+00:00",
+      "fetched_at": "2026-06-30T01:54:49.601142+00:00"
+    },
+    {
       "id": "1481b36ddbbb",
       "title": "Software Engineer , Discover Recommendations and AI Feed \u2014 Google Careers",
       "company": "Unknown Company",
@@ -154,6 +304,21 @@
       "date": "2026-06-29",
       "timestamp": "2026-06-29T18:37:07+00:00",
       "fetched_at": "2026-06-29T21:14:12.984087+00:00"
+    },
+    {
+      "id": "3d2c8cfd4396",
+      "title": "Software Engineer , Global Banking Loans | UBS - Experienced professionals - job boards",
+      "company": "UBS - Experienced professionals - job boards",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=347236",
+      "source": "Other",
+      "description": "Software Engineer , Global Banking Loans. United States - New Jersey. Information Technology (IT). Group Functions. Job Reference #. 339899BR. City.",
+      "date": "2026-06-29",
+      "timestamp": "2026-06-29T18:33:07+00:00",
+      "fetched_at": "2026-06-30T01:54:49.601840+00:00"
     },
     {
       "id": "124e66efb221",
