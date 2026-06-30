@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-06-30T17:43:56.673466+00:00",
-  "total_jobs": 4752,
+  "last_updated": "2026-06-30T21:20:13.649353+00:00",
+  "total_jobs": 4769,
   "stats": {
-    "total_companies": 2461,
-    "total_roles": 70,
+    "total_companies": 2469,
+    "total_roles": 71,
     "regions": {
-      "India": 3053,
-      "Philippines": 987,
+      "India": 3067,
+      "Philippines": 990,
       "Remote": 595,
       "Unknown": 135
     },
     "sources": {
-      "Other": 3748,
-      "Greenhouse": 236,
+      "Other": 3761,
+      "Greenhouse": 237,
       "Workday": 212,
-      "LinkedIn": 174,
-      "Ashby": 143,
+      "LinkedIn": 175,
+      "Ashby": 144,
       "iCIMS": 54,
-      "Breezy": 51,
+      "Breezy": 52,
       "Lever": 34,
       "Workable": 33,
       "SmartRecruiters": 26,
@@ -36,6 +36,246 @@
   },
   "jobs": [
     {
+      "id": "174a7094d2bc",
+      "title": "Software Engineer , SWE Program Tools - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200670451-0836/software-engineer-swe-program-tools?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Software Engineer , SWE Program Tools job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T20:05:39+00:00",
+      "fetched_at": "2026-06-30T21:20:13.251846+00:00"
+    },
+    {
+      "id": "bd7af57c09cf",
+      "title": "Machine Learning Engineer - Intelligent Quality Systems - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200670335-0836/machine-learning-engineer-intelligent-quality-systems?team=MLAI",
+      "source": "Other",
+      "description": "Apply for a Machine Learning Engineer - Intelligent Quality Systems job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T20:04:55+00:00",
+      "fetched_at": "2026-06-30T21:20:13.252100+00:00"
+    },
+    {
+      "id": "3d8234215923",
+      "title": "Software Engineer , Intelligence Orchestration, Proactive Intelligence - Jobs",
+      "company": "Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200670440-0836/software-engineer-intelligence-orchestration-proactive-intelligence?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Software Engineer , Intelligence Orchestration, Proactive Intelligence job at Apple. Read about the role and find out if it's right for ...",
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T19:57:42+00:00",
+      "fetched_at": "2026-06-30T21:20:13.626851+00:00"
+    },
+    {
+      "id": "6dcc78bfe157",
+      "title": "AI Engineer - Kargo",
+      "company": "Kargo",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.kargo.com/careers/5070452007",
+      "source": "Other",
+      "description": "AI Engineer . Apply. New York, New York. Who We Are. Kargo creates powerful moments of connection between brands and consumers to build businesses ...",
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T19:19:43+00:00",
+      "fetched_at": "2026-06-30T21:20:13.252572+00:00"
+    },
+    {
+      "id": "7d15c129c701",
+      "title": "Senior Software Engineer - Static Analysis",
+      "company": "Static Analysis",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/kai-cyber-inc/jobs/4d38969b-fd16-4de6-979c-4514c88ee0c5",
+      "source": "Other",
+      "description": "Senior Software Engineer - Static Analysis \u00b7 Well-funded: $125M raised, with the capital, runway, and resolve to rebuild cybersecurity from first ...",
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T18:44:45+00:00",
+      "fetched_at": "2026-06-30T21:20:13.252762+00:00"
+    },
+    {
+      "id": "8fb281a5d255",
+      "title": "AI Engineer - Clinical Communication & Workflow Systems Job Details - Ametek Careers",
+      "company": "Clinical Communication & Workflow Systems Job Details - Ametek Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ametek.com/job/Mount-Prospect-AI-Engineer-Clinical-Communication-&-Workflow-Systems-IL-60056/1404433900/",
+      "source": "Other",
+      "description": "Job Description: Your Impact: Join Rauland as an AI Engineer and play a pivotal role in shaping the future of intelligent healthcare communication ...",
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T18:34:03+00:00",
+      "fetched_at": "2026-06-30T21:20:13.253069+00:00"
+    },
+    {
+      "id": "ab3bed14fac1",
+      "title": "Software Engineer II at Bear Robotics",
+      "company": "Bear Robotics",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://bear-robotics.breezy.hr/p/8b874062a2d0-software-engineer-ii",
+      "source": "Breezy",
+      "description": "Job Title: Software Engineer IIDepartment: EngineeringJob Level: L4FLSA: Exempt Job Summary: This position will play a significant role in ...",
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T18:32:09+00:00",
+      "fetched_at": "2026-06-30T21:20:13.627843+00:00"
+    },
+    {
+      "id": "44b8e6465530",
+      "title": "Job Application for Senior/Staff Software Engineer , Fullstack (NARA) at Skylight",
+      "company": "Skylighthq",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/skylighthq/jobs/4710410005",
+      "source": "Greenhouse",
+      "description": "Software Engineer I: $120,000\u2013$140,000; Software Engineer II: $135,000\u2013$160,000; Senior Software Engineer : $150,000\u2013$185,000; Staff Software Engineer ...",
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T18:16:44+00:00",
+      "fetched_at": "2026-06-30T21:20:13.253353+00:00"
+    },
+    {
+      "id": "3205de0e4068",
+      "title": "Senior Software Engineer , Enterprise Products in United States | GitHub, Inc.",
+      "company": "GitHub, Inc.",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.github.careers/careers-home/jobs/5527?lang=en-us",
+      "source": "Other",
+      "description": "As a Senior Software Engineer on the GitHub Enterprise Cloud Platform team, you will build and operate the infrastructure and automation that powers ...",
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T18:15:03+00:00",
+      "fetched_at": "2026-06-30T21:20:13.253509+00:00"
+    },
+    {
+      "id": "7bff3c315e94",
+      "title": "Software Engineer I in Utah, United States - InComm Payments Careers",
+      "company": "InComm Payments Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.incommpayments.com/jobs/21057?lang=en-us",
+      "source": "Other",
+      "description": "InComm Payments is hiring a Software Engineer I in Utah, United States. Review all of the job details and apply today!",
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T18:05:43+00:00",
+      "fetched_at": "2026-06-30T21:20:13.253655+00:00"
+    },
+    {
+      "id": "0923b7daf2d3",
+      "title": "What is a realistic salary expectation for a graduate software engineer in London right now?",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/cscareerquestionsuk/comments/1ujj83m/what_is_a_realistic_salary_expectation_for_a/",
+      "source": "Other",
+      "description": "Senior software engineer with 12 years of experience but still a below average developer. 48. 59. What's the general cynicism around wanting to get ...",
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T18:02:04+00:00",
+      "fetched_at": "2026-06-30T21:20:13.253904+00:00"
+    },
+    {
+      "id": "6e47c46e5cbf",
+      "title": "AWS Data Engineer at Whippany, NJ/ Wilmington, DE (Hybrid Onsite) - Dice",
+      "company": "Whippany, NJ/ Wilmington, DE",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.dice.com/job-detail/d4ffa16d-413b-4499-81be-949d58b55c7e",
+      "source": "Other",
+      "description": "AWS Devops Engineer (Hybrid Onsite - W2 Contract Only). Hybrid in Woodbridge Township, New Jersey. \u2022. 19d ago. Job Title : AWS Cloud Engineer Location ...",
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T17:47:59+00:00",
+      "fetched_at": "2026-06-30T21:20:13.254071+00:00"
+    },
+    {
+      "id": "30f58c767a41",
+      "title": "Software Engineer Student Intern-Fall 2026 - CIPHER - Atlanta, Georgia, United States",
+      "company": "Fall 2026 - CIPHER - Atlanta, Georgia, United States",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.gtri.gatech.edu/jobs/software-engineer-student-intern-fall-2026-cipher-atlanta-georgia-united-states",
+      "source": "Other",
+      "description": "> Software Engineer Student Intern-Fall 2026 - CIPHER - Atlanta ... Machine Learning Engineer starting Fall 2026. Embedded Systems Cyber ...",
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T17:47:11+00:00",
+      "fetched_at": "2026-06-30T21:20:13.254381+00:00"
+    },
+    {
+      "id": "3aa2d71a7baf",
+      "title": "Principal Platform Software Engineer - Oracle Careers",
+      "company": "Oracle Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.oracle.com/en/sites/jobsearch/job/338504/?location=United+States&locationId=300000000149325&utm_source=Accel+job+board&utm_medium=getro.com&gh_src=Accel+job+board",
+      "source": "Other",
+      "description": "Principal Platform Software Engineer . United States. Job Identification 338504; Job Category Product and Research; Posting Date 06/29/2026, 08:29 AM ...",
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T17:23:14+00:00",
+      "fetched_at": "2026-06-30T21:20:13.254579+00:00"
+    },
+    {
+      "id": "5a641130bc27",
+      "title": "Harald Kirschner's Post - LinkedIn",
+      "company": "Unknown Company",
+      "role": "Harald Kirschner's Post - LinkedIn",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/digitarald_back-speaking-at-ai-engineer-world-fair-this-activity-7477430528640446464-XPgm",
+      "source": "LinkedIn",
+      "description": "Back speaking at AI Engineer World Fair this week \u2014 talking about what breaks after the agents start working. A ~40-person team ships VS Code ...",
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T17:20:48+00:00",
+      "fetched_at": "2026-06-30T21:20:13.255199+00:00"
+    },
+    {
+      "id": "69d56e5072bb",
+      "title": "Job Opening - Data Engineer (ETL) - Research Triangle Park, NC | Randstad USA",
+      "company": "Job Opening",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.randstadusa.com/jobs/4/1338065/data-engineer-etl_research-triangle-park/",
+      "source": "Other",
+      "description": "Explore and apply for Data Engineer (ETL) jobs in Research Triangle Park, North Carolina with Randstad ... cloud engineer . research triangle park, north ...",
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T17:07:47+00:00",
+      "fetched_at": "2026-06-30T21:20:13.629322+00:00"
+    },
+    {
       "id": "c2ba455217fe",
       "title": "Senior Software Engineer , Any location, United States | Coalition, Inc.",
       "company": "Coalition, Inc.",
@@ -49,6 +289,21 @@
       "date": "2026-06-30",
       "timestamp": "2026-06-30T17:03:40+00:00",
       "fetched_at": "2026-06-30T17:43:56.513482+00:00"
+    },
+    {
+      "id": "8592c55b8380",
+      "title": "Software Engineer (L2-L4) @ Cambio AI Inc. - Jobs",
+      "company": "Cambio",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/cambio/931973da-ea4a-4543-94a3-053895839513",
+      "source": "Ashby",
+      "description": "... Software Engineer to accelerate the design and development of internal tooling and automation systems that directly improve the capacity, quality ...",
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T16:53:39+00:00",
+      "fetched_at": "2026-06-30T21:20:13.255638+00:00"
     },
     {
       "id": "cff0f59ab82a",
