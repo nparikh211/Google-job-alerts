@@ -1,26 +1,26 @@
 {
-  "last_updated": "2026-06-30T13:47:08.988102+00:00",
-  "total_jobs": 4733,
+  "last_updated": "2026-06-30T17:43:56.673466+00:00",
+  "total_jobs": 4752,
   "stats": {
-    "total_companies": 2452,
+    "total_companies": 2461,
     "total_roles": 70,
     "regions": {
-      "India": 3036,
-      "Philippines": 985,
+      "India": 3053,
+      "Philippines": 987,
       "Remote": 595,
       "Unknown": 135
     },
     "sources": {
-      "Other": 3734,
-      "Greenhouse": 234,
-      "Workday": 211,
+      "Other": 3748,
+      "Greenhouse": 236,
+      "Workday": 212,
       "LinkedIn": 174,
       "Ashby": 143,
-      "iCIMS": 53,
+      "iCIMS": 54,
       "Breezy": 51,
       "Lever": 34,
       "Workable": 33,
-      "SmartRecruiters": 25,
+      "SmartRecruiters": 26,
       "Indeed": 19,
       "BrassRing": 6,
       "Recruitee": 5,
@@ -35,6 +35,291 @@
     }
   },
   "jobs": [
+    {
+      "id": "c2ba455217fe",
+      "title": "Senior Software Engineer , Any location, United States | Coalition, Inc.",
+      "company": "Coalition, Inc.",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.coalitioninc.com/job-posting/4710478005",
+      "source": "Other",
+      "description": "Take a look at the jobs that we have currently open, here at Coalition Inc! We look forward to hearing from you.",
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T17:03:40+00:00",
+      "fetched_at": "2026-06-30T17:43:56.513482+00:00"
+    },
+    {
+      "id": "cff0f59ab82a",
+      "title": "Data Engineer in Portland, Oregon - Marquis Companies Careers",
+      "company": "Marquis Companies Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.marquiscompanies.com/jobs/15432?lang=en-us",
+      "source": "Other",
+      "description": "marquiscompanies is hiring a Data Engineer in Portland, Oregon. Review all of the job details and apply today!",
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T16:44:05+00:00",
+      "fetched_at": "2026-06-30T17:43:56.514010+00:00"
+    },
+    {
+      "id": "14f3ccc492ba",
+      "title": "Data Engineer - Spartan Investment Group - Career Page",
+      "company": "Spartan Investment Group - Career Page",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://spartaninvestmentgroup.applytojob.com/apply/wTiBeQ3vYG/Data-Engineer",
+      "source": "Other",
+      "description": "As the Data Engineer you will design, build, and optimize scalable data infrastructure that powers marketing, business intelligence, and strategic ...",
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T16:39:05+00:00",
+      "fetched_at": "2026-06-30T17:43:56.514241+00:00"
+    },
+    {
+      "id": "d4f82b5809ae",
+      "title": "Job Application for Machine Learning Engineer at Reddit - Greenhouse",
+      "company": "Reddit",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/reddit/jobs/8026401",
+      "source": "Greenhouse",
+      "description": "Machine Learning Engineer . San Francisco, CA. Apply. Reddit is a community of communities. It's built on shared interests, passion, and trust, and is ...",
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T16:15:36+00:00",
+      "fetched_at": "2026-06-30T17:43:56.651197+00:00"
+    },
+    {
+      "id": "5138b6f25fb0",
+      "title": "Senior Fullstack Engineer (Freelance) - SWEEP - Teamtailor",
+      "company": "SWEEP - Teamtailor",
+      "role": "Fullstack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://sweep.teamtailor.com/jobs/7987714-senior-fullstack-engineer-freelance",
+      "source": "Other",
+      "description": "Want to use your energy and talent to tip the balance on climate change? We're looking for a Senior Fullstack Engineer to work on our ...",
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T16:15:01+00:00",
+      "fetched_at": "2026-06-30T17:43:56.514440+00:00"
+    },
+    {
+      "id": "6542565d37ef",
+      "title": "Job Application for Senior Software Engineer , Platform at Hungryroot - Greenhouse",
+      "company": "Hungryroot",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/hungryroot/jobs/6104021004",
+      "source": "Greenhouse",
+      "description": "The Senior Software Engineer on the Platform team will design performant foundational systems and developer integration tooling supporting our other ...",
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T15:59:45+00:00",
+      "fetched_at": "2026-06-30T17:43:56.514551+00:00"
+    },
+    {
+      "id": "e932b208954d",
+      "title": "AI Engineer Senior - Elevance Health",
+      "company": "Elevance Health",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.elevancehealth.com/ai-engineer-senior/job/29159A9DB506D4B95260E3E9489B6F3F",
+      "source": "Other",
+      "description": "AI Engineer Senior. Location: IN-INDIANAPOLIS, 220 VIRGINIA AVE, United States of America; GA-ATLANTA, 740 W PEACHTREE ST NW. Job Reference: JR197553.",
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T15:54:07+00:00",
+      "fetched_at": "2026-06-30T17:43:56.651550+00:00"
+    },
+    {
+      "id": "d4ee946a6eea",
+      "title": "Software Engineer - AWS | Careers - Dassault Syst\u00e8mes",
+      "company": "AWS | Careers - Dassault Syst\u00e8mes",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.3ds.com/careers/jobs/software-engineer-aws-547713",
+      "source": "Other",
+      "description": "Software Engineer AWSWe are looking for a skilled Software Engineering Consultant (Study Transfer Developer) to join our Medidata Service team and ...",
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T15:50:55+00:00",
+      "fetched_at": "2026-06-30T17:43:56.651724+00:00"
+    },
+    {
+      "id": "bd1ff60f3ca5",
+      "title": "Senior Software Engineer | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.apexsystems.com/job/3040283_usa/senior-software-engineer",
+      "source": "Other",
+      "description": "Our organization is seeking a Senior Software Engineer for a newly formed team focused on modernizing complex legacy applications.",
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T15:50:18+00:00",
+      "fetched_at": "2026-06-30T17:43:56.514693+00:00"
+    },
+    {
+      "id": "aec70a25159e",
+      "title": "Senior Software Engineer in South Jordan, Utah - Cotiviti | Careers Center",
+      "company": "Cotiviti | Careers Center",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers-cotiviti.icims.com/jobs/19620/senior-software-engineer/job",
+      "source": "iCIMS",
+      "description": "Utah South Jordan is now hiring a Senior Software Engineer in South Jordan, Utah. Review all of the job details and apply today!",
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T15:33:53+00:00",
+      "fetched_at": "2026-06-30T17:43:56.514857+00:00"
+    },
+    {
+      "id": "8522bf189e78",
+      "title": "Data Engineer - Career Center",
+      "company": "Career Center",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://amphenol-tcs.acquiretm.com/job_details_clean.aspx?ID=7922",
+      "source": "Other",
+      "description": "AI solution design and business workflow automation will be owned by the AI Solutions & Automation team, with the Data Engineer providing the trusted ...",
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T14:40:39+00:00",
+      "fetched_at": "2026-06-30T17:43:56.515147+00:00"
+    },
+    {
+      "id": "9ce548c0fed1",
+      "title": "AI Engineer at MassMutual",
+      "company": "MassMutual",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.massmutual.com/job/springfield/ai-engineer/724/97119498832",
+      "source": "Other",
+      "description": "Job Description. AI Engineer | Data Science & AI Engineering. Full-Time Hybrid (3 days/week in office). The Opportunity.",
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T14:26:37+00:00",
+      "fetched_at": "2026-06-30T17:43:56.515301+00:00"
+    },
+    {
+      "id": "8cda404ffa9a",
+      "title": "Senior Software Software Engineer \u2013 (Java Full Stack) - Chennai, Tamil Nadu, India - Toast",
+      "company": "Chennai, Tamil Nadu, India - Toast",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.toasttab.com/jobs/senior-software-software-engineer-java-full-stack-chennai-tamil-nadu-india",
+      "source": "Other",
+      "description": "Senior Software Software Engineer \u2013 (Java Full Stack) \u00b7 Exposure to AI-assisted development tools (Claude Code, Cursor, Devin). \u00b7 Basic understanding of ...",
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T14:23:23+00:00",
+      "fetched_at": "2026-06-30T17:43:56.652344+00:00"
+    },
+    {
+      "id": "9917bc931df5",
+      "title": "Sportradar Senior Data Engineer | SmartRecruiters",
+      "company": "Sportradar",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.smartrecruiters.com/Sportradar/744000134957389-senior-data-engineer",
+      "source": "SmartRecruiters",
+      "description": "Senior Data Engineer . 810 7th Avenue, New York; Full-time. Company ... Senior Software Engineer , Data. Vienna, Austria. Show all jobs. Share to ...",
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T14:13:04+00:00",
+      "fetched_at": "2026-06-30T17:43:56.515408+00:00"
+    },
+    {
+      "id": "e4b7b2aa8d9f",
+      "title": "Sr Data Engineer - Tential",
+      "company": "Tential",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://wordpress.tential.com/jobs/sr-data-engineer-19240/",
+      "source": "Other",
+      "description": "Now hiring a Sr Data Engineer in Dresher, Pennsylvania for a data position. Read the full job description and apply online today on ...",
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T14:07:11+00:00",
+      "fetched_at": "2026-06-30T17:43:56.515542+00:00"
+    },
+    {
+      "id": "778a209d59ae",
+      "title": "Enterprise Data Engineering & Analytics - MD Anderson Cancer Center Careers",
+      "company": "MD Anderson Cancer Center Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://mdanderson.referrals.selectminds.com/jobs/data-engineer-enterprise-data-engineering-analytics-76074",
+      "source": "Other",
+      "description": "The Data Engineer role is a key contributor within the Enterprise Data Engineering & Analytics Department, responsible for supporting critical...",
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T14:02:31+00:00",
+      "fetched_at": "2026-06-30T17:43:56.515763+00:00"
+    },
+    {
+      "id": "35749b156c3e",
+      "title": "Systems Software Engineer - Computing Services - Myworkdayjobs.com",
+      "company": "Cmu",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Systems-Software-Engineer---Computing-Services_2024765",
+      "source": "Workday",
+      "description": "Systems Software Engineer - Computing Services \u00b7 1 - 3 years of experience in software development, systems analysis, or application support.",
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T13:30:22+00:00",
+      "fetched_at": "2026-06-30T17:43:56.515988+00:00"
+    },
+    {
+      "id": "b0d65f67ba02",
+      "title": "Software Engineer at Barclays",
+      "company": "Barclays",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://search.jobs.barclays/job/pune/software-engineer/13015/97095874608",
+      "source": "Other",
+      "description": "Senior Data Engineer . London (United Kingdom) ... Akshat, Senior Software Engineer , reveals the key factors behind his decision to join Barclays.",
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T11:03:25+00:00",
+      "fetched_at": "2026-06-30T17:43:56.516108+00:00"
+    },
+    {
+      "id": "1b5a612671b3",
+      "title": "Software Engineer , Machine Learning Infrastructure - Generative AI - DoorDash",
+      "company": "Generative AI - DoorDash",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careersatdoordash.com/jobs/software-engineer-machine-learning-infrastructure---generative-ai/8013249",
+      "source": "Other",
+      "description": "Software Engineer , Machine Learning Infrastructure - Generative AI. Apply To Job. Job ID: 3474261. DoorDash, Inc. San Francisco, CA; Sunnyvale, CA ...",
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T06:57:28+00:00",
+      "fetched_at": "2026-06-30T17:43:56.516362+00:00"
+    },
     {
       "id": "98a0b9335693",
       "title": "Full Stack Engineer - Team Liquid",
