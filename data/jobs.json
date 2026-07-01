@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-07-01T17:44:00.346924+00:00",
-  "total_jobs": 4825,
+  "last_updated": "2026-07-01T21:13:50.061496+00:00",
+  "total_jobs": 4838,
   "stats": {
-    "total_companies": 2491,
-    "total_roles": 71,
+    "total_companies": 2498,
+    "total_roles": 73,
     "regions": {
-      "India": 3108,
+      "India": 3119,
       "Philippines": 997,
-      "Remote": 603,
+      "Remote": 605,
       "Unknown": 135
     },
     "sources": {
-      "Other": 3802,
-      "Greenhouse": 240,
-      "Workday": 214,
-      "LinkedIn": 177,
+      "Other": 3809,
+      "Greenhouse": 241,
+      "Workday": 215,
+      "LinkedIn": 179,
       "Ashby": 146,
-      "iCIMS": 55,
-      "Breezy": 54,
+      "iCIMS": 56,
+      "Breezy": 55,
       "Lever": 34,
       "Workable": 33,
       "SmartRecruiters": 29,
@@ -36,6 +36,171 @@
   },
   "jobs": [
     {
+      "id": "eeaf51c7f09a",
+      "title": "Software Engineer in San Carlos, California | Careers at Joby Aviation",
+      "company": "Joby Aviation",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers-jobyaviation.icims.com/jobs/5204/software-engineer/job",
+      "source": "iCIMS",
+      "description": "San Carlos is now hiring a Software Engineer in San Carlos, California. Review all of the job details and apply today!",
+      "date": "2026-07-01",
+      "timestamp": "2026-07-01T19:57:05+00:00",
+      "fetched_at": "2026-07-01T21:13:49.818420+00:00"
+    },
+    {
+      "id": "f846f986177f",
+      "title": "Job Application for Software Engineer - Product at Mercury - Greenhouse",
+      "company": "Mercury",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/mercury/jobs/6101145004",
+      "source": "Greenhouse",
+      "description": "Software Engineer - Product. San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States. Apply. Since the dawn of ...",
+      "date": "2026-07-01",
+      "timestamp": "2026-07-01T19:40:33+00:00",
+      "fetched_at": "2026-07-01T21:13:49.818527+00:00"
+    },
+    {
+      "id": "bf0ff49025ff",
+      "title": "Sr. AI Data Engineer - Grace Hill - Career Page - JazzHR",
+      "company": "Grace Hill - Career Page - JazzHR",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://gracehill.applytojob.com/apply/9K5bQ2Xnlw/Sr-AI-Data-Engineer",
+      "source": "Other",
+      "description": "Apply to Sr. AI Data Engineer at Grace Hill in Remote.",
+      "date": "2026-07-01",
+      "timestamp": "2026-07-01T18:52:13+00:00",
+      "fetched_at": "2026-07-01T21:13:49.818666+00:00"
+    },
+    {
+      "id": "9df328c19648",
+      "title": "Software Engineer Intern - Summer 2027 | IMC Trading",
+      "company": "Summer 2027 | IMC Trading",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.imc.com/us/careers/jobs/4823924101",
+      "source": "Other",
+      "description": "Our 10-week internship is your chance to experience life as a Software Engineer at IMC. You'll have the support you need to succeed: educational ...",
+      "date": "2026-07-01",
+      "timestamp": "2026-07-01T18:48:58+00:00",
+      "fetched_at": "2026-07-01T21:13:49.818789+00:00"
+    },
+    {
+      "id": "6ee0ee66d796",
+      "title": "500 builders. One great night. Our AI Engineer Afterparty brought together founders ... - LinkedIn",
+      "company": "night. Our AI Engineer Afterparty brought together founders ...",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/anastasiacrew_500-builders-one-great-night-our-ai-engineer-activity-7478131979029467136-WUd0",
+      "source": "LinkedIn",
+      "description": "Our AI Engineer Afterparty brought together founders, engineers, researchers, and operators from across the AI ecosystem. A fun bonus for me ...",
+      "date": "2026-07-01",
+      "timestamp": "2026-07-01T18:40:20+00:00",
+      "fetched_at": "2026-07-01T21:13:49.819099+00:00"
+    },
+    {
+      "id": "a9c6282868de",
+      "title": "Information Factory Payments / Cluster Data Tribe Payments & Savings (Early career program)",
+      "company": "Unknown Company",
+      "role": "CTO",
+      "regions": [
+        "India"
+      ],
+      "link": "https://rabobank.jobs/en/job/junior-azure-data-engineer-information-factory-payments-cluster-data-tribe-payments-en-savings-early-career-program/JR_00142663/",
+      "source": "Other",
+      "description": "A job with impact? Become Junior Azure Data Engineer \u2013 Information Factory Payments / Cluster Data Tribe Payments & Savings (Early career program) ...",
+      "date": "2026-07-01",
+      "timestamp": "2026-07-01T18:35:01+00:00",
+      "fetched_at": "2026-07-01T21:13:49.819480+00:00"
+    },
+    {
+      "id": "7ea8610fe9e1",
+      "title": "Senior Software Engineer at Zendar",
+      "company": "Zendar",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://zendar.breezy.hr/p/c416b93e0791-senior-software-engineer",
+      "source": "Breezy",
+      "description": "Senior Software Engineer . Berkeley, CA; Full-Time; $160,000 \u2013 $180,000 / year. Job Openings; Senior Software Engineer . Apply To Position; Use My ...",
+      "date": "2026-07-01",
+      "timestamp": "2026-07-01T18:23:19+00:00",
+      "fetched_at": "2026-07-01T21:13:49.819602+00:00"
+    },
+    {
+      "id": "2163c1928713",
+      "title": "Sr. Software Engineer Job Details | Laboratoire Guerbet - Careers",
+      "company": "Laboratoire Guerbet - Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.guerbet.com/job/Cincinnati-Sr_-Software-Engineer-OH-45201/1410040733/",
+      "source": "Other",
+      "description": "The Sr. Software Engineer should possess a solid understanding of programming languages and development environments and know how to apply them within ...",
+      "date": "2026-07-01",
+      "timestamp": "2026-07-01T17:57:05+00:00",
+      "fetched_at": "2026-07-01T21:13:49.819767+00:00"
+    },
+    {
+      "id": "b497d0d5c7f8",
+      "title": "Job ID:26022530 - Software Engineer II - Equity Linked Technology - New York, New York",
+      "company": "Job ID:26022530",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.bankofamerica.com/en-us/job-detail/26022530/software-engineer-ii-equity-linked-technology-new-york-new-york-united-states",
+      "source": "Other",
+      "description": "Apply for the Software Engineer II - Equity Linked Technology position (Job ID: 26022530), located in New York, New York, at Bank of America.",
+      "date": "2026-07-01",
+      "timestamp": "2026-07-01T17:37:00+00:00",
+      "fetched_at": "2026-07-01T21:13:49.819996+00:00"
+    },
+    {
+      "id": "b9b98d3f26ef",
+      "title": "Senior AI/ ML Engineer in Austin, Texas | Advanced Micro Devices, Inc - AMD Careers",
+      "company": "Advanced Micro Devices, Inc - AMD Careers",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.amd.com/careers-home/jobs/87384?lang=en-us",
+      "source": "Other",
+      "description": "AMD is hiring a Senior AI/ ML Engineer in Austin, Texas. Review all of the job details and apply today!",
+      "date": "2026-07-01",
+      "timestamp": "2026-07-01T17:00:44+00:00",
+      "fetched_at": "2026-07-01T21:13:49.820394+00:00"
+    },
+    {
+      "id": "e36593d58a78",
+      "title": "Software Engineer - Myworkdayjobs.com",
+      "company": "Cmu",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://cmu.wd5.myworkdayjobs.com/en-US/CMU/job/Software-Engineer_2024794",
+      "source": "Workday",
+      "description": "Software Engineer . Apply. locations: Pittsburgh, PA. time type: Full ... Senior Software Engineer . locations: Pittsburgh, PA. time type: Full time.",
+      "date": "2026-07-01",
+      "timestamp": "2026-07-01T16:42:36+00:00",
+      "fetched_at": "2026-07-01T21:13:49.820469+00:00"
+    },
+    {
       "id": "9feab7dba606",
       "title": "Software Engineer , Chennai, Tamil N\u0101du, India | Caterpillar Careers",
       "company": "Caterpillar Careers",
@@ -49,6 +214,21 @@
       "date": "2026-07-01",
       "timestamp": "2026-07-01T16:09:57+00:00",
       "fetched_at": "2026-07-01T17:44:00.241821+00:00"
+    },
+    {
+      "id": "e3ae59728acc",
+      "title": "Sr. Software Engineer - Piper Companies",
+      "company": "Piper Companies",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.pipercompanies.com/details/168833/sr_software_engineer",
+      "source": "Other",
+      "description": "Software Engineer role will focus on greenfield opportunities and build out a platform from scratch for the startup's medical data. Responsibilities ...",
+      "date": "2026-07-01",
+      "timestamp": "2026-07-01T15:46:41+00:00",
+      "fetched_at": "2026-07-01T21:13:49.820813+00:00"
     },
     {
       "id": "0e2dfd7bc8cf",
@@ -79,6 +259,21 @@
       "date": "2026-07-01",
       "timestamp": "2026-07-01T15:27:04+00:00",
       "fetched_at": "2026-07-01T17:44:00.242293+00:00"
+    },
+    {
+      "id": "fe80eea3fd62",
+      "title": "Soheil Feizi's Post - LinkedIn",
+      "company": "Unknown Company",
+      "role": "Soheil Feizi's Post - LinkedIn",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/soheil-feizi-b14a4895_sharing-a-link-to-my-featured-talk-at-ai-activity-7478070261028888576-CRkx",
+      "source": "LinkedIn",
+      "description": "Harshul Jain. Senior Software Engineer | Building ML, AI features ... It was great to meet you at AI Engineer World's Fair. Looking forward to ...",
+      "date": "2026-07-01",
+      "timestamp": "2026-07-01T15:15:36+00:00",
+      "fetched_at": "2026-07-01T21:13:49.821726+00:00"
     },
     {
       "id": "dd69e3afb0f0",
