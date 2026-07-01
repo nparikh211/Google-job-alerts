@@ -1,26 +1,26 @@
 {
-  "last_updated": "2026-06-30T21:20:13.649353+00:00",
-  "total_jobs": 4769,
+  "last_updated": "2026-07-01T02:00:31.406456+00:00",
+  "total_jobs": 4789,
   "stats": {
-    "total_companies": 2469,
+    "total_companies": 2476,
     "total_roles": 71,
     "regions": {
-      "India": 3067,
-      "Philippines": 990,
-      "Remote": 595,
+      "India": 3080,
+      "Philippines": 993,
+      "Remote": 599,
       "Unknown": 135
     },
     "sources": {
-      "Other": 3761,
-      "Greenhouse": 237,
+      "Other": 3776,
+      "Greenhouse": 239,
       "Workday": 212,
       "LinkedIn": 175,
       "Ashby": 144,
-      "iCIMS": 54,
-      "Breezy": 52,
+      "iCIMS": 55,
+      "Breezy": 53,
       "Lever": 34,
       "Workable": 33,
-      "SmartRecruiters": 26,
+      "SmartRecruiters": 27,
       "Indeed": 19,
       "BrassRing": 6,
       "Recruitee": 5,
@@ -31,10 +31,280 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-06-30"
+      "latest": "2026-07-01"
     }
   },
   "jobs": [
+    {
+      "id": "f64e5a35edd2",
+      "title": "Software Engineer II - Full Stack | Careers at Abnormal",
+      "company": "Abnormal",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://abnormal.ai/careers/jobs/7786309003?gh_jid=7786309003",
+      "source": "Other",
+      "description": "As a Software Engineer , Fullstack on the Threat Narrative team, you will help build the next generation of email-centric narrative experiences across ...",
+      "date": "2026-07-01",
+      "timestamp": "2026-07-01T00:49:21+00:00",
+      "fetched_at": "2026-07-01T02:00:31.381170+00:00"
+    },
+    {
+      "id": "5fff97964529",
+      "title": "Job Application for Software Engineer III at 6sense - Greenhouse",
+      "company": "6Sense",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/6sense/jobs/8037358?gh_jid=8037358",
+      "source": "Greenhouse",
+      "description": "Software Engineer III. Austin, Texas, United States. Apply. Our Mission: 6sense's mission is to multiply what matters: growth, retention, and ...",
+      "date": "2026-07-01",
+      "timestamp": "2026-07-01T00:42:34+00:00",
+      "fetched_at": "2026-07-01T02:00:30.951994+00:00"
+    },
+    {
+      "id": "94e96d5d7e27",
+      "title": "EVB Software Engineer | SmartRecruiters",
+      "company": "Evb",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.smartrecruiters.com/EVB/744000134988944-software-engineer",
+      "source": "SmartRecruiters",
+      "description": "Software Engineer . Remote, OTHER Employees can work remotely; Contract. Job ... Senior Software Engineer -Nolimit City. Evolution; Stockholm, Sweden.",
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T22:32:47+00:00",
+      "fetched_at": "2026-07-01T02:00:30.952266+00:00"
+    },
+    {
+      "id": "78fadd8d03d7",
+      "title": "Senior AI Engineer 2026 - US - Aimpoint Digital",
+      "company": "Aimpoint Digital",
+      "role": "AI Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://aimpoint-digital.breezy.hr/p/f116e82e2b81-senior-ai-engineer-2026-us/apply",
+      "source": "Breezy",
+      "description": "Senior AI Engineer 2026 - US \u00b7 Atlanta, GA - Remote (any location) \u00b7 Full-Time \u00b7 AI Enginnering.",
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T22:25:52+00:00",
+      "fetched_at": "2026-07-01T02:00:30.952617+00:00"
+    },
+    {
+      "id": "d19e28313cba",
+      "title": "Advanced Software Engineer - PeopleSoft in New York, New York, United States",
+      "company": "PeopleSoft in New York, New York, United States",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.mta.org/jobs/17940260-advanced-software-engineer-peoplesoft",
+      "source": "Other",
+      "description": "Advanced Software Engineer - PeopleSoft. Job ID: 16294. Business Unit: MTA Headquarters. Location: New York, NY, United States. Regular/Temporary ...",
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T22:20:48+00:00",
+      "fetched_at": "2026-07-01T02:00:31.382389+00:00"
+    },
+    {
+      "id": "ee101e986efb",
+      "title": "Senior Software Engineer , Kuala Lumpur | \u00d8rsted",
+      "company": "\u00d8rsted",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://orsted.com/en/careers/vacancies-list/2026/06/32483-senior-software-engineer",
+      "source": "Other",
+      "description": "Senior Software Engineer . Imagine a future where you enable the design ... Discover other career opportunities. IT and digital. DevOps Engineer - ...",
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T22:17:58+00:00",
+      "fetched_at": "2026-07-01T02:00:30.953458+00:00"
+    },
+    {
+      "id": "910a4808dfba",
+      "title": "Data Engineer - AI (Spark, Databricks and GCP) in Remote - Cotiviti | Careers Center",
+      "company": "AI (Spark, Databricks and GCP) in Remote - Cotiviti | Careers Center",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers-cotiviti.icims.com/jobs/19104/data-engineer---ai-%28spark%2C-databricks-and-gcp%29/job",
+      "source": "iCIMS",
+      "description": "US Nationwide Remote is now hiring a Data Engineer - AI (Spark, Databricks and GCP) in Remote. Review all of the job details and apply today!",
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T21:31:15+00:00",
+      "fetched_at": "2026-07-01T02:00:30.953697+00:00"
+    },
+    {
+      "id": "e845b5d19781",
+      "title": "AI Engineer - Careers at CBIZ Careers - Cloud Sign In",
+      "company": "CBIZ Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ebez.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5855",
+      "source": "Other",
+      "description": "The AI Engineer helps ensure solutions are reliable, maintainable, and aligned with defined technical standards. Essential Functions and Primary ...",
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T21:23:35+00:00",
+      "fetched_at": "2026-07-01T02:00:30.953852+00:00"
+    },
+    {
+      "id": "f99017c1a447",
+      "title": "Software Engineer - TicketManager - Career Page - JazzHR",
+      "company": "Software Engineer",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://ticketmanager.applytojob.com/apply/teyRb8iADQ/Software-Engineer",
+      "source": "Other",
+      "description": "Software Engineer \u00b7 Live events are fun. \u00b7 Concerts, sporting events, and festivals create memorable lifelong experiences with clients, prospects, ...",
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T21:17:10+00:00",
+      "fetched_at": "2026-07-01T02:00:31.383591+00:00"
+    },
+    {
+      "id": "150ab2d11e55",
+      "title": "Job Application for Senior Software Engineer , Fintech at Climate First Bank - Greenhouse",
+      "company": "Climatefirstbank",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/climatefirstbank/jobs/4298101009",
+      "source": "Greenhouse",
+      "description": "Employee Assistance Program (EAP) with free counseling, legal, and financial services. Now Hiring: Senior Software Engineer , Fintech. We're looking ...",
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T21:04:32+00:00",
+      "fetched_at": "2026-07-01T02:00:30.953962+00:00"
+    },
+    {
+      "id": "e8c419cb92ce",
+      "title": "AI/ ML Engineer Specialist - 64717 - MANTECH",
+      "company": "64717 - MANTECH",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mantech.com/en_US/careers/JobDetail/AI-ML-Engineer-Specialist/64717",
+      "source": "Other",
+      "description": "Job DescriptionMANTECH seeks a motivated, career and customer-oriented AI/ ML Engineer Specialist to join our team. On-site at the Pentagon.",
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T21:03:17+00:00",
+      "fetched_at": "2026-07-01T02:00:30.954122+00:00"
+    },
+    {
+      "id": "bd4e04519eff",
+      "title": "Senior Software Engineer - tylertech",
+      "company": "tylertech",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.tylertech.com/careers/job-listings/senior-software-engineer-26-ofjbafw3-01",
+      "source": "Other",
+      "description": "Senior Software Engineer . Apply Online. Work with our innovative software solutions that help local government and school districts centralize data ...",
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T20:57:40+00:00",
+      "fetched_at": "2026-07-01T02:00:30.954288+00:00"
+    },
+    {
+      "id": "accb97993f91",
+      "title": "Software Engineer I in Pune, India, 411006 | Engineering at Mastercard",
+      "company": "Mastercard",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mastercard.com/us/en/job/R-281304/Software-Engineer-I",
+      "source": "Other",
+      "description": "... Software Engineer . Location Pune, India, 411006 Category Engineering. Senior Software Engineer . Location Pune, India, 411006 Category Engineering.",
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T20:55:13+00:00",
+      "fetched_at": "2026-07-01T02:00:30.954591+00:00"
+    },
+    {
+      "id": "38f86b81266e",
+      "title": "Senior Software Engineer , Data Engineering - Bengaluru, Karnataka, India | Roku Jobs",
+      "company": "Bengaluru, Karnataka, India | Roku Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.weareroku.com/jobs/senior-software-engineer-data-engineering-bengaluru-karnataka-india",
+      "source": "Other",
+      "description": "Senior Machine Learning Engineer - Advertising Engineering ... Embassy Golf Links Business Park, Domlur, Bengaluru, Karnataka. Senior Software Engineer , ...",
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T20:36:41+00:00",
+      "fetched_at": "2026-07-01T02:00:31.385393+00:00"
+    },
+    {
+      "id": "ba4a2c675284",
+      "title": "DevOps Engineer | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.apexsystems.com/job/3040478_usa/devops-engineer",
+      "source": "Other",
+      "description": "DevOps Engineer \u00b7 Key Responsibilities. Design, Develop, and Maintain Automation \u00b7 Required. 3+ years of experience with DevOps-related technologies (CI ...",
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T20:33:41+00:00",
+      "fetched_at": "2026-07-01T02:00:30.954726+00:00"
+    },
+    {
+      "id": "df43ec588a2b",
+      "title": "Full Stack Software Engineer - Ford Global Career Site Careers - oracle",
+      "company": "Ford Global Career Site Careers - oracle",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/66314",
+      "source": "Other",
+      "description": "What you'll be able to do: Full Stack Software Engineer - positions offered by Ford Motor Company (Dearborn, Michigan). Note, this is a purely ...",
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T20:29:24+00:00",
+      "fetched_at": "2026-07-01T02:00:30.954889+00:00"
+    },
+    {
+      "id": "64fbcb998602",
+      "title": "Senior Software Engineer - Pearson Jobs",
+      "company": "Pearson Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://pearson.jobs/virtual-usa/senior-software-engineer/B9E6BA1311C446998BDABF5235B62A7F/job/",
+      "source": "Other",
+      "description": "Senior Software Engineer . USA. Workplace Type: Remote. Job: Engineering; Schedule: FULL_TIME; Req ID: 24558. Web Application Developer (Performance ...",
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T20:27:20+00:00",
+      "fetched_at": "2026-07-01T02:00:30.955060+00:00"
+    },
+    {
+      "id": "a787cf0095dd",
+      "title": "Software Engineer Developer Productivity & Infrastructure, Autonomy - Rivian Careers",
+      "company": "Rivian Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.rivian.com/careers-home/jobs/31948?lang=en-us",
+      "source": "Other",
+      "description": "Rivian Careers Home is hiring a Software Engineer Developer Productivity & Infrastructure, Autonomy in Atlanta, Georgia.",
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T20:15:45+00:00",
+      "fetched_at": "2026-07-01T02:00:30.955202+00:00"
+    },
     {
       "id": "174a7094d2bc",
       "title": "Software Engineer , SWE Program Tools - Jobs - Careers at Apple",
@@ -66,6 +336,21 @@
       "fetched_at": "2026-06-30T21:20:13.252100+00:00"
     },
     {
+      "id": "23fac937eae5",
+      "title": "Job ID:26022233 - Senior Site Reliability Engineer - Multiple Locations - Bank of America Careers",
+      "company": "Job ID:26022233",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.bankofamerica.com/en-us/job-detail/26022233/senior-site-reliability-engineer-multiple-locations",
+      "source": "Other",
+      "description": "Apply for the Senior Site Reliability Engineer position (Job ID: 26022233), with openings in multiple locations, at Bank of America.",
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T19:59:57+00:00",
+      "fetched_at": "2026-07-01T02:00:30.955793+00:00"
+    },
+    {
       "id": "3d8234215923",
       "title": "Software Engineer , Intelligence Orchestration, Proactive Intelligence - Jobs",
       "company": "Jobs",
@@ -79,6 +364,21 @@
       "date": "2026-06-30",
       "timestamp": "2026-06-30T19:57:42+00:00",
       "fetched_at": "2026-06-30T21:20:13.626851+00:00"
+    },
+    {
+      "id": "b45ccfd06b3a",
+      "title": "Backend Software Engineer - Book of the Month - Career Page",
+      "company": "Book of the Month - Career Page",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://bookofthemonth.applytojob.com/apply/H2e26zQYja/Backend-Software-Engineer",
+      "source": "Other",
+      "description": "We're open to hiring at the Associate, Mid-level, or Senior Software Engineer level for this role and will share our thinking on leveling as ...",
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T19:51:01+00:00",
+      "fetched_at": "2026-07-01T02:00:30.955959+00:00"
     },
     {
       "id": "6dcc78bfe157",
