@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-07-01T21:13:50.061496+00:00",
-  "total_jobs": 4838,
+  "last_updated": "2026-07-02T01:54:22.770247+00:00",
+  "total_jobs": 4855,
   "stats": {
-    "total_companies": 2498,
+    "total_companies": 2508,
     "total_roles": 73,
     "regions": {
-      "India": 3119,
-      "Philippines": 997,
-      "Remote": 605,
+      "India": 3130,
+      "Philippines": 999,
+      "Remote": 609,
       "Unknown": 135
     },
     "sources": {
-      "Other": 3809,
+      "Other": 3819,
       "Greenhouse": 241,
-      "Workday": 215,
+      "Workday": 217,
       "LinkedIn": 179,
-      "Ashby": 146,
-      "iCIMS": 56,
+      "Ashby": 148,
+      "iCIMS": 57,
       "Breezy": 55,
-      "Lever": 34,
+      "Lever": 36,
       "Workable": 33,
       "SmartRecruiters": 29,
       "Indeed": 19,
@@ -31,10 +31,250 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-07-01"
+      "latest": "2026-07-02"
     }
   },
   "jobs": [
+    {
+      "id": "5fe1a48f5ed5",
+      "title": "Software Engineer in Remote | Careers at Remote US - HealthEdge",
+      "company": "Remote US",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers-healthedge.icims.com/jobs/8032/software-engineer/job",
+      "source": "iCIMS",
+      "description": "Remote US is now hiring a Software Engineer in Remote. Review all of the job details and apply today!",
+      "date": "2026-07-02",
+      "timestamp": "2026-07-02T01:10:03+00:00",
+      "fetched_at": "2026-07-02T01:54:22.574389+00:00"
+    },
+    {
+      "id": "e579cdf549a1",
+      "title": "Data Engineer , Employee Technology Support - 20602 - Bloomberg",
+      "company": "20602 - Bloomberg",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://bloomberg.avature.net/careers/JobDetail/Data-Engineer-Employee-Technology-Support/20602",
+      "source": "Other",
+      "description": "We are looking for a Data Engineer who combines strong engineering fundamentals with business acumen and excellent communication skills. You will ...",
+      "date": "2026-07-01",
+      "timestamp": "2026-07-01T23:51:04+00:00",
+      "fetched_at": "2026-07-02T01:54:22.574905+00:00"
+    },
+    {
+      "id": "a3dea6a8f66d",
+      "title": "Software Engineer , Growth Data Platform @ Omni - Jobs",
+      "company": "Omni",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.ashbyhq.com/omni/de8286db-3605-4e37-a41d-84979d8d0ae8",
+      "source": "Ashby",
+      "description": "Software Engineer , Growth Data Platform. Location. San Francisco, CA; Remote - US. Employment Type. Full time. Location Type. Hybrid. Department.",
+      "date": "2026-07-01",
+      "timestamp": "2026-07-01T23:46:33+00:00",
+      "fetched_at": "2026-07-02T01:54:22.749017+00:00"
+    },
+    {
+      "id": "6aafd304a793",
+      "title": "Site Reliability Engineer (Job 3021039) - ADT Careers",
+      "company": "ADT Careers",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.adt.com/job/23549856/site-reliability-engineer/",
+      "source": "Other",
+      "description": "Apply to ADT today for the Site Reliability Engineer opportunity in Blue Bell, PA.",
+      "date": "2026-07-01",
+      "timestamp": "2026-07-01T23:36:24+00:00",
+      "fetched_at": "2026-07-02T01:54:22.575186+00:00"
+    },
+    {
+      "id": "e7489507a0e6",
+      "title": "Senior Software Engineer , FullStack - Patch My PC - Lever",
+      "company": "Patchmypc",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.lever.co/patchmypc/a207cdda-f7b7-47d3-b842-651626c1f1c0/apply",
+      "source": "Lever",
+      "description": "Senior Software Engineer , FullStack. United States. Engineering /. Full-Time /. Remote. Submit your application. LinkedIn profile. Loading... Apply ...",
+      "date": "2026-07-01",
+      "timestamp": "2026-07-01T23:12:46+00:00",
+      "fetched_at": "2026-07-02T01:54:22.749141+00:00"
+    },
+    {
+      "id": "82a200792730",
+      "title": "Senior Consultant, Data Engineer (Databricks Experience) - Infinitive Inc - Career Page",
+      "company": "Infinitive Inc - Career Page",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://infinitive.applytojob.com/apply/tSyB06zCqs/Senior-Consultant-Data-Engineer-Databricks-Experience",
+      "source": "Other",
+      "description": "Apply to Senior Consultant, Data Engineer (Databricks Experience) at Infinitive Inc in McLean, VA.",
+      "date": "2026-07-01",
+      "timestamp": "2026-07-01T23:10:43+00:00",
+      "fetched_at": "2026-07-02T01:54:22.749389+00:00"
+    },
+    {
+      "id": "055b71c9b523",
+      "title": "Platform Engineer - Citadel Securities",
+      "company": "Citadel Securities",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.citadelsecurities.com/careers/details/platform-engineer/",
+      "source": "Other",
+      "description": "Role Overview: Citadel Securities is seeking an exceptional Platform Engineer to join our Research Platform Engineering team in Miami, Zurich or New ...",
+      "date": "2026-07-01",
+      "timestamp": "2026-07-01T23:04:21+00:00",
+      "fetched_at": "2026-07-02T01:54:22.575320+00:00"
+    },
+    {
+      "id": "f5eba801b291",
+      "title": "Sr. Data Engineer in Coppell, Texas, 75019 | Technology at AAA Careers",
+      "company": "AAA Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.ace.aaa.com/us/en/job/JR202636994/Sr-Data-Engineer",
+      "source": "Other",
+      "description": "As our Sr Data Engineer , you will function as a consultant between our technology unit and other business units to understand their challenges. You'll ...",
+      "date": "2026-07-01",
+      "timestamp": "2026-07-01T22:32:50+00:00",
+      "fetched_at": "2026-07-02T01:54:22.575442+00:00"
+    },
+    {
+      "id": "a80dd2741852",
+      "title": "Machine Learning Engineer @ UnitX - Jobs",
+      "company": "Unitxlabs",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/unitxlabs/d75b1e49-8513-4c21-a879-10678d64e056",
+      "source": "Ashby",
+      "description": "Job Title: Machine Learning Engineer About Us: UnitX builds the world's leading physical AI systems to automate repetitive visual tasks in ...",
+      "date": "2026-07-01",
+      "timestamp": "2026-07-01T22:22:12+00:00",
+      "fetched_at": "2026-07-02T01:54:22.575537+00:00"
+    },
+    {
+      "id": "599580499c92",
+      "title": "Software Engineer - Via Separations, Inc. - Lever",
+      "company": "Viaseparations",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.lever.co/viaseparations/53e63c8e-ec65-4966-98e7-54b34398319c",
+      "source": "Lever",
+      "description": "We want you to join us! We are seeking a Software Engineer to own and evolve our cloud infrastructure and back-end systems while contributing to the ...",
+      "date": "2026-07-01",
+      "timestamp": "2026-07-01T22:16:43+00:00",
+      "fetched_at": "2026-07-02T01:54:22.575649+00:00"
+    },
+    {
+      "id": "fb306e72b743",
+      "title": "Cloud Platform Engineer - Citadel Securities",
+      "company": "Citadel Securities",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.citadelsecurities.com/careers/details/cloud-platform-engineer/",
+      "source": "Other",
+      "description": "Role Overview: Citadel Securities is seeking an exceptional Cloud Platform Engineer to join our Research Platform Engineering team in Miami or New ...",
+      "date": "2026-07-01",
+      "timestamp": "2026-07-01T22:04:00+00:00",
+      "fetched_at": "2026-07-02T01:54:22.575841+00:00"
+    },
+    {
+      "id": "2cb322ced9c7",
+      "title": "Senior Fullstack Engineer , Network Services",
+      "company": "Unknown Company",
+      "role": "Fullstack Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.gem.com/bluesky/am9icG9zdDp5pa4f0uEBuJ-TISeJZciu",
+      "source": "Other",
+      "description": "Senior Fullstack Engineer , Network Services. Fully Remote - Overlap with PST working hours. Atmosphere. Remote. Full-time. Bluesky's mission is to ...",
+      "date": "2026-07-01",
+      "timestamp": "2026-07-01T21:31:25+00:00",
+      "fetched_at": "2026-07-02T01:54:22.575965+00:00"
+    },
+    {
+      "id": "7fd576d13b1c",
+      "title": "Software Engineer - GenAI, Finance Tech - Myworkdayjobs.com",
+      "company": "Visa",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/SW-Engineer-Austin_REF083267W",
+      "source": "Workday",
+      "description": "Software Engineer - GenAI, Finance Tech \u00b7 Conduct analysis, design, programming, debugging, and modification of computer programs for commercial or end ...",
+      "date": "2026-07-01",
+      "timestamp": "2026-07-01T20:51:47+00:00",
+      "fetched_at": "2026-07-02T01:54:22.750778+00:00"
+    },
+    {
+      "id": "155765628a9e",
+      "title": "Software Engineer (Full Stack) - Compliance Engineering | Datadog Careers",
+      "company": "Software Engineer",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.datadoghq.com/detail/8041817/?gh_jid=8041817",
+      "source": "Other",
+      "description": "Software Engineer (Full Stack) - Compliance Engineering. New York, New York ... This is an opportunity to grow as a full-stack engineer in a ...",
+      "date": "2026-07-01",
+      "timestamp": "2026-07-01T20:20:39+00:00",
+      "fetched_at": "2026-07-02T01:54:22.576646+00:00"
+    },
+    {
+      "id": "aed48d2332fd",
+      "title": "Senior Data Engineer - Cognyte",
+      "company": "Cognyte",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.cognyte.com/careers/90.D62/senior-data-engineer/",
+      "source": "Other",
+      "description": "... Data Engineer to join our Data Platform team. In this role, you will be an individual contributor working on the design and implementation of our ...",
+      "date": "2026-07-01",
+      "timestamp": "2026-07-01T20:14:07+00:00",
+      "fetched_at": "2026-07-02T01:54:22.576777+00:00"
+    },
+    {
+      "id": "9bc2036f4a30",
+      "title": "Associate AI Engineer - Myworkdayjobs.com",
+      "company": "Kaleris",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://kaleris.wd501.myworkdayjobs.com/kaleris_careers/job/Chennai/Associate-AI-Engineer_R-100560?source=LinkedIn",
+      "source": "Workday",
+      "description": "Associate AI Engineer . Apply. locations: Chennai. time type: Full time. posted ... Similar Jobs (4). Senior Software Engineer - Agentic AI. locations ...",
+      "date": "2026-07-01",
+      "timestamp": "2026-07-01T20:07:05+00:00",
+      "fetched_at": "2026-07-02T01:54:22.751419+00:00"
+    },
     {
       "id": "eeaf51c7f09a",
       "title": "Software Engineer in San Carlos, California | Careers at Joby Aviation",
@@ -49,6 +289,21 @@
       "date": "2026-07-01",
       "timestamp": "2026-07-01T19:57:05+00:00",
       "fetched_at": "2026-07-01T21:13:49.818420+00:00"
+    },
+    {
+      "id": "12682730f355",
+      "title": "Staff Software Engineer (Fullstack, BE-leaning)",
+      "company": "leaning)",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/scope3pbc/jobs/2ad037a3-9048-4205-a434-c0af7c14e88c",
+      "source": "Other",
+      "description": "Staff Software Engineer (Fullstack, BE-leaning). About Scope3. Scope3 operates the Interchange for agent-to-agent advertising \u2014 the place where brands ...",
+      "date": "2026-07-01",
+      "timestamp": "2026-07-01T19:40:46+00:00",
+      "fetched_at": "2026-07-02T01:54:22.577158+00:00"
     },
     {
       "id": "f846f986177f",
