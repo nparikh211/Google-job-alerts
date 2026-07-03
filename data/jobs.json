@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-07-03T06:51:35.771591+00:00",
-  "total_jobs": 4922,
+  "last_updated": "2026-07-03T10:22:22.105901+00:00",
+  "total_jobs": 4930,
   "stats": {
-    "total_companies": 2534,
+    "total_companies": 2537,
     "total_roles": 74,
     "regions": {
-      "India": 3172,
+      "India": 3180,
       "Philippines": 1014,
       "Remote": 619,
       "Unknown": 135
     },
     "sources": {
-      "Other": 3870,
-      "Greenhouse": 248,
+      "Other": 3877,
+      "Greenhouse": 249,
       "Workday": 220,
       "LinkedIn": 180,
       "Ashby": 149,
@@ -35,6 +35,96 @@
     }
   },
   "jobs": [
+    {
+      "id": "9a223089ccbe",
+      "title": "VP- AI Platform and DevOps Engineer - Careers at Moody's",
+      "company": "Moody's",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.moodys.com/en/job/charlotte/vp-ai-platform-and-devops-engineer/49841/97237595392",
+      "source": "Other",
+      "description": "VP- AI Platform and DevOps Engineer . Charlotte, NC, New York, NY ... Senior Software Engineer - Generative AI. Charlotte, North Carolina. Save ...",
+      "date": "2026-07-03",
+      "timestamp": "2026-07-03T06:33:21+00:00",
+      "fetched_at": "2026-07-03T10:22:21.660008+00:00"
+    },
+    {
+      "id": "1301ffc86b21",
+      "title": "Job ID:26017794 - Software Engineer II A - GBS IND - Hyderabad, India",
+      "company": "Job ID:26017794",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.bankofamerica.com/en-us/job-detail/26017794/software-engineer-ii-a-gbs-ind-hyderabad-india",
+      "source": "Other",
+      "description": "Apply for the Software Engineer II A - GBS IND position (Job ID: 26017794), located in Hyderabad, India, at Bank of America.",
+      "date": "2026-07-03",
+      "timestamp": "2026-07-03T05:20:07+00:00",
+      "fetched_at": "2026-07-03T10:22:21.660401+00:00"
+    },
+    {
+      "id": "f23ff3aa5b16",
+      "title": "Senior Full Stack Software Engineer (Node.js / NestJS) - Avenga",
+      "company": "Avenga",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://career.avenga.com/jobs/8008757-senior-full-stack-software-engineer-node-js-nestjs",
+      "source": "Other",
+      "description": "Senior Full Stack Software Engineer (Node.js / NestJS). Build technologies that matter. Apply now. This is us. At Avenga, we believe that human ...",
+      "date": "2026-07-03",
+      "timestamp": "2026-07-03T04:35:24+00:00",
+      "fetched_at": "2026-07-03T10:22:21.660812+00:00"
+    },
+    {
+      "id": "ab8a31d74ac3",
+      "title": "Senior Software Engineer I | Rocket Lab",
+      "company": "Rocket Lab",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://rocketlabcorp.com/careers/positions/senior-software-engineer-i-tucson-az-7553371003/",
+      "source": "Other",
+      "description": "Senior Software Engineer I. Job Ref: 5688454003 | Type: Regular. Apply for this job. About The Role. ABOUT ROCKET LAB. Rocket Lab is an end-to-end ...",
+      "date": "2026-07-03",
+      "timestamp": "2026-07-03T04:34:59+00:00",
+      "fetched_at": "2026-07-03T10:22:21.661013+00:00"
+    },
+    {
+      "id": "010ee2f8435f",
+      "title": "Job Application for Senior Machine Learning Engineer at Cloudflare - Greenhouse",
+      "company": "Cloudflare",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/cloudflare/jobs/8042034?gh_jid=8042034",
+      "source": "Greenhouse",
+      "description": "Senior Machine Learning Engineer . Hybrid. Apply. About Us. At Cloudflare ... Extensive experience as a Senior or Lead ML Engineer , with a proven ...",
+      "date": "2026-07-03",
+      "timestamp": "2026-07-03T04:20:27+00:00",
+      "fetched_at": "2026-07-03T10:22:21.661259+00:00"
+    },
+    {
+      "id": "5c8711ca24b4",
+      "title": "Software Engineer I in Gurgaon, Haryana, India | Information Technology at McCain Foods",
+      "company": "McCain Foods",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mccain.com/us/en/job/43334/Software-Engineer-I",
+      "source": "Other",
+      "description": "... Software Engineer I. Position Type: Regular - Full-Time \u200b. Requisition ID: 43334. JOB PURPOSE: As a Software Engineer , you will be responsible for ...",
+      "date": "2026-07-03",
+      "timestamp": "2026-07-03T03:55:16+00:00",
+      "fetched_at": "2026-07-03T10:22:21.661406+00:00"
+    },
     {
       "id": "51f616ff6e70",
       "title": "ML Software Engineer - Jobs - Careers at Apple",
@@ -64,6 +154,21 @@
       "date": "2026-07-03",
       "timestamp": "2026-07-03T00:38:03+00:00",
       "fetched_at": "2026-07-03T06:51:35.679337+00:00"
+    },
+    {
+      "id": "06b3f6098c73",
+      "title": "ML Engineer , Apple Foundation Models - Jobs",
+      "company": "Jobs",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200670922-0836/ml-engineer-apple-foundation-models?team=MLAI",
+      "source": "Other",
+      "description": "Apply for a ML Engineer , Apple Foundation Models job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-07-02",
+      "timestamp": "2026-07-02T23:45:15+00:00",
+      "fetched_at": "2026-07-03T10:22:21.661878+00:00"
     },
     {
       "id": "a76f7d9a39e0",
@@ -109,6 +214,21 @@
       "date": "2026-07-02",
       "timestamp": "2026-07-02T22:29:25+00:00",
       "fetched_at": "2026-07-03T01:23:59.742851+00:00"
+    },
+    {
+      "id": "3ffa0683ed96",
+      "title": "Software Engineer , Chennai, Tamil N\u0101du, India | Caterpillar Careers",
+      "company": "Caterpillar Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.caterpillar.com/en/jobs/r0000378326/software-engineer/",
+      "source": "Other",
+      "description": "Software Engineer . Location, Chennai, Tamil N\u0101du, India. Date Posted, Thursday, July 2, 2026. Apply By, Sunday, July 12, 2026. Contract Type, Full ...",
+      "date": "2026-07-02",
+      "timestamp": "2026-07-02T22:24:57+00:00",
+      "fetched_at": "2026-07-03T10:22:21.663149+00:00"
     },
     {
       "id": "96e3fb84cc6f",
