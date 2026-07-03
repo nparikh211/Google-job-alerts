@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-07-03T10:22:22.105901+00:00",
-  "total_jobs": 4930,
+  "last_updated": "2026-07-03T13:25:09.865515+00:00",
+  "total_jobs": 4933,
   "stats": {
     "total_companies": 2537,
     "total_roles": 74,
     "regions": {
-      "India": 3180,
+      "India": 3183,
       "Philippines": 1014,
       "Remote": 619,
       "Unknown": 135
     },
     "sources": {
-      "Other": 3877,
-      "Greenhouse": 249,
+      "Other": 3879,
+      "Greenhouse": 250,
       "Workday": 220,
       "LinkedIn": 180,
       "Ashby": 149,
@@ -35,6 +35,51 @@
     }
   },
   "jobs": [
+    {
+      "id": "9d637486e23d",
+      "title": "Software Engineer at Barclays",
+      "company": "Barclays",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://search.jobs.barclays/job/pune/software-engineer/13015/97220693888",
+      "source": "Other",
+      "description": "ITSM Platform Engineer - Barclaycard Payments ... Akshat, Senior Software Engineer , reveals the key factors behind his decision to join Barclays.",
+      "date": "2026-07-03",
+      "timestamp": "2026-07-03T10:18:53+00:00",
+      "fetched_at": "2026-07-03T13:25:09.483197+00:00"
+    },
+    {
+      "id": "c0bfb000de41",
+      "title": "Job Application for Fullstack Software Engineer at CLEAR - Corporate - Greenhouse",
+      "company": "Clear",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/clear/jobs/8043865",
+      "source": "Greenhouse",
+      "description": "Fullstack Software Engineer . New York, New York, United States. Apply. CLEAR is building THE secure identity company of the future. Our mission is to ...",
+      "date": "2026-07-03",
+      "timestamp": "2026-07-03T08:23:42+00:00",
+      "fetched_at": "2026-07-03T13:25:09.483342+00:00"
+    },
+    {
+      "id": "cabd6b25d62f",
+      "title": "Software Engineer - Caterpillar Careers",
+      "company": "Caterpillar Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.caterpillar.com/en/jobs/r0000376181/software-engineer/",
+      "source": "Other",
+      "description": "JOB PURPOSE: The Software Engineer contributes to design, development, and deployment of Caterpillar's state-of-the-art digital applications.",
+      "date": "2026-07-03",
+      "timestamp": "2026-07-03T07:22:31+00:00",
+      "fetched_at": "2026-07-03T13:25:09.483820+00:00"
+    },
     {
       "id": "9a223089ccbe",
       "title": "VP- AI Platform and DevOps Engineer - Careers at Moody's",
