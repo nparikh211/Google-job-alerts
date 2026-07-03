@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-07-03T13:25:09.865515+00:00",
-  "total_jobs": 4933,
+  "last_updated": "2026-07-03T17:07:04.999617+00:00",
+  "total_jobs": 4950,
   "stats": {
-    "total_companies": 2537,
+    "total_companies": 2546,
     "total_roles": 74,
     "regions": {
-      "India": 3183,
+      "India": 3199,
       "Philippines": 1014,
-      "Remote": 619,
+      "Remote": 621,
       "Unknown": 135
     },
     "sources": {
-      "Other": 3879,
-      "Greenhouse": 250,
-      "Workday": 220,
+      "Other": 3890,
+      "Greenhouse": 251,
+      "Workday": 222,
       "LinkedIn": 180,
-      "Ashby": 149,
+      "Ashby": 151,
       "iCIMS": 59,
       "Breezy": 56,
       "Lever": 36,
-      "Workable": 33,
+      "Workable": 34,
       "SmartRecruiters": 30,
       "Indeed": 19,
       "BrassRing": 6,
@@ -36,6 +36,217 @@
   },
   "jobs": [
     {
+      "id": "47bbbdac0691",
+      "title": "Senior Data Engineer @ Supabase - Jobs",
+      "company": "Supabase",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/supabase/44f6de1c-0fdc-4d46-aa3e-7d57b8be38b2",
+      "source": "Ashby",
+      "description": "... Data Engineer to join our Data team and own data systems end to end, from the raw source all the way to the analysis that drives decisions. You'll ...",
+      "date": "2026-07-03",
+      "timestamp": "2026-07-03T15:56:26+00:00",
+      "fetched_at": "2026-07-03T17:07:04.887681+00:00"
+    },
+    {
+      "id": "8d2e3bc682c5",
+      "title": "Data Engineer Job Details | Janus Henderson Investors",
+      "company": "Janus Henderson Investors",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.janushenderson.com/job/Denver-Data-Engineer-CO-80206/1405303200/",
+      "source": "Other",
+      "description": "Denver Data Engineer - CO, 80206. ... Data Engineer . City: Denver. Division: Technology Delivery. Why work for us? A career at Janus ...",
+      "date": "2026-07-03",
+      "timestamp": "2026-07-03T15:24:23+00:00",
+      "fetched_at": "2026-07-03T17:07:04.889412+00:00"
+    },
+    {
+      "id": "56840de99c0a",
+      "title": "Careers - Senior Data Engineer, Risk - Block",
+      "company": "Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://block.xyz/careers/jobs/5281312008?gh_jid=5281312008",
+      "source": "Other",
+      "description": "No matter the location, we tailor our experience to ensure our employees are creative, productive, and happy. The Role. As a Data Engineer you will ...",
+      "date": "2026-07-03",
+      "timestamp": "2026-07-03T15:02:21+00:00",
+      "fetched_at": "2026-07-03T17:07:04.889891+00:00"
+    },
+    {
+      "id": "edf8777719f0",
+      "title": "Software/ Platform Engineer I - MetLife Careers",
+      "company": "MetLife Careers",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.metlifecareers.com/en_US/ml/JobDetail/Software-Platform-Engineer-I/18858",
+      "source": "Other",
+      "description": "Software/ Platform Engineer I. General Information. Location. Pune, Maharashtra. Working Schedule. Full-Time. Work Arrangement. Hybrid. Relocation ...",
+      "date": "2026-07-03",
+      "timestamp": "2026-07-03T14:58:39+00:00",
+      "fetched_at": "2026-07-03T17:07:04.890220+00:00"
+    },
+    {
+      "id": "da60cc9da3ba",
+      "title": "AI Engineer | Camden Corporate Office (Remote Position) - Cloud Sign In",
+      "company": "Camden Corporate Office (Remote Position) - Cloud Sign In",
+      "role": "AI Engineer",
+      "regions": [
+        "India",
+        "Remote"
+      ],
+      "link": "https://ehap.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/260355",
+      "source": "Other",
+      "description": "Job Summary. The AI Engineer is the builder-in-residence for Camden's AI Sandbox, the dedicated environment where we rapidly prototype, evaluate, ...",
+      "date": "2026-07-03",
+      "timestamp": "2026-07-03T14:27:41+00:00",
+      "fetched_at": "2026-07-03T17:07:04.890727+00:00"
+    },
+    {
+      "id": "28274b1c0111",
+      "title": "Job Application for Senior Fullstack Engineer (Payments) at Topstep - Greenhouse",
+      "company": "Topsteptrader",
+      "role": "Fullstack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/topsteptrader/jobs/7792960003",
+      "source": "Greenhouse",
+      "description": "Senior Fullstack Engineer (Payments). United States. Apply. Summary: As a Senior Full Stack Engineer at Topstep, you'll play a key role in building ...",
+      "date": "2026-07-03",
+      "timestamp": "2026-07-03T14:22:25+00:00",
+      "fetched_at": "2026-07-03T17:07:04.890903+00:00"
+    },
+    {
+      "id": "2ec456d0ede8",
+      "title": "Senior Software Engineer - Careers - Myworkdayjobs.com",
+      "company": "Workiva",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://workiva.wd503.myworkdayjobs.com/en-US/careers/job/Senior-Software-Engineer_R12026",
+      "source": "Workday",
+      "description": "Join Workiva as a Senior Software Engineer and explore a world of innovation where you'll leverage a diverse and cutting-edge tech stack.",
+      "date": "2026-07-03",
+      "timestamp": "2026-07-03T14:21:06+00:00",
+      "fetched_at": "2026-07-03T17:07:04.891068+00:00"
+    },
+    {
+      "id": "70c65db6ffa6",
+      "title": "Staff Software Engineer @ Hinge Health - Jobs",
+      "company": "Hinge Health",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/hinge-health/370ba765-1d3d-4a3f-99b6-990132989057",
+      "source": "Ashby",
+      "description": "... Software Engineer , Software Developer or related. Alternatively, the employer will accept a Bachelor's degree or equivalent and six (6) years of ...",
+      "date": "2026-07-03",
+      "timestamp": "2026-07-03T14:11:56+00:00",
+      "fetched_at": "2026-07-03T17:07:04.891284+00:00"
+    },
+    {
+      "id": "d429313d534d",
+      "title": "[ Senior Software Engineer , 30M] [Seattle] - $268k YTD : r/Salary - Reddit",
+      "company": "$268k YTD : r/Salary - Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.reddit.com/r/Salary/comments/1ulkt7q/senior_software_engineer_30m_seattle_268k_ytd/",
+      "source": "Other",
+      "description": "[ Senior Software Engineer ] [Boston, MA] - $174k + bonus \u00b7 r/Salary ... r/Salary - [Senior Data Engineer ] [Remote, US] - $182. 45 upvotes \u00b7 22 ...",
+      "date": "2026-07-03",
+      "timestamp": "2026-07-03T13:55:15+00:00",
+      "fetched_at": "2026-07-03T17:07:04.977186+00:00"
+    },
+    {
+      "id": "e898ad9a86bb",
+      "title": "Data Engineer , FinAuto, Confluence - Job ID: 10440111 - Amazon Careers",
+      "company": "Job ID: 10440111 - Amazon Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.amazon.jobs/en/jobs/10440111/data-engineer-finauto-confluence",
+      "source": "Other",
+      "description": "Data Engineer , FinAuto, Confluence. Job ID: 10440111 | ADCI HYD 13 SEZ. Apply now. Description. Are you interested in building the next generation ...",
+      "date": "2026-07-03",
+      "timestamp": "2026-07-03T13:48:53+00:00",
+      "fetched_at": "2026-07-03T17:07:04.891601+00:00"
+    },
+    {
+      "id": "8816a1ed7db0",
+      "title": "AI Engineer - Stripe",
+      "company": "Stripe",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://stripe.com/jobs/listing/ai-engineer/8044460",
+      "source": "Other",
+      "description": "AI Engineer . AI Engineer . Who We Are. About Stripe. Stripe is a financial ... You're a software engineer by practice. You can architect systems ...",
+      "date": "2026-07-03",
+      "timestamp": "2026-07-03T13:08:54+00:00",
+      "fetched_at": "2026-07-03T17:07:04.891840+00:00"
+    },
+    {
+      "id": "87d8b203e1db",
+      "title": "Data, Risk & Privacy - Data Governance & Data Engineer - Manager - PwC Jobs",
+      "company": "Data, Risk & Privacy",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.us.pwc.com/job/dallas/data-risk-and-privacy-data-governance-and-data-engineer-manager/932/97249822496",
+      "source": "Other",
+      "description": "Learn more about applying for Data, Risk & Privacy - Data Governance & Data Engineer - Manager at PRICE WATERHOUSE COOPERS. ... CTIO - AI Engineer - ...",
+      "date": "2026-07-03",
+      "timestamp": "2026-07-03T13:03:37+00:00",
+      "fetched_at": "2026-07-03T17:07:04.892265+00:00"
+    },
+    {
+      "id": "bf7aa494a4a9",
+      "title": "Software Engineer - Audio, Level 5 - Snap Careers",
+      "company": "Audio, Level 5 - Snap Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.snap.com/job?id=R0046038",
+      "source": "Other",
+      "description": "... Software Engineer , Audio to join the Operating Systems team at Snap Inc! What you'll do Design, implement, test, deploy, maintain, and enhance ...",
+      "date": "2026-07-03",
+      "timestamp": "2026-07-03T12:39:08+00:00",
+      "fetched_at": "2026-07-03T17:07:04.892515+00:00"
+    },
+    {
+      "id": "8b8ed0fd3c0e",
+      "title": "DevOps Engineer , Warsaw | \u00d8rsted",
+      "company": "\u00d8rsted",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://orsted.com/en/careers/vacancies-list/2026/07/32550-devops-engineer",
+      "source": "Other",
+      "description": "DevOps Engineer . Imagine a future where you will enable \u00d8rsted commodity trading and support our vision for a sustainable world via automated data ...",
+      "date": "2026-07-03",
+      "timestamp": "2026-07-03T11:49:50+00:00",
+      "fetched_at": "2026-07-03T17:07:04.892783+00:00"
+    },
+    {
       "id": "9d637486e23d",
       "title": "Software Engineer at Barclays",
       "company": "Barclays",
@@ -49,6 +260,51 @@
       "date": "2026-07-03",
       "timestamp": "2026-07-03T10:18:53+00:00",
       "fetched_at": "2026-07-03T13:25:09.483197+00:00"
+    },
+    {
+      "id": "99a0e3ae99f1",
+      "title": "Software Engineer in Bengaluru, India | careers-home - DocuSign Careers",
+      "company": "careers-home - DocuSign Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.docusign.com/careers-home/jobs/29781?lang=en-us&iis=Job%20board&iisn=LinkedIn",
+      "source": "Other",
+      "description": "careers-home is hiring a Software Engineer in Bengaluru, India. Review all of the job details and apply today!",
+      "date": "2026-07-03",
+      "timestamp": "2026-07-03T09:51:13+00:00",
+      "fetched_at": "2026-07-03T17:07:04.893341+00:00"
+    },
+    {
+      "id": "164013127d10",
+      "title": "Sr Software Engineer - Web, Yahoo Mail - Myworkdayjobs.com",
+      "company": "Ouryahoo",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/India/Sr-Software-Engineer---Web--Yahoo-Mail_JR0027285?source=LinkedIn",
+      "source": "Workday",
+      "description": "Sr Software Engineer - Web, Yahoo Mail \u00b7 Yahoo, with a strong foundation of 900 million users monthly, is in the midst of a renaissance; backed by ...",
+      "date": "2026-07-03",
+      "timestamp": "2026-07-03T08:53:17+00:00",
+      "fetched_at": "2026-07-03T17:07:04.893532+00:00"
+    },
+    {
+      "id": "8bd1aad86e93",
+      "title": "Software Engineer - Java - Manna - Workable Jobs",
+      "company": "Manna 1",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://apply.workable.com/manna-1/j/DB3DF1F053/",
+      "source": "Workable",
+      "description": "As a Software Engineer on the Airspace team, you work on major subsystems within our airspace and control platform. You'll design robust backend ...",
+      "date": "2026-07-03",
+      "timestamp": "2026-07-03T08:33:45+00:00",
+      "fetched_at": "2026-07-03T17:07:04.893733+00:00"
     },
     {
       "id": "c0bfb000de41",
