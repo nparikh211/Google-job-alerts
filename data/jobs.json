@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-07-03T01:24:00.067909+00:00",
-  "total_jobs": 4915,
+  "last_updated": "2026-07-03T06:51:35.771591+00:00",
+  "total_jobs": 4922,
   "stats": {
-    "total_companies": 2532,
+    "total_companies": 2534,
     "total_roles": 74,
     "regions": {
-      "India": 3166,
+      "India": 3172,
       "Philippines": 1014,
-      "Remote": 618,
+      "Remote": 619,
       "Unknown": 135
     },
     "sources": {
-      "Other": 3865,
-      "Greenhouse": 246,
+      "Other": 3870,
+      "Greenhouse": 248,
       "Workday": 220,
       "LinkedIn": 180,
       "Ashby": 149,
@@ -31,10 +31,70 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-07-02"
+      "latest": "2026-07-03"
     }
   },
   "jobs": [
+    {
+      "id": "51f616ff6e70",
+      "title": "ML Software Engineer - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200669226-3337/ml-software-engineer?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a ML Software Engineer job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-07-03",
+      "timestamp": "2026-07-03T01:52:44+00:00",
+      "fetched_at": "2026-07-03T06:51:35.679177+00:00"
+    },
+    {
+      "id": "78f9c7244e7c",
+      "title": "Job Application for Full Stack Engineer at Wheelhouse - Greenhouse",
+      "company": "Wheelhouse",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/wheelhouse/jobs/4666784005",
+      "source": "Greenhouse",
+      "description": "Full Stack Engineer . San Francisco, CA or Remote. Apply. What you'll be doing: Visualizing the Market: Building interactive charts and dashboards ...",
+      "date": "2026-07-03",
+      "timestamp": "2026-07-03T00:38:03+00:00",
+      "fetched_at": "2026-07-03T06:51:35.679337+00:00"
+    },
+    {
+      "id": "a76f7d9a39e0",
+      "title": "Staff Software Engineer - uShip - Career Page",
+      "company": "uShip - Career Page",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://uship.applytojob.com/apply/CzeB0Uu58H/Staff-Software-Engineer",
+      "source": "Other",
+      "description": "Staff Software Engineer ... At uShip, we're reimagining the technology behind one of the world's largest transportation marketplaces. We're replacing a ...",
+      "date": "2026-07-02",
+      "timestamp": "2026-07-02T23:39:19+00:00",
+      "fetched_at": "2026-07-03T06:51:35.679868+00:00"
+    },
+    {
+      "id": "6a09491b5c32",
+      "title": "Senior Software Engineer , AI/ML, Workspace \u2014 Google Careers",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/84212727349682886-senior-software-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer , Enterprise AI. San Jose, CA, USA \u00b7 Staff ... Senior Software Engineer , AI/ML, Workspace. share. linkCopy link; email ...",
+      "date": "2026-07-02",
+      "timestamp": "2026-07-02T23:35:37+00:00",
+      "fetched_at": "2026-07-03T06:51:35.680091+00:00"
+    },
     {
       "id": "b2c49627a213",
       "title": "Software Engineer in Dallas, Texas, United States of America | Corporate Careers at Southwest",
@@ -81,6 +141,21 @@
       "fetched_at": "2026-07-03T01:23:59.743676+00:00"
     },
     {
+      "id": "999c76e48486",
+      "title": "Job Application for [Pipeline] Staff+ Software Engineer , Developer Acceleration at Anthropic",
+      "company": "Anthropic",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5290360008",
+      "source": "Greenhouse",
+      "description": "Staff+ Software Engineer , Developer Acceleration. About the Role. Anthropic is seeking talented and experienced Staff+ Software Engineers to join ...",
+      "date": "2026-07-02",
+      "timestamp": "2026-07-02T22:03:11+00:00",
+      "fetched_at": "2026-07-03T06:51:35.680945+00:00"
+    },
+    {
       "id": "0ee3e64e439a",
       "title": "Job Application for Software Engineer - SMB (Hybrid) at Enova International - Greenhouse",
       "company": "Enova",
@@ -109,6 +184,21 @@
       "date": "2026-07-02",
       "timestamp": "2026-07-02T21:35:51+00:00",
       "fetched_at": "2026-07-03T01:23:59.744142+00:00"
+    },
+    {
+      "id": "823f529dc299",
+      "title": "Full Stack Engineer - Wheelhouse | Built In",
+      "company": "Wheelhouse | Built In",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://builtin.com/job/full-stack-engineer/10037158",
+      "source": "Other",
+      "description": "Full Stack Engineer . Job Posted 12 Hours Ago Posted 12 Hours Ago. 2 ... Senior Software Engineer . Fintech \u2022 Mobile \u2022 Social Impact \u2022 Financial ...",
+      "date": "2026-07-02",
+      "timestamp": "2026-07-02T21:26:50+00:00",
+      "fetched_at": "2026-07-03T06:51:35.681725+00:00"
     },
     {
       "id": "5bf2ba18df38",
@@ -169,6 +259,21 @@
       "date": "2026-07-02",
       "timestamp": "2026-07-02T20:55:38+00:00",
       "fetched_at": "2026-07-03T01:23:59.744812+00:00"
+    },
+    {
+      "id": "24f5ffd6139d",
+      "title": "Data & ML Engineer - EssilorLuxottica Group Jobs",
+      "company": "EssilorLuxottica Group Jobs",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.essilorluxottica.com/job/Dallas-Data-&-ML-Engineer-TX-75204/1409986233/",
+      "source": "Other",
+      "description": "Proven experience as a Data Engineer , ML Engineer , or Platform Engineer Strong hands-on experience with Azure cloud services and big data ...",
+      "date": "2026-07-02",
+      "timestamp": "2026-07-02T20:44:23+00:00",
+      "fetched_at": "2026-07-03T06:51:35.682609+00:00"
     },
     {
       "id": "b6d0b79b652e",
