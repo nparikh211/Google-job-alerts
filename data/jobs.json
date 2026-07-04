@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-07-04T16:46:05.656034+00:00",
-  "total_jobs": 5003,
+  "last_updated": "2026-07-04T20:39:54.456817+00:00",
+  "total_jobs": 5018,
   "stats": {
-    "total_companies": 2572,
+    "total_companies": 2581,
     "total_roles": 75,
     "regions": {
-      "India": 3229,
-      "Philippines": 1032,
+      "India": 3239,
+      "Philippines": 1037,
       "Remote": 627,
       "Unknown": 135
     },
     "sources": {
-      "Other": 3934,
+      "Other": 3949,
       "Greenhouse": 252,
       "Workday": 223,
       "LinkedIn": 184,
@@ -36,6 +36,81 @@
   },
   "jobs": [
     {
+      "id": "188727b77037",
+      "title": "Data Engineer - Level 4 | Lockheed Martin",
+      "company": "Level 4 | Lockheed Martin",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.lockheedmartinjobs.com/job/king-of-prussia/data-engineer-level-4/694/97333580832",
+      "source": "Other",
+      "description": "As our Data Engineer you will support the Enterprise Performance Intelligence Team in driving enterprise tools to reduce complexity within operational ...",
+      "date": "2026-07-04",
+      "timestamp": "2026-07-04T17:35:09+00:00",
+      "fetched_at": "2026-07-04T20:39:54.342265+00:00"
+    },
+    {
+      "id": "6b2a3080b8e6",
+      "title": "Sr Software Engineer (Frontend) - Job detail | Siemens Healthineers AG CareersMarketplace",
+      "company": "Job detail | Siemens Healthineers AG CareersMarketplace",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.siemens-healthineers.com/en_US/searchjobs/JobDetail/512518",
+      "source": "Other",
+      "description": "We are seeking a Senior Software Engineer \u2013 Frontend Development to ... The ideal candidate is a hands-on frontend engineer with strong ...",
+      "date": "2026-07-04",
+      "timestamp": "2026-07-04T17:32:22+00:00",
+      "fetched_at": "2026-07-04T20:39:54.342509+00:00"
+    },
+    {
+      "id": "953584e22a1e",
+      "title": "Senior Software Engineer , AI & Strategy | New York, NY, USA - eFinancialCareers",
+      "company": "New York, NY, USA - eFinancialCareers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.efinancialcareers.com/jobs-USA-NY-New_York-Senior_Software_Engineer_AI__Strategy.id24480465",
+      "source": "Other",
+      "description": "See job details and apply here for this senior software engineer , ai & strategy job in New York, NY, USA with Toast on eFinancialCareers US.",
+      "date": "2026-07-04",
+      "timestamp": "2026-07-04T17:04:51+00:00",
+      "fetched_at": "2026-07-04T20:39:54.342798+00:00"
+    },
+    {
+      "id": "30aa459de078",
+      "title": "AI Engineer - Partners Group",
+      "company": "Partners Group",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.partnersgroup.com/en/careers/open-positions/job-details/16473",
+      "source": "Other",
+      "description": "AI Engineer . Location: Zug, Switzerland. Back to job listing. AI Engineer ... AWS Certified Machine Learning Engineer \u2013 Associate (or equivalent) ...",
+      "date": "2026-07-04",
+      "timestamp": "2026-07-04T16:35:47+00:00",
+      "fetched_at": "2026-07-04T20:39:54.343139+00:00"
+    },
+    {
+      "id": "3699875b9554",
+      "title": "Senior Data Platform Engineer (Data Lake and Catalog) - Expedia Group | Careers",
+      "company": "Expedia Group | Careers",
+      "role": "Platform Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.expediagroup.com/job/senior-data-platform-engineer-data-lake-and-catalog/london-london-city-of/R-107322/",
+      "source": "Other",
+      "description": "Senior Data Platform Engineer (Data Lake and Catalog) in London, London, City of ... As a Senior Software Engineer on an industry-leading data platform, ...",
+      "date": "2026-07-04",
+      "timestamp": "2026-07-04T16:34:18+00:00",
+      "fetched_at": "2026-07-04T20:39:54.431910+00:00"
+    },
+    {
       "id": "f876a5b59ff6",
       "title": "AVP Data Engineer (L10) at Synchrony Financial",
       "company": "Synchrony Financial",
@@ -49,6 +124,36 @@
       "date": "2026-07-04",
       "timestamp": "2026-07-04T14:15:52+00:00",
       "fetched_at": "2026-07-04T16:46:05.536762+00:00"
+    },
+    {
+      "id": "a242a02e1193",
+      "title": "Managed Services - AI-Native Software Engineer Job in Grandview Heights, OH | EY",
+      "company": "Managed Services",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://ey.jobs/locations/grandview-heights-oh/job-titles/consulting-managed-services-ai-native-software-engineer/jobs/?vs=8003",
+      "source": "Other",
+      "description": "Consulting - Managed Services - AI-Native Software Engineer Job in Grandview Heights, OH, updated and verified daily by DirectEmployers ...",
+      "date": "2026-07-04",
+      "timestamp": "2026-07-04T13:45:11+00:00",
+      "fetched_at": "2026-07-04T20:39:54.432128+00:00"
+    },
+    {
+      "id": "34f91e61c44e",
+      "title": "AI Engineer - Intern | Careers - Sarvam AI",
+      "company": "Intern | Careers - Sarvam AI",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.sarvam.ai/careers/jobs/681f6891-9f59-4b60-a9cb-4c5cfb1454a1",
+      "source": "Other",
+      "description": "AI Engineer - Intern - Engineering \u00b7 Bengaluru \u00b7 at Sarvam AI. Apply now and help build India's AI infrastructure.",
+      "date": "2026-07-04",
+      "timestamp": "2026-07-04T13:40:14+00:00",
+      "fetched_at": "2026-07-04T20:39:54.432295+00:00"
     },
     {
       "id": "2320165a1af2",
@@ -109,6 +214,126 @@
       "date": "2026-07-04",
       "timestamp": "2026-07-04T10:20:39+00:00",
       "fetched_at": "2026-07-04T12:51:28.886904+00:00"
+    },
+    {
+      "id": "4917dcfaf5a9",
+      "title": "Senior Data Engineer - AI & Analytics Platform - Hybrid - Allianz Careers",
+      "company": "AI & Analytics Platform - Hybrid - Allianz Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.allianz.com/fr/fr/job/100603/Senior-Data-Engineer-AI-Analytics-Platform-Hybrid",
+      "source": "Other",
+      "description": "Apply for Senior Data Engineer - AI & Analytics Platform - Hybrid job with Allianz in Minneapolis, Minnesota, United States, 55416.",
+      "date": "2026-07-04",
+      "timestamp": "2026-07-04T10:15:06+00:00",
+      "fetched_at": "2026-07-04T20:39:54.344817+00:00"
+    },
+    {
+      "id": "88f33967d578",
+      "title": "Senior Software Engineer - Machine Learning (ML, GenAI, SQL) - Gartner Careers",
+      "company": "Machine Learning (ML, GenAI, SQL) - Gartner Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.gartner.com/jobs/job/108540-senior-software-engineer-machine-learning-ml-genai-sql/",
+      "source": "Other",
+      "description": "Senior Software Engineer - Machine Learning (ML, GenAI, SQL). Senior ... Work as an AI/ ML Engineer . Work with Open-source frameworks and ...",
+      "date": "2026-07-04",
+      "timestamp": "2026-07-04T10:07:47+00:00",
+      "fetched_at": "2026-07-04T20:39:54.345051+00:00"
+    },
+    {
+      "id": "d38f0970b4cf",
+      "title": "Advisory Software Engineer - - 78642 - Jobs at Lenovo",
+      "company": "Lenovo",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.lenovo.com/en_US/careers/JobDetail/Advisory-Software-Engineer/78642",
+      "source": "Other",
+      "description": "Java Software Engineer . Bucharest, Romania, \u00b7 AI ML Architect. Bucharest, Romania, \u00b7 Senior SW Engineering Manager. Bucharest, Romania, \u00b7 Cloud Engineer .",
+      "date": "2026-07-04",
+      "timestamp": "2026-07-04T09:50:29+00:00",
+      "fetched_at": "2026-07-04T20:39:54.433199+00:00"
+    },
+    {
+      "id": "d5e3ca5df5aa",
+      "title": "Data Engineer \u2013 IBM Quantum - 111407",
+      "company": "111407",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.ibm.com/es_ES/careers/JobDetail?jobId=111407&source=WEB_Infratech_LA",
+      "source": "Other",
+      "description": "IBM Quantum is building the world's leading quantum computing systems, software, and cloud services. The Data Engineer in this role will design ...",
+      "date": "2026-07-04",
+      "timestamp": "2026-07-04T09:39:10+00:00",
+      "fetched_at": "2026-07-04T20:39:54.345195+00:00"
+    },
+    {
+      "id": "4accb968a47c",
+      "title": "Staff, Embedded, Software Engineer (Embedded Software Engineer , Staff) - Redwire Space Careers",
+      "company": "Redwire Space Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.rdw.com/jobs/staff-embedded-software-engineer-embedded-software-engineer-staff-jacksonville-florida-united-states?source=spacenews_jobboard&utm_source=spacenews_jobboard",
+      "source": "Other",
+      "description": "Staff, Embedded, Software Engineer (Embedded Software Engineer , Staff). 3062; On Site. Jacksonville, Florida, United States.",
+      "date": "2026-07-04",
+      "timestamp": "2026-07-04T09:07:11+00:00",
+      "fetched_at": "2026-07-04T20:39:54.433786+00:00"
+    },
+    {
+      "id": "03cf9373bd8d",
+      "title": "Machine Learning Engineer , Supply Chain Systems - Tesla",
+      "company": "Tesla",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.tesla.com/careers/search/job/machine-learning-engineer-supply-chain-systems-275842",
+      "source": "Other",
+      "description": "Machine Learning Engineer , Supply Chain Systems. Job Category, Engineering & Information Technology. Location, Fremont, California. Req. ID, 275842.",
+      "date": "2026-07-04",
+      "timestamp": "2026-07-04T08:55:21+00:00",
+      "fetched_at": "2026-07-04T20:39:54.433978+00:00"
+    },
+    {
+      "id": "d64a959d3f61",
+      "title": "AI Modernization Senior Lead Software Engineer - JPMorgan Chase",
+      "company": "JPMorgan Chase",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/cx_1001/job/210751969",
+      "source": "Other",
+      "description": "AI Engineer - Lead Software Engineer . Jersey City, NJ, United States. and ... AI Platform Engineer , Python - Lead Software Engineer . Wilmington ...",
+      "date": "2026-07-04",
+      "timestamp": "2026-07-04T08:37:08+00:00",
+      "fetched_at": "2026-07-04T20:39:54.345333+00:00"
+    },
+    {
+      "id": "1903b99678c5",
+      "title": "Cloud Engineer - - 78241 - Jobs at Lenovo",
+      "company": "Lenovo",
+      "role": "Cloud Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.lenovo.com/en_US/careers/JobDetail/Cloud-Engineer/78241",
+      "source": "Other",
+      "description": "Share Cloud Engineer with LinkedIn ... Java Software Engineer . Bucharest, Romania, \u00b7 AI ML Architect. Bucharest ...",
+      "date": "2026-07-04",
+      "timestamp": "2026-07-04T08:34:06+00:00",
+      "fetched_at": "2026-07-04T20:39:54.345441+00:00"
     },
     {
       "id": "29eed2bf105f",
