@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-07-04T01:24:09.586898+00:00",
-  "total_jobs": 4977,
+  "last_updated": "2026-07-04T06:37:30.084194+00:00",
+  "total_jobs": 4982,
   "stats": {
-    "total_companies": 2557,
+    "total_companies": 2559,
     "total_roles": 75,
     "regions": {
-      "India": 3216,
-      "Philippines": 1021,
+      "India": 3219,
+      "Philippines": 1023,
       "Remote": 624,
       "Unknown": 135
     },
     "sources": {
-      "Other": 3911,
+      "Other": 3915,
       "Greenhouse": 252,
       "Workday": 223,
-      "LinkedIn": 181,
+      "LinkedIn": 182,
       "Ashby": 151,
       "iCIMS": 59,
       "Breezy": 56,
@@ -36,6 +36,51 @@
   },
   "jobs": [
     {
+      "id": "82be4c600a63",
+      "title": "Software Engineer in Bangalore, India | Product and Engineering at Cisco - Cisco Careers",
+      "company": "Cisco",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2016608EXTERNALENGLOBAL/Software-Engineer",
+      "source": "Other",
+      "description": "Apply for Software Engineer job with Cisco in Bangalore, India. Product ... Senior Site Reliability Engineer (SRE) \u2013 Kubernetes Platform (IRAP).",
+      "date": "2026-07-04",
+      "timestamp": "2026-07-04T04:21:00+00:00",
+      "fetched_at": "2026-07-04T06:37:30.058660+00:00"
+    },
+    {
+      "id": "a89964a16bc2",
+      "title": "Data Engineer at Nicklaus Children's Health System",
+      "company": "Nicklaus Children's Health System",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.nicklaushealth.org/job/miami/data-engineer/35874/97305678080",
+      "source": "Other",
+      "description": "Data Engineer \u00b7 Description Integrates, builds, and maintains data pipelines and data transformation algorithms for enterprise data analytics ...",
+      "date": "2026-07-04",
+      "timestamp": "2026-07-04T03:40:36+00:00",
+      "fetched_at": "2026-07-04T06:37:30.058924+00:00"
+    },
+    {
+      "id": "0f3d84d69279",
+      "title": "Software Engineer , Open Source Security - Careers - Google",
+      "company": "Careers - Google",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/84981079819068102-software-engineer/",
+      "source": "Other",
+      "description": "Staff Software Engineer , AI/ML, YouTube Ads. Mountain View, CA, USA \u00b7 Senior Software Engineer , Enterprise AI. San Jose, CA, USA \u00b7 Post Silicon ...",
+      "date": "2026-07-04",
+      "timestamp": "2026-07-04T01:39:09+00:00",
+      "fetched_at": "2026-07-04T06:37:29.976761+00:00"
+    },
+    {
       "id": "eb201609d320",
       "title": "Senior Software Engineer - Core AI job in Seattle, Washington, United States - Qualtrics",
       "company": "Core AI job in Seattle, Washington, United States - Qualtrics",
@@ -49,6 +94,36 @@
       "date": "2026-07-04",
       "timestamp": "2026-07-04T00:25:34+00:00",
       "fetched_at": "2026-07-04T01:24:09.471007+00:00"
+    },
+    {
+      "id": "fca7f5cab350",
+      "title": "Data Engineer I, Payment Acceptance & Experience | Vikrant Gaur | 33 comments - LinkedIn",
+      "company": "Vikrant Gaur | 33 comments - LinkedIn",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/posts/vikrantgaur_data-engineer-i-payment-acceptance-experience-activity-7478524057500475393-CAq9",
+      "source": "LinkedIn",
+      "description": "Data Engineer I ... Software Engineer II @ Walmart | UCSD '21. 17h. Report this comment; Close ...",
+      "date": "2026-07-03",
+      "timestamp": "2026-07-03T23:49:15+00:00",
+      "fetched_at": "2026-07-04T06:37:30.060214+00:00"
+    },
+    {
+      "id": "8df6b9cdc083",
+      "title": "Data Engineer - Glencore",
+      "company": "Glencore",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.glencore.com/en/careers/jobs/R200001656",
+      "source": "Other",
+      "description": "3\u20134 years of experience as a Data Engineer or ETL Developer. \u00b7 Hands-on experience with Azure data integration technologies. \u00b7 Experience delivering ...",
+      "date": "2026-07-03",
+      "timestamp": "2026-07-03T22:41:32+00:00",
+      "fetched_at": "2026-07-04T06:37:29.977498+00:00"
     },
     {
       "id": "9c9c46c14a27",
