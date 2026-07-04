@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-07-04T12:51:28.910349+00:00",
-  "total_jobs": 4991,
+  "last_updated": "2026-07-04T16:46:05.656034+00:00",
+  "total_jobs": 5003,
   "stats": {
-    "total_companies": 2564,
+    "total_companies": 2572,
     "total_roles": 75,
     "regions": {
-      "India": 3221,
-      "Philippines": 1029,
-      "Remote": 626,
+      "India": 3229,
+      "Philippines": 1032,
+      "Remote": 627,
       "Unknown": 135
     },
     "sources": {
-      "Other": 3923,
+      "Other": 3934,
       "Greenhouse": 252,
       "Workday": 223,
-      "LinkedIn": 183,
+      "LinkedIn": 184,
       "Ashby": 151,
       "iCIMS": 59,
       "Breezy": 56,
@@ -36,6 +36,66 @@
   },
   "jobs": [
     {
+      "id": "f876a5b59ff6",
+      "title": "AVP Data Engineer (L10) at Synchrony Financial",
+      "company": "Synchrony Financial",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.synchronycareers.com/job/hyderabad/avp-data-engineer-l10/49398/97307519008",
+      "source": "Other",
+      "description": "We are looking for a Data Engineer will join an Agile scrum team and perform functional & system development for Synchrony's Data engineering ...",
+      "date": "2026-07-04",
+      "timestamp": "2026-07-04T14:15:52+00:00",
+      "fetched_at": "2026-07-04T16:46:05.536762+00:00"
+    },
+    {
+      "id": "2320165a1af2",
+      "title": "Software Engineer , Full-Stack (SF) | Loop",
+      "company": "Stack (SF) | Loop",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/loop/jobs/f42fddce-022c-47be-8c57-1b2bb3ee3a7c",
+      "source": "Other",
+      "description": "Software Engineer , Full-Stack (SF). About Loop. Loop is industrializing ... As a full-stack engineer , you will work closely with founders and ...",
+      "date": "2026-07-04",
+      "timestamp": "2026-07-04T13:35:42+00:00",
+      "fetched_at": "2026-07-04T16:46:05.536931+00:00"
+    },
+    {
+      "id": "53015590b0a7",
+      "title": "Senior Software Engineer - Corserv Holdings Inc - Paylocity",
+      "company": "Corserv Holdings Inc - Paylocity",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://recruiting.paylocity.com/recruiting/jobs/Details/4290436/Corserv-Holdings-Inc/Senior-Software-Engineer",
+      "source": "Other",
+      "description": "Senior Software Engineer . Remote Worker - N/A. Apply. Description. As a highly skilled and motivated backend Senior Software Engineer you will work ...",
+      "date": "2026-07-04",
+      "timestamp": "2026-07-04T11:31:20+00:00",
+      "fetched_at": "2026-07-04T16:46:05.537118+00:00"
+    },
+    {
+      "id": "598414b99a45",
+      "title": "Machine Learning Engineer , Platform | Careers - Scale AI",
+      "company": "Careers - Scale AI",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://scale.com/careers/4711544005",
+      "source": "Other",
+      "description": "Machine Learning Engineer , Platform. London, UK. Scale GP (Scale Generative AI Platform) is an enterprise-grade Generative AI platform that ...",
+      "date": "2026-07-04",
+      "timestamp": "2026-07-04T10:51:44+00:00",
+      "fetched_at": "2026-07-04T16:46:05.537323+00:00"
+    },
+    {
       "id": "edeccd1a9515",
       "title": "Software Engineer (Level 4 / E4) - Core Platform at Whatfix",
       "company": "Whatfix",
@@ -49,6 +109,21 @@
       "date": "2026-07-04",
       "timestamp": "2026-07-04T10:20:39+00:00",
       "fetched_at": "2026-07-04T12:51:28.886904+00:00"
+    },
+    {
+      "id": "29eed2bf105f",
+      "title": "Sr Lead Software Engineer - JPMC Candidate Experience page Careers",
+      "company": "JPMC Candidate Experience page Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/cx_1001/job/210762162",
+      "source": "Other",
+      "description": "Sr Lead Software Engineer . Plano, TX, United States. Apply Now. Job ... As a Cloud Senior ML/ AI Engineer , you will lead hands-on architecture ...",
+      "date": "2026-07-04",
+      "timestamp": "2026-07-04T08:29:06+00:00",
+      "fetched_at": "2026-07-04T16:46:05.537624+00:00"
     },
     {
       "id": "837644c8a18a",
@@ -142,6 +217,21 @@
       "fetched_at": "2026-07-04T06:37:30.058660+00:00"
     },
     {
+      "id": "7d8d181b19ab",
+      "title": "Software Engineer - - 126675 - Booz | Allen | Hamilton \u00ae - Careers",
+      "company": "- 126675 - Booz | Allen | Hamilton \u00ae - Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.boozallen.com/jobs/JobDetail?jobId=126675",
+      "source": "Other",
+      "description": "We're looking for an embedded software engineer like you to develop technology for our clients' most important mission-forward challenges. As an ...",
+      "date": "2026-07-04",
+      "timestamp": "2026-07-04T03:49:02+00:00",
+      "fetched_at": "2026-07-04T16:46:05.633891+00:00"
+    },
+    {
       "id": "a89964a16bc2",
       "title": "Data Engineer at Nicklaus Children's Health System",
       "company": "Nicklaus Children's Health System",
@@ -155,6 +245,36 @@
       "date": "2026-07-04",
       "timestamp": "2026-07-04T03:40:36+00:00",
       "fetched_at": "2026-07-04T06:37:30.058924+00:00"
+    },
+    {
+      "id": "f6c1fab0392b",
+      "title": "Principal Software Engineer - Agentic AI (Hybrid) Job Details | TE Connectivity",
+      "company": "Agentic AI (Hybrid) Job Details | TE Connectivity",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.te.com/job/Principal-Software-Engineer-Agentic-AI-%28Hybrid%29/150888-en_US/",
+      "source": "Other",
+      "description": "Job Title: Principal Software Engineer - Agentic AI (Hybrid). Posting Start Date: 4/27/26. At TE, you will unleash your potential working with ...",
+      "date": "2026-07-04",
+      "timestamp": "2026-07-04T02:05:29+00:00",
+      "fetched_at": "2026-07-04T16:46:05.634403+00:00"
+    },
+    {
+      "id": "fabd58958b08",
+      "title": "Senior Full Stack Engineer in Multiple Locations | Viasat, Inc.",
+      "company": "Viasat, Inc.",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.viasat.com/careers/jobs/6136?lang=en-us",
+      "source": "Other",
+      "description": "Senior Full Stack Engineer ... Join Viasat Government - Secure Network Systems (SNS) as a full-stack software engineer in the developing networking and ...",
+      "date": "2026-07-04",
+      "timestamp": "2026-07-04T01:41:41+00:00",
+      "fetched_at": "2026-07-04T16:46:05.538425+00:00"
     },
     {
       "id": "0f3d84d69279",
@@ -187,6 +307,36 @@
       "fetched_at": "2026-07-04T09:55:50.417030+00:00"
     },
     {
+      "id": "4880f9b1a655",
+      "title": "Data Engineer - Intermediate, San Jose | Equifax Careers",
+      "company": "Intermediate, San Jose | Equifax Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.equifax.com/en/jobs/j00177871/data-engineer-intermediate/",
+      "source": "Other",
+      "description": "Data Engineer - Intermediate \u00b7 Education & Experience: Completed Bachelor's degree in a related field with 2+ years of experience as a Data/ ML Engineer ...",
+      "date": "2026-07-04",
+      "timestamp": "2026-07-04T00:58:54+00:00",
+      "fetched_at": "2026-07-04T16:46:05.539163+00:00"
+    },
+    {
+      "id": "5fb2e18d5ae7",
+      "title": "DevOps Engineer | Citi Careers",
+      "company": "Citi Careers",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.citi.com/job/chennai/devops-engineer/287/97274306240",
+      "source": "Other",
+      "description": "Learn more about applying for DevOps Engineer at Citi. Learn more about potential responsibilities, qualifications and career paths.",
+      "date": "2026-07-04",
+      "timestamp": "2026-07-04T00:37:03+00:00",
+      "fetched_at": "2026-07-04T16:46:05.539294+00:00"
+    },
+    {
       "id": "eb201609d320",
       "title": "Senior Software Engineer - Core AI job in Seattle, Washington, United States - Qualtrics",
       "company": "Core AI job in Seattle, Washington, United States - Qualtrics",
@@ -200,6 +350,36 @@
       "date": "2026-07-04",
       "timestamp": "2026-07-04T00:25:34+00:00",
       "fetched_at": "2026-07-04T01:24:09.471007+00:00"
+    },
+    {
+      "id": "2fcb34d4f563",
+      "title": "Senior Backend Engineer - SE3 in Toronto, Canada - eBay Jobs",
+      "company": "SE3 in Toronto, Canada - eBay Jobs",
+      "role": "Backend Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ebayinc.com/us/en/job/R0071993/Senior-Backend-Engineer-SE3",
+      "source": "Other",
+      "description": "We are looking for a Senior Software Engineer who brings strong ... MTS 2 Full Stack Engineer . Location Toronto, Canada. Software Engineer 3 ...",
+      "date": "2026-07-04",
+      "timestamp": "2026-07-04T00:21:23+00:00",
+      "fetched_at": "2026-07-04T16:46:05.635416+00:00"
+    },
+    {
+      "id": "043f956cf4e5",
+      "title": "Gappify hiring Senior Software Engineer in San Ramon, CA | LinkedIn",
+      "company": "LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/senior-software-engineer-at-gappify-4435484490",
+      "source": "LinkedIn",
+      "description": "Senior Software Engineer (Java) \u2014 San Ramon, CA. Compensation: $140,000 ... Senior Full Stack Engineer . XP Health. San Carlos, CA 1 week ago ...",
+      "date": "2026-07-04",
+      "timestamp": "2026-07-04T00:07:38+00:00",
+      "fetched_at": "2026-07-04T16:46:05.539646+00:00"
     },
     {
       "id": "fca7f5cab350",
