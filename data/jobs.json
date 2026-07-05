@@ -1,27 +1,27 @@
 {
-  "last_updated": "2026-07-05T10:00:12.853306+00:00",
-  "total_jobs": 5040,
+  "last_updated": "2026-07-05T12:59:06.920570+00:00",
+  "total_jobs": 5045,
   "stats": {
-    "total_companies": 2592,
+    "total_companies": 2595,
     "total_roles": 75,
     "regions": {
-      "India": 3256,
+      "India": 3258,
       "Philippines": 1039,
-      "Remote": 631,
+      "Remote": 634,
       "Unknown": 135
     },
     "sources": {
-      "Other": 3966,
+      "Other": 3969,
       "Greenhouse": 253,
       "Workday": 223,
       "LinkedIn": 186,
       "Ashby": 151,
-      "iCIMS": 59,
+      "iCIMS": 60,
       "Breezy": 56,
       "Lever": 37,
       "Workable": 36,
       "SmartRecruiters": 31,
-      "Indeed": 19,
+      "Indeed": 20,
       "BrassRing": 6,
       "Recruitee": 5,
       "Jobvite": 5,
@@ -35,6 +35,81 @@
     }
   },
   "jobs": [
+    {
+      "id": "5dd2411556b4",
+      "title": "Senior Python Backend Engineer | REMOTE (EMEA/APAC) We're looking for Python bac...",
+      "company": "REMOTE (EMEA/APAC) We're looking for Python bac...",
+      "role": "Backend Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://news.ycombinator.com/item?id=48772462",
+      "source": "Other",
+      "description": "Senior Python Backend Engineer | REMOTE (EMEA/APAC). We're looking for Python backend engineers to work on a trustless supercluster of performance ...",
+      "date": "2026-07-05",
+      "timestamp": "2026-07-05T12:28:01+00:00",
+      "fetched_at": "2026-07-05T12:59:06.835804+00:00"
+    },
+    {
+      "id": "eb8760469acd",
+      "title": "Senior Software Engineer (Chainlink Runtime) - the Jungle",
+      "company": "the Jungle",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.welcometothejungle.com/en/companies/chainlink-labs/jobs/senior-software-engineer-chainlink-runtime_london_dxh5py5j",
+      "source": "Other",
+      "description": "The Senior Software Engineer will play a critical role in advancing the reliability, scalability, and operational excellence of the Chainlink ...",
+      "date": "2026-07-05",
+      "timestamp": "2026-07-05T09:24:43+00:00",
+      "fetched_at": "2026-07-05T12:59:06.836097+00:00"
+    },
+    {
+      "id": "67870c1bdf77",
+      "title": "Big Data Engineer Jobs, Employment in The Woodlands, TX | Indeed",
+      "company": "Indeed",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.indeed.com/q-big-data-engineer-l-the-woodlands,-tx-jobs.html",
+      "source": "Indeed",
+      "description": "Senior AI Engineer - SFL Scientific ... People also searched: back end developer \u00b7 senior software engineer \u00b7 firmware engineer \u00b7 devops engineer .",
+      "date": "2026-07-05",
+      "timestamp": "2026-07-05T09:05:57+00:00",
+      "fetched_at": "2026-07-05T12:59:06.836305+00:00"
+    },
+    {
+      "id": "fc9d9dca327b",
+      "title": "PSI | Site Reliability Engineer in Remote - Planned Systems International",
+      "company": "PSI",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers-plansys.icims.com/jobs/11726/site-reliability-engineer/job",
+      "source": "iCIMS",
+      "description": "(Remote) is now hiring a Site Reliability Engineer in Remote. Review all of the job details and apply today!",
+      "date": "2026-07-05",
+      "timestamp": "2026-07-05T08:29:27+00:00",
+      "fetched_at": "2026-07-05T12:59:06.836462+00:00"
+    },
+    {
+      "id": "61d63dab30de",
+      "title": "Senior Software Engineer - Accelerated Kubernetes Runtime Team | NVIDIA Corporation",
+      "company": "Accelerated Kubernetes Runtime Team | NVIDIA Corporation",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.nvidia.com/careers/job/893394443076?ref=blog.simplify.jobs",
+      "source": "Other",
+      "description": "Senior Software Engineer - Accelerated Kubernetes Runtime Team. US, WA, Remote. +1 more. Apply Now. Find out how well you match with this job. Upload ...",
+      "date": "2026-07-05",
+      "timestamp": "2026-07-05T06:41:09+00:00",
+      "fetched_at": "2026-07-05T12:59:06.836649+00:00"
+    },
     {
       "id": "cb6184d5479f",
       "title": "Software Engineer \u2013 Java/Go | Distributed Systems | Microservices | Kafka | Cloud | 4\u20138 ...",
