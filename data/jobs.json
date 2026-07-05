@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-07-05T01:29:40.875036+00:00",
-  "total_jobs": 5027,
+  "last_updated": "2026-07-05T06:57:02.102999+00:00",
+  "total_jobs": 5039,
   "stats": {
-    "total_companies": 2588,
+    "total_companies": 2591,
     "total_roles": 75,
     "regions": {
-      "India": 3247,
-      "Philippines": 1038,
-      "Remote": 628,
+      "India": 3256,
+      "Philippines": 1039,
+      "Remote": 630,
       "Unknown": 135
     },
     "sources": {
-      "Other": 3956,
-      "Greenhouse": 252,
+      "Other": 3965,
+      "Greenhouse": 253,
       "Workday": 223,
-      "LinkedIn": 185,
+      "LinkedIn": 186,
       "Ashby": 151,
       "iCIMS": 59,
       "Breezy": 56,
@@ -25,16 +25,136 @@
       "BrassRing": 6,
       "Recruitee": 5,
       "Jobvite": 5,
+      "Taleo": 3,
       "ADP": 2,
-      "Taleo": 2,
       "WeWorkRemotely": 2
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-07-04"
+      "latest": "2026-07-05"
     }
   },
   "jobs": [
+    {
+      "id": "cb6184d5479f",
+      "title": "Software Engineer \u2013 Java/Go | Distributed Systems | Microservices | Kafka | Cloud | 4\u20138 ...",
+      "company": "Distributed Systems | Microservices | Kafka | Cloud | 4\u20138 ...",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2018733EXTERNALENGLOBAL/Software-Engineer-Java-Go-Distributed-Systems-Microservices-Kafka-Cloud-4-8-Years",
+      "source": "Other",
+      "description": "Senior Software Engineer \u2013 Java/Go | Distributed Systems ... Data Engineer - Java Backend Engineer , Kafka, Microservices, API, Oracle ...",
+      "date": "2026-07-05",
+      "timestamp": "2026-07-05T06:36:14+00:00",
+      "fetched_at": "2026-07-05T06:57:01.908285+00:00"
+    },
+    {
+      "id": "93c16f50c90a",
+      "title": "Data Engineer III - JPMC Candidate Experience page Careers",
+      "company": "JPMC Candidate Experience page Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210764968",
+      "source": "Other",
+      "description": "Software Engineer III. Bengaluru, Karnataka, India Posted on 06/10 ... Site Reliability Engineer III. Bengaluru, Karnataka, India Posted on 07 ...",
+      "date": "2026-07-05",
+      "timestamp": "2026-07-05T05:07:19+00:00",
+      "fetched_at": "2026-07-05T06:57:01.908483+00:00"
+    },
+    {
+      "id": "d3e86b881e36",
+      "title": "Senior Software Engineer (Full Stack) \u2013 DriveWealth \u2013 Permanent contract in New York",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.welcometothejungle.com/en/companies/drivewealth/jobs/senior-software-engineer-full-stack_new-york_2lfp5sf5",
+      "source": "Other",
+      "description": "DriveWealth is looking for a Senior Software Engineer (Full Stack) in New York!",
+      "date": "2026-07-05",
+      "timestamp": "2026-07-05T04:09:12+00:00",
+      "fetched_at": "2026-07-05T06:57:01.908706+00:00"
+    },
+    {
+      "id": "0933067e0915",
+      "title": "I've been a software engineer for over twenty years. I can tell you, Fable is something else. It ...",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://x.com/maccaw/status/2073522128457220236",
+      "source": "Other",
+      "description": "Alex MacCaw (@maccaw). 259 likes 19 replies. I've been a software engineer for over twenty years. I can tell you, Fable is something else.",
+      "date": "2026-07-05",
+      "timestamp": "2026-07-05T02:57:06+00:00",
+      "fetched_at": "2026-07-05T06:57:01.909006+00:00"
+    },
+    {
+      "id": "0afa3ec6ab38",
+      "title": "Escaping Low Salary Offers as a DevOps Engineer : r/devopsjobs - Reddit",
+      "company": "Reddit",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/devopsjobs/comments/1un79ce/escaping_low_salary_offers_as_a_devops_engineer/",
+      "source": "Other",
+      "description": "21 votes, 23 comments. I have 2.5 years of experience as a DevOps Engineer with hands-on experience across multiple production projects (AWS, ...",
+      "date": "2026-07-05",
+      "timestamp": "2026-07-05T02:06:04+00:00",
+      "fetched_at": "2026-07-05T06:57:01.909722+00:00"
+    },
+    {
+      "id": "bb43f1d8e576",
+      "title": "Senior Software Engineer (Databricks) | Careers at CoStar Group",
+      "company": "CoStar Group",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.costargroup.com/careers/job/446718847147-senior-software-engineer-databricks--san-diego-california-united-states-of-america?domain=costar.com",
+      "source": "Other",
+      "description": "... Senior Software Engineer (Databricks)\", \"posting_name\": \" Senior Software Engineer (Databricks)\", \"location\": \"San Diego, California, United ...",
+      "date": "2026-07-05",
+      "timestamp": "2026-07-05T01:42:12+00:00",
+      "fetched_at": "2026-07-05T06:57:01.910097+00:00"
+    },
+    {
+      "id": "ca0be90ead9c",
+      "title": "Job Application for Senior Engineer ( ML Engineer ) at Graphcore - Greenhouse",
+      "company": "Graphcore",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/graphcore/jobs/8607696002?utm_source=Otta",
+      "source": "Greenhouse",
+      "description": "Senior Engineer ( ML Engineer ). London, UK. Start your application. About the job. Validate the ML stack that turns accelerator hardware into trusted ...",
+      "date": "2026-07-05",
+      "timestamp": "2026-07-05T00:52:38+00:00",
+      "fetched_at": "2026-07-05T06:57:01.910215+00:00"
+    },
+    {
+      "id": "d6f5b39ff0d9",
+      "title": "SWE here, Azure Cloud Engineer interview next week. Am I cooked chat? - Reddit",
+      "company": "Reddit",
+      "role": "Cloud Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/AZURE/comments/1un5d4c/swe_here_azure_cloud_engineer_interview_next_week/",
+      "source": "Other",
+      "description": "I ran the team honestly, and if someone wasn't a cloud engineer 3, they weren't going to get promoted. ... DevOps Engineer Template Resume. Every person ...",
+      "date": "2026-07-04",
+      "timestamp": "2026-07-04T23:30:11+00:00",
+      "fetched_at": "2026-07-05T06:57:01.910422+00:00"
+    },
     {
       "id": "ec8d0075029e",
       "title": "Data Engineer \u2013 Apache Spark | Kafka | Flink | Trino | Iceberg | Big Data | Streaming - Cisco Careers",
@@ -64,6 +184,36 @@
       "date": "2026-07-04",
       "timestamp": "2026-07-04T21:56:58+00:00",
       "fetched_at": "2026-07-05T01:29:40.777948+00:00"
+    },
+    {
+      "id": "8a05f66afaee",
+      "title": "Software Engineer 2 ( React and Python) in Hopkins, MN, United States - U.S. Bank careers",
+      "company": "U.S. Bank careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.usbank.com/global/en/job/UBNAGLOBAL20260019276EXTERNALENGLOBAL/Software-Engineer-2-React-and-Python",
+      "source": "Other",
+      "description": "Software Engineer 2 ( React and Python). Apply now. JOB DESCRIPTION ... Senior Software Engineer (Hogan API). Available in 7 locations. Software ...",
+      "date": "2026-07-04",
+      "timestamp": "2026-07-04T21:51:43+00:00",
+      "fetched_at": "2026-07-05T06:57:02.081309+00:00"
+    },
+    {
+      "id": "62e475c3702d",
+      "title": "Software Engineer (WebTools) \u2013 Cboe \u2013 Permanent contract in New York - the Jungle",
+      "company": "the Jungle",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.welcometothejungle.com/en/companies/cboe/jobs/software-engineer-webtools_new-york_2y4nin3y",
+      "source": "Other",
+      "description": "Cboe is looking for a Software Engineer (WebTools) in New York!",
+      "date": "2026-07-04",
+      "timestamp": "2026-07-04T20:27:36+00:00",
+      "fetched_at": "2026-07-05T06:57:01.911390+00:00"
     },
     {
       "id": "794f3e01f6d8",
@@ -127,6 +277,21 @@
       "fetched_at": "2026-07-04T20:39:54.342509+00:00"
     },
     {
+      "id": "3184613c6269",
+      "title": "Job Description - Sr Platform Engineer (JR108763)",
+      "company": "Job Description",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://aa224.taleo.net/careersection/ex/jobdetail.ftl?job=JR108763",
+      "source": "Taleo",
+      "description": "We're hiring a Senior Platform Engineer to own the infrastructure, automation, and reliability behind this platform. This is a high-impact role ...",
+      "date": "2026-07-04",
+      "timestamp": "2026-07-04T17:18:16+00:00",
+      "fetched_at": "2026-07-05T06:57:01.912232+00:00"
+    },
+    {
       "id": "953584e22a1e",
       "title": "Senior Software Engineer , AI & Strategy | New York, NY, USA - eFinancialCareers",
       "company": "New York, NY, USA - eFinancialCareers",
@@ -170,6 +335,21 @@
       "date": "2026-07-04",
       "timestamp": "2026-07-04T16:48:12+00:00",
       "fetched_at": "2026-07-05T01:29:40.779512+00:00"
+    },
+    {
+      "id": "20d3fd180dc5",
+      "title": "Hire Feed hiring Senior Software Engineer (Remote) in European Union | LinkedIn",
+      "company": "LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/senior-software-engineer-remote-at-hire-feed-4436953753",
+      "source": "LinkedIn",
+      "description": "Role: Senior Software Engineer (Remote); Location: Remote (Work from ... Senior Backend Engineer - Product (Remote). Finom. Estonia 3 months ago.",
+      "date": "2026-07-04",
+      "timestamp": "2026-07-04T16:42:01+00:00",
+      "fetched_at": "2026-07-05T06:57:02.083204+00:00"
     },
     {
       "id": "30aa459de078",
