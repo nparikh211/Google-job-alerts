@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-07-05T12:59:06.920570+00:00",
-  "total_jobs": 5045,
+  "last_updated": "2026-07-05T16:50:17.613720+00:00",
+  "total_jobs": 5056,
   "stats": {
-    "total_companies": 2595,
+    "total_companies": 2599,
     "total_roles": 75,
     "regions": {
-      "India": 3258,
-      "Philippines": 1039,
-      "Remote": 634,
+      "India": 3266,
+      "Philippines": 1041,
+      "Remote": 635,
       "Unknown": 135
     },
     "sources": {
-      "Other": 3969,
+      "Other": 3977,
       "Greenhouse": 253,
       "Workday": 223,
-      "LinkedIn": 186,
-      "Ashby": 151,
+      "LinkedIn": 188,
+      "Ashby": 152,
       "iCIMS": 60,
       "Breezy": 56,
       "Lever": 37,
@@ -36,6 +36,81 @@
   },
   "jobs": [
     {
+      "id": "0e58c30d12f5",
+      "title": "Software Engineer | Menlo Park, CA, USA - eFinancialCareers",
+      "company": "Menlo Park, CA, USA - eFinancialCareers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.efinancialcareers.com/jobs-USA-CA-Menlo_Park-Software_Engineer.id24484196",
+      "source": "Other",
+      "description": "Senior Software Engineer - Robinhood Command Center. Robinhood. Menlo ... Senior Machine Learning Engineer . Robinhood. Menlo Park, United States.",
+      "date": "2026-07-05",
+      "timestamp": "2026-07-05T16:40:35+00:00",
+      "fetched_at": "2026-07-05T16:50:17.295382+00:00"
+    },
+    {
+      "id": "2574f38ced4d",
+      "title": "Fullstack Engineer @ Cardboard, Inc - Jobs",
+      "company": "Cardboard",
+      "role": "Fullstack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/cardboard/744b9881-cf83-4b20-b6dd-5ef8e8082e62/application",
+      "source": "Ashby",
+      "description": "Fullstack Engineer . Location. Bengaluru. Employment Type. Full time. Location Type. On-site. Department. Tech. OverviewApplication. Autofill from ...",
+      "date": "2026-07-05",
+      "timestamp": "2026-07-05T14:40:47+00:00",
+      "fetched_at": "2026-07-05T16:50:17.295528+00:00"
+    },
+    {
+      "id": "02aad5de8789",
+      "title": "GDS Consulting - AIA - Python Full stack AI Engineer - Senior Job Details - EY careers",
+      "company": "GDS Consulting",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.ey.com/ey/job/Hyderabad-EY-GDS-Consulting-AIA-Python-Full-stack-AI-Engineer-Senior-TG-500081/1411524633/",
+      "source": "Other",
+      "description": "... AI Engineer - Senior - TG, 500081. ... Certifications in Azure AI (preferred), AWS Machine Learning, or GCP Professional ML Engineer .",
+      "date": "2026-07-05",
+      "timestamp": "2026-07-05T14:24:17+00:00",
+      "fetched_at": "2026-07-05T16:50:17.295811+00:00"
+    },
+    {
+      "id": "a2dad907b4a2",
+      "title": "Software engineer career progression looks grim. Thoughts please. : r/developersIndia",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/developersIndia/comments/1unxlfh/software_engineer_career_progression_looks_grim/",
+      "source": "Other",
+      "description": "260 votes, 88 comments. Guys.. I'm a software engineer with 4+ years of experience but in 2026 I have written 0 lines of code myself. Claude is\u2026",
+      "date": "2026-07-05",
+      "timestamp": "2026-07-05T14:15:34+00:00",
+      "fetched_at": "2026-07-05T16:50:17.296026+00:00"
+    },
+    {
+      "id": "fc4b062e9fd3",
+      "title": "Senior Software Engineer - Caterpillar Careers",
+      "company": "Caterpillar Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.caterpillar.com/en/jobs/r0000378740/senior-software-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer to design, develop, and support scalable ... Similar Jobs. Senior DevOps Engineer . Save Saved. Broomfield, Colorado ...",
+      "date": "2026-07-05",
+      "timestamp": "2026-07-05T13:49:15+00:00",
+      "fetched_at": "2026-07-05T16:50:17.296184+00:00"
+    },
+    {
       "id": "5dd2411556b4",
       "title": "Senior Python Backend Engineer | REMOTE (EMEA/APAC) We're looking for Python bac...",
       "company": "REMOTE (EMEA/APAC) We're looking for Python bac...",
@@ -49,6 +124,21 @@
       "date": "2026-07-05",
       "timestamp": "2026-07-05T12:28:01+00:00",
       "fetched_at": "2026-07-05T12:59:06.835804+00:00"
+    },
+    {
+      "id": "a93d0d3e2783",
+      "title": "JPMorganChase hiring AI/ML Software Engineer II in New York, NY | LinkedIn",
+      "company": "LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/ai-ml-software-engineer-ii-at-jpmorganchase-4436992339",
+      "source": "LinkedIn",
+      "description": "Senior Software Engineer - AI/ML. Bevel. New York, NY $180,000 - $215,000 ... AI Engineer (New York). Edra. New York, NY $195,000 - $275,000 1 ...",
+      "date": "2026-07-05",
+      "timestamp": "2026-07-05T09:37:52+00:00",
+      "fetched_at": "2026-07-05T16:50:17.296718+00:00"
     },
     {
       "id": "eb8760469acd",
@@ -96,6 +186,21 @@
       "fetched_at": "2026-07-05T12:59:06.836462+00:00"
     },
     {
+      "id": "656be5126b21",
+      "title": "Senior Software Engineer at UnitedHealth Group",
+      "company": "UnitedHealth Group",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.unitedhealthgroup.com/job/raleigh/senior-software-engineer/34088/97360439024",
+      "source": "Other",
+      "description": "Senior Software Engineer . Requisition number: 2368178 Job category: Technology Primary location: Raleigh, NC Date posted: 07/05/ ...",
+      "date": "2026-07-05",
+      "timestamp": "2026-07-05T06:50:10+00:00",
+      "fetched_at": "2026-07-05T16:50:17.590615+00:00"
+    },
+    {
       "id": "61d63dab30de",
       "title": "Senior Software Engineer - Accelerated Kubernetes Runtime Team | NVIDIA Corporation",
       "company": "Accelerated Kubernetes Runtime Team | NVIDIA Corporation",
@@ -141,6 +246,51 @@
       "fetched_at": "2026-07-05T06:57:01.908483+00:00"
     },
     {
+      "id": "7c2649de9eea",
+      "title": "Data Engineer -Data Platforms - Japanese Bilingual - 123339 - IBM",
+      "company": "Data Platforms - Japanese Bilingual - 123339 - IBM",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.ibm.com/en_US/careers/JobDetail/Data-Engineer-Data-Platforms-Japanese-Bilingual/123339",
+      "source": "Other",
+      "description": "As a Data Engineer specializing in Data Platforms, you will develop applications on Big Data technologies, including API development.",
+      "date": "2026-07-05",
+      "timestamp": "2026-07-05T04:45:18+00:00",
+      "fetched_at": "2026-07-05T16:50:17.298595+00:00"
+    },
+    {
+      "id": "49b3ff32b1ff",
+      "title": "Senior Software Engineer (Data Products) \u2013 Persona \u2013 Permanent contract in - the Jungle",
+      "company": "the Jungle",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.welcometothejungle.com/en/companies/persona/jobs/senior-software-engineer-data-products_us_q3vwignd",
+      "source": "Other",
+      "description": "Persona is looking for a Senior Software Engineer (Data Products) in !",
+      "date": "2026-07-05",
+      "timestamp": "2026-07-05T04:16:24+00:00",
+      "fetched_at": "2026-07-05T16:50:17.298789+00:00"
+    },
+    {
+      "id": "1ba01f8e87e9",
+      "title": "FetchJobs.co hiring Software Engineer \u2013 AI/ML in United States | LinkedIn",
+      "company": "LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/software-engineer-%E2%80%93-ai-ml-at-fetchjobs-co-4436011240",
+      "source": "LinkedIn",
+      "description": "Machine Learning Engineer , Agentic AI. Zillow. United States 5 days ago ... AI Engineer -Remote Opportunity. Answer Financial. United States 1 ...",
+      "date": "2026-07-05",
+      "timestamp": "2026-07-05T04:16:04+00:00",
+      "fetched_at": "2026-07-05T16:50:17.591166+00:00"
+    },
+    {
       "id": "d3e86b881e36",
       "title": "Senior Software Engineer (Full Stack) \u2013 DriveWealth \u2013 Permanent contract in New York",
       "company": "Unknown Company",
@@ -169,6 +319,21 @@
       "date": "2026-07-05",
       "timestamp": "2026-07-05T03:47:14+00:00",
       "fetched_at": "2026-07-05T10:00:12.750987+00:00"
+    },
+    {
+      "id": "60b03644029b",
+      "title": "Compliance, New York, Vice President, AI/ ML Engineer - Goldman Sachs | Built In NYC",
+      "company": "Goldman Sachs | Built In NYC",
+      "role": "ML Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.builtinnyc.com/job/compliance-new-york-vice-president-ai-ml-engineer/9936217",
+      "source": "Other",
+      "description": "Goldman Sachs is hiring for a Compliance, New York, Vice President, AI/ ML Engineer in New York, NY, USA. Find more details about the job and how ...",
+      "date": "2026-07-05",
+      "timestamp": "2026-07-05T03:19:14+00:00",
+      "fetched_at": "2026-07-05T16:50:17.591508+00:00"
     },
     {
       "id": "0933067e0915",
