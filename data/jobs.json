@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-07-05T16:50:17.613720+00:00",
-  "total_jobs": 5056,
+  "last_updated": "2026-07-05T20:43:25.253245+00:00",
+  "total_jobs": 5067,
   "stats": {
-    "total_companies": 2599,
+    "total_companies": 2605,
     "total_roles": 75,
     "regions": {
-      "India": 3266,
-      "Philippines": 1041,
+      "India": 3274,
+      "Philippines": 1044,
       "Remote": 635,
       "Unknown": 135
     },
     "sources": {
-      "Other": 3977,
+      "Other": 3985,
       "Greenhouse": 253,
-      "Workday": 223,
+      "Workday": 225,
       "LinkedIn": 188,
       "Ashby": 152,
       "iCIMS": 60,
@@ -21,7 +21,7 @@
       "Lever": 37,
       "Workable": 36,
       "SmartRecruiters": 31,
-      "Indeed": 20,
+      "Indeed": 21,
       "BrassRing": 6,
       "Recruitee": 5,
       "Jobvite": 5,
@@ -36,6 +36,81 @@
   },
   "jobs": [
     {
+      "id": "76cd380d8fef",
+      "title": "Don't Become a Software Engineer in 2026 (Until You Watch This) - YouTube",
+      "company": "YouTube",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.youtube.com/watch?v=Egr6BiXpHQc",
+      "source": "Other",
+      "description": "... senior software engineer previously at Google, with prior internships at Amazon, IBM, and Microsoft. Sharing my journey here \u2014 thanks for watching ...",
+      "date": "2026-07-05",
+      "timestamp": "2026-07-05T19:42:26+00:00",
+      "fetched_at": "2026-07-05T20:43:25.160901+00:00"
+    },
+    {
+      "id": "4d1150ec61ee",
+      "title": "Senior Machine Learning Engineer , - Guidant Global",
+      "company": "Guidant Global",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.guidantglobal.com/job/senior-machine-learning-engineer-5952295",
+      "source": "Other",
+      "description": "... Machine Learning Engineer , AI Engineer or equivalent; Strong grounding in applied mathematics, statistics and scientific practice; Excellent Python ...",
+      "date": "2026-07-05",
+      "timestamp": "2026-07-05T18:31:31+00:00",
+      "fetched_at": "2026-07-05T20:43:25.161277+00:00"
+    },
+    {
+      "id": "d141e2930ddb",
+      "title": "AI/ML Software Engineer II - JPMC Candidate Experience page Careers",
+      "company": "JPMC Candidate Experience page Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/cx_1001/job/210761228",
+      "source": "Other",
+      "description": "AI/ML Software Engineer II. New York, NY, United States. and 1 more. Apply Now. Job Information. Job Identification 210761228; Job Category Software ...",
+      "date": "2026-07-05",
+      "timestamp": "2026-07-05T18:29:56+00:00",
+      "fetched_at": "2026-07-05T20:43:25.228779+00:00"
+    },
+    {
+      "id": "5c832e553126",
+      "title": "Software engineer - Myworkdayjobs.com",
+      "company": "Kla",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Software-engineer_2638208-4",
+      "source": "Workday",
+      "description": "As a software engineer , you will work across the stack\u2014developing applications and contributing to the design and validation of the high-performance ...",
+      "date": "2026-07-05",
+      "timestamp": "2026-07-05T18:28:27+00:00",
+      "fetched_at": "2026-07-05T20:43:25.161447+00:00"
+    },
+    {
+      "id": "c65b881f174d",
+      "title": "Fullstack Engineer | Cardboard Careers",
+      "company": "Cardboard Careers",
+      "role": "Fullstack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.usecardboard.com/careers/fullstack-engineer",
+      "source": "Other",
+      "description": "Build Cardboard end to end. We're hiring a Fullstack Engineer to own features from the editor timeline down to the cloud media pipeline that ...",
+      "date": "2026-07-05",
+      "timestamp": "2026-07-05T17:00:09+00:00",
+      "fetched_at": "2026-07-05T20:43:25.161675+00:00"
+    },
+    {
       "id": "0e58c30d12f5",
       "title": "Software Engineer | Menlo Park, CA, USA - eFinancialCareers",
       "company": "Menlo Park, CA, USA - eFinancialCareers",
@@ -49,6 +124,21 @@
       "date": "2026-07-05",
       "timestamp": "2026-07-05T16:40:35+00:00",
       "fetched_at": "2026-07-05T16:50:17.295382+00:00"
+    },
+    {
+      "id": "6f8a6c8d95f0",
+      "title": "Machine Learning Engineer - Myworkdayjobs.com",
+      "company": "Juliusbaer",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://juliusbaer.wd3.myworkdayjobs.com/de-DE/External/job/Singapore/Machine-Learning-Engineer_r-18856-1",
+      "source": "Workday",
+      "description": "We are seeking a skilled machine learning engineer (ML Eng) to join one of our agile development teams in our ML & AI ART. In this role, you will play ...",
+      "date": "2026-07-05",
+      "timestamp": "2026-07-05T16:08:57+00:00",
+      "fetched_at": "2026-07-05T20:43:25.162227+00:00"
     },
     {
       "id": "2574f38ced4d",
@@ -111,6 +201,36 @@
       "fetched_at": "2026-07-05T16:50:17.296184+00:00"
     },
     {
+      "id": "b0f7c2d75a40",
+      "title": "Machine Learning Engineer \u2013 Language Models and Agentic AI for Scientific Imaging",
+      "company": "Unknown Company",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.dkfz.de/en/jobs/168709/machine-learning-engineer-language-models-and-agentic-ai-for-scientific-imaging?mtm_campaign=dkfz-de&mtm_kwd=168709",
+      "source": "Other",
+      "description": "Machine Learning Engineer \u2013 Language Models and Agentic AI for Scientific Imaging. Reference number: 2026-0142. Heidelberg; Full-time; Medical Image ...",
+      "date": "2026-07-05",
+      "timestamp": "2026-07-05T13:28:34+00:00",
+      "fetched_at": "2026-07-05T20:43:25.230915+00:00"
+    },
+    {
+      "id": "54f6a2fec756",
+      "title": "Senior Software Engineer jobs in Pennsylvania - Startup Jobs",
+      "company": "Startup Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://startup.jobs/locations/pennsylvania/senior-software-engineer",
+      "source": "Other",
+      "description": "Discover the latest Senior Software Engineer jobs at the fastest growing startups in Pennsylvania. Updated daily.",
+      "date": "2026-07-05",
+      "timestamp": "2026-07-05T12:33:23+00:00",
+      "fetched_at": "2026-07-05T20:43:25.163726+00:00"
+    },
+    {
       "id": "5dd2411556b4",
       "title": "Senior Python Backend Engineer | REMOTE (EMEA/APAC) We're looking for Python bac...",
       "company": "REMOTE (EMEA/APAC) We're looking for Python bac...",
@@ -126,6 +246,36 @@
       "fetched_at": "2026-07-05T12:59:06.835804+00:00"
     },
     {
+      "id": "e2605e80dab2",
+      "title": "Software Engineer Ford Motor Company Careers and Employment | Indeed.com",
+      "company": "Indeed.com",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.indeed.com/cmp/Software-Engineer-Ford-Motor-Company",
+      "source": "Indeed",
+      "description": "Find out what works well at Software Engineer Ford Motor Company from the people who know best. Get the inside scoop on jobs, salaries, ...",
+      "date": "2026-07-05",
+      "timestamp": "2026-07-05T12:04:37+00:00",
+      "fetched_at": "2026-07-05T20:43:25.164326+00:00"
+    },
+    {
+      "id": "2cdc835f9107",
+      "title": "Site Reliability Engineer II (US) | TD Bank Jobs",
+      "company": "TD Bank Jobs",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://tdbank.jobs/charlotte-nc/site-reliability-engineer-ii-us/B432FC4D07034D77A01D7A1023ACFD63/job/",
+      "source": "Other",
+      "description": "Job Description: The Site Reliability Engineer II (US) provides a broad range of systems / application support, research and analysis, administration, ...",
+      "date": "2026-07-05",
+      "timestamp": "2026-07-05T11:02:46+00:00",
+      "fetched_at": "2026-07-05T20:43:25.164900+00:00"
+    },
+    {
       "id": "a93d0d3e2783",
       "title": "JPMorganChase hiring AI/ML Software Engineer II in New York, NY | LinkedIn",
       "company": "LinkedIn",
@@ -139,6 +289,21 @@
       "date": "2026-07-05",
       "timestamp": "2026-07-05T09:37:52+00:00",
       "fetched_at": "2026-07-05T16:50:17.296718+00:00"
+    },
+    {
+      "id": "947eaa14c3e4",
+      "title": "Lead/ Senior Software Engineer , Pipeline Management Services - HERE Technologies",
+      "company": "HERE Technologies",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://justjoin.it/job-offer/here-technologies-senior-software-engineer-pipeline-management-services-krakow-java",
+      "source": "Other",
+      "description": "z o.o.. Krak\u00f3w. Hybrid. Hybrid. Lead Software Fullstack Engineer . New. 53 - 66 ... Senior Software Engineer - Java. New. 52 058 - 78 100USD/year. AWS.",
+      "date": "2026-07-05",
+      "timestamp": "2026-07-05T09:26:26+00:00",
+      "fetched_at": "2026-07-05T20:43:25.232317+00:00"
     },
     {
       "id": "eb8760469acd",
