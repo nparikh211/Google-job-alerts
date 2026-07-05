@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-07-04T20:39:54.456817+00:00",
-  "total_jobs": 5018,
+  "last_updated": "2026-07-05T01:29:40.875036+00:00",
+  "total_jobs": 5027,
   "stats": {
-    "total_companies": 2581,
+    "total_companies": 2588,
     "total_roles": 75,
     "regions": {
-      "India": 3239,
-      "Philippines": 1037,
-      "Remote": 627,
+      "India": 3247,
+      "Philippines": 1038,
+      "Remote": 628,
       "Unknown": 135
     },
     "sources": {
-      "Other": 3949,
+      "Other": 3956,
       "Greenhouse": 252,
       "Workday": 223,
-      "LinkedIn": 184,
+      "LinkedIn": 185,
       "Ashby": 151,
       "iCIMS": 59,
       "Breezy": 56,
+      "Lever": 37,
       "Workable": 36,
-      "Lever": 36,
       "SmartRecruiters": 31,
       "Indeed": 19,
       "BrassRing": 6,
@@ -35,6 +35,67 @@
     }
   },
   "jobs": [
+    {
+      "id": "ec8d0075029e",
+      "title": "Data Engineer \u2013 Apache Spark | Kafka | Flink | Trino | Iceberg | Big Data | Streaming - Cisco Careers",
+      "company": "Kafka | Flink | Trino | Iceberg | Big Data | Streaming - Cisco Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/2018747/Data-Engineer-Apache-Spark-Kafka-Flink-Trino-Iceberg-Big-Data-Streaming-Data-Platform-4-8-Years",
+      "source": "Other",
+      "description": "Data Engineer \u2013 Apache Spark | Kafka | Flink | Trino ... Data Engineer - Java Backend Engineer , Kafka, Microservices, API, Oracle/Snowflake.",
+      "date": "2026-07-04",
+      "timestamp": "2026-07-04T22:11:24+00:00",
+      "fetched_at": "2026-07-05T01:29:40.777749+00:00"
+    },
+    {
+      "id": "3f4050a4bbb4",
+      "title": "Senior Cloud Engineer in Wilmington, Delaware, United States of America - Qnity jobs",
+      "company": "Qnity jobs",
+      "role": "Cloud Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.qnityelectronics.com/us/en/job/251641W/Senior-Cloud-Engineer",
+      "source": "Other",
+      "description": "Senior Cloud Engineer . Are you looking to power the next leap in the ... DevOps Engineer (AZ-400) \u2022 HashiCorp Terraform Associate (highly ...",
+      "date": "2026-07-04",
+      "timestamp": "2026-07-04T21:56:58+00:00",
+      "fetched_at": "2026-07-05T01:29:40.777948+00:00"
+    },
+    {
+      "id": "794f3e01f6d8",
+      "title": "Frontend Engineer , Consumer in Toronto, Ontario, Canada - HelloFresh Careers",
+      "company": "HelloFresh Careers",
+      "role": "Frontend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.hellofresh.com/global/en/job/7977073",
+      "source": "Other",
+      "description": "... Machine Learning Engineer , Operations Technology. Location Toronto ... Backend Engineer , Customer Value Optimisation. Location New York, NY ...",
+      "date": "2026-07-04",
+      "timestamp": "2026-07-04T19:34:56+00:00",
+      "fetched_at": "2026-07-05T01:29:40.778443+00:00"
+    },
+    {
+      "id": "5f59958473c1",
+      "title": "JumpCloud - Full-Stack Software Engineer - India - Lever",
+      "company": "Jumpcloud",
+      "role": "Software Engineer",
+      "regions": [
+        "India",
+        "Remote"
+      ],
+      "link": "https://jobs.lever.co/jumpcloud/53566bf5-5422-4842-9803-290dccf92418/apply",
+      "source": "Lever",
+      "description": "Full-Stack Software Engineer - India \u00b7 Submit your application \u00b7 Links \u00b7 Remote Work Requirements - JumpCloud allows you to work remotely in the Country ...",
+      "date": "2026-07-04",
+      "timestamp": "2026-07-04T18:02:46+00:00",
+      "fetched_at": "2026-07-05T01:29:40.852621+00:00"
+    },
     {
       "id": "188727b77037",
       "title": "Data Engineer - Level 4 | Lockheed Martin",
@@ -81,6 +142,36 @@
       "fetched_at": "2026-07-04T20:39:54.342798+00:00"
     },
     {
+      "id": "066edf45f15a",
+      "title": "Software Engineer - Mainframe in Hopkins, MN, United States | Technology & Digital at U.S. Bank",
+      "company": "U.S. Bank",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.usbank.com/global/en/job/UBNAGLOBAL20260019239EXTERNALENGLOBAL/Software-Engineer-Mainframe",
+      "source": "Other",
+      "description": "Software Engineer - Mainframe. Apply now. JOB DESCRIPTION. At U.S. ... Senior Software Engineer (Hogan API). Available in 7 locations. Software ...",
+      "date": "2026-07-04",
+      "timestamp": "2026-07-04T16:56:17+00:00",
+      "fetched_at": "2026-07-05T01:29:40.779317+00:00"
+    },
+    {
+      "id": "1eb59cf7de9b",
+      "title": "8+ years SWE (mobile) want to transition into ML engineer roles. What actually worked for you?",
+      "company": "actually worked for you?",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/cscareerquestions/comments/1umvp1s/8_years_swe_mobile_want_to_transition_into_ml/",
+      "source": "Other",
+      "description": "How realistic is it to transition into an AI / ML Engineer as a Full Stack engineer with 10 YOE? ... Mid- senior software engineer getting 0 traction. 59 ...",
+      "date": "2026-07-04",
+      "timestamp": "2026-07-04T16:48:12+00:00",
+      "fetched_at": "2026-07-05T01:29:40.779512+00:00"
+    },
+    {
       "id": "30aa459de078",
       "title": "AI Engineer - Partners Group",
       "company": "Partners Group",
@@ -109,6 +200,36 @@
       "date": "2026-07-04",
       "timestamp": "2026-07-04T16:34:18+00:00",
       "fetched_at": "2026-07-04T20:39:54.431910+00:00"
+    },
+    {
+      "id": "6d7a7aa3abc2",
+      "title": "Senior Cloud/ DevOps Engineer - DEPT\u00ae",
+      "company": "DEPT\u00ae",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.deptagency.com/vacancy/7461853-senior-cloud-devops-engineer",
+      "source": "Other",
+      "description": "Senior Cloud/ DevOps Engineer \u00b7 Previous experience as a Cloud Engineer (or similar role); \u00b7 Multi-cloud platform experience (Microsoft Azure, AWS and/or ...",
+      "date": "2026-07-04",
+      "timestamp": "2026-07-04T15:54:04+00:00",
+      "fetched_at": "2026-07-05T01:29:40.780389+00:00"
+    },
+    {
+      "id": "3debda88b9ea",
+      "title": "Software Engineer (Data Management) - Power3 Solutions - CATS",
+      "company": "Power3 Solutions - CATS",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://power3.catsone.com/careers/86128/jobs/16784000-Software-Engineer-Data-Management",
+      "source": "Other",
+      "description": "Software Engineer (Data Management). Linthicum Heights, MD. We solve difficult business, IT, and analytic problems by addressing the whole problem ...",
+      "date": "2026-07-04",
+      "timestamp": "2026-07-04T15:08:22+00:00",
+      "fetched_at": "2026-07-05T01:29:40.780827+00:00"
     },
     {
       "id": "f876a5b59ff6",
@@ -169,6 +290,21 @@
       "date": "2026-07-04",
       "timestamp": "2026-07-04T13:35:42+00:00",
       "fetched_at": "2026-07-04T16:46:05.536931+00:00"
+    },
+    {
+      "id": "871423d9fa7f",
+      "title": "Haystack hiring Software Engineer in Nashville, TN | LinkedIn",
+      "company": "LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/software-engineer-at-haystack-4433717569?position=60&pageNum=0&refId=vzn76bcuIDtwKVGvBz4HgQ%3D%3D&trackingId=G1WvwYsNwq4DohFBvURyIQ%3D%3D",
+      "source": "LinkedIn",
+      "description": "Full Stack Engineer (T2). Creative Artists Agency. Nashville, TN 3 days ago ... Senior Software Engineer . Pearson. Nashville, TN 3 days ago. Staff ...",
+      "date": "2026-07-04",
+      "timestamp": "2026-07-04T11:38:11+00:00",
+      "fetched_at": "2026-07-05T01:29:40.855497+00:00"
     },
     {
       "id": "53015590b0a7",
