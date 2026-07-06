@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-07-06T18:01:24.540510+00:00",
-  "total_jobs": 5128,
+  "last_updated": "2026-07-06T21:16:29.371477+00:00",
+  "total_jobs": 5149,
   "stats": {
-    "total_companies": 2638,
-    "total_roles": 75,
+    "total_companies": 2650,
+    "total_roles": 76,
     "regions": {
-      "India": 3306,
-      "Philippines": 1067,
-      "Remote": 641,
+      "India": 3319,
+      "Philippines": 1070,
+      "Remote": 647,
       "Unknown": 135
     },
     "sources": {
-      "Other": 4037,
+      "Other": 4052,
       "Greenhouse": 257,
-      "Workday": 225,
-      "LinkedIn": 188,
+      "Workday": 226,
+      "LinkedIn": 190,
       "Ashby": 154,
-      "iCIMS": 61,
-      "Breezy": 56,
+      "iCIMS": 63,
+      "Breezy": 57,
       "Lever": 37,
       "Workable": 36,
       "SmartRecruiters": 31,
@@ -35,6 +35,322 @@
     }
   },
   "jobs": [
+    {
+      "id": "9f36115d26a0",
+      "title": "Senior Data Engineer | Kelly Mitchell",
+      "company": "Kelly Mitchell",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.careers.kellymitchell.com/jobs/142282",
+      "source": "Other",
+      "description": "... Data Engineer to support their Prod. ... Job Summary: Our client is seeking a AEM Cloud DevOps Engineer to join their team!",
+      "date": "2026-07-06",
+      "timestamp": "2026-07-06T20:27:21+00:00",
+      "fetched_at": "2026-07-06T21:16:29.269419+00:00"
+    },
+    {
+      "id": "96c654ff8894",
+      "title": "Software Engineer in Remote, US (Remote) - Leidos Careers",
+      "company": "Leidos Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.leidos.com/jobs/17962839-software-engineer",
+      "source": "Other",
+      "description": "... Software Engineer . READ MORE. Search Engineer. READ MORE. Software Engineer . READ MORE. Senior Software Engineer . READ MORE. Chief Engineer. READ MORE ...",
+      "date": "2026-07-06",
+      "timestamp": "2026-07-06T20:16:48+00:00",
+      "fetched_at": "2026-07-06T21:16:29.269596+00:00"
+    },
+    {
+      "id": "eb1ff6e4b71f",
+      "title": "Mid-Level AI Engineer / AI Developer | Everforth Apex",
+      "company": "Mid",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.apexsystems.com/job/3041033_usa/mid-level-ai-engineer--ai-developer",
+      "source": "Other",
+      "description": "Mid-Level AI Engineer / AI Developer \u00b7 3\u20136 years of software engineering or application development experience. \u00b7 2+ years of hands-on experience ...",
+      "date": "2026-07-06",
+      "timestamp": "2026-07-06T20:16:22+00:00",
+      "fetched_at": "2026-07-06T21:16:29.269777+00:00"
+    },
+    {
+      "id": "9db35919d9ec",
+      "title": "Software Engineer II in Remote | Careers at Remote - United States - ICIMS",
+      "company": "Remote",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers-mercuryinsurance.icims.com/jobs/6601/software-engineer-ii/job",
+      "source": "iCIMS",
+      "description": "Remote - United States is now hiring a Software Engineer II in Remote. Review all of the job details and apply today!",
+      "date": "2026-07-06",
+      "timestamp": "2026-07-06T20:04:48+00:00",
+      "fetched_at": "2026-07-06T21:16:29.348023+00:00"
+    },
+    {
+      "id": "a3e4508a7f4b",
+      "title": "Site Reliability Engineer (SRE) - Senior Vice President | Citi Careers",
+      "company": "Senior Vice President | Citi Careers",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.citi.com/job/mississauga/site-reliability-engineer-sre-senior-vice-president/287/97435547744",
+      "source": "Other",
+      "description": "Learn more about applying for Site Reliability Engineer (SRE) - Senior Vice President at Citi. Learn more about potential responsibilities, ...",
+      "date": "2026-07-06",
+      "timestamp": "2026-07-06T20:01:55+00:00",
+      "fetched_at": "2026-07-06T21:16:29.270027+00:00"
+    },
+    {
+      "id": "2dc7900114f4",
+      "title": "Senior Software Engineer , Insurance - Myworkdayjobs.com",
+      "company": "Porch",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://porch.wd1.myworkdayjobs.com/en-US/careers/job/Senior-Software-Engineer--Insurance_JR101361",
+      "source": "Workday",
+      "description": "Senior Software Engineer , Insurance ... Porch Group is a leading vertical software and insurance platform and is positioned to be the best partner to ...",
+      "date": "2026-07-06",
+      "timestamp": "2026-07-06T19:52:47+00:00",
+      "fetched_at": "2026-07-06T21:16:29.348341+00:00"
+    },
+    {
+      "id": "18d76e4948f9",
+      "title": "Software Engineer in Bangalore, India | Product and Engineering at Cisco - Cisco Careers",
+      "company": "Cisco",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2018427EXTERNALENGLOBAL/Software-Engineer",
+      "source": "Other",
+      "description": "Platform Engineer \u2013 OpenShift+ AI-ML SRE | 4+ years. Location ... Join our team as a Senior Software Engineer \u2013 Cloud Infrastructure ...",
+      "date": "2026-07-06",
+      "timestamp": "2026-07-06T19:32:32+00:00",
+      "fetched_at": "2026-07-06T21:16:29.270204+00:00"
+    },
+    {
+      "id": "a6b7e07b2680",
+      "title": "AI Applications & Platform Engineer at Seek Now",
+      "company": "Seeknow",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://seeknow.breezy.hr/p/9f1f9d45111f-ai-applications-platform-engineer",
+      "source": "Breezy",
+      "description": "Seek Now is seeking an AI Applications & Platform Engineer to help business users transform AI-generated prototypes into secure, scalable, ...",
+      "date": "2026-07-06",
+      "timestamp": "2026-07-06T19:26:42+00:00",
+      "fetched_at": "2026-07-06T21:16:29.270339+00:00"
+    },
+    {
+      "id": "05a44c89692e",
+      "title": "Senior Data Engineer in Remote - Origami Risk, LLC | Careers Center | Welcome",
+      "company": "Origami Risk, LLC | Careers Center | Welcome",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers-origamirisk.icims.com/jobs/4516/senior-data-engineer/job",
+      "source": "iCIMS",
+      "description": "Remote - US is now hiring a Senior Data Engineer in Remote. Review all of the job details and apply today!",
+      "date": "2026-07-06",
+      "timestamp": "2026-07-06T19:13:36+00:00",
+      "fetched_at": "2026-07-06T21:16:29.270522+00:00"
+    },
+    {
+      "id": "2b9153b7750c",
+      "title": "Azure Data Engineer job - Experis USA - 403427",
+      "company": "Experis USA - 403427",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.experis.com/en/job/403427/azure-data-engineer",
+      "source": "Other",
+      "description": "Azure Data Engineer \u00b7 Design and develop scalable data pipelines using Microsoft Azure technologies \u00b7 Implement and manage data lakes to support ...",
+      "date": "2026-07-06",
+      "timestamp": "2026-07-06T19:03:11+00:00",
+      "fetched_at": "2026-07-06T21:16:29.270667+00:00"
+    },
+    {
+      "id": "288064ac4fff",
+      "title": "Software Engineer at MCKESSON",
+      "company": "MCKESSON",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mckesson.com/en/job/irving/software-engineer/733/97434887776",
+      "source": "Other",
+      "description": "Tackling challenges no one else can. Software Engineer . Irving, Texas. Job IDJR0150187 See Job Responsibilities. Apply",
+      "date": "2026-07-06",
+      "timestamp": "2026-07-06T18:47:53+00:00",
+      "fetched_at": "2026-07-06T21:16:29.270788+00:00"
+    },
+    {
+      "id": "87cdb0b733c2",
+      "title": "Software Engineer - Corsearch",
+      "company": "Corsearch",
+      "role": "Software Engineer",
+      "regions": [
+        "India",
+        "Remote"
+      ],
+      "link": "https://careers.corsearch.com/jobs/8015970-software-engineer",
+      "source": "Other",
+      "description": "Technology \u00b7 India (Mumbai) \u00b7 Fully Remote. Software Engineer . Apply for this job. We usually respond within three days.",
+      "date": "2026-07-06",
+      "timestamp": "2026-07-06T18:44:13+00:00",
+      "fetched_at": "2026-07-06T21:16:29.270914+00:00"
+    },
+    {
+      "id": "9dab05186e93",
+      "title": "Senior Software Engineer - Hosted Web (Remote) - Playlist",
+      "company": "Hosted Web (Remote) - Playlist",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.playlist.com/careers/opportunities/4694710006",
+      "source": "Other",
+      "description": "Senior Software Engineer - Hosted Web (Remote). Mindbody | Engineering | Salaried | United States. Apply now. At Playlist, life's richest moments ...",
+      "date": "2026-07-06",
+      "timestamp": "2026-07-06T18:42:29+00:00",
+      "fetched_at": "2026-07-06T21:16:29.349238+00:00"
+    },
+    {
+      "id": "d2d9e1202c24",
+      "title": "Arsh Goyal's Post - ai #google #engineer #tech - LinkedIn",
+      "company": "Arsh Goyal's Post",
+      "role": "Arsh Goyal's Post - ai #google #engineer #tech - LinkedIn",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/arshgoyal_ai-google-engineer-activity-7479494899508146176-4u5a",
+      "source": "LinkedIn",
+      "description": "... AI Engineer in 2026 as a fresher or an experienced candidate, we ... Arsh Goyal. Senior Software Engineer | AI for Businesses | Data & GenAI ...",
+      "date": "2026-07-06",
+      "timestamp": "2026-07-06T18:30:08+00:00",
+      "fetched_at": "2026-07-06T21:16:29.271570+00:00"
+    },
+    {
+      "id": "7b01a363f1cc",
+      "title": "Senior Software Engineer , Backend, Remote - US | DraftKings Careers",
+      "company": "US | DraftKings Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.draftkings.com/jobs/jr14576/senior-software-engineer-backend/",
+      "source": "Other",
+      "description": "Senior Software Engineer , Backend. Remote - US. Engineering; Full time. a man and woman looking at a computer screen. About DraftKings. At DraftKings ...",
+      "date": "2026-07-06",
+      "timestamp": "2026-07-06T18:22:07+00:00",
+      "fetched_at": "2026-07-06T21:16:29.271746+00:00"
+    },
+    {
+      "id": "d7b55fd4f8c5",
+      "title": "Senior ML Software Engineer , Data Plane - Job ID: 10466144 - Amazon Careers",
+      "company": "Job ID: 10466144 - Amazon Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.amazon.jobs/en/jobs/10466144/senior-ml-software-engineer-data-plane",
+      "source": "Other",
+      "description": "Senior ML Software Engineer , Data Plane \u00b7 Description. The MLIL DataPlane team is looking for a Senior Software Development Engineer to own the design ...",
+      "date": "2026-07-06",
+      "timestamp": "2026-07-06T18:20:01+00:00",
+      "fetched_at": "2026-07-06T21:16:29.271930+00:00"
+    },
+    {
+      "id": "9b9304407aa1",
+      "title": "Full Stack Engineer - Mavericks United - LinkedIn",
+      "company": "Mavericks United - LinkedIn",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/full-stack-engineer-at-mavericks-united-4433973673",
+      "source": "LinkedIn",
+      "description": "Fullstack Engineer , External Products. Fullstack Engineer , External Products ... Senior Software Engineer jobs. 78,145 open jobs \u00b7 PHP Developer jobs.",
+      "date": "2026-07-06",
+      "timestamp": "2026-07-06T18:14:06+00:00",
+      "fetched_at": "2026-07-06T21:16:29.349743+00:00"
+    },
+    {
+      "id": "388521a8af5b",
+      "title": "NCBI Data Engineer - Ariadne - CATS",
+      "company": "Ariadne - CATS",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ariadtech.catsone.com/careers/2971/jobs/16443101-NCBI-Data-Engineer",
+      "source": "Other",
+      "description": "Ariadne is searching for a Data Engineer to support our ... Click Apply button now! Apply Now. More Openings. Senior Full-Stack Software Engineer .",
+      "date": "2026-07-06",
+      "timestamp": "2026-07-06T18:12:22+00:00",
+      "fetched_at": "2026-07-06T21:16:29.272209+00:00"
+    },
+    {
+      "id": "03fa8e55379c",
+      "title": "Senior Data Engineer - Huel Careers",
+      "company": "Huel Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.huel.com/jobs/8023435-senior-data-engineer",
+      "source": "Other",
+      "description": "Senior Data Engineer . Lead a high-performing Data Engineering team while staying hands-on with the tech. Shape our data platforms, solve complex ...",
+      "date": "2026-07-06",
+      "timestamp": "2026-07-06T18:09:28+00:00",
+      "fetched_at": "2026-07-06T21:16:29.272347+00:00"
+    },
+    {
+      "id": "87d8af22c013",
+      "title": "Jr Software Engineer / Software Engineer",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/en-GB/dealeron/jobs/2fff8b3f-2408-4e4c-aa9c-095d26f75c6c",
+      "source": "Other",
+      "description": "Jr Software Engineer / Software Engineer . About DealerOn. We are an online marketing company providing website and agency services to automotive ...",
+      "date": "2026-07-06",
+      "timestamp": "2026-07-06T18:04:37+00:00",
+      "fetched_at": "2026-07-06T21:16:29.272510+00:00"
+    },
+    {
+      "id": "137048a13b70",
+      "title": "Machine Learning Engineer - Health AIML - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200671157-0836/machine-learning-engineer-health-aiml?team=MLAI",
+      "source": "Other",
+      "description": "Apply for a Machine Learning Engineer - Health AIML job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-07-06",
+      "timestamp": "2026-07-06T17:34:51+00:00",
+      "fetched_at": "2026-07-06T21:16:29.350385+00:00"
+    },
     {
       "id": "bcc5e0353c9b",
       "title": "Job Application for Software Engineer at Paperless Parts - Greenhouse",
