@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-07-06T14:47:34.980037+00:00",
-  "total_jobs": 5108,
+  "last_updated": "2026-07-06T18:01:24.540510+00:00",
+  "total_jobs": 5128,
   "stats": {
-    "total_companies": 2628,
+    "total_companies": 2638,
     "total_roles": 75,
     "regions": {
-      "India": 3292,
-      "Philippines": 1063,
-      "Remote": 639,
+      "India": 3306,
+      "Philippines": 1067,
+      "Remote": 641,
       "Unknown": 135
     },
     "sources": {
-      "Other": 4021,
-      "Greenhouse": 254,
+      "Other": 4037,
+      "Greenhouse": 257,
       "Workday": 225,
       "LinkedIn": 188,
-      "Ashby": 153,
+      "Ashby": 154,
       "iCIMS": 61,
       "Breezy": 56,
       "Lever": 37,
@@ -35,6 +35,261 @@
     }
   },
   "jobs": [
+    {
+      "id": "bcc5e0353c9b",
+      "title": "Job Application for Software Engineer at Paperless Parts - Greenhouse",
+      "company": "Paperlessparts",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/paperlessparts/jobs/4709670005",
+      "source": "Greenhouse",
+      "description": "Software Engineer . Boston, MA. Apply. Paperless Parts is a SaaS startup helping manufacturers quote faster and win more work. From rockets to medical ...",
+      "date": "2026-07-06",
+      "timestamp": "2026-07-06T17:32:23+00:00",
+      "fetched_at": "2026-07-06T18:01:24.199444+00:00"
+    },
+    {
+      "id": "df62d438c8c3",
+      "title": "Job Application for Software Engineer II at Diligent Corporation - Greenhouse",
+      "company": "Diligentcorporation",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/diligentcorporation/jobs/6020954004",
+      "source": "Greenhouse",
+      "description": "Software Engineer II. Vancouver, British Columbia, Canada. Apply. Platform administration isn't the part of the product anyone screenshots for a demo ...",
+      "date": "2026-07-06",
+      "timestamp": "2026-07-06T17:32:23+00:00",
+      "fetched_at": "2026-07-06T18:01:24.199582+00:00"
+    },
+    {
+      "id": "6bcfe6ee2efe",
+      "title": "Senior Software Engineer @ Fluidstack - Jobs",
+      "company": "Fluidstack",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/fluidstack/af4d0d75-47cd-46d0-aae7-e6de8dd97871",
+      "source": "Ashby",
+      "description": "Senior Software Engineer . Location. San Francisco, CA; Austin, TX; New York, NY; Seattle, WA. Employment Type. Full time. Location Type. On-site ...",
+      "date": "2026-07-06",
+      "timestamp": "2026-07-06T17:29:47+00:00",
+      "fetched_at": "2026-07-06T18:01:24.199866+00:00"
+    },
+    {
+      "id": "615e3c0d7394",
+      "title": "Software Engineer - Backend | Alignerr",
+      "company": "Backend | Alignerr",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.alignerr.com/jobs/90bd0392-8519-4ca7-b23b-95cea934595f?referral-source=linkedin-job",
+      "source": "Other",
+      "description": "Software Engineer - Backend. $90-120/hr Remote FreelanceCODING. Labelbox \u2022 Remote (United States preferred) Shape the data that powers frontier AI ...",
+      "date": "2026-07-06",
+      "timestamp": "2026-07-06T17:25:50+00:00",
+      "fetched_at": "2026-07-06T18:01:24.200881+00:00"
+    },
+    {
+      "id": "8b4eca81f4c5",
+      "title": "AWS Data Engineer - St. Louis, MO/Louisville, KY / Cincinnati, OH / Chicago, IL/Nashville, TN - Dice",
+      "company": "Unknown Company",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.dice.com/job-detail/71b26368-fcc5-4b27-9755-9358e6a616ee",
+      "source": "Other",
+      "description": "3 hours ago - Job Role: AWS Data Engineer Location: St. Louis, MO/Louisville, KY / Cincinnati, OH / Chicago, IL/Nashville, TN Looking for W2 No ...",
+      "date": "2026-07-06",
+      "timestamp": "2026-07-06T17:03:27+00:00",
+      "fetched_at": "2026-07-06T18:01:24.515834+00:00"
+    },
+    {
+      "id": "f135f9e2883e",
+      "title": "Software Engineer in Remote, US (Remote) - Leidos Careers",
+      "company": "Leidos Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.leidos.com/jobs/17961112-software-engineer",
+      "source": "Other",
+      "description": "The Defense Sector at Leidos currently has an opening for a Software Engineer who holds an active SECRET security clearance to work remotely, ...",
+      "date": "2026-07-06",
+      "timestamp": "2026-07-06T16:55:48+00:00",
+      "fetched_at": "2026-07-06T18:01:24.201220+00:00"
+    },
+    {
+      "id": "d381c7d6be22",
+      "title": "Software Engineer in Bangalore, India | Product and Engineering at Cisco",
+      "company": "Cisco",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2014402EXTERNALENGLOBAL/Software-Engineer",
+      "source": "Other",
+      "description": "We are seeking a Senior Software Engineer with deep AI fluency to join the AutoQuote team at Cisco. ... Platform Engineer \u2013 OpenShift+ AI-ML SRE | 4+ ...",
+      "date": "2026-07-06",
+      "timestamp": "2026-07-06T16:35:41+00:00",
+      "fetched_at": "2026-07-06T18:01:24.201596+00:00"
+    },
+    {
+      "id": "e2a933b11502",
+      "title": "Network Software Engineer | Fluidstack Careers",
+      "company": "Fluidstack Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://fluidstack.io/jobs/ec1207c5-6736-401f-96af-31a30f0e03f0",
+      "source": "Other",
+      "description": "Network Software Engineer . Production Engineering\u00b7Full Time. London. Apply for this role. About Fluidstack. We exist to make humanity more free. For ...",
+      "date": "2026-07-06",
+      "timestamp": "2026-07-06T16:33:41+00:00",
+      "fetched_at": "2026-07-06T18:01:24.201758+00:00"
+    },
+    {
+      "id": "7536aaae8c78",
+      "title": "Software Engineer at UnitedHealth Group",
+      "company": "UnitedHealth Group",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.unitedhealthgroup.com/job/bengaluru/software-engineer/34088/97406361056",
+      "source": "Other",
+      "description": "Software Engineer . Requisition number: 2363082 Job category: Technology Primary location: Bengaluru, Karnataka Date posted: 07/06/ ...",
+      "date": "2026-07-06",
+      "timestamp": "2026-07-06T16:27:05+00:00",
+      "fetched_at": "2026-07-06T18:01:24.202053+00:00"
+    },
+    {
+      "id": "ded6ba679c0c",
+      "title": "Software Engineer | GE Vernova",
+      "company": "GE Vernova",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.gevernova.com/software-engineer/job/R5046418",
+      "source": "Other",
+      "description": "Apply for the position Software Engineer today ... Software Engineer . Digital Engineering; PB. Type: Full Time. Location(s): ...",
+      "date": "2026-07-06",
+      "timestamp": "2026-07-06T16:25:01+00:00",
+      "fetched_at": "2026-07-06T18:01:24.202170+00:00"
+    },
+    {
+      "id": "bffbe56bcbe5",
+      "title": "FSD(.NET) - Software Engineer II - Hyderabad - - 358563 - Deloitte",
+      "company": "FSD",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://usijobs.deloitte.com/en_US/careersUSI/JobDetail/USI-EH27-MFBEL-FSD-NET-L35-HYD/358563",
+      "source": "Other",
+      "description": "As a Software Engineer II on the Tax and Legal Digital Asset Factory team, you will be responsible for: Designing, developing, and maintaining .NET ...",
+      "date": "2026-07-06",
+      "timestamp": "2026-07-06T16:24:25+00:00",
+      "fetched_at": "2026-07-06T18:01:24.202318+00:00"
+    },
+    {
+      "id": "294eb36674b7",
+      "title": "Staff Software Engineer - Salesforce at Ford Motor Company",
+      "company": "Ford Motor Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.careers.ford.com/job/florida/staff-software-engineer-salesforce/48560/97425798032",
+      "source": "Other",
+      "description": "The Staff Software Engineer - Salesforce is a technical leadership role responsible for supervising the implementation, integration, and delivery of ...",
+      "date": "2026-07-06",
+      "timestamp": "2026-07-06T16:10:56+00:00",
+      "fetched_at": "2026-07-06T18:01:24.202462+00:00"
+    },
+    {
+      "id": "0e62fca7e0e4",
+      "title": "Apply to Senior Software Engineer | The Timberline Group - CATS",
+      "company": "The Timberline Group - CATS",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://timberlinegrp.catsone.com/careers/7276/jobs/15034279-Senior-Software-Engineer/apply",
+      "source": "Other",
+      "description": "Description of role: We are looking for a Senior Software Engineer to produce and implement functional software solutions.",
+      "date": "2026-07-06",
+      "timestamp": "2026-07-06T16:07:52+00:00",
+      "fetched_at": "2026-07-06T18:01:24.202755+00:00"
+    },
+    {
+      "id": "af8960fb5ced",
+      "title": "Associate Engineer - Data Engineer pyTorch - - 32156 - HARMAN International",
+      "company": "Associate Engineer",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobsearch.harman.com/en_US/careers/JobDetail/Associate-Engineer-Data-Engineer-pyTorch/32156",
+      "source": "Other",
+      "description": "We are looking for a passionate Data Engineer with exposure to PyTorch and machine learning fundamentals to support data pipeline development and AI/ ...",
+      "date": "2026-07-06",
+      "timestamp": "2026-07-06T15:34:40+00:00",
+      "fetched_at": "2026-07-06T18:01:24.202936+00:00"
+    },
+    {
+      "id": "3fc2f59e5bc7",
+      "title": "Software Engineer for Naval Spectrum Monitoring (m/f/d) | Rohde & Schwarz",
+      "company": "Rohde & Schwarz",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.rohde-schwarz.com/us/career/jobs/software-engineer-for-naval-spectrum-monitoring-m-f-d_251563-1631490.html",
+      "source": "Other",
+      "description": "Software Engineer for Naval Spectrum Monitoring (m/f/d), Software Development, Professionals, Young professionals.",
+      "date": "2026-07-06",
+      "timestamp": "2026-07-06T15:32:34+00:00",
+      "fetched_at": "2026-07-06T18:01:24.203195+00:00"
+    },
+    {
+      "id": "8a75a5a4f178",
+      "title": "Databricks Data Engineer Kansas City Missouri - Inceed",
+      "company": "Inceed",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.inceed.com/job/33627-databricks-data-engineer-kansas-city-missouri/",
+      "source": "Other",
+      "description": "Databricks Data Engineer Kansas City Missouri - Search the latest jobs from Inceed. We have this role currently available - Databricks Data ...",
+      "date": "2026-07-06",
+      "timestamp": "2026-07-06T14:51:49+00:00",
+      "fetched_at": "2026-07-06T18:01:24.517239+00:00"
+    },
+    {
+      "id": "43ce192b1690",
+      "title": "Job Application for Principal Software Engineer (Platform Team) at SpaceX - Greenhouse",
+      "company": "Spacex",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/spacex/jobs/8558817002",
+      "source": "Greenhouse",
+      "description": "Principal Software Engineer (Platform Team). Redmond, WA. Apply. SpaceX was founded under the belief that a future where humanity is out exploring ...",
+      "date": "2026-07-06",
+      "timestamp": "2026-07-06T13:31:47+00:00",
+      "fetched_at": "2026-07-06T18:01:24.517326+00:00"
+    },
     {
       "id": "e7cb64db596d",
       "title": "Apply to Data Engineer - JPC Partners - CATS",
@@ -64,6 +319,21 @@
       "date": "2026-07-06",
       "timestamp": "2026-07-06T13:17:37+00:00",
       "fetched_at": "2026-07-06T14:47:34.956261+00:00"
+    },
+    {
+      "id": "7e9f8016d451",
+      "title": "Data Engineer - Mercedes-Benz Jobs",
+      "company": "Mercedes-Benz Jobs",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.mercedes-benz.com/en/data-engineer-227512-mer00044yg",
+      "source": "Other",
+      "description": "... Press. Provider/Privacy. Company \u00b7 Technology \u00b7 Sustainability \u00b7 Careers \u00b7 Investors \u00b7 Press \u00b7 Products \u00b7 Careers Job search Data Engineer . Data ...",
+      "date": "2026-07-06",
+      "timestamp": "2026-07-06T13:15:02+00:00",
+      "fetched_at": "2026-07-06T18:01:24.203345+00:00"
     },
     {
       "id": "722d67feef86",
@@ -111,6 +381,21 @@
       "fetched_at": "2026-07-06T14:47:34.956942+00:00"
     },
     {
+      "id": "0703df93f65a",
+      "title": "Senior Private Cloud Engineer - Arm Careers",
+      "company": "Arm Careers",
+      "role": "Cloud Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.arm.com/job/cambridge/senior-private-cloud-engineer/33099/97418152608",
+      "source": "Other",
+      "description": "Learn how you can help solve the world's most complex technology problems as a Senior Private Cloud Engineer at Arm. Apply to join our global team ...",
+      "date": "2026-07-06",
+      "timestamp": "2026-07-06T12:36:54+00:00",
+      "fetched_at": "2026-07-06T18:01:24.518421+00:00"
+    },
+    {
       "id": "3498eceb370a",
       "title": "Senior Software Engineer in Bengaluru 1499 | Technology at Lowes - Lowe's Careers",
       "company": "Lowes",
@@ -124,6 +409,21 @@
       "date": "2026-07-06",
       "timestamp": "2026-07-06T12:07:05+00:00",
       "fetched_at": "2026-07-06T14:47:34.957097+00:00"
+    },
+    {
+      "id": "e941b018f620",
+      "title": "Senior Software Engineer - ML Network Stack, ML Network Stack - Annapurna Labs",
+      "company": "ML Network Stack, ML Network Stack - Annapurna Labs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.amazon.jobs/en/jobs/10466123/senior-software-engineer-ml-network-stack-ml-network-stack-annapurna-labs",
+      "source": "Other",
+      "description": "Senior Software Engineer - ML Network Stack, ML Network Stack - Annapurna Labs. Job ID: 10466123 | Annapurna Labs Ltd. Apply now. Description. We are ...",
+      "date": "2026-07-06",
+      "timestamp": "2026-07-06T11:51:50+00:00",
+      "fetched_at": "2026-07-06T18:01:24.203632+00:00"
     },
     {
       "id": "74ae24ebc722",
