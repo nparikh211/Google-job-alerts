@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-07-07T01:30:42.740337+00:00",
-  "total_jobs": 5157,
+  "last_updated": "2026-07-07T07:24:43.914950+00:00",
+  "total_jobs": 5172,
   "stats": {
-    "total_companies": 2652,
+    "total_companies": 2661,
     "total_roles": 76,
     "regions": {
-      "India": 3326,
-      "Philippines": 1070,
-      "Remote": 648,
+      "India": 3337,
+      "Philippines": 1073,
+      "Remote": 649,
       "Unknown": 135
     },
     "sources": {
-      "Other": 4057,
-      "Greenhouse": 257,
+      "Other": 4070,
+      "Greenhouse": 259,
       "Workday": 228,
       "LinkedIn": 191,
       "Ashby": 154,
@@ -36,6 +36,141 @@
   },
   "jobs": [
     {
+      "id": "e233320f54de",
+      "title": "Job Application for Senior DevOps Engineer at Waymark - Greenhouse",
+      "company": "Waymark",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/waymark/jobs/4711157005",
+      "source": "Greenhouse",
+      "description": "Senior DevOps Engineer . US - Remote. Apply. About Waymark. Waymark is a mission-driven team of healthcare providers, technologists, and builders ...",
+      "date": "2026-07-07",
+      "timestamp": "2026-07-07T05:18:29+00:00",
+      "fetched_at": "2026-07-07T07:24:43.803731+00:00"
+    },
+    {
+      "id": "cfdbc07add63",
+      "title": "Software Engineer I in Pune, India, 411006 - Mastercard",
+      "company": "Mastercard",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mastercard.com/us/en/job/R-281042/Software-Engineer-I",
+      "source": "Other",
+      "description": "... Software Engineer . Location Pune, India, 411006 Category Engineering. Senior Software Engineer -2. Location Pune, India, 411006 Category Engineering.",
+      "date": "2026-07-07",
+      "timestamp": "2026-07-07T04:43:48+00:00",
+      "fetched_at": "2026-07-07T07:24:43.804720+00:00"
+    },
+    {
+      "id": "464a7172d615",
+      "title": "Software Engineer - Jobs at Doosan",
+      "company": "Doosan",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.doosan.com/bobcat/job/Minneapolis-Software-Engineer-MN-55402/1406069400/",
+      "source": "Other",
+      "description": "Software Engineer . Last Updated Date: Jul 6, 2026. Location: Minneapolis, MN, US, 55402. Company: Doosan Bobcat NA US. At Doosan Bobcat, our success ...",
+      "date": "2026-07-07",
+      "timestamp": "2026-07-07T03:25:32+00:00",
+      "fetched_at": "2026-07-07T07:24:43.805200+00:00"
+    },
+    {
+      "id": "0d18178fb974",
+      "title": "Data Engineer I - (Salt Lake City) - Utah Transit Authority Careers",
+      "company": "(Salt Lake City) - Utah Transit Authority Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.rideuta.com/jobs/17963303-data-engineer-i-salt-lake-city",
+      "source": "Other",
+      "description": "Data Engineer I - (Salt Lake City). Location. Salt Lake City, UT, United States. Posted. Jul 6, 2026. Type. Job ID. 26-504. Back to Search Results ...",
+      "date": "2026-07-07",
+      "timestamp": "2026-07-07T02:32:05+00:00",
+      "fetched_at": "2026-07-07T07:24:43.805396+00:00"
+    },
+    {
+      "id": "cc022f26069c",
+      "title": "Senior Software Engineer in Test, Westlake, TX | Fidelity Careers",
+      "company": "Fidelity Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.fidelity.com/en/jobs/2130022/senior-software-engineer-in-test/",
+      "source": "Other",
+      "description": "Fidelity Investments has an exciting opportunity for a Senior Software Engineer in Test with a strong quality engineering background. This individual ...",
+      "date": "2026-07-07",
+      "timestamp": "2026-07-07T02:19:34+00:00",
+      "fetched_at": "2026-07-07T07:24:43.805549+00:00"
+    },
+    {
+      "id": "767a985774b6",
+      "title": "Fullstack Engineer -Senior (.Net/Angular) - Cognyte",
+      "company": "Senior (.Net/Angular) - Cognyte",
+      "role": "Fullstack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.cognyte.com/careers/0B.D69/fullstack-engineer-senior-net-angular/",
+      "source": "Other",
+      "description": "Fullstack Engineer -Senior (.Net/Angular) \u00b7 Design and implement backend services, APIs, frontend applications, integrations, and infrastructure- ...",
+      "date": "2026-07-07",
+      "timestamp": "2026-07-07T02:09:52+00:00",
+      "fetched_at": "2026-07-07T07:24:43.805712+00:00"
+    },
+    {
+      "id": "b8e6a88d0298",
+      "title": "Sr Software Engineer - Access Review- Veza, Kirkland | ServiceNow Careers",
+      "company": "Access Review- Veza, Kirkland | ServiceNow Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.servicenow.com/jobs/744000135904829/sr-software-engineer-access-review-veza/",
+      "source": "Other",
+      "description": "Job Description. About the opportunity. We're seeking a passionate Backend Software Engineer to play a key role in designing, developing, and ...",
+      "date": "2026-07-07",
+      "timestamp": "2026-07-07T02:08:16+00:00",
+      "fetched_at": "2026-07-07T07:24:43.805938+00:00"
+    },
+    {
+      "id": "29bf29a2d02f",
+      "title": "Software Engineer - 12 Month FTC - McLaren Racing Careers",
+      "company": "12 Month FTC - McLaren Racing Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://racingcareers.mclaren.com/o/software-engineer-12-month-ftc-1",
+      "source": "Other",
+      "description": "As a Software Engineer , you will work across the full software development lifecycle, helping to design, develop and support software that ...",
+      "date": "2026-07-07",
+      "timestamp": "2026-07-07T01:56:34+00:00",
+      "fetched_at": "2026-07-07T07:24:43.806129+00:00"
+    },
+    {
+      "id": "b740985ab799",
+      "title": "Software Engineer - Quantum Systems USA",
+      "company": "Quantum Systems USA",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://quantum-systems.com/us/jobs/software-engineer-quantum-systems-usa/",
+      "source": "Other",
+      "description": "Software Engineer . Quantum-Systems Inc is a global leader in aerial intelligence and autonomous, AI-powered aerial robotics. We design, develop ...",
+      "date": "2026-07-07",
+      "timestamp": "2026-07-07T00:39:21+00:00",
+      "fetched_at": "2026-07-07T07:24:43.806283+00:00"
+    },
+    {
       "id": "bad7d8a507e1",
       "title": "Software Engineer , IT Software Engineers - Remote, Massachusetts, United States",
       "company": "Remote, Massachusetts, United States",
@@ -51,6 +186,36 @@
       "fetched_at": "2026-07-07T01:30:42.546163+00:00"
     },
     {
+      "id": "d9944822d5bd",
+      "title": "Full Stack Engineer | Schwab Jobs",
+      "company": "Schwab Jobs",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.schwabjobs.com/job/southlake/full-stack-engineer/33727/97444917056",
+      "source": "Other",
+      "description": "Full Stack Engineer . Southlake, TX ; Austin, TX. Requisition ID 2026-123708 Category Engineering & Software Development Position type Regular Pay ...",
+      "date": "2026-07-06",
+      "timestamp": "2026-07-06T23:12:14+00:00",
+      "fetched_at": "2026-07-07T07:24:43.884779+00:00"
+    },
+    {
+      "id": "057415dd931c",
+      "title": "Staff Software Engineer - Data Infrastructure | San Francisco HQ - Plaid",
+      "company": "Data Infrastructure | San Francisco HQ - Plaid",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://plaid.com/careers/openings/engineering/san-francisco-hq/staff-software-engineer-data-infrastructure/",
+      "source": "Other",
+      "description": "Senior Software Engineer , Full Stack. See role. San Francisco HQ. Software ... Staff Site Reliability Engineer , Release Engineering. See role ...",
+      "date": "2026-07-06",
+      "timestamp": "2026-07-06T22:40:01+00:00",
+      "fetched_at": "2026-07-07T07:24:43.885165+00:00"
+    },
+    {
       "id": "6f0d5a81d44d",
       "title": "Software Engineer II - Data - Myworkdayjobs.com",
       "company": "Hyvee",
@@ -64,6 +229,21 @@
       "date": "2026-07-06",
       "timestamp": "2026-07-06T22:15:18+00:00",
       "fetched_at": "2026-07-07T01:30:42.546284+00:00"
+    },
+    {
+      "id": "f29d8c2d9a92",
+      "title": "Job Application for Software Engineer , Research Infrastructure at Anthropic - Greenhouse",
+      "company": "Anthropic",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5283063008",
+      "source": "Greenhouse",
+      "description": "Software Engineer , Research Infrastructure. San Francisco, CA | New York City, NY. Apply. About Anthropic. Anthropic's mission is to create reliable ...",
+      "date": "2026-07-06",
+      "timestamp": "2026-07-06T22:05:11+00:00",
+      "fetched_at": "2026-07-07T07:24:43.806905+00:00"
     },
     {
       "id": "223dac9d6636",
@@ -111,6 +291,36 @@
       "fetched_at": "2026-07-07T01:30:42.546762+00:00"
     },
     {
+      "id": "193bef4ade09",
+      "title": "Machine Learning Engineer , Level 4 - Snap Careers",
+      "company": "Snap Careers",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.snap.com/job?id=Q326SWEML3",
+      "source": "Other",
+      "description": "We're looking for a Machine Learning Engineer to join Snap Inc! \u00b7 What you'll do: \u00b7 Knowledge, Skills & Abilities: \u00b7 Minimum Qualifications: \u00b7 Preferred ...",
+      "date": "2026-07-06",
+      "timestamp": "2026-07-06T20:31:22+00:00",
+      "fetched_at": "2026-07-07T07:24:43.808054+00:00"
+    },
+    {
+      "id": "84dcb36b1d8e",
+      "title": "Intern R&D Software Engineer , Aachen | Johnson & Johnson Careers",
+      "company": "Johnson & Johnson Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.careers.jnj.com/en/jobs/r-084074/intern-rd-software-engineer/",
+      "source": "Other",
+      "description": "Job title Intern R&D Software Engineer ; Function Career Programs ... Inern R&D Software Engineer (undergraduate, mandatory internship university).",
+      "date": "2026-07-06",
+      "timestamp": "2026-07-06T20:31:03+00:00",
+      "fetched_at": "2026-07-07T07:24:43.808199+00:00"
+    },
+    {
       "id": "9f36115d26a0",
       "title": "Senior Data Engineer | Kelly Mitchell",
       "company": "Kelly Mitchell",
@@ -124,6 +334,21 @@
       "date": "2026-07-06",
       "timestamp": "2026-07-06T20:27:21+00:00",
       "fetched_at": "2026-07-06T21:16:29.269419+00:00"
+    },
+    {
+      "id": "338caeba25ec",
+      "title": "DevOps Engineer II - Employment - The University of Utah",
+      "company": "Employment - The University of Utah",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://employment.utah.edu/salt-lake-city-ut/devops-engineer-ii/CDF952837B064CB89B5D2B37E8AEB3FB/job/",
+      "source": "Other",
+      "description": "DevOps Engineer II ... Login to Profile Not Ready to Apply? Join Our Talent Community Refer a Friend. Other Jobs You Might Like. Cloud Platform Engineer ...",
+      "date": "2026-07-06",
+      "timestamp": "2026-07-06T20:20:51+00:00",
+      "fetched_at": "2026-07-07T07:24:43.886589+00:00"
     },
     {
       "id": "cf5c1174452f",
