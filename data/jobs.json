@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-07-07T07:24:43.914950+00:00",
-  "total_jobs": 5172,
+  "last_updated": "2026-07-07T10:41:17.071709+00:00",
+  "total_jobs": 5174,
   "stats": {
-    "total_companies": 2661,
+    "total_companies": 2662,
     "total_roles": 76,
     "regions": {
-      "India": 3337,
+      "India": 3339,
       "Philippines": 1073,
       "Remote": 649,
       "Unknown": 135
     },
     "sources": {
-      "Other": 4070,
+      "Other": 4071,
       "Greenhouse": 259,
-      "Workday": 228,
+      "Workday": 229,
       "LinkedIn": 191,
       "Ashby": 154,
       "iCIMS": 63,
@@ -36,6 +36,21 @@
   },
   "jobs": [
     {
+      "id": "12178cd5daba",
+      "title": "Software Engineer - Myworkdayjobs.com",
+      "company": "Thomsonreuters",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Software-Engineer_JREQ201364",
+      "source": "Workday",
+      "description": "As a Software Engineer I, you will play an essential role in designing and deploying software applications, collaborating with cross-functional ...",
+      "date": "2026-07-07",
+      "timestamp": "2026-07-07T05:58:03+00:00",
+      "fetched_at": "2026-07-07T10:41:16.855143+00:00"
+    },
+    {
       "id": "e233320f54de",
       "title": "Job Application for Senior DevOps Engineer at Waymark - Greenhouse",
       "company": "Waymark",
@@ -49,6 +64,21 @@
       "date": "2026-07-07",
       "timestamp": "2026-07-07T05:18:29+00:00",
       "fetched_at": "2026-07-07T07:24:43.803731+00:00"
+    },
+    {
+      "id": "eefe4d291f01",
+      "title": "Sr. Software Engineer (Frontend) - Access Management - Rippling",
+      "company": "Access Management - Rippling",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/cerby/jobs/eb57e566-3114-46ad-a3e0-1aea6d2e4c27",
+      "source": "Other",
+      "description": "At Cerby, software engineers are at the heart of driving technology and product innovation. As a Senior Software Engineer on the Access Management ...",
+      "date": "2026-07-07",
+      "timestamp": "2026-07-07T04:47:27+00:00",
+      "fetched_at": "2026-07-07T10:41:16.855762+00:00"
     },
     {
       "id": "cfdbc07add63",
