@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-07-06T21:16:29.371477+00:00",
-  "total_jobs": 5149,
+  "last_updated": "2026-07-07T01:30:42.740337+00:00",
+  "total_jobs": 5157,
   "stats": {
-    "total_companies": 2650,
+    "total_companies": 2652,
     "total_roles": 76,
     "regions": {
-      "India": 3319,
+      "India": 3326,
       "Philippines": 1070,
-      "Remote": 647,
+      "Remote": 648,
       "Unknown": 135
     },
     "sources": {
-      "Other": 4052,
+      "Other": 4057,
       "Greenhouse": 257,
-      "Workday": 226,
-      "LinkedIn": 190,
+      "Workday": 228,
+      "LinkedIn": 191,
       "Ashby": 154,
       "iCIMS": 63,
       "Breezy": 57,
@@ -31,10 +31,85 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-07-06"
+      "latest": "2026-07-07"
     }
   },
   "jobs": [
+    {
+      "id": "bad7d8a507e1",
+      "title": "Software Engineer , IT Software Engineers - Remote, Massachusetts, United States",
+      "company": "Remote, Massachusetts, United States",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.ascensus.com/jobs/software-engineer-it-software-engineers-remote-massachusetts-united-states-4809dd9e-3ebe-4743-a519-deaf6a7dfd82",
+      "source": "Other",
+      "description": "As a Software Engineer at Ascensus, you will be working in a high-energy team, writing beautiful code by using the best engineering practices in the ...",
+      "date": "2026-07-07",
+      "timestamp": "2026-07-07T00:06:26+00:00",
+      "fetched_at": "2026-07-07T01:30:42.546163+00:00"
+    },
+    {
+      "id": "6f0d5a81d44d",
+      "title": "Software Engineer II - Data - Myworkdayjobs.com",
+      "company": "Hyvee",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Helpful-Smiles-Technology-Center-HST-James-Street-Grimes-IA/Software-Engineer-II---Data_R239712",
+      "source": "Workday",
+      "description": "Software Engineer II - Data \u00b7 2 + years of relevant IT experience, full stack developer \u00b7 Working with GIT version control \u00b7 Java or Python programming.",
+      "date": "2026-07-06",
+      "timestamp": "2026-07-06T22:15:18+00:00",
+      "fetched_at": "2026-07-07T01:30:42.546284+00:00"
+    },
+    {
+      "id": "223dac9d6636",
+      "title": "PeopleSoft Software Engineer \u2013 Advanced Software Engineer in New York, New York, United States",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mta.org/jobs/17860123-peoplesoft-software-engineer-advanced-software-engineer",
+      "source": "Other",
+      "description": "JOB TITLE: Advanced Software Engineer . SALARY RANGE: $140,828 - $166,223. HAY POINTS: 634. DEPT/DIV: Information Technology.",
+      "date": "2026-07-06",
+      "timestamp": "2026-07-06T22:04:44+00:00",
+      "fetched_at": "2026-07-07T01:30:42.546482+00:00"
+    },
+    {
+      "id": "e0d490850211",
+      "title": "Software Engineer III, Agents Platform, Redwood City | Box",
+      "company": "Box",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.box.com/en/jobs/8038981/software-engineer-iii-agents-platform/",
+      "source": "Other",
+      "description": "Senior Software Engineer , Trust and Safety Engineering. Save Saved. Redwood City, California, United States; Security. a person and person looking at ...",
+      "date": "2026-07-06",
+      "timestamp": "2026-07-06T20:58:35+00:00",
+      "fetched_at": "2026-07-07T01:30:42.546624+00:00"
+    },
+    {
+      "id": "7a8dab2105d7",
+      "title": "Senior Software Engineer , AI Platform - McKesson Careers",
+      "company": "McKesson Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mckesson.com/en/job/irving/senior-software-engineer-ai-platform/733/97439924368",
+      "source": "Other",
+      "description": "We're hiring a Senior Software Engineer to help build the platform itself: the harness, tooling, and guardrails that let AI agents (like Claude Code) ...",
+      "date": "2026-07-06",
+      "timestamp": "2026-07-06T20:39:25+00:00",
+      "fetched_at": "2026-07-07T01:30:42.546762+00:00"
+    },
     {
       "id": "9f36115d26a0",
       "title": "Senior Data Engineer | Kelly Mitchell",
@@ -49,6 +124,21 @@
       "date": "2026-07-06",
       "timestamp": "2026-07-06T20:27:21+00:00",
       "fetched_at": "2026-07-06T21:16:29.269419+00:00"
+    },
+    {
+      "id": "cf5c1174452f",
+      "title": "Software Engineer \u2013 (Core Strategist) in US - FDM Group",
+      "company": "FDM Group",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.fdmgroup.com/vacancies/2762/software-engineer--core-strategist.html",
+      "source": "Other",
+      "description": "View details and apply for this Software Engineer \u2013 (Core Strategist) vacancy in US. This position requires the successful candidate to work on a ...",
+      "date": "2026-07-06",
+      "timestamp": "2026-07-06T20:20:25+00:00",
+      "fetched_at": "2026-07-07T01:30:42.547102+00:00"
     },
     {
       "id": "96c654ff8894",
@@ -141,6 +231,21 @@
       "fetched_at": "2026-07-06T21:16:29.270204+00:00"
     },
     {
+      "id": "87d67e5b0a53",
+      "title": "Software Engineer - Myworkdayjobs.com",
+      "company": "Genesys",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://genesys.wd1.myworkdayjobs.com/en-US/Genesys/job/Virtual-Office-Tamil-Nadu/Software-Engineer_JR111380-2",
+      "source": "Workday",
+      "description": "Software Engineer . Apply. locations: Virtual Office (Tamil Nadu). time type ... Full stack engineer with 2+ years or more of commercial software ...",
+      "date": "2026-07-06",
+      "timestamp": "2026-07-06T19:28:41+00:00",
+      "fetched_at": "2026-07-07T01:30:42.547697+00:00"
+    },
+    {
       "id": "a6b7e07b2680",
       "title": "AI Applications & Platform Engineer at Seek Now",
       "company": "Seeknow",
@@ -184,6 +289,21 @@
       "date": "2026-07-06",
       "timestamp": "2026-07-06T19:03:11+00:00",
       "fetched_at": "2026-07-06T21:16:29.270667+00:00"
+    },
+    {
+      "id": "4ff966711512",
+      "title": "ReKnew hiring AI Engineer (Agentic AI) in Dallas, TX | LinkedIn",
+      "company": "LinkedIn",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/ai-engineer-agentic-ai-at-reknew-4433984167",
+      "source": "LinkedIn",
+      "description": "Software Engineer (Agentic AI/Data Engineering). Gartner. Irving, TX 2 ... AI/ ML Engineer . Proximate Technologies Inc. Plano, TX 3 days ago. Lead ...",
+      "date": "2026-07-06",
+      "timestamp": "2026-07-06T19:01:32+00:00",
+      "fetched_at": "2026-07-07T01:30:42.548128+00:00"
     },
     {
       "id": "288064ac4fff",
