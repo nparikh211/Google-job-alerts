@@ -1,26 +1,26 @@
 {
-  "last_updated": "2026-07-07T17:47:50.296556+00:00",
-  "total_jobs": 5196,
+  "last_updated": "2026-07-07T21:11:20.413945+00:00",
+  "total_jobs": 5216,
   "stats": {
-    "total_companies": 2671,
-    "total_roles": 76,
+    "total_companies": 2681,
+    "total_roles": 77,
     "regions": {
-      "India": 3357,
-      "Philippines": 1073,
-      "Remote": 653,
+      "India": 3370,
+      "Philippines": 1075,
+      "Remote": 658,
       "Unknown": 135
     },
     "sources": {
-      "Other": 4088,
+      "Other": 4100,
       "Greenhouse": 260,
-      "Workday": 229,
-      "LinkedIn": 191,
-      "Ashby": 155,
+      "Workday": 230,
+      "LinkedIn": 193,
+      "Ashby": 158,
       "iCIMS": 66,
-      "Breezy": 57,
+      "Breezy": 58,
       "Lever": 37,
       "Workable": 36,
-      "SmartRecruiters": 31,
+      "SmartRecruiters": 32,
       "Indeed": 22,
       "Recruitee": 6,
       "BrassRing": 6,
@@ -36,6 +36,216 @@
   },
   "jobs": [
     {
+      "id": "f8cc7c3dfcb5",
+      "title": "Senior Software Engineer - Full Stack @ Pearly - Jobs",
+      "company": "Pearlyplan",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.ashbyhq.com/pearlyplan/c4861327-30bd-4c3b-b993-ebffb5a69065",
+      "source": "Ashby",
+      "description": "Senior Software Engineer - Full Stack. Location. New York, NY; Atlanta, GA; Santa Barbara, CA. Employment Type. Full time. Location Type. Remote ...",
+      "date": "2026-07-07",
+      "timestamp": "2026-07-07T20:32:34+00:00",
+      "fetched_at": "2026-07-07T21:11:19.480990+00:00"
+    },
+    {
+      "id": "3369536e12f8",
+      "title": "Data Engineer with AI ML @ Sunnyvale, CA (3 days work from office) - Dice",
+      "company": "Sunnyvale, CA",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.dice.com/job-detail/5072eeed-a0dd-45a1-8719-9a8c8711b602",
+      "source": "Other",
+      "description": "Data Engineer with AI ML @ Sunnyvale, CA (3 days work from office) ... Staff Software Engineer - Data Platform. Mountain View, California.",
+      "date": "2026-07-07",
+      "timestamp": "2026-07-07T20:10:04+00:00",
+      "fetched_at": "2026-07-07T21:11:19.481550+00:00"
+    },
+    {
+      "id": "f6ae12c066f6",
+      "title": "Software Engineer at Lava",
+      "company": "Lava",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://lava.breezy.hr/p/0c77e97d88ae-software-engineer",
+      "source": "Breezy",
+      "description": "Software Engineer (NYC). Lava: the connector to every LLM, API, and MCP. Join Lava's team in shaping how people and AI build, monetize, ...",
+      "date": "2026-07-07",
+      "timestamp": "2026-07-07T20:01:54+00:00",
+      "fetched_at": "2026-07-07T21:11:19.481671+00:00"
+    },
+    {
+      "id": "509edf0ee175",
+      "title": "CleanSlate Technology Group - Data Engineer",
+      "company": "CleanSlate Technology Group",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4309579",
+      "source": "Other",
+      "description": "As a Data Engineer in CSTG's Data and AI Practice, you will be a hands-on contributor building and maintaining data engineering solutions for client ...",
+      "date": "2026-07-07",
+      "timestamp": "2026-07-07T19:54:41+00:00",
+      "fetched_at": "2026-07-07T21:11:19.481979+00:00"
+    },
+    {
+      "id": "7b0b66b6e9ec",
+      "title": "Senior Data Engineer , Remote - Bulgaria | DraftKings Careers",
+      "company": "Bulgaria | DraftKings Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.draftkings.com/jobs/jr14518/senior-data-engineer/",
+      "source": "Other",
+      "description": "Senior Data Engineer . Remote - Bulgaria. Engineering; Full time. a group of people sitting in chairs looking at a laptop. About DraftKings. At ...",
+      "date": "2026-07-07",
+      "timestamp": "2026-07-07T19:53:03+00:00",
+      "fetched_at": "2026-07-07T21:11:20.389736+00:00"
+    },
+    {
+      "id": "7f0440935ad4",
+      "title": "Data Engineer II, Ring NA Sales and Marketing - Job ID: 10467346 - Amazon Careers",
+      "company": "Job ID: 10467346 - Amazon Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.amazon.jobs/en/jobs/10467346/data-engineer-ii-ring-na-sales-and-marketing",
+      "source": "Other",
+      "description": "Description. Ring is seeking a Data Engineer with strong analytical, communication, and project management skills to join our team.",
+      "date": "2026-07-07",
+      "timestamp": "2026-07-07T19:35:35+00:00",
+      "fetched_at": "2026-07-07T21:11:20.389938+00:00"
+    },
+    {
+      "id": "b42b0fedeed1",
+      "title": "Staff Data Engineer at Intuit - Intuit Careers",
+      "company": "Intuit",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.intuit.com/job/mountain-view/staff-data-engineer/27595/97478258800?k=&l=the%25252520gramhacker%25252520com%25252520instagram%25252520%252525E3%25252580%25252590HackerSite%2525253A%25252520Kungx.cc%252525E3%25252580%25252591.qK3I&cid=directBookmarked_directBookmarked",
+      "source": "Other",
+      "description": "Alex Pollock Senior Software Engineer . Software Engineering at ... Staff Machine Learning Engineer Mountain View, California. You ...",
+      "date": "2026-07-07",
+      "timestamp": "2026-07-07T19:13:53+00:00",
+      "fetched_at": "2026-07-07T21:11:20.390360+00:00"
+    },
+    {
+      "id": "17b6d4dbce5f",
+      "title": "Software Engineer | Sao Paulo,Brazil | Netflix | Carolina Pascale Campos | 22 comments - LinkedIn",
+      "company": "Sao Paulo,Brazil | Netflix | Carolina Pascale Campos | 22 comments - LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/carolina-pascale-campos-34a77296_software-engineer-platform-applications-activity-7479921724810133504-dtdL",
+      "source": "LinkedIn",
+      "description": "... full-stack engineer , you'll own projects end-to-end, lead cross ... Senior Software Engineer | Mobile Engineer | Android Engineer | Kotlin ...",
+      "date": "2026-07-07",
+      "timestamp": "2026-07-07T19:02:40+00:00",
+      "fetched_at": "2026-07-07T21:11:19.482639+00:00"
+    },
+    {
+      "id": "018c0a4e2eb5",
+      "title": "Lead Software Engineer - Remote at UnitedHealth Group",
+      "company": "UnitedHealth Group",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.unitedhealthgroup.com/job/richardson/lead-software-engineer-remote/34088/97448176096",
+      "source": "Other",
+      "description": "We are seeking a Lead Software Engineer to design, build, and scale next-generation agentic AI systems and advanced solutions that improve healthcare ...",
+      "date": "2026-07-07",
+      "timestamp": "2026-07-07T18:46:25+00:00",
+      "fetched_at": "2026-07-07T21:11:20.391188+00:00"
+    },
+    {
+      "id": "b90bb12b0ea4",
+      "title": "Azure DevOps Engineer | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.apexsystems.com/job/3040929_usa/azure-devops-engineer",
+      "source": "Other",
+      "description": "Azure DevOps Engineer \u00b7 Promote DevSecOps principles and culture across the organization. \u00b7 Streamline the data science and development lifecycles by ...",
+      "date": "2026-07-07",
+      "timestamp": "2026-07-07T18:45:06+00:00",
+      "fetched_at": "2026-07-07T21:11:19.482794+00:00"
+    },
+    {
+      "id": "ab5225a44d47",
+      "title": "Xplor Software Engineer (Java) - SmartRecruiters Job Search",
+      "company": "Xplor",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.smartrecruiters.com/Xplor/744000136138439-software-engineer-java-",
+      "source": "SmartRecruiters",
+      "description": "Software Engineer (Java). Atlanta, GA, USA ... Other jobs at Xplor. Software Engineer . Newcastle, United Kingdom. Senior Software Engineer - Java.",
+      "date": "2026-07-07",
+      "timestamp": "2026-07-07T18:39:47+00:00",
+      "fetched_at": "2026-07-07T21:11:19.482900+00:00"
+    },
+    {
+      "id": "92ad766a549d",
+      "title": "Senior Software Engineer II, DevEx, OPX - Remote - Canada - Samsara",
+      "company": "Remote - Canada - Samsara",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.samsara.com/company/careers/roles/8044126?gh_jid=8044126",
+      "source": "Other",
+      "description": "Samsara's Mission \u00b7 About the role: Samsara is hiring a Senior Software Engineer II to join our Operational Excellence (OPX) team within the Developer ...",
+      "date": "2026-07-07",
+      "timestamp": "2026-07-07T18:27:58+00:00",
+      "fetched_at": "2026-07-07T21:11:20.391542+00:00"
+    },
+    {
+      "id": "7ed9c1b09f6f",
+      "title": "Software Engineer @ Broccoli AI - Jobs",
+      "company": "Broccoli",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/broccoli/1e7086fe-8396-454e-a97c-42ad8dc61d0e",
+      "source": "Ashby",
+      "description": "We're looking for a Software Engineer to help build the AI intelligence layer that runs front-office operations for home service businesses. You'll ...",
+      "date": "2026-07-07",
+      "timestamp": "2026-07-07T18:01:13+00:00",
+      "fetched_at": "2026-07-07T21:11:19.483006+00:00"
+    },
+    {
+      "id": "87d80f4832aa",
+      "title": "Software Engineer I in Vadodara, India, 390023 | Engineering at Mastercard",
+      "company": "Mastercard",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mastercard.com/us/en/job/R-280898/Software-Engineer-I",
+      "source": "Other",
+      "description": "... Site Reliability Engineer I. Location Pune, India, 411006 Category ... Senior Software Engineer - Android. Location Vadodara, India, 390023 ...",
+      "date": "2026-07-07",
+      "timestamp": "2026-07-07T17:55:04+00:00",
+      "fetched_at": "2026-07-07T21:11:19.483120+00:00"
+    },
+    {
       "id": "99152094df2d",
       "title": "Data Engineer II - OIT in Atlanta, Georgia | Careers at Emory Campus-Clifton Corridor",
       "company": "Emory Campus",
@@ -49,6 +259,21 @@
       "date": "2026-07-07",
       "timestamp": "2026-07-07T17:04:55+00:00",
       "fetched_at": "2026-07-07T17:47:50.185842+00:00"
+    },
+    {
+      "id": "a6a2265e76e4",
+      "title": "Senior Software Engineer - Piper Companies",
+      "company": "Piper Companies",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.pipercompanies.com/details/169123/senior_software_engineer",
+      "source": "Other",
+      "description": "Piper Companies is hiring a Senior Software Engineer for a fast-growing, mission-driven healthcare technology organization located in a remote ...",
+      "date": "2026-07-07",
+      "timestamp": "2026-07-07T16:41:40+00:00",
+      "fetched_at": "2026-07-07T21:11:19.483613+00:00"
     },
     {
       "id": "de2d5512deb2",
@@ -79,6 +304,81 @@
       "date": "2026-07-07",
       "timestamp": "2026-07-07T16:22:36+00:00",
       "fetched_at": "2026-07-07T17:47:50.186427+00:00"
+    },
+    {
+      "id": "35abd11a625f",
+      "title": "Senior Software Engineer - Growth (Fullstack) @ Read AI, Inc. - Jobs",
+      "company": "Read Ai",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/read-ai/59053c5f-8a3b-4ff5-b0e8-b04312a42f92",
+      "source": "Ashby",
+      "description": "Senior Software Engineer - Growth (Fullstack). Location. Read AI - Seattle HQ. Employment Type. Full time. Location Type.",
+      "date": "2026-07-07",
+      "timestamp": "2026-07-07T16:18:31+00:00",
+      "fetched_at": "2026-07-07T21:11:19.484014+00:00"
+    },
+    {
+      "id": "6039f62a853f",
+      "title": "Software Engineer job in Bellevue, Washington, United States - Snowflake Careers",
+      "company": "Snowflake Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.snowflake.com/us/en/job/SNCOUSA76AA8C03C4D4C1DAE8EFE48E9764D8CEXTERNALENUS7D626629FE044CCE94C10B1A13C1D1FD/Software-Engineer",
+      "source": "Other",
+      "description": "Senior Software Engineer - Product Security Assurance. Location Bellevue, Washington, United States Category Engineering ReqId REQ18537. Senior ...",
+      "date": "2026-07-07",
+      "timestamp": "2026-07-07T16:10:25+00:00",
+      "fetched_at": "2026-07-07T21:11:19.484366+00:00"
+    },
+    {
+      "id": "e478bd4bcb7f",
+      "title": "Software Engineer - India - Zoom Careers",
+      "company": "India - Zoom Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.zoom.us/jobs/software-engineer-india-c240cfb2-4622-4764-b399-ec7a739589fa",
+      "source": "Other",
+      "description": "Software Engineer . Engineering. Search by job title, location, department ... What you can expect\u200b As a Video AI Engineer , you'll enhance video ...",
+      "date": "2026-07-07",
+      "timestamp": "2026-07-07T16:07:09+00:00",
+      "fetched_at": "2026-07-07T21:11:19.484579+00:00"
+    },
+    {
+      "id": "669dee6e4c0c",
+      "title": "Software Engineer - Myworkdayjobs.com",
+      "company": "Guidehouse",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/Software-Engineer_41456",
+      "source": "Workday",
+      "description": "Job Family: Software Application & Development (India) Travel Required: None Clearance Required: None Software Engineer supports delivery by ...",
+      "date": "2026-07-07",
+      "timestamp": "2026-07-07T15:58:45+00:00",
+      "fetched_at": "2026-07-07T21:11:19.484651+00:00"
+    },
+    {
+      "id": "ffb5a0f8fe08",
+      "title": "Alex Wang's Post - LinkedIn",
+      "company": "Unknown Company",
+      "role": "Alex Wang's Post - LinkedIn",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/alexwang2911_i-always-thought-i-would-become-an-ai-engineer-activity-7480201794128728064-S5oZ",
+      "source": "LinkedIn",
+      "description": "... AI engineer \u201d does was a little off. What I had in mind was much closer to an ML engineer ... I always thought I would become an AI engineer , even back ...",
+      "date": "2026-07-07",
+      "timestamp": "2026-07-07T15:58:12+00:00",
+      "fetched_at": "2026-07-07T21:11:19.485260+00:00"
     },
     {
       "id": "f84628954c0c",
