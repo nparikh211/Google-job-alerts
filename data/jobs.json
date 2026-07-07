@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-07-07T13:57:38.282035+00:00",
-  "total_jobs": 5180,
+  "last_updated": "2026-07-07T17:47:50.296556+00:00",
+  "total_jobs": 5196,
   "stats": {
-    "total_companies": 2665,
+    "total_companies": 2671,
     "total_roles": 76,
     "regions": {
-      "India": 3344,
+      "India": 3357,
       "Philippines": 1073,
-      "Remote": 650,
+      "Remote": 653,
       "Unknown": 135
     },
     "sources": {
-      "Other": 4077,
-      "Greenhouse": 259,
+      "Other": 4088,
+      "Greenhouse": 260,
       "Workday": 229,
       "LinkedIn": 191,
-      "Ashby": 154,
-      "iCIMS": 63,
+      "Ashby": 155,
+      "iCIMS": 66,
       "Breezy": 57,
       "Lever": 37,
       "Workable": 36,
@@ -36,6 +36,171 @@
   },
   "jobs": [
     {
+      "id": "99152094df2d",
+      "title": "Data Engineer II - OIT in Atlanta, Georgia | Careers at Emory Campus-Clifton Corridor",
+      "company": "Emory Campus",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://staff-emory.icims.com/jobs/169400/data-engineer-ii---oit/job",
+      "source": "iCIMS",
+      "description": "Emory Campus-Clifton Corridor is now hiring a Data Engineer II - OIT in Atlanta, Georgia. Review all of the job details and apply today!",
+      "date": "2026-07-07",
+      "timestamp": "2026-07-07T17:04:55+00:00",
+      "fetched_at": "2026-07-07T17:47:50.185842+00:00"
+    },
+    {
+      "id": "de2d5512deb2",
+      "title": "Software Engineer 2 in Toronto, Ontario, Canada | Technology & Digital at U.S. Bank",
+      "company": "U.S. Bank",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.usbank.com/global/en/job/UBNAGLOBAL20260019521EXTERNALENGLOBAL/Software-Engineer-2",
+      "source": "Other",
+      "description": "We're looking for people who want more than just a job \u2013 they want to make a difference! U.S. Bank is seeking a Software Engineer who will contribute ...",
+      "date": "2026-07-07",
+      "timestamp": "2026-07-07T16:34:01+00:00",
+      "fetched_at": "2026-07-07T17:47:50.186204+00:00"
+    },
+    {
+      "id": "329665454cd3",
+      "title": "Software Engineer - 64796 - MANTECH",
+      "company": "64796 - MANTECH",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.mantech.com/en_US/careers/JobDetail/Software-Engineer/64796",
+      "source": "Other",
+      "description": "MANTECH seeks a motivated, career and customer-oriented Software Engineer to join our team. This is a remote (US-based) position.",
+      "date": "2026-07-07",
+      "timestamp": "2026-07-07T16:22:36+00:00",
+      "fetched_at": "2026-07-07T17:47:50.186427+00:00"
+    },
+    {
+      "id": "f84628954c0c",
+      "title": "Software Engineer 3 - MongoDB",
+      "company": "MongoDB",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.mongodb.com/careers/jobs/7993984",
+      "source": "Other",
+      "description": "Software Engineer 3. Gurugram. We are looking to speak to candidates who are based in Gurugram for our hybrid working model. Our ideal candidate ...",
+      "date": "2026-07-07",
+      "timestamp": "2026-07-07T15:52:28+00:00",
+      "fetched_at": "2026-07-07T17:47:50.186609+00:00"
+    },
+    {
+      "id": "e30ad64ec66d",
+      "title": "Job Application for Senior Frontend Engineer - Design Systems at Mercury - Greenhouse",
+      "company": "Mercury",
+      "role": "Frontend Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/mercury/jobs/6110081004",
+      "source": "Greenhouse",
+      "description": "Senior Frontend Engineer - Design Systems. San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States. Apply. \"We may ...",
+      "date": "2026-07-07",
+      "timestamp": "2026-07-07T15:30:37+00:00",
+      "fetched_at": "2026-07-07T17:47:50.186765+00:00"
+    },
+    {
+      "id": "b6f90a804cae",
+      "title": "Senior Software Engineer \u2014 DevOps & Platform, AI Systems at Ford Motor Company",
+      "company": "Ford Motor Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.careers.ford.com/job/dearborn/senior-software-engineer-devops-and-platform-ai-systems/48560/97442447200",
+      "source": "Other",
+      "description": "Senior Software Engineer \u2014 DevOps & Platform, AI Systems. Job ID: 66574. Category: Enterprise Technology. Location: Dearborn, Michigan. Work ...",
+      "date": "2026-07-07",
+      "timestamp": "2026-07-07T15:02:59+00:00",
+      "fetched_at": "2026-07-07T17:47:50.187146+00:00"
+    },
+    {
+      "id": "fd0a71d0f0b2",
+      "title": "Software Engineer in Bangalore, India | Product and Engineering at Cisco - Cisco Careers",
+      "company": "Cisco",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2015918EXTERNALENGLOBAL/Software-Engineer",
+      "source": "Other",
+      "description": "Data Engineer . Available in 2 locationsAvailable ... Join our team as a Senior Software Engineer and drive innovation in supply chain IT at Cisco.",
+      "date": "2026-07-07",
+      "timestamp": "2026-07-07T14:44:12+00:00",
+      "fetched_at": "2026-07-07T17:47:50.187406+00:00"
+    },
+    {
+      "id": "833eb1988d6d",
+      "title": "Software Engineer in South Jordan, Utah - Cotiviti | Careers Center",
+      "company": "Cotiviti | Careers Center",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers-cotiviti.icims.com/jobs/19644/software-engineer/job",
+      "source": "iCIMS",
+      "description": "Utah South Jordan is now hiring a Software Engineer in South Jordan, Utah. Review all of the job details and apply today!",
+      "date": "2026-07-07",
+      "timestamp": "2026-07-07T14:38:13+00:00",
+      "fetched_at": "2026-07-07T17:47:50.187630+00:00"
+    },
+    {
+      "id": "b967c92c86a5",
+      "title": "US| Machine Learning Engineer V | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.apexsystems.com/job/3040809_usa/usmachine-learning-engineer-v",
+      "source": "Other",
+      "description": "Machine Learning Engineer / AI Engineer \u00b7 Machine Learning Engineer / AI Engineer . Connect with our experts. Looking for your next opportunity? View ...",
+      "date": "2026-07-07",
+      "timestamp": "2026-07-07T14:28:05+00:00",
+      "fetched_at": "2026-07-07T17:47:50.187862+00:00"
+    },
+    {
+      "id": "a5d2e2b6ffbb",
+      "title": "Sr. Software Engineer , CA, United States of America (Remote) | Ingram Micro",
+      "company": "Ingram Micro",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.ingrammicro.com/en/jobs/r-116329/sr-software-engineer/",
+      "source": "Other",
+      "description": "As a Sr. Software Engineer , you will lead the design, stabilization, and delivery of scalable, secure, and high-performance enterprise solutions ...",
+      "date": "2026-07-07",
+      "timestamp": "2026-07-07T14:25:54+00:00",
+      "fetched_at": "2026-07-07T17:47:50.188099+00:00"
+    },
+    {
+      "id": "d3e5c79aef05",
+      "title": "Data Systems Software Engineer II/III - CU Boulder Jobs",
+      "company": "CU Boulder Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.colorado.edu/jobs/JobDetail/Data-Systems-Software-Engineer-II-III/73218",
+      "source": "Other",
+      "description": "Data Systems Software Engineer II/III. Requisition Number: 73218. Location: Boulder, Colorado.",
+      "date": "2026-07-07",
+      "timestamp": "2026-07-07T13:52:17+00:00",
+      "fetched_at": "2026-07-07T17:47:50.188638+00:00"
+    },
+    {
       "id": "af0e9418ce0f",
       "title": "Staff Software Engineer \u2013 AI Center of Excellence - Neilson Financial Services",
       "company": "Neilson Financial Services",
@@ -51,6 +216,51 @@
       "fetched_at": "2026-07-07T13:57:38.167233+00:00"
     },
     {
+      "id": "4f32a31b9223",
+      "title": "Senior Backend Engineer (Architecture & Cloud) - Synmatch AI - Teamtailor",
+      "company": "Synmatch AI - Teamtailor",
+      "role": "Backend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://synmatchai.teamtailor.com/jobs/8026820-senior-backend-engineer-architecture-cloud",
+      "source": "Other",
+      "description": "Join Synmatch AI's client as a Senior Backend Engineer to drive architecture decisions and cloud infrastructure for web applications built on top ...",
+      "date": "2026-07-07",
+      "timestamp": "2026-07-07T12:42:58+00:00",
+      "fetched_at": "2026-07-07T17:47:50.189354+00:00"
+    },
+    {
+      "id": "63a43f376f8b",
+      "title": "Associate Software Engineer / Software Engineer in Chicago, Illinois | Careers at Applied ...",
+      "company": "Applied ...",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers-appliedsystems.icims.com/jobs/7318/associate-software-engineer---software-engineer/job",
+      "source": "iCIMS",
+      "description": "Applied Systems, Inc. is now hiring a Associate Software Engineer / Software Engineer in Chicago, Illinois. Review all of the job details and ...",
+      "date": "2026-07-07",
+      "timestamp": "2026-07-07T12:42:56+00:00",
+      "fetched_at": "2026-07-07T17:47:50.189665+00:00"
+    },
+    {
+      "id": "3bdf5d3fee6b",
+      "title": "Scientific Data Engineer | Novartis",
+      "company": "Novartis",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.novartis.com/careers/career-search/job/details/req-10081250-scientific-data-engineer",
+      "source": "Other",
+      "description": "Scientific Data Engineer . Scientific Data Engineer . Job ID. REQ-10081250. Jul 06, 2026. USA. Available in: English. Summary. #LI-Hybrid Location ...",
+      "date": "2026-07-07",
+      "timestamp": "2026-07-07T12:33:51+00:00",
+      "fetched_at": "2026-07-07T17:47:50.189927+00:00"
+    },
+    {
       "id": "c6a85a3d7870",
       "title": "AI/ ML Engineer in Bengaluru, Karn\u0101taka, 560048 | Engineering & QA at HPE - HPE Careers",
       "company": "HPE",
@@ -64,6 +274,36 @@
       "date": "2026-07-07",
       "timestamp": "2026-07-07T12:20:56+00:00",
       "fetched_at": "2026-07-07T13:57:38.167402+00:00"
+    },
+    {
+      "id": "98b892fc7ec8",
+      "title": "Software Engineer (Autonomy Services) - Caterpillar Careers",
+      "company": "Caterpillar Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.caterpillar.com/en/jobs/r0000380992/software-engineer-autonomy-services/",
+      "source": "Other",
+      "description": "Software Engineer (Autonomy Services). Location, Irving, Texas ... Senior Software Engineer (Autonomy Services). Save Saved. Irving, Texas ...",
+      "date": "2026-07-07",
+      "timestamp": "2026-07-07T11:24:57+00:00",
+      "fetched_at": "2026-07-07T17:47:50.190423+00:00"
+    },
+    {
+      "id": "ad9666856e98",
+      "title": "Software Engineer , Cash Advance @ OnePay - Jobs",
+      "company": "Oneapp",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/oneapp/45a38681-40cf-47fc-92ad-dbc2f2e07996",
+      "source": "Ashby",
+      "description": "... Software Engineer on the Cash Advance team, your work will directly impact how people access, move, and manage their money through innovative cash ...",
+      "date": "2026-07-07",
+      "timestamp": "2026-07-07T10:50:11+00:00",
+      "fetched_at": "2026-07-07T17:47:50.190570+00:00"
     },
     {
       "id": "f58c3139a1d1",
