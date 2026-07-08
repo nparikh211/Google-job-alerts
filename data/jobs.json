@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-07-08T01:15:34.127658+00:00",
-  "total_jobs": 5233,
+  "last_updated": "2026-07-08T06:18:47.939926+00:00",
+  "total_jobs": 5240,
   "stats": {
-    "total_companies": 2690,
+    "total_companies": 2693,
     "total_roles": 77,
     "regions": {
-      "India": 3383,
-      "Philippines": 1076,
-      "Remote": 661,
+      "India": 3386,
+      "Philippines": 1079,
+      "Remote": 662,
       "Unknown": 135
     },
     "sources": {
-      "Other": 4115,
-      "Greenhouse": 260,
+      "Other": 4119,
+      "Greenhouse": 261,
       "Workday": 231,
       "LinkedIn": 193,
-      "Ashby": 159,
-      "iCIMS": 66,
+      "Ashby": 160,
+      "iCIMS": 67,
       "Breezy": 58,
       "Lever": 37,
       "Workable": 36,
@@ -36,6 +36,66 @@
   },
   "jobs": [
     {
+      "id": "e99a41ee089d",
+      "title": "Software Engineer , New York :: Jane Street",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.janestreet.com/join-jane-street/position/8599644002/",
+      "source": "Other",
+      "description": "Software Engineer Internship, May-August. LOCATION. New York. DEPARTMENT. Technology. TEAM. Software Engineering. Apply. Share this job. About the ...",
+      "date": "2026-07-08",
+      "timestamp": "2026-07-08T05:03:51+00:00",
+      "fetched_at": "2026-07-08T06:18:47.916128+00:00"
+    },
+    {
+      "id": "3f21756ac688",
+      "title": "Why is everyone a software engineer in bushwick : r/movingtoNYC - Reddit",
+      "company": "Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.reddit.com/r/movingtoNYC/comments/1upwa5t/why_is_everyone_a_software_engineer_in_bushwick/",
+      "source": "Other",
+      "description": "Why is everyone a software engineer in bushwick. nypost.com. A ... It's because tech works with a technical job (software eng, data engineer , etc.) ...",
+      "date": "2026-07-08",
+      "timestamp": "2026-07-08T02:23:01+00:00",
+      "fetched_at": "2026-07-08T06:18:47.916339+00:00"
+    },
+    {
+      "id": "06f374fd91c5",
+      "title": "Fullstack Engineer @ General Intuition & Medal - Jobs",
+      "company": "Generalintuition Medal",
+      "role": "Fullstack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/generalintuition-medal/64f63374-1589-4865-9a2e-996dd1666af2",
+      "source": "Ashby",
+      "description": "Fullstack Engineer . Location. New York City. Address. New York City, NY. Employment Type. Full time. Location Type. On-site. Department. General ...",
+      "date": "2026-07-08",
+      "timestamp": "2026-07-08T01:43:23+00:00",
+      "fetched_at": "2026-07-08T06:18:47.740883+00:00"
+    },
+    {
+      "id": "f6fea3fa0316",
+      "title": "Senior Software Engineer - Cisco Careers",
+      "company": "Cisco Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2017444EXTERNALENGLOBAL/Senior-Software-Engineer",
+      "source": "Other",
+      "description": "Join our team as a Senior Software Engineer and help build next-generation security software. ... Join our team as a Senior Kubernetes Platform Engineer ...",
+      "date": "2026-07-08",
+      "timestamp": "2026-07-08T01:37:35+00:00",
+      "fetched_at": "2026-07-08T06:18:47.742642+00:00"
+    },
+    {
       "id": "22aff0f56376",
       "title": "Software Engineer , Big Data - Apple Services Engineering - Jobs - Careers at Apple",
       "company": "Apple",
@@ -51,6 +111,21 @@
       "fetched_at": "2026-07-08T01:15:34.007615+00:00"
     },
     {
+      "id": "3b69e16433f8",
+      "title": "Job Application for Senior Software Engineer , Frontend Platform at Roo - Greenhouse",
+      "company": "Roo",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/roo/jobs/5290836008",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer , Frontend Platform. Remote. Apply. What We Do We're on a mission to empower animal healthcare professionals with ...",
+      "date": "2026-07-08",
+      "timestamp": "2026-07-08T00:30:12+00:00",
+      "fetched_at": "2026-07-08T06:18:47.743477+00:00"
+    },
+    {
       "id": "800216e26ff4",
       "title": "Applied AI Engineer - Jobs - Careers at Apple",
       "company": "Apple",
@@ -64,6 +139,21 @@
       "date": "2026-07-07",
       "timestamp": "2026-07-07T23:49:40+00:00",
       "fetched_at": "2026-07-08T01:15:34.007814+00:00"
+    },
+    {
+      "id": "0e21784e0f12",
+      "title": "Sr Software Engineer , GenAI Platform & Practice - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200671236-0836/sr-software-engineer-genai-platform-practice?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Sr Software Engineer , GenAI Platform & Practice job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-07-07",
+      "timestamp": "2026-07-07T23:46:48+00:00",
+      "fetched_at": "2026-07-08T06:18:47.744150+00:00"
     },
     {
       "id": "4a2bedbc78f5",
@@ -154,6 +244,21 @@
       "date": "2026-07-07",
       "timestamp": "2026-07-07T21:08:45+00:00",
       "fetched_at": "2026-07-08T01:15:34.009276+00:00"
+    },
+    {
+      "id": "70d4772e9a79",
+      "title": "Senior Data Engineer in Hilliard, Ohio - ADS Careers - ADS Pipe",
+      "company": "ADS Careers - ADS Pipe",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers-adspipe.icims.com/jobs/21183/senior-data-engineer/job",
+      "source": "iCIMS",
+      "description": "Corporate Hilliard is now hiring a Senior Data Engineer in Hilliard, Ohio. Review all of the job details and apply today!",
+      "date": "2026-07-07",
+      "timestamp": "2026-07-07T21:05:33+00:00",
+      "fetched_at": "2026-07-08T06:18:47.918594+00:00"
     },
     {
       "id": "e3f775dcddc4",
