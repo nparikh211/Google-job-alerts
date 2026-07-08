@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-07-08T06:18:47.939926+00:00",
-  "total_jobs": 5240,
+  "last_updated": "2026-07-08T10:01:45.841151+00:00",
+  "total_jobs": 5247,
   "stats": {
-    "total_companies": 2693,
+    "total_companies": 2699,
     "total_roles": 77,
     "regions": {
-      "India": 3386,
-      "Philippines": 1079,
-      "Remote": 662,
+      "India": 3391,
+      "Philippines": 1080,
+      "Remote": 663,
       "Unknown": 135
     },
     "sources": {
-      "Other": 4119,
-      "Greenhouse": 261,
-      "Workday": 231,
+      "Other": 4123,
+      "Greenhouse": 263,
+      "Workday": 232,
       "LinkedIn": 193,
       "Ashby": 160,
       "iCIMS": 67,
@@ -36,6 +36,36 @@
   },
   "jobs": [
     {
+      "id": "9ea1ffab0157",
+      "title": "Data Engineer Job Details - HAVI Careers Global",
+      "company": "HAVI Careers Global",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.havi.com/job/Chicago-Data-Engineer-IL-60290/1359698755/",
+      "source": "Other",
+      "description": "Data Engineer . Full/Part-time: Full time. Job Category: Analytics. City: Chicago. HAVI is a global, privately owned company focused on innovating ...",
+      "date": "2026-07-08",
+      "timestamp": "2026-07-08T08:09:33+00:00",
+      "fetched_at": "2026-07-08T10:01:45.640048+00:00"
+    },
+    {
+      "id": "fdbd6e48bd74",
+      "title": "Staff Software Engineer , Backend (Platform) - Careers - Hex",
+      "company": "Careers - Hex",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://hex.tech/careers/staff-software-engineer-backend-(platform)/?gh_jid=6111315004",
+      "source": "Other",
+      "description": "We are looking for a Staff or Principal-level software engineer to join our Compute team. Hex's Compute team owns one of the hardest performance ...",
+      "date": "2026-07-08",
+      "timestamp": "2026-07-08T08:03:00+00:00",
+      "fetched_at": "2026-07-08T10:01:45.640392+00:00"
+    },
+    {
       "id": "e99a41ee089d",
       "title": "Software Engineer , New York :: Jane Street",
       "company": "Unknown Company",
@@ -49,6 +79,66 @@
       "date": "2026-07-08",
       "timestamp": "2026-07-08T05:03:51+00:00",
       "fetched_at": "2026-07-08T06:18:47.916128+00:00"
+    },
+    {
+      "id": "f3b91b20df2f",
+      "title": "Software Engineer I - Python - Digital Pymts - American Express Careers",
+      "company": "Python - Digital Pymts - American Express Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010062",
+      "source": "Other",
+      "description": "Software Engineer I - Python - Digital Pymts. Phoenix, AZ, United States (Hybrid). Apply Now. Job Description. The Enterprise Data and AI organization ...",
+      "date": "2026-07-08",
+      "timestamp": "2026-07-08T04:48:31+00:00",
+      "fetched_at": "2026-07-08T10:01:45.640770+00:00"
+    },
+    {
+      "id": "3b2445c255b8",
+      "title": "Job Application for Staff AI Engineer at Twin Health - Greenhouse",
+      "company": "Twinhealth",
+      "role": "AI Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/twinhealth/jobs/6109867004",
+      "source": "Greenhouse",
+      "description": "Staff AI Engineer . Remote, USA. Apply. Twin Health. At Twin Health, we empower people to improve and prevent chronic metabolic diseases, like type 2 ...",
+      "date": "2026-07-08",
+      "timestamp": "2026-07-08T04:15:51+00:00",
+      "fetched_at": "2026-07-08T10:01:45.640871+00:00"
+    },
+    {
+      "id": "0fefac003a66",
+      "title": "AWS Cloud Engineer - Sutherland Global",
+      "company": "Sutherland Global",
+      "role": "Cloud Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.jobs.sutherlandglobal.com/job-details/aws-cloud-engineer-in-corporate-jobs-1629283",
+      "source": "Other",
+      "description": "Work on interesting projects. AWS Cloud Engineer . Contract Type: Brick and Mortar. Location: Hyderabad - //TS. Date Published: 07-07-2026. Job ID:.",
+      "date": "2026-07-08",
+      "timestamp": "2026-07-08T03:48:41+00:00",
+      "fetched_at": "2026-07-08T10:01:45.641064+00:00"
+    },
+    {
+      "id": "626f1153f1a1",
+      "title": "Job Application for Agentic AI Engineer at Taxbit - Greenhouse",
+      "company": "Taxbit",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/taxbit/jobs/6111068004",
+      "source": "Greenhouse",
+      "description": "Agentic AI Engineer . Seattle, Washington. Apply. Company. Founded by CPAs, tax attorneys, and engineers, Taxbit is the leading innovator automating ...",
+      "date": "2026-07-08",
+      "timestamp": "2026-07-08T03:26:52+00:00",
+      "fetched_at": "2026-07-08T10:01:45.641148+00:00"
     },
     {
       "id": "3f21756ac688",
@@ -229,6 +319,21 @@
       "date": "2026-07-07",
       "timestamp": "2026-07-07T21:44:17+00:00",
       "fetched_at": "2026-07-08T01:15:34.008959+00:00"
+    },
+    {
+      "id": "f28e37c73482",
+      "title": "Cloud Engineer III - Careers - Myworkdayjobs.com",
+      "company": "Modivcare",
+      "role": "Cloud Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://modivcare.wd1.myworkdayjobs.com/en-US/careers/job/Cloud-Engineer-III_JR103737",
+      "source": "Workday",
+      "description": "Cloud Engineer III \u00b7 dbt Engineering & Data Transformation. Design, develop, and maintain dbt projects, models, macros, snapshots, tests, and reusable ...",
+      "date": "2026-07-07",
+      "timestamp": "2026-07-07T21:33:56+00:00",
+      "fetched_at": "2026-07-08T10:01:45.819723+00:00"
     },
     {
       "id": "73a28c563cda",
