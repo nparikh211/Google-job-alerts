@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-07-08T20:51:26.261386+00:00",
-  "total_jobs": 5289,
+  "last_updated": "2026-07-09T01:23:37.422893+00:00",
+  "total_jobs": 5304,
   "stats": {
-    "total_companies": 2718,
+    "total_companies": 2728,
     "total_roles": 77,
     "regions": {
-      "India": 3421,
-      "Philippines": 1086,
-      "Remote": 669,
+      "India": 3432,
+      "Philippines": 1088,
+      "Remote": 671,
       "Unknown": 135
     },
     "sources": {
-      "Other": 4157,
-      "Greenhouse": 264,
+      "Other": 4169,
+      "Greenhouse": 265,
       "Workday": 235,
       "LinkedIn": 195,
-      "Ashby": 161,
+      "Ashby": 163,
       "iCIMS": 68,
       "Breezy": 58,
       "Lever": 37,
@@ -31,10 +31,130 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-07-08"
+      "latest": "2026-07-09"
     }
   },
   "jobs": [
+    {
+      "id": "a2800bd8840a",
+      "title": "Full Stack Engineer at PRICE WATERHOUSE COOPERS - PwC Jobs",
+      "company": "PRICE WATERHOUSE COOPERS",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.us.pwc.com/job/milwaukee/full-stack-engineer/932/97531338192",
+      "source": "Other",
+      "description": "Full Stack Engineer . We solve together so you can deliver unexpected impact. Milwaukee, Wisconsin. Apply Save. Job ID: 743274WD. Category: Software ...",
+      "date": "2026-07-09",
+      "timestamp": "2026-07-09T00:02:05+00:00",
+      "fetched_at": "2026-07-09T01:23:37.314527+00:00"
+    },
+    {
+      "id": "85034dfddfb3",
+      "title": "Senior software engineer roles - is the market that bad or am I looking in the wrong places?",
+      "company": "bad or am I looking in the wrong places?",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/cscareerquestionsuk/comments/1uqp7em/senior_software_engineer_roles_is_the_market_that/",
+      "source": "Other",
+      "description": "23 votes, 38 comments. Just wanted to get other people's view - I've been looking for senior software engineer roles in London for the last few\u2026",
+      "date": "2026-07-08",
+      "timestamp": "2026-07-08T23:14:15+00:00",
+      "fetched_at": "2026-07-09T01:23:37.314792+00:00"
+    },
+    {
+      "id": "dcdb57bac768",
+      "title": "Job Application for Contract Data Engineer at Hone Health - Greenhouse",
+      "company": "Honehealth",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/honehealth/jobs/5248570008",
+      "source": "Greenhouse",
+      "description": "Contract Data Engineer . Remote. Apply. About Hone. Hone is an online medical clinic at the forefront of transforming healthcare and enhancing ...",
+      "date": "2026-07-08",
+      "timestamp": "2026-07-08T22:44:41+00:00",
+      "fetched_at": "2026-07-09T01:23:37.315459+00:00"
+    },
+    {
+      "id": "40ec53b8c1f7",
+      "title": "DevOps Engineer III - Careers at Allen Institute - ClearCompany",
+      "company": "Allen Institute",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://alleninstitute.hrmdirect.com/employment/job-opening.php?req=3716195&req_loc=1331025&&cust_sort1=29268&",
+      "source": "Other",
+      "description": "DevOps Engineer III The mission of the Allen Institute is to understand the principles that govern life and to advance health Our creative and ...",
+      "date": "2026-07-08",
+      "timestamp": "2026-07-08T22:39:29+00:00",
+      "fetched_at": "2026-07-09T01:23:37.315769+00:00"
+    },
+    {
+      "id": "128cb244e150",
+      "title": "AI ML Engineer - Tech Consulting - ApplicantStack",
+      "company": "Tech Consulting - ApplicantStack",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://techconsulting.applicantstack.com/x/detail/a2lz97h3no2v/aa0",
+      "source": "Other",
+      "description": "In 9 weeks, go from data-aware developer to a production-ready AI/ ML Engineer \u2014 paid from day one, trained on real tools, and deployed on Fortune ...",
+      "date": "2026-07-08",
+      "timestamp": "2026-07-08T22:28:22+00:00",
+      "fetched_at": "2026-07-09T01:23:37.315950+00:00"
+    },
+    {
+      "id": "a548896cbf57",
+      "title": "Healthcare Claims, Data Engineer - - 16209 - Healthfirst",
+      "company": "- 16209 - Healthfirst",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.healthfirst.org/careersmarketplace/PipelineDetail/Healthcare-Claims-Data-Engineer/16209",
+      "source": "Other",
+      "description": "The Data Engineer is responsible for data acquisition strategies and integration, scripting and tools, data migrations, conversions, purging, ...",
+      "date": "2026-07-08",
+      "timestamp": "2026-07-08T22:12:42+00:00",
+      "fetched_at": "2026-07-09T01:23:37.316315+00:00"
+    },
+    {
+      "id": "2bcb71a2c0ff",
+      "title": "AI Engineer III - Staples Inc. Careers - Cloud Sign In",
+      "company": "Staples Inc. Careers - Cloud Sign In",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/71586",
+      "source": "Other",
+      "description": "Job Description. AI Engineer III. Work Model: Onsite, Lincolnshire, IL. About Staples. Staples is an Equal Opportunity Employer that values the ...",
+      "date": "2026-07-08",
+      "timestamp": "2026-07-08T21:52:55+00:00",
+      "fetched_at": "2026-07-09T01:23:37.316522+00:00"
+    },
+    {
+      "id": "f1f76a8f92ac",
+      "title": "Software Engineer @ Capable Labs - Jobs",
+      "company": "Capable",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/Capable/5cd1c05e-6631-43cb-b638-dcecc6602610",
+      "source": "Ashby",
+      "description": "Software Engineer . Location. San Francisco. Employment Type. Full time. Location Type. On-site. Department. AI Research & Infrastructure. Compensation.",
+      "date": "2026-07-08",
+      "timestamp": "2026-07-08T21:18:22+00:00",
+      "fetched_at": "2026-07-09T01:23:37.399016+00:00"
+    },
     {
       "id": "016f87855ef9",
       "title": "Machine Learning Engineer in McLean, Virginia | Somatus, Inc. - Careers",
@@ -66,6 +186,96 @@
       "fetched_at": "2026-07-08T20:51:26.239038+00:00"
     },
     {
+      "id": "262b05e7c835",
+      "title": "Senior Platform Software Engineer @ Archy - Jobs",
+      "company": "Archy",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/archy/fce36a67-fa05-4b9b-8732-ecae67cb9885",
+      "source": "Ashby",
+      "description": "... Platform Engineer to join our growing team. You'll thrive in our ... Site Reliability Engineer , with a strong emphasis on Infrastructure as ...",
+      "date": "2026-07-08",
+      "timestamp": "2026-07-08T20:28:18+00:00",
+      "fetched_at": "2026-07-09T01:23:37.317254+00:00"
+    },
+    {
+      "id": "7bf35dcde001",
+      "title": "AI Engineer Job Details | Holtec International - Careers",
+      "company": "Holtec International - Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://holtec.jobs.hr.cloud.sap/job/Camden-AI-Engineer-NJ-08101/1406818600/",
+      "source": "Other",
+      "description": "AI Engineer . Requisition ID: 1405. Location: Camden, NJ, US. Job Family Function: Engineering. Department: Software Development. Division: Nuclear ...",
+      "date": "2026-07-08",
+      "timestamp": "2026-07-08T20:20:12+00:00",
+      "fetched_at": "2026-07-09T01:23:37.317413+00:00"
+    },
+    {
+      "id": "d375704eb70d",
+      "title": "Data Engineer III | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.apexsystems.com/job/3041327_usa/data-engineer-iii",
+      "source": "Other",
+      "description": "Job#: 3041327. Job Description: Job Title: Data Engineer III. Location: Cincinnati, OH (Onsite). Length: 6 months. Pay Range: $61-$70.",
+      "date": "2026-07-08",
+      "timestamp": "2026-07-08T19:50:21+00:00",
+      "fetched_at": "2026-07-09T01:23:37.317696+00:00"
+    },
+    {
+      "id": "492bdf60f2f7",
+      "title": "Data Engineer | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.apexsystems.com/job/3041416_usa/data-engineer",
+      "source": "Other",
+      "description": "Data Engineer \u00b7 5+ years of experience designing ETL (SSIS/ADF), DBMS(SQL Server/Azure SQL/Oracle/Teradata), Python (Programming language) \u00b7 5+ years of ...",
+      "date": "2026-07-08",
+      "timestamp": "2026-07-08T19:46:21+00:00",
+      "fetched_at": "2026-07-09T01:23:37.317835+00:00"
+    },
+    {
+      "id": "4347d80aa0f5",
+      "title": "Business Intelligence Data Engineer , Retail Customer Care - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200669617/business-intelligence-data-engineer-retail-customer-care",
+      "source": "Other",
+      "description": "Apply for a Business Intelligence Data Engineer , Retail Customer Care job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-07-08",
+      "timestamp": "2026-07-08T19:40:56+00:00",
+      "fetched_at": "2026-07-09T01:23:37.318174+00:00"
+    },
+    {
+      "id": "4238cc0a41c1",
+      "title": "TLN Worldwide Enterprises Inc - Data Engineer \u2013 Advanced Analytics & Fraud Detection",
+      "company": "TLN Worldwide Enterprises Inc",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://recruiting.paylocity.com/recruiting/jobs/Details/4310664/TLN-Worldwide-Enterprises-Inc/Data-Engineer-Advanced-Analytics-Fraud-Detection",
+      "source": "Other",
+      "description": "The Data Engineer will work closely with data scientists, graph data scientists, investigative analysts, forensic accountants, and Government ...",
+      "date": "2026-07-08",
+      "timestamp": "2026-07-08T19:35:18+00:00",
+      "fetched_at": "2026-07-09T01:23:37.400417+00:00"
+    },
+    {
       "id": "84476754bb1e",
       "title": "AI Engineer - Recruitment Management Software for Hiring on All Cylinders | Rippling",
       "company": "Recruitment Management Software for Hiring on All Cylinders | Rippling",
@@ -79,6 +289,21 @@
       "date": "2026-07-08",
       "timestamp": "2026-07-08T19:11:29+00:00",
       "fetched_at": "2026-07-08T20:51:25.869727+00:00"
+    },
+    {
+      "id": "058f54c65cfe",
+      "title": "Principal Mobile Software Engineer - - Upstart Careers",
+      "company": "- Upstart Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.upstart.com/jobs/principal-mobile-software-engineer-78cb7c4c-b141-4ca7-85f1-af0b1d75f089",
+      "source": "Other",
+      "description": "Apply now! Similar Jobs. Director, Software Engineering, Mobile Platform \u00b7 Senior Software Engineer , White Label Platform \u00b7 Senior Software Engineer , ...",
+      "date": "2026-07-08",
+      "timestamp": "2026-07-08T19:09:22+00:00",
+      "fetched_at": "2026-07-09T01:23:37.400892+00:00"
     },
     {
       "id": "e70049275282",
