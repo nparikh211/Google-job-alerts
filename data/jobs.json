@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-07-09T01:23:37.422893+00:00",
-  "total_jobs": 5304,
+  "last_updated": "2026-07-09T07:25:27.211372+00:00",
+  "total_jobs": 5307,
   "stats": {
     "total_companies": 2728,
     "total_roles": 77,
     "regions": {
-      "India": 3432,
-      "Philippines": 1088,
-      "Remote": 671,
+      "India": 3433,
+      "Philippines": 1089,
+      "Remote": 672,
       "Unknown": 135
     },
     "sources": {
-      "Other": 4169,
+      "Other": 4172,
       "Greenhouse": 265,
       "Workday": 235,
       "LinkedIn": 195,
@@ -36,6 +36,36 @@
   },
   "jobs": [
     {
+      "id": "5a36155a0b17",
+      "title": "Embedded Java Software Engineer at Carrier",
+      "company": "Carrier",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.carrier.com/en/job/florida/embedded-java-software-engineer/29289/97518781088",
+      "source": "Other",
+      "description": "Embedded Java Software Engineer . CAFLO: Carrier-Home Florida Remote Location, Remote City, FL, 33412 USA CAGAO: Carrier-Home Georgia Remote ...",
+      "date": "2026-07-09",
+      "timestamp": "2026-07-09T01:07:59+00:00",
+      "fetched_at": "2026-07-09T07:25:27.124238+00:00"
+    },
+    {
+      "id": "9c59fd0fe761",
+      "title": "Senior Software Engineer - Telia Company",
+      "company": "Telia Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.teliacompany.com/en/careers/open-positions/Senior-Software-Engineer_61904",
+      "source": "Other",
+      "description": "We're looking for a Senior Software Engineer to join us at Telia. I'm Justas Sobutas, Engineering Manager, and I'm searching for someone ready to ...",
+      "date": "2026-07-09",
+      "timestamp": "2026-07-09T00:13:46+00:00",
+      "fetched_at": "2026-07-09T07:25:27.124430+00:00"
+    },
+    {
       "id": "a2800bd8840a",
       "title": "Full Stack Engineer at PRICE WATERHOUSE COOPERS - PwC Jobs",
       "company": "PRICE WATERHOUSE COOPERS",
@@ -49,6 +79,21 @@
       "date": "2026-07-09",
       "timestamp": "2026-07-09T00:02:05+00:00",
       "fetched_at": "2026-07-09T01:23:37.314527+00:00"
+    },
+    {
+      "id": "66870f6cf6e0",
+      "title": "Software Engineer - Agentic OS Experiences - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200643348-0836/software-engineer-agentic-os-experiences?team=MLAI",
+      "source": "Other",
+      "description": "Apply for a Software Engineer - Agentic OS Experiences job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-07-08",
+      "timestamp": "2026-07-08T23:56:51+00:00",
+      "fetched_at": "2026-07-09T07:25:27.186026+00:00"
     },
     {
       "id": "85034dfddfb3",
