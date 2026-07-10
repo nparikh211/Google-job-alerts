@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-07-09T21:08:09.681845+00:00",
-  "total_jobs": 5351,
+  "last_updated": "2026-07-10T01:20:30.922950+00:00",
+  "total_jobs": 5363,
   "stats": {
-    "total_companies": 2749,
+    "total_companies": 2752,
     "total_roles": 77,
     "regions": {
-      "India": 3464,
+      "India": 3474,
       "Philippines": 1097,
-      "Remote": 677,
+      "Remote": 679,
       "Unknown": 135
     },
     "sources": {
-      "Other": 4206,
+      "Other": 4214,
       "Greenhouse": 268,
-      "Workday": 236,
+      "Workday": 239,
       "LinkedIn": 197,
       "Ashby": 166,
-      "iCIMS": 68,
+      "iCIMS": 69,
       "Breezy": 59,
       "Lever": 37,
       "Workable": 36,
@@ -35,6 +35,96 @@
     }
   },
   "jobs": [
+    {
+      "id": "567abbb06e18",
+      "title": "Software Engineer at MCKESSON",
+      "company": "MCKESSON",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mckesson.com/en/job/irving/software-engineer/733/97581024576",
+      "source": "Other",
+      "description": "Tackling challenges no one else can. Software Engineer . Irving, Texas. Job IDJR0150245 See Job Responsibilities. Apply",
+      "date": "2026-07-09",
+      "timestamp": "2026-07-09T23:21:46+00:00",
+      "fetched_at": "2026-07-10T01:20:30.818125+00:00"
+    },
+    {
+      "id": "34616b2f340e",
+      "title": "Video AI Engineer - San Jose, California, United States - Zoom Careers",
+      "company": "San Jose, California, United States - Zoom Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.zoom.us/jobs/video-ai-engineer-san-jose-california-united-states-747fbb08-5e5b-4e7b-9dc3-da91db2eaa7e",
+      "source": "Other",
+      "description": "What you can expectAs a Video AI Engineer , you'll enhance video codec standards to improve real-time video quality andperformance in Zoom products ...",
+      "date": "2026-07-09",
+      "timestamp": "2026-07-09T22:46:02+00:00",
+      "fetched_at": "2026-07-10T01:20:30.818848+00:00"
+    },
+    {
+      "id": "1c2124eff256",
+      "title": "Intern - AI Engineer in Remote - Cotiviti | Careers Center - ICIMS",
+      "company": "Intern",
+      "role": "AI Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers-cotiviti.icims.com/jobs/19531/intern---ai-engineer/job",
+      "source": "iCIMS",
+      "description": "US Nationwide Remote is now hiring a Intern - AI Engineer in Remote. Review all of the job details and apply today!",
+      "date": "2026-07-09",
+      "timestamp": "2026-07-09T22:08:29+00:00",
+      "fetched_at": "2026-07-10T01:20:30.818999+00:00"
+    },
+    {
+      "id": "d8be0f4c0134",
+      "title": "Machine Learning Engineer - Myworkdayjobs.com",
+      "company": "Roche",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Machine-Learning-Engineer_202606-116926-1",
+      "source": "Workday",
+      "description": "... Machine Learning Engineer sits on the Data Science & Machine Learning ... ML Engineer will also pioneer and administer model retraining, A/B ...",
+      "date": "2026-07-09",
+      "timestamp": "2026-07-09T21:53:15+00:00",
+      "fetched_at": "2026-07-10T01:20:30.819106+00:00"
+    },
+    {
+      "id": "dd72b6bd132e",
+      "title": "Staff Machine Learning Engineer - Remote, United States - Toast",
+      "company": "Remote, United States - Toast",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.toasttab.com/jobs/staff-machine-learning-engineer-remote-united-states",
+      "source": "Other",
+      "description": "Staff Machine Learning Engineer . Engineering. Staff Machine ... Toast is seeking a Staff Software Engineer to act as a technical leader ...",
+      "date": "2026-07-09",
+      "timestamp": "2026-07-09T21:16:27+00:00",
+      "fetched_at": "2026-07-10T01:20:30.819310+00:00"
+    },
+    {
+      "id": "54cf12c06e2d",
+      "title": "Software Engineer II - BDX IAM in Washington D.C., District of Columbia | Booking.com",
+      "company": "BDX IAM in Washington D.C., District of Columbia | Booking.com",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.booking.com/booking/jobs/29053?lang=en-us",
+      "source": "Other",
+      "description": "Booking.com Careers is hiring a Software Engineer II - BDX IAM in Washington D.C., District of Columbia. Review all of the job details and apply ...",
+      "date": "2026-07-09",
+      "timestamp": "2026-07-09T21:01:13+00:00",
+      "fetched_at": "2026-07-10T01:20:30.819636+00:00"
+    },
     {
       "id": "21df958cd1b5",
       "title": "Sr Data Engineer Job Details - Careers at Paramount",
@@ -96,6 +186,21 @@
       "fetched_at": "2026-07-09T21:08:09.658832+00:00"
     },
     {
+      "id": "bdbe5710e354",
+      "title": "Staff Machine Learning Engineer , Ads Conversion Core Modeling - Pinterest Careers",
+      "company": "Pinterest Careers",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.pinterestcareers.com/jobs/8011452/staff-machine-learning-engineer-ads-conversion-core-modeling/",
+      "source": "Other",
+      "description": "We are looking for a Staff Machine Learning Engineer to lead the technical vision for our Ads Conversion Core Modeling team, building the ...",
+      "date": "2026-07-09",
+      "timestamp": "2026-07-09T20:12:17+00:00",
+      "fetched_at": "2026-07-10T01:20:30.820463+00:00"
+    },
+    {
       "id": "f4ccf867b79f",
       "title": "Migration Automation Software Engineer @ Archy - Jobs",
       "company": "Archy",
@@ -109,6 +214,36 @@
       "date": "2026-07-09",
       "timestamp": "2026-07-09T19:57:05+00:00",
       "fetched_at": "2026-07-09T21:08:09.658927+00:00"
+    },
+    {
+      "id": "7c21399eabf4",
+      "title": "Principal Software Engineer , Agent Harness Bridge | OpenAI",
+      "company": "OpenAI",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://openai.com/careers/principal-software-engineer-agent-harness-bridge-san-francisco/",
+      "source": "Other",
+      "description": "About the Role. We're looking for a Principal Software Engineer to lead the architecture and evolution of the Agent Harness Bridge. You'll own a ...",
+      "date": "2026-07-09",
+      "timestamp": "2026-07-09T19:25:01+00:00",
+      "fetched_at": "2026-07-10T01:20:30.820676+00:00"
+    },
+    {
+      "id": "4007580ccb15",
+      "title": "Associate Software Engineer - Myworkdayjobs.com",
+      "company": "Kla",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Associate-Software-Engineer_2637514-2",
+      "source": "Workday",
+      "description": "Associate Software Engineer \u00b7 Perform requirements analysis, software design, development and unit testing \u00b7 Provide technical expertise to the ...",
+      "date": "2026-07-09",
+      "timestamp": "2026-07-09T19:02:56+00:00",
+      "fetched_at": "2026-07-10T01:20:30.820770+00:00"
     },
     {
       "id": "b76f1998371a",
@@ -126,6 +261,36 @@
       "fetched_at": "2026-07-09T21:08:09.428642+00:00"
     },
     {
+      "id": "29df4b17ffdb",
+      "title": "Junior Data Engineer Job Details | CRH",
+      "company": "CRH",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.crh.com/job/Junior-Data-Engineer/526313-en_US/",
+      "source": "Other",
+      "description": "The Junior Data Engineer contributes to the design, development, and maintenance of data pipelines and data products that support trusted ...",
+      "date": "2026-07-09",
+      "timestamp": "2026-07-09T18:56:31+00:00",
+      "fetched_at": "2026-07-10T01:20:30.820988+00:00"
+    },
+    {
+      "id": "9671a0beb786",
+      "title": "Open Role \u2014 Senior Software Engineer , Risk | Ripple",
+      "company": "Ripple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ripple.com/careers/all-jobs/job/8051961/?gh_jid=8051961",
+      "source": "Other",
+      "description": "Senior Software Engineer , Risk. London, UK. Please note this is for London, UK. You only need to apply to one location if there are multiple listed ...",
+      "date": "2026-07-09",
+      "timestamp": "2026-07-09T18:47:12+00:00",
+      "fetched_at": "2026-07-10T01:20:30.821138+00:00"
+    },
+    {
       "id": "24156339d015",
       "title": "Software Engineer , Data Infrastructure @ The Voleon Group - Jobs",
       "company": "Voleon",
@@ -139,6 +304,21 @@
       "date": "2026-07-09",
       "timestamp": "2026-07-09T18:36:02+00:00",
       "fetched_at": "2026-07-09T21:08:09.428751+00:00"
+    },
+    {
+      "id": "af16ed91fca0",
+      "title": "Machine Learning Engineer - Myworkdayjobs.com",
+      "company": "Redhat",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://redhat.wd5.myworkdayjobs.com/en-US/Jobs/job/Machine-Learning-Engineer_R-058400",
+      "source": "Workday",
+      "description": "Machine Learning Engineer \u00b7 Debug and resolve issues in Python applications by analyzing logs, data, and runtime behavior. \u00b7 Apply standard software ...",
+      "date": "2026-07-09",
+      "timestamp": "2026-07-09T18:31:19+00:00",
+      "fetched_at": "2026-07-10T01:20:30.821329+00:00"
     },
     {
       "id": "995a423d25b4",
