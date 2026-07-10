@@ -1,26 +1,26 @@
 {
-  "last_updated": "2026-07-10T10:40:40.979890+00:00",
-  "total_jobs": 5380,
+  "last_updated": "2026-07-10T13:47:04.424918+00:00",
+  "total_jobs": 5387,
   "stats": {
-    "total_companies": 2758,
+    "total_companies": 2759,
     "total_roles": 78,
     "regions": {
-      "India": 3485,
+      "India": 3491,
       "Philippines": 1101,
-      "Remote": 682,
+      "Remote": 683,
       "Unknown": 135
     },
     "sources": {
-      "Other": 4222,
+      "Other": 4225,
       "Greenhouse": 269,
-      "Workday": 242,
+      "Workday": 244,
       "LinkedIn": 200,
       "Ashby": 168,
-      "iCIMS": 69,
+      "iCIMS": 70,
       "Breezy": 59,
       "Lever": 37,
       "Workable": 36,
-      "SmartRecruiters": 32,
+      "SmartRecruiters": 33,
       "Indeed": 22,
       "Recruitee": 6,
       "BrassRing": 6,
@@ -35,6 +35,81 @@
     }
   },
   "jobs": [
+    {
+      "id": "6a0e3ae6e43f",
+      "title": "Principal Software Engineer - Clinisys Careers",
+      "company": "Clinisys Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.clinisys.com/jobs/8049663-principal-software-engineer",
+      "source": "Other",
+      "description": "Role Summary. The Principal Software Engineer is a senior technical leader(8-11+ years) with a strong emphasis on Artificial Intelligence\u2013assisted ...",
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T12:20:26+00:00",
+      "fetched_at": "2026-07-10T13:47:04.311533+00:00"
+    },
+    {
+      "id": "ba44d88ae372",
+      "title": "Senior Site Reliability Engineer (Cloud Platform) - Salve.Inno Consulting",
+      "company": "Salve.Inno Consulting",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.salveinno.com/jobs/8047005-senior-site-reliability-engineer-cloud-platform",
+      "source": "Other",
+      "description": "B2B Contract. Role Overview. We're looking for a Senior Site Reliability Engineer to help build, operate, and continuously improve a highly ...",
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T12:05:10+00:00",
+      "fetched_at": "2026-07-10T13:47:04.311970+00:00"
+    },
+    {
+      "id": "097c3401081b",
+      "title": "Data Engineer / Sr. Data Engineer (Big Query) in | Careers at Applied Systems, Inc.",
+      "company": "Applied Systems, Inc.",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers-appliedsystems.icims.com/jobs/7654/data-engineer---sr.-data-engineer-%28big-query%29/job",
+      "source": "iCIMS",
+      "description": "Job Description. We're seeking a Data Engineer / Senior Data Engineer to build and enhance data solutions and AI initiatives for the business of ...",
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T11:02:06+00:00",
+      "fetched_at": "2026-07-10T13:47:04.312543+00:00"
+    },
+    {
+      "id": "e3d19e027f60",
+      "title": "Senior Machine Learning Engineer , Voice Assistant - Boston, Massachusetts, United States",
+      "company": "Boston, Massachusetts, United States",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.weareroku.com/jobs/senior-machine-learning-engineer-voice-assistant-boston-massachusetts-united-states",
+      "source": "Other",
+      "description": "Senior Machine Learning Engineer , Voice Assistant ... San Jose, California. Account Executive, New York. Senior Software Engineer , AD Serving ...",
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T08:21:36+00:00",
+      "fetched_at": "2026-07-10T13:47:04.313090+00:00"
+    },
+    {
+      "id": "8e1da0edbaa6",
+      "title": "Internal Job Posting- Software Engineer - III - Myworkdayjobs.com",
+      "company": "Factset",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://factset.wd108.myworkdayjobs.com/en-US/FactSetCareers/job/Internal-Job-Posting-Software-Engineer---III_R31831",
+      "source": "Workday",
+      "description": "Qualified applicants will be considered for employment without regard to characteristics protected by law. Similar Jobs (5). Senior Software Engineer ( ...",
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T08:16:14+00:00",
+      "fetched_at": "2026-07-10T13:47:04.313251+00:00"
+    },
     {
       "id": "57f54dc7bc69",
       "title": "Internal Job Posting- Software Engineer - III - Myworkdayjobs.com",
@@ -64,6 +139,21 @@
       "date": "2026-07-10",
       "timestamp": "2026-07-10T06:32:50+00:00",
       "fetched_at": "2026-07-10T10:40:40.953036+00:00"
+    },
+    {
+      "id": "887845935a31",
+      "title": "Privia Health Data Engineer | SmartRecruiters",
+      "company": "Priviahealth",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.smartrecruiters.com/PriviaHealth/744000136898075-data-engineer",
+      "source": "SmartRecruiters",
+      "description": "We are looking for a Data Engineer to join our Data Engineering team. You will design, build, and maintain the data pipelines and infrastructure ...",
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T06:17:15+00:00",
+      "fetched_at": "2026-07-10T13:47:04.313922+00:00"
     },
     {
       "id": "d2c10cc99677",
@@ -125,6 +215,21 @@
       "date": "2026-07-10",
       "timestamp": "2026-07-10T02:31:22+00:00",
       "fetched_at": "2026-07-10T07:23:32.159453+00:00"
+    },
+    {
+      "id": "26bc2f43d31e",
+      "title": "Senior Software Engineer - Careers - Myworkdayjobs.com",
+      "company": "Workiva",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://workiva.wd503.myworkdayjobs.com/careers/job/usa---remote/senior-software-engineer_r12055",
+      "source": "Workday",
+      "description": "Introduce Yourself. Senior Software Engineer page is loaded. Senior Software Engineer . Apply. locations: USA - Remote. time type: Full time. posted on ...",
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T01:46:02+00:00",
+      "fetched_at": "2026-07-10T13:47:04.314891+00:00"
     },
     {
       "id": "f693aa7cd86d",
