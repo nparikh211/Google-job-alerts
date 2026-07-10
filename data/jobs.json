@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-07-10T01:20:30.922950+00:00",
-  "total_jobs": 5363,
+  "last_updated": "2026-07-10T07:23:32.416786+00:00",
+  "total_jobs": 5376,
   "stats": {
-    "total_companies": 2752,
-    "total_roles": 77,
+    "total_companies": 2756,
+    "total_roles": 78,
     "regions": {
-      "India": 3474,
-      "Philippines": 1097,
-      "Remote": 679,
+      "India": 3483,
+      "Philippines": 1099,
+      "Remote": 681,
       "Unknown": 135
     },
     "sources": {
-      "Other": 4214,
-      "Greenhouse": 268,
-      "Workday": 239,
-      "LinkedIn": 197,
-      "Ashby": 166,
+      "Other": 4220,
+      "Greenhouse": 269,
+      "Workday": 241,
+      "LinkedIn": 199,
+      "Ashby": 168,
       "iCIMS": 69,
       "Breezy": 59,
       "Lever": 37,
@@ -31,10 +31,100 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-07-09"
+      "latest": "2026-07-10"
     }
   },
   "jobs": [
+    {
+      "id": "b8a3390ff0f1",
+      "title": "Software Engineer , Intern @ Pylon - Jobs",
+      "company": "Pylon Labs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d",
+      "source": "Ashby",
+      "description": "Software Engineer , Intern. Location. San Francisco. Employment Type. Full time. Location Type. On-site. Department. Engineering. OverviewApplication ...",
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T03:34:18+00:00",
+      "fetched_at": "2026-07-10T07:23:32.159223+00:00"
+    },
+    {
+      "id": "73725f9496a0",
+      "title": "Job Application for Senior Software Engineer II at Signifyd - Greenhouse",
+      "company": "Signifyd95",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/signifyd95/jobs/8046396",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer II. United States (Remote);. Apply. At Signifyd, we help merchants confidently grow their businesses by building trusted ...",
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T02:31:22+00:00",
+      "fetched_at": "2026-07-10T07:23:32.159453+00:00"
+    },
+    {
+      "id": "f693aa7cd86d",
+      "title": "Actalent hiring Embedded Software Engineer in Phoenix, AZ | LinkedIn",
+      "company": "LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/embedded-software-engineer-at-actalent-4438592492",
+      "source": "LinkedIn",
+      "description": "Senior Software Engineer (IoT). Swiftly, Inc. United States 2 months ago ... Embedded AI Engineer , On-Device Models. Deepgram. United States 2 ...",
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T01:41:09+00:00",
+      "fetched_at": "2026-07-10T07:23:32.161259+00:00"
+    },
+    {
+      "id": "ddddc35aefe8",
+      "title": "Intern - Software Engineer , AI User Experience - Myworkdayjobs.com",
+      "company": "Rakuten",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenAmericas/job/Intern---Software-Engineer--AI-User-Experience_1033171",
+      "source": "Workday",
+      "description": "SUMMARY: We are seeking innovative and dedicated Software Engineer to join the Rakuten AI User Experience team. Rakuten AI strives to be your Rakuten ...",
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T00:54:18+00:00",
+      "fetched_at": "2026-07-10T07:23:32.161446+00:00"
+    },
+    {
+      "id": "4d990d9e1317",
+      "title": "Deepali Dogra's Post - LinkedIn",
+      "company": "Unknown Company",
+      "role": "Deepali Dogra's Post - LinkedIn",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/deepali-dogra-8ab448252_data-engineer-intern-we-are-looking-for-activity-7480883564624916483-Gb88",
+      "source": "LinkedIn",
+      "description": "Data Engineer Intern We are looking for a Data Engineer Intern to join our team in Pune. Requirements: Basic knowledge of SQL and Python ...",
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T00:32:58+00:00",
+      "fetched_at": "2026-07-10T07:23:32.392035+00:00"
+    },
+    {
+      "id": "18b4fc345a04",
+      "title": "Platform Engineer @ Office Hours - Jobs",
+      "company": "Office Hours",
+      "role": "Platform Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.ashbyhq.com/office-hours/0dc33b0f-3ce4-408f-bd5b-702ed7de84cc",
+      "source": "Ashby",
+      "description": "Platform Engineer . Location. Remote. Employment Type. Full time. Location Type. Remote. Department. Product. OverviewApplication. Senior Platform ...",
+      "date": "2026-07-09",
+      "timestamp": "2026-07-09T23:26:56+00:00",
+      "fetched_at": "2026-07-10T07:23:32.392421+00:00"
+    },
     {
       "id": "567abbb06e18",
       "title": "Software Engineer at MCKESSON",
@@ -49,6 +139,36 @@
       "date": "2026-07-09",
       "timestamp": "2026-07-09T23:21:46+00:00",
       "fetched_at": "2026-07-10T01:20:30.818125+00:00"
+    },
+    {
+      "id": "9865544e3f41",
+      "title": "Data Engineer - On Site job in 2090 Parkway Office Circle, Hoover, AL 35244 ... - Careers at Regions",
+      "company": "Regions",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.regions.com/us/en/job/R103780/Data-Engineer-On-Site",
+      "source": "Other",
+      "description": "Data Engineer - On Site. Apply Now. JOB DESCRIPTION. Thank you for your ... Software Engineer . Category Technology & Analytics Job Id R102966. Job ...",
+      "date": "2026-07-09",
+      "timestamp": "2026-07-09T23:15:23+00:00",
+      "fetched_at": "2026-07-10T07:23:32.162006+00:00"
+    },
+    {
+      "id": "9cb50b49531a",
+      "title": "Google Cloud Platform Data Engineer - PY DATA, INC. - Hybrid in Bentonville, AR, US",
+      "company": "PY DATA, INC. - Hybrid in Bentonville, AR, US",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.dice.com/job-detail/d098c2d4-a504-4a52-a4b4-a21e0bda5e70",
+      "source": "Other",
+      "description": "Summary. Google Cloud Platform Data Engineer . Hybrid Bentonville, AR. 6 months Contract to Hire (CTH). Must haves: Google ...",
+      "date": "2026-07-09",
+      "timestamp": "2026-07-09T22:50:51+00:00",
+      "fetched_at": "2026-07-10T07:23:32.392858+00:00"
     },
     {
       "id": "34616b2f340e",
@@ -66,6 +186,21 @@
       "fetched_at": "2026-07-10T01:20:30.818848+00:00"
     },
     {
+      "id": "5bd662166be3",
+      "title": "Senior Data Engineer - Dominion Energy Careers",
+      "company": "Dominion Energy Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.dominionenergy.com/job/RICHMOND-Senior-Data-Engineer-Data-Engineer-VA-23219/1407432600/",
+      "source": "Other",
+      "description": "This position does not offer relocation assistance. Job Summary. The Senior Data Engineer and Data Engineer is responsible for designing, building, ...",
+      "date": "2026-07-09",
+      "timestamp": "2026-07-09T22:29:26+00:00",
+      "fetched_at": "2026-07-10T07:23:32.163093+00:00"
+    },
+    {
       "id": "1c2124eff256",
       "title": "Intern - AI Engineer in Remote - Cotiviti | Careers Center - ICIMS",
       "company": "Intern",
@@ -81,6 +216,21 @@
       "fetched_at": "2026-07-10T01:20:30.818999+00:00"
     },
     {
+      "id": "cec9a5e2e6ec",
+      "title": "Senior Applied AI Engineer in Louisville, Kentucky | Technology and Digital Analytics at Humana",
+      "company": "Humana",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.humana.com/us/en/job/R-421667/Senior-Applied-AI-Engineer",
+      "source": "Other",
+      "description": "Senior Applied AI Engineer . Description. Become a part of our caring ... Senior Software Engineer . Available in 4 locationsAvailable in 4 ...",
+      "date": "2026-07-09",
+      "timestamp": "2026-07-09T22:08:21+00:00",
+      "fetched_at": "2026-07-10T07:23:32.163594+00:00"
+    },
+    {
       "id": "d8be0f4c0134",
       "title": "Machine Learning Engineer - Myworkdayjobs.com",
       "company": "Roche",
@@ -94,6 +244,21 @@
       "date": "2026-07-09",
       "timestamp": "2026-07-09T21:53:15+00:00",
       "fetched_at": "2026-07-10T01:20:30.819106+00:00"
+    },
+    {
+      "id": "4176197704c5",
+      "title": "[7 YoE] NL Data/AI/ ML Engineer . 1 year searching 190 applications, 17 interviews, no offers - Reddit",
+      "company": "Reddit",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/cscareerquestionsEU/comments/1urq1ve/7_yoe_nl_dataaiml_engineer_1_year_searching_190/",
+      "source": "Other",
+      "description": "Platform Engineer + MLOps with no Kubernetes experience? That makes it ... Data engineer and data scientist are very different roles yet your ...",
+      "date": "2026-07-09",
+      "timestamp": "2026-07-09T21:25:07+00:00",
+      "fetched_at": "2026-07-10T07:23:32.164196+00:00"
     },
     {
       "id": "dd72b6bd132e",
@@ -141,6 +306,21 @@
       "fetched_at": "2026-07-09T21:08:09.658379+00:00"
     },
     {
+      "id": "0535699e7b55",
+      "title": "Senior Software Engineer - Myworkdayjobs.com",
+      "company": "Exactcare",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://exactcare.wd1.myworkdayjobs.com/en-US/AnewHealth_Career_Site/job/Senior-Software-Engineer_R-108797",
+      "source": "Workday",
+      "description": "Senior Software Engineer \u00b7 Design, develop, and maintain RESTful APIs and backend services using C# and modern . \u00b7 Own the full lifecycle of Azure-based ...",
+      "date": "2026-07-09",
+      "timestamp": "2026-07-09T20:45:09+00:00",
+      "fetched_at": "2026-07-10T07:23:32.394541+00:00"
+    },
+    {
       "id": "16e32a1a08a1",
       "title": "Associate Software Engineer | Dayforce Jobs - dayforcehcm.com",
       "company": "Dayforce Jobs - dayforcehcm.com",
@@ -169,6 +349,21 @@
       "date": "2026-07-09",
       "timestamp": "2026-07-09T20:26:27+00:00",
       "fetched_at": "2026-07-09T21:08:09.658688+00:00"
+    },
+    {
+      "id": "fa3db2c18d72",
+      "title": "Agentic AI Engineer - Falls Church, VA, US - RQ217980 | General Dynamics",
+      "company": "Falls Church, VA, US - RQ217980 | General Dynamics",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.gd.com/careers/agentic-ai-engineer-falls-church-va-us-rq217980-gdit-opportunity",
+      "source": "Other",
+      "description": "Job Description: As an Agentic AI Engineer , you will be responsible for designing, developing and deploying AI models, algorithms and systems to ...",
+      "date": "2026-07-09",
+      "timestamp": "2026-07-09T20:23:44+00:00",
+      "fetched_at": "2026-07-10T07:23:32.166378+00:00"
     },
     {
       "id": "ed7b718ea66f",
