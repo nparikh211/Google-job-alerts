@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-07-10T13:47:04.424918+00:00",
-  "total_jobs": 5387,
+  "last_updated": "2026-07-10T17:37:43.501347+00:00",
+  "total_jobs": 5406,
   "stats": {
-    "total_companies": 2759,
+    "total_companies": 2762,
     "total_roles": 78,
     "regions": {
-      "India": 3491,
-      "Philippines": 1101,
-      "Remote": 683,
+      "India": 3503,
+      "Philippines": 1106,
+      "Remote": 685,
       "Unknown": 135
     },
     "sources": {
-      "Other": 4225,
-      "Greenhouse": 269,
-      "Workday": 244,
-      "LinkedIn": 200,
+      "Other": 4240,
+      "Greenhouse": 270,
+      "Workday": 245,
+      "LinkedIn": 201,
       "Ashby": 168,
-      "iCIMS": 70,
+      "iCIMS": 71,
       "Breezy": 59,
       "Lever": 37,
       "Workable": 36,
@@ -36,6 +36,171 @@
   },
   "jobs": [
     {
+      "id": "0553e74033c6",
+      "title": "Software Engineer II, Vehicle Platform Integrations - Aurora",
+      "company": "Aurora",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://aurora.tech/careers/8620384002?gh_jid=8620384002",
+      "source": "Other",
+      "description": "Software EngineeringMountain View, California. Software Engineer II, Vehicle Platform Integrations. Who we are. Aurora's mission is to deliver the ...",
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T17:28:46+00:00",
+      "fetched_at": "2026-07-10T17:37:43.477294+00:00"
+    },
+    {
+      "id": "5bd27627fb50",
+      "title": "Senior Software Engineer , Backend Full Stack - Data Cloud",
+      "company": "Data Cloud",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://ats.rippling.com/rippling/jobs/ac485804-a5a2-468e-9423-5b238cb6b910",
+      "source": "Other",
+      "description": "Senior Software Engineer , Backend Full Stack - Data Cloud. Senior Software Engineer , Backend Full Stack - Data Cloud. About Rippling. Rippling gives ...",
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T17:28:01+00:00",
+      "fetched_at": "2026-07-10T17:37:43.477484+00:00"
+    },
+    {
+      "id": "a4e7945ba29f",
+      "title": "Software Engineer - New York - Two Sigma Careers",
+      "company": "New York - Two Sigma Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Software-Engineer/14081",
+      "source": "Other",
+      "description": "Software Engineer . Location. NY New York. United States. Business. Investment Management. Function. Engineering. Experience Level. Experienced. Apply ...",
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T17:15:03+00:00",
+      "fetched_at": "2026-07-10T17:37:43.477687+00:00"
+    },
+    {
+      "id": "282701e420c4",
+      "title": "Senior Software Engineer I - Myworkdayjobs.com",
+      "company": "Relx",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://relx.wd3.myworkdayjobs.com/risksolutions/job/Texas/Senior-Software-Engineer-I_R114238",
+      "source": "Workday",
+      "description": "Senior Software Engineer I ... This position performs software design - typically across multiple components; is developing the skills of mentoring more ...",
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T16:55:37+00:00",
+      "fetched_at": "2026-07-10T17:37:43.477777+00:00"
+    },
+    {
+      "id": "70c831bbca7a",
+      "title": "Full Stack Software Engineer - Citadel Securities",
+      "company": "Citadel Securities",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.citadelsecurities.com/careers/details/full-stack-software-engineer/",
+      "source": "Other",
+      "description": "Full Stack Software Engineer . New York. Email Address. Attach A Resume. Choose A File. (.docx, .doc, .pdf, .txt - max 10MB file size). Start ...",
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T16:42:17+00:00",
+      "fetched_at": "2026-07-10T17:37:43.226459+00:00"
+    },
+    {
+      "id": "deaaefec4d04",
+      "title": "Azure DevOps Engineer Lead in United States | Progressive Careers",
+      "company": "Progressive Careers",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.progressive.com/jobs/17984581-azure-devops-engineer-lead/",
+      "source": "Other",
+      "description": "Azure DevOps Engineer Lead in United States. ... As a lead DevOps cloud engineer within the Commercial Lines Strategic ...",
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T16:26:21+00:00",
+      "fetched_at": "2026-07-10T17:37:43.226669+00:00"
+    },
+    {
+      "id": "78823b7b7f35",
+      "title": "Senior Data Engineer in Phoenix, Arizona - PetSmart Careers",
+      "company": "PetSmart Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.petsmart.com/jobs/7664?lang=en-us",
+      "source": "Other",
+      "description": "PetSmart Careers is hiring a Senior Data Engineer in Phoenix, Arizona. Review all of the job details and apply today!",
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T16:23:05+00:00",
+      "fetched_at": "2026-07-10T17:37:43.226976+00:00"
+    },
+    {
+      "id": "17c97a7539ef",
+      "title": "Software Engineer - TriNet Hire",
+      "company": "TriNet Hire",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://app.trinethire.com/companies/296052-true-property-insurance/jobs/122391-software-engineer",
+      "source": "Other",
+      "description": "Software Engineer . Boston, MA; Type: Full-time; Min. Experience: Some Experience. About Us: TRUE Property Insurance is a reciprocal insurer founded in ...",
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T15:41:10+00:00",
+      "fetched_at": "2026-07-10T17:37:43.227162+00:00"
+    },
+    {
+      "id": "c268c3fe886c",
+      "title": "Software Engineer 1 in Irving, TX, United States | Technology & Digital at U.S. Bank",
+      "company": "U.S. Bank",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.usbank.com/global/en/job/UBNAGLOBAL20260019268EXTERNALENGLOBAL/Software-Engineer-1",
+      "source": "Other",
+      "description": "... Similar Jobs. Senior Software Engineer (Java). Available in 2 locations. Software Engineer 2 (.Net/C#). Available in 3 locations. Senior Software ...",
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T15:31:45+00:00",
+      "fetched_at": "2026-07-10T17:37:43.478417+00:00"
+    },
+    {
+      "id": "26bf93d07836",
+      "title": "Job Application for Software Engineer \u2013 Java, Angular, AWS at NICE - Greenhouse",
+      "company": "NICE",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.eu.greenhouse.io/nice/jobs/4921997101?gh_jid=4921997101",
+      "source": "Greenhouse",
+      "description": "Software Engineer \u2013 Java, Angular, AWS. USA - Sandy, UT. Apply. At NiCE, we don't limit our challenges. We challenge our limits. Always. We're ...",
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T14:34:06+00:00",
+      "fetched_at": "2026-07-10T17:37:43.227436+00:00"
+    },
+    {
+      "id": "dec805cf8b97",
+      "title": "Senior Software Engineer in Gaithersburg, Maryland (No Remote) - Leidos Careers",
+      "company": "Leidos Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.leidos.com/jobs/17982801-senior-software-engineer",
+      "source": "Other",
+      "description": "Senior Software Engineer in Gaithersburg, Maryland (No Remote) ... Certifications such as AWS DevOps Engineer or similar. #Chinook. If you're ...",
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T12:55:22+00:00",
+      "fetched_at": "2026-07-10T17:37:43.227949+00:00"
+    },
+    {
       "id": "6a0e3ae6e43f",
       "title": "Principal Software Engineer - Clinisys Careers",
       "company": "Clinisys Careers",
@@ -49,6 +214,21 @@
       "date": "2026-07-10",
       "timestamp": "2026-07-10T12:20:26+00:00",
       "fetched_at": "2026-07-10T13:47:04.311533+00:00"
+    },
+    {
+      "id": "bc3f68fb2faa",
+      "title": "Senior Staff Software Engineer , Clickstream & Behavioral Instrumentation - Intuit Careers",
+      "company": "Intuit Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.intuit.com/job/mountain-view/senior-staff-software-engineer-clickstream-and-behavioral-instrumentation/27595/97575558064",
+      "source": "Other",
+      "description": "Alex Pollock Senior Software Engineer . Software Engineering at ... Staff Data Engineer - Intuit Experimentation Team (IXP) Multiple Locations.",
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T12:10:14+00:00",
+      "fetched_at": "2026-07-10T17:37:43.228375+00:00"
     },
     {
       "id": "ba44d88ae372",
@@ -66,6 +246,21 @@
       "fetched_at": "2026-07-10T13:47:04.311970+00:00"
     },
     {
+      "id": "f8aab6689c6b",
+      "title": "Platform Engineer at Teradata",
+      "company": "Teradata",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.teradata.com/jobs/220187/platform-engineer?sid=602",
+      "source": "Other",
+      "description": "Platform Engineer - 220187 \u00b7 Cloud Platforms: AWS, Azure \u00b7 Infrastructure as Code (IaC): CloudFormation, CDK \u00b7 Monitoring & Observability: Grafana, ...",
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T12:00:43+00:00",
+      "fetched_at": "2026-07-10T17:37:43.228719+00:00"
+    },
+    {
       "id": "097c3401081b",
       "title": "Data Engineer / Sr. Data Engineer (Big Query) in | Careers at Applied Systems, Inc.",
       "company": "Applied Systems, Inc.",
@@ -79,6 +274,96 @@
       "date": "2026-07-10",
       "timestamp": "2026-07-10T11:02:06+00:00",
       "fetched_at": "2026-07-10T13:47:04.312543+00:00"
+    },
+    {
+      "id": "28ca85cb8337",
+      "title": "Sr. DevOps Engineer - Job Detail | Careers Marketplace - Siemens",
+      "company": "Job Detail | Careers Marketplace - Siemens",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/513005",
+      "source": "Other",
+      "description": "DevOps Engineer . Job ID. 513005. Posted since. 09-Jul-2026. Organization ... Senior Software Engineer . Bangalore, Karnataka, India. View all jobs. Go ...",
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T10:49:36+00:00",
+      "fetched_at": "2026-07-10T17:37:43.229087+00:00"
+    },
+    {
+      "id": "123cb7d07bd1",
+      "title": "Software Engineer at Ford Motor Company",
+      "company": "Ford Motor Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.careers.ford.com/job/india/software-engineer/48560/97597782128",
+      "source": "Other",
+      "description": "We are seeking a highly skilled and motivated Fullstack Java Software Engineer to join our Access Management & Authorization(AMA) product team.",
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T10:42:28+00:00",
+      "fetched_at": "2026-07-10T17:37:43.229208+00:00"
+    },
+    {
+      "id": "da389849ea8c",
+      "title": "Software Engineer -Java / Drools/ Bitbucket in Remote - Cotiviti | Careers Center - ICIMS",
+      "company": "Java / Drools/ Bitbucket in Remote - Cotiviti | Careers Center - ICIMS",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers-cotiviti.icims.com/jobs/19558/software-engineer-java---drools--bitbucket/job",
+      "source": "iCIMS",
+      "description": "US Nationwide Remote is now hiring a Software Engineer -Java / Drools/ Bitbucket in Remote. Review all of the job details and apply today!",
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T09:54:45+00:00",
+      "fetched_at": "2026-07-10T17:37:43.229412+00:00"
+    },
+    {
+      "id": "1a94a614df86",
+      "title": "Senior Software Engineer - Platform Engineering - 20755 - Bloomberg",
+      "company": "Senior Software Engineer",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://bloomberg.avature.net/careers/JobDetail/Senior-Software-Engineer-Platform-Engineering/20755",
+      "source": "Other",
+      "description": "Senior Software Engineer - Platform Engineering. Description & Requirements. Bloomberg's products and services depend on the safe, reliable movement ...",
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T09:29:41+00:00",
+      "fetched_at": "2026-07-10T17:37:43.229586+00:00"
+    },
+    {
+      "id": "ffa62556eec3",
+      "title": "\u201c AI engineer \u201d might be the most misleading job title in tech right now. I spend a lot of time ... - LinkedIn",
+      "company": "LinkedIn",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/konstantintsybulko_ai-engineer-might-be-the-most-misleading-activity-7480983994348617729-vWBH",
+      "source": "LinkedIn",
+      "description": "\u201c AI engineer \u201d might be the most misleading job title in tech right now. I spend a lot of time interviewing for this role. The title covers an ...",
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T09:25:24+00:00",
+      "fetched_at": "2026-07-10T17:37:43.229943+00:00"
+    },
+    {
+      "id": "72495ab59c56",
+      "title": "Associate Software Engineer at Boeing",
+      "company": "Boeing",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.boeing.com/job/bengaluru/associate-software-engineer/185/97595733344",
+      "source": "Other",
+      "description": "Associate Software Engineer . Bengaluru, Karnataka Job ID JR2026517817 Category Information Technology Role Type Hybrid Post Date Jul. 10, 2026.",
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T09:11:43+00:00",
+      "fetched_at": "2026-07-10T17:37:43.230077+00:00"
     },
     {
       "id": "e3d19e027f60",
