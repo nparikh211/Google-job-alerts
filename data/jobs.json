@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-07-10T17:37:43.501347+00:00",
-  "total_jobs": 5406,
+  "last_updated": "2026-07-10T20:56:48.218932+00:00",
+  "total_jobs": 5415,
   "stats": {
-    "total_companies": 2762,
+    "total_companies": 2765,
     "total_roles": 78,
     "regions": {
-      "India": 3503,
-      "Philippines": 1106,
-      "Remote": 685,
+      "India": 3510,
+      "Philippines": 1107,
+      "Remote": 686,
       "Unknown": 135
     },
     "sources": {
-      "Other": 4240,
+      "Other": 4247,
       "Greenhouse": 270,
-      "Workday": 245,
-      "LinkedIn": 201,
+      "Workday": 246,
+      "LinkedIn": 202,
       "Ashby": 168,
       "iCIMS": 71,
       "Breezy": 59,
@@ -35,6 +35,111 @@
     }
   },
   "jobs": [
+    {
+      "id": "18b156cbd5c7",
+      "title": "Software Engineer - Myworkdayjobs.com",
+      "company": "Nebraskablue",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://nebraskablue.wd1.myworkdayjobs.com/bcbsne/job/Omaha-NE/Software-Engineer_JR101323",
+      "source": "Workday",
+      "description": "Software Engineer \u00b7 Bachelor's degree and 2-4 years of experience in software development. \u00b7 Experience with Tools/Technologies like Azure, C#/.Net and ...",
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T20:11:28+00:00",
+      "fetched_at": "2026-07-10T20:56:48.123994+00:00"
+    },
+    {
+      "id": "5686fd441849",
+      "title": "Computer Vision/ Machine Learning Engineer - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200671129/computer-vision-machine-learning-engineer",
+      "source": "Other",
+      "description": "Apply for a Computer Vision/ Machine Learning Engineer job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T19:21:59+00:00",
+      "fetched_at": "2026-07-10T20:56:48.124144+00:00"
+    },
+    {
+      "id": "5cda02f43d32",
+      "title": "Distributed Systems Software Engineer (Golang) - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200671828-0157/distributed-systems-software-engineer-golang?team=SFTWR",
+      "source": "Other",
+      "description": "Help us build the Apple experience on a global scale! Description. Apple is looking for a Senior Software Engineer with distributed systems and ...",
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T19:14:29+00:00",
+      "fetched_at": "2026-07-10T20:56:48.198700+00:00"
+    },
+    {
+      "id": "7e751892677e",
+      "title": "Data Engineer job in 2090 Parkway Office Circle, Hoover, AL 35244, United States of America",
+      "company": "Unknown Company",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.regions.com/us/en/job/R104064/Data-Engineer",
+      "source": "Other",
+      "description": "Software Engineer . Category Technology & Analytics Job Id R102966. Job ... Cloud Security Platform Engineer . Category Technology & Analytics Job ...",
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T18:34:12+00:00",
+      "fetched_at": "2026-07-10T20:56:48.124254+00:00"
+    },
+    {
+      "id": "b46a213bf4c0",
+      "title": "BCC Software hiring DevOps Engineer in Rochester, NY | LinkedIn",
+      "company": "LinkedIn",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-bcc-software-4439044873",
+      "source": "LinkedIn",
+      "description": "Cloud Engineer - Manager - Consulting - Location OPEN. EY. Rochester, NY 21 ... Senior Software Engineer . WeTheHobby. Rochester, NY 11 months ago.",
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T18:06:54+00:00",
+      "fetched_at": "2026-07-10T20:56:48.124499+00:00"
+    },
+    {
+      "id": "4f1fdb03ed6a",
+      "title": "Sr Software Engineer , Embedded Job Details - Careers - NRG",
+      "company": "Careers - NRG",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.nrgenergy.com/SMARTHOMES/job/VIRTUAL-Sr-Software-Engineer%2C-Embedded-WA-00000/1407456800/",
+      "source": "Other",
+      "description": "Sr Software Engineer , Embedded \u00b7 Welcome to the intersection of energy and home services. \u00b7 Vivint Smart Home, an NRG owned company, is a leading smart ...",
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T17:31:22+00:00",
+      "fetched_at": "2026-07-10T20:56:48.124913+00:00"
+    },
+    {
+      "id": "23795fb136c4",
+      "title": "AI ENGINEER III, AI, Automation, & Data Engineering - BOSTON, MA, United States",
+      "company": "BOSTON, MA, United States",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.silkroad.com/BU/External/jobs/316996?embedded=true",
+      "source": "Other",
+      "description": "Join us as an AI Engineer III where you will design, develop, and support AI applications and services that advance university operations, research, ...",
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T17:31:05+00:00",
+      "fetched_at": "2026-07-10T20:56:48.199405+00:00"
+    },
     {
       "id": "0553e74033c6",
       "title": "Software Engineer II, Vehicle Platform Integrations - Aurora",
@@ -94,6 +199,21 @@
       "date": "2026-07-10",
       "timestamp": "2026-07-10T16:55:37+00:00",
       "fetched_at": "2026-07-10T17:37:43.477777+00:00"
+    },
+    {
+      "id": "9009216b6926",
+      "title": "Staff Software Engineer , Data Products in Los Angeles, California | FOX Careers",
+      "company": "FOX Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.foxcareers.com/Search/JobDetail/R50033068/staff-software-engineer-data-products-fox-corporation",
+      "source": "Other",
+      "description": "Staff Software Engineer , Data Products. Job Number: R50033068. Brand: Fox Corporation. Job Type: Engineering, Technology. Location Type: Hybrid.",
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T16:46:40+00:00",
+      "fetched_at": "2026-07-10T20:56:48.125436+00:00"
     },
     {
       "id": "70c831bbca7a",
@@ -169,6 +289,21 @@
       "date": "2026-07-10",
       "timestamp": "2026-07-10T15:31:45+00:00",
       "fetched_at": "2026-07-10T17:37:43.478417+00:00"
+    },
+    {
+      "id": "fe3b2e6a6f4b",
+      "title": "SITE Technologies - Senior Backend Software Engineer - Paylocity",
+      "company": "SITE Technologies",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://recruiting.paylocity.com/recruiting/jobs/Details/4321613/SITE-Technologies/Senior-Backend-Software-Engineer",
+      "source": "Other",
+      "description": "SITE Technologies is seeking a thoughtful and versatile Senior Backend Software Engineer to help build and evolve SITE's platform and related customer ...",
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T14:51:54+00:00",
+      "fetched_at": "2026-07-10T20:56:48.126063+00:00"
     },
     {
       "id": "26bf93d07836",
