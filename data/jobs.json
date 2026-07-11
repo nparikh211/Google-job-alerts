@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-07-11T01:14:17.078377+00:00",
-  "total_jobs": 5425,
+  "last_updated": "2026-07-11T06:04:15.409855+00:00",
+  "total_jobs": 5436,
   "stats": {
-    "total_companies": 2770,
+    "total_companies": 2774,
     "total_roles": 78,
     "regions": {
-      "India": 3516,
+      "India": 3525,
       "Philippines": 1109,
-      "Remote": 688,
+      "Remote": 690,
       "Unknown": 135
     },
     "sources": {
-      "Other": 4254,
+      "Other": 4261,
       "Greenhouse": 272,
-      "Workday": 246,
-      "LinkedIn": 202,
+      "Workday": 247,
+      "LinkedIn": 203,
       "Ashby": 168,
-      "iCIMS": 72,
+      "iCIMS": 73,
       "Breezy": 59,
-      "Lever": 37,
+      "Lever": 38,
       "Workable": 36,
       "SmartRecruiters": 33,
       "Indeed": 22,
@@ -31,10 +31,115 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-07-10"
+      "latest": "2026-07-11"
     }
   },
   "jobs": [
+    {
+      "id": "eb99e77e0cb8",
+      "title": "Software Engineer , Intern - Stripe",
+      "company": "Stripe",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://stripe.com/jobs/listing/software-engineer-intern/8031833/apply",
+      "source": "Other",
+      "description": "... Jobs. Our opportunity \u00b7 Life at Stripe \u00b7 Benefits \u00b7 University \u00b7 See open roles \u00b7 Roles at Stripe \u00b7 Role details; Application. Software Engineer , ...",
+      "date": "2026-07-11",
+      "timestamp": "2026-07-11T05:50:25+00:00",
+      "fetched_at": "2026-07-11T06:04:15.288162+00:00"
+    },
+    {
+      "id": "2a694cc87da7",
+      "title": "Senior Software Engineer (Hybrid) in Reston, Virginia, United States - BAE Systems",
+      "company": "BAE Systems",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.baesystems.com/global/en/job/127260BR/Senior-Software-Engineer-Hybrid",
+      "source": "Other",
+      "description": "Apply for Senior Software Engineer (Hybrid) job with BAE Systems in Reston, Virginia, United States. Engineering & Technology at BAE Systems.",
+      "date": "2026-07-11",
+      "timestamp": "2026-07-11T00:56:32+00:00",
+      "fetched_at": "2026-07-11T06:04:15.288388+00:00"
+    },
+    {
+      "id": "6da388d60fe0",
+      "title": "Data Engineer - ENGIE Jobs",
+      "company": "ENGIE Jobs",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.engie.com/job/Bucuresti-Data-Engineer-040254/1360098955/",
+      "source": "Other",
+      "description": "At least 1\u20132 years of hands-on experience as a Data Engineer ;; Experience delivering end\u2011to\u2011end solutions, from business requirements through to ...",
+      "date": "2026-07-11",
+      "timestamp": "2026-07-11T00:42:01+00:00",
+      "fetched_at": "2026-07-11T06:04:15.288565+00:00"
+    },
+    {
+      "id": "1305e384b8f4",
+      "title": "Software Engineer , Backend - Unified Gateway - DoorDash",
+      "company": "Unified Gateway - DoorDash",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careersatdoordash.com/jobs/software-engineer-backend---unified-gateway/8052714",
+      "source": "Other",
+      "description": "Software Engineer , Backend - Unified Gateway. Apply To Job. Job ID: 3490114. DoorDash Technologies Canada Inc. Toronto, ON. About the Team. Help us ...",
+      "date": "2026-07-11",
+      "timestamp": "2026-07-11T00:30:19+00:00",
+      "fetched_at": "2026-07-11T06:04:15.288794+00:00"
+    },
+    {
+      "id": "2b79e238a6e3",
+      "title": "Software Engineer in PALO ALTO, California, United States of America",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.stanfordhealthcare.org/us/en/job/R2657728/Software-Engineer",
+      "source": "Other",
+      "description": "DevOps Engineer \u00b7 Senior Data Quality Engineer \u00b7 Sr. Enterprise Data Engineer \u00b7 Lead Data Engineer - AI/ML \u00b7 Sr. Enterprise AI Platform Engineer .",
+      "date": "2026-07-11",
+      "timestamp": "2026-07-11T00:02:19+00:00",
+      "fetched_at": "2026-07-11T06:04:15.288957+00:00"
+    },
+    {
+      "id": "9fd2c0a7ee83",
+      "title": "Lead Platform Engineer , Cloud Infrastructure - Planet Fitness - ICIMS",
+      "company": "Planet Fitness - ICIMS",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://corporatecareers-planetfitness.icims.com/jobs/14941/lead-platform-engineer%2C-cloud-infrastructure/job",
+      "source": "iCIMS",
+      "description": "Hampton, NH (preferred) or Boston, MA is now hiring a Lead Platform Engineer , Cloud Infrastructure in Hampton, NH or Boston, MA, New Hampshire.",
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T23:00:13+00:00",
+      "fetched_at": "2026-07-11T06:04:15.289445+00:00"
+    },
+    {
+      "id": "074d7d10de4a",
+      "title": "Senior Software Engineer - Myworkdayjobs.com",
+      "company": "Prescryptive",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://prescryptive.wd503.myworkdayjobs.com/Prescryptive_Health_External/job/Remote---US---All/Senior-Software-Engineer_JR100137",
+      "source": "Workday",
+      "description": "Senior Software Engineer ... Who is Prescryptive? Prescryptive is the healthcare technology company enabling the direct access marketplace for ...",
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T22:26:50+00:00",
+      "fetched_at": "2026-07-11T06:04:15.289552+00:00"
+    },
     {
       "id": "91211956e48d",
       "title": "Software Engineer - SDK at Moss | Y Combinator",
@@ -49,6 +154,21 @@
       "date": "2026-07-10",
       "timestamp": "2026-07-10T22:06:24+00:00",
       "fetched_at": "2026-07-11T01:14:16.892794+00:00"
+    },
+    {
+      "id": "faaaa131228a",
+      "title": "Knit hiring Senior Full Stack Engineer in New York, NY | LinkedIn",
+      "company": "LinkedIn",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/senior-full-stack-engineer-at-knit-4439337791?position=37&pageNum=0&refId=INFYatMgizqHSVWLcxyHgg%3D%3D&trackingId=qTojth7lEdP3KAyxEMZU5w%3D%3D",
+      "source": "LinkedIn",
+      "description": "Senior Fullstack Engineer . Copilot Money. New York, NY 2 weeks ago ... Senior Software Engineer (New York, New York). HqO. New York, NY 2 weeks ...",
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T21:59:25+00:00",
+      "fetched_at": "2026-07-11T06:04:15.289973+00:00"
     },
     {
       "id": "fccef1a4df55",
@@ -79,6 +199,21 @@
       "date": "2026-07-10",
       "timestamp": "2026-07-10T21:53:42+00:00",
       "fetched_at": "2026-07-11T01:14:16.893271+00:00"
+    },
+    {
+      "id": "4b5fd8d9a447",
+      "title": "Senior Software Engineer , Voice AI Platform - Remote, United States - Toast",
+      "company": "Remote, United States - Toast",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.toasttab.com/jobs/senior-software-engineer-voice-ai-platform-remote-united-states",
+      "source": "Other",
+      "description": "As a Senior Software Engineer on this team, you'll take ownership of significant projects end-to-end: designing systems, driving execution across the ...",
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T21:50:39+00:00",
+      "fetched_at": "2026-07-11T06:04:15.290450+00:00"
     },
     {
       "id": "1a8e5a361215",
@@ -126,6 +261,21 @@
       "fetched_at": "2026-07-11T01:14:17.053906+00:00"
     },
     {
+      "id": "8a240e98d9f8",
+      "title": "Included Health - Senior Machine Learning Engineer - Lever",
+      "company": "Includedhealth",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.lever.co/includedhealth/841b5e1b-da2c-4691-ad12-c9c7db572bed",
+      "source": "Lever",
+      "description": "Included Health is looking for a Senior Machine Learning Engineer to build and operate production machine learning systems that improve healthcare ...",
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T20:29:20+00:00",
+      "fetched_at": "2026-07-11T06:04:15.291094+00:00"
+    },
+    {
       "id": "18b156cbd5c7",
       "title": "Software Engineer - Myworkdayjobs.com",
       "company": "Nebraskablue",
@@ -139,6 +289,21 @@
       "date": "2026-07-10",
       "timestamp": "2026-07-10T20:11:28+00:00",
       "fetched_at": "2026-07-10T20:56:48.123994+00:00"
+    },
+    {
+      "id": "3e526e30ea31",
+      "title": "ServiceNow Platform Engineer Jobs and Careers in Dallas at AT&T",
+      "company": "AT&T",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.att.jobs/job/dallas/servicenow-platform-engineer/117/97575530464",
+      "source": "Other",
+      "description": "Build a more connected world in a telecommunications career at AT&T. Learn more and apply for our ServiceNow Platform Engineer in Dallas here.",
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T20:09:22+00:00",
+      "fetched_at": "2026-07-11T06:04:15.291422+00:00"
     },
     {
       "id": "d93b7b022dab",
