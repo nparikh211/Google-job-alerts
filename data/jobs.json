@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-07-11T06:04:15.409855+00:00",
-  "total_jobs": 5436,
+  "last_updated": "2026-07-11T09:11:43.325731+00:00",
+  "total_jobs": 5442,
   "stats": {
-    "total_companies": 2774,
+    "total_companies": 2775,
     "total_roles": 78,
     "regions": {
-      "India": 3525,
+      "India": 3531,
       "Philippines": 1109,
       "Remote": 690,
       "Unknown": 135
     },
     "sources": {
-      "Other": 4261,
+      "Other": 4266,
       "Greenhouse": 272,
       "Workday": 247,
-      "LinkedIn": 203,
+      "LinkedIn": 204,
       "Ashby": 168,
       "iCIMS": 73,
       "Breezy": 59,
@@ -36,6 +36,36 @@
   },
   "jobs": [
     {
+      "id": "68d62cc14a97",
+      "title": "Software Engineer at Barclays",
+      "company": "Barclays",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://search.jobs.barclays/job/-/-/13015/87245767808?src=JB-12860",
+      "source": "Other",
+      "description": "Akshat, Senior Software Engineer , reveals the key factors behind his decision to join Barclays. ... Shweta Desale, a Cloud and DevOps Engineer ...",
+      "date": "2026-07-11",
+      "timestamp": "2026-07-11T07:09:28+00:00",
+      "fetched_at": "2026-07-11T09:11:43.116130+00:00"
+    },
+    {
+      "id": "403be14c6b1f",
+      "title": "ASSURED INFORMATION SECURITY INC - Software Engineer - Paylocity",
+      "company": "ASSURED INFORMATION SECURITY INC",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://recruiting.paylocity.com/recruiting/jobs/Details/4320452/ASSURED-INFORMATION-SECURITY-INC/Software-Engineer",
+      "source": "Other",
+      "description": "We're looking to hire engineers at different experience levels. These onsite positions are located at our headquarters in Rome, NY. Software Engineer ...",
+      "date": "2026-07-11",
+      "timestamp": "2026-07-11T06:09:10+00:00",
+      "fetched_at": "2026-07-11T09:11:43.116621+00:00"
+    },
+    {
       "id": "eb99e77e0cb8",
       "title": "Software Engineer , Intern - Stripe",
       "company": "Stripe",
@@ -49,6 +79,36 @@
       "date": "2026-07-11",
       "timestamp": "2026-07-11T05:50:25+00:00",
       "fetched_at": "2026-07-11T06:04:15.288162+00:00"
+    },
+    {
+      "id": "e5d95c75fe4c",
+      "title": "OneBox hiring AI Engineer in Alpharetta, GA | LinkedIn",
+      "company": "LinkedIn",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/ai-engineer-at-onebox-4439358383",
+      "source": "LinkedIn",
+      "description": "AI Engineer . OneBox Alpharetta, GA. 8 hours ago 63 applicants. See ... AI/ ML Engineer , Software Development - Noke. Janus International. Atlanta ...",
+      "date": "2026-07-11",
+      "timestamp": "2026-07-11T05:24:02+00:00",
+      "fetched_at": "2026-07-11T09:11:43.117147+00:00"
+    },
+    {
+      "id": "acca8cc12c09",
+      "title": "Software Engineer , AIML Evaluation - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200671986-0836/software-engineer-aiml-evaluation?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Software Engineer , AIML Evaluation job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-07-11",
+      "timestamp": "2026-07-11T03:37:51+00:00",
+      "fetched_at": "2026-07-11T09:11:43.117405+00:00"
     },
     {
       "id": "2a694cc87da7",
@@ -111,6 +171,21 @@
       "fetched_at": "2026-07-11T06:04:15.288957+00:00"
     },
     {
+      "id": "0cd6732ba4f2",
+      "title": "AI Engineer - ENGIE Jobs",
+      "company": "ENGIE Jobs",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.engie.com/job/AI-Engineer/65157-en_US/",
+      "source": "Other",
+      "description": "Artificial intelligence is a key pillar of this transformation. We are looking for an AI Engineer who will actively contribute to the development of ...",
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T23:35:47+00:00",
+      "fetched_at": "2026-07-11T09:11:43.118365+00:00"
+    },
+    {
       "id": "9fd2c0a7ee83",
       "title": "Lead Platform Engineer , Cloud Infrastructure - Planet Fitness - ICIMS",
       "company": "Planet Fitness - ICIMS",
@@ -124,6 +199,21 @@
       "date": "2026-07-10",
       "timestamp": "2026-07-10T23:00:13+00:00",
       "fetched_at": "2026-07-11T06:04:15.289445+00:00"
+    },
+    {
+      "id": "edd0ef95a6ce",
+      "title": "Senior Software Engineer , Marketplace Optimization - - Upstart Careers",
+      "company": "- Upstart Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.upstart.com/jobs/senior-software-engineer-marketplace-optimization",
+      "source": "Other",
+      "description": "As a Senior Software Engineer , you'll partner closely with Product, Machine Learning, Pricing, Capital Markets, Lending Partnerships, and Analytics to ...",
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T22:32:17+00:00",
+      "fetched_at": "2026-07-11T09:11:43.118887+00:00"
     },
     {
       "id": "074d7d10de4a",
