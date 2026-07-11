@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-07-10T20:56:48.218932+00:00",
-  "total_jobs": 5415,
+  "last_updated": "2026-07-11T01:14:17.078377+00:00",
+  "total_jobs": 5425,
   "stats": {
-    "total_companies": 2765,
+    "total_companies": 2770,
     "total_roles": 78,
     "regions": {
-      "India": 3510,
-      "Philippines": 1107,
-      "Remote": 686,
+      "India": 3516,
+      "Philippines": 1109,
+      "Remote": 688,
       "Unknown": 135
     },
     "sources": {
-      "Other": 4247,
-      "Greenhouse": 270,
+      "Other": 4254,
+      "Greenhouse": 272,
       "Workday": 246,
       "LinkedIn": 202,
       "Ashby": 168,
-      "iCIMS": 71,
+      "iCIMS": 72,
       "Breezy": 59,
       "Lever": 37,
       "Workable": 36,
@@ -36,6 +36,96 @@
   },
   "jobs": [
     {
+      "id": "91211956e48d",
+      "title": "Software Engineer - SDK at Moss | Y Combinator",
+      "company": "Moss",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk",
+      "source": "Other",
+      "description": "Software Engineer - SDK. $60K - $300K\u20220.10% - 0.50%\u2022San Francisco, CA, US / Remote. Job type. Full-time. Role. Engineering, Embedded systems.",
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T22:06:24+00:00",
+      "fetched_at": "2026-07-11T01:14:16.892794+00:00"
+    },
+    {
+      "id": "fccef1a4df55",
+      "title": "Job Application for Software Engineer at Outpost - Greenhouse",
+      "company": "Outpostspace",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/outpostspace/jobs/4696036006",
+      "source": "Greenhouse",
+      "description": "Software Engineer . Location: Playa Vista, California (in-person, five days per week). Outpost is pioneering Earth return logistics for space.",
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T21:55:40+00:00",
+      "fetched_at": "2026-07-11T01:14:16.892895+00:00"
+    },
+    {
+      "id": "af0ef5b70044",
+      "title": "Full Stack Software Engineer - Piper Companies",
+      "company": "Piper Companies",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.pipercompanies.com/details/169369/full_stack_software_engineer",
+      "source": "Other",
+      "description": "Qualifications of the Full Stack Software Engineer : Bachelor's degree in computer science (required). 2+ years of full stack engineer experience with ...",
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T21:53:42+00:00",
+      "fetched_at": "2026-07-11T01:14:16.893271+00:00"
+    },
+    {
+      "id": "1a8e5a361215",
+      "title": "DevOps Engineer II in Remote - Career Opportunities - ICIMS",
+      "company": "Career Opportunities - ICIMS",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers-ebscoind.icims.com/jobs/2037/devops-engineer-ii/job",
+      "source": "iCIMS",
+      "description": "REMOTE - US is now hiring a DevOps Engineer II in Remote. Review all of the job details and apply today!",
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T21:22:34+00:00",
+      "fetched_at": "2026-07-11T01:14:16.893403+00:00"
+    },
+    {
+      "id": "2f07275973ba",
+      "title": "Staff Software Engineer , Infrastructure, Sunnyvale, CA, United States - Intuitive Careers",
+      "company": "Intuitive Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.intuitive.com/en/jobs/744000137139479/JOB216651/staff-software-engineer-infrastructure/",
+      "source": "Other",
+      "description": "Job Description Primary Function of Position We are seeking a Senior Software Engineer to design, build, and operate foundational cloud ...",
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T21:05:01+00:00",
+      "fetched_at": "2026-07-11T01:14:16.893548+00:00"
+    },
+    {
+      "id": "d63a95fdf197",
+      "title": "Software Engineer Sr job in Birmingham, Alabama, United States of America - PNC Careers",
+      "company": "PNC Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.pnc.com/global/en/job/R226015/Software-Engineer-Sr",
+      "source": "Other",
+      "description": "Apply for Software Engineer Sr job with PNC in Birmingham, Alabama, United States of America. Browse and apply for Technology jobs at PNC.",
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T20:51:30+00:00",
+      "fetched_at": "2026-07-11T01:14:17.053906+00:00"
+    },
+    {
       "id": "18b156cbd5c7",
       "title": "Software Engineer - Myworkdayjobs.com",
       "company": "Nebraskablue",
@@ -49,6 +139,21 @@
       "date": "2026-07-10",
       "timestamp": "2026-07-10T20:11:28+00:00",
       "fetched_at": "2026-07-10T20:56:48.123994+00:00"
+    },
+    {
+      "id": "d93b7b022dab",
+      "title": "Senior AI Engineer , DevTx LATAM - Job ID: 10471563 - Amazon Careers",
+      "company": "Job ID: 10471563 - Amazon Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.amazon.jobs/en/jobs/10471563/senior-ai-engineer-devtx-latam",
+      "source": "Other",
+      "description": "Software engineer / AI engineer , IES LATech & GIS. Location: BRA, SP, Sao Paulo. Posted: July 10, 2026 (Updated about 5 hours ago). Senior AI Engineer ...",
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T19:45:42+00:00",
+      "fetched_at": "2026-07-11T01:14:17.054660+00:00"
     },
     {
       "id": "5686fd441849",
@@ -81,6 +186,21 @@
       "fetched_at": "2026-07-10T20:56:48.198700+00:00"
     },
     {
+      "id": "58ea6ab74af3",
+      "title": "Job Application for Software Engineer (Fullstack, frontend-heavy), Integrations at Postman",
+      "company": "Postman",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/postman/jobs/7799606003",
+      "source": "Greenhouse",
+      "description": "Software Engineer (Fullstack, frontend-heavy), Integrations. Bengaluru, Karnataka, India. Apply. Who Are We? Postman is the world's leading API ...",
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T18:49:25+00:00",
+      "fetched_at": "2026-07-11T01:14:16.894356+00:00"
+    },
+    {
       "id": "7e751892677e",
       "title": "Data Engineer job in 2090 Parkway Office Circle, Hoover, AL 35244, United States of America",
       "company": "Unknown Company",
@@ -109,6 +229,36 @@
       "date": "2026-07-10",
       "timestamp": "2026-07-10T18:06:54+00:00",
       "fetched_at": "2026-07-10T20:56:48.124499+00:00"
+    },
+    {
+      "id": "58257afccce3",
+      "title": "Compute Runtime Software Engineer - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200671928-3337/compute-runtime-software-engineer?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Compute Runtime Software Engineer job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T17:40:27+00:00",
+      "fetched_at": "2026-07-11T01:14:16.894915+00:00"
+    },
+    {
+      "id": "44f50f7d01c2",
+      "title": "Senior Software Engineer (Limited-Term) - CU Boulder Jobs",
+      "company": "Term) - CU Boulder Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.colorado.edu/jobs/JobDetail/Senior-Software-Engineer-Limited-Term/73375",
+      "source": "Other",
+      "description": "Senior Software Engineer (Limited-Term) at created 10-Jul-2026.",
+      "date": "2026-07-10",
+      "timestamp": "2026-07-10T17:33:33+00:00",
+      "fetched_at": "2026-07-11T01:14:16.895137+00:00"
     },
     {
       "id": "4f1fdb03ed6a",
