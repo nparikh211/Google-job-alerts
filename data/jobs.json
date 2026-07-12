@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-07-12T01:15:58.299116+00:00",
-  "total_jobs": 5473,
+  "last_updated": "2026-07-12T06:22:44.563544+00:00",
+  "total_jobs": 5491,
   "stats": {
-    "total_companies": 2791,
-    "total_roles": 78,
+    "total_companies": 2801,
+    "total_roles": 79,
     "regions": {
-      "India": 3552,
-      "Philippines": 1117,
-      "Remote": 692,
+      "India": 3564,
+      "Philippines": 1122,
+      "Remote": 693,
       "Unknown": 135
     },
     "sources": {
-      "Other": 4288,
+      "Other": 4303,
       "Greenhouse": 273,
-      "Workday": 248,
-      "LinkedIn": 209,
+      "Workday": 249,
+      "LinkedIn": 210,
       "Ashby": 169,
       "iCIMS": 73,
       "Breezy": 60,
@@ -25,16 +25,181 @@
       "Recruitee": 6,
       "BrassRing": 6,
       "Jobvite": 5,
-      "Taleo": 3,
+      "Taleo": 4,
       "ADP": 2,
       "WeWorkRemotely": 2
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-07-11"
+      "latest": "2026-07-12"
     }
   },
   "jobs": [
+    {
+      "id": "f3cb8b1a4edf",
+      "title": "Careers | OpenAI",
+      "company": "Unknown Company",
+      "role": "Careers | OpenAI",
+      "regions": [
+        "India"
+      ],
+      "link": "https://openai.com/careers/search/?q=Software+Engineer",
+      "source": "Other",
+      "description": "Backend Software Engineer , Applied Foundations. Applied AI Engineering ... Senior Software Engineer - Research Platform, Consumer Devices.",
+      "date": "2026-07-12",
+      "timestamp": "2026-07-12T04:38:47+00:00",
+      "fetched_at": "2026-07-12T06:22:44.452748+00:00"
+    },
+    {
+      "id": "a6e9f9a76249",
+      "title": "Data Engineer - Elevate Jet - Paylocity",
+      "company": "Elevate Jet - Paylocity",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4324703",
+      "source": "Other",
+      "description": "Job Title- Data Engineer . Department- Systems & Technology. Reports to- VP, Software Engineering. Location- Plano, TX. Who we are-.",
+      "date": "2026-07-12",
+      "timestamp": "2026-07-12T03:24:45+00:00",
+      "fetched_at": "2026-07-12T06:22:44.452994+00:00"
+    },
+    {
+      "id": "45ed033aa433",
+      "title": "Senior Software Engineer - Logo - Myworkdayjobs.com",
+      "company": "Uchicago",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://uchicago.wd5.myworkdayjobs.com/External/job/Senior-Software-Engineer_JR34063",
+      "source": "Workday",
+      "description": "Senior Software Engineer ... The Center for Translational Data Science (CTDS) at the University of Chicago is a research center whose mission is to ...",
+      "date": "2026-07-12",
+      "timestamp": "2026-07-12T03:24:37+00:00",
+      "fetched_at": "2026-07-12T06:22:44.453113+00:00"
+    },
+    {
+      "id": "c77257ac7cac",
+      "title": "Ground Systems Communication Network Software Engineer | Parsons Corporation Jobs",
+      "company": "Parsons Corporation Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://parsons.jobs/huntsville-al/ground-systems-communication-network-software-engineer/DBE4EC2C409A4024B798837FA6CA354E/job/",
+      "source": "Other",
+      "description": "Ground Systems Communication Network Software Engineer Huntsville, AL Posted today. Apply Now. In a world of possibilities, pursue one with endless ...",
+      "date": "2026-07-12",
+      "timestamp": "2026-07-12T02:42:24+00:00",
+      "fetched_at": "2026-07-12T06:22:44.453365+00:00"
+    },
+    {
+      "id": "09d8900d7908",
+      "title": "Software Engineer (Java) \u2013 Xplor \u2013 Permanent contract \u2013 Fully-remote - the Jungle",
+      "company": "remote - the Jungle",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.welcometothejungle.com/en/companies/xplor/jobs/software-engineer-java_atlanta_k7mt6fpc",
+      "source": "Other",
+      "description": "Senior Software Engineer , Workflows. Front. Permanent contract. Paris. A few days at home. Salary: \u20ac75K to 84.8K. Software, Artificial ...",
+      "date": "2026-07-12",
+      "timestamp": "2026-07-12T01:14:55+00:00",
+      "fetched_at": "2026-07-12T06:22:44.537183+00:00"
+    },
+    {
+      "id": "4f325d39af42",
+      "title": "Data Engineer - Jobs Groupe PSA",
+      "company": "Jobs Groupe PSA",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.groupe-psa.com/offre-de-emploi/emploi-data-engineer_19122.aspx",
+      "source": "Other",
+      "description": "Position description. Job Family/Profession. Supply Chain - Supply Chain. Job title. Data Engineer . Contract. Permanent contract. Status. Staff ...",
+      "date": "2026-07-12",
+      "timestamp": "2026-07-12T00:44:20+00:00",
+      "fetched_at": "2026-07-12T06:22:44.537326+00:00"
+    },
+    {
+      "id": "09977da8a1cd",
+      "title": "Founding Software Engineer at b12 Labs | Y Combinator",
+      "company": "b12 Labs",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.ycombinator.com/companies/b12-labs/jobs/xHbFJT1-founding-software-engineer",
+      "source": "Other",
+      "description": "Founding Software Engineer . $100K - $150K\u20220.50% - 2.00%\u2022San ... Senior Software Engineer , Full Stack. Strada \u00b7 Senior Full Stack Engineer .",
+      "date": "2026-07-12",
+      "timestamp": "2026-07-12T00:04:06+00:00",
+      "fetched_at": "2026-07-12T06:22:44.537468+00:00"
+    },
+    {
+      "id": "7e5319a5f425",
+      "title": "Senior Software Engineer , Service Mesh - Roblox Careers",
+      "company": "Roblox Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.roblox.com/jobs/8047819",
+      "source": "Other",
+      "description": "Senior Software Engineer , Service Mesh. ... [2026] Senior Machine Learning Engineer , Account Identity - PhD Early Career.",
+      "date": "2026-07-11",
+      "timestamp": "2026-07-11T22:57:33+00:00",
+      "fetched_at": "2026-07-12T06:22:44.453570+00:00"
+    },
+    {
+      "id": "07c043aa85ec",
+      "title": "Frontend Engineer at chrt | Y Combinator",
+      "company": "chrt",
+      "role": "Frontend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.ycombinator.com/companies/chrt/jobs/VhO9rpf-frontend-engineer",
+      "source": "Other",
+      "description": "We're hiring a Frontend Engineer to build and improve CHRT's logistics platform. You'll work primarily in TypeScript, React, and Next.js building ...",
+      "date": "2026-07-11",
+      "timestamp": "2026-07-11T22:34:03+00:00",
+      "fetched_at": "2026-07-12T06:22:44.453698+00:00"
+    },
+    {
+      "id": "bff4acfcfec0",
+      "title": "Associate Software Engineer at Boeing - Hiring Our Heroes Job Board",
+      "company": "Boeing",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.hiringourheroes.org/jobs/511189271-associate-software-engineer",
+      "source": "Other",
+      "description": "Tapestry Solutions, a part of Boeing Global Services (BGS), is seeking an Associate Software Engineer in Maryland Heights, MO. and/or Hazelwood, MO.",
+      "date": "2026-07-11",
+      "timestamp": "2026-07-11T22:16:54+00:00",
+      "fetched_at": "2026-07-12T06:22:44.537821+00:00"
+    },
+    {
+      "id": "90c27a14ebfc",
+      "title": "Army CyISOC Data Engineer - Civil Service Jobs - GOV.UK",
+      "company": "Civil Service Jobs - GOV.UK",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=2004920",
+      "source": "Other",
+      "description": "The ACyISOC is evolving, expanding and recruiting a HEO Data Engineer . Your work will be an integral part of transforming the Army's defensive cyber ...",
+      "date": "2026-07-11",
+      "timestamp": "2026-07-11T22:16:41+00:00",
+      "fetched_at": "2026-07-12T06:22:44.453860+00:00"
+    },
     {
       "id": "a6cdd66242c8",
       "title": "Senior Software Engineer , C++ (Market Data) | Chicago, IL, USA - eFinancialCareers",
@@ -49,6 +214,21 @@
       "date": "2026-07-11",
       "timestamp": "2026-07-11T21:13:23+00:00",
       "fetched_at": "2026-07-12T01:15:58.273825+00:00"
+    },
+    {
+      "id": "393e97390309",
+      "title": "Evlo AI hiring Software Engineer - Full Stack in New York, NY | LinkedIn",
+      "company": "Full Stack in New York, NY | LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/software-engineer-full-stack-at-evlo-ai-4438945399?position=56&pageNum=0&refId=alYTEx1l4pxlu6W4mLhCXQ%3D%3D&trackingId=T89xKopVRWVVbs0e5jMCqw%3D%3D",
+      "source": "LinkedIn",
+      "description": "Full-Stack Engineer . Big Leap Health. New York, NY $160,000 ... Senior Software Engineer . Clad. New York, NY $180,000 - $250,000 2 years ...",
+      "date": "2026-07-11",
+      "timestamp": "2026-07-11T21:03:19+00:00",
+      "fetched_at": "2026-07-12T06:22:44.454649+00:00"
     },
     {
       "id": "500a726d6ed2",
@@ -109,6 +289,96 @@
       "date": "2026-07-11",
       "timestamp": "2026-07-11T20:31:59+00:00",
       "fetched_at": "2026-07-12T01:15:58.082415+00:00"
+    },
+    {
+      "id": "da0eb01b5ee6",
+      "title": "Sr Cloud Engineer at Workday - Hiring Our Heroes Job Board",
+      "company": "Workday",
+      "role": "Cloud Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.hiringourheroes.org/jobs/507169629-sr-cloud-engineer",
+      "source": "Other",
+      "description": "Sr Cloud Engineer . Workday \u2022 USA, MA, Boston \u2022 1w ago. Your work days are brighter here. We're obsessed with making hard work pay off, for our ...",
+      "date": "2026-07-11",
+      "timestamp": "2026-07-11T20:25:21+00:00",
+      "fetched_at": "2026-07-12T06:22:44.539462+00:00"
+    },
+    {
+      "id": "d04edb977101",
+      "title": "Senior Agentic AI Full Stack Software Engineer - Arlington, VA, US - General Dynamics",
+      "company": "Arlington, VA, US - General Dynamics",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.gd.com/careers/senior-agentic-ai-full-stack-software-engineer-arlington-va-us-rq223222-gdit-opportunity",
+      "source": "Other",
+      "description": "Iron EagleX is seeking a Senior Agentic AI Full Stack Software Engineer to support our AI team in Crystal City, VA. This role will design, deploy ...",
+      "date": "2026-07-11",
+      "timestamp": "2026-07-11T19:28:24+00:00",
+      "fetched_at": "2026-07-12T06:22:44.455750+00:00"
+    },
+    {
+      "id": "3150f4736568",
+      "title": "Senior AI Software Engineer - Oracle Careers",
+      "company": "Oracle Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.oracle.com/en/job/339619?utm_medium=search+engine&utm_source=google",
+      "source": "Other",
+      "description": "Job Description. As a Senior AI Software Engineer in an AI Innovation organization within OCI, you will help build AI capabilities into Oracle ...",
+      "date": "2026-07-11",
+      "timestamp": "2026-07-11T18:07:47+00:00",
+      "fetched_at": "2026-07-12T06:22:44.539639+00:00"
+    },
+    {
+      "id": "d6934f1ebab8",
+      "title": "DATA ENGINEER in Milan, Italy, 20145 | Data & AI at Allianz",
+      "company": "Allianz",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.allianz.com/au/en/job/95908/DATA-ENGINEER",
+      "source": "Other",
+      "description": "Step into the role of Senior Backend Engineer and join our ... Platform Engineer (Cloud Infrastructure, AI Platform) (m/f/d). Step into ...",
+      "date": "2026-07-11",
+      "timestamp": "2026-07-11T17:22:26+00:00",
+      "fetched_at": "2026-07-12T06:22:44.456034+00:00"
+    },
+    {
+      "id": "64b361417bc1",
+      "title": "Data Engineer -Washington DC Job in Camp Lejeune, NC - Jobs | Serco",
+      "company": "Washington DC Job in Camp Lejeune, NC - Jobs | Serco",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://serco-na.dejobs.org/locations/camp-lejeune-nc/job-titles/data-engineer-washington-dc/jobs/?vs=5528",
+      "source": "Other",
+      "description": "Data Engineer -Washington DC Job in Camp Lejeune, NC, updated and verified daily by DirectEmployers Association.",
+      "date": "2026-07-11",
+      "timestamp": "2026-07-11T17:00:37+00:00",
+      "fetched_at": "2026-07-12T06:22:44.456202+00:00"
+    },
+    {
+      "id": "97ec571264c1",
+      "title": "Job Description - Kearney Activate AI Engineer (006DS)",
+      "company": "Job Description",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://kearney.taleo.net/careersection/jobdetail.ftl?job=006DS",
+      "source": "Taleo",
+      "description": "Kearney Activate AI Engineer About Kearney Activate. Kearney Activate is the business acceleration and enablement arm of Kearney Management ...",
+      "date": "2026-07-11",
+      "timestamp": "2026-07-11T16:37:22+00:00",
+      "fetched_at": "2026-07-12T06:22:44.456311+00:00"
     },
     {
       "id": "597a36908857",
