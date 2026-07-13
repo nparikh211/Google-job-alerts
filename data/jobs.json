@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-07-13T17:46:14.661390+00:00",
-  "total_jobs": 5597,
+  "last_updated": "2026-07-13T20:45:05.132513+00:00",
+  "total_jobs": 5617,
   "stats": {
-    "total_companies": 2848,
+    "total_companies": 2858,
     "total_roles": 79,
     "regions": {
-      "India": 3626,
-      "Philippines": 1159,
-      "Remote": 701,
+      "India": 3639,
+      "Philippines": 1163,
+      "Remote": 704,
       "Unknown": 135
     },
     "sources": {
-      "Other": 4387,
-      "Greenhouse": 279,
-      "Workday": 252,
+      "Other": 4403,
+      "Greenhouse": 280,
+      "Workday": 254,
       "LinkedIn": 218,
-      "Ashby": 171,
+      "Ashby": 172,
       "iCIMS": 73,
       "Breezy": 61,
       "Lever": 38,
@@ -35,6 +35,306 @@
     }
   },
   "jobs": [
+    {
+      "id": "5b34090d30eb",
+      "title": "Full Stack Software Engineer , GTM Growth Engineering | OpenAI",
+      "company": "OpenAI",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://openai.com/careers/full-stack-software-engineer-gtm-growth-engineering-san-francisco/",
+      "source": "Other",
+      "description": "Full Stack Software Engineer , GTM Growth Engineering \u00b7 Build high-impact applications and tools that accelerate OpenAI's go-to-market efforts \u00b7 Work ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T19:42:32+00:00",
+      "fetched_at": "2026-07-13T20:45:05.029233+00:00"
+    },
+    {
+      "id": "a17e8b7ff3a6",
+      "title": "Software Engineer , Upstart Bank - Burlingame, California, United States",
+      "company": "Burlingame, California, United States",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.upstart.com/jobs/software-engineer-upstart-bank-burlingame-california-united-states-b1749581-9d7e-4640-92a5-8e3eab825e33",
+      "source": "Other",
+      "description": "As a Software Engineer on the Upstart Bank team, you will design and build reliable backend software that enables Upstart Bank to launch and scale ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T19:19:21+00:00",
+      "fetched_at": "2026-07-13T20:45:05.105871+00:00"
+    },
+    {
+      "id": "419c953a5fc9",
+      "title": "AI Software Engineer , Apple Cloud AI Platform - Jobs",
+      "company": "Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200671631-0836/ai-software-engineer-apple-cloud-ai-platform?team=SFTWR",
+      "source": "Other",
+      "description": "We are looking for a Software Engineer who is eager to build the tools, interfaces, and workflows that ML developers and researchers use every day ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T19:18:47+00:00",
+      "fetched_at": "2026-07-13T20:45:05.029610+00:00"
+    },
+    {
+      "id": "2c24ab25abad",
+      "title": "Full Stack Software Engineer (Java/React) | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.apexsystems.com/job/3041786_usa/full-stack-software-engineer-javareact",
+      "source": "Other",
+      "description": "We are seeking a highly technical and experienced individual to fill the role of Software Engineer . ... Java Full Stack Engineer \u00b7 Full Stack Software ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T19:14:25+00:00",
+      "fetched_at": "2026-07-13T20:45:05.106040+00:00"
+    },
+    {
+      "id": "3ee7da5efb2f",
+      "title": "Software Engineer I (Data Eng infra) - Aurora",
+      "company": "Aurora",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://aurora.tech/careers/8628066002?gh_jid=8628066002",
+      "source": "Other",
+      "description": "We are seeking a talented and experienced Software Engineer to join our data engineering and infrastructure team. In this role, you will be working ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T18:58:01+00:00",
+      "fetched_at": "2026-07-13T20:45:05.106159+00:00"
+    },
+    {
+      "id": "287943eb1e30",
+      "title": "Software Engineer - Confluent - 124850 - IBM",
+      "company": "Confluent - 124850 - IBM",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=124850",
+      "source": "Other",
+      "description": "As a Software Engineer on this team, you will work on well-defined, scoped pieces of USM or C3, with guidance and mentorship from senior engineers, ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T18:42:09+00:00",
+      "fetched_at": "2026-07-13T20:45:05.029768+00:00"
+    },
+    {
+      "id": "4e71ffaa31ff",
+      "title": "Data Engineer - HigherEdJobs",
+      "company": "HigherEdJobs",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.higheredjobs.com/admin/details.cfm?JobCode=179497892&Title=Data%20Engineer",
+      "source": "Other",
+      "description": "Working Title: Data Engineer [Remote] [2 Year Term]. No Visa Sponsorship is available for this position. This is a 2 year term appointment which ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T18:37:02+00:00",
+      "fetched_at": "2026-07-13T20:45:05.106433+00:00"
+    },
+    {
+      "id": "65de9279f76d",
+      "title": "Senior Software Engineer - Myworkdayjobs.com",
+      "company": "Oclc",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://oclc.wd1.myworkdayjobs.com/en-US/OCLC_Careers/job/Dublin-OH--Hybrid/Senior-Software-Engineer_R0003872",
+      "source": "Workday",
+      "description": "The Job Details are as follows: OCLC, Inc. seeks a Senior Software Engineer at its Dublin, OH HQ, to use industry standard programming techniques ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T18:05:17+00:00",
+      "fetched_at": "2026-07-13T20:45:05.029859+00:00"
+    },
+    {
+      "id": "1b1b22b3506a",
+      "title": "Software Engineer - Vehicle Mechatronic Embedded Controls - General Motors Careers",
+      "company": "Vehicle Mechatronic Embedded Controls - General Motors Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://search-careers.gm.com/en/jobs/jr-202613126/software-engineer-vehicle-mechatronic-embedded-controls/",
+      "source": "Other",
+      "description": "Software Engineer - Vehicle Mechatronic Embedded Controls. Location. Milford, Michigan. (+) Show all locations (-) Hide all locations. Job Type Full ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T18:04:54+00:00",
+      "fetched_at": "2026-07-13T20:45:05.030107+00:00"
+    },
+    {
+      "id": "b7751fefaf48",
+      "title": "iOS Software Engineer - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200672147-2114/ios-software-engineer?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a iOS Software Engineer job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T17:55:03+00:00",
+      "fetched_at": "2026-07-13T20:45:05.030253+00:00"
+    },
+    {
+      "id": "9f94cc391bfc",
+      "title": "First Fish Chronicles: Software Engineer : The Business Model of EdTech is to Collect Data for Profit",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://nepc.colorado.edu/blog/software-engineer",
+      "source": "Other",
+      "description": "Guest Essay: A software engineer's testimony about why EdTech products in schools are designed like other tech-- by selling data for profit.",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T17:38:21+00:00",
+      "fetched_at": "2026-07-13T20:45:05.030556+00:00"
+    },
+    {
+      "id": "ff14a908b583",
+      "title": "Software Engineer - Myworkdayjobs.com",
+      "company": "Analogdevices",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://analogdevices.wd1.myworkdayjobs.com/External/job/India-Bangalore-Nova/Software-Engineer_R263778",
+      "source": "Workday",
+      "description": "Introduce Yourself. Software Engineer page is loaded. Software Engineer . Apply. locations: India, Bangalore, Nova. time type: Full time. posted on ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T17:37:15+00:00",
+      "fetched_at": "2026-07-13T20:45:05.030638+00:00"
+    },
+    {
+      "id": "607bcc9ddd50",
+      "title": "Job Application for Data Engineer at Robots and Pencils - Greenhouse",
+      "company": "Robotsandpencils",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/robotsandpencils/jobs/5339855008",
+      "source": "Greenhouse",
+      "description": "Data Engineer . US - Remote; Canada - Remote. Apply. Robots & Pencils is an applied AI engineering firm building the next frontier of business ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T17:34:50+00:00",
+      "fetched_at": "2026-07-13T20:45:05.030731+00:00"
+    },
+    {
+      "id": "fc2eb959ded7",
+      "title": "Platform Engineer @ Firecrawl - Jobs",
+      "company": "Firecrawl",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/firecrawl/b47dca7f-7f74-4046-a569-1da6f24873ef",
+      "source": "Ashby",
+      "description": "Platform Engineer . You'll be a generalist force-multiplier across Firecrawl's platform, the engineer who drops into the highest-leverage problem ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T17:32:11+00:00",
+      "fetched_at": "2026-07-13T20:45:05.030821+00:00"
+    },
+    {
+      "id": "83437e575bc7",
+      "title": "Mozilla Careers \u2014 Senior Software Engineer , Firefox Desktop \u2014 Open Positions",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.mozilla.org/en-US/careers/position/gh/8055365/",
+      "source": "Other",
+      "description": "Mozilla is hiring a Senior Software Engineer , Firefox Desktop in Remote Germany, Firefox, New Products, Firefox, Core Services, Mozilla.org, ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T17:27:50+00:00",
+      "fetched_at": "2026-07-13T20:45:05.030955+00:00"
+    },
+    {
+      "id": "91acd34b994a",
+      "title": "Senior Software Engineer - backops.ai Careers - Gem",
+      "company": "backops.ai Careers - Gem",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.gem.com/backops-ai/am9icG9zdDrSLU6He9F8-N1DVZV6gyLc",
+      "source": "Other",
+      "description": "As Senior Software Engineer , you'll be a core member of the team, architecting and implementing the end-to-end systems that power our agentic ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T17:15:38+00:00",
+      "fetched_at": "2026-07-13T20:45:05.031255+00:00"
+    },
+    {
+      "id": "02193f0bddc8",
+      "title": "Senior Software Engineer \u2013 API Infrastructure - 20771 - Bloomberg",
+      "company": "20771 - Bloomberg",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://bloomberg.avature.net/careers/JobDetail/Senior-Software-Engineer-API-Infrastructure/20771",
+      "source": "Other",
+      "description": "Senior Software Engineer \u2013 API Infrastructure. Location. New York. Business Area. Engineering and CTO. Ref #. 10052565. Description & Requirements.",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T16:42:35+00:00",
+      "fetched_at": "2026-07-13T20:45:05.031467+00:00"
+    },
+    {
+      "id": "b886e44dfee8",
+      "title": "Software Engineer (C++ or Python) \u2013 2027 Grads | Hudson River Trading",
+      "company": "Hudson River Trading",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.hudsonrivertrading.com/hrt-job/software-engineer-c-or-python-2027-grads/",
+      "source": "Other",
+      "description": "We have built one of the world's most advanced computing environments for research and development, modeling, and risk management, and are at the ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T16:34:03+00:00",
+      "fetched_at": "2026-07-13T20:45:05.031788+00:00"
+    },
+    {
+      "id": "69efc6a48d4d",
+      "title": "Senior Software Engineer @ Backops Ai | Theory Ventures Job Board",
+      "company": "Backops Ai",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.theoryvc.com/companies/backops-ai-2/jobs/85974317-senior-software-engineer",
+      "source": "Other",
+      "description": "As Senior Software Engineer , you'll be a core member of the team, architecting and implementing the end-to-end systems that power our agentic ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T16:23:26+00:00",
+      "fetched_at": "2026-07-13T20:45:05.107810+00:00"
+    },
+    {
+      "id": "1ad98f29d2f6",
+      "title": "Senior Backend Engineer - Deda",
+      "company": "Deda",
+      "role": "Backend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.deda.com/en/jobs/8054356-senior-backend-engineer",
+      "source": "Other",
+      "description": "Senior Backend Engineer . At Deda, tech is all about people - curious, ambitious, and determined. Apply. We are one of the leading technology groups ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T16:22:58+00:00",
+      "fetched_at": "2026-07-13T20:45:05.031914+00:00"
+    },
     {
       "id": "8a1f5f0f156e",
       "title": "Is It Still Worth It To Become an AI/ ML Engineer ? - YouTube",
