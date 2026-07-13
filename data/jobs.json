@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-07-13T10:45:21.141515+00:00",
-  "total_jobs": 5566,
+  "last_updated": "2026-07-13T13:52:24.627453+00:00",
+  "total_jobs": 5583,
   "stats": {
-    "total_companies": 2833,
+    "total_companies": 2840,
     "total_roles": 79,
     "regions": {
-      "India": 3603,
-      "Philippines": 1154,
-      "Remote": 698,
+      "India": 3617,
+      "Philippines": 1155,
+      "Remote": 700,
       "Unknown": 135
     },
     "sources": {
-      "Other": 4363,
-      "Greenhouse": 277,
-      "Workday": 250,
-      "LinkedIn": 216,
+      "Other": 4376,
+      "Greenhouse": 278,
+      "Workday": 252,
+      "LinkedIn": 217,
       "Ashby": 170,
       "iCIMS": 73,
       "Breezy": 61,
@@ -36,6 +36,156 @@
   },
   "jobs": [
     {
+      "id": "864de9fc83db",
+      "title": "Senior Software Engineer in Baltimore, Maryland (No Remote) - Leidos Careers",
+      "company": "Leidos Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.leidos.com/jobs/17987620-senior-software-engineer",
+      "source": "Other",
+      "description": "We are seeking a highly skilled Senior Software Engineer to design, develop, and maintain modern web applications. The ideal candidate combines ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T12:03:25+00:00",
+      "fetched_at": "2026-07-13T13:52:24.436305+00:00"
+    },
+    {
+      "id": "0bb4b29a9793",
+      "title": "Software Engineer 1 - Careers - Myworkdayjobs.com",
+      "company": "Cmegroup",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/Software-Engineer-1_34418",
+      "source": "Workday",
+      "description": "The Software Engineer I engineers secure, scalable and reliable technology solutions, with appropriate mentoring, to advance CMEG in the global ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T11:48:44+00:00",
+      "fetched_at": "2026-07-13T13:52:24.436443+00:00"
+    },
+    {
+      "id": "399d7ad83388",
+      "title": "Data engineer Senior at Ooak Data | Y Combinator",
+      "company": "Ooak Data",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.ycombinator.com/companies/ooak-data/jobs/0CZAefT-data-engineer-senior",
+      "source": "Other",
+      "description": "... ML engineer and 2 ops. \u2713 Your missions As a Data Engineer and a ... Senior Software Engineer , Backend \u00b7 Artos \u00b7 Backend Software Engineer .",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T11:47:44+00:00",
+      "fetched_at": "2026-07-13T13:52:24.436616+00:00"
+    },
+    {
+      "id": "fab1498c85ff",
+      "title": "Software Engineer 1 - Careers - Myworkdayjobs.com",
+      "company": "Cmegroup",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Bangalore---Bagmane-Tridib/Software-Engineer-1_34418",
+      "source": "Workday",
+      "description": "The Software Engineer I engineers secure, scalable and reliable technology solutions, with appropriate mentoring, to advance CMEG in the global ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T11:46:54+00:00",
+      "fetched_at": "2026-07-13T13:52:24.602218+00:00"
+    },
+    {
+      "id": "fe65e25d05f5",
+      "title": "Senior Software Engineer , AI Agent Ecosystem, ADK \u2014 Google Careers",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/105831903721857734-senior-software-engineer/",
+      "source": "Other",
+      "description": "... Senior Software Engineer , you will drive the technical goals, strategy ... Senior Applied AI/ ML Engineer . Bengaluru, Karnataka, India \u00b7 Senior ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T11:19:51+00:00",
+      "fetched_at": "2026-07-13T13:52:24.436821+00:00"
+    },
+    {
+      "id": "421b254b5fb1",
+      "title": "Software Engineer at Ford Motor Company",
+      "company": "Ford Motor Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.careers.ford.com/job/chennai/software-engineer/48560/97731285392",
+      "source": "Other",
+      "description": "Software Engineer . Job ID: 65557. Category: Enterprise Technology. Location: Chennai, India. Work Type: On-site. Apply Now. Previous experience ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T11:05:26+00:00",
+      "fetched_at": "2026-07-13T13:52:24.436983+00:00"
+    },
+    {
+      "id": "842bafb35eaf",
+      "title": "Full Stack Engineer - AI control plane2 - - 22721 - Macquarie Group",
+      "company": "AI control plane2 - - 22721 - Macquarie Group",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=22721",
+      "source": "Other",
+      "description": "Full Stack Engineer - AI control plane2 ... Join our innovative People & Culture Technology Engineering team and help drive transformation across key ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T10:56:23+00:00",
+      "fetched_at": "2026-07-13T13:52:24.437315+00:00"
+    },
+    {
+      "id": "f9bc5ebc3d85",
+      "title": "Staff Software Engineer - Bengaluru, Karnataka, India - Toast",
+      "company": "Bengaluru, Karnataka, India - Toast",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.toasttab.com/jobs/staff-software-engineer-bengaluru-karnataka-india-4fca825b-9661-4c1b-b2fd-d653e7fe2818",
+      "source": "Other",
+      "description": "Toast is looking for a Staff Software engineer to join our Payments team in Bangalore. This team will be responsible for building end to end 3rd party ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T10:40:20+00:00",
+      "fetched_at": "2026-07-13T13:52:24.437625+00:00"
+    },
+    {
+      "id": "3c7cfdf98a6b",
+      "title": "Data Engineer (Consultant)-2 in Bangalore, KA, India - careers at CDW",
+      "company": "CDW",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.cdwjobs.com/jobs/17987455-data-engineer-consultant-2",
+      "source": "Other",
+      "description": "Data Engineer (Consultant)-2 \u00b7 Design, develop, and optimize data pipelines and ETL processes using Microsoft Fabric, Azure Data Factory (ADF).",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T10:32:52+00:00",
+      "fetched_at": "2026-07-13T13:52:24.437777+00:00"
+    },
+    {
+      "id": "e8f126f1f71e",
+      "title": "Lead Software Engineer - O9 , ITC - Nike Careers",
+      "company": "O9 , ITC - Nike Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.nike.com/lead-software-engineer-o9-itc/job/R-82588",
+      "source": "Other",
+      "description": "Lead Software Engineer - O9 , ITC. Position Type: Full Time. Career area: Software Engineering. Location: 4/F, WeWork, Embassy GolfLinks, Karnataka ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T10:10:14+00:00",
+      "fetched_at": "2026-07-13T13:52:24.437958+00:00"
+    },
+    {
       "id": "2ad164922ab2",
       "title": "Senior Software Engineer / Workday Integration and Prism Analytics - Wells Fargo",
       "company": "Wells Fargo",
@@ -49,6 +199,21 @@
       "date": "2026-07-13",
       "timestamp": "2026-07-13T09:26:04+00:00",
       "fetched_at": "2026-07-13T10:45:21.114831+00:00"
+    },
+    {
+      "id": "080edb6d055c",
+      "title": "Senior Software Engineer - Java Backend Developer - Wells Fargo",
+      "company": "Senior Software Engineer",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.wellsfargojobs.com/en/jobs/r-560202/senior-software-engineer-java-backend-developer/",
+      "source": "Other",
+      "description": "Senior Software Engineer - Java Backend Developer. HYDERABAD. Technology; Full time; 13 Jul 2026; R-560202. About this role: Wells Fargo is seeking ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T09:25:59+00:00",
+      "fetched_at": "2026-07-13T13:52:24.438363+00:00"
     },
     {
       "id": "1c560991b06b",
@@ -66,6 +231,21 @@
       "fetched_at": "2026-07-13T10:45:21.115061+00:00"
     },
     {
+      "id": "4a65fb596c36",
+      "title": "We sent a forward-deployed AI engineer to prison. He's not a criminal",
+      "company": "We sent a forward",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://x.com/darrenpjones/status/2076566125135974425",
+      "source": "Other",
+      "description": "Darren Jones MP (@darrenpjones). 193 likes 61 replies. We sent a forward-deployed AI engineer to prison. He's not a criminal - he's been creating ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T09:02:47+00:00",
+      "fetched_at": "2026-07-13T13:52:24.438499+00:00"
+    },
+    {
       "id": "5b62b7683c86",
       "title": "Software Engineer Manager, Cloud Infrastructure Security \u2014 Google Careers",
       "company": "Unknown Company",
@@ -79,6 +259,21 @@
       "date": "2026-07-13",
       "timestamp": "2026-07-13T08:07:16+00:00",
       "fetched_at": "2026-07-13T10:45:21.013506+00:00"
+    },
+    {
+      "id": "aafac24a60a6",
+      "title": "Job Application for Senior Backend Engineer - Platform Insights at GitLab - Greenhouse",
+      "company": "Gitlab",
+      "role": "Backend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/gitlab/jobs/8615439002",
+      "source": "Greenhouse",
+      "description": "An overview of this role. As a Senior Backend Engineer in Platform Insights, you'll build and evolve the core backend systems that power GitLab's data ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T08:06:26+00:00",
+      "fetched_at": "2026-07-13T13:52:24.438777+00:00"
     },
     {
       "id": "b49bbe7fc614",
@@ -95,6 +290,51 @@
       "date": "2026-07-13",
       "timestamp": "2026-07-13T08:06:25+00:00",
       "fetched_at": "2026-07-13T10:45:21.115353+00:00"
+    },
+    {
+      "id": "634525d02975",
+      "title": "Data Engineer Job Details - Ambu",
+      "company": "Ambu",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ambu.com/job/-/10252-en_GB",
+      "source": "Other",
+      "description": "We are looking for a Data Engineer to join our Data & Analytics team at our headquarters in Denmark and play a key role in designing, building, and ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T07:54:51+00:00",
+      "fetched_at": "2026-07-13T13:52:24.604198+00:00"
+    },
+    {
+      "id": "5453a8245125",
+      "title": "Senior Software Engineer - MAVLRA CORPORATION - Hybrid in Mountain View, CA, US",
+      "company": "MAVLRA CORPORATION - Hybrid in Mountain View, CA, US",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.dice.com/job-detail/8c86a094-eaf6-472e-852b-a96e8ce40a72",
+      "source": "Other",
+      "description": "Senior Software Engineer . Hybrid in Mountain View, CA, US \u2022 Posted 3 ... Opening 5 \u2013 Senior Full Stack Engineer . Skills: Java 17/21, Spring ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T07:31:22+00:00",
+      "fetched_at": "2026-07-13T13:52:24.439086+00:00"
+    },
+    {
+      "id": "5ab504eb2530",
+      "title": "Software Engineer , Front-End in Milpitas, California, United States of America",
+      "company": "End in Milpitas, California, United States of America",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2018231EXTERNALENGLOBAL/Software-Engineer-Front-End",
+      "source": "Other",
+      "description": "Apply for Software Engineer , Front-End job with ... Join us as a Lead Frontend Engineer and shape the next-generation of Cisco Cloud Control.",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T07:22:10+00:00",
+      "fetched_at": "2026-07-13T13:52:24.439270+00:00"
     },
     {
       "id": "809ae3efebbd",
@@ -140,6 +380,21 @@
       "date": "2026-07-13",
       "timestamp": "2026-07-13T07:11:07+00:00",
       "fetched_at": "2026-07-13T10:45:21.013778+00:00"
+    },
+    {
+      "id": "e20fb4ed9c3a",
+      "title": "Comply hiring Senior Full Stack Engineer in United States - LinkedIn",
+      "company": "LinkedIn",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/senior-full-stack-engineer-at-comply-4439113673",
+      "source": "LinkedIn",
+      "description": "Senior Fullstack Engineer (Remote). Zencastr. San Francisco, CA 8 months ... Senior Software Engineer (Full Stack). MaRe Head Spa System. United ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T06:59:23+00:00",
+      "fetched_at": "2026-07-13T13:52:24.605022+00:00"
     },
     {
       "id": "a4948d01dfea",
