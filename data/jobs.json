@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-07-13T13:52:24.627453+00:00",
-  "total_jobs": 5583,
+  "last_updated": "2026-07-13T17:46:14.661390+00:00",
+  "total_jobs": 5597,
   "stats": {
-    "total_companies": 2840,
+    "total_companies": 2848,
     "total_roles": 79,
     "regions": {
-      "India": 3617,
-      "Philippines": 1155,
-      "Remote": 700,
+      "India": 3626,
+      "Philippines": 1159,
+      "Remote": 701,
       "Unknown": 135
     },
     "sources": {
-      "Other": 4376,
-      "Greenhouse": 278,
+      "Other": 4387,
+      "Greenhouse": 279,
       "Workday": 252,
-      "LinkedIn": 217,
-      "Ashby": 170,
+      "LinkedIn": 218,
+      "Ashby": 171,
       "iCIMS": 73,
       "Breezy": 61,
       "Lever": 38,
@@ -36,6 +36,186 @@
   },
   "jobs": [
     {
+      "id": "8a1f5f0f156e",
+      "title": "Is It Still Worth It To Become an AI/ ML Engineer ? - YouTube",
+      "company": "YouTube",
+      "role": "ML Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.youtube.com/watch?v=gXqpTUy5czc",
+      "source": "Other",
+      "description": "Is It Still Worth It To Become an AI/ ML Engineer ? @NeuralNine109 likes924 views3 hours ago more. Subscribe. Comments.",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T16:21:26+00:00",
+      "fetched_at": "2026-07-13T17:46:14.635547+00:00"
+    },
+    {
+      "id": "19d28e1ac152",
+      "title": "Suvi Totterman's Post - Software Engineer - LinkedIn",
+      "company": "Suvi Totterman's Post",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/posts/suvi-totterman-2312712_we-are-hiring-a-software-engineer-if-you-activity-7482410798653399040-H5Qr",
+      "source": "LinkedIn",
+      "description": "We are hiring a Software Engineer ! If you have a passion for building high-quality software, solving complex problems, and collaborating with a ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T16:02:59+00:00",
+      "fetched_at": "2026-07-13T17:46:14.635935+00:00"
+    },
+    {
+      "id": "ba46fd42c99f",
+      "title": "Site Reliability Engineer @ Triomics - Jobs",
+      "company": "Triomics",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/triomics/66c284da-173a-4c62-918a-40e37ffee26d",
+      "source": "Ashby",
+      "description": "DevOps / Site Reliability Engineer (SRE). About Triomics: Triomics is building the agentic AI layer for oncology EHRs.",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T15:57:05+00:00",
+      "fetched_at": "2026-07-13T17:46:14.636047+00:00"
+    },
+    {
+      "id": "8da4e398ba26",
+      "title": "Software Engineer , Dev Tools - Careers at Airbnb",
+      "company": "Airbnb",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.airbnb.com/positions/8055229?gh_jid=8055229",
+      "source": "Other",
+      "description": "Software Engineer , Dev Tools \u00b7 Build and operate cloud development environments and execution platforms for engineers and AI agents. \u00b7 Scale Kubernetes- ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T15:10:22+00:00",
+      "fetched_at": "2026-07-13T17:46:14.519490+00:00"
+    },
+    {
+      "id": "ab5883fa9e3a",
+      "title": "Machine Learning Engineer 3- 7882 and jobs at Comcast",
+      "company": "Comcast",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.comcast.com/job/philadelphia/machine-learning-engineer-3-7882/47546/97741169744",
+      "source": "Other",
+      "description": "Machine Learning Engineer 3- 7882 turn big ideas into solutions our customers love. Search our jobs to launch a career in Pennsylvania or ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T15:07:36+00:00",
+      "fetched_at": "2026-07-13T17:46:14.519673+00:00"
+    },
+    {
+      "id": "c00e399775bb",
+      "title": "Senior Software Engineer , IOS, Remote - Canada | DraftKings Careers",
+      "company": "Canada | DraftKings Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.draftkings.com/jobs/jr14529/senior-software-engineer-ios/",
+      "source": "Other",
+      "description": "Senior Software Engineer , IOS. Remote - Canada. Engineering; Full time. a group of people sitting at a table. About DraftKings. At DraftKings, AI is ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T14:33:32+00:00",
+      "fetched_at": "2026-07-13T17:46:14.520170+00:00"
+    },
+    {
+      "id": "07771687880d",
+      "title": "AI Native MTS1 Software Engineer , Risk in San Jose, California - eBay Jobs",
+      "company": "eBay Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ebayinc.com/us/en/job/R0074126/AI-Native-MTS1-Software-Engineer-Risk",
+      "source": "Other",
+      "description": "Similar Jobs \u00b7 AI Native MTS1 Software Engineer , Risk \u00b7 MTS 1, Software Engineer \u00b7 Senior Python Engineer, AI \u00b7 GitHub Enterprise Platform Engineer .",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T14:32:05+00:00",
+      "fetched_at": "2026-07-13T17:46:14.520353+00:00"
+    },
+    {
+      "id": "240e03ca3990",
+      "title": "Principal Software Engineer job in Burlington | Other jobs at State Street",
+      "company": "State Street",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.statestreet.com/global/en/job/STSTGLOBALR794063EXTERNALENGLOBAL/Principal-Software-Engineer",
+      "source": "Other",
+      "description": "Principal Software Engineer . Apply Now. Share via email; Share via ... Collateral Management Senior Software Engineer , VP. Location Quincy ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T13:54:25+00:00",
+      "fetched_at": "2026-07-13T17:46:14.520711+00:00"
+    },
+    {
+      "id": "20d204f1ab16",
+      "title": "Full-stack Software Engineer - Hong Kong - WTW career",
+      "company": "Full",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.wtwco.com/jobs/full-stack-software-engineer-hong-kong",
+      "source": "Other",
+      "description": "Full-stack Software Engineer . Hong Kong. Full-stack Software Engineer ... We are currently hiring a Full-Stack Engineer to join our engineering ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T13:52:28+00:00",
+      "fetched_at": "2026-07-13T17:46:14.520863+00:00"
+    },
+    {
+      "id": "69f958e8f896",
+      "title": "Software Engineer Sr | Lockheed Martin",
+      "company": "Lockheed Martin",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.lockheedmartinjobs.com/job/liverpool/software-engineer-sr/694/97736161008",
+      "source": "Other",
+      "description": "Software Engineer Sr. Liverpool, New York. Liverpool, New York. Apply Now ... AI Machine Learning Engineer Staff- Level 4 \u00b7 Flight Test Integrator ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T13:12:07+00:00",
+      "fetched_at": "2026-07-13T17:46:14.521173+00:00"
+    },
+    {
+      "id": "adc9475f70fc",
+      "title": "Job Application for Senior Software Engineer - SSP at Koddi 2 - Greenhouse",
+      "company": "Koddi2",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/koddi2/jobs/8628413002",
+      "source": "Greenhouse",
+      "description": "We're looking for a Senior Software Engineer to join our Supply-Side Platform (SSP) team. This role is ideal for an experienced backend engineer ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T12:38:33+00:00",
+      "fetched_at": "2026-07-13T17:46:14.521280+00:00"
+    },
+    {
+      "id": "7dd1c3b01a2a",
+      "title": "Mobility Platform Engineer - United States - 40409 - Maximus",
+      "company": "United States - 40409 - Maximus",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://maximus.avature.net/careers/FolderDetail/United-States-Mobility-Platform-Engineer-40409/40409?source=eQuest",
+      "source": "Other",
+      "description": "The Mobility Platform Engineer supports enterprise mobility services by providing engineering, operations, and sustainment of Mobile Device Management ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T12:09:57+00:00",
+      "fetched_at": "2026-07-13T17:46:14.521507+00:00"
+    },
+    {
       "id": "864de9fc83db",
       "title": "Senior Software Engineer in Baltimore, Maryland (No Remote) - Leidos Careers",
       "company": "Leidos Careers",
@@ -49,6 +229,36 @@
       "date": "2026-07-13",
       "timestamp": "2026-07-13T12:03:25+00:00",
       "fetched_at": "2026-07-13T13:52:24.436305+00:00"
+    },
+    {
+      "id": "24ef5187b896",
+      "title": "Senior Software Engineer - Service mesh - Bengaluru, Karnataka, India | Roku Jobs",
+      "company": "Service mesh - Bengaluru, Karnataka, India | Roku Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.weareroku.com/jobs/senior-software-engineer-service-mesh-bengaluru-karnataka-india-0aca9a62-687f-4fd9-8c15-fce93c6f8d36",
+      "source": "Other",
+      "description": "Senior Software Engineer - Service mesh. Software Engineering | Bengaluru, India | ID: 10677. Apply View more jobs. Senior Software Engineer - Service ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T12:01:20+00:00",
+      "fetched_at": "2026-07-13T17:46:14.522085+00:00"
+    },
+    {
+      "id": "0eb1215a1029",
+      "title": "Cloud Engineer - Smiths Detection",
+      "company": "Smiths Detection",
+      "role": "Cloud Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.smithsdetection.com/careers/job-search-results/cloud-engineer-744000137380157/",
+      "source": "Other",
+      "description": "As a Cloud Engineer , you will design, implement, and support secure, scalable cloud infrastructure aligned with enterprise architecture, security ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T11:57:35+00:00",
+      "fetched_at": "2026-07-13T17:46:14.638548+00:00"
     },
     {
       "id": "0bb4b29a9793",
