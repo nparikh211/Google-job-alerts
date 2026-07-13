@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-07-13T06:41:21.429334+00:00",
-  "total_jobs": 5548,
+  "last_updated": "2026-07-13T10:45:21.141515+00:00",
+  "total_jobs": 5566,
   "stats": {
-    "total_companies": 2826,
+    "total_companies": 2833,
     "total_roles": 79,
     "regions": {
-      "India": 3590,
-      "Philippines": 1149,
-      "Remote": 697,
+      "India": 3603,
+      "Philippines": 1154,
+      "Remote": 698,
       "Unknown": 135
     },
     "sources": {
-      "Other": 4347,
-      "Greenhouse": 276,
+      "Other": 4363,
+      "Greenhouse": 277,
       "Workday": 250,
-      "LinkedIn": 215,
+      "LinkedIn": 216,
       "Ashby": 170,
       "iCIMS": 73,
       "Breezy": 61,
@@ -35,6 +35,247 @@
     }
   },
   "jobs": [
+    {
+      "id": "2ad164922ab2",
+      "title": "Senior Software Engineer / Workday Integration and Prism Analytics - Wells Fargo",
+      "company": "Wells Fargo",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.wellsfargojobs.com/en/jobs/r-560200/senior-software-engineer-workday-integration-and-prism-analytics/",
+      "source": "Other",
+      "description": "Senior Software Engineer / Workday Integration and Prism Analytics. HYDERABAD. Technology; Full time; 13 Jul 2026; R-560200. About this role. Wells ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T09:26:04+00:00",
+      "fetched_at": "2026-07-13T10:45:21.114831+00:00"
+    },
+    {
+      "id": "1c560991b06b",
+      "title": "Specializedsoft.com hiring Senior Software Engineer in Chicago, IL | LinkedIn",
+      "company": "LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/senior-software-engineer-at-specializedsoft-com-4439798608",
+      "source": "LinkedIn",
+      "description": "Senior Software Engineer . Specializedsoft.com Chicago, IL. 44 minutes ago ... Senior Backend Engineer . Yourco. Chicago, IL 3 months ago. Senior ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T09:19:13+00:00",
+      "fetched_at": "2026-07-13T10:45:21.115061+00:00"
+    },
+    {
+      "id": "5b62b7683c86",
+      "title": "Software Engineer Manager, Cloud Infrastructure Security \u2014 Google Careers",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.google.com/jobs/results/85967473819427526-software-engineer-manager/",
+      "source": "Other",
+      "description": "Senior Applied AI/ ML Engineer . Bengaluru, Karnataka, India \u00b7 Staff ... Senior Software Engineer , Site Reliability Engineering, Cloud Storage.",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T08:07:16+00:00",
+      "fetched_at": "2026-07-13T10:45:21.013506+00:00"
+    },
+    {
+      "id": "b49bbe7fc614",
+      "title": "Job Application for Intermediate Fullstack Engineer - Data Products at GitLab - Greenhouse",
+      "company": "Gitlab",
+      "role": "Fullstack Engineer",
+      "regions": [
+        "India",
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/gitlab/jobs/8623751002",
+      "source": "Greenhouse",
+      "description": "Intermediate Fullstack Engineer - Data Products. Remote, India. Apply. GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T08:06:25+00:00",
+      "fetched_at": "2026-07-13T10:45:21.115353+00:00"
+    },
+    {
+      "id": "809ae3efebbd",
+      "title": "Software Engineer \u2013 Sierra Space \u2013 Permanent contract in Louisville - the Jungle",
+      "company": "the Jungle",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.welcometothejungle.com/en/companies/sierra-space/jobs/software-engineer_louisville_lrgocskx",
+      "source": "Other",
+      "description": "Senior Software Engineer , Ecommerce. Brevo. Permanent contract. Noida. A few days at home. SaaS / Cloud Services, Marketing / Communications. 950 ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T07:21:12+00:00",
+      "fetched_at": "2026-07-13T10:45:21.115539+00:00"
+    },
+    {
+      "id": "8c59687bf944",
+      "title": "Sr. Engineer, Software Engineer - Careers at Nationwide",
+      "company": "Nationwide",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.nationwide.com/sr-engineer-software-engineer/job/AC0D3F18AF2C23E6D99827A97E3F1784",
+      "source": "Other",
+      "description": "As a Senior Software Engineer , you will focus primarily on providing high quality, efficient technology solutions to business partners by crafting ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T07:15:01+00:00",
+      "fetched_at": "2026-07-13T10:45:21.115735+00:00"
+    },
+    {
+      "id": "63fa559cd8b0",
+      "title": "Data Engineer , Anti Scraping, Third Party Data Operations \u2014 Google Careers",
+      "company": "Unknown Company",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/88085682970337990-data-engineer/",
+      "source": "Other",
+      "description": "As a Data Engineer , you will build and ... Senior Applied AI/ ML Engineer . Bengaluru, Karnataka, India \u00b7 Staff Software Engineer , Cloud Migration.",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T07:11:07+00:00",
+      "fetched_at": "2026-07-13T10:45:21.013778+00:00"
+    },
+    {
+      "id": "a4948d01dfea",
+      "title": "AI Engineer \u2013 Human Capital | The D. E. Shaw Group",
+      "company": "The D. E. Shaw Group",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.deshaw.com/careers/ai-engineer-human-capital-5841",
+      "source": "Other",
+      "description": "AI Engineer \u2013 Human Capital. Human Capital New York. The D. E. Shaw group seeks an engineer with a keen interest in artificial intelligence (AI) to ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T06:37:22+00:00",
+      "fetched_at": "2026-07-13T10:45:21.014132+00:00"
+    },
+    {
+      "id": "91dc437bcef0",
+      "title": "Software Engineer - Careers at Moody's",
+      "company": "Moody's",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.moodys.com/en/job/gurugram/software-engineer/49841/97725702640",
+      "source": "Other",
+      "description": "Contribute to ETL and data pipeline work under the direction of the Senior Data Engineer ... Senior Software Engineer . Gurugram, India. Save for Later ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T06:17:03+00:00",
+      "fetched_at": "2026-07-13T10:45:21.014281+00:00"
+    },
+    {
+      "id": "0bbb4bbdc6ac",
+      "title": "Data Engineer II, Sales Data Services (SDS) - Job ID: 10472033 | Amazon.jobs",
+      "company": "Job ID: 10472033 | Amazon.jobs",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.amazon.jobs/en/jobs/10472033/data-engineer-ii-sales-data-services-sds",
+      "source": "Other",
+      "description": "Data Engineer II, Sales Data Services (SDS). Job ID: 10472033 | ADCI - Karnataka. Apply now. Description. Amazon Advertising operates at the ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T06:15:11+00:00",
+      "fetched_at": "2026-07-13T10:45:21.014476+00:00"
+    },
+    {
+      "id": "4aee4fecad32",
+      "title": "AI Software Engineer AI\u8f6f\u4ef6\u5de5\u7a0b\u5e08 - Mercedes-Benz Jobs",
+      "company": "Mercedes-Benz Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.mercedes-benz.com/en/ai-software-engineer-ai-228736-mer00045ai",
+      "source": "Other",
+      "description": "Provider/Privacy. Company \u00b7 Technology \u00b7 Sustainability \u00b7 Careers \u00b7 Investors \u00b7 Press \u00b7 Products \u00b7 Careers Job search. AI Software Engineer AI\u8f6f\u4ef6 ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T05:55:14+00:00",
+      "fetched_at": "2026-07-13T10:45:21.014711+00:00"
+    },
+    {
+      "id": "d3254980afc4",
+      "title": "AI Platform Engineer AI\u5e73\u53f0\u5de5\u7a0b\u5e08 - Mercedes-Benz Jobs",
+      "company": "Mercedes-Benz Jobs",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.mercedes-benz.com/en/ai-platform-engineer-ai-228744-mer00045ex",
+      "source": "Other",
+      "description": "Provider/Privacy. Company \u00b7 Technology \u00b7 Sustainability \u00b7 Careers \u00b7 Investors \u00b7 Press \u00b7 Products \u00b7 Careers Job search. AI Platform Engineer AI\u5e73\u53f0 ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T05:55:14+00:00",
+      "fetched_at": "2026-07-13T10:45:21.014908+00:00"
+    },
+    {
+      "id": "51161579a2a9",
+      "title": "Mid-Level Software Engineer \u2013 Test Equipment Applications - CATS",
+      "company": "Mid",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://avtc.catsone.com/careers/102881/jobs/16826689-Mid-Level-Software-Engineer-Test-Equipment-Applications",
+      "source": "Other",
+      "description": "About the OpportunityAvenue Technologies is seeking a Mid-Level Software Engineer \u2013 Test Equipment Applications to support technical, engineering, ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T05:51:16+00:00",
+      "fetched_at": "2026-07-13T10:45:21.117004+00:00"
+    },
+    {
+      "id": "08691d4b438b",
+      "title": "Staff Software Engineer (Full Stack) - Guest - Bengaluru, Karnataka, India - Toast",
+      "company": "Guest - Bengaluru, Karnataka, India - Toast",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.toasttab.com/jobs/staff-software-engineer-full-stack-guest-bengaluru-karnataka-india",
+      "source": "Other",
+      "description": "Staff Software Engineer (Full Stack) - Guest. Engineering. Staff ... Senior Software Engineer , Care & Onboarding. Bengaluru, Karnataka, India ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T05:44:50+00:00",
+      "fetched_at": "2026-07-13T10:45:21.015167+00:00"
+    },
+    {
+      "id": "ca60ba8d8474",
+      "title": "AI Engineer , Exposure Management (7310963) | Check Point Software Careers",
+      "company": "Check Point Software Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.checkpoint.com/index.php?m=cpcareers&a=show&joborderid=7310963",
+      "source": "Other",
+      "description": "We're looking for an AI Engineer who is equal parts builder, enabler, and visionary. This is a rare opportunity to join a small, elite team at the ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T05:43:41+00:00",
+      "fetched_at": "2026-07-13T10:45:21.015469+00:00"
+    },
+    {
+      "id": "9d81ed82f7cf",
+      "title": "Software Engineer | Various Levels at Forage | Y Combinator",
+      "company": "Forage",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.ycombinator.com/companies/forage-2/jobs/GzaBSCE-software-engineer-various-levels",
+      "source": "Other",
+      "description": "... Software Engineer at Forage, you'll work across the product ... Full-Stack Engineer \u00b7 SureBright \u00b7 Software Engineer , Founder's ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T05:17:07+00:00",
+      "fetched_at": "2026-07-13T10:45:21.117628+00:00"
+    },
     {
       "id": "b1dda028cc33",
       "title": "Gen20x - Android Platform Engineer | Mercedes-Benz > Career > Job Search > Job Postings",
@@ -64,6 +305,36 @@
       "date": "2026-07-13",
       "timestamp": "2026-07-13T04:23:48+00:00",
       "fetched_at": "2026-07-13T06:41:21.404065+00:00"
+    },
+    {
+      "id": "0779026a7bab",
+      "title": "Senior DevOps Engineer - Azure AKS & Platform Security Job Details - EnerSys Careers",
+      "company": "Azure AKS & Platform Security Job Details - EnerSys Careers",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.enersys.com/job/Montevarchi-Senior-DevOps-Engineer-Azure-AKS-&-Platform-Security-52025/1413351933/",
+      "source": "Other",
+      "description": "Montevarchi Senior DevOps Engineer - Azure AKS & Platform Security, 52025. ... We are looking for a senior, hands-on platform engineer to own the ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T04:16:20+00:00",
+      "fetched_at": "2026-07-13T10:45:21.118256+00:00"
+    },
+    {
+      "id": "d6149a5f9b7e",
+      "title": "Senior Cloud Engineer | Edtech.com",
+      "company": "Edtech.com",
+      "role": "Cloud Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.edtech.com/jobs/senior-cloud-engineer-3554",
+      "source": "Other",
+      "description": "Senior Cloud Engineer . Salt Lake City, UT Full-Time $144K ... Software Engineer II - Student Affairs. Western Governors University.",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T04:15:41+00:00",
+      "fetched_at": "2026-07-13T10:45:21.015833+00:00"
     },
     {
       "id": "7c8b0e1e288d",
