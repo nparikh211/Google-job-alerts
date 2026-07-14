@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-07-14T01:06:54.808072+00:00",
-  "total_jobs": 5634,
+  "last_updated": "2026-07-14T06:00:57.721723+00:00",
+  "total_jobs": 5638,
   "stats": {
-    "total_companies": 2869,
+    "total_companies": 2870,
     "total_roles": 79,
     "regions": {
-      "India": 3650,
-      "Philippines": 1164,
+      "India": 3652,
+      "Philippines": 1166,
       "Remote": 709,
       "Unknown": 135
     },
     "sources": {
-      "Other": 4417,
+      "Other": 4420,
       "Greenhouse": 280,
       "Workday": 254,
       "LinkedIn": 219,
       "Ashby": 172,
       "iCIMS": 73,
-      "Breezy": 62,
+      "Breezy": 63,
       "Lever": 39,
       "Workable": 36,
       "SmartRecruiters": 33,
@@ -31,10 +31,55 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-07-13"
+      "latest": "2026-07-14"
     }
   },
   "jobs": [
+    {
+      "id": "610f043d9d13",
+      "title": "Software Engineer 3, Documentation Platform - MongoDB",
+      "company": "MongoDB",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.mongodb.com/careers/jobs/8054991",
+      "source": "Other",
+      "description": "MongoDB is seeking a Software Engineer 3 to join the Documentation Platform Engineering Team. The Documentation Platform delivers 60M page views a ...",
+      "date": "2026-07-14",
+      "timestamp": "2026-07-14T04:06:00+00:00",
+      "fetched_at": "2026-07-14T06:00:57.694451+00:00"
+    },
+    {
+      "id": "b47b4ea8d603",
+      "title": "Software Engineer Infrastructure - Chime Careers",
+      "company": "Chime Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.chime.com/jobs/8616359002/software-engineer-infrastructure/",
+      "source": "Other",
+      "description": "Software Engineer , Infrastructure \u00b7 At Chime, we believe that everyone can achieve financial progress. \u00b7 We're a team of problem solvers, dreamers, and ...",
+      "date": "2026-07-14",
+      "timestamp": "2026-07-14T00:52:56+00:00",
+      "fetched_at": "2026-07-14T06:00:57.613154+00:00"
+    },
+    {
+      "id": "95380cddd48e",
+      "title": "Software Engineer (Java Script) - Hybrid (Entry/Mid Level) in Multiple Locations | State Farm",
+      "company": "Hybrid (Entry/Mid Level) in Multiple Locations | State Farm",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.statefarm.com/main/jobs/45117?lang=en-us",
+      "source": "Other",
+      "description": "State Farm Careers is hiring a Software Engineer (Java Script) - Hybrid (Entry/Mid Level) in Multiple Locations. Review all of the job details and ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T23:27:18+00:00",
+      "fetched_at": "2026-07-14T06:00:57.613492+00:00"
+    },
     {
       "id": "0d2ab8c3b367",
       "title": "Azure DevOps Engineer - ResFrac Corporation",
@@ -94,6 +139,21 @@
       "date": "2026-07-13",
       "timestamp": "2026-07-13T22:32:44+00:00",
       "fetched_at": "2026-07-14T01:06:54.684612+00:00"
+    },
+    {
+      "id": "fce5d96a4a45",
+      "title": "Senior Software Engineer - Agentic Delivery (GCP, Claude Code) - Incubeta",
+      "company": "Incubeta Global",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://incubeta-global.breezy.hr/p/49aeb833e8a501-senior-software-engineer-agentic-delivery-gcp-claude-code/apply",
+      "source": "Breezy",
+      "description": "Senior Software Engineer , Agentic Delivery GCP and Claude Code Team: Global Product Engineering Reports to: Global Chief Product Officer Partners ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T22:04:14+00:00",
+      "fetched_at": "2026-07-14T06:00:57.695847+00:00"
     },
     {
       "id": "95ec484f0604",
