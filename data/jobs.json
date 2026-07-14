@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-07-14T09:41:33.794747+00:00",
-  "total_jobs": 5638,
+  "last_updated": "2026-07-14T12:57:10.921036+00:00",
+  "total_jobs": 5652,
   "stats": {
-    "total_companies": 2870,
+    "total_companies": 2876,
     "total_roles": 79,
     "regions": {
-      "India": 3652,
-      "Philippines": 1166,
-      "Remote": 709,
+      "India": 3662,
+      "Philippines": 1167,
+      "Remote": 713,
       "Unknown": 135
     },
     "sources": {
-      "Other": 4420,
-      "Greenhouse": 280,
+      "Other": 4432,
+      "Greenhouse": 281,
       "Workday": 254,
       "LinkedIn": 219,
       "Ashby": 172,
-      "iCIMS": 73,
+      "iCIMS": 74,
       "Breezy": 63,
       "Lever": 39,
       "Workable": 36,
@@ -36,6 +36,172 @@
   },
   "jobs": [
     {
+      "id": "658329fb7e66",
+      "title": "Senior Software Engineer (Salesforce & AI) - Okta",
+      "company": "Okta",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.okta.com/company/careers/business-technology/senior-software-engineer-salesforce-ai-7995205/",
+      "source": "Other",
+      "description": "Senior Software Engineer (Salesforce & AI). San Francisco, California. Secure Every Identity, from AI to Human Identity is the key to unlocking ...",
+      "date": "2026-07-14",
+      "timestamp": "2026-07-14T10:55:16+00:00",
+      "fetched_at": "2026-07-14T12:57:10.718463+00:00"
+    },
+    {
+      "id": "0c85771bc229",
+      "title": "Software Engineer - h2o.ai - Career Page",
+      "company": "h2o.ai - Career Page",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://h2oai.applytojob.com/apply/Hq7vAozNv4/Software-Engineer",
+      "source": "Other",
+      "description": "Software Engineer . Colombo, Sri Lanka. Full Time. DevOps Engineering. Mid Level. Share. Founded in 2012, H2O.ai is on a mission to democratize AI. As ...",
+      "date": "2026-07-14",
+      "timestamp": "2026-07-14T10:07:47+00:00",
+      "fetched_at": "2026-07-14T12:57:10.718647+00:00"
+    },
+    {
+      "id": "52b0263b92d5",
+      "title": "Senior Software Engineer",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/storesight/jobs/eb705102-69d2-49ad-9c10-821142a8aebc",
+      "source": "Other",
+      "description": "Senior Software Engineer ... Storesight is an AI-powered platform purpose-built by CPG executives in collaboration with leading CPG firms to transform ...",
+      "date": "2026-07-14",
+      "timestamp": "2026-07-14T09:13:49+00:00",
+      "fetched_at": "2026-07-14T12:57:10.718800+00:00"
+    },
+    {
+      "id": "937efdd09d60",
+      "title": "Senior Backend Engineer - Remote - Minnesota - In Tandem Careers",
+      "company": "Remote - Minnesota - In Tandem Careers",
+      "role": "Backend Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.intandem.com/en/postings/5c1baa2d-8371-43c4-99f0-4465b2f88a3e",
+      "source": "Other",
+      "description": "Senior Backend Engineer . Department: Engineering; Employment Type: Permanent - Full Time; Location: Remote - Minnesota; Workplace type: Fully remote ...",
+      "date": "2026-07-14",
+      "timestamp": "2026-07-14T08:38:49+00:00",
+      "fetched_at": "2026-07-14T12:57:10.718988+00:00"
+    },
+    {
+      "id": "8f958bf56040",
+      "title": "Senior Software Engineer in Plano, Texas - Liberty Mutual | Careers Center | Welcome",
+      "company": "Liberty Mutual | Careers Center | Welcome",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers-libertymutual.icims.com/jobs/76743/senior-software-engineer/job",
+      "source": "iCIMS",
+      "description": "Plano,TX is now hiring a Senior Software Engineer in Plano, Texas. Review all of the job details and apply today!",
+      "date": "2026-07-14",
+      "timestamp": "2026-07-14T08:29:25+00:00",
+      "fetched_at": "2026-07-14T12:57:10.719156+00:00"
+    },
+    {
+      "id": "593a797298cf",
+      "title": "Software Engineer - AI - Job Detail | Careers Marketplace - Siemens",
+      "company": "AI - Job Detail | Careers Marketplace - Siemens",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/511730",
+      "source": "Other",
+      "description": "Software Engineer - AI ; Job ID. 511730 ; Posted since. 09-Jul-2026 ; Organization. Digital Industries ; Field of work. Research & Development ; Company.",
+      "date": "2026-07-14",
+      "timestamp": "2026-07-14T08:26:45+00:00",
+      "fetched_at": "2026-07-14T12:57:10.719326+00:00"
+    },
+    {
+      "id": "addcee8c27ae",
+      "title": "Software Engineer I, ITC - Nike Careers",
+      "company": "Nike Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.nike.com/software-engineer-i-itc/job/R-85379",
+      "source": "Other",
+      "description": "Software Engineer I, ITC. Position Type: Full Time. Career area: Software Engineering. Location: 4/F, WeWork, Embassy GolfLinks, Karnataka, Karn\u0101taka ...",
+      "date": "2026-07-14",
+      "timestamp": "2026-07-14T08:17:39+00:00",
+      "fetched_at": "2026-07-14T12:57:10.719477+00:00"
+    },
+    {
+      "id": "ac5c393444aa",
+      "title": "Job Application for Senior Software Engineer - Payments & Treasury at Alpaca",
+      "company": "Alpaca",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/alpaca/jobs/6113944004",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer - Payments & Treasury. Remote - Anywhere. Apply. Who We Are: Alpaca is a US-headquartered self-clearing broker-dealer and ...",
+      "date": "2026-07-14",
+      "timestamp": "2026-07-14T06:40:13+00:00",
+      "fetched_at": "2026-07-14T12:57:10.719683+00:00"
+    },
+    {
+      "id": "305947bf65b4",
+      "title": "DevOps Engineer Boulder Colorado - Inceed",
+      "company": "Inceed",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.inceed.com/job/33663-devops-engineer-boulder-colorado/",
+      "source": "Other",
+      "description": "DevOps Engineer Boulder Colorado - Search the latest jobs from Inceed. We have this role currently available - DevOps Engineer Boulder Colorado.",
+      "date": "2026-07-14",
+      "timestamp": "2026-07-14T06:32:52+00:00",
+      "fetched_at": "2026-07-14T12:57:10.895145+00:00"
+    },
+    {
+      "id": "abfeae1531cf",
+      "title": "Software Engineer I - IT jobs at Varsity Brands",
+      "company": "Varsity Brands",
+      "role": "Software Engineer",
+      "regions": [
+        "India",
+        "Remote"
+      ],
+      "link": "https://careers.varsitybrands.com/us/en/job/JR114172/Software-Engineer-I",
+      "source": "Other",
+      "description": "Apply for Software Engineer I job with Varsity Brands in Remote, Indiana, United States of America. Browse and apply for IT jobs at Varsity ...",
+      "date": "2026-07-14",
+      "timestamp": "2026-07-14T06:24:22+00:00",
+      "fetched_at": "2026-07-14T12:57:10.719791+00:00"
+    },
+    {
+      "id": "7f4c897b8770",
+      "title": "Systems Software Engineer , Wireless Technologies & Ecosystems - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200671985-0836/systems-software-engineer-wireless-technologies-ecosystems?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Systems Software Engineer , Wireless Technologies & Ecosystems job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-07-14",
+      "timestamp": "2026-07-14T05:21:29+00:00",
+      "fetched_at": "2026-07-14T12:57:10.720128+00:00"
+    },
+    {
       "id": "610f043d9d13",
       "title": "Software Engineer 3, Documentation Platform - MongoDB",
       "company": "MongoDB",
@@ -49,6 +215,21 @@
       "date": "2026-07-14",
       "timestamp": "2026-07-14T04:06:00+00:00",
       "fetched_at": "2026-07-14T06:00:57.694451+00:00"
+    },
+    {
+      "id": "236b732bf968",
+      "title": "Job ID:26024035 - Data Engineer III - Jersey City, New Jersey - Bank of America Careers",
+      "company": "Job ID:26024035",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.bankofamerica.com/en-us/job-detail/26024035/data-engineer-iii-jersey-city-new-jersey-united-states",
+      "source": "Other",
+      "description": "Apply for the Data Engineer III position (Job ID: 26024035), located in Jersey City, New Jersey, at Bank of America.",
+      "date": "2026-07-14",
+      "timestamp": "2026-07-14T00:54:40+00:00",
+      "fetched_at": "2026-07-14T12:57:10.720325+00:00"
     },
     {
       "id": "b47b4ea8d603",
@@ -66,6 +247,21 @@
       "fetched_at": "2026-07-14T06:00:57.613154+00:00"
     },
     {
+      "id": "6cdff9471b00",
+      "title": "Staff Machine Learning Engineer , Computer Vision - Pinterest Careers",
+      "company": "Pinterest Careers",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.pinterestcareers.com/jobs/8015537/staff-machine-learning-engineer-computer-vision/?gh_jid=8015537",
+      "source": "Other",
+      "description": "Staff Machine Learning Engineer , Computer Vision. San Francisco / Remote \u00b7 Engineering; Regular. a screenshot of a social media post. Share. Apply Now ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T23:30:55+00:00",
+      "fetched_at": "2026-07-14T12:57:10.720688+00:00"
+    },
+    {
       "id": "95380cddd48e",
       "title": "Software Engineer (Java Script) - Hybrid (Entry/Mid Level) in Multiple Locations | State Farm",
       "company": "Hybrid (Entry/Mid Level) in Multiple Locations | State Farm",
@@ -79,6 +275,21 @@
       "date": "2026-07-13",
       "timestamp": "2026-07-13T23:27:18+00:00",
       "fetched_at": "2026-07-14T06:00:57.613492+00:00"
+    },
+    {
+      "id": "02f21348f0ee",
+      "title": "Principal Software Engineer (Cloud Management) at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-cloud-management/47263/97757360032",
+      "source": "Other",
+      "description": "Principal Software Engineer (Cloud Management). Santa Clara, California, United States Product Engineering Ref ID: JR-019889. Apply Save ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T22:57:36+00:00",
+      "fetched_at": "2026-07-14T12:57:10.721010+00:00"
     },
     {
       "id": "0d2ab8c3b367",
