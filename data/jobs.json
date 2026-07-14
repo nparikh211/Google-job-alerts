@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-07-13T20:45:05.132513+00:00",
-  "total_jobs": 5617,
+  "last_updated": "2026-07-14T01:06:54.808072+00:00",
+  "total_jobs": 5634,
   "stats": {
-    "total_companies": 2858,
+    "total_companies": 2869,
     "total_roles": 79,
     "regions": {
-      "India": 3639,
-      "Philippines": 1163,
-      "Remote": 704,
+      "India": 3650,
+      "Philippines": 1164,
+      "Remote": 709,
       "Unknown": 135
     },
     "sources": {
-      "Other": 4403,
+      "Other": 4417,
       "Greenhouse": 280,
       "Workday": 254,
-      "LinkedIn": 218,
+      "LinkedIn": 219,
       "Ashby": 172,
       "iCIMS": 73,
-      "Breezy": 61,
-      "Lever": 38,
+      "Breezy": 62,
+      "Lever": 39,
       "Workable": 36,
       "SmartRecruiters": 33,
       "Indeed": 24,
@@ -36,6 +36,231 @@
   },
   "jobs": [
     {
+      "id": "0d2ab8c3b367",
+      "title": "Azure DevOps Engineer - ResFrac Corporation",
+      "company": "ResFrac Corporation",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.resfrac.com/blog/job/azure-devops-engineer",
+      "source": "Other",
+      "description": "We are seeking a motivated and detail-oriented Azure DevOps Engineer to join our remote infrastructure and operations team.",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T22:50:04+00:00",
+      "fetched_at": "2026-07-14T01:06:54.683820+00:00"
+    },
+    {
+      "id": "6102dec00f7f",
+      "title": "Data Engineer | Schwab Jobs",
+      "company": "Schwab Jobs",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.schwabjobs.com/job/austin/data-engineer/33727/95589210400",
+      "source": "Other",
+      "description": "Data Engineer . Austin, TX. Requisition ID 2026-122213 Category Engineering & Software Development Position type Regular Pay range USD $90,000.00 ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T22:37:37+00:00",
+      "fetched_at": "2026-07-14T01:06:54.770439+00:00"
+    },
+    {
+      "id": "6d029a4ca931",
+      "title": "Software Engineer (f/m/d) - TV Job Details | Apply now!",
+      "company": "TV Job Details | Apply now!",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobsearch.createyourowncareer.com/smartclip/job/Software-Engineer-%28fmd%29-TV-10117/1414408733/",
+      "source": "Other",
+      "description": "Software Engineer (f/m/d) - TV. smartclip Europe GmbH. Company Description. Location: Berlin or K\u00f6ln (50 % Remote possible). We use AI to accelerate ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T22:32:46+00:00",
+      "fetched_at": "2026-07-14T01:06:54.684371+00:00"
+    },
+    {
+      "id": "9c0a435073ce",
+      "title": "Site Reliability Engineer (f/m/d) \u2013 Observability & Internal Tools Job Details | Apply now!",
+      "company": "Apply now!",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobsearch.createyourowncareer.com/smartclip/job/Site-Reliability-Engineer-%28fmd%29-Observability-&-Internal-Tools-10117/1414415133/",
+      "source": "Other",
+      "description": "Site Reliability Engineer (f/m/d) \u2013 Observability & Internal Tools. smartclip Europe GmbH. Company Description. Remote in our day-to-day work. On ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T22:32:44+00:00",
+      "fetched_at": "2026-07-14T01:06:54.684612+00:00"
+    },
+    {
+      "id": "95ec484f0604",
+      "title": "United States, Principal Full Stack Software Engineer - 18942 - MetLife Careers",
+      "company": "18942 - MetLife Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.metlifecareers.com/en_US/ml/JobDetail/Principal-Full-Stack-Software-Engineer/18942",
+      "source": "Other",
+      "description": "Principal Full Stack Software Engineer . Working Schedule. Full-Time. Work Arrangement. Virtual. Travel Required. 10%. Relocation Assistance Available.",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T21:18:34+00:00",
+      "fetched_at": "2026-07-14T01:06:54.684968+00:00"
+    },
+    {
+      "id": "d19976facb42",
+      "title": "Employee Success Data Engineer - Snowflake - India - Hyderabad | Salesforce Careers",
+      "company": "Snowflake - India - Hyderabad | Salesforce Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.salesforce.com/company/careers/jobs/JR332308/employee-success-data-engineer-snowflake/",
+      "source": "Other",
+      "description": "We are seeking a motivated Data Engineer to join our team and help build and maintain the data foundations that power ES analytics and AI-driven ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T21:07:47+00:00",
+      "fetched_at": "2026-07-14T01:06:54.685197+00:00"
+    },
+    {
+      "id": "817c6f18b202",
+      "title": "Software Engineer , Form Now - Formlabs Careers",
+      "company": "Formlabs Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.formlabs.com/job/8042078/apply/?gh_jid=8042078",
+      "source": "Other",
+      "description": "Software Engineer , Form Now. Department: Software Engineering Location: Somerville, MA. Do you want to change how the world creates? At Formlabs, we ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T20:28:40+00:00",
+      "fetched_at": "2026-07-14T01:06:54.685372+00:00"
+    },
+    {
+      "id": "8748b3646405",
+      "title": "Suvi Totterman - Software Engineer - LinkedIn",
+      "company": "Suvi Totterman",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/suvi-totterman-2312712_we-are-hiring-a-software-engineer-if-you-activity-7482410798653399040-H5Qr",
+      "source": "LinkedIn",
+      "description": "Sujay Kumar Reddy Katreddy. Backend Engineer | Architecting APIs ... Let's Connect | Full Stack Engineer | React, React Native & Node.js | 100 ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T20:28:23+00:00",
+      "fetched_at": "2026-07-14T01:06:54.685706+00:00"
+    },
+    {
+      "id": "9892eddf0d8e",
+      "title": "Machine Learning Engineer I in New York, New York - FOX Careers",
+      "company": "FOX Careers",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.foxcareers.com/Search/JobDetail/R50033083/machine-learning-engineer-i-fox-corporation",
+      "source": "Other",
+      "description": "Machine Learning Engineer I. Job Number: R50033083. Brand: Fox Corporation. Job Type: Engineering, Technology. Location Type: Hybrid. Experience Level ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T20:25:36+00:00",
+      "fetched_at": "2026-07-14T01:06:54.685887+00:00"
+    },
+    {
+      "id": "3a60fb2e0716",
+      "title": "Senior Software Engineer - Agentic Delivery (GCP, Claude Code) at Incubeta",
+      "company": "Incubeta Global",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://incubeta-global.breezy.hr/p/49aeb833e8a501-senior-software-engineer-agentic-delivery-gcp-claude-code",
+      "source": "Breezy",
+      "description": "Senior Software Engineer , Agentic Delivery GCP and Claude Code Team: Global Product Engineering Reports to: Global Chief Product Officer Partners ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T20:21:14+00:00",
+      "fetched_at": "2026-07-14T01:06:54.686034+00:00"
+    },
+    {
+      "id": "b4b470ad0d83",
+      "title": "Software Engineer - - 127193 - Booz | Allen | Hamilton \u00ae - Careers",
+      "company": "- 127193 - Booz | Allen | Hamilton \u00ae - Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.boozallen.com/locations/JobDetail?jobId=127193",
+      "source": "Other",
+      "description": "Software Engineer . Chantilly, Virginia, USA. Apply. CREATEYOUR CAREER. CREATE AND GROW WITH US. Grow. Your growth matters to us - explore our career ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T20:19:07+00:00",
+      "fetched_at": "2026-07-14T01:06:54.686245+00:00"
+    },
+    {
+      "id": "28a9b40fedc3",
+      "title": "Data Engineer - - 127198 - Booz | Allen | Hamilton \u00ae - Careers",
+      "company": "- 127198 - Booz | Allen | Hamilton \u00ae - Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.boozallen.com/locations/JobDetail?jobId=127198",
+      "source": "Other",
+      "description": "Data Engineer . The Opportunity: Ever-expanding technology like IoT, machine learning, and artificial intelligence means that there's more ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T20:19:06+00:00",
+      "fetched_at": "2026-07-14T01:06:54.686507+00:00"
+    },
+    {
+      "id": "755fe9d258b3",
+      "title": "Senior Backend Engineer \u2014 Distributed Systems (Streaming Platform) - Roku Jobs",
+      "company": "Roku Jobs",
+      "role": "Backend Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.weareroku.com/jobs/senior-backend-engineer-distributed-systems-streaming-platform-cambridge-england-united-kingdom",
+      "source": "Other",
+      "description": "Senior Backend Engineer \u2014 Distributed Systems (Streaming Platform) ... Senior Software Engineer - Service mesh, Embassy Golf Links Business ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T20:11:17+00:00",
+      "fetched_at": "2026-07-14T01:06:54.686838+00:00"
+    },
+    {
+      "id": "5c566633e863",
+      "title": "Okta Data Engineer - 64893 - MANTECH",
+      "company": "64893 - MANTECH",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.mantech.com/en_US/careers/JobDetail/Okta-Data-Engineer/64893",
+      "source": "Other",
+      "description": "MANTECH seeks a motivated, career and customer-oriented Okta Data Engineer to join our team. This is a remote position.",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T20:03:00+00:00",
+      "fetched_at": "2026-07-14T01:06:54.686975+00:00"
+    },
+    {
+      "id": "1b50fb826da8",
+      "title": "AI Engineer | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.apexsystems.com/job/3041313_usa/ai-engineer",
+      "source": "Other",
+      "description": "AI Engineer . Apply. Job#: 3041313. Job ... $77 - $84 per hour. Similar Jobs. AI engineer \u00b7 AI Engineer \u00b7 AI Engineer \u00b7 AI Engineer \u00b7 AI/ ML Engineer ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T19:45:02+00:00",
+      "fetched_at": "2026-07-14T01:06:54.687109+00:00"
+    },
+    {
       "id": "5b34090d30eb",
       "title": "Full Stack Software Engineer , GTM Growth Engineering | OpenAI",
       "company": "OpenAI",
@@ -51,6 +276,21 @@
       "fetched_at": "2026-07-13T20:45:05.029233+00:00"
     },
     {
+      "id": "302e58827248",
+      "title": "Senior Software Engineer - Neighbor - Lever",
+      "company": "Neighbor",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.lever.co/neighbor/2c5542bf-90a1-4d22-93df-5c989b2da4f7?lever-source%5B%5D=jobs.wilshirelanecapital.com",
+      "source": "Lever",
+      "description": "Senior Software Engineer . Lehi, UT. Engineering /. Full-time /. On-site. apply for this job. At Neighbor, we're building the largest hyperlocal ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T19:27:03+00:00",
+      "fetched_at": "2026-07-14T01:06:54.687652+00:00"
+    },
+    {
       "id": "a17e8b7ff3a6",
       "title": "Software Engineer , Upstart Bank - Burlingame, California, United States",
       "company": "Burlingame, California, United States",
@@ -64,6 +304,21 @@
       "date": "2026-07-13",
       "timestamp": "2026-07-13T19:19:21+00:00",
       "fetched_at": "2026-07-13T20:45:05.105871+00:00"
+    },
+    {
+      "id": "f524792586f7",
+      "title": "Software Engineer , Upstart Bank - Burlingame, California, United States",
+      "company": "Burlingame, California, United States",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.upstart.com/jobs/software-engineer-upstart-bank-burlingame-california-united-states",
+      "source": "Other",
+      "description": "As a Software Engineer I on the Upstart Bank team, you will help design, build, and maintain reliable backend software that enables Upstart Bank to ...",
+      "date": "2026-07-13",
+      "timestamp": "2026-07-13T19:19:21+00:00",
+      "fetched_at": "2026-07-14T01:06:54.687883+00:00"
     },
     {
       "id": "419c953a5fc9",
