@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-07-14T12:57:10.921036+00:00",
-  "total_jobs": 5652,
+  "last_updated": "2026-07-14T16:57:43.893328+00:00",
+  "total_jobs": 5665,
   "stats": {
-    "total_companies": 2876,
-    "total_roles": 79,
+    "total_companies": 2884,
+    "total_roles": 80,
     "regions": {
-      "India": 3662,
-      "Philippines": 1167,
-      "Remote": 713,
+      "India": 3669,
+      "Philippines": 1171,
+      "Remote": 715,
       "Unknown": 135
     },
     "sources": {
-      "Other": 4432,
+      "Other": 4442,
       "Greenhouse": 281,
       "Workday": 254,
-      "LinkedIn": 219,
-      "Ashby": 172,
+      "LinkedIn": 220,
+      "Ashby": 174,
       "iCIMS": 74,
       "Breezy": 63,
       "Lever": 39,
@@ -36,6 +36,186 @@
   },
   "jobs": [
     {
+      "id": "4e6ea9adb96a",
+      "title": "Software Engineer , New Grad at Whatnot",
+      "company": "Whatnot",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.whatnot.com/bc8f8c7f-2c4c-4f43-a238-953568c101b8",
+      "source": "Other",
+      "description": "Software Engineer , New Grad. Early Career. New York, NY. Back Apply Now. Location. New York, NY. Location Type. Hybrid. Employment Type. Full Time ...",
+      "date": "2026-07-14",
+      "timestamp": "2026-07-14T16:05:58+00:00",
+      "fetched_at": "2026-07-14T16:57:43.866053+00:00"
+    },
+    {
+      "id": "0877ffa4153b",
+      "title": "Senior Software Engineer , Platform @ Unify - Jobs",
+      "company": "Unify",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/unify/b2e28807-8338-4fa1-9a02-8297ba2a8eec",
+      "source": "Ashby",
+      "description": "Senior Software Engineer , Platform. Location. San Francisco Office; New York Office. Employment Type. Full time. Location Type. Hybrid. Department.",
+      "date": "2026-07-14",
+      "timestamp": "2026-07-14T15:34:56+00:00",
+      "fetched_at": "2026-07-14T16:57:43.866157+00:00"
+    },
+    {
+      "id": "0ee152c77c30",
+      "title": "Full Stack Software Engineer in Multiple Locations - VTG",
+      "company": "VTG",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.vtgdefense.com/jobs/9338?lang=en-us",
+      "source": "Other",
+      "description": "Job Description. Overview. VTG is seeking an experienced, mid-career full-stack software engineer to lead technical execution on assigned projects ...",
+      "date": "2026-07-14",
+      "timestamp": "2026-07-14T15:29:57+00:00",
+      "fetched_at": "2026-07-14T16:57:43.775484+00:00"
+    },
+    {
+      "id": "bdd14c647ba0",
+      "title": "Data Engineer | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.apexsystems.com/job/3041305_usa/data-engineer",
+      "source": "Other",
+      "description": "Data Engineer . Apply. Job#: 3041305. Job Description: Data Engineer . Location: Eagan, Minnesota (Remote). Role Overview. This position is for a tech ...",
+      "date": "2026-07-14",
+      "timestamp": "2026-07-14T15:24:07+00:00",
+      "fetched_at": "2026-07-14T16:57:43.866412+00:00"
+    },
+    {
+      "id": "34b595bf36ab",
+      "title": "AI Software Engineer - Medius",
+      "company": "Medius",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://career.medius.com/jobs/8061681-ai-software-engineer",
+      "source": "Other",
+      "description": "AI Software Engineer . Great Team, Opportunity for Career & Professional Development, Collaborative and Meritocratic work culture and Supportive ...",
+      "date": "2026-07-14",
+      "timestamp": "2026-07-14T14:59:13+00:00",
+      "fetched_at": "2026-07-14T16:57:43.775666+00:00"
+    },
+    {
+      "id": "41f0e699e486",
+      "title": "Engineering and Product at Adobe | Noah Hoffman - LinkedIn",
+      "company": "Adobe",
+      "role": "Engineering and Product at Adobe | Noah Hoffman - LinkedIn",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/noahhoffman_senior-software-engineer-agentic-systems-activity-7482488949156773888-jX7K",
+      "source": "LinkedIn",
+      "description": "I'm hiring a Senior Software Engineer , Agentic Systems on my team at Adobe. Most \"AI agents\" you see are demos. I'm hiring someone to put them on ...",
+      "date": "2026-07-14",
+      "timestamp": "2026-07-14T14:56:47+00:00",
+      "fetched_at": "2026-07-14T16:57:43.776262+00:00"
+    },
+    {
+      "id": "e29001e3aa85",
+      "title": "Full Stack Engineer , Link - Stripe",
+      "company": "Stripe",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://stripe.com/jobs/listing/full-stack-engineer-link/8062305/apply",
+      "source": "Other",
+      "description": "... Jobs. Our opportunity \u00b7 Life at Stripe \u00b7 Benefits \u00b7 University \u00b7 See open roles \u00b7 Roles at Stripe \u00b7 Role details; Application. Full Stack Engineer , ...",
+      "date": "2026-07-14",
+      "timestamp": "2026-07-14T14:09:12+00:00",
+      "fetched_at": "2026-07-14T16:57:43.776424+00:00"
+    },
+    {
+      "id": "307c72eb5308",
+      "title": "Senior Software Engineer - SmartLight Analytics - Career Page",
+      "company": "SmartLight Analytics - Career Page",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://smartlightanalytics.applytojob.com/apply/E6mcdwFFsT/Senior-Software-Engineer",
+      "source": "Other",
+      "description": "As a Senior Software Engineer , you'll build and scale applications that process massive healthcare datasets and turn them into insights that make a ...",
+      "date": "2026-07-14",
+      "timestamp": "2026-07-14T14:06:16+00:00",
+      "fetched_at": "2026-07-14T16:57:43.776600+00:00"
+    },
+    {
+      "id": "df9a6562d243",
+      "title": "Data Engineer - 2884 - Slalom",
+      "company": "2884 - Slalom",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.slalom.com/en_US/careersmarketplace/JobDetail/Data-Engineer/2884",
+      "source": "Other",
+      "description": "As a Data Engineer at Slalom, you will work in collaborative teams to deliver innovative, scalable solutions across Amazon Web Services, Microsoft ...",
+      "date": "2026-07-14",
+      "timestamp": "2026-07-14T14:04:33+00:00",
+      "fetched_at": "2026-07-14T16:57:43.776780+00:00"
+    },
+    {
+      "id": "f20fc01ce7f3",
+      "title": "Azure Data Engineer Databricks, ADF & PySpark - 69283 - PRIMUS Global Services Inc.",
+      "company": "69283 - PRIMUS Global Services Inc.",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.dice.com/job-detail/f8f54026-44e9-43e3-a0c6-04d4a9643186",
+      "source": "Other",
+      "description": "18 hours ago - Azure Data Engineer Databricks, ADF & PySpark We have an immediate need for an Azure Data Engineer for our client located in Pleasa ...",
+      "date": "2026-07-14",
+      "timestamp": "2026-07-14T13:48:04+00:00",
+      "fetched_at": "2026-07-14T16:57:43.867363+00:00"
+    },
+    {
+      "id": "e16ef3f04c94",
+      "title": "Software Engineer - Intern (US) - Citadel Securities",
+      "company": "Intern (US) - Citadel Securities",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.citadelsecurities.com/careers/details/software-engineer-intern-us-2/",
+      "source": "Other",
+      "description": "Software Engineer \u2013 Intern (US). London. Personal Information. First Name. Last Name. Preferred Name. Email. Phone Number. Current or Most Recent ...",
+      "date": "2026-07-14",
+      "timestamp": "2026-07-14T11:29:38+00:00",
+      "fetched_at": "2026-07-14T16:57:43.867819+00:00"
+    },
+    {
+      "id": "0ff6090b9e2a",
+      "title": "AI/ ML Engineer Job Details - CNH Careers",
+      "company": "CNH Careers",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://join.cnh.com/job/AIML-Engineer/4308-en_US/",
+      "source": "Other",
+      "description": "The AI/ ML Engineer \u2013 Data Scientist is responsible for designing, developing, and deploying machine learning models, data pipelines, ...",
+      "date": "2026-07-14",
+      "timestamp": "2026-07-14T11:14:16+00:00",
+      "fetched_at": "2026-07-14T16:57:43.776920+00:00"
+    },
+    {
       "id": "658329fb7e66",
       "title": "Senior Software Engineer (Salesforce & AI) - Okta",
       "company": "Okta",
@@ -49,6 +229,21 @@
       "date": "2026-07-14",
       "timestamp": "2026-07-14T10:55:16+00:00",
       "fetched_at": "2026-07-14T12:57:10.718463+00:00"
+    },
+    {
+      "id": "7256cfe013bf",
+      "title": "Software Engineer @ Critical Loop - Jobs",
+      "company": "Criticalloop",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.ashbyhq.com/criticalloop/0711793f-970c-4b26-8ae1-4d6a493b91dd",
+      "source": "Ashby",
+      "description": "Software Engineer . Location. Remote. Employment Type. Full time. Location Type. Remote. Department. Technology. Compensation. $150K \u2013 $200K \u2022 Offers ...",
+      "date": "2026-07-14",
+      "timestamp": "2026-07-14T10:32:31+00:00",
+      "fetched_at": "2026-07-14T16:57:43.868406+00:00"
     },
     {
       "id": "0c85771bc229",
