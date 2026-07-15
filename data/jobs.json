@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-07-15T16:59:50.385021+00:00",
-  "total_jobs": 5733,
+  "last_updated": "2026-07-15T20:45:37.002733+00:00",
+  "total_jobs": 5746,
   "stats": {
-    "total_companies": 2911,
+    "total_companies": 2917,
     "total_roles": 80,
     "regions": {
-      "India": 3710,
-      "Philippines": 1184,
-      "Remote": 729,
+      "India": 3717,
+      "Philippines": 1188,
+      "Remote": 731,
       "Unknown": 135
     },
     "sources": {
-      "Other": 4493,
-      "Greenhouse": 285,
-      "Workday": 258,
-      "LinkedIn": 221,
+      "Other": 4503,
+      "Greenhouse": 286,
+      "Workday": 259,
+      "LinkedIn": 222,
       "Ashby": 177,
       "iCIMS": 74,
       "Breezy": 64,
@@ -35,6 +35,186 @@
     }
   },
   "jobs": [
+    {
+      "id": "fb08bd3bf0dd",
+      "title": "Software Engineer II - AI in United States | McGraw Hill LLC.",
+      "company": "AI in United States | McGraw Hill LLC.",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.mheducation.com/jobs/6753?lang=en-us&iis=Job+Board&iisn=LinkedIn",
+      "source": "Other",
+      "description": "McGraw Hill is hiring a Software Engineer II - AI in United States. Review all of the job details and apply today!",
+      "date": "2026-07-15",
+      "timestamp": "2026-07-15T20:13:16+00:00",
+      "fetched_at": "2026-07-15T20:45:36.975956+00:00"
+    },
+    {
+      "id": "594e939f132f",
+      "title": "Senior Software Engineer , Infrastructure, CoreOS Release, Product Engineering - Google",
+      "company": "Google",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/89951532727837382-senior-software-engineer-infrastructure-coreos-release-product-engineering?page=78",
+      "source": "Other",
+      "description": "... software engineer , you will work on a specific project critical ... Senior Software Engineer , Infrastructure, CoreOS Release, Product Engineering.",
+      "date": "2026-07-15",
+      "timestamp": "2026-07-15T19:57:52+00:00",
+      "fetched_at": "2026-07-15T20:45:36.976345+00:00"
+    },
+    {
+      "id": "4650d5143b16",
+      "title": "Job Application for Senior Full Stack Engineer at Roadie - Greenhouse",
+      "company": "Roadie",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/roadie/jobs/8634807002",
+      "source": "Greenhouse",
+      "description": "Senior Full Stack Engineer . REMOTE. Apply. Roadie, a UPS company, is ... We are looking for a Senior Full Stack Software Engineer that will help ...",
+      "date": "2026-07-15",
+      "timestamp": "2026-07-15T19:50:45+00:00",
+      "fetched_at": "2026-07-15T20:45:36.976477+00:00"
+    },
+    {
+      "id": "7e424cf4f1a4",
+      "title": "Senior Software Engineer , Warren, Michigan | General Motors Careers",
+      "company": "General Motors Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://search-careers.gm.com/en/jobs/jr-202615181/senior-software-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer . Save Saved. Warren, Michigan. Software Engineer - Infotainment Platform Certification Engineer. Save Saved. Mountain View ...",
+      "date": "2026-07-15",
+      "timestamp": "2026-07-15T19:08:05+00:00",
+      "fetched_at": "2026-07-15T20:45:36.976627+00:00"
+    },
+    {
+      "id": "2b8e94281e3b",
+      "title": "Senior Lead Machine Learning Engineer - Capital One Career",
+      "company": "Capital One Career",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.capitalonecareers.com/job/mclean/senior-lead-machine-learning-engineer/1732/97837229792",
+      "source": "Other",
+      "description": "Senior Lead Machine Learning Engineer . McLean, Virginia Pin ... Lead Software Engineer (Back-End) - Intelligent Foundations and Experiences (IFX).",
+      "date": "2026-07-15",
+      "timestamp": "2026-07-15T18:47:19+00:00",
+      "fetched_at": "2026-07-15T20:45:36.913912+00:00"
+    },
+    {
+      "id": "e79ea3224a63",
+      "title": "At DevCon 6, Palantir Software Engineer Ankit Shankar unveils the Agent Stack, a set of ... - LinkedIn",
+      "company": "LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/palantir-technologies_at-devcon-6-palantir-software-engineer-ankit-activity-7483180033675509760-Uprt",
+      "source": "LinkedIn",
+      "description": "At DevCon 6, Palantir Software Engineer Ankit Shankar unveils the Agent Stack, a set of products to help you build production agents for the ...",
+      "date": "2026-07-15",
+      "timestamp": "2026-07-15T18:44:44+00:00",
+      "fetched_at": "2026-07-15T20:45:36.914360+00:00"
+    },
+    {
+      "id": "b4fb8bcc1914",
+      "title": "U.S. Data Engineer Job Details | GRIFOLS, S.A.",
+      "company": "GRIFOLS, S.A.",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobsearch.grifols.com/job/NC-RTP-U_S_-Data-Engineer-CA/1415002233/",
+      "source": "Other",
+      "description": "The U.S. Data Engineer designs, builds, and maintains data pipelines and transformation logic that support analytics, reporting, and operational ...",
+      "date": "2026-07-15",
+      "timestamp": "2026-07-15T18:28:40+00:00",
+      "fetched_at": "2026-07-15T20:45:36.914522+00:00"
+    },
+    {
+      "id": "c2555a04661e",
+      "title": "Software Engineer II - AV Labs, Sunnyvale, United States",
+      "company": "AV Labs, Sunnyvale, United States",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.uber.com/en/jobs/300477/",
+      "source": "Other",
+      "description": "Software Engineer II - AV Labs. Job removed. Location: Sunnyvale ... Senior Software Engineer - Maps & Localization - AV Labs. Job removed.",
+      "date": "2026-07-15",
+      "timestamp": "2026-07-15T18:08:34+00:00",
+      "fetched_at": "2026-07-15T20:45:36.914647+00:00"
+    },
+    {
+      "id": "a4844789b03d",
+      "title": "Software Engineer - Myworkdayjobs.com",
+      "company": "Brunswick",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Software-Engineer_JR-050827",
+      "source": "Workday",
+      "description": "Software Engineer \u00b7 Experience developing Android applications using Kotlin and/or Java. \u00b7 Experience with Android SDK and modern Android development ...",
+      "date": "2026-07-15",
+      "timestamp": "2026-07-15T17:52:44+00:00",
+      "fetched_at": "2026-07-15T20:45:36.914734+00:00"
+    },
+    {
+      "id": "a78e5add6ad8",
+      "title": "Machine Learning Engineer - Platforms - MD Anderson Cancer Center Careers",
+      "company": "Platforms - MD Anderson Cancer Center Careers",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://mdanderson.referrals.selectminds.com/jobs/machine-learning-engineer-platforms-76336",
+      "source": "Other",
+      "description": "As a Machine Learning Engineer \u2013 Platforms within the Data Impact & Governance organization, you will shape and scale the enterprise AI/ML...",
+      "date": "2026-07-15",
+      "timestamp": "2026-07-15T16:52:35+00:00",
+      "fetched_at": "2026-07-15T20:45:36.915252+00:00"
+    },
+    {
+      "id": "aad6588e0c0c",
+      "title": "Senior Data Engineer , Stellantis Job #2019686, Auburn Hills, MI",
+      "company": "Unknown Company",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.stellantis.com/job/23595476/senior-data-engineer-auburn-hills-mi/",
+      "source": "Other",
+      "description": "Discover Senior Data Engineer and other Supply Chain jobs at Stellantis in Auburn Hills, MI, US, and apply online today!",
+      "date": "2026-07-15",
+      "timestamp": "2026-07-15T16:41:25+00:00",
+      "fetched_at": "2026-07-15T20:45:36.915413+00:00"
+    },
+    {
+      "id": "7c52fc88439b",
+      "title": "Senior Software Engineer (Remote) - Cyclops - Career Page - JazzHR",
+      "company": "Cyclops - Career Page - JazzHR",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://cyclopsio.applytojob.com/apply/wdhrj3htaj/Senior-Software-Engineer-Remote",
+      "source": "Other",
+      "description": "Role Overview. We are looking for a Senior Software Engineer with a strong backend background, comfortable in a product-driven environment with ...",
+      "date": "2026-07-15",
+      "timestamp": "2026-07-15T16:33:06+00:00",
+      "fetched_at": "2026-07-15T20:45:36.915580+00:00"
+    },
     {
       "id": "5e1b33dbba56",
       "title": "Agent / Applied AI Engineer at Rootstock Software",
@@ -124,6 +304,21 @@
       "date": "2026-07-15",
       "timestamp": "2026-07-15T14:59:44+00:00",
       "fetched_at": "2026-07-15T16:59:50.235023+00:00"
+    },
+    {
+      "id": "e4c913e6af91",
+      "title": "Senior Software Engineer in United States | GitHub, Inc.",
+      "company": "GitHub, Inc.",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.github.careers/careers-home/jobs/5585",
+      "source": "Other",
+      "description": "GitHub Careers Home is hiring a Senior Software Engineer in United States. Review all of the job details and apply today!",
+      "date": "2026-07-15",
+      "timestamp": "2026-07-15T13:53:16+00:00",
+      "fetched_at": "2026-07-15T20:45:36.978836+00:00"
     },
     {
       "id": "64a2c39c99a4",
