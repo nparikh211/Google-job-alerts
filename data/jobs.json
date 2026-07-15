@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-07-14T20:46:30.665144+00:00",
-  "total_jobs": 5675,
+  "last_updated": "2026-07-15T01:04:16.719300+00:00",
+  "total_jobs": 5688,
   "stats": {
-    "total_companies": 2890,
+    "total_companies": 2896,
     "total_roles": 80,
     "regions": {
-      "India": 3673,
-      "Philippines": 1173,
+      "India": 3681,
+      "Philippines": 1178,
       "Remote": 719,
       "Unknown": 135
     },
     "sources": {
-      "Other": 4448,
+      "Other": 4458,
       "Greenhouse": 283,
       "Workday": 256,
       "LinkedIn": 220,
-      "Ashby": 174,
+      "Ashby": 176,
       "iCIMS": 74,
       "Breezy": 63,
-      "Lever": 39,
+      "Lever": 40,
       "Workable": 36,
       "SmartRecruiters": 33,
       "Indeed": 24,
@@ -36,6 +36,171 @@
   },
   "jobs": [
     {
+      "id": "c23c78900a64",
+      "title": "What Is a Site Reliability Engineer ? - Dash0",
+      "company": "Is a Site Reliability Engineer ?",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.dash0.com/faq/what-is-a-site-reliability-engineer",
+      "source": "Other",
+      "description": "A site reliability engineer (SRE) is a software engineer who owns the reliability of production systems and treats that reliability as a software ...",
+      "date": "2026-07-14",
+      "timestamp": "2026-07-14T23:22:52+00:00",
+      "fetched_at": "2026-07-15T01:04:16.528199+00:00"
+    },
+    {
+      "id": "db0a2a48eebb",
+      "title": "AI Engineer - Candidate Experience site Careers",
+      "company": "Candidate Experience site Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301843",
+      "source": "Other",
+      "description": "AI Engineer . New York, NY, United States. Trending. Job Description ... The AI/ ML Engineer will lead the design and development of production ...",
+      "date": "2026-07-14",
+      "timestamp": "2026-07-14T22:07:13+00:00",
+      "fetched_at": "2026-07-15T01:04:16.528744+00:00"
+    },
+    {
+      "id": "c72dd74abeff",
+      "title": "Software Engineer , Backend @ Mercor - Jobs",
+      "company": "Mercor",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/mercor/a0afa08a-5448-4432-bc61-a5fe3a73b4de",
+      "source": "Ashby",
+      "description": "Software Engineer , Backend. Location. San Francisco. Employment Type. Full time. Location Type. On-site. Department. EngineeringCore Engineering ...",
+      "date": "2026-07-14",
+      "timestamp": "2026-07-14T21:59:18+00:00",
+      "fetched_at": "2026-07-15T01:04:16.694141+00:00"
+    },
+    {
+      "id": "f7baa5021b63",
+      "title": "AI DevOps Engineer - Redwood City, California, United States",
+      "company": "Redwood City, California, United States",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.equinix.com/jobs/ai-devops-engineer-redwood-city-california-united-states-chicago-illinois",
+      "source": "Other",
+      "description": "AI DevOps Engineer ... Who are we? Equinix is the world's digital infrastructure company\u00ae, shortening the path to connectivity to enable the innovations ...",
+      "date": "2026-07-14",
+      "timestamp": "2026-07-14T21:50:19+00:00",
+      "fetched_at": "2026-07-15T01:04:16.694452+00:00"
+    },
+    {
+      "id": "440dfc8d1f44",
+      "title": "Software Engineer , AI Platform @ Notion - Jobs",
+      "company": "Notion",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/notion/a9d4a192-d31c-48d2-8156-e2a75d98eec1",
+      "source": "Ashby",
+      "description": "... Software Engineer - Experience with applied AI product development (prompting, evals, model integrations, or quality measurement). - You've built ...",
+      "date": "2026-07-14",
+      "timestamp": "2026-07-14T21:38:19+00:00",
+      "fetched_at": "2026-07-15T01:04:16.694565+00:00"
+    },
+    {
+      "id": "9faacc1478ec",
+      "title": "Machine Learning Engineer II | Careers - Abnormal AI",
+      "company": "Careers - Abnormal AI",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.abnormal.ai/careers/jobs/7612697003",
+      "source": "Other",
+      "description": "About The Role. Abnormal AI is looking for a Machine Learning Engineer to join the Message Detection - Attack Detection team.",
+      "date": "2026-07-14",
+      "timestamp": "2026-07-14T21:15:50+00:00",
+      "fetched_at": "2026-07-15T01:04:16.694700+00:00"
+    },
+    {
+      "id": "6b2f55afc0a0",
+      "title": "Software Engineer - MCV Main Campus, Virginia, United States - VCU Jobs",
+      "company": "MCV Main Campus, Virginia, United States - VCU Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://vcujobs.com/jobs/software-engineer-mcv-main-campus-virginia-united-states",
+      "source": "Other",
+      "description": "Software Engineer \u00b7 Advertising Summary: Virginia Commonwealth University (VCU) School of Medicine is a premier academic medical center located in the ...",
+      "date": "2026-07-14",
+      "timestamp": "2026-07-14T20:35:08+00:00",
+      "fetched_at": "2026-07-15T01:04:16.529009+00:00"
+    },
+    {
+      "id": "35ec7b7780db",
+      "title": "Full Stack Software Engineer - Camera & Photos Tools & AI Team - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200672256-0836/full-stack-software-engineer-camera-photos-tools-ai-team?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Full Stack Software Engineer - Camera & Photos Tools & AI Team job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-07-14",
+      "timestamp": "2026-07-14T19:59:08+00:00",
+      "fetched_at": "2026-07-15T01:04:16.529377+00:00"
+    },
+    {
+      "id": "c978f0f74789",
+      "title": "Senior Software Engineer",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.emergentsoftware.net/o/senior-software-engineer-1",
+      "source": "Other",
+      "description": "Our client is seeking a Senior Software Engineer to join their product engineering team and play a key role in modernizing their platform architecture ...",
+      "date": "2026-07-14",
+      "timestamp": "2026-07-14T19:30:10+00:00",
+      "fetched_at": "2026-07-15T01:04:16.529521+00:00"
+    },
+    {
+      "id": "dd0f0deaff2b",
+      "title": "Aledade - Senior Software Engineer I- Data & Insights Engineering - Lever",
+      "company": "Aledade",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.lever.co/aledade/3eafe371-4bee-492f-af5c-fd2e3f71b8da",
+      "source": "Lever",
+      "description": "As a Senior Software Engineer I at Aledade, we maintain, improve, and expand our web application and data pipelines. We're looking for engineers ...",
+      "date": "2026-07-14",
+      "timestamp": "2026-07-14T18:44:41+00:00",
+      "fetched_at": "2026-07-15T01:04:16.529912+00:00"
+    },
+    {
+      "id": "32323ff1136d",
+      "title": "Data Engineer Job Details - Create Your Own Career",
+      "company": "Create Your Own Career",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobsearch.createyourowncareer.com/PRH_UK/job/Data-Engineer-SW11-7BW/1414830633/",
+      "source": "Other",
+      "description": "Data Engineer . Job Description. We have a new opportunity for an experienced Data Engineer to join us on a permanent basis in London. This role is ...",
+      "date": "2026-07-14",
+      "timestamp": "2026-07-14T18:44:24+00:00",
+      "fetched_at": "2026-07-15T01:04:16.530112+00:00"
+    },
+    {
       "id": "f6686c9828ae",
       "title": "Staff Software Engineer At On",
       "company": "Unknown Company",
@@ -49,6 +214,21 @@
       "date": "2026-07-14",
       "timestamp": "2026-07-14T18:34:54+00:00",
       "fetched_at": "2026-07-14T20:46:30.639901+00:00"
+    },
+    {
+      "id": "e77d6094fa35",
+      "title": "Senior Frontend Engineer | Dynamo AI",
+      "company": "Dynamo AI",
+      "role": "Frontend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/dynamo-ai/jobs/acec2e98-4df0-47e5-8302-bdbeacd42103",
+      "source": "Other",
+      "description": "Senior Frontend Engineer . About Dynamo AI. Dynamo AI is the enterprise platform for secure, compliant generative and agentic AI. We help regulated ...",
+      "date": "2026-07-14",
+      "timestamp": "2026-07-14T18:17:15+00:00",
+      "fetched_at": "2026-07-15T01:04:16.530385+00:00"
     },
     {
       "id": "f0850ff00c2d",
@@ -94,6 +274,21 @@
       "date": "2026-07-14",
       "timestamp": "2026-07-14T16:59:08+00:00",
       "fetched_at": "2026-07-14T20:46:30.640556+00:00"
+    },
+    {
+      "id": "bca7cd57968b",
+      "title": "Generative AI Platform Engineer | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "Platform Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.apexsystems.com/job/3041890_usa/generative-ai-platform-engineer",
+      "source": "Other",
+      "description": "$68 - $73 per hour. Similar Jobs. Generative AI Engineer \u00b7 AI Operations ... Senior Software Engineer \u2013 Generative AI Innovation. Connect with our ...",
+      "date": "2026-07-14",
+      "timestamp": "2026-07-14T16:50:55+00:00",
+      "fetched_at": "2026-07-15T01:04:16.696762+00:00"
     },
     {
       "id": "8fc569deb75a",
