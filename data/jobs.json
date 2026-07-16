@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-07-16T06:07:21.001211+00:00",
-  "total_jobs": 5777,
+  "last_updated": "2026-07-16T09:50:42.157887+00:00",
+  "total_jobs": 5784,
   "stats": {
-    "total_companies": 2926,
+    "total_companies": 2931,
     "total_roles": 80,
     "regions": {
-      "India": 3740,
-      "Philippines": 1193,
-      "Remote": 734,
+      "India": 3744,
+      "Philippines": 1194,
+      "Remote": 736,
       "Unknown": 135
     },
     "sources": {
-      "Other": 4530,
+      "Other": 4534,
       "Greenhouse": 287,
-      "Workday": 259,
-      "LinkedIn": 223,
+      "Workday": 260,
+      "LinkedIn": 225,
       "Ashby": 178,
       "iCIMS": 74,
       "Breezy": 64,
@@ -35,6 +35,36 @@
     }
   },
   "jobs": [
+    {
+      "id": "085e4111f7c7",
+      "title": "Senior Data Engineer , Platform, Remote - US | DraftKings Careers",
+      "company": "US | DraftKings Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.draftkings.com/jobs/jr14615/senior-data-engineer-platform/",
+      "source": "Other",
+      "description": "Senior Data Engineer , Platform. Remote - US. Engineering; Full time. a man and woman looking at a computer screen. About DraftKings. At DraftKings, AI ...",
+      "date": "2026-07-16",
+      "timestamp": "2026-07-16T08:21:12+00:00",
+      "fetched_at": "2026-07-16T09:50:41.952011+00:00"
+    },
+    {
+      "id": "f4c57f7ceb8f",
+      "title": "Apply To Trainee Software Engineer - 2027 With Recruit CRM",
+      "company": "2027 With Recruit CRM",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.recruitcrm.io/17841115307470061803BaU",
+      "source": "Other",
+      "description": "Trainee Software Engineer - 2027. Engineering. Full Time. Apply Now. Company Overview: Recruit CRM is one of the very few fully bootstrapped remote ...",
+      "date": "2026-07-16",
+      "timestamp": "2026-07-16T07:21:31+00:00",
+      "fetched_at": "2026-07-16T09:50:41.952229+00:00"
+    },
     {
       "id": "99b964079efe",
       "title": "We're Hiring a WordPress Software Engineer - Equalize Digital",
@@ -66,6 +96,51 @@
       "fetched_at": "2026-07-16T06:07:20.877651+00:00"
     },
     {
+      "id": "e8c9d1fa51cd",
+      "title": "Software Engineer .I-2 - Myworkdayjobs.com",
+      "company": "Zebra",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://zebra.wd501.myworkdayjobs.com/en-GB/Zebra_careers/job/Software-EngineerI-2_JR102275",
+      "source": "Workday",
+      "description": "Software Engineer .I-2. Apply. locations: Bengaluru, India. time type: Full time. posted on: Posted Yesterday. job requisition id: JR102275.",
+      "date": "2026-07-16",
+      "timestamp": "2026-07-16T05:04:59+00:00",
+      "fetched_at": "2026-07-16T09:50:42.131974+00:00"
+    },
+    {
+      "id": "01a40c2144ae",
+      "title": "Became a Software Engineer at Google.. | Ashish Kumar Sajwal | 54 comments - LinkedIn",
+      "company": "Google..",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/ashish-kumar-sajwal_became-a-software-engineer-at-google-activity-7483165780411371520-7ve-",
+      "source": "LinkedIn",
+      "description": "Became a Software Engineer at Google.. | 54 comments on LinkedIn.",
+      "date": "2026-07-16",
+      "timestamp": "2026-07-16T04:44:06+00:00",
+      "fetched_at": "2026-07-16T09:50:41.952920+00:00"
+    },
+    {
+      "id": "ca5d59d994f2",
+      "title": "Software Engineer - 64931 - MANTECH",
+      "company": "64931 - MANTECH",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mantech.com/en_US/careers/JobDetail/Software-Engineer/64931",
+      "source": "Other",
+      "description": "MANTECH seeks a motivated, career and customer-oriented Software Engineer to join our team in Fort Meade, MD. The Software Engineer will leverage ...",
+      "date": "2026-07-16",
+      "timestamp": "2026-07-16T04:29:43+00:00",
+      "fetched_at": "2026-07-16T09:50:41.953076+00:00"
+    },
+    {
       "id": "833ea8ed9ee6",
       "title": "Staff Software Engineer , Demand Bidder, Ad Serving Platform - New York, United States",
       "company": "New York, United States",
@@ -94,6 +169,21 @@
       "date": "2026-07-16",
       "timestamp": "2026-07-16T04:00:13+00:00",
       "fetched_at": "2026-07-16T06:07:20.878101+00:00"
+    },
+    {
+      "id": "7d2b809b205b",
+      "title": "Actually - no. This is why every and any sane software engineer uses 1) Utc timestamps (no ...",
+      "company": "Actually",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://x.com/GergelyOrosz/status/2077359208832393367",
+      "source": "Other",
+      "description": "Gergely Orosz (@GergelyOrosz). 86 replies. Actually - no. This is why every and any sane software engineer uses 1) Utc timestamps (no daylight ...",
+      "date": "2026-07-16",
+      "timestamp": "2026-07-16T02:28:20+00:00",
+      "fetched_at": "2026-07-16T09:50:41.953709+00:00"
     },
     {
       "id": "429501c8a2d1",
@@ -139,6 +229,21 @@
       "date": "2026-07-16",
       "timestamp": "2026-07-16T01:12:06+00:00",
       "fetched_at": "2026-07-16T06:07:20.878468+00:00"
+    },
+    {
+      "id": "36c2a5baddfc",
+      "title": "Glydways hiring Software Engineer - XIL Platform in United States | LinkedIn",
+      "company": "XIL Platform in United States | LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/software-engineer-xil-platform-at-glydways-4441269755",
+      "source": "LinkedIn",
+      "description": "Senior Software Engineer \u2013 Simulation and Virtualization. NVIDIA. Texas ... Platform Engineer , macOS. Workbrew. United States 2 weeks ago.",
+      "date": "2026-07-16",
+      "timestamp": "2026-07-16T00:50:48+00:00",
+      "fetched_at": "2026-07-16T09:50:42.133493+00:00"
     },
     {
       "id": "4a76ce1393e1",
