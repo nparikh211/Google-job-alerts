@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-07-16T01:13:10.613928+00:00",
-  "total_jobs": 5765,
+  "last_updated": "2026-07-16T06:07:21.001211+00:00",
+  "total_jobs": 5777,
   "stats": {
-    "total_companies": 2922,
+    "total_companies": 2926,
     "total_roles": 80,
     "regions": {
-      "India": 3732,
-      "Philippines": 1191,
-      "Remote": 732,
+      "India": 3740,
+      "Philippines": 1193,
+      "Remote": 734,
       "Unknown": 135
     },
     "sources": {
-      "Other": 4521,
+      "Other": 4530,
       "Greenhouse": 287,
       "Workday": 259,
-      "LinkedIn": 222,
-      "Ashby": 177,
+      "LinkedIn": 223,
+      "Ashby": 178,
       "iCIMS": 74,
       "Breezy": 64,
       "Lever": 41,
-      "Workable": 36,
+      "Workable": 37,
       "SmartRecruiters": 35,
       "Indeed": 24,
       "Recruitee": 6,
@@ -31,10 +31,130 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-07-15"
+      "latest": "2026-07-16"
     }
   },
   "jobs": [
+    {
+      "id": "99b964079efe",
+      "title": "We're Hiring a WordPress Software Engineer - Equalize Digital",
+      "company": "Equalize Digital",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://equalizedigital.com/hiring-wordpress-software-engineer/",
+      "source": "Other",
+      "description": "We're hiring a remote WordPress Software Engineer to help build Accessibility Checker and create software that makes the web more accessible.",
+      "date": "2026-07-16",
+      "timestamp": "2026-07-16T05:48:18+00:00",
+      "fetched_at": "2026-07-16T06:07:20.877467+00:00"
+    },
+    {
+      "id": "d56e433a3602",
+      "title": "Data Engineer - David Protein - Application - Jobs By Workable",
+      "company": "David Protein",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://apply.workable.com/david-protein/j/9352584CBE/apply/",
+      "source": "Workable",
+      "description": "Data Engineer . On-siteFinance. New York, New York, United States. OverviewApplication. Autofill application. Save time by importing your resume in one ...",
+      "date": "2026-07-16",
+      "timestamp": "2026-07-16T05:32:18+00:00",
+      "fetched_at": "2026-07-16T06:07:20.877651+00:00"
+    },
+    {
+      "id": "833ea8ed9ee6",
+      "title": "Staff Software Engineer , Demand Bidder, Ad Serving Platform - New York, United States",
+      "company": "New York, United States",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.weareroku.com/jobs/staff-software-engineer-demand-bidder-ad-serving-platform-new-york-united-states",
+      "source": "Other",
+      "description": "Senior Data Engineer , Embassy Golf Links Business Park, Domlur ... Senior Software Engineer , AD Serving, Oxford Road, Manchester, England.",
+      "date": "2026-07-16",
+      "timestamp": "2026-07-16T04:24:32+00:00",
+      "fetched_at": "2026-07-16T06:07:20.877949+00:00"
+    },
+    {
+      "id": "ad02adee0f8c",
+      "title": "Senior Software Engineer in Endicott, New York, United States - BAE Systems",
+      "company": "BAE Systems",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.baesystems.com/global/en/job/127327BR/Senior-Software-Engineer",
+      "source": "Other",
+      "description": "We are looking for a Senior Software Engineer to participate in Electronic Systems development programs at any of the locations listed above. As a ...",
+      "date": "2026-07-16",
+      "timestamp": "2026-07-16T04:00:13+00:00",
+      "fetched_at": "2026-07-16T06:07:20.878101+00:00"
+    },
+    {
+      "id": "429501c8a2d1",
+      "title": "Software Engineer Professional job in McLean, VA - Freddie Mac Careers",
+      "company": "Freddie Mac Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.freddiemac.com/us/en/job/JR17414/Software-Engineer-Professional",
+      "source": "Other",
+      "description": "Software Engineer Professional. Apply Now. Share via email; Share ... Senior Software Engineer . Location McLean, VA Category Technology Job Id ...",
+      "date": "2026-07-16",
+      "timestamp": "2026-07-16T02:25:43+00:00",
+      "fetched_at": "2026-07-16T06:07:20.878249+00:00"
+    },
+    {
+      "id": "8a8c48d59086",
+      "title": "Applied AI Engineer @ OpenRouter - Jobs",
+      "company": "Openrouter",
+      "role": "AI Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.ashbyhq.com/openrouter/407f71b5-4b1f-4666-91bd-394f3c26f19d",
+      "source": "Ashby",
+      "description": "Applied AI Engineer . Location. Remote (US). Employment Type. Full time. Location Type. Remote. Department. Engineering. OverviewApplication.",
+      "date": "2026-07-16",
+      "timestamp": "2026-07-16T02:01:45+00:00",
+      "fetched_at": "2026-07-16T06:07:20.878339+00:00"
+    },
+    {
+      "id": "3a28b4720e75",
+      "title": "Platform & Data Engineer - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200672605-0836/platform-data-engineer",
+      "source": "Other",
+      "description": "Apply for a Platform & Data Engineer job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-07-16",
+      "timestamp": "2026-07-16T01:12:06+00:00",
+      "fetched_at": "2026-07-16T06:07:20.878468+00:00"
+    },
+    {
+      "id": "4a76ce1393e1",
+      "title": "Senior AI Engineer | Signify Technology",
+      "company": "Signify Technology",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.signifytechnology.com/jobs/Senior-AI-Engineer-21088/",
+      "source": "Other",
+      "description": "Senior AI Engineer . Job Type: Contract. Contract Length: 6+ Months ... Check out our DE&I page here. Similar jobs. DevOps Engineer - Contract.",
+      "date": "2026-07-16",
+      "timestamp": "2026-07-16T00:28:54+00:00",
+      "fetched_at": "2026-07-16T06:07:20.878648+00:00"
+    },
     {
       "id": "6bb68b60530c",
       "title": "Job Application for Software Engineer , Games at The New York Times - Greenhouse",
@@ -49,6 +169,21 @@
       "date": "2026-07-15",
       "timestamp": "2026-07-15T23:34:04+00:00",
       "fetched_at": "2026-07-16T01:13:10.586933+00:00"
+    },
+    {
+      "id": "2db8fae554a5",
+      "title": "Senior Software Engineer in Vernon Hills, Illinois, United States | Engenharia at STERIS Corporation",
+      "company": "STERIS Corporation",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.steris.com/pt/pt/job/SCZSCCUS55220EXTERNALPTPT/Senior-Software-Engineer",
+      "source": "Other",
+      "description": "Position Summary. The Senior Software Engineer will be responsible for the design, documentation, development, and testing of new and existing ...",
+      "date": "2026-07-15",
+      "timestamp": "2026-07-15T23:00:26+00:00",
+      "fetched_at": "2026-07-16T06:07:20.878801+00:00"
     },
     {
       "id": "35e84db23d70",
@@ -81,6 +216,21 @@
       "fetched_at": "2026-07-16T01:13:10.453814+00:00"
     },
     {
+      "id": "47874ea64ee3",
+      "title": "Lead Data Engineer at Capital One",
+      "company": "Capital One",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.capitalonecareers.com/job/chicago/lead-data-engineer/1732/97847092480",
+      "source": "Other",
+      "description": "Lead Data Engineer . Chicago, Illinois | McLean, Virginia Pin job ... Lead Software Engineer , Full stack. McLean, Virginia \u00b7 97847092784. Senior ...",
+      "date": "2026-07-15",
+      "timestamp": "2026-07-15T22:43:11+00:00",
+      "fetched_at": "2026-07-16T06:07:20.973562+00:00"
+    },
+    {
       "id": "bcaeb1e3cdc2",
       "title": "Associate Machine Learning AI Engineer | Ensono",
       "company": "Ensono",
@@ -111,6 +261,21 @@
       "fetched_at": "2026-07-16T01:13:10.454132+00:00"
     },
     {
+      "id": "453fccdd2258",
+      "title": "Data Engineer in Cartersville, GA, United States - Qcells Careers",
+      "company": "Qcells Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.qcells.com/jobs/18000385-data-engineer",
+      "source": "Other",
+      "description": "Data Engineer \u00b7 Bachelor's degree in a quantitative discipline (e.g. Computer Science, Statistics, Industrial Engineering, Management Information ...",
+      "date": "2026-07-15",
+      "timestamp": "2026-07-15T22:15:06+00:00",
+      "fetched_at": "2026-07-16T06:07:20.973942+00:00"
+    },
+    {
       "id": "458cee09c844",
       "title": "Senior Systems Software Engineer , Franklin, WI Corporate | Northwestern Mutual Careers",
       "company": "Northwestern Mutual Careers",
@@ -139,6 +304,21 @@
       "date": "2026-07-15",
       "timestamp": "2026-07-15T21:53:56+00:00",
       "fetched_at": "2026-07-16T01:13:10.454436+00:00"
+    },
+    {
+      "id": "c6f89c76a816",
+      "title": "Applied Resource Group hiring Senior Software Engineer in Atlanta Metropolitan Area",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/senior-software-engineer-at-applied-resource-group-4438097716",
+      "source": "LinkedIn",
+      "description": "Posted 3:15:37 PM. A well-established global technology company is seeking a Senior Software Engineer to join its\u2026See this and similar jobs on ...",
+      "date": "2026-07-15",
+      "timestamp": "2026-07-15T21:38:01+00:00",
+      "fetched_at": "2026-07-16T06:07:20.879878+00:00"
     },
     {
       "id": "20cacf16b138",
