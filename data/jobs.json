@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-07-16T13:08:36.272608+00:00",
-  "total_jobs": 5792,
+  "last_updated": "2026-07-16T16:57:45.995720+00:00",
+  "total_jobs": 5803,
   "stats": {
-    "total_companies": 2936,
+    "total_companies": 2940,
     "total_roles": 80,
     "regions": {
-      "India": 3751,
+      "India": 3761,
       "Philippines": 1195,
-      "Remote": 736,
+      "Remote": 737,
       "Unknown": 135
     },
     "sources": {
-      "Other": 4542,
+      "Other": 4553,
       "Greenhouse": 287,
       "Workday": 260,
       "LinkedIn": 225,
@@ -36,6 +36,141 @@
   },
   "jobs": [
     {
+      "id": "cf174695fd87",
+      "title": "Software Engineer - Limited Tenure - Hybrid at Mayo Clinic",
+      "company": "Mayo Clinic",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.mayoclinic.org/job/rochester/software-engineer-limited-tenure-hybrid/33647/97876867408",
+      "source": "Other",
+      "description": "Software Engineer - Limited Tenure - Hybrid. Job ID 387108 Date posted 07/16/2026 Job Expiration Date 07/30/2026. Rochester, MN; Full Time; Remote: No.",
+      "date": "2026-07-16",
+      "timestamp": "2026-07-16T16:24:33+00:00",
+      "fetched_at": "2026-07-16T16:57:45.968297+00:00"
+    },
+    {
+      "id": "d1a55a9c64a2",
+      "title": "Data Engineer - Finance Technology Solutions at TARGET",
+      "company": "TARGET",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://corporate.target.com/jobs/w48/66/data-engineer-finance-technology-solutions",
+      "source": "Other",
+      "description": "Position Overview: As a Data Engineer , you will develop and maintain scalable data solutions that support Target's financial systems and enterprise ...",
+      "date": "2026-07-16",
+      "timestamp": "2026-07-16T16:09:23+00:00",
+      "fetched_at": "2026-07-16T16:57:45.883418+00:00"
+    },
+    {
+      "id": "2d3237a8a7e9",
+      "title": "AI/ ML Engineer | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.apexsystems.com/job/3042434_usa/aiml-engineer",
+      "source": "Other",
+      "description": "Job#: 3042434. Job Description: AI/ ML Engineer . Hybrid in Dallas, TX or Tampa, FL. Overview. We are seeking a passionate and hands-on AI/ ML ...",
+      "date": "2026-07-16",
+      "timestamp": "2026-07-16T15:46:09+00:00",
+      "fetched_at": "2026-07-16T16:57:45.883978+00:00"
+    },
+    {
+      "id": "9d89e25ab38d",
+      "title": "Software Engineer - Chantilly, Virginia, United States - 42237 - Jacobs",
+      "company": "Chantilly, Virginia, United States - 42237 - Jacobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.jacobs.com/en_US/careers/JobDetail/Software-Engineer/42237",
+      "source": "Other",
+      "description": "Jacobs/BlackLynx is seeking a Software Engineer with 5+ years of ... DevOps Engineer (MS Azure). Krakow, All PL Regions, Poland | 42228 ...",
+      "date": "2026-07-16",
+      "timestamp": "2026-07-16T14:38:10+00:00",
+      "fetched_at": "2026-07-16T16:57:45.884337+00:00"
+    },
+    {
+      "id": "a7dff9475960",
+      "title": "Data Engineer , Data Solutions in St. Louis, Missouri | NISA Investment Advisors, LLC",
+      "company": "NISA Investment Advisors, LLC",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.nisa.com/jobs/2192?lang=en-us",
+      "source": "Other",
+      "description": "NISA is hiring a Data Engineer , Data Solutions in St. Louis, Missouri. Review all of the job details and apply today!",
+      "date": "2026-07-16",
+      "timestamp": "2026-07-16T14:07:53+00:00",
+      "fetched_at": "2026-07-16T16:57:45.884613+00:00"
+    },
+    {
+      "id": "070d5436f18a",
+      "title": "Data Engineer job - Experis USA - 404755",
+      "company": "Experis USA - 404755",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.experis.com/en/job/404755/data-engineer",
+      "source": "Other",
+      "description": "As a Data Engineer , you will be part of the Data & Analytics department supporting cross-functional teams. The ideal candidate will have strong ...",
+      "date": "2026-07-16",
+      "timestamp": "2026-07-16T12:19:49+00:00",
+      "fetched_at": "2026-07-16T16:57:45.884946+00:00"
+    },
+    {
+      "id": "8de99dd43043",
+      "title": "Senior Software Engineer | Smiths Detection",
+      "company": "Smiths Detection",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.smithsdetection.com/careers/job-search-results/senior-software-engineer-744000138023689/",
+      "source": "Other",
+      "description": "Senior Software Engineer . Senior Software Engineer . Share. Share to X \u00b7 Share to LinkedIn. Share this page. Job Detail. Location: Bengaluru, KA, India.",
+      "date": "2026-07-16",
+      "timestamp": "2026-07-16T12:06:18+00:00",
+      "fetched_at": "2026-07-16T16:57:45.885148+00:00"
+    },
+    {
+      "id": "3774b9cc4ac8",
+      "title": "Senior Software Engineer | Smiths Detection",
+      "company": "Smiths Detection",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.smithsdetection.com/careers/job-search-results/senior-software-engineer-744000138023779/",
+      "source": "Other",
+      "description": "Senior Software Engineer . Senior Software Engineer . Share. Share to X \u00b7 Share to LinkedIn. Share this page. Job Detail. Location: Bengaluru, KA, India.",
+      "date": "2026-07-16",
+      "timestamp": "2026-07-16T12:06:18+00:00",
+      "fetched_at": "2026-07-16T16:57:45.969463+00:00"
+    },
+    {
+      "id": "4cc6d737793a",
+      "title": "Senior Software Engineer - AI Governance",
+      "company": "AI Governance",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/rippling/jobs/0654e4e2-7e90-4be9-b068-dd5e95451fc7",
+      "source": "Other",
+      "description": "Senior Software Engineer - AI Governance. About Rippling. Rippling gives businesses one place to run HR, IT, and Finance. It brings together all of ...",
+      "date": "2026-07-16",
+      "timestamp": "2026-07-16T11:15:59+00:00",
+      "fetched_at": "2026-07-16T16:57:45.885312+00:00"
+    },
+    {
       "id": "babdbe1dc14a",
       "title": "Software Engineer - Intermediate, Pune | Equifax Careers",
       "company": "Intermediate, Pune | Equifax Careers",
@@ -49,6 +184,21 @@
       "date": "2026-07-16",
       "timestamp": "2026-07-16T10:39:37+00:00",
       "fetched_at": "2026-07-16T13:08:36.172578+00:00"
+    },
+    {
+      "id": "371568582c6f",
+      "title": "Software Engineer , Bangalore, Karn\u0101taka, India | Caterpillar Careers",
+      "company": "Caterpillar Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.caterpillar.com/en/jobs/r0000381464/software-engineer/",
+      "source": "Other",
+      "description": "Similar Jobs. Senior Software Engineer . Save Saved. Bangalore, Karn\u0101taka, India. Senior Software Engineer . Save Saved. Bangalore, Karn\u0101taka, India ...",
+      "date": "2026-07-16",
+      "timestamp": "2026-07-16T09:48:25+00:00",
+      "fetched_at": "2026-07-16T16:57:45.885839+00:00"
     },
     {
       "id": "1d79bdc3d45d",
@@ -139,6 +289,21 @@
       "date": "2026-07-16",
       "timestamp": "2026-07-16T07:21:31+00:00",
       "fetched_at": "2026-07-16T09:50:41.952229+00:00"
+    },
+    {
+      "id": "f580f3d2d04f",
+      "title": "Software Engineer in Bengaluru, Karn\u0101taka, India, 560066 | Digital Technology / IT at GE HealthCare",
+      "company": "GE HealthCare",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.gehealthcare.com/global/en/job/GEVGHLGLOBALR4043503EXTERNALENGLOBAL/Software-Engineer",
+      "source": "Other",
+      "description": "... Software Engineer - Mobile App Development \u00b7 Senior Software Engineer . GE Healthcare Category Digital Technology / IT Posted Date 03/16/2026 Job Id ...",
+      "date": "2026-07-16",
+      "timestamp": "2026-07-16T05:55:53+00:00",
+      "fetched_at": "2026-07-16T16:57:45.886830+00:00"
     },
     {
       "id": "99b964079efe",
