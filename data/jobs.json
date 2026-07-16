@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-07-16T16:57:45.995720+00:00",
-  "total_jobs": 5803,
+  "last_updated": "2026-07-16T20:39:39.577782+00:00",
+  "total_jobs": 5817,
   "stats": {
-    "total_companies": 2940,
-    "total_roles": 80,
+    "total_companies": 2948,
+    "total_roles": 81,
     "regions": {
-      "India": 3761,
+      "India": 3773,
       "Philippines": 1195,
-      "Remote": 737,
+      "Remote": 739,
       "Unknown": 135
     },
     "sources": {
-      "Other": 4553,
-      "Greenhouse": 287,
-      "Workday": 260,
-      "LinkedIn": 225,
-      "Ashby": 178,
+      "Other": 4562,
+      "Greenhouse": 289,
+      "Workday": 261,
+      "LinkedIn": 226,
+      "Ashby": 179,
       "iCIMS": 74,
       "Breezy": 64,
       "Lever": 41,
@@ -35,6 +35,171 @@
     }
   },
   "jobs": [
+    {
+      "id": "1e46dbdb0e60",
+      "title": "DevOps Engineer in Reston, Virginia, United States - SAIC Careers",
+      "company": "SAIC Careers",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.saic.com/jobs/18004455-devops-engineer",
+      "source": "Other",
+      "description": "Job Description. Description. QVine, an SAIC company is seeking an experienced DevOps Engineer to join our team. This role involves hands-on technical ...",
+      "date": "2026-07-16",
+      "timestamp": "2026-07-16T18:58:10+00:00",
+      "fetched_at": "2026-07-16T20:39:39.398848+00:00"
+    },
+    {
+      "id": "912b9ebcc06e",
+      "title": "Senior DevOps Engineer in New York at Munich Re",
+      "company": "Munich Re",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.munichre.com/en/job/new-york/senior-devops-engineer/3342/41277307200",
+      "source": "Other",
+      "description": "Senior DevOps Engineer \u00b7 Job Description. - Design, build, and operate a secure and reliable internal platform for running business applications and ...",
+      "date": "2026-07-16",
+      "timestamp": "2026-07-16T17:59:48+00:00",
+      "fetched_at": "2026-07-16T20:39:39.399032+00:00"
+    },
+    {
+      "id": "f21366065e1a",
+      "title": "Job Application for Senior Software Engineer , Data & AI Platform at Omada Health",
+      "company": "Omadahealth",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/omadahealth/jobs/8055515",
+      "source": "Greenhouse",
+      "description": "We are seeking a Senior Software Engineer to help design, build, and scale modern data platform capabilities using cloud-native technologies and AI- ...",
+      "date": "2026-07-16",
+      "timestamp": "2026-07-16T17:39:31+00:00",
+      "fetched_at": "2026-07-16T20:39:39.399145+00:00"
+    },
+    {
+      "id": "c878384fa912",
+      "title": "Junior Software Engineer - Equity Smart Home Loans Career Opportunities",
+      "company": "Equity Smart Home Loans Career Opportunities",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://equitysmart.rippling-ats.com/job/1040951/junior-software-engineer",
+      "source": "Other",
+      "description": "Position Summary. The Junior Software Engineer contributes to the development, maintenance, and improvement of Equity Smart's web applications, ...",
+      "date": "2026-07-16",
+      "timestamp": "2026-07-16T17:37:20+00:00",
+      "fetched_at": "2026-07-16T20:39:39.399322+00:00"
+    },
+    {
+      "id": "c9ab9599301d",
+      "title": "Software Engineer , Applied AI, New Grad @ Lightfield - Jobs",
+      "company": "Lightfield",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/lightfield/fc93a467-773d-4805-b342-bf470950732d",
+      "source": "Ashby",
+      "description": "Software Engineer , Applied AI, New Grad. Location. HQ: San Francisco. Employment Type. Full time. Department. Engineering. Compensation. $160K \u2013 $180K ...",
+      "date": "2026-07-16",
+      "timestamp": "2026-07-16T17:32:07+00:00",
+      "fetched_at": "2026-07-16T20:39:39.399447+00:00"
+    },
+    {
+      "id": "3ecd86e4c90f",
+      "title": "Software Engineer /Developer - Myworkdayjobs.com",
+      "company": "Healthresearch",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://healthresearch.wd1.myworkdayjobs.com/en-US/HRI_Careers/job/Albany-NY/Software-Engineer-Developer_JR-0002229",
+      "source": "Workday",
+      "description": "The Software Engineer /Developer will join Wadsworth Center's Laboratory Information Management System (CLIMS) team to perform computer application ...",
+      "date": "2026-07-16",
+      "timestamp": "2026-07-16T17:11:19+00:00",
+      "fetched_at": "2026-07-16T20:39:39.399554+00:00"
+    },
+    {
+      "id": "7de12073a1e7",
+      "title": "Job Application for Senior Software Engineer - Frontend Developer Experience at Mercury",
+      "company": "Mercury",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/mercury/jobs/6116808004",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer - Frontend Developer Experience. San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States.",
+      "date": "2026-07-16",
+      "timestamp": "2026-07-16T17:10:47+00:00",
+      "fetched_at": "2026-07-16T20:39:39.399650+00:00"
+    },
+    {
+      "id": "f498fa8150f8",
+      "title": "Danielle Gibbemeyer's Post - LinkedIn",
+      "company": "Unknown Company",
+      "role": "Danielle Gibbemeyer's Post - LinkedIn",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/danielle-gibbemeyer-589b0b126_i-posted-a-senior-aws-software-engineer-role-activity-7483248020076044288-VWmX",
+      "source": "LinkedIn",
+      "description": "Chiemezie Njoku. Systems/ Backend Engineer | Engineering Leader | Rust ... Senior .NET Software Engineer | C# \u2022 Azure \u2022 Blazor \u2022 SQL Server ...",
+      "date": "2026-07-16",
+      "timestamp": "2026-07-16T17:07:47+00:00",
+      "fetched_at": "2026-07-16T20:39:39.400361+00:00"
+    },
+    {
+      "id": "3d2f9aef0e89",
+      "title": "Software Engineer - Piper Companies",
+      "company": "Piper Companies",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.pipercompanies.com/details/169745/software_engineer",
+      "source": "Other",
+      "description": "The Software Engineer will support, monitor, and maintain cloud-hosted applications, services, and infrastructure in production and non-production ...",
+      "date": "2026-07-16",
+      "timestamp": "2026-07-16T17:06:54+00:00",
+      "fetched_at": "2026-07-16T20:39:39.400515+00:00"
+    },
+    {
+      "id": "27106a636d9b",
+      "title": "Software Engineer in Hyderabad, India | Principal Global Services",
+      "company": "Principal Global Services",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.principal.com/in/jobs/51739",
+      "source": "Other",
+      "description": "in is hiring a Software Engineer in Hyderabad, India. Review all of the job details and apply today!",
+      "date": "2026-07-16",
+      "timestamp": "2026-07-16T16:52:22+00:00",
+      "fetched_at": "2026-07-16T20:39:39.400651+00:00"
+    },
+    {
+      "id": "c422bc5b3e73",
+      "title": "Google Data Engineer - 2974 - Slalom",
+      "company": "2974 - Slalom",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.slalom.com/en_US/careersmarketplace/JobDetail/Google-Data-Engineer/2974",
+      "source": "Other",
+      "description": "Role: Data Engineer . Who You'll Work With. At Slalom we co-create custom software, data, AI, and cloud products with clients who are ready to ...",
+      "date": "2026-07-16",
+      "timestamp": "2026-07-16T16:36:37+00:00",
+      "fetched_at": "2026-07-16T20:39:39.400846+00:00"
+    },
     {
       "id": "cf174695fd87",
       "title": "Software Engineer - Limited Tenure - Hybrid at Mayo Clinic",
@@ -66,6 +231,21 @@
       "fetched_at": "2026-07-16T16:57:45.883418+00:00"
     },
     {
+      "id": "75fd9f5ca42f",
+      "title": "Senior Python Full-Stack AI Engineer - VDart, Inc. - Remote | Dice.com",
+      "company": "Senior Python Full",
+      "role": "AI Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.dice.com/job-detail/2c94499b-6dfb-4928-95d2-7d932e05dbbd",
+      "source": "Other",
+      "description": "21 hours ago - Job Title: Senior Python Full-Stack AI Engineer Location: Remote Duration: / Term: 6+ months \u2013 Contract Job ...",
+      "date": "2026-07-16",
+      "timestamp": "2026-07-16T16:04:46+00:00",
+      "fetched_at": "2026-07-16T20:39:39.401313+00:00"
+    },
+    {
       "id": "2d3237a8a7e9",
       "title": "AI/ ML Engineer | Everforth Apex",
       "company": "Everforth Apex",
@@ -81,6 +261,21 @@
       "fetched_at": "2026-07-16T16:57:45.883978+00:00"
     },
     {
+      "id": "c502e60eb6a5",
+      "title": "Infrastructure Platform Engineer - Careers at UF - University of Florida",
+      "company": "Careers at UF - University of Florida",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://explore.jobs.ufl.edu/en-us/job/540623/infrastructure-platform-engineer",
+      "source": "Other",
+      "description": "Job Description: UF Information Technology (UFIT) is currently seeking a professional-level Infrastructure Platform Engineer to join Infrastructure ...",
+      "date": "2026-07-16",
+      "timestamp": "2026-07-16T15:18:59+00:00",
+      "fetched_at": "2026-07-16T20:39:39.401612+00:00"
+    },
+    {
       "id": "9d89e25ab38d",
       "title": "Software Engineer - Chantilly, Virginia, United States - 42237 - Jacobs",
       "company": "Chantilly, Virginia, United States - 42237 - Jacobs",
@@ -94,6 +289,21 @@
       "date": "2026-07-16",
       "timestamp": "2026-07-16T14:38:10+00:00",
       "fetched_at": "2026-07-16T16:57:45.884337+00:00"
+    },
+    {
+      "id": "805cc635fe08",
+      "title": "Software Engineer - Python Developer - - 32300 - HARMAN International",
+      "company": "Software Engineer",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobsearch.harman.com/en_US/careers/JobDetail/Software-Engineer-Python-Developer/32300",
+      "source": "Other",
+      "description": "Software Engineer - Python Developer. General information. Location: Bangalore - Karnataka, India - Kalyani Platina. Job Family: Engineering. Worker ...",
+      "date": "2026-07-16",
+      "timestamp": "2026-07-16T14:31:34+00:00",
+      "fetched_at": "2026-07-16T20:39:39.554634+00:00"
     },
     {
       "id": "a7dff9475960",
