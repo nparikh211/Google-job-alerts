@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-07-16T20:39:39.577782+00:00",
-  "total_jobs": 5817,
+  "last_updated": "2026-07-17T01:17:00.892268+00:00",
+  "total_jobs": 5828,
   "stats": {
-    "total_companies": 2948,
+    "total_companies": 2953,
     "total_roles": 81,
     "regions": {
-      "India": 3773,
+      "India": 3783,
       "Philippines": 1195,
-      "Remote": 739,
+      "Remote": 740,
       "Unknown": 135
     },
     "sources": {
-      "Other": 4562,
-      "Greenhouse": 289,
+      "Other": 4569,
+      "Greenhouse": 291,
       "Workday": 261,
       "LinkedIn": 226,
-      "Ashby": 179,
-      "iCIMS": 74,
+      "Ashby": 180,
+      "iCIMS": 75,
       "Breezy": 64,
       "Lever": 41,
       "Workable": 37,
@@ -36,6 +36,111 @@
   },
   "jobs": [
     {
+      "id": "b5e6fee91b16",
+      "title": "Software Engineer II - Full Stack Engineer - JPMC Candidate Experience page Careers",
+      "company": "Software Engineer II",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210766316",
+      "source": "Other",
+      "description": "Software Engineer II - Full Stack Engineer . Seattle, WA, United States. Apply Now. Job Information. Job Identification 210766316; Job Category ...",
+      "date": "2026-07-16",
+      "timestamp": "2026-07-16T23:07:07+00:00",
+      "fetched_at": "2026-07-17T01:17:00.787659+00:00"
+    },
+    {
+      "id": "2cc226235e08",
+      "title": "Job Application for Software Engineer , UI Tools Infrastructure at Kodiak - Greenhouse",
+      "company": "Kodiak",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/kodiak/jobs/4320932009",
+      "source": "Greenhouse",
+      "description": "Software Engineer , UI Tools Infrastructure. Mountain View, CA. Apply. Kodiak Robotics, Inc. was founded in 2018 and has become a leader in autonomous ...",
+      "date": "2026-07-16",
+      "timestamp": "2026-07-16T23:04:08+00:00",
+      "fetched_at": "2026-07-17T01:17:00.787817+00:00"
+    },
+    {
+      "id": "1c7201789d29",
+      "title": "Software Engineer - Journal Team - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200672753-0836/software-engineer-journal-team?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Software Engineer - Journal Team job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-07-16",
+      "timestamp": "2026-07-16T22:08:59+00:00",
+      "fetched_at": "2026-07-17T01:17:00.788106+00:00"
+    },
+    {
+      "id": "aa86c3e4b269",
+      "title": "Senior Software Engineer - SAIC Careers",
+      "company": "SAIC Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.saic.com/jobs/18005001-senior-software-engineer",
+      "source": "Other",
+      "description": "Senior Software Engineer . Job ID: 2614630. Location: Colorado Springs, CO, United States Date Posted: Jul 16, 2026. Category: Software",
+      "date": "2026-07-16",
+      "timestamp": "2026-07-16T20:50:51+00:00",
+      "fetched_at": "2026-07-17T01:17:00.788419+00:00"
+    },
+    {
+      "id": "91bdb0457618",
+      "title": "Software Engineer , Web Products - Databricks",
+      "company": "Databricks",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.databricks.com/company/careers/integration-data-engineering-and-applications/software-engineer-web-products-8635225002",
+      "source": "Other",
+      "description": "Software Engineer , Web Products, Mountain View, California. Join us! Together we can use data to solve the challenges of tomorrow.",
+      "date": "2026-07-16",
+      "timestamp": "2026-07-16T20:50:27+00:00",
+      "fetched_at": "2026-07-17T01:17:00.788645+00:00"
+    },
+    {
+      "id": "2917160a335b",
+      "title": "Platform Engineer @ Sable - Jobs",
+      "company": "Sable",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/sable/a41aecf6-7db2-42b2-8126-b3b40db1825f",
+      "source": "Ashby",
+      "description": "Platform Engineer . Location. San Francisco. Employment Type. Full time. Location Type. On-site. Department. Engineering, Product & Design. Overview ...",
+      "date": "2026-07-16",
+      "timestamp": "2026-07-16T19:28:38+00:00",
+      "fetched_at": "2026-07-17T01:17:00.788924+00:00"
+    },
+    {
+      "id": "75bf361aee30",
+      "title": "Staff Full Stack Software Engineer Job Details | Grainger Businesses",
+      "company": "Grainger Businesses",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.grainger.com/job/CHICAGO-Staff-Full-Stack-Software-Engineer-IL-60654-4203/1409516700/",
+      "source": "Other",
+      "description": "As a Software Engineer IV, you will be a hands-on technical leader who codes alongside your team, champions modern engineering practices, and ...",
+      "date": "2026-07-16",
+      "timestamp": "2026-07-16T19:22:37+00:00",
+      "fetched_at": "2026-07-17T01:17:00.789139+00:00"
+    },
+    {
       "id": "1e46dbdb0e60",
       "title": "DevOps Engineer in Reston, Virginia, United States - SAIC Careers",
       "company": "SAIC Careers",
@@ -49,6 +154,51 @@
       "date": "2026-07-16",
       "timestamp": "2026-07-16T18:58:10+00:00",
       "fetched_at": "2026-07-16T20:39:39.398848+00:00"
+    },
+    {
+      "id": "be1b5fe2c539",
+      "title": "Entegral Software Engineer - .Net / C# in | Careers at Enterprise",
+      "company": "Enterprise",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://us-erac.icims.com/jobs/559416/entegral-software-engineer---.net---c%23/job",
+      "source": "iCIMS",
+      "description": "Enterprise - Remote USA (Selected States) is now hiring a Entegral Software Engineer - .Net / C# in . Review all of the job details and apply ...",
+      "date": "2026-07-16",
+      "timestamp": "2026-07-16T18:51:46+00:00",
+      "fetched_at": "2026-07-17T01:17:00.789410+00:00"
+    },
+    {
+      "id": "d325aecb22e9",
+      "title": "Staff Software Engineer - Payments at Intuit",
+      "company": "Intuit",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.intuit.com/job/mountain-view/staff-software-engineer-payments/27595/97881291952",
+      "source": "Other",
+      "description": "Alex Pollock Senior Software Engineer . Software Engineering at ... Staff Data Engineer - Quickbooks Capital and Lending Mountain View, ...",
+      "date": "2026-07-16",
+      "timestamp": "2026-07-16T18:35:36+00:00",
+      "fetched_at": "2026-07-17T01:17:00.789546+00:00"
+    },
+    {
+      "id": "a6b2d8abed3b",
+      "title": "Software Engineer /Full Stack Developer - Barclays Careers",
+      "company": "Barclays Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://search.jobs.barclays/job/whippany/software-engineer-full-stack-developer/13015/97879188880",
+      "source": "Other",
+      "description": "Senior Software Engineer -Java. Pune (India). Product Manager. Gurugram ... Shweta Desale, a Cloud and DevOps Engineer , says Barclays is a great place ...",
+      "date": "2026-07-16",
+      "timestamp": "2026-07-16T18:14:27+00:00",
+      "fetched_at": "2026-07-17T01:17:00.789714+00:00"
     },
     {
       "id": "912b9ebcc06e",
@@ -94,6 +244,21 @@
       "date": "2026-07-16",
       "timestamp": "2026-07-16T17:37:20+00:00",
       "fetched_at": "2026-07-16T20:39:39.399322+00:00"
+    },
+    {
+      "id": "c4c4b2c1121e",
+      "title": "Job Application for Software Engineer , Frontend at Muon Space - Greenhouse",
+      "company": "Muonspace",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/muonspace/jobs/5188072007",
+      "source": "Greenhouse",
+      "description": "Software Engineer , Frontend. San Jose, CA. Apply. About the role. Muon seeks a Software Engineer to join our Mission Frontend team. In this role you ...",
+      "date": "2026-07-16",
+      "timestamp": "2026-07-16T17:33:28+00:00",
+      "fetched_at": "2026-07-17T01:17:00.790278+00:00"
     },
     {
       "id": "c9ab9599301d",
