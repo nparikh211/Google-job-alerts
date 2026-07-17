@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-07-17T06:06:37.449068+00:00",
-  "total_jobs": 5835,
+  "last_updated": "2026-07-17T09:41:28.743360+00:00",
+  "total_jobs": 5843,
   "stats": {
-    "total_companies": 2953,
-    "total_roles": 81,
+    "total_companies": 2956,
+    "total_roles": 82,
     "regions": {
-      "India": 3789,
+      "India": 3795,
       "Philippines": 1196,
-      "Remote": 740,
+      "Remote": 742,
       "Unknown": 135
     },
     "sources": {
-      "Other": 4576,
-      "Greenhouse": 291,
+      "Other": 4581,
+      "Greenhouse": 293,
       "Workday": 261,
-      "LinkedIn": 226,
+      "LinkedIn": 227,
       "Ashby": 180,
       "iCIMS": 75,
       "Breezy": 64,
@@ -35,6 +35,111 @@
     }
   },
   "jobs": [
+    {
+      "id": "0733c778e81e",
+      "title": "Machine Learning Engineer in Frisco, Texas | Quarterhill - Career",
+      "company": "Quarterhill - Career",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.quarterhill.com/culture/jobs/1492?lang=en-us",
+      "source": "Other",
+      "description": "culture is hiring a Machine Learning Engineer in Frisco, Texas. Review all of the job details and apply today!",
+      "date": "2026-07-17",
+      "timestamp": "2026-07-17T07:16:13+00:00",
+      "fetched_at": "2026-07-17T09:41:28.651760+00:00"
+    },
+    {
+      "id": "aef0602d20bb",
+      "title": "Job Application for Senior Software Engineer Full-stack at InsightRX - Greenhouse",
+      "company": "Insightrx",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/insightrx/jobs/8637141002",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer Full-stack. Remote. Apply. InsightRX | Engineering. About the Role. InsightRX is looking for a Full Stack Engineer to help ...",
+      "date": "2026-07-17",
+      "timestamp": "2026-07-17T06:24:30+00:00",
+      "fetched_at": "2026-07-17T09:41:28.651900+00:00"
+    },
+    {
+      "id": "267461e7ac6d",
+      "title": "Job Application for Software Engineer III, Site Reliability at MyFitnessPal - Greenhouse",
+      "company": "Myfitnesspal",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/myfitnesspal/jobs/8070494",
+      "source": "Greenhouse",
+      "description": "Software Engineer III, Site Reliability \u00b7 About the team: The Productivity Engineering: Automation & Self-Service (PEAS) team is responsible for the ...",
+      "date": "2026-07-17",
+      "timestamp": "2026-07-17T06:20:30+00:00",
+      "fetched_at": "2026-07-17T09:41:28.652041+00:00"
+    },
+    {
+      "id": "9b1d1a6145a0",
+      "title": "Senior Site Reliability Engineer | The D. E. Shaw Group",
+      "company": "The D. E. Shaw Group",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.deshaw.com/careers/senior-site-reliability-engineer-4945",
+      "source": "Other",
+      "description": "Shaw group seeks an experienced site reliability engineer (SRE) to join its SRE team. This team is involved in engineering and supporting the firm's ...",
+      "date": "2026-07-17",
+      "timestamp": "2026-07-17T06:07:24+00:00",
+      "fetched_at": "2026-07-17T09:41:28.652226+00:00"
+    },
+    {
+      "id": "b5dc684faced",
+      "title": "Stephen Nutbrown's Post - LinkedIn",
+      "company": "Unknown Company",
+      "role": "Stephen Nutbrown's Post - LinkedIn",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/stephen-nutbrown-59a94838_im-still-a-software-engineer-capital-one-activity-7483528377732141056-88Pa",
+      "source": "LinkedIn",
+      "description": "AWS Solutions Architect Professional & Security Specialist, working as a Distinguished Engineer at Capital One. ... I'm still a software engineer .",
+      "date": "2026-07-17",
+      "timestamp": "2026-07-17T05:41:20+00:00",
+      "fetched_at": "2026-07-17T09:41:28.652865+00:00"
+    },
+    {
+      "id": "148e33c601ae",
+      "title": "Software Engineer in Bengaluru, Karn\u0101taka, India, 560066 | Digital Technology / IT at GE HealthCare",
+      "company": "GE HealthCare",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.gehealthcare.com/global/en/job/GEVGHLGLOBALR4043731EXTERNALENGLOBAL/Software-Engineer",
+      "source": "Other",
+      "description": "Join our team as a Senior Software Engineer (C++ Developer) and drive the development of innovative ultrasound products. Collaborate with global teams ...",
+      "date": "2026-07-17",
+      "timestamp": "2026-07-17T04:58:35+00:00",
+      "fetched_at": "2026-07-17T09:41:28.653091+00:00"
+    },
+    {
+      "id": "a6957c02c6ac",
+      "title": "AI Software Engineer at NetApp, Inc.",
+      "company": "NetApp, Inc.",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.netapp.com/job/united-states/ai-software-engineer/27600/97875793872",
+      "source": "Other",
+      "description": "If you run toward knowledge and problem-solving, join us. AI Software Engineer . Remote - US; United States. Apply Save.",
+      "date": "2026-07-17",
+      "timestamp": "2026-07-17T03:19:58+00:00",
+      "fetched_at": "2026-07-17T09:41:28.653245+00:00"
+    },
     {
       "id": "d2fd8e93a20e",
       "title": "Principal Software Engineer Job Details - Create Your Own Career",
@@ -169,6 +274,21 @@
       "date": "2026-07-16",
       "timestamp": "2026-07-16T22:05:43+00:00",
       "fetched_at": "2026-07-17T06:06:37.304442+00:00"
+    },
+    {
+      "id": "6290bb65045f",
+      "title": "Workday Software Engineer \u2013 MTS - Salesforce Careers",
+      "company": "Salesforce Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.salesforce.com/company/careers/jobs/JR344779/workday-software-engineer-mts/",
+      "source": "Other",
+      "description": "Workday Software Engineer \u2013 MTS. a couple of women smiling. Software Engineering. Texas - Dallas; Indiana - Indianapolis. Full time; Posted 15 July ...",
+      "date": "2026-07-16",
+      "timestamp": "2026-07-16T20:58:51+00:00",
+      "fetched_at": "2026-07-17T09:41:28.654853+00:00"
     },
     {
       "id": "aa86c3e4b269",
