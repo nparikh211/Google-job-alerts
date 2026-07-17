@@ -1,26 +1,26 @@
 {
-  "last_updated": "2026-07-17T12:53:31.233616+00:00",
-  "total_jobs": 5847,
+  "last_updated": "2026-07-17T16:54:39.332147+00:00",
+  "total_jobs": 5864,
   "stats": {
-    "total_companies": 2958,
+    "total_companies": 2962,
     "total_roles": 82,
     "regions": {
-      "India": 3798,
-      "Philippines": 1196,
-      "Remote": 743,
+      "India": 3809,
+      "Philippines": 1198,
+      "Remote": 747,
       "Unknown": 135
     },
     "sources": {
-      "Other": 4585,
-      "Greenhouse": 293,
-      "Workday": 261,
+      "Other": 4596,
+      "Greenhouse": 294,
+      "Workday": 264,
       "LinkedIn": 227,
-      "Ashby": 180,
+      "Ashby": 181,
       "iCIMS": 75,
       "Breezy": 64,
       "Lever": 41,
       "Workable": 37,
-      "SmartRecruiters": 35,
+      "SmartRecruiters": 36,
       "Indeed": 24,
       "Recruitee": 6,
       "BrassRing": 6,
@@ -35,6 +35,216 @@
     }
   },
   "jobs": [
+    {
+      "id": "efffc43a051d",
+      "title": "Software Engineer - QTS Careers - Myworkdayjobs.com",
+      "company": "Qtsdatacenters",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://qtsdatacenters.wd5.myworkdayjobs.com/QTS/job/Software-Engineer_R2026-1027-1",
+      "source": "Workday",
+      "description": "Software Engineer \u00b7 Participate in Scrum ceremonies (team standup, retrospective etc.) \u00b7 Provide production support, tirage and solve production issues ...",
+      "date": "2026-07-17",
+      "timestamp": "2026-07-17T16:06:31+00:00",
+      "fetched_at": "2026-07-17T16:54:39.222125+00:00"
+    },
+    {
+      "id": "9736b960e17e",
+      "title": "Software Engineer - Myworkdayjobs.com",
+      "company": "Harriscomputer",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://harriscomputer.wd3.myworkdayjobs.com/en-US/1/job/Software-Engineer_R0044914",
+      "source": "Workday",
+      "description": "Software Engineer page is loaded. Software Engineer . Apply. locations: Remote - Utah: Wisconsin, United States: Remote - Alaska: West Virginia, United ...",
+      "date": "2026-07-17",
+      "timestamp": "2026-07-17T14:37:22+00:00",
+      "fetched_at": "2026-07-17T16:54:39.306764+00:00"
+    },
+    {
+      "id": "a83eb4fedea5",
+      "title": "Data Engineer II / Cloud in Atlanta, Georgia (Remote) - Leidos Careers",
+      "company": "Leidos Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.leidos.com/jobs/18007696-data-engineer-ii-slash-cloud",
+      "source": "Other",
+      "description": "Preferred Certifications: Databricks Data Engineer Associate/Professional, Azure Data Engineer Associate (DP-203), Azure AI Engineer Associate, or ...",
+      "date": "2026-07-17",
+      "timestamp": "2026-07-17T14:33:46+00:00",
+      "fetched_at": "2026-07-17T16:54:39.224118+00:00"
+    },
+    {
+      "id": "adb79dd8612a",
+      "title": "Dynanet Corporation - Software Engineer - Paylocity",
+      "company": "Dynanet Corporation",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://recruiting.paylocity.com/recruiting/jobs/Details/4338957/Dynanet-Corporation/Software-Engineer",
+      "source": "Other",
+      "description": "Position Details: Job Title: Software Engineer . Job Type: Full-time. Dynanet Corporation Overview: Dynanet started with a focus on IT ...",
+      "date": "2026-07-17",
+      "timestamp": "2026-07-17T14:19:55+00:00",
+      "fetched_at": "2026-07-17T16:54:39.307109+00:00"
+    },
+    {
+      "id": "5ca93569742c",
+      "title": "Job Application for Data Engineer at Excel Sports Management - Greenhouse",
+      "company": "Excelsportsmanagement",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/excelsportsmanagement/jobs/4715868005",
+      "source": "Greenhouse",
+      "description": "Position Summary: The Excel Analytics team is growing, and we are seeking a Data Engineer to help build and maintain the data pipelines and platforms ...",
+      "date": "2026-07-17",
+      "timestamp": "2026-07-17T14:19:05+00:00",
+      "fetched_at": "2026-07-17T16:54:39.307211+00:00"
+    },
+    {
+      "id": "9719d29da58d",
+      "title": "Software Engineer in Huntsville, Alabama (No Remote) - Leidos Careers",
+      "company": "Leidos Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.leidos.com/jobs/18007518-software-engineer",
+      "source": "Other",
+      "description": "Software Engineer \u00b7 Bachelor's degree in Software Engineering, Computer Science, Computer Engineering, or equivalent degree from an ABET-accredited ...",
+      "date": "2026-07-17",
+      "timestamp": "2026-07-17T14:03:32+00:00",
+      "fetched_at": "2026-07-17T16:54:39.224403+00:00"
+    },
+    {
+      "id": "ccb27a04894b",
+      "title": "Sr. AI Engineer | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.apexsystems.com/job/3042595_usa/sr-ai-engineer",
+      "source": "Other",
+      "description": "Sr. AI Engineer \u00b7 Design, develop, and deploy reusable AI platform services and backend APIs. \u00b7 Build scalable backend services that orchestrate ...",
+      "date": "2026-07-17",
+      "timestamp": "2026-07-17T13:42:48+00:00",
+      "fetched_at": "2026-07-17T16:54:39.224680+00:00"
+    },
+    {
+      "id": "cbdabb1614b1",
+      "title": "Software Engineer , Tax Experience, BizTech - Careers at Airbnb",
+      "company": "Airbnb",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.airbnb.com/positions/8070597/?gh_jid=8070597",
+      "source": "Other",
+      "description": "Software Engineer , Tax Experience, BizTech. United States. Role overview. Application. Airbnb was born in 2007 when two hosts welcomed three guests to ...",
+      "date": "2026-07-17",
+      "timestamp": "2026-07-17T13:36:58+00:00",
+      "fetched_at": "2026-07-17T16:54:39.225124+00:00"
+    },
+    {
+      "id": "3f2e1eef8b8e",
+      "title": "NBCUniversal Software Engineer | SmartRecruiters",
+      "company": "Nbcuniversal3",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.smartrecruiters.com/NBCUniversal3/744000138184939-software-engineer",
+      "source": "SmartRecruiters",
+      "description": "Software Engineer . 100 Universal City Plaza, Universal City, CALIFORNIA Employees can work remotely; Full-time; Business Segment: NBCU Corporate ...",
+      "date": "2026-07-17",
+      "timestamp": "2026-07-17T13:32:14+00:00",
+      "fetched_at": "2026-07-17T16:54:39.307628+00:00"
+    },
+    {
+      "id": "dc394e46851b",
+      "title": "Software Engineer , Data Foundations @ Whatnot - Jobs",
+      "company": "Whatnot",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/whatnot/517db0ec-ca8d-4d5e-bd84-4f9e8f1579c8",
+      "source": "Ashby",
+      "description": "... Software Engineer , Data Platform, you should have 8+ years of experience, plus: - Ability to write well-tested, API-driven applications and ...",
+      "date": "2026-07-17",
+      "timestamp": "2026-07-17T13:24:04+00:00",
+      "fetched_at": "2026-07-17T16:54:39.225330+00:00"
+    },
+    {
+      "id": "cd0cfafdc063",
+      "title": "iOS Software Engineer at Ford Motor Company",
+      "company": "Ford Motor Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.careers.ford.com/job/united-states/ios-software-engineer/48560/97912987056",
+      "source": "Other",
+      "description": "We are looking for a customer-centric senior software engineer who embraces lean and agile practices. The Software Engineer , iOS will interact ...",
+      "date": "2026-07-17",
+      "timestamp": "2026-07-17T13:10:54+00:00",
+      "fetched_at": "2026-07-17T16:54:39.225828+00:00"
+    },
+    {
+      "id": "cbecfe2e069a",
+      "title": "Software Engineer (Teradyne, Singapore) Job Details",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.teradyne.com/Teradyne/job/Science-Park-Software-Engineer-%28Teradyne%2C-Singapore%29/1409991200/",
+      "source": "Other",
+      "description": "Software Engineer (Teradyne, Singapore) ... Teradyne is a leading supplier of Automatic Test Equipment (ATE) used to test complex electronics in the ...",
+      "date": "2026-07-17",
+      "timestamp": "2026-07-17T13:07:19+00:00",
+      "fetched_at": "2026-07-17T16:54:39.226132+00:00"
+    },
+    {
+      "id": "f9cf07054f98",
+      "title": "Software Engineer (AI) in Bangalore, India | Product and Engineering at Cisco",
+      "company": "Cisco",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/2017407/Software-Engineer-AI",
+      "source": "Other",
+      "description": "As a Software Engineer focused on AI driven devlopment, you drive knowledge, delivery, and maintenance for the Partner Incentives and Metrics ...",
+      "date": "2026-07-17",
+      "timestamp": "2026-07-17T12:15:49+00:00",
+      "fetched_at": "2026-07-17T16:54:39.226355+00:00"
+    },
+    {
+      "id": "17cf973c37ab",
+      "title": "Software Engineer II-2 - Myworkdayjobs.com",
+      "company": "Mastercard",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Software-Engineer-II-2_R-282788-1",
+      "source": "Workday",
+      "description": "sufficient skills to do the work. There is no dictated leadership hierarchy within the team members. Role & Responsibilities Software Engineer I is ...",
+      "date": "2026-07-17",
+      "timestamp": "2026-07-17T12:13:52+00:00",
+      "fetched_at": "2026-07-17T16:54:39.226559+00:00"
+    },
     {
       "id": "b12b34a57c5e",
       "title": "Senior Software Engineer - ENSEK - Teamtailor",
@@ -81,6 +291,36 @@
       "fetched_at": "2026-07-17T12:53:30.986104+00:00"
     },
     {
+      "id": "137eb2fb008d",
+      "title": "Machine Learning Engineer , Radar - Stripe",
+      "company": "Stripe",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://stripe.com/jobs/listing/machine-learning-engineer-radar/7983456/apply",
+      "source": "Other",
+      "description": "... Life at Stripe \u00b7 Benefits \u00b7 University \u00b7 See open roles \u00b7 Roles at Stripe \u00b7 Role details; Application. Machine Learning Engineer , Radar.",
+      "date": "2026-07-17",
+      "timestamp": "2026-07-17T07:38:46+00:00",
+      "fetched_at": "2026-07-17T16:54:39.227659+00:00"
+    },
+    {
+      "id": "0866d25955da",
+      "title": "AVP, Principal Software Engineer (L11) at Synchrony Financial",
+      "company": "Synchrony Financial",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.synchronycareers.com/job/telangana/avp-principal-software-engineer-l11/49398/97899047072",
+      "source": "Other",
+      "description": "Role Title : AVP, Principal Software Engineer (L11). Company Overview: Synchrony (NYSE: SYF) is a leading consumer financing company that has been ...",
+      "date": "2026-07-17",
+      "timestamp": "2026-07-17T07:27:22+00:00",
+      "fetched_at": "2026-07-17T16:54:39.227825+00:00"
+    },
+    {
       "id": "0733c778e81e",
       "title": "Machine Learning Engineer in Frisco, Texas | Quarterhill - Career",
       "company": "Quarterhill - Career",
@@ -94,6 +334,21 @@
       "date": "2026-07-17",
       "timestamp": "2026-07-17T07:16:13+00:00",
       "fetched_at": "2026-07-17T09:41:28.651760+00:00"
+    },
+    {
+      "id": "5d583ab51e75",
+      "title": "Salesforce CRM Software Engineer -Mid- Level - USAA Careers",
+      "company": "Mid- Level - USAA Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.usaajobs.com/job/san-antonio/salesforce-crm-software-engineer-mid-level/1207/97893623360",
+      "source": "Other",
+      "description": "Learn more about and apply for the Salesforce CRM Software Engineer -Mid- Level job at USAA here.",
+      "date": "2026-07-17",
+      "timestamp": "2026-07-17T06:55:27+00:00",
+      "fetched_at": "2026-07-17T16:54:39.228154+00:00"
     },
     {
       "id": "aef0602d20bb",
