@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-07-17T16:54:39.332147+00:00",
-  "total_jobs": 5864,
+  "last_updated": "2026-07-17T20:39:16.825659+00:00",
+  "total_jobs": 5882,
   "stats": {
-    "total_companies": 2962,
+    "total_companies": 2970,
     "total_roles": 82,
     "regions": {
-      "India": 3809,
-      "Philippines": 1198,
-      "Remote": 747,
+      "India": 3820,
+      "Philippines": 1203,
+      "Remote": 749,
       "Unknown": 135
     },
     "sources": {
-      "Other": 4596,
+      "Other": 4608,
       "Greenhouse": 294,
-      "Workday": 264,
-      "LinkedIn": 227,
+      "Workday": 267,
+      "LinkedIn": 228,
       "Ashby": 181,
       "iCIMS": 75,
-      "Breezy": 64,
-      "Lever": 41,
+      "Breezy": 65,
+      "Lever": 42,
       "Workable": 37,
       "SmartRecruiters": 36,
       "Indeed": 24,
@@ -36,6 +36,201 @@
   },
   "jobs": [
     {
+      "id": "9dd3f7edd17b",
+      "title": "Senior AI Engineer (m/f/d) - eigenblue",
+      "company": "Eigenblue",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://eigenblue.breezy.hr/p/99a542ca412f01-senior-ai-engineer-m-f-d/apply",
+      "source": "Breezy",
+      "description": "Senior AI Engineer (m/f/d) \u00b7 New York, US \u00b7 Full-Time \u00b7 Tech Specialists.",
+      "date": "2026-07-17",
+      "timestamp": "2026-07-17T19:59:50+00:00",
+      "fetched_at": "2026-07-17T20:39:16.796181+00:00"
+    },
+    {
+      "id": "ea664660904a",
+      "title": "Airspace Link, Inc. - Backend Software Engineer (Golang) - Paylocity",
+      "company": "Airspace Link, Inc.",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://recruiting.paylocity.com/recruiting/jobs/Details/3801713/Airspace-Link-Inc/Backend-Software-Engineer-Golang",
+      "source": "Other",
+      "description": "Backend Software Engineer (Golang). Status: Exempt. About the Company. Throughout history, transformative advancements in infrastructure have ...",
+      "date": "2026-07-17",
+      "timestamp": "2026-07-17T18:23:02+00:00",
+      "fetched_at": "2026-07-17T20:39:16.796397+00:00"
+    },
+    {
+      "id": "d070b8780734",
+      "title": "Senior Software Engineer (Cloud Architect) - SkyGrid - Lever",
+      "company": "Skygrid",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.lever.co/skygrid/5a59c1ea-14da-43bc-83f7-f1d6af282c4d/apply",
+      "source": "Lever",
+      "description": "Senior Software Engineer (Cloud Architect). Austin, TX. Engineering /. Full-Time /. Remote. Submit your application. Resume/CV. ATTACH RESUME/CV.",
+      "date": "2026-07-17",
+      "timestamp": "2026-07-17T18:01:12+00:00",
+      "fetched_at": "2026-07-17T20:39:16.379081+00:00"
+    },
+    {
+      "id": "bd7455a98abe",
+      "title": "Senior Data Engineer - MetLife Careers",
+      "company": "MetLife Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.metlifecareers.com/en_US/ml/JobDetail/Senior-Data-Engineer/18943",
+      "source": "Other",
+      "description": "Senior Data Engineer . General Information. Location. Cary, North Carolina. Working Schedule. Full-Time. Work Arrangement. Hybrid. Travel Required. 10 ...",
+      "date": "2026-07-17",
+      "timestamp": "2026-07-17T17:59:17+00:00",
+      "fetched_at": "2026-07-17T20:39:16.380059+00:00"
+    },
+    {
+      "id": "178c73110f78",
+      "title": "Software Engineer in Carlsbad, California | Viasat, Inc.",
+      "company": "Viasat, Inc.",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.viasat.com/jobs/6460?lang=en-us",
+      "source": "Other",
+      "description": "Viasat is hiring a Software Engineer in Carlsbad, California. Review all of the job details and apply today!",
+      "date": "2026-07-17",
+      "timestamp": "2026-07-17T17:20:05+00:00",
+      "fetched_at": "2026-07-17T20:39:16.796861+00:00"
+    },
+    {
+      "id": "71793c4d826b",
+      "title": "LightSpun hiring Software Engineer in United States | LinkedIn",
+      "company": "LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/software-engineer-at-lightspun-4441699168",
+      "source": "LinkedIn",
+      "description": "Software Engineer , Backend Engineer . Rescale. United States $90,000 ... Senior Software Engineer jobs \u00b7 Web Development Intern jobs \u00b7 Junior Java ...",
+      "date": "2026-07-17",
+      "timestamp": "2026-07-17T17:18:56+00:00",
+      "fetched_at": "2026-07-17T20:39:16.797023+00:00"
+    },
+    {
+      "id": "19ad961f7fe8",
+      "title": "Software Engineer in Mississauga, Ontario, Canada | Research & Development at Roche",
+      "company": "Roche",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.roche.com/global/en/job/ROCHGLOBAL202607118179EXTERNALENGLOBAL/Software-Engineer",
+      "source": "Other",
+      "description": "Apply for Software Engineer job with Roche in Mississauga, Ontario, Canada. Research & Development at Roche.",
+      "date": "2026-07-17",
+      "timestamp": "2026-07-17T17:11:44+00:00",
+      "fetched_at": "2026-07-17T20:39:16.380244+00:00"
+    },
+    {
+      "id": "21668420c557",
+      "title": "Software Engineer II Job Details - Kiewit Careers",
+      "company": "Kiewit Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://kiewitcareers.kiewit.com/job/Lenexa-Software-Engineer-II-KS/1409880100/",
+      "source": "Other",
+      "description": "Position Overview. We are looking to hire a Software Engineer focused on building web application for Kiewit's data services products. Kiewit is one ...",
+      "date": "2026-07-17",
+      "timestamp": "2026-07-17T17:10:25+00:00",
+      "fetched_at": "2026-07-17T20:39:16.380425+00:00"
+    },
+    {
+      "id": "1ca14a95645b",
+      "title": "Senior Software Engineer - Myworkdayjobs.com",
+      "company": "Costar",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://costar.wd1.myworkdayjobs.com/costarcareers/job/US-CA-San-Diego/Senior-Software-Engineer_R39277-1",
+      "source": "Workday",
+      "description": "Senior Software Engineer Job Description Overview: CoStar Group (NASDAQ: CSGP) is a leading global provider of commercial and residential real ...",
+      "date": "2026-07-17",
+      "timestamp": "2026-07-17T17:05:20+00:00",
+      "fetched_at": "2026-07-17T20:39:16.380512+00:00"
+    },
+    {
+      "id": "d018c91df1e8",
+      "title": "Sr. Data Engineer - Healthcare - Piper Companies",
+      "company": "Healthcare - Piper Companies",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.pipercompanies.com/details/169765/sr_data_engineer_healthcare",
+      "source": "Other",
+      "description": "Washington, D.C. \u00b7 Responsibilities of the Senior Data Engineer : Design, develop, and maintain scalable data pipelines to support analytics, reporting ...",
+      "date": "2026-07-17",
+      "timestamp": "2026-07-17T17:01:25+00:00",
+      "fetched_at": "2026-07-17T20:39:16.380685+00:00"
+    },
+    {
+      "id": "ea8c751c55a5",
+      "title": "Staff AI Engineer - Seattle, Washington, United States - Zoom Careers",
+      "company": "Seattle, Washington, United States - Zoom Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.zoom.us/jobs/staff-ai-engineer-seattle-washington-united-states",
+      "source": "Other",
+      "description": "What you can expectAs a Staff AI Engineer , you will develop intelligent systems capable of reasoning, planning, and executing complex workflows.",
+      "date": "2026-07-17",
+      "timestamp": "2026-07-17T16:54:11+00:00",
+      "fetched_at": "2026-07-17T20:39:16.380884+00:00"
+    },
+    {
+      "id": "17bb6c59e68d",
+      "title": "Senior Software Engineer - Myworkdayjobs.com",
+      "company": "Cryoport",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://cryoport.wd12.myworkdayjobs.com/external/job/Remote---USA/Senior-Software-Engineer_JR101650",
+      "source": "Workday",
+      "description": "Senior Software Engineer ... Cryoport Systems is a comprehensive supply chain partner for the life sciences industry, delivering specialized solutions ...",
+      "date": "2026-07-17",
+      "timestamp": "2026-07-17T16:48:29+00:00",
+      "fetched_at": "2026-07-17T20:39:16.380973+00:00"
+    },
+    {
+      "id": "f5632bfdab16",
+      "title": "Software Engineer at Barclays",
+      "company": "Barclays",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://search.jobs.barclays/job/pune/software-engineer/13015/97909780848",
+      "source": "Other",
+      "description": "Shweta Desale, a Cloud and DevOps Engineer , says Barclays is a great place for engineers to develop ... Senior Software Engineer -Java. Pune (India). 16 ...",
+      "date": "2026-07-17",
+      "timestamp": "2026-07-17T16:14:43+00:00",
+      "fetched_at": "2026-07-17T20:39:16.797807+00:00"
+    },
+    {
       "id": "efffc43a051d",
       "title": "Software Engineer - QTS Careers - Myworkdayjobs.com",
       "company": "Qtsdatacenters",
@@ -49,6 +244,81 @@
       "date": "2026-07-17",
       "timestamp": "2026-07-17T16:06:31+00:00",
       "fetched_at": "2026-07-17T16:54:39.222125+00:00"
+    },
+    {
+      "id": "a7e4baf7e4f9",
+      "title": "Data Engineer , Time and Pay Innovation - Job ID: 10476378 - Amazon Careers",
+      "company": "Job ID: 10476378 - Amazon Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.amazon.jobs/en/jobs/10476378/data-engineer-time-and-pay-innovation",
+      "source": "Other",
+      "description": "Our Time and Attendance group is seeking a bright and motivated Data Engineer for leading the launch of timekeeping systems to support business ...",
+      "date": "2026-07-17",
+      "timestamp": "2026-07-17T16:02:15+00:00",
+      "fetched_at": "2026-07-17T20:39:16.381281+00:00"
+    },
+    {
+      "id": "a01a8538907f",
+      "title": "Data Engineer , AFT BI Content - Job ID: 10476644 - Amazon Careers",
+      "company": "Job ID: 10476644 - Amazon Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.amazon.jobs/en/jobs/10476644/data-engineer-aft-bi-content",
+      "source": "Other",
+      "description": "As a Data Engineer on this team, you will build and maintain data pipelines that transform raw operational signals (robotic pick/stow events, labor ...",
+      "date": "2026-07-17",
+      "timestamp": "2026-07-17T15:56:54+00:00",
+      "fetched_at": "2026-07-17T20:39:16.381441+00:00"
+    },
+    {
+      "id": "27fe4e42d2fc",
+      "title": "Careers at Sony Interactive Entertainment I Software Engineer I",
+      "company": "Sony Interactive Entertainment I Software Engineer I",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.playstation.com/software-engineer-i/job/6104600004",
+      "source": "Other",
+      "description": "We are looking for a Software Engineer to help develop, maintain, and improve the application framework powering PlayStation user experiences across ...",
+      "date": "2026-07-17",
+      "timestamp": "2026-07-17T15:21:45+00:00",
+      "fetched_at": "2026-07-17T20:39:16.381707+00:00"
+    },
+    {
+      "id": "7896bb8c6612",
+      "title": "Senior Software Engineer - Myworkdayjobs.com",
+      "company": "Ascensushr",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ascensushr.wd1.myworkdayjobs.com/en-US/ascensuscareers/job/Senior-Software-Engineer--IT-Software-Engineering_R0021793",
+      "source": "Workday",
+      "description": "Senior Software Engineer , IT Software Engineering \u00b7 AI-powered applications and agents \u00b7 Retrieval-augmented generation, or RAG, pipelines \u00b7 Agent ...",
+      "date": "2026-07-17",
+      "timestamp": "2026-07-17T15:08:25+00:00",
+      "fetched_at": "2026-07-17T20:39:16.381787+00:00"
+    },
+    {
+      "id": "c5b31b3a4cbd",
+      "title": "System Software Engineer , GPU Development Tools - Careers at NVIDIA Corporation",
+      "company": "NVIDIA Corporation",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.nvidia.com/careers/job/893394874070?linkId=100000423214501",
+      "source": "Other",
+      "description": "System Software Engineer , GPU Development Tools. China, Shanghai. Apply Now.",
+      "date": "2026-07-17",
+      "timestamp": "2026-07-17T15:06:45+00:00",
+      "fetched_at": "2026-07-17T20:39:16.798580+00:00"
     },
     {
       "id": "9736b960e17e",
