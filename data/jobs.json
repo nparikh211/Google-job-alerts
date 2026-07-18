@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-07-18T16:39:58.076699+00:00",
-  "total_jobs": 5918,
+  "last_updated": "2026-07-18T20:33:50.439986+00:00",
+  "total_jobs": 5930,
   "stats": {
-    "total_companies": 2986,
+    "total_companies": 2992,
     "total_roles": 83,
     "regions": {
-      "India": 3841,
-      "Philippines": 1211,
-      "Remote": 756,
+      "India": 3846,
+      "Philippines": 1215,
+      "Remote": 759,
       "Unknown": 135
     },
     "sources": {
-      "Other": 4634,
+      "Other": 4643,
       "Greenhouse": 295,
       "Workday": 270,
-      "LinkedIn": 230,
-      "Ashby": 182,
+      "LinkedIn": 232,
+      "Ashby": 183,
       "iCIMS": 75,
       "Breezy": 65,
       "Lever": 43,
@@ -36,6 +36,81 @@
   },
   "jobs": [
     {
+      "id": "613a75167272",
+      "title": "38M Software Engineer : r/Salary - Reddit",
+      "company": "Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/Salary/comments/1v03t3d/38m_software_engineer/",
+      "source": "Other",
+      "description": "Join. Options. Award this post. Report. 38M Software Engineer . shit post / satire. r/Salary - 38M Software Engineer .",
+      "date": "2026-07-18",
+      "timestamp": "2026-07-18T19:45:09+00:00",
+      "fetched_at": "2026-07-18T20:33:50.321530+00:00"
+    },
+    {
+      "id": "6a3dfb3f5468",
+      "title": "Software Engineer I in Pune, India, 411006 - Mastercard",
+      "company": "Mastercard",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mastercard.com/us/en/job/R-282195/Software-Engineer-I",
+      "source": "Other",
+      "description": "Similar Jobs \u00b7 Senior Software Engineer \u00b7 Software Engineer II \u00b7 Lead Software Engineer (Mainframe Testing) \u00b7 Software Engineer II ( Software Engineer in ...",
+      "date": "2026-07-18",
+      "timestamp": "2026-07-18T17:58:57+00:00",
+      "fetched_at": "2026-07-18T20:33:50.321722+00:00"
+    },
+    {
+      "id": "e83bce64f0e4",
+      "title": "Software Engineer in Remote, Kentucky | Technology and Digital Analytics at Humana",
+      "company": "Humana",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.humana.com/us/en/job/R-422911/Software-Engineer",
+      "source": "Other",
+      "description": "Similar jobs ; Senior Full Stack Engineer . Available in 3 locationsAvailable in 3 locations \u00b7 No \u00b7 R-419311 ; Principal, AI Engineer - Agent Enablement ...",
+      "date": "2026-07-18",
+      "timestamp": "2026-07-18T17:30:36+00:00",
+      "fetched_at": "2026-07-18T20:33:50.321858+00:00"
+    },
+    {
+      "id": "8093c0c78fbf",
+      "title": "Senior Full Stack Engineer in Green Bay, Wisconsin - Humana Careers",
+      "company": "Humana Careers",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.humana.com/us/en/job/R-423110/Senior-Full-Stack-Engineer",
+      "source": "Other",
+      "description": "Apply for Senior Full Stack Engineer job with Humana in Green Bay, Wisconsin. Technology and Digital Analytics at Humana.",
+      "date": "2026-07-18",
+      "timestamp": "2026-07-18T17:18:34+00:00",
+      "fetched_at": "2026-07-18T20:33:50.413434+00:00"
+    },
+    {
+      "id": "bf847086a2fc",
+      "title": "Senior Software Engineer - United States @ Powerline - Jobs",
+      "company": "Powerline",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/powerline/2ad3ff9f-6f0f-4eab-bcfb-c4b0c3a24f86",
+      "source": "Ashby",
+      "description": "About the role: As a Senior Software Engineer at Powerline, you will focus primarily on backend systems that power renewable and battery storage ...",
+      "date": "2026-07-18",
+      "timestamp": "2026-07-18T17:03:53+00:00",
+      "fetched_at": "2026-07-18T20:33:50.321962+00:00"
+    },
+    {
       "id": "2ce6ddfa7861",
       "title": "Staff Software Engineer , Technical Lead, Lakebase Manager (LBM) - Databricks",
       "company": "Databricks",
@@ -49,6 +124,36 @@
       "date": "2026-07-18",
       "timestamp": "2026-07-18T15:49:47+00:00",
       "fetched_at": "2026-07-18T16:39:58.050657+00:00"
+    },
+    {
+      "id": "6790c2904038",
+      "title": "Toyon Research Corporation - Software Engineer",
+      "company": "Toyon Research Corporation",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4340207",
+      "source": "Other",
+      "description": "This position is in-person. Toyon is seeking highly qualified Software Engineer candidates to develop software in the Python or C++ languages in ...",
+      "date": "2026-07-18",
+      "timestamp": "2026-07-18T15:44:31+00:00",
+      "fetched_at": "2026-07-18T20:33:50.322399+00:00"
+    },
+    {
+      "id": "ef28f2ed36c2",
+      "title": "Software Engineer in Minneapolis, Minnesota, United States of America - RBC careers",
+      "company": "RBC careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.rbc.com/ca/en/job/RBCAA0088R0000175092EXTERNALENCA/Software-Engineer",
+      "source": "Other",
+      "description": "Apply for Software Engineer job with Royal Bank of Canada in Minneapolis, Minnesota, United States of America. Technology | Analytics | Research ...",
+      "date": "2026-07-18",
+      "timestamp": "2026-07-18T15:01:37+00:00",
+      "fetched_at": "2026-07-18T20:33:50.322554+00:00"
     },
     {
       "id": "2e1ade7fc89e",
@@ -96,6 +201,21 @@
       "fetched_at": "2026-07-18T16:39:57.978450+00:00"
     },
     {
+      "id": "4842135ec183",
+      "title": "Jack & Jill hiring Backend Engineer at Tavus in San Francisco, CA | LinkedIn",
+      "company": "Tavus in San Francisco, CA",
+      "role": "Backend Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/backend-engineer-at-tavus-at-jack-jill-4441725049",
+      "source": "LinkedIn",
+      "description": "Backend Engineer . Backend Engineer . Dispatch. San Francisco, CA 5 months ago. Software Engineer , Backend. Software Engineer , Backend. Sleeper. San ...",
+      "date": "2026-07-18",
+      "timestamp": "2026-07-18T13:30:02+00:00",
+      "fetched_at": "2026-07-18T20:33:50.414524+00:00"
+    },
+    {
       "id": "2878caed9329",
       "title": "Scalable GmbH AI Platform Engineer (m/f/x) | SmartRecruiters",
       "company": "Scalablegmbh",
@@ -141,6 +261,21 @@
       "fetched_at": "2026-07-18T16:39:57.978924+00:00"
     },
     {
+      "id": "18e5195189f3",
+      "title": "Piq Energy hiring Full Stack Engineer in Athens, Attiki, Greece | LinkedIn",
+      "company": "LinkedIn",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/4339952925/",
+      "source": "LinkedIn",
+      "description": "Fullstack Software Engineer (Remote). Keragon. Athens, Attiki, Greece 4 ... Full-stack AI Engineer (Athens, Greece). D ONE \u2013 Data Driven Value ...",
+      "date": "2026-07-18",
+      "timestamp": "2026-07-18T11:57:49+00:00",
+      "fetched_at": "2026-07-18T20:33:50.324052+00:00"
+    },
+    {
       "id": "80f5eefc105d",
       "title": "Apply For Senior Staff Software Engineer - Stryker",
       "company": "Stryker",
@@ -156,6 +291,36 @@
       "fetched_at": "2026-07-18T16:39:57.979243+00:00"
     },
     {
+      "id": "4c2c685710a1",
+      "title": "Specialist Software Engineer , Digital Assistants - Careers at Nationwide",
+      "company": "Nationwide",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.nationwide.com/specialist-software-engineer-digital-assistants/job/73EEC61709BA8B02C2B4B40235B33C0A",
+      "source": "Other",
+      "description": "Join Nationwide in Columbus, OH! Apply for the Specialist Software Engineer , Digital Assistants role today and start your journey with us.",
+      "date": "2026-07-18",
+      "timestamp": "2026-07-18T10:13:03+00:00",
+      "fetched_at": "2026-07-18T20:33:50.415466+00:00"
+    },
+    {
+      "id": "e58ea6589dc5",
+      "title": "Backend Engineer (6-10 years of experience), Vancouver, Canada | Nutanix Careers",
+      "company": "10 years of experience), Vancouver, Canada | Nutanix Careers",
+      "role": "Backend Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.nutanix.com/en/jobs/32046/backend-engineer-6-10-years-of-experience/",
+      "source": "Other",
+      "description": "Backend Engineer (6-10 years of experience). Engineering \u00b7 Vancouver, Canada ... Senior Software Engineer - LLM Inference. Save Saved. Engineering ...",
+      "date": "2026-07-18",
+      "timestamp": "2026-07-18T09:22:53+00:00",
+      "fetched_at": "2026-07-18T20:33:50.415728+00:00"
+    },
+    {
       "id": "1eaca867d82e",
       "title": "Staff Software Engineer , Deep Learning Acceleration - Aurora",
       "company": "Aurora",
@@ -169,6 +334,21 @@
       "date": "2026-07-18",
       "timestamp": "2026-07-18T09:19:09+00:00",
       "fetched_at": "2026-07-18T16:39:58.051965+00:00"
+    },
+    {
+      "id": "a58ceaba26b2",
+      "title": "AI & Distributed Systems Backend Engineer - Senior - Consulting - Location OPEN Jobs in ...",
+      "company": "Senior - Consulting - Location OPEN Jobs in ...",
+      "role": "Backend Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://ey.jobs/locations/north-carolina/job-titles/ai-distributed-systems-backend-engineer-senior-consulting-location-open/jobs/?q=executive+assistant&sort=date",
+      "source": "Other",
+      "description": "AI & Distributed Systems Backend Engineer - Senior - Consulting - Location OPEN Jobs in North Carolina, updated and verified daily by ...",
+      "date": "2026-07-18",
+      "timestamp": "2026-07-18T05:49:44+00:00",
+      "fetched_at": "2026-07-18T20:33:50.324691+00:00"
     },
     {
       "id": "590f7afa4a7a",
