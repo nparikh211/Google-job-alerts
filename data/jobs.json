@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-07-18T12:40:51.065258+00:00",
-  "total_jobs": 5907,
+  "last_updated": "2026-07-18T16:39:58.076699+00:00",
+  "total_jobs": 5918,
   "stats": {
-    "total_companies": 2984,
-    "total_roles": 82,
+    "total_companies": 2986,
+    "total_roles": 83,
     "regions": {
-      "India": 3834,
-      "Philippines": 1208,
-      "Remote": 755,
+      "India": 3841,
+      "Philippines": 1211,
+      "Remote": 756,
       "Unknown": 135
     },
     "sources": {
-      "Other": 4624,
+      "Other": 4634,
       "Greenhouse": 295,
       "Workday": 270,
       "LinkedIn": 230,
@@ -19,7 +19,7 @@
       "iCIMS": 75,
       "Breezy": 65,
       "Lever": 43,
-      "SmartRecruiters": 37,
+      "SmartRecruiters": 38,
       "Workable": 37,
       "Indeed": 24,
       "Recruitee": 6,
@@ -35,6 +35,141 @@
     }
   },
   "jobs": [
+    {
+      "id": "2ce6ddfa7861",
+      "title": "Staff Software Engineer , Technical Lead, Lakebase Manager (LBM) - Databricks",
+      "company": "Databricks",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.databricks.com/company/careers/engineering---pipeline/staff-software-engineer-technical-lead-lakebase-manager-lbm-8639477002",
+      "source": "Other",
+      "description": "Staff Software Engineer , Technical Lead, Lakebase Manager (LBM), Bellevue, Washington. Join us! Together we can use data to solve the challenges ...",
+      "date": "2026-07-18",
+      "timestamp": "2026-07-18T15:49:47+00:00",
+      "fetched_at": "2026-07-18T16:39:58.050657+00:00"
+    },
+    {
+      "id": "2e1ade7fc89e",
+      "title": "Senior Site Reliability Engineer in United States - California - Sunnyvale - Abbott Jobs",
+      "company": "California - Sunnyvale - Abbott Jobs",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.jobs.abbott/us/en/job/31156290/Senior-Site-Reliability-Engineer",
+      "source": "Other",
+      "description": "Relevant professional certifications such as: Microsoft Certified Azure DevOps Engineer ... Mobile Software Engineer II. Location United States ...",
+      "date": "2026-07-18",
+      "timestamp": "2026-07-18T14:05:06+00:00",
+      "fetched_at": "2026-07-18T16:39:57.977700+00:00"
+    },
+    {
+      "id": "15744102300b",
+      "title": "Software Engineer in Bangalore, India | Product and Engineering at Cisco - Cisco Careers",
+      "company": "Cisco",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2014239EXTERNALENGLOBAL/Software-Engineer",
+      "source": "Other",
+      "description": "Join our team as a Senior Software Engineer - Cloud Backend and help build scalable, reliable cloud-based networking solutions. Collaborate with ...",
+      "date": "2026-07-18",
+      "timestamp": "2026-07-18T13:48:46+00:00",
+      "fetched_at": "2026-07-18T16:39:57.977896+00:00"
+    },
+    {
+      "id": "a6241e784f5a",
+      "title": "Front-End Engineer for ArcGIS Enterprise Job | Esri Career Opportunity",
+      "company": "Front",
+      "role": "End Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.esri.com/careers/5190253007?gh_jid=5190253007",
+      "source": "Other",
+      "description": "Software Engineer I - Front-End Engineer for ArcGIS Enterprise. Apply Now. Overview. ArcGIS Enterprise is a suite of products delivering industry ...",
+      "date": "2026-07-18",
+      "timestamp": "2026-07-18T13:39:43+00:00",
+      "fetched_at": "2026-07-18T16:39:57.978450+00:00"
+    },
+    {
+      "id": "2878caed9329",
+      "title": "Scalable GmbH AI Platform Engineer (m/f/x) | SmartRecruiters",
+      "company": "Scalablegmbh",
+      "role": "Platform Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.smartrecruiters.com/ScalableGmbH/744000138264394-ai-platform-engineer-m-f-x-",
+      "source": "SmartRecruiters",
+      "description": "AI Platform Engineer (m/f/x) ... Other jobs at Scalable GmbH. Fullstack Engineer - Banking Operations (m/f/x). Berlin, Germany. Fullstack Engineer - ...",
+      "date": "2026-07-18",
+      "timestamp": "2026-07-18T13:18:56+00:00",
+      "fetched_at": "2026-07-18T16:39:58.051094+00:00"
+    },
+    {
+      "id": "3c128d555fa7",
+      "title": "Software Engineer III : AI/ML Solutions - JPMC Candidate Experience page Careers",
+      "company": "JPMC Candidate Experience page Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/210770894",
+      "source": "Other",
+      "description": "As a Software Engineer III (AI/Machine Learning Platform Engineer ) at ... Principal Software Engineer - AI Engineer . Jersey City, NJ, United ...",
+      "date": "2026-07-18",
+      "timestamp": "2026-07-18T12:23:10+00:00",
+      "fetched_at": "2026-07-18T16:39:57.978749+00:00"
+    },
+    {
+      "id": "854afe30d80c",
+      "title": "Software Engineer - Job Detail | Careers Marketplace - Siemens",
+      "company": "Job Detail | Careers Marketplace - Siemens",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/502556",
+      "source": "Other",
+      "description": "Software Engineer . Job ID. 502556. Posted since. 17-Jul-2026. Organization ... Software Engineer - C++. Pune, Maharashtra, India. Lead Software ...",
+      "date": "2026-07-18",
+      "timestamp": "2026-07-18T12:13:20+00:00",
+      "fetched_at": "2026-07-18T16:39:57.978924+00:00"
+    },
+    {
+      "id": "80f5eefc105d",
+      "title": "Apply For Senior Staff Software Engineer - Stryker",
+      "company": "Stryker",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.stryker.com/senior-staff-software-engineer/job/D31EC5C7C10BD8CB6C47DA88DE91FBBB",
+      "source": "Other",
+      "description": "Job description. Stryker is seeking a Staff Software Engineer to join our Endoscopy division. In this role, you will lead the design and ...",
+      "date": "2026-07-18",
+      "timestamp": "2026-07-18T11:33:49+00:00",
+      "fetched_at": "2026-07-18T16:39:57.979243+00:00"
+    },
+    {
+      "id": "1eaca867d82e",
+      "title": "Staff Software Engineer , Deep Learning Acceleration - Aurora",
+      "company": "Aurora",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://aurora.tech/careers/8571618002?gh_jid=8571618002",
+      "source": "Other",
+      "description": "Staff Software Engineer , Deep Learning Acceleration. Who we are. Aurora's mission is to deliver the benefits of self-driving technology safely ...",
+      "date": "2026-07-18",
+      "timestamp": "2026-07-18T09:19:09+00:00",
+      "fetched_at": "2026-07-18T16:39:58.051965+00:00"
+    },
     {
       "id": "590f7afa4a7a",
       "title": "Software Engineer , DOCA SDK - Careers at NVIDIA Corporation",
@@ -126,6 +261,21 @@
       "fetched_at": "2026-07-18T05:54:19.581190+00:00"
     },
     {
+      "id": "0ffea0dc7b22",
+      "title": "jBase/PICK Software Engineer II at Staples, Inc.",
+      "company": "Staples, Inc.",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.staples.com/en/job/deerfield-beach/jbase-pick-software-engineer-ii/44412/97932418272",
+      "source": "Other",
+      "description": "Role Summary: The Software Engineer II will design, develop, support, and maintain business-critical enterprise applications, integrations, and data ...",
+      "date": "2026-07-17",
+      "timestamp": "2026-07-17T23:45:25+00:00",
+      "fetched_at": "2026-07-18T16:39:57.980813+00:00"
+    },
+    {
       "id": "fdc1ae1960ac",
       "title": "AI Engineer - San Diego, California, United States - 42414 - Jacobs Careers",
       "company": "San Diego, California, United States - 42414 - Jacobs Careers",
@@ -154,6 +304,21 @@
       "date": "2026-07-17",
       "timestamp": "2026-07-17T23:07:51+00:00",
       "fetched_at": "2026-07-18T05:54:19.664273+00:00"
+    },
+    {
+      "id": "d5d647376378",
+      "title": "Software Engineer in Beavercreek, Ohio (No Remote) - Leidos Careers",
+      "company": "Leidos Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.leidos.com/jobs/18009248-software-engineer",
+      "source": "Other",
+      "description": "Software Engineer \u00b7 Bachelor's degree in software engineering, computer engineering or related field and 4+ years of prior relevant experience or a ...",
+      "date": "2026-07-17",
+      "timestamp": "2026-07-17T23:07:10+00:00",
+      "fetched_at": "2026-07-18T16:39:57.981123+00:00"
     },
     {
       "id": "939f4aa3609b",
