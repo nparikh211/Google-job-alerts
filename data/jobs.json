@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-07-19T16:39:53.215140+00:00",
-  "total_jobs": 5965,
+  "last_updated": "2026-07-19T20:34:23.931697+00:00",
+  "total_jobs": 5981,
   "stats": {
-    "total_companies": 3011,
+    "total_companies": 3018,
     "total_roles": 83,
     "regions": {
-      "India": 3861,
-      "Philippines": 1232,
-      "Remote": 762,
+      "India": 3873,
+      "Philippines": 1235,
+      "Remote": 763,
       "Unknown": 135
     },
     "sources": {
-      "Other": 4669,
-      "Greenhouse": 296,
+      "Other": 4683,
+      "Greenhouse": 298,
       "Workday": 271,
       "LinkedIn": 236,
       "Ashby": 185,
@@ -36,6 +36,186 @@
   },
   "jobs": [
     {
+      "id": "64b880b8691e",
+      "title": "Software Engineer at Ford Motor Company - Ford Careers",
+      "company": "Ford Motor Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.careers.ford.com/job/dearborn/software-engineer/48560/98011355664",
+      "source": "Other",
+      "description": "Software Engineer . Job ID: 66471. Location: Dearborn, Michigan. Category: PD Operations and Quality.",
+      "date": "2026-07-19",
+      "timestamp": "2026-07-19T19:24:39+00:00",
+      "fetched_at": "2026-07-19T20:34:23.836722+00:00"
+    },
+    {
+      "id": "3ee2c6f08568",
+      "title": "Second Databricks Data Engineer Associate Exam Suspension \u2013 Looking for Advice",
+      "company": "Unknown Company",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://community.databricks.com/t5/certifications/second-databricks-data-engineer-associate-exam-suspension/td-p/163343",
+      "source": "Other",
+      "description": "My Databricks Data Engineer Associate exam was suspended for the second time while taking it online. During this attempt, I had reached - 163343.",
+      "date": "2026-07-19",
+      "timestamp": "2026-07-19T19:21:09+00:00",
+      "fetched_at": "2026-07-19T20:34:23.837364+00:00"
+    },
+    {
+      "id": "ce38d365d114",
+      "title": "DevOps Engineer | LivePerson Careers",
+      "company": "LivePerson Careers",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.liveperson.com/job/7728936",
+      "source": "Other",
+      "description": "DevOps Engineer . Dallas, Texas. three people. Cloud. Apply. Location: Dallas, Texas Remote Status: Hybrid. LivePerson (NASDAQ: LPSN) is a leader in ...",
+      "date": "2026-07-19",
+      "timestamp": "2026-07-19T18:15:41+00:00",
+      "fetched_at": "2026-07-19T20:34:23.837528+00:00"
+    },
+    {
+      "id": "71d9060c4e5e",
+      "title": "Specialist Software Engineer Jobs at Amgen in Tampa",
+      "company": "Amgen in Tampa",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.amgen.com/en/job/tampa/specialist-software-engineer/87/97994302128",
+      "source": "Other",
+      "description": "Explore the details of a Specialist Software Engineer career in Tampa. Live. Win. Thrive. Search and apply for a rewarding new career at Amgen.",
+      "date": "2026-07-19",
+      "timestamp": "2026-07-19T18:06:44+00:00",
+      "fetched_at": "2026-07-19T20:34:23.837686+00:00"
+    },
+    {
+      "id": "0eadff5f9c32",
+      "title": "Specialist Software Engineer Jobs at Amgen in Thousand Oaks",
+      "company": "Amgen in Thousand Oaks",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.amgen.com/en/job/thousand-oaks/specialist-software-engineer/87/97994302176",
+      "source": "Other",
+      "description": "Explore the details of a Specialist Software Engineer career in Thousand Oaks. Live. Win. Thrive. Search and apply for a rewarding new career at ...",
+      "date": "2026-07-19",
+      "timestamp": "2026-07-19T18:06:43+00:00",
+      "fetched_at": "2026-07-19T20:34:23.837850+00:00"
+    },
+    {
+      "id": "fa118bb16e9e",
+      "title": "Staff Software Engineer Cloud Foundations in United States | GitHub, Inc.",
+      "company": "GitHub, Inc.",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.github.careers/early-in-profession/jobs/5418?lang=en-us",
+      "source": "Other",
+      "description": "early-in-profession is hiring a Staff Software Engineer Cloud Foundations in United States. Review all of the job details and apply today!",
+      "date": "2026-07-19",
+      "timestamp": "2026-07-19T17:31:48+00:00",
+      "fetched_at": "2026-07-19T20:34:23.838137+00:00"
+    },
+    {
+      "id": "e9596eb7468c",
+      "title": "Software Engineer at Ford Motor Company",
+      "company": "Ford Motor Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.careers.ford.com/job/chennai/software-engineer/48560/98006866448",
+      "source": "Other",
+      "description": "Software Engineer . Job ID: 66675. Category: Enterprise Technology. Location: Chennai, India. Work Type: On-site. Apply Now. Working within our Global ...",
+      "date": "2026-07-19",
+      "timestamp": "2026-07-19T17:06:09+00:00",
+      "fetched_at": "2026-07-19T20:34:23.838270+00:00"
+    },
+    {
+      "id": "02f54cab8738",
+      "title": "Job Application for Staff Software Engineer at Lab37 - Greenhouse",
+      "company": "Lab37",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/lab37/jobs/8635547002",
+      "source": "Greenhouse",
+      "description": "Build the software platform that connects kitchen teams, cloud services, and robotic production systems. As a Staff Full-Stack Software Engineer , you ...",
+      "date": "2026-07-19",
+      "timestamp": "2026-07-19T16:44:24+00:00",
+      "fetched_at": "2026-07-19T20:34:23.838413+00:00"
+    },
+    {
+      "id": "a92db3508c29",
+      "title": "Senior Software Engineer - REDAPL Graph Engine | Datadog Careers",
+      "company": "REDAPL Graph Engine | Datadog Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.datadoghq.com/detail/7959962/",
+      "source": "Other",
+      "description": "We are looking for a Senior Software Engineer to help us take REDAPL, our Referential Data Platform, to the next level. REDAPL is Datadog's main ...",
+      "date": "2026-07-19",
+      "timestamp": "2026-07-19T15:32:48+00:00",
+      "fetched_at": "2026-07-19T20:34:23.838725+00:00"
+    },
+    {
+      "id": "62a55ca11801",
+      "title": "Job Application for Software Engineer at Robinhood - Greenhouse",
+      "company": "Robinhood",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/robinhood/jobs/7975531",
+      "source": "Greenhouse",
+      "description": "Software Engineer . Menlo Park, CA. Apply. Join us in building the future of finance. Our mission is to democratize finance for all. An estimated $124 ...",
+      "date": "2026-07-19",
+      "timestamp": "2026-07-19T15:15:15+00:00",
+      "fetched_at": "2026-07-19T20:34:23.838819+00:00"
+    },
+    {
+      "id": "73cd69ff1e69",
+      "title": "Sentinel Sr Principal DevOps Engineer - 16639* | Northrop Grumman",
+      "company": "16639* | Northrop Grumman",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.northropgrumman.com/careers/job/1340072711386-sentinel-sr-principal-devops-engineer-16639--united-states-utah-roy",
+      "source": "Other",
+      "description": "Description \u00b7 1. Senior Principal Engineer \u00b7 2. Senior DevOps Engineer \u00b7 3. Senior Software Engineer \u00b7 4. Senior System Engineer \u00b7 5. Principal Software ...",
+      "date": "2026-07-19",
+      "timestamp": "2026-07-19T14:54:25+00:00",
+      "fetched_at": "2026-07-19T20:34:23.905838+00:00"
+    },
+    {
+      "id": "546f2a1c0b2e",
+      "title": "Senior Software Engineer Angular/Python - HigherEdJobs",
+      "company": "HigherEdJobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.higheredjobs.com/details.cfm?JobCode=179503553",
+      "source": "Other",
+      "description": "The Senior Software Engineer is responsible for the research, design, development, analysis, testing, and implementation of software operating or ...",
+      "date": "2026-07-19",
+      "timestamp": "2026-07-19T14:47:28+00:00",
+      "fetched_at": "2026-07-19T20:34:23.839080+00:00"
+    },
+    {
       "id": "b0a42abc8747",
       "title": "Associate Software Engineer at Boeing",
       "company": "Boeing",
@@ -51,6 +231,36 @@
       "fetched_at": "2026-07-19T16:39:53.189630+00:00"
     },
     {
+      "id": "a4a77c6c10de",
+      "title": "Software Engineer in Budapest, Hungary - Certara Careers",
+      "company": "Certara Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.certara.com/talent-network/jobs/2493?lang=en-us",
+      "source": "Other",
+      "description": "Certara Talent Network is hiring a Software Engineer in Budapest, Hungary. Review all of the job details and apply today!",
+      "date": "2026-07-19",
+      "timestamp": "2026-07-19T13:39:52+00:00",
+      "fetched_at": "2026-07-19T20:34:23.839379+00:00"
+    },
+    {
+      "id": "a0d444e97364",
+      "title": "Software Engineer , AI/ML, Agentic Ecosystem Platform \u2014 Google Careers",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/105278467120997062-software-engineer-aiml-agentic-ecosystem-platform",
+      "source": "Other",
+      "description": "Senior Software Engineer , Search, Mobile (Android). London, UK ... Senior Applied AI/ ML Engineer . Bengaluru, Karnataka, India \u00b7 Facilities ...",
+      "date": "2026-07-19",
+      "timestamp": "2026-07-19T13:22:41+00:00",
+      "fetched_at": "2026-07-19T20:34:23.839628+00:00"
+    },
+    {
       "id": "7def74cf4dcd",
       "title": "Software Engineer - AI Agent Platforms | Careers - Workato",
       "company": "AI Agent Platforms | Careers - Workato",
@@ -64,6 +274,21 @@
       "date": "2026-07-19",
       "timestamp": "2026-07-19T13:16:20+00:00",
       "fetched_at": "2026-07-19T16:39:53.189804+00:00"
+    },
+    {
+      "id": "29c0b9f67851",
+      "title": "Cloud Engineer Jobs in Florida - Orlando Jobs",
+      "company": "Orlando Jobs",
+      "role": "Cloud Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.orlandojobs.com/jobs/cloud-engineer/florida?page=2&jobId=789715",
+      "source": "Other",
+      "description": "Published: 7/12/2026. 2 / 7. Senior DevOps Engineer . bookmark. LTM. Tampa, FL, USA. Published: 7/14/2026. Cloud Engineer . Full time. Apply.",
+      "date": "2026-07-19",
+      "timestamp": "2026-07-19T12:55:43+00:00",
+      "fetched_at": "2026-07-19T20:34:23.906864+00:00"
     },
     {
       "id": "9ad40d504a23",
@@ -109,6 +334,21 @@
       "date": "2026-07-19",
       "timestamp": "2026-07-19T10:14:11+00:00",
       "fetched_at": "2026-07-19T16:39:53.190313+00:00"
+    },
+    {
+      "id": "d4af0227a1d4",
+      "title": "Junior Software Engineer in Cincinnati, Ohio | Medpace, Inc.",
+      "company": "Medpace, Inc.",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.medpace.com/careers/jobs/12385?lang=en-us",
+      "source": "Other",
+      "description": "Medpace Careers is hiring a Junior Software Engineer in Cincinnati, Ohio. Review all of the job details and apply today!",
+      "date": "2026-07-19",
+      "timestamp": "2026-07-19T09:50:06+00:00",
+      "fetched_at": "2026-07-19T20:34:23.907544+00:00"
     },
     {
       "id": "e420f3ef4ec7",
