@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-07-19T06:19:21.231381+00:00",
-  "total_jobs": 5943,
+  "last_updated": "2026-07-19T09:39:43.177176+00:00",
+  "total_jobs": 5951,
   "stats": {
-    "total_companies": 2999,
+    "total_companies": 3005,
     "total_roles": 83,
     "regions": {
-      "India": 3855,
-      "Philippines": 1219,
-      "Remote": 759,
+      "India": 3860,
+      "Philippines": 1220,
+      "Remote": 761,
       "Unknown": 135
     },
     "sources": {
-      "Other": 4652,
+      "Other": 4657,
       "Greenhouse": 296,
       "Workday": 271,
-      "LinkedIn": 233,
-      "Ashby": 184,
-      "iCIMS": 75,
+      "LinkedIn": 234,
+      "Ashby": 185,
+      "iCIMS": 76,
       "Breezy": 65,
       "Lever": 43,
       "SmartRecruiters": 38,
@@ -35,6 +35,111 @@
     }
   },
   "jobs": [
+    {
+      "id": "8962c4da8bb4",
+      "title": "Data Engineer | MN Office of the State Auditor (OSA)",
+      "company": "MN Office of the State Auditor",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.auditor.state.mn.us/about/careers/data-engineer/",
+      "source": "Other",
+      "description": "Paul, Minnesota. This position will serve as the primary data engineer , responsible for planning, designing, developing, and managing modern data ...",
+      "date": "2026-07-19",
+      "timestamp": "2026-07-19T07:26:00+00:00",
+      "fetched_at": "2026-07-19T09:39:43.020094+00:00"
+    },
+    {
+      "id": "46cd290346ad",
+      "title": "Full Stack Software Engineer in Remote - LMI",
+      "company": "LMI",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers-lmi.icims.com/jobs/14295/full-stack-software-engineer/job",
+      "source": "iCIMS",
+      "description": "We're looking for a Full Stack Tech Software Engineer with expertise across the frontend (React, TypeScript, CSS, HTML) and backend (Node.js, ...",
+      "date": "2026-07-19",
+      "timestamp": "2026-07-19T07:15:12+00:00",
+      "fetched_at": "2026-07-19T09:39:43.020244+00:00"
+    },
+    {
+      "id": "1dd9d8051883",
+      "title": "Senior Software Engineer , RL Post-Training Frameworks - Careers at NVIDIA Corporation",
+      "company": "NVIDIA Corporation",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.nvidia.com/careers/job/893396064200?utm_source=vuejobs.com&ref=vuejobs.com",
+      "source": "Other",
+      "description": "Senior Software Engineer , RL Post-Training Frameworks \u00b7 MS or PhD in Computer Science, Computer Engineering, or a related field (or equivalent ...",
+      "date": "2026-07-19",
+      "timestamp": "2026-07-19T03:32:17+00:00",
+      "fetched_at": "2026-07-19T09:39:43.020533+00:00"
+    },
+    {
+      "id": "b3669de2dfca",
+      "title": "AI Engineer in United States - PlanSource Careers",
+      "company": "PlanSource Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.plansource.com/jobs/4843",
+      "source": "Other",
+      "description": "Job Description \u00b7 AI Engineer \u00b7 About the Role \u00b7 At PlanSource, a leading cloud-based provider of benefits administration technology and services, we are ...",
+      "date": "2026-07-19",
+      "timestamp": "2026-07-19T02:56:58+00:00",
+      "fetched_at": "2026-07-19T09:39:43.020670+00:00"
+    },
+    {
+      "id": "f75c2371c1de",
+      "title": "Software Engineer @ Zania - Jobs",
+      "company": "Zania",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/Zania/008b2087-e8fb-4b5e-a39f-75d40ab02c57",
+      "source": "Ashby",
+      "description": "Software Engineer . Location. Palo Alto, CA. Address. San Francisco, California. Employment Type. Full time. Location Type. Hybrid. Department.",
+      "date": "2026-07-19",
+      "timestamp": "2026-07-19T02:24:26+00:00",
+      "fetched_at": "2026-07-19T09:39:43.020762+00:00"
+    },
+    {
+      "id": "081b23af9ced",
+      "title": "Software Engineer , Platform ($200k-$250k + Equity) at Duckbill - LinkedIn",
+      "company": "Duckbill",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/software-engineer-platform-%24200k-%24250k-%2B-equity-at-duckbill-at-jack-jill-4441756004",
+      "source": "LinkedIn",
+      "description": "Senior Software Engineer . Cline. San Francisco, CA 2 weeks ago. Senior Backend Engineer . Senior Backend Engineer ... Founding Platform Engineer .",
+      "date": "2026-07-19",
+      "timestamp": "2026-07-19T01:29:39+00:00",
+      "fetched_at": "2026-07-19T09:39:43.149980+00:00"
+    },
+    {
+      "id": "f1a6816f562d",
+      "title": "Software Engineer Jobs in Usa | Apply for Vacancies - Selby Jennings",
+      "company": "Apply for Vacancies - Selby Jennings",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.selbyjennings.com/en-hk/jobs/f-software-engineer/lc-usa",
+      "source": "Other",
+      "description": "Staff Backend AI Engineer . New York / South Florida / Remote ... Full Stack Engineer to join a high-impact product engineering team ...",
+      "date": "2026-07-19",
+      "timestamp": "2026-07-19T00:42:37+00:00",
+      "fetched_at": "2026-07-19T09:39:43.020908+00:00"
+    },
     {
       "id": "06f8f5bbc18c",
       "title": "Failed an IQ test screening for software engineer role : r/leetcode - Reddit",
@@ -79,6 +184,21 @@
       "date": "2026-07-18",
       "timestamp": "2026-07-18T23:01:42+00:00",
       "fetched_at": "2026-07-19T06:19:21.128625+00:00"
+    },
+    {
+      "id": "641448c36b73",
+      "title": "Data Engineer - Careers - Booz Allen",
+      "company": "Careers - Booz Allen",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.boozallen.com/locations/JobDetailApply?jobId=127443&source=CWS-17380",
+      "source": "Other",
+      "description": "Data Engineer The Opportunity: Ever-expanding technology like IoT, machine learning, and artificial intelligence means that there's more ...",
+      "date": "2026-07-18",
+      "timestamp": "2026-07-18T22:32:38+00:00",
+      "fetched_at": "2026-07-19T09:39:43.021569+00:00"
     },
     {
       "id": "00054ffa21c4",
