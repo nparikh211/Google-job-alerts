@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-07-19T20:34:23.931697+00:00",
-  "total_jobs": 5981,
+  "last_updated": "2026-07-20T03:10:14.725846+00:00",
+  "total_jobs": 5993,
   "stats": {
-    "total_companies": 3018,
+    "total_companies": 3025,
     "total_roles": 83,
     "regions": {
-      "India": 3873,
-      "Philippines": 1235,
-      "Remote": 763,
+      "India": 3881,
+      "Philippines": 1238,
+      "Remote": 764,
       "Unknown": 135
     },
     "sources": {
-      "Other": 4683,
+      "Other": 4692,
       "Greenhouse": 298,
       "Workday": 271,
-      "LinkedIn": 236,
-      "Ashby": 185,
+      "LinkedIn": 238,
+      "Ashby": 186,
       "iCIMS": 76,
       "Breezy": 65,
       "Lever": 43,
@@ -31,10 +31,115 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-07-19"
+      "latest": "2026-07-20"
     }
   },
   "jobs": [
+    {
+      "id": "c623a8349999",
+      "title": "(USA) Staff, Software Engineer - Walmart Careers",
+      "company": "Walmart Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.walmart.com/us/en/jobs/R-2565399",
+      "source": "Other",
+      "description": "Join Walmart as a Staff Software Engineer to lead the design, development, and deployment of scalable platform capabilities and AI-driven applications ...",
+      "date": "2026-07-20",
+      "timestamp": "2026-07-20T01:58:43+00:00",
+      "fetched_at": "2026-07-20T03:10:14.696806+00:00"
+    },
+    {
+      "id": "0ced61f9bcf8",
+      "title": "Software Engineer III (Contact Center Technologies - Amazon Connect) Job in London, ON",
+      "company": "Amazon Connect) Job in London, ON",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://tdbank.jobs/locations/london-on/job-titles/software-engineer-iii-contact-center-technologies-amazon-connect/jobs/?vs=25&utm_source=RR+RSS+Feed-DE&utm_medium=Other&utm_campaign=RR+RSS+Feed",
+      "source": "Other",
+      "description": "Software Engineer III (Contact Center Technologies - Amazon Connect) Job in London, ON, updated and verified daily by DirectEmployers Association.",
+      "date": "2026-07-19",
+      "timestamp": "2026-07-19T23:23:32+00:00",
+      "fetched_at": "2026-07-20T03:10:14.697429+00:00"
+    },
+    {
+      "id": "8e753ac9affe",
+      "title": "Full Stack Engineer Internship at Qurovo | Remote - Unstop",
+      "company": "Qurovo",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://unstop.com/internships/full-stack-engineer-internship-qurovo-1720577",
+      "source": "Other",
+      "description": "Join Qurovo as a Full Stack Engineer Intern! About Qurovo: Qurovo is an early-stage healthcare technology startup building AI-powered digital ...",
+      "date": "2026-07-19",
+      "timestamp": "2026-07-19T23:15:47+00:00",
+      "fetched_at": "2026-07-20T03:10:14.514225+00:00"
+    },
+    {
+      "id": "90e911d0deb7",
+      "title": "Senior Software Engineer - Rock Physics Applications - Jobs at Halliburton",
+      "company": "Halliburton",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.halliburton.com/job/Abingdon-Senior-Software-Engineer-Rock-Physics-Applications-LND-OX14-4RW/1392997500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+      "source": "Other",
+      "description": "Job Duties. This is a hands-on software engineering role. We are looking to recruit an experienced Senior Software Engineer to design, develop, ...",
+      "date": "2026-07-19",
+      "timestamp": "2026-07-19T21:58:17+00:00",
+      "fetched_at": "2026-07-20T03:10:14.514710+00:00"
+    },
+    {
+      "id": "bb5da0228635",
+      "title": "Senior AI Engineer | Job details | Vacatures in hotel en horeca - IHG Careers",
+      "company": "Job details | Vacatures in hotel en horeca - IHG Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.ihg.com/nl-nl/job-details/?jobref=Senior+AI+Engineer%7CGB%7C161608",
+      "source": "Other",
+      "description": "Senior AI Engineer . Location: India, Gurgaon. Address: 1 - Corp India GSC Delivery Centre, 11th Floor, Building No. 10, Tower C, DLF Cyber City, DLF ...",
+      "date": "2026-07-19",
+      "timestamp": "2026-07-19T20:55:19+00:00",
+      "fetched_at": "2026-07-20T03:10:14.515357+00:00"
+    },
+    {
+      "id": "be4cda35c352",
+      "title": "Software Engineer , Delivery Platform in Bangalore, India | Product and Engineering at Cisco",
+      "company": "Cisco",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/2017487/Software-Engineer-Delivery-Platform",
+      "source": "Other",
+      "description": "Software Engineer , Delivery Platform. Share. Share via Facebook. Share via ... Embrace the role of a Site Reliability Engineer and help build ...",
+      "date": "2026-07-19",
+      "timestamp": "2026-07-19T20:09:55+00:00",
+      "fetched_at": "2026-07-20T03:10:14.515611+00:00"
+    },
+    {
+      "id": "578700496579",
+      "title": "Full Stack Engineer ($250k-$300k + Equity) at Caplight - LinkedIn",
+      "company": "Caplight",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/full-stack-engineer-%24250k-%24300k-%2B-equity-at-caplight-at-jack-jill-4441774774",
+      "source": "LinkedIn",
+      "description": "Senior Software Engineer . Marble. San Francisco, CA $180,000 - $250,000 2 ... Member of Technical Staff / Fullstack Engineer . Clera. San ...",
+      "date": "2026-07-19",
+      "timestamp": "2026-07-19T19:30:13+00:00",
+      "fetched_at": "2026-07-20T03:10:14.515816+00:00"
+    },
     {
       "id": "64b880b8691e",
       "title": "Software Engineer at Ford Motor Company - Ford Careers",
@@ -64,6 +169,21 @@
       "date": "2026-07-19",
       "timestamp": "2026-07-19T19:21:09+00:00",
       "fetched_at": "2026-07-19T20:34:23.837364+00:00"
+    },
+    {
+      "id": "a20e4dd5d2bd",
+      "title": "Sr Staff AIOps and DevOps Engineer in Krakow, Kleinpolen, Polen, 31-864 - GE HealthCare",
+      "company": "864 - GE HealthCare",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.gehealthcare.com/de/de/job/GEVGHLGLOBALR4041168EXTERNALDEDE/Sr-Staff-AIOps-and-DevOps-Engineer",
+      "source": "Other",
+      "description": "Bewerben Sie sich f\u00fcr Sr Staff AIOps and DevOps Engineer ... Embrace the role of a Software Engineer and help develop advanced visualization solutions ...",
+      "date": "2026-07-19",
+      "timestamp": "2026-07-19T18:42:01+00:00",
+      "fetched_at": "2026-07-20T03:10:14.516443+00:00"
     },
     {
       "id": "ce38d365d114",
@@ -141,6 +261,36 @@
       "fetched_at": "2026-07-19T20:34:23.838270+00:00"
     },
     {
+      "id": "02c7448bab5c",
+      "title": "Software Engineer - New Grad 2026 @ Cerebras Systems - Jobs",
+      "company": "Cerebras",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/cerebras/99c289fa-8fc6-49f7-b7e8-78ac4e9d99ac?embed=true",
+      "source": "Ashby",
+      "description": "... Software Engineer , you will collaborate with world-class engineers to solve real-world challenges across the software stack. You will contribute ...",
+      "date": "2026-07-19",
+      "timestamp": "2026-07-19T17:04:54+00:00",
+      "fetched_at": "2026-07-20T03:10:14.517265+00:00"
+    },
+    {
+      "id": "dde63bcce6bc",
+      "title": "Azure DevOps Engineer Full Course 2026 [FREE] - YouTube",
+      "company": "YouTube",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.youtube.com/watch?v=VQ7ssWl7qw8",
+      "source": "Other",
+      "description": "... DevOps Engineer Full Course 2026 by Simplilearn will help you learn Azure DevOps from beginner to advanced level and prepare for a career in ...",
+      "date": "2026-07-19",
+      "timestamp": "2026-07-19T16:46:13+00:00",
+      "fetched_at": "2026-07-20T03:10:14.517391+00:00"
+    },
+    {
       "id": "02f54cab8738",
       "title": "Job Application for Staff Software Engineer at Lab37 - Greenhouse",
       "company": "Lab37",
@@ -154,6 +304,21 @@
       "date": "2026-07-19",
       "timestamp": "2026-07-19T16:44:24+00:00",
       "fetched_at": "2026-07-19T20:34:23.838413+00:00"
+    },
+    {
+      "id": "2d6be55c026a",
+      "title": "Software Engineer , Asset Management | New York, NY, USA - eFinancialCareers",
+      "company": "New York, NY, USA - eFinancialCareers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.efinancialcareers.com/jobs-USA-NY-New_York-Software_Engineer_Asset_Management.id24545027",
+      "source": "Other",
+      "description": "See job details and apply here for this software engineer , asset management job in New York, NY, USA with TIAA on eFinancialCareers US.",
+      "date": "2026-07-19",
+      "timestamp": "2026-07-19T15:57:29+00:00",
+      "fetched_at": "2026-07-20T03:10:14.517732+00:00"
     },
     {
       "id": "a92db3508c29",
@@ -184,6 +349,21 @@
       "date": "2026-07-19",
       "timestamp": "2026-07-19T15:15:15+00:00",
       "fetched_at": "2026-07-19T20:34:23.838819+00:00"
+    },
+    {
+      "id": "f43d28fd29f6",
+      "title": "AI/ ML Engineer ($250k-$400k + Equity) at Known - LinkedIn",
+      "company": "Known",
+      "role": "ML Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/ai-ml-engineer-%24250k-%24400k-%2B-equity-at-known-at-jack-jill-4441773825?position=11&pageNum=0&refId=Tux4TMw7UhGGrSofsb1HaQ%3D%3D&trackingId=6L4R91Pfa6yySHIJVfaDgA%3D%3D",
+      "source": "LinkedIn",
+      "description": "Get notified about new Machine Learning Engineer jobs in San Francisco, CA. ... AI Engineer (Agents). F\u00e9lix. San Francisco, CA 4 days ago. Senior AI ...",
+      "date": "2026-07-19",
+      "timestamp": "2026-07-19T14:55:48+00:00",
+      "fetched_at": "2026-07-20T03:10:14.700063+00:00"
     },
     {
       "id": "73cd69ff1e69",
