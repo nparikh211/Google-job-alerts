@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-07-20T03:10:14.725846+00:00",
-  "total_jobs": 5993,
+  "last_updated": "2026-07-20T06:35:40.386892+00:00",
+  "total_jobs": 5999,
   "stats": {
-    "total_companies": 3025,
+    "total_companies": 3028,
     "total_roles": 83,
     "regions": {
-      "India": 3881,
-      "Philippines": 1238,
+      "India": 3886,
+      "Philippines": 1239,
       "Remote": 764,
       "Unknown": 135
     },
     "sources": {
-      "Other": 4692,
+      "Other": 4697,
       "Greenhouse": 298,
-      "Workday": 271,
+      "Workday": 272,
       "LinkedIn": 238,
       "Ashby": 186,
       "iCIMS": 76,
@@ -36,6 +36,51 @@
   },
   "jobs": [
     {
+      "id": "4b63b41f6f27",
+      "title": "Software Engineer - Mandaluyong City, All PH Regions, Philippines - 42426 - Jacobs",
+      "company": "Mandaluyong City, All PH Regions, Philippines - 42426 - Jacobs",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.jacobs.com/en_US/careers/JobDetail/Software-Engineer/42426",
+      "source": "Other",
+      "description": "Software Engineer or Developer background; Familiarity with ... AI Engineer . San Diego, California, United States | 42414 | National ...",
+      "date": "2026-07-20",
+      "timestamp": "2026-07-20T03:09:57+00:00",
+      "fetched_at": "2026-07-20T06:35:40.293412+00:00"
+    },
+    {
+      "id": "4494f9e5879a",
+      "title": "Senior Software Engineer \u2013 Unreal Engine at Boeing",
+      "company": "Boeing",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.boeing.com/job/brisbane/senior-software-engineer-unreal-engine/185/98027760656",
+      "source": "Other",
+      "description": "Senior Software Engineer \u2013 Unreal Engine. Brisbane, Queensland Job ID JR2026519424 Category Engineering - Software Role Type Hybrid Post Date Jul.",
+      "date": "2026-07-20",
+      "timestamp": "2026-07-20T03:04:57+00:00",
+      "fetched_at": "2026-07-20T06:35:40.293766+00:00"
+    },
+    {
+      "id": "8507a90af960",
+      "title": "Software Engineer - ClearanceJobs - Security Clearance Jobs",
+      "company": "ClearanceJobs - Security Clearance Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.clearancejobs.com/jobs/9041062/software-engineer",
+      "source": "Other",
+      "description": "Software Engineer requiring an active security clearance. Find other Zachary Piper Solutions, LLC defense and intelligence career opportunities on ...",
+      "date": "2026-07-20",
+      "timestamp": "2026-07-20T02:46:47+00:00",
+      "fetched_at": "2026-07-20T06:35:40.294101+00:00"
+    },
+    {
       "id": "c623a8349999",
       "title": "(USA) Staff, Software Engineer - Walmart Careers",
       "company": "Walmart Careers",
@@ -49,6 +94,36 @@
       "date": "2026-07-20",
       "timestamp": "2026-07-20T01:58:43+00:00",
       "fetched_at": "2026-07-20T03:10:14.696806+00:00"
+    },
+    {
+      "id": "ecea57283246",
+      "title": "DevOps Engineer \u2013 Senior Associate job in Hyderabad | Other jobs at State Street",
+      "company": "State Street",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.statestreet.com/global/en/job/STSTGLOBALR794049EXTERNALENGLOBAL/DevOps-Engineer-Senior-Associate",
+      "source": "Other",
+      "description": "DevOps Engineer \u2013 Senior Associate. Apply Now. Share via email; Share ... Azure Platform Engineer - Senior Associate. Location Bangalore Category ...",
+      "date": "2026-07-20",
+      "timestamp": "2026-07-20T01:55:47+00:00",
+      "fetched_at": "2026-07-20T06:35:40.359704+00:00"
+    },
+    {
+      "id": "385ce69d5b44",
+      "title": "DevOps Engineer - Myworkdayjobs.com",
+      "company": "Movadogroup",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://movadogroup.wd1.myworkdayjobs.com/en-US/Careers/job/DevOps-Engineer_JR00002904",
+      "source": "Workday",
+      "description": "... Site Reliability Engineer Deep expertise in at least one major cloud ... DevOps Engineer . Apply. locations: Bangalore, India. time type: Full time.",
+      "date": "2026-07-20",
+      "timestamp": "2026-07-20T01:27:57+00:00",
+      "fetched_at": "2026-07-20T06:35:40.294285+00:00"
     },
     {
       "id": "0ced61f9bcf8",
@@ -109,6 +184,21 @@
       "date": "2026-07-19",
       "timestamp": "2026-07-19T20:55:19+00:00",
       "fetched_at": "2026-07-20T03:10:14.515357+00:00"
+    },
+    {
+      "id": "37c8d51b01c1",
+      "title": "machine learning engineer Jobs | Orlando Jobs",
+      "company": "Orlando Jobs",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.orlandojobs.com/jobs?search=machine+learning+engineer&page=7&jobId=787041",
+      "source": "Other",
+      "description": "Service Delivery Center, AI & Data, Machine Learning Engineer (MLE) - Senior - Tampa. bookmark. EY. Tampa, FL 33602, USA. Published: 7/14/2026.",
+      "date": "2026-07-19",
+      "timestamp": "2026-07-19T20:54:02+00:00",
+      "fetched_at": "2026-07-20T06:35:40.296435+00:00"
     },
     {
       "id": "be4cda35c352",
