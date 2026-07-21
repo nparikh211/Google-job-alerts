@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-07-21T06:19:30.328286+00:00",
-  "total_jobs": 6082,
+  "last_updated": "2026-07-21T10:09:32.874678+00:00",
+  "total_jobs": 6095,
   "stats": {
-    "total_companies": 3061,
+    "total_companies": 3067,
     "total_roles": 84,
     "regions": {
-      "India": 3944,
-      "Philippines": 1251,
-      "Remote": 777,
+      "India": 3953,
+      "Philippines": 1253,
+      "Remote": 779,
       "Unknown": 135
     },
     "sources": {
-      "Other": 4767,
+      "Other": 4776,
       "Greenhouse": 301,
       "Workday": 273,
-      "LinkedIn": 242,
-      "Ashby": 188,
+      "LinkedIn": 243,
+      "Ashby": 190,
       "iCIMS": 77,
       "Breezy": 66,
       "Lever": 44,
-      "SmartRecruiters": 38,
+      "SmartRecruiters": 39,
       "Workable": 37,
       "Indeed": 24,
       "Recruitee": 6,
@@ -36,6 +36,126 @@
   },
   "jobs": [
     {
+      "id": "e1c4da5bc70c",
+      "title": "Software Engineer - Job Detail | Careers Marketplace - Siemens",
+      "company": "Job Detail | Careers Marketplace - Siemens",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/514531",
+      "source": "Other",
+      "description": "Software Engineer . Job ID. 514531. Posted since. 20-Jul-2026. Organization ... Similar jobs. Software Engineer . Bangalore, Karnataka, India. Software ...",
+      "date": "2026-07-21",
+      "timestamp": "2026-07-21T08:37:09+00:00",
+      "fetched_at": "2026-07-21T10:09:32.740802+00:00"
+    },
+    {
+      "id": "d7bdb277a6c6",
+      "title": "[ Software Engineer ][Seattle, WA] - $650,000 : r/Salary - Reddit",
+      "company": "$650,000 : r/Salary - Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/Salary/comments/1v1za9w/software_engineerseattle_wa_650000/",
+      "source": "Other",
+      "description": "... but how tf did you manage to transition from tech support in 1992, to senior software engineer the following year? blitterer. OP \u2022. in 3h.",
+      "date": "2026-07-21",
+      "timestamp": "2026-07-21T08:12:19+00:00",
+      "fetched_at": "2026-07-21T10:09:32.741027+00:00"
+    },
+    {
+      "id": "465b20c005b3",
+      "title": "Standard \u201cgood\u201d software engineer , struggling with technical interviews : r/ExperiencedDevs",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1v22wmr/standard_good_software_engineer_struggling_with/",
+      "source": "Other",
+      "description": "I've been working professionally as a software engineer for 6 years (with the first two years mostly part time alongside study on scrappy startups ...",
+      "date": "2026-07-21",
+      "timestamp": "2026-07-21T07:57:25+00:00",
+      "fetched_at": "2026-07-21T10:09:32.848028+00:00"
+    },
+    {
+      "id": "3536dff57a6f",
+      "title": "John Crickett's Post - LinkedIn",
+      "company": "Unknown Company",
+      "role": "John Crickett's Post - LinkedIn",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/johncrickett_10-books-every-software-engineer-should-read-activity-7485227359093301248-bYoG",
+      "source": "LinkedIn",
+      "description": "books every software engineer should read. Not \u201c10 books about ... AI Engineer \u2022 100K+ Audience \u2022 Founder of petarivanov.tech. 25m. Report ...",
+      "date": "2026-07-21",
+      "timestamp": "2026-07-21T07:56:19+00:00",
+      "fetched_at": "2026-07-21T10:09:32.741648+00:00"
+    },
+    {
+      "id": "b92a46d4feb6",
+      "title": "Standard \u201cgood\u201d software engineer , struggling with technical interviews : r/ExperiencedDevs - Reddit",
+      "company": "Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1v22wmr/standard_good_software_engineer_struggling_with/",
+      "source": "Other",
+      "description": "I've been working professionally as a software engineer for 6 years (with the first two years mostly part time alongside study on scrappy startups ...",
+      "date": "2026-07-21",
+      "timestamp": "2026-07-21T06:12:08+00:00",
+      "fetched_at": "2026-07-21T10:09:32.741888+00:00"
+    },
+    {
+      "id": "a3761ecd4c2a",
+      "title": "Software Engineer , Early Career - AI Platform - Bethesda | Brivo Careers",
+      "company": "AI Platform - Bethesda | Brivo Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.brivo.com/postings/c670d283-4127-4b84-b55d-d944a55545a3",
+      "source": "Other",
+      "description": "Join Brivo in Engineering - Access, Bethesda as a Software Engineer , Early Career - AI Platform.",
+      "date": "2026-07-21",
+      "timestamp": "2026-07-21T06:02:47+00:00",
+      "fetched_at": "2026-07-21T10:09:32.742082+00:00"
+    },
+    {
+      "id": "3b45f43f6e53",
+      "title": "Fullstack Software Engineer , ADK - Pelico",
+      "company": "Pelico",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.pelico.io/jobs/8097931-fullstack-software-engineer-adk",
+      "source": "Other",
+      "description": "Fullstack Software Engineer , ADK. Do you want to create a meaningful, real-world impact? Come be part of the team transforming factory operations ...",
+      "date": "2026-07-21",
+      "timestamp": "2026-07-21T05:53:22+00:00",
+      "fetched_at": "2026-07-21T10:09:32.742250+00:00"
+    },
+    {
+      "id": "db32607fd346",
+      "title": "Western Digital Software Engineer | SmartRecruiters",
+      "company": "Westerndigital",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.smartrecruiters.com/WesternDigital/744000138717897-software-engineer",
+      "source": "SmartRecruiters",
+      "description": "Software Engineer . San Jose, CA, United States; Full-time; Job Type (exemption status): Exempt position - Please see related compensation & benefits ...",
+      "date": "2026-07-21",
+      "timestamp": "2026-07-21T04:23:50+00:00",
+      "fetched_at": "2026-07-21T10:09:32.742456+00:00"
+    },
+    {
       "id": "c52d45ccc1c4",
       "title": "Senior DevOps Engineer - India - Bangalore | Salesforce Careers",
       "company": "India - Bangalore | Salesforce Careers",
@@ -49,6 +169,51 @@
       "date": "2026-07-21",
       "timestamp": "2026-07-21T03:02:58+00:00",
       "fetched_at": "2026-07-21T06:19:30.174605+00:00"
+    },
+    {
+      "id": "e0faf3543d8d",
+      "title": "Senior Backend Engineer Job Available, United States (Remote) | Fieldwire by Hilti",
+      "company": "Fieldwire by Hilti",
+      "role": "Backend Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.fieldwire.com/job/8633653002/",
+      "source": "Other",
+      "description": "Who we're looking for. As a Senior Backend Engineer , you'll be joining an impactful team of highly skilled engineers who are building the core ...",
+      "date": "2026-07-21",
+      "timestamp": "2026-07-21T02:02:43+00:00",
+      "fetched_at": "2026-07-21T10:09:32.742875+00:00"
+    },
+    {
+      "id": "62f67f8f598e",
+      "title": "Software Engineer , Optimized Checkout & Link - Stripe",
+      "company": "Stripe",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://stripe.com/jobs/listing/software-engineer-optimized-checkout-link/8075469/apply",
+      "source": "Other",
+      "description": "See open roles \u00b7 Roles at Stripe \u00b7 Role details; Application. Software Engineer , Optimized Checkout & Link.",
+      "date": "2026-07-21",
+      "timestamp": "2026-07-21T01:52:50+00:00",
+      "fetched_at": "2026-07-21T10:09:32.743041+00:00"
+    },
+    {
+      "id": "eba7321e100a",
+      "title": "Software Engineer | Trader & Quant Education Technology | Experienced Hire - SIG Careers",
+      "company": "Trader & Quant Education Technology | Experienced Hire - SIG Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.sig.com/jobs/9968",
+      "source": "Other",
+      "description": "Susquehanna International Group, LLP is hiring a Software Engineer | Trader & Quant Education Technology | Experienced Hire in Bala Cynwyd ...",
+      "date": "2026-07-21",
+      "timestamp": "2026-07-21T01:49:44+00:00",
+      "fetched_at": "2026-07-21T10:09:32.743203+00:00"
     },
     {
       "id": "09cd20cb99ec",
@@ -111,6 +276,21 @@
       "fetched_at": "2026-07-21T06:19:30.175306+00:00"
     },
     {
+      "id": "9c44220ffc5f",
+      "title": "Jr. AI Engineer - Data Annotation @ Teleskope - Jobs",
+      "company": "Teleskope",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/teleskope/7b4960a8-e829-474c-aa4d-d88cb2118c26",
+      "source": "Ashby",
+      "description": "Join Teleskope's Data Science team as a Jr. AI Engineer . Do hands-on labeling and quality control, then use Python, SQL, and agentic tools to make ...",
+      "date": "2026-07-20",
+      "timestamp": "2026-07-20T23:27:44+00:00",
+      "fetched_at": "2026-07-21T10:09:32.849797+00:00"
+    },
+    {
       "id": "0eef68eb7a4d",
       "title": "Allie Howe's Post - LinkedIn",
       "company": "Unknown Company",
@@ -124,6 +304,21 @@
       "date": "2026-07-20",
       "timestamp": "2026-07-20T23:21:21+00:00",
       "fetched_at": "2026-07-21T01:14:44.110902+00:00"
+    },
+    {
+      "id": "f16abf7ea5b7",
+      "title": "Applied AI Engineer @ Laurel - Jobs",
+      "company": "Laurel",
+      "role": "AI Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.ashbyhq.com/laurel/ff5a33ce-c255-49ad-b926-9bcd1135d06d",
+      "source": "Ashby",
+      "description": "Applied AI Engineer . Location. Remote, US; Hybrid, San Francisco, Los Angeles, New York. Employment Type.",
+      "date": "2026-07-20",
+      "timestamp": "2026-07-20T22:57:38+00:00",
+      "fetched_at": "2026-07-21T10:09:32.744327+00:00"
     },
     {
       "id": "45056528fd0a",
