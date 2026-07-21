@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-07-21T17:03:23.101516+00:00",
-  "total_jobs": 6111,
+  "last_updated": "2026-07-21T20:54:52.681237+00:00",
+  "total_jobs": 6128,
   "stats": {
-    "total_companies": 3074,
+    "total_companies": 3081,
     "total_roles": 84,
     "regions": {
-      "India": 3964,
-      "Philippines": 1255,
-      "Remote": 782,
+      "India": 3978,
+      "Philippines": 1257,
+      "Remote": 783,
       "Unknown": 135
     },
     "sources": {
-      "Other": 4786,
-      "Greenhouse": 303,
-      "Workday": 275,
-      "LinkedIn": 243,
-      "Ashby": 190,
+      "Other": 4799,
+      "Greenhouse": 304,
+      "Workday": 276,
+      "LinkedIn": 244,
+      "Ashby": 191,
       "iCIMS": 78,
       "Breezy": 66,
       "Lever": 44,
@@ -36,6 +36,201 @@
   },
   "jobs": [
     {
+      "id": "f30806d76873",
+      "title": "Software Engineer II, Backend - Rippling AI",
+      "company": "Rippling AI",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/rippling/jobs/9a82b4f8-ca55-4d20-9d20-b91dfd6901b5",
+      "source": "Other",
+      "description": "As a Software Engineer on AI Platform, you'll own meaningful technical initiatives end-to-end, dive deep into cutting edge technical problems, and ...",
+      "date": "2026-07-21",
+      "timestamp": "2026-07-21T18:41:47+00:00",
+      "fetched_at": "2026-07-21T20:54:52.431802+00:00"
+    },
+    {
+      "id": "e700a4936eb8",
+      "title": "Senior Data Engineer , Alpharetta / Atlanta | Equifax Careers",
+      "company": "Equifax Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.equifax.com/en/jobs/j00178152/senior-data-engineer/",
+      "source": "Other",
+      "description": "Equifax is seeking a driven Senior Data Engineer to contribute to the creation of high-quality datasets that power our analytical capabilities.",
+      "date": "2026-07-21",
+      "timestamp": "2026-07-21T18:12:02+00:00",
+      "fetched_at": "2026-07-21T20:54:52.658068+00:00"
+    },
+    {
+      "id": "e56ce2c2c00b",
+      "title": "Software Engineer - Applications @ Astronomer - Jobs",
+      "company": "Astronomer",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/astronomer/1d29fe9a-7351-4b82-9017-de16dc86382f",
+      "source": "Ashby",
+      "description": "We're looking for a Software Engineer to help build and ship that product \u2014 on our core web application, our backend services, or both; your specific ...",
+      "date": "2026-07-21",
+      "timestamp": "2026-07-21T18:09:31+00:00",
+      "fetched_at": "2026-07-21T20:54:52.431894+00:00"
+    },
+    {
+      "id": "0a70328508f4",
+      "title": "Software Engineer , Amazon Photos - Job ID: 10479468",
+      "company": "Job ID: 10479468",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://amazon.jobs/en/jobs/10479468/software-engineer-amazon-photos",
+      "source": "Other",
+      "description": "Software Engineer , Amazon Photos. Job ID: 10479468 | Amazon.com Services LLC. Apply now. Description. Amazon Photos helps consumers preserve and re ...",
+      "date": "2026-07-21",
+      "timestamp": "2026-07-21T18:08:13+00:00",
+      "fetched_at": "2026-07-21T20:54:52.432015+00:00"
+    },
+    {
+      "id": "72d7e6fdb766",
+      "title": "Staff Software Engineer , Planning & Tracking in Multiple Locations - GitHub Careers",
+      "company": "GitHub Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.github.careers/careers-home/jobs/5607?lang=en-us",
+      "source": "Other",
+      "description": "GitHub Careers Home is hiring a Staff Software Engineer , Planning & Tracking in Multiple Locations. Review all of the job details and apply today!",
+      "date": "2026-07-21",
+      "timestamp": "2026-07-21T18:01:21+00:00",
+      "fetched_at": "2026-07-21T20:54:52.432220+00:00"
+    },
+    {
+      "id": "ca74f4b56288",
+      "title": "Software Engineer at Ford Motor Company",
+      "company": "Ford Motor Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.careers.ford.com/job/chennai/software-engineer/48560/98084826000",
+      "source": "Other",
+      "description": "Software Engineer . Job ID: 66782. Category: Enterprise Technology. Location: Chennai, India. Work Type: Hybrid. Apply Now. We are seeking a PLM ( ...",
+      "date": "2026-07-21",
+      "timestamp": "2026-07-21T17:44:15+00:00",
+      "fetched_at": "2026-07-21T20:54:52.432331+00:00"
+    },
+    {
+      "id": "f4eda903ae9a",
+      "title": "Software Engineer , Compute Foundations Systems - OpenAI",
+      "company": "OpenAI",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://openai.com/careers/software-engineer-compute-foundations-systems-san-francisco/",
+      "source": "Other",
+      "description": "Software Engineer , Compute Foundations Systems. Supercomputing - San Francisco. Apply now (opens in a new window). About the Team. Frontier Systems ...",
+      "date": "2026-07-21",
+      "timestamp": "2026-07-21T17:07:31+00:00",
+      "fetched_at": "2026-07-21T20:54:52.432484+00:00"
+    },
+    {
+      "id": "50a4574dd20a",
+      "title": "Application Software Engineer C# - ASML",
+      "company": "ASML",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.asml.com/en/careers/find-your-job/application-software-engineer-c-j00320554",
+      "source": "Other",
+      "description": "Application Software Engineer C#. Apply Now. In a nutshell. Location. Veldhoven, Netherlands. Team. Design Engineering and Architecture. Work ...",
+      "date": "2026-07-21",
+      "timestamp": "2026-07-21T17:05:00+00:00",
+      "fetched_at": "2026-07-21T20:54:52.432618+00:00"
+    },
+    {
+      "id": "2764c689c4e0",
+      "title": "Software Engineer - Myworkdayjobs.com",
+      "company": "Autostore",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-USA/Software-Engineer_JR102614",
+      "source": "Workday",
+      "description": "... full stack engineer responsible for designing, building, integrating ... Software Engineer . Apply. locations: Atlanta, USA. time type: Full time.",
+      "date": "2026-07-21",
+      "timestamp": "2026-07-21T17:04:19+00:00",
+      "fetched_at": "2026-07-21T20:54:52.432678+00:00"
+    },
+    {
+      "id": "0ffb9e34f8cb",
+      "title": "Job ID:26025219 - Data Engineer \u2013 Python/AI - Multiple Locations",
+      "company": "Job ID:26025219",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.bankofamerica.com/en-us/job-detail/26025219/data-engineer-python-ai-multiple-locations",
+      "source": "Other",
+      "description": "Apply for the Data Engineer \u2013 Python/AI position (Job ID: 26025219), with openings in multiple locations, at Bank of America.",
+      "date": "2026-07-21",
+      "timestamp": "2026-07-21T17:03:54+00:00",
+      "fetched_at": "2026-07-21T20:54:52.432826+00:00"
+    },
+    {
+      "id": "f76b57082103",
+      "title": "my desk as a software engineer | Kevin Naughton - LinkedIn",
+      "company": "Kevin Naughton - LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/kevindnaughtonjr_my-desk-as-a-software-engineer-activity-7485332898125041665-BLz0",
+      "source": "LinkedIn",
+      "description": "Senior Software Engineer at Atlassian. Former SWE at Disney, Accesso, Cerner. Java, Spring, AWS backend Engineer . AI assisted dev workflows ...",
+      "date": "2026-07-21",
+      "timestamp": "2026-07-21T17:02:47+00:00",
+      "fetched_at": "2026-07-21T20:54:52.433065+00:00"
+    },
+    {
+      "id": "62bb95230fc7",
+      "title": "Software Engineer in Multiple Locations - State Farm Careers",
+      "company": "State Farm Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.statefarm.com/main/jobs/45173?lang=en-us",
+      "source": "Other",
+      "description": "State Farm Careers is hiring a Software Engineer in Multiple Locations. Review all of the job details and apply today!",
+      "date": "2026-07-21",
+      "timestamp": "2026-07-21T17:02:26+00:00",
+      "fetched_at": "2026-07-21T20:54:52.433158+00:00"
+    },
+    {
+      "id": "2f65de4813fe",
+      "title": "Senior Software Engineer in Auckland, New Zealand - IDEXX Careers",
+      "company": "IDEXX Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.idexx.com/us/en/job/J-047003/Senior-Software-Engineer",
+      "source": "Other",
+      "description": "As a Senior Software Engineer ( Full Stack Engineer ) within our IDEXX Veterinary Software organization, you will play a key role in advancing our ...",
+      "date": "2026-07-21",
+      "timestamp": "2026-07-21T16:58:49+00:00",
+      "fetched_at": "2026-07-21T20:54:52.433259+00:00"
+    },
+    {
       "id": "f5212f2ef6ee",
       "title": "Job Application for Data Engineer II - (Remote) at Fanatics Betting & Gaming - Greenhouse",
       "company": "Fanaticsfbg",
@@ -49,6 +244,21 @@
       "date": "2026-07-21",
       "timestamp": "2026-07-21T16:46:13+00:00",
       "fetched_at": "2026-07-21T17:03:22.803606+00:00"
+    },
+    {
+      "id": "50fb25203e1e",
+      "title": "Senior Software Engineer - Piper Companies",
+      "company": "Piper Companies",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.pipercompanies.com/details/170088/senior_software_engineer",
+      "source": "Other",
+      "description": "Responsibilities of the Senior Software Engineer : Deliver new ERP-integrated solutions using ASP.NET Blazor and Azure; Develop and support secure ...",
+      "date": "2026-07-21",
+      "timestamp": "2026-07-21T16:29:45+00:00",
+      "fetched_at": "2026-07-21T20:54:52.433573+00:00"
     },
     {
       "id": "3c4fd90fcae9",
@@ -79,6 +289,51 @@
       "date": "2026-07-21",
       "timestamp": "2026-07-21T16:06:24+00:00",
       "fetched_at": "2026-07-21T17:03:22.805128+00:00"
+    },
+    {
+      "id": "eeb22a4c4d73",
+      "title": "Job Application for Senior Software Engineer - Trading at Alpaca - Greenhouse",
+      "company": "Alpaca",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/alpaca/jobs/6115753004",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer - Trading. Remote - Americas. Apply. Who We Are: Alpaca is a US-headquartered self-clearing broker-dealer and brokerage ...",
+      "date": "2026-07-21",
+      "timestamp": "2026-07-21T16:05:20+00:00",
+      "fetched_at": "2026-07-21T20:54:52.433852+00:00"
+    },
+    {
+      "id": "17fa639c09a8",
+      "title": "Senior Software Engineer Job Details - CNH Careers",
+      "company": "CNH Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://join.cnh.com/job/Senior-Software-Engineer/5024-en_US",
+      "source": "Other",
+      "description": "Job Purpose. As a Senior Software Engineer , you will be a key member of the Core Software team, responsible for designing and developing the ...",
+      "date": "2026-07-21",
+      "timestamp": "2026-07-21T16:04:17+00:00",
+      "fetched_at": "2026-07-21T20:54:52.433942+00:00"
+    },
+    {
+      "id": "9f3372cd7e05",
+      "title": "Software Engineer , Authorization - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200673149-3337/software-engineer-authorization",
+      "source": "Other",
+      "description": "Description. In the role of Senior Software Engineer , you will play a crucial part in ensuring that our customers adhere to the latest and most ...",
+      "date": "2026-07-21",
+      "timestamp": "2026-07-21T16:04:14+00:00",
+      "fetched_at": "2026-07-21T20:54:52.661493+00:00"
     },
     {
       "id": "bce676ab667c",
