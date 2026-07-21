@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-07-21T01:14:44.140781+00:00",
-  "total_jobs": 6075,
+  "last_updated": "2026-07-21T06:19:30.328286+00:00",
+  "total_jobs": 6082,
   "stats": {
-    "total_companies": 3059,
+    "total_companies": 3061,
     "total_roles": 84,
     "regions": {
-      "India": 3940,
-      "Philippines": 1249,
-      "Remote": 776,
+      "India": 3944,
+      "Philippines": 1251,
+      "Remote": 777,
       "Unknown": 135
     },
     "sources": {
-      "Other": 4762,
-      "Greenhouse": 300,
+      "Other": 4767,
+      "Greenhouse": 301,
       "Workday": 273,
       "LinkedIn": 242,
-      "Ashby": 187,
+      "Ashby": 188,
       "iCIMS": 77,
       "Breezy": 66,
       "Lever": 44,
@@ -31,10 +31,85 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-07-20"
+      "latest": "2026-07-21"
     }
   },
   "jobs": [
+    {
+      "id": "c52d45ccc1c4",
+      "title": "Senior DevOps Engineer - India - Bangalore | Salesforce Careers",
+      "company": "India - Bangalore | Salesforce Careers",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.salesforce.com/company/careers/jobs/JR351176/senior-devops-engineer/",
+      "source": "Other",
+      "description": "Senior DevOps Engineer . a couple of women smiling. Software Engineering. India - Bangalore. Full time; Posted 19 July 2026; JR351176. Apply Now. Save",
+      "date": "2026-07-21",
+      "timestamp": "2026-07-21T03:02:58+00:00",
+      "fetched_at": "2026-07-21T06:19:30.174605+00:00"
+    },
+    {
+      "id": "09cd20cb99ec",
+      "title": "Software Engineer (Full-Stack) @ Runpod - Jobs",
+      "company": "Runpod",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/runpod/87e39052-6819-4332-86ba-81e5ba9785dd",
+      "source": "Ashby",
+      "description": "... Full-Stack Engineer . As a Full-Stack Software Engineer at Runpod, you will work alongside experienced engineers and developers, contributing to ...",
+      "date": "2026-07-21",
+      "timestamp": "2026-07-21T01:18:00+00:00",
+      "fetched_at": "2026-07-21T06:19:30.300129+00:00"
+    },
+    {
+      "id": "17291c48ee11",
+      "title": "Software Engineer , Authorization - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200673149-3337/software-engineer-authorization?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Software Engineer , Authorization job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-07-21",
+      "timestamp": "2026-07-21T00:49:46+00:00",
+      "fetched_at": "2026-07-21T06:19:30.174929+00:00"
+    },
+    {
+      "id": "3efaf9afee66",
+      "title": "Senior Software Engineer , HYDERABAD, Telang\u0101na | Wells Fargo",
+      "company": "Wells Fargo",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.wellsfargojobs.com/en/jobs/r-560213/senior-software-engineer/",
+      "source": "Other",
+      "description": "Wells Fargo is seeking a Senior Software Engineer . In this role, you ... Microsoft Azure AI Engineer , Azure Developer, Azure Solutions ...",
+      "date": "2026-07-21",
+      "timestamp": "2026-07-21T00:42:11+00:00",
+      "fetched_at": "2026-07-21T06:19:30.175135+00:00"
+    },
+    {
+      "id": "c7c6d85f41cc",
+      "title": "Software Engineer , Algorithms (SDE) - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200672992-0836/software-engineer-algorithms-sde?team=HRDWR",
+      "source": "Other",
+      "description": "Apply for a Software Engineer , Algorithms (SDE) job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-07-21",
+      "timestamp": "2026-07-21T00:02:40+00:00",
+      "fetched_at": "2026-07-21T06:19:30.175306+00:00"
+    },
     {
       "id": "0eef68eb7a4d",
       "title": "Allie Howe's Post - LinkedIn",
@@ -64,6 +139,21 @@
       "date": "2026-07-20",
       "timestamp": "2026-07-20T22:35:59+00:00",
       "fetched_at": "2026-07-21T01:14:43.849810+00:00"
+    },
+    {
+      "id": "d65d79372ed4",
+      "title": "Job Application for Senior Software Engineer , Mobile at Fleetio - Greenhouse",
+      "company": "Fleetio",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/fleetio/jobs/5190709007",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer , Mobile. Remote - USA, CAN, MEX. Apply now. A little about us\u2026Fleetio is a modern software platform that helps thousands of ...",
+      "date": "2026-07-20",
+      "timestamp": "2026-07-20T22:33:54+00:00",
+      "fetched_at": "2026-07-21T06:19:30.176232+00:00"
     },
     {
       "id": "b9559a3f257e",
@@ -214,6 +304,21 @@
       "date": "2026-07-20",
       "timestamp": "2026-07-20T19:49:14+00:00",
       "fetched_at": "2026-07-20T20:56:05.557817+00:00"
+    },
+    {
+      "id": "554699fd5a1a",
+      "title": "Software Engineer III - Pearson Jobs",
+      "company": "Pearson Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://pearson.jobs/virtual-lka/software-engineer-iii/393A0906798B42E7A8EACD1CEAAC385A/job/",
+      "source": "Other",
+      "description": "Software Engineer III. LKA. Workplace Type: Hybrid. Job: Engineering ... We are looking for a highly skilled and passionate Senior Software Engineer ...",
+      "date": "2026-07-20",
+      "timestamp": "2026-07-20T19:36:43+00:00",
+      "fetched_at": "2026-07-21T06:19:30.302629+00:00"
     },
     {
       "id": "50b6662869d8",
