@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-07-20T20:56:05.946363+00:00",
-  "total_jobs": 6062,
+  "last_updated": "2026-07-21T01:14:44.140781+00:00",
+  "total_jobs": 6075,
   "stats": {
-    "total_companies": 3058,
-    "total_roles": 83,
+    "total_companies": 3059,
+    "total_roles": 84,
     "regions": {
-      "India": 3933,
-      "Philippines": 1245,
-      "Remote": 774,
+      "India": 3940,
+      "Philippines": 1249,
+      "Remote": 776,
       "Unknown": 135
     },
     "sources": {
-      "Other": 4752,
-      "Greenhouse": 299,
+      "Other": 4762,
+      "Greenhouse": 300,
       "Workday": 273,
-      "LinkedIn": 240,
+      "LinkedIn": 242,
       "Ashby": 187,
       "iCIMS": 77,
       "Breezy": 66,
@@ -35,6 +35,126 @@
     }
   },
   "jobs": [
+    {
+      "id": "0eef68eb7a4d",
+      "title": "Allie Howe's Post - LinkedIn",
+      "company": "Unknown Company",
+      "role": "Allie Howe's Post - LinkedIn",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/posts/allisonhowe_on-stage-at-ai-engineer-worlds-fair-i-asked-activity-7484958476671258624-BL2j",
+      "source": "LinkedIn",
+      "description": "On stage at AI Engineer World's Fair I asked Dexter Horthy about his tweet where he said \"If you try for 100x you're going to get lost in the ...",
+      "date": "2026-07-20",
+      "timestamp": "2026-07-20T23:21:21+00:00",
+      "fetched_at": "2026-07-21T01:14:44.110902+00:00"
+    },
+    {
+      "id": "45056528fd0a",
+      "title": "Apply for Data Engineer - Tech Consulting - ApplicantStack",
+      "company": "Tech Consulting - ApplicantStack",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://techconsulting.applicantstack.com/x/apply/a2lz97hc12cz",
+      "source": "Other",
+      "description": "Fields with an asterisk (*) are required. Summary. Title: Data Engineer . ID: TC- Hyder ...",
+      "date": "2026-07-20",
+      "timestamp": "2026-07-20T22:35:59+00:00",
+      "fetched_at": "2026-07-21T01:14:43.849810+00:00"
+    },
+    {
+      "id": "b9559a3f257e",
+      "title": "Senior Machine Learning Engineer Job Details | Fitch Group",
+      "company": "Fitch Group",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.fitch.group/job/Toronto-Senior-Machine-Learning-Engineer-ON/1416958733/",
+      "source": "Other",
+      "description": "Senior Machine Learning Engineer . Requisition ID: 49238. Business ... ML Engineer or Principal ML Engineer roles; build a reputation as a go ...",
+      "date": "2026-07-20",
+      "timestamp": "2026-07-20T22:28:59+00:00",
+      "fetched_at": "2026-07-21T01:14:44.111422+00:00"
+    },
+    {
+      "id": "6841a0876271",
+      "title": "Data Engineer - Tech Consulting - ApplicantStack",
+      "company": "Tech Consulting - ApplicantStack",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://techconsulting.applicantstack.com/x/detail/a2lz97hc12cz/aa0",
+      "source": "Other",
+      "description": "Job Openings >> Data Engineer . Data Engineer . Summary. Title: Data Engineer . ID: TC- Hyder 200. Location: Nationwide. Description. Apply Now \u00b7 Refer ...",
+      "date": "2026-07-20",
+      "timestamp": "2026-07-20T22:25:54+00:00",
+      "fetched_at": "2026-07-21T01:14:43.850017+00:00"
+    },
+    {
+      "id": "ff74edf190b3",
+      "title": "Cloud Engineer (Clearance required) in Reston, Virginia, United States of America",
+      "company": "Unknown Company",
+      "role": "Cloud Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.icf.com/us/en/job/R2601785/Cloud-Engineer-Clearance-required",
+      "source": "Other",
+      "description": "Apply for Cloud Engineer (Clearance required) job with ICF in Reston, Virginia, United States of America ... Data Engineer (Clearance Required).",
+      "date": "2026-07-20",
+      "timestamp": "2026-07-20T22:15:45+00:00",
+      "fetched_at": "2026-07-21T01:14:44.111973+00:00"
+    },
+    {
+      "id": "3803ba38b516",
+      "title": "Job Application for Data Engineer at Bloomerang - Greenhouse",
+      "company": "Bloomerang",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/bloomerang/jobs/4716623005",
+      "source": "Greenhouse",
+      "description": "As a Data Engineer on the Finance team, you'll lead the end-to-end design, implementation, and maintenance of Bloomerang's enterprise data warehouse.",
+      "date": "2026-07-20",
+      "timestamp": "2026-07-20T21:53:31+00:00",
+      "fetched_at": "2026-07-21T01:14:43.850132+00:00"
+    },
+    {
+      "id": "aeb8b829a908",
+      "title": "Software Engineer , AirPlay 3rd Party - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200668233-3543/software-engineer-airplay-3rd-party?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Software Engineer , AirPlay 3rd Party job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-07-20",
+      "timestamp": "2026-07-20T21:25:07+00:00",
+      "fetched_at": "2026-07-21T01:14:43.850460+00:00"
+    },
+    {
+      "id": "375131f166e4",
+      "title": "Specialist Software Engineer - Test Automation Jobs at Amgen in India",
+      "company": "Amgen in India",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.amgen.com/en/job/hyderabad/specialist-software-engineer-test-automation/87/98045849728",
+      "source": "Other",
+      "description": "Explore the details of a Specialist Software Engineer - Test Automation career in Hyderabad. Live. Win. Thrive. Search and apply for a rewarding ...",
+      "date": "2026-07-20",
+      "timestamp": "2026-07-20T21:18:16+00:00",
+      "fetched_at": "2026-07-21T01:14:43.850647+00:00"
+    },
     {
       "id": "7e46276df7ff",
       "title": "Sr. Data Engineer - Redmond, WA (Hybrid Onsite) job - Experis USA - 405184",
@@ -64,6 +184,21 @@
       "date": "2026-07-20",
       "timestamp": "2026-07-20T20:40:00+00:00",
       "fetched_at": "2026-07-20T20:56:05.557635+00:00"
+    },
+    {
+      "id": "738766c12845",
+      "title": "Mid-level Backend Engineer (Remote) - UK - Open Roles - AlphaSights",
+      "company": "Mid",
+      "role": "Backend Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.alphasights.com/job/mid-level-backend-engineer-remote-uk-2/",
+      "source": "Other",
+      "description": "Mid-level Backend Engineer (Remote) \u2013 UK. London, Remote. Apply Now. The ... Mid-level Fullstack Engineer (Remote) \u2013 Brazil. Software Engineering.",
+      "date": "2026-07-20",
+      "timestamp": "2026-07-20T20:26:56+00:00",
+      "fetched_at": "2026-07-21T01:14:43.851156+00:00"
     },
     {
       "id": "46be99ffef49",
@@ -111,6 +246,21 @@
       "fetched_at": "2026-07-20T20:56:05.558354+00:00"
     },
     {
+      "id": "f5d44cd1f456",
+      "title": "Software Engineer II in Remote US, United States - Careers - EagleView Technologies",
+      "company": "Careers - EagleView Technologies",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.eagleview.com/jobs/2896?lang=en-us",
+      "source": "Other",
+      "description": "eagleview is hiring a Software Engineer II in Remote US, United States. Review all of the job details and apply today!",
+      "date": "2026-07-20",
+      "timestamp": "2026-07-20T19:03:01+00:00",
+      "fetched_at": "2026-07-21T01:14:43.851886+00:00"
+    },
+    {
       "id": "2fbcbe39b0ad",
       "title": "Software Engineer II, Message Mailflow | Careers - Abnormal AI",
       "company": "Careers - Abnormal AI",
@@ -126,6 +276,21 @@
       "fetched_at": "2026-07-20T20:56:05.558506+00:00"
     },
     {
+      "id": "1fe794eb2652",
+      "title": "John Crickett's Post - LinkedIn",
+      "company": "Unknown Company",
+      "role": "John Crickett's Post - LinkedIn",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/posts/johncrickett_want-to-become-a-great-software-engineer-activity-7484948842682068992-qF5P",
+      "source": "LinkedIn",
+      "description": "Want to become a great software engineer fast? Read books. Build things ... ZIYA IBRAHIMLI. Software Development | Full Stack Engineer | Tech Lead.",
+      "date": "2026-07-20",
+      "timestamp": "2026-07-20T18:57:07+00:00",
+      "fetched_at": "2026-07-21T01:14:44.115559+00:00"
+    },
+    {
       "id": "bbac5ae56ed0",
       "title": "Software Engineer - - 79697 - Jobs at Lenovo",
       "company": "Lenovo",
@@ -139,6 +304,21 @@
       "date": "2026-07-20",
       "timestamp": "2026-07-20T18:46:18+00:00",
       "fetched_at": "2026-07-20T20:56:05.558797+00:00"
+    },
+    {
+      "id": "800faef68e03",
+      "title": "Started a new role as Data Engineer 2 weeks ago, onboarding has me feeling uneasy.",
+      "company": "Unknown Company",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/dataengineering/comments/1v1cf7d/started_a_new_role_as_data_engineer_2_weeks_ago/",
+      "source": "Other",
+      "description": "Software Engineer hired as a Data Engineer . What to expect, and what to ... Career advice: Data platform engineer , worth it ? 17 upvotes \u00b7 23 ...",
+      "date": "2026-07-20",
+      "timestamp": "2026-07-20T18:45:19+00:00",
+      "fetched_at": "2026-07-21T01:14:43.852565+00:00"
     },
     {
       "id": "c0c6a50a4f94",
@@ -169,6 +349,21 @@
       "date": "2026-07-20",
       "timestamp": "2026-07-20T18:28:15+00:00",
       "fetched_at": "2026-07-20T20:56:05.559110+00:00"
+    },
+    {
+      "id": "fe7b66e25e7c",
+      "title": "Sr Software Engineer at Empower",
+      "company": "Empower",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.empower.com/job/greenwood-village/sr-software-engineer/42743/98052638960",
+      "source": "Other",
+      "description": "The Senior Software Engineer will implement complex software systems, lead development projects, and provide technical expertise. This role will ...",
+      "date": "2026-07-20",
+      "timestamp": "2026-07-20T18:28:15+00:00",
+      "fetched_at": "2026-07-21T01:14:43.852860+00:00"
     },
     {
       "id": "56155c10715c",
