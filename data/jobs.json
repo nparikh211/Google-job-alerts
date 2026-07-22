@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-07-21T20:54:52.681237+00:00",
-  "total_jobs": 6128,
+  "last_updated": "2026-07-22T01:13:03.345402+00:00",
+  "total_jobs": 6138,
   "stats": {
-    "total_companies": 3081,
+    "total_companies": 3084,
     "total_roles": 84,
     "regions": {
-      "India": 3978,
-      "Philippines": 1257,
-      "Remote": 783,
+      "India": 3986,
+      "Philippines": 1258,
+      "Remote": 784,
       "Unknown": 135
     },
     "sources": {
-      "Other": 4799,
-      "Greenhouse": 304,
+      "Other": 4803,
+      "Greenhouse": 308,
       "Workday": 276,
       "LinkedIn": 244,
       "Ashby": 191,
       "iCIMS": 78,
       "Breezy": 66,
-      "Lever": 44,
-      "SmartRecruiters": 39,
+      "Lever": 45,
+      "SmartRecruiters": 40,
       "Workable": 38,
       "Indeed": 24,
       "Recruitee": 6,
@@ -35,6 +35,126 @@
     }
   },
   "jobs": [
+    {
+      "id": "79cedaff1452",
+      "title": "Software Engineer , Product Engineering (Internal Apps) - OpenAI",
+      "company": "OpenAI",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://openai.com/careers/software-engineer-product-engineering-(internal-apps)-san-francisco/",
+      "source": "Other",
+      "description": "Software Engineer , Product Engineering (Internal Apps) ... OpenAI's mission is to ensure that AGI benefits all of humanity. The Business Systems team ...",
+      "date": "2026-07-21",
+      "timestamp": "2026-07-21T22:03:56+00:00",
+      "fetched_at": "2026-07-22T01:13:03.018123+00:00"
+    },
+    {
+      "id": "0f7ce4c63f93",
+      "title": "Job Application for Senior Software Engineer , Edge at Kargo - Greenhouse",
+      "company": "Kargo",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/kargo/jobs/6120136004",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer , Edge \u00b7 Build high-performance C++ systems for machine vision and AI on edge devices, processing gigabytes of data per second.",
+      "date": "2026-07-21",
+      "timestamp": "2026-07-21T21:58:57+00:00",
+      "fetched_at": "2026-07-22T01:13:03.018288+00:00"
+    },
+    {
+      "id": "144eb556f8e9",
+      "title": "Software Engineer 3 - MongoDB",
+      "company": "MongoDB",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.mongodb.com/careers/jobs/8069776",
+      "source": "Other",
+      "description": "We're seeking a Software Engineer to join the Atlas Core Identity and Access Management (IAM) team. The IAM team owns authentication and ...",
+      "date": "2026-07-21",
+      "timestamp": "2026-07-21T21:40:52+00:00",
+      "fetched_at": "2026-07-22T01:13:03.018406+00:00"
+    },
+    {
+      "id": "e3791f80e96f",
+      "title": "Software Engineer (Agentic AI), AI & Data Platforms - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200673365-0157/software-engineer-agentic-ai-ai-data-platforms",
+      "source": "Other",
+      "description": "Apply for a Software Engineer (Agentic AI), AI & Data Platforms job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-07-21",
+      "timestamp": "2026-07-21T21:08:58+00:00",
+      "fetched_at": "2026-07-22T01:13:03.018582+00:00"
+    },
+    {
+      "id": "2e4b4d917c37",
+      "title": "Software Engineer , Frontend (React, NextJS) - All Genders - Doodle",
+      "company": "All Genders - Doodle",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.doodle.com/jobs/8097829-software-engineer-frontend-react-nextjs-all-genders",
+      "source": "Other",
+      "description": "Software Engineer , Frontend (React, NextJS) - All Genders. Apply Now. We ... Hybrid. Apply now and join our international team at Doodle! Software ...",
+      "date": "2026-07-21",
+      "timestamp": "2026-07-21T20:51:55+00:00",
+      "fetched_at": "2026-07-22T01:13:03.318007+00:00"
+    },
+    {
+      "id": "b1314f0c1568",
+      "title": "Job Application for Software Engineer \u2014 E-commerce at Gallup - Greenhouse",
+      "company": "Gallup",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/gallup/jobs/4324981009",
+      "source": "Greenhouse",
+      "description": "Software Engineer \u2014 E-commerce. San Francisco. Apply. Build the systems behind everything Gallup sells online. As a software engineer on Gallup's E ...",
+      "date": "2026-07-21",
+      "timestamp": "2026-07-21T20:23:00+00:00",
+      "fetched_at": "2026-07-22T01:13:03.018856+00:00"
+    },
+    {
+      "id": "ee0cb41f81cb",
+      "title": "Job Application for Software Engineer , Edge at Kargo - Greenhouse",
+      "company": "Kargo",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/kargo/jobs/6120133004",
+      "source": "Greenhouse",
+      "description": "Software Engineer , Edge \u00b7 Develop high-performance C++ software for machine vision and AI systems running on edge devices. \u00b7 Build and improve computer ...",
+      "date": "2026-07-21",
+      "timestamp": "2026-07-21T20:21:05+00:00",
+      "fetched_at": "2026-07-22T01:13:03.018945+00:00"
+    },
+    {
+      "id": "774a6f2b006e",
+      "title": "Software Engineer - Traackr - Lever",
+      "company": "Traackr",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.lever.co/traackr/9696fd49-9769-4738-8c40-e65b929b62fd",
+      "source": "Lever",
+      "description": "Software Engineer . Boston, MA. Engineering /. Remote /. Remote. apply for this job. Traackr is a global SaaS technology company providing a data- ...",
+      "date": "2026-07-21",
+      "timestamp": "2026-07-21T19:12:28+00:00",
+      "fetched_at": "2026-07-22T01:13:03.019037+00:00"
+    },
     {
       "id": "f30806d76873",
       "title": "Software Engineer II, Backend - Rippling AI",
@@ -111,6 +231,21 @@
       "fetched_at": "2026-07-21T20:54:52.432220+00:00"
     },
     {
+      "id": "dc37badbfaf7",
+      "title": "Job Application for Sr. Software Engineer (Backend) at Pendo - Greenhouse",
+      "company": "Pendo",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/pendo/jobs/8515648002",
+      "source": "Greenhouse",
+      "description": "Software Engineer (Backend). Raleigh, NC. Apply. The Team + The Role. The Core team builds features and platform capabilities that power critical ...",
+      "date": "2026-07-21",
+      "timestamp": "2026-07-21T17:48:56+00:00",
+      "fetched_at": "2026-07-22T01:13:03.019750+00:00"
+    },
+    {
       "id": "ca74f4b56288",
       "title": "Software Engineer at Ford Motor Company",
       "company": "Ford Motor Company",
@@ -124,6 +259,21 @@
       "date": "2026-07-21",
       "timestamp": "2026-07-21T17:44:15+00:00",
       "fetched_at": "2026-07-21T20:54:52.432331+00:00"
+    },
+    {
+      "id": "c3fd1a45a846",
+      "title": "Red Bull Data Engineer | SmartRecruiters",
+      "company": "Redbull",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.smartrecruiters.com/RedBull/744000138741299-data-engineer-",
+      "source": "SmartRecruiters",
+      "description": "Red Bull North America is building the #1 CPG Data and Analytics team in the United States. We are looking for a Data Engineer to join our ...",
+      "date": "2026-07-21",
+      "timestamp": "2026-07-21T17:33:11+00:00",
+      "fetched_at": "2026-07-22T01:13:03.019941+00:00"
     },
     {
       "id": "f4eda903ae9a",
