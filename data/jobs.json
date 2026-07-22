@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-07-22T01:13:03.345402+00:00",
-  "total_jobs": 6138,
+  "last_updated": "2026-07-22T06:17:46.410700+00:00",
+  "total_jobs": 6144,
   "stats": {
-    "total_companies": 3084,
+    "total_companies": 3086,
     "total_roles": 84,
     "regions": {
-      "India": 3986,
-      "Philippines": 1258,
-      "Remote": 784,
+      "India": 3989,
+      "Philippines": 1260,
+      "Remote": 785,
       "Unknown": 135
     },
     "sources": {
-      "Other": 4803,
+      "Other": 4808,
       "Greenhouse": 308,
       "Workday": 276,
       "LinkedIn": 244,
@@ -20,7 +20,7 @@
       "Breezy": 66,
       "Lever": 45,
       "SmartRecruiters": 40,
-      "Workable": 38,
+      "Workable": 39,
       "Indeed": 24,
       "Recruitee": 6,
       "BrassRing": 6,
@@ -31,10 +31,55 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-07-21"
+      "latest": "2026-07-22"
     }
   },
   "jobs": [
+    {
+      "id": "5a55b1114935",
+      "title": "Software Engineer - Activity & Fitness, Watch Software - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200672682-0365/software-engineer-activity-fitness-watch-software",
+      "source": "Other",
+      "description": "Apply for a Software Engineer - Activity & Fitness, Watch Software job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-07-22",
+      "timestamp": "2026-07-22T01:42:54+00:00",
+      "fetched_at": "2026-07-22T06:17:46.383369+00:00"
+    },
+    {
+      "id": "ab63e1f92c8f",
+      "title": "Data Engineer - Swish Analytics - Teamtailor",
+      "company": "Swish Analytics - Teamtailor",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://swishanalytics.na.teamtailor.com/jobs/664864-data-engineer",
+      "source": "Other",
+      "description": "Data Engineer . Apply. Company Overview. Swish Analytics is a sports analytics, betting and fantasy startup building the next generation of predictive ...",
+      "date": "2026-07-21",
+      "timestamp": "2026-07-21T23:08:39+00:00",
+      "fetched_at": "2026-07-22T06:17:46.383541+00:00"
+    },
+    {
+      "id": "f144eb6177ef",
+      "title": "Creative Intelligence Software Engineer - Camera and Photos - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200672908-3401/creative-intelligence-software-engineer-camera-and-photos",
+      "source": "Other",
+      "description": "Apply for a Creative Intelligence Software Engineer - Camera and Photos job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-07-21",
+      "timestamp": "2026-07-21T22:44:20+00:00",
+      "fetched_at": "2026-07-22T06:17:46.320798+00:00"
+    },
     {
       "id": "79cedaff1452",
       "title": "Software Engineer , Product Engineering (Internal Apps) - OpenAI",
@@ -96,6 +141,21 @@
       "fetched_at": "2026-07-22T01:13:03.018582+00:00"
     },
     {
+      "id": "15ccf3dc77ef",
+      "title": "Data Engineer (Azure & Snowflake) - Remote - Mindex - Workable Jobs",
+      "company": "Mindex",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://apply.workable.com/mindex/j/5621616576/",
+      "source": "Workable",
+      "description": "Mindex is looking for a Data Engineer who enjoys building modern cloud-based data solutions that help organizations make smarter business ...",
+      "date": "2026-07-21",
+      "timestamp": "2026-07-21T21:05:01+00:00",
+      "fetched_at": "2026-07-22T06:17:46.384470+00:00"
+    },
+    {
       "id": "2e4b4d917c37",
       "title": "Software Engineer , Frontend (React, NextJS) - All Genders - Doodle",
       "company": "All Genders - Doodle",
@@ -154,6 +214,36 @@
       "date": "2026-07-21",
       "timestamp": "2026-07-21T19:12:28+00:00",
       "fetched_at": "2026-07-22T01:13:03.019037+00:00"
+    },
+    {
+      "id": "c7fee19f391d",
+      "title": "Lead Security Cloud and AI Engineer at Perdue Farms Inc",
+      "company": "Perdue Farms Inc",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.perduecareers.com/job/salisbury/lead-security-cloud-and-ai-engineer/45893/98096729024",
+      "source": "Other",
+      "description": "Lead Security Cloud and AI Engineer . Salisbury, Maryland, United States. Apply Save. Job ID 80610 Job Category Information Technology. Perdue Farms is ...",
+      "date": "2026-07-21",
+      "timestamp": "2026-07-21T18:54:50+00:00",
+      "fetched_at": "2026-07-22T06:17:46.322493+00:00"
+    },
+    {
+      "id": "ad978eba2288",
+      "title": "Software Engineer - Caterpillar Careers",
+      "company": "Caterpillar Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.caterpillar.com/en/jobs/r0000383247/software-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer . Save Saved. Broomfield, Colorado, United States of America / Chicago, Illinois, United States of America / Peoria ...",
+      "date": "2026-07-21",
+      "timestamp": "2026-07-21T18:52:54+00:00",
+      "fetched_at": "2026-07-22T06:17:46.322635+00:00"
     },
     {
       "id": "f30806d76873",
