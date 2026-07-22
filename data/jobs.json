@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-07-22T13:12:51.472330+00:00",
-  "total_jobs": 6161,
+  "last_updated": "2026-07-22T17:03:33.944047+00:00",
+  "total_jobs": 6174,
   "stats": {
-    "total_companies": 3093,
-    "total_roles": 84,
+    "total_companies": 3098,
+    "total_roles": 85,
     "regions": {
-      "India": 4000,
-      "Philippines": 1262,
-      "Remote": 789,
+      "India": 4008,
+      "Philippines": 1263,
+      "Remote": 793,
       "Unknown": 135
     },
     "sources": {
-      "Other": 4822,
+      "Other": 4832,
       "Greenhouse": 308,
       "Workday": 277,
       "LinkedIn": 244,
-      "Ashby": 191,
-      "iCIMS": 78,
-      "Breezy": 67,
+      "Ashby": 192,
+      "iCIMS": 79,
+      "Breezy": 68,
       "Lever": 45,
       "Workable": 40,
       "SmartRecruiters": 40,
@@ -35,6 +35,111 @@
     }
   },
   "jobs": [
+    {
+      "id": "8c0c8b41f26d",
+      "title": "Software Engineer , Milford, Michigan | General Motors Careers",
+      "company": "General Motors Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://search-careers.gm.com/en/jobs/jr-202615848/software-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer - Safety Design. Engineering 3. Engineering Team. From start to finish, our engineering team challenges the limits on what is ...",
+      "date": "2026-07-22",
+      "timestamp": "2026-07-22T15:01:48+00:00",
+      "fetched_at": "2026-07-22T17:03:33.622826+00:00"
+    },
+    {
+      "id": "5f50cc1f337a",
+      "title": "Staff Software Engineer , DevProd AI - Snap Careers",
+      "company": "Snap Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.snap.com/job?id=R0046228",
+      "source": "Other",
+      "description": "... Software Engineer to be a key technical leader driving the development of AI Agents at Snap as part of DevProd organization. You will define ...",
+      "date": "2026-07-22",
+      "timestamp": "2026-07-22T14:18:57+00:00",
+      "fetched_at": "2026-07-22T17:03:33.623093+00:00"
+    },
+    {
+      "id": "e544a428db3d",
+      "title": "Software Engineer II - MCP Development Job Details - Kiewit Careers",
+      "company": "MCP Development Job Details - Kiewit Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://kiewitcareers.kiewit.com/job/Lenexa-Software-Engineer-II-MCP-Development-KS/1411304000/",
+      "source": "Other",
+      "description": "We are seeking a motivated and technically skilled Software Engineer to join our MCP (Model Context Protocol) Engineering Team.",
+      "date": "2026-07-22",
+      "timestamp": "2026-07-22T14:10:21+00:00",
+      "fetched_at": "2026-07-22T17:03:33.623293+00:00"
+    },
+    {
+      "id": "85ab22c8c5ce",
+      "title": "Staff Software Engineer - Spend Platform",
+      "company": "Spend Platform",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/rippling/jobs/9f70b125-0ac6-4299-8e9c-0c1bae8a1363",
+      "source": "Other",
+      "description": "Staff Software Engineer - Spend Platform. Staff Software Engineer - Spend Platform. About Rippling. Rippling gives businesses one place to run HR ...",
+      "date": "2026-07-22",
+      "timestamp": "2026-07-22T13:53:59+00:00",
+      "fetched_at": "2026-07-22T17:03:33.623442+00:00"
+    },
+    {
+      "id": "3eca51976716",
+      "title": "Associate AI Platform Engineer - Denton, Texas, United States - UNTS Careers",
+      "company": "Denton, Texas, United States - UNTS Careers",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.untsystem.edu/jobs/associate-ai-platform-engineer-denton-texas-united-states",
+      "source": "Other",
+      "description": "The Associate AI Platform Engineer is responsible for building AI agents on multiple AI platforms, assist in training others on the use of those ...",
+      "date": "2026-07-22",
+      "timestamp": "2026-07-22T13:52:01+00:00",
+      "fetched_at": "2026-07-22T17:03:33.623651+00:00"
+    },
+    {
+      "id": "804cbaadb119",
+      "title": "Lead Data Engineer at Capital One - Wilmington",
+      "company": "Capital One",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.capitalonecareers.com/job/wilmington/lead-data-engineer/1732/98096051024",
+      "source": "Other",
+      "description": "Lead Data Engineer . Wilmington, Delaware | McLean, Virginia Pin job ... Lead Software Engineer , Full Stack (Java, Scala, AWS). New York, New ...",
+      "date": "2026-07-22",
+      "timestamp": "2026-07-22T13:08:20+00:00",
+      "fetched_at": "2026-07-22T17:03:33.623934+00:00"
+    },
+    {
+      "id": "008b6789ee9f",
+      "title": "Data Engineer at NinjaHoldings",
+      "company": "Ninjaholdings",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://ninjaholdings.breezy.hr/p/7b4e5477d374-data-engineer",
+      "source": "Breezy",
+      "description": "Data Engineer . Chicago, IL - Remote (any location); Full-Time; $100,000 \u2013 $145,000. Job Openings; Data Engineer .",
+      "date": "2026-07-22",
+      "timestamp": "2026-07-22T12:35:49+00:00",
+      "fetched_at": "2026-07-22T17:03:33.624036+00:00"
+    },
     {
       "id": "90a4fe24ef38",
       "title": "Data Engineer - NinjaHoldings",
@@ -66,6 +171,21 @@
       "fetched_at": "2026-07-22T13:12:51.222953+00:00"
     },
     {
+      "id": "bff5bec34807",
+      "title": "Senior Software Engineer in | Careers at Remote - DrFirst",
+      "company": "Remote",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers-drfirst.icims.com/jobs/2437/senior-software-engineer/job",
+      "source": "iCIMS",
+      "description": "Remote is now hiring a Senior Software Engineer in . Review all of the job details and apply today!",
+      "date": "2026-07-22",
+      "timestamp": "2026-07-22T12:12:21+00:00",
+      "fetched_at": "2026-07-22T17:03:33.624458+00:00"
+    },
+    {
       "id": "1171e435f464",
       "title": "AI Engineer - HigherEdJobs",
       "company": "HigherEdJobs",
@@ -79,6 +199,36 @@
       "date": "2026-07-22",
       "timestamp": "2026-07-22T11:56:05+00:00",
       "fetched_at": "2026-07-22T13:12:51.445229+00:00"
+    },
+    {
+      "id": "35619e528cd5",
+      "title": "Senior Software Engineer , Ledgering - Careers - Block",
+      "company": "Careers - Block",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://block.xyz/careers/jobs/5366105008?gh_jid=5366105008",
+      "source": "Other",
+      "description": "SEE ALL JOBS;. cashapp. Senior Software Engineer , Ledgering. Apply. Remote. New York, NY, US. Req ID: R0006727. Posted Date: 07/21/26. Posted today.",
+      "date": "2026-07-22",
+      "timestamp": "2026-07-22T11:55:42+00:00",
+      "fetched_at": "2026-07-22T17:03:33.624696+00:00"
+    },
+    {
+      "id": "0abd7d1821e0",
+      "title": "1 year of experience, but I feel like I'm not learning enough. What should I focus on? : r/devops",
+      "company": "should I focus on? : r/devops",
+      "role": "1 year of experience, but I feel like I'm not learning enoug",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/devops/comments/1v37qh0/devops_engineer_with_1_year_of_experience_but_i/",
+      "source": "Other",
+      "description": "Software Engineer to Cloud/DevOps ... can some give any suggestions on this. r/devops. \u2022 3mo ago. 4 YOE DevOps Engineer \u2014 Can someone review my resume?",
+      "date": "2026-07-22",
+      "timestamp": "2026-07-22T11:25:01+00:00",
+      "fetched_at": "2026-07-22T17:03:33.625161+00:00"
     },
     {
       "id": "36ff0e13912b",
@@ -109,6 +259,36 @@
       "date": "2026-07-22",
       "timestamp": "2026-07-22T08:30:36+00:00",
       "fetched_at": "2026-07-22T13:12:51.223304+00:00"
+    },
+    {
+      "id": "622086053af9",
+      "title": "Software Engineer II in Krakow, Wojew\u00f3dztwo Ma\u0142opolskie | FedEx Careers",
+      "company": "FedEx Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.fedex.com/software-engineer-ii/job/C2455B7E9A6A6D0C3E2F8DCB5DE688E6",
+      "source": "Other",
+      "description": "Software Engineer II. Professional. Company: FedEx Dataworks EU; Category: Professional; Employment Type: Full Time; Worker Sub-Type: Regular ...",
+      "date": "2026-07-22",
+      "timestamp": "2026-07-22T08:24:19+00:00",
+      "fetched_at": "2026-07-22T17:03:33.625854+00:00"
+    },
+    {
+      "id": "3e4a23d51727",
+      "title": "Backend Engineer @ Oneleet - Jobs",
+      "company": "Oneleet",
+      "role": "Backend Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.ashbyhq.com/oneleet/9951519c-458c-4782-b34b-312a5ecc399a",
+      "source": "Ashby",
+      "description": "... Software Engineer is a crucial contributor to Oneleet's success ... Backend Engineer . Location. US/EU - Remote. Employment Type. Full time ...",
+      "date": "2026-07-22",
+      "timestamp": "2026-07-22T08:19:56+00:00",
+      "fetched_at": "2026-07-22T17:03:33.625938+00:00"
     },
     {
       "id": "faa6a0078b3e",
@@ -184,6 +364,21 @@
       "date": "2026-07-22",
       "timestamp": "2026-07-22T05:44:14+00:00",
       "fetched_at": "2026-07-22T10:09:22.965585+00:00"
+    },
+    {
+      "id": "8b7655400e92",
+      "title": "Software Engineer , Chicago, Illinois, United States of America | Caterpillar Careers",
+      "company": "Caterpillar Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.caterpillar.com/en/jobs/r0000384047/software-engineer/",
+      "source": "Other",
+      "description": "As a Software Engineer you will be responsible for designing and developing backend RESTful API web services using Microservices architecture.",
+      "date": "2026-07-22",
+      "timestamp": "2026-07-22T05:32:37+00:00",
+      "fetched_at": "2026-07-22T17:03:33.919140+00:00"
     },
     {
       "id": "5e9d205e301a",
