@@ -1,26 +1,26 @@
 {
-  "last_updated": "2026-07-22T10:09:22.991858+00:00",
-  "total_jobs": 6155,
+  "last_updated": "2026-07-22T13:12:51.472330+00:00",
+  "total_jobs": 6161,
   "stats": {
-    "total_companies": 3090,
+    "total_companies": 3093,
     "total_roles": 84,
     "regions": {
-      "India": 3997,
-      "Philippines": 1261,
-      "Remote": 787,
+      "India": 4000,
+      "Philippines": 1262,
+      "Remote": 789,
       "Unknown": 135
     },
     "sources": {
-      "Other": 4818,
+      "Other": 4822,
       "Greenhouse": 308,
       "Workday": 277,
       "LinkedIn": 244,
       "Ashby": 191,
       "iCIMS": 78,
-      "Breezy": 66,
+      "Breezy": 67,
       "Lever": 45,
+      "Workable": 40,
       "SmartRecruiters": 40,
-      "Workable": 39,
       "Indeed": 24,
       "Recruitee": 6,
       "BrassRing": 6,
@@ -35,6 +35,81 @@
     }
   },
   "jobs": [
+    {
+      "id": "90a4fe24ef38",
+      "title": "Data Engineer - NinjaHoldings",
+      "company": "Ninjaholdings",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://ninjaholdings.breezy.hr/p/7b4e5477d374-data-engineer/apply",
+      "source": "Breezy",
+      "description": "Data Engineer . Chicago, IL - Remote (any location); Full-Time; $100,000 \u2013 $145,000. Job Openings \u00b7 Data Engineer ; Apply. Upload Resume*. Use My Indeed ...",
+      "date": "2026-07-22",
+      "timestamp": "2026-07-22T12:33:50+00:00",
+      "fetched_at": "2026-07-22T13:12:51.222020+00:00"
+    },
+    {
+      "id": "cb59558a6174",
+      "title": "Career transition into AI or ML engineer ? : r/learnmachinelearning - Reddit",
+      "company": "Reddit",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/learnmachinelearning/comments/1v2h31k/career_transition_into_ai_or_ml_engineer/",
+      "source": "Other",
+      "description": "Career transition into AI or ML engineer ? Question. Hey all. Just ... ai engineer may be easier to break in. I like building stuffs with ai ...",
+      "date": "2026-07-22",
+      "timestamp": "2026-07-22T12:29:05+00:00",
+      "fetched_at": "2026-07-22T13:12:51.222953+00:00"
+    },
+    {
+      "id": "1171e435f464",
+      "title": "AI Engineer - HigherEdJobs",
+      "company": "HigherEdJobs",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.higheredjobs.com/admin/details.cfm?JobCode=179505402&Title=AI%20Engineer",
+      "source": "Other",
+      "description": "AI Engineer ; Type: Full-Time ; Salary: $88,200 - $147,000 per year ; Posted: Today ; Application Due: 08/01/2026 ; Category: Software Engineer /Programmer.",
+      "date": "2026-07-22",
+      "timestamp": "2026-07-22T11:56:05+00:00",
+      "fetched_at": "2026-07-22T13:12:51.445229+00:00"
+    },
+    {
+      "id": "36ff0e13912b",
+      "title": "Staff Software Engineer - Barcelona, Spain - Madrid, Spain - Warsaw, Poland - Equinix Careers",
+      "company": "Barcelona, Spain - Madrid, Spain - Warsaw, Poland - Equinix Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.equinix.com/jobs/staff-software-engineer-barcelona-spain-madrid-warsaw-poland",
+      "source": "Other",
+      "description": "We are seeking a highly skilled Senior Full\u2011Stack Software Engineer to design, build, test, and operate a distributed automation platform that ...",
+      "date": "2026-07-22",
+      "timestamp": "2026-07-22T10:10:57+00:00",
+      "fetched_at": "2026-07-22T13:12:51.445563+00:00"
+    },
+    {
+      "id": "a41cae94fc2c",
+      "title": "Software Engineer IV (AI) - TCP Software - Workable Jobs",
+      "company": "Tcp Software 1",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://apply.workable.com/tcp-software-1/j/9BA2F2E181/",
+      "source": "Workable",
+      "description": "As a Software Engineer IV (AI), you will: Design, develop, test, and document cloud-hosted web applications in a cross-functional agile environment.",
+      "date": "2026-07-22",
+      "timestamp": "2026-07-22T08:30:36+00:00",
+      "fetched_at": "2026-07-22T13:12:51.223304+00:00"
+    },
     {
       "id": "faa6a0078b3e",
       "title": "Jr. Software Engineer | CannonDesign",
@@ -154,6 +229,21 @@
       "date": "2026-07-22",
       "timestamp": "2026-07-22T04:12:44+00:00",
       "fetched_at": "2026-07-22T10:09:22.802832+00:00"
+    },
+    {
+      "id": "93cdab598a3b",
+      "title": "Embedded Software Engineer - Careers at GE Vernova",
+      "company": "GE Vernova",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.gevernova.com/embedded-software-engineer/job/R5047971",
+      "source": "Other",
+      "description": "In the role of Embedded Software Engineer , you will use your experience / expertise to build a strong foundation for planning, developing, integrating ...",
+      "date": "2026-07-22",
+      "timestamp": "2026-07-22T02:09:36+00:00",
+      "fetched_at": "2026-07-22T13:12:51.225160+00:00"
     },
     {
       "id": "5a55b1114935",
