@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-07-23T01:20:01.839584+00:00",
-  "total_jobs": 6205,
+  "last_updated": "2026-07-23T06:21:12.466803+00:00",
+  "total_jobs": 6218,
   "stats": {
-    "total_companies": 3108,
+    "total_companies": 3114,
     "total_roles": 86,
     "regions": {
-      "India": 4034,
-      "Philippines": 1266,
-      "Remote": 795,
+      "India": 4044,
+      "Philippines": 1267,
+      "Remote": 797,
       "Unknown": 135
     },
     "sources": {
-      "Other": 4856,
-      "Greenhouse": 310,
+      "Other": 4867,
+      "Greenhouse": 311,
       "Workday": 279,
       "LinkedIn": 247,
       "Ashby": 192,
       "iCIMS": 79,
       "Breezy": 68,
-      "Lever": 45,
+      "Lever": 46,
       "Workable": 40,
       "SmartRecruiters": 40,
       "Indeed": 24,
@@ -31,10 +31,115 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-07-22"
+      "latest": "2026-07-23"
     }
   },
   "jobs": [
+    {
+      "id": "565c93b5f8e3",
+      "title": "Senior Data Engineer - Elevance Health",
+      "company": "Elevance Health",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.elevancehealth.com/senior-data-engineer/job/94873BEBD0D7ACC737631617CEE9E54D",
+      "source": "Other",
+      "description": "The Senior Data Engineer serves as the technical lead and platform owner for the security data lake supporting Application Security, Vulnerability ...",
+      "date": "2026-07-23",
+      "timestamp": "2026-07-23T03:20:51+00:00",
+      "fetched_at": "2026-07-23T06:21:12.073870+00:00"
+    },
+    {
+      "id": "5fda0ffef1b8",
+      "title": "Job Application for Software Engineer at Dutchie - Greenhouse",
+      "company": "Thedutchie",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/thedutchie/jobs/8626725002",
+      "source": "Greenhouse",
+      "description": "Software Engineer . Remote. Apply Now. About Dutchie. Founded in 2017, Dutchie is a comprehensive technology platform powering dispensary operations ...",
+      "date": "2026-07-23",
+      "timestamp": "2026-07-23T01:45:17+00:00",
+      "fetched_at": "2026-07-23T06:21:12.074013+00:00"
+    },
+    {
+      "id": "1489b06ac48c",
+      "title": "Data Engineer II, AWS Analytics Engineering - Job ID: 10481020 | Amazon.jobs",
+      "company": "Job ID: 10481020 | Amazon.jobs",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://amazon.jobs/jobs/10481020",
+      "source": "Other",
+      "description": "We are seeking a Data Engineer to join our Data Ingestion Platform team. In this role, you will design, build, and operate the next-generation ...",
+      "date": "2026-07-23",
+      "timestamp": "2026-07-23T00:48:37+00:00",
+      "fetched_at": "2026-07-23T06:21:12.438051+00:00"
+    },
+    {
+      "id": "415daa4e8e42",
+      "title": "Software Engineer I in Nashua, New Hampshire, United States - BAE Systems",
+      "company": "BAE Systems",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.baesystems.com/global/en/job/127649BR/Software-Engineer-I",
+      "source": "Other",
+      "description": "Software Engineer I. Apply Now. Job Advanced Widget. JOB DESCRIPTION ... CEMA - Senior Software Engineer (Onsite). Location Hudson, New Hampshire ...",
+      "date": "2026-07-23",
+      "timestamp": "2026-07-23T00:18:59+00:00",
+      "fetched_at": "2026-07-23T06:21:12.074148+00:00"
+    },
+    {
+      "id": "38cca6f8221f",
+      "title": "Software Engineer - Backend - Careers at GE Vernova",
+      "company": "GE Vernova",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.gevernova.com/software-engineer-backend/job/R5047361",
+      "source": "Other",
+      "description": "Software Engineer - Backend. Applications and Software; PB. Type: Full Time. Location(s):: Bangalore VERNOVA (JFWTC) IN. Date Posted: Salary: Job ...",
+      "date": "2026-07-23",
+      "timestamp": "2026-07-23T00:01:29+00:00",
+      "fetched_at": "2026-07-23T06:21:12.074266+00:00"
+    },
+    {
+      "id": "111fd9044845",
+      "title": "Greenlight Financial Technology - Senior Software Engineer , Full-Stack (Web Core) - Lever",
+      "company": "Greenlight",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.lever.co/greenlight/38b1f29a-bcbe-4758-818b-5b935961bf76",
+      "source": "Lever",
+      "description": "Senior Software Engineer , Full-Stack (Web Core) ... Greenlight is the leading family fintech company on a mission to help parents raise financially ...",
+      "date": "2026-07-22",
+      "timestamp": "2026-07-22T23:48:01+00:00",
+      "fetched_at": "2026-07-23T06:21:12.074359+00:00"
+    },
+    {
+      "id": "a3a03dbbe40d",
+      "title": "Senior Software Engineer /Developer Job Details - Fives Group",
+      "company": "Fives Group",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://career.fivesgroup.com/job/Wixom-Senior-Software-EngineerDeveloper-Mich-48393/1361756755/",
+      "source": "Other",
+      "description": "Senior Software Engineer /Developer. Legal Entity: Fives DyAG Corp. Country: United States. State: Michigan. City: Wixom. Job Family: Engineering and ...",
+      "date": "2026-07-22",
+      "timestamp": "2026-07-22T23:38:45+00:00",
+      "fetched_at": "2026-07-23T06:21:12.074529+00:00"
+    },
     {
       "id": "990e619114bf",
       "title": "Anchal Sharma's Post - LinkedIn",
@@ -51,6 +156,36 @@
       "fetched_at": "2026-07-23T01:20:01.711474+00:00"
     },
     {
+      "id": "6a167552027a",
+      "title": "Lead Software Engineer at Empower",
+      "company": "Empower",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.empower.com/job/greenwood-village/lead-software-engineer/42743/98150429184",
+      "source": "Other",
+      "description": "Lead Software Engineer . Job ID R.0059760 Primary location Greenwood Village, Colorado Date posted 07/22/2026 Worker type Regular Workplace ...",
+      "date": "2026-07-22",
+      "timestamp": "2026-07-22T23:06:46+00:00",
+      "fetched_at": "2026-07-23T06:21:12.075243+00:00"
+    },
+    {
+      "id": "c9947d469701",
+      "title": "Ascent Funding - Software Engineer , Backend - Paylocity",
+      "company": "Ascent Funding",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://recruiting.paylocity.com/recruiting/jobs/Details/4350717/Ascent-Holding-Co/Software-Engineer-Backend",
+      "source": "Other",
+      "description": "What You Will Be Doing: The Software Engineer (\u201cEngineer\u201d) will help design, build, and evolve backend platform services that support critical lending ...",
+      "date": "2026-07-22",
+      "timestamp": "2026-07-22T22:52:02+00:00",
+      "fetched_at": "2026-07-23T06:21:12.075394+00:00"
+    },
+    {
       "id": "db01b2fb6079",
       "title": "Senior Software Engineer",
       "company": "Unknown Company",
@@ -64,6 +199,36 @@
       "date": "2026-07-22",
       "timestamp": "2026-07-22T22:45:47+00:00",
       "fetched_at": "2026-07-23T01:20:01.711666+00:00"
+    },
+    {
+      "id": "2eadb80a9464",
+      "title": "Data Engineer - School of Computer Science - MLD - HigherEdJobs",
+      "company": "School of Computer Science - MLD - HigherEdJobs",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.higheredjobs.com/admin/details.cfm?JobCode=179506971&Title=Data%20Engineer%20%2D%20School%20of%20Computer%20Science%20%2D%20MLD",
+      "source": "Other",
+      "description": "Data Engineer - School of Computer Science - MLD. Carnegie Mellon ... Category: Software Engineer /Programmer. Military. Logo. Carnegie Mellon ...",
+      "date": "2026-07-22",
+      "timestamp": "2026-07-22T22:43:57+00:00",
+      "fetched_at": "2026-07-23T06:21:12.075827+00:00"
+    },
+    {
+      "id": "a54305dce8a6",
+      "title": "DevOps Engineer - San Jose, California, United States - Zoom Careers",
+      "company": "San Jose, California, United States - Zoom Careers",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.zoom.us/jobs/devops-engineer-san-jose-california-united-states-985ba983-44c3-4046-adc5-6ae3aa113a12",
+      "source": "Other",
+      "description": "DevOps Engineer \u00b7 Hold qualifications in Computer Science, Engineering, Information Technology, or a related discipline. \u00b7 Have experience in AWS cloud ...",
+      "date": "2026-07-22",
+      "timestamp": "2026-07-22T21:59:51+00:00",
+      "fetched_at": "2026-07-23T06:21:12.076122+00:00"
     },
     {
       "id": "3a20bd139cb0",
@@ -111,6 +276,21 @@
       "fetched_at": "2026-07-23T01:20:01.712372+00:00"
     },
     {
+      "id": "b4e9f31fc7b7",
+      "title": "Software Engineer , Platform, Sunnyvale, CA, United States - Intuitive Careers",
+      "company": "Intuitive Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.intuitive.com/en/jobs/744000139079886/JOB217374/software-engineer-platform/",
+      "source": "Other",
+      "description": "Software Engineer , Platform. Sunnyvale, CA, United States; Not Remote; Engineering; JOB217374. Clinical Development Engineering.",
+      "date": "2026-07-22",
+      "timestamp": "2026-07-22T21:27:35+00:00",
+      "fetched_at": "2026-07-23T06:21:12.076646+00:00"
+    },
+    {
       "id": "c2520acb6402",
       "title": "Software Engineer II - Badger Meter - Myworkdayjobs.com",
       "company": "Badgermeter",
@@ -139,6 +319,21 @@
       "date": "2026-07-22",
       "timestamp": "2026-07-22T20:32:25+00:00",
       "fetched_at": "2026-07-23T01:20:01.712753+00:00"
+    },
+    {
+      "id": "c6ddc625d6d5",
+      "title": "Senior Software Engineer , Fleet Response Infrastructure - San Francisco, California, United States",
+      "company": "San Francisco, California, United States",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.withwaymo.com/jobs/senior-software-engineer-fleet-response-infrastructure-mountain-view-california-united-states-san-francisco",
+      "source": "Other",
+      "description": "jobdescription_image_2x.png. Senior Software Engineer , Fleet Response Infrastructure. Mountain View, California, United States | San Francisco, ...",
+      "date": "2026-07-22",
+      "timestamp": "2026-07-22T20:23:35+00:00",
+      "fetched_at": "2026-07-23T06:21:12.077281+00:00"
     },
     {
       "id": "9bdab9b6ef77",
