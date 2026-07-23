@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-07-23T06:21:12.466803+00:00",
-  "total_jobs": 6218,
+  "last_updated": "2026-07-23T10:07:35.535604+00:00",
+  "total_jobs": 6230,
   "stats": {
-    "total_companies": 3114,
+    "total_companies": 3118,
     "total_roles": 86,
     "regions": {
-      "India": 4044,
+      "India": 4053,
       "Philippines": 1267,
-      "Remote": 797,
+      "Remote": 800,
       "Unknown": 135
     },
     "sources": {
-      "Other": 4867,
-      "Greenhouse": 311,
+      "Other": 4877,
+      "Greenhouse": 313,
       "Workday": 279,
       "LinkedIn": 247,
       "Ashby": 192,
@@ -36,6 +36,96 @@
   },
   "jobs": [
     {
+      "id": "49354318a509",
+      "title": "Azure Data Engineering- Data Engineer III - - 350969 - Deloitte",
+      "company": "Azure Data Engineering",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://usijobs.deloitte.com/en_US/careersUSI/JobDetail/USI-EH27-Consulting-AI-Data-Data-Engineer-III-Azure-DE/350969",
+      "source": "Other",
+      "description": "As a Data Engineer III at Deloitte Consulting, you will design, develop, and deploy enterprise-scale software solutions, lead the creation of robust ...",
+      "date": "2026-07-23",
+      "timestamp": "2026-07-23T09:08:35+00:00",
+      "fetched_at": "2026-07-23T10:07:35.441789+00:00"
+    },
+    {
+      "id": "42a687ce3d5e",
+      "title": "Job Application for Senior Data Engineer at Federato - Greenhouse",
+      "company": "Federato",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/federato/jobs/5367402008",
+      "source": "Greenhouse",
+      "description": "Senior Data Engineer . Remote. Apply. Federato is on a mission to defend the right to efficient, equitable insurance for all. We enable insurers to ...",
+      "date": "2026-07-23",
+      "timestamp": "2026-07-23T08:00:35+00:00",
+      "fetched_at": "2026-07-23T10:07:35.441978+00:00"
+    },
+    {
+      "id": "f80b3880b668",
+      "title": "Senior Software Engineer IV - STARLIMS Corporation - Career Page",
+      "company": "STARLIMS Corporation - Career Page",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://starlims.applytojob.com/apply/btcwirFpT0/Senior-Software-Engineer-IV",
+      "source": "Other",
+      "description": "Senior Software Engineer IV \u2013 STARLIMS Remote, U.S.| Full Time | R&D STARLIMS provides leading Laboratory Information Management System (LIMS) ...",
+      "date": "2026-07-23",
+      "timestamp": "2026-07-23T07:06:12+00:00",
+      "fetched_at": "2026-07-23T10:07:35.442346+00:00"
+    },
+    {
+      "id": "e61fe8462ce1",
+      "title": "Assoc Software Engineer in Dallas, Texas, United States of America - Southwest Careers",
+      "company": "Southwest Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.southwestair.com/us/en/job/R-2026-69992/Assoc-Software-Engineer",
+      "source": "Other",
+      "description": "Apply for Assoc Software Engineer job with Southwest in Dallas, Texas, United States of America. Technology at Southwest.",
+      "date": "2026-07-23",
+      "timestamp": "2026-07-23T05:44:06+00:00",
+      "fetched_at": "2026-07-23T10:07:35.442513+00:00"
+    },
+    {
+      "id": "5735a3b9974c",
+      "title": "Senior Software Engineer - Formlabs Careers",
+      "company": "Formlabs Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.formlabs.com/job/8079010/apply/",
+      "source": "Other",
+      "description": "Senior Software Engineer . Department: Software Engineering Location: Budapest, Hungary. Do you want to change how the world creates? At Formlabs, we ...",
+      "date": "2026-07-23",
+      "timestamp": "2026-07-23T04:22:38+00:00",
+      "fetched_at": "2026-07-23T10:07:35.442648+00:00"
+    },
+    {
+      "id": "d967820c7d7e",
+      "title": "Data Engineer - Blue Orange Digital career site",
+      "company": "Blue Orange Digital career site",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.blueorange.digital/jobs/666599-data-engineer",
+      "source": "Other",
+      "description": "Data Engineer . Apply for this job. Company Overview: Blue Orange Digital is a boutique data & AI consultancy that delivers enterprise-grade results ...",
+      "date": "2026-07-23",
+      "timestamp": "2026-07-23T04:01:03+00:00",
+      "fetched_at": "2026-07-23T10:07:35.442805+00:00"
+    },
+    {
       "id": "565c93b5f8e3",
       "title": "Senior Data Engineer - Elevance Health",
       "company": "Elevance Health",
@@ -49,6 +139,36 @@
       "date": "2026-07-23",
       "timestamp": "2026-07-23T03:20:51+00:00",
       "fetched_at": "2026-07-23T06:21:12.073870+00:00"
+    },
+    {
+      "id": "cffcfc09cce4",
+      "title": "What a frontend engineer actually need to know about design systems : r/reactjs - Reddit",
+      "company": "a frontend engineer actually need to know about design systems : r/reactjs",
+      "role": "Frontend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/reactjs/comments/1v3j6kl/what_a_frontend_engineer_actually_need_to_know/",
+      "source": "Other",
+      "description": "19 votes, 20 comments. As a frontend engineer , building a design system from scratch is mostly a thing of the past. UI libraries and AI tools get ...",
+      "date": "2026-07-23",
+      "timestamp": "2026-07-23T03:10:11+00:00",
+      "fetched_at": "2026-07-23T10:07:35.443218+00:00"
+    },
+    {
+      "id": "61d2a535a9ea",
+      "title": "Experienced DevOps Engineer in Austin, Texas | Lutron Electronics Co., Inc",
+      "company": "Lutron Electronics Co., Inc",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.lutron.com/jobs/5236?lang=en-us",
+      "source": "Other",
+      "description": "Lutron is hiring a Experienced DevOps Engineer in Austin, Texas. Review all of the job details and apply today!",
+      "date": "2026-07-23",
+      "timestamp": "2026-07-23T02:33:04+00:00",
+      "fetched_at": "2026-07-23T10:07:35.443496+00:00"
     },
     {
       "id": "5fda0ffef1b8",
@@ -126,6 +246,21 @@
       "fetched_at": "2026-07-23T06:21:12.074359+00:00"
     },
     {
+      "id": "76ebc86e317e",
+      "title": "Sr Software Engineer - Fullstack - Careers at GE Vernova",
+      "company": "GE Vernova",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.gevernova.com/sr-software-engineer-fullstack/job/R5047599",
+      "source": "Other",
+      "description": "The Sr Software Engineer will be working to develop and deliver required product features for internal applications used by Treasury/FS/Tax teams.",
+      "date": "2026-07-22",
+      "timestamp": "2026-07-22T23:42:09+00:00",
+      "fetched_at": "2026-07-23T10:07:35.444116+00:00"
+    },
+    {
       "id": "a3a03dbbe40d",
       "title": "Senior Software Engineer /Developer Job Details - Fives Group",
       "company": "Fives Group",
@@ -139,6 +274,36 @@
       "date": "2026-07-22",
       "timestamp": "2026-07-22T23:38:45+00:00",
       "fetched_at": "2026-07-23T06:21:12.074529+00:00"
+    },
+    {
+      "id": "5fc80a0f5665",
+      "title": "Job Application for Senior Software Engineer II at Dutchie - Greenhouse",
+      "company": "Thedutchie",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/thedutchie/jobs/8626714002",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer II. Remote. Apply Now. About Dutchie. Founded in 2017, Dutchie is a comprehensive technology platform powering dispensary ...",
+      "date": "2026-07-22",
+      "timestamp": "2026-07-22T23:32:50+00:00",
+      "fetched_at": "2026-07-23T10:07:35.444389+00:00"
+    },
+    {
+      "id": "544d23834c1c",
+      "title": "Junior Software Engineer , Kosice, Slovakia | Caterpillar Careers",
+      "company": "Caterpillar Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.caterpillar.com/en/jobs/r0000384005/junior-software-engineer/",
+      "source": "Other",
+      "description": "Junior Software Engineer . Location, Kosice, Slovakia. Date Posted, Wednesday ... Senior Software Engineer . Save Saved. Kosice, Slovakia. Salesforce ...",
+      "date": "2026-07-22",
+      "timestamp": "2026-07-22T23:23:56+00:00",
+      "fetched_at": "2026-07-23T10:07:35.444536+00:00"
     },
     {
       "id": "990e619114bf",
@@ -169,6 +334,21 @@
       "date": "2026-07-22",
       "timestamp": "2026-07-22T23:06:46+00:00",
       "fetched_at": "2026-07-23T06:21:12.075243+00:00"
+    },
+    {
+      "id": "9954900b79b8",
+      "title": "Software Engineer at Ford Motor Company",
+      "company": "Ford Motor Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.careers.ford.com/job/chennai/software-engineer/48560/98124622096",
+      "source": "Other",
+      "description": "Software Engineer . Job ID: 66828. Category: Enterprise Technology. Location: Chennai, India. Work Type: On-site. Apply Now. FMS (Fleet Management ...",
+      "date": "2026-07-22",
+      "timestamp": "2026-07-22T23:03:07+00:00",
+      "fetched_at": "2026-07-23T10:07:35.445428+00:00"
     },
     {
       "id": "c9947d469701",
