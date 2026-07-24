@@ -1,26 +1,26 @@
 {
-  "last_updated": "2026-07-24T17:16:56.335951+00:00",
-  "total_jobs": 6308,
+  "last_updated": "2026-07-24T20:52:20.550662+00:00",
+  "total_jobs": 6325,
   "stats": {
-    "total_companies": 3147,
+    "total_companies": 3154,
     "total_roles": 87,
     "regions": {
-      "India": 4107,
-      "Philippines": 1282,
-      "Remote": 810,
+      "India": 4118,
+      "Philippines": 1285,
+      "Remote": 814,
       "Unknown": 135
     },
     "sources": {
-      "Other": 4944,
-      "Greenhouse": 315,
+      "Other": 4958,
+      "Greenhouse": 317,
       "Workday": 280,
       "LinkedIn": 252,
       "Ashby": 194,
       "iCIMS": 79,
       "Breezy": 68,
       "Lever": 46,
+      "SmartRecruiters": 41,
       "Workable": 40,
-      "SmartRecruiters": 40,
       "Indeed": 24,
       "BrassRing": 7,
       "Recruitee": 6,
@@ -35,6 +35,202 @@
     }
   },
   "jobs": [
+    {
+      "id": "e00ad1992f1e",
+      "title": "Job Application for Senior Software Engineer II at Carta - Greenhouse",
+      "company": "Carta",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/carta/jobs/7772786003",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer II. Seattle, WA. Apply. The Company You'll Join. Carta connects founders, investors, and limited partners through world-class ...",
+      "date": "2026-07-24",
+      "timestamp": "2026-07-24T20:31:08+00:00",
+      "fetched_at": "2026-07-24T20:52:20.522581+00:00"
+    },
+    {
+      "id": "dbddc2fa000b",
+      "title": "Agentic AI Engineer - Careers at Elastic",
+      "company": "Elastic",
+      "role": "AI Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.elastic.co/jobs/finance-it-operations/united-states/agentic-ai-engineer/8079636?gh_jid=8079636",
+      "source": "Other",
+      "description": "an innovative Agentic AI Engineer to join our team to build autonomous ... Agentic AI Engineer . Agentic AI Engineer . Distributed Locations ...",
+      "date": "2026-07-24",
+      "timestamp": "2026-07-24T19:59:06+00:00",
+      "fetched_at": "2026-07-24T20:52:20.283679+00:00"
+    },
+    {
+      "id": "6f6b2d9f6b76",
+      "title": "Senior Data Engineer - Piper Companies",
+      "company": "Piper Companies",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.pipercompanies.com/details/170330/senior_data_engineer",
+      "source": "Other",
+      "description": "Responsibilities of the Senior Data Engineer : Build and maintain production data pipelines using API ingestion, CDC, and event-driven patterns ...",
+      "date": "2026-07-24",
+      "timestamp": "2026-07-24T19:01:38+00:00",
+      "fetched_at": "2026-07-24T20:52:20.284628+00:00"
+    },
+    {
+      "id": "f909387d24ac",
+      "title": "Data Engineer DBA | Job Details",
+      "company": "Job Details",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://utdgohcm.csod.com/ux/ats/careersite/4/home/requisition/1902?c=utdgohcm",
+      "source": "Other",
+      "description": "The Utah State Board of Education (USBE) is seeking a skilled Data Engineer / Microsoft SQL Database Administrator to design, maintain, and improve ...",
+      "date": "2026-07-24",
+      "timestamp": "2026-07-24T18:35:27+00:00",
+      "fetched_at": "2026-07-24T20:52:20.284861+00:00"
+    },
+    {
+      "id": "f163b91bdc9f",
+      "title": "Data Engineer , Affiliate Marketing in Multiple Locations | Publicis Groupe Holdings B.V",
+      "company": "Publicis Groupe Holdings B.V",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.publicisgroupe.com/jobs/167732?lang=en-us",
+      "source": "Other",
+      "description": "Publicis Groupe is hiring a Data Engineer , Affiliate Marketing in Multiple Locations. Review all of the job details and apply today!",
+      "date": "2026-07-24",
+      "timestamp": "2026-07-24T17:59:19+00:00",
+      "fetched_at": "2026-07-24T20:52:20.523300+00:00"
+    },
+    {
+      "id": "8046ae23e51b",
+      "title": "Software Engineer - Clinisys Careers",
+      "company": "Clinisys Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.clinisys.com/jobs/8124317-software-engineer",
+      "source": "Other",
+      "description": "Software Engineer . Apply for this job. Clinisys' AI Philosophy Building an AI first organisation is central to Clinisys' purpose and the impact we ...",
+      "date": "2026-07-24",
+      "timestamp": "2026-07-24T17:50:12+00:00",
+      "fetched_at": "2026-07-24T20:52:20.285097+00:00"
+    },
+    {
+      "id": "b8c3dcc3949c",
+      "title": "Software Engineer - Rippling",
+      "company": "Rippling",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/pcmi/jobs/3c0c434c-d6ca-4a54-becf-8db454a6147c",
+      "source": "Other",
+      "description": "Software Engineer . PCMI, LLC. Software Engineer . PCMI is a fast-growing global SaaS company and a market leader in extended warranty, F&I, and ...",
+      "date": "2026-07-24",
+      "timestamp": "2026-07-24T17:41:48+00:00",
+      "fetched_at": "2026-07-24T20:52:20.285316+00:00"
+    },
+    {
+      "id": "094876da2df2",
+      "title": "Looking for a Complete AI/ ML Engineer Roadmap (2026) : r/learnmachinelearning - Reddit",
+      "company": "Reddit",
+      "role": "ML Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.reddit.com/r/learnmachinelearning/comments/1v51vbn/looking_for_a_complete_aiml_engineer_roadmap_2026/",
+      "source": "Other",
+      "description": "How to become an AI engineer as an ML engineer . 43. 18. Serious beginner ... machine learning engineer ? 15. 8. What skills and AI/Data Science ...",
+      "date": "2026-07-24",
+      "timestamp": "2026-07-24T17:39:24+00:00",
+      "fetched_at": "2026-07-24T20:52:20.523836+00:00"
+    },
+    {
+      "id": "481ed3eceb0a",
+      "title": "Senior Software Engineer II - Remote - US - Samsara",
+      "company": "Remote - US - Samsara",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.samsara.com/company/careers/roles/8063736?gh_jid=8063736",
+      "source": "Other",
+      "description": "Senior Software Engineer II. Remote - US. ID:JR11918 (for internal use only). Apply Now. Senior Software Engineer II. Apply Now. Samsara's Mission.",
+      "date": "2026-07-24",
+      "timestamp": "2026-07-24T17:34:33+00:00",
+      "fetched_at": "2026-07-24T20:52:20.524001+00:00"
+    },
+    {
+      "id": "625179d67419",
+      "title": "Senior Software Engineer - Nike Careers",
+      "company": "Nike Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.nike.com/senior-software-engineer/job/R-88279",
+      "source": "Other",
+      "description": "Are you game? FULL STACK SENIOR SOFTWARE ENGINEER . Nike / Global Technology / Consumer Product & Innovation / Product Innovation Engineering. WHO YOU ...",
+      "date": "2026-07-24",
+      "timestamp": "2026-07-24T17:21:31+00:00",
+      "fetched_at": "2026-07-24T20:52:20.285496+00:00"
+    },
+    {
+      "id": "f235a6dbe792",
+      "title": "Full Stack Engineer at Bold Reuse - Gusto",
+      "company": "Bold Reuse",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.gusto.com/postings/bold-reuse-full-stack-engineer-cd49fbed-0de3-4266-b56c-2ce813853009",
+      "source": "Other",
+      "description": "Apply for Full Stack Engineer . You will lead the continued design ... As a Full-Stack Software Engineer at Bold Reuse, you will lead the ...",
+      "date": "2026-07-24",
+      "timestamp": "2026-07-24T16:51:33+00:00",
+      "fetched_at": "2026-07-24T20:52:20.285793+00:00"
+    },
+    {
+      "id": "a91bb378d07f",
+      "title": "Software Engineer - Piper Companies",
+      "company": "Piper Companies",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.pipercompanies.com/details/170309/software_engineer",
+      "source": "Other",
+      "description": "Requirements of the Software Engineer : 2-5 years of full stack engineer experience is needed; Bachelor's degree in Computer Science; Proficient in ...",
+      "date": "2026-07-24",
+      "timestamp": "2026-07-24T16:51:11+00:00",
+      "fetched_at": "2026-07-24T20:52:20.286017+00:00"
+    },
+    {
+      "id": "9d7a77b7d733",
+      "title": "Mirantis Senior Software Engineer (Storage) - remote in the US | SmartRecruiters",
+      "company": "Mirantis",
+      "role": "Software Engineer",
+      "regions": [
+        "India",
+        "Remote"
+      ],
+      "link": "https://jobs.smartrecruiters.com/Mirantis/744000139376479-senior-software-engineer-storage-remote-in-the-us",
+      "source": "SmartRecruiters",
+      "description": "Senior Software Engineer (Storage) - remote in the US. Boston, MA, USA ... Other jobs at Mirantis. Senior DevOps Engineer (Storage) - remote, US/EU.",
+      "date": "2026-07-24",
+      "timestamp": "2026-07-24T16:47:53+00:00",
+      "fetched_at": "2026-07-24T20:52:20.286141+00:00"
+    },
     {
       "id": "f01a8ce3d946",
       "title": "Data Engineer Job Details | Qorvo",
@@ -51,6 +247,36 @@
       "fetched_at": "2026-07-24T17:16:56.307293+00:00"
     },
     {
+      "id": "a0f4a7cdec2e",
+      "title": "Job Application for Sr. Software Engineer (Platform + AI) at Bloomerang - Greenhouse",
+      "company": "Bloomerang",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/bloomerang/jobs/4717364005",
+      "source": "Greenhouse",
+      "description": "Sr. Software Engineer (Platform + AI). Remote, US. Apply. At Bloomerang, we believe change happens on purpose. We champion the power and potential of ...",
+      "date": "2026-07-24",
+      "timestamp": "2026-07-24T16:06:12+00:00",
+      "fetched_at": "2026-07-24T20:52:20.525073+00:00"
+    },
+    {
+      "id": "458e0ea5e23d",
+      "title": "Network DevOps Engineer at Cargill - Careers",
+      "company": "Cargill",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cargill.com/en/job/bengaluru/network-devops-engineer/23251/98215721936",
+      "source": "Other",
+      "description": "Job Purpose and Impact. The Network DevOps Engineer will design, automate, operate, and continuously improve Cargill's global software-defined network ...",
+      "date": "2026-07-24",
+      "timestamp": "2026-07-24T15:53:46+00:00",
+      "fetched_at": "2026-07-24T20:52:20.286496+00:00"
+    },
+    {
       "id": "8ceabe74770b",
       "title": "Data Engineer III | Careers at Love's | Fuel Your Future",
       "company": "Love's",
@@ -64,6 +290,36 @@
       "date": "2026-07-24",
       "timestamp": "2026-07-24T15:24:59+00:00",
       "fetched_at": "2026-07-24T17:16:55.951994+00:00"
+    },
+    {
+      "id": "1656c0949374",
+      "title": "Senior Data Engineer - - 31764 - UCLA Health - Avature",
+      "company": "- 31764 - UCLA Health - Avature",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://uclahealth.avature.net/careers/JobDetail/Senior-Data-Engineer/31764",
+      "source": "Other",
+      "description": "UCLA Health is seeking a Senior Data Engineer to join our Data Architecture team and help build the next generation of enterprise data platforms ...",
+      "date": "2026-07-24",
+      "timestamp": "2026-07-24T15:17:35+00:00",
+      "fetched_at": "2026-07-24T20:52:20.287079+00:00"
+    },
+    {
+      "id": "423a98ad22bf",
+      "title": "Senior Software Engineer , Galway | Fidelity Investments Ireland",
+      "company": "Fidelity Investments Ireland",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.fidelity.com/ie/jobs/2131695/senior-software-engineer/",
+      "source": "Other",
+      "description": "We are seeking a Senior Software Engineer who is passionate about engineering excellence and technology innovation. ... Senior Full Stack Engineer .",
+      "date": "2026-07-24",
+      "timestamp": "2026-07-24T14:12:09+00:00",
+      "fetched_at": "2026-07-24T20:52:20.287278+00:00"
     },
     {
       "id": "223ecb5444f1",
