@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-07-23T20:46:53.191605+00:00",
-  "total_jobs": 6272,
+  "last_updated": "2026-07-24T01:16:14.055371+00:00",
+  "total_jobs": 6282,
   "stats": {
-    "total_companies": 3131,
+    "total_companies": 3136,
     "total_roles": 86,
     "regions": {
-      "India": 4082,
-      "Philippines": 1274,
-      "Remote": 807,
+      "India": 4089,
+      "Philippines": 1275,
+      "Remote": 809,
       "Unknown": 135
     },
     "sources": {
-      "Other": 4913,
+      "Other": 4922,
       "Greenhouse": 315,
       "Workday": 279,
       "LinkedIn": 249,
-      "Ashby": 193,
+      "Ashby": 194,
       "iCIMS": 79,
       "Breezy": 68,
       "Lever": 46,
@@ -36,6 +36,96 @@
   },
   "jobs": [
     {
+      "id": "d3e2c6015125",
+      "title": "Software Engineer III - Philadelphia Insurance Companies Careers",
+      "company": "Philadelphia Insurance Companies Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://phly-jobs.ttcportals.com/jobs/18027346-software-engineer-iii",
+      "source": "Other",
+      "description": "Join the team at American Collectors Insurance (part of PHLY), where passion meets protection! We are seeking a Software Engineer III to design, ...",
+      "date": "2026-07-23",
+      "timestamp": "2026-07-23T23:32:05+00:00",
+      "fetched_at": "2026-07-24T01:16:13.689694+00:00"
+    },
+    {
+      "id": "aec1f246f9b9",
+      "title": "Software Engineer , Shortcuts, Proactive - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200673757-0836/software-engineer-shortcuts-proactive?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Software Engineer , Shortcuts, Proactive job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-07-23",
+      "timestamp": "2026-07-23T23:14:31+00:00",
+      "fetched_at": "2026-07-24T01:16:14.027232+00:00"
+    },
+    {
+      "id": "a4366c0d6ecb",
+      "title": "Software Engineer , Core Services - Apple Services Engineering - Jobs",
+      "company": "Software Engineer , Core Services",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200673904-3337/software-engineer-core-services-apple-services-engineering?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Software Engineer , Core Services - Apple Services Engineering job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-07-23",
+      "timestamp": "2026-07-23T23:08:06+00:00",
+      "fetched_at": "2026-07-24T01:16:13.690106+00:00"
+    },
+    {
+      "id": "5e4cae1daa04",
+      "title": "AI Platform Engineer at MassMutual",
+      "company": "MassMutual",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.massmutual.com/job/boston/ai-platform-engineer/724/98187443984",
+      "source": "Other",
+      "description": "MassMutual's AI Platform Engineering team is seeking an impact-driven AI Platform Engineer to serve as the technical anchor of our high-performing ...",
+      "date": "2026-07-23",
+      "timestamp": "2026-07-23T21:41:13+00:00",
+      "fetched_at": "2026-07-24T01:16:13.690260+00:00"
+    },
+    {
+      "id": "057ecf4e8a80",
+      "title": "Software Engineer II, Frontend/AI Fullstack - Growth Engineering - Rippling",
+      "company": "Software Engineer II, Frontend/AI Fullstack",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/rippling/jobs/9e3a45d1-477e-4b0c-9fac-7178385c8da2",
+      "source": "Other",
+      "description": "Software Engineer II, Frontend/AI Fullstack - Growth Engineering. Software Engineer II, Frontend/AI Fullstack - Growth Engineering. About Rippling.",
+      "date": "2026-07-23",
+      "timestamp": "2026-07-23T20:23:03+00:00",
+      "fetched_at": "2026-07-24T01:16:13.690630+00:00"
+    },
+    {
+      "id": "73b5800d0fd2",
+      "title": "Mozilla Careers \u2014 Senior Data Engineer \u2014 Open Positions",
+      "company": "Unknown Company",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.mozilla.org/en-US/careers/position/gh/7722778/",
+      "source": "Other",
+      "description": "Mozilla is hiring a Senior Data Engineer in Remote Canada, Firefox, New Products, Firefox, Core Services, Mozilla Foundation, Core Services, ...",
+      "date": "2026-07-23",
+      "timestamp": "2026-07-23T20:17:24+00:00",
+      "fetched_at": "2026-07-24T01:16:13.690807+00:00"
+    },
+    {
       "id": "c511781c4692",
       "title": "Software Engineer II Job Details - PacifiCorp",
       "company": "PacifiCorp",
@@ -51,6 +141,21 @@
       "fetched_at": "2026-07-23T20:46:53.164665+00:00"
     },
     {
+      "id": "247ec7c76ca5",
+      "title": "Junior Data Engineer | Careers - Silicon Data",
+      "company": "Careers - Silicon Data",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.silicondata.com/careers/junior-data-engineer",
+      "source": "Other",
+      "description": "We're looking for a Junior Data Engineer to help us scale the leading GPU data platform. Who We Are At Silicon Data, we bring transparency to the ...",
+      "date": "2026-07-23",
+      "timestamp": "2026-07-23T19:50:41+00:00",
+      "fetched_at": "2026-07-24T01:16:13.691401+00:00"
+    },
+    {
       "id": "b19b7b8730bf",
       "title": "Junior Software Engineer | Infinite Computer Solutions - jobs.brassring.com",
       "company": "Infinite Computer Solutions - jobs.brassring.com",
@@ -64,6 +169,21 @@
       "date": "2026-07-23",
       "timestamp": "2026-07-23T19:46:53+00:00",
       "fetched_at": "2026-07-23T20:46:53.022044+00:00"
+    },
+    {
+      "id": "c49fd5e9a29a",
+      "title": "AI/ML @ TRM Labs - Data Engineer - Jobs",
+      "company": "Trm Labs",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.ashbyhq.com/trm-labs/13abf238-3475-4227-91cd-ac470973080f",
+      "source": "Ashby",
+      "description": "Data Engineer - AI/ML. Location. United States. Employment Type. Full time. Location Type. Remote. Department. R&DEngineering. OverviewApplication ...",
+      "date": "2026-07-23",
+      "timestamp": "2026-07-23T19:37:59+00:00",
+      "fetched_at": "2026-07-24T01:16:13.691725+00:00"
     },
     {
       "id": "180640ef171b",
@@ -94,6 +214,36 @@
       "date": "2026-07-23",
       "timestamp": "2026-07-23T19:21:15+00:00",
       "fetched_at": "2026-07-23T20:46:53.022481+00:00"
+    },
+    {
+      "id": "f824b6be58c3",
+      "title": "Syracuse University Online Employment Site | AI Data Engineer - SUJobOpps",
+      "company": "Syracuse University Online Employment Site",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.sujobopps.com/postings/113886",
+      "source": "Other",
+      "description": "Hours may vary based on operational needs. Job Type, Full-time. Unionized Position Code, Not Applicable. Job Description. The AI Data Engineer ...",
+      "date": "2026-07-23",
+      "timestamp": "2026-07-23T19:07:59+00:00",
+      "fetched_at": "2026-07-24T01:16:13.692188+00:00"
+    },
+    {
+      "id": "81bffd105999",
+      "title": "Senior Software Engineer , Apple Data Platform - Jobs",
+      "company": "Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200673880-0836/senior-software-engineer-apple-data-platform?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Senior Software Engineer , Apple Data Platform job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-07-23",
+      "timestamp": "2026-07-23T19:01:37+00:00",
+      "fetched_at": "2026-07-24T01:16:13.692371+00:00"
     },
     {
       "id": "88cf8277122d",
