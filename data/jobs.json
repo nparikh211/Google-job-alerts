@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-07-25T12:51:55.475076+00:00",
-  "total_jobs": 6364,
+  "last_updated": "2026-07-25T16:40:07.476527+00:00",
+  "total_jobs": 6374,
   "stats": {
-    "total_companies": 3165,
+    "total_companies": 3168,
     "total_roles": 87,
     "regions": {
-      "India": 4138,
-      "Philippines": 1302,
+      "India": 4139,
+      "Philippines": 1311,
       "Remote": 816,
       "Unknown": 135
     },
     "sources": {
-      "Other": 4990,
+      "Other": 4999,
       "Greenhouse": 318,
       "Workday": 282,
-      "LinkedIn": 253,
+      "LinkedIn": 254,
       "Ashby": 196,
       "iCIMS": 79,
       "Breezy": 68,
@@ -35,6 +35,81 @@
     }
   },
   "jobs": [
+    {
+      "id": "8e25442ee137",
+      "title": "Resume review for AI/ ML Engineer (PhD) looking for jobs in France - Reddit",
+      "company": "Reddit",
+      "role": "ML Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.reddit.com/r/learnmachinelearning/comments/1v5o610/resume_review_for_aiml_engineer_phd_looking_for/",
+      "source": "Other",
+      "description": "Unfortunately, my previous startup went bankrupt, so I am back on the job market. I am primarily looking for ML Engineer , AI Engineer , or Computer ...",
+      "date": "2026-07-25",
+      "timestamp": "2026-07-25T14:52:17+00:00",
+      "fetched_at": "2026-07-25T16:40:07.448180+00:00"
+    },
+    {
+      "id": "b5a4579af568",
+      "title": "Software Engineer in Hyderabad, Telang\u0101na, India | Technology at Crowe",
+      "company": "Crowe",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.crowe.com/job/CROCROUSR51694EXTERNALENUS/Software-Engineer",
+      "source": "Other",
+      "description": "Apply for Software Engineer job with Crowe in Hyderabad, Telang\u0101na, India. Technology at Crowe.",
+      "date": "2026-07-25",
+      "timestamp": "2026-07-25T13:40:52+00:00",
+      "fetched_at": "2026-07-25T16:40:07.448343+00:00"
+    },
+    {
+      "id": "733144c54c9c",
+      "title": "Senior Data Engineer , Milwaukee, WI Corporate | Northwestern Mutual Careers",
+      "company": "Northwestern Mutual Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.northwesternmutual.com/corporate-careers/jr-45707/senior-data-engineer/",
+      "source": "Other",
+      "description": "Senior Data Engineer . <None> \u00b7 Milwaukee, WI Corporate / United States of ... Senior Software Engineer . Milwaukee, WI Corporate. Senior Systems ...",
+      "date": "2026-07-25",
+      "timestamp": "2026-07-25T12:10:05+00:00",
+      "fetched_at": "2026-07-25T16:40:07.448522+00:00"
+    },
+    {
+      "id": "3f2c1b4c5c67",
+      "title": "Senior Network Software Engineer II - Secret Clearance | Rocket Lab",
+      "company": "Secret Clearance | Rocket Lab",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://rocketlabcorp.com/careers/positions/senior-network-software-engineer-ii-secret-clearance-long-beach-ca-7816176003/",
+      "source": "Other",
+      "description": "QUALIFICATIONS YOU'LL BRING AS SENIOR NETWORK SOFTWARE ENGINEER II: Bachelor's degree in computer science, software engineering, aerospace engineering ...",
+      "date": "2026-07-25",
+      "timestamp": "2026-07-25T11:34:26+00:00",
+      "fetched_at": "2026-07-25T16:40:07.448808+00:00"
+    },
+    {
+      "id": "d80cc42fe734",
+      "title": "Staff Software Engineer - Foundation Model Inference - Databricks",
+      "company": "Foundation Model Inference - Databricks",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.databricks.com/company/careers/engineering/staff-software-engineer--foundation-model-inference-8649279002",
+      "source": "Other",
+      "description": "Staff Software Engineer - Foundation Model Inference, San Francisco, California. Join us! Together we can use data to solve the challenges of ...",
+      "date": "2026-07-25",
+      "timestamp": "2026-07-25T11:05:43+00:00",
+      "fetched_at": "2026-07-25T16:40:07.449047+00:00"
+    },
     {
       "id": "94de18b8cd0f",
       "title": "Software Engineer in Bangalore, India | Product and Engineering at Cisco - Cisco Careers",
@@ -94,6 +169,51 @@
       "date": "2026-07-25",
       "timestamp": "2026-07-25T06:56:24+00:00",
       "fetched_at": "2026-07-25T09:22:35.201021+00:00"
+    },
+    {
+      "id": "f2298494c8f5",
+      "title": "DevOps Engineer - Tential",
+      "company": "Tential",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://wordpress.tential.com/jobs/devops-engineer-19312/",
+      "source": "Other",
+      "description": "DevOps Engineer . Location: Jersey City, New Jersey. Category: DevOps/Cloud. Employment Type: Contract. Job ID: 19312. Date Added: 07/23/2026. APPLY ...",
+      "date": "2026-07-25",
+      "timestamp": "2026-07-25T06:50:00+00:00",
+      "fetched_at": "2026-07-25T16:40:07.449773+00:00"
+    },
+    {
+      "id": "fb80e8249fca",
+      "title": "Cloud Engineer \u2013 AWS Foundation Platform, Stellantis Job #2020343, Auburn Hills, MI",
+      "company": "Unknown Company",
+      "role": "Cloud Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.stellantis.com/job/23631425/cloud-engineer-aws-foundation-platform-auburn-hills-mi/",
+      "source": "Other",
+      "description": "Discover Cloud Engineer ... AWS Certifications preferred: DevOps Engineer Professional, Solutions Architect Professional, or Security Specialty.",
+      "date": "2026-07-25",
+      "timestamp": "2026-07-25T06:31:53+00:00",
+      "fetched_at": "2026-07-25T16:40:07.449977+00:00"
+    },
+    {
+      "id": "7a3dc924cc41",
+      "title": "True Home hiring Senior Software Engineer in United States | LinkedIn",
+      "company": "LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/senior-software-engineer-at-true-home-4445212751",
+      "source": "LinkedIn",
+      "description": "We are excited to welcome a Senior Software Engineer to our growing office in Denver, CO. ... Senior Backend Engineer . Solace. United States 2 ...",
+      "date": "2026-07-25",
+      "timestamp": "2026-07-25T06:12:55+00:00",
+      "fetched_at": "2026-07-25T16:40:07.450172+00:00"
     },
     {
       "id": "5c18a3059cb3",
@@ -156,6 +276,21 @@
       "fetched_at": "2026-07-25T06:07:18.279743+00:00"
     },
     {
+      "id": "3fec7b9e971b",
+      "title": "GE Vernova Software Engineer , Transmission",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.gevernova.com/ge-vernova-software-engineer-transmission/job/R5048311",
+      "source": "Other",
+      "description": "Entry-level software engineer on the GE Vernova Grid Software Transmission team, contributing to the Advanced Energy Management System (AEMS) product ...",
+      "date": "2026-07-25",
+      "timestamp": "2026-07-25T02:29:56+00:00",
+      "fetched_at": "2026-07-25T16:40:07.451132+00:00"
+    },
+    {
       "id": "45d1a1846a11",
       "title": "Senior Software Engineer | , , United States - Indotronix",
       "company": ", , United States - Indotronix",
@@ -169,6 +304,21 @@
       "date": "2026-07-25",
       "timestamp": "2026-07-25T02:20:59+00:00",
       "fetched_at": "2026-07-25T09:22:35.201598+00:00"
+    },
+    {
+      "id": "ba2124e385fc",
+      "title": "Lead Data Engineer - Careers at Inspire Brands",
+      "company": "Inspire Brands",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.inspirebrands.com/lead-data-engineer/job/A3E7FF220D409FDE0161C0A0A02819CB",
+      "source": "Other",
+      "description": "Lead Data Engineer . Apply now. Three Glenlake Parkway NE. Atlanta, Georgia. Inspire Brands is hiring a Lead Data and AI Engineer for the Enterprise ...",
+      "date": "2026-07-25",
+      "timestamp": "2026-07-25T02:19:01+00:00",
+      "fetched_at": "2026-07-25T16:40:07.451521+00:00"
     },
     {
       "id": "366074776234",
