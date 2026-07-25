@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-07-25T09:22:35.228964+00:00",
-  "total_jobs": 6357,
+  "last_updated": "2026-07-25T12:51:55.475076+00:00",
+  "total_jobs": 6364,
   "stats": {
-    "total_companies": 3162,
+    "total_companies": 3165,
     "total_roles": 87,
     "regions": {
-      "India": 4136,
-      "Philippines": 1297,
+      "India": 4138,
+      "Philippines": 1302,
       "Remote": 816,
       "Unknown": 135
     },
     "sources": {
-      "Other": 4986,
+      "Other": 4990,
       "Greenhouse": 318,
       "Workday": 282,
-      "LinkedIn": 252,
-      "Ashby": 194,
+      "LinkedIn": 253,
+      "Ashby": 196,
       "iCIMS": 79,
       "Breezy": 68,
       "Lever": 47,
@@ -35,6 +35,51 @@
     }
   },
   "jobs": [
+    {
+      "id": "94de18b8cd0f",
+      "title": "Software Engineer in Bangalore, India | Product and Engineering at Cisco - Cisco Careers",
+      "company": "Cisco",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2020078EXTERNALENGLOBAL/Software-Engineer",
+      "source": "Other",
+      "description": "We are looking for a Software Engineer to join our Cisco Enterprise Routing team, focusing on the development of secure, high-performance routing ...",
+      "date": "2026-07-25",
+      "timestamp": "2026-07-25T09:11:19+00:00",
+      "fetched_at": "2026-07-25T12:51:55.447117+00:00"
+    },
+    {
+      "id": "0a574ccfa70d",
+      "title": "JOIN OUR TEAM AS AN - Junior Software Engineer - Frontend - EGC Global Service",
+      "company": "JOIN OUR TEAM AS AN",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://egcgs.theegc.com/jobs/junior-software-engineer-frontend/",
+      "source": "Other",
+      "description": "Job Overview: The Software Engineer \u2013 Frontend will be responsible for developing scalable, high- performance, and responsive web applications ...",
+      "date": "2026-07-25",
+      "timestamp": "2026-07-25T07:24:31+00:00",
+      "fetched_at": "2026-07-25T12:51:55.447283+00:00"
+    },
+    {
+      "id": "46dd6a65b8a8",
+      "title": "software engineer at Cargill - Careers",
+      "company": "Cargill",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cargill.com/en/job/bengaluru/software-engineer/23251/93280122688",
+      "source": "Other",
+      "description": "software engineer . Apply Now Save Job Remove Job. Job ID 323815 Date ... The ideal candidate is a hands-on Full Stack Engineer with strong back ...",
+      "date": "2026-07-25",
+      "timestamp": "2026-07-25T07:02:09+00:00",
+      "fetched_at": "2026-07-25T12:51:55.447425+00:00"
+    },
     {
       "id": "6a7c57444eed",
       "title": "Software Engineer II - JPMC Candidate Experience page Careers",
@@ -64,6 +109,36 @@
       "date": "2026-07-25",
       "timestamp": "2026-07-25T03:37:56+00:00",
       "fetched_at": "2026-07-25T09:22:35.201174+00:00"
+    },
+    {
+      "id": "84aa75cf106a",
+      "title": "Software Engineer - Caterpillar | Built In Chicago",
+      "company": "Caterpillar | Built In Chicago",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.builtinchicago.org/job/software-engineer/10381842",
+      "source": "Other",
+      "description": "Job Summary: We are seeking a Senior Software Engineer to join the Digital Identity & Onboarding engineering team within Cat Digital. This role will ...",
+      "date": "2026-07-25",
+      "timestamp": "2026-07-25T03:11:42+00:00",
+      "fetched_at": "2026-07-25T12:51:55.447928+00:00"
+    },
+    {
+      "id": "ea7d71a28dca",
+      "title": "\u201cHow did you go from being a software engineer to selling ghee?\u201d I get this question often. It ...",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/posts/tejasbahulkar_how-did-you-go-from-being-a-software-engineer-activity-7486497344692080641-UYLw",
+      "source": "LinkedIn",
+      "description": "How did you go from being a software engineer to selling ghee?\u201d I get this question often. It wasn't one big leap. It's a journey that grew out of ...",
+      "date": "2026-07-25",
+      "timestamp": "2026-07-25T03:02:39+00:00",
+      "fetched_at": "2026-07-25T12:51:55.448287+00:00"
     },
     {
       "id": "2acaf307a80d",
@@ -229,6 +304,36 @@
       "date": "2026-07-24",
       "timestamp": "2026-07-24T23:28:03+00:00",
       "fetched_at": "2026-07-25T06:07:18.197283+00:00"
+    },
+    {
+      "id": "5aea79ca39ba",
+      "title": "Software Engineer @ LatchBio - Jobs",
+      "company": "Latchbio",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/latchbio/14900ad1-ffc2-4790-a720-6363c842be46",
+      "source": "Ashby",
+      "description": "Software Engineer . Location. San Francisco. Employment Type. Full time. Location Type. On-site. Department. Engineering. OverviewApplication. About ...",
+      "date": "2026-07-24",
+      "timestamp": "2026-07-24T23:19:02+00:00",
+      "fetched_at": "2026-07-25T12:51:55.450227+00:00"
+    },
+    {
+      "id": "6c7f977099cf",
+      "title": "Sr Full Stack Engineer @ Laurel - Jobs",
+      "company": "Laurel",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/laurel/8b602d1b-6ae2-4080-b54f-38a1aa4e30a0",
+      "source": "Ashby",
+      "description": "... Full-Stack Engineer to join our Product & Engineering org. You'll build scalable, reliable software across our stack, from native telemetry and ...",
+      "date": "2026-07-24",
+      "timestamp": "2026-07-24T23:02:11+00:00",
+      "fetched_at": "2026-07-25T12:51:55.450324+00:00"
     },
     {
       "id": "9788f86d7d61",
