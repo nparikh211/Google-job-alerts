@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-07-26T09:47:57.861065+00:00",
-  "total_jobs": 6411,
+  "last_updated": "2026-07-26T12:48:57.819068+00:00",
+  "total_jobs": 6420,
   "stats": {
-    "total_companies": 3182,
+    "total_companies": 3186,
     "total_roles": 87,
     "regions": {
-      "India": 4166,
-      "Philippines": 1316,
+      "India": 4170,
+      "Philippines": 1321,
       "Remote": 821,
       "Unknown": 135
     },
     "sources": {
-      "Other": 5029,
+      "Other": 5038,
       "Greenhouse": 318,
       "Workday": 284,
       "LinkedIn": 258,
@@ -35,6 +35,66 @@
     }
   },
   "jobs": [
+    {
+      "id": "1830a483c946",
+      "title": "Software Engineer II - JPMC Candidate Experience page Careers",
+      "company": "JPMC Candidate Experience page Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210724453",
+      "source": "Other",
+      "description": "Software Engineer II. Mumbai, Maharashtra, India. Apply Now. Job ... Software Engineer II- Data Engineer . Mumbai, Maharashtra, India Posted ...",
+      "date": "2026-07-26",
+      "timestamp": "2026-07-26T08:01:40+00:00",
+      "fetched_at": "2026-07-26T12:48:57.724639+00:00"
+    },
+    {
+      "id": "3c4e47cd665b",
+      "title": "Software Engineer \u2013 Vestwell \u2013 Permanent contract in Austin - Welcome to the Jungle",
+      "company": "Welcome to the Jungle",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.welcometothejungle.com/en/companies/vestwell/jobs/software-engineer_austin_tz3t2n73",
+      "source": "Other",
+      "description": "Software Engineer . Job summary. Permanent contract. Austin. Salary: $140K to 155K. Experience: > 1 year. Skills & expertise. Agile methodologies. Test ...",
+      "date": "2026-07-26",
+      "timestamp": "2026-07-26T06:55:20+00:00",
+      "fetched_at": "2026-07-26T12:48:57.789685+00:00"
+    },
+    {
+      "id": "aa8138ed440f",
+      "title": "Nuuly Services Software Engineer - Level III in Philadelphia, Pennsylvania | URBN",
+      "company": "Level III in Philadelphia, Pennsylvania | URBN",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://talent.urbn.com/jobs/26521?lang=en-us",
+      "source": "Other",
+      "description": "URBN is hiring a Nuuly Services Software Engineer - Level III in Philadelphia, Pennsylvania. Review all of the job details and apply today!",
+      "date": "2026-07-26",
+      "timestamp": "2026-07-26T05:54:26+00:00",
+      "fetched_at": "2026-07-26T12:48:57.724985+00:00"
+    },
+    {
+      "id": "5db47a6bb321",
+      "title": "Software Engineer - - 126712 - Booz | Allen | Hamilton \u00ae - Careers",
+      "company": "- 126712 - Booz | Allen | Hamilton \u00ae - Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.boozallen.com/jobs/JobDetail/Beavercreek-Software-Engineer-R0243542/126712",
+      "source": "Other",
+      "description": "Software Engineer . Beavercreek, Ohio, USA. View Additional Locations. Apply. CREATEYOUR CAREER. CREATE AND GROW WITH US. Grow. Your growth matters to ...",
+      "date": "2026-07-26",
+      "timestamp": "2026-07-26T05:44:58+00:00",
+      "fetched_at": "2026-07-26T12:48:57.790101+00:00"
+    },
     {
       "id": "d84fd54053fc",
       "title": "DevOps Engineer job - Experis USA - 405693",
@@ -64,6 +124,21 @@
       "date": "2026-07-26",
       "timestamp": "2026-07-26T02:45:05+00:00",
       "fetched_at": "2026-07-26T06:26:02.346008+00:00"
+    },
+    {
+      "id": "f6d2790ca365",
+      "title": "Senior Deep Learning Software Engineer , Inference - Careers at NVIDIA Corporation",
+      "company": "NVIDIA Corporation",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.nvidia.com/careers/job/893391034202?domain=nvidia.com&hl=zh-TW",
+      "source": "Other",
+      "description": "NVIDIA seeks a Senior Software Engineer specializing in Deep Learning Inference for our growing team. As a key contributor, you will help design, ...",
+      "date": "2026-07-26",
+      "timestamp": "2026-07-26T02:44:39+00:00",
+      "fetched_at": "2026-07-26T12:48:57.725367+00:00"
     },
     {
       "id": "42fd4b7f423d",
@@ -141,6 +216,21 @@
       "fetched_at": "2026-07-26T06:26:02.346859+00:00"
     },
     {
+      "id": "4ac5b9e8ab42",
+      "title": "Part-Time Software Engineer - Avionics in Multiple Locations - Noblis Careers",
+      "company": "Part",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.noblis.org/jobs/27501?lang=en-us",
+      "source": "Other",
+      "description": "Noblis, Inc. is hiring a Part-Time Software Engineer - Avionics in Multiple Locations. Review all of the job details and apply today!",
+      "date": "2026-07-26",
+      "timestamp": "2026-07-26T00:45:07+00:00",
+      "fetched_at": "2026-07-26T12:48:57.791373+00:00"
+    },
+    {
       "id": "197a4e164560",
       "title": "Senior Full Stack AI Engineer - Walter - Application - Workable Jobs",
       "company": "Walter Careers",
@@ -199,6 +289,51 @@
       "date": "2026-07-25",
       "timestamp": "2026-07-25T22:58:18+00:00",
       "fetched_at": "2026-07-26T06:26:02.347382+00:00"
+    },
+    {
+      "id": "5121b1ddef09",
+      "title": "Expert Opportunity - Senior Software Engineer - Ethos",
+      "company": "Expert Opportunity",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://agent.askethos.com/opportunities/senior-software-engineer",
+      "source": "Other",
+      "description": "Expert Opportunity - Senior Software Engineer . ($100/hr, up to $2k/week). Closed. This opportunity is closed and is no longer accepting applications ...",
+      "date": "2026-07-25",
+      "timestamp": "2026-07-25T22:45:29+00:00",
+      "fetched_at": "2026-07-26T12:48:57.726838+00:00"
+    },
+    {
+      "id": "0a4dfdddca76",
+      "title": "Expert DevOps Engineer Job Details - SAP Careers",
+      "company": "SAP Careers",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.sap.com/job/Reston-Expert-DevOps-Engineer-VA-20191/1408906233/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+      "source": "Other",
+      "description": "Expert DevOps Engineer . We help the world run ... Job Segment: Cloud, Software Engineer , ERP, Engineer, Computer Science, Technology, Engineering.",
+      "date": "2026-07-25",
+      "timestamp": "2026-07-25T21:48:15+00:00",
+      "fetched_at": "2026-07-26T12:48:57.792010+00:00"
+    },
+    {
+      "id": "aec7cc3b3d47",
+      "title": "Senior Software Engineer II in Louisville, Kentucky | Schneider Electric",
+      "company": "Schneider Electric",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.se.com/jobs/128073?lang=en-us",
+      "source": "Other",
+      "description": "Schneider Electric Careers is hiring a Senior Software Engineer II in Louisville, Kentucky. Review all of the job details and apply today!",
+      "date": "2026-07-25",
+      "timestamp": "2026-07-25T21:26:05+00:00",
+      "fetched_at": "2026-07-26T12:48:57.792132+00:00"
     },
     {
       "id": "cbdbf841e11c",
