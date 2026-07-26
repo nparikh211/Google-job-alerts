@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-07-26T01:19:55.100653+00:00",
-  "total_jobs": 6397,
+  "last_updated": "2026-07-26T06:26:02.605173+00:00",
+  "total_jobs": 6409,
   "stats": {
-    "total_companies": 3176,
+    "total_companies": 3181,
     "total_roles": 87,
     "regions": {
-      "India": 4157,
-      "Philippines": 1313,
-      "Remote": 819,
+      "India": 4165,
+      "Philippines": 1316,
+      "Remote": 820,
       "Unknown": 135
     },
     "sources": {
-      "Other": 5017,
+      "Other": 5028,
       "Greenhouse": 318,
       "Workday": 284,
       "LinkedIn": 257,
@@ -19,8 +19,8 @@
       "iCIMS": 79,
       "Breezy": 68,
       "Lever": 47,
+      "Workable": 41,
       "SmartRecruiters": 41,
-      "Workable": 40,
       "Indeed": 24,
       "BrassRing": 7,
       "Recruitee": 6,
@@ -31,10 +31,115 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-07-25"
+      "latest": "2026-07-26"
     }
   },
   "jobs": [
+    {
+      "id": "d84fd54053fc",
+      "title": "DevOps Engineer job - Experis USA - 405693",
+      "company": "Experis USA - 405693",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.experis.com/en/job/405693/devops-engineer",
+      "source": "Other",
+      "description": "As a DevOps Engineer , you will be part of the IT Operations supporting software development and deployment teams. The ideal candidate will have ...",
+      "date": "2026-07-26",
+      "timestamp": "2026-07-26T03:03:14+00:00",
+      "fetched_at": "2026-07-26T06:26:02.576339+00:00"
+    },
+    {
+      "id": "12a10e82f625",
+      "title": "Senior Software Engineer - Trader Interactive",
+      "company": "Trader Interactive",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.traderinteractive.com/jobs/669976-senior-software-engineer",
+      "source": "Other",
+      "description": "Senior Software Engineer . Apply for this job. Are you ready to be a big part of something big? At Trader Interactive, we make buying and selling a ...",
+      "date": "2026-07-26",
+      "timestamp": "2026-07-26T02:45:05+00:00",
+      "fetched_at": "2026-07-26T06:26:02.346008+00:00"
+    },
+    {
+      "id": "42fd4b7f423d",
+      "title": "Why Are AI Engineer Interviews So Inconsistent? : r/deeplearning - Reddit",
+      "company": "Reddit",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/deeplearning/comments/1v66vij/why_are_ai_engineer_interviews_so_inconsistent/",
+      "source": "Other",
+      "description": "This role is typically synonymous with software engineer or fullstack developer. ... Then machine learning engineer came next and the split between data ...",
+      "date": "2026-07-26",
+      "timestamp": "2026-07-26T01:57:01+00:00",
+      "fetched_at": "2026-07-26T06:26:02.346236+00:00"
+    },
+    {
+      "id": "426c5020dc42",
+      "title": "Senior Staff AI Engineer - 219856 - Teradata Careers",
+      "company": "219856 - Teradata Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.teradata.com/jobs/219856/senior-staff-ai-engineer",
+      "source": "Other",
+      "description": "Teradata delivers real business value with AI. What You'll Do. As a Senior Staff AI Engineer , you will play a key role in designing and delivering ...",
+      "date": "2026-07-26",
+      "timestamp": "2026-07-26T01:39:03+00:00",
+      "fetched_at": "2026-07-26T06:26:02.346388+00:00"
+    },
+    {
+      "id": "ef36701cb821",
+      "title": "Staff Software Engineer , AI Tools - Pinterest Careers",
+      "company": "Pinterest Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.pinterestcareers.com/jobs/7305880/staff-software-engineer-ai-tools/?gh_jid=7305880",
+      "source": "Other",
+      "description": "As a Staff Software Engineer , AI tools, you will be the technical lead for how third\u2011party AI tools \u2014 such as Claude, Glean, Granola, etc. \u2014 connect ...",
+      "date": "2026-07-26",
+      "timestamp": "2026-07-26T01:17:50+00:00",
+      "fetched_at": "2026-07-26T06:26:02.346700+00:00"
+    },
+    {
+      "id": "653a4cc27b0f",
+      "title": "Full-Stack Software Engineer - Recuro Health - Paylocity",
+      "company": "Full",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4364134",
+      "source": "Other",
+      "description": "Recuro Health \u00b7 Apply. Full-Stack Software Engineer . Fully Remote ... As a Full Stack Engineer at Recuro Health, you will play a vital role ...",
+      "date": "2026-07-26",
+      "timestamp": "2026-07-26T00:51:34+00:00",
+      "fetched_at": "2026-07-26T06:26:02.346859+00:00"
+    },
+    {
+      "id": "197a4e164560",
+      "title": "Senior Full Stack AI Engineer - Walter - Application - Workable Jobs",
+      "company": "Walter Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://apply.workable.com/walter-careers/j/78D12B0E7E/apply/",
+      "source": "Workable",
+      "description": "Job DescriptionSummary:We are looking for a Senior Full Stack AI Engineer to design, build, and scale production-grade applications powered by ...",
+      "date": "2026-07-25",
+      "timestamp": "2026-07-25T23:56:24+00:00",
+      "fetched_at": "2026-07-26T06:26:02.346984+00:00"
+    },
     {
       "id": "228e46d6a99b",
       "title": "Sr. Machine Learning Engineer - Intel Careers - Myworkdayjobs.com",
@@ -64,6 +169,21 @@
       "date": "2026-07-25",
       "timestamp": "2026-07-25T23:03:08+00:00",
       "fetched_at": "2026-07-26T01:19:54.961499+00:00"
+    },
+    {
+      "id": "7bd93b72b100",
+      "title": "[ AI Engineer ] [London, GB] - $186,000 + Bonus + Equity : r/Salary - Reddit",
+      "company": "$186,000 + Bonus + Equity : r/Salary - Reddit",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/Salary/comments/1v6gscd/ai_engineer_london_gb_186000_bonus_equity/",
+      "source": "Other",
+      "description": "[ Machine Learning Engineer ] [Chicago] - $160k \u00b7 r/Salary - [ Machine ... [ Software Engineer ][USA] - $150,000 - 27 M \u00b7 r/Salary - [ Software ...",
+      "date": "2026-07-25",
+      "timestamp": "2026-07-25T22:58:18+00:00",
+      "fetched_at": "2026-07-26T06:26:02.347382+00:00"
     },
     {
       "id": "cbdbf841e11c",
@@ -169,6 +289,66 @@
       "date": "2026-07-25",
       "timestamp": "2026-07-25T17:56:03+00:00",
       "fetched_at": "2026-07-25T20:37:09.965856+00:00"
+    },
+    {
+      "id": "1c9dc2bae0df",
+      "title": "Software Engineer -Network Security Management - HPE Careers",
+      "company": "Network Security Management - HPE Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.hpe.com/us/en/job/1209064/Software-Engineer-Network-Security-Management",
+      "source": "Other",
+      "description": "Software Engineer -Network Security Management. Description. Software ... Join our team as a Senior Site Reliability Engineer and ensure the ...",
+      "date": "2026-07-25",
+      "timestamp": "2026-07-25T16:43:25+00:00",
+      "fetched_at": "2026-07-26T06:26:02.348924+00:00"
+    },
+    {
+      "id": "a99a49aef3f2",
+      "title": "Senior Software Engineer \u2013 Workday Compensation - Wells Fargo",
+      "company": "Wells Fargo",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.wellsfargojobs.com/en/jobs/r-560406/senior-software-engineer-workday-compensation/",
+      "source": "Other",
+      "description": "Senior Software Engineer \u2013 Workday Compensation. MINNEAPOLIS. Technology; Full time; 24 Jul 2026; R-560406. About this role: The Enterprise Functions ...",
+      "date": "2026-07-25",
+      "timestamp": "2026-07-25T16:14:49+00:00",
+      "fetched_at": "2026-07-26T06:26:02.349087+00:00"
+    },
+    {
+      "id": "caac4dff873f",
+      "title": "Senior Software Engineer , Division Production Software Job Details | Hexagon",
+      "company": "Hexagon",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers-manufacturing.hexagon.com/job/Camarillo-Senior-Software-Engineer%2C-Division-Production-Software-CA-93012/1165166755/",
+      "source": "Other",
+      "description": "Summary. Senior Software Engineer - C++, NC Programming & Applied Geometry. Location: ...",
+      "date": "2026-07-25",
+      "timestamp": "2026-07-25T16:11:36+00:00",
+      "fetched_at": "2026-07-26T06:26:02.579183+00:00"
+    },
+    {
+      "id": "4fe13b4527a5",
+      "title": "Staff Software Engineer \u2013 Interoperability & Cybersecurity - GE HealthCare",
+      "company": "GE HealthCare",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.gehealthcare.com/global/en/job/GEVGHLGLOBALR4044098EXTERNALENGLOBAL/Staff-Software-Engineer-Interoperability-Cybersecurity",
+      "source": "Other",
+      "description": "Apply for Staff Software Engineer \u2013 Interoperability & Cybersecurity job with GE HealthCare in Waukesha, Wisconsin, United States of America, ...",
+      "date": "2026-07-25",
+      "timestamp": "2026-07-25T15:48:16+00:00",
+      "fetched_at": "2026-07-26T06:26:02.579401+00:00"
     },
     {
       "id": "6bbc091edc5d",
