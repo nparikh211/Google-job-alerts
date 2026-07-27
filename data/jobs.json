@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-07-27T17:24:56.413354+00:00",
-  "total_jobs": 6511,
+  "last_updated": "2026-07-27T20:57:03.299726+00:00",
+  "total_jobs": 6526,
   "stats": {
-    "total_companies": 3222,
+    "total_companies": 3228,
     "total_roles": 87,
     "regions": {
-      "India": 4227,
-      "Philippines": 1352,
-      "Remote": 824,
+      "India": 4238,
+      "Philippines": 1355,
+      "Remote": 825,
       "Unknown": 135
     },
     "sources": {
-      "Other": 5111,
-      "Greenhouse": 320,
+      "Other": 5123,
+      "Greenhouse": 321,
       "Workday": 284,
-      "LinkedIn": 264,
+      "LinkedIn": 266,
       "Ashby": 197,
       "iCIMS": 79,
       "Breezy": 70,
@@ -36,6 +36,171 @@
   },
   "jobs": [
     {
+      "id": "feb7e093b8cc",
+      "title": "Machine Learning Engineer | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.apexsystems.com/job/3043683_usa/machine-learning-engineer",
+      "source": "Other",
+      "description": "Machine Learning Engineer . Apply. Job#: 3043683. Job ... Working to find an ML Engineer that has made and deployed models into an Azure ecosystem.",
+      "date": "2026-07-27",
+      "timestamp": "2026-07-27T19:48:51+00:00",
+      "fetched_at": "2026-07-27T20:57:02.885955+00:00"
+    },
+    {
+      "id": "43e3f601fc86",
+      "title": "Machine Learning Engineer , GenAI Technology - Point72 Careers",
+      "company": "Point72 Careers",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.point72.com/CSJobDetail?jobName=machine-learning-engineer-genai-technology&jobCode=PIT-0015157&location=New%20York&locale=English&retURL=/CSCareerSearch",
+      "source": "Other",
+      "description": "Machine Learning Engineer , GenAI Technology. Apply Now. Experience. Experienced ...",
+      "date": "2026-07-27",
+      "timestamp": "2026-07-27T19:14:36+00:00",
+      "fetched_at": "2026-07-27T20:57:02.886390+00:00"
+    },
+    {
+      "id": "841bffd5ee44",
+      "title": "Site Reliability Engineer III job - Experis USA - 405703",
+      "company": "Experis USA - 405703",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.experis.com/en/job/405703/site-reliability-engineer-iii",
+      "source": "Other",
+      "description": "As a Site Reliability Engineer III, you will be part of the Infrastructure Support Department supporting the Application Deployment and Platform ...",
+      "date": "2026-07-27",
+      "timestamp": "2026-07-27T18:34:28+00:00",
+      "fetched_at": "2026-07-27T20:57:03.271352+00:00"
+    },
+    {
+      "id": "4e5bcc6bd20a",
+      "title": "Senior Data Engineer Job Details | Grainger Businesses",
+      "company": "Grainger Businesses",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.grainger.com/job/CHICAGO-Senior-Data-Engineer-IL-60661-4555/1412820700/",
+      "source": "Other",
+      "description": "Senior Data Engineer . Apply now \u00bb. Date: Jul 27, 2026. Location: CHICAGO, IL, US, 60661-4555. Company: Grainger Businesses. Work Location Type: Hybrid.",
+      "date": "2026-07-27",
+      "timestamp": "2026-07-27T18:33:04+00:00",
+      "fetched_at": "2026-07-27T20:57:02.886746+00:00"
+    },
+    {
+      "id": "ae8fae6dcdcd",
+      "title": "Software Engineer in North Charleston, South Carolina, United States - SAIC Careers",
+      "company": "SAIC Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.saic.com/jobs/18039745-software-engineer",
+      "source": "Other",
+      "description": "Software Engineer in North Charleston, South Carolina, United States. ... Serve as the full-stack engineer for a government software system ...",
+      "date": "2026-07-27",
+      "timestamp": "2026-07-27T18:20:15+00:00",
+      "fetched_at": "2026-07-27T20:57:02.887053+00:00"
+    },
+    {
+      "id": "94b8101fd834",
+      "title": "Job Application for Senior Data Engineer at Alpaca - Greenhouse",
+      "company": "Alpaca",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/alpaca/jobs/6126498004",
+      "source": "Greenhouse",
+      "description": "Senior Data Engineer . Remote - North America - LATAM. Apply. Who We Are: Alpaca is a US-headquartered, global leader in agent-first brokerage ...",
+      "date": "2026-07-27",
+      "timestamp": "2026-07-27T18:19:36+00:00",
+      "fetched_at": "2026-07-27T20:57:02.887212+00:00"
+    },
+    {
+      "id": "943581042a57",
+      "title": "Software Engineer | Juno Beach, Florida, United States - Indotronix",
+      "company": "Juno Beach, Florida, United States - Indotronix",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.iic.com/job-opening/software-engineer/z5G7h3l6a1kMvyS65NP3c6FLOoLpsV48PueF7hxJFWY=",
+      "source": "Other",
+      "description": "Software Engineer \u2013 AI & Data Solutions Location: Juno Beach, FL (Onsite, 5 Days/Week) Job Type: Contract to Hire (12-month initial contract, ...",
+      "date": "2026-07-27",
+      "timestamp": "2026-07-27T18:17:37+00:00",
+      "fetched_at": "2026-07-27T20:57:03.272180+00:00"
+    },
+    {
+      "id": "47825bbcc41b",
+      "title": "AI Engineer at PRICE WATERHOUSE COOPERS",
+      "company": "PRICE WATERHOUSE COOPERS",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.us.pwc.com/job/tampa/ai-engineer/932/98377913072",
+      "source": "Other",
+      "description": "AI Engineer . We solve together so you can deliver unexpected impact. Tampa, Florida; Raleigh, North Carolina; Charlotte, North Carolina; Chicago ...",
+      "date": "2026-07-27",
+      "timestamp": "2026-07-27T18:08:01+00:00",
+      "fetched_at": "2026-07-27T20:57:02.887348+00:00"
+    },
+    {
+      "id": "676695872d15",
+      "title": "Job Opening - Senior Software Engineer - Beaverton, OR - Randstad USA",
+      "company": "Job Opening",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.randstadusa.com/jobs/4/1341178/senior-software-engineer_beaverton/",
+      "source": "Other",
+      "description": "Explore and apply for Senior Software Engineer jobs in Beaverton, Oregon with Randstad. Find the perfect job for you today!",
+      "date": "2026-07-27",
+      "timestamp": "2026-07-27T17:58:37+00:00",
+      "fetched_at": "2026-07-27T20:57:02.887498+00:00"
+    },
+    {
+      "id": "ac7dbea975be",
+      "title": "Applied AI Engineer - Boston, Massachusetts, United States - SOPHiA GENETICS",
+      "company": "Boston, Massachusetts, United States - SOPHiA GENETICS",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.sophiagenetics.com/jobs/applied-ai-engineer-boston-massachusetts-united-states-93523d07-0d31-4b6b-8823-5fd1c8231b2d",
+      "source": "Other",
+      "description": "... AI Engineer and enable us to build the internal capabilities that accelerate our mission of democratizing data-driven medicine for patients ...",
+      "date": "2026-07-27",
+      "timestamp": "2026-07-27T17:45:11+00:00",
+      "fetched_at": "2026-07-27T20:57:02.887848+00:00"
+    },
+    {
+      "id": "4318d59e1b46",
+      "title": "Staff Software Engineer in United States - Texas - Irving | Research & Development at Abbott Canvas",
+      "company": "Abbott Canvas",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.jobs.abbott/us/en/job/31157218/Staff-Software-Engineer",
+      "source": "Other",
+      "description": "Senior Full stack Engineer . Location United States - Illinois - Abbott ... Senior Software Engineer , Cloud. Location United States - Illinois ...",
+      "date": "2026-07-27",
+      "timestamp": "2026-07-27T17:24:38+00:00",
+      "fetched_at": "2026-07-27T20:57:02.887982+00:00"
+    },
+    {
       "id": "605068d78b12",
       "title": "Project - Data Engineer II - - 360751 - Deloitte US",
       "company": "Project",
@@ -49,6 +214,21 @@
       "date": "2026-07-27",
       "timestamp": "2026-07-27T17:01:20+00:00",
       "fetched_at": "2026-07-27T17:24:56.228197+00:00"
+    },
+    {
+      "id": "3cd621f70e22",
+      "title": "Software Engineer , Associate - Atlanta | Infor Careers",
+      "company": "Atlanta | Infor Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.infor.com/postings/d7e9be38-efcf-43f0-81b6-791ade43e2a4",
+      "source": "Other",
+      "description": "We are looking for an Associate Software Engineer to join our product development team. In this role, you will design, develop, ...",
+      "date": "2026-07-27",
+      "timestamp": "2026-07-27T16:55:32+00:00",
+      "fetched_at": "2026-07-27T20:57:02.888327+00:00"
     },
     {
       "id": "0f3b45b00b20",
@@ -111,6 +291,21 @@
       "fetched_at": "2026-07-27T17:24:56.229217+00:00"
     },
     {
+      "id": "78f9a2e356b9",
+      "title": "3 AI Engineer Hiring Disasters \u2014 and the Fix | Alisha Outridge | Ignite Talks - LinkedIn",
+      "company": "Alisha Outridge | Ignite Talks - LinkedIn",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/alishaoutridge_3-ai-engineer-hiring-disasters-and-the-activity-7487522337379155968-BRiT",
+      "source": "LinkedIn",
+      "description": "... browser. 3 AI Engineer Hiring Disasters \u2014 and the Fix | Alisha Outridge | Ignite Talks. https://www.youtube.com/. 3 4 Comments \u00b7 Like Comment. Share.",
+      "date": "2026-07-27",
+      "timestamp": "2026-07-27T16:13:09+00:00",
+      "fetched_at": "2026-07-27T20:57:02.889379+00:00"
+    },
+    {
       "id": "028850199dbc",
       "title": "AI Engineer , Agent/Platform Tracks at Parexel",
       "company": "Parexel",
@@ -124,6 +319,36 @@
       "date": "2026-07-27",
       "timestamp": "2026-07-27T16:03:58+00:00",
       "fetched_at": "2026-07-27T17:24:56.229370+00:00"
+    },
+    {
+      "id": "2352aa6c00e2",
+      "title": "Farsight hiring Platform Engineer in New York, NY | LinkedIn",
+      "company": "LinkedIn",
+      "role": "Platform Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/platform-engineer-at-farsight-4445652278",
+      "source": "LinkedIn",
+      "description": "DevOps Engineer , DevEx. Mark43. New York, NY 4 months ago. Platform ... Software Engineer , Platform. Rilla. New York, NY 1 month ago. Cloud ...",
+      "date": "2026-07-27",
+      "timestamp": "2026-07-27T15:57:42+00:00",
+      "fetched_at": "2026-07-27T20:57:03.274049+00:00"
+    },
+    {
+      "id": "6d054ae5b205",
+      "title": "Software Engineer , Principal - .NET DevOps - Blackbaud jobs",
+      "company": ".NET DevOps - Blackbaud jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.blackbaud.com/us/en/job/R0014448/Software-Engineer-Principal-NET-DevOps",
+      "source": "Other",
+      "description": "Apply for Software Engineer , Principal - .NET DevOps job with Blackbaud in Hyderabad, Telang\u0101na, India. Browse and apply for Design, Engineering, ...",
+      "date": "2026-07-27",
+      "timestamp": "2026-07-27T15:51:56+00:00",
+      "fetched_at": "2026-07-27T20:57:03.274257+00:00"
     },
     {
       "id": "d293849efc84",
