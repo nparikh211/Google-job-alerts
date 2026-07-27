@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-07-26T20:41:58.450627+00:00",
-  "total_jobs": 6452,
+  "last_updated": "2026-07-27T01:24:17.919888+00:00",
+  "total_jobs": 6464,
   "stats": {
-    "total_companies": 3200,
+    "total_companies": 3202,
     "total_roles": 87,
     "regions": {
-      "India": 4195,
-      "Philippines": 1328,
+      "India": 4204,
+      "Philippines": 1331,
       "Remote": 821,
       "Unknown": 135
     },
     "sources": {
-      "Other": 5063,
+      "Other": 5073,
       "Greenhouse": 318,
       "Workday": 284,
-      "LinkedIn": 261,
+      "LinkedIn": 263,
       "Ashby": 196,
       "iCIMS": 79,
       "Breezy": 69,
@@ -36,6 +36,111 @@
   },
   "jobs": [
     {
+      "id": "3fef66dbf40c",
+      "title": "Senior Software Engineer Explains: How to Learn Coding in 2026 - YouTube",
+      "company": "YouTube",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.youtube.com/watch?v=aGnWRt6u-fg",
+      "source": "Other",
+      "description": "AI Engineer for Developers: https://datacamp.pxf.io/m4bGkq With AI ... senior software engineer (prev. at Google), with prior internships at ...",
+      "date": "2026-07-26",
+      "timestamp": "2026-07-26T22:41:25+00:00",
+      "fetched_at": "2026-07-27T01:24:17.402353+00:00"
+    },
+    {
+      "id": "401d4d3d6949",
+      "title": "React Native - Software Engineer Tulsa Oklahoma - Heitmeyer Consulting",
+      "company": "React Native",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.heitmeyerconsulting.com/job/14647-react-native-software-engineer-tulsa-oklahoma/",
+      "source": "Other",
+      "description": "JOB SUMMARY. Heitmeyer Consulting has a banking client who is seeking a Senior Software Engineer , to a hands-on technical leader and key contributor ...",
+      "date": "2026-07-26",
+      "timestamp": "2026-07-26T22:38:59+00:00",
+      "fetched_at": "2026-07-27T01:24:17.402747+00:00"
+    },
+    {
+      "id": "c2b9d35d5f10",
+      "title": "Senior Software Engineer - ClearanceJobs - Security Clearance Jobs",
+      "company": "ClearanceJobs - Security Clearance Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.clearancejobs.com/jobs/9058265/senior-software-engineer",
+      "source": "Other",
+      "description": "Senior Software Engineer requiring an active security clearance. Find other KBR defense and intelligence career opportunities on ...",
+      "date": "2026-07-26",
+      "timestamp": "2026-07-26T22:17:57+00:00",
+      "fetched_at": "2026-07-27T01:24:17.402947+00:00"
+    },
+    {
+      "id": "8c08f4500889",
+      "title": "Evaluating Cloudera Senior Software Engineer Offer : r/cscareerquestions - Reddit",
+      "company": "Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/cscareerquestions/comments/1v7glji/evaluating_cloudera_senior_software_engineer_offer/",
+      "source": "Other",
+      "description": "Evaluating Cloudera Senior Software Engineer Offer. My Background: Software ... Software Engineer or Data Engineer Career Choice? 11. 19. Anyone ...",
+      "date": "2026-07-26",
+      "timestamp": "2026-07-26T22:16:03+00:00",
+      "fetched_at": "2026-07-27T01:24:17.403162+00:00"
+    },
+    {
+      "id": "be92d8eb5fe4",
+      "title": "Senior Software Engineer , DOCA Verification - Careers at NVIDIA Corporation",
+      "company": "NVIDIA Corporation",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.nvidia.com/careers/job/893396516927?domain=nvidia.com&hl=he",
+      "source": "Other",
+      "description": "... Senior Software Engineer in the DOCA verification team, you will play a ... Senior Software and DevOps Engineer , DOCA Verification. JR2016630.",
+      "date": "2026-07-26",
+      "timestamp": "2026-07-26T20:40:38+00:00",
+      "fetched_at": "2026-07-27T01:24:17.891892+00:00"
+    },
+    {
+      "id": "27daa2da9af1",
+      "title": "Scattered After a Layoff: Backend Engineer Seeking Advice on Transitioning to AI Engineering",
+      "company": "Unknown Company",
+      "role": "Backend Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.reddit.com/r/cscareerquestions/comments/1v78mdf/scattered_after_a_layoff_backend_engineer_seeking/",
+      "source": "Other",
+      "description": "How realistic is it to transition into an AI / ML Engineer as a Full Stack engineer with 10 YOE? ... Lost my job as a Senior Software Engineer . Dejected ...",
+      "date": "2026-07-26",
+      "timestamp": "2026-07-26T19:31:44+00:00",
+      "fetched_at": "2026-07-27T01:24:17.892106+00:00"
+    },
+    {
+      "id": "5785f719391a",
+      "title": "Software Engineer , Power Platform (Senior) - MSD Careers",
+      "company": "MSD Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.msd.com/gb/en/job/R404336/Software-Engineer-Power-Platform-Senior",
+      "source": "Other",
+      "description": "Apply for Software Engineer , Power Platform (Senior) job with MSD in Prague, Central Bohemian, Czechia. IT & Digital Data at MSD.",
+      "date": "2026-07-26",
+      "timestamp": "2026-07-26T18:55:09+00:00",
+      "fetched_at": "2026-07-27T01:24:17.403326+00:00"
+    },
+    {
       "id": "7cddbf41afd5",
       "title": "Software Engineer , Power Platform (Associate Director) - MSD Careers",
       "company": "MSD Careers",
@@ -49,6 +154,36 @@
       "date": "2026-07-26",
       "timestamp": "2026-07-26T18:55:08+00:00",
       "fetched_at": "2026-07-26T20:41:58.418588+00:00"
+    },
+    {
+      "id": "448b2f12e5d1",
+      "title": "Senior Software Engineer -2 in Pune, India, 411006 - Mastercard",
+      "company": "2 in Pune, India, 411006 - Mastercard",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mastercard.com/us/en/job/R-281154/Senior-Software-Engineer-2",
+      "source": "Other",
+      "description": "Apply for Senior Software Engineer -2 job with Mastercard in Pune, India, 411006. Engineering at Mastercard.",
+      "date": "2026-07-26",
+      "timestamp": "2026-07-26T17:48:30+00:00",
+      "fetched_at": "2026-07-27T01:24:17.403657+00:00"
+    },
+    {
+      "id": "cfab6dc4025c",
+      "title": "IT SOFTWARE ENGINEER - Operation AI - Careers at Micron Technology",
+      "company": "Micron Technology",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.micron.com/careers/job/42471645?fbclid=PAZXh0bgNhZW0CMTEAAae0wJmpLVKRIROwaXDa2jmsv8Hq2kNpkX46paBBr4TxwPbJ6GUpoGYLLOVmZQ_aem_R-WHf9O5g2DT6uYCegE91A",
+      "source": "Other",
+      "description": "IT SOFTWARE ENGINEER - Operation AI \u00b7 Our vision is to transform how the world uses information to enrich life for all. \u00b7 Key Responsibilities: \u00b7 About ...",
+      "date": "2026-07-26",
+      "timestamp": "2026-07-26T17:31:58+00:00",
+      "fetched_at": "2026-07-27T01:24:17.404112+00:00"
     },
     {
       "id": "6c5ae742e54f",
@@ -96,6 +231,21 @@
       "fetched_at": "2026-07-26T20:41:58.356860+00:00"
     },
     {
+      "id": "c2efb889de29",
+      "title": "Senior Software Engineer , Humanoid Robotics - Careers at NVIDIA Corporation",
+      "company": "NVIDIA Corporation",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.nvidia.com/careers/job/893391620253?domain=nvidia.com&hl=he",
+      "source": "Other",
+      "description": "Senior Software Engineer , Humanoid Robotics. US, CA, Santa Clara. \u05d4\u05d2\u05e9\u05ea ... Machine Learning Engineer - Humanoid Robotics. JR2016809. China ...",
+      "date": "2026-07-26",
+      "timestamp": "2026-07-26T15:57:00+00:00",
+      "fetched_at": "2026-07-27T01:24:17.404777+00:00"
+    },
+    {
       "id": "6038ee2eeec2",
       "title": "Test Design Software Engineer / Principal Test Design Software Engineer | Northrop Grumman",
       "company": "Northrop Grumman",
@@ -139,6 +289,21 @@
       "date": "2026-07-26",
       "timestamp": "2026-07-26T15:36:45+00:00",
       "fetched_at": "2026-07-26T20:41:58.357167+00:00"
+    },
+    {
+      "id": "76a85ea055d5",
+      "title": "Sundayy hiring Software Engineer , Sr. in United States | LinkedIn",
+      "company": "LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/software-engineer-sr-at-sundayy-4445613017",
+      "source": "LinkedIn",
+      "description": "Senior Software Engineer . SeatGeek. United States 1 day ago. Senior Backend Engineer . Senior Backend Engineer ... Full Stack Engineer jobs \u00b7 Senior ...",
+      "date": "2026-07-26",
+      "timestamp": "2026-07-26T15:15:39+00:00",
+      "fetched_at": "2026-07-27T01:24:17.405253+00:00"
     },
     {
       "id": "54672472438a",
@@ -199,6 +364,21 @@
       "date": "2026-07-26",
       "timestamp": "2026-07-26T14:04:06+00:00",
       "fetched_at": "2026-07-26T20:41:58.357768+00:00"
+    },
+    {
+      "id": "30236cf2154a",
+      "title": "Vert hiring Software Engineer in Fort Collins, CO | LinkedIn",
+      "company": "LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/software-engineer-at-vert-4444832609?position=31&pageNum=0&refId=sg9o49o%2FT6H2Ve2w2ofAVg%3D%3D&trackingId=C9iI2uygzOU0wmSIpqxt%2Bw%3D%3D",
+      "source": "LinkedIn",
+      "description": "HPE Morpheus Software - Senior Software Engineer . Hewlett Packard ... Senior AI Engineer . Hewlett Packard Enterprise. Greater Fort Collins Area ...",
+      "date": "2026-07-26",
+      "timestamp": "2026-07-26T14:01:28+00:00",
+      "fetched_at": "2026-07-27T01:24:17.894776+00:00"
     },
     {
       "id": "38f16ca3ccc5",
