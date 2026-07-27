@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-07-27T14:02:22.918342+00:00",
-  "total_jobs": 6495,
+  "last_updated": "2026-07-27T17:24:56.413354+00:00",
+  "total_jobs": 6511,
   "stats": {
-    "total_companies": 3217,
+    "total_companies": 3222,
     "total_roles": 87,
     "regions": {
-      "India": 4215,
-      "Philippines": 1348,
+      "India": 4227,
+      "Philippines": 1352,
       "Remote": 824,
       "Unknown": 135
     },
     "sources": {
-      "Other": 5098,
+      "Other": 5111,
       "Greenhouse": 320,
       "Workday": 284,
       "LinkedIn": 264,
-      "Ashby": 196,
+      "Ashby": 197,
       "iCIMS": 79,
-      "Breezy": 69,
+      "Breezy": 70,
       "Lever": 47,
-      "Workable": 43,
+      "Workable": 44,
       "SmartRecruiters": 42,
       "Indeed": 27,
       "BrassRing": 7,
@@ -35,6 +35,186 @@
     }
   },
   "jobs": [
+    {
+      "id": "605068d78b12",
+      "title": "Project - Data Engineer II - - 360751 - Deloitte US",
+      "company": "Project",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://apply.deloitte.com/en_US/careers/JobDetail/Project-Data-Engineer-II/360751",
+      "source": "Other",
+      "description": "... Data Engineer \u2013 Project Delivery Senior Analyst, you will have the ... Delivery Power Platform Engineer Consultant, AI and Analytics Solutions.",
+      "date": "2026-07-27",
+      "timestamp": "2026-07-27T17:01:20+00:00",
+      "fetched_at": "2026-07-27T17:24:56.228197+00:00"
+    },
+    {
+      "id": "0f3b45b00b20",
+      "title": "Senior Software Engineer (Full-Stack) - TryHackMe Careers",
+      "company": "Stack) - TryHackMe Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.tryhackme.com/jobs/8131422-senior-software-engineer-full-stack",
+      "source": "Other",
+      "description": "Senior Software Engineer (Full-Stack). Join TryHackMe as a Senior Full-Stack Engineer to help millions learn cyber security. Build scalable, secure ...",
+      "date": "2026-07-27",
+      "timestamp": "2026-07-27T16:26:19+00:00",
+      "fetched_at": "2026-07-27T17:24:56.228782+00:00"
+    },
+    {
+      "id": "eecaa67ac19f",
+      "title": "Principal Data Engineer in Tel Aviv, 6688106 | Engineering & QA at HPE - HPE Careers",
+      "company": "HPE",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.hpe.com/us/en/job/1209854",
+      "source": "Other",
+      "description": "As a Principal Data Engineer , you will define the technical vision for our data ecosystem, establish engineering standards and best practices, and ...",
+      "date": "2026-07-27",
+      "timestamp": "2026-07-27T16:25:27+00:00",
+      "fetched_at": "2026-07-27T17:24:56.228914+00:00"
+    },
+    {
+      "id": "5d9a579bebf1",
+      "title": "Junior Software Engineer in Jamaica, New York, United States",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mta.org/jobs/18038752-junior-software-engineer",
+      "source": "Other",
+      "description": "Junior Software Engineer . Job ID: 16651. Business Unit: MTA Headquarters. Location: Jamaica, NY, United States. Regular/Temporary: Regular. Department ...",
+      "date": "2026-07-27",
+      "timestamp": "2026-07-27T16:15:42+00:00",
+      "fetched_at": "2026-07-27T17:24:56.229062+00:00"
+    },
+    {
+      "id": "6224d715f678",
+      "title": "Data Engineer II - NationsBenefits, LLC",
+      "company": "Nationsbenefits",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://nationsbenefits.breezy.hr/p/cca0c5153740-data-engineer-ii/apply",
+      "source": "Breezy",
+      "description": "Data Engineer II. Plantation, FL; Full-Time; Information Technology. Job Openings \u00b7 Data Engineer II; Apply. Upload Resume*. Use My Indeed Resume ...",
+      "date": "2026-07-27",
+      "timestamp": "2026-07-27T16:15:34+00:00",
+      "fetched_at": "2026-07-27T17:24:56.229217+00:00"
+    },
+    {
+      "id": "028850199dbc",
+      "title": "AI Engineer , Agent/Platform Tracks at Parexel",
+      "company": "Parexel",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.parexel.com/en/job/hyderabad/ai-engineer-agent-platform-tracks/877/98372304448",
+      "source": "Other",
+      "description": "As an AI Engineer focused on agent development, you will drive the design and implementation of specialized pharmacovigilance agents that transform ...",
+      "date": "2026-07-27",
+      "timestamp": "2026-07-27T16:03:58+00:00",
+      "fetched_at": "2026-07-27T17:24:56.229370+00:00"
+    },
+    {
+      "id": "d293849efc84",
+      "title": "Software Engineer @ Sela AI - Jobs",
+      "company": "Sela",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/Sela%20AI/0c8881b1-d958-40c1-8d7e-58f5b3f96ec6?embed=js",
+      "source": "Ashby",
+      "description": "Software Engineer . Location. San Francisco, CA. Employment Type. Full time. Location Type. On-site. Department. Engineering. Compensation. $180K \u2013 ...",
+      "date": "2026-07-27",
+      "timestamp": "2026-07-27T15:38:22+00:00",
+      "fetched_at": "2026-07-27T17:24:56.383521+00:00"
+    },
+    {
+      "id": "d2ac088b9006",
+      "title": "Senior Software Engineer , Austin, Texas | General Motors Careers",
+      "company": "General Motors Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://search-careers.gm.com/en/jobs/jr-202615996/senior-software-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer . Location. Austin, Texas. (+) Show all locations ... Related Jobs. Save Saved. Austin, Texas. Senior Software Engineer - ...",
+      "date": "2026-07-27",
+      "timestamp": "2026-07-27T15:29:19+00:00",
+      "fetched_at": "2026-07-27T17:24:56.383680+00:00"
+    },
+    {
+      "id": "8e409da5ad27",
+      "title": "Sr Software Engineer - Engineer, Midtjylland, Denmark",
+      "company": "Sr Software Engineer",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.uber.com/en/jobs/300427/",
+      "source": "Other",
+      "description": "Sr Software Engineer - Engineer. Job removed. Location: Midtjylland ... Senior Software Engineer - Embedded, AV Labs. Job removed. Sunnyvale ...",
+      "date": "2026-07-27",
+      "timestamp": "2026-07-27T14:43:02+00:00",
+      "fetched_at": "2026-07-27T17:24:56.229776+00:00"
+    },
+    {
+      "id": "61ee8e7f3b37",
+      "title": "Senior AI Full stack Software Engineer - McKesson Careers",
+      "company": "McKesson Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mckesson.com/en/job/columbus/senior-ai-full-stack-software-engineer/733/98370227968",
+      "source": "Other",
+      "description": "We are seeking a highly skilled and experienced Senior AI Full Stack Software Engineer to join our innovative team at CMM. This role involves ...",
+      "date": "2026-07-27",
+      "timestamp": "2026-07-27T14:40:25+00:00",
+      "fetched_at": "2026-07-27T17:24:56.229955+00:00"
+    },
+    {
+      "id": "6fedd01b76c4",
+      "title": "Software Engineer - BorgWarner",
+      "company": "BorgWarner",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.borgwarner.com/careers/job-search?id=R2026-2916",
+      "source": "Other",
+      "description": "Software Engineer \u00b7 Master's degree and major in power electrification and electronics or automation domain \u00b7 3+ years of software design experience ...",
+      "date": "2026-07-27",
+      "timestamp": "2026-07-27T14:11:09+00:00",
+      "fetched_at": "2026-07-27T17:24:56.230370+00:00"
+    },
+    {
+      "id": "d759e080ac7d",
+      "title": "Senior Lead Software Engineer , Full Stack - Capital One Career",
+      "company": "Capital One Career",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.capitalonecareers.com/job/mclean/senior-lead-software-engineer-full-stack/1732/98365500464",
+      "source": "Other",
+      "description": "Overview. Senior Lead Software Engineer , Full Stack. Are you interested in designing and operating highly available, scalable payment systems at ...",
+      "date": "2026-07-27",
+      "timestamp": "2026-07-27T13:45:28+00:00",
+      "fetched_at": "2026-07-27T17:24:56.230699+00:00"
+    },
     {
       "id": "f3df1b99f82c",
       "title": "Senior DevOps Engineer , Infrastructure Automation Engineer, Platform Engineer - Roche careers",
@@ -81,6 +261,21 @@
       "fetched_at": "2026-07-27T14:02:22.889351+00:00"
     },
     {
+      "id": "e28486a684d8",
+      "title": "Full Stack Engineer I - INSP LLC - Paylocity",
+      "company": "INSP LLC - Paylocity",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4347730/INSP-LLC/Full-Stack-Engineer-I?source=Indeed_Feed",
+      "source": "Other",
+      "description": "Summary & Position Overview. The Full Stack Engineer I is responsible for developing, testing, and maintaining front-end and back-end applications.",
+      "date": "2026-07-27",
+      "timestamp": "2026-07-27T13:17:06+00:00",
+      "fetched_at": "2026-07-27T17:24:56.231708+00:00"
+    },
+    {
       "id": "74683906c136",
       "title": "Senior Software Engineer - Careers at Citizens Bank",
       "company": "Citizens Bank",
@@ -94,6 +289,51 @@
       "date": "2026-07-27",
       "timestamp": "2026-07-27T13:07:33+00:00",
       "fetched_at": "2026-07-27T14:02:22.889501+00:00"
+    },
+    {
+      "id": "6c7b52fa746a",
+      "title": "Android Software Engineer - Dublin, County Dublin, Ireland - Toast POS",
+      "company": "Dublin, County Dublin, Ireland - Toast POS",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.toasttab.com/jobs/android-software-engineer-dublin-county-dublin-ireland",
+      "source": "Other",
+      "description": "Android Software Engineer \u00b7 Minimum 2-4 years of experience with Android development in Kotlin and/or Java, with hands-on experience shipping ...",
+      "date": "2026-07-27",
+      "timestamp": "2026-07-27T13:05:31+00:00",
+      "fetched_at": "2026-07-27T17:24:56.385815+00:00"
+    },
+    {
+      "id": "41948f419b0f",
+      "title": "Staff Software Engineer (Looker Developer) - Bengaluru, Karn\u0101taka, India - Equinix Careers",
+      "company": "Bengaluru, Karn\u0101taka, India - Equinix Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.equinix.com/jobs/staff-software-engineer-looker-developer-bengaluru-karnataka-india",
+      "source": "Other",
+      "description": "Staff Software Engineer (Looker Developer) ... Who are we? Equinix is the world's digital infrastructure company\u00ae, shortening the path to connectivity ...",
+      "date": "2026-07-27",
+      "timestamp": "2026-07-27T12:45:17+00:00",
+      "fetched_at": "2026-07-27T17:24:56.386091+00:00"
+    },
+    {
+      "id": "4835249a861e",
+      "title": "Junior Software Engineer (AI-Forward) - Texas Sports Academy Main - Application",
+      "company": "Texas Sports Academy Main",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://apply.workable.com/texas-sports-academy-main/j/009164EC9C/apply/",
+      "source": "Workable",
+      "description": "As a Junior Software Engineer with Texas Sports Academy, you'll help build the software that runs our school, student records, academic mastery ...",
+      "date": "2026-07-27",
+      "timestamp": "2026-07-27T12:29:11+00:00",
+      "fetched_at": "2026-07-27T17:24:56.386288+00:00"
     },
     {
       "id": "b03fdbe4e501",
