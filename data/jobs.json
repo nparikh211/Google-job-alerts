@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-07-27T20:57:03.299726+00:00",
-  "total_jobs": 6526,
+  "last_updated": "2026-07-28T01:11:39.056789+00:00",
+  "total_jobs": 6543,
   "stats": {
-    "total_companies": 3228,
+    "total_companies": 3234,
     "total_roles": 87,
     "regions": {
-      "India": 4238,
-      "Philippines": 1355,
-      "Remote": 825,
+      "India": 4248,
+      "Philippines": 1361,
+      "Remote": 826,
       "Unknown": 135
     },
     "sources": {
-      "Other": 5123,
+      "Other": 5136,
       "Greenhouse": 321,
-      "Workday": 284,
-      "LinkedIn": 266,
-      "Ashby": 197,
+      "Workday": 285,
+      "LinkedIn": 267,
+      "Ashby": 198,
       "iCIMS": 79,
-      "Breezy": 70,
+      "Breezy": 71,
       "Lever": 47,
       "Workable": 44,
       "SmartRecruiters": 42,
@@ -36,6 +36,171 @@
   },
   "jobs": [
     {
+      "id": "a38a260d6a51",
+      "title": "Sr. Data Engineer - paycomonline.net",
+      "company": "paycomonline.net",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.paycomonline.net/v4/ats/web.php/portal/3223DB71F7BE5AF066B37A016B13E1C1/jobs/83535",
+      "source": "Other",
+      "description": "We are currently hiring for the role of Sr. Data Engineer . SUMMARY. This position is responsible for working in collaboration with other teams in the ...",
+      "date": "2026-07-27",
+      "timestamp": "2026-07-27T23:53:40+00:00",
+      "fetched_at": "2026-07-28T01:11:39.025555+00:00"
+    },
+    {
+      "id": "33f0eca48975",
+      "title": "Early-Career Software Engineer - AI Applications in Multiple Locations | RTI International",
+      "company": "Early",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.rti.org/jobs/13532?lang=en-us",
+      "source": "Other",
+      "description": "rtiinc is hiring a Early-Career Software Engineer - AI Applications in Multiple Locations. Review all of the job details and apply today!",
+      "date": "2026-07-27",
+      "timestamp": "2026-07-27T23:52:15+00:00",
+      "fetched_at": "2026-07-28T01:11:39.025795+00:00"
+    },
+    {
+      "id": "51993835c3cb",
+      "title": "Software Engineer Bengaluru, Karnataka, India - NetApp Careers",
+      "company": "NetApp Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.netapp.com/job/bengaluru/software-engineer/27600/98378073008",
+      "source": "Other",
+      "description": "Join teams that innovate to elevate, drive results, and excel together across every function. Job Summary. As a Senior Software Engineer you will be ...",
+      "date": "2026-07-27",
+      "timestamp": "2026-07-27T21:58:01+00:00",
+      "fetched_at": "2026-07-28T01:11:38.801972+00:00"
+    },
+    {
+      "id": "e5a9ab7287cc",
+      "title": "Data Engineer I at NationsBenefits, LLC",
+      "company": "Nationsbenefits",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://nationsbenefits.breezy.hr/p/d667fdca1c59-data-engineer-i",
+      "source": "Breezy",
+      "description": "Data Engineer I ... NationsBenefits is recognized as one of the fastest-growing companies in America and a Healthcare Fintech provider of supplemental ...",
+      "date": "2026-07-27",
+      "timestamp": "2026-07-27T21:46:47+00:00",
+      "fetched_at": "2026-07-28T01:11:38.802128+00:00"
+    },
+    {
+      "id": "e3d382b25397",
+      "title": "Data Engineer (Cleared) in Ashburn, Virginia, United States of America | Research at ICF",
+      "company": "ICF",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.icf.com/us/en/job/R2602555/Data-Engineer-Cleared",
+      "source": "Other",
+      "description": "We are seeking a Data Engineer to support federal government trade, analytics, and mission transformation priorities by designing, developing, ...",
+      "date": "2026-07-27",
+      "timestamp": "2026-07-27T21:43:22+00:00",
+      "fetched_at": "2026-07-28T01:11:39.028606+00:00"
+    },
+    {
+      "id": "fb09a0f3560f",
+      "title": "Lead Cloud Data Engineer \u2013 Data Mesh & AI | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.apexsystems.com/job/3043847_usa/lead-cloud-data-engineer--data-mesh--ai",
+      "source": "Other",
+      "description": "Lead Cloud Data Engineer \u2013 Data Mesh & AI. Apply. Job#: 3043847. Job ... Lead AI & ML Engineer \u00b7 Data Engineer - Cloud and Healthcare Data ...",
+      "date": "2026-07-27",
+      "timestamp": "2026-07-27T21:17:28+00:00",
+      "fetched_at": "2026-07-28T01:11:39.028790+00:00"
+    },
+    {
+      "id": "8a6e5b3e6b4a",
+      "title": "Senior Software Engineer - Platform Engineering - 21064 - Bloomberg",
+      "company": "Senior Software Engineer",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://bloomberg.avature.net/careers/JobDetail/Senior-Software-Engineer-Platform-Engineering/21064",
+      "source": "Other",
+      "description": "Senior Software Engineer - Platform Engineering. Location. New York. Business Area. Engineering and CTO. Ref #. 10052858. Description & Requirements.",
+      "date": "2026-07-27",
+      "timestamp": "2026-07-27T21:01:20+00:00",
+      "fetched_at": "2026-07-28T01:11:39.028949+00:00"
+    },
+    {
+      "id": "2c91f0fd2e04",
+      "title": "Software Engineer (Technical Implementation) - Apprentice - Myworkdayjobs.com",
+      "company": "Statestreet",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Software-Engineer--Technical-Implementation----Apprentice_R-795131?source=APPLICANT_SOURCE-LINKEDIN",
+      "source": "Workday",
+      "description": "Software Engineer (Technical Implementation) - Apprentice \u00b7 Strong learning agility and curiosity \u00b7 Analytical thinking and problem-solving abilities.",
+      "date": "2026-07-27",
+      "timestamp": "2026-07-27T20:56:18+00:00",
+      "fetched_at": "2026-07-28T01:11:38.802361+00:00"
+    },
+    {
+      "id": "1364bc543b3a",
+      "title": "DevOps Engineer Job Details | State of Indiana",
+      "company": "State of Indiana",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://workforindiana.in.gov/job/Indianapolis-DevOps-Engineer-IN-46204/1413024100/",
+      "source": "Other",
+      "description": "The DevOps Engineer delivers enterprise\u2011grade DevOps engineering capabilities supporting GitHub Enterprise Cloud (GHEC), AWS Transform, AI Foundry, ...",
+      "date": "2026-07-27",
+      "timestamp": "2026-07-27T20:44:50+00:00",
+      "fetched_at": "2026-07-28T01:11:38.802540+00:00"
+    },
+    {
+      "id": "1c0b6ae0ed05",
+      "title": "Senior Software Engineer at Barclays",
+      "company": "Barclays",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://search.jobs.barclays/job/prague/senior-software-engineer/13015/98377000544",
+      "source": "Other",
+      "description": "Senior Backend Engineer \u2013 AVP. Whippany (United States). TM Analyst ... Join us as a Senior Software Engineer at Barclays and become a key ...",
+      "date": "2026-07-27",
+      "timestamp": "2026-07-27T20:03:58+00:00",
+      "fetched_at": "2026-07-28T01:11:39.029534+00:00"
+    },
+    {
+      "id": "6b287327a4d7",
+      "title": "Wispr Flow - Platform Engineer , Billing Systems - Jobs",
+      "company": "Wispr Flow",
+      "role": "Platform Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.ashbyhq.com/wispr-flow/4dfdbbe6-09de-470a-ae7a-ffe2072e93c5",
+      "source": "Ashby",
+      "description": "Platform Engineer , Billing Systems. Location. San Francisco; Remote - US. Employment Type. Full time. Location Type. On-site. Department. Software ...",
+      "date": "2026-07-27",
+      "timestamp": "2026-07-27T20:03:00+00:00",
+      "fetched_at": "2026-07-28T01:11:38.802641+00:00"
+    },
+    {
       "id": "feb7e093b8cc",
       "title": "Machine Learning Engineer | Everforth Apex",
       "company": "Everforth Apex",
@@ -51,6 +216,21 @@
       "fetched_at": "2026-07-27T20:57:02.885955+00:00"
     },
     {
+      "id": "3a0266ae9695",
+      "title": "Software Engineer , Apple Video Services - Jobs",
+      "company": "Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200674370-3337/software-engineer-apple-video-services?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Software Engineer , Apple Video Services job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-07-27",
+      "timestamp": "2026-07-27T19:26:43+00:00",
+      "fetched_at": "2026-07-28T01:11:38.802937+00:00"
+    },
+    {
       "id": "43e3f601fc86",
       "title": "Machine Learning Engineer , GenAI Technology - Point72 Careers",
       "company": "Point72 Careers",
@@ -64,6 +244,51 @@
       "date": "2026-07-27",
       "timestamp": "2026-07-27T19:14:36+00:00",
       "fetched_at": "2026-07-27T20:57:02.886390+00:00"
+    },
+    {
+      "id": "32966dca2dcb",
+      "title": "Staff AI Engineer - Zoom AI Services Platform - Seattle, Washington, United States",
+      "company": "Zoom AI Services Platform - Seattle, Washington, United States",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.zoom.us/jobs/staff-ai-engineer-zoom-ai-services-platform-seattle-washington-united-states-san-jose-california",
+      "source": "Other",
+      "description": "Staff AI Engineer - Zoom AI Services Platform \u00b7 Design and build large-scale cloud services powering Zoom AI APIs and developer platform. \u00b7 Design ...",
+      "date": "2026-07-27",
+      "timestamp": "2026-07-27T18:59:59+00:00",
+      "fetched_at": "2026-07-28T01:11:38.803587+00:00"
+    },
+    {
+      "id": "04a68745e459",
+      "title": "Parus hiring Senior Software Engineer in Indiana, United States | LinkedIn",
+      "company": "LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/senior-software-engineer-at-parus-4444884053",
+      "source": "LinkedIn",
+      "description": "Senior Backend Engineer . Gremlin. Marion County, IN 1 week ago. Senior ... Senior Software Engineer . DMA - DuCharme, McMillen & Associates, Inc ...",
+      "date": "2026-07-27",
+      "timestamp": "2026-07-27T18:59:16+00:00",
+      "fetched_at": "2026-07-28T01:11:39.030402+00:00"
+    },
+    {
+      "id": "17bb708ec109",
+      "title": "Senior Software Engineer in Indianapolis, Indiana, United States of America - Lilly Careers",
+      "company": "Lilly Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.lilly.com/us/en/job/R-107007/Senior-Software-Engineer",
+      "source": "Other",
+      "description": "Apply for Senior Software Engineer job with Lilly in Indianapolis, Indiana, United States of America ... Storage Platform Engineer . Location ...",
+      "date": "2026-07-27",
+      "timestamp": "2026-07-27T18:54:09+00:00",
+      "fetched_at": "2026-07-28T01:11:39.030527+00:00"
     },
     {
       "id": "841bffd5ee44",
@@ -169,6 +394,36 @@
       "date": "2026-07-27",
       "timestamp": "2026-07-27T17:58:37+00:00",
       "fetched_at": "2026-07-27T20:57:02.887498+00:00"
+    },
+    {
+      "id": "288abc8a5a16",
+      "title": "Principal Software Engineer - - GoDaddy Careers",
+      "company": "- GoDaddy Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.godaddy/jobs/principal-software-engineer-23fa0b5e-5e10-426e-aa6a-9f291cdb825e",
+      "source": "Other",
+      "description": "Principal Software Engineer \u00b7 Join a team where you'll own critical security infrastructure from conception to production. \u00b7 Architect and build AI- ...",
+      "date": "2026-07-27",
+      "timestamp": "2026-07-27T17:56:15+00:00",
+      "fetched_at": "2026-07-28T01:11:38.804624+00:00"
+    },
+    {
+      "id": "4fe15054bf13",
+      "title": "Staff AI Engineer - Seattle, Washington, United States - Zoom Careers",
+      "company": "Seattle, Washington, United States - Zoom Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.zoom.us/jobs/staff-ai-engineer-seattle-washington-united-states-89f5371c-16e9-43fe-b7ae-7878c5766c44",
+      "source": "Other",
+      "description": "What you can expect As a Senior AI Engineer , you will develop intelligent systems capable of reasoning, planning, and executing complex workflows. You ...",
+      "date": "2026-07-27",
+      "timestamp": "2026-07-27T17:53:09+00:00",
+      "fetched_at": "2026-07-28T01:11:38.804896+00:00"
     },
     {
       "id": "ac7dbea975be",
