@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-07-28T01:11:39.056789+00:00",
-  "total_jobs": 6543,
+  "last_updated": "2026-07-28T06:15:30.739103+00:00",
+  "total_jobs": 6556,
   "stats": {
-    "total_companies": 3234,
-    "total_roles": 87,
+    "total_companies": 3241,
+    "total_roles": 88,
     "regions": {
-      "India": 4248,
-      "Philippines": 1361,
-      "Remote": 826,
+      "India": 4252,
+      "Philippines": 1369,
+      "Remote": 827,
       "Unknown": 135
     },
     "sources": {
-      "Other": 5136,
-      "Greenhouse": 321,
+      "Other": 5146,
+      "Greenhouse": 322,
       "Workday": 285,
-      "LinkedIn": 267,
-      "Ashby": 198,
+      "LinkedIn": 268,
+      "Ashby": 199,
       "iCIMS": 79,
       "Breezy": 71,
       "Lever": 47,
@@ -31,10 +31,115 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-07-27"
+      "latest": "2026-07-28"
     }
   },
   "jobs": [
+    {
+      "id": "8e71312b961e",
+      "title": "Job Application for Software Engineer (Entry) at Pattern Data - Greenhouse",
+      "company": "Patterndata",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/patterndata/jobs/5196699007",
+      "source": "Greenhouse",
+      "description": "Software Engineer (Entry). Richmond, VA. Apply. Who We Are. Pattern Data is an AI-powered platform built for the complexities of mass tort litigation ...",
+      "date": "2026-07-28",
+      "timestamp": "2026-07-28T04:24:57+00:00",
+      "fetched_at": "2026-07-28T06:15:30.707298+00:00"
+    },
+    {
+      "id": "09e55e83de92",
+      "title": "Software Engineer , Commerce - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200663550-0836/software-engineer-commerce?team=SFTWR",
+      "source": "Other",
+      "description": "The Apple Services Engineering (ASE) Commerce group is looking for an extraordinary back-end Java software engineer to join our Developer Services ...",
+      "date": "2026-07-28",
+      "timestamp": "2026-07-28T03:47:44+00:00",
+      "fetched_at": "2026-07-28T06:15:30.707617+00:00"
+    },
+    {
+      "id": "a389dbf42eef",
+      "title": "ontologies thanks Prof @coyle_frankp, @emileifrem, Jes\u00fas Barrasa, @steveonjava et al for ...",
+      "company": "Unknown Company",
+      "role": "ontologies thanks Prof @coyle_frankp, @emileifrem, Jes\u00fas Bar",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://x.com/aiDotEngineer/status/2081797702170636513",
+      "source": "Other",
+      "description": "AI Engineer (@aiDotEngineer). 52 likes 3 replies. \u2728ontologies\u2728 thanks Prof @coyle_frankp, @emileifrem, Jes\u00fas Barrasa, @steveonjava et al for ...",
+      "date": "2026-07-28",
+      "timestamp": "2026-07-28T02:20:06+00:00",
+      "fetched_at": "2026-07-28T06:15:30.708634+00:00"
+    },
+    {
+      "id": "f9a46b9d7046",
+      "title": "Staff AI Engineer - AI Verticals - Seattle, Washington, United States - Zoom Careers",
+      "company": "AI Verticals - Seattle, Washington, United States - Zoom Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.zoom.us/jobs/staff-ai-engineer-ai-verticals-seattle-washington-united-states",
+      "source": "Other",
+      "description": "What you can expectAs an AI Engineer specializing in Agentic AI, you will develop intelligent agents that can autonomously perceive, reason, ...",
+      "date": "2026-07-28",
+      "timestamp": "2026-07-28T02:06:38+00:00",
+      "fetched_at": "2026-07-28T06:15:30.709123+00:00"
+    },
+    {
+      "id": "c3987880477e",
+      "title": "Software Engineer",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://ats.rippling.com/logicbroker-inc/jobs/3d23113d-d689-407d-af4b-57907b4e2a61",
+      "source": "Other",
+      "description": "Logicbroker, Inc. Software Engineer . About Logicbroker, Inc. Logicbroker is the Agentic Commerce Orchestration Engine helping enterprise retailers, ...",
+      "date": "2026-07-28",
+      "timestamp": "2026-07-28T01:50:12+00:00",
+      "fetched_at": "2026-07-28T06:15:30.709446+00:00"
+    },
+    {
+      "id": "874ade67a91e",
+      "title": "(USA) Staff, Software Engineer | Amol Neurgaonkar - LinkedIn",
+      "company": "Amol Neurgaonkar - LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/posts/amolneurgaonkar_usa-staff-software-engineer-activity-7487526589690441728-WbG-",
+      "source": "LinkedIn",
+      "description": "... Software Engineer - Android (Posting soon) ... Software Engineer - IOS (Posting soon) Sr. Software Engineer - Android ...",
+      "date": "2026-07-28",
+      "timestamp": "2026-07-28T01:41:48+00:00",
+      "fetched_at": "2026-07-28T06:15:30.709973+00:00"
+    },
+    {
+      "id": "2480803cc877",
+      "title": "Senior Software Engineer - Publishing Platform, Content Access Platform - Riot Games",
+      "company": "Publishing Platform, Content Access Platform - Riot Games",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.riotgames.com/en/work-with-us/job/8070769/senior-software-engineer-publishing-platform-content-access-platform-los-angeles-usa",
+      "source": "Other",
+      "description": "As a Senior Software Engineer on the Content Access Platform (CAP) team, you will own and operate large-scale, distributed services that support ...",
+      "date": "2026-07-28",
+      "timestamp": "2026-07-28T00:33:31+00:00",
+      "fetched_at": "2026-07-28T06:15:30.710577+00:00"
+    },
     {
       "id": "a38a260d6a51",
       "title": "Sr. Data Engineer - paycomonline.net",
@@ -64,6 +169,51 @@
       "date": "2026-07-27",
       "timestamp": "2026-07-27T23:52:15+00:00",
       "fetched_at": "2026-07-28T01:11:39.025795+00:00"
+    },
+    {
+      "id": "305243a2bf52",
+      "title": "Software Engineer @ Meow - Jobs",
+      "company": "Meow",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/meow/0db09b6a-9ee7-4787-997c-5aace86322d1",
+      "source": "Ashby",
+      "description": "We're hiring a Software Engineer who wants real ownership in a fast-moving startup environment. What You'll Do. Build full-stack web features (front- ...",
+      "date": "2026-07-27",
+      "timestamp": "2026-07-27T23:36:19+00:00",
+      "fetched_at": "2026-07-28T06:15:30.597005+00:00"
+    },
+    {
+      "id": "3c04d51951a8",
+      "title": "Open Role \u2014 Staff Software Engineer , Financial Crimes - Ripple",
+      "company": "Ripple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ripple.com/careers/all-jobs/job/8088649?gh_jid=8088649",
+      "source": "Other",
+      "description": "As a Staff Software Engineer on this team, you'll set technical direction for that platform. You'll own the architecture of the compliance control ...",
+      "date": "2026-07-27",
+      "timestamp": "2026-07-27T23:25:14+00:00",
+      "fetched_at": "2026-07-28T06:15:30.597348+00:00"
+    },
+    {
+      "id": "be0433ef3d39",
+      "title": "Apply For Lead Data Engineer - Stryker",
+      "company": "Stryker",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.stryker.com/lead-data-engineer/job/C4A47AC4E1CE3969C92ADBA8B7304A85",
+      "source": "Other",
+      "description": "Lead Data Engineer . Return to Search. Apply Now. Gurugram, HR 122001, India. Job details. Work flexibility: Hybrid Req ID: R567565 Employee type: Full ...",
+      "date": "2026-07-27",
+      "timestamp": "2026-07-27T23:00:10+00:00",
+      "fetched_at": "2026-07-28T06:15:30.597657+00:00"
     },
     {
       "id": "51993835c3cb",
@@ -109,6 +259,36 @@
       "date": "2026-07-27",
       "timestamp": "2026-07-27T21:43:22+00:00",
       "fetched_at": "2026-07-28T01:11:39.028606+00:00"
+    },
+    {
+      "id": "7b81eeee2e16",
+      "title": "Senior Backend Software Engineer | Platform - Playlist",
+      "company": "Platform - Playlist",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.playlist.com/careers/opportunities/4699652006",
+      "source": "Other",
+      "description": "Senior Backend Software Engineer | Platform. Playlist | Engineering | Salaried | Brazil. Apply now. About the Company: At Playlist, life's richest ...",
+      "date": "2026-07-27",
+      "timestamp": "2026-07-27T21:27:47+00:00",
+      "fetched_at": "2026-07-28T06:15:30.712827+00:00"
+    },
+    {
+      "id": "a5dbe6864bfb",
+      "title": "Senior Software Engineer - Jobs at Volvo Group",
+      "company": "Volvo Group",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.volvogroup.com/job/G%C3%B6teborg-Senior-Software-Engineer-417-55/1362212455/?feedId=361555",
+      "source": "Other",
+      "description": "Senior Software Engineer . Location: G\u00f6teborg, SE, 417 55. Position Type: Professional. Transport is at the core of modern society. Imagine using your ...",
+      "date": "2026-07-27",
+      "timestamp": "2026-07-27T21:24:38+00:00",
+      "fetched_at": "2026-07-28T06:15:30.713113+00:00"
     },
     {
       "id": "fb09a0f3560f",
@@ -169,6 +349,21 @@
       "date": "2026-07-27",
       "timestamp": "2026-07-27T20:44:50+00:00",
       "fetched_at": "2026-07-28T01:11:38.802540+00:00"
+    },
+    {
+      "id": "761f42ed140a",
+      "title": "Senior Data Engineer - Acuity Analytics - Career Page - JazzHR",
+      "company": "Acuity Analytics - Career Page - JazzHR",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ascent.applytojob.com/apply/nbNUEuoGuQ/Senior-Data-Engineer",
+      "source": "Other",
+      "description": "Senior Data Engineer ... If you have any questions contact our Talent Acquisition team on ta.admin@acuityanalytics. For more details about Acuity ...",
+      "date": "2026-07-27",
+      "timestamp": "2026-07-27T20:26:53+00:00",
+      "fetched_at": "2026-07-28T06:15:30.599126+00:00"
     },
     {
       "id": "1c0b6ae0ed05",
