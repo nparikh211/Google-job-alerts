@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-07-28T13:22:17.126325+00:00",
-  "total_jobs": 6566,
+  "last_updated": "2026-07-28T17:14:07.685977+00:00",
+  "total_jobs": 6587,
   "stats": {
-    "total_companies": 3243,
+    "total_companies": 3247,
     "total_roles": 88,
     "regions": {
-      "India": 4258,
-      "Philippines": 1373,
-      "Remote": 827,
+      "India": 4272,
+      "Philippines": 1377,
+      "Remote": 830,
       "Unknown": 135
     },
     "sources": {
-      "Other": 5154,
-      "Greenhouse": 322,
-      "Workday": 286,
+      "Other": 5169,
+      "Greenhouse": 324,
+      "Workday": 289,
       "LinkedIn": 268,
       "Ashby": 199,
       "iCIMS": 79,
-      "Breezy": 71,
+      "Breezy": 72,
       "Lever": 47,
       "Workable": 44,
       "SmartRecruiters": 42,
@@ -36,6 +36,291 @@
   },
   "jobs": [
     {
+      "id": "b3d09facef84",
+      "title": "Job Application for Senior Software Engineer , Affirm Bank at Affirm - Greenhouse",
+      "company": "Affirm",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/affirm/jobs/7812982003",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer , Affirm Bank. Remote US. Apply. Affirm is reinventing credit to make it more honest and friendly, giving consumers the ...",
+      "date": "2026-07-28",
+      "timestamp": "2026-07-28T16:25:59+00:00",
+      "fetched_at": "2026-07-28T17:14:07.658098+00:00"
+    },
+    {
+      "id": "8e429c7e5b87",
+      "title": "Job Application for Software Engineer (Senior-Staff) at Pattern Data - Greenhouse",
+      "company": "Patterndata",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/patterndata/jobs/5196696007",
+      "source": "Greenhouse",
+      "description": "Software Engineer (Senior-Staff). US - Remote. Apply. Who We Are. Pattern Data is an AI-powered platform built for the complexities of mass tort ...",
+      "date": "2026-07-28",
+      "timestamp": "2026-07-28T15:21:43+00:00",
+      "fetched_at": "2026-07-28T17:14:07.469813+00:00"
+    },
+    {
+      "id": "06caf26b5b88",
+      "title": "Data Engineer - Myworkdayjobs.com",
+      "company": "Montefiore",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://montefiore.wd12.myworkdayjobs.com/en-US/MMC/job/Data-Engineer_JR230501-1",
+      "source": "Workday",
+      "description": "Data Engineer \u00b7 Ability to think strategically and drive structured execution \u00b7 Structured, linear thinker that can conduct business outcome diagnostics ...",
+      "date": "2026-07-28",
+      "timestamp": "2026-07-28T15:12:59+00:00",
+      "fetched_at": "2026-07-28T17:14:07.469959+00:00"
+    },
+    {
+      "id": "4e196c18406d",
+      "title": "Apply for Software Engineer II - Careers at WGU",
+      "company": "WGU",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.wgu.edu/software-engineer-ii/job/P1-6293758-0",
+      "source": "Other",
+      "description": "Join WGU in Salt Lake City, UT! Apply for the Software Engineer II role today and start your journey with us.",
+      "date": "2026-07-28",
+      "timestamp": "2026-07-28T15:11:10+00:00",
+      "fetched_at": "2026-07-28T17:14:07.470090+00:00"
+    },
+    {
+      "id": "078d0cb4e075",
+      "title": "Senior Software Engineer , AI/ML, Ads and Commerce - Google",
+      "company": "Google",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/101582018550080198-senior-software-engineer-aiml-ads-and-commerce",
+      "source": "Other",
+      "description": "Senior Software Engineer , AI/ML, Ads and Commerce. share. linkCopy link; emailEmail a friend. corporate_fareGoogleplaceMountain View, CA, USA.",
+      "date": "2026-07-28",
+      "timestamp": "2026-07-28T15:09:34+00:00",
+      "fetched_at": "2026-07-28T17:14:07.470319+00:00"
+    },
+    {
+      "id": "69bed080c371",
+      "title": "Software Engineer - Sinclair Broadcast Group Careers - Sign in",
+      "company": "Sinclair Broadcast Group Careers - Sign in",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/16916",
+      "source": "Other",
+      "description": "Software Engineer . Hunt Valley, MD, United States (Hybrid). Trending. Job Description. Sinclair has an exciting opportunity for a Software Engineer to ...",
+      "date": "2026-07-28",
+      "timestamp": "2026-07-28T15:01:54+00:00",
+      "fetched_at": "2026-07-28T17:14:07.658489+00:00"
+    },
+    {
+      "id": "29671856a228",
+      "title": "DevOps Engineer - Myworkdayjobs.com",
+      "company": "Argonne",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://argonne.wd1.myworkdayjobs.com/en-US/Argonne_Careers/job/Lemont-IL-USA/DevOps-Engineer_423153",
+      "source": "Workday",
+      "description": "... DevOps engineer and/or Cloud Engineer . US citizenship: To perform the essential functions of this position successful applicants must provide ...",
+      "date": "2026-07-28",
+      "timestamp": "2026-07-28T14:42:05+00:00",
+      "fetched_at": "2026-07-28T17:14:07.470425+00:00"
+    },
+    {
+      "id": "0a535ee0e7e1",
+      "title": "Software Engineer - Moove.io",
+      "company": "Moove.io",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.moove.io/jobs/8133642-software-engineer",
+      "source": "Other",
+      "description": "Software Engineer . Apply for this job. About Moove AV. At Moove AV, we don't just manage fleets; we operate the critical infrastructure that makes ...",
+      "date": "2026-07-28",
+      "timestamp": "2026-07-28T14:39:40+00:00",
+      "fetched_at": "2026-07-28T17:14:07.470566+00:00"
+    },
+    {
+      "id": "9a914b5878c8",
+      "title": "Data Engineer (Google Cloud Platform) - K Anand Corporation - Hybrid in Charlotte, NC, US",
+      "company": "K Anand Corporation - Hybrid in Charlotte, NC, US",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.dice.com/job-detail/ef1057ad-a4c7-4d1c-b0a9-96e29562e29e",
+      "source": "Other",
+      "description": "Data Engineer (Google Cloud Platform). Hybrid in Charlotte, NC, US \u2022 Posted ... Software Engineer 4. Charlotte, North Carolina. \u2022. Today. Location ...",
+      "date": "2026-07-28",
+      "timestamp": "2026-07-28T14:14:49+00:00",
+      "fetched_at": "2026-07-28T17:14:07.470779+00:00"
+    },
+    {
+      "id": "a8ad13db67d5",
+      "title": "Software Engineer in Atlanta, Georgia, United States of America - Cisco Careers",
+      "company": "Cisco Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2019105EXTERNALENGLOBAL/Software-Engineer",
+      "source": "Other",
+      "description": "Software Engineer , Infrastructure Automation - Hybrid. Location ... Join our team as a Senior Kubernetes Platform Engineer to design, build ...",
+      "date": "2026-07-28",
+      "timestamp": "2026-07-28T14:06:54+00:00",
+      "fetched_at": "2026-07-28T17:14:07.470986+00:00"
+    },
+    {
+      "id": "0d00d8fbc9f0",
+      "title": "Careers - Software Engineer, Reconciliation & Reporting - Block",
+      "company": "Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://block.xyz/careers/jobs/5369941008?gh_jid=5369941008",
+      "source": "Other",
+      "description": "square. Software Engineer , Reconciliation & Reporting. Apply. Remote. Bay Area, CA, US. Req ID: R0006771. Posted Date: 07/27/26. Posted today. Apply.",
+      "date": "2026-07-28",
+      "timestamp": "2026-07-28T14:03:25+00:00",
+      "fetched_at": "2026-07-28T17:14:07.471246+00:00"
+    },
+    {
+      "id": "3759ca17560c",
+      "title": "Software Engineer I - Careers - The Trade Desk",
+      "company": "Careers - The Trade Desk",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.thetradedesk.com/jobs/5196864007/software-engineer-i",
+      "source": "Other",
+      "description": "Lead Senior Software Engineer - Decisioning Workflows Team \u00b7 July 20 ... Senior Data Engineer \u00b7 Employee Rights Under NLRA \u00b7 Know Your Rights ...",
+      "date": "2026-07-28",
+      "timestamp": "2026-07-28T13:54:48+00:00",
+      "fetched_at": "2026-07-28T17:14:07.471405+00:00"
+    },
+    {
+      "id": "cb9a9675d785",
+      "title": "Software Engineer - Job Detail | Careers Marketplace - Siemens",
+      "company": "Job Detail | Careers Marketplace - Siemens",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/515695",
+      "source": "Other",
+      "description": "Software Engineer \u00b7 Bachelor's degree in Computer Science, Software Engineering, Computer Engineering, or a related technical field. \u00b7 Experience ...",
+      "date": "2026-07-28",
+      "timestamp": "2026-07-28T13:48:03+00:00",
+      "fetched_at": "2026-07-28T17:14:07.471573+00:00"
+    },
+    {
+      "id": "aafb1f551087",
+      "title": "Software Engineer - Confluent - 126244 - IBM",
+      "company": "Confluent - 126244 - IBM",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.ibm.com/en_IN/careers/JobDetail?jobId=126244&source=WEB_Search_INDIA",
+      "source": "Other",
+      "description": "Software Engineer - Confluent ... At IBM Software, we transform client challenges into solutions. Building the world's leading AI-powered, cloud-native ...",
+      "date": "2026-07-28",
+      "timestamp": "2026-07-28T13:44:23+00:00",
+      "fetched_at": "2026-07-28T17:14:07.471729+00:00"
+    },
+    {
+      "id": "8c6646ecfc58",
+      "title": "Software Engineer [Multiple Positions Available] - JPMC Candidate Experience page Careers",
+      "company": "JPMC Candidate Experience page Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/cx_1001/job/210773774",
+      "source": "Other",
+      "description": "Software Engineer [Multiple Positions Available]. Columbus, OH, United States. Apply Now. Job Information. Job Identification 210773774; Job Category ...",
+      "date": "2026-07-28",
+      "timestamp": "2026-07-28T13:28:35+00:00",
+      "fetched_at": "2026-07-28T17:14:07.659687+00:00"
+    },
+    {
+      "id": "f0ccdece0343",
+      "title": "Software Engineer , Platform Engineering | Pega",
+      "company": "Pega",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.pega.com/about/careers/23883/software-engineer-platform-engineering",
+      "source": "Other",
+      "description": "Software Engineer , Platform Engineering \u00b7 Meet Our Team: The Cloud Adaptive Engine (CAE) organization is a core part of Platform Engineering at Pega, ...",
+      "date": "2026-07-28",
+      "timestamp": "2026-07-28T12:30:12+00:00",
+      "fetched_at": "2026-07-28T17:14:07.471909+00:00"
+    },
+    {
+      "id": "2e95b310c9cb",
+      "title": "Software Engineer at Barclays",
+      "company": "Barclays",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://search.jobs.barclays/job/pune/software-engineer/13015/98377000976",
+      "source": "Other",
+      "description": "L2 Application Support Site Reliability Engineer \u2013 Global Reconciliation Technology. Pune (India). 28 Jul. Senior Software Engineer -DevOps. Pune ...",
+      "date": "2026-07-28",
+      "timestamp": "2026-07-28T12:10:34+00:00",
+      "fetched_at": "2026-07-28T17:14:07.472044+00:00"
+    },
+    {
+      "id": "b8af677f5294",
+      "title": "Data Engineer - Myworkdayjobs.com",
+      "company": "Montefiore",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://montefiore.wd12.myworkdayjobs.com/MMC/job/3-Odell-Plaza/Data-Engineer_JR230501-1",
+      "source": "Workday",
+      "description": "Data Engineer \u00b7 Ability to think strategically and drive structured execution \u00b7 Structured, linear thinker that can conduct business outcome diagnostics ...",
+      "date": "2026-07-28",
+      "timestamp": "2026-07-28T12:07:01+00:00",
+      "fetched_at": "2026-07-28T17:14:07.660235+00:00"
+    },
+    {
+      "id": "570c24d44e5a",
+      "title": "Senior Software Engineer in Cambridge at Arm - Arm Careers",
+      "company": "Arm",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.arm.com/job/cambridge/senior-software-engineer/33099/98406606992",
+      "source": "Other",
+      "description": "Senior Software Engineer . Job ID 2026-18468 Date posted Jul. 28, 2026 Location Cambridge, United Kingdom Category Software Engineering Apply. Jump ...",
+      "date": "2026-07-28",
+      "timestamp": "2026-07-28T12:04:41+00:00",
+      "fetched_at": "2026-07-28T17:14:07.472174+00:00"
+    },
+    {
       "id": "d93f98db0e9a",
       "title": "Data Engineer | Job Details - + Cornerstone Galaxy +",
       "company": "Job Details - + Cornerstone Galaxy +",
@@ -49,6 +334,36 @@
       "date": "2026-07-28",
       "timestamp": "2026-07-28T11:06:04+00:00",
       "fetched_at": "2026-07-28T13:22:17.028390+00:00"
+    },
+    {
+      "id": "51ab27fe6276",
+      "title": "Space Software Engineer - Saab",
+      "company": "Saab",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.saab.com/career/job-opportunities/space-software-engineer",
+      "source": "Other",
+      "description": "As a Space Software Engineer , you will be working on the design, development and testing of space domain mission system products, within the Defence ...",
+      "date": "2026-07-28",
+      "timestamp": "2026-07-28T11:04:53+00:00",
+      "fetched_at": "2026-07-28T17:14:07.472473+00:00"
+    },
+    {
+      "id": "058361afa532",
+      "title": "Site Reliability Engineer II at NationsBenefits, LLC",
+      "company": "Nationsbenefits",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://nationsbenefits.breezy.hr/p/22d1a3f20ba2-site-reliability-engineer-ii",
+      "source": "Breezy",
+      "description": "Site Reliability Engineer II ... NationsBenefits is recognized as one of the fastest-growing companies in America and a Healthcare Fintech provider of ...",
+      "date": "2026-07-28",
+      "timestamp": "2026-07-28T08:06:17+00:00",
+      "fetched_at": "2026-07-28T17:14:07.660608+00:00"
     },
     {
       "id": "930d8e1f4f3c",
