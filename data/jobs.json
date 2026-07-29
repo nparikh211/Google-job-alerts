@@ -1,26 +1,26 @@
 {
-  "last_updated": "2026-07-29T01:14:31.770949+00:00",
-  "total_jobs": 6616,
+  "last_updated": "2026-07-29T06:21:27.628818+00:00",
+  "total_jobs": 6629,
   "stats": {
-    "total_companies": 3256,
-    "total_roles": 89,
+    "total_companies": 3260,
+    "total_roles": 90,
     "regions": {
       "India": 4293,
-      "Philippines": 1381,
-      "Remote": 834,
+      "Philippines": 1393,
+      "Remote": 835,
       "Unknown": 135
     },
     "sources": {
-      "Other": 5190,
-      "Greenhouse": 326,
-      "Workday": 291,
-      "LinkedIn": 268,
-      "Ashby": 201,
+      "Other": 5198,
+      "Greenhouse": 327,
+      "Workday": 292,
+      "LinkedIn": 269,
+      "Ashby": 202,
       "iCIMS": 81,
       "Breezy": 72,
       "Lever": 47,
       "Workable": 44,
-      "SmartRecruiters": 42,
+      "SmartRecruiters": 43,
       "Indeed": 27,
       "BrassRing": 8,
       "Recruitee": 6,
@@ -31,10 +31,145 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-07-28"
+      "latest": "2026-07-29"
     }
   },
   "jobs": [
+    {
+      "id": "641f9759a19f",
+      "title": "Software Engineer - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200674638-3337/software-engineer",
+      "source": "Other",
+      "description": "Apply for a Software Engineer job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-07-29",
+      "timestamp": "2026-07-29T03:59:47+00:00",
+      "fetched_at": "2026-07-29T06:21:27.600183+00:00"
+    },
+    {
+      "id": "434eda40816f",
+      "title": "Job Application for Software Engineer Intern - ML Systems at Apptronik - Greenhouse",
+      "company": "Apptronik",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/apptronik/jobs/6128057004?gh_jid=6128057004",
+      "source": "Greenhouse",
+      "description": "Software Engineer Intern - ML Systems. Onsite - Austin, TX. Apply. Apptronik is a human-centered robotics company developing AI-powered robots to ...",
+      "date": "2026-07-29",
+      "timestamp": "2026-07-29T03:07:23+00:00",
+      "fetched_at": "2026-07-29T06:21:27.600312+00:00"
+    },
+    {
+      "id": "4e930cfd4700",
+      "title": "Senior Software Engineer , Apple Services Engineering - Kubernetes - Jobs",
+      "company": "Kubernetes - Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200674590-3337/senior-software-engineer-apple-services-engineering-kubernetes?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Senior Software Engineer , Apple Services Engineering - Kubernetes job at Apple. Read about the role and find out if it's right for ...",
+      "date": "2026-07-29",
+      "timestamp": "2026-07-29T02:43:29+00:00",
+      "fetched_at": "2026-07-29T06:21:27.600568+00:00"
+    },
+    {
+      "id": "d4d7c4551bd5",
+      "title": "Software Engineer (Integration Platforms) - Zions Bancorporation Careers",
+      "company": "Zions Bancorporation Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.zionsbancorp.com/jobs/software-engineer-integration-platforms-27496",
+      "source": "Other",
+      "description": "Software Engineer (Integration Platforms). Midvale, Utah, United ... Cloud Engineer . Enterprise Technology Operations. Midvale, Utah ...",
+      "date": "2026-07-29",
+      "timestamp": "2026-07-29T02:34:03+00:00",
+      "fetched_at": "2026-07-29T06:21:27.600756+00:00"
+    },
+    {
+      "id": "55c85189a13a",
+      "title": "System Software Engineer - Intel - Myworkdayjobs.com",
+      "company": "Intel",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/System-Software-Engineer_JR0285048",
+      "source": "Workday",
+      "description": "Job Details: Job Description: Join Intel as a System Software Engineer , where you will play a pivotal role in designing, developing, ...",
+      "date": "2026-07-29",
+      "timestamp": "2026-07-29T02:03:44+00:00",
+      "fetched_at": "2026-07-29T06:21:27.600846+00:00"
+    },
+    {
+      "id": "d50685613029",
+      "title": "Software Engineer - Front End with AI | Careers - Dassault Syst\u00e8mes",
+      "company": "Front End with AI | Careers - Dassault Syst\u00e8mes",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.3ds.com/careers/jobs/software-engineer-front-end-with-ai-548748",
+      "source": "Other",
+      "description": "Software Engineer - Front End with AIUnlock your potential with Dassault Syst\u00e8mes, a global leader in Scientific Software Engineering as a ...",
+      "date": "2026-07-29",
+      "timestamp": "2026-07-29T01:33:45+00:00",
+      "fetched_at": "2026-07-29T06:21:27.601232+00:00"
+    },
+    {
+      "id": "e5da23f3faeb",
+      "title": "Software Engineer - Data Compliance - Careers - LEGO.com",
+      "company": "Data Compliance - Careers - LEGO.com",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.lego.com/en-us/careers/job/software-engineer-data-compliance-6aa63d90305d1001492c0b1734ae0000",
+      "source": "Other",
+      "description": "Software Engineer - Data Compliance: Job Description #LI-KO1 Are you ready to build tools and services on our enterprise data platform that enable ...",
+      "date": "2026-07-29",
+      "timestamp": "2026-07-29T00:55:33+00:00",
+      "fetched_at": "2026-07-29T06:21:27.601481+00:00"
+    },
+    {
+      "id": "e2e44b5448af",
+      "title": "Software Engineer Associate - Jobs at Volvo Group",
+      "company": "Volvo Group",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.volvogroup.com/job/G%C3%B6teborg-Software-Engineer-Associate-417-15/1362306455/?feedId=361555",
+      "source": "Other",
+      "description": "Software Engineer Associate. Location: G\u00f6teborg, SE, 417 15. Position Type: Professional. Transport is at the core of modern society. Imagine using ...",
+      "date": "2026-07-29",
+      "timestamp": "2026-07-29T00:16:27+00:00",
+      "fetched_at": "2026-07-29T06:21:27.601659+00:00"
+    },
+    {
+      "id": "545d97ad543d",
+      "title": "Machine Learning Engineer - Seattle, Washington, United States - Zoom Careers",
+      "company": "Seattle, Washington, United States - Zoom Careers",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.zoom.us/jobs/machine-learning-engineer-seattle-washington-united-states-ed491f02-f3c7-4dbb-99bc-01a06e24b08a",
+      "source": "Other",
+      "description": "Machine Learning Engineer . Engineering. Person, Crowd, Audience, Clothing ... What you can expect We're looking for an experienced AI Engineer ...",
+      "date": "2026-07-29",
+      "timestamp": "2026-07-29T00:06:57+00:00",
+      "fetched_at": "2026-07-29T06:21:27.602030+00:00"
+    },
     {
       "id": "75e3ad352d2d",
       "title": "Job Application for Machine Learning Engineer II at CLEAR - Corporate - Greenhouse",
@@ -49,6 +184,36 @@
       "date": "2026-07-28",
       "timestamp": "2026-07-28T23:24:56+00:00",
       "fetched_at": "2026-07-29T01:14:31.612502+00:00"
+    },
+    {
+      "id": "f8ec24fe9a6b",
+      "title": "IPT Global Senior Software Engineer | SmartRecruiters",
+      "company": "Iptglobal",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.smartrecruiters.com/IPTGlobal/744000140089628-senior-software-engineer",
+      "source": "SmartRecruiters",
+      "description": "Senior Software Engineer \u00b7 16200 Park Row Blvd, Houston, TX 77084, USA Employees can work remotely \u00b7 Full-time ...",
+      "date": "2026-07-28",
+      "timestamp": "2026-07-28T23:19:40+00:00",
+      "fetched_at": "2026-07-29T06:21:27.602234+00:00"
+    },
+    {
+      "id": "1e1f5e3a94bd",
+      "title": "Senior Software Engineer @ Circleback - Jobs",
+      "company": "Circleback",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/circleback/af8de326-0d3b-45f4-a449-8ee6dce421be",
+      "source": "Ashby",
+      "description": "Senior Software Engineer . Location. San Francisco. Employment Type. Full time. Location Type. On-site. Department. Engineering. Compensation. $170K \u2013 ...",
+      "date": "2026-07-28",
+      "timestamp": "2026-07-28T23:02:43+00:00",
+      "fetched_at": "2026-07-29T06:21:27.602496+00:00"
     },
     {
       "id": "66fdcb840528",
@@ -81,6 +246,21 @@
       "fetched_at": "2026-07-29T01:14:31.614176+00:00"
     },
     {
+      "id": "0ed926702eea",
+      "title": "Apply For Staff Embedded Software Engineer - Stryker",
+      "company": "Stryker",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.stryker.com/staff-embedded-software-engineer/job/A75D0E841397ECC154B3772297FA2C18",
+      "source": "Other",
+      "description": "Job description. Vocera now a part of Stryker looking for 6 to 8 years experience Embedded Staff Software Engineer with strong expertise in C and C++ ...",
+      "date": "2026-07-28",
+      "timestamp": "2026-07-28T22:37:46+00:00",
+      "fetched_at": "2026-07-29T06:21:27.602928+00:00"
+    },
+    {
       "id": "e2d56cc16f9b",
       "title": "Software Engineer - Java / Scala / Kafka /Microservices in Remote - Cotiviti | Careers Center",
       "company": "Java / Scala / Kafka /Microservices in Remote - Cotiviti | Careers Center",
@@ -94,6 +274,21 @@
       "date": "2026-07-28",
       "timestamp": "2026-07-28T22:14:13+00:00",
       "fetched_at": "2026-07-29T01:14:31.614465+00:00"
+    },
+    {
+      "id": "303736fb420f",
+      "title": "Dewang Sultania's Post - LinkedIn",
+      "company": "Unknown Company",
+      "role": "Dewang Sultania's Post - LinkedIn",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/posts/dewang-sultania_i-recently-finished-reading-packt-publication-activity-7487762235369644033-Lvvb",
+      "source": "LinkedIn",
+      "description": "I recently finished reading Packt Publication's The Platform Engineer's Handbook by Ajay Chankramath , and it was well worth the time.",
+      "date": "2026-07-28",
+      "timestamp": "2026-07-28T21:52:58+00:00",
+      "fetched_at": "2026-07-29T06:21:27.603547+00:00"
     },
     {
       "id": "25dfe295b62f",
