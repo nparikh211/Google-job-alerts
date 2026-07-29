@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-07-28T20:54:10.484443+00:00",
-  "total_jobs": 6603,
+  "last_updated": "2026-07-29T01:14:31.770949+00:00",
+  "total_jobs": 6616,
   "stats": {
-    "total_companies": 3251,
-    "total_roles": 88,
+    "total_companies": 3256,
+    "total_roles": 89,
     "regions": {
-      "India": 4285,
-      "Philippines": 1380,
-      "Remote": 830,
+      "India": 4293,
+      "Philippines": 1381,
+      "Remote": 834,
       "Unknown": 135
     },
     "sources": {
-      "Other": 5182,
-      "Greenhouse": 325,
+      "Other": 5190,
+      "Greenhouse": 326,
       "Workday": 291,
       "LinkedIn": 268,
-      "Ashby": 199,
-      "iCIMS": 79,
+      "Ashby": 201,
+      "iCIMS": 81,
       "Breezy": 72,
       "Lever": 47,
       "Workable": 44,
@@ -35,6 +35,171 @@
     }
   },
   "jobs": [
+    {
+      "id": "75e3ad352d2d",
+      "title": "Job Application for Machine Learning Engineer II at CLEAR - Corporate - Greenhouse",
+      "company": "Clear",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/clear/jobs/8070543",
+      "source": "Greenhouse",
+      "description": "Machine Learning Engineer II. New York, NY, United States. Apply. CLEAR is building THE secure identity company of the future. Our mission is to make ...",
+      "date": "2026-07-28",
+      "timestamp": "2026-07-28T23:24:56+00:00",
+      "fetched_at": "2026-07-29T01:14:31.612502+00:00"
+    },
+    {
+      "id": "66fdcb840528",
+      "title": "Software Engineer , AI Solutions @ Ramp - Jobs",
+      "company": "Ramp",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/ramp/b614563f-3ce6-4dca-b5ba-0e5a6c8bda27",
+      "source": "Ashby",
+      "description": "... software engineer on the AI Soltuions team, you will co-lead customer engagements with an AI Solutions Strategist. The Strategist owns business ...",
+      "date": "2026-07-28",
+      "timestamp": "2026-07-28T23:00:45+00:00",
+      "fetched_at": "2026-07-29T01:14:31.613626+00:00"
+    },
+    {
+      "id": "e53ddacc2a34",
+      "title": "Forward Deployed Engineering 101 \u2014 Kevin Bai, Anthropic, ex Palantir & Rippling Founding FDE",
+      "company": "Unknown Company",
+      "role": "Deployed Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.youtube.com/watch?v=KwhgfwOSToQ",
+      "source": "Other",
+      "description": "Sounds like a customer facing software engineer that needs to build results on an already complicated platform. ... AI Engineer . New. 139K views \u00b7 17 ...",
+      "date": "2026-07-28",
+      "timestamp": "2026-07-28T22:44:44+00:00",
+      "fetched_at": "2026-07-29T01:14:31.614176+00:00"
+    },
+    {
+      "id": "e2d56cc16f9b",
+      "title": "Software Engineer - Java / Scala / Kafka /Microservices in Remote - Cotiviti | Careers Center",
+      "company": "Java / Scala / Kafka /Microservices in Remote - Cotiviti | Careers Center",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers-cotiviti.icims.com/jobs/19670/software-engineer---java---scala---kafka--microservices/job",
+      "source": "iCIMS",
+      "description": "US Nationwide Remote is now hiring a Software Engineer - Java / Scala / Kafka /Microservices in Remote. Review all of the job details and apply ...",
+      "date": "2026-07-28",
+      "timestamp": "2026-07-28T22:14:13+00:00",
+      "fetched_at": "2026-07-29T01:14:31.614465+00:00"
+    },
+    {
+      "id": "25dfe295b62f",
+      "title": "Staff Software Engineer at Intuit",
+      "company": "Intuit",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.intuit.com/job/bengaluru/staff-software-engineer/27595/98399183392",
+      "source": "Other",
+      "description": "Intuit supports you, not just as you are now, but as the person that you want to grow to be. Alex Pollock Senior Software Engineer .",
+      "date": "2026-07-28",
+      "timestamp": "2026-07-28T21:23:29+00:00",
+      "fetched_at": "2026-07-29T01:14:31.614600+00:00"
+    },
+    {
+      "id": "0c51cb80f418",
+      "title": "Associate Software Engineer in Remote - Cotiviti | Careers Center - ICIMS",
+      "company": "Cotiviti | Careers Center - ICIMS",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers-cotiviti.icims.com/jobs/19669/associate-software-engineer/job",
+      "source": "iCIMS",
+      "description": "US Nationwide Remote is now hiring a Associate Software Engineer in Remote. Review all of the job details and apply today!",
+      "date": "2026-07-28",
+      "timestamp": "2026-07-28T21:12:04+00:00",
+      "fetched_at": "2026-07-29T01:14:31.614762+00:00"
+    },
+    {
+      "id": "10491b053388",
+      "title": "Data Engineer - Analytica - Career Page",
+      "company": "Analytica - Career Page",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://analyticallc.applytojob.com/apply/n6zQdXzbAG/Data-Engineer",
+      "source": "Other",
+      "description": "Analytica is seeking a Databricks Data Engineer to support a high-profile program for a financial regulatory agency.",
+      "date": "2026-07-28",
+      "timestamp": "2026-07-28T20:43:04+00:00",
+      "fetched_at": "2026-07-29T01:14:31.742287+00:00"
+    },
+    {
+      "id": "2e51c49381ab",
+      "title": "Sr Software Engineer in HAUPPAUGE, NY - Parker Hannifin External Careers",
+      "company": "Parker Hannifin External Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://parkercareers.ttcportals.com/jobs/18045307-sr-software-engineer",
+      "source": "Other",
+      "description": "Position Summary: Parker Fluid Systems Division (FSD) is seeking a Software Engineer to join our team. We are looking for a candidate who has working ...",
+      "date": "2026-07-28",
+      "timestamp": "2026-07-28T20:42:15+00:00",
+      "fetched_at": "2026-07-29T01:14:31.614928+00:00"
+    },
+    {
+      "id": "e323213feb4c",
+      "title": "Software Engineer @ Buildout - Jobs",
+      "company": "Buildout",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.ashbyhq.com/buildout/5c6f0c68-d925-49fd-b67d-036856886ae0",
+      "source": "Ashby",
+      "description": "Software Engineer . Location. Remote. Employment Type. Full time. Location Type. Remote. Department. Engineering. OverviewApplication. About Buildout.",
+      "date": "2026-07-28",
+      "timestamp": "2026-07-28T20:17:52+00:00",
+      "fetched_at": "2026-07-29T01:14:31.742512+00:00"
+    },
+    {
+      "id": "0a5fb6ec8732",
+      "title": "Mozilla Careers \u2014 Senior Software Engineer \u2014 Open Positions",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.mozilla.org/en-US/careers/position/gh/8077654/",
+      "source": "Other",
+      "description": "Mozilla is hiring a Senior Software Engineer in Remote US, Firefox, New Products, Firefox, Core Services, Mozilla Foundation, Core Services, ...",
+      "date": "2026-07-28",
+      "timestamp": "2026-07-28T20:09:42+00:00",
+      "fetched_at": "2026-07-29T01:14:31.615055+00:00"
+    },
+    {
+      "id": "1894e2a2023c",
+      "title": "Data Engineer I | Greenlight America",
+      "company": "Greenlight America",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.greenlightamerica.org/careers/data-engineer-i",
+      "source": "Other",
+      "description": "POSITION OVERVIEW. This is a junior Data Engineering role. The Data Engineer I will support Greenlight's core data products in Retool and Vercel. This ...",
+      "date": "2026-07-28",
+      "timestamp": "2026-07-28T19:54:28+00:00",
+      "fetched_at": "2026-07-29T01:14:31.615201+00:00"
+    },
     {
       "id": "f977a8d33523",
       "title": "Software Engineer at Ford Motor Company",
@@ -81,6 +246,21 @@
       "fetched_at": "2026-07-28T20:54:10.457177+00:00"
     },
     {
+      "id": "ec5a95e1fbf2",
+      "title": "Data Engineer II - American Express Careers",
+      "company": "American Express Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26011769",
+      "source": "Other",
+      "description": "Data Engineer II. Phoenix, AZ, United States (Hybrid). Apply Now. Job Description. Joining Amex Tech means discovering and shaping your contribution ...",
+      "date": "2026-07-28",
+      "timestamp": "2026-07-28T18:59:09+00:00",
+      "fetched_at": "2026-07-29T01:14:31.615786+00:00"
+    },
+    {
       "id": "0599e32fa098",
       "title": "Full Stack Software Engineer | Everforth Apex",
       "company": "Everforth Apex",
@@ -94,6 +274,21 @@
       "date": "2026-07-28",
       "timestamp": "2026-07-28T18:43:20+00:00",
       "fetched_at": "2026-07-28T20:54:10.371921+00:00"
+    },
+    {
+      "id": "00290dfcce6e",
+      "title": "Careers - Software Engineer at NetApp, Inc.",
+      "company": "NetApp, Inc.",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.netapp.com/job/bengaluru/software-engineer/27600/98404834832",
+      "source": "Other",
+      "description": "If you run toward knowledge and problem-solving, join us. Software Engineer . Bengaluru, India. Apply Save.",
+      "date": "2026-07-28",
+      "timestamp": "2026-07-28T18:27:34+00:00",
+      "fetched_at": "2026-07-29T01:14:31.743297+00:00"
     },
     {
       "id": "e6b90ae32e37",
