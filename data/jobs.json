@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-07-29T16:59:46.734113+00:00",
-  "total_jobs": 6656,
+  "last_updated": "2026-07-29T20:40:04.516548+00:00",
+  "total_jobs": 6669,
   "stats": {
-    "total_companies": 3270,
-    "total_roles": 91,
+    "total_companies": 3276,
+    "total_roles": 92,
     "regions": {
-      "India": 4314,
-      "Philippines": 1396,
-      "Remote": 838,
+      "India": 4322,
+      "Philippines": 1398,
+      "Remote": 842,
       "Unknown": 135
     },
     "sources": {
-      "Other": 5220,
-      "Greenhouse": 329,
+      "Other": 5228,
+      "Greenhouse": 331,
       "Workday": 292,
-      "LinkedIn": 270,
-      "Ashby": 204,
-      "iCIMS": 81,
+      "LinkedIn": 271,
+      "Ashby": 205,
+      "iCIMS": 82,
       "Breezy": 72,
       "Lever": 47,
       "Workable": 44,
@@ -35,6 +35,111 @@
     }
   },
   "jobs": [
+    {
+      "id": "f2b49bd4a77b",
+      "title": "Gergely Orosz on X: \"For a non- software engineer this announcement won't mean all that ...",
+      "company": "...",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://x.com/GergelyOrosz/status/2082511826403619085",
+      "source": "Other",
+      "description": "For a non- software engineer this announcement won't mean all that much. For software engineers: he's building a core primitive necessary for ...",
+      "date": "2026-07-29",
+      "timestamp": "2026-07-29T19:04:59+00:00",
+      "fetched_at": "2026-07-29T20:40:04.405293+00:00"
+    },
+    {
+      "id": "27176e98dea4",
+      "title": "For a non- software engineer this announcement won't mean all that much. For software engineers",
+      "company": "much. For software engineers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://x.com/GergelyOrosz/status/2082511826403619085",
+      "source": "Other",
+      "description": "Gergely Orosz (@GergelyOrosz). 102 likes 5 replies. For a non- software engineer this announcement won't mean all that much.",
+      "date": "2026-07-29",
+      "timestamp": "2026-07-29T17:50:42+00:00",
+      "fetched_at": "2026-07-29T20:40:04.485282+00:00"
+    },
+    {
+      "id": "95818ec2c15b",
+      "title": "Apply for Software Engineer , Intern - Stripe Careers",
+      "company": "Stripe Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://stripe.com/careers/apply/software-engineer-intern/8031833",
+      "source": "Other",
+      "description": "Roles at Stripe; /; Role details; /; Application. Software Engineer , Intern. Products and pricingPricingAtlasAuthorization ...",
+      "date": "2026-07-29",
+      "timestamp": "2026-07-29T17:36:59+00:00",
+      "fetched_at": "2026-07-29T20:40:04.405447+00:00"
+    },
+    {
+      "id": "fb24726548f7",
+      "title": "Software Engineer - Java / SQL / AI Dev in Remote - Cotiviti | Careers Center - ICIMS",
+      "company": "Java / SQL / AI Dev in Remote - Cotiviti | Careers Center - ICIMS",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers-cotiviti.icims.com/jobs/19820/software-engineer---java---sql---ai-dev/job",
+      "source": "iCIMS",
+      "description": "US Nationwide Remote is now hiring a Software Engineer - Java / SQL / AI Dev in Remote. Review all of the job details and apply today!",
+      "date": "2026-07-29",
+      "timestamp": "2026-07-29T17:15:15+00:00",
+      "fetched_at": "2026-07-29T20:40:04.485672+00:00"
+    },
+    {
+      "id": "544f4a6d9a60",
+      "title": "Job Application for Senior Software Engineer , Fullstack at GoGuardian - Greenhouse",
+      "company": "Goguardian",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/goguardian/jobs/4700561006",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer , Fullstack. United States. Apply. What We Do. At GoGuardian, we're helping build a future where all learners are ready and ...",
+      "date": "2026-07-29",
+      "timestamp": "2026-07-29T17:12:44+00:00",
+      "fetched_at": "2026-07-29T20:40:04.405546+00:00"
+    },
+    {
+      "id": "fdf49c170ff0",
+      "title": "Job Application for Full Stack Engineer at Roo - Greenhouse",
+      "company": "Roo",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/roo/jobs/5373552008",
+      "source": "Greenhouse",
+      "description": "About the Role. We're looking for a motivated and skilled Full Stack Engineer ( Software Engineer II) to join our growing engineering team. In this mid ...",
+      "date": "2026-07-29",
+      "timestamp": "2026-07-29T16:30:31+00:00",
+      "fetched_at": "2026-07-29T20:40:04.485994+00:00"
+    },
+    {
+      "id": "e72a9f8de5ea",
+      "title": "Vinoo Ganesh's Post - LinkedIn",
+      "company": "Unknown Company",
+      "role": "Vinoo Ganesh's Post - LinkedIn",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/vinoo-ganesh_ai-engineer-just-posted-the-video-from-my-activity-7488252201438715906-o4Vs",
+      "source": "LinkedIn",
+      "description": "AI Engineer just posted the video from my talk at the AIE World's Fair. Every AI company is hiring forward deployed engineers right now.",
+      "date": "2026-07-29",
+      "timestamp": "2026-07-29T16:23:02+00:00",
+      "fetched_at": "2026-07-29T20:40:04.406174+00:00"
+    },
     {
       "id": "1c7c27b85740",
       "title": "Software Engineer Job Details | Giesecke+Devrient",
@@ -96,6 +201,36 @@
       "fetched_at": "2026-07-29T16:59:46.641301+00:00"
     },
     {
+      "id": "c8e9218f31cc",
+      "title": "Software Engineer II, Crusoe Container Registry - Jobs",
+      "company": "Crusoe",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/crusoe/a212b163-5f6b-42d6-9e93-5578ccb869df",
+      "source": "Ashby",
+      "description": "Software Engineer II, Crusoe Container Registry. Location. San Francisco, CA - US. Employment Type. Full time. Location Type. On-site. Department.",
+      "date": "2026-07-29",
+      "timestamp": "2026-07-29T15:16:23+00:00",
+      "fetched_at": "2026-07-29T20:40:04.407086+00:00"
+    },
+    {
+      "id": "be94fbd3b1e0",
+      "title": "Machine Learning Engineer - Remote, Germany - Zoom Careers",
+      "company": "Remote, Germany - Zoom Careers",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.zoom.us/jobs/machine-learning-engineer-remote-germany",
+      "source": "Other",
+      "description": "What you can expectAs a Machine Learning Engineer on our R&D team in Germany, you'll turn ideas into impactful product features.",
+      "date": "2026-07-29",
+      "timestamp": "2026-07-29T15:12:58+00:00",
+      "fetched_at": "2026-07-29T20:40:04.487190+00:00"
+    },
+    {
       "id": "946001ffa04f",
       "title": "Senior Software Engineer , HYDERABAD, Telang\u0101na | Wells Fargo",
       "company": "Wells Fargo",
@@ -141,6 +276,52 @@
       "fetched_at": "2026-07-29T16:59:46.642040+00:00"
     },
     {
+      "id": "ba3cb5312f45",
+      "title": "Senior Software Engineer , Vertex AI, Workbench - Careers - Google",
+      "company": "Careers - Google",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/114905638462464710-senior-software-engineer-vertex-ai-workbench",
+      "source": "Other",
+      "description": "Senior Software Engineer , Vertex AI, Workbench. share. linkCopy link; emailEmail a friend. corporate_fareGoogleplaceWarsaw, Poland. bar_chartMid. Mid.",
+      "date": "2026-07-29",
+      "timestamp": "2026-07-29T14:57:28+00:00",
+      "fetched_at": "2026-07-29T20:40:04.407704+00:00"
+    },
+    {
+      "id": "1108c61eda6c",
+      "title": "Get started by using your email or phone number - Ford Global Career Site",
+      "company": "Unknown Company",
+      "role": "Get started by using your email or phone number - Ford Globa",
+      "regions": [
+        "India",
+        "Remote"
+      ],
+      "link": "https://apply.ford.com/en/sites/CX_1/job/67454/apply/email",
+      "source": "Other",
+      "description": "DevSecOps Full Stack Engineer ... Location: Chennai, Tamil Nadu, India (Remote); Job Identification: 67454; Job Category: Enterprise Technology ...",
+      "date": "2026-07-29",
+      "timestamp": "2026-07-29T14:43:09+00:00",
+      "fetched_at": "2026-07-29T20:40:04.407885+00:00"
+    },
+    {
+      "id": "4d9bb112dfff",
+      "title": "Staff Software Engineer - FinOps Job Details | Grainger Businesses",
+      "company": "FinOps Job Details | Grainger Businesses",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.grainger.com/job/LAKE-FOREST-Staff-Software-Engineer-FinOps-IL-60045-5202/1413490500/",
+      "source": "Other",
+      "description": "Staff Software Engineer - FinOps \u00b7 Work Location Type: Remote \u00b7 Req Number 333254 \u00b7 About Grainger \u00b7 W.W. Grainger, Inc. is a leading broad line ...",
+      "date": "2026-07-29",
+      "timestamp": "2026-07-29T14:34:50+00:00",
+      "fetched_at": "2026-07-29T20:40:04.408111+00:00"
+    },
+    {
       "id": "1b34ce8ff907",
       "title": "Stripe Careers | AI Engineer",
       "company": "Stripe Careers",
@@ -154,6 +335,21 @@
       "date": "2026-07-29",
       "timestamp": "2026-07-29T14:34:29+00:00",
       "fetched_at": "2026-07-29T16:59:46.642179+00:00"
+    },
+    {
+      "id": "1742e65f69b6",
+      "title": "Senior Software Engineer , Onboarding (Client-facing AI initiatives) - LATAM - Reap",
+      "company": "facing AI initiatives) - LATAM - Reap",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.reap.global/jobs/8140237-senior-software-engineer-onboarding-client-facing-ai-initiatives-latam",
+      "source": "Other",
+      "description": "Senior Software Engineer , Onboarding \u2014 lead end-to-end onboarding systems for client-facing AI initiatives. Build scalable, reliable experiences ...",
+      "date": "2026-07-29",
+      "timestamp": "2026-07-29T14:30:37+00:00",
+      "fetched_at": "2026-07-29T20:40:04.408481+00:00"
     },
     {
       "id": "381bb8c08865",
