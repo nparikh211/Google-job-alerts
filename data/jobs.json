@@ -1,26 +1,26 @@
 {
-  "last_updated": "2026-07-29T20:40:04.516548+00:00",
-  "total_jobs": 6669,
+  "last_updated": "2026-07-30T01:07:51.528531+00:00",
+  "total_jobs": 6687,
   "stats": {
-    "total_companies": 3276,
+    "total_companies": 3286,
     "total_roles": 92,
     "regions": {
-      "India": 4322,
-      "Philippines": 1398,
-      "Remote": 842,
+      "India": 4333,
+      "Philippines": 1402,
+      "Remote": 845,
       "Unknown": 135
     },
     "sources": {
-      "Other": 5228,
+      "Other": 5243,
       "Greenhouse": 331,
-      "Workday": 292,
+      "Workday": 293,
       "LinkedIn": 271,
-      "Ashby": 205,
+      "Ashby": 206,
       "iCIMS": 82,
       "Breezy": 72,
       "Lever": 47,
+      "SmartRecruiters": 44,
       "Workable": 44,
-      "SmartRecruiters": 43,
       "Indeed": 27,
       "BrassRing": 8,
       "Recruitee": 6,
@@ -36,6 +36,246 @@
   },
   "jobs": [
     {
+      "id": "2876e0ca737c",
+      "title": "Lead Software Engineer , Back End - McLean - Capital One Career",
+      "company": "McLean - Capital One Career",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.capitalonecareers.com/job/mclean/lead-software-engineer-back-end/1732/98469711824",
+      "source": "Other",
+      "description": "Lead Software Engineer , Back End. McLean, Virginia Pin job. Apply. Category ... Senior Lead AI Engineer (MLXT). McLean, Virginia \u00b7 98469712128. Lead ...",
+      "date": "2026-07-29",
+      "timestamp": "2026-07-29T23:11:32+00:00",
+      "fetched_at": "2026-07-30T01:07:51.334493+00:00"
+    },
+    {
+      "id": "26323fd4e7df",
+      "title": "Software Engineer - LIV Careers",
+      "company": "LIV Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.livsafe.com/jobs/671585-software-engineer",
+      "source": "Other",
+      "description": "Join LIV as a Software Engineer and build AI-powered fire-safety software that protects communities. Remote US (Northeast), fast-paced, ...",
+      "date": "2026-07-29",
+      "timestamp": "2026-07-29T22:56:06+00:00",
+      "fetched_at": "2026-07-30T01:07:51.334669+00:00"
+    },
+    {
+      "id": "39c1bfbe43dd",
+      "title": "Senior Software Engineer - Circle Careers",
+      "company": "Circle Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.circle.com/us/en/job/JR100650?utm_source=Accel+job+board&utm_medium=getro.com&gh_src=Accel+job+board",
+      "source": "Other",
+      "description": "Apply for Senior Software Engineer job with Circle in Taipei City, Taipei City, Taiwan. Engineering at Circle.",
+      "date": "2026-07-29",
+      "timestamp": "2026-07-29T22:18:04+00:00",
+      "fetched_at": "2026-07-30T01:07:51.499845+00:00"
+    },
+    {
+      "id": "d462872059a7",
+      "title": "Senior Software Engineer - Circle Careers",
+      "company": "Circle Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.circle.com/us/en/job/JR100650",
+      "source": "Other",
+      "description": "Apply for Senior Software Engineer job with Circle in Taipei City, Taipei City, Taiwan. Engineering at Circle.",
+      "date": "2026-07-29",
+      "timestamp": "2026-07-29T22:18:03+00:00",
+      "fetched_at": "2026-07-30T01:07:51.334800+00:00"
+    },
+    {
+      "id": "32995ecb6dc2",
+      "title": "Software Engineer II - Myworkdayjobs.com",
+      "company": "Seic",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://seic.wd1.myworkdayjobs.com/sei_global_services/job/USA---PA---Oaks/Software-Engineer-II_R0037346",
+      "source": "Workday",
+      "description": "The SEI Wealth Platform is seeking to hire a Software Engineer II. This position requires a foundation of software development knowledge, ...",
+      "date": "2026-07-29",
+      "timestamp": "2026-07-29T21:38:10+00:00",
+      "fetched_at": "2026-07-30T01:07:51.335065+00:00"
+    },
+    {
+      "id": "d63bcf72b82c",
+      "title": "Senior Software Engineer Lending | Chime Careers",
+      "company": "Chime Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.chime.com/jobs/8656937002/senior-software-engineer-lending",
+      "source": "Other",
+      "description": "As a Senior Software Engineer in Lending, you'll work at the seam between member-facing products and the platforms that make them possible. This is a ...",
+      "date": "2026-07-29",
+      "timestamp": "2026-07-29T21:32:36+00:00",
+      "fetched_at": "2026-07-30T01:07:51.500507+00:00"
+    },
+    {
+      "id": "c062d149e93b",
+      "title": "Data Engineer job - Experis USA - 406134",
+      "company": "Experis USA - 406134",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.experis.com/en/job/406134/data-engineer",
+      "source": "Other",
+      "description": "Data Engineer \u00b7 Build scalable ingestion, transformation, and storage pipelines across DataBricks Medallion Layers, Azure Data Factory, SQL Server, and ...",
+      "date": "2026-07-29",
+      "timestamp": "2026-07-29T20:51:32+00:00",
+      "fetched_at": "2026-07-30T01:07:51.500641+00:00"
+    },
+    {
+      "id": "0826e32ed8a1",
+      "title": "Cloud Engineer - Piper Companies",
+      "company": "Piper Companies",
+      "role": "Cloud Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.pipercompanies.com/details/170746/cloud_engineer",
+      "source": "Other",
+      "description": "AWS Certifications (Solutions Architect, SysOps Administrator, DevOps Engineer , etc.). ... Site Reliability Engineer , SRE, Cloud Migration, Cloud ...",
+      "date": "2026-07-29",
+      "timestamp": "2026-07-29T20:49:06+00:00",
+      "fetched_at": "2026-07-30T01:07:51.335213+00:00"
+    },
+    {
+      "id": "2682d682883e",
+      "title": "Software Engineer (Backend) - VibeIQ Inc. - Career Page - JazzHR",
+      "company": "VibeIQ Inc. - Career Page - JazzHR",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://vibeiq.applytojob.com/apply/CruWEMeo01/Software-Engineer-Backend",
+      "source": "Other",
+      "description": "Apply to Software Engineer (Backend) at VibeIQ Inc. in Boston, MA ... We are seeking a backend engineer to join the Implementation Engine team.",
+      "date": "2026-07-29",
+      "timestamp": "2026-07-29T20:43:07+00:00",
+      "fetched_at": "2026-07-30T01:07:51.335378+00:00"
+    },
+    {
+      "id": "a0ae81969dce",
+      "title": "Machine Learning Data Engineer (DataOps), Materra - Google X",
+      "company": "Google X",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://x.company/careers/8654482002/?gh_jid=8654482002",
+      "source": "Other",
+      "description": "We are looking for a Machine Learning Data Engineer (DataOps) to build and unify the data infrastructure that powers our model training pipelines.",
+      "date": "2026-07-29",
+      "timestamp": "2026-07-29T20:42:39+00:00",
+      "fetched_at": "2026-07-30T01:07:51.335657+00:00"
+    },
+    {
+      "id": "10c7e0f7b3ef",
+      "title": "Software Engineer , GTM Platform @ Ramp - Jobs",
+      "company": "Ramp",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/ramp/dbc6e470-3ec3-4605-b511-8ae166fea7b9",
+      "source": "Ashby",
+      "description": "... Software Engineer on GTM Platform, you will build the tools, systems, and AI-powered workflows that help Ramp's go-to-market teams show what is ...",
+      "date": "2026-07-29",
+      "timestamp": "2026-07-29T20:32:47+00:00",
+      "fetched_at": "2026-07-30T01:07:51.335964+00:00"
+    },
+    {
+      "id": "73dc4da2d3b6",
+      "title": "Software Engineer , AI Platform - About Aalyria",
+      "company": "About Aalyria",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/aalyria-careers/jobs/e599291c-b244-4dfc-a1e9-8bb5dcc11f30",
+      "source": "Other",
+      "description": "Aalyria is hiring a software engineer to build the AI layer of our engineering organization. This is fundamentally a building role where you will ...",
+      "date": "2026-07-29",
+      "timestamp": "2026-07-29T20:29:51+00:00",
+      "fetched_at": "2026-07-30T01:07:51.336134+00:00"
+    },
+    {
+      "id": "738075920192",
+      "title": "Senior Platform Engineer Job Available, United States (Remote) | Fieldwire by Hilti",
+      "company": "Fieldwire by Hilti",
+      "role": "Platform Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.fieldwire.com/job/8635948002/",
+      "source": "Other",
+      "description": "At least 5-7 years of experience as a Platform Engineer , DevOps Engineer , or SRE, including direct ownership of production systems; Expertise in at ...",
+      "date": "2026-07-29",
+      "timestamp": "2026-07-29T19:51:57+00:00",
+      "fetched_at": "2026-07-30T01:07:51.336370+00:00"
+    },
+    {
+      "id": "7735dc697d3c",
+      "title": "Principal DevOps Engineer II in Westbrook, ME | Software & Technology at IDEXX",
+      "company": "IDEXX",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.idexx.com/us/en/job/J-053112/Principal-DevOps-Engineer-II",
+      "source": "Other",
+      "description": "Similar Jobs \u00b7 Principal Platform Engineer (DevOps). Job available in 7 locations \u00b7 Senior Site Reliability Engineer . Job available in 3 locations.",
+      "date": "2026-07-29",
+      "timestamp": "2026-07-29T19:29:55+00:00",
+      "fetched_at": "2026-07-30T01:07:51.336631+00:00"
+    },
+    {
+      "id": "8097b1df8ea0",
+      "title": "Wise Backend Engineer - Send Core | SmartRecruiters",
+      "company": "Wise",
+      "role": "Backend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.smartrecruiters.com/Wise/744000140413960-backend-engineer-send-core",
+      "source": "SmartRecruiters",
+      "description": "Backend Engineer - Send Core ... Other jobs at Wise. Senior Software Engineer II - Send Core. London, United Kingdom. Senior Fullstack Engineer - ...",
+      "date": "2026-07-29",
+      "timestamp": "2026-07-29T19:16:30+00:00",
+      "fetched_at": "2026-07-30T01:07:51.336838+00:00"
+    },
+    {
+      "id": "ee74407f2405",
+      "title": "Software Engineer ( Java , AWS ) - Hyderabad - Infor Careers",
+      "company": "Hyderabad - Infor Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.infor.com/en/postings/2128a579-ff04-4fea-85a1-f808dc403371",
+      "source": "Other",
+      "description": "Infor is seeking a Software Engineer who is passionate about developing high-quality, scalable software solutions. You will work closely with ...",
+      "date": "2026-07-29",
+      "timestamp": "2026-07-29T19:11:24+00:00",
+      "fetched_at": "2026-07-30T01:07:51.337025+00:00"
+    },
+    {
       "id": "f2b49bd4a77b",
       "title": "Gergely Orosz on X: \"For a non- software engineer this announcement won't mean all that ...",
       "company": "...",
@@ -49,6 +289,36 @@
       "date": "2026-07-29",
       "timestamp": "2026-07-29T19:04:59+00:00",
       "fetched_at": "2026-07-29T20:40:04.405293+00:00"
+    },
+    {
+      "id": "3f045b68342b",
+      "title": "Software Engineer | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.apexsystems.com/job/3044122_usa/software-engineer",
+      "source": "Other",
+      "description": "Software Engineer \u00b7 Title: AI Developer IV / Principal AI Engineer \u00b7 Location: Remote (Preferred) | Onsite in Juno Beach, FL or St. Paul, MN \u00b7 Start Date ...",
+      "date": "2026-07-29",
+      "timestamp": "2026-07-29T18:04:02+00:00",
+      "fetched_at": "2026-07-30T01:07:51.337294+00:00"
+    },
+    {
+      "id": "da5f42ffcb4d",
+      "title": "Site Reliability Engineer , Apple Data Platform - Jobs",
+      "company": "Jobs",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200674345-0157/site-reliability-engineer-apple-data-platform?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Site Reliability Engineer , Apple Data Platform job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-07-29",
+      "timestamp": "2026-07-29T17:56:28+00:00",
+      "fetched_at": "2026-07-30T01:07:51.502061+00:00"
     },
     {
       "id": "27176e98dea4",
