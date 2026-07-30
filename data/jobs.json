@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-07-30T13:18:32.061106+00:00",
-  "total_jobs": 6710,
+  "last_updated": "2026-07-30T17:11:23.329305+00:00",
+  "total_jobs": 6730,
   "stats": {
-    "total_companies": 3296,
+    "total_companies": 3303,
     "total_roles": 93,
     "regions": {
-      "India": 4353,
-      "Philippines": 1404,
-      "Remote": 846,
+      "India": 4366,
+      "Philippines": 1405,
+      "Remote": 852,
       "Unknown": 135
     },
     "sources": {
-      "Other": 5262,
-      "Greenhouse": 332,
+      "Other": 5277,
+      "Greenhouse": 333,
       "Workday": 293,
       "LinkedIn": 273,
-      "Ashby": 207,
+      "Ashby": 209,
       "iCIMS": 82,
-      "Breezy": 72,
-      "Lever": 47,
+      "Breezy": 73,
+      "Lever": 48,
       "SmartRecruiters": 44,
       "Workable": 44,
       "Indeed": 27,
@@ -36,6 +36,261 @@
   },
   "jobs": [
     {
+      "id": "8b003ea79570",
+      "title": "Data Engineer | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.apexsystems.com/job/3044330_usa/data-engineer",
+      "source": "Other",
+      "description": "Location: Fully remote anywhere in the US. Role Overview. We are seeking a Data Engineer with experience in Databricks on Microsoft Azure to join a ...",
+      "date": "2026-07-30",
+      "timestamp": "2026-07-30T16:51:19+00:00",
+      "fetched_at": "2026-07-30T17:11:23.167456+00:00"
+    },
+    {
+      "id": "93ee9d43d8ed",
+      "title": "Senior Software Engineer , Intelligence @ Flock - Jobs",
+      "company": "Flock",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.ashbyhq.com/flock%20safety/b391dcb4-f3ff-4175-b187-3052cab0d5d9",
+      "source": "Ashby",
+      "description": "Senior Software Engineer , Intelligence. Location. Remote - USA. Employment Type. Full time. Location Type. Remote. Department. Engineering ...",
+      "date": "2026-07-30",
+      "timestamp": "2026-07-30T16:48:24+00:00",
+      "fetched_at": "2026-07-30T17:11:23.167661+00:00"
+    },
+    {
+      "id": "f5b6e0e60b35",
+      "title": "Job Application for Senior Software Engineer at NICE - Greenhouse",
+      "company": "NICE",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.eu.greenhouse.io/nice/jobs/4941126101?gh_jid=4941126101",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer . USA - Richardson, TX. Apply. At NiCE, we don't limit our challenges. We challenge our limits. Always. We're ambitious. We ...",
+      "date": "2026-07-30",
+      "timestamp": "2026-07-30T16:48:01+00:00",
+      "fetched_at": "2026-07-30T17:11:23.167767+00:00"
+    },
+    {
+      "id": "31802a7c2bec",
+      "title": "Senior Software Engineer , Pipeline @ Flock - Jobs",
+      "company": "Flock",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.ashbyhq.com/flock%20safety/c0073d1d-7da9-4e12-ac9f-61d68118280f",
+      "source": "Ashby",
+      "description": "Senior Software Engineer , Pipeline. Location. Remote - USA. Employment Type. Full time. Location Type. Remote. Department. Engineering. Compensation.",
+      "date": "2026-07-30",
+      "timestamp": "2026-07-30T16:47:32+00:00",
+      "fetched_at": "2026-07-30T17:11:23.167840+00:00"
+    },
+    {
+      "id": "15c8edc03059",
+      "title": "Senior Software Engineer - Curai - Lever",
+      "company": "Curai",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.lever.co/curai/6d10398e-45a9-4ca0-ab91-fd01a20e3175/apply",
+      "source": "Lever",
+      "description": "Senior Software Engineer . Remote. Engineering \u2013 Platform and Infrastructure /. Remote. Submit your application. Resume/CV \u2731. ATTACH RESUME/CV. Couldn ...",
+      "date": "2026-07-30",
+      "timestamp": "2026-07-30T16:47:03+00:00",
+      "fetched_at": "2026-07-30T17:11:23.167915+00:00"
+    },
+    {
+      "id": "79511aba00bc",
+      "title": "Jr AI/ ML Engineer at NationsBenefits, LLC",
+      "company": "Nationsbenefits",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://nationsbenefits.breezy.hr/p/47f66b094cc7-jr-ai-ml-engineer",
+      "source": "Breezy",
+      "description": "Job Title: Junior AI/ ML Engineer Experience: 0-2 Years Location: Hyderabad, India Employment Type: Full-time About NationsBenefits: At ...",
+      "date": "2026-07-30",
+      "timestamp": "2026-07-30T15:28:24+00:00",
+      "fetched_at": "2026-07-30T17:11:23.167995+00:00"
+    },
+    {
+      "id": "917899e319aa",
+      "title": "Temp - Software Engineer | Madison Square Garden Entertainment Careers",
+      "company": "Temp",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.msgentertainment.com/jobs/temp-software-engineer-las-vegas-nv/?gh_jid=5183545007&gh_src=0b3130db7us",
+      "source": "Other",
+      "description": "Madison Square Garden Entertainment is seeking a Part-time Temp - Software Engineer to join MSGE's Engineering team in Las Vegas, NV.",
+      "date": "2026-07-30",
+      "timestamp": "2026-07-30T15:22:36+00:00",
+      "fetched_at": "2026-07-30T17:11:23.168124+00:00"
+    },
+    {
+      "id": "411bb1a08b94",
+      "title": "Sr. Platform Engineer (Remote - US) - TixTrack - Teamtailor",
+      "company": "US) - TixTrack - Teamtailor",
+      "role": "Platform Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://tixtrack.teamtailor.com/jobs/8145966-sr-platform-engineer-remote-us",
+      "source": "Other",
+      "description": "Sr. Platform Engineer (Remote - US). Your ticket to a meaningful ... Software Engineer II (Remote - US). EPD \u00b7 New York City \u00b7 Fully Remote.",
+      "date": "2026-07-30",
+      "timestamp": "2026-07-30T15:20:14+00:00",
+      "fetched_at": "2026-07-30T17:11:23.168261+00:00"
+    },
+    {
+      "id": "1ca2434b758d",
+      "title": "Senior Software Engineer , UI performance, Embedded, C++ - Cambridge, England, United Kingdom",
+      "company": "Cambridge, England, United Kingdom",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.weareroku.com/jobs/senior-software-engineer-ui-performance-embedded-c-cambridge-england-united-kingdom",
+      "source": "Other",
+      "description": "What is the role? Roku pioneered streaming to the TV and continues to innovate and lead the industry. The Senior Software Engineer , UI Infrastructure ...",
+      "date": "2026-07-30",
+      "timestamp": "2026-07-30T14:46:55+00:00",
+      "fetched_at": "2026-07-30T17:11:23.168683+00:00"
+    },
+    {
+      "id": "43a6e465fff3",
+      "title": "AI Engineer | MISO Energy",
+      "company": "MISO Energy",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.misoenergy.org/carmel-in/ai-engineer/30B2117CE9A84913B52DCC0D448C795C/job/",
+      "source": "Other",
+      "description": "Description. MISO is hiring an AI Engineer to build innovative AI-powered solutions that directly influence how the power grid is planned, ...",
+      "date": "2026-07-30",
+      "timestamp": "2026-07-30T14:15:19+00:00",
+      "fetched_at": "2026-07-30T17:11:23.168795+00:00"
+    },
+    {
+      "id": "32c6682be31e",
+      "title": "Machine Learning Engineer Jobs at Amgen in United States - Remote",
+      "company": "Amgen in United States",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.amgen.com/en/job/washington-d-c/machine-learning-engineer/87/98472603568",
+      "source": "Other",
+      "description": "Explore the details of a Machine Learning Engineer career in Washington D.C.. Live. Win. Thrive. Search and apply for a rewarding new career at ...",
+      "date": "2026-07-30",
+      "timestamp": "2026-07-30T14:14:07+00:00",
+      "fetched_at": "2026-07-30T17:11:23.168894+00:00"
+    },
+    {
+      "id": "44885a87461a",
+      "title": "Senior AI Engineer - Cybersecurity in Bengaluru, Karnataka, India - United Airlines jobs",
+      "company": "Cybersecurity in Bengaluru, Karnataka, India - United Airlines jobs",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.united.com/us/en/job/BKC00000011/Senior-AI-Engineer-Cybersecurity",
+      "source": "Other",
+      "description": "Apply for Senior AI Engineer - Cybersecurity job with United Airlines in Bengaluru, Karnataka, India. Digital Technology at United Airlines.",
+      "date": "2026-07-30",
+      "timestamp": "2026-07-30T13:54:59+00:00",
+      "fetched_at": "2026-07-30T17:11:23.169014+00:00"
+    },
+    {
+      "id": "69da2eddefe1",
+      "title": "Software Engineer ( Java , AWS ) - Hyderabad - Infor Careers",
+      "company": "Hyderabad - Infor Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.infor.com/postings/2128a579-ff04-4fea-85a1-f808dc403371",
+      "source": "Other",
+      "description": "Software Engineer ( Java , AWS ). Department: Development; Employment Type: Full Time; Location: Hyderabad; Workplace type: Hybrid; Requisition ID ...",
+      "date": "2026-07-30",
+      "timestamp": "2026-07-30T13:40:02+00:00",
+      "fetched_at": "2026-07-30T17:11:23.169123+00:00"
+    },
+    {
+      "id": "8f7c7e318ba3",
+      "title": "Full Stack Engineer - Java at UnitedHealth Group",
+      "company": "UnitedHealth Group",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.unitedhealthgroup.com/job/noida/full-stack-engineer-java/34088/98490317584",
+      "source": "Other",
+      "description": "Full Stack Engineer - Java. Requisition number: 2378875 Job category: Technology Primary location: Noida, India Date posted: 07/29/ ...",
+      "date": "2026-07-30",
+      "timestamp": "2026-07-30T13:27:38+00:00",
+      "fetched_at": "2026-07-30T17:11:23.169214+00:00"
+    },
+    {
+      "id": "262c345279ec",
+      "title": "Senior AI Engineer - Cybersecurity in Bengaluru, Karnataka, India - United Airlines jobs",
+      "company": "Cybersecurity in Bengaluru, Karnataka, India - United Airlines jobs",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.united.com/us/en/job/BKC00000010/Senior-AI-Engineer-Cybersecurity",
+      "source": "Other",
+      "description": "Apply for Senior AI Engineer - Cybersecurity job with United Airlines in Bengaluru, Karnataka, India. Digital Technology at United Airlines.",
+      "date": "2026-07-30",
+      "timestamp": "2026-07-30T13:15:23+00:00",
+      "fetched_at": "2026-07-30T17:11:23.306042+00:00"
+    },
+    {
+      "id": "cdbe5ab0946f",
+      "title": "Senior Applied ML Engineer - - Upstart Careers",
+      "company": "- Upstart Careers",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.upstart.com/jobs/senior-applied-ml-engineer",
+      "source": "Other",
+      "description": "Senior Applied ML Engineer . Senior Applied ML Engineer . R-00130. Machine ... As a Senior Applied Machine Learning Engineer focused on building ...",
+      "date": "2026-07-30",
+      "timestamp": "2026-07-30T13:07:11+00:00",
+      "fetched_at": "2026-07-30T17:11:23.169310+00:00"
+    },
+    {
+      "id": "d5e724bbc395",
+      "title": "Frontend Engineer II - HRIS",
+      "company": "HRIS",
+      "role": "Frontend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/rippling/jobs/98cd9fdc-ee67-4f83-b1a9-262495481bfb",
+      "source": "Other",
+      "description": "Frontend Engineer II - HRIS. About Rippling. Rippling gives businesses one place to run HR, IT, and Finance. It brings together all of the ...",
+      "date": "2026-07-30",
+      "timestamp": "2026-07-30T11:59:15+00:00",
+      "fetched_at": "2026-07-30T17:11:23.169427+00:00"
+    },
+    {
       "id": "250a88767ce8",
       "title": "Software Engineer - LoadUp Technologies",
       "company": "LoadUp Technologies",
@@ -49,6 +304,36 @@
       "date": "2026-07-30",
       "timestamp": "2026-07-30T11:48:28+00:00",
       "fetched_at": "2026-07-30T13:18:32.036907+00:00"
+    },
+    {
+      "id": "3153b09feb50",
+      "title": "Software Engineer at Barclays",
+      "company": "Barclays",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://search.jobs.barclays/job/pune/software-engineer/13015/98468668176",
+      "source": "Other",
+      "description": "Senior Software Engineer . Pune (India). Data Engineer - BA4. Pune (India) ... Shweta Desale, a Cloud and DevOps Engineer , says Barclays is a great place ...",
+      "date": "2026-07-30",
+      "timestamp": "2026-07-30T11:32:15+00:00",
+      "fetched_at": "2026-07-30T17:11:23.169510+00:00"
+    },
+    {
+      "id": "0d1b2a6eecf6",
+      "title": "Data Engineer II - General Motors Insurance - GM Financial United States Careers",
+      "company": "General Motors Insurance - GM Financial United States Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260609",
+      "source": "Other",
+      "description": "Data Engineer II - General Motors Insurance. Fort Worth, TX, United ... The SDE I is an early-career software engineer who contributes across ...",
+      "date": "2026-07-30",
+      "timestamp": "2026-07-30T11:10:52+00:00",
+      "fetched_at": "2026-07-30T17:11:23.169644+00:00"
     },
     {
       "id": "4447b5a1cb07",
@@ -109,6 +394,21 @@
       "date": "2026-07-30",
       "timestamp": "2026-07-30T09:36:11+00:00",
       "fetched_at": "2026-07-30T13:18:31.779007+00:00"
+    },
+    {
+      "id": "745836542640",
+      "title": "Data Engineer I, Data Engineer I - Job ID: 10488071 | Amazon.jobs",
+      "company": "Job ID: 10488071 | Amazon.jobs",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://amazon.jobs/jobs/10488071",
+      "source": "Other",
+      "description": "AIS is seeking a highly motivated and passionate Back End Data Engineer who is responsible for designing, developing, testing, and deploying Supply ...",
+      "date": "2026-07-30",
+      "timestamp": "2026-07-30T08:26:00+00:00",
+      "fetched_at": "2026-07-30T17:11:23.307196+00:00"
     },
     {
       "id": "6f86043fee1f",
