@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-07-30T06:14:02.505935+00:00",
-  "total_jobs": 6695,
+  "last_updated": "2026-07-30T10:06:43.117148+00:00",
+  "total_jobs": 6704,
   "stats": {
-    "total_companies": 3290,
-    "total_roles": 92,
+    "total_companies": 3295,
+    "total_roles": 93,
     "regions": {
-      "India": 4339,
+      "India": 4348,
       "Philippines": 1403,
       "Remote": 846,
       "Unknown": 135
     },
     "sources": {
-      "Other": 5250,
+      "Other": 5257,
       "Greenhouse": 331,
       "Workday": 293,
-      "LinkedIn": 272,
-      "Ashby": 206,
+      "LinkedIn": 273,
+      "Ashby": 207,
       "iCIMS": 82,
       "Breezy": 72,
       "Lever": 47,
@@ -35,6 +35,81 @@
     }
   },
   "jobs": [
+    {
+      "id": "713cb19b6fcd",
+      "title": "Puneet Patwari's Post - LinkedIn",
+      "company": "Unknown Company",
+      "role": "Puneet Patwari's Post - LinkedIn",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/puneet-patwari_being-a-good-software-engineer-being-good-activity-7488460574377549824-aqVS",
+      "source": "LinkedIn",
+      "description": "Being a good software engineer \u2260 Being good at interviewing for a software engineering job After 12+ years in the field, believe me when I say ...",
+      "date": "2026-07-30",
+      "timestamp": "2026-07-30T05:47:08+00:00",
+      "fetched_at": "2026-07-30T10:06:43.091894+00:00"
+    },
+    {
+      "id": "2fea6065b295",
+      "title": "Software Engineer , Simcenter X Platform - Job Detail | Careers Marketplace - Siemens",
+      "company": "Job Detail | Careers Marketplace - Siemens",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/515582",
+      "source": "Other",
+      "description": "Senior Software Engineer . Bangalore, Karnataka, India. Associate Software Architect C# .Net. Bangalore, Karnataka, India. Senior Software Engineer .",
+      "date": "2026-07-30",
+      "timestamp": "2026-07-30T05:38:38+00:00",
+      "fetched_at": "2026-07-30T10:06:42.866506+00:00"
+    },
+    {
+      "id": "ef8aec66f1e0",
+      "title": "Software Engineer , GenAI @ Abridge - Jobs",
+      "company": "Abridge",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/Abridge/897709b2-e03d-4574-8611-5cfd669adde9",
+      "source": "Ashby",
+      "description": "Software Engineer , GenAI. Location. SF Office; NYC Office. Employment Type. Full time. Location Type. Hybrid. Department. BuilderScience. Compensation.",
+      "date": "2026-07-30",
+      "timestamp": "2026-07-30T05:21:12+00:00",
+      "fetched_at": "2026-07-30T10:06:42.866618+00:00"
+    },
+    {
+      "id": "c2b46b28e3ec",
+      "title": "Software Engineer in Test, Python - Cambridge, England, United Kingdom | Roku Jobs",
+      "company": "Cambridge, England, United Kingdom | Roku Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.weareroku.com/jobs/software-engineer-in-test-python-cambridge-england-united-kingdom",
+      "source": "Other",
+      "description": "Software Engineer in Test, Python. Software Engineering | Cambridge ... AI Engineer , ISTQB AI Testing Foundation). #LI-AB3. What's Roku's ...",
+      "date": "2026-07-30",
+      "timestamp": "2026-07-30T04:24:32+00:00",
+      "fetched_at": "2026-07-30T10:06:42.866815+00:00"
+    },
+    {
+      "id": "af3d44ae90d3",
+      "title": "Apply for Principal Software Engineer - T\u2011mobile careers",
+      "company": "T\u2011mobile careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.t-mobile.com/principal-software-engineer/job/C181968C53872CBF2EA421BDEBA598F9",
+      "source": "Other",
+      "description": "Principal Software Engineer . Apply Now. Back to Search. At T-Mobile, we invest in YOU! Our Total Rewards Package ensures that employees get the same ...",
+      "date": "2026-07-30",
+      "timestamp": "2026-07-30T04:00:47+00:00",
+      "fetched_at": "2026-07-30T10:06:42.866991+00:00"
+    },
     {
       "id": "7274714995e7",
       "title": "Data Engineer , Battery Data Platform & AI - Jobs - Careers at Apple",
@@ -79,6 +154,21 @@
       "date": "2026-07-30",
       "timestamp": "2026-07-30T02:05:38+00:00",
       "fetched_at": "2026-07-30T06:14:02.416681+00:00"
+    },
+    {
+      "id": "37e2db1dd2a1",
+      "title": "Senior Software Engineer - Bazel Tools | Datadog Careers",
+      "company": "Bazel Tools | Datadog Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.datadoghq.com/detail/8095166/?gh_jid=8095166",
+      "source": "Other",
+      "description": "The team is growing rapidly, both with Datadog and as we absorb other repositories into the monorepo. As a senior software engineer on the team, you ...",
+      "date": "2026-07-30",
+      "timestamp": "2026-07-30T01:54:20+00:00",
+      "fetched_at": "2026-07-30T10:06:42.867686+00:00"
     },
     {
       "id": "698cf8e8710a",
@@ -156,6 +246,21 @@
       "fetched_at": "2026-07-30T01:07:51.334493+00:00"
     },
     {
+      "id": "2866b2abd117",
+      "title": "Senior Data Engineer (PySpark, SQL, Databricks) - Careers at Marsh",
+      "company": "Marsh",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.marsh.com/global/en/job/R_356251/Senior-Data-Engineer-PySpark-SQL-Databricks",
+      "source": "Other",
+      "description": "Apply for Senior Data Engineer (PySpark, SQL, Databricks) job with Marsh McLennan in Panchshil Avenue, Survey No. 210, Plot 71, Kalyani Nagar, ...",
+      "date": "2026-07-29",
+      "timestamp": "2026-07-29T23:11:32+00:00",
+      "fetched_at": "2026-07-30T10:06:42.868188+00:00"
+    },
+    {
       "id": "26323fd4e7df",
       "title": "Software Engineer - LIV Careers",
       "company": "LIV Careers",
@@ -169,6 +274,21 @@
       "date": "2026-07-29",
       "timestamp": "2026-07-29T22:56:06+00:00",
       "fetched_at": "2026-07-30T01:07:51.334669+00:00"
+    },
+    {
+      "id": "e3b081e1307b",
+      "title": "Software Engineer II, Search Science Data Infra - Job ID: 10486163 - Amazon Careers",
+      "company": "Job ID: 10486163 - Amazon Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://amazon.jobs/en/jobs/10486163/software-engineer-ii-search-science-data-infra",
+      "source": "Other",
+      "description": "Software Engineer II, Search Science Data Infra. Job ID: 10486163 | Amazon ... As an ML Engineer you will: Lead development of services and ...",
+      "date": "2026-07-29",
+      "timestamp": "2026-07-29T22:22:17+00:00",
+      "fetched_at": "2026-07-30T10:06:42.868550+00:00"
     },
     {
       "id": "39c1bfbe43dd",
@@ -229,6 +349,21 @@
       "date": "2026-07-29",
       "timestamp": "2026-07-29T21:32:36+00:00",
       "fetched_at": "2026-07-30T01:07:51.500507+00:00"
+    },
+    {
+      "id": "18cfebd0d41d",
+      "title": "Machine Learning Engineer in San Francisco, CA | Careers at Zof AI",
+      "company": "Zof AI",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://zof.ai/careers/san-francisco/machine-learning-engineer",
+      "source": "Other",
+      "description": "About this role. Zof AI is seeking a Machine Learning Engineer for the traditional ML discipline: training, fine-tuning, and evaluating models rather ...",
+      "date": "2026-07-29",
+      "timestamp": "2026-07-29T21:25:18+00:00",
+      "fetched_at": "2026-07-30T10:06:42.868866+00:00"
     },
     {
       "id": "c062d149e93b",
