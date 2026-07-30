@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-07-30T01:07:51.528531+00:00",
-  "total_jobs": 6687,
+  "last_updated": "2026-07-30T06:14:02.505935+00:00",
+  "total_jobs": 6695,
   "stats": {
-    "total_companies": 3286,
+    "total_companies": 3290,
     "total_roles": 92,
     "regions": {
-      "India": 4333,
-      "Philippines": 1402,
-      "Remote": 845,
+      "India": 4339,
+      "Philippines": 1403,
+      "Remote": 846,
       "Unknown": 135
     },
     "sources": {
-      "Other": 5243,
+      "Other": 5250,
       "Greenhouse": 331,
       "Workday": 293,
-      "LinkedIn": 271,
+      "LinkedIn": 272,
       "Ashby": 206,
       "iCIMS": 82,
       "Breezy": 72,
@@ -31,10 +31,115 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-07-29"
+      "latest": "2026-07-30"
     }
   },
   "jobs": [
+    {
+      "id": "7274714995e7",
+      "title": "Data Engineer , Battery Data Platform & AI - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200674923-0836/data-engineer-battery-data-platform-ai?team=HRDWR",
+      "source": "Other",
+      "description": "Apply for a Data Engineer , Battery Data Platform & AI job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-07-30",
+      "timestamp": "2026-07-30T03:43:03+00:00",
+      "fetched_at": "2026-07-30T06:14:02.415811+00:00"
+    },
+    {
+      "id": "8946173ed0d7",
+      "title": "Hiring! Senior Data Engineer (Golang, SQL, DBT, GCP). Hybrid on-site in NY, NY 4 days ...",
+      "company": "site in NY, NY 4 days ...",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/jrockel_hiring-senior-data-engineer-golang-sql-activity-7488245442296750080-V9fk",
+      "source": "LinkedIn",
+      "description": "Data engineer | AI Data Engineer | Microsoft Azure Data Engineer | AWS Data Engineer | GCP Data Engineer ... Samyak Kabure. Python Full Stack Engineer | ...",
+      "date": "2026-07-30",
+      "timestamp": "2026-07-30T03:34:09+00:00",
+      "fetched_at": "2026-07-30T06:14:02.416502+00:00"
+    },
+    {
+      "id": "d27e4bbf982c",
+      "title": "Machine Learning Engineer Intern (TikTok-Data-Search-Search Quality) - 2026 Start (PhD)",
+      "company": "Data-Search-Search Quality) - 2026 Start",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://lifeattiktok.com/search/7667690418804902149",
+      "source": "Other",
+      "description": "View our opening for Machine Learning Engineer Intern (TikTok-Data-Search-Search Quality) - 2026 Start (PhD) and learn more about what it's like ...",
+      "date": "2026-07-30",
+      "timestamp": "2026-07-30T02:05:38+00:00",
+      "fetched_at": "2026-07-30T06:14:02.416681+00:00"
+    },
+    {
+      "id": "698cf8e8710a",
+      "title": "\u200b\u200b Senior Software Engineer \u200b in Orlando, Florida (Hybrid Remote) - Leidos Careers",
+      "company": "Leidos Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.leidos.com/jobs/18051098-senior-software-engineer",
+      "source": "Other",
+      "description": "The National Solutions Business Area at Leidos currently has an opening for a Senior Software Engineer to support advanced software development ...",
+      "date": "2026-07-30",
+      "timestamp": "2026-07-30T00:01:11+00:00",
+      "fetched_at": "2026-07-30T06:14:02.477983+00:00"
+    },
+    {
+      "id": "7079f9d22e05",
+      "title": "Machine Learning Engineer - AI Evaluation & LLM Systems - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200674883-0836/machine-learning-engineer-ai-evaluation-llm-systems",
+      "source": "Other",
+      "description": "Apply for a Machine Learning Engineer - AI Evaluation & LLM Systems job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-07-29",
+      "timestamp": "2026-07-29T23:51:44+00:00",
+      "fetched_at": "2026-07-30T06:14:02.416893+00:00"
+    },
+    {
+      "id": "90dfdc994d3e",
+      "title": "Full Stack Software Engineer at Ford Motor Company",
+      "company": "Ford Motor Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.careers.ford.com/job/india/full-stack-software-engineer/48560/98479241872",
+      "source": "Other",
+      "description": "Full Stack Software Engineer ... Ford Pro is looking for Software Engineers that embrace Agile-eXtreme Programming principles to deliver innovative ...",
+      "date": "2026-07-29",
+      "timestamp": "2026-07-29T23:30:15+00:00",
+      "fetched_at": "2026-07-30T06:14:02.478146+00:00"
+    },
+    {
+      "id": "cf087212e6b1",
+      "title": "Software Engineer , Planning & Controls - Autonomy & Robotics, DoorDash Air",
+      "company": "Autonomy & Robotics, DoorDash Air",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careersatdoordash.com/jobs/software-engineer-planning-controls---autonomy-robotics-doordash-air/8046982/",
+      "source": "Other",
+      "description": "Software Engineer , Planning & Controls - Autonomy & Robotics, DoorDash Air. Apply To Job. Job ID: 3487744. DoorDash, Inc. San Francisco, CA. DoorDash ...",
+      "date": "2026-07-29",
+      "timestamp": "2026-07-29T23:17:18+00:00",
+      "fetched_at": "2026-07-30T06:14:02.478395+00:00"
+    },
     {
       "id": "2876e0ca737c",
       "title": "Lead Software Engineer , Back End - McLean - Capital One Career",
@@ -199,6 +304,21 @@
       "date": "2026-07-29",
       "timestamp": "2026-07-29T20:32:47+00:00",
       "fetched_at": "2026-07-30T01:07:51.335964+00:00"
+    },
+    {
+      "id": "aa4c2467b6e7",
+      "title": "Data Engineer -Snowflake | Everforth Apex",
+      "company": "Snowflake | Everforth Apex",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.apexsystems.com/job/3044100_usa/data-engineer-snowflake",
+      "source": "Other",
+      "description": "Job#: 3044100. Job Description: Data Engineer \u2013 Snowflake Data Ingestion & Data Products (ECC Platform). The Data Engineer will support the ...",
+      "date": "2026-07-29",
+      "timestamp": "2026-07-29T20:31:42+00:00",
+      "fetched_at": "2026-07-30T06:14:02.418498+00:00"
     },
     {
       "id": "73dc4da2d3b6",
