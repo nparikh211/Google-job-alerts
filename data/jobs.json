@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-07-30T17:11:23.329305+00:00",
-  "total_jobs": 6730,
+  "last_updated": "2026-07-30T20:51:48.641219+00:00",
+  "total_jobs": 6742,
   "stats": {
-    "total_companies": 3303,
+    "total_companies": 3309,
     "total_roles": 93,
     "regions": {
-      "India": 4366,
-      "Philippines": 1405,
-      "Remote": 852,
+      "India": 4372,
+      "Philippines": 1408,
+      "Remote": 855,
       "Unknown": 135
     },
     "sources": {
-      "Other": 5277,
+      "Other": 5284,
       "Greenhouse": 333,
-      "Workday": 293,
-      "LinkedIn": 273,
-      "Ashby": 209,
-      "iCIMS": 82,
+      "Workday": 294,
+      "LinkedIn": 274,
+      "Ashby": 210,
+      "iCIMS": 83,
       "Breezy": 73,
-      "Lever": 48,
+      "Lever": 49,
       "SmartRecruiters": 44,
       "Workable": 44,
       "Indeed": 27,
@@ -35,6 +35,96 @@
     }
   },
   "jobs": [
+    {
+      "id": "295b82462be2",
+      "title": "Data Engineer in Research Triangle Park, North Carolina, United States of America",
+      "company": "Unknown Company",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2019222EXTERNALENGLOBAL/Data-Engineer",
+      "source": "Other",
+      "description": "Apply for Data Engineer job ... Take on the role of AI Software Engineer II to advance secure AI adoption across testing platforms and processes.",
+      "date": "2026-07-30",
+      "timestamp": "2026-07-30T19:15:52+00:00",
+      "fetched_at": "2026-07-30T20:51:48.611788+00:00"
+    },
+    {
+      "id": "908afffdd0d7",
+      "title": "AI Engineer \u2013 Cloud Software & AI Platforms - Myworkdayjobs.com",
+      "company": "Altera",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/AI-Engineer---Cloud-Software---AI-Platforms_R02859",
+      "source": "Workday",
+      "description": "Job Details: Job Description: AI Engineer \u2013 Cloud Software & AI Platforms Team: Cloud Software Engineering \u2013 Quartus AI, Altera About the Role We ...",
+      "date": "2026-07-30",
+      "timestamp": "2026-07-30T18:12:42+00:00",
+      "fetched_at": "2026-07-30T20:51:48.500725+00:00"
+    },
+    {
+      "id": "355184d064ed",
+      "title": "Agentic AI Engineer - - 127994 - Booz | Allen | Hamilton \u00ae - Careers",
+      "company": "- 127994 - Booz | Allen | Hamilton \u00ae - Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.boozallen.com/jobs/JobDetail/McLean-Agentic-AI-Engineer-R0245274/127994",
+      "source": "Other",
+      "description": "Agentic AI Engineer . The Opportunity: As an experienced engineer, you know that agentic AI is transforming how organizations operate, make ...",
+      "date": "2026-07-30",
+      "timestamp": "2026-07-30T18:07:20+00:00",
+      "fetched_at": "2026-07-30T20:51:48.501856+00:00"
+    },
+    {
+      "id": "5b63e02c2857",
+      "title": "Senior Software Engineer at Occupier \u2022 Toronto \u2022 Remote (Work from Home) | David Axler",
+      "company": "Occupier \u2022 Toronto \u2022 Remote",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.linkedin.com/posts/davidaxler_senior-software-engineer-at-occupier-toronto-activity-7488612807421157376-pIcz",
+      "source": "LinkedIn",
+      "description": "I can help with this one, David! Still looking for this Senior Software Engineer ? I find candidates for companies and can bring you vetted names in 1- ...",
+      "date": "2026-07-30",
+      "timestamp": "2026-07-30T17:58:24+00:00",
+      "fetched_at": "2026-07-30T20:51:48.502554+00:00"
+    },
+    {
+      "id": "aef859440083",
+      "title": "Senior Software Engineer , Frontend @ Flock - Jobs",
+      "company": "Flock",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.ashbyhq.com/flock%20safety/05e066a7-9636-4c7e-8357-4b9c915e30b9",
+      "source": "Ashby",
+      "description": "Senior Software Engineer , Frontend. Location. Remote - USA. Employment Type. Full time. Location Type. Remote. Department. Engineering. Compensation.",
+      "date": "2026-07-30",
+      "timestamp": "2026-07-30T17:31:44+00:00",
+      "fetched_at": "2026-07-30T20:51:48.502787+00:00"
+    },
+    {
+      "id": "ac0a0cc1da4f",
+      "title": "Software Engineer \u2013 Java Full Stack Development - Ford Global Career Site",
+      "company": "Ford Global Career Site",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://apply.ford.com/en/sites/CX_1/job/66512",
+      "source": "Other",
+      "description": "Job Description. As a Software Engineer within Ford's Customer Service Division (FCSD) Technology organization, you will design, develop, and support ...",
+      "date": "2026-07-30",
+      "timestamp": "2026-07-30T17:05:21+00:00",
+      "fetched_at": "2026-07-30T20:51:48.502931+00:00"
+    },
     {
       "id": "8b003ea79570",
       "title": "Data Engineer | Everforth Apex",
@@ -109,6 +199,81 @@
       "date": "2026-07-30",
       "timestamp": "2026-07-30T16:47:03+00:00",
       "fetched_at": "2026-07-30T17:11:23.167915+00:00"
+    },
+    {
+      "id": "4dbccf1169d8",
+      "title": "AI Engineer III in SALT LAKE CITY, Utah | Careers at Information Technology Services",
+      "company": "Information Technology Services",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers-uuhc.icims.com/jobs/84989/ai-engineer-iii/job",
+      "source": "iCIMS",
+      "description": "AI Engineer III. Requisition Number: 84989. Reg/Temp: Regular. Employment Type: Full-Time. Shift: Day. Work Schedule: 8-5. Clinical/Non-Clinical ...",
+      "date": "2026-07-30",
+      "timestamp": "2026-07-30T16:41:52+00:00",
+      "fetched_at": "2026-07-30T20:51:48.503635+00:00"
+    },
+    {
+      "id": "7220cfdc557d",
+      "title": "Staff Embedded Software Engineer , Sunnyvale, CA, United States - Intuitive Careers",
+      "company": "Intuitive Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.intuitive.com/en/jobs/744000140540529/JOB216680/staff-embedded-software-engineer/",
+      "source": "Other",
+      "description": "Job Description Primary Function of Position We are looking for an experienced embedded software engineer with strong system architecture design ...",
+      "date": "2026-07-30",
+      "timestamp": "2026-07-30T16:14:34+00:00",
+      "fetched_at": "2026-07-30T20:51:48.613088+00:00"
+    },
+    {
+      "id": "016b7c16531f",
+      "title": "Cloud Engineer Senior job in McLean, VA - Freddie Mac Careers",
+      "company": "Freddie Mac Careers",
+      "role": "Cloud Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.freddiemac.com/us/en/job/JR17419/Cloud-Engineer-Senior",
+      "source": "Other",
+      "description": "AWS certifications (Solutions Architect, DevOps Engineer , or Security Specialty). ... Senior Software Engineer (Gen AI). Location McLean, VA Category ...",
+      "date": "2026-07-30",
+      "timestamp": "2026-07-30T16:07:26+00:00",
+      "fetched_at": "2026-07-30T20:51:48.503768+00:00"
+    },
+    {
+      "id": "c3e2adce2a0f",
+      "title": "Data Engineer in Chantilly, Virginia | VTG",
+      "company": "VTG",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.vtgdefense.com/jobs/9408?lang=en-us",
+      "source": "Other",
+      "description": "What will you do? Seeking a Cloud Data Engineer to design, develop, and optimize scalable cloud-based data platforms that support analytics, AI/ML, ...",
+      "date": "2026-07-30",
+      "timestamp": "2026-07-30T16:00:20+00:00",
+      "fetched_at": "2026-07-30T20:51:48.503876+00:00"
+    },
+    {
+      "id": "78a7b4a1c1f9",
+      "title": "Senior Software Engineer - TXI - Lever",
+      "company": "Txidigital",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.lever.co/txidigital/8af3ca12-20d9-40ad-85a2-5638b3a392e1/apply",
+      "source": "Lever",
+      "description": "Senior Software Engineer . Chicago. Product Development Practice Group /. Full-time /. Remote. Submit your application. Resume/CV \u2731. ATTACH RESUME/CV.",
+      "date": "2026-07-30",
+      "timestamp": "2026-07-30T15:47:05+00:00",
+      "fetched_at": "2026-07-30T20:51:48.503959+00:00"
     },
     {
       "id": "79511aba00bc",
@@ -199,6 +364,21 @@
       "date": "2026-07-30",
       "timestamp": "2026-07-30T14:14:07+00:00",
       "fetched_at": "2026-07-30T17:11:23.168894+00:00"
+    },
+    {
+      "id": "781130487c41",
+      "title": "Senior Software Engineer , FE/Mobile in Herndon, Virginia - QXO Careers",
+      "company": "QXO Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.qxo.com/jobs/12823?lang=en-us",
+      "source": "Other",
+      "description": "becn is hiring a Senior Software Engineer , FE/Mobile in Herndon, Virginia. Review all of the job details and apply today!",
+      "date": "2026-07-30",
+      "timestamp": "2026-07-30T14:13:04+00:00",
+      "fetched_at": "2026-07-30T20:51:48.614661+00:00"
     },
     {
       "id": "44885a87461a",
