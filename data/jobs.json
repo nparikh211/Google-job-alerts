@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-08-01T09:45:57.662514+00:00",
-  "total_jobs": 6836,
+  "last_updated": "2026-08-01T12:44:42.902217+00:00",
+  "total_jobs": 6841,
   "stats": {
-    "total_companies": 3347,
+    "total_companies": 3348,
     "total_roles": 93,
     "regions": {
-      "India": 4413,
-      "Philippines": 1449,
+      "India": 4417,
+      "Philippines": 1450,
       "Remote": 867,
       "Unknown": 135
     },
     "sources": {
-      "Other": 5359,
+      "Other": 5364,
       "Greenhouse": 340,
       "Workday": 299,
       "LinkedIn": 277,
@@ -35,6 +35,36 @@
     }
   },
   "jobs": [
+    {
+      "id": "8f52766de36a",
+      "title": "Staff Software Engineer - Engineer, San Francisco, United States",
+      "company": "Staff Software Engineer",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.uber.com/en/jobs/301183/",
+      "source": "Other",
+      "description": "We're looking for an experienced Staff Software Engineer (Backend) to join the Earner Experience team and play a key role in delivering critical ...",
+      "date": "2026-08-01",
+      "timestamp": "2026-08-01T11:17:06+00:00",
+      "fetched_at": "2026-08-01T12:44:42.794074+00:00"
+    },
+    {
+      "id": "d1409560bd96",
+      "title": "Staff Agentic AI Engineer - Bengaluru, Karn\u0101taka, India - Equinix Careers",
+      "company": "Bengaluru, Karn\u0101taka, India - Equinix Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.equinix.com/jobs/staff-agentic-ai-engineer-bengaluru-karnataka-india-6c5ff946-85dd-49ce-b23d-a4b5069e35f6",
+      "source": "Other",
+      "description": "Staff Agentic AI Engineer \u00b7 Design and automate eval suites that measure agent output quality on every change, and make passing evals the release gate ...",
+      "date": "2026-08-01",
+      "timestamp": "2026-08-01T07:48:34+00:00",
+      "fetched_at": "2026-08-01T12:44:42.794671+00:00"
+    },
     {
       "id": "b5347ef68d9d",
       "title": "Senior Software Engineer in United States | GitHub, Inc.",
@@ -156,6 +186,21 @@
       "fetched_at": "2026-08-01T06:17:40.231045+00:00"
     },
     {
+      "id": "6a92b82bfc94",
+      "title": "Software Engineer , Communications - Careers at Roblox",
+      "company": "Roblox",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.roblox.com/jobs/8083944",
+      "source": "Other",
+      "description": "As a Software Engineer , Communications Safety, you'll build the chat and communication systems that let people and creators express themselves ...",
+      "date": "2026-08-01",
+      "timestamp": "2026-08-01T02:01:13+00:00",
+      "fetched_at": "2026-08-01T12:44:42.796210+00:00"
+    },
+    {
       "id": "e4d80044ffaf",
       "title": "Software Engineer , Automations and Shortcuts, Proactive - Jobs - Careers at Apple",
       "company": "Apple",
@@ -246,6 +291,21 @@
       "fetched_at": "2026-08-01T01:21:37.788756+00:00"
     },
     {
+      "id": "9b3c966c0510",
+      "title": "ServiceNow Platform Engineer Jobs and Careers in Dallas at AT&T",
+      "company": "AT&T",
+      "role": "Platform Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.att.jobs/job/dallas/servicenow-platform-engineer/117/98579038944",
+      "source": "Other",
+      "description": "Build a more connected world in a telecommunications career at AT&T. Learn more and apply for our ServiceNow Platform Engineer in Dallas here.",
+      "date": "2026-07-31",
+      "timestamp": "2026-07-31T22:58:31+00:00",
+      "fetched_at": "2026-08-01T12:44:42.868806+00:00"
+    },
+    {
       "id": "57b46c0dd976",
       "title": "Advisor, Software Engineer in Memphis, Tennessee | FedEx Careers",
       "company": "FedEx Careers",
@@ -274,6 +334,21 @@
       "date": "2026-07-31",
       "timestamp": "2026-07-31T22:13:21+00:00",
       "fetched_at": "2026-08-01T06:17:40.232590+00:00"
+    },
+    {
+      "id": "cb807d761b53",
+      "title": "Principal DevOps Engineer (US Citizen) at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-devops-engineer-us-citizen/47263/97192247184",
+      "source": "Other",
+      "description": "Principal DevOps Engineer (US Citizen). Santa Clara, California, United States of America Product Engineering Ref ID: JR-019551. Apply",
+      "date": "2026-07-31",
+      "timestamp": "2026-07-31T22:12:10+00:00",
+      "fetched_at": "2026-08-01T12:44:42.797608+00:00"
     },
     {
       "id": "947f861481ae",
