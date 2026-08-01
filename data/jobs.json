@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-08-01T12:44:42.902217+00:00",
-  "total_jobs": 6841,
+  "last_updated": "2026-08-01T16:42:31.348987+00:00",
+  "total_jobs": 6853,
   "stats": {
-    "total_companies": 3348,
-    "total_roles": 93,
+    "total_companies": 3352,
+    "total_roles": 94,
     "regions": {
-      "India": 4417,
-      "Philippines": 1450,
+      "India": 4425,
+      "Philippines": 1454,
       "Remote": 867,
       "Unknown": 135
     },
     "sources": {
-      "Other": 5364,
-      "Greenhouse": 340,
+      "Other": 5373,
+      "Greenhouse": 341,
       "Workday": 299,
-      "LinkedIn": 277,
+      "LinkedIn": 278,
       "Ashby": 211,
       "iCIMS": 83,
       "Breezy": 73,
@@ -23,7 +23,7 @@
       "SmartRecruiters": 44,
       "Indeed": 27,
       "BrassRing": 8,
-      "Jobvite": 6,
+      "Jobvite": 7,
       "Recruitee": 6,
       "Taleo": 4,
       "ADP": 2,
@@ -35,6 +35,126 @@
     }
   },
   "jobs": [
+    {
+      "id": "41f93740a24a",
+      "title": "Cloud Engineer - HigherEdJobs",
+      "company": "HigherEdJobs",
+      "role": "Cloud Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.higheredjobs.com/admin/details.cfm?JobCode=179515255",
+      "source": "Other",
+      "description": "Cloud Engineer . Job Summary Systems Administrator II Install, configure, and maintain computer software systems and associated peripheral ...",
+      "date": "2026-08-01",
+      "timestamp": "2026-08-01T14:54:12+00:00",
+      "fetched_at": "2026-08-01T16:42:31.011807+00:00"
+    },
+    {
+      "id": "95665c4b0684",
+      "title": "Job Application for GTM AI Engineer at Gong.io - Greenhouse",
+      "company": "Gongio",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/gongio/jobs/4697977006",
+      "source": "Greenhouse",
+      "description": "GTM AI Engineer . Austin | Chicago | New York City | Salt Lake City | San Francisco. Apply. Gong harnesses the power of AI to transform how revenue ...",
+      "date": "2026-08-01",
+      "timestamp": "2026-08-01T13:33:20+00:00",
+      "fetched_at": "2026-08-01T16:42:31.318585+00:00"
+    },
+    {
+      "id": "ff2cedbb365e",
+      "title": "Software Engineer II (Java/React) - JPMC Candidate Experience page Careers",
+      "company": "JPMC Candidate Experience page Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/cx_1001/job/210757578",
+      "source": "Other",
+      "description": "Software Engineer II (Java/React). New York, NY, United States. Apply Now. Job Information. Job Identification 210757578; Job Category Software ...",
+      "date": "2026-08-01",
+      "timestamp": "2026-08-01T13:18:16+00:00",
+      "fetched_at": "2026-08-01T16:42:31.318758+00:00"
+    },
+    {
+      "id": "b99e09750074",
+      "title": "Senior Software Engineer in United States - Frontline Education Careers",
+      "company": "Frontline Education Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.frontlineeducation.com/jobs/18050773-senior-software-engineer",
+      "source": "Other",
+      "description": "As a Senior Software Engineer , you will help transform how schools work so every educator and student succeeds. This role is weighted toward hands-on ...",
+      "date": "2026-08-01",
+      "timestamp": "2026-08-01T13:13:42+00:00",
+      "fetched_at": "2026-08-01T16:42:31.012174+00:00"
+    },
+    {
+      "id": "fee0037da187",
+      "title": "Principal Data Engineer (I) in Karn\u0101taka, India - Bread Financial jobs",
+      "company": "Bread Financial jobs",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.breadfinancial.com/us/en/job/R1012894/Principal-Data-Engineer-I",
+      "source": "Other",
+      "description": "The Senior Agentic Software Engineer will develop financial technology solutions within the rapidly evolving AI world. This includes utilizing ...",
+      "date": "2026-08-01",
+      "timestamp": "2026-08-01T12:35:07+00:00",
+      "fetched_at": "2026-08-01T16:42:31.012488+00:00"
+    },
+    {
+      "id": "9ba7ebfb7ca8",
+      "title": "Raaj Patel's Post - LinkedIn",
+      "company": "Unknown Company",
+      "role": "Raaj Patel's Post - LinkedIn",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/posts/raajtpatel_wrapped-up-my-first-week-as-a-software-engineer-activity-7489163751271829504-4A3S",
+      "source": "LinkedIn",
+      "description": "Naga Manasa Bandaru. Software Engineer | Full Stack Engineer | React ... Vishwam Raval. Machine Learning Engineer I @ PROS | Texas Aggie | M.S. Computer ...",
+      "date": "2026-08-01",
+      "timestamp": "2026-08-01T12:15:17+00:00",
+      "fetched_at": "2026-08-01T16:42:31.319595+00:00"
+    },
+    {
+      "id": "1cdc8339ee39",
+      "title": "Funko Careers - Sr. AI Engineer - Jobvite",
+      "company": "Funko",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.jobvite.com/funko/job/oJIzAfwk?nl=1&fr=true",
+      "source": "Jobvite",
+      "description": "As the Sr. AI Engineer , you will lead the design, development, and operationalization of AI-powered applications, intelligent automation, and agentic ...",
+      "date": "2026-08-01",
+      "timestamp": "2026-08-01T11:53:14+00:00",
+      "fetched_at": "2026-08-01T16:42:31.012737+00:00"
+    },
+    {
+      "id": "01af5189250c",
+      "title": "Staff Software Engineer - AI - Careers at Moody's",
+      "company": "Moody's",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.moodys.com/en/job/london/staff-software-engineer-ai/49841/98565502304",
+      "source": "Other",
+      "description": "Staff Software Engineer - AI. London, United Kingdom. Apply now. Save job. Posted: 07/31/2026. Job reference: 14397. Experience level: Experienced ...",
+      "date": "2026-08-01",
+      "timestamp": "2026-08-01T11:51:10+00:00",
+      "fetched_at": "2026-08-01T16:42:31.013018+00:00"
+    },
     {
       "id": "8f52766de36a",
       "title": "Staff Software Engineer - Engineer, San Francisco, United States",
@@ -51,6 +171,21 @@
       "fetched_at": "2026-08-01T12:44:42.794074+00:00"
     },
     {
+      "id": "e1f8de2e094a",
+      "title": "Software engineer in Pune, India, 411006 | Engineering at Mastercard",
+      "company": "Mastercard",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mastercard.com/us/en/job/R-281108/Software-engineer",
+      "source": "Other",
+      "description": "Lead Software Engineer - Development (Java Full stack developer). Location Pune, India, 411006 Category Engineering. Senior Software Engineer (Java).",
+      "date": "2026-08-01",
+      "timestamp": "2026-08-01T10:07:54+00:00",
+      "fetched_at": "2026-08-01T16:42:31.013510+00:00"
+    },
+    {
       "id": "d1409560bd96",
       "title": "Staff Agentic AI Engineer - Bengaluru, Karn\u0101taka, India - Equinix Careers",
       "company": "Bengaluru, Karn\u0101taka, India - Equinix Careers",
@@ -64,6 +199,51 @@
       "date": "2026-08-01",
       "timestamp": "2026-08-01T07:48:34+00:00",
       "fetched_at": "2026-08-01T12:44:42.794671+00:00"
+    },
+    {
+      "id": "8058c003f6bd",
+      "title": "CloudBees Inc - Software Engineer - Java - Paylocity",
+      "company": "CloudBees Inc",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://recruiting.paylocity.com/recruiting/jobs/Details/4380781/Cloud-Bees-Inc/Software-Engineer---Java",
+      "source": "Other",
+      "description": "Job Title: Software Engineer - Java. Employment Type: Permanent. Work Location: Chennai India - Hybrid. About CloudBees.",
+      "date": "2026-08-01",
+      "timestamp": "2026-08-01T06:31:35+00:00",
+      "fetched_at": "2026-08-01T16:42:31.014471+00:00"
+    },
+    {
+      "id": "802cb781c0e4",
+      "title": "Software Engineer II (Java/React) - JPMC Candidate Experience page Careers",
+      "company": "JPMC Candidate Experience page Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210757578",
+      "source": "Other",
+      "description": "Software Engineer II (Java/React). New York, NY, United States. Apply Now. Job Information. Job Identification 210757578; Job Category Software ...",
+      "date": "2026-08-01",
+      "timestamp": "2026-08-01T06:22:40+00:00",
+      "fetched_at": "2026-08-01T16:42:31.014790+00:00"
+    },
+    {
+      "id": "45a728b74982",
+      "title": "Sr. Associate, AI Engineer at SC Johnson",
+      "company": "SC Johnson",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.scjohnson.com/job/racine/sr-associate-ai-engineer/5362/98569471984",
+      "source": "Other",
+      "description": "Sr. Associate, AI Engineer . Racine, Wisconsin. Information Technology Job ID: 33689. Apply Save Job. Get Email Alerts.",
+      "date": "2026-08-01",
+      "timestamp": "2026-08-01T06:13:58+00:00",
+      "fetched_at": "2026-08-01T16:42:31.320770+00:00"
     },
     {
       "id": "b5347ef68d9d",
