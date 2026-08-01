@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-07-31T20:48:15.401757+00:00",
-  "total_jobs": 6806,
+  "last_updated": "2026-08-01T01:21:37.816912+00:00",
+  "total_jobs": 6822,
   "stats": {
-    "total_companies": 3337,
+    "total_companies": 3343,
     "total_roles": 93,
     "regions": {
-      "India": 4397,
-      "Philippines": 1437,
-      "Remote": 865,
+      "India": 4407,
+      "Philippines": 1441,
+      "Remote": 867,
       "Unknown": 135
     },
     "sources": {
-      "Other": 5336,
-      "Greenhouse": 336,
-      "Workday": 298,
-      "LinkedIn": 276,
+      "Other": 5348,
+      "Greenhouse": 338,
+      "Workday": 299,
+      "LinkedIn": 277,
       "Ashby": 210,
       "iCIMS": 83,
       "Breezy": 73,
@@ -31,10 +31,175 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-07-31"
+      "latest": "2026-08-01"
     }
   },
   "jobs": [
+    {
+      "id": "8d1212ecc022",
+      "title": "Software Engineer - United States - 191800 - Koch",
+      "company": "United States - 191800 - Koch",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://koch.avature.net/en_US/careers/JobDetail/United-States-Software-Engineer/191800",
+      "source": "Other",
+      "description": "Software Engineer . Location(s). Wichita, Kansas. Company. Flint Hills Resources. Career Field. Information Systems & Technology. Job Number. 191800.",
+      "date": "2026-08-01",
+      "timestamp": "2026-08-01T00:14:00+00:00",
+      "fetched_at": "2026-08-01T01:21:37.685341+00:00"
+    },
+    {
+      "id": "af16a10248ef",
+      "title": "Software Engineer , Agent Productivity - OpenAI",
+      "company": "OpenAI",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://openai.com/careers/software-engineer-agent-productivity-san-francisco/",
+      "source": "Other",
+      "description": "We create paved paths that let teams move quickly without compromising security or operational quality. About the Role. As a Staff Software Engineer ...",
+      "date": "2026-08-01",
+      "timestamp": "2026-08-01T00:04:34+00:00",
+      "fetched_at": "2026-08-01T01:21:37.685555+00:00"
+    },
+    {
+      "id": "7994a19478be",
+      "title": "C/C++ Software Engineer - Core Tech Team in Olathe, Kansas | Garmin International, Inc.",
+      "company": "Core Tech Team in Olathe, Kansas | Garmin International, Inc.",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.garmin.com/jobs/19266?lang=en-us",
+      "source": "Other",
+      "description": "We are seeking a full-time Software Engineer 2 on the Core Engineering team at Garmin's U.S. headquarters in the Greater Kansas City area. As a member ...",
+      "date": "2026-07-31",
+      "timestamp": "2026-07-31T23:28:28+00:00",
+      "fetched_at": "2026-08-01T01:21:37.788756+00:00"
+    },
+    {
+      "id": "947f861481ae",
+      "title": "Senior Software Engineer , Bulk/Interactive Inference - Mountain View, California, United States",
+      "company": "Mountain View, California, United States",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.withwaymo.com/jobs/senior-software-engineer-bulk-interactive-inference-mountain-view-california-united-states",
+      "source": "Other",
+      "description": "Senior Software Engineer , Bulk/Interactive Inference. Mountain View, California, United States Full-Time Software Engineering 4387. Apply now. Senior ...",
+      "date": "2026-07-31",
+      "timestamp": "2026-07-31T22:03:59+00:00",
+      "fetched_at": "2026-08-01T01:21:37.685892+00:00"
+    },
+    {
+      "id": "c78cdb7ee61b",
+      "title": "Junior SIEM Data Engineer job in Quincy | Other jobs at State Street",
+      "company": "State Street",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.statestreet.com/global/en/job/STSTGLOBALR794329EXTERNALENGLOBAL/Junior-SIEM-Data-Engineer",
+      "source": "Other",
+      "description": "We are looking for a Junior SIEM Data Engineer reporting directly to the Cyber Data Engineering Manager You will support the ingestion, ...",
+      "date": "2026-07-31",
+      "timestamp": "2026-07-31T21:45:18+00:00",
+      "fetched_at": "2026-08-01T01:21:37.686078+00:00"
+    },
+    {
+      "id": "bacd690d5ca0",
+      "title": "Senior Software Engineer in Huntsville, Alabama (Hybrid Remote) - Leidos Careers",
+      "company": "Leidos Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.leidos.com/jobs/18065286-senior-software-engineer",
+      "source": "Other",
+      "description": "Senior Software Engineer \u00b7 Provide technical leadership and direction for software development teams (5-15 engineers). \u00b7 Define full-stack software ...",
+      "date": "2026-07-31",
+      "timestamp": "2026-07-31T21:19:31+00:00",
+      "fetched_at": "2026-08-01T01:21:37.686260+00:00"
+    },
+    {
+      "id": "bf0b313564d9",
+      "title": "Senior Software Engineer in Arlington, Virginia (No Remote) - Leidos Careers",
+      "company": "Leidos Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.leidos.com/jobs/18065958-senior-software-engineer",
+      "source": "Other",
+      "description": "We are seeking an experienced Senior Software Engineer to join our team in developing the forefront of unmanned and autonomous ship development ...",
+      "date": "2026-07-31",
+      "timestamp": "2026-07-31T21:19:22+00:00",
+      "fetched_at": "2026-08-01T01:21:37.686424+00:00"
+    },
+    {
+      "id": "326383fb19fe",
+      "title": "Software Engineer V | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.apexsystems.com/job/3044570_usa/software-engineering---software-engineer-v",
+      "source": "Other",
+      "description": "We are seeking a Software Engineer to apply principles of computer science and mathematical analysis to the design, development, testing, ...",
+      "date": "2026-07-31",
+      "timestamp": "2026-07-31T20:31:13+00:00",
+      "fetched_at": "2026-08-01T01:21:37.686596+00:00"
+    },
+    {
+      "id": "104f4ef4e73e",
+      "title": "Job Application for Staff Data Engineer at Fora Financial - Greenhouse",
+      "company": "Forafinancial",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/forafinancial/jobs/4302249009",
+      "source": "Greenhouse",
+      "description": "To lead this effort, we are hiring a Staff Data Engineer to build and own the platform backbone for governed reporting and trusted AI workflows. This ...",
+      "date": "2026-07-31",
+      "timestamp": "2026-07-31T20:16:48+00:00",
+      "fetched_at": "2026-08-01T01:21:37.686772+00:00"
+    },
+    {
+      "id": "8502f922e77b",
+      "title": "Job Application for Data Engineer at Discord - Greenhouse",
+      "company": "Discord",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/discord/jobs/8614971002",
+      "source": "Greenhouse",
+      "description": "Data Engineer . San Francisco Bay Area. Apply. Discord has a highly engaged community of millions of daily active users who use the platform for many ...",
+      "date": "2026-07-31",
+      "timestamp": "2026-07-31T20:06:46+00:00",
+      "fetched_at": "2026-08-01T01:21:37.789602+00:00"
+    },
+    {
+      "id": "9ba649db5c7e",
+      "title": "Full Stack Engineer | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.apexsystems.com/job/3042158_usa/full-stack-engineer",
+      "source": "Other",
+      "description": "Full Stack Engineer . Apply. Job#: 3042158. Job Description: Full ... Full Stack Software Engineer \u00b7 Full Stack Application Engineer \u00b7 Full Stack ...",
+      "date": "2026-07-31",
+      "timestamp": "2026-07-31T20:04:07+00:00",
+      "fetched_at": "2026-08-01T01:21:37.686913+00:00"
+    },
     {
       "id": "76d05d936c5f",
       "title": "Senior Data Engineer | Everforth Apex",
@@ -49,6 +214,36 @@
       "date": "2026-07-31",
       "timestamp": "2026-07-31T19:53:32+00:00",
       "fetched_at": "2026-07-31T20:48:15.304376+00:00"
+    },
+    {
+      "id": "2563d05527c4",
+      "title": "Sr Cloud DevOps Engineer in Gurugram, Haryana, India - United Airlines jobs",
+      "company": "United Airlines jobs",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.united.com/us/en/job/GGN00002632/Sr-Cloud-DevOps-Engineer",
+      "source": "Other",
+      "description": "Cloud DevOps Engineer will be responsible for ... Take on the role of a Full Stack Engineer supporting enterprise finance digital transformation.",
+      "date": "2026-07-31",
+      "timestamp": "2026-07-31T19:53:16+00:00",
+      "fetched_at": "2026-08-01T01:21:37.687190+00:00"
+    },
+    {
+      "id": "f95d81ad20bc",
+      "title": "KellyMitchell Group hiring Software Engineer in Phoenix, AZ - LinkedIn",
+      "company": "LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/software-engineer-at-kellymitchell-group-4447577016?position=56&pageNum=0&refId=teuaB9OwRcnkdamXKQCwbA%3D%3D&trackingId=08FHfDrfLWtBWNipeCm%2B0Q%3D%3D",
+      "source": "LinkedIn",
+      "description": "Full Stack Engineer . Mastermind.com. Greater Phoenix Area $105,000 ... Senior Software Engineer . Carvana. Tempe, AZ 1 year ago. Developer, Back ...",
+      "date": "2026-07-31",
+      "timestamp": "2026-07-31T19:46:47+00:00",
+      "fetched_at": "2026-08-01T01:21:37.687629+00:00"
     },
     {
       "id": "26dabcbe0c44",
@@ -94,6 +289,36 @@
       "date": "2026-07-31",
       "timestamp": "2026-07-31T19:20:12+00:00",
       "fetched_at": "2026-07-31T20:48:15.305388+00:00"
+    },
+    {
+      "id": "440180c821b4",
+      "title": "Staff Machine Learning Engineer , Personalization, Mountain View, USA | Coupang Careers",
+      "company": "Coupang Careers",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.coupang.jobs/en/jobs/8076145/staff-machine-learning-engineer-personalization/",
+      "source": "Other",
+      "description": "Staff Machine Learning Engineer , Personalization. Description. We exist to wow our customers. We know we're doing the right thing when we hear our ...",
+      "date": "2026-07-31",
+      "timestamp": "2026-07-31T18:40:23+00:00",
+      "fetched_at": "2026-08-01T01:21:37.688704+00:00"
+    },
+    {
+      "id": "d88bab8404a4",
+      "title": "Software Engineer II, Sunnyvale, United States - Uber Careers",
+      "company": "Uber Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.uber.com/en/jobs/300097/",
+      "source": "Other",
+      "description": "and team Engineering at Uber means building for real-world impact under real-world constraints. As a Software Engineer II on our Data and Storage ...",
+      "date": "2026-07-31",
+      "timestamp": "2026-07-31T18:39:01+00:00",
+      "fetched_at": "2026-08-01T01:21:37.790537+00:00"
     },
     {
       "id": "526fe343c4d4",
@@ -169,6 +394,21 @@
       "date": "2026-07-31",
       "timestamp": "2026-07-31T17:41:50+00:00",
       "fetched_at": "2026-07-31T20:48:15.306213+00:00"
+    },
+    {
+      "id": "d5d868f9b8cc",
+      "title": "Software Engineer II - Myworkdayjobs.com",
+      "company": "Enovis",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://enovis.wd5.myworkdayjobs.com/enovis/job/USA-Texas-Austin/Software-Engineer-II_R0033790",
+      "source": "Workday",
+      "description": "... Software Engineer II Location: Austin, Texas Job Title/High Level ... Software Engineer II. Location: Austin, Texas. Job Title/High Level ...",
+      "date": "2026-07-31",
+      "timestamp": "2026-07-31T17:27:46+00:00",
+      "fetched_at": "2026-08-01T01:21:37.791133+00:00"
     },
     {
       "id": "7b28e76902b1",
