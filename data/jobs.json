@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-08-01T06:17:40.262749+00:00",
-  "total_jobs": 6832,
+  "last_updated": "2026-08-01T09:45:57.662514+00:00",
+  "total_jobs": 6836,
   "stats": {
-    "total_companies": 3345,
+    "total_companies": 3347,
     "total_roles": 93,
     "regions": {
-      "India": 4409,
+      "India": 4413,
       "Philippines": 1449,
       "Remote": 867,
       "Unknown": 135
     },
     "sources": {
-      "Other": 5357,
-      "Greenhouse": 339,
+      "Other": 5359,
+      "Greenhouse": 340,
       "Workday": 299,
       "LinkedIn": 277,
-      "Ashby": 210,
+      "Ashby": 211,
       "iCIMS": 83,
       "Breezy": 73,
       "Lever": 49,
@@ -35,6 +35,36 @@
     }
   },
   "jobs": [
+    {
+      "id": "b5347ef68d9d",
+      "title": "Senior Software Engineer in United States | GitHub, Inc.",
+      "company": "GitHub, Inc.",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.github.careers/benefits/jobs/5413?lang=en-us",
+      "source": "Other",
+      "description": "GitHub is hiring a Senior Software Engineer in United States. Review all of the job details and apply today!",
+      "date": "2026-08-01",
+      "timestamp": "2026-08-01T05:34:01+00:00",
+      "fetched_at": "2026-08-01T09:45:57.398691+00:00"
+    },
+    {
+      "id": "c37b4bd5328c",
+      "title": "Job Application for AI Engineer at Capco - Greenhouse",
+      "company": "Capco",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/capco/jobs/8078812",
+      "source": "Greenhouse",
+      "description": "AI Engineer . India - Pune. Apply. Job Title: GenAI Developer/ Engineer. About Us. \u201cCapco, a Wipro company, is a global technology and management ...",
+      "date": "2026-08-01",
+      "timestamp": "2026-08-01T05:10:53+00:00",
+      "fetched_at": "2026-08-01T09:45:57.636848+00:00"
+    },
     {
       "id": "71fa73ab52b4",
       "title": "Software Engineer in Santa Clara, Californie, \u00c9tats-Unis d'Am\u00e9rique - Careers at Roche",
@@ -64,6 +94,36 @@
       "date": "2026-08-01",
       "timestamp": "2026-08-01T04:16:58+00:00",
       "fetched_at": "2026-08-01T06:17:40.230682+00:00"
+    },
+    {
+      "id": "1bb8da229ee8",
+      "title": "Software Engineer , Cloud Services ASE - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200674218-0157/software-engineer-cloud-services-ase?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Software Engineer , Cloud Services ASE job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-08-01",
+      "timestamp": "2026-08-01T03:25:33+00:00",
+      "fetched_at": "2026-08-01T09:45:57.399831+00:00"
+    },
+    {
+      "id": "d53c87456c6a",
+      "title": "Software Engineer (Internship, Summer 2027) @ Heliux Inc. - Jobs",
+      "company": "Heliux",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef",
+      "source": "Ashby",
+      "description": "Software Engineer (Internship, Summer 2027). Location. HQ (San Francisco, CA). Employment Type. Full time. Location Type. On-site. Department.",
+      "date": "2026-08-01",
+      "timestamp": "2026-08-01T03:04:38+00:00",
+      "fetched_at": "2026-08-01T09:45:57.399990+00:00"
     },
     {
       "id": "09752a35700e",
