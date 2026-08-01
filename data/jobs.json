@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-08-01T16:42:31.348987+00:00",
-  "total_jobs": 6853,
+  "last_updated": "2026-08-01T20:37:11.473593+00:00",
+  "total_jobs": 6866,
   "stats": {
-    "total_companies": 3352,
+    "total_companies": 3357,
     "total_roles": 94,
     "regions": {
-      "India": 4425,
-      "Philippines": 1454,
-      "Remote": 867,
+      "India": 4433,
+      "Philippines": 1456,
+      "Remote": 870,
       "Unknown": 135
     },
     "sources": {
-      "Other": 5373,
+      "Other": 5384,
       "Greenhouse": 341,
-      "Workday": 299,
+      "Workday": 300,
       "LinkedIn": 278,
       "Ashby": 211,
       "iCIMS": 83,
@@ -22,8 +22,8 @@
       "Workable": 46,
       "SmartRecruiters": 44,
       "Indeed": 27,
+      "Jobvite": 8,
       "BrassRing": 8,
-      "Jobvite": 7,
       "Recruitee": 6,
       "Taleo": 4,
       "ADP": 2,
@@ -35,6 +35,96 @@
     }
   },
   "jobs": [
+    {
+      "id": "3a150aa2a16a",
+      "title": "He has worked as a software engineer for 14 years at companies including Microsoft, Twitter ...",
+      "company": "companies including Microsoft, Twitter ...",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.facebook.com/techinsider/photos/he-has-worked-as-a-software-engineer-for-14-years-at-companies-including-microso/1410730714259734/",
+      "source": "Other",
+      "description": "He has worked as a software engineer for 14 years at companies including Microsoft, Twitter, and Stripe \u2014 and he's seen how the job has changed.",
+      "date": "2026-08-01",
+      "timestamp": "2026-08-01T17:40:09+00:00",
+      "fetched_at": "2026-08-01T20:37:11.441299+00:00"
+    },
+    {
+      "id": "31bb7912d777",
+      "title": "He has worked as a software engineer for 14 years at companies including Microsoft, Twitter ...",
+      "company": "companies including Microsoft, Twitter ...",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.facebook.com/techinsider/posts/he-has-worked-as-a-software-engineer-for-14-years-at-companies-including-microso/1410730757593063/",
+      "source": "Other",
+      "description": "I've worked as a software engineer for 14 years. AI could cut junior jobs \u2014 but not the need for experienced engineers. : https://mrf. lu/259RD.",
+      "date": "2026-08-01",
+      "timestamp": "2026-08-01T17:39:08+00:00",
+      "fetched_at": "2026-08-01T20:37:11.340921+00:00"
+    },
+    {
+      "id": "96f46d15ef80",
+      "title": "Funko Careers - Sr. AI Engineer - Jobvite",
+      "company": "Funko",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.jobvite.com/funko/job/oJIzAfwk",
+      "source": "Jobvite",
+      "description": "As the Sr. AI Engineer , you will lead the design, development, and operationalization of AI-powered applications, intelligent automation, and agentic ...",
+      "date": "2026-08-01",
+      "timestamp": "2026-08-01T17:27:09+00:00",
+      "fetched_at": "2026-08-01T20:37:11.441767+00:00"
+    },
+    {
+      "id": "b926b7a2b0ac",
+      "title": "Software Engineer - STARLIMS Corporation - Career Page",
+      "company": "STARLIMS Corporation - Career Page",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://starlims.applytojob.com/apply/0UDhCwW9v9/Software-Engineer",
+      "source": "Other",
+      "description": "Software Engineer . Remote. Full Time. Software Engineering. Mid Level. Share. Primary function is to develop STARLIMS Software and to configure ...",
+      "date": "2026-08-01",
+      "timestamp": "2026-08-01T15:55:47+00:00",
+      "fetched_at": "2026-08-01T20:37:11.441916+00:00"
+    },
+    {
+      "id": "8d243ce54e75",
+      "title": "Senior Software Engineer , DOCA SDK - Careers at NVIDIA Corporation",
+      "company": "NVIDIA Corporation",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.nvidia.com/careers/job/893396516902?ncid=GTC-NVDECHUANG",
+      "source": "Other",
+      "description": "We are looking for a Senior Software Engineer to join our team developing the core technologies behind NVIDIA's SmartNIC platform.",
+      "date": "2026-08-01",
+      "timestamp": "2026-08-01T15:51:04+00:00",
+      "fetched_at": "2026-08-01T20:37:11.341754+00:00"
+    },
+    {
+      "id": "ce0f5ed1411a",
+      "title": "Senior Software Engineer in Chennai, Tamil N\u0101du, India | Technology & Digital at U.S. Bank",
+      "company": "U.S. Bank",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.usbank.com/global/en/job/UBNAGLOBAL20260017467EXTERNALENGLOBAL/Senior-Software-Engineer",
+      "source": "Other",
+      "description": "Job Description. Senior Software Engineer - (React / Node.js). Position Summary. We are seeking a highly skilled Senior Full Stack Engineer with 7 ...",
+      "date": "2026-08-01",
+      "timestamp": "2026-08-01T15:31:58+00:00",
+      "fetched_at": "2026-08-01T20:37:11.341959+00:00"
+    },
     {
       "id": "41f93740a24a",
       "title": "Cloud Engineer - HigherEdJobs",
@@ -49,6 +139,36 @@
       "date": "2026-08-01",
       "timestamp": "2026-08-01T14:54:12+00:00",
       "fetched_at": "2026-08-01T16:42:31.011807+00:00"
+    },
+    {
+      "id": "9ef90c4a9d8a",
+      "title": "Lead Data Engineer - T&T Job Details | McCormick & Company",
+      "company": "T&T Job Details | McCormick & Company",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mccormick.com/job/GURGAON-Lead-Data-Engineer-T&T-122001/1414476400/",
+      "source": "Other",
+      "description": "Lead Data Engineer - T&T. GURGAON, IN, 122001. You may know McCormick as a leader in herbs, spices, seasonings, and condiments \u2013 and we're only ...",
+      "date": "2026-08-01",
+      "timestamp": "2026-08-01T14:45:59+00:00",
+      "fetched_at": "2026-08-01T20:37:11.342345+00:00"
+    },
+    {
+      "id": "765a0e19b4b0",
+      "title": "Software Engineer , Analytical Engineering - Myworkdayjobs.com",
+      "company": "Bristolmyerssquibb",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Software-Engineer--Analytical-Engineering_R1604641-1",
+      "source": "Workday",
+      "description": "Software Engineer , Analytical Engineering \u00b7 Collaborate with the business to gather requirements and deliver data-products to enable data- informed ...",
+      "date": "2026-08-01",
+      "timestamp": "2026-08-01T14:03:48+00:00",
+      "fetched_at": "2026-08-01T20:37:11.342452+00:00"
     },
     {
       "id": "95665c4b0684",
@@ -126,6 +246,21 @@
       "fetched_at": "2026-08-01T16:42:31.319595+00:00"
     },
     {
+      "id": "7d2ff44f29ba",
+      "title": "DevOps Engineer , Application Support | Citi Careers",
+      "company": "Citi Careers",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.citi.com/job/new-castle/devops-engineer-application-support/287/98588429248",
+      "source": "Other",
+      "description": "Learn more about applying for DevOps Engineer , Application Support at Citi. Learn more about potential responsibilities, qualifications and career ...",
+      "date": "2026-08-01",
+      "timestamp": "2026-08-01T12:13:03+00:00",
+      "fetched_at": "2026-08-01T20:37:11.342960+00:00"
+    },
+    {
       "id": "1cdc8339ee39",
       "title": "Funko Careers - Sr. AI Engineer - Jobvite",
       "company": "Funko",
@@ -156,6 +291,21 @@
       "fetched_at": "2026-08-01T16:42:31.013018+00:00"
     },
     {
+      "id": "7adc430b0af6",
+      "title": "Cloud Platform Engineer - United States - 42384 - Maximus",
+      "company": "United States - 42384 - Maximus",
+      "role": "Platform Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://maximus.avature.net/careers/FolderDetail/United-States-Cloud-Platform-Engineer-42384/42384?source=eQuest",
+      "source": "Other",
+      "description": "Maximus is currently seeking a Cloud Platform Engineer .This is a remote position. Maximus is a trusted federal partner supporting mission\u2011critical ...",
+      "date": "2026-08-01",
+      "timestamp": "2026-08-01T11:49:33+00:00",
+      "fetched_at": "2026-08-01T20:37:11.444064+00:00"
+    },
+    {
       "id": "8f52766de36a",
       "title": "Staff Software Engineer - Engineer, San Francisco, United States",
       "company": "Staff Software Engineer",
@@ -171,6 +321,21 @@
       "fetched_at": "2026-08-01T12:44:42.794074+00:00"
     },
     {
+      "id": "fd2020c32374",
+      "title": "Computer Vision Software Engineer , Lead - - 128055 - Booz | Allen | Hamilton \u00ae - Careers",
+      "company": "- 128055 - Booz | Allen | Hamilton \u00ae - Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.boozallen.com/careers/JobDetail/Dayton-Computer-Vision-Software-Engineer-Lead-R0245705/128055",
+      "source": "Other",
+      "description": "Computer Vision Software Engineer , Lead. Dayton, Ohio, USA. Apply. Advance the nation. And your career. Driven by purpose. Belong. Join a culture of ...",
+      "date": "2026-08-01",
+      "timestamp": "2026-08-01T10:37:56+00:00",
+      "fetched_at": "2026-08-01T20:37:11.343686+00:00"
+    },
+    {
       "id": "e1f8de2e094a",
       "title": "Software engineer in Pune, India, 411006 | Engineering at Mastercard",
       "company": "Mastercard",
@@ -184,6 +349,36 @@
       "date": "2026-08-01",
       "timestamp": "2026-08-01T10:07:54+00:00",
       "fetched_at": "2026-08-01T16:42:31.013510+00:00"
+    },
+    {
+      "id": "08af652ae055",
+      "title": "Senior Software Engineer - ACR/ Budget - Criteo Careers",
+      "company": "ACR/ Budget - Criteo Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.criteo.com/en/jobs/r18353/senior-software-engineer-acr-budget/",
+      "source": "Other",
+      "description": "Senior Software Engineer - ACR/ Budget. Paris, France; Grenoble, France. Engineering; Permanent - Full Time. Senior Software Engineer - ACR/ Budget.",
+      "date": "2026-08-01",
+      "timestamp": "2026-08-01T08:34:49+00:00",
+      "fetched_at": "2026-08-01T20:37:11.343963+00:00"
+    },
+    {
+      "id": "cea8d756e553",
+      "title": "Software Engineer III Front End - Careers At Ad Hoc",
+      "company": "Ad Hoc",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://adhoc.hrmdirect.com/employment/job-opening.php?req=3776766&req_loc=1414083&&cust_sort1=245588&",
+      "source": "Other",
+      "description": "Software Engineer III Front EndThis is a remote position Job Req 916 Ad Hoc is a technology company that empowers organizations to deliver ...",
+      "date": "2026-08-01",
+      "timestamp": "2026-08-01T08:03:14+00:00",
+      "fetched_at": "2026-08-01T20:37:11.344103+00:00"
     },
     {
       "id": "d1409560bd96",
