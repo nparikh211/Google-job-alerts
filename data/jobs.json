@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-08-02T16:41:13.097607+00:00",
-  "total_jobs": 6893,
+  "last_updated": "2026-08-02T20:39:02.094739+00:00",
+  "total_jobs": 6911,
   "stats": {
-    "total_companies": 3367,
+    "total_companies": 3377,
     "total_roles": 94,
     "regions": {
-      "India": 4452,
-      "Philippines": 1464,
-      "Remote": 870,
+      "India": 4460,
+      "Philippines": 1471,
+      "Remote": 873,
       "Unknown": 135
     },
     "sources": {
-      "Other": 5410,
-      "Greenhouse": 342,
+      "Other": 5425,
+      "Greenhouse": 343,
       "Workday": 300,
-      "LinkedIn": 278,
+      "LinkedIn": 279,
       "Ashby": 211,
       "iCIMS": 83,
       "Breezy": 73,
-      "Lever": 49,
+      "Lever": 50,
       "Workable": 46,
       "SmartRecruiters": 44,
       "Indeed": 27,
@@ -36,6 +36,51 @@
   },
   "jobs": [
     {
+      "id": "eb5a05e52324",
+      "title": "Job: Staff Software Engineer 1 - PowerSchool",
+      "company": "PowerSchool",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.powerschool.com/company/careers/job/?referencenumber=2026-52937&location=IN-KA-Bengaluru",
+      "source": "Other",
+      "description": "Staff Software Engineer 1. Research and Development. 2026-52937. Bengaluru, India. Apply View All Jobs View All Bangalore Jobs. Overview. At ...",
+      "date": "2026-08-02",
+      "timestamp": "2026-08-02T17:39:44+00:00",
+      "fetched_at": "2026-08-02T20:39:02.062963+00:00"
+    },
+    {
+      "id": "275192ff4aee",
+      "title": "Lead Software Engineer - UI/UX & ReactJS, BENGALURU, Karn\u0101taka | Wells Fargo",
+      "company": "UI/UX & ReactJS, BENGALURU, Karn\u0101taka | Wells Fargo",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.wellsfargojobs.com/fr/jobs/r-563371/lead-software-engineer-ui-ux-reactjs/",
+      "source": "Other",
+      "description": "About this role: Wells Fargo is seeking a Lead Software Engineer with UI/UX, ReactJS skills In this role, you will: Lead complex technology ...",
+      "date": "2026-08-02",
+      "timestamp": "2026-08-02T16:44:23+00:00",
+      "fetched_at": "2026-08-02T20:39:02.063356+00:00"
+    },
+    {
+      "id": "4bd98023a33d",
+      "title": "MSM Technology, LLC - Senior AI Software Engineer - Paylocity",
+      "company": "MSM Technology, LLC",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4382504",
+      "source": "Other",
+      "description": "The Senior Software Engineer provides dedicated infrastructure and software engineering services to ensure the CLIENT's growing portfolio of ...",
+      "date": "2026-08-02",
+      "timestamp": "2026-08-02T16:13:02+00:00",
+      "fetched_at": "2026-08-02T20:39:02.063491+00:00"
+    },
+    {
       "id": "651125f8d484",
       "title": "Staff DevOps Engineer - Federal, Chicago | ServiceNow Careers",
       "company": "Federal, Chicago | ServiceNow Careers",
@@ -51,6 +96,96 @@
       "fetched_at": "2026-08-02T16:41:13.071395+00:00"
     },
     {
+      "id": "66a339d6de81",
+      "title": "Senior Data Engineer (Data Ops) \u2013 Idoven \u2013 Permanent contract \u2013 Fully-remote",
+      "company": "remote",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.welcometothejungle.com/en/companies/idoven/jobs/senior-data-engineer-data-ops_madrid_d7xq6sxn",
+      "source": "Other",
+      "description": "These companies are also recruiting for the position of \u201cData / Business Intelligence\u201d. Front \u00b7 Senior Applied AI Engineer . Front. Permanent contract.",
+      "date": "2026-08-02",
+      "timestamp": "2026-08-02T12:42:49+00:00",
+      "fetched_at": "2026-08-02T20:39:02.064067+00:00"
+    },
+    {
+      "id": "f2e507485d12",
+      "title": "Job Application for Application Software Engineer , Applied AI at SpaceX - Greenhouse",
+      "company": "Spacex",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/spacex/jobs/8658744002?gh_jid=8658744002",
+      "source": "Greenhouse",
+      "description": "Application Software Engineer , Applied AI. Redmond, WA. Apply. SpaceX was founded under the belief that a future where humanity is out exploring the ...",
+      "date": "2026-08-02",
+      "timestamp": "2026-08-02T11:29:07+00:00",
+      "fetched_at": "2026-08-02T20:39:02.064189+00:00"
+    },
+    {
+      "id": "85724ceea795",
+      "title": "Senior Site Reliability Engineer - MongoDB",
+      "company": "MongoDB",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.mongodb.com/careers/job/?gh_jid=8051379&gh_src=Blind",
+      "source": "Other",
+      "description": "As a Senior Site Reliability Engineer on this new team, you will be responsible for enabling deployment at scale of AI applications and improving the ...",
+      "date": "2026-08-02",
+      "timestamp": "2026-08-02T11:22:55+00:00",
+      "fetched_at": "2026-08-02T20:39:02.064327+00:00"
+    },
+    {
+      "id": "0538ac81f1b8",
+      "title": "Software Engineer : r/Salary - Reddit",
+      "company": "Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.reddit.com/r/Salary/comments/1vd2b6x/software_engineer/",
+      "source": "Other",
+      "description": "[ Senior Software Engineer ] [VA, USA] - $132,600 \u00b7 r/Salary. \u2022 8mo ago. [ Senior Software Engineer ] [VA, USA] - $132,600. 16. 40. [ Software Engineer ] [ ...",
+      "date": "2026-08-02",
+      "timestamp": "2026-08-02T11:10:07+00:00",
+      "fetched_at": "2026-08-02T20:39:02.064466+00:00"
+    },
+    {
+      "id": "4e192ffb135d",
+      "title": "Data Engineer , Senior - - 123494 - Booz | Allen | Hamilton \u00ae",
+      "company": "- 123494 - Booz | Allen | Hamilton \u00ae",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.boozallen.com/jobs/JobDetail?jobId=123494",
+      "source": "Other",
+      "description": "Data Engineer , Senior. The Opportunity: Ever-expanding technology like IoT, machine learning, and artificial intelligence means that there's more ...",
+      "date": "2026-08-02",
+      "timestamp": "2026-08-02T11:01:50+00:00",
+      "fetched_at": "2026-08-02T20:39:02.064660+00:00"
+    },
+    {
+      "id": "1b6666818035",
+      "title": "Code Gaia (Remote): Senior Software Engineer Full Stack (all genders) - Join",
+      "company": "Join",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://join.com/companies/codegaia/16527438-senior-software-engineer-full-stack-all-genders",
+      "source": "Other",
+      "description": "Code Gaia has a remote job opening for Senior Software Engineer Full Stack (all genders) (published: 26.06.2026). Apply now or check the other ...",
+      "date": "2026-08-02",
+      "timestamp": "2026-08-02T10:30:18+00:00",
+      "fetched_at": "2026-08-02T20:39:02.064859+00:00"
+    },
+    {
       "id": "d1fa5fd860ff",
       "title": "Stripe Careers | Backend Engineer , Payments Experiences",
       "company": "Stripe Careers",
@@ -64,6 +199,21 @@
       "date": "2026-08-02",
       "timestamp": "2026-08-02T10:10:01+00:00",
       "fetched_at": "2026-08-02T16:41:13.071531+00:00"
+    },
+    {
+      "id": "9357a2189d08",
+      "title": "Senior Software Engineer , Infrastructure ($160k-$250k + Equity) at well-funded AI video platform",
+      "company": "well",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/senior-software-engineer-infrastructure-%24160k-%24250k-%2B-equity-at-well-funded-ai-video-platform-at-jack-jill-4447626927?position=55&pageNum=0&refId=ucWWmaXmw501HLZVQCpafA%3D%3D&trackingId=ff8xhrqlL0T7xZ6S5igYdg%3D%3D",
+      "source": "LinkedIn",
+      "description": "Senior Software Engineer , Infrastructure ($160k-$250k + Equity) at well ... Senior Backend Engineer . MrBeast. San Mateo, CA 2 weeks ago.",
+      "date": "2026-08-02",
+      "timestamp": "2026-08-02T09:13:00+00:00",
+      "fetched_at": "2026-08-02T20:39:02.065371+00:00"
     },
     {
       "id": "0406402c934d",
@@ -94,6 +244,51 @@
       "date": "2026-08-02",
       "timestamp": "2026-08-02T08:52:10+00:00",
       "fetched_at": "2026-08-02T16:41:13.071825+00:00"
+    },
+    {
+      "id": "f3ddd1bae690",
+      "title": "Bloom & Wild Group - Platform Engineer - Lever",
+      "company": "Bloomon",
+      "role": "Platform Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.lever.co/bloomon/0456acf7-4fed-4ef7-b115-7bb8e94a99f8",
+      "source": "Lever",
+      "description": "As a Platform Engineer , you'll help our engineering teams ship code faster, safely, and on reliable infrastructure. You'll split your time roughly ...",
+      "date": "2026-08-02",
+      "timestamp": "2026-08-02T08:42:09+00:00",
+      "fetched_at": "2026-08-02T20:39:02.065831+00:00"
+    },
+    {
+      "id": "a5fb5994ed1b",
+      "title": "Senior Software Engineer in Remote, Kentucky - Humana Careers",
+      "company": "Humana Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.humana.com/us/en/job/R-418212/Senior-Software-Engineer",
+      "source": "Other",
+      "description": "The Senior Software Engineer codes software applications based on business requirements. ... Principal, AI Engineer - Agent Enablement and Platforms.",
+      "date": "2026-08-02",
+      "timestamp": "2026-08-02T08:10:49+00:00",
+      "fetched_at": "2026-08-02T20:39:02.065964+00:00"
+    },
+    {
+      "id": "5d8ba3172015",
+      "title": "CNBC - Software engineer quit a $250000 job to open a matcha cafe in Manhattan",
+      "company": "CNBC",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.facebook.com/cnbc/photos/software-engineer-quit-a-250000-job-to-open-a-matcha-cafe-in-manhattan-i-wanted-/1439768794691176/",
+      "source": "Other",
+      "description": "Software engineer quit a $250000 job to open a matcha cafe in Manhattan: 'I wanted purpose and meaning'. Find the link in the comments.",
+      "date": "2026-08-02",
+      "timestamp": "2026-08-02T07:15:25+00:00",
+      "fetched_at": "2026-08-02T20:39:02.066300+00:00"
     },
     {
       "id": "757bc95f243f",
@@ -741,6 +936,36 @@
       "fetched_at": "2026-08-01T20:37:11.343686+00:00"
     },
     {
+      "id": "5c67de1bf4ff",
+      "title": "Embedded Software Engineer - Careers at HP",
+      "company": "Careers at HP",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://apply.hp.com/careers/job/43423968?hl=ko&domain=hp.com",
+      "source": "Other",
+      "description": "Embedded Software Engineer . Austin, Texas, United States of ... Senior Software Engineer . 3. Software Engineer . 4. Lead Software Engineer .",
+      "date": "2026-08-01",
+      "timestamp": "2026-08-01T10:34:57+00:00",
+      "fetched_at": "2026-08-02T20:39:01.962027+00:00"
+    },
+    {
+      "id": "98f68bc340ef",
+      "title": "Site Reliability Engineer job - Experis USA - 406595",
+      "company": "Experis USA - 406595",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.experis.com/en/job/406595/site-reliability-engineer",
+      "source": "Other",
+      "description": "As a Site Reliability Engineer , you will be part of the SRE Fleet team supporting global cloud platform operations. The ideal candidate will ...",
+      "date": "2026-08-01",
+      "timestamp": "2026-08-01T10:18:00+00:00",
+      "fetched_at": "2026-08-02T20:39:01.962183+00:00"
+    },
+    {
       "id": "e1f8de2e094a",
       "title": "Software engineer in Pune, India, 411006 | Engineering at Mastercard",
       "company": "Mastercard",
@@ -754,6 +979,21 @@
       "date": "2026-08-01",
       "timestamp": "2026-08-01T10:07:54+00:00",
       "fetched_at": "2026-08-01T16:42:31.013510+00:00"
+    },
+    {
+      "id": "debefba82785",
+      "title": "Embedded Software Engineer - - 128132 - Booz | Allen | Hamilton \u00ae",
+      "company": "- 128132 - Booz | Allen | Hamilton \u00ae",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.boozallen.com/jobs/JobDetail/King-George-Embedded-Software-Engineer-R0245838/128132",
+      "source": "Other",
+      "description": "As an embedded software engineer , you know how to create and maintain crucial pieces of software. You use your knowledge to write and optimize code ...",
+      "date": "2026-08-01",
+      "timestamp": "2026-08-01T09:03:18+00:00",
+      "fetched_at": "2026-08-02T20:39:01.962421+00:00"
     },
     {
       "id": "08af652ae055",
@@ -876,6 +1116,21 @@
       "fetched_at": "2026-08-01T09:45:57.636848+00:00"
     },
     {
+      "id": "1127b85dee98",
+      "title": "Software Engineer , API Agents - OpenAI",
+      "company": "OpenAI",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://openai.com/careers/software-engineer-api-agents-san-francisco/",
+      "source": "Other",
+      "description": "Software Engineer , API Agents ... API Agents builds the shared agent harness, tools, and infrastructure that turn OpenAI's frontier models into systems ...",
+      "date": "2026-08-01",
+      "timestamp": "2026-08-01T05:10:21+00:00",
+      "fetched_at": "2026-08-02T20:39:01.962578+00:00"
+    },
+    {
       "id": "71fa73ab52b4",
       "title": "Software Engineer in Santa Clara, Californie, \u00c9tats-Unis d'Am\u00e9rique - Careers at Roche",
       "company": "Roche",
@@ -889,6 +1144,21 @@
       "date": "2026-08-01",
       "timestamp": "2026-08-01T05:03:01+00:00",
       "fetched_at": "2026-08-01T06:17:40.230240+00:00"
+    },
+    {
+      "id": "eb1dd44c222a",
+      "title": "Embedded Software Engineer , Mobile Robotics - Job ID: 10489396 - Amazon Careers",
+      "company": "Job ID: 10489396 - Amazon Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.amazon.jobs/en/jobs/10489396/embedded-software-engineer-mobile-robotics",
+      "source": "Other",
+      "description": "Description. Amazon Robotics is seeking an Embedded Software Engineer with Rust programming expertise to join our Safety Perception team and help ...",
+      "date": "2026-08-01",
+      "timestamp": "2026-08-01T04:54:19+00:00",
+      "fetched_at": "2026-08-02T20:39:01.962758+00:00"
     },
     {
       "id": "29766e970f46",
