@@ -1,27 +1,27 @@
 {
-  "last_updated": "2026-08-02T20:39:02.094739+00:00",
-  "total_jobs": 6911,
+  "last_updated": "2026-08-03T01:19:37.874138+00:00",
+  "total_jobs": 6923,
   "stats": {
-    "total_companies": 3377,
+    "total_companies": 3383,
     "total_roles": 94,
     "regions": {
-      "India": 4460,
-      "Philippines": 1471,
-      "Remote": 873,
+      "India": 4470,
+      "Philippines": 1472,
+      "Remote": 874,
       "Unknown": 135
     },
     "sources": {
-      "Other": 5425,
+      "Other": 5433,
       "Greenhouse": 343,
-      "Workday": 300,
-      "LinkedIn": 279,
+      "Workday": 301,
+      "LinkedIn": 280,
       "Ashby": 211,
       "iCIMS": 83,
       "Breezy": 73,
-      "Lever": 50,
+      "Lever": 51,
       "Workable": 46,
       "SmartRecruiters": 44,
-      "Indeed": 27,
+      "Indeed": 28,
       "Jobvite": 8,
       "BrassRing": 8,
       "Recruitee": 6,
@@ -36,6 +36,51 @@
   },
   "jobs": [
     {
+      "id": "affbe6d213f5",
+      "title": "Senior Data Engineer \u2013 Correlation One \u2013 Permanent contract \u2013 Fully-remote",
+      "company": "remote",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.welcometothejungle.com/en/companies/correlation-one/jobs/senior-data-engineer_gb_q64lpyug",
+      "source": "Other",
+      "description": "Senior Data Engineer . Job summary. Permanent contract. United Kingdom ... AI Engineer - Rennes (H/F). Safran.AI (ex ...",
+      "date": "2026-08-02",
+      "timestamp": "2026-08-02T20:38:02+00:00",
+      "fetched_at": "2026-08-03T01:19:37.843042+00:00"
+    },
+    {
+      "id": "99fcdf8986fe",
+      "title": "Software Engineer 5 - Studio Production Engineering | Warsaw,Poland - Netflix Careers",
+      "company": "Software Engineer 5",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://explore.jobs.netflix.net/careers/job/790316855872-software-engineer-5-studio-production-engineering-warsaw-poland?domain=netflix.com&microsite=netflix.com",
+      "source": "Other",
+      "description": "Software Engineer 5 - Studio Production Engineering. Warsaw, Poland. Job Requisition ID. JR41475. Teams. Engineering. Work Type. Onsite ...",
+      "date": "2026-08-02",
+      "timestamp": "2026-08-02T18:55:18+00:00",
+      "fetched_at": "2026-08-03T01:19:37.753300+00:00"
+    },
+    {
+      "id": "80bd913deeef",
+      "title": "Senior Data Engineer in Bangalore, Karnataka, India | Carriere aziendali at Zimmer Biomet",
+      "company": "Zimmer Biomet",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.zimmerbiomet.com/it/it/job/11476/Senior-Data-Engineer",
+      "source": "Other",
+      "description": "What You Can Expect. The Senior Data Engineer is responsible for designing, developing, and maintaining scalable data pipelines and models within ...",
+      "date": "2026-08-02",
+      "timestamp": "2026-08-02T18:15:19+00:00",
+      "fetched_at": "2026-08-03T01:19:37.843464+00:00"
+    },
+    {
       "id": "eb5a05e52324",
       "title": "Job: Staff Software Engineer 1 - PowerSchool",
       "company": "PowerSchool",
@@ -49,6 +94,66 @@
       "date": "2026-08-02",
       "timestamp": "2026-08-02T17:39:44+00:00",
       "fetched_at": "2026-08-02T20:39:02.062963+00:00"
+    },
+    {
+      "id": "b5f66a33bb61",
+      "title": "Senior Software Engineer Search Rewarding Careers at Keurig Dr Pepper",
+      "company": "Keurig Dr Pepper",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.keurigdrpepper.com/en/job/-/-/42849/96297474864?UTM_source=Linkedin00000000000000000",
+      "source": "Other",
+      "description": "Drink in the possibilities at Keurig Dr Pepper. Learn more about our Senior Software Engineer job in Frisco and apply here.",
+      "date": "2026-08-02",
+      "timestamp": "2026-08-02T17:33:34+00:00",
+      "fetched_at": "2026-08-03T01:19:37.754015+00:00"
+    },
+    {
+      "id": "b163a19a27fb",
+      "title": "Lead Software Engineer - UI/UX & ReactJS, BENGALURU, Karn\u0101taka | Wells Fargo",
+      "company": "UI/UX & ReactJS, BENGALURU, Karn\u0101taka | Wells Fargo",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.wellsfargojobs.com/en/jobs/r-563371/lead-software-engineer-ui-ux-reactjs/",
+      "source": "Other",
+      "description": "About this role: Wells Fargo is seeking a Lead Software Engineer with UI/UX, ReactJS skills In this role, you will: Lead complex technology ...",
+      "date": "2026-08-02",
+      "timestamp": "2026-08-02T17:14:46+00:00",
+      "fetched_at": "2026-08-03T01:19:37.754239+00:00"
+    },
+    {
+      "id": "b5d2f1fb9a62",
+      "title": "Full- Stack Senior Software Engineer - Myworkdayjobs.com",
+      "company": "Washpost",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://washpost.wd5.myworkdayjobs.com/en-US/washingtonpostcareers/job/Senior-Software-Engineer_JR-90275863",
+      "source": "Workday",
+      "description": "We are looking for a Full-Stack Senior Software Engineer to help shape the future of newsletter and content delivery at The Washington Post. This role ...",
+      "date": "2026-08-02",
+      "timestamp": "2026-08-02T16:48:28+00:00",
+      "fetched_at": "2026-08-03T01:19:37.754482+00:00"
+    },
+    {
+      "id": "b68a17cf4c17",
+      "title": "Senior Software Engineer job | jobs at DHL",
+      "company": "DHL",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.dhl.com/amer/pt/job/DPDHGLOBALAV367430PTAMEREXTERNAL/Senior-Software-Engineer",
+      "source": "Other",
+      "description": "Apply for Senior Software Engineer job with DHL in HYDERABAD, Andhra Pradesh, India ... Senior DevOps Engineer . Dispon\u00edvel em 2 locais. Categoria.",
+      "date": "2026-08-02",
+      "timestamp": "2026-08-02T16:45:58+00:00",
+      "fetched_at": "2026-08-03T01:19:37.754663+00:00"
     },
     {
       "id": "275192ff4aee",
@@ -79,6 +184,81 @@
       "date": "2026-08-02",
       "timestamp": "2026-08-02T16:13:02+00:00",
       "fetched_at": "2026-08-02T20:39:02.063491+00:00"
+    },
+    {
+      "id": "8bfb2956ee07",
+      "title": "Zoox - Senior Machine Learning Engineer - Perception Detection and Tracking - Lever",
+      "company": "Zoox",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.lever.co/zoox/9c04f9c6-1579-413b-9f07-52e4e24f2289",
+      "source": "Lever",
+      "description": "Senior Machine Learning Engineer - Perception Detection and Tracking. Foster City, CA / Boston, MA. Software \u2013 Autonomy Software /. Full-time ...",
+      "date": "2026-08-02",
+      "timestamp": "2026-08-02T16:07:07+00:00",
+      "fetched_at": "2026-08-03T01:19:37.755253+00:00"
+    },
+    {
+      "id": "7fd561106904",
+      "title": "Cloud Engineer Jobs - ClearanceJobs",
+      "company": "ClearanceJobs",
+      "role": "Cloud Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.clearancejobs.com/jobs/9072004/cloud-engineer",
+      "source": "Other",
+      "description": "Cloud Engineer requiring an active security clearance. Find other Guidehouse defense and intelligence career opportunities on ClearanceJobs.com.",
+      "date": "2026-08-02",
+      "timestamp": "2026-08-02T15:12:09+00:00",
+      "fetched_at": "2026-08-03T01:19:37.844488+00:00"
+    },
+    {
+      "id": "065a7d967d8d",
+      "title": "Software Engineer Salaries in Virginia for McDonald's | Indeed.com",
+      "company": "Indeed.com",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.indeed.com/cmp/McDonald's/salaries/Software-Engineer/Virginia?period=yearly",
+      "source": "Indeed",
+      "description": "Minimum wage may differ by jurisdiction and you should consult the employer for actual salary figures. Highest paying cities for Software Engineer in ...",
+      "date": "2026-08-02",
+      "timestamp": "2026-08-02T14:06:20+00:00",
+      "fetched_at": "2026-08-03T01:19:37.755403+00:00"
+    },
+    {
+      "id": "ba6ef5ea5209",
+      "title": "AI Engineer (Generalist) ($180K-$250K + Equity) at BUILD, Inc. - LinkedIn",
+      "company": "BUILD, Inc.",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/ai-engineer-generalist-%24180k-%24250k-%2B-equity-at-build-inc-at-jack-jill-4447654164?position=48&pageNum=0&refId=ipzK9a1bFoccgC4vb7%2FRNQ%3D%3D&trackingId=tfwQdFjx7yw1vD9ajAKnVQ%3D%3D",
+      "source": "LinkedIn",
+      "description": "AI Engineer ... AI Software Engineer (Fullstack). Clearstory. Walnut Creek, CA 5 days ago. Machine Learning Engineer . Machine Learning Engineer .",
+      "date": "2026-08-02",
+      "timestamp": "2026-08-02T14:05:51+00:00",
+      "fetched_at": "2026-08-03T01:19:37.755694+00:00"
+    },
+    {
+      "id": "c82680c828c7",
+      "title": "Chip Validation Software Engineer - Job ID: 10489894 - Amazon Careers",
+      "company": "Job ID: 10489894 - Amazon Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://amazon.jobs/en/jobs/10489894/chip-validation-software-engineer",
+      "source": "Other",
+      "description": "Chip Validation Software Engineer . Job ID: 10489894 | Annapurna Labs Ltd. Apply now. Description. Annapurna Labs, an Amazon company, designs and ...",
+      "date": "2026-08-02",
+      "timestamp": "2026-08-02T13:10:03+00:00",
+      "fetched_at": "2026-08-03T01:19:37.755866+00:00"
     },
     {
       "id": "651125f8d484",
