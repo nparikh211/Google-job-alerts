@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-08-03T06:48:36.152347+00:00",
-  "total_jobs": 6927,
+  "last_updated": "2026-08-03T11:00:28.065668+00:00",
+  "total_jobs": 6943,
   "stats": {
-    "total_companies": 3387,
+    "total_companies": 3395,
     "total_roles": 94,
     "regions": {
-      "India": 4474,
+      "India": 4487,
       "Philippines": 1472,
-      "Remote": 874,
+      "Remote": 877,
       "Unknown": 135
     },
     "sources": {
-      "Other": 5435,
+      "Other": 5449,
       "Greenhouse": 343,
       "Workday": 302,
       "LinkedIn": 281,
-      "Ashby": 211,
+      "Ashby": 212,
       "iCIMS": 83,
       "Breezy": 73,
-      "Lever": 51,
+      "Lever": 52,
       "Workable": 46,
       "SmartRecruiters": 44,
       "Indeed": 28,
@@ -35,6 +35,216 @@
     }
   },
   "jobs": [
+    {
+      "id": "1d84ce71b261",
+      "title": "Senior Backend Engineer - PHP - Arrive - Careers",
+      "company": "PHP - Arrive - Careers",
+      "role": "Backend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.arrive.com/jobs/8159062-senior-backend-engineer-php",
+      "source": "Other",
+      "description": "Senior Backend Engineer - PHP. Build resilient, event-driven mobility services with PHP 8+, Laravel and AWS. Own architecture end to end and help ...",
+      "date": "2026-08-03",
+      "timestamp": "2026-08-03T09:13:41+00:00",
+      "fetched_at": "2026-08-03T11:00:27.534574+00:00"
+    },
+    {
+      "id": "766b2c358646",
+      "title": "Lead, Software Engineer at L3Harris Technologies",
+      "company": "L3Harris Technologies",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.l3harris.com/en/job/herndon/lead-software-engineer/4832/98687286432",
+      "source": "Other",
+      "description": "Job Title: : Lead, Software Engineer \u00b7 Job Code : 42068 \u00b7 Job Location: Herndon, VA (on-site) \u00b7 In a fast moving and increasingly complex world, L3Harris ...",
+      "date": "2026-08-03",
+      "timestamp": "2026-08-03T09:12:22+00:00",
+      "fetched_at": "2026-08-03T11:00:27.534914+00:00"
+    },
+    {
+      "id": "1a97e6fccaa4",
+      "title": "Backend Engineer | Tinybird",
+      "company": "Tinybird",
+      "role": "Backend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.tinybird.co/job-offers/258beb58-f081-45a3-b30e-81c1359536c5",
+      "source": "Other",
+      "description": "Looking for a career change? Apply now for the Backend Engineer at Tinybird.",
+      "date": "2026-08-03",
+      "timestamp": "2026-08-03T08:36:20+00:00",
+      "fetched_at": "2026-08-03T11:00:27.535206+00:00"
+    },
+    {
+      "id": "bfebf4ee1e6b",
+      "title": "Software Engineer at UnitedHealth Group",
+      "company": "UnitedHealth Group",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.unitedhealthgroup.com/job/hyderabad/software-engineer/34088/98680524656",
+      "source": "Other",
+      "description": "Software Engineer . Requisition number: 2377400 Job category: Technology Primary location: Hyderabad, India Date posted: 08/02/ ...",
+      "date": "2026-08-03",
+      "timestamp": "2026-08-03T08:31:00+00:00",
+      "fetched_at": "2026-08-03T11:00:27.535464+00:00"
+    },
+    {
+      "id": "ced2c61063f3",
+      "title": "Software Engineer - Build.io - Japan Dev",
+      "company": "Build.io - Japan Dev",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://japan-dev.com/jobs/build-io/buildio-software-engineer---buildio-qek024",
+      "source": "Other",
+      "description": "Web Frontend Engineer (Vue.js / TypeScript) \u2014 Mobile Payments \u2014 T ... Senior Software Engineer in Machine Learning. Cogent Labs; Tokyo. Apply.",
+      "date": "2026-08-03",
+      "timestamp": "2026-08-03T08:28:04+00:00",
+      "fetched_at": "2026-08-03T11:00:27.535805+00:00"
+    },
+    {
+      "id": "cffdf165fbfa",
+      "title": "Software Engineer , Backend @ Mirage - Jobs",
+      "company": "Mirage",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/mirage/d5b5193e-90e8-4d10-8e01-e8fdd7dad6e1",
+      "source": "Ashby",
+      "description": "Software Engineer , Backend. Location. Union Square, New York City. Employment Type. Full time. Department. Engineering. Compensation. $175K \u2013 $275K ...",
+      "date": "2026-08-03",
+      "timestamp": "2026-08-03T08:10:13+00:00",
+      "fetched_at": "2026-08-03T11:00:27.536043+00:00"
+    },
+    {
+      "id": "55204d9a906a",
+      "title": "Filevine - Staff Site Reliability Engineer - Lever",
+      "company": "Filevine",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.lever.co/filevine/e57a5f16-0711-4f50-a9a9-d19edf7b097a",
+      "source": "Lever",
+      "description": "Staff Site Reliability Engineer ... Filevine is a Legal AI company delivering Legal Operating Intelligence for the future of legal work. Grounded in a ...",
+      "date": "2026-08-03",
+      "timestamp": "2026-08-03T07:57:50+00:00",
+      "fetched_at": "2026-08-03T11:00:27.536252+00:00"
+    },
+    {
+      "id": "ae4fd74986c9",
+      "title": "Full-Stack Engineer - Forward-Deployed (Remote) at Minerva | Y Combinator's Work at a Startup",
+      "company": "Minerva",
+      "role": "Stack Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.workatastartup.com/jobs/102447",
+      "source": "Other",
+      "description": "Full-Stack Engineer - Forward-Deployed (Remote) ... Software Engineer Jobs in San FranciscoProduct Manager Jobs in San Francisco Software Engineer ...",
+      "date": "2026-08-03",
+      "timestamp": "2026-08-03T07:33:28+00:00",
+      "fetched_at": "2026-08-03T11:00:27.537196+00:00"
+    },
+    {
+      "id": "79e13ef33b4a",
+      "title": "Back End Software Engineer - Careers at SLB",
+      "company": "SLB",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://apply.slb.com/careers/apply?pid=563499734125240&domain=slb.com",
+      "source": "Other",
+      "description": "Develop server-side logic, definition and maintenance of the central database, and ensure high performance and responsiveness to requests from the ...",
+      "date": "2026-08-03",
+      "timestamp": "2026-08-03T06:00:53+00:00",
+      "fetched_at": "2026-08-03T11:00:27.537691+00:00"
+    },
+    {
+      "id": "3d5b58702dfc",
+      "title": "Staff Data Engineer \u2014 Subscriptions User Understanding | Life at Spotify",
+      "company": "Spotify",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://lifeatspotify.com/jobs/staff-data-engineer-subscriptions-user-understanding",
+      "source": "Other",
+      "description": "Flexible public holidays, swap days off according to your values and beliefs. Similar jobs. Senior Fullstack Engineer . London ...",
+      "date": "2026-08-03",
+      "timestamp": "2026-08-03T05:33:36+00:00",
+      "fetched_at": "2026-08-03T11:00:27.538080+00:00"
+    },
+    {
+      "id": "fe1643514546",
+      "title": "Software engineer with 3.5 year gap. : r/cscareerquestions - Reddit",
+      "company": "Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/cscareerquestions/comments/1vdvls6/software_engineer_with_35_year_gap/",
+      "source": "Other",
+      "description": "Mid- senior software engineer getting 0 traction. 59. 80. Who has at ... Software Engineer or Data Engineer Career Choice? 11. 19. Lost motivation ...",
+      "date": "2026-08-03",
+      "timestamp": "2026-08-03T05:15:20+00:00",
+      "fetched_at": "2026-08-03T11:00:27.538413+00:00"
+    },
+    {
+      "id": "6bddb2a77370",
+      "title": "Senior Software Engineer - .Net, Azure at UnitedHealth Group",
+      "company": "UnitedHealth Group",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.unitedhealthgroup.com/job/bengaluru/senior-software-engineer-net-azure/34088/98680525136",
+      "source": "Other",
+      "description": "Senior Software Engineer - .Net, Azure. Requisition number: 2375313 Job category: Technology Primary location: Bengaluru, India Date posted: 08/02/ ...",
+      "date": "2026-08-03",
+      "timestamp": "2026-08-03T04:34:25+00:00",
+      "fetched_at": "2026-08-03T11:00:27.538715+00:00"
+    },
+    {
+      "id": "d988f2cbfbc8",
+      "title": "Software Engineer (SupportHub) \u2013 EnergyHub \u2013 Permanent contract \u2013 Fully-remote",
+      "company": "remote",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.welcometothejungle.com/en/companies/energyhub/jobs/software-engineer-supporthub_us_neveqvql",
+      "source": "Other",
+      "description": "These companies are also recruiting for the position of \u201cSoftware & Web Development\u201d. Zefir \u00b7 Senior, Software Engineer ... Senior Backend Engineer .",
+      "date": "2026-08-03",
+      "timestamp": "2026-08-03T03:31:25+00:00",
+      "fetched_at": "2026-08-03T11:00:27.539095+00:00"
+    },
+    {
+      "id": "465362c62832",
+      "title": "How I went from React developer to AI engineer in 8 months - MentorCruise",
+      "company": "MentorCruise",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://mentorcruise.com/blog/how-i-went-from-react-developer-to-ai-engineer-in-8-months-8b9e1/",
+      "source": "Other",
+      "description": "But I will be honest that it taught me less about being an AI engineer than the RAG pipeline did. What it did teach me was rigour about evaluation ...",
+      "date": "2026-08-03",
+      "timestamp": "2026-08-03T02:24:58+00:00",
+      "fetched_at": "2026-08-03T11:00:27.539505+00:00"
+    },
     {
       "id": "f1508e86fce0",
       "title": "Senior Software Engineer Explains: 5 Jobs That Will EXPLODE in the Next 5 Years",
@@ -64,6 +274,36 @@
       "date": "2026-08-03",
       "timestamp": "2026-08-03T00:26:15+00:00",
       "fetched_at": "2026-08-03T06:48:36.029412+00:00"
+    },
+    {
+      "id": "c219844c01ef",
+      "title": "M365 Platform Engineer - United States - 42424 - Maximus",
+      "company": "United States - 42424 - Maximus",
+      "role": "Platform Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://maximus.avature.net/careers/FolderDetail/United-States-M365-Platform-Engineer-42424/42424?source=HBCU_Connect",
+      "source": "Other",
+      "description": "M365 Platform Engineer . General information. Job Posting Title. M365 Platform Engineer . Date. Wednesday, June 3, 2026. City. Remote. Country. United ...",
+      "date": "2026-08-03",
+      "timestamp": "2026-08-03T00:19:11+00:00",
+      "fetched_at": "2026-08-03T11:00:27.540455+00:00"
+    },
+    {
+      "id": "284e37e97678",
+      "title": "Software Engineer , API Multimodal | OpenAI",
+      "company": "OpenAI",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://openai.com/careers/software-engineer-api-multimodal-san-francisco/",
+      "source": "Other",
+      "description": "Software Engineer , API Multimodal \u00b7 Design, build, and ship developer-facing APIs and backend services that serve frontier models. \u00b7 Architect low- ...",
+      "date": "2026-08-02",
+      "timestamp": "2026-08-02T23:44:53+00:00",
+      "fetched_at": "2026-08-03T11:00:27.540788+00:00"
     },
     {
       "id": "affbe6d213f5",
