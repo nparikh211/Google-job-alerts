@@ -1,31 +1,31 @@
 {
-  "last_updated": "2026-08-03T14:06:53.538792+00:00",
-  "total_jobs": 6951,
+  "last_updated": "2026-08-03T17:30:25.107268+00:00",
+  "total_jobs": 6970,
   "stats": {
-    "total_companies": 3400,
+    "total_companies": 3408,
     "total_roles": 94,
     "regions": {
-      "India": 4495,
-      "Philippines": 1472,
-      "Remote": 877,
+      "India": 4512,
+      "Philippines": 1473,
+      "Remote": 878,
       "Unknown": 135
     },
     "sources": {
-      "Other": 5456,
+      "Other": 5470,
       "Greenhouse": 343,
-      "Workday": 302,
+      "Workday": 304,
       "LinkedIn": 281,
       "Ashby": 213,
       "iCIMS": 83,
-      "Breezy": 73,
+      "Breezy": 74,
       "Lever": 52,
-      "Workable": 46,
+      "Workable": 47,
       "SmartRecruiters": 44,
       "Indeed": 28,
       "Jobvite": 8,
       "BrassRing": 8,
       "Recruitee": 6,
-      "Taleo": 4,
+      "Taleo": 5,
       "ADP": 2,
       "WeWorkRemotely": 2
     },
@@ -35,6 +35,276 @@
     }
   },
   "jobs": [
+    {
+      "id": "e8e12dfe26e9",
+      "title": "Full Stack Engineer - Myworkdayjobs.com",
+      "company": "Kbi",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://kbi.wd5.myworkdayjobs.com/Kontoor/job/USCA--USA--Colorado--Denver-16th-St-HQ---HH/Full-Stack-Engineer_R-20260619-0004?source=LinkedIn",
+      "source": "Workday",
+      "description": "Full Stack Engineer ... Who We Are: Kontoor Brands is a portfolio of three of the world's most iconic lifestyle, outdoor and workwear brands: Wrangler\u00ae, ...",
+      "date": "2026-08-03",
+      "timestamp": "2026-08-03T17:21:01+00:00",
+      "fetched_at": "2026-08-03T17:30:24.747573+00:00"
+    },
+    {
+      "id": "bf4d5bd5aaf1",
+      "title": "Data Engineer 4 and jobs at Comcast",
+      "company": "Comcast",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.comcast.com/job/chennai/data-engineer-4/45483/98686244832",
+      "source": "Other",
+      "description": "Data Engineer 4 turn big ideas into solutions our customers love. Search our jobs to launch a career in Pennsylvania or Virginia.",
+      "date": "2026-08-03",
+      "timestamp": "2026-08-03T17:14:34+00:00",
+      "fetched_at": "2026-08-03T17:30:24.748476+00:00"
+    },
+    {
+      "id": "464e366ad7fb",
+      "title": "Data Engineer (Healthcare) - Piper Companies",
+      "company": "Piper Companies",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.pipercompanies.com/details/171098/data_engineer_healthcare",
+      "source": "Other",
+      "description": "Applications for this job will be accepted for at least 30 days from the posting date. Keywords: Data Engineer , AWS, Databricks, dbt, SQL, Python, ...",
+      "date": "2026-08-03",
+      "timestamp": "2026-08-03T17:11:07+00:00",
+      "fetched_at": "2026-08-03T17:30:24.749005+00:00"
+    },
+    {
+      "id": "8b9cd47acb9e",
+      "title": "Senior Software Engineer - Careers at SprintRay",
+      "company": "SprintRay",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.sprintray.com/jobs/675886-senior-software-engineer",
+      "source": "Other",
+      "description": "Senior Software Engineer . Bold ideas, global teamwork, and big impact\u2014come build the future of digital dentistry with SprintRay. Join Our Team. We ...",
+      "date": "2026-08-03",
+      "timestamp": "2026-08-03T16:21:28+00:00",
+      "fetched_at": "2026-08-03T17:30:24.749348+00:00"
+    },
+    {
+      "id": "0607ce60c19d",
+      "title": "Data Engineer - Platform Innovation and Engineering - Myworkdayjobs.com",
+      "company": "Humana",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Data-Engineer---Platform-Innovation-and-Engineering_R-423155",
+      "source": "Workday",
+      "description": "The Data Engineer 2 work assignments are varied and frequently require interpretation and independent determination of the appropriate courses of ...",
+      "date": "2026-08-03",
+      "timestamp": "2026-08-03T16:08:43+00:00",
+      "fetched_at": "2026-08-03T17:30:24.749457+00:00"
+    },
+    {
+      "id": "9302d7f92675",
+      "title": "Senior AI-Native Full-Stack Engineer | React, Supabase, Claude Code - Contra",
+      "company": "Senior AI",
+      "role": "Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://contra.com/opportunity/ZoNZBEmB-senior-ai-native-full-stack-engineer-or-react-supabase-claude-code",
+      "source": "Other",
+      "description": "See more opportunities on Contra.",
+      "date": "2026-08-03",
+      "timestamp": "2026-08-03T16:07:23+00:00",
+      "fetched_at": "2026-08-03T17:30:24.750005+00:00"
+    },
+    {
+      "id": "af7e3a934a1a",
+      "title": "Software Engineer , Community Support Engineering - Careers at Airbnb",
+      "company": "Airbnb",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.airbnb.com/positions/8097917/?gh_jid=8097917",
+      "source": "Other",
+      "description": "As a Backend Software Engineer on the ARC team, you will contribute meaningfully across our core routing and differentiated service programs:.",
+      "date": "2026-08-03",
+      "timestamp": "2026-08-03T15:21:45+00:00",
+      "fetched_at": "2026-08-03T17:30:24.750152+00:00"
+    },
+    {
+      "id": "7558f37113af",
+      "title": "Senior Software Engineer at UnitedHealth Group",
+      "company": "UnitedHealth Group",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.unitedhealthgroup.com/job/draper/senior-software-engineer/34088/98685810160",
+      "source": "Other",
+      "description": "Senior Software Engineer ; Requisition number: 2372813 ; Job category: Technology ; Primary location: Draper, Utah ; Date posted: 08/03/2026 ; Overtime ...",
+      "date": "2026-08-03",
+      "timestamp": "2026-08-03T15:11:05+00:00",
+      "fetched_at": "2026-08-03T17:30:24.750308+00:00"
+    },
+    {
+      "id": "4041bf146486",
+      "title": "Associate Data Engineer Jobs at Amgen in India",
+      "company": "Amgen in India",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.amgen.com/en/job/hyderabad/associate-data-engineer/87/98700220496",
+      "source": "Other",
+      "description": "Explore the details of a Associate Data Engineer career in Hyderabad. Live. Win. Thrive. Search and apply for a rewarding new career at Amgen.",
+      "date": "2026-08-03",
+      "timestamp": "2026-08-03T14:52:20+00:00",
+      "fetched_at": "2026-08-03T17:30:24.750480+00:00"
+    },
+    {
+      "id": "d1e63e931b3c",
+      "title": "Data Engineer Jobs at Amgen in Hyderabad",
+      "company": "Amgen in Hyderabad",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.amgen.com/en/job/hyderabad/data-engineer/87/98700220528",
+      "source": "Other",
+      "description": "Explore the details of a Data Engineer career in Hyderabad. Live. Win. Thrive. Search and apply for a rewarding new career at Amgen.",
+      "date": "2026-08-03",
+      "timestamp": "2026-08-03T14:52:18+00:00",
+      "fetched_at": "2026-08-03T17:30:24.750662+00:00"
+    },
+    {
+      "id": "76ae2f26dd1e",
+      "title": "Associate Software Engineer , Chennai, TN | Fidelity Careers",
+      "company": "Fidelity Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.fidelity.com/in/jobs/2132864/associate-software-engineer/",
+      "source": "Other",
+      "description": "Associate Software Engineer . Published: Aug 03. ID: 2132864 ... As a Full Stack Engineer within the Fidelity Healthcare Technology Team ...",
+      "date": "2026-08-03",
+      "timestamp": "2026-08-03T14:50:04+00:00",
+      "fetched_at": "2026-08-03T17:30:24.750902+00:00"
+    },
+    {
+      "id": "e22ee0e5cb8b",
+      "title": "Kenneth Sese \u2014 Software Engineer | Padmission",
+      "company": "Padmission",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.padmission.com/team/kenneth-sese",
+      "source": "Other",
+      "description": "Software Engineer . Kenneth Sese. Remote. Kenneth Sese has been ... Software Engineer \u00b7 Andrew Wallo. Web & Software ...",
+      "date": "2026-08-03",
+      "timestamp": "2026-08-03T14:41:51+00:00",
+      "fetched_at": "2026-08-03T17:30:24.751149+00:00"
+    },
+    {
+      "id": "3575314c4f07",
+      "title": "Job Description - Software Engineer - Inter (.Net/Azure Cloud ) (8164517621)",
+      "company": "Job Description",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://upmcjobs.taleo.net/careersection/upmc_external/jobdetail.ftl?job=8164517621&lang=en",
+      "source": "Taleo",
+      "description": "UPMC is looking for an Intermediate Software Engineer to continue to build and expand the team to work towards multi-year multiple modernization ...",
+      "date": "2026-08-03",
+      "timestamp": "2026-08-03T14:25:49+00:00",
+      "fetched_at": "2026-08-03T17:30:24.751407+00:00"
+    },
+    {
+      "id": "8f367329f1f8",
+      "title": "DevOps Engineer | Clara Analytics - Rippling",
+      "company": "Clara Analytics - Rippling",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/clara-analytics/jobs/14c5da5c-19d7-41f2-a4b9-b4d2f54048e6",
+      "source": "Other",
+      "description": "DevOps Engineer . About CLARA Analytics. CLARA Analytics is the leading AI as a service (AIaaS) provider that improves casualty claims outcomes for ...",
+      "date": "2026-08-03",
+      "timestamp": "2026-08-03T14:16:40+00:00",
+      "fetched_at": "2026-08-03T17:30:24.751598+00:00"
+    },
+    {
+      "id": "9dd95c63f5b5",
+      "title": "AI Engineer - FDE (Forward Deployed Engineer) - Databricks",
+      "company": "AI Engineer",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.databricks.com/company/careers/-field-engineering---indirect/ai-engineer---fde-forward-deployed-engineer-8569392002",
+      "source": "Other",
+      "description": "AI Engineer - FDE (Forward Deployed Engineer), Tokyo, Japan. Join us! Together we can use data to solve the challenges of tomorrow.",
+      "date": "2026-08-03",
+      "timestamp": "2026-08-03T14:10:22+00:00",
+      "fetched_at": "2026-08-03T17:30:24.751883+00:00"
+    },
+    {
+      "id": "f4d3b5c069da",
+      "title": "Software Engineer Intern (TikTok-Agentic Creation-Effect Platform) - 2027 Summer",
+      "company": "Agentic Creation-Effect Platform) - 2027 Summer",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://lifeattiktok.com/search/7668445566565321013",
+      "source": "Other",
+      "description": "View our opening for Software Engineer Intern (TikTok-Agentic Creation-Effect Platform) - 2027 Summer and learn more about what it's like to work ...",
+      "date": "2026-08-03",
+      "timestamp": "2026-08-03T14:09:38+00:00",
+      "fetched_at": "2026-08-03T17:30:24.752102+00:00"
+    },
+    {
+      "id": "0adab3c68268",
+      "title": "Data Engineer | North Fair Oaks, CA, USA | Hybrid Job - eFinancialCareers",
+      "company": "North Fair Oaks, CA, USA | Hybrid Job - eFinancialCareers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.efinancialcareers.com/jobs-United_States-North_Fair_Oaks-Data_Engineer.id24626382",
+      "source": "Other",
+      "description": "Lead AI Engineer (MLX, Agentic AI, Gen AI platform Services) ... Site Reliability Engineer , Developer Experience. Selby Jennings. Austin ...",
+      "date": "2026-08-03",
+      "timestamp": "2026-08-03T14:02:22+00:00",
+      "fetched_at": "2026-08-03T17:30:24.752408+00:00"
+    },
+    {
+      "id": "1932563b41d7",
+      "title": "Senior ML Engineer - Alliance",
+      "company": "Alliance",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://alliance.breezy.hr/p/e551b6bc1bf6-senior-ml-engineer/apply",
+      "source": "Breezy",
+      "description": "... Machine Learning Engineer to join our in-house engineering team. You ... ML engineer who can take an ambiguous problem from first ...",
+      "date": "2026-08-03",
+      "timestamp": "2026-08-03T13:58:57+00:00",
+      "fetched_at": "2026-08-03T17:30:24.752800+00:00"
+    },
     {
       "id": "31c6bde00729",
       "title": "Senior Software Engineer in Bangalore, Karn\u0101taka, India | Technology at Warner Bros. Discovery",
@@ -799,6 +1069,21 @@
       "date": "2026-08-02",
       "timestamp": "2026-08-02T10:10:01+00:00",
       "fetched_at": "2026-08-02T16:41:13.071531+00:00"
+    },
+    {
+      "id": "2a7aa350068d",
+      "title": "Software Engineer - TickPick - Application - Workable Jobs",
+      "company": "Tickpick",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://apply.workable.com/tickpick/j/5840ECEB50/apply",
+      "source": "Workable",
+      "description": "Software Engineer . HybridTechnology/DataFull time. New York, New York, United States. OverviewApplication. Autofill application. Save time by ...",
+      "date": "2026-08-02",
+      "timestamp": "2026-08-02T09:33:47+00:00",
+      "fetched_at": "2026-08-03T17:30:25.078228+00:00"
     },
     {
       "id": "9357a2189d08",
