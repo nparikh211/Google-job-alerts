@@ -1,29 +1,29 @@
 {
-  "last_updated": "2026-08-04T17:25:04.173107+00:00",
-  "total_jobs": 7029,
+  "last_updated": "2026-08-04T20:58:10.223200+00:00",
+  "total_jobs": 7043,
   "stats": {
-    "total_companies": 3435,
+    "total_companies": 3445,
     "total_roles": 94,
     "regions": {
       "India": 4533,
-      "Philippines": 1505,
-      "Remote": 884,
+      "Philippines": 1518,
+      "Remote": 885,
       "Unknown": 135
     },
     "sources": {
-      "Other": 5515,
-      "Greenhouse": 348,
-      "Workday": 307,
-      "LinkedIn": 282,
-      "Ashby": 216,
+      "Other": 5523,
+      "Greenhouse": 349,
+      "Workday": 309,
+      "LinkedIn": 283,
+      "Ashby": 217,
       "iCIMS": 83,
       "Breezy": 74,
       "Lever": 52,
       "Workable": 49,
       "SmartRecruiters": 44,
       "Indeed": 28,
+      "BrassRing": 9,
       "Jobvite": 8,
-      "BrassRing": 8,
       "Recruitee": 6,
       "Taleo": 5,
       "ADP": 2,
@@ -35,6 +35,156 @@
     }
   },
   "jobs": [
+    {
+      "id": "aee8fd0a10d1",
+      "title": "AI Engineer - Henry Ford Health - Careers",
+      "company": "Henry Ford Health - Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://henryford.referrals.selectminds.com/jobs/ai-engineer-131927",
+      "source": "Other",
+      "description": "The AI Engineer partners with business stakeholders, architects, data engineers, software developers, and operational teams to deliver scalable, ...",
+      "date": "2026-08-04",
+      "timestamp": "2026-08-04T19:53:59+00:00",
+      "fetched_at": "2026-08-04T20:58:10.191484+00:00"
+    },
+    {
+      "id": "4e7e132eb59e",
+      "title": "How important is \u201clearning AI\u201d to a cloud engineer ? : r/aws - Reddit",
+      "company": "Reddit",
+      "role": "Cloud Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.reddit.com/r/aws/comments/1vfgyjm/how_important_is_learning_ai_to_a_cloud_engineer/",
+      "source": "Other",
+      "description": "Yes, you need it for any job but you'd be crazy not to be super deep as a cloud engineer . ... You don't need to become an ML engineer . But if you can't ...",
+      "date": "2026-08-04",
+      "timestamp": "2026-08-04T19:11:24+00:00",
+      "fetched_at": "2026-08-04T20:58:10.191731+00:00"
+    },
+    {
+      "id": "58f91a884560",
+      "title": "Software Engineer Intern (Summer 2027 Internship) - Myworkdayjobs.com",
+      "company": "Ntst",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2027-Internship-_R015667",
+      "source": "Workday",
+      "description": "... Software Engineer Position Overview: The Software Engineer's responsibilities will center around developing the next generation of support and ...",
+      "date": "2026-08-04",
+      "timestamp": "2026-08-04T18:12:17+00:00",
+      "fetched_at": "2026-08-04T20:58:10.192021+00:00"
+    },
+    {
+      "id": "244fb62b241a",
+      "title": "AI/ML - Software Engineer - Violet Labs",
+      "company": "AI/ML",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.violetlabs.com/40895",
+      "source": "Other",
+      "description": "Software Engineer - AI/ML. Software Development; Full-time; US; Remote. Who we are. Violet Labs is building the home base for engineering teams and ...",
+      "date": "2026-08-04",
+      "timestamp": "2026-08-04T17:51:11+00:00",
+      "fetched_at": "2026-08-04T20:58:10.192117+00:00"
+    },
+    {
+      "id": "7de06254b415",
+      "title": "Software Engineer II at Parsec Education Inc - Gusto",
+      "company": "Parsec Education Inc",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.gusto.com/postings/parsec-education-inc-software-engineer-ii-e9a78d37-ae80-4f38-8e99-ec90415a7dc2",
+      "source": "Other",
+      "description": "As a Software Engineer Level II, you will take full ownership of scoped projects from design through deployment, using AI-assisted development ...",
+      "date": "2026-08-04",
+      "timestamp": "2026-08-04T17:24:08+00:00",
+      "fetched_at": "2026-08-04T20:58:10.192383+00:00"
+    },
+    {
+      "id": "7222312732a3",
+      "title": "Data Engineer - Career Opportunities - Myworkdayjobs.com",
+      "company": "Lindenwood",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://lindenwood.wd1.myworkdayjobs.com/en-US/CareerOpportunities/job/Data-Engineer_R0016291",
+      "source": "Workday",
+      "description": "Professional development opportunities through the Lindenwood Learning Academy. JOB TITLE SUMMARY. Job Title: Data Engineer . Division: Information ...",
+      "date": "2026-08-04",
+      "timestamp": "2026-08-04T17:14:10+00:00",
+      "fetched_at": "2026-08-04T20:58:10.192461+00:00"
+    },
+    {
+      "id": "08f9b59b2a0d",
+      "title": "Job Application for Senior Software Engineer at Checkr - Greenhouse",
+      "company": "Checkr",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/checkr/jobs/7654391",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer . San Francisco, California, United States. Apply. About Checkr Checkr is building the data platform to power safe and fair ...",
+      "date": "2026-08-04",
+      "timestamp": "2026-08-04T17:13:03+00:00",
+      "fetched_at": "2026-08-04T20:58:10.192537+00:00"
+    },
+    {
+      "id": "166d5917466d",
+      "title": "Senior Software Engineer - AI Agentic Product Dev | Eightfold",
+      "company": "AI Agentic Product Dev | Eightfold",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://app.eightfold.ai/careers/job/68761741284",
+      "source": "Other",
+      "description": "Senior Software Engineer . 3. Member Technical Staff. 4. Software Engineer ... Lead Machine Learning Engineer - Agentic Models, LLM, RAG, GenAI.",
+      "date": "2026-08-04",
+      "timestamp": "2026-08-04T17:09:24+00:00",
+      "fetched_at": "2026-08-04T20:58:10.192658+00:00"
+    },
+    {
+      "id": "5043d3fe3b6b",
+      "title": "Software Engineer - Cumberland, RI | inMusic Careers",
+      "company": "Cumberland, RI | inMusic Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://inmusicbrands.pinpointhq.com/en/postings/863ed9fb-5a93-4486-b045-bcc9f5677a9f",
+      "source": "Other",
+      "description": "We are looking for a Software Engineer to build and improve music creation software, platform capabilities, and product integrations used by creators ...",
+      "date": "2026-08-04",
+      "timestamp": "2026-08-04T16:58:35+00:00",
+      "fetched_at": "2026-08-04T20:58:10.192824+00:00"
+    },
+    {
+      "id": "70527b9fb8ae",
+      "title": "Data Engineer | Infinite Computer Solutions - jobs.brassring.com",
+      "company": "Infinite Computer Solutions - jobs.brassring.com",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26656&siteid=5008&PageType=JobDetails&jobid=50791",
+      "source": "BrassRing",
+      "description": "Data Engineer . 45453BR. Maryland. Job description. We are seeking a skilled Data Engineer to design, develop, and maintain scalable data pipelines and ...",
+      "date": "2026-08-04",
+      "timestamp": "2026-08-04T16:55:32+00:00",
+      "fetched_at": "2026-08-04T20:58:10.193033+00:00"
+    },
     {
       "id": "ffad5659de95",
       "title": "Job Application for AI DevOps Engineer at NICE - Greenhouse",
@@ -51,6 +201,36 @@
       "fetched_at": "2026-08-04T17:25:04.137642+00:00"
     },
     {
+      "id": "39600eece700",
+      "title": "Machine Learning Engineer , Platform @ Brain Co. - Jobs",
+      "company": "Brainco",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/brainco/936df0bf-e4dc-46bb-bb48-b1efcc3cce80",
+      "source": "Ashby",
+      "description": "... MACHINE LEARNING ENGINEER , PLATFORM ABOUT THE ROLE So much of the work society depends on is still slower and harder than it should be. Permits ...",
+      "date": "2026-08-04",
+      "timestamp": "2026-08-04T16:18:08+00:00",
+      "fetched_at": "2026-08-04T20:58:10.193250+00:00"
+    },
+    {
+      "id": "29eda91faea4",
+      "title": "Sr Staff Site Reliability Engineer at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/sofia/sr-staff-site-reliability-engineer/47263/96174876160",
+      "source": "Other",
+      "description": "Principal/ Senior Backend Engineer - Data Classification Tel Aviv ... Senior DevOps Engineer (Cortex Cloud) Tel Aviv, Israel Save Job; Senior ...",
+      "date": "2026-08-04",
+      "timestamp": "2026-08-04T16:17:30+00:00",
+      "fetched_at": "2026-08-04T20:58:10.193395+00:00"
+    },
+    {
       "id": "6e0c64ac5c16",
       "title": "Data Engineer - Paycom paycomonline.net",
       "company": "Paycom paycomonline.net",
@@ -64,6 +244,36 @@
       "date": "2026-08-04",
       "timestamp": "2026-08-04T16:02:14+00:00",
       "fetched_at": "2026-08-04T17:25:04.137961+00:00"
+    },
+    {
+      "id": "806df223e6ce",
+      "title": "Network Security Software Engineer Intern (Security Engineering) - 2027 Fall",
+      "company": "2027 Fall",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://joinbytedance.com/search/7667876489597257989",
+      "source": "Other",
+      "description": "View our opening for Network Security Software Engineer Intern (Security Engineering) - 2027 Fall and learn more about what it's like to work at ...",
+      "date": "2026-08-04",
+      "timestamp": "2026-08-04T14:33:45+00:00",
+      "fetched_at": "2026-08-04T20:58:10.193970+00:00"
+    },
+    {
+      "id": "8fe286acd29f",
+      "title": "Proxy Foods AI hiring Junior Data Engineer in Washington DC-Baltimore Area | LinkedIn",
+      "company": "Baltimore Area | LinkedIn",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/junior-data-engineer-at-proxy-foods-ai-4446237239",
+      "source": "LinkedIn",
+      "description": "Data Engineer . Bloomberg Industry Group. Arlington, VA 4 days ago. Junior Software Engineer . Junior Software Engineer . Neural Solutions. Columbia, MD ...",
+      "date": "2026-08-04",
+      "timestamp": "2026-08-04T14:17:59+00:00",
+      "fetched_at": "2026-08-04T20:58:10.194294+00:00"
     },
     {
       "id": "8d994664c2ec",
