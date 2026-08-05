@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-08-04T20:58:10.223200+00:00",
-  "total_jobs": 7043,
+  "last_updated": "2026-08-05T01:12:23.659217+00:00",
+  "total_jobs": 7061,
   "stats": {
-    "total_companies": 3445,
+    "total_companies": 3453,
     "total_roles": 94,
     "regions": {
-      "India": 4533,
-      "Philippines": 1518,
+      "India": 4545,
+      "Philippines": 1524,
       "Remote": 885,
       "Unknown": 135
     },
     "sources": {
-      "Other": 5523,
+      "Other": 5537,
       "Greenhouse": 349,
-      "Workday": 309,
+      "Workday": 311,
       "LinkedIn": 283,
-      "Ashby": 217,
+      "Ashby": 218,
       "iCIMS": 83,
       "Breezy": 74,
       "Lever": 52,
-      "Workable": 49,
+      "Workable": 50,
       "SmartRecruiters": 44,
       "Indeed": 28,
       "BrassRing": 9,
@@ -31,10 +31,205 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-08-04"
+      "latest": "2026-08-05"
     }
   },
   "jobs": [
+    {
+      "id": "62a1671716a1",
+      "title": "Senior Software Engineer in San Jose, California, United States of America - Adobe Careers",
+      "company": "Adobe Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.adobe.com/us/en/job/R170582/Senior-Software-Engineer",
+      "source": "Other",
+      "description": "Apply for Senior Software Engineer job with Adobe in San Jose, California, United States of America ... Similar Jobs. Senior AI Platform Engineer - Data ...",
+      "date": "2026-08-05",
+      "timestamp": "2026-08-05T00:00:43+00:00",
+      "fetched_at": "2026-08-05T01:12:23.635643+00:00"
+    },
+    {
+      "id": "2776fdb4b20b",
+      "title": "Senior DevOps Engineer , Infrastructure & Reliability - Worth AI - Application - Workable Jobs",
+      "company": "Worthai",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://apply.workable.com/worthai/j/10EE0444DB/apply/",
+      "source": "Workable",
+      "description": "Worth AI, a leader in the computer software industry, is looking for a Senior DevOps Engineer to join our Infrastructure team with a singular ...",
+      "date": "2026-08-04",
+      "timestamp": "2026-08-04T23:32:44+00:00",
+      "fetched_at": "2026-08-05T01:12:23.635735+00:00"
+    },
+    {
+      "id": "253640038278",
+      "title": "Senior Software Engineer , Milford, Michigan | General Motors Careers",
+      "company": "General Motors Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://search-careers.gm.com/en/jobs/jr-202616907/senior-software-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer . Location. Milford, Michigan. (+) Show all locations (-) Hide all locations. Job Type Full time; Posted Aug 04 2026; Job ...",
+      "date": "2026-08-04",
+      "timestamp": "2026-08-04T22:32:45+00:00",
+      "fetched_at": "2026-08-05T01:12:23.455476+00:00"
+    },
+    {
+      "id": "9a173caa2bc4",
+      "title": "Recuro Health - Mid-level Full Stack Engineer - Paylocity",
+      "company": "Recuro Health",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4388794",
+      "source": "Other",
+      "description": "As a Mid-level Full Stack Engineer at Recuro Health, you will play a vital role in building and maintaining our diagnostics system with our larger ...",
+      "date": "2026-08-04",
+      "timestamp": "2026-08-04T22:16:08+00:00",
+      "fetched_at": "2026-08-05T01:12:23.455600+00:00"
+    },
+    {
+      "id": "ba658171cf57",
+      "title": "Software Engineer II, Backend, tvScientific - Pinterest Careers",
+      "company": "Pinterest Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.pinterestcareers.com/jobs/8041770/software-engineer-ii-backend-tvscientific/?gh_jid=8041770",
+      "source": "Other",
+      "description": "We're looking for a Backend Engineer to help design, build, and scale ... Site Reliability Engineer , tvScientific. Save Saved. San Francisco + ...",
+      "date": "2026-08-04",
+      "timestamp": "2026-08-04T21:48:18+00:00",
+      "fetched_at": "2026-08-05T01:12:23.455951+00:00"
+    },
+    {
+      "id": "920c0a9e9f3f",
+      "title": "Temporary - Data Engineer Description at AMERICAN CANCER SOCIETY",
+      "company": "AMERICAN CANCER SOCIETY",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.cancer.org/job/atlanta/temporary-data-engineer/79/98753272768",
+      "source": "Other",
+      "description": "Working closely with the Senior Director of Data and collaborating with analytics engineers and data scientists, the Data Engineer will help establish ...",
+      "date": "2026-08-04",
+      "timestamp": "2026-08-04T21:37:17+00:00",
+      "fetched_at": "2026-08-05T01:12:23.456212+00:00"
+    },
+    {
+      "id": "3dbb3d3725ed",
+      "title": "Sr Software Engineer - Engineer, Sunnyvale, United States",
+      "company": "Sr Software Engineer",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.uber.com/en/jobs/301353/",
+      "source": "Other",
+      "description": "As a Senior Software Engineer , you will be at the forefront of Physical AI, building advanced autonomy algorithms to add rich semantics to our ...",
+      "date": "2026-08-04",
+      "timestamp": "2026-08-04T20:31:34+00:00",
+      "fetched_at": "2026-08-05T01:12:23.456558+00:00"
+    },
+    {
+      "id": "650e0f2925a9",
+      "title": "Principal Software Engineer in Seattle, Washington | REI (Recreational Equipment Inc.)",
+      "company": "REI",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.rei.jobs/jobs/31201?lang=en-us",
+      "source": "Other",
+      "description": "REI is hiring a Principal Software Engineer in Seattle, Washington. Review all of the job details and apply today!",
+      "date": "2026-08-04",
+      "timestamp": "2026-08-04T20:31:15+00:00",
+      "fetched_at": "2026-08-05T01:12:23.456646+00:00"
+    },
+    {
+      "id": "e671f28aa5c2",
+      "title": "Software Engineer - Careers - Myworkdayjobs.com",
+      "company": "Amainc",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Mountain-View-CA/Software-Engineer_R-100728",
+      "source": "Workday",
+      "description": "Software Engineer \u00b7 Implement responsive frontend user interfaces and backend services using modern web development frameworks, APIs, and databases.",
+      "date": "2026-08-04",
+      "timestamp": "2026-08-04T20:29:58+00:00",
+      "fetched_at": "2026-08-05T01:12:23.456705+00:00"
+    },
+    {
+      "id": "97fc59b55954",
+      "title": "Senior Embedded Software Engineer - Vision, Sunnyvale, CA, United States",
+      "company": "Vision, Sunnyvale, CA, United States",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.intuitive.com/en/jobs/744000141553944/JOB216594/senior-embedded-software-engineer-vision/",
+      "source": "Other",
+      "description": "Senior Embedded Software Engineer - Vision ... Oh no! We failed to fetch the stories from CultureHQ. Please refresh to try again. If this continues to ...",
+      "date": "2026-08-04",
+      "timestamp": "2026-08-04T20:29:16+00:00",
+      "fetched_at": "2026-08-05T01:12:23.456827+00:00"
+    },
+    {
+      "id": "b1c681c76c9e",
+      "title": "Senior Software Engineer (Java - Backend, Ads Engineering) - Bengaluru, Karnataka, India",
+      "company": "Senior Software Engineer (Java",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.weareroku.com/jobs/senior-software-engineer-java-backend-ads-engineering-bengaluru-karnataka-india",
+      "source": "Other",
+      "description": "It is the mission of the Ad Engineering Team to build this platform. We are hiring a Senior Software Engineer , Advertising Platform, to be a vital ...",
+      "date": "2026-08-04",
+      "timestamp": "2026-08-04T20:21:50+00:00",
+      "fetched_at": "2026-08-05T01:12:23.456998+00:00"
+    },
+    {
+      "id": "487251bd6593",
+      "title": "Software Engineer - Pega in Chennai, Tamil N\u0101du, India | Technology & Digital at U.S. Bank",
+      "company": "U.S. Bank",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.usbank.com/global/en/job/UBNAGLOBAL20260017061EXTERNALENGLOBAL/Software-Engineer-Pega",
+      "source": "Other",
+      "description": "... Senior Software Engineer - Pega. Location Chennai, Tamil N\u0101du, India. Senior Software Engineer - Pega. Location Chennai, Tamil N\u0101du, India. Software ...",
+      "date": "2026-08-04",
+      "timestamp": "2026-08-04T20:20:40+00:00",
+      "fetched_at": "2026-08-05T01:12:23.457116+00:00"
+    },
+    {
+      "id": "808fda755b90",
+      "title": "Senior Software Engineer I (Java) @ Inductive Automation LLC - Jobs",
+      "company": "Inductive Automation Llc",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/inductive-automation-llc/39f90aed-195d-4918-90c8-31e5de6753fd",
+      "source": "Ashby",
+      "description": "Senior Software Engineer I (Java). Location. Hybrid - Sacramento, El Dorado, Placer, Yolo, or Alameda County, CA. Employment Type.",
+      "date": "2026-08-04",
+      "timestamp": "2026-08-04T19:56:15+00:00",
+      "fetched_at": "2026-08-05T01:12:23.457373+00:00"
+    },
     {
       "id": "aee8fd0a10d1",
       "title": "AI Engineer - Henry Ford Health - Careers",
@@ -51,6 +246,36 @@
       "fetched_at": "2026-08-04T20:58:10.191484+00:00"
     },
     {
+      "id": "b8700c906a11",
+      "title": "Machine Learning System Software Engineer - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200675490-3956/machine-learning-system-software-engineer?team=HRDWR",
+      "source": "Other",
+      "description": "As a Machine Learning System Software Engineer on the Apple Neural Engine (ANE) team, you'll work to bring high-performance, low-power AI solutions to ...",
+      "date": "2026-08-04",
+      "timestamp": "2026-08-04T19:24:40+00:00",
+      "fetched_at": "2026-08-05T01:12:23.457570+00:00"
+    },
+    {
+      "id": "5715cfe4f263",
+      "title": "Software Engineer III - Myworkdayjobs.com",
+      "company": "Ncr",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://ncr.wd1.myworkdayjobs.com/en-US/ext_us/job/Software-Engineer-III_R0158145",
+      "source": "Workday",
+      "description": "NCR is a trademark of NCR Corporation in the United States and other countries. NCR Voyix Corporation. Atlanta, GA. Software Engineer III (f/t). Job ...",
+      "date": "2026-08-04",
+      "timestamp": "2026-08-04T19:14:33+00:00",
+      "fetched_at": "2026-08-05T01:12:23.636760+00:00"
+    },
+    {
       "id": "4e7e132eb59e",
       "title": "How important is \u201clearning AI\u201d to a cloud engineer ? : r/aws - Reddit",
       "company": "Reddit",
@@ -64,6 +289,51 @@
       "date": "2026-08-04",
       "timestamp": "2026-08-04T19:11:24+00:00",
       "fetched_at": "2026-08-04T20:58:10.191731+00:00"
+    },
+    {
+      "id": "8c091eb38cb0",
+      "title": "Senior Data engineer - - 80231 - Jobs at Lenovo",
+      "company": "Lenovo",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.lenovo.com/en_US/careers/JobDetail/Senior-Data-engineer/80231",
+      "source": "Other",
+      "description": "As a Senior Data Engineer , you will be involved in data Lakehouse development including requirements gathering, database modeling, ETL job design & ...",
+      "date": "2026-08-04",
+      "timestamp": "2026-08-04T19:05:40+00:00",
+      "fetched_at": "2026-08-05T01:12:23.636997+00:00"
+    },
+    {
+      "id": "2cb2dcb2882c",
+      "title": "Staff Software Engineer , Austin, Texas plus 2 locations | General Motors Careers",
+      "company": "General Motors Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://search-careers.gm.com/en/jobs/jr-202616368/staff-software-engineer/",
+      "source": "Other",
+      "description": "We are looking for a strong C++ Software Engineer to support development of next-generation automotive UI applications ... Senior Software Engineer - C ...",
+      "date": "2026-08-04",
+      "timestamp": "2026-08-04T18:23:31+00:00",
+      "fetched_at": "2026-08-05T01:12:23.637190+00:00"
+    },
+    {
+      "id": "5011cc04c9b0",
+      "title": "Senior Site Reliability Engineer - Bulgaria - GoDaddy Careers",
+      "company": "Bulgaria - GoDaddy Careers",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.godaddy/jobs/senior-site-reliability-engineer-bulgaria-3f6fe058-a274-4ebc-8fa7-42918e0d9206",
+      "source": "Other",
+      "description": "Senior Site Reliability Engineer . R023911. Bulgaria. Regular. Add to ... Software Engineer . Ontario, Canada Engineering. Location Details: BC or ...",
+      "date": "2026-08-04",
+      "timestamp": "2026-08-04T18:23:30+00:00",
+      "fetched_at": "2026-08-05T01:12:23.637372+00:00"
     },
     {
       "id": "58f91a884560",
