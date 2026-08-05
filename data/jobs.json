@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-08-05T13:27:14.016057+00:00",
-  "total_jobs": 7082,
+  "last_updated": "2026-08-05T17:14:39.771890+00:00",
+  "total_jobs": 7090,
   "stats": {
-    "total_companies": 3460,
+    "total_companies": 3462,
     "total_roles": 94,
     "regions": {
-      "India": 4564,
+      "India": 4570,
       "Philippines": 1524,
-      "Remote": 887,
+      "Remote": 889,
       "Unknown": 135
     },
     "sources": {
-      "Other": 5554,
-      "Greenhouse": 350,
+      "Other": 5560,
+      "Greenhouse": 351,
       "Workday": 311,
-      "LinkedIn": 284,
+      "LinkedIn": 285,
       "Ashby": 219,
       "iCIMS": 83,
       "Breezy": 74,
@@ -36,6 +36,96 @@
   },
   "jobs": [
     {
+      "id": "62fb9aa627ef",
+      "title": "PineQ Lab Technology hiring AI ML Engineer in San Jose, CA | LinkedIn",
+      "company": "LinkedIn",
+      "role": "ML Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/4447305067/",
+      "source": "LinkedIn",
+      "description": "AI Developer / AI Engineer . Peppr AI (YC W25). Cupertino, CA $100,000 ... Machine Learning Engineer | Python | Pytorch | Distributed Training ...",
+      "date": "2026-08-05",
+      "timestamp": "2026-08-05T16:08:34+00:00",
+      "fetched_at": "2026-08-05T17:14:39.564573+00:00"
+    },
+    {
+      "id": "05a0c939b0cf",
+      "title": "Job Application for Senior Software Engineer at Topstep - Greenhouse",
+      "company": "Topsteptrader",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/topsteptrader/jobs/7826862003",
+      "source": "Greenhouse",
+      "description": "Topstep is looking for a Senior Software Engineer to own and evolve critical components of our trading platform. In this role, you'll design and build ...",
+      "date": "2026-08-05",
+      "timestamp": "2026-08-05T15:28:58+00:00",
+      "fetched_at": "2026-08-05T17:14:39.564749+00:00"
+    },
+    {
+      "id": "51c90ae8cd1e",
+      "title": "Senior Software Engineer - Comms & Docs - Snapsheet - Career Page",
+      "company": "Comms & Docs - Snapsheet - Career Page",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://snapsheet.applytojob.com/apply/QOJ3GuJuX4/Senior-Software-Engineer-Comms-Docs",
+      "source": "Other",
+      "description": "Apply to Senior Software Engineer - Comms & Docs at Snapsheet in Remote.",
+      "date": "2026-08-05",
+      "timestamp": "2026-08-05T15:25:33+00:00",
+      "fetched_at": "2026-08-05T17:14:39.564927+00:00"
+    },
+    {
+      "id": "b3f35d7def81",
+      "title": "Software Engineer II in United States | McGraw Hill LLC.",
+      "company": "McGraw Hill LLC.",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mheducation.com/jobs/7015?lang=en-us",
+      "source": "Other",
+      "description": "McGraw Hill is hiring a Software Engineer II in United States. Review all of the job details and apply today!",
+      "date": "2026-08-05",
+      "timestamp": "2026-08-05T15:04:50+00:00",
+      "fetched_at": "2026-08-05T17:14:39.565169+00:00"
+    },
+    {
+      "id": "9f96427df360",
+      "title": "Software Engineer III - JPMC Candidate Experience page Careers",
+      "company": "JPMC Candidate Experience page Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/cx_1001/job/210776094",
+      "source": "Other",
+      "description": "Site Reliability Engineer III. Jersey City, NJ, United States. and 1 more ... Principal Software Engineer - AI Engineer . Jersey City, NJ, United ...",
+      "date": "2026-08-05",
+      "timestamp": "2026-08-05T13:31:39+00:00",
+      "fetched_at": "2026-08-05T17:14:39.565462+00:00"
+    },
+    {
+      "id": "16dac14107b5",
+      "title": "Software Engineer III in United States | GitHub, Inc.",
+      "company": "GitHub, Inc.",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.github.careers/careers-home/jobs/5641?lang=en-us",
+      "source": "Other",
+      "description": "Job Description \u00b7 GitHub is looking for a Software Engineer II to join the GitHub Copilot Models Lifecycle team. \u00b7 Our team owns the systems that get AI ...",
+      "date": "2026-08-05",
+      "timestamp": "2026-08-05T13:09:18+00:00",
+      "fetched_at": "2026-08-05T17:14:39.565589+00:00"
+    },
+    {
       "id": "c0a2f37693ff",
       "title": "Smiths Group Software Engineer - SmartRecruiters Job Search",
       "company": "Smithsgroup2",
@@ -49,6 +139,21 @@
       "date": "2026-08-05",
       "timestamp": "2026-08-05T11:43:17+00:00",
       "fetched_at": "2026-08-05T13:27:13.887241+00:00"
+    },
+    {
+      "id": "820f097f72a8",
+      "title": "Junior Software Engineer (Quantifi Photonics, New Zealand) Job Details - Teradyne Careers",
+      "company": "Teradyne Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.teradyne.com/QuantifiPhotonics/job/Rosedale-Junior-Software-Engineer-%28Quantifi-Photonics%2C-New-Zealand%29-AUK/1415613800/",
+      "source": "Other",
+      "description": "Junior Software Engineer (Quantifi Photonics, New Zealand) \u00b7 Implement, test, debug, and document software for products, including PXIe modules and ...",
+      "date": "2026-08-05",
+      "timestamp": "2026-08-05T11:16:06+00:00",
+      "fetched_at": "2026-08-05T17:14:39.565890+00:00"
     },
     {
       "id": "4da2deba4d6c",
@@ -139,6 +244,21 @@
       "date": "2026-08-05",
       "timestamp": "2026-08-05T08:15:45+00:00",
       "fetched_at": "2026-08-05T13:27:13.889549+00:00"
+    },
+    {
+      "id": "e7acaca3f591",
+      "title": "Cyber SDC - Data Engineer - Senior - Location Open Job Details - EY careers",
+      "company": "Cyber SDC",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.ey.com/ey/job/Nashville-Cyber-SDC-Data-Engineer-Senior-Location-Open-TN-37203/1423082233/",
+      "source": "Other",
+      "description": "We are seeking a Data Engineer with strong AWS cloud expertise to design, build, and maintain scalable data pipelines and data lake solutions. The ...",
+      "date": "2026-08-05",
+      "timestamp": "2026-08-05T07:20:47+00:00",
+      "fetched_at": "2026-08-05T17:14:39.566898+00:00"
     },
     {
       "id": "15a40e70ace3",
