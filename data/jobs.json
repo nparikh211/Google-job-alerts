@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-08-05T10:18:49.232932+00:00",
-  "total_jobs": 7074,
+  "last_updated": "2026-08-05T13:27:14.016057+00:00",
+  "total_jobs": 7082,
   "stats": {
-    "total_companies": 3455,
+    "total_companies": 3460,
     "total_roles": 94,
     "regions": {
-      "India": 4556,
+      "India": 4564,
       "Philippines": 1524,
       "Remote": 887,
       "Unknown": 135
     },
     "sources": {
-      "Other": 5547,
+      "Other": 5554,
       "Greenhouse": 350,
       "Workday": 311,
       "LinkedIn": 284,
@@ -20,7 +20,7 @@
       "Breezy": 74,
       "Lever": 52,
       "Workable": 50,
-      "SmartRecruiters": 44,
+      "SmartRecruiters": 45,
       "Indeed": 28,
       "BrassRing": 9,
       "Jobvite": 8,
@@ -36,6 +36,111 @@
   },
   "jobs": [
     {
+      "id": "c0a2f37693ff",
+      "title": "Smiths Group Software Engineer - SmartRecruiters Job Search",
+      "company": "Smithsgroup2",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.smartrecruiters.com/SmithsGroup2/744000141653574-software-engineer",
+      "source": "SmartRecruiters",
+      "description": "Software Engineer . Bengaluru, Karnataka, India; Full-time; Grade: 08 ... Senior Software Engineer . Bengaluru, India. Show all jobs. Share to WeChat.",
+      "date": "2026-08-05",
+      "timestamp": "2026-08-05T11:43:17+00:00",
+      "fetched_at": "2026-08-05T13:27:13.887241+00:00"
+    },
+    {
+      "id": "4da2deba4d6c",
+      "title": "Full Stack Software Engineer | QuotaPath",
+      "company": "QuotaPath",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/quotapath/jobs/1dea47e5-9a7e-487b-be4d-c3bdbc3c9a6a",
+      "source": "Other",
+      "description": "Full Stack Software Engineer . About QuotaPath. QuotaPath helps revenue teams take ownership and accountability for financial goals through comp plan ...",
+      "date": "2026-08-05",
+      "timestamp": "2026-08-05T11:05:00+00:00",
+      "fetched_at": "2026-08-05T13:27:13.888344+00:00"
+    },
+    {
+      "id": "f17d3e2109fe",
+      "title": "Backend Engineer (Java) job - Experis USA - 404785",
+      "company": "Experis USA - 404785",
+      "role": "Backend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.experis.com/en/job/404785/backend-engineer-java-",
+      "source": "Other",
+      "description": "Backend Engineer (Java). Reference Number: 404785. Posted: 08/04 ... We're looking for a Software Engineer with strong experience in mainly ...",
+      "date": "2026-08-05",
+      "timestamp": "2026-08-05T10:33:21+00:00",
+      "fetched_at": "2026-08-05T13:27:13.888534+00:00"
+    },
+    {
+      "id": "826142db365a",
+      "title": "Senior AI Engineer (Agentic AI & ML) - Avenga",
+      "company": "Avenga",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://career.avenga.com/jobs/8167529-senior-ai-engineer-agentic-ai-ml",
+      "source": "Other",
+      "description": "We're looking for a Senior AI Engineer / ML Engineer to join an R&D team building next-generation AI solutions based on Large Language Models and ...",
+      "date": "2026-08-05",
+      "timestamp": "2026-08-05T10:13:26+00:00",
+      "fetched_at": "2026-08-05T13:27:13.888722+00:00"
+    },
+    {
+      "id": "591b07e6b3ea",
+      "title": "AI Engineer (f/m/d) - Germany - 300841 - Siemens Energy - Careers Marketplace",
+      "company": "Germany - 300841 - Siemens Energy - Careers Marketplace",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.siemens-energy.com/en_US/CareersMarketplace/FolderDetail/AI-Engineer-f-m-d-/300841",
+      "source": "Other",
+      "description": "As an AI Engineer (f/m/d), you will become a valued member of a passionate and highly skilled team. Within our Process Digitalization Department, ...",
+      "date": "2026-08-05",
+      "timestamp": "2026-08-05T08:25:13+00:00",
+      "fetched_at": "2026-08-05T13:27:13.889095+00:00"
+    },
+    {
+      "id": "5a68a9a1aacf",
+      "title": "Software Engineer Graduate (Global SRE) - 2027 Start - We Are TikTok",
+      "company": "2027 Start - We Are TikTok",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://lifeattiktok.com/search/7668701361741007109",
+      "source": "Other",
+      "description": "View our opening for Software Engineer Graduate (Global SRE) - 2027 Start and learn more about what it's like to work at TikTok!",
+      "date": "2026-08-05",
+      "timestamp": "2026-08-05T08:19:51+00:00",
+      "fetched_at": "2026-08-05T13:27:13.889340+00:00"
+    },
+    {
+      "id": "f0979cbe0636",
+      "title": "Data Engineer job - Experis USA - 406702",
+      "company": "Experis USA - 406702",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.experis.com/en/job/406702/data-engineer",
+      "source": "Other",
+      "description": "As a Data Engineer , you will be part of the Data Strategy team supporting SMBC Capital Markets and Nikko Securities Group. The ideal candidate will ...",
+      "date": "2026-08-05",
+      "timestamp": "2026-08-05T08:15:45+00:00",
+      "fetched_at": "2026-08-05T13:27:13.889549+00:00"
+    },
+    {
       "id": "15a40e70ace3",
       "title": "Data Engineer , Technology Services, Raritan | Johnson & Johnson Careers",
       "company": "Johnson & Johnson Careers",
@@ -49,6 +154,21 @@
       "date": "2026-08-05",
       "timestamp": "2026-08-05T06:18:10+00:00",
       "fetched_at": "2026-08-05T10:18:49.127336+00:00"
+    },
+    {
+      "id": "3c20e43a1523",
+      "title": "Software Engineer , Wireless Technologies & Ecosystems - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200675791-3956/software-engineer-wireless-technologies-ecosystems",
+      "source": "Other",
+      "description": "Apply for a Software Engineer , Wireless Technologies & Ecosystems job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-08-05",
+      "timestamp": "2026-08-05T06:09:28+00:00",
+      "fetched_at": "2026-08-05T13:27:13.890200+00:00"
     },
     {
       "id": "978e1d27859e",
