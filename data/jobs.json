@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-08-06T10:20:11.974566+00:00",
-  "total_jobs": 7135,
+  "last_updated": "2026-08-06T13:25:28.935916+00:00",
+  "total_jobs": 7140,
   "stats": {
-    "total_companies": 3479,
+    "total_companies": 3481,
     "total_roles": 95,
     "regions": {
       "India": 4595,
-      "Philippines": 1540,
+      "Philippines": 1545,
       "Remote": 893,
       "Unknown": 135
     },
     "sources": {
-      "Other": 5600,
+      "Other": 5604,
       "Greenhouse": 353,
-      "Workday": 311,
+      "Workday": 312,
       "LinkedIn": 286,
       "Ashby": 220,
       "iCIMS": 83,
@@ -36,6 +36,36 @@
   },
   "jobs": [
     {
+      "id": "f407b9d481cd",
+      "title": "Senior Software Engineer - Job Detail | Careers Marketplace - Siemens",
+      "company": "Job Detail | Careers Marketplace - Siemens",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/517066",
+      "source": "Other",
+      "description": "Senior Software Engineer . Job ID. 517066. Posted since. 06-Aug-2026. Organization. Foundational Technologies. Field of work. Research & Development.",
+      "date": "2026-08-06",
+      "timestamp": "2026-08-06T12:12:26+00:00",
+      "fetched_at": "2026-08-06T13:25:28.906079+00:00"
+    },
+    {
+      "id": "705ec84bae48",
+      "title": "Apply for Data and AI Engineer | U-M Careers - University of Michigan",
+      "company": "U-M Careers - University of Michigan",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.umich.edu/job_detail/apply/281248",
+      "source": "Other",
+      "description": "Please select the option that best describes you to apply for the \"Data and AI Engineer \" position. U-M Regular Employee \u00b7 U-M Temporary Employee ...",
+      "date": "2026-08-06",
+      "timestamp": "2026-08-06T09:56:50+00:00",
+      "fetched_at": "2026-08-06T13:25:28.906423+00:00"
+    },
+    {
       "id": "fb39057d775e",
       "title": "DevOps Engineer , Santa Clara",
       "company": "Unknown Company",
@@ -49,6 +79,21 @@
       "date": "2026-08-06",
       "timestamp": "2026-08-06T09:35:32+00:00",
       "fetched_at": "2026-08-06T10:20:11.943439+00:00"
+    },
+    {
+      "id": "d8db9524148d",
+      "title": "Data Engineer - Myworkdayjobs.com",
+      "company": "Zieglercat",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://zieglercat.wd1.myworkdayjobs.com/en-US/zieglercat/job/Data-Engineer_2026-1421",
+      "source": "Workday",
+      "description": "Ziegler CAT has an opening for a Data Engineer to design, develop, maintain, and optimize Ziegler's enterprise data platform and integration ...",
+      "date": "2026-08-06",
+      "timestamp": "2026-08-06T09:25:45+00:00",
+      "fetched_at": "2026-08-06T13:25:28.906678+00:00"
     },
     {
       "id": "248fa483bfa6",
@@ -156,6 +201,21 @@
       "fetched_at": "2026-08-06T10:20:11.944398+00:00"
     },
     {
+      "id": "6199fb6f51d4",
+      "title": "Data Engineer Redwood City, California - Harnham",
+      "company": "Harnham",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-data-engineer-redwood-city-california-4/",
+      "source": "Other",
+      "description": "Data Engineer Redwood City, California. ... DevOps, Software Engineer & Cloud. Data Science Machine Learning & AI.",
+      "date": "2026-08-06",
+      "timestamp": "2026-08-06T03:08:41+00:00",
+      "fetched_at": "2026-08-06T13:25:28.908079+00:00"
+    },
+    {
       "id": "ca16b231b620",
       "title": "Senior Backend Software Engineer - Apple Sports - Jobs",
       "company": "Apple Sports - Jobs",
@@ -184,6 +244,21 @@
       "date": "2026-08-06",
       "timestamp": "2026-08-06T02:30:33+00:00",
       "fetched_at": "2026-08-06T10:20:11.944883+00:00"
+    },
+    {
+      "id": "60a42f75e7f5",
+      "title": "We're hiring: Senior Software Engineer , Data Integrations - EarthRanger",
+      "company": "EarthRanger",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.earthranger.com/careers/senior-software-engineer-data-integrations",
+      "source": "Other",
+      "description": "The EarthRanger Team is looking for a Senior Software Engineer to connect field hardware and third-party systems to conservation teams through ...",
+      "date": "2026-08-06",
+      "timestamp": "2026-08-06T02:08:59+00:00",
+      "fetched_at": "2026-08-06T13:25:28.908599+00:00"
     },
     {
       "id": "4fd5b21eac8c",
