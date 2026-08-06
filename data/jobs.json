@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-08-06T01:09:55.490317+00:00",
-  "total_jobs": 7119,
+  "last_updated": "2026-08-06T06:18:40.917762+00:00",
+  "total_jobs": 7124,
   "stats": {
-    "total_companies": 3474,
+    "total_companies": 3476,
     "total_roles": 95,
     "regions": {
       "India": 4594,
-      "Philippines": 1527,
-      "Remote": 891,
+      "Philippines": 1530,
+      "Remote": 893,
       "Unknown": 135
     },
     "sources": {
-      "Other": 5586,
-      "Greenhouse": 351,
+      "Other": 5589,
+      "Greenhouse": 353,
       "Workday": 311,
       "LinkedIn": 286,
       "Ashby": 220,
@@ -31,10 +31,40 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-08-05"
+      "latest": "2026-08-06"
     }
   },
   "jobs": [
+    {
+      "id": "4fd5b21eac8c",
+      "title": "Senior Software Engineer - Wells Fargo",
+      "company": "Wells Fargo",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.wellsfargojobs.com/en/jobs/r-563875/senior-software-engineer/",
+      "source": "Other",
+      "description": "About this role: Wells Fargo is seeking a Senior Software Engineer in our Platform Management Group as part of Consumer Technology.",
+      "date": "2026-08-06",
+      "timestamp": "2026-08-06T01:46:45+00:00",
+      "fetched_at": "2026-08-06T06:18:40.886631+00:00"
+    },
+    {
+      "id": "35ecb2f64295",
+      "title": "Lyft Software Engineer - Puck",
+      "company": "Puck",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://app.careerpuck.com/job-board/lyft/job/8678744002",
+      "source": "Other",
+      "description": "Software Engineer . San Francisco, CA. ID: 111051. Apply Hear clips from the team. At Lyft, our purpose is to serve and connect. We aim to achieve this ...",
+      "date": "2026-08-06",
+      "timestamp": "2026-08-06T00:09:12+00:00",
+      "fetched_at": "2026-08-06T06:18:40.886930+00:00"
+    },
     {
       "id": "2cca1a41e2ae",
       "title": "Software Engineer , Agentic Workflows - Jobs - Careers at Apple",
@@ -51,6 +81,21 @@
       "fetched_at": "2026-08-06T01:09:55.220441+00:00"
     },
     {
+      "id": "218e93d4b6f6",
+      "title": "Job Application for Senior Site Reliability Engineer at Alpaca - Greenhouse",
+      "company": "Alpaca",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/alpaca/jobs/6131171004",
+      "source": "Greenhouse",
+      "description": "Senior Site Reliability Engineer . Remote - Americas. Apply. Who We Are: Alpaca is a US-headquartered, global leader in agent-first brokerage ...",
+      "date": "2026-08-05",
+      "timestamp": "2026-08-05T22:45:32+00:00",
+      "fetched_at": "2026-08-06T06:18:40.887194+00:00"
+    },
+    {
       "id": "d8e035530e2b",
       "title": "Data Engineer - Databricks - 3229 - Slalom",
       "company": "Databricks - 3229 - Slalom",
@@ -64,6 +109,21 @@
       "date": "2026-08-05",
       "timestamp": "2026-08-05T22:13:44+00:00",
       "fetched_at": "2026-08-06T01:09:55.220986+00:00"
+    },
+    {
+      "id": "eb7dce989437",
+      "title": "Software Engineer , Agentic AI Harness & Quality - Moveworks - ServiceNow Careers",
+      "company": "Moveworks - ServiceNow Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.servicenow.com/jobs/744000141804089/software-engineer-agentic-ai-harness-quality-moveworks/",
+      "source": "Other",
+      "description": "Senior Software Engineer , Agentic AI Systems - Moveworks. Save Saved. Mountain View. Staff Machine Learning Engineer , Agentic Systems - Moveworks.",
+      "date": "2026-08-05",
+      "timestamp": "2026-08-05T22:08:34+00:00",
+      "fetched_at": "2026-08-06T06:18:40.887584+00:00"
     },
     {
       "id": "66ce8e72f5ee",
@@ -94,6 +154,21 @@
       "date": "2026-08-05",
       "timestamp": "2026-08-05T21:59:02+00:00",
       "fetched_at": "2026-08-06T01:09:55.221367+00:00"
+    },
+    {
+      "id": "74e0e8d22a22",
+      "title": "Job Application for Senior DevOps Engineer at Pacvue - Greenhouse",
+      "company": "Pacvue",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/pacvue/jobs/6134505004",
+      "source": "Greenhouse",
+      "description": "Senior DevOps Engineer . Remote. Apply. About Us: Pacvue is the leading Commerce Media OS, powering over $12B in advertising spend across 100+ global ...",
+      "date": "2026-08-05",
+      "timestamp": "2026-08-05T21:11:20+00:00",
+      "fetched_at": "2026-08-06T06:18:40.888233+00:00"
     },
     {
       "id": "ed0c8de58cbe",
