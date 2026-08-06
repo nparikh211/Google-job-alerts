@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-08-05T20:51:10.177064+00:00",
-  "total_jobs": 7106,
+  "last_updated": "2026-08-06T01:09:55.490317+00:00",
+  "total_jobs": 7119,
   "stats": {
-    "total_companies": 3470,
+    "total_companies": 3474,
     "total_roles": 95,
     "regions": {
-      "India": 4582,
+      "India": 4594,
       "Philippines": 1527,
-      "Remote": 890,
+      "Remote": 891,
       "Unknown": 135
     },
     "sources": {
-      "Other": 5573,
+      "Other": 5586,
       "Greenhouse": 351,
       "Workday": 311,
       "LinkedIn": 286,
@@ -36,6 +36,111 @@
   },
   "jobs": [
     {
+      "id": "2cca1a41e2ae",
+      "title": "Software Engineer , Agentic Workflows - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200676125-3337/software-engineer-agentic-workflows?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Software Engineer , Agentic Workflows job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-08-05",
+      "timestamp": "2026-08-05T23:15:05+00:00",
+      "fetched_at": "2026-08-06T01:09:55.220441+00:00"
+    },
+    {
+      "id": "d8e035530e2b",
+      "title": "Data Engineer - Databricks - 3229 - Slalom",
+      "company": "Databricks - 3229 - Slalom",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.slalom.com/en_US/careersmarketplace/JobDetail/Data-Engineer-Databricks/3229",
+      "source": "Other",
+      "description": "Data Engineer - Databricks \u00b7 Build, enhance, and troubleshoot Azure Data Factory (ADF) pipelines and Snowflake ELT/ETL processes, and Databricks ELT/ETL ...",
+      "date": "2026-08-05",
+      "timestamp": "2026-08-05T22:13:44+00:00",
+      "fetched_at": "2026-08-06T01:09:55.220986+00:00"
+    },
+    {
+      "id": "66ce8e72f5ee",
+      "title": "Data Engineer (Microsoft Fabric) - RethinkFirst - Career Page",
+      "company": "RethinkFirst - Career Page",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://rethink.applytojob.com/apply/C5cCPAOxET/Data-Engineer-Microsoft-Fabric",
+      "source": "Other",
+      "description": "Data Engineer (Microsoft Fabric) ... RethinkFirst is a leading behavioral health technology company working to make mental wellness, education, and ...",
+      "date": "2026-08-05",
+      "timestamp": "2026-08-05T22:00:58+00:00",
+      "fetched_at": "2026-08-06T01:09:55.221202+00:00"
+    },
+    {
+      "id": "ed5ec0ee30f8",
+      "title": "Sr. Software Engineer , Dublin | Pinterest Careers",
+      "company": "Pinterest Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.pinterestcareers.com/jobs/8100299/sr-software-engineer/",
+      "source": "Other",
+      "description": "Software Engineer . Dublin \u00b7 Engineering; Regular. a screenshot of a social media post. Share. Apply Now. Description. About Pinterest: Millions of ...",
+      "date": "2026-08-05",
+      "timestamp": "2026-08-05T21:59:02+00:00",
+      "fetched_at": "2026-08-06T01:09:55.221367+00:00"
+    },
+    {
+      "id": "ed0c8de58cbe",
+      "title": "[Summer 2027] Software Engineer Intern - Roblox Careers",
+      "company": "Roblox Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.roblox.com/jobs/8072713",
+      "source": "Other",
+      "description": "As a Software Engineer Intern at Roblox, your 12-week journey is designed around accelerated learning and tangible global impact. With the support ...",
+      "date": "2026-08-05",
+      "timestamp": "2026-08-05T20:24:26+00:00",
+      "fetched_at": "2026-08-06T01:09:55.221494+00:00"
+    },
+    {
+      "id": "4ec9774273f1",
+      "title": "Software Engineer | Smiths Detection",
+      "company": "Smiths Detection",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.smithsdetection.com/careers/job-search-results/software-engineer-744000141653574/",
+      "source": "Other",
+      "description": "Software Engineer . Software Engineer . Share. Share to X \u00b7 Share to LinkedIn \u00b7 Share this page. Job Detail. Location: Bengaluru, KA, India. Ref: ...",
+      "date": "2026-08-05",
+      "timestamp": "2026-08-05T20:16:00+00:00",
+      "fetched_at": "2026-08-06T01:09:55.460711+00:00"
+    },
+    {
+      "id": "ed19b8adb272",
+      "title": "Software Engineer , Platform Engineering (L2) - Twilio Careers",
+      "company": "Twilio Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.twilio.com/careers/job/1099554230886?domain=twilio.com&src=LinkedIn",
+      "source": "Other",
+      "description": "Software Engineer , Platform Engineering (L2). Remote - US. Apply Now ... Senior Software Engineer . Engineering. Remote - US. Remote. Posted 21 days ...",
+      "date": "2026-08-05",
+      "timestamp": "2026-08-05T19:59:44+00:00",
+      "fetched_at": "2026-08-06T01:09:55.221655+00:00"
+    },
+    {
       "id": "daabcaba59e4",
       "title": "Senior Software Engineer - Jobs at Volvo Group",
       "company": "Volvo Group",
@@ -49,6 +154,66 @@
       "date": "2026-08-05",
       "timestamp": "2026-08-05T19:54:11+00:00",
       "fetched_at": "2026-08-05T20:51:10.054847+00:00"
+    },
+    {
+      "id": "262e4a396d78",
+      "title": "Senior AI Engineer (Agentic AI & Conversational AI) Seattle Washington - Beacon Hill",
+      "company": "Beacon Hill",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://bhsg.com/jobs/job/ns-aied-ns_1785888658-senior-ai-engineer-agentic-ai-conversational-ai-seattle-washington/",
+      "source": "Other",
+      "description": "Senior AI Engineer (Agentic AI & Conversational AI) Seattle Washington - Apply with Beacon Hill Staffing Services for this Senior AI Engineer ...",
+      "date": "2026-08-05",
+      "timestamp": "2026-08-05T19:45:11+00:00",
+      "fetched_at": "2026-08-06T01:09:55.222173+00:00"
+    },
+    {
+      "id": "63c664a0623e",
+      "title": "Software Engineer , Enterprise Expansion - Retool Careers - Gem",
+      "company": "Retool Careers - Gem",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.gem.com/retool/am9icG9zdDquFInMksRIjdOFUImZiR8S",
+      "source": "Other",
+      "description": "Software Engineer , Enterprise Expansion. San Francisco. Engineering. Hybrid. Full-time. ABOUT RETOOL. Nearly every company in the world runs on custom ...",
+      "date": "2026-08-05",
+      "timestamp": "2026-08-05T19:35:53+00:00",
+      "fetched_at": "2026-08-06T01:09:55.222330+00:00"
+    },
+    {
+      "id": "096b3d95adb6",
+      "title": "Software Engineer /Lead Software Engineer in Multiple Locations - State Farm Careers",
+      "company": "State Farm Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.statefarm.com/main/jobs/45531?lang=en-us",
+      "source": "Other",
+      "description": "We're seeking a Software Engineer or a Lead Software Engineer for our batch Design & Development and On-Demand Composition Modernization teams within ...",
+      "date": "2026-08-05",
+      "timestamp": "2026-08-05T19:33:45+00:00",
+      "fetched_at": "2026-08-06T01:09:55.222475+00:00"
+    },
+    {
+      "id": "68e02dc359c9",
+      "title": "Mobile Software Engineer , Google Pay",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.google.com/jobs/results/127009706706117318-mobile-software-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer , Vertex AI, Workbench. Warsaw, Poland \u00b7 Technical Program Manager III, Industrial Operations, Technical Infrastructure.",
+      "date": "2026-08-05",
+      "timestamp": "2026-08-05T19:13:53+00:00",
+      "fetched_at": "2026-08-06T01:09:55.222641+00:00"
     },
     {
       "id": "f794bc9532c3",
@@ -66,6 +231,21 @@
       "fetched_at": "2026-08-05T20:51:10.055410+00:00"
     },
     {
+      "id": "a4b590dda52b",
+      "title": "Data Engineer 4 | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.apexsystems.com/job/3045017_usa/data-engineer-4",
+      "source": "Other",
+      "description": "Data Engineer 4. Apply. Job#: 3045017. Job Description: Data Engineer . Location: Beaverton, Oregon (Hybrid: onsite Monday-Thursdays and can work ...",
+      "date": "2026-08-05",
+      "timestamp": "2026-08-05T18:43:48+00:00",
+      "fetched_at": "2026-08-06T01:09:55.222952+00:00"
+    },
+    {
       "id": "9c2744fb3632",
       "title": "United States, Junior Software Engineer - 19470 - MetLife Careers",
       "company": "19470 - MetLife Careers",
@@ -79,6 +259,21 @@
       "date": "2026-08-05",
       "timestamp": "2026-08-05T18:12:22+00:00",
       "fetched_at": "2026-08-05T20:51:10.055771+00:00"
+    },
+    {
+      "id": "591ebec073b7",
+      "title": "Full Stack Software Engineer (Python) - Gartner Careers",
+      "company": "Gartner Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.gartner.com/jobs/job/108775-full-stack-software-engineer-python/",
+      "source": "Other",
+      "description": "Full Stack Software Engineer (Python). Full Stack Software Engineer (Python). Irving, Texas / Stamford, Connecticut; Technology. Description. About ...",
+      "date": "2026-08-05",
+      "timestamp": "2026-08-05T18:07:54+00:00",
+      "fetched_at": "2026-08-06T01:09:55.223464+00:00"
     },
     {
       "id": "1a9f0691a72b",
