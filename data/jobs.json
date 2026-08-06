@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-08-06T06:18:40.917762+00:00",
-  "total_jobs": 7124,
+  "last_updated": "2026-08-06T10:20:11.974566+00:00",
+  "total_jobs": 7135,
   "stats": {
-    "total_companies": 3476,
+    "total_companies": 3479,
     "total_roles": 95,
     "regions": {
-      "India": 4594,
-      "Philippines": 1530,
+      "India": 4595,
+      "Philippines": 1540,
       "Remote": 893,
       "Unknown": 135
     },
     "sources": {
-      "Other": 5589,
+      "Other": 5600,
       "Greenhouse": 353,
       "Workday": 311,
       "LinkedIn": 286,
@@ -35,6 +35,156 @@
     }
   },
   "jobs": [
+    {
+      "id": "fb39057d775e",
+      "title": "DevOps Engineer , Santa Clara",
+      "company": "Unknown Company",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.careers.jnj.com/en/jobs/r-092117/devops-engineer/",
+      "source": "Other",
+      "description": "DevOps Engineer . Apply now. Apply now. Save Saved. Share job. Share ... Senior Software Engineer \u2013 Navigation. R&D Product Development. Boston ...",
+      "date": "2026-08-06",
+      "timestamp": "2026-08-06T09:35:32+00:00",
+      "fetched_at": "2026-08-06T10:20:11.943439+00:00"
+    },
+    {
+      "id": "248fa483bfa6",
+      "title": "Staff Backend Software Engineer in Los Angeles, California | FOX Careers",
+      "company": "FOX Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.foxcareers.com/Search/JobDetail/R50033532/staff-backend-software-engineer-fox-corporation",
+      "source": "Other",
+      "description": "View the job requirements for the Staff Backend Software Engineer opening in Los Angeles, California |Apply Now at FOX Careers.",
+      "date": "2026-08-06",
+      "timestamp": "2026-08-06T09:23:36+00:00",
+      "fetched_at": "2026-08-06T10:20:11.943659+00:00"
+    },
+    {
+      "id": "7bb24fd40f7f",
+      "title": "Software Engineer at Barclays",
+      "company": "Barclays",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://search.jobs.barclays/job/pune/software-engineer/13015/98800934752",
+      "source": "Other",
+      "description": "Senior Software Engineer - Java. Pune (India). 04 Aug. Software Engineer -UI Developer. Pune (India). 04 Aug. Scrum Master. Pune (India). 05 Aug. Java ...",
+      "date": "2026-08-06",
+      "timestamp": "2026-08-06T08:15:13+00:00",
+      "fetched_at": "2026-08-06T10:20:11.943778+00:00"
+    },
+    {
+      "id": "7a0bf8598215",
+      "title": "Entry Level Software Engineer in San Diego, California, United States - BAE Systems",
+      "company": "BAE Systems",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.baesystems.com/global/en/job/127593BR/Entry-Level-Software-Engineer",
+      "source": "Other",
+      "description": "Apply for Entry Level Software Engineer job with BAE Systems in San Diego, California, United States ... DevOps Engineer (Hybrid). Available in 2 ...",
+      "date": "2026-08-06",
+      "timestamp": "2026-08-06T07:45:33+00:00",
+      "fetched_at": "2026-08-06T10:20:11.943920+00:00"
+    },
+    {
+      "id": "faf75cbc95ed",
+      "title": "Software Engineer I (Onsite) in fullerton, California, United States of America - RTX Careers",
+      "company": "RTX Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.rtx.com/global/en/job/01864064/Software-Engineer-I-Onsite",
+      "source": "Other",
+      "description": "Apply for Software Engineer I (Onsite) job with Raytheon in fullerton, California, United States of America. Engineering at Raytheon.",
+      "date": "2026-08-06",
+      "timestamp": "2026-08-06T07:20:46+00:00",
+      "fetched_at": "2026-08-06T10:20:11.944047+00:00"
+    },
+    {
+      "id": "2e47091e0583",
+      "title": "Data and AI Engineer | U-M Careers",
+      "company": "U-M Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.umich.edu/job_detail/281248/data-and-ai-engineer",
+      "source": "Other",
+      "description": "Data and AI Engineer \u00b7 Design, build, and maintain data pipelines and AI systems that support research and clinical workflows across AI&DHI initiatives ...",
+      "date": "2026-08-06",
+      "timestamp": "2026-08-06T07:01:25+00:00",
+      "fetched_at": "2026-08-06T10:20:11.944181+00:00"
+    },
+    {
+      "id": "55b0f28a7a74",
+      "title": "Data Engineer in San Francisco, CA | Careers at Zof AI",
+      "company": "Zof AI",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://zof.ai/careers/san-francisco/data-engineer",
+      "source": "Other",
+      "description": "If you have worked as an Analytics Engineer, ETL Developer, Big Data Engineer , or Data Platform Engineer , this is that discipline at Zof AI. The ...",
+      "date": "2026-08-06",
+      "timestamp": "2026-08-06T06:56:06+00:00",
+      "fetched_at": "2026-08-06T10:20:11.944286+00:00"
+    },
+    {
+      "id": "5abbe2428cdb",
+      "title": "Data Engineer - Radix Careers",
+      "company": "Radix Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.radix.com/jobs/677504-data-engineer",
+      "source": "Other",
+      "description": "Data Engineer \u00b7 Radix is building the most trusted data and analytics platform in multifamily. Joining now means stepping into a place where curiosity ...",
+      "date": "2026-08-06",
+      "timestamp": "2026-08-06T06:52:14+00:00",
+      "fetched_at": "2026-08-06T10:20:11.944398+00:00"
+    },
+    {
+      "id": "ca16b231b620",
+      "title": "Senior Backend Software Engineer - Apple Sports - Jobs",
+      "company": "Apple Sports - Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200676120-2459/senior-backend-software-engineer-apple-sports",
+      "source": "Other",
+      "description": "Apple Sports is looking for an expert Backend Engineer to help ... As a Senior Software Engineer , you will be responsible for designing ...",
+      "date": "2026-08-06",
+      "timestamp": "2026-08-06T02:33:22+00:00",
+      "fetched_at": "2026-08-06T10:20:11.944717+00:00"
+    },
+    {
+      "id": "b603491b7bef",
+      "title": "Data Engineer II, Data Management Team - Job ID: 10493224 - Amazon Careers",
+      "company": "Job ID: 10493224 - Amazon Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.amazon.jobs/en/jobs/10493224/data-engineer-ii-data-management-team",
+      "source": "Other",
+      "description": "Amazon Web Services (AWS), World-Wide Public Sector Reporting and Analytics team is seeking a Data Engineer with broad technical skills to help build ...",
+      "date": "2026-08-06",
+      "timestamp": "2026-08-06T02:30:33+00:00",
+      "fetched_at": "2026-08-06T10:20:11.944883+00:00"
+    },
     {
       "id": "4fd5b21eac8c",
       "title": "Senior Software Engineer - Wells Fargo",
@@ -64,6 +214,21 @@
       "date": "2026-08-06",
       "timestamp": "2026-08-06T00:09:12+00:00",
       "fetched_at": "2026-08-06T06:18:40.886930+00:00"
+    },
+    {
+      "id": "75c0463ebf12",
+      "title": "Software Engineer Intern (AI Agent & Global Revenue Platform) - 2027 Summer",
+      "company": "2027 Summer",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://lifeattiktok.com/search/7669712589169117445",
+      "source": "Other",
+      "description": "View our opening for Software Engineer Intern (AI Agent & Global Revenue Platform) - 2027 Summer and learn more about what it's like to work at ...",
+      "date": "2026-08-05",
+      "timestamp": "2026-08-05T23:55:21+00:00",
+      "fetched_at": "2026-08-06T10:20:11.945348+00:00"
     },
     {
       "id": "2cca1a41e2ae",
