@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-08-07T12:32:26.885326+00:00",
-  "total_jobs": 7187,
+  "last_updated": "2026-08-07T16:37:02.208626+00:00",
+  "total_jobs": 7205,
   "stats": {
-    "total_companies": 3504,
+    "total_companies": 3510,
     "total_roles": 96,
     "regions": {
-      "India": 4627,
-      "Philippines": 1550,
-      "Remote": 903,
+      "India": 4641,
+      "Philippines": 1553,
+      "Remote": 905,
       "Unknown": 135
     },
     "sources": {
-      "Other": 5639,
-      "Greenhouse": 356,
+      "Other": 5652,
+      "Greenhouse": 357,
       "Workday": 312,
-      "LinkedIn": 288,
+      "LinkedIn": 290,
       "Ashby": 221,
-      "iCIMS": 84,
-      "Breezy": 77,
+      "iCIMS": 85,
+      "Breezy": 78,
       "Lever": 52,
       "Workable": 50,
       "SmartRecruiters": 47,
@@ -36,6 +36,186 @@
   },
   "jobs": [
     {
+      "id": "671f578106e8",
+      "title": "Sr. Software Engineer (Remote) - frontdoor.jobs",
+      "company": "frontdoor.jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://frontdoor.jobs/virtual-usa/sr-software-engineer-remote/0E701B38E7724229A96BA14A65249584/job/",
+      "source": "Other",
+      "description": "Sr. Software Engineer (Remote). Virtual, USA. ID:2026-4145; Category: Engineering. Overview. Frontdoor is reimagining how homeowners maintain and ...",
+      "date": "2026-08-07",
+      "timestamp": "2026-08-07T16:27:49+00:00",
+      "fetched_at": "2026-08-07T16:37:02.174980+00:00"
+    },
+    {
+      "id": "ee34ee08458d",
+      "title": "Software Engineer (AWS, .NET) Job Details | J. J. Keller & Associates, Inc.",
+      "company": "J. J. Keller & Associates, Inc.",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.jjkeller.com/job/Neenah-Software-Engineer-%28AWS%2C-_NET%29-WI-54956/1416738700/",
+      "source": "Other",
+      "description": "Keller is seeking a Software Engineer with strong AWS and .NET expertise to help design, develop, deploy, and support business-critical applications ...",
+      "date": "2026-08-07",
+      "timestamp": "2026-08-07T16:15:08+00:00",
+      "fetched_at": "2026-08-07T16:37:02.175236+00:00"
+    },
+    {
+      "id": "dc190f63be43",
+      "title": "Software Engineer in Atlanta, Georgia | Careers at Atlanta - GreenSky Administrative Services LLC",
+      "company": "Atlanta",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers-greensky.icims.com/jobs/5178/software-engineer/job",
+      "source": "iCIMS",
+      "description": "Atlanta- Glenridge is now hiring a Software Engineer in Atlanta, Georgia. Review all of the job details and apply today!",
+      "date": "2026-08-07",
+      "timestamp": "2026-08-07T15:58:12+00:00",
+      "fetched_at": "2026-08-07T16:37:01.993179+00:00"
+    },
+    {
+      "id": "d4b84d20e107",
+      "title": "Thyme Care Senior Software Engineer - Puck",
+      "company": "Puck",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://app.careerpuck.com/job-board/thymecare/job/18f66522-e7b2-4048-bfb3-3dfda05a1d96",
+      "source": "Other",
+      "description": "Thyme Care Senior Software Engineer is where you apply online to the Senior Software Engineer role ... As a Senior Backend Engineer , you will be ...",
+      "date": "2026-08-07",
+      "timestamp": "2026-08-07T15:57:37+00:00",
+      "fetched_at": "2026-08-07T16:37:01.993698+00:00"
+    },
+    {
+      "id": "1251639aeeac",
+      "title": "Lead Software Engineer - Careers at Yum! Brands",
+      "company": "Yum! Brands",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.yum.com/jobs/general/louisville-ky-united-states/lead-software-engineer/5492",
+      "source": "Other",
+      "description": "KNOWLEDGE AND SKILL REQUIRED: \u2022 Advanced experience as a lead software engineer , backend/ platform engineer , or software architect designing production ...",
+      "date": "2026-08-07",
+      "timestamp": "2026-08-07T15:33:39+00:00",
+      "fetched_at": "2026-08-07T16:37:01.993873+00:00"
+    },
+    {
+      "id": "9c5a90648936",
+      "title": "Job Application for Senior Data Engineer at Komodo Health - Greenhouse",
+      "company": "Komodohealth",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/komodohealth/jobs/8687460002",
+      "source": "Greenhouse",
+      "description": "Senior Data Engineer . United States. Apply. We Breathe Life Into Data. At Komodo Health, our mission is to reduce the global burden of disease. And we ...",
+      "date": "2026-08-07",
+      "timestamp": "2026-08-07T15:33:11+00:00",
+      "fetched_at": "2026-08-07T16:37:02.175528+00:00"
+    },
+    {
+      "id": "e515193a105e",
+      "title": "Software Engineer II - Nike Careers",
+      "company": "Nike Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.nike.com/software-engineer-ii/job/R-88267",
+      "source": "Other",
+      "description": "Software Engineer II. Position Type: Full Time. Career area: Software ... As a full stack engineer , you'll contribute to backend service ...",
+      "date": "2026-08-07",
+      "timestamp": "2026-08-07T15:02:38+00:00",
+      "fetched_at": "2026-08-07T16:37:01.994028+00:00"
+    },
+    {
+      "id": "3635a9b6b0a2",
+      "title": "Full-Stack Software Engineer at Veta Virtual",
+      "company": "Veta Virtual Inc",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://veta-virtual-inc.breezy.hr/p/11015358cfe2-full-stack-software-engineer",
+      "source": "Breezy",
+      "description": "Are you a seasoned full-stack engineer with a passion for building ... Veta Virtual is hiring a Full-Stack Software Engineer for an important fintech ...",
+      "date": "2026-08-07",
+      "timestamp": "2026-08-07T14:41:45+00:00",
+      "fetched_at": "2026-08-07T16:37:01.994147+00:00"
+    },
+    {
+      "id": "30f13fe90ddf",
+      "title": "Machine Learning Engineer in Madrid, Spain - Careers at Roche",
+      "company": "Roche",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.roche.com/global/en/job/ROCHGLOBAL202608120145EXTERNALENGLOBAL/Machine-Learning-Engineer",
+      "source": "Other",
+      "description": "Apply for Machine Learning Engineer job with Roche in Madrid, Spain. Engineering at Roche.",
+      "date": "2026-08-07",
+      "timestamp": "2026-08-07T14:05:13+00:00",
+      "fetched_at": "2026-08-07T16:37:01.994472+00:00"
+    },
+    {
+      "id": "fdebc543172b",
+      "title": "Full Stack Engineer - Java and React at UnitedHealth Group",
+      "company": "UnitedHealth Group",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.unitedhealthgroup.com/job/hyderabad/full-stack-engineer-java-and-react/34088/98854406960",
+      "source": "Other",
+      "description": "Full Stack Engineer - Java and React. Requisition number: 2373881 Job category: Technology Primary location: Hyderabad, India Date posted: 08/06/ ...",
+      "date": "2026-08-07",
+      "timestamp": "2026-08-07T13:25:32+00:00",
+      "fetched_at": "2026-08-07T16:37:02.175978+00:00"
+    },
+    {
+      "id": "11042f152f21",
+      "title": "Software Engineer & Content Creator: Balancing Multiple Passions with \u2068Adama Lorna | Joshua W.",
+      "company": "Joshua W.",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/posts/joshwayoe_software-engineer-content-creator-balancing-activity-7491423579314651136-pkpS",
+      "source": "LinkedIn",
+      "description": "... Senior Software Engineer , keynote speaker, and content creator with over 250K across all platforms who is completely redefining what it means to ...",
+      "date": "2026-08-07",
+      "timestamp": "2026-08-07T12:41:28+00:00",
+      "fetched_at": "2026-08-07T16:37:02.176459+00:00"
+    },
+    {
+      "id": "a98d8ba9b642",
+      "title": "Data Engineer in San Jose, California, United States of America - Cisco Careers",
+      "company": "Cisco Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2016712EXTERNALENGLOBAL/Data-Engineer",
+      "source": "Other",
+      "description": "Job posting may be removed earlier if the position is filled or if a sufficient number of applications are received. 2016712 - Data Engineer (Hybrid).",
+      "date": "2026-08-07",
+      "timestamp": "2026-08-07T12:25:51+00:00",
+      "fetched_at": "2026-08-07T16:37:01.994640+00:00"
+    },
+    {
       "id": "5a896efef03c",
       "title": "Cint Software Engineer II | SmartRecruiters",
       "company": "Cint",
@@ -51,6 +231,52 @@
       "fetched_at": "2026-08-07T12:32:26.788909+00:00"
     },
     {
+      "id": "1baa7ecfa26a",
+      "title": "Senior Software Engineer , HYDERABAD, Telang\u0101na | Wells Fargo",
+      "company": "Wells Fargo",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.wellsfargojobs.com/en/jobs/r-565305/senior-software-engineer/",
+      "source": "Other",
+      "description": "About this role: Wells Fargo is seeking a Senior Software Engineer In this role, you will: Lead moderately complex initiatives and deliverables ...",
+      "date": "2026-08-07",
+      "timestamp": "2026-08-07T09:53:13+00:00",
+      "fetched_at": "2026-08-07T16:37:01.995011+00:00"
+    },
+    {
+      "id": "547f3b325fe6",
+      "title": "PayPal hiring Software Engineer in Austin, TX | LinkedIn",
+      "company": "LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/software-engineer-at-paypal-4450052292",
+      "source": "LinkedIn",
+      "description": "Backend Engineer . Gallatin AI, Inc. Austin, TX $80,000 - $210,000 8 ... Site Reliability Engineer jobs \u00b7 Wise jobs \u00b7 Duolingo jobs \u00b7 SumUp jobs ...",
+      "date": "2026-08-07",
+      "timestamp": "2026-08-07T09:25:28+00:00",
+      "fetched_at": "2026-08-07T16:37:01.995166+00:00"
+    },
+    {
+      "id": "b7c5629105cc",
+      "title": "Sr Software Engineer - Cloud Platform\u2014Kubernetes, Hyperscalers & Distributed Systems",
+      "company": "Cloud Platform\u2014Kubernetes, Hyperscalers & Distributed Systems",
+      "role": "Software Engineer",
+      "regions": [
+        "India",
+        "Remote"
+      ],
+      "link": "https://careers.servicenow.com/jobs/744000142055094/sr-software-engineer-cloud-platform-kubernetes-hyperscalers-distributed-systems/",
+      "source": "Other",
+      "description": "Sr Software Engineer - Cloud Platform\u2014Kubernetes, Hyperscalers & Distributed Systems. Engineering, Infrastructure and Operations \u00b7 Hyderabad; Flexible ...",
+      "date": "2026-08-07",
+      "timestamp": "2026-08-07T08:56:48+00:00",
+      "fetched_at": "2026-08-07T16:37:01.995490+00:00"
+    },
+    {
       "id": "c31ea35593bb",
       "title": "Software Engineer - Data Engineering - Caterpillar Careers",
       "company": "Software Engineer",
@@ -64,6 +290,36 @@
       "date": "2026-08-07",
       "timestamp": "2026-08-07T08:53:22+00:00",
       "fetched_at": "2026-08-07T12:32:26.789829+00:00"
+    },
+    {
+      "id": "731ce5d42393",
+      "title": "Lead Software Engineer , Full Stack ( Cloud Native, Microservices & AWS) ( Enterprise ...",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.capitalonecareers.com/job/mclean/lead-software-engineer-full-stack-cloud-native-microservices-and-aws-enterprise-platforms-technology/1732/98859227152",
+      "source": "Other",
+      "description": "Learn more about applying for Lead Software Engineer , Full Stack ( Cloud Native, Microservices & AWS) ( Enterprise Platforms Technology) at ...",
+      "date": "2026-08-07",
+      "timestamp": "2026-08-07T08:48:36+00:00",
+      "fetched_at": "2026-08-07T16:37:01.996024+00:00"
+    },
+    {
+      "id": "b1e57f645c11",
+      "title": "Full Stack Data Engineer - Pure Magic - Paylocity",
+      "company": "Pure Magic - Paylocity",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://recruiting.paylocity.com/recruiting/jobs/Details/4398602/Mammoth-Holdings-LLC/Full-Stack-Data-Engineer",
+      "source": "Other",
+      "description": "We are seeking a Full Stack Data Engineer to join our Data & Analytics team. This role is for someone who is genuinely strong with databases and ...",
+      "date": "2026-08-07",
+      "timestamp": "2026-08-07T08:47:52+00:00",
+      "fetched_at": "2026-08-07T16:37:01.996189+00:00"
     },
     {
       "id": "f23d6fef5624",
@@ -109,6 +365,21 @@
       "date": "2026-08-07",
       "timestamp": "2026-08-07T08:00:50+00:00",
       "fetched_at": "2026-08-07T12:32:26.790499+00:00"
+    },
+    {
+      "id": "1f773677fff6",
+      "title": "Principal DevOps Engineer , Software Engineering @ Raleigh, Burlington - Progress Careers",
+      "company": "Raleigh, Burlington",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.progress.com/company/careers/open-positions/principal-devops-engineer-oov0zfwc?utm_campaignu003dgoogle_jobs_applyu0026utm_sourceu003dgoogle_jobs_applyu0026utm_mediumu003dorganic",
+      "source": "Other",
+      "description": "Progress is looking for Principal DevOps Engineer . Apply now and become part of the team that will provide the foundation for digital ...",
+      "date": "2026-08-07",
+      "timestamp": "2026-08-07T07:54:54+00:00",
+      "fetched_at": "2026-08-07T16:37:01.997168+00:00"
     },
     {
       "id": "c365cc3082a0",
