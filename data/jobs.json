@@ -1,26 +1,26 @@
 {
-  "last_updated": "2026-08-07T08:42:09.498508+00:00",
-  "total_jobs": 7175,
+  "last_updated": "2026-08-07T12:32:26.885326+00:00",
+  "total_jobs": 7187,
   "stats": {
-    "total_companies": 3497,
+    "total_companies": 3504,
     "total_roles": 96,
     "regions": {
-      "India": 4616,
+      "India": 4627,
       "Philippines": 1550,
-      "Remote": 902,
+      "Remote": 903,
       "Unknown": 135
     },
     "sources": {
-      "Other": 5631,
+      "Other": 5639,
       "Greenhouse": 356,
       "Workday": 312,
       "LinkedIn": 288,
-      "Ashby": 220,
+      "Ashby": 221,
       "iCIMS": 84,
-      "Breezy": 75,
+      "Breezy": 77,
       "Lever": 52,
       "Workable": 50,
-      "SmartRecruiters": 46,
+      "SmartRecruiters": 47,
       "Indeed": 28,
       "BrassRing": 10,
       "Jobvite": 8,
@@ -36,6 +36,81 @@
   },
   "jobs": [
     {
+      "id": "5a896efef03c",
+      "title": "Cint Software Engineer II | SmartRecruiters",
+      "company": "Cint",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.smartrecruiters.com/Cint/744000141965728-software-engineer-ii-",
+      "source": "SmartRecruiters",
+      "description": "Software Engineer II. New Orleans, LA, USA Employees can work remotely; Full-time. Company Description. Cint is a global leader in research and ...",
+      "date": "2026-08-07",
+      "timestamp": "2026-08-07T11:07:04+00:00",
+      "fetched_at": "2026-08-07T12:32:26.788909+00:00"
+    },
+    {
+      "id": "c31ea35593bb",
+      "title": "Software Engineer - Data Engineering - Caterpillar Careers",
+      "company": "Software Engineer",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.caterpillar.com/en/jobs/r0000386236/software-engineer-data-engineering/",
+      "source": "Other",
+      "description": "Similar Jobs \u00b7 Software Engineer - Data Engineering \u00b7 Senior Software Engineer - Data Engineering \u00b7 Lead Software Engineer - Data Engineer .",
+      "date": "2026-08-07",
+      "timestamp": "2026-08-07T08:53:22+00:00",
+      "fetched_at": "2026-08-07T12:32:26.789829+00:00"
+    },
+    {
+      "id": "f23d6fef5624",
+      "title": "Software Engineer - careers.cern",
+      "company": "careers.cern",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cern/jobs/software-engineer/",
+      "source": "Other",
+      "description": "Software Engineer . Switzerland flag Geneva, Switzerland SY-BI-SW-2026-175-LD Ideal start date: 01 ...",
+      "date": "2026-08-07",
+      "timestamp": "2026-08-07T08:27:09+00:00",
+      "fetched_at": "2026-08-07T12:32:26.790146+00:00"
+    },
+    {
+      "id": "8c045a9975ae",
+      "title": "Job ID:26025193 - TA095 Software Engineer III - GBS IND - Multiple Locations",
+      "company": "Job ID:26025193",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.bankofamerica.com/en-us/job-detail/26025193/ta095-software-engineer-iii-gbs-ind-multiple-locations",
+      "source": "Other",
+      "description": "Apply for the TA095 Software Engineer III - GBS IND position (Job ID: 26025193), with openings in multiple locations, at Bank of America.",
+      "date": "2026-08-07",
+      "timestamp": "2026-08-07T08:21:32+00:00",
+      "fetched_at": "2026-08-07T12:32:26.790363+00:00"
+    },
+    {
+      "id": "da28a08d8171",
+      "title": "Jr. AI Engineer - Vagaro",
+      "company": "Vagaro",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://vagaro.breezy.hr/p/2f1a61cf0f5f-jr-ai-engineer/apply",
+      "source": "Breezy",
+      "description": "AI Engineer . Pleasanton, CA; Full-Time; Machine Learning; $110,000 \u2013 $140,000 / year. Job Openings \u00b7 Jr. AI Engineer ; Apply. Upload Resume*. Use My ...",
+      "date": "2026-08-07",
+      "timestamp": "2026-08-07T08:00:50+00:00",
+      "fetched_at": "2026-08-07T12:32:26.790499+00:00"
+    },
+    {
       "id": "c365cc3082a0",
       "title": "DevOps Engineer job | jobs at DHL Group",
       "company": "DHL Group",
@@ -49,6 +124,36 @@
       "date": "2026-08-07",
       "timestamp": "2026-08-07T07:13:48+00:00",
       "fetched_at": "2026-08-07T08:42:09.083752+00:00"
+    },
+    {
+      "id": "c6776b1a4c0f",
+      "title": "Software Engineer (Success Engineering), Bengaluru, Karnataka | Deltek",
+      "company": "Deltek",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.deltek.com/job/23675120/software-engineer-success-engineering-onsite/",
+      "source": "Other",
+      "description": "Software Engineer (Success Engineering) \u00b7 Responsibilities. General Responsibilities: Collaborate with the application development team to maintain, ...",
+      "date": "2026-08-07",
+      "timestamp": "2026-08-07T06:52:12+00:00",
+      "fetched_at": "2026-08-07T12:32:26.790879+00:00"
+    },
+    {
+      "id": "242f7e1985c2",
+      "title": "Senior Agentic AI Software Engineer in Karn\u0101taka, India - Bread Financial jobs",
+      "company": "Bread Financial jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.breadfinancial.com/in/en/job/R1012792/Senior-Agentic-AI-Software-Engineer",
+      "source": "Other",
+      "description": "The Senior Agentic Software Engineer will develop financial technology solutions within the rapidly evolving AI world. ... Principal Data Engineer (I).",
+      "date": "2026-08-07",
+      "timestamp": "2026-08-07T06:29:57+00:00",
+      "fetched_at": "2026-08-07T12:32:26.791078+00:00"
     },
     {
       "id": "d30ec431e84b",
@@ -66,6 +171,36 @@
       "fetched_at": "2026-08-07T08:42:09.084649+00:00"
     },
     {
+      "id": "e06ec99fede5",
+      "title": "Cloud Engineer - Gibson Dunn",
+      "company": "Gibson Dunn",
+      "role": "Cloud Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.gibsondunn.com/job_staff_gh/cloud-engineer/",
+      "source": "Other",
+      "description": "Careers. Cloud Engineer . London. Apply Directly. Job Summary. Summary: Gibson Dunn is a leading global law firm, advising clients on significant ...",
+      "date": "2026-08-07",
+      "timestamp": "2026-08-07T05:51:12+00:00",
+      "fetched_at": "2026-08-07T12:32:26.791727+00:00"
+    },
+    {
+      "id": "343e4140ca72",
+      "title": "Machine Learning Engineer @ Superhuman - Jobs",
+      "company": "Superhuman",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/superhuman%20platform%20inc/657f696e-1f1e-4287-a81e-8b79b786d5e1",
+      "source": "Ashby",
+      "description": "... Machine Learning Engineer on this team, you will be at the heart of our company's transformation. - Shape the Future of Productivity: Play a ...",
+      "date": "2026-08-07",
+      "timestamp": "2026-08-07T05:42:27+00:00",
+      "fetched_at": "2026-08-07T12:32:26.791882+00:00"
+    },
+    {
       "id": "6bd735446e62",
       "title": "Software Engineer I (Network Testing & Automation) - HPE Careers",
       "company": "HPE Careers",
@@ -81,6 +216,36 @@
       "fetched_at": "2026-08-07T08:42:09.084859+00:00"
     },
     {
+      "id": "9d582b2fff0f",
+      "title": "Senior Software Engineer , Officer job in Hyderabad | Other jobs at State Street",
+      "company": "State Street",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.statestreet.com/global/en/job/STSTGLOBALR795725EXTERNALENGLOBAL/Senior-Software-Engineer-Officer",
+      "source": "Other",
+      "description": "Senior Software Engineer - Java, Officer. Location Hyderabad Category ... R-794190. Full Stack Engineer , Senior Associate. Location Hyderabad ...",
+      "date": "2026-08-07",
+      "timestamp": "2026-08-07T05:22:15+00:00",
+      "fetched_at": "2026-08-07T12:32:26.792255+00:00"
+    },
+    {
+      "id": "a0ef60a82330",
+      "title": "AI Engineer - - 128272 - Booz | Allen | Hamilton \u00ae - Careers",
+      "company": "- 128272 - Booz | Allen | Hamilton \u00ae - Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.boozallen.com/jobs/JobDetail/San-Antonio-AI-Engineer-R0246114/128272",
+      "source": "Other",
+      "description": "As an AI Engineer , you will integrate AI-enabled capabilities into existing software systems by connecting models, inference endpoints, agent ...",
+      "date": "2026-08-07",
+      "timestamp": "2026-08-07T04:41:39+00:00",
+      "fetched_at": "2026-08-07T12:32:26.792489+00:00"
+    },
+    {
       "id": "cc34f11ac941",
       "title": "DevOps Engineer Advisor - FedEx Careers",
       "company": "FedEx Careers",
@@ -94,6 +259,21 @@
       "date": "2026-08-07",
       "timestamp": "2026-08-07T03:36:44+00:00",
       "fetched_at": "2026-08-07T05:25:10.629228+00:00"
+    },
+    {
+      "id": "1826b0b2952d",
+      "title": "Full-Stack Software Engineer - Veta Virtual",
+      "company": "Veta Virtual Inc",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://veta-virtual-inc.breezy.hr/p/11015358cfe2-full-stack-software-engineer/apply",
+      "source": "Breezy",
+      "description": "... software engineer working across frontend and backend systems.Strong ... full-stack engineer who loves building at scale in a regulated, high ...",
+      "date": "2026-08-07",
+      "timestamp": "2026-08-07T03:35:59+00:00",
+      "fetched_at": "2026-08-07T12:32:26.792788+00:00"
     },
     {
       "id": "938a288938d2",
