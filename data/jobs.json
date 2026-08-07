@@ -1,26 +1,26 @@
 {
-  "last_updated": "2026-08-06T13:25:28.935916+00:00",
-  "total_jobs": 7140,
+  "last_updated": "2026-08-07T00:48:58.484069+00:00",
+  "total_jobs": 7164,
   "stats": {
-    "total_companies": 3481,
-    "total_roles": 95,
+    "total_companies": 3492,
+    "total_roles": 96,
     "regions": {
-      "India": 4595,
-      "Philippines": 1545,
-      "Remote": 893,
+      "India": 4610,
+      "Philippines": 1550,
+      "Remote": 897,
       "Unknown": 135
     },
     "sources": {
-      "Other": 5604,
-      "Greenhouse": 353,
+      "Other": 5622,
+      "Greenhouse": 355,
       "Workday": 312,
-      "LinkedIn": 286,
+      "LinkedIn": 287,
       "Ashby": 220,
-      "iCIMS": 83,
-      "Breezy": 74,
+      "iCIMS": 84,
+      "Breezy": 75,
       "Lever": 52,
       "Workable": 50,
-      "SmartRecruiters": 45,
+      "SmartRecruiters": 46,
       "Indeed": 28,
       "BrassRing": 10,
       "Jobvite": 8,
@@ -35,6 +35,366 @@
     }
   },
   "jobs": [
+    {
+      "id": "a415ad14c5cb",
+      "title": "Software Engineer Graduate (Global E-commerce-Search) - 2027 Start - We Are TikTok",
+      "company": "commerce-Search) - 2027 Start - We Are TikTok",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://lifeattiktok.com/search/7670558992960358661",
+      "source": "Other",
+      "description": "View our opening for Software Engineer Graduate (Global E-commerce-Search) - 2027 Start and learn more about what it's like to work at TikTok!",
+      "date": "2026-08-06",
+      "timestamp": "2026-08-06T23:24:40+00:00",
+      "fetched_at": "2026-08-07T00:48:58.368653+00:00"
+    },
+    {
+      "id": "2be62ec659a6",
+      "title": "Job Application for Senior Software Engineer at Cavnue - Greenhouse",
+      "company": "Cavnue",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/cavnue/jobs/6117435004",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer . Remote. Apply. Cavnue, a Consor company, is redefining what's possible for modern transportation infrastructure. As the ...",
+      "date": "2026-08-06",
+      "timestamp": "2026-08-06T22:47:17+00:00",
+      "fetched_at": "2026-08-07T00:48:58.451105+00:00"
+    },
+    {
+      "id": "a795c61f06ea",
+      "title": "Machine Learning Engineer , Drive - DoorDash",
+      "company": "DoorDash",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careersatdoordash.com/jobs/machine-learning-engineer-drive/8113186",
+      "source": "Other",
+      "description": "As a Machine Learning Engineer on the Drive team, you'll own machine learning systems end-to-end\u2014from feature engineering and model development to ...",
+      "date": "2026-08-06",
+      "timestamp": "2026-08-06T22:03:27+00:00",
+      "fetched_at": "2026-08-07T00:48:58.368877+00:00"
+    },
+    {
+      "id": "a8ec8658a12f",
+      "title": "Data Engineer , AI & Distributed Systems - Zignal Labs - Teamtailor",
+      "company": "Zignal Labs - Teamtailor",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://zignallabs.na.teamtailor.com/jobs/677130-data-engineer-ai-distributed-systems",
+      "source": "Other",
+      "description": "Data Engineer , AI & Distributed Systems. Apply for this job. About Zignal Labs. Zignal Labs' real-time intelligence technology helps the world's ...",
+      "date": "2026-08-06",
+      "timestamp": "2026-08-06T21:51:41+00:00",
+      "fetched_at": "2026-08-07T00:48:58.369090+00:00"
+    },
+    {
+      "id": "f01789c9a38e",
+      "title": "Data Engineer III - Pearson Jobs",
+      "company": "Pearson Jobs",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://pearson.jobs/denver-co/data-engineer-iii/CE5BC679E88849A4A2E2EA20A21B70B7/job/",
+      "source": "Other",
+      "description": "Data Engineer III \u00b7 Google Cloud Platform (GCP) \u00b7 BigQuery \u00b7 dbt Core \u00b7 Advanced SQL \u00b7 Python \u00b7 REST API integration \u00b7 Git / GitHub \u00b7 CI/CD pipelines.",
+      "date": "2026-08-06",
+      "timestamp": "2026-08-06T21:31:13+00:00",
+      "fetched_at": "2026-08-07T00:48:58.369277+00:00"
+    },
+    {
+      "id": "25c1f24141f3",
+      "title": "Software Engineer in Bengaluru at Arm",
+      "company": "Arm",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.arm.com/job/bengaluru/software-engineer/33099/98840299952",
+      "source": "Other",
+      "description": "As a Software Engineer , you will work closely with the Technical Lead to develop and support engineering workflow solutions built on the Atlassian ...",
+      "date": "2026-08-06",
+      "timestamp": "2026-08-06T21:14:26+00:00",
+      "fetched_at": "2026-08-07T00:48:58.369410+00:00"
+    },
+    {
+      "id": "00fe4d4784e4",
+      "title": "AI / ML Engineer - Huntsville, AL - DESE Research, Inc. Jobs",
+      "company": "Huntsville, AL - DESE Research, Inc. Jobs",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://deseresearch.applicantpro.com/jobs/4168242",
+      "source": "Other",
+      "description": "AI / ML Engineer ... DESE's Cyber Works and Digital Engineering teams design, build, and integrate emerging AI/ML technologies to harden and secure the ...",
+      "date": "2026-08-06",
+      "timestamp": "2026-08-06T21:08:57+00:00",
+      "fetched_at": "2026-08-07T00:48:58.369793+00:00"
+    },
+    {
+      "id": "c3c02a7bbc57",
+      "title": "Devoteam DevOps Engineer | SmartRecruiters",
+      "company": "Devoteam",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.smartrecruiters.com/Devoteam/744000141892019-devops-engineer",
+      "source": "SmartRecruiters",
+      "description": "We are seeking a visionary DevOps Engineer to lead a large-scale DevOps transformation for a governmental company. Unlike a standard engineering ...",
+      "date": "2026-08-06",
+      "timestamp": "2026-08-06T21:08:52+00:00",
+      "fetched_at": "2026-08-07T00:48:58.369909+00:00"
+    },
+    {
+      "id": "a28bb3553fa5",
+      "title": "Senior Software Engineer II - Agent Foundations - Remote - US - Samsara",
+      "company": "Agent Foundations - Remote - US - Samsara",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.samsara.com/company/careers/roles/7356410?gh_jid=7356410&gh_board=samsara",
+      "source": "Other",
+      "description": "About the role: We are seeking a Senior Software Engineer to help build the core platform that will make Samsara \u201cagentic.\u201d This platform enables ...",
+      "date": "2026-08-06",
+      "timestamp": "2026-08-06T20:46:19+00:00",
+      "fetched_at": "2026-08-07T00:48:58.370241+00:00"
+    },
+    {
+      "id": "a3f49a840354",
+      "title": "Job Application for Software Engineer at Armada - Greenhouse",
+      "company": "Armada",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/armada/jobs/5381525008",
+      "source": "Greenhouse",
+      "description": "Software Engineer . Bellevue Office, Sunset Corporate Campus. Apply. About the Company. Armada is the hyperscaler for the edge, delivering modular AI ...",
+      "date": "2026-08-06",
+      "timestamp": "2026-08-06T20:41:29+00:00",
+      "fetched_at": "2026-08-07T00:48:58.370342+00:00"
+    },
+    {
+      "id": "1d0bb5e4274c",
+      "title": "Software Engineer Intern (Foundation Platform) - 2027 Summer",
+      "company": "2027 Summer",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://lifeattiktok.com/search/7670281449668905269",
+      "source": "Other",
+      "description": "View our opening for Software Engineer Intern (Foundation Platform) - 2027 Summer and learn more about what it's like to work at TikTok!",
+      "date": "2026-08-06",
+      "timestamp": "2026-08-06T20:39:31+00:00",
+      "fetched_at": "2026-08-07T00:48:58.370503+00:00"
+    },
+    {
+      "id": "c7ad11216710",
+      "title": "Senior Software Engineer , Unity, Sunnyvale, CA, United States - Intuitive Surgical Careers",
+      "company": "Intuitive Surgical Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.intuitive.com/en/jobs/744000141987539/JOB217357/senior-software-engineer-unity/",
+      "source": "Other",
+      "description": "Senior Software Engineer , Unity. Sunnyvale, CA, United States; Not Remote; Engineering; JOB217357. Clinical Development Engineering.",
+      "date": "2026-08-06",
+      "timestamp": "2026-08-06T20:36:57+00:00",
+      "fetched_at": "2026-08-07T00:48:58.370680+00:00"
+    },
+    {
+      "id": "c177d3dbf1a7",
+      "title": "Software Engineer in Multiple Locations | careers-home - Docusign Careers",
+      "company": "careers-home - Docusign Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.docusign.com/careers-home/jobs/30034?lang=en-us",
+      "source": "Other",
+      "description": "careers-home is hiring a Software Engineer in Multiple Locations. Review all of the job details and apply today!",
+      "date": "2026-08-06",
+      "timestamp": "2026-08-06T20:34:51+00:00",
+      "fetched_at": "2026-08-07T00:48:58.370835+00:00"
+    },
+    {
+      "id": "f7bdf07a1bcb",
+      "title": "Senior Full-Stack Cloud Engineer - Ontrac Solutions",
+      "company": "Ontrac Solutions Llc",
+      "role": "Cloud Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ontrac-solutions-llc.breezy.hr/p/6b2f6dd1eab0-senior-full-stack-cloud-engineer/apply",
+      "source": "Breezy",
+      "description": "Role Summary OnTrac is seeking an experienced Senior Full-Stack Cloud Engineer to support our digital platform initiatives.",
+      "date": "2026-08-06",
+      "timestamp": "2026-08-06T20:23:48+00:00",
+      "fetched_at": "2026-08-07T00:48:58.370961+00:00"
+    },
+    {
+      "id": "79b7ead03d54",
+      "title": "AI ruins motivation to develop myself as a software engineer : r/emacs - Reddit",
+      "company": "Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.reddit.com/r/emacs/comments/1vhbztj/ai_ruins_motivation_to_develop_myself_as_a/",
+      "source": "Other",
+      "description": "50 votes, 24 comments. Hi, guys! I'm a software engineer in about 5 years. I still like programming. This kind of programming when you just sit ...",
+      "date": "2026-08-06",
+      "timestamp": "2026-08-06T20:21:39+00:00",
+      "fetched_at": "2026-08-07T00:48:58.452826+00:00"
+    },
+    {
+      "id": "a129ed9a345d",
+      "title": "Data Engineer - Careers at KS, Overland Park - Berkley - ICIMS",
+      "company": "KS, Overland Park",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers-berkley.icims.com/jobs/14309/data-engineer/job",
+      "source": "iCIMS",
+      "description": "KS, Overland Park is now hiring a Data Engineer in Overland Park, Kansas. Review all of the job details and apply today!",
+      "date": "2026-08-06",
+      "timestamp": "2026-08-06T20:15:01+00:00",
+      "fetched_at": "2026-08-07T00:48:58.371078+00:00"
+    },
+    {
+      "id": "84ef1444b442",
+      "title": "Software Engineer II, AWS Continuum for code vulnerabilities - Job ID - Amazon Careers",
+      "company": "Job ID - Amazon Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.amazon.jobs/en/jobs/10494580/software-engineer-ii-aws-continuum-for-code-vulnerabilities",
+      "source": "Other",
+      "description": "Senior Software Engineer , AWS Commercial Application Services. Location: USA, CA, Santa Clara. Posted: August 6, 2026 (Updated about 2 hours ago).",
+      "date": "2026-08-06",
+      "timestamp": "2026-08-06T19:42:04+00:00",
+      "fetched_at": "2026-08-07T00:48:58.371394+00:00"
+    },
+    {
+      "id": "6a12792089a3",
+      "title": "Senior Machine Learning Engineer - Intellias",
+      "company": "Intellias",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://career.intellias.com/vacancy/senior-machine-learning-engineer-30592/",
+      "source": "Other",
+      "description": "Senior Software Engineer (API integration). Senior. Bulgaria, Croatia ... Python / AI Engineer . Strong Middle. Bulgaria, Croatia, Egypt, Indi ...",
+      "date": "2026-08-06",
+      "timestamp": "2026-08-06T19:41:13+00:00",
+      "fetched_at": "2026-08-07T00:48:58.371578+00:00"
+    },
+    {
+      "id": "013e6eb63a87",
+      "title": "Software Engineer",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/rippling/jobs/afad4cbf-ac76-4c18-b0e4-df4578dbd5aa",
+      "source": "Other",
+      "description": "Rippling gives businesses one place to run HR, IT, and Finance. \u00b7 Take onboarding, for example. \u00b7 We are seeking an experienced Software Engineer to ...",
+      "date": "2026-08-06",
+      "timestamp": "2026-08-06T19:30:56+00:00",
+      "fetched_at": "2026-08-07T00:48:58.371879+00:00"
+    },
+    {
+      "id": "17aedaca1194",
+      "title": "Software Engineer Trainee - Emerson Career Site Careers - Cloud Sign In",
+      "company": "Emerson Career Site Careers - Cloud Sign In",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008740",
+      "source": "Other",
+      "description": "Software Engineer Trainee. PUNE, MAHARASHTRA, India (On-site). Trending. Apply Now. Job Description. In This Role, Your Responsibilities Will Be:.",
+      "date": "2026-08-06",
+      "timestamp": "2026-08-06T19:19:12+00:00",
+      "fetched_at": "2026-08-07T00:48:58.453486+00:00"
+    },
+    {
+      "id": "2998b93de339",
+      "title": "Senior Data Engineer at Alter Domus",
+      "company": "Alter Domus",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.alterdomus.com/en/job/new-york/senior-data-engineer/38735/42450556800",
+      "source": "Other",
+      "description": "AWS certifications (Solutions Architect, Data Engineer ) are a plus. Experience supporting AI or analytics engineering teams as a data provider.",
+      "date": "2026-08-06",
+      "timestamp": "2026-08-06T19:00:04+00:00",
+      "fetched_at": "2026-08-07T00:48:58.453635+00:00"
+    },
+    {
+      "id": "36002eaa2f3e",
+      "title": "Pragya Pandey's Post - LinkedIn",
+      "company": "Unknown Company",
+      "role": "Pragya Pandey's Post - LinkedIn",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/posts/pragya-pandey-8508a21ab_a-new-chapter-begins-excited-to-start-as-activity-7491140975512199169-JDgL",
+      "source": "LinkedIn",
+      "description": "A new chapter begins! Excited to start as a Senior Software Engineer at Marsh \u2014exactly how I had envisioned it \u2728 Everything about this journey ...",
+      "date": "2026-08-06",
+      "timestamp": "2026-08-06T18:42:03+00:00",
+      "fetched_at": "2026-08-07T00:48:58.454320+00:00"
+    },
+    {
+      "id": "55a6ad3fc645",
+      "title": "Free AI Engineer Course: Build AI-Powered Apps - Scrimba",
+      "company": "Powered Apps - Scrimba",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://scrimba.com/ai-engineer-path-c02v",
+      "source": "Other",
+      "description": "Build apps powered by generative AI - an essential skill for product teams at startups, agencies, and large corporations. Learn about agents, RAG, ...",
+      "date": "2026-08-06",
+      "timestamp": "2026-08-06T18:33:41+00:00",
+      "fetched_at": "2026-08-07T00:48:58.454492+00:00"
+    },
+    {
+      "id": "89f1a37b3e68",
+      "title": "Data Engineer III | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.apexsystems.com/job/3044421_usa/data-engineer-iii",
+      "source": "Other",
+      "description": "Data Engineer III. Apply. Job#: 3044421. Job Description: Data ... Platform Engineer III \u00b7 DevOps Engineer III \u00b7 Systems Engineer III. Connect ...",
+      "date": "2026-08-06",
+      "timestamp": "2026-08-06T18:28:49+00:00",
+      "fetched_at": "2026-08-07T00:48:58.454639+00:00"
+    },
     {
       "id": "f407b9d481cd",
       "title": "Senior Software Engineer - Job Detail | Careers Marketplace - Siemens",
