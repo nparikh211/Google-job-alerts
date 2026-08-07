@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-08-07T16:37:02.208626+00:00",
-  "total_jobs": 7205,
+  "last_updated": "2026-08-07T20:24:45.379085+00:00",
+  "total_jobs": 7220,
   "stats": {
-    "total_companies": 3510,
+    "total_companies": 3516,
     "total_roles": 96,
     "regions": {
-      "India": 4641,
-      "Philippines": 1553,
-      "Remote": 905,
+      "India": 4651,
+      "Philippines": 1557,
+      "Remote": 906,
       "Unknown": 135
     },
     "sources": {
-      "Other": 5652,
-      "Greenhouse": 357,
-      "Workday": 312,
+      "Other": 5663,
+      "Greenhouse": 358,
+      "Workday": 314,
       "LinkedIn": 290,
       "Ashby": 221,
-      "iCIMS": 85,
+      "iCIMS": 86,
       "Breezy": 78,
       "Lever": 52,
       "Workable": 50,
@@ -36,6 +36,141 @@
   },
   "jobs": [
     {
+      "id": "6ecbfa846419",
+      "title": "Senior DevOps Engineer - TeamViewer Germany GmbH",
+      "company": "TeamViewer Germany GmbH",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.teamviewer.com/jobs/8185313-senior-devops-engineer",
+      "source": "Other",
+      "description": "Senior DevOps Engineer . Join ... 5+ years experience as a Senior DevOps, Platform, or Cloud Engineer in high-availability SaaS environments.",
+      "date": "2026-08-07",
+      "timestamp": "2026-08-07T19:49:56+00:00",
+      "fetched_at": "2026-08-07T20:24:45.164384+00:00"
+    },
+    {
+      "id": "fd0953851a1b",
+      "title": "Machine Learning Engineer III - Myworkdayjobs.com",
+      "company": "Workday",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Machine-Learning-Engineer_JR-0106147?source=website_linkedin",
+      "source": "Workday",
+      "description": "As a Machine Learning Engineer on the AI Core team, you will develop tailored user experiences using advanced Agentic AI, LLMs and RAG. You will ...",
+      "date": "2026-08-07",
+      "timestamp": "2026-08-07T19:28:05+00:00",
+      "fetched_at": "2026-08-07T20:24:45.164658+00:00"
+    },
+    {
+      "id": "4b0ff6959e10",
+      "title": "Senior Software Engineer , Site Reliability Engineering, Google Cloud",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/86298503591928518-senior-software-engineer-site-reliability-engineering-google-cloud",
+      "source": "Other",
+      "description": "Senior Software Engineer , Site Reliability Engineering, Google Cloud. share. linkCopy link; emailEmail a friend. corporate_fareGoogleplaceWarsaw ...",
+      "date": "2026-08-07",
+      "timestamp": "2026-08-07T17:23:44+00:00",
+      "fetched_at": "2026-08-07T20:24:45.347103+00:00"
+    },
+    {
+      "id": "83eff9c05360",
+      "title": "Senior AI Engineer in Remote - Cotiviti | Careers Center - ICIMS",
+      "company": "Cotiviti | Careers Center - ICIMS",
+      "role": "AI Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers-cotiviti.icims.com/jobs/20002/senior-ai-engineer/job",
+      "source": "iCIMS",
+      "description": "US Nationwide Remote is now hiring a Senior AI Engineer in Remote. Review all of the job details and apply today!",
+      "date": "2026-08-07",
+      "timestamp": "2026-08-07T17:22:29+00:00",
+      "fetched_at": "2026-08-07T20:24:45.164826+00:00"
+    },
+    {
+      "id": "bb358cdd90fe",
+      "title": "Software Engineer , Early Career, Campus - Google",
+      "company": "Google",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/78703249065943750-software-engineer-early-career-campus",
+      "source": "Other",
+      "description": "Senior Software Engineer , Site Reliability Engineering, Google Cloud. Warsaw, Poland \u00b7 Strategy Associate, YouTube. San Bruno, CA, USA; New York, NY ...",
+      "date": "2026-08-07",
+      "timestamp": "2026-08-07T17:19:39+00:00",
+      "fetched_at": "2026-08-07T20:24:45.165043+00:00"
+    },
+    {
+      "id": "1983c10dbb31",
+      "title": "Job Application for AI Engineer at Forward - Greenhouse",
+      "company": "Forwardnetworks",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/forwardnetworks/jobs/7822161003",
+      "source": "Greenhouse",
+      "description": "AI Engineer . Santa Clara. Apply. Forward was founded in 2013 by four Stanford Ph.D.s, building the industry's first network digital twin: a ...",
+      "date": "2026-08-07",
+      "timestamp": "2026-08-07T17:16:07+00:00",
+      "fetched_at": "2026-08-07T20:24:45.165141+00:00"
+    },
+    {
+      "id": "4ce59910b87f",
+      "title": "Full Stack Software Engineer - LBL Careers",
+      "company": "LBL Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://lbl.referrals.selectminds.com/jobs/full-stack-software-engineer-7567",
+      "source": "Other",
+      "description": "... Software Engineer to join Energy Sciences Network (ESnet) on the ... System Infrastructure / Platform Engineer , HPC Technology Department. NE ...",
+      "date": "2026-08-07",
+      "timestamp": "2026-08-07T16:47:16+00:00",
+      "fetched_at": "2026-08-07T20:24:45.165549+00:00"
+    },
+    {
+      "id": "473144a5fa27",
+      "title": "Software Engineer - Huntsville, AL - EOS Defense Systems USA, Inc Jobs",
+      "company": "Huntsville, AL - EOS Defense Systems USA, Inc Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://eosdsusa.applicantpro.com/jobs/4169693",
+      "source": "Other",
+      "description": "Software Engineer \u00b7 Under the general direction of the Senior Software Engineer , the incumbent will provide general and product specific programming ...",
+      "date": "2026-08-07",
+      "timestamp": "2026-08-07T16:45:58+00:00",
+      "fetched_at": "2026-08-07T20:24:45.165705+00:00"
+    },
+    {
+      "id": "693b8877d37a",
+      "title": "Software Engineer - ANH at Cargill",
+      "company": "Cargill",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cargill.com/en/job/wayzata/software-engineer-anh/23251/98844752128",
+      "source": "Other",
+      "description": "Search Jobs \u00b7 Software Engineer - ANH \u00b7 Job Purpose and Impact \u00b7 Key Accountabilities \u00b7 Qualifications \u00b7 Compensation Data \u00b7 LinkedIn Job Matcher \u00b7 Our",
+      "date": "2026-08-07",
+      "timestamp": "2026-08-07T16:45:29+00:00",
+      "fetched_at": "2026-08-07T20:24:45.165832+00:00"
+    },
+    {
       "id": "671f578106e8",
       "title": "Sr. Software Engineer (Remote) - frontdoor.jobs",
       "company": "frontdoor.jobs",
@@ -51,6 +186,21 @@
       "fetched_at": "2026-08-07T16:37:02.174980+00:00"
     },
     {
+      "id": "18a78987f8e6",
+      "title": "Software Engineer - SecureBio",
+      "company": "SecureBio",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://securebio.org/careers/det-swe-2026/",
+      "source": "Other",
+      "description": "Depending on prior experience and demonstrated skills, this role may be hired at the Software Engineer or Senior Software Engineer level.",
+      "date": "2026-08-07",
+      "timestamp": "2026-08-07T16:19:55+00:00",
+      "fetched_at": "2026-08-07T20:24:45.166258+00:00"
+    },
+    {
       "id": "ee34ee08458d",
       "title": "Software Engineer (AWS, .NET) Job Details | J. J. Keller & Associates, Inc.",
       "company": "J. J. Keller & Associates, Inc.",
@@ -64,6 +214,36 @@
       "date": "2026-08-07",
       "timestamp": "2026-08-07T16:15:08+00:00",
       "fetched_at": "2026-08-07T16:37:02.175236+00:00"
+    },
+    {
+      "id": "2f86420d27aa",
+      "title": "Senior Software Engineer - Careers - Myworkdayjobs.com",
+      "company": "Streamlinehealthcare",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://streamlinehealthcare.wd501.myworkdayjobs.com/en-US/Streamline_Healthcare_External_Careers/job/Senior-Software-Engineer_R-100337",
+      "source": "Workday",
+      "description": "Employment visa sponsorship is not available for this role. Responsibilities of the Senior Software Engineer : Leverage programming skills to maintain ...",
+      "date": "2026-08-07",
+      "timestamp": "2026-08-07T16:01:52+00:00",
+      "fetched_at": "2026-08-07T20:24:45.166521+00:00"
+    },
+    {
+      "id": "49230a781f99",
+      "title": "Implementation Software Engineer - Paylocity",
+      "company": "Paylocity",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://2000recruiting.paylocity.com/recruiting/jobs/Details/46947/Paylocity/Implementation-Software-Engineer",
+      "source": "Other",
+      "description": "The Implementation Software Engineer builds and maintains software solutions that power Paylocity's Implementation teams. This role sits at the ...",
+      "date": "2026-08-07",
+      "timestamp": "2026-08-07T15:58:36+00:00",
+      "fetched_at": "2026-08-07T20:24:45.166674+00:00"
     },
     {
       "id": "dc190f63be43",
@@ -126,6 +306,21 @@
       "fetched_at": "2026-08-07T16:37:02.175528+00:00"
     },
     {
+      "id": "409eed12fa8c",
+      "title": "Sr Software Engineer - Engineer, Sunnyvale, United States",
+      "company": "Sr Software Engineer",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.uber.com/en/jobs/301347/",
+      "source": "Other",
+      "description": "Sr Software Engineer - Engineer. Job removed. Location: Sunnyvale, California; Team: Engineer; Subteam: Software Engineering; Posted on: Aug 6, 2026.",
+      "date": "2026-08-07",
+      "timestamp": "2026-08-07T15:21:25+00:00",
+      "fetched_at": "2026-08-07T20:24:45.349139+00:00"
+    },
+    {
       "id": "e515193a105e",
       "title": "Software Engineer II - Nike Careers",
       "company": "Nike Careers",
@@ -139,6 +334,36 @@
       "date": "2026-08-07",
       "timestamp": "2026-08-07T15:02:38+00:00",
       "fetched_at": "2026-08-07T16:37:01.994028+00:00"
+    },
+    {
+      "id": "57c394633c74",
+      "title": "Cloud Software Engineer , Stellantis Job #2019107, Auburn Hills, MI",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.stellantis.com/job/23675514/cloud-software-engineer-auburn-hills-mi/",
+      "source": "Other",
+      "description": "Discover Cloud Software Engineer and other Software jobs at Stellantis in Auburn Hills, MI, US, and apply online today!",
+      "date": "2026-08-07",
+      "timestamp": "2026-08-07T14:59:39+00:00",
+      "fetched_at": "2026-08-07T20:24:45.349310+00:00"
+    },
+    {
+      "id": "5fde8b8a2348",
+      "title": "Enterprise Data Engineering & Analytics - UT MD Anderson Cancer Center Careers - Jobs",
+      "company": "UT MD Anderson Cancer Center Careers - Jobs",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://mdanderson.referrals.selectminds.com/jobs/data-engineer-enterprise-data-engineering-analytics-76781",
+      "source": "Other",
+      "description": "The Data Engineer role is a pivotal position within the Enterprise Data ... Senior Machine Learning Engineer - Agentic AI. United States ...",
+      "date": "2026-08-07",
+      "timestamp": "2026-08-07T14:43:35+00:00",
+      "fetched_at": "2026-08-07T20:24:45.349548+00:00"
     },
     {
       "id": "3635a9b6b0a2",
