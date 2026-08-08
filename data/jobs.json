@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-08-08T04:43:13.862855+00:00",
-  "total_jobs": 7239,
+  "last_updated": "2026-08-08T08:23:16.768758+00:00",
+  "total_jobs": 7243,
   "stats": {
-    "total_companies": 3525,
+    "total_companies": 3529,
     "total_roles": 96,
     "regions": {
-      "India": 4663,
-      "Philippines": 1562,
-      "Remote": 908,
+      "India": 4665,
+      "Philippines": 1563,
+      "Remote": 909,
       "Unknown": 135
     },
     "sources": {
-      "Other": 5679,
+      "Other": 5682,
       "Greenhouse": 358,
       "Workday": 314,
-      "LinkedIn": 291,
+      "LinkedIn": 292,
       "Ashby": 223,
       "iCIMS": 86,
       "Breezy": 78,
@@ -36,6 +36,36 @@
   },
   "jobs": [
     {
+      "id": "d2ae29278fc5",
+      "title": "Software Engineer , London - Jane Street",
+      "company": "Jane Street",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.janestreet.com/join-jane-street/position/8647260002/",
+      "source": "Other",
+      "description": "Software Engineer . LOCATION. London. DEPARTMENT. Technology. TEAM. Software Engineering. Apply. Share this job. About the Position. We're looking for ...",
+      "date": "2026-08-08",
+      "timestamp": "2026-08-08T03:53:33+00:00",
+      "fetched_at": "2026-08-08T08:23:16.654858+00:00"
+    },
+    {
+      "id": "77a7b14fb9aa",
+      "title": "Software Engineer 4 - Finance and Tax Technology | USA - Remote - Netflix Careers",
+      "company": "Finance and Tax Technology | USA - Remote - Netflix Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://explore.jobs.netflix.net/careers/job/790317688403-software-engineer-4-finance-and-tax-technology-usa-remote?domain=netflix.com&microsite=netflix.com",
+      "source": "Other",
+      "description": "Software Engineer 4 - Finance and Tax Technology. USA - Remote \u2022 Los ... Software Engineer 4 - Finance and Tax Technology\", \"posting_name ...",
+      "date": "2026-08-08",
+      "timestamp": "2026-08-08T02:31:10+00:00",
+      "fetched_at": "2026-08-08T08:23:16.655389+00:00"
+    },
+    {
       "id": "f712da90a983",
       "title": "Software Engineer - Apple Services - Jobs",
       "company": "Apple Services - Jobs",
@@ -49,6 +79,21 @@
       "date": "2026-08-08",
       "timestamp": "2026-08-08T02:13:16+00:00",
       "fetched_at": "2026-08-08T04:43:13.684260+00:00"
+    },
+    {
+      "id": "6e1334142a84",
+      "title": "Tickets are live for AI Engineer New York 2026. October 12 to 14 at the Sheraton New ... - LinkedIn",
+      "company": "the Sheraton New ...",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/aidotengineer_tickets-are-live-for-ai-engineer-new-york-activity-7491559414194319360-mBpS",
+      "source": "LinkedIn",
+      "description": "... AI Engineer NYC events have drawn speakers and attendees from Jane ... Past AI Engineer NYC events have drawn speakers and attendees from ...",
+      "date": "2026-08-08",
+      "timestamp": "2026-08-08T01:57:49+00:00",
+      "fetched_at": "2026-08-08T08:23:16.656279+00:00"
     },
     {
       "id": "59d161a6eed8",
@@ -259,6 +304,21 @@
       "date": "2026-08-07",
       "timestamp": "2026-08-07T19:28:04+00:00",
       "fetched_at": "2026-08-08T04:43:13.833534+00:00"
+    },
+    {
+      "id": "50f20869287d",
+      "title": "Embedded Software Engineer - Physical AI in San Jose, California | Advanced Micro Devices, Inc",
+      "company": "Physical AI in San Jose, California | Advanced Micro Devices, Inc",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.amd.com/careers-home/jobs/88077?lang=en-us",
+      "source": "Other",
+      "description": "AMD is hiring a Embedded Software Engineer - Physical AI in San Jose, California. Review all of the job details and apply today!",
+      "date": "2026-08-07",
+      "timestamp": "2026-08-07T19:16:12+00:00",
+      "fetched_at": "2026-08-08T08:23:16.739851+00:00"
     },
     {
       "id": "f7b1a0b667a6",
