@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-08-08T12:17:57.985338+00:00",
-  "total_jobs": 7253,
+  "last_updated": "2026-08-08T16:15:30.720406+00:00",
+  "total_jobs": 7259,
   "stats": {
-    "total_companies": 3533,
+    "total_companies": 3536,
     "total_roles": 96,
     "regions": {
-      "India": 4666,
+      "India": 4671,
       "Philippines": 1571,
-      "Remote": 910,
+      "Remote": 911,
       "Unknown": 135
     },
     "sources": {
-      "Other": 5690,
+      "Other": 5695,
       "Greenhouse": 359,
-      "Workday": 314,
+      "Workday": 315,
       "LinkedIn": 293,
       "Ashby": 223,
       "iCIMS": 86,
@@ -35,6 +35,51 @@
     }
   },
   "jobs": [
+    {
+      "id": "3fd980cdd23e",
+      "title": "Senior Software Engineer , Cloud GenAI Infrastructure, Vertex AI, Model Efficiency",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.google.com/jobs/results/142262545934099142-senior-software-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer , Cloud GenAI Infrastructure, Vertex AI, Model Efficiency. share. linkCopy link; emailEmail a friend. corporate_fareGoogle ...",
+      "date": "2026-08-08",
+      "timestamp": "2026-08-08T14:04:37+00:00",
+      "fetched_at": "2026-08-08T16:15:30.511342+00:00"
+    },
+    {
+      "id": "8b589a6374c0",
+      "title": "Software Engineer - Kinetic Effects in Huntsville, Alabama (Hybrid Remote) - Leidos Careers",
+      "company": "Kinetic Effects in Huntsville, Alabama (Hybrid Remote) - Leidos Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.leidos.com/jobs/18090746-software-engineer-kinetic-effects",
+      "source": "Other",
+      "description": "Leidos is seeking a talented Software Engineer to work in our Huntsville office. This is an exciting opportunity to use your experience to help ...",
+      "date": "2026-08-08",
+      "timestamp": "2026-08-08T12:26:34+00:00",
+      "fetched_at": "2026-08-08T16:15:30.511691+00:00"
+    },
+    {
+      "id": "10cc77e6e921",
+      "title": "LD&T Data Engineer in Plano, Texas - PepsiCo Careers",
+      "company": "PepsiCo Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.pepsicojobs.com/main/jobs/453460?lang=en-us",
+      "source": "Other",
+      "description": "Pepsico Global is hiring a LD&T Data Engineer in Plano, Texas. Review all of the job details and apply today!",
+      "date": "2026-08-08",
+      "timestamp": "2026-08-08T11:15:49+00:00",
+      "fetched_at": "2026-08-08T16:15:30.511982+00:00"
+    },
     {
       "id": "eb42ce9645a6",
       "title": "Senior Software Engineer | Okta",
@@ -64,6 +109,51 @@
       "date": "2026-08-08",
       "timestamp": "2026-08-08T10:55:33+00:00",
       "fetched_at": "2026-08-08T12:17:57.951753+00:00"
+    },
+    {
+      "id": "1283cf941e88",
+      "title": "Junior Software Engineer - FlightStory - Teamtailor",
+      "company": "FlightStory - Teamtailor",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://flightstory.teamtailor.com/jobs/8163154-junior-software-engineer",
+      "source": "Other",
+      "description": "JUNIOR SOFTWARE ENGINEER COMPANY : STEVEN.COM REPORTING TO : VP of ENGINEERING LOCATION: LOS ANGELES SALARY: UP TO $95K ABOUT STEVEN.",
+      "date": "2026-08-08",
+      "timestamp": "2026-08-08T10:46:14+00:00",
+      "fetched_at": "2026-08-08T16:15:30.512788+00:00"
+    },
+    {
+      "id": "7fd62ab68106",
+      "title": "Senior Software Engineer - Core Experience, Growth | Instacart Careers",
+      "company": "Core Experience, Growth | Instacart Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.instacart.careers/job?gh_jid=8113993",
+      "source": "Other",
+      "description": "Apply for Senior Software Engineer - Core Experience, Growth at Instacart.",
+      "date": "2026-08-08",
+      "timestamp": "2026-08-08T09:20:06+00:00",
+      "fetched_at": "2026-08-08T16:15:30.513158+00:00"
+    },
+    {
+      "id": "a2259e65cd65",
+      "title": "Software Engineer - Myworkdayjobs.com",
+      "company": "Embl",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://embl.wd103.myworkdayjobs.com/EMBL/job/Heidelberg/Software-Engineer_JR4374",
+      "source": "Workday",
+      "description": "Your group EMBL Imaging Centre Your supervisor Timo Zimmermann Your role The Software Engineer develops and sustains software that enables ...",
+      "date": "2026-08-08",
+      "timestamp": "2026-08-08T08:35:11+00:00",
+      "fetched_at": "2026-08-08T16:15:30.513257+00:00"
     },
     {
       "id": "3e09e4000a4e",
