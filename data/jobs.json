@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-08-09T00:38:58.898652+00:00",
-  "total_jobs": 7287,
+  "last_updated": "2026-08-09T04:52:10.077949+00:00",
+  "total_jobs": 7296,
   "stats": {
-    "total_companies": 3548,
+    "total_companies": 3551,
     "total_roles": 96,
     "regions": {
-      "India": 4692,
-      "Philippines": 1575,
+      "India": 4699,
+      "Philippines": 1577,
       "Remote": 914,
       "Unknown": 135
     },
     "sources": {
-      "Other": 5719,
+      "Other": 5726,
       "Greenhouse": 359,
       "Workday": 315,
-      "LinkedIn": 294,
+      "LinkedIn": 296,
       "Ashby": 224,
       "iCIMS": 87,
       "Breezy": 78,
@@ -31,10 +31,85 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-08-08"
+      "latest": "2026-08-09"
     }
   },
   "jobs": [
+    {
+      "id": "20cd1b29eb16",
+      "title": "Principal Fullstack Engineer - FlightStory - Teamtailor",
+      "company": "FlightStory - Teamtailor",
+      "role": "Fullstack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://flightstory.teamtailor.com/jobs/8162942-principal-fullstack-engineer",
+      "source": "Other",
+      "description": "Principal Fullstack Engineer . Apply for this job. PRINCIPAL ENGINEER - FULLSTACK. COMPANY : STEVEN.COM. REPORTING TO : VP of ENGINEERING. LOCATION: ...",
+      "date": "2026-08-09",
+      "timestamp": "2026-08-09T04:01:13+00:00",
+      "fetched_at": "2026-08-09T04:52:09.753365+00:00"
+    },
+    {
+      "id": "0a7b0adccf60",
+      "title": "Senior Software Engineer - Pearson Jobs",
+      "company": "Pearson Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://pearson.jobs/virtual-usa/senior-software-engineer/AE2ED786D3B24614AF923702AD9F25BB/job/",
+      "source": "Other",
+      "description": "Senior Software Engineer ... Drive the future of how Pearson works as part of the AgentOps team in the Office of the CTO (OCTO). Inspire innovation.",
+      "date": "2026-08-09",
+      "timestamp": "2026-08-09T03:36:32+00:00",
+      "fetched_at": "2026-08-09T04:52:09.753600+00:00"
+    },
+    {
+      "id": "02771f8d2da7",
+      "title": "Apply for Senior Data Engineer , Spark/GCP | Reshma Roberts - LinkedIn",
+      "company": "Reshma Roberts - LinkedIn",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/reshma-roberts-4827082_apply-for-senior-data-engineer-sparkgcp-activity-7491542664933163009-95p3",
+      "source": "LinkedIn",
+      "description": "Anup Dudani. Senior Software Engineer @ ServiceNow | Big Data, Analytics ... Anish Chintamaneni. ML/ AI Engineer | Data Engineer |Data Analyst | MS Big ...",
+      "date": "2026-08-09",
+      "timestamp": "2026-08-09T02:09:56+00:00",
+      "fetched_at": "2026-08-09T04:52:09.753968+00:00"
+    },
+    {
+      "id": "3f4a13823924",
+      "title": "Software Engineer III - Pearson Jobs",
+      "company": "Pearson Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://pearson.jobs/virtual-usa/software-engineer-iii/82AA83106D4A4CFD8904BD00891ED956/job/",
+      "source": "Other",
+      "description": "The Software Engineer \u2013 AgentOps Enterprise Automations is responsible for designing, developing, deploying, and supporting intelligent automation ...",
+      "date": "2026-08-09",
+      "timestamp": "2026-08-09T01:35:11+00:00",
+      "fetched_at": "2026-08-09T04:52:09.754149+00:00"
+    },
+    {
+      "id": "fcfb41a488b8",
+      "title": "Senior Software Engineer - DevOps / Infrastructure (Onsite) in sterling, Virginia, United ...",
+      "company": "DevOps / Infrastructure (Onsite) in sterling, Virginia, United ...",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.rtx.com/global/en/job/01864075/Senior-Software-Engineer-DevOps-Infrastructure-Onsite",
+      "source": "Other",
+      "description": "Senior Software Engineer - DevOps / Infrastructure (Onsite). Apply ... Principal Software Engineer - Lead DevOps Engineer (Onsite). Location ...",
+      "date": "2026-08-09",
+      "timestamp": "2026-08-09T00:17:58+00:00",
+      "fetched_at": "2026-08-09T04:52:09.754366+00:00"
+    },
     {
       "id": "e90449f2decd",
       "title": "AI Platform Engineer - Senior job | Design, Engineering, and Product jobs at Blackbaud",
@@ -201,6 +276,21 @@
       "fetched_at": "2026-08-09T00:38:58.612841+00:00"
     },
     {
+      "id": "5494820540fd",
+      "title": "Software Engineer I - TriNet Hire",
+      "company": "TriNet Hire",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://app.trinethire.com/companies/294644/jobs/112587-software-engineer-i",
+      "source": "Other",
+      "description": "Software Engineer I. Bangalore, No. 6/12, Primrose Road, Gurappa Avenue, Bangalore, Karnataka, India. Category: Engineering; Type: Full-time; Min ...",
+      "date": "2026-08-08",
+      "timestamp": "2026-08-08T17:41:33+00:00",
+      "fetched_at": "2026-08-09T04:52:09.756188+00:00"
+    },
+    {
       "id": "34052a03c475",
       "title": "Software Engineer - Back end/ Python - Chase- Candidate Experience page Careers",
       "company": "Back end/ Python - Chase- Candidate Experience page Careers",
@@ -214,6 +304,21 @@
       "date": "2026-08-08",
       "timestamp": "2026-08-08T17:35:31+00:00",
       "fetched_at": "2026-08-09T00:38:58.873876+00:00"
+    },
+    {
+      "id": "023278731eca",
+      "title": "Software Engineer , Decatur, Illinois, United States of America | Caterpillar Careers",
+      "company": "Caterpillar Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.caterpillar.com/en/jobs/r0000379469/software-engineer/?utm_source=cloudjobs.io&source=cloudjobs.io&ref=cloudjobs.io&src=cloudjobs.io",
+      "source": "Other",
+      "description": "Senior Software Engineer . Save Saved. Irving, Texas, United States of America. Software Engineer - QA. Save Saved. Chennai, Tamil N\u0101du, India. Senior ...",
+      "date": "2026-08-08",
+      "timestamp": "2026-08-08T16:48:51+00:00",
+      "fetched_at": "2026-08-09T04:52:10.046124+00:00"
     },
     {
       "id": "af246b69817c",
@@ -244,6 +349,21 @@
       "date": "2026-08-08",
       "timestamp": "2026-08-08T16:01:39+00:00",
       "fetched_at": "2026-08-08T20:13:27.367748+00:00"
+    },
+    {
+      "id": "28d2eb10891e",
+      "title": "Principal Data Engineer (US) Job in North Carolina | TD Bank - Jobs",
+      "company": "TD Bank - Jobs",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://tdbank.jobs/locations/north-carolina/job-titles/principal-data-engineer-us/jobs/?vs=159&utm_source=New+Jersey+State+Job+Bank-DE&utm_medium=NLX&utm_campaign=New+Jersey+State+Job+Bank",
+      "source": "Other",
+      "description": "Principal Data Engineer (US) Job in North Carolina, updated and verified daily by DirectEmployers Association.",
+      "date": "2026-08-08",
+      "timestamp": "2026-08-08T15:50:57+00:00",
+      "fetched_at": "2026-08-09T04:52:10.046403+00:00"
     },
     {
       "id": "11b8b0ce2cda",
@@ -289,6 +409,21 @@
       "date": "2026-08-08",
       "timestamp": "2026-08-08T15:15:56+00:00",
       "fetched_at": "2026-08-08T20:13:27.368265+00:00"
+    },
+    {
+      "id": "4440f0c75389",
+      "title": "ALPFA Baltimore Chapter hiring Software Engineer in Chicago, IL | LinkedIn",
+      "company": "LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/software-engineer-at-alpfa-baltimore-chapter-4451022888",
+      "source": "LinkedIn",
+      "description": "Platform Engineer . Hightower Advisors. Chicago, IL 1 week ago. Software ... Senior Software Engineer . University of Chicago. Chicago, IL $80,000 ...",
+      "date": "2026-08-08",
+      "timestamp": "2026-08-08T15:11:54+00:00",
+      "fetched_at": "2026-08-09T04:52:10.046955+00:00"
     },
     {
       "id": "5dac3164338a",
