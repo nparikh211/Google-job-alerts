@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-08-09T12:19:55.483188+00:00",
-  "total_jobs": 7300,
+  "last_updated": "2026-08-09T16:17:30.279792+00:00",
+  "total_jobs": 7315,
   "stats": {
-    "total_companies": 3552,
+    "total_companies": 3558,
     "total_roles": 96,
     "regions": {
-      "India": 4703,
-      "Philippines": 1577,
-      "Remote": 915,
+      "India": 4712,
+      "Philippines": 1580,
+      "Remote": 918,
       "Unknown": 135
     },
     "sources": {
-      "Other": 5730,
+      "Other": 5742,
       "Greenhouse": 359,
-      "Workday": 315,
-      "LinkedIn": 296,
+      "Workday": 316,
+      "LinkedIn": 298,
       "Ashby": 224,
       "iCIMS": 87,
       "Breezy": 78,
@@ -36,6 +36,111 @@
   },
   "jobs": [
     {
+      "id": "9c434ecc05ae",
+      "title": "Software Engineer I - CaseWorthy, LLC - Paylocity",
+      "company": "CaseWorthy, LLC - Paylocity",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4402175",
+      "source": "Other",
+      "description": "All Jobs > Software Engineer I. CaseWorthy, LLC \u00b7 Apply. Software Engineer I. Fully Remote \u2022 Remote - USA. Apply. Job Type. Full-time.",
+      "date": "2026-08-09",
+      "timestamp": "2026-08-09T14:54:55+00:00",
+      "fetched_at": "2026-08-09T16:17:30.246559+00:00"
+    },
+    {
+      "id": "75d14fc1054d",
+      "title": "Systems Software Engineer , Core OS - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200676717-3543/systems-software-engineer-core-os",
+      "source": "Other",
+      "description": "Apply for a Systems Software Engineer , Core OS job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-08-09",
+      "timestamp": "2026-08-09T12:04:35+00:00",
+      "fetched_at": "2026-08-09T16:17:30.158118+00:00"
+    },
+    {
+      "id": "121815225dec",
+      "title": "C++ Software Engineer (Mid/ Regular) - Ericsson Careers",
+      "company": "Ericsson Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ericsson.com/careers/job/563121776981061?cmpscreen=",
+      "source": "Other",
+      "description": "... Senior Software Engineer . 4. Senior Developer. 5. Software Test Developer. Similar jobs. C Developer for 6G Simulator Mid or Senior. Krak\u00f3w,Krak\u00f3w ...",
+      "date": "2026-08-09",
+      "timestamp": "2026-08-09T11:37:17+00:00",
+      "fetched_at": "2026-08-09T16:17:30.158824+00:00"
+    },
+    {
+      "id": "64b3ff11850d",
+      "title": "Senior Full Stack Engineer , Creator Success Full Time - LinkedIn",
+      "company": "LinkedIn",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/4451093121/",
+      "source": "LinkedIn",
+      "description": "Senior Full Stack Engineer , Creator Success Full Time. GYH Real Estate ... Senior Software Engineer (React + Next.js) - Remote - Latin America.",
+      "date": "2026-08-09",
+      "timestamp": "2026-08-09T11:34:54+00:00",
+      "fetched_at": "2026-08-09T16:17:30.158971+00:00"
+    },
+    {
+      "id": "71e76aefce0d",
+      "title": "Senior Software Engineer (React + Next.js) - Remote - Latin America - LinkedIn",
+      "company": "Remote - Latin America - LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/4442172799/",
+      "source": "LinkedIn",
+      "description": "Senior Software Engineer (React + Next.js) - Remote - Latin America in ... Senior Full Stack Engineer (React + Kotlin) - Remote - Latin America.",
+      "date": "2026-08-09",
+      "timestamp": "2026-08-09T11:00:23+00:00",
+      "fetched_at": "2026-08-09T16:17:30.159132+00:00"
+    },
+    {
+      "id": "ae03bded104b",
+      "title": "Experienced AI & Machine Learning Engineer - USAA Careers",
+      "company": "USAA Careers",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.usaajobs.com/job/san-antonio/experienced-ai-and-machine-learning-engineer/1207/98931832016",
+      "source": "Other",
+      "description": "Learn more about and apply for the Experienced AI & Machine Learning Engineer job at USAA here.",
+      "date": "2026-08-09",
+      "timestamp": "2026-08-09T09:34:27+00:00",
+      "fetched_at": "2026-08-09T16:17:30.159328+00:00"
+    },
+    {
+      "id": "5af08e54db1d",
+      "title": "Founding Full-Stack Software Engineer - Sophont",
+      "company": "Founding Full",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://sophont.med/job_postings/full-stack/",
+      "source": "Other",
+      "description": "Sophont is hiring a founding full-stack software engineer to build clinician- and pharma-facing software, demos, internal tools, ...",
+      "date": "2026-08-09",
+      "timestamp": "2026-08-09T07:48:26+00:00",
+      "fetched_at": "2026-08-09T16:17:30.159454+00:00"
+    },
+    {
       "id": "4d557cfe1af3",
       "title": "Software Engineer \u2013 Java/Go | Distributed Systems | Microservices | Kafka | Cloud | 4\u20138 ...",
       "company": "Distributed Systems | Microservices | Kafka | Cloud | 4\u20138 ...",
@@ -50,6 +155,66 @@
       "date": "2026-08-09",
       "timestamp": "2026-08-09T07:39:52+00:00",
       "fetched_at": "2026-08-09T12:19:55.224620+00:00"
+    },
+    {
+      "id": "09c0b5e64043",
+      "title": "Senior Software Engineer , Network Infrastructure - Careers - Google",
+      "company": "Careers - Google",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/121189202996929222-senior-software-engineer-network-infrastructure?co&page=23",
+      "source": "Other",
+      "description": "Data Engineer , GCS Data Science. New York, NY, USA; Mountain View, CA ... Senior Software Engineer , Network Infrastructure. share. linkCopy link ...",
+      "date": "2026-08-09",
+      "timestamp": "2026-08-09T07:12:42+00:00",
+      "fetched_at": "2026-08-09T16:17:30.247709+00:00"
+    },
+    {
+      "id": "8e4f01e6545a",
+      "title": "Senior Embedded Software Engineer Job Details - Knorr-Bremse",
+      "company": "Knorr-Bremse",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.knorr-bremse.com/job/Pune-Senior-Embedded-Software-Engineer-MH-411057/1424536333/",
+      "source": "Other",
+      "description": "Pune Senior Embedded Software Engineer - MH, 411057.",
+      "date": "2026-08-09",
+      "timestamp": "2026-08-09T07:07:07+00:00",
+      "fetched_at": "2026-08-09T16:17:30.160086+00:00"
+    },
+    {
+      "id": "8f5e198b41ac",
+      "title": "Software Engineer (m/w/d) - Align Technology Careers",
+      "company": "Align Technology Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.aligntech.com/pt-BR/jobs/560165/hiring-process",
+      "source": "Other",
+      "description": "Software Engineer (m/w/d). Nosso processo de contrata\u00e7\u00e3o. Stage 1: Submitting your application. Stage 2: Recruiter interview. Stage 3: Interviews ...",
+      "date": "2026-08-09",
+      "timestamp": "2026-08-09T05:40:08+00:00",
+      "fetched_at": "2026-08-09T16:17:30.160232+00:00"
+    },
+    {
+      "id": "072370585f6f",
+      "title": "Principal Site Reliability Engineer (Fastly, Cloudflare/Akamai) - Gartner Careers",
+      "company": "Gartner Careers",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.gartner.com/jobs/job/110877-principal-site-reliability-engineer-fastly-cloudflare-akamai/",
+      "source": "Other",
+      "description": "We are seeking a Principal Site Reliability Engineer (SRE) to serve as senior technical leader responsible for advancing the reliability, resilience, ...",
+      "date": "2026-08-09",
+      "timestamp": "2026-08-09T04:09:04+00:00",
+      "fetched_at": "2026-08-09T16:17:30.160476+00:00"
     },
     {
       "id": "20cd1b29eb16",
@@ -112,6 +277,21 @@
       "fetched_at": "2026-08-09T04:52:09.754149+00:00"
     },
     {
+      "id": "1941e853a35e",
+      "title": "Senior Data Engineer - Careers - Myworkdayjobs.com",
+      "company": "Pru",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://pru.wd5.myworkdayjobs.com/Careers/job/Senior-Data-Engineer_R-124740-1",
+      "source": "Workday",
+      "description": "As a Senior Data Engineer on the FM Management Reporting team, you will partner with talented architects, infrastructure engineers, machine learning ...",
+      "date": "2026-08-09",
+      "timestamp": "2026-08-09T01:08:55+00:00",
+      "fetched_at": "2026-08-09T16:17:30.161741+00:00"
+    },
+    {
       "id": "48c20fc5cc7d",
       "title": "Full-Stack Software Engineer , Mid - - 126539 - Booz | Allen | Hamilton \u00ae - Careers",
       "company": "Full",
@@ -155,6 +335,51 @@
       "date": "2026-08-09",
       "timestamp": "2026-08-09T00:17:58+00:00",
       "fetched_at": "2026-08-09T04:52:09.754366+00:00"
+    },
+    {
+      "id": "3a6d2fa97b97",
+      "title": "Software Engineer - Early Career | Ericsson",
+      "company": "Early Career | Ericsson",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ericsson.com/careers/job/563121776650604-software-engineer-early-career-lewisville-texas-united-states",
+      "source": "Other",
+      "description": "Ericsson's Smart Factory team is looking for a Software Engineer to help build and maintain manufacturing applications that power reliable, scalable ...",
+      "date": "2026-08-08",
+      "timestamp": "2026-08-08T23:15:01+00:00",
+      "fetched_at": "2026-08-09T16:17:30.162599+00:00"
+    },
+    {
+      "id": "3810757bfa80",
+      "title": "Nuuly Senior Software Engineer in Philadelphia, Pennsylvania | URBN",
+      "company": "URBN",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://talent.urbn.com/jobs/29701?lang=en-us",
+      "source": "Other",
+      "description": "URBN is hiring a Nuuly Senior Software Engineer in Philadelphia ... Nuuly is searching for a Senior AI Engineer to help build and evolve the ...",
+      "date": "2026-08-08",
+      "timestamp": "2026-08-08T22:33:33+00:00",
+      "fetched_at": "2026-08-09T16:17:30.249337+00:00"
+    },
+    {
+      "id": "b99cd5cbe3aa",
+      "title": "FAST Labs - Senior Principal II Software Engineer ($20K Sign On Bonus) - BAE Systems",
+      "company": "FAST Labs",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.baesystems.com/global/en/job/128426BR/FAST-Labs-Senior-Principal-II-Software-Engineer-20K-Sign-On-Bonus",
+      "source": "Other",
+      "description": "BAE Systems was named a 2026 best place to work by the engineering and technology job. FAST Labs - Senior Principal II Software Engineer ($20K Sign On ...",
+      "date": "2026-08-08",
+      "timestamp": "2026-08-08T21:34:16+00:00",
+      "fetched_at": "2026-08-09T16:17:30.249591+00:00"
     },
     {
       "id": "e90449f2decd",
