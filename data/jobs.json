@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-08-09T16:17:30.279792+00:00",
-  "total_jobs": 7315,
+  "last_updated": "2026-08-09T20:15:40.796044+00:00",
+  "total_jobs": 7326,
   "stats": {
-    "total_companies": 3558,
+    "total_companies": 3562,
     "total_roles": 96,
     "regions": {
-      "India": 4712,
-      "Philippines": 1580,
-      "Remote": 918,
+      "India": 4720,
+      "Philippines": 1581,
+      "Remote": 920,
       "Unknown": 135
     },
     "sources": {
-      "Other": 5742,
+      "Other": 5749,
       "Greenhouse": 359,
-      "Workday": 316,
-      "LinkedIn": 298,
+      "Workday": 317,
+      "LinkedIn": 300,
       "Ashby": 224,
       "iCIMS": 87,
       "Breezy": 78,
       "Lever": 53,
-      "Workable": 50,
+      "Workable": 51,
       "SmartRecruiters": 47,
       "Indeed": 28,
       "BrassRing": 10,
@@ -36,6 +36,81 @@
   },
   "jobs": [
     {
+      "id": "cf7f8f95d7cf",
+      "title": "Staff Software Engineer , Product Innovation at LineLeap | Y Combinator",
+      "company": "LineLeap",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.ycombinator.com/companies/lineleap/jobs/rfQYh55-staff-software-engineer-product-innovation",
+      "source": "Other",
+      "description": "Senior Full-Stack Engineer , Payments (Remote \u00b7 US + LATAM \u00b7 Engineering) ... Senior Software Engineer \u00b7 b12 Labs \u00b7 Founding Software Engineer .",
+      "date": "2026-08-09",
+      "timestamp": "2026-08-09T20:04:05+00:00",
+      "fetched_at": "2026-08-09T20:15:40.679791+00:00"
+    },
+    {
+      "id": "86becc07ef96",
+      "title": "Junior Software Engineer in Bowie, Maryland (No Remote) - Leidos Careers",
+      "company": "Leidos Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.leidos.com/jobs/18094696-junior-software-engineer",
+      "source": "Other",
+      "description": "Junior Software Engineer \u00b7 Bachelor's Degree in Computer Engineering, Electrical Engineering, or Computer Science \u00b7 3+ years of software development ...",
+      "date": "2026-08-09",
+      "timestamp": "2026-08-09T19:31:28+00:00",
+      "fetched_at": "2026-08-09T20:15:40.680348+00:00"
+    },
+    {
+      "id": "4dde47abe12f",
+      "title": "Agentic AI Engineer - Assistant Manager - Myworkdayjobs.com",
+      "company": "Statestreet",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Agentic-AI-Engineer---Assistant-Manager_R-795841",
+      "source": "Workday",
+      "description": "Agentic AI Engineer - Assistant Manager. Apply. locations: Hyderabad ... Full Stack Engineer - Assistant Manager. locations: Hyderabad, India. time ...",
+      "date": "2026-08-09",
+      "timestamp": "2026-08-09T16:50:59+00:00",
+      "fetched_at": "2026-08-09T20:15:40.680707+00:00"
+    },
+    {
+      "id": "2c95ce56eed0",
+      "title": "Senior Site Reliability Engineer - TeamViewer Germany GmbH",
+      "company": "TeamViewer Germany GmbH",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.teamviewer.com/jobs/8185288-senior-site-reliability-engineer",
+      "source": "Other",
+      "description": "Senior Site Reliability Engineer . Join TeamViewer in the US and help shape the future of digital workplaces through innovation and collaboration.",
+      "date": "2026-08-09",
+      "timestamp": "2026-08-09T16:43:36+00:00",
+      "fetched_at": "2026-08-09T20:15:40.680886+00:00"
+    },
+    {
+      "id": "0571ff3974bc",
+      "title": "Software Engineer - Careerscape",
+      "company": "Careerscape",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://cs-recruiters.com/jobs/new-york/new-york/software-engineer/97331684/",
+      "source": "Other",
+      "description": "Senior Software Engineer . Full-Time On-site Information Technology. Colorado Springs, Colorado 80903. $180,000 - $200,000/yr. Posted Aug 9. 0 ...",
+      "date": "2026-08-09",
+      "timestamp": "2026-08-09T16:21:36+00:00",
+      "fetched_at": "2026-08-09T20:15:40.681033+00:00"
+    },
+    {
       "id": "9c434ecc05ae",
       "title": "Software Engineer I - CaseWorthy, LLC - Paylocity",
       "company": "CaseWorthy, LLC - Paylocity",
@@ -49,6 +124,36 @@
       "date": "2026-08-09",
       "timestamp": "2026-08-09T14:54:55+00:00",
       "fetched_at": "2026-08-09T16:17:30.246559+00:00"
+    },
+    {
+      "id": "861e60902883",
+      "title": "Software engineer Henry's, is Leetcode grind the only way to truly get to 150k+ as a SWE?",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/HENRYUK/comments/1vjn62j/software_engineer_henrys_is_leetcode_grind_the/",
+      "source": "Other",
+      "description": "Software engineer Henry's, is Leetcode grind the only way to truly get to 150k+ as a SWE? HENRY Careers. I am on \u00a390k TC and wife is on \u00a370k TC. We ...",
+      "date": "2026-08-09",
+      "timestamp": "2026-08-09T12:53:09+00:00",
+      "fetched_at": "2026-08-09T20:15:40.681264+00:00"
+    },
+    {
+      "id": "48e43c36e3a8",
+      "title": "Senior Staff Software Engineer (Agentic AI Harness & Quality, Moveworks) \u2013 ServiceNow",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.welcometothejungle.com/en/companies/servicenow/jobs/senior-staff-software-engineer-agentic-ai-harness-quality-moveworks_mountain-view-ca_m7mk45sz",
+      "source": "Other",
+      "description": "These companies are also recruiting for the position of \u201cSoftware & Web Development\u201d. Online Filings \u00b7 Senior Software Engineer .",
+      "date": "2026-08-09",
+      "timestamp": "2026-08-09T12:50:20+00:00",
+      "fetched_at": "2026-08-09T20:15:40.681634+00:00"
     },
     {
       "id": "75d14fc1054d",
@@ -96,6 +201,21 @@
       "fetched_at": "2026-08-09T16:17:30.158971+00:00"
     },
     {
+      "id": "1380fbfadc5b",
+      "title": "DocVerify hiring Full-Stack Engineer in United States | LinkedIn",
+      "company": "DocVerify hiring Full",
+      "role": "Stack Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/full-stack-engineer-at-docverify-4451317083",
+      "source": "LinkedIn",
+      "description": "Similar jobs \u00b7 Full-Stack Developer \u00b7 Software Engineer , Full Stack \u00b7 Full-Stack Software Engineer \u00b7 Software Engineer - TypeScript \u00b7 Full Stack Engineer .",
+      "date": "2026-08-09",
+      "timestamp": "2026-08-09T11:23:00+00:00",
+      "fetched_at": "2026-08-09T20:15:40.766285+00:00"
+    },
+    {
       "id": "71e76aefce0d",
       "title": "Senior Software Engineer (React + Next.js) - Remote - Latin America - LinkedIn",
       "company": "Remote - Latin America - LinkedIn",
@@ -109,6 +229,21 @@
       "date": "2026-08-09",
       "timestamp": "2026-08-09T11:00:23+00:00",
       "fetched_at": "2026-08-09T16:17:30.159132+00:00"
+    },
+    {
+      "id": "0815ee1659ff",
+      "title": "Software Engineer - Raydar - Workable Jobs",
+      "company": "Raydar",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://apply.workable.com/raydar/j/9894C2C446/",
+      "source": "Workable",
+      "description": "We are hiring a Software Engineer to build the core platform used to create, monitor, optimize, and deploy autonomous agents. This is a high-ownership ...",
+      "date": "2026-08-09",
+      "timestamp": "2026-08-09T10:21:52+00:00",
+      "fetched_at": "2026-08-09T20:15:40.682394+00:00"
     },
     {
       "id": "ae03bded104b",
@@ -185,6 +320,36 @@
       "date": "2026-08-09",
       "timestamp": "2026-08-09T07:07:07+00:00",
       "fetched_at": "2026-08-09T16:17:30.160086+00:00"
+    },
+    {
+      "id": "00612c365bd5",
+      "title": "Fleetworthy hiring Senior Software Engineer in United States - LinkedIn",
+      "company": "LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/senior-software-engineer-at-fleetworthy-4449275395",
+      "source": "LinkedIn",
+      "description": "Senior Backend Engineer . Eight Sleep. United States 1 year ago. Sr ... Senior Software Engineer (USA-Only). Friday Jobs. United States $200,000 ...",
+      "date": "2026-08-09",
+      "timestamp": "2026-08-09T06:46:43+00:00",
+      "fetched_at": "2026-08-09T20:15:40.683471+00:00"
+    },
+    {
+      "id": "23fafd8c491f",
+      "title": "Java Backend Engineer Job Details | SIX",
+      "company": "SIX",
+      "role": "Backend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.six-group.com/job/Madrid-Java-Backend-Engineer/1416242833/",
+      "source": "Other",
+      "description": "We're looking for a Java Backend Engineer to join our agile and self-organized engineering team, building innovative solutions for our Repo customers.",
+      "date": "2026-08-09",
+      "timestamp": "2026-08-09T06:23:01+00:00",
+      "fetched_at": "2026-08-09T20:15:40.683613+00:00"
     },
     {
       "id": "8f5e198b41ac",
