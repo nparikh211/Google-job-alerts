@@ -1,30 +1,30 @@
 {
-  "last_updated": "2026-08-10T09:02:11.703002+00:00",
-  "total_jobs": 7360,
+  "last_updated": "2026-08-10T12:36:03.927456+00:00",
+  "total_jobs": 7374,
   "stats": {
-    "total_companies": 3583,
+    "total_companies": 3589,
     "total_roles": 96,
     "regions": {
-      "India": 4745,
-      "Philippines": 1587,
+      "India": 4757,
+      "Philippines": 1589,
       "Remote": 923,
       "Unknown": 135
     },
     "sources": {
-      "Other": 5780,
+      "Other": 5791,
       "Greenhouse": 359,
-      "Workday": 319,
+      "Workday": 320,
       "LinkedIn": 300,
       "Ashby": 224,
       "iCIMS": 87,
       "Breezy": 78,
       "Lever": 53,
       "Workable": 51,
-      "SmartRecruiters": 47,
+      "SmartRecruiters": 48,
       "Indeed": 29,
       "BrassRing": 10,
       "Jobvite": 8,
-      "Recruitee": 6,
+      "Recruitee": 7,
       "Taleo": 5,
       "ADP": 2,
       "WeWorkRemotely": 2
@@ -35,6 +35,126 @@
     }
   },
   "jobs": [
+    {
+      "id": "17c137c9dd9c",
+      "title": "Software Engineer at Ford Motor Company",
+      "company": "Ford Motor Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.careers.ford.com/job/chennai/software-engineer/48560/99012637664",
+      "source": "Other",
+      "description": "Software Engineer . Job ID: 67929. Category: Ford Credit Services. Location: Chennai, India. Work Type: Hybrid. Apply Now. This role demands a ...",
+      "date": "2026-08-10",
+      "timestamp": "2026-08-10T11:07:23+00:00",
+      "fetched_at": "2026-08-10T12:36:03.600093+00:00"
+    },
+    {
+      "id": "74d073d78642",
+      "title": "Software Engineer | Careers - Dassault Syst\u00e8mes",
+      "company": "Careers - Dassault Syst\u00e8mes",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.3ds.com/careers/jobs/software-engineer-549204",
+      "source": "Other",
+      "description": "Software EngineerUnlock your potential with Dassault Syst\u00e8mes, a global leader in Scientific Software Engineering, as a Software Engineer in Pune, ...",
+      "date": "2026-08-10",
+      "timestamp": "2026-08-10T10:58:02+00:00",
+      "fetched_at": "2026-08-10T12:36:03.600604+00:00"
+    },
+    {
+      "id": "3f51f70b4e17",
+      "title": "Software Engineer III, AI/ML, AI and Infrastructure - Search for your career at Google.",
+      "company": "Google.",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.google.com/jobs/results/72951961439085254-software-engineer-iii/",
+      "source": "Other",
+      "description": "... software engineer , you will work on a specific project critical to ... Senior Software Engineer , Site Reliability Engineering, Google Cloud.",
+      "date": "2026-08-10",
+      "timestamp": "2026-08-10T10:08:21+00:00",
+      "fetched_at": "2026-08-10T12:36:03.600802+00:00"
+    },
+    {
+      "id": "7306c516e794",
+      "title": "Experian Software Engineer - SmartRecruiters Job Search",
+      "company": "Experian",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.smartrecruiters.com/Experian/744000142561594-software-engineer",
+      "source": "SmartRecruiters",
+      "description": "About the Role:We are looking for an enthusiastic and eager-to-learn Software Engineer - Java to join our engineering team.",
+      "date": "2026-08-10",
+      "timestamp": "2026-08-10T09:42:13+00:00",
+      "fetched_at": "2026-08-10T12:36:03.600907+00:00"
+    },
+    {
+      "id": "3fb47a2f761b",
+      "title": "Lead Fullstack Engineer - .NET & Angular, Kosice, Slovakia | Caterpillar Careers",
+      "company": ".NET & Angular, Kosice, Slovakia | Caterpillar Careers",
+      "role": "Fullstack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.caterpillar.com/en/jobs/r0000387183/lead-fullstack-engineer-net-angular/",
+      "source": "Other",
+      "description": "Lead Fullstack Engineer - .NET & Angular. Location, Kosice, Slovakia ... Lead Software Engineer - AI & Emerging Technologies. Save Saved. Kosice ...",
+      "date": "2026-08-10",
+      "timestamp": "2026-08-10T09:35:47+00:00",
+      "fetched_at": "2026-08-10T12:36:03.601112+00:00"
+    },
+    {
+      "id": "4326658301cf",
+      "title": "Senior Platform Engineer Job Details - SAP Careers",
+      "company": "SAP Careers",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.sap.com/job/Sofia-Senior-Platform-Engineer-1407/1424672533/",
+      "source": "Other",
+      "description": "Senior Platform Engineer . We help the world run better. At SAP, we keep it simple: you bring your best to us, and we'll bring out the best in you ...",
+      "date": "2026-08-10",
+      "timestamp": "2026-08-10T09:27:32+00:00",
+      "fetched_at": "2026-08-10T12:36:03.601287+00:00"
+    },
+    {
+      "id": "6a4f6531251b",
+      "title": "Imaging Machine Learning Engineer - Search for your career at Google.",
+      "company": "Google.",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.google.com/jobs/results/109896651643986630-imaging-machine-learning-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer , Vertex AI, Workbench. Warsaw, Poland \u00b7 Technical ... Imaging Machine Learning Engineer . share. linkCopy link; emailEmail ...",
+      "date": "2026-08-10",
+      "timestamp": "2026-08-10T08:47:07+00:00",
+      "fetched_at": "2026-08-10T12:36:03.894596+00:00"
+    },
+    {
+      "id": "d15d25203058",
+      "title": "Software Engineer II - Integrated Services - New York City - Careers - Compass",
+      "company": "Integrated Services - New York City - Careers - Compass",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.compass.com/careers/?gh_jid=8114010&gh_board=urbancompass",
+      "source": "Other",
+      "description": "Software Engineer II - Integrated Services. At Compass, our mission is to help everyone find their place in the world.",
+      "date": "2026-08-10",
+      "timestamp": "2026-08-10T08:03:07+00:00",
+      "fetched_at": "2026-08-10T12:36:03.601593+00:00"
+    },
     {
       "id": "4cb8949469f0",
       "title": "Software Engineer Manager, Search Platforms, Search - Search for your career at Google.",
@@ -51,6 +171,21 @@
       "fetched_at": "2026-08-10T09:02:11.357250+00:00"
     },
     {
+      "id": "b160e454fe1d",
+      "title": "Senior Data Engineer - - 110109 - UniCredit",
+      "company": "- 110109 - UniCredit",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.unicredit.eu/en_GB/jobsuche/JobDetail?jobId=110109",
+      "source": "Other",
+      "description": "Apply as Senior Data Engineer . General Information. Job ID. 110109. Company. UniCredit Bank Serbia. Competence Line. Digital. Country. Serbia. City.",
+      "date": "2026-08-10",
+      "timestamp": "2026-08-10T07:36:21+00:00",
+      "fetched_at": "2026-08-10T12:36:03.894759+00:00"
+    },
+    {
       "id": "7e6882912e7e",
       "title": "Associate Software Engineer II at UnitedHealth Group",
       "company": "UnitedHealth Group",
@@ -64,6 +199,36 @@
       "date": "2026-08-10",
       "timestamp": "2026-08-10T07:03:07+00:00",
       "fetched_at": "2026-08-10T09:02:11.357473+00:00"
+    },
+    {
+      "id": "0f6153dca437",
+      "title": "Software Engineer Intern (Fall 2026) at EffiGov | Y Combinator's Work at a Startup",
+      "company": "EffiGov",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.workatastartup.com/jobs/103569",
+      "source": "Other",
+      "description": "Software Engineer Intern (Fall 2026) at EffiGov(S25). $5K - $7K / monthly. The AI OS for Cities. San Francisco, ...",
+      "date": "2026-08-10",
+      "timestamp": "2026-08-10T06:55:35+00:00",
+      "fetched_at": "2026-08-10T12:36:03.602075+00:00"
+    },
+    {
+      "id": "c4bc9da382aa",
+      "title": "Senior DevOps Engineer - Job Detail | Careers Marketplace - Siemens",
+      "company": "Job Detail | Careers Marketplace - Siemens",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/517285",
+      "source": "Other",
+      "description": "Experience working as a DevOps Engineer or Platform Engineer ; Strong hands-on experience with Kubernetes in production environments; Experience with ...",
+      "date": "2026-08-10",
+      "timestamp": "2026-08-10T06:47:50+00:00",
+      "fetched_at": "2026-08-10T12:36:03.602235+00:00"
     },
     {
       "id": "4f21c8be07bd",
@@ -94,6 +259,21 @@
       "date": "2026-08-10",
       "timestamp": "2026-08-10T06:44:47+00:00",
       "fetched_at": "2026-08-10T09:02:11.358023+00:00"
+    },
+    {
+      "id": "3cc208e65b8b",
+      "title": "Data Scientist / Data Engineer - Nucs AI",
+      "company": "Nucsai",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://nucsai.recruitee.com/o/data-scientist-data-engineer",
+      "source": "Recruitee",
+      "description": "Website. Nucs AI logo Nucs AIHomepage. Data Scientist / Data Engineer . Hybrid. Berlin, Berlin, Germany; \u2022Munich, Bayern, Germany. \u2022. +1 more.",
+      "date": "2026-08-10",
+      "timestamp": "2026-08-10T06:40:30+00:00",
+      "fetched_at": "2026-08-10T12:36:03.602573+00:00"
     },
     {
       "id": "67fdfcb0be08",
@@ -156,6 +336,21 @@
       "fetched_at": "2026-08-10T09:02:11.358550+00:00"
     },
     {
+      "id": "b8d38c549d68",
+      "title": "Senior Software Engineer in Bangalore, India - Symplr",
+      "company": "Symplr",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.symplr.com/jobs/2513?lang=en-us",
+      "source": "Other",
+      "description": "Symplr is hiring a Senior Software Engineer in Bangalore, India. Review all of the job details and apply today!",
+      "date": "2026-08-10",
+      "timestamp": "2026-08-10T03:25:47+00:00",
+      "fetched_at": "2026-08-10T12:36:03.896404+00:00"
+    },
+    {
       "id": "dcce565f0823",
       "title": "Software Engineer Intern (Fall 2026) at EffiGov | Y Combinator",
       "company": "EffiGov",
@@ -199,6 +394,21 @@
       "date": "2026-08-10",
       "timestamp": "2026-08-10T03:11:08+00:00",
       "fetched_at": "2026-08-10T05:12:32.027070+00:00"
+    },
+    {
+      "id": "545f49a53367",
+      "title": "Software Engineer ENDUR - Myworkdayjobs.com",
+      "company": "Shell",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://shell.wd3.myworkdayjobs.com/en-GB/ShellCareers/job/Software-Engineer-ENDUR_R202124-2/apply/useMyLastApplication",
+      "source": "Workday",
+      "description": "... United Kingdom). Sign In. Shell Careers. Back to Job Posting. Software Engineer ENDUR. current step 1 of 8. step 2 of 8. step 3 of 8. step 4 of 8.",
+      "date": "2026-08-10",
+      "timestamp": "2026-08-10T03:03:14+00:00",
+      "fetched_at": "2026-08-10T12:36:03.603358+00:00"
     },
     {
       "id": "2b10cb15edb0",
