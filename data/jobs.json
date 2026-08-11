@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-08-11T00:40:40.386642+00:00",
-  "total_jobs": 7424,
+  "last_updated": "2026-08-11T04:55:27.749491+00:00",
+  "total_jobs": 7428,
   "stats": {
-    "total_companies": 3607,
+    "total_companies": 3608,
     "total_roles": 96,
     "regions": {
-      "India": 4797,
+      "India": 4800,
       "Philippines": 1593,
-      "Remote": 929,
+      "Remote": 930,
       "Unknown": 135
     },
     "sources": {
-      "Other": 5836,
-      "Greenhouse": 360,
+      "Other": 5839,
+      "Greenhouse": 361,
       "Workday": 321,
       "LinkedIn": 301,
       "Ashby": 224,
@@ -35,6 +35,36 @@
     }
   },
   "jobs": [
+    {
+      "id": "e44a58da3107",
+      "title": "Software Engineer , Backend (Hybrid) in Milpitas, California, United States of America",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2021774EXTERNALENGLOBAL/Software-Engineer-Backend-Hybrid",
+      "source": "Other",
+      "description": "Join our team as a Senior Software Engineer , Backend, and help build scalable, distributed solutions powering Cisco's flagship Meraki Dashboard.",
+      "date": "2026-08-11",
+      "timestamp": "2026-08-11T01:20:02+00:00",
+      "fetched_at": "2026-08-11T04:55:27.715440+00:00"
+    },
+    {
+      "id": "79b5a6d469e6",
+      "title": "Applied AI Engineer , Digital Natives | OpenAI",
+      "company": "OpenAI",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://openai.com/careers/applied-ai-engineer-digital-natives-new-york-city/",
+      "source": "Other",
+      "description": "About the team. The Applied AI Engineer , Digital Natives team is responsible for ensuring the safe and effective deployment of Generative AI ...",
+      "date": "2026-08-11",
+      "timestamp": "2026-08-11T01:05:29+00:00",
+      "fetched_at": "2026-08-11T04:55:27.331769+00:00"
+    },
     {
       "id": "7bba832c4170",
       "title": "Data Engineer | Signify Technology",
@@ -79,6 +109,21 @@
       "date": "2026-08-10",
       "timestamp": "2026-08-10T23:10:25+00:00",
       "fetched_at": "2026-08-11T00:40:40.083038+00:00"
+    },
+    {
+      "id": "3271a6dd300f",
+      "title": "Job Application for Principal Software Engineer , Data at Cloudflare - Greenhouse",
+      "company": "Cloudflare",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/cloudflare/jobs/8102350?gh_jid=8102350",
+      "source": "Greenhouse",
+      "description": "Principal Software Engineer , Data. Austin, TX, United States. Apply. About Us. At Cloudflare, we are on a mission to help build a better Internet ...",
+      "date": "2026-08-10",
+      "timestamp": "2026-08-10T23:04:57+00:00",
+      "fetched_at": "2026-08-11T04:55:27.332575+00:00"
     },
     {
       "id": "eebb7305beba",
@@ -229,6 +274,21 @@
       "date": "2026-08-10",
       "timestamp": "2026-08-10T19:53:04+00:00",
       "fetched_at": "2026-08-11T00:40:40.085216+00:00"
+    },
+    {
+      "id": "df1f0b6ef6b6",
+      "title": "Software Engineer - AI/ML | Careers at Commvault",
+      "company": "Commvault",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.commvault.com/careers/jobs/5233623008",
+      "source": "Other",
+      "description": "Software Engineer - AI/ML. Recruitment Fraud Alert. We've learned that scammers are impersonating Commvault team members\u2014including HR and leadership ...",
+      "date": "2026-08-10",
+      "timestamp": "2026-08-10T19:32:25+00:00",
+      "fetched_at": "2026-08-11T04:55:27.334870+00:00"
     },
     {
       "id": "0a0296e62f6f",
