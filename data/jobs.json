@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-08-11T04:55:27.749491+00:00",
-  "total_jobs": 7428,
+  "last_updated": "2026-08-11T08:40:16.440763+00:00",
+  "total_jobs": 7434,
   "stats": {
-    "total_companies": 3608,
+    "total_companies": 3610,
     "total_roles": 96,
     "regions": {
-      "India": 4800,
-      "Philippines": 1593,
+      "India": 4801,
+      "Philippines": 1598,
       "Remote": 930,
       "Unknown": 135
     },
     "sources": {
-      "Other": 5839,
+      "Other": 5843,
       "Greenhouse": 361,
-      "Workday": 321,
+      "Workday": 322,
       "LinkedIn": 301,
-      "Ashby": 224,
+      "Ashby": 225,
       "iCIMS": 89,
       "Breezy": 78,
       "Lever": 53,
@@ -35,6 +35,81 @@
     }
   },
   "jobs": [
+    {
+      "id": "1633d4cd8347",
+      "title": "Cybersecurity Software Engineer - 65374 - MANTECH Careers",
+      "company": "65374 - MANTECH Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.mantech.com/en_US/careers/JobDetail/Cybersecurity-Software-Engineer/65374",
+      "source": "Other",
+      "description": "MANTECH seeks a motivated, career- and customer-oriented Cybersecurity Software Engineer to join our team in Linthicum Heights, MD.",
+      "date": "2026-08-11",
+      "timestamp": "2026-08-11T06:25:42+00:00",
+      "fetched_at": "2026-08-11T08:40:16.407380+00:00"
+    },
+    {
+      "id": "91ea59d5616b",
+      "title": "Notion - Software Engineer , Collections Infra - Jobs",
+      "company": "Notion",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/notion/ca74504a-9b91-4ce3-b0df-97919b46e749",
+      "source": "Ashby",
+      "description": "... Software Engineer on Collections Infra, you'll help scale the infrastructure behind Notion's database block. Databases power views, boards, charts ...",
+      "date": "2026-08-11",
+      "timestamp": "2026-08-11T06:24:25+00:00",
+      "fetched_at": "2026-08-11T08:40:16.407502+00:00"
+    },
+    {
+      "id": "aaf671385a59",
+      "title": "Software Engineer in Bangalore, India | Product and Engineering at Cisco - Cisco Careers",
+      "company": "Cisco",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2020966EXTERNALENGLOBAL/Software-Engineer",
+      "source": "Other",
+      "description": "Join our team as a Senior Software Engineer and drive innovation in supply chain IT at Cisco. ... Site Reliability Engineer . Location: Bangalore ...",
+      "date": "2026-08-11",
+      "timestamp": "2026-08-11T06:14:55+00:00",
+      "fetched_at": "2026-08-11T08:40:16.407762+00:00"
+    },
+    {
+      "id": "73aaf7129447",
+      "title": "System Software Engineer - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200676716-3337/system-software-engineer?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a System Software Engineer job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-08-11",
+      "timestamp": "2026-08-11T04:31:19+00:00",
+      "fetched_at": "2026-08-11T08:40:16.407897+00:00"
+    },
+    {
+      "id": "79690795b69e",
+      "title": "Senior Software Engineer - DevSecOps - Job Detail | Careers Marketplace - Siemens",
+      "company": "DevSecOps - Job Detail | Careers Marketplace - Siemens",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/517424",
+      "source": "Other",
+      "description": "Senior Software Engineer - DevSecOps. Job ID. 517424. Posted since. 10-Aug-2026. Organization. Foundational Technologies. Field of work. Research ...",
+      "date": "2026-08-11",
+      "timestamp": "2026-08-11T01:56:45+00:00",
+      "fetched_at": "2026-08-11T08:40:16.408093+00:00"
+    },
     {
       "id": "e44a58da3107",
       "title": "Software Engineer , Backend (Hybrid) in Milpitas, California, United States of America",
@@ -244,6 +319,21 @@
       "date": "2026-08-10",
       "timestamp": "2026-08-10T20:51:32+00:00",
       "fetched_at": "2026-08-11T00:40:40.084818+00:00"
+    },
+    {
+      "id": "623819b227ac",
+      "title": "AI Engineer - Myworkdayjobs.com",
+      "company": "Guidehouse",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/AI-Engineer_42927",
+      "source": "Workday",
+      "description": "AI Engineer \u00b7 Implement AI strategy to increase adoption of AI technologies across client organization. \u00b7 Coordinate with related stakeholders to ...",
+      "date": "2026-08-10",
+      "timestamp": "2026-08-10T20:25:27+00:00",
+      "fetched_at": "2026-08-11T08:40:16.410220+00:00"
     },
     {
       "id": "5c65e6785ea5",
