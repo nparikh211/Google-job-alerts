@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-08-11T16:41:55.406541+00:00",
-  "total_jobs": 7448,
+  "last_updated": "2026-08-11T20:29:26.006410+00:00",
+  "total_jobs": 7463,
   "stats": {
-    "total_companies": 3613,
+    "total_companies": 3623,
     "total_roles": 96,
     "regions": {
-      "India": 4810,
-      "Philippines": 1603,
-      "Remote": 930,
+      "India": 4820,
+      "Philippines": 1605,
+      "Remote": 933,
       "Unknown": 135
     },
     "sources": {
-      "Other": 5856,
+      "Other": 5868,
       "Greenhouse": 362,
       "Workday": 322,
       "LinkedIn": 301,
       "Ashby": 225,
-      "iCIMS": 89,
-      "Breezy": 78,
+      "iCIMS": 90,
+      "Breezy": 79,
       "Lever": 53,
-      "Workable": 51,
+      "Workable": 52,
       "SmartRecruiters": 48,
       "Indeed": 29,
       "BrassRing": 10,
@@ -36,6 +36,111 @@
   },
   "jobs": [
     {
+      "id": "36c781c64597",
+      "title": "DevOps Engineer - Vidoori - Teamtailor",
+      "company": "Vidoori - Teamtailor",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://vidoori.teamtailor.com/jobs/8204296-devops-engineer",
+      "source": "Other",
+      "description": "... DevOps Engineer Expert, Google Professional Cloud DevOps Engineer , or Kubernetes certification. ... Open Positions. Cloud Engineer (Junior). HQ \u00b7 Hybrid.",
+      "date": "2026-08-11",
+      "timestamp": "2026-08-11T20:01:48+00:00",
+      "fetched_at": "2026-08-11T20:29:25.858294+00:00"
+    },
+    {
+      "id": "fb73352ebd4c",
+      "title": "Data Engineer Job Details | Janus Henderson Investors",
+      "company": "Janus Henderson Investors",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.janushenderson.com/job/Denver-Data-Engineer-CO-80206/1418084600/",
+      "source": "Other",
+      "description": "Data Engineer . City: Denver. Division: Technology Delivery. Why work for us? A career at Janus Henderson is more than a job, it's about investing in ...",
+      "date": "2026-08-11",
+      "timestamp": "2026-08-11T19:20:25+00:00",
+      "fetched_at": "2026-08-11T20:29:25.858645+00:00"
+    },
+    {
+      "id": "37ad8248f6d8",
+      "title": "Full Stack AI Engineer at Reveleer",
+      "company": "Reveleer",
+      "role": "AI Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://reveleer.breezy.hr/p/5231452cb93a-full-stack-ai-engineer",
+      "source": "Breezy",
+      "description": "Full Stack AI Engineer Remote Opportunity As the industry's pioneering value-based care (VBC) technology platform, Reveleer is purpose-built to ...",
+      "date": "2026-08-11",
+      "timestamp": "2026-08-11T18:39:20+00:00",
+      "fetched_at": "2026-08-11T20:29:25.858907+00:00"
+    },
+    {
+      "id": "12ee46911453",
+      "title": "Software Engineer I, Game Development (NST) - Nintendo Careers Site",
+      "company": "Nintendo Careers Site",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.nintendo.com/jobs/4094452009/",
+      "source": "Other",
+      "description": "Learn about Software Engineer I, Game Development (NST) and apply for this open position.",
+      "date": "2026-08-11",
+      "timestamp": "2026-08-11T18:04:40+00:00",
+      "fetched_at": "2026-08-11T20:29:25.859163+00:00"
+    },
+    {
+      "id": "8f0b0391ad70",
+      "title": "AI/ ML Engineer - - 62447 - Lululemon",
+      "company": "- 62447 - Lululemon",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.lululemon.com/en_US/careers/JobDetail/AI-ML-Engineer/62447",
+      "source": "Other",
+      "description": "As an AI/ ML Engineer , you will contribute to the design and implementation of AI/ML systems across the full model lifecycle from dataset curation, ...",
+      "date": "2026-08-11",
+      "timestamp": "2026-08-11T17:32:05+00:00",
+      "fetched_at": "2026-08-11T20:29:25.859450+00:00"
+    },
+    {
+      "id": "40dfab7e7952",
+      "title": "150+ applications, ZERO responses. Senior Software Engineer . What am I doing wrong?",
+      "company": "am I doing wrong?",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/cscareerquestions/comments/1vll4ch/150_applications_zero_responses_senior_software/",
+      "source": "Other",
+      "description": "I've probably applied to over 150 jobs by now. My CV is ATS-friendly and uses a professional template. I'm a Senior Software Engineer (Full-Stack).",
+      "date": "2026-08-11",
+      "timestamp": "2026-08-11T16:54:26+00:00",
+      "fetched_at": "2026-08-11T20:29:25.859970+00:00"
+    },
+    {
+      "id": "40320da3246a",
+      "title": "Data Engineer Job Details | Sumitomo Mitsui Banking Corporation - Careers at SMBC",
+      "company": "SMBC",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.smbcgroup.com/smbc/job/New-York-Data-Engineer-NY-10172/1417902700/",
+      "source": "Other",
+      "description": "Certifications: Databricks Certified Data Engineer Professional or AWS Certified Data Engineer \u2013 Professional is highly advantageous. Additional ...",
+      "date": "2026-08-11",
+      "timestamp": "2026-08-11T16:46:34+00:00",
+      "fetched_at": "2026-08-11T20:29:25.860278+00:00"
+    },
+    {
       "id": "44f1f06a98b8",
       "title": "Agentic AI Engineer - Intelligence Engineering (San Francisco) - 3263 - Slalom",
       "company": "Agentic AI Engineer",
@@ -49,6 +154,21 @@
       "date": "2026-08-11",
       "timestamp": "2026-08-11T16:33:12+00:00",
       "fetched_at": "2026-08-11T16:41:55.374276+00:00"
+    },
+    {
+      "id": "2309fafbb395",
+      "title": "Senior Software Engineer - Remote, United States of America | EIS Careers",
+      "company": "Remote, United States of America | EIS Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.eisgroup.com/postings/5f7779ab-7c3f-4ccd-930f-b59d4edac79c",
+      "source": "Other",
+      "description": "Senior Software Engineer . Application Deadline: August 21, 2026; Department: 210 Sales, Solution Consulting; Employment Type: Full Time ...",
+      "date": "2026-08-11",
+      "timestamp": "2026-08-11T16:31:19+00:00",
+      "fetched_at": "2026-08-11T20:29:25.860980+00:00"
     },
     {
       "id": "fe6ddbddfb25",
@@ -66,6 +186,81 @@
       "fetched_at": "2026-08-11T16:41:55.374445+00:00"
     },
     {
+      "id": "55016b4dbc90",
+      "title": "Software Engineer I \u2013 AI Agents & Harnesses, #R-51943, Atlanta, GA, US",
+      "company": "51943, Atlanta, GA, US",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.travelers.com/job/23685823/software-engineer-i-ai-agents-harnesses-atlanta-ga/",
+      "source": "Other",
+      "description": "Discover Software Engineer I \u2013 AI Agents & Harnesses and other Technology jobs at Travelers in Atlanta, GA, US, and apply online today!",
+      "date": "2026-08-11",
+      "timestamp": "2026-08-11T15:56:12+00:00",
+      "fetched_at": "2026-08-11T20:29:25.861818+00:00"
+    },
+    {
+      "id": "e84774c1f23a",
+      "title": "Junior Data Engineer in Indianapolis, Indiana - Knowledge Services - ICIMS",
+      "company": "Knowledge Services - ICIMS",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers-knowledgeservices.icims.com/jobs/31209/junior-data-engineer/job",
+      "source": "iCIMS",
+      "description": "Moser Consulting is now hiring a Junior Data Engineer in Indianapolis, Indiana. Review all of the job details and apply today!",
+      "date": "2026-08-11",
+      "timestamp": "2026-08-11T15:33:33+00:00",
+      "fetched_at": "2026-08-11T20:29:25.976814+00:00"
+    },
+    {
+      "id": "f4aa1cb036ab",
+      "title": "Software Engineer , Traffic - DoorDash",
+      "company": "DoorDash",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careersatdoordash.com/jobs/software-engineer-traffic/8120763",
+      "source": "Other",
+      "description": "Software Engineer , Traffic \u00b7 Design and build large-scale distributed systems that are high RPS and latency sensitive \u00b7 You have 5+ years of experience ...",
+      "date": "2026-08-11",
+      "timestamp": "2026-08-11T15:28:51+00:00",
+      "fetched_at": "2026-08-11T20:29:25.862126+00:00"
+    },
+    {
+      "id": "b47416b5ebdc",
+      "title": "Data Engineer I - Careers at UF - University of Florida",
+      "company": "Careers at UF - University of Florida",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://explore.jobs.ufl.edu/en-us/job/540908/data-engineer-i",
+      "source": "Other",
+      "description": "Classification Title: App Dev Analyst I Data Engineer . Classification Minimum Requirements: Associate's degree; or a high school diploma or ...",
+      "date": "2026-08-11",
+      "timestamp": "2026-08-11T15:26:03+00:00",
+      "fetched_at": "2026-08-11T20:29:25.862411+00:00"
+    },
+    {
+      "id": "089ddf6e9489",
+      "title": "Data Engineer II - Street Data Job | Esri Career Opportunity",
+      "company": "Street Data Job | Esri Career Opportunity",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.esri.com/careers/5208470007",
+      "source": "Other",
+      "description": "We are seeking a talented Data Engineer to join our team and play a key role in building world-wide street networks. You will be responsible for ...",
+      "date": "2026-08-11",
+      "timestamp": "2026-08-11T15:22:44+00:00",
+      "fetched_at": "2026-08-11T20:29:25.862980+00:00"
+    },
+    {
       "id": "89193d5df084",
       "title": "From Apprentice to DevOps Engineer : Here's the Exact Path He Took - YouTube",
       "company": "YouTube",
@@ -81,6 +276,21 @@
       "fetched_at": "2026-08-11T16:41:55.207061+00:00"
     },
     {
+      "id": "9019922070c9",
+      "title": "Data Engineer - K1X - Workable Jobs",
+      "company": "K1X",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://apply.workable.com/k1x/j/FDC136F305",
+      "source": "Workable",
+      "description": "We are seeking a Data Engineer to design, build, and maintain the data pipelines and infrastructure that power K1x's machine learning initiatives and ...",
+      "date": "2026-08-11",
+      "timestamp": "2026-08-11T14:27:02+00:00",
+      "fetched_at": "2026-08-11T20:29:25.977797+00:00"
+    },
+    {
       "id": "702aef059f89",
       "title": "Software Engineer in Gurgaon, India | Product and Engineering at Cisco - Cisco Careers",
       "company": "Cisco",
@@ -94,6 +304,21 @@
       "date": "2026-08-11",
       "timestamp": "2026-08-11T14:12:35+00:00",
       "fetched_at": "2026-08-11T16:41:55.207298+00:00"
+    },
+    {
+      "id": "bff82ff343ee",
+      "title": "Senior Embedded Software Engineer in Clarksville, Tennessee, United States of America",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.tranetechnologies.com/global/en/job/JR-12011/Senior-Embedded-Software-Engineer",
+      "source": "Other",
+      "description": "Apply for Senior Embedded Software Engineer job with Trane Technologies in Clarksville, Tennessee, United States of America.",
+      "date": "2026-08-11",
+      "timestamp": "2026-08-11T13:57:11+00:00",
+      "fetched_at": "2026-08-11T20:29:25.977985+00:00"
     },
     {
       "id": "1f517ac8373d",
