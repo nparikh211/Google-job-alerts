@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-08-12T12:35:49.675090+00:00",
-  "total_jobs": 7508,
+  "last_updated": "2026-08-12T16:41:59.260539+00:00",
+  "total_jobs": 7520,
   "stats": {
-    "total_companies": 3639,
+    "total_companies": 3648,
     "total_roles": 96,
     "regions": {
-      "India": 4856,
-      "Philippines": 1611,
+      "India": 4866,
+      "Philippines": 1613,
       "Remote": 937,
       "Unknown": 135
     },
     "sources": {
-      "Other": 5902,
+      "Other": 5911,
       "Greenhouse": 367,
-      "Workday": 323,
-      "LinkedIn": 304,
+      "Workday": 324,
+      "LinkedIn": 305,
       "Ashby": 227,
       "iCIMS": 90,
-      "Breezy": 79,
+      "Breezy": 80,
       "Lever": 53,
       "Workable": 52,
       "SmartRecruiters": 48,
@@ -36,6 +36,96 @@
   },
   "jobs": [
     {
+      "id": "b7bcd52aafed",
+      "title": "Software Engineer - Careers At Castalia Systems - ClearCompany",
+      "company": "Castalia Systems",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://castaliasystems.hrmdirect.com/employment/view.php?req=3783886",
+      "source": "Other",
+      "description": "Job Type Full Time Workplace Type Onsite Clearance TSSCI Must be a US Citizen Job Summary Castalia Systems is seeking a Software Engineer to ...",
+      "date": "2026-08-12",
+      "timestamp": "2026-08-12T15:48:56+00:00",
+      "fetched_at": "2026-08-12T16:41:59.228734+00:00"
+    },
+    {
+      "id": "b1cb3614ccaa",
+      "title": "Apply for Full-Stack Software Engineer | U-M Careers - University of Michigan",
+      "company": "Apply for Full",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.umich.edu/job_detail/apply/281505",
+      "source": "Other",
+      "description": "Please select the option that best describes you to apply for the \"Full-Stack Software Engineer \" position.",
+      "date": "2026-08-12",
+      "timestamp": "2026-08-12T14:42:28+00:00",
+      "fetched_at": "2026-08-12T16:41:58.793621+00:00"
+    },
+    {
+      "id": "61fb06809519",
+      "title": "Data Engineer II (ICP) - HonorHealth careers",
+      "company": "Honorhealth",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://honorhealth.wd12.myworkdayjobs.com/honorhealth_careers/job/virtual---arizona/data-engineer-ii--icp-_jr10707",
+      "source": "Workday",
+      "description": "Data Engineer II possesses programming skills to develop, customize and manage integration tools, databases, warehouses, and analytical systems. Data ...",
+      "date": "2026-08-12",
+      "timestamp": "2026-08-12T13:20:58+00:00",
+      "fetched_at": "2026-08-12T16:41:58.793743+00:00"
+    },
+    {
+      "id": "a71b9afba830",
+      "title": "Senior Data Engineer | Careers at Gigs",
+      "company": "Gigs",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://gigs.com/careers/gigs/4728278101?gh_jid=4728278101",
+      "source": "Other",
+      "description": "We don't ask how things have been done before. We ask why they were done that way at all. The Role. As a Senior Data Engineer on the Data Team, you' ...",
+      "date": "2026-08-12",
+      "timestamp": "2026-08-12T13:10:55+00:00",
+      "fetched_at": "2026-08-12T16:41:58.794016+00:00"
+    },
+    {
+      "id": "de18a4030823",
+      "title": "Data Platform Engineer - Xanadu - Career Page - JazzHR",
+      "company": "Xanadu - Career Page - JazzHR",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://xanadu.applytojob.com/apply/JiheA5U375/Data-Platform-Engineer",
+      "source": "Other",
+      "description": "Data Platform Engineer ... This is a hands-on technical role first \u2014 you will be the first dedicated data engineer , with the opportunity to build a data ...",
+      "date": "2026-08-12",
+      "timestamp": "2026-08-12T12:57:21+00:00",
+      "fetched_at": "2026-08-12T16:41:58.794402+00:00"
+    },
+    {
+      "id": "64d6afbee4df",
+      "title": "Senior Software Engineer - Backend - Bengaluru, Karnataka, India | Roku Jobs",
+      "company": "Backend - Bengaluru, Karnataka, India | Roku Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.weareroku.com/jobs/senior-software-engineer-backend-bengaluru-karnataka-india-d903437f-6322-4f90-be39-78ea2c2e779c",
+      "source": "Other",
+      "description": "We are looking for a talented and experienced Backend Engineer to ... Senior Software Engineer - Backend, Embassy Golf Links Business Park ...",
+      "date": "2026-08-12",
+      "timestamp": "2026-08-12T12:10:55+00:00",
+      "fetched_at": "2026-08-12T16:41:58.794771+00:00"
+    },
+    {
       "id": "f09468de4742",
       "title": "Job Application for Senior Software Engineer at RegScale - Greenhouse",
       "company": "Regscale",
@@ -49,6 +139,36 @@
       "date": "2026-08-12",
       "timestamp": "2026-08-12T12:03:48+00:00",
       "fetched_at": "2026-08-12T12:35:49.649980+00:00"
+    },
+    {
+      "id": "2aa51a96c56a",
+      "title": "RevThread hiring Full Stack Engineer (Part-Time/Student) in Tel Aviv District, Israel",
+      "company": "Time/Student) in Tel Aviv District, Israel",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/4451198174/",
+      "source": "LinkedIn",
+      "description": "Senior Software Engineer . Akamai Technologies. Tel Aviv-Yafo, Tel Aviv ... Fullstack Engineer . Ashley Digital. Tel Aviv-Yafo, Tel Aviv District ...",
+      "date": "2026-08-12",
+      "timestamp": "2026-08-12T11:52:31+00:00",
+      "fetched_at": "2026-08-12T16:41:58.795021+00:00"
+    },
+    {
+      "id": "a3e911e43e9b",
+      "title": "Software Engineer , Ad-Tech - Job - Genius Sports",
+      "company": "Tech - Job - Genius Sports",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.geniussports.com/careers/job/7849723003/",
+      "source": "Other",
+      "description": "We are looking for a Software Engineer III who brings deep technical expertise, strong ownership, and a continuous learning mindset to the tools and ...",
+      "date": "2026-08-12",
+      "timestamp": "2026-08-12T11:41:32+00:00",
+      "fetched_at": "2026-08-12T16:41:58.795204+00:00"
     },
     {
       "id": "b791d0a951d3",
@@ -79,6 +199,36 @@
       "date": "2026-08-12",
       "timestamp": "2026-08-12T11:15:17+00:00",
       "fetched_at": "2026-08-12T12:35:49.437801+00:00"
+    },
+    {
+      "id": "907db587bcff",
+      "title": "Full-Stack Java React Software Engineer III - JPMC Candidate Experience page Careers",
+      "company": "Full",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/cx_1001/job/210779257",
+      "source": "Other",
+      "description": "As a Software Engineer III \u2013 Java at JPMorganChase within the Corporate Sector - Recovery and Resolution team, you serve as a seasoned member of ...",
+      "date": "2026-08-12",
+      "timestamp": "2026-08-12T11:14:34+00:00",
+      "fetched_at": "2026-08-12T16:41:59.230769+00:00"
+    },
+    {
+      "id": "d699fdc3bc63",
+      "title": "AI Cloud Senior DevOps Engineer - Bitdeer Technologies Group",
+      "company": "Bitdeer",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://bitdeer.breezy.hr/p/c61db6faf41b-ai-cloud-senior-devops-engineer",
+      "source": "Breezy",
+      "description": "AI Cloud Senior DevOps Engineer ... Bitdeer is a world-leading technology company for AI and Bitcoin mining infrastructure. Bitdeer is committed to ...",
+      "date": "2026-08-12",
+      "timestamp": "2026-08-12T10:54:08+00:00",
+      "fetched_at": "2026-08-12T16:41:58.795448+00:00"
     },
     {
       "id": "75412e0a0fc5",
@@ -126,6 +276,21 @@
       "fetched_at": "2026-08-12T12:35:49.438215+00:00"
     },
     {
+      "id": "07ab2da2bc79",
+      "title": "Senior Software Engineer in Vancouver, Canada, V6C 3T4 - Mastercard",
+      "company": "Mastercard",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mastercard.com/us/en/job/R-287082/Senior-Software-Engineer",
+      "source": "Other",
+      "description": "Apply for Senior Software Engineer job with Mastercard in Vancouver, Canada, V6C 3T4. Engineering at Mastercard.",
+      "date": "2026-08-12",
+      "timestamp": "2026-08-12T09:33:01+00:00",
+      "fetched_at": "2026-08-12T16:41:58.795859+00:00"
+    },
+    {
       "id": "d97572867f3d",
       "title": "Job Application for Senior Fullstack Engineer at Jukebox Health - Greenhouse",
       "company": "Jukeboxhealth",
@@ -154,6 +319,21 @@
       "date": "2026-08-12",
       "timestamp": "2026-08-12T07:33:17+00:00",
       "fetched_at": "2026-08-12T12:35:49.650436+00:00"
+    },
+    {
+      "id": "9159ce1a67f5",
+      "title": "Consultant, Software Engineer | Python ETL Technical Lead - Careers at Nationwide",
+      "company": "Nationwide",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.nationwide.com/consultant-software-engineer-python-etl-technical-lead/job/E2ABC1007C23B4F70714DCF4A25CFE03",
+      "source": "Other",
+      "description": "Join Nationwide in Columbus, OH! Apply for the Consultant, Software Engineer | Python ETL Technical Lead role today and start your journey with ...",
+      "date": "2026-08-12",
+      "timestamp": "2026-08-12T07:15:03+00:00",
+      "fetched_at": "2026-08-12T16:41:58.796200+00:00"
     },
     {
       "id": "e4df94a1f39a",
