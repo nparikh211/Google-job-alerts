@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-08-13T08:57:47.219336+00:00",
-  "total_jobs": 7566,
+  "last_updated": "2026-08-13T12:36:48.567657+00:00",
+  "total_jobs": 7578,
   "stats": {
-    "total_companies": 3670,
+    "total_companies": 3673,
     "total_roles": 96,
     "regions": {
-      "India": 4893,
-      "Philippines": 1629,
-      "Remote": 940,
+      "India": 4900,
+      "Philippines": 1632,
+      "Remote": 942,
       "Unknown": 135
     },
     "sources": {
-      "Other": 5946,
+      "Other": 5955,
       "Greenhouse": 371,
-      "Workday": 326,
-      "LinkedIn": 306,
+      "Workday": 327,
+      "LinkedIn": 307,
       "Ashby": 230,
-      "iCIMS": 90,
+      "iCIMS": 91,
       "Breezy": 80,
       "Lever": 54,
       "Workable": 52,
@@ -35,6 +35,66 @@
     }
   },
   "jobs": [
+    {
+      "id": "aef0a69364c2",
+      "title": "Senior Software Engineer - Digital Marketing/Customer Experience - Jobs at Sonova",
+      "company": "Sonova",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.sonova.com/job/Berlin-Senior-Software-Engineer-Digital-MarketingCustomer-Experience/1425596133/",
+      "source": "Other",
+      "description": "Join us in our mission to create a more connected world, where every voice is heard and every story matters. Berlin, Germany. Senior Software Engineer ...",
+      "date": "2026-08-13",
+      "timestamp": "2026-08-13T11:14:34+00:00",
+      "fetched_at": "2026-08-13T12:36:48.385925+00:00"
+    },
+    {
+      "id": "5194caea426d",
+      "title": "Full-Stack Software Engineer - careers.cern",
+      "company": "Full",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.cern/jobs/it-ca-ir-2026-199-grae/",
+      "source": "Other",
+      "description": "Full-Stack Software Engineer . Switzerland flag Geneva, Switzerland IT-CA-IR-2026-199-GRAE Ideal start date: 01 ...",
+      "date": "2026-08-13",
+      "timestamp": "2026-08-13T10:38:27+00:00",
+      "fetched_at": "2026-08-13T12:36:48.535619+00:00"
+    },
+    {
+      "id": "573413d4bdde",
+      "title": "Senior Software Frontend Engineer - Careers at Moody's",
+      "company": "Moody's",
+      "role": "Frontend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.moodys.com/en/job/gurugram/senior-software-frontend-engineer/49841/99150518736",
+      "source": "Other",
+      "description": "Senior Software Frontend Engineer . Gurugram, India. Apply now. Save job ... Associate Software Engineer . Gurugram, India. Save for Later. Senior ...",
+      "date": "2026-08-13",
+      "timestamp": "2026-08-13T10:19:11+00:00",
+      "fetched_at": "2026-08-13T12:36:48.386647+00:00"
+    },
+    {
+      "id": "06be203e1183",
+      "title": "Principal AI Engineer in Remote - Cotiviti | Careers Center - ICIMS",
+      "company": "Cotiviti | Careers Center - ICIMS",
+      "role": "AI Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers-cotiviti.icims.com/jobs/20001/principal-ai-engineer/job",
+      "source": "iCIMS",
+      "description": "US Nationwide Remote is now hiring a Principal AI Engineer in Remote. Review all of the job details and apply today!",
+      "date": "2026-08-13",
+      "timestamp": "2026-08-13T09:36:27+00:00",
+      "fetched_at": "2026-08-13T12:36:48.386818+00:00"
+    },
     {
       "id": "c4aec06adc79",
       "title": "Job Application for Software Engineer at Topstep - Greenhouse",
@@ -66,6 +126,51 @@
       "fetched_at": "2026-08-13T08:57:47.193545+00:00"
     },
     {
+      "id": "7bb23ee66415",
+      "title": "Sr DevOps Engineer - Lead, Irvine, CA, United States of America | Ingram Micro",
+      "company": "Sr DevOps Engineer",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.ingrammicro.com/en/jobs/r-116996/sr-devops-engineer-lead/",
+      "source": "Other",
+      "description": "... DevOps Engineer to Drive Global DevOps Excellence at Ingram Micro ... Principal, Backend/Integration Software Engineer . Save Saved. Irvine, CA ...",
+      "date": "2026-08-13",
+      "timestamp": "2026-08-13T08:16:45+00:00",
+      "fetched_at": "2026-08-13T12:36:48.387156+00:00"
+    },
+    {
+      "id": "407b994f51a1",
+      "title": "Software Engineer I job in Bangalore, Karn\u0101taka, India | Research & Development jobs at ...",
+      "company": "...",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.thermofisher.com/global/en/job/R-01363446/Software-Engineer-I",
+      "source": "Other",
+      "description": "Join our team as a Senior Software Engineer and drive innovation in medical device software. Leverage your expertise in C#, .NET, and cloud ...",
+      "date": "2026-08-13",
+      "timestamp": "2026-08-13T08:12:53+00:00",
+      "fetched_at": "2026-08-13T12:36:48.536619+00:00"
+    },
+    {
+      "id": "c46be713c1d6",
+      "title": "Senior Software Engineer FS Backend focused - Careers At Ad Hoc",
+      "company": "Ad Hoc",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://adhoc.hrmdirect.com/employment/job-opening.php?req=3785154&req_loc=1429587&&cust_sort1=245588&",
+      "source": "Other",
+      "description": "Senior Software Engineer Full Stack This is a remote position Job ID 922 Ad Hoc is a technology company that empowers organizations to deliver ...",
+      "date": "2026-08-13",
+      "timestamp": "2026-08-13T08:02:48+00:00",
+      "fetched_at": "2026-08-13T12:36:48.536773+00:00"
+    },
+    {
       "id": "374e05a61307",
       "title": "Job ID:26022728 - Software Engineer III - GBS IND - Multiple Locations",
       "company": "Job ID:26022728",
@@ -79,6 +184,21 @@
       "date": "2026-08-13",
       "timestamp": "2026-08-13T07:59:18+00:00",
       "fetched_at": "2026-08-13T08:57:47.193710+00:00"
+    },
+    {
+      "id": "090d8c6bda82",
+      "title": "Software Engineer - 2, Vancouver, Canada | Nutanix Careers",
+      "company": "2, Vancouver, Canada | Nutanix Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.nutanix.com/en/jobs/32079/software-engineer-2/",
+      "source": "Other",
+      "description": "Similar Jobs \u00b7 Senior Software Engineer - LLM Inference \u00b7 Software Engineer 3 - Inference \u00b7 Backend Engineer (6+ years of experience).",
+      "date": "2026-08-13",
+      "timestamp": "2026-08-13T07:47:18+00:00",
+      "fetched_at": "2026-08-13T12:36:48.537137+00:00"
     },
     {
       "id": "2568fdbf9085",
@@ -109,6 +229,21 @@
       "date": "2026-08-13",
       "timestamp": "2026-08-13T07:27:18+00:00",
       "fetched_at": "2026-08-13T08:57:47.193912+00:00"
+    },
+    {
+      "id": "49300a1aa176",
+      "title": "Associate AI Engineer - Careers - Myworkdayjobs.com",
+      "company": "Northeastern",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Associate-AI-Engineer_R141445",
+      "source": "Workday",
+      "description": "About the Opportunity JOB SUMMARY The Associate AI Engineer will be responsible for designing, developing, and implementing AI systems and data ...",
+      "date": "2026-08-13",
+      "timestamp": "2026-08-13T07:13:52+00:00",
+      "fetched_at": "2026-08-13T12:36:48.537487+00:00"
     },
     {
       "id": "23e0f8b90c33",
@@ -156,6 +291,36 @@
       "fetched_at": "2026-08-13T08:57:47.194337+00:00"
     },
     {
+      "id": "5cd81f7bb7b8",
+      "title": "Full Stack Engineer - Voice AI @SingleInterface | Vandana Basor - LinkedIn",
+      "company": "Voice AI @SingleInterface | Vandana Basor - LinkedIn",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/vandana-basor-09400290_full-stack-engineer-voice-ai-singleinterface-activity-7493299095768301569-evic",
+      "source": "LinkedIn",
+      "description": "a Full Stack Engineer \u2013 Voice AI to join our growing team in Gurugram ... Tanishq Bhosale. Full Stack + AI Engineer @ TAP Academy | LangGraph, LLM ...",
+      "date": "2026-08-13",
+      "timestamp": "2026-08-13T06:25:38+00:00",
+      "fetched_at": "2026-08-13T12:36:48.388709+00:00"
+    },
+    {
+      "id": "6972ba042b9f",
+      "title": "Software Engineer I job in Bangalore, Karn\u0101taka, India - Danaher Careers",
+      "company": "Danaher Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.danaher.com/global/en/job/DANAGLOBALR1316892EXTERNALENGLOBAL/Software-Engineer-I",
+      "source": "Other",
+      "description": "... Devops engineer . Proficiency with CI/CD tools like Jenkins, GitLab ... Senior Software Engineer (DevOps). Location Bangalore, Karn\u0101taka, India ...",
+      "date": "2026-08-13",
+      "timestamp": "2026-08-13T05:40:11+00:00",
+      "fetched_at": "2026-08-13T12:36:48.388888+00:00"
+    },
+    {
       "id": "09a0598331f9",
       "title": "AI Engineer - Virtual in Deerfield, Illinois, United States of America - Careers at Alight",
       "company": "Alight",
@@ -199,6 +364,21 @@
       "date": "2026-08-13",
       "timestamp": "2026-08-13T01:48:48+00:00",
       "fetched_at": "2026-08-13T08:57:47.194678+00:00"
+    },
+    {
+      "id": "aa459b63a8e4",
+      "title": "Software Engineer II, Sunnyvale, United States - Uber Careers",
+      "company": "Uber Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.uber.com/en/jobs/300634/",
+      "source": "Other",
+      "description": "Software Engineer II. Job removed. Location: Sunnyvale, California ... Senior Staff Machine Learning Engineer - Core Services Engineering. Job ...",
+      "date": "2026-08-13",
+      "timestamp": "2026-08-13T01:27:21+00:00",
+      "fetched_at": "2026-08-13T12:36:48.389329+00:00"
     },
     {
       "id": "400e93b7e2c6",
