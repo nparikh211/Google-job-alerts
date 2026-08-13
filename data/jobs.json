@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-08-13T16:40:37.403603+00:00",
-  "total_jobs": 7588,
+  "last_updated": "2026-08-13T20:25:45.298590+00:00",
+  "total_jobs": 7608,
   "stats": {
-    "total_companies": 3676,
+    "total_companies": 3683,
     "total_roles": 97,
     "regions": {
-      "India": 4908,
-      "Philippines": 1633,
-      "Remote": 943,
+      "India": 4922,
+      "Philippines": 1635,
+      "Remote": 947,
       "Unknown": 135
     },
     "sources": {
-      "Other": 5964,
-      "Greenhouse": 371,
-      "Workday": 327,
+      "Other": 5978,
+      "Greenhouse": 373,
+      "Workday": 328,
       "LinkedIn": 308,
-      "Ashby": 230,
+      "Ashby": 231,
       "iCIMS": 91,
-      "Breezy": 80,
+      "Breezy": 82,
       "Lever": 54,
       "Workable": 52,
       "SmartRecruiters": 48,
@@ -36,6 +36,186 @@
   },
   "jobs": [
     {
+      "id": "723fac263de8",
+      "title": "Software Engineer , Model Inference, DeepMind - Careers - Google",
+      "company": "Careers - Google",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/99394778000433862-software-engineer-model-inference-deepmind",
+      "source": "Other",
+      "description": "As a Software Engineer , you will be working with the cutting edge AI agents developed by our exceptional team of Machine Learning and Neuroscience ...",
+      "date": "2026-08-13",
+      "timestamp": "2026-08-13T18:38:51+00:00",
+      "fetched_at": "2026-08-13T20:25:45.155505+00:00"
+    },
+    {
+      "id": "a35b01aad752",
+      "title": "Tax Innovation - Data Engineer - Senior Manager at PRICE WATERHOUSE COOPERS",
+      "company": "PRICE WATERHOUSE COOPERS",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.us.pwc.com/job/dallas/tax-innovation-data-engineer-senior-manager/932/99130207664",
+      "source": "Other",
+      "description": "Tax Innovation - Data Engineer - Senior Manager. We solve together so you can deliver unexpected impact. Dallas, Texas; Chicago, Illinois ...",
+      "date": "2026-08-13",
+      "timestamp": "2026-08-13T18:21:12+00:00",
+      "fetched_at": "2026-08-13T20:25:45.155718+00:00"
+    },
+    {
+      "id": "6518fe6092a0",
+      "title": "Software Engineer (Full-Stack Web) - Openings at Computer Information Concepts",
+      "company": "Computer Information Concepts",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://computer-information-concepts.breezy.hr/p/ced8f122231a-software-engineer-full-stack-web/apply",
+      "source": "Breezy",
+      "description": "Software Engineer (Full-Stack Web) Location: Remote \u2014 must reside in CO, FL, IA, IL, KS, MO, NE, OH, or TN Travel Expectations: Once yearly ...",
+      "date": "2026-08-13",
+      "timestamp": "2026-08-13T18:20:43+00:00",
+      "fetched_at": "2026-08-13T20:25:45.155901+00:00"
+    },
+    {
+      "id": "00cb48fabab4",
+      "title": "ML Data Engineer in Toronto, Canada - eBay Jobs",
+      "company": "eBay Jobs",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ebayinc.com/us/en/job/R0076324/ML-Data-Engineer",
+      "source": "Other",
+      "description": "ML Scientist / Machine Learning Engineer . Company Overview. eBay Inc ... ML Engineer Responsibilities. Productionization: Productionize models ...",
+      "date": "2026-08-13",
+      "timestamp": "2026-08-13T18:09:29+00:00",
+      "fetched_at": "2026-08-13T20:25:45.156057+00:00"
+    },
+    {
+      "id": "9f94c10696eb",
+      "title": "Job Application for Software Engineer (New Grad) at General Matter - Greenhouse",
+      "company": "Generalmatter",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/generalmatter/jobs/5375987008",
+      "source": "Greenhouse",
+      "description": "As a Software Engineer at General Matter, you'll work alongside electrical, mechanical, test, and other engineering teams to develop software for real ...",
+      "date": "2026-08-13",
+      "timestamp": "2026-08-13T17:52:30+00:00",
+      "fetched_at": "2026-08-13T20:25:45.156155+00:00"
+    },
+    {
+      "id": "08e861a2fef5",
+      "title": "Data Engineer - DataOps Cupertino United States - Monks",
+      "company": "DataOps Cupertino United States - Monks",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.monks.com/careers/6129817004/job?gh_jid=6129817004",
+      "source": "Other",
+      "description": "We are seeking a capable, detail-minded Data Engineer with a strong DataOps focus to join our team. In this role, you will be embedded at Monks, ...",
+      "date": "2026-08-13",
+      "timestamp": "2026-08-13T17:45:44+00:00",
+      "fetched_at": "2026-08-13T20:25:45.156434+00:00"
+    },
+    {
+      "id": "fdcb5c17bfcc",
+      "title": "Stripe Careers | Full Stack Engineer , Startup Products",
+      "company": "Stripe Careers",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://stripe.com/careers/listing/full-stack-engineer-startup-products/7994887",
+      "source": "Other",
+      "description": "Full Stack Engineer , Startup Products. Who we are. About Stripe. Stripe is a financial infrastructure platform for businesses. Millions of companies ...",
+      "date": "2026-08-13",
+      "timestamp": "2026-08-13T17:26:22+00:00",
+      "fetched_at": "2026-08-13T20:25:45.156586+00:00"
+    },
+    {
+      "id": "a7078309d9b6",
+      "title": "Job Application for Senior Software Engineer , Program at EnergyHub - Greenhouse",
+      "company": "Energyhub",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/energyhub/jobs/8696115002",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer , Program. Remote - United States. Apply. The Program Engineering Team owns a core part of our platform: how customer ...",
+      "date": "2026-08-13",
+      "timestamp": "2026-08-13T17:10:23+00:00",
+      "fetched_at": "2026-08-13T20:25:45.156680+00:00"
+    },
+    {
+      "id": "738197b77189",
+      "title": "Frontend Engineer @ Bobyard | Primary Venture Partners Job Board",
+      "company": "Bobyard",
+      "role": "Frontend Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.primary.vc/companies/bobyard/jobs/89668873-frontend-engineer",
+      "source": "Other",
+      "description": "Frontend Engineer . Bobyard. Software Engineering. San Francisco, CA, USA. USD 130k-160k / year + Equity. Posted on Aug 12, 2026. Apply now. About ...",
+      "date": "2026-08-13",
+      "timestamp": "2026-08-13T17:01:54+00:00",
+      "fetched_at": "2026-08-13T20:25:45.264417+00:00"
+    },
+    {
+      "id": "928611721da5",
+      "title": "Intern, Software Engineer - fullstack - Cairo, Egypt - Procore Technologies",
+      "company": "fullstack - Cairo, Egypt - Procore Technologies",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.procore.com/jobs/intern-software-engineer-fullstack-cairo-egypt-faf8af27-f3e5-4fe7-a2ec-84e736c4ba14",
+      "source": "Other",
+      "description": "We're looking for a Software Engineer Intern to join Procore's Product & Technology organization. In this role, you'll contribute to the design, ...",
+      "date": "2026-08-13",
+      "timestamp": "2026-08-13T16:57:03+00:00",
+      "fetched_at": "2026-08-13T20:25:45.157051+00:00"
+    },
+    {
+      "id": "468dce0b61e2",
+      "title": "Data Engineer III | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.apexsystems.com/job/3046150_usa/data-engineer---data-engineer-iii",
+      "source": "Other",
+      "description": "As a Data Engineer , you will solve complex data problems and support critical projects. You will partner with stakeholders across the business and ...",
+      "date": "2026-08-13",
+      "timestamp": "2026-08-13T16:52:34+00:00",
+      "fetched_at": "2026-08-13T20:25:45.157204+00:00"
+    },
+    {
+      "id": "cb2c083bf64a",
+      "title": "Senior Frontend Engineer @ Provable - Jobs",
+      "company": "Provable",
+      "role": "Frontend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/provable/4479fd25-0a0c-4d58-851e-a66165d11a54",
+      "source": "Ashby",
+      "description": "SUMMARY Provable is seeking a Senior Frontend Engineer build beautiful interfaces for zero-knowledge applications. As a Frontend Engineer at ...",
+      "date": "2026-08-13",
+      "timestamp": "2026-08-13T16:16:57+00:00",
+      "fetched_at": "2026-08-13T20:25:45.157287+00:00"
+    },
+    {
       "id": "7d545ecfa391",
       "title": "Software Engineer III - Nike Careers",
       "company": "Nike Careers",
@@ -49,6 +229,66 @@
       "date": "2026-08-13",
       "timestamp": "2026-08-13T16:13:28+00:00",
       "fetched_at": "2026-08-13T16:40:37.368878+00:00"
+    },
+    {
+      "id": "7f647b7bef8d",
+      "title": "Full-Stack AI Engineer (AI Development team) - Improvado - Career Page",
+      "company": "Full",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://improvado.applytojob.com/apply/4okpLzMDUw/FullStack-AI-Engineer-AI-Development-Team",
+      "source": "Other",
+      "description": "Apply to Full-Stack AI Engineer (AI Development team) at Improvado in Georgia.",
+      "date": "2026-08-13",
+      "timestamp": "2026-08-13T16:06:49+00:00",
+      "fetched_at": "2026-08-13T20:25:45.157564+00:00"
+    },
+    {
+      "id": "56358b76c57a",
+      "title": "Backend Engineer (Fresher & Experienced) - Harmony United Psychiatric Care",
+      "company": "Harmony United Psychiatric Care",
+      "role": "Backend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.hupcfl.com/apply/ujOhvWEREZ/Backend-Engineer-Fresher-Experienced",
+      "source": "Other",
+      "description": "Job Title: Backend Engineer (Fresher & Experienced) Location: Hyderabad, Telangana Company: Harmony United Medsolutions Pvt. Ltd. About Us:",
+      "date": "2026-08-13",
+      "timestamp": "2026-08-13T16:03:00+00:00",
+      "fetched_at": "2026-08-13T20:25:45.157721+00:00"
+    },
+    {
+      "id": "4bd99ebe8628",
+      "title": "Senior Software Engineer , iOS - DoorDash",
+      "company": "DoorDash",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careersatdoordash.com/jobs/senior-software-engineer-ios/8127081",
+      "source": "Other",
+      "description": "Senior Software Engineer , iOS. Apply To Job. Job ID: 2760929. DoorDash Technologies Canada Inc. Toronto, ON. About the Team. DoorDash is building the ...",
+      "date": "2026-08-13",
+      "timestamp": "2026-08-13T16:02:53+00:00",
+      "fetched_at": "2026-08-13T20:25:45.157855+00:00"
+    },
+    {
+      "id": "7f3193e7f69b",
+      "title": "Senior Data Engineer - Myworkdayjobs.com",
+      "company": "Godirect",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://godirect.wd5.myworkdayjobs.com/en-US/voya_jobs/job/Senior-Data-Engineer_JR0033120",
+      "source": "Workday",
+      "description": "Senior Data Engineer \u00b7 Together we fight for everyone's opportunity for a better financial future. \u00b7 Compensation Pay Disclosure: \u00b7 Voya is committed to ...",
+      "date": "2026-08-13",
+      "timestamp": "2026-08-13T15:59:05+00:00",
+      "fetched_at": "2026-08-13T20:25:45.157950+00:00"
     },
     {
       "id": "257666015b79",
@@ -66,6 +306,36 @@
       "fetched_at": "2026-08-13T16:40:37.369050+00:00"
     },
     {
+      "id": "0772339a0168",
+      "title": "Software Engineer (Java/Spring Boot)Remote - Abbott - LiveHire",
+      "company": "Abbott - LiveHire",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.livehire.com/careers/abbott/job/GJD77/1LLOG0IIDZ/software-engineer-java-spring-boot",
+      "source": "Other",
+      "description": "Our Abbott Park, IL location currently has an opportunity for a Software Engineer (Java/Spring Boot).",
+      "date": "2026-08-13",
+      "timestamp": "2026-08-13T15:50:22+00:00",
+      "fetched_at": "2026-08-13T20:25:45.158225+00:00"
+    },
+    {
+      "id": "1f9d77f0af91",
+      "title": "Senior Software Engineer , Bangalore, Karn\u0101taka, India | Caterpillar Careers",
+      "company": "Caterpillar Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.caterpillar.com/en/jobs/r0000386957/senior-software-engineer/",
+      "source": "Other",
+      "description": "We are seeking a highly skilled Senior Software Engineer \u2013 UI Engineering to build and evolve enterprise-scale web applications, UI frameworks, ...",
+      "date": "2026-08-13",
+      "timestamp": "2026-08-13T15:42:18+00:00",
+      "fetched_at": "2026-08-13T20:25:45.158386+00:00"
+    },
+    {
       "id": "aaf880148fd5",
       "title": "Senior Software Engineer , AI Products & Agents Job Details - Careers at Paramount",
       "company": "Paramount",
@@ -79,6 +349,36 @@
       "date": "2026-08-13",
       "timestamp": "2026-08-13T15:38:01+00:00",
       "fetched_at": "2026-08-13T16:40:37.284418+00:00"
+    },
+    {
+      "id": "b3cfe70eeec8",
+      "title": "Senior Software Engineer (Modern .NET) - Openings at Computer Information Concepts",
+      "company": "Computer Information Concepts",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://computer-information-concepts.breezy.hr/p/7bf0ec0a785d-senior-software-engineer-modern-net/apply",
+      "source": "Breezy",
+      "description": "Senior Software Engineer (Modern .NET) \u00b7 Denver, CO / Kansas City, KS / Chicago, IL / Cincinnati, OH / St. Louis, MO - Remote (within locations) \u00b7 Full- ...",
+      "date": "2026-08-13",
+      "timestamp": "2026-08-13T15:27:54+00:00",
+      "fetched_at": "2026-08-13T20:25:45.266311+00:00"
+    },
+    {
+      "id": "3d28cc0c3e6f",
+      "title": "Software Engineer in Slovakia | Product and Engineering at Cisco",
+      "company": "Cisco",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/2021893/Software-Engineer",
+      "source": "Other",
+      "description": "What You'll Do. As a Software Engineer in the Cisco Crosswork Hierarchical Controller (HCO) team, you will help evolve a network controller that ...",
+      "date": "2026-08-13",
+      "timestamp": "2026-08-13T15:18:38+00:00",
+      "fetched_at": "2026-08-13T20:25:45.266417+00:00"
     },
     {
       "id": "cf6a3e16a44b",
