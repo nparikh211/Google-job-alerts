@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-08-14T08:53:13.000825+00:00",
-  "total_jobs": 7642,
+  "last_updated": "2026-08-14T12:32:27.930380+00:00",
+  "total_jobs": 7653,
   "stats": {
-    "total_companies": 3698,
+    "total_companies": 3703,
     "total_roles": 97,
     "regions": {
-      "India": 4942,
+      "India": 4951,
       "Philippines": 1646,
-      "Remote": 950,
+      "Remote": 952,
       "Unknown": 135
     },
     "sources": {
-      "Other": 6002,
-      "Greenhouse": 376,
+      "Other": 6012,
+      "Greenhouse": 377,
       "Workday": 330,
       "LinkedIn": 309,
       "Ashby": 232,
@@ -35,6 +35,111 @@
     }
   },
   "jobs": [
+    {
+      "id": "338c26882696",
+      "title": "Software Engineer in Bangalore, India | Product and Engineering at Cisco - Cisco Careers",
+      "company": "Cisco",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/2014602/Software-Engineer",
+      "source": "Other",
+      "description": "Apply for Software Engineer ... Join us as a Frontend Engineer to deliver reliable platform capabilities for customer-facing microapps and services.",
+      "date": "2026-08-14",
+      "timestamp": "2026-08-14T11:31:03+00:00",
+      "fetched_at": "2026-08-14T12:32:27.656577+00:00"
+    },
+    {
+      "id": "6b557bccef02",
+      "title": "Job Application for Senior Software Engineer at Human Interest - Greenhouse",
+      "company": "Humaninterest",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/humaninterest/jobs/7927646",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer . United States, Remote. Apply. hi-logo. Human Interest is on a mission to ensure that people in all lines of work have access ...",
+      "date": "2026-08-14",
+      "timestamp": "2026-08-14T11:19:54+00:00",
+      "fetched_at": "2026-08-14T12:32:27.656744+00:00"
+    },
+    {
+      "id": "9aa7289f0128",
+      "title": "Staff Machine Learning Engineer , Ad Serving - Boston, Massachusetts, United States",
+      "company": "Boston, Massachusetts, United States",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.weareroku.com/jobs/staff-machine-learning-engineer-ad-serving-boston-massachusetts-united-states",
+      "source": "Other",
+      "description": "Staff Machine Learning Engineer , Ad Serving. Software Engineering ... Senior Software Engineer - Kubernetes & Service Mesh, Embassy Golf Links ...",
+      "date": "2026-08-14",
+      "timestamp": "2026-08-14T10:32:08+00:00",
+      "fetched_at": "2026-08-14T12:32:27.657282+00:00"
+    },
+    {
+      "id": "123301deabdf",
+      "title": "Senior Software Engineer (Java, Spring Boot and Microservices), Customer Systems - Jobs",
+      "company": "Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200677847-0321/senior-software-engineer-java-spring-boot-and-microservices-customer-systems",
+      "source": "Other",
+      "description": "Apply for a Senior Software Engineer (Java, Spring Boot and Microservices), Customer Systems job at Apple. Read about the role and find out if ...",
+      "date": "2026-08-14",
+      "timestamp": "2026-08-14T09:29:53+00:00",
+      "fetched_at": "2026-08-14T12:32:27.657521+00:00"
+    },
+    {
+      "id": "64acd11e7008",
+      "title": "AI Engineer (Remote) | Multiple Locations - M3 USA",
+      "company": "Multiple Locations - M3 USA",
+      "role": "AI Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.usa.m3.com/search/jobdetails/ai-engineer-remote/f1f73b0f-b2ff-4fdb-83df-810bbeded96c",
+      "source": "Other",
+      "description": "M3 USA is hiring for the position of AI Engineer (Remote). Apply now.",
+      "date": "2026-08-14",
+      "timestamp": "2026-08-14T09:09:49+00:00",
+      "fetched_at": "2026-08-14T12:32:27.657677+00:00"
+    },
+    {
+      "id": "8e84de98a848",
+      "title": "SOC Infrastructure DevOps Engineer - - 128595 - Booz | Allen | Hamilton \u00ae - Careers",
+      "company": "- 128595 - Booz | Allen | Hamilton \u00ae - Careers",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.boozallen.com/jobs/JobDetail/Annapolis-Junction-SOC-Infrastructure-DevOps-Engineer-R0246486/128595",
+      "source": "Other",
+      "description": "As a DevOps engineer , you're eager to develop, manage, and secure a container platform that meets your client's needs and takes advantage of cloud and ...",
+      "date": "2026-08-14",
+      "timestamp": "2026-08-14T09:07:19+00:00",
+      "fetched_at": "2026-08-14T12:32:27.657961+00:00"
+    },
+    {
+      "id": "3a4ba4547255",
+      "title": "Cloud Engineer | Smiths Detection",
+      "company": "Smiths Detection",
+      "role": "Cloud Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.smithsdetection.com/careers/job-search-results/cloud-engineer-744000143449530/",
+      "source": "Other",
+      "description": "As a Cloud Engineer , you will design, implement, and support secure, scalable cloud infrastructure aligned with enterprise architecture, security ...",
+      "date": "2026-08-14",
+      "timestamp": "2026-08-14T08:37:40+00:00",
+      "fetched_at": "2026-08-14T12:32:27.658110+00:00"
+    },
     {
       "id": "5c9d2758f731",
       "title": "Software Engineer - Risk Solutions - Rippling",
@@ -111,6 +216,21 @@
       "fetched_at": "2026-08-14T08:53:12.966896+00:00"
     },
     {
+      "id": "44d424fb5d98",
+      "title": "Internship, Software Engineer , AI Inference Co Design (Fall 2026/Winter 2027) - Tesla",
+      "company": "Tesla",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.tesla.com/careers/search/job/internship-software-engineer-ai-inference-co-design-fall-2026-winter-2027--279600",
+      "source": "Other",
+      "description": "Apply for the Internship, Software Engineer , AI Inference Co Design (Fall 2026/Winter 2027) position in Palo Alto, California.",
+      "date": "2026-08-14",
+      "timestamp": "2026-08-14T04:27:20+00:00",
+      "fetched_at": "2026-08-14T12:32:27.659017+00:00"
+    },
+    {
       "id": "23f5d75c60fc",
       "title": "Data Engineer - Hypersonix - Career Page - JazzHR",
       "company": "Hypersonix - Career Page - JazzHR",
@@ -124,6 +244,21 @@
       "date": "2026-08-14",
       "timestamp": "2026-08-14T03:59:33+00:00",
       "fetched_at": "2026-08-14T05:20:57.890006+00:00"
+    },
+    {
+      "id": "427d49094bba",
+      "title": "Software Engineer in Waukesha, Wisconsin, United States of America, 53188-1696 - GE HealthCare",
+      "company": "1696 - GE HealthCare",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.gehealthcare.com/global/en/job/GEVGHLGLOBALR4044718EXTERNALENGLOBAL/Software-Engineer",
+      "source": "Other",
+      "description": "We are looking for a Senior Software Engineer to design and deliver next-generation compute solutions for MRI scanners. You will collaborate with ...",
+      "date": "2026-08-14",
+      "timestamp": "2026-08-14T03:46:25+00:00",
+      "fetched_at": "2026-08-14T12:32:27.659301+00:00"
     },
     {
       "id": "1df84878082a",
@@ -154,6 +289,36 @@
       "date": "2026-08-14",
       "timestamp": "2026-08-14T02:37:50+00:00",
       "fetched_at": "2026-08-14T05:20:57.823726+00:00"
+    },
+    {
+      "id": "0a18fa822393",
+      "title": "Software Engineer - AI Native Development - Qlub",
+      "company": "AI Native Development - Qlub",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.qlub.io/jobs/8212836-software-engineer-ai-native-development",
+      "source": "Other",
+      "description": "Software Engineer - AI Native Development. Apply for this job. Why qlub. The end of a great meal shouldn't be the slow part. Waiting for the check ...",
+      "date": "2026-08-14",
+      "timestamp": "2026-08-14T02:31:30+00:00",
+      "fetched_at": "2026-08-14T12:32:27.659638+00:00"
+    },
+    {
+      "id": "0a95911bb12c",
+      "title": "CloudBees Inc - Senior Software Engineer - Paylocity",
+      "company": "CloudBees Inc",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://recruiting.paylocity.com/recruiting/jobs/Details/4400546/Cloud-Bees-Inc/Senior-Software-Engineer",
+      "source": "Other",
+      "description": "Job Title: Senior Software Engineer . Job Type: Full-time. Location: Hybrid - Denver, CO (3 days on-site per week). About CloudBees.",
+      "date": "2026-08-14",
+      "timestamp": "2026-08-14T02:31:27+00:00",
+      "fetched_at": "2026-08-14T12:32:27.659769+00:00"
     },
     {
       "id": "5705fded088b",
