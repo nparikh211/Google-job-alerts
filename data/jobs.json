@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-08-14T00:47:47.535812+00:00",
-  "total_jobs": 7622,
+  "last_updated": "2026-08-14T05:20:57.922270+00:00",
+  "total_jobs": 7636,
   "stats": {
-    "total_companies": 3692,
+    "total_companies": 3696,
     "total_roles": 97,
     "regions": {
-      "India": 4931,
-      "Philippines": 1638,
-      "Remote": 949,
+      "India": 4940,
+      "Philippines": 1642,
+      "Remote": 950,
       "Unknown": 135
     },
     "sources": {
-      "Other": 5985,
-      "Greenhouse": 375,
+      "Other": 5997,
+      "Greenhouse": 376,
       "Workday": 329,
       "LinkedIn": 309,
       "Ashby": 232,
       "iCIMS": 92,
-      "Breezy": 82,
+      "Breezy": 83,
       "Lever": 54,
       "Workable": 52,
       "SmartRecruiters": 49,
@@ -31,10 +31,145 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-08-13"
+      "latest": "2026-08-14"
     }
   },
   "jobs": [
+    {
+      "id": "23f5d75c60fc",
+      "title": "Data Engineer - Hypersonix - Career Page - JazzHR",
+      "company": "Hypersonix - Career Page - JazzHR",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://hypersonix.applytojob.com/apply/iLdK8jY0VO/Data-Engineer",
+      "source": "Other",
+      "description": "We are looking for a skilled and motivated Data Engineer to design, build, and maintain scalable data pipelines and data infrastructure. You will ...",
+      "date": "2026-08-14",
+      "timestamp": "2026-08-14T03:59:33+00:00",
+      "fetched_at": "2026-08-14T05:20:57.890006+00:00"
+    },
+    {
+      "id": "5b05864c362b",
+      "title": "Software Engineer - Vagaro",
+      "company": "Vagaro",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://vagaro.breezy.hr/p/1a62d98b9483-software-engineer",
+      "source": "Breezy",
+      "description": "Software Engineer \u00b7 Develop and maintain web applications using C#, ASP.NET Core, and modern frontend technologies. \u00b7 Build and enhance RESTful APIs to ...",
+      "date": "2026-08-14",
+      "timestamp": "2026-08-14T02:37:50+00:00",
+      "fetched_at": "2026-08-14T05:20:57.823726+00:00"
+    },
+    {
+      "id": "5705fded088b",
+      "title": "Software Engineer , Specs, Level 5 - Snap Careers",
+      "company": "Snap Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.snap.com/job?id=R0046458",
+      "source": "Other",
+      "description": "... Software Engineer to join the Specs team at Snap Inc! What you'll do: Design, improve, and support reusable components, interactions, frameworks ...",
+      "date": "2026-08-14",
+      "timestamp": "2026-08-14T01:59:48+00:00",
+      "fetched_at": "2026-08-14T05:20:57.824690+00:00"
+    },
+    {
+      "id": "106105116f47",
+      "title": "Junior Software Engineer in Laurel, Maryland | Johns Hopkins Applied Physics Laboratory",
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.jhuapl.edu/jobs/59552?lang=en-us",
+      "source": "Other",
+      "description": "Johns Hopkins APL is hiring a Junior Software Engineer in Laurel, Maryland. Review all of the job details and apply today!",
+      "date": "2026-08-14",
+      "timestamp": "2026-08-14T01:54:26+00:00",
+      "fetched_at": "2026-08-14T05:20:57.824888+00:00"
+    },
+    {
+      "id": "68932309fe60",
+      "title": "Open Role \u2014 Senior Software Engineer , RippleX (Platform) | Ripple",
+      "company": "Ripple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ripple.com/careers/all-jobs/job/8110122/?gh_jid=8110122",
+      "source": "Other",
+      "description": "THE WORK. As a Senior Software Engineer on the RippleX Platform Engineering team, you'll play a critical role in ensuring the reliability, scalability ...",
+      "date": "2026-08-14",
+      "timestamp": "2026-08-14T01:42:24+00:00",
+      "fetched_at": "2026-08-14T05:20:57.825067+00:00"
+    },
+    {
+      "id": "9646da04574f",
+      "title": "Senior Staff Site Reliability Engineer - Careers at NVIDIA Corporation",
+      "company": "NVIDIA Corporation",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.nvidia.com/careers/job/893396990200",
+      "source": "Other",
+      "description": "Senior Staff Site Reliability Engineer ... Senior Systems Software Engineer - CI/CD Infrastructure for Open-Source Accelerated Computing Software.",
+      "date": "2026-08-14",
+      "timestamp": "2026-08-14T01:37:07+00:00",
+      "fetched_at": "2026-08-14T05:20:57.890548+00:00"
+    },
+    {
+      "id": "dea789e3e3c5",
+      "title": "Software Engineer , Seattle, United States - Uber Careers",
+      "company": "Uber Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.uber.com/en/jobs/300760/",
+      "source": "Other",
+      "description": "Software Engineer . Job removed. Location: Seattle, Washington; Team ... Senior Software Engineer . Job removed. New York City, New York. Engineer ...",
+      "date": "2026-08-14",
+      "timestamp": "2026-08-14T01:35:35+00:00",
+      "fetched_at": "2026-08-14T05:20:57.825202+00:00"
+    },
+    {
+      "id": "ba192f7e777b",
+      "title": "Software Engineer in Slovakia | Product and Engineering at Cisco",
+      "company": "Cisco",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/2021446/Software-Engineer",
+      "source": "Other",
+      "description": "As a Software Engineer , you will contribute to the design, implementation, and maintenance of software features within our microservices architecture.",
+      "date": "2026-08-14",
+      "timestamp": "2026-08-14T01:20:57+00:00",
+      "fetched_at": "2026-08-14T05:20:57.825337+00:00"
+    },
+    {
+      "id": "36b20086c966",
+      "title": "Apply For Staff Advanced Manufacturing Automation/ Software Engineer - Stryker",
+      "company": "Stryker",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.stryker.com/staff-advanced-manufacturing-automation-software-engineer/job/FC309279B3E52C7D048708A9E83FBC1E",
+      "source": "Other",
+      "description": "Job description. Stryker is seeking a Staff Advanced Manufacturing, Automation/ Software Engineer to join our Advanced Operations team, supporting the ...",
+      "date": "2026-08-13",
+      "timestamp": "2026-08-13T23:22:53+00:00",
+      "fetched_at": "2026-08-14T05:20:57.825576+00:00"
+    },
     {
       "id": "d53a7ee27487",
       "title": "Job Application for Senior AI Engineer at Crexi - Greenhouse",
@@ -51,6 +186,51 @@
       "fetched_at": "2026-08-14T00:47:47.384138+00:00"
     },
     {
+      "id": "d8c849148ddd",
+      "title": "Cloud Site Reliability Engineer in - Samaritan's Purse - Careers",
+      "company": "Samaritan's Purse - Careers",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.samaritanspurse.org/jobs/17812534-cloud-site-reliability-engineer",
+      "source": "Other",
+      "description": "In the role of Cloud Site Reliability Engineer , you will have the opportunity to: Maintain a personal, active relationship with Jesus Christ and is a ...",
+      "date": "2026-08-13",
+      "timestamp": "2026-08-13T22:36:42+00:00",
+      "fetched_at": "2026-08-14T05:20:57.825907+00:00"
+    },
+    {
+      "id": "ddb3220ed3bf",
+      "title": "Job Application for Senior Software Engineer at Voxie Inc - Greenhouse",
+      "company": "Voxieinc",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/voxieinc/jobs/4723729005",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer \u00b7 Integration Engineering. Design, build, and maintain integrations with third-party platforms using REST APIs, webhooks, SFTP ...",
+      "date": "2026-08-13",
+      "timestamp": "2026-08-13T22:34:39+00:00",
+      "fetched_at": "2026-08-14T05:20:57.891491+00:00"
+    },
+    {
+      "id": "c23f08ec6474",
+      "title": "Software Engineer - Remote | Arkatechture Careers",
+      "company": "Remote | Arkatechture Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://arkatechture.pinpointhq.com/postings/95d17794-b1fa-473d-a22f-c7cecfb7794d",
+      "source": "Other",
+      "description": "Software Engineer . Why Work Here? At Arkatechture, we have a simple shared mission: to build a sustainable organization built upon three pillars ...",
+      "date": "2026-08-13",
+      "timestamp": "2026-08-13T22:29:28+00:00",
+      "fetched_at": "2026-08-14T05:20:57.891662+00:00"
+    },
+    {
       "id": "ca432db49f1e",
       "title": "Senior Software Engineer - Sponsored Listings (Fullstack) | Joseph Gordon - LinkedIn",
       "company": "Sponsored Listings (Fullstack) | Joseph Gordon - LinkedIn",
@@ -64,6 +244,21 @@
       "date": "2026-08-13",
       "timestamp": "2026-08-13T20:48:26+00:00",
       "fetched_at": "2026-08-14T00:47:47.385515+00:00"
+    },
+    {
+      "id": "0104a3f6c332",
+      "title": "Senior Software Engineer - Enterprise AI | Life at Spotify",
+      "company": "Spotify",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.lifeatspotify.com/jobs/senior-software-engineer-enterprise-ai",
+      "source": "Other",
+      "description": "Senior Software Engineer . Enterprise AI. Link copied to clipboard. Apply now. Apply \u00b7 Engineering. Backend. Permanent. New York. The Platform team ...",
+      "date": "2026-08-13",
+      "timestamp": "2026-08-13T20:45:11+00:00",
+      "fetched_at": "2026-08-14T05:20:57.892181+00:00"
     },
     {
       "id": "860412d9142e",
@@ -94,6 +289,21 @@
       "date": "2026-08-13",
       "timestamp": "2026-08-13T20:29:46+00:00",
       "fetched_at": "2026-08-14T00:47:47.386038+00:00"
+    },
+    {
+      "id": "9f56731fcbe9",
+      "title": "Software Engineer - Athena, Ai & Data Platforms (AiDP) - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200677022-0157/software-engineer-athena-ai-data-platforms-aidp?team=CORSV",
+      "source": "Other",
+      "description": "Apply for a Software Engineer - Athena, Ai & Data Platforms (AiDP) job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-08-13",
+      "timestamp": "2026-08-13T20:18:36+00:00",
+      "fetched_at": "2026-08-14T05:20:57.826821+00:00"
     },
     {
       "id": "6dcc2b352360",
