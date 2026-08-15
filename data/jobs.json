@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-08-14T20:17:51.558200+00:00",
-  "total_jobs": 7679,
+  "last_updated": "2026-08-15T00:25:57.699275+00:00",
+  "total_jobs": 7691,
   "stats": {
-    "total_companies": 3714,
+    "total_companies": 3719,
     "total_roles": 97,
     "regions": {
-      "India": 4970,
-      "Philippines": 1648,
+      "India": 4980,
+      "Philippines": 1650,
       "Remote": 957,
       "Unknown": 135
     },
     "sources": {
-      "Other": 6032,
-      "Greenhouse": 378,
+      "Other": 6041,
+      "Greenhouse": 379,
       "Workday": 333,
-      "LinkedIn": 309,
-      "Ashby": 233,
+      "LinkedIn": 310,
+      "Ashby": 234,
       "iCIMS": 92,
       "Breezy": 84,
       "Lever": 54,
@@ -36,6 +36,126 @@
   },
   "jobs": [
     {
+      "id": "5947fbef383d",
+      "title": "Job Application for Senior Software Engineer at Redapt - Greenhouse",
+      "company": "Redapt",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/redapt/jobs/5389434008",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer . Redapt Inc. is a pioneering world-class data center infrastructure integrator, technology engineering firm, ...",
+      "date": "2026-08-14",
+      "timestamp": "2026-08-14T23:14:14+00:00",
+      "fetched_at": "2026-08-15T00:25:57.588067+00:00"
+    },
+    {
+      "id": "7d5a2269066f",
+      "title": "Senior Software Engineer job in McLean, VA - Freddie Mac Careers",
+      "company": "Freddie Mac Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.freddiemac.com/us/en/job/JR17500/Senior-Software-Engineer",
+      "source": "Other",
+      "description": "... Senior Software Engineer . Location McLean, VA Category Technology Job Id ... DevOps Engineer , Senior. Location McLean, VA Category Technology ...",
+      "date": "2026-08-14",
+      "timestamp": "2026-08-14T21:46:46+00:00",
+      "fetched_at": "2026-08-15T00:25:57.589452+00:00"
+    },
+    {
+      "id": "c95ad3fb00a3",
+      "title": "Software Engineer , Google Wallet, Transit and eMoney",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/75058943545483974-software-engineer-google-wallet-transit-and-emoney?page=172",
+      "source": "Other",
+      "description": "... software engineer , you will work on a specific project critical to ... Senior Software Engineer , Generative AI, Google Meet. Raleigh, NC, USA ...",
+      "date": "2026-08-14",
+      "timestamp": "2026-08-14T21:12:57+00:00",
+      "fetched_at": "2026-08-15T00:25:57.589863+00:00"
+    },
+    {
+      "id": "268d984a3129",
+      "title": "Senior Software Engineer - Careers at Elastic",
+      "company": "Elastic",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.elastic.co/form?gh_jid=8069178",
+      "source": "Other",
+      "description": "Home; /. Senior Software Engineer . Senior Software Engineer . Elastic The Search AI Company. Follow us. Elastic's LinkedIn page \u00b7 Elastic's YouTube ...",
+      "date": "2026-08-14",
+      "timestamp": "2026-08-14T20:46:51+00:00",
+      "fetched_at": "2026-08-15T00:25:57.590003+00:00"
+    },
+    {
+      "id": "f2e272fb3445",
+      "title": "[ Software Engineer ] [New Jersey] - $250k Base + $70k Bonus + Equity ($1.2M TC) : r/Salary",
+      "company": "$250k Base + $70k Bonus + Equity ($1.2M TC) : r/Salary",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/Salary/comments/1vnwqej/software_engineer_new_jersey_250k_base_70k_bonus/",
+      "source": "Other",
+      "description": "[ Software Engineer ] [New Jersey] - $250k Base + $70k Bonus + Equity ($1.2M TC) ... - My old job was extremely toxic\u2014full of politics, zero recognition, ...",
+      "date": "2026-08-14",
+      "timestamp": "2026-08-14T20:44:52+00:00",
+      "fetched_at": "2026-08-15T00:25:57.590249+00:00"
+    },
+    {
+      "id": "edc30ad7a64d",
+      "title": "Software Engineer , Core Services - Jobs - Apple Careers",
+      "company": "Jobs - Apple Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200677947-0836/software-engineer-core-services-apple-services-engineering?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Software Engineer , Core Services - Apple Services Engineering job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-08-14",
+      "timestamp": "2026-08-14T20:07:17+00:00",
+      "fetched_at": "2026-08-15T00:25:57.668547+00:00"
+    },
+    {
+      "id": "05251b031a0f",
+      "title": "Data Engineer - Cincinnati Reds | TeamWork Online",
+      "company": "Cincinnati Reds | TeamWork Online",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.teamworkonline.com/baseball-jobs/cincinnati-reds/cincinnati-reds/data-engineer-2185398",
+      "source": "Other",
+      "description": "Job Description: Data Engineer Department: Information Technology \u2013 Baseball Data & Development FLSA Status: Full-Time, Salary Exempt",
+      "date": "2026-08-14",
+      "timestamp": "2026-08-14T19:50:47+00:00",
+      "fetched_at": "2026-08-15T00:25:57.590583+00:00"
+    },
+    {
+      "id": "393db8b637d8",
+      "title": "Top Skills Required for AI Engineer Jobs in 2026 (From Expert Recruiter) - YouTube",
+      "company": "YouTube",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.youtube.com/watch?v=M0Z7Tfz5BiI",
+      "source": "Other",
+      "description": "AI Engineer vs ML Engineer explained; Real-world job requirements (not ... Software Engineer to AI Engineer : Best Move 2026. Tech With Tim\u202239K ...",
+      "date": "2026-08-14",
+      "timestamp": "2026-08-14T19:37:19+00:00",
+      "fetched_at": "2026-08-15T00:25:57.668690+00:00"
+    },
+    {
       "id": "59ae9704becb",
       "title": "Software Engineer in Bangalore, India | Product and Engineering at Cisco - Cisco Careers",
       "company": "Cisco",
@@ -51,6 +171,36 @@
       "fetched_at": "2026-08-14T20:17:51.334941+00:00"
     },
     {
+      "id": "a40b42e522e0",
+      "title": "Platform Software Engineer 1 - Full-time Intern Conversion - Oracle Careers",
+      "company": "Full-time Intern Conversion - Oracle Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/342415",
+      "source": "Other",
+      "description": "Responsibilities. What You'll Bring (Objective Minimum Qualifications):. To be considered for a Software Engineer position at Oracle, you must possess ...",
+      "date": "2026-08-14",
+      "timestamp": "2026-08-14T18:49:52+00:00",
+      "fetched_at": "2026-08-15T00:25:57.591023+00:00"
+    },
+    {
+      "id": "27cd586c9f46",
+      "title": "Service Now AI DevOps Engineer at MCKESSON",
+      "company": "MCKESSON",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mckesson.com/en/job/mississauga/service-now-ai-devops-engineer/733/99174909024?utm_source=Mass+Digital+Health+job+board&utm_medium=getro.com&gh_src=Mass+Digital+Health+job+board",
+      "source": "Other",
+      "description": "Service Now AI DevOps Engineer . Mississauga, Canada. Job IDJR0151827 See Job ... McKesson is seeking a Senior ServiceNow AI Engineer to deliver ...",
+      "date": "2026-08-14",
+      "timestamp": "2026-08-14T18:42:43+00:00",
+      "fetched_at": "2026-08-15T00:25:57.591228+00:00"
+    },
+    {
       "id": "5cfc3c1fe942",
       "title": "Data Engineer - Bixal",
       "company": "Bixal",
@@ -64,6 +214,36 @@
       "date": "2026-08-14",
       "timestamp": "2026-08-14T18:38:15+00:00",
       "fetched_at": "2026-08-14T20:17:51.335416+00:00"
+    },
+    {
+      "id": "968ac7252255",
+      "title": "John Crickett's Post - LinkedIn",
+      "company": "Unknown Company",
+      "role": "John Crickett's Post - LinkedIn",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/johncrickett_want-to-become-a-better-software-engineer-activity-7493999887429222400--dSr",
+      "source": "LinkedIn",
+      "description": "Want to become a better software engineer ? Build real software. The problem is, when you're coding to learn, figuring out what to build can eat up ...",
+      "date": "2026-08-14",
+      "timestamp": "2026-08-14T18:37:30+00:00",
+      "fetched_at": "2026-08-15T00:25:57.591963+00:00"
+    },
+    {
+      "id": "a4c7824fc220",
+      "title": "DevOps Engineer @ Mind Robotics - Jobs",
+      "company": "Mindrobotics",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/mindrobotics/4e6d89ae-9dbc-4711-88a3-29a5eac71b22",
+      "source": "Ashby",
+      "description": "... DevOps Engineer to build and operate the infrastructure that enables engineers to develop, test, deploy, and monitor robotic systems reliably at ...",
+      "date": "2026-08-14",
+      "timestamp": "2026-08-14T18:23:49+00:00",
+      "fetched_at": "2026-08-15T00:25:57.592074+00:00"
     },
     {
       "id": "7e951429821b",
