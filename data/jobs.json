@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-08-15T16:07:40.706249+00:00",
-  "total_jobs": 7723,
+  "last_updated": "2026-08-15T20:07:12.369534+00:00",
+  "total_jobs": 7733,
   "stats": {
     "total_companies": 3731,
     "total_roles": 98,
     "regions": {
-      "India": 5003,
-      "Philippines": 1658,
+      "India": 5011,
+      "Philippines": 1660,
       "Remote": 958,
       "Unknown": 135
     },
     "sources": {
-      "Other": 6063,
+      "Other": 6070,
       "Greenhouse": 381,
       "Workday": 334,
-      "LinkedIn": 313,
-      "Ashby": 236,
+      "LinkedIn": 315,
+      "Ashby": 237,
       "iCIMS": 93,
       "Breezy": 85,
       "Lever": 54,
@@ -35,6 +35,111 @@
     }
   },
   "jobs": [
+    {
+      "id": "12dbba30a024",
+      "title": "A Google Cloud engineer just showed how to build a complete application with Claude from scratch",
+      "company": "Unknown Company",
+      "role": "Cloud Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/ClaudeCode/comments/1vozpv9/a_google_cloud_engineer_just_showed_how_to_build/",
+      "source": "Other",
+      "description": "A Google Cloud engineer just showed how to build a complete application with Claude from scratch ... Software Engineer (12:00 - 16:45). Context-Aware ...",
+      "date": "2026-08-15",
+      "timestamp": "2026-08-15T19:09:19+00:00",
+      "fetched_at": "2026-08-15T20:07:12.243744+00:00"
+    },
+    {
+      "id": "48161b33d02c",
+      "title": "Senior Platform Engineer at Arm - Arm Careers",
+      "company": "Arm",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.arm.com/job/bengaluru/senior-platform-engineer/33099/99220076320",
+      "source": "Other",
+      "description": "As a Senior Platform Engineer , you will be responsible for running Arm's Kubernetes platform services across public and private cloud environments.",
+      "date": "2026-08-15",
+      "timestamp": "2026-08-15T18:57:55+00:00",
+      "fetched_at": "2026-08-15T20:07:12.244012+00:00"
+    },
+    {
+      "id": "b6d917a61d73",
+      "title": "Glider AI hiring AI Engineer in Raleigh, NC | LinkedIn",
+      "company": "LinkedIn",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/ai-engineer-at-glider-ai-4451256227",
+      "source": "LinkedIn",
+      "description": "Machine Learning Engineer II (Servicing ML). Affirm. Raleigh, NC 2 weeks ... Lead Software Engineer jobs \u00b7 Flourish jobs \u00b7 Anduril Industries jobs ...",
+      "date": "2026-08-15",
+      "timestamp": "2026-08-15T18:39:34+00:00",
+      "fetched_at": "2026-08-15T20:07:12.244202+00:00"
+    },
+    {
+      "id": "49a75b333227",
+      "title": "AI Engineer / AI Developer - - 80666 - Jobs at Lenovo",
+      "company": "Lenovo",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.lenovo.com/en_US/careers/JobDetail/AI-Engineer-AI-Developer/80666",
+      "source": "Other",
+      "description": "AI Engineer / AI Developer at created 15-Aug-2026.",
+      "date": "2026-08-15",
+      "timestamp": "2026-08-15T17:39:33+00:00",
+      "fetched_at": "2026-08-15T20:07:12.244343+00:00"
+    },
+    {
+      "id": "6014143eabeb",
+      "title": "Principal Software Engineer in Denver, Colorado, United States of America - Cisco Careers",
+      "company": "Cisco Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2022376EXTERNALENGLOBAL/Principal-Software-Engineer",
+      "source": "Other",
+      "description": "We are currently hiring a Senior Software Engineer \u2013 Control Plane (Go/Kubernetes) to design and develop control plane software for security features ...",
+      "date": "2026-08-15",
+      "timestamp": "2026-08-15T16:43:12+00:00",
+      "fetched_at": "2026-08-15T20:07:12.244555+00:00"
+    },
+    {
+      "id": "53240ade11e7",
+      "title": "Staff Software Engineer , Mailchimp at Intuit",
+      "company": "Intuit",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.intuit.com/job/atlanta/staff-software-engineer-mailchimp/27595/99219563184",
+      "source": "Other",
+      "description": "Intuit supports you, not just as you are now, but as the person that you want to grow to be. Alex Pollock Senior Software Engineer .",
+      "date": "2026-08-15",
+      "timestamp": "2026-08-15T16:22:27+00:00",
+      "fetched_at": "2026-08-15T20:07:12.335949+00:00"
+    },
+    {
+      "id": "54f1ebea28e4",
+      "title": "Generative AI Engineer | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.apexsystems.com/job/3046301_usa/generative-ai-engineer",
+      "source": "Other",
+      "description": "Generative AI Engineer . Apply. Job#: 3046301. Job Description: Generative ... Generative AI Platform Engineer \u00b7 Senior Generative AI Engineer \u00b7 AI ...",
+      "date": "2026-08-15",
+      "timestamp": "2026-08-15T16:15:53+00:00",
+      "fetched_at": "2026-08-15T20:07:12.244714+00:00"
+    },
     {
       "id": "4191e0cba39d",
       "title": "Software Engineer Intern at NatWest - Lolita Hasanova - LinkedIn",
@@ -81,6 +186,36 @@
       "fetched_at": "2026-08-15T16:07:40.578820+00:00"
     },
     {
+      "id": "7754cf78d0fd",
+      "title": "A Google Cloud engineer just showed how to build a complete application with Claude from ...",
+      "company": "Unknown Company",
+      "role": "Cloud Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/genai-works_a-google-cloud-engineer-just-showed-how-to-activity-7494321937079357440-e1Q1",
+      "source": "LinkedIn",
+      "description": "And the software engineer ? You receive these front end like all ... Applied AI Engineer @ Instrumentix | Building Agentic AI Systems | LLMs ...",
+      "date": "2026-08-15",
+      "timestamp": "2026-08-15T14:12:50+00:00",
+      "fetched_at": "2026-08-15T20:07:12.245856+00:00"
+    },
+    {
+      "id": "e0cee4049360",
+      "title": "Machine Learning Engineer @ Clay Labs - Jobs",
+      "company": "Claylabs",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/claylabs/d04f47c4-aed6-481d-a093-74c2ae4f3432",
+      "source": "Ashby",
+      "description": "... MACHINE LEARNING ENGINEER @ CLAY Clay's ambition is to build a self-learning revenue engine: a product that gets smarter every time someone uses ...",
+      "date": "2026-08-15",
+      "timestamp": "2026-08-15T14:12:35+00:00",
+      "fetched_at": "2026-08-15T20:07:12.245963+00:00"
+    },
+    {
       "id": "e331c98204a7",
       "title": "Software Engineer , Applied AI @ Clay Labs - Jobs",
       "company": "Claylabs",
@@ -94,6 +229,21 @@
       "date": "2026-08-15",
       "timestamp": "2026-08-15T14:12:34+00:00",
       "fetched_at": "2026-08-15T16:07:40.661788+00:00"
+    },
+    {
+      "id": "c10ea521b13f",
+      "title": "A Google Cloud engineer just showed how to build a complete application with Claude from scratch",
+      "company": "Unknown Company",
+      "role": "Cloud Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.reddit.com/r/vibecoding/comments/1voz78n/a_google_cloud_engineer_just_showed_how_to_build/",
+      "source": "Other",
+      "description": "A Google Cloud engineer just showed how to build a complete application with Claude from scratch ... I'm a software engineer with a decade of experience ...",
+      "date": "2026-08-15",
+      "timestamp": "2026-08-15T14:02:49+00:00",
+      "fetched_at": "2026-08-15T20:07:12.337587+00:00"
     },
     {
       "id": "e29144d18e17",
