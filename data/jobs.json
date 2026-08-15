@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-08-15T12:10:12.923156+00:00",
-  "total_jobs": 7710,
+  "last_updated": "2026-08-15T16:07:40.706249+00:00",
+  "total_jobs": 7723,
   "stats": {
-    "total_companies": 3725,
+    "total_companies": 3731,
     "total_roles": 98,
     "regions": {
-      "India": 4993,
-      "Philippines": 1655,
+      "India": 5003,
+      "Philippines": 1658,
       "Remote": 958,
       "Unknown": 135
     },
     "sources": {
-      "Other": 6052,
+      "Other": 6063,
       "Greenhouse": 381,
       "Workday": 334,
-      "LinkedIn": 312,
-      "Ashby": 235,
+      "LinkedIn": 313,
+      "Ashby": 236,
       "iCIMS": 93,
       "Breezy": 85,
       "Lever": 54,
@@ -36,6 +36,126 @@
   },
   "jobs": [
     {
+      "id": "4191e0cba39d",
+      "title": "Software Engineer Intern at NatWest - Lolita Hasanova - LinkedIn",
+      "company": "NatWest",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/lolagasanova_today-is-my-last-day-as-a-software-engineer-activity-7493958663053701120-IawK",
+      "source": "LinkedIn",
+      "description": "Today is my last day as a Software Engineer Intern at NatWest \u200d\u2640\ufe0f Eight weeks ago, I joined NatWest Digital X for what has been an ...",
+      "date": "2026-08-15",
+      "timestamp": "2026-08-15T15:09:15+00:00",
+      "fetched_at": "2026-08-15T16:07:40.578076+00:00"
+    },
+    {
+      "id": "ab4a0f4cda69",
+      "title": "Panicking Software Engineer : r/singularity - Reddit",
+      "company": "Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/singularity/comments/1vote1t/panicking_software_engineer/",
+      "source": "Other",
+      "description": "619 votes, 561 comments. If you are a 30-45 year old software engineer , what the fuck are you supposed to even do to make sure you stay employed?",
+      "date": "2026-08-15",
+      "timestamp": "2026-08-15T15:09:15+00:00",
+      "fetched_at": "2026-08-15T16:07:40.578598+00:00"
+    },
+    {
+      "id": "1f507fead3b2",
+      "title": "Software Engineer Intern, Platform Security - Spring 2027 | Pega",
+      "company": "Spring 2027 | Pega",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.pega.com/about/careers/22704/software-engineer-intern-platform-security-spring-2027",
+      "source": "Other",
+      "description": "Software Engineer Intern, Platform Security - Spring 2027. Job Category: Engineering & Cloud. Location: US - Massachusetts - Waltham. Apply now. Share.",
+      "date": "2026-08-15",
+      "timestamp": "2026-08-15T15:07:29+00:00",
+      "fetched_at": "2026-08-15T16:07:40.578820+00:00"
+    },
+    {
+      "id": "e331c98204a7",
+      "title": "Software Engineer , Applied AI @ Clay Labs - Jobs",
+      "company": "Claylabs",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/claylabs/5e07db20-d96a-4dff-b7d3-3bf1cdde6fc1",
+      "source": "Ashby",
+      "description": "Software Engineer , Applied AI. Location. New York. Employment Type. Full time. Location Type. Hybrid. Department. Engineering. Compensation. $170K \u2013 ...",
+      "date": "2026-08-15",
+      "timestamp": "2026-08-15T14:12:34+00:00",
+      "fetched_at": "2026-08-15T16:07:40.661788+00:00"
+    },
+    {
+      "id": "e29144d18e17",
+      "title": "Software Engineer III - Python / AI - JPMC Candidate Experience page Careers",
+      "company": "Python / AI - JPMC Candidate Experience page Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/preview/210777335",
+      "source": "Other",
+      "description": "We have an exciting and rewarding opportunity for you to take your software engineering career to the next level. As a Software Engineer III ...",
+      "date": "2026-08-15",
+      "timestamp": "2026-08-15T12:52:12+00:00",
+      "fetched_at": "2026-08-15T16:07:40.662101+00:00"
+    },
+    {
+      "id": "8b2aefad9517",
+      "title": "Service Now - Platform Engineer at Cargill",
+      "company": "Cargill",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cargill.com/en/job/atlanta/service-now-platform-engineer/23251/99219505232",
+      "source": "Other",
+      "description": "Service Now - Platform Engineer . Apply Now Save Job Remove Job. Job ID 331866 Date posted 08/14/2026 ...",
+      "date": "2026-08-15",
+      "timestamp": "2026-08-15T11:43:42+00:00",
+      "fetched_at": "2026-08-15T16:07:40.578968+00:00"
+    },
+    {
+      "id": "e9d8893c125b",
+      "title": "Software Engineer - Cloud Platform - 127308 - IBM",
+      "company": "Cloud Platform - 127308 - IBM",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.ibm.com/en_US/careers/JobDetail/Software-Engineer-Cloud-Platform/127308",
+      "source": "Other",
+      "description": "Software Engineer - Cloud Platform \u00b7 Design, implement, test, and maintain features in the Confluent CLI and Terraform Provider, primarily using Go ...",
+      "date": "2026-08-15",
+      "timestamp": "2026-08-15T11:12:20+00:00",
+      "fetched_at": "2026-08-15T16:07:40.579143+00:00"
+    },
+    {
+      "id": "0c634175a81c",
+      "title": "Staff Software Engineer , Git Storage in United Kingdom | GitHub, Inc.",
+      "company": "GitHub, Inc.",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.github.careers/early-in-profession/jobs/5458?lang=en-us",
+      "source": "Other",
+      "description": "early-in-profession is hiring a Staff Software Engineer , Git Storage in United Kingdom. Review all of the job details and apply today!",
+      "date": "2026-08-15",
+      "timestamp": "2026-08-15T10:37:28+00:00",
+      "fetched_at": "2026-08-15T16:07:40.579410+00:00"
+    },
+    {
       "id": "46626ba32021",
       "title": "Senior Software Engineer , Global Payroll - Rippling",
       "company": "Rippling",
@@ -51,6 +171,21 @@
       "fetched_at": "2026-08-15T12:10:12.429243+00:00"
     },
     {
+      "id": "512093986c85",
+      "title": "Senior Software Engineer | Cato Networks",
+      "company": "Cato Networks",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.catonetworks.com/careers/careers-post/4888366101?gh_jid=4888366101&utm_source=infosecjobboard.com&utm_medium=referral&utm_campaign=job_board",
+      "source": "Other",
+      "description": "Senior Software Engineer . Location: Tel Aviv District, Israel. Welcome to the future of cloud networking and security! Cato Networks is the first ...",
+      "date": "2026-08-15",
+      "timestamp": "2026-08-15T09:51:58+00:00",
+      "fetched_at": "2026-08-15T16:07:40.662849+00:00"
+    },
+    {
       "id": "5e711f8c2c35",
       "title": "Software Engineer in Indianapolis, Indiana - Liberty Mutual | Careers Center | Welcome",
       "company": "Liberty Mutual | Careers Center | Welcome",
@@ -64,6 +199,36 @@
       "date": "2026-08-15",
       "timestamp": "2026-08-15T09:34:30+00:00",
       "fetched_at": "2026-08-15T12:10:12.429447+00:00"
+    },
+    {
+      "id": "cc64c1b95537",
+      "title": "Software Engineer Jobs at Amgen in Thousand Oaks",
+      "company": "Amgen in Thousand Oaks",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.amgen.com/en/job/thousand-oaks/software-engineer/87/99238252576",
+      "source": "Other",
+      "description": "Explore the details of a Software Engineer career in Thousand Oaks. Live. Win. Thrive. Search and apply for a rewarding new career at Amgen.",
+      "date": "2026-08-15",
+      "timestamp": "2026-08-15T09:22:15+00:00",
+      "fetched_at": "2026-08-15T16:07:40.579868+00:00"
+    },
+    {
+      "id": "15a7d85091b3",
+      "title": "Software Engineer in Chennai, Tamil N\u0101du, India | Technology & Digital at U.S. Bank",
+      "company": "U.S. Bank",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.usbank.com/global/en/job/UBNAGLOBAL20260017341EXTERNALENGLOBAL/Software-Engineer",
+      "source": "Other",
+      "description": "Software Engineer . Apply now. JOB DESCRIPTION. At U.S. Bancorp India, we ... Senior Software Engineer . Location Chennai, Tamil N\u0101du, India. Lead ...",
+      "date": "2026-08-15",
+      "timestamp": "2026-08-15T07:26:07+00:00",
+      "fetched_at": "2026-08-15T16:07:40.663269+00:00"
     },
     {
       "id": "06dc2a8091e1",
@@ -126,6 +291,21 @@
       "fetched_at": "2026-08-15T08:11:32.969372+00:00"
     },
     {
+      "id": "db963661a66a",
+      "title": "Staff Machine Learning Engineer , Generative AI Modeling and Inference - Snap Careers",
+      "company": "Snap Careers",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.snap.com/job?id=R0046467&useContentAccordionItems=ujed7",
+      "source": "Other",
+      "description": "... Machine Learning Engineer to join Snap Inc! What you'll do: Develop innovative machine learning technology and products that serve millions of ...",
+      "date": "2026-08-15",
+      "timestamp": "2026-08-15T02:13:29+00:00",
+      "fetched_at": "2026-08-15T16:07:40.580859+00:00"
+    },
+    {
       "id": "8b02157ebf30",
       "title": "Manager - AI Native Platform Engineer - - 22670 - Macquarie Group",
       "company": "Manager",
@@ -169,6 +349,21 @@
       "date": "2026-08-15",
       "timestamp": "2026-08-15T00:49:15+00:00",
       "fetched_at": "2026-08-15T08:11:32.970737+00:00"
+    },
+    {
+      "id": "2bc390956956",
+      "title": "Senior Software Engineer in Portland, Oregon, United States of America - Cisco Careers",
+      "company": "Cisco Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2021235EXTERNALENGLOBAL/Senior-Software-Engineer",
+      "source": "Other",
+      "description": "Apply for Senior Software Engineer job with Cisco in Portland, Oregon, United States of America. Product and Engineering at Cisco.",
+      "date": "2026-08-14",
+      "timestamp": "2026-08-14T23:53:45+00:00",
+      "fetched_at": "2026-08-15T16:07:40.581692+00:00"
     },
     {
       "id": "fe43c439c70e",
