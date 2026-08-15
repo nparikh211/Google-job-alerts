@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-08-15T00:25:57.699275+00:00",
-  "total_jobs": 7691,
+  "last_updated": "2026-08-15T04:16:10.447606+00:00",
+  "total_jobs": 7697,
   "stats": {
-    "total_companies": 3719,
-    "total_roles": 97,
+    "total_companies": 3721,
+    "total_roles": 98,
     "regions": {
-      "India": 4980,
-      "Philippines": 1650,
-      "Remote": 957,
+      "India": 4984,
+      "Philippines": 1651,
+      "Remote": 958,
       "Unknown": 135
     },
     "sources": {
-      "Other": 6041,
+      "Other": 6043,
       "Greenhouse": 379,
-      "Workday": 333,
-      "LinkedIn": 310,
-      "Ashby": 234,
+      "Workday": 334,
+      "LinkedIn": 311,
+      "Ashby": 235,
       "iCIMS": 92,
-      "Breezy": 84,
+      "Breezy": 85,
       "Lever": 54,
       "Workable": 52,
       "SmartRecruiters": 49,
@@ -31,10 +31,40 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-08-14"
+      "latest": "2026-08-15"
     }
   },
   "jobs": [
+    {
+      "id": "b437b6390bbf",
+      "title": "Senior Software Engineer - PKI at Ford Motor Company",
+      "company": "Ford Motor Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.careers.ford.com/job/united-states/senior-software-engineer-pki/48560/99235341744",
+      "source": "Other",
+      "description": "We are seeking an exceptional Senior Software Engineer specializing in Public Key Infrastructure (PKI) and secure API services to own the end-to-end ...",
+      "date": "2026-08-15",
+      "timestamp": "2026-08-15T00:55:13+00:00",
+      "fetched_at": "2026-08-15T04:16:10.285566+00:00"
+    },
+    {
+      "id": "fe43c439c70e",
+      "title": "Software Engineer - Vagaro",
+      "company": "Vagaro",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://vagaro.breezy.hr/p/1a62d98b9483-software-engineer/apply",
+      "source": "Breezy",
+      "description": "Software Engineer . Pleasanton, CA; Full-Time; Engineering; $103,000 \u2013 $135,000 / year. Job Openings \u00b7 Software Engineer ; Apply. Upload Resume*. Use My ...",
+      "date": "2026-08-14",
+      "timestamp": "2026-08-14T23:50:42+00:00",
+      "fetched_at": "2026-08-15T04:16:10.285730+00:00"
+    },
     {
       "id": "5947fbef383d",
       "title": "Job Application for Senior Software Engineer at Redapt - Greenhouse",
@@ -49,6 +79,36 @@
       "date": "2026-08-14",
       "timestamp": "2026-08-14T23:14:14+00:00",
       "fetched_at": "2026-08-15T00:25:57.588067+00:00"
+    },
+    {
+      "id": "bbb482f860dd",
+      "title": "Principal Supply Chain Data Engineer & Analytics Lead - Bausch + Lomb Careers",
+      "company": "Bausch + Lomb Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.bauschlomb.com/job/USA-Remote-Principal-Supply-Chain-Data-Engineer-&-Analytics-Lead/1369446357/",
+      "source": "Other",
+      "description": "The Principal Supply Chain Data Engineer and Analytics Lead is a critical role responsible for building the data foundation, analytics capabilities, ...",
+      "date": "2026-08-14",
+      "timestamp": "2026-08-14T22:15:25+00:00",
+      "fetched_at": "2026-08-15T04:16:10.286717+00:00"
+    },
+    {
+      "id": "55f74427a565",
+      "title": "Backend Engineer @ Mintlify - Jobs",
+      "company": "Mintlify",
+      "role": "Backend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/Mintlify/4da2f7a2-3d5a-4652-bf01-aed59f4cb72b",
+      "source": "Ashby",
+      "description": "... Backend Engineer , you'll build the APIs, content pipelines, and AI infrastructure that power Mintlify's products. You'll collaborate across design ...",
+      "date": "2026-08-14",
+      "timestamp": "2026-08-14T22:14:23+00:00",
+      "fetched_at": "2026-08-15T04:16:10.286872+00:00"
     },
     {
       "id": "7d5a2269066f",
@@ -111,6 +171,21 @@
       "fetched_at": "2026-08-15T00:25:57.590249+00:00"
     },
     {
+      "id": "eba3752a0eb1",
+      "title": "Maya Mnaizel's Post - LinkedIn",
+      "company": "Unknown Company",
+      "role": "Maya Mnaizel's Post - LinkedIn",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/maya-mnaizel_can-a-devops-engineer-be-infrastructure-heavy-activity-7493629976752324608-WJzj",
+      "source": "LinkedIn",
+      "description": "Can a DevOps engineer be \u201cinfrastructure-heavy\u201d or \u201cdevelopment-heavy\u201d? I've been thinking about this lately. Some DevOps engineers naturally lean ...",
+      "date": "2026-08-14",
+      "timestamp": "2026-08-14T20:20:01+00:00",
+      "fetched_at": "2026-08-15T04:16:10.288283+00:00"
+    },
+    {
       "id": "edc30ad7a64d",
       "title": "Software Engineer , Core Services - Jobs - Apple Careers",
       "company": "Jobs - Apple Careers",
@@ -139,6 +214,21 @@
       "date": "2026-08-14",
       "timestamp": "2026-08-14T19:50:47+00:00",
       "fetched_at": "2026-08-15T00:25:57.590583+00:00"
+    },
+    {
+      "id": "f76fda258549",
+      "title": "Software Engineer , Professional I - Myworkdayjobs.com",
+      "company": "Zebra",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://zebra.wd501.myworkdayjobs.com/zebra_careers/job/Holtsville-New-York/Software-Engineer--Professional-I_JR102756",
+      "source": "Workday",
+      "description": "Software Engineer , Professional I \u00b7 Successful completion of a Zebra Technologies Internship \u00b7 Belt Certification - Yellow Belt preferred but not ...",
+      "date": "2026-08-14",
+      "timestamp": "2026-08-14T19:47:53+00:00",
+      "fetched_at": "2026-08-15T04:16:10.415894+00:00"
     },
     {
       "id": "393db8b637d8",
