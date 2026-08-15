@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-08-15T08:11:33.065414+00:00",
-  "total_jobs": 7705,
+  "last_updated": "2026-08-15T12:10:12.923156+00:00",
+  "total_jobs": 7710,
   "stats": {
-    "total_companies": 3724,
+    "total_companies": 3725,
     "total_roles": 98,
     "regions": {
-      "India": 4988,
+      "India": 4993,
       "Philippines": 1655,
       "Remote": 958,
       "Unknown": 135
     },
     "sources": {
-      "Other": 6048,
+      "Other": 6052,
       "Greenhouse": 381,
       "Workday": 334,
       "LinkedIn": 312,
       "Ashby": 235,
-      "iCIMS": 92,
+      "iCIMS": 93,
       "Breezy": 85,
       "Lever": 54,
       "Workable": 52,
@@ -36,6 +36,36 @@
   },
   "jobs": [
     {
+      "id": "46626ba32021",
+      "title": "Senior Software Engineer , Global Payroll - Rippling",
+      "company": "Rippling",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/rippling/jobs/bba9e074-2ca9-4cc4-95ae-08801ec21153",
+      "source": "Other",
+      "description": "About the role. As a Senior Software Engineer on the Global Payroll team, you will play a critical role in advancing our full-service payroll platform ...",
+      "date": "2026-08-15",
+      "timestamp": "2026-08-15T10:00:14+00:00",
+      "fetched_at": "2026-08-15T12:10:12.429243+00:00"
+    },
+    {
+      "id": "5e711f8c2c35",
+      "title": "Software Engineer in Indianapolis, Indiana - Liberty Mutual | Careers Center | Welcome",
+      "company": "Liberty Mutual | Careers Center | Welcome",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers-libertymutual.icims.com/jobs/77167/software-engineer/job",
+      "source": "iCIMS",
+      "description": "Indianapolis, IN is now hiring a Software Engineer in Indianapolis, Indiana. Review all of the job details and apply today!",
+      "date": "2026-08-15",
+      "timestamp": "2026-08-15T09:34:30+00:00",
+      "fetched_at": "2026-08-15T12:10:12.429447+00:00"
+    },
+    {
       "id": "06dc2a8091e1",
       "title": "Senior Software Engineer - Careers at Moody's",
       "company": "Moody's",
@@ -49,6 +79,21 @@
       "date": "2026-08-15",
       "timestamp": "2026-08-15T06:18:57+00:00",
       "fetched_at": "2026-08-15T08:11:33.031927+00:00"
+    },
+    {
+      "id": "d2c5844c401e",
+      "title": "Frontend Engineer \u2014 Web Replication Preference Rater - Mercor Jobs",
+      "company": "Mercor Jobs",
+      "role": "Frontend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://work.mercor.com/jobs/list_AAABoAPp1LEAbgpoCqdGza4o/frontend-engineer-web-replication-preference-rater",
+      "source": "Other",
+      "description": "Senior Software Engineer , Full Stack (Python, Java, Rust, C#, C++) ... AI experts share how Mercor made hiring faster, fairer, and easier \u2014 with just ...",
+      "date": "2026-08-15",
+      "timestamp": "2026-08-15T06:12:14+00:00",
+      "fetched_at": "2026-08-15T12:10:12.429853+00:00"
     },
     {
       "id": "e91b0f34af93",
@@ -141,6 +186,21 @@
       "fetched_at": "2026-08-15T04:16:10.285730+00:00"
     },
     {
+      "id": "4e5775fb9889",
+      "title": "Data Engineer /Sr Data Engineer , IT Analytics Job Details - American Airlines Careers",
+      "company": "American Airlines Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.aa.com/job/Fort-Worth-Data-EngineerSr-Data-Engineer,-IT-Analytics-TX-76101/87530-en_US/",
+      "source": "Other",
+      "description": "Data Engineer /Sr Data Engineer , IT Analytics. ... Data Engineer /Sr Data Engineer , IT Analytics. Posting Start Date: 8/14/26.",
+      "date": "2026-08-14",
+      "timestamp": "2026-08-14T23:30:04+00:00",
+      "fetched_at": "2026-08-15T12:10:12.431582+00:00"
+    },
+    {
       "id": "5947fbef383d",
       "title": "Job Application for Senior Software Engineer at Redapt - Greenhouse",
       "company": "Redapt",
@@ -169,6 +229,21 @@
       "date": "2026-08-14",
       "timestamp": "2026-08-14T22:58:09+00:00",
       "fetched_at": "2026-08-15T08:11:32.971530+00:00"
+    },
+    {
+      "id": "87f4d3c698ee",
+      "title": "Senior AWS Platform Engineer , Kuala Lumpur | \u00d8rsted",
+      "company": "\u00d8rsted",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://orsted.com/en/careers/vacancies-list/2026/07/32311-senior-aws-platform-engineer",
+      "source": "Other",
+      "description": "Senior AWS Platform Engineer . Imagine a future where you use digital technology to drive global growth and help create a world that runs entirely ...",
+      "date": "2026-08-14",
+      "timestamp": "2026-08-14T22:56:45+00:00",
+      "fetched_at": "2026-08-15T12:10:12.432097+00:00"
     },
     {
       "id": "fde4eeb1176a",
