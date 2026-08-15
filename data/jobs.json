@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-08-15T04:16:10.447606+00:00",
-  "total_jobs": 7697,
+  "last_updated": "2026-08-15T08:11:33.065414+00:00",
+  "total_jobs": 7705,
   "stats": {
-    "total_companies": 3721,
+    "total_companies": 3724,
     "total_roles": 98,
     "regions": {
-      "India": 4984,
-      "Philippines": 1651,
+      "India": 4988,
+      "Philippines": 1655,
       "Remote": 958,
       "Unknown": 135
     },
     "sources": {
-      "Other": 6043,
-      "Greenhouse": 379,
+      "Other": 6048,
+      "Greenhouse": 381,
       "Workday": 334,
-      "LinkedIn": 311,
+      "LinkedIn": 312,
       "Ashby": 235,
       "iCIMS": 92,
       "Breezy": 85,
@@ -36,6 +36,66 @@
   },
   "jobs": [
     {
+      "id": "06dc2a8091e1",
+      "title": "Senior Software Engineer - Careers at Moody's",
+      "company": "Moody's",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.moodys.com/en/job/new-york/senior-software-engineer/49841/99242674128",
+      "source": "Other",
+      "description": "Employer: Moody's Analytics, Inc. Title: Senior Software Engineer . Location: 7 World Trade Center, 250 Greenwich Street, New York, NY 10007 (Principal ...",
+      "date": "2026-08-15",
+      "timestamp": "2026-08-15T06:18:57+00:00",
+      "fetched_at": "2026-08-15T08:11:33.031927+00:00"
+    },
+    {
+      "id": "e91b0f34af93",
+      "title": "Senior Cloud Engineer - 65494 - MANTECH Careers",
+      "company": "65494 - MANTECH Careers",
+      "role": "Cloud Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.mantech.com/en_US/careers/JobDetail/Senior-Cloud-Engineer/65494",
+      "source": "Other",
+      "description": "MANTECH seeks a motivated, career and customer-oriented Senior AWS Cloud Engineer to join our team in Virginia Beach, VA.",
+      "date": "2026-08-15",
+      "timestamp": "2026-08-15T03:42:26+00:00",
+      "fetched_at": "2026-08-15T08:11:33.032096+00:00"
+    },
+    {
+      "id": "fe20a54c6ce3",
+      "title": "Full Stack Software Engineer , Developer Publications - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200678186-3543/full-stack-software-engineer-developer-publications?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Full Stack Software Engineer , Developer Publications job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-08-15",
+      "timestamp": "2026-08-15T03:23:54+00:00",
+      "fetched_at": "2026-08-15T08:11:32.969372+00:00"
+    },
+    {
+      "id": "8b02157ebf30",
+      "title": "Manager - AI Native Platform Engineer - - 22670 - Macquarie Group",
+      "company": "Manager",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://recruitment.macquarie.com/careers/JobDetail/Manager-AI-Native-Platform-Engineer/22670",
+      "source": "Other",
+      "description": "Manager - AI Native Platform Engineer . Additional office locations. Hyderabad. Job ID. 22670. Date. 23-Jun-2026. Permanent - Full time, Mid-senior.",
+      "date": "2026-08-15",
+      "timestamp": "2026-08-15T00:58:02+00:00",
+      "fetched_at": "2026-08-15T08:11:32.969714+00:00"
+    },
+    {
       "id": "b437b6390bbf",
       "title": "Senior Software Engineer - PKI at Ford Motor Company",
       "company": "Ford Motor Company",
@@ -49,6 +109,21 @@
       "date": "2026-08-15",
       "timestamp": "2026-08-15T00:55:13+00:00",
       "fetched_at": "2026-08-15T04:16:10.285566+00:00"
+    },
+    {
+      "id": "63f1ea33631d",
+      "title": "Staff Software Engineer - Observability job in Bellevue, Washington, United States",
+      "company": "Observability job in Bellevue, Washington, United States",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.snowflake.com/us/en/job/SNCOUSFFDD1D09D4F14D849D664A545AEEBE48EXTERNALENUS1ED263BEF6D141FB8CD7FC99112C2CA1/Staff-Software-Engineer-Observability",
+      "source": "Other",
+      "description": "Senior Software Engineer - Snowflake Streaming. Location Bellevue, Washington, United States Category Engineering ReqId ASHREQ-7510. Prinicpal ...",
+      "date": "2026-08-15",
+      "timestamp": "2026-08-15T00:49:15+00:00",
+      "fetched_at": "2026-08-15T08:11:32.970737+00:00"
     },
     {
       "id": "fe43c439c70e",
@@ -81,6 +156,36 @@
       "fetched_at": "2026-08-15T00:25:57.588067+00:00"
     },
     {
+      "id": "9757b7ea4ac0",
+      "title": "Job Application for Helix AI Engineer , Training Performance at Figure - Greenhouse",
+      "company": "Figureai",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/figureai/jobs/4705296006",
+      "source": "Greenhouse",
+      "description": "Helix AI Engineer , Training Performance. San Jose, CA. Apply. Figure is an AI robotics company developing autonomous general-purpose humanoid robots ...",
+      "date": "2026-08-14",
+      "timestamp": "2026-08-14T22:58:09+00:00",
+      "fetched_at": "2026-08-15T08:11:32.971530+00:00"
+    },
+    {
+      "id": "fde4eeb1176a",
+      "title": "Software Data Engineer - Jobs - Careers at Apple | Madav Kamath | 28 comments - LinkedIn",
+      "company": "Apple",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/posts/madav-kamath-b8135a7b_software-data-engineer-jobs-careers-at-activity-7493871964734803968-ehvc",
+      "source": "LinkedIn",
+      "description": "Software Data Engineer ... Rohit Maan. Software Engineer | Applied AI Engineer | MS AI @ USF ...",
+      "date": "2026-08-14",
+      "timestamp": "2026-08-14T22:25:37+00:00",
+      "fetched_at": "2026-08-15T08:11:33.033783+00:00"
+    },
+    {
       "id": "bbb482f860dd",
       "title": "Principal Supply Chain Data Engineer & Analytics Lead - Bausch + Lomb Careers",
       "company": "Bausch + Lomb Careers",
@@ -109,6 +214,21 @@
       "date": "2026-08-14",
       "timestamp": "2026-08-14T22:14:23+00:00",
       "fetched_at": "2026-08-15T04:16:10.286872+00:00"
+    },
+    {
+      "id": "89fc8a40a7cc",
+      "title": "Job Application for Software Engineer (Starlink) at SpaceX - Greenhouse",
+      "company": "Spacex",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/spacex/jobs/8706510002?gh_jid=8706510002",
+      "source": "Greenhouse",
+      "description": "Software Engineer (Starlink). Hawthorne, CA. Apply. SpaceX was founded ... DATA ENGINEER (STARLINK). At SpaceX, we're leveraging our experience ...",
+      "date": "2026-08-14",
+      "timestamp": "2026-08-14T22:12:03+00:00",
+      "fetched_at": "2026-08-15T08:11:33.034201+00:00"
     },
     {
       "id": "7d5a2269066f",
