@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-08-16T04:22:17.982541+00:00",
-  "total_jobs": 7750,
+  "last_updated": "2026-08-16T08:12:34.408596+00:00",
+  "total_jobs": 7756,
   "stats": {
-    "total_companies": 3738,
+    "total_companies": 3740,
     "total_roles": 98,
     "regions": {
-      "India": 5024,
+      "India": 5028,
       "Philippines": 1662,
-      "Remote": 960,
+      "Remote": 962,
       "Unknown": 135
     },
     "sources": {
-      "Other": 6083,
+      "Other": 6087,
       "Greenhouse": 382,
       "Workday": 335,
-      "LinkedIn": 315,
+      "LinkedIn": 316,
       "Ashby": 237,
       "iCIMS": 93,
       "Breezy": 85,
+      "Workable": 54,
       "Lever": 54,
-      "Workable": 53,
       "SmartRecruiters": 50,
       "Indeed": 29,
       "BrassRing": 10,
@@ -35,6 +35,36 @@
     }
   },
   "jobs": [
+    {
+      "id": "d0e216b80486",
+      "title": "Lead Software Engineer , DevOps (Cloud Operations Resilience Engineering)",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.capitalonecareers.com/job/riverwoods/lead-software-engineer-devops-cloud-operations-resilience-engineering/1732/99286938256",
+      "source": "Other",
+      "description": "Learn more about applying for Lead Software Engineer , DevOps (Cloud Operations Resilience Engineering) at Capital One. ... As a DevOps Engineer , you'll ...",
+      "date": "2026-08-16",
+      "timestamp": "2026-08-16T07:29:54+00:00",
+      "fetched_at": "2026-08-16T08:12:34.174243+00:00"
+    },
+    {
+      "id": "b248a5cfdd54",
+      "title": "Software Engineer , Machine Learning Operations, Manufacturing Quality - Tesla",
+      "company": "Tesla",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.tesla.com/careers/search/job/software-engineer-machine-learning-operations-manufacturing-quality--270071",
+      "source": "Other",
+      "description": "Apply for the Software Engineer , Machine Learning Operations, Manufacturing Quality position in Fremont, California.",
+      "date": "2026-08-16",
+      "timestamp": "2026-08-16T04:47:47+00:00",
+      "fetched_at": "2026-08-16T08:12:34.174573+00:00"
+    },
     {
       "id": "eb3d85b40739",
       "title": "Senior Software Engineer - Streaming (Kafka) - Innovaccer Analytics - Workable Jobs",
@@ -64,6 +94,21 @@
       "date": "2026-08-16",
       "timestamp": "2026-08-16T01:27:40+00:00",
       "fetched_at": "2026-08-16T04:22:17.872775+00:00"
+    },
+    {
+      "id": "6da8b8a5c8ea",
+      "title": "Kubernetes Platform Engineer | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.apexsystems.com/job/3046537_usa/kubernetes-platform-engineer",
+      "source": "Other",
+      "description": "Kubernetes Platform Engineer . Apply. Job#: 3046537. Job Description ... As a DevOps engineer , you will develop, manage, and secure a container ...",
+      "date": "2026-08-15",
+      "timestamp": "2026-08-15T23:48:33+00:00",
+      "fetched_at": "2026-08-16T08:12:34.175050+00:00"
     },
     {
       "id": "0a11551f99c1",
@@ -141,6 +186,21 @@
       "fetched_at": "2026-08-15T20:07:12.243744+00:00"
     },
     {
+      "id": "6e97c08f8fda",
+      "title": "Software Engineer (Remote) at Quik Hire Staffing \u2014 United Arab Emirates | LinkedIn Jobs",
+      "company": "Quik Hire Staffing \u2014 United Arab Emirates",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/4454362655/",
+      "source": "LinkedIn",
+      "description": "We are hiring for one of our clients, seeking a Senior Software Engineer ... Backend Engineer (Go/JS) \u2013 DEX & Web Services. Mintlayer. United Arab ...",
+      "date": "2026-08-15",
+      "timestamp": "2026-08-15T18:59:32+00:00",
+      "fetched_at": "2026-08-16T08:12:34.176042+00:00"
+    },
+    {
       "id": "48161b33d02c",
       "title": "Senior Platform Engineer at Arm - Arm Careers",
       "company": "Arm",
@@ -186,6 +246,21 @@
       "fetched_at": "2026-08-15T20:07:12.244202+00:00"
     },
     {
+      "id": "d6caf90c2b08",
+      "title": "Stripe Careers | Staff Software Engineer , Link",
+      "company": "Stripe Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://stripe.com/careers/listing/staff-software-engineer-link/8082847?utm_source=Alkeon+Capital+job+board&utm_medium=getro.com&gh_src=Alkeon+Capital+job+board",
+      "source": "Other",
+      "description": "Staff Software Engineer , Link. Who we are. About Stripe. Stripe is a financial infrastructure platform for businesses. Millions of companies\u2014from the ...",
+      "date": "2026-08-15",
+      "timestamp": "2026-08-15T18:33:57+00:00",
+      "fetched_at": "2026-08-16T08:12:34.176990+00:00"
+    },
+    {
       "id": "49a75b333227",
       "title": "AI Engineer / AI Developer - - 80666 - Jobs at Lenovo",
       "company": "Lenovo",
@@ -199,6 +274,21 @@
       "date": "2026-08-15",
       "timestamp": "2026-08-15T17:39:33+00:00",
       "fetched_at": "2026-08-15T20:07:12.244343+00:00"
+    },
+    {
+      "id": "55eb8938eb76",
+      "title": "Senior Software Engineer - Delaware Nation Industries - Workable Jobs",
+      "company": "Dnigov",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://apply.workable.com/dnigov/j/46F16A5ABF/?ref=reactjobs.io",
+      "source": "Workable",
+      "description": "DNI is seeking an Senior Software Engineer to support an Artificial Intelligent Support Services program. This is a fully-remote opportunity.",
+      "date": "2026-08-15",
+      "timestamp": "2026-08-15T17:34:59+00:00",
+      "fetched_at": "2026-08-16T08:12:34.177229+00:00"
     },
     {
       "id": "7da1565d5085",
