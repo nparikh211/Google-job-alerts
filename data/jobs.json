@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-08-16T08:12:34.408596+00:00",
-  "total_jobs": 7756,
+  "last_updated": "2026-08-16T12:11:11.977896+00:00",
+  "total_jobs": 7766,
   "stats": {
-    "total_companies": 3740,
-    "total_roles": 98,
+    "total_companies": 3742,
+    "total_roles": 99,
     "regions": {
-      "India": 5028,
-      "Philippines": 1662,
+      "India": 5032,
+      "Philippines": 1668,
       "Remote": 962,
       "Unknown": 135
     },
     "sources": {
-      "Other": 6087,
+      "Other": 6095,
       "Greenhouse": 382,
       "Workday": 335,
-      "LinkedIn": 316,
+      "LinkedIn": 318,
       "Ashby": 237,
       "iCIMS": 93,
       "Breezy": 85,
@@ -36,6 +36,111 @@
   },
   "jobs": [
     {
+      "id": "254808b7ebe5",
+      "title": "Software Engineer , YouTube, Full Stack - Careers - Google",
+      "company": "Careers - Google",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/74698303731573446-software-engineer-youtube-full-stack",
+      "source": "Other",
+      "description": "Senior Software Engineer , Site Reliability Engineering, Google Cloud. Warsaw, Poland. Showing 1 to 20 of 3487 rows. 1\u201120 of 3487. navigate_next ...",
+      "date": "2026-08-16",
+      "timestamp": "2026-08-16T10:57:18+00:00",
+      "fetched_at": "2026-08-16T12:11:11.943514+00:00"
+    },
+    {
+      "id": "280082745263",
+      "title": "Senior/ Principal Software Engineer Access Team (Cortex Platform) at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/senior-principal-software-engineer-access-team-cortex-platform/47263/96174873072",
+      "source": "Other",
+      "description": "Job Summary. As a Principal Backend Engineer on the Access Team, you will be a key technical leader responsible for designing, building, and ...",
+      "date": "2026-08-16",
+      "timestamp": "2026-08-16T10:19:42+00:00",
+      "fetched_at": "2026-08-16T12:11:11.944013+00:00"
+    },
+    {
+      "id": "52451b8f4635",
+      "title": "Frontend Engineer - Mercor Jobs",
+      "company": "Mercor Jobs",
+      "role": "Frontend Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://work.mercor.com/jobs/list_AAABoAPp1LEAbgpoCqdGza4o/frontend-engineer",
+      "source": "Other",
+      "description": "Senior Software Engineer , Full Stack (Python, Java, Rust, C#, C++) ... AI experts share how Mercor made hiring faster, fairer, and easier \u2014 with just ...",
+      "date": "2026-08-16",
+      "timestamp": "2026-08-16T10:06:07+00:00",
+      "fetched_at": "2026-08-16T12:11:11.944166+00:00"
+    },
+    {
+      "id": "98e9a279846a",
+      "title": "Software Engineer I (Bangalore, India) at AiPrise | Y Combinator's Work at a Startup",
+      "company": "AiPrise",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.workatastartup.com/jobs/104681",
+      "source": "Other",
+      "description": "Software Engineer I (Bangalore, India) at AiPrise(S22). AI-powered Global Compliance Platform. Bengaluru, KA, IN / Bengaluru, Karnataka, IN ...",
+      "date": "2026-08-16",
+      "timestamp": "2026-08-16T09:19:28+00:00",
+      "fetched_at": "2026-08-16T12:11:11.628766+00:00"
+    },
+    {
+      "id": "c1204a1c2899",
+      "title": "Software Engineer - HigherEdJobs",
+      "company": "HigherEdJobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.higheredjobs.com/details.cfm?JobCode=179529294",
+      "source": "Other",
+      "description": "Software Engineer \u00b7 About the Center for High Performance Computing (CHPC) \u00b7 About this job opportunity \u00b7 Learn more about the great benefits of working ...",
+      "date": "2026-08-16",
+      "timestamp": "2026-08-16T08:40:38+00:00",
+      "fetched_at": "2026-08-16T12:11:11.629435+00:00"
+    },
+    {
+      "id": "1af431d6f7b5",
+      "title": "AI Engineer , Whole Body Controls, Optimus - Tesla",
+      "company": "Tesla",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.tesla.com/careers/search/job/275999?tags=organicjob",
+      "source": "Other",
+      "description": "AI Engineer , Whole Body Controls, Optimus. Job Category, Tesla AI. Location, Palo Alto, California. Req. ID, 275999. Job Type, Full-time. What to ...",
+      "date": "2026-08-16",
+      "timestamp": "2026-08-16T08:37:35+00:00",
+      "fetched_at": "2026-08-16T12:11:11.944447+00:00"
+    },
+    {
+      "id": "060f273a970d",
+      "title": "Optiml (Z\u00fcrich): Software Engineer - Infrastructure (GCP & Platform) - Join",
+      "company": "Infrastructure (GCP & Platform) - Join",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://join.com/companies/optiml/16583861-software-engineer-infrastructure-gcp-and-platform",
+      "source": "Other",
+      "description": "Optiml has a job opening for Software Engineer - Infrastructure (GCP & Platform) in Z\u00fcrich (published: 20.04.2026). Apply now or check the other ...",
+      "date": "2026-08-16",
+      "timestamp": "2026-08-16T07:45:12+00:00",
+      "fetched_at": "2026-08-16T12:11:11.629911+00:00"
+    },
+    {
       "id": "d0e216b80486",
       "title": "Lead Software Engineer , DevOps (Cloud Operations Resilience Engineering)",
       "company": "Unknown Company",
@@ -49,6 +154,21 @@
       "date": "2026-08-16",
       "timestamp": "2026-08-16T07:29:54+00:00",
       "fetched_at": "2026-08-16T08:12:34.174243+00:00"
+    },
+    {
+      "id": "8777564332e2",
+      "title": "Invertops hiring Software Engineer , Platform in United States | LinkedIn",
+      "company": "LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/software-engineer-platform-at-invertops-4455135011",
+      "source": "LinkedIn",
+      "description": "Senior Software Engineer - DevX. Reddit, Inc. San Francisco, CA 4 days ... Software Engineer , Backend Engineer . Rescale. United States $115,000 ...",
+      "date": "2026-08-16",
+      "timestamp": "2026-08-16T07:01:10+00:00",
+      "fetched_at": "2026-08-16T12:11:11.944848+00:00"
     },
     {
       "id": "b248a5cfdd54",
@@ -66,6 +186,21 @@
       "fetched_at": "2026-08-16T08:12:34.174573+00:00"
     },
     {
+      "id": "1bba57e8705e",
+      "title": "Employee Salary History - City of Miami Beach",
+      "company": "Unknown Company",
+      "role": "Employee Salary History - City of Miami Beach",
+      "regions": [
+        "India"
+      ],
+      "link": "https://apps.miamibeachfl.gov/salaries/Salaries/Details?publicID=8673da80-6426-4bb7-94d7-d5fedd0c56d5",
+      "source": "Other",
+      "description": "2021, SR SYSTEMS ANALYST, $73,918.58 ; 2022, SOFTWARE ENGINEER III, $82,480.35 ; 2023, SOFTWARE ENGINEER III, $87,547.14 ; 2024, SENIOR SOFTWARE ENGINEER ...",
+      "date": "2026-08-16",
+      "timestamp": "2026-08-16T04:33:08+00:00",
+      "fetched_at": "2026-08-16T12:11:11.630911+00:00"
+    },
+    {
       "id": "eb3d85b40739",
       "title": "Senior Software Engineer - Streaming (Kafka) - Innovaccer Analytics - Workable Jobs",
       "company": "Innovaccer Analytics",
@@ -79,6 +214,21 @@
       "date": "2026-08-16",
       "timestamp": "2026-08-16T02:38:22+00:00",
       "fetched_at": "2026-08-16T04:22:17.872102+00:00"
+    },
+    {
+      "id": "ac419db6c257",
+      "title": "Full Stack Engineer ($250k-$300k + Equity) at Caplight - LinkedIn",
+      "company": "Caplight",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/full-stack-engineer-%24250k-%24300k-%2B-equity-at-caplight-at-jack-jill-4453957239",
+      "source": "LinkedIn",
+      "description": "Fullstack Engineer . Circleback. San Francisco, CA $145,000 ... Senior Software Engineer . Marble. San Francisco, CA $180,000 - $250,000 3 ...",
+      "date": "2026-08-16",
+      "timestamp": "2026-08-16T01:30:06+00:00",
+      "fetched_at": "2026-08-16T12:11:11.945405+00:00"
     },
     {
       "id": "ffeb48714c15",
