@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-08-16T00:26:34.203421+00:00",
-  "total_jobs": 7741,
+  "last_updated": "2026-08-16T04:22:17.982541+00:00",
+  "total_jobs": 7750,
   "stats": {
-    "total_companies": 3733,
+    "total_companies": 3738,
     "total_roles": 98,
     "regions": {
-      "India": 5018,
-      "Philippines": 1660,
-      "Remote": 959,
+      "India": 5024,
+      "Philippines": 1662,
+      "Remote": 960,
       "Unknown": 135
     },
     "sources": {
-      "Other": 6076,
+      "Other": 6083,
       "Greenhouse": 382,
-      "Workday": 334,
+      "Workday": 335,
       "LinkedIn": 315,
       "Ashby": 237,
       "iCIMS": 93,
       "Breezy": 85,
       "Lever": 54,
-      "Workable": 52,
+      "Workable": 53,
       "SmartRecruiters": 50,
       "Indeed": 29,
       "BrassRing": 10,
@@ -31,10 +31,40 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-08-15"
+      "latest": "2026-08-16"
     }
   },
   "jobs": [
+    {
+      "id": "eb3d85b40739",
+      "title": "Senior Software Engineer - Streaming (Kafka) - Innovaccer Analytics - Workable Jobs",
+      "company": "Innovaccer Analytics",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://apply.workable.com/innovaccer-analytics/j/08752ACC45/",
+      "source": "Workable",
+      "description": "About the RoleAs a Senior Software Engineer on the Streaming team, you will own the messaging backbone of Innovaccer's on-premise platform: Kafka ...",
+      "date": "2026-08-16",
+      "timestamp": "2026-08-16T02:38:22+00:00",
+      "fetched_at": "2026-08-16T04:22:17.872102+00:00"
+    },
+    {
+      "id": "ffeb48714c15",
+      "title": "(USA) Software Engineer II - Walmart Careers",
+      "company": "Walmart Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.walmart.com/us/en/jobs/R-2561156",
+      "source": "Other",
+      "description": "Position Summary... What you'll do... Role summary: As a Software Engineer II, you will deliver high-quality software solutions by collaborating ...",
+      "date": "2026-08-16",
+      "timestamp": "2026-08-16T01:27:40+00:00",
+      "fetched_at": "2026-08-16T04:22:17.872775+00:00"
+    },
     {
       "id": "0a11551f99c1",
       "title": "every student trying to become an AI engineer after reading Andrew's post:",
@@ -49,6 +79,51 @@
       "date": "2026-08-15",
       "timestamp": "2026-08-15T22:49:22+00:00",
       "fetched_at": "2026-08-16T00:26:34.103605+00:00"
+    },
+    {
+      "id": "503870ea09a8",
+      "title": "Senior Software Engineer - Synthetic Aperture Radar - MathWorks Jobs",
+      "company": "Synthetic Aperture Radar - MathWorks Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://ch.mathworks.com/company/jobs/opportunities/36842-senior-software-engineer-synthetic-aperture-radar?location%5B%5D=19",
+      "source": "Other",
+      "description": "... senior-software-engineer -synthetic-aperture-radar. Close. Save Jobs. Senior Software Engineer - Synthetic Aperture Radar. JavaScript Not Enabled. Your ...",
+      "date": "2026-08-15",
+      "timestamp": "2026-08-15T22:02:10+00:00",
+      "fetched_at": "2026-08-16T04:22:17.949991+00:00"
+    },
+    {
+      "id": "0cde8574a4f9",
+      "title": "Senior AI Engineer /Software Developer - TS/SCI with Polygraph | GDIT",
+      "company": "TS/SCI with Polygraph | GDIT",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.gdit.com/careers/job/f9bf3ddc9/senior-ai-engineersoftware-developer-tssci-with-polygraph/?source=AutoAppend_HBCU",
+      "source": "Other",
+      "description": "Job Description. Role Overview We are seeking a senior AI Engineer to lead the design, development, and secure integration of AI and machine learning ...",
+      "date": "2026-08-15",
+      "timestamp": "2026-08-15T21:10:43+00:00",
+      "fetched_at": "2026-08-16T04:22:17.873319+00:00"
+    },
+    {
+      "id": "34489becbe2b",
+      "title": "Senior Software Engineer - Myworkdayjobs.com",
+      "company": "Sailpoint",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/Headquarters-Austin-Texas-USA/Senior-Software-Engineer_R014030-1",
+      "source": "Workday",
+      "description": "Senior Software Engineer ; 1. Developing Java based RESTful microservices; ; 3. Developing and maintaining CI/CD pipelines utilizing Maven and Jenkins;.",
+      "date": "2026-08-15",
+      "timestamp": "2026-08-15T20:55:10+00:00",
+      "fetched_at": "2026-08-16T04:22:17.873440+00:00"
     },
     {
       "id": "12dbba30a024",
@@ -81,6 +156,21 @@
       "fetched_at": "2026-08-15T20:07:12.244012+00:00"
     },
     {
+      "id": "59adbadd3b3f",
+      "title": "Senior Full-Stack Engineer | Remote Work With EPAM",
+      "company": "Senior Full",
+      "role": "Stack Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.epam.com/en/vacancy/senior-full-stack-engineer-blt5svg4z1fqtojlso0_en",
+      "source": "Other",
+      "description": "Senior Full-Stack Engineer position. Join the EPAM team to build ... As a Software Engineer on this team, you will work at the intersection ...",
+      "date": "2026-08-15",
+      "timestamp": "2026-08-15T18:44:37+00:00",
+      "fetched_at": "2026-08-16T04:22:17.874277+00:00"
+    },
+    {
       "id": "b6d917a61d73",
       "title": "Glider AI hiring AI Engineer in Raleigh, NC | LinkedIn",
       "company": "LinkedIn",
@@ -111,6 +201,21 @@
       "fetched_at": "2026-08-15T20:07:12.244343+00:00"
     },
     {
+      "id": "7da1565d5085",
+      "title": "Careers at Sony Interactive Entertainment I Staff Software Engineer \u2013 Data",
+      "company": "Sony Interactive Entertainment I Staff Software Engineer \u2013 Data",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.playstation.com/staff-software-engineer-data/job/6141163004",
+      "source": "Other",
+      "description": "Join Sony Interactive Entertainment in San Diego, CA! Apply for the Staff Software Engineer \u2013 Data role today and start your journey with us.",
+      "date": "2026-08-15",
+      "timestamp": "2026-08-15T17:18:10+00:00",
+      "fetched_at": "2026-08-16T04:22:17.951074+00:00"
+    },
+    {
       "id": "8e5cbc2d97d7",
       "title": "Nexthink Senior AI Engineer | SmartRecruiters",
       "company": "Nexthink",
@@ -139,6 +244,21 @@
       "date": "2026-08-15",
       "timestamp": "2026-08-15T16:43:12+00:00",
       "fetched_at": "2026-08-15T20:07:12.244555+00:00"
+    },
+    {
+      "id": "89fa993e7758",
+      "title": "Software Engineer - Backend (Node.js/ Python) 8+ years in Bangalore, India - Cisco Careers",
+      "company": "Backend (Node.js/ Python) 8+ years in Bangalore, India - Cisco Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2021704EXTERNALENGLOBAL/Software-Engineer-Backend-Node-js-Python-8-years",
+      "source": "Other",
+      "description": "DevOps Engineer \u2013 Any database stack | AWS | Terraform | Ansible ... Senior Site Reliability Engineer - Python | Go | Kubernetes | DevOps ...",
+      "date": "2026-08-15",
+      "timestamp": "2026-08-15T16:43:12+00:00",
+      "fetched_at": "2026-08-16T04:22:17.874994+00:00"
     },
     {
       "id": "53240ade11e7",
@@ -199,6 +319,21 @@
       "date": "2026-08-15",
       "timestamp": "2026-08-15T15:09:15+00:00",
       "fetched_at": "2026-08-15T16:07:40.578598+00:00"
+    },
+    {
+      "id": "904205736f44",
+      "title": "Senior Software Engineer \u2013 Locomotives - Job Detail | Careers Marketplace - Siemens",
+      "company": "Job Detail | Careers Marketplace - Siemens",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/518064",
+      "source": "Other",
+      "description": "As a Senior Software Engineer , you will play a key role in developing, integrating, validating, and sustaining locomotive control software solutions ...",
+      "date": "2026-08-15",
+      "timestamp": "2026-08-15T15:09:07+00:00",
+      "fetched_at": "2026-08-16T04:22:17.876054+00:00"
     },
     {
       "id": "1f507fead3b2",
