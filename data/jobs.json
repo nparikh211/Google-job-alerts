@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-08-15T20:07:12.369534+00:00",
-  "total_jobs": 7733,
+  "last_updated": "2026-08-16T00:26:34.203421+00:00",
+  "total_jobs": 7741,
   "stats": {
-    "total_companies": 3731,
+    "total_companies": 3733,
     "total_roles": 98,
     "regions": {
-      "India": 5011,
+      "India": 5018,
       "Philippines": 1660,
-      "Remote": 958,
+      "Remote": 959,
       "Unknown": 135
     },
     "sources": {
-      "Other": 6070,
-      "Greenhouse": 381,
+      "Other": 6076,
+      "Greenhouse": 382,
       "Workday": 334,
       "LinkedIn": 315,
       "Ashby": 237,
@@ -20,7 +20,7 @@
       "Breezy": 85,
       "Lever": 54,
       "Workable": 52,
-      "SmartRecruiters": 49,
+      "SmartRecruiters": 50,
       "Indeed": 29,
       "BrassRing": 10,
       "Jobvite": 8,
@@ -35,6 +35,21 @@
     }
   },
   "jobs": [
+    {
+      "id": "0a11551f99c1",
+      "title": "every student trying to become an AI engineer after reading Andrew's post:",
+      "company": "Unknown Company",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://x.com/DataChaz/status/2088646154833514736",
+      "source": "Other",
+      "description": "... AI Engineer \u201d role ... All developers today should know how to work with the cloud, and only a smaller number have a \u201c Cloud engineer \u201d title.",
+      "date": "2026-08-15",
+      "timestamp": "2026-08-15T22:49:22+00:00",
+      "fetched_at": "2026-08-16T00:26:34.103605+00:00"
+    },
     {
       "id": "12dbba30a024",
       "title": "A Google Cloud engineer just showed how to build a complete application with Claude from scratch",
@@ -94,6 +109,21 @@
       "date": "2026-08-15",
       "timestamp": "2026-08-15T17:39:33+00:00",
       "fetched_at": "2026-08-15T20:07:12.244343+00:00"
+    },
+    {
+      "id": "8e5cbc2d97d7",
+      "title": "Nexthink Senior AI Engineer | SmartRecruiters",
+      "company": "Nexthink",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.smartrecruiters.com/Nexthink/744000143525589-senior-ai-engineer",
+      "source": "SmartRecruiters",
+      "description": "... AI Engineer ! As a senior ... Senior Backend Engineer / Technical Lead. Lausanne, Switzerland. Staff/ Senior Software Engineer - Desktop Application.",
+      "date": "2026-08-15",
+      "timestamp": "2026-08-15T16:45:15+00:00",
+      "fetched_at": "2026-08-16T00:26:34.104511+00:00"
     },
     {
       "id": "6014143eabeb",
@@ -186,6 +216,51 @@
       "fetched_at": "2026-08-15T16:07:40.578820+00:00"
     },
     {
+      "id": "bd8181a91e19",
+      "title": "Jobs I've held: \u2022 Software Engineer (age 20)",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://x.com/ChShersh/status/2088516115882267024",
+      "source": "Other",
+      "description": "Dmitrii Kovanikov (@ChShersh). 442 likes 37 replies. Jobs I've held: \u2022 Software Engineer (age 20) \u2022 Software Engineer (age 21) \u2022 Software Engineer ...",
+      "date": "2026-08-15",
+      "timestamp": "2026-08-15T14:52:12+00:00",
+      "fetched_at": "2026-08-16T00:26:34.105759+00:00"
+    },
+    {
+      "id": "15a6e3a417c6",
+      "title": "Senior Backend Engineer , Integrations - 100% Remote - EMEA - Hostaway Careers",
+      "company": "100% Remote - EMEA - Hostaway Careers",
+      "role": "Backend Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.hostaway.com/o/senior-backend-engineer-integrations-100-remote-emea-4",
+      "source": "Other",
+      "description": "Job requirements \u00b7 6+ years of experience as a Backend Engineer , with a strong foundation in software engineering, \u00b7 Strong-level proficiency in PHP and ...",
+      "date": "2026-08-15",
+      "timestamp": "2026-08-15T14:47:52+00:00",
+      "fetched_at": "2026-08-16T00:26:34.105985+00:00"
+    },
+    {
+      "id": "776a0dd252c5",
+      "title": "Job Application for Software Engineer (Starlink) at SpaceX - Greenhouse",
+      "company": "Spacex",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/spacex/jobs/8706510002",
+      "source": "Greenhouse",
+      "description": "Software Engineer (Starlink). Hawthorne, CA. Apply. SpaceX was founded ... DATA ENGINEER (STARLINK). At SpaceX, we're leveraging our experience ...",
+      "date": "2026-08-15",
+      "timestamp": "2026-08-15T14:19:38+00:00",
+      "fetched_at": "2026-08-16T00:26:34.106079+00:00"
+    },
+    {
       "id": "7754cf78d0fd",
       "title": "A Google Cloud engineer just showed how to build a complete application with Claude from ...",
       "company": "Unknown Company",
@@ -246,6 +321,21 @@
       "fetched_at": "2026-08-15T20:07:12.337587+00:00"
     },
     {
+      "id": "7b32405d820a",
+      "title": "Software Engineer Streaming/Messaging in Bengaluru, India - eBay Jobs",
+      "company": "eBay Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ebayinc.com/us/en/job/R0075939/Software-Engineer-Streaming-Messaging",
+      "source": "Other",
+      "description": "Software Engineer Streaming/Messaging. Apply Now ... Senior Software Engineer - Cloud DBs. Location Bengaluru, India. Sr Platform Engineer , Java Fmwk.",
+      "date": "2026-08-15",
+      "timestamp": "2026-08-15T13:56:18+00:00",
+      "fetched_at": "2026-08-16T00:26:34.171822+00:00"
+    },
+    {
       "id": "e29144d18e17",
       "title": "Software Engineer III - Python / AI - JPMC Candidate Experience page Careers",
       "company": "Python / AI - JPMC Candidate Experience page Careers",
@@ -259,6 +349,36 @@
       "date": "2026-08-15",
       "timestamp": "2026-08-15T12:52:12+00:00",
       "fetched_at": "2026-08-15T16:07:40.662101+00:00"
+    },
+    {
+      "id": "e290567fc7c5",
+      "title": "Cloud Engineer - - 22927 - Macquarie Group",
+      "company": "- 22927 - Macquarie Group",
+      "role": "Cloud Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://recruitment.macquarie.com/careers/JobDetail/Cloud-Engineer/22927",
+      "source": "Other",
+      "description": "As a Cloud Engineer , you will play a pivotal role in bridging our infrastructure and software development teams, enabling engineers to build, deploy ...",
+      "date": "2026-08-15",
+      "timestamp": "2026-08-15T12:37:58+00:00",
+      "fetched_at": "2026-08-16T00:26:34.106674+00:00"
+    },
+    {
+      "id": "a4ca1fe29d79",
+      "title": "Senior Software Engineer , Gmail Abuse and Safety Protections \u2014 Google Careers",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/122568463024562886-senior-software-engineer-gmail-abuse-and-safety-protections",
+      "source": "Other",
+      "description": "Senior Software Engineer , Gmail Abuse and Safety Protections. share. linkCopy link; emailEmail a friend. corporate_fareGoogleplaceSunnyvale, CA, USA.",
+      "date": "2026-08-15",
+      "timestamp": "2026-08-15T12:27:35+00:00",
+      "fetched_at": "2026-08-16T00:26:34.106949+00:00"
     },
     {
       "id": "8b2aefad9517",
