@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-08-17T16:10:41.155822+00:00",
-  "total_jobs": 7835,
+  "last_updated": "2026-08-17T20:10:57.702672+00:00",
+  "total_jobs": 7853,
   "stats": {
-    "total_companies": 3767,
+    "total_companies": 3774,
     "total_roles": 99,
     "regions": {
-      "India": 5071,
-      "Philippines": 1688,
-      "Remote": 972,
+      "India": 5085,
+      "Philippines": 1691,
+      "Remote": 975,
       "Unknown": 135
     },
     "sources": {
-      "Other": 6151,
-      "Greenhouse": 383,
-      "Workday": 336,
+      "Other": 6167,
+      "Greenhouse": 384,
+      "Workday": 337,
       "LinkedIn": 326,
       "Ashby": 237,
       "iCIMS": 94,
@@ -36,6 +36,233 @@
   },
   "jobs": [
     {
+      "id": "5825b44d2b8f",
+      "title": "Sr. Lead Platform Engineer - Richmond - Capital One Career",
+      "company": "Richmond - Capital One Career",
+      "role": "Platform Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.capitalonecareers.com/job/richmond/sr-lead-platform-engineer/1732/99356347552",
+      "source": "Other",
+      "description": "Sr. Lead Platform Engineer . Richmond, Virginia | Plano ... Lead Software Engineer (Full Stack) - Intelligent Foundations and Experiences (IFX).",
+      "date": "2026-08-17",
+      "timestamp": "2026-08-17T19:28:11+00:00",
+      "fetched_at": "2026-08-17T20:10:57.666826+00:00"
+    },
+    {
+      "id": "c3f4b09a437e",
+      "title": "Software Engineer in Huntsville, Alabama (Hybrid Remote) - Leidos Careers",
+      "company": "Leidos Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India",
+        "Remote"
+      ],
+      "link": "https://careers.leidos.com/jobs/18126905-software-engineer",
+      "source": "Other",
+      "description": "Leidos Defense Systems is seeking a talented Software Engineer to develop high-performance applications supporting Hardware-in-the-loop laboratories ...",
+      "date": "2026-08-17",
+      "timestamp": "2026-08-17T19:22:54+00:00",
+      "fetched_at": "2026-08-17T20:10:57.666982+00:00"
+    },
+    {
+      "id": "131627aa4fca",
+      "title": "Lead Software Engineer , DevOps at Capital One",
+      "company": "Capital One",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.capitalonecareers.com/job/riverwoods/lead-software-engineer-devops/1732/99354651056",
+      "source": "Other",
+      "description": "Lead Software Engineer , DevOps. Riverwoods, Illinois Pin job. Apply. Category ... As a DevOps Engineer , you'll have the opportunity to be on the ...",
+      "date": "2026-08-17",
+      "timestamp": "2026-08-17T18:29:57+00:00",
+      "fetched_at": "2026-08-17T20:10:57.590911+00:00"
+    },
+    {
+      "id": "5e9f15f4d406",
+      "title": "Full Stack Engineer (Remote) | Lititz, PA - Clark Associates | Careers",
+      "company": "Lititz, PA - Clark Associates | Careers",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Philippines",
+        "Remote"
+      ],
+      "link": "https://careers.clarkassociatesinc.biz/careerdetail/?id=102957",
+      "source": "Other",
+      "description": "Job Summary. We are looking for a Full Stack Engineer to join our centralized development team, where you'll help design, build, and maintain the ...",
+      "date": "2026-08-17",
+      "timestamp": "2026-08-17T18:03:36+00:00",
+      "fetched_at": "2026-08-17T20:10:57.591609+00:00"
+    },
+    {
+      "id": "7010266c5f20",
+      "title": "Graduate Software Engineer - Optiver",
+      "company": "Optiver",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.optiver.com/join-us/jobs/technology/london/graduate-software-engineer/",
+      "source": "Other",
+      "description": "Graduate Software Engineer . ... We welcome you to re-apply after the 8-month cool off period. Open positions. AI Engineer .",
+      "date": "2026-08-17",
+      "timestamp": "2026-08-17T17:26:32+00:00",
+      "fetched_at": "2026-08-17T20:10:57.591767+00:00"
+    },
+    {
+      "id": "93ac8ad0540c",
+      "title": "Senior Software Engineer - Security Frameworks - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200674183-3337/senior-software-engineer-security-frameworks?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Senior Software Engineer - Security Frameworks job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-08-17",
+      "timestamp": "2026-08-17T17:22:37+00:00",
+      "fetched_at": "2026-08-17T20:10:57.591965+00:00"
+    },
+    {
+      "id": "edaf660f59d0",
+      "title": "Software Engineer , App Store - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200678254-0836/software-engineer-app-store?team=SFTWR",
+      "source": "Other",
+      "description": "Software Engineer , App Store. Cupertino, California, United States ... As a Frontend Engineer on Apple Services Engineering, you will build ...",
+      "date": "2026-08-17",
+      "timestamp": "2026-08-17T17:20:35+00:00",
+      "fetched_at": "2026-08-17T20:10:57.667799+00:00"
+    },
+    {
+      "id": "a993549f6a5f",
+      "title": "Software Engineer , Model Deployment- ChatGPT Engineering | OpenAI",
+      "company": "Software Engineer , Model Deployment",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://openai.com/careers/software-engineer-model-deployment-chatgpt-engineering-london-uk/",
+      "source": "Other",
+      "description": "About the Role. We are looking for a software engineer with experience building or operating large-scale production systems. You will design and ...",
+      "date": "2026-08-17",
+      "timestamp": "2026-08-17T17:00:54+00:00",
+      "fetched_at": "2026-08-17T20:10:57.592211+00:00"
+    },
+    {
+      "id": "9942363b218b",
+      "title": "Software Engineer in Columbia, Maryland (No Remote) - Leidos Careers",
+      "company": "Leidos Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.leidos.com/jobs/18126222-software-engineer",
+      "source": "Other",
+      "description": "Software Engineer \u00b7 Design, develop, and maintain Python-based automation tools and infrastructure solutions supporting enterprise and mission ...",
+      "date": "2026-08-17",
+      "timestamp": "2026-08-17T16:59:51+00:00",
+      "fetched_at": "2026-08-17T20:10:57.592357+00:00"
+    },
+    {
+      "id": "6972a6981150",
+      "title": "Software Engineer / Sr. Software Engineer , Planning Selection (Autonomy) - Greenhouse",
+      "company": "Didi",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/didi/jobs/8131850",
+      "source": "Greenhouse",
+      "description": "Software Engineer / Sr. ... The base salary range for the Software Engineer position is $141,463\u2013$235,182 annually, and for the Senior Software Engineer ...",
+      "date": "2026-08-17",
+      "timestamp": "2026-08-17T16:50:35+00:00",
+      "fetched_at": "2026-08-17T20:10:57.592456+00:00"
+    },
+    {
+      "id": "a74e53f1680c",
+      "title": "Data Engineer II - Myworkdayjobs.com",
+      "company": "Recar",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://recar.wd108.myworkdayjobs.com/en-US/SLATEcareers/job/Data-Engineer-II_JR101134",
+      "source": "Workday",
+      "description": "an experienced Data Engineer ... Slate is looking for an experienced Data Engineer II to help our company be successful in the electric vehicle space.",
+      "date": "2026-08-17",
+      "timestamp": "2026-08-17T16:26:56+00:00",
+      "fetched_at": "2026-08-17T20:10:57.592546+00:00"
+    },
+    {
+      "id": "d15282b945f7",
+      "title": "Software Engineer in Bangalore, India | Product and Engineering at Cisco - Cisco Careers",
+      "company": "Cisco",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2018976EXTERNALENGLOBAL/Software-Engineer",
+      "source": "Other",
+      "description": "We are expanding our team: As a Software Engineer (AI), you will design and develop generative AI applications, collaborating with cross-functional ...",
+      "date": "2026-08-17",
+      "timestamp": "2026-08-17T16:19:47+00:00",
+      "fetched_at": "2026-08-17T20:10:57.592700+00:00"
+    },
+    {
+      "id": "1baca407e0a7",
+      "title": "Software Engineer in Bangalore, India | Product and Engineering at Cisco - Cisco Careers",
+      "company": "Cisco",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2021600EXTERNALENGLOBAL/Software-Engineer",
+      "source": "Other",
+      "description": "As a Software Engineer on the Cisco IQ Configuration team, you will help build a new module from proof of concept through production delivery for SaaS ...",
+      "date": "2026-08-17",
+      "timestamp": "2026-08-17T16:15:44+00:00",
+      "fetched_at": "2026-08-17T20:10:57.592847+00:00"
+    },
+    {
+      "id": "4652359b4a72",
+      "title": "2027 Software Engineer , Enterprise Technology Services- New York, NY",
+      "company": "New York, NY",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082",
+      "source": "Other",
+      "description": "Campus Graduate Masters Summer Internship Program - 2027 Software Engineer , Enterprise Technology Services- New York, NY ... \u2022 Site Reliability Engineer ...",
+      "date": "2026-08-17",
+      "timestamp": "2026-08-17T16:15:11+00:00",
+      "fetched_at": "2026-08-17T20:10:57.592989+00:00"
+    },
+    {
+      "id": "493d390f2ff2",
+      "title": "Senior Software Engineer - Software Integration Manager - General Motors Careers",
+      "company": "Senior Software Engineer",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://search-careers.gm.com/en/jobs/jr-202618054/senior-software-engineer-software-integration-manager/",
+      "source": "Other",
+      "description": "Senior Software Engineer - Software Integration Manager. Location ... Senior Software Engineer - Safety Design. Save Saved. Milford, Michigan ...",
+      "date": "2026-08-17",
+      "timestamp": "2026-08-17T16:08:46+00:00",
+      "fetched_at": "2026-08-17T20:10:57.593200+00:00"
+    },
+    {
       "id": "5018823a9ba5",
       "title": "Software Engineer III, RCS Business Messaging - Careers - Google",
       "company": "Careers - Google",
@@ -51,6 +278,21 @@
       "fetched_at": "2026-08-17T16:10:40.922772+00:00"
     },
     {
+      "id": "9586c52601c2",
+      "title": "Senior Data Engineer , DX in Salt Lake City, Utah | Atlassian",
+      "company": "Atlassian",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://join.atlassian.com/atlassian-talent-community/jobs/26572?lang=en-us",
+      "source": "Other",
+      "description": "Atlassian Talent Community (MAIN) is hiring a Senior Data Engineer , DX in Salt Lake City, Utah. Review all of the job details and apply today!",
+      "date": "2026-08-17",
+      "timestamp": "2026-08-17T15:08:00+00:00",
+      "fetched_at": "2026-08-17T20:10:57.593593+00:00"
+    },
+    {
       "id": "0f7c0ea48783",
       "title": "Seasonal Associate, Cloud Engineer (Remote) in Reston, Virginia, United States of America",
       "company": "Unknown Company",
@@ -64,6 +306,36 @@
       "date": "2026-08-17",
       "timestamp": "2026-08-17T15:00:36+00:00",
       "fetched_at": "2026-08-17T16:10:40.922936+00:00"
+    },
+    {
+      "id": "ab43e3f372cd",
+      "title": "Lead AI Engineer in Singapore, Singapore, 188537 | AI & Data at Mastercard",
+      "company": "Mastercard",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mastercard.com/us/en/job/R-288104/Lead-AI-Engineer",
+      "source": "Other",
+      "description": "Apply for Lead AI Engineer job with Mastercard in Singapore, Singapore, 188537. AI & Data at Mastercard.",
+      "date": "2026-08-17",
+      "timestamp": "2026-08-17T14:45:44+00:00",
+      "fetched_at": "2026-08-17T20:10:57.593809+00:00"
+    },
+    {
+      "id": "96758c2ea86f",
+      "title": "Senior Software Engineer , Data Platform - Carrum Health - Kula",
+      "company": "Carrum Health - Kula",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.kula.ai/carrum-health/52343?jobs=true",
+      "source": "Other",
+      "description": "Every new client launch, every data provider switch, every recurring claims load consumes engineering time. We are hiring a Senior Software Engineer , ...",
+      "date": "2026-08-17",
+      "timestamp": "2026-08-17T14:36:42+00:00",
+      "fetched_at": "2026-08-17T20:10:57.593932+00:00"
     },
     {
       "id": "d546dc038b05",
