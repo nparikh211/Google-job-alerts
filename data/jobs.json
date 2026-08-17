@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-08-16T20:05:47.038506+00:00",
-  "total_jobs": 7782,
+  "last_updated": "2026-08-17T00:25:46.416647+00:00",
+  "total_jobs": 7788,
   "stats": {
-    "total_companies": 3750,
+    "total_companies": 3754,
     "total_roles": 99,
     "regions": {
-      "India": 5038,
-      "Philippines": 1678,
+      "India": 5043,
+      "Philippines": 1679,
       "Remote": 962,
       "Unknown": 135
     },
     "sources": {
-      "Other": 6108,
+      "Other": 6112,
       "Greenhouse": 382,
-      "Workday": 335,
-      "LinkedIn": 319,
+      "Workday": 336,
+      "LinkedIn": 320,
       "Ashby": 237,
       "iCIMS": 93,
       "Breezy": 86,
@@ -36,6 +36,36 @@
   },
   "jobs": [
     {
+      "id": "315be128937f",
+      "title": "It Still Takes a Software Engineer to Point the Gun | by David Lee | Aug, 2026 | Medium",
+      "company": "by David Lee | Aug, 2026 | Medium",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://medium.com/@lordmoma/it-still-takes-a-software-engineer-to-point-the-gun-aad34faa7b28",
+      "source": "Other",
+      "description": "It Still Takes a Software Engineer to Point the Gun Why AI turned the boring fundamentals into the highest-leverage skill on your team, ...",
+      "date": "2026-08-16",
+      "timestamp": "2026-08-16T23:22:44+00:00",
+      "fetched_at": "2026-08-17T00:25:46.382633+00:00"
+    },
+    {
+      "id": "37a7a5193eb4",
+      "title": "Data Engineer - Myworkdayjobs.com",
+      "company": "Ttc",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Pune-IN/Data-Engineer_JR16919/apply",
+      "source": "Workday",
+      "description": "Data Engineer . When applying manually using an Android device, do not use browser autofill. With certain browsers, it is known to disrupt the apply ...",
+      "date": "2026-08-16",
+      "timestamp": "2026-08-16T21:22:29+00:00",
+      "fetched_at": "2026-08-17T00:25:46.213367+00:00"
+    },
+    {
       "id": "d2f7372903ac",
       "title": "Senior Full stack Engineer ( Software Engineer III) - OpportunityDetail.Index.PageTitle",
       "company": "OpportunityDetail.Index.PageTitle",
@@ -49,6 +79,36 @@
       "date": "2026-08-16",
       "timestamp": "2026-08-16T19:48:23+00:00",
       "fetched_at": "2026-08-16T20:05:46.787237+00:00"
+    },
+    {
+      "id": "6a32a4108ab9",
+      "title": "Staff Machine Learning Engineer - League of Legends | Riot Games",
+      "company": "League of Legends | Riot Games",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.riotgames.com/th/work-with-us/job/7981132/staff-machine-learning-engineer-league-of-legends-los-angeles-usa",
+      "source": "Other",
+      "description": "Staff Machine Learning Engineer - League of Legends. Los Angeles, USA. Job Id: REQ-0010055. At Riot, we are investing in League of Legends to grow ...",
+      "date": "2026-08-16",
+      "timestamp": "2026-08-16T19:09:20+00:00",
+      "fetched_at": "2026-08-17T00:25:46.215211+00:00"
+    },
+    {
+      "id": "1dd7b240baf3",
+      "title": "Senior Software Engineer at Rivet | Y Combinator",
+      "company": "Rivet",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.ycombinator.com/companies/rivet/jobs/2LH56YT-senior-software-engineer",
+      "source": "Other",
+      "description": "Senior Software Engineer About Rivet Rivet is infrastructure for AI agents ... Senior Backend Engineer \u00b7 Tamarind Bio \u00b7 Infrastructure ...",
+      "date": "2026-08-16",
+      "timestamp": "2026-08-16T19:03:54+00:00",
+      "fetched_at": "2026-08-17T00:25:46.215377+00:00"
     },
     {
       "id": "8c85eadde232",
@@ -171,6 +231,21 @@
       "fetched_at": "2026-08-16T20:05:47.009158+00:00"
     },
     {
+      "id": "c88a74b2d2fe",
+      "title": "Senior Data Engineer - Supply Chain & Analytics Platforms - Intuitive Surgical Careers",
+      "company": "Supply Chain & Analytics Platforms - Intuitive Surgical Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.intuitive.com/jp/jobs/744000140379169/JOB215564/senior-data-engineer-supply-chain-analytics-platforms/?source=indeed",
+      "source": "Other",
+      "description": "Senior Data Engineer - Supply Chain & Analytics Platforms. Bengaluru ... Senior Software Engineer . Save Saved. Sunnyvale, CA, United States.",
+      "date": "2026-08-16",
+      "timestamp": "2026-08-16T12:27:43+00:00",
+      "fetched_at": "2026-08-17T00:25:46.216662+00:00"
+    },
+    {
       "id": "0b0e4d10aa76",
       "title": "Senior Healthcare Platform Engineer - Raydar - Workable Jobs",
       "company": "Raydar",
@@ -184,6 +259,21 @@
       "date": "2026-08-16",
       "timestamp": "2026-08-16T12:16:56+00:00",
       "fetched_at": "2026-08-16T16:08:23.252443+00:00"
+    },
+    {
+      "id": "7c44eaafb2cf",
+      "title": "Alumni Founders hiring Senior Platform Engineer (DevX) in Los Angeles, CA | LinkedIn",
+      "company": "LinkedIn",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/senior-platform-engineer-devx-at-alumni-founders-4451764577",
+      "source": "LinkedIn",
+      "description": "Senior Site Reliability Engineer , Data & Analytics. Blizzard ... Senior Software Engineer - DevX. Senior Software Engineer - DevX.",
+      "date": "2026-08-16",
+      "timestamp": "2026-08-16T12:12:38+00:00",
+      "fetched_at": "2026-08-17T00:25:46.216868+00:00"
     },
     {
       "id": "1de28c7b94c6",
