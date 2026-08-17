@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-08-17T04:27:32.770752+00:00",
-  "total_jobs": 7796,
+  "last_updated": "2026-08-17T08:26:44.230207+00:00",
+  "total_jobs": 7800,
   "stats": {
-    "total_companies": 3758,
+    "total_companies": 3759,
     "total_roles": 99,
     "regions": {
-      "India": 5050,
+      "India": 5051,
       "Philippines": 1680,
-      "Remote": 962,
+      "Remote": 965,
       "Unknown": 135
     },
     "sources": {
-      "Other": 6117,
+      "Other": 6119,
       "Greenhouse": 383,
       "Workday": 336,
-      "LinkedIn": 321,
+      "LinkedIn": 323,
       "Ashby": 237,
       "iCIMS": 94,
       "Breezy": 86,
@@ -35,6 +35,66 @@
     }
   },
   "jobs": [
+    {
+      "id": "2f2fd03c7b09",
+      "title": "Senior Software Engineer in Pune, India, 411006 - Mastercard",
+      "company": "Mastercard",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mastercard.com/us/en/job/R-287893/Senior-Software-Engineer",
+      "source": "Other",
+      "description": "Apply for Senior Software Engineer job with Mastercard in Pune, India, 411006. Engineering at Mastercard.",
+      "date": "2026-08-17",
+      "timestamp": "2026-08-17T04:50:38+00:00",
+      "fetched_at": "2026-08-17T08:26:43.955672+00:00"
+    },
+    {
+      "id": "a277be7bf90a",
+      "title": "Staff Software Engineer , Voice AI Platform - Remote, United States - Toast",
+      "company": "Remote, United States - Toast",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.toasttab.com/jobs/staff-software-engineer-voice-ai-platform-remote-united-states?gh_jid=8131117",
+      "source": "Other",
+      "description": "As a Staff Software Engineer on this team, you'll take ownership of significant projects end-to-end: designing systems, driving execution across the ...",
+      "date": "2026-08-17",
+      "timestamp": "2026-08-17T04:30:09+00:00",
+      "fetched_at": "2026-08-17T08:26:43.956030+00:00"
+    },
+    {
+      "id": "73690ce9deff",
+      "title": "Hire Feed hiring Software Engineer (Remote) in United Arab Emirates | LinkedIn",
+      "company": "LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/software-engineer-remote-at-hire-feed-4455222998?_l=en",
+      "source": "LinkedIn",
+      "description": "Backend Engineer (Go/JS) \u2013 DEX & Web Services. Mintlayer. United Arab Emirates 1 month ago. Senior Software Engineer . Senior Software Engineer .",
+      "date": "2026-08-17",
+      "timestamp": "2026-08-17T03:23:08+00:00",
+      "fetched_at": "2026-08-17T08:26:43.956504+00:00"
+    },
+    {
+      "id": "d23c2ab77617",
+      "title": "Hire Feed hiring Software Engineer - E-Commerce (Remote) in EMEA | LinkedIn",
+      "company": "E-Commerce (Remote) in EMEA | LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/software-engineer-e-commerce-remote-at-hire-feed-4455214891",
+      "source": "LinkedIn",
+      "description": "Senior Software Engineer . Inspiration Commerce Group. London, England ... Mid-level Backend Engineer (Remote) - UK. AlphaSights. London, England ...",
+      "date": "2026-08-17",
+      "timestamp": "2026-08-17T02:06:23+00:00",
+      "fetched_at": "2026-08-17T08:26:43.956700+00:00"
+    },
     {
       "id": "f729002c5892",
       "title": "Senior Software Engineer - Salesforce, LWC, Integration, Platform Events",
