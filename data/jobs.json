@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-08-19T12:16:27.827103+00:00",
-  "total_jobs": 7956,
+  "last_updated": "2026-08-19T16:14:50.510766+00:00",
+  "total_jobs": 7968,
   "stats": {
-    "total_companies": 3803,
+    "total_companies": 3807,
     "total_roles": 100,
     "regions": {
-      "India": 5153,
-      "Philippines": 1713,
-      "Remote": 988,
+      "India": 5161,
+      "Philippines": 1714,
+      "Remote": 992,
       "Unknown": 135
     },
     "sources": {
-      "Other": 6250,
-      "Greenhouse": 388,
+      "Other": 6259,
+      "Greenhouse": 389,
       "Workday": 340,
       "LinkedIn": 329,
-      "Ashby": 243,
+      "Ashby": 244,
       "iCIMS": 96,
-      "Breezy": 86,
+      "Breezy": 87,
       "Workable": 55,
       "Lever": 54,
       "SmartRecruiters": 51,
@@ -35,6 +35,111 @@
     }
   },
   "jobs": [
+    {
+      "id": "c5ba3c33992e",
+      "title": "Senior Data Engineer in Multiple Locations | First Citizens Bank",
+      "company": "First Citizens Bank",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.firstcitizens.com/jobs/34612?lang=en-us",
+      "source": "Other",
+      "description": "This is a remote role that may only be hired in the following location(s): North Carolina, Arizona, Texas And Florida. The Senior Data Engineer is ...",
+      "date": "2026-08-19",
+      "timestamp": "2026-08-19T15:14:27+00:00",
+      "fetched_at": "2026-08-19T16:14:50.369551+00:00"
+    },
+    {
+      "id": "3abc9ce34001",
+      "title": "Junior AI Engineer (Open to remote) Job Details | Apply now!",
+      "company": "Apply now!",
+      "role": "AI Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobsearch.createyourowncareer.com/PRH_US/job/New-York-Junior-AI-Engineer-%28Open-to-remote%29-NY-10019/1427650933/",
+      "source": "Other",
+      "description": "Junior AI Engineer (Open to remote). Penguin Random House LLC. New ... Software Engineer , Front End, Publishing, Engineering, Technology. Apply ...",
+      "date": "2026-08-19",
+      "timestamp": "2026-08-19T15:06:05+00:00",
+      "fetched_at": "2026-08-19T16:14:50.369819+00:00"
+    },
+    {
+      "id": "3f83ca40a738",
+      "title": "Software Engineer - Java - Careers at GE Vernova",
+      "company": "GE Vernova",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.gevernova.com/software-engineer-java/job/R5050357",
+      "source": "Other",
+      "description": "Software Engineer - Java. Digital Engineering; PB. Type: Full Time. Location(s):: Bangalore VERNOVA (JFWTC) IN. Date Posted: Salary: Job Posting Start ...",
+      "date": "2026-08-19",
+      "timestamp": "2026-08-19T14:53:24+00:00",
+      "fetched_at": "2026-08-19T16:14:50.369962+00:00"
+    },
+    {
+      "id": "1bd28c2e20c9",
+      "title": "Senior Software Engineer - Backend at Stacklet",
+      "company": "Stacklet",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://stacklet.breezy.hr/p/eba26146e05b-senior-software-engineer-backend",
+      "source": "Breezy",
+      "description": "Senior Software Engineer - Backend ... Stacklet helps organizations with large cloud estates optimize cost, improve security, and ensure compliance by ...",
+      "date": "2026-08-19",
+      "timestamp": "2026-08-19T13:54:49+00:00",
+      "fetched_at": "2026-08-19T16:14:50.370097+00:00"
+    },
+    {
+      "id": "e4d50137245c",
+      "title": "Job Application for Senior Data Engineer at Taskrabbit - Greenhouse",
+      "company": "Taskrabbit",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/taskrabbit/jobs/8130488",
+      "source": "Greenhouse",
+      "description": "Senior Data Engineer . San Francisco, California, United States ... Machine Learning Engineer as you go. It's a strong fit for someone who ...",
+      "date": "2026-08-19",
+      "timestamp": "2026-08-19T12:39:03+00:00",
+      "fetched_at": "2026-08-19T16:14:50.475978+00:00"
+    },
+    {
+      "id": "d736183341fe",
+      "title": "Software Engineer II @ MeridianLink - Jobs",
+      "company": "Meridianlink",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/meridianlink/c9a9ca80-af80-4fe9-b4b7-9c0d026ee99b",
+      "source": "Ashby",
+      "description": "POSITION SUMMARY The Software Engineer is a mid-level engineering role responsible for designing, developing, testing, and maintaining software ...",
+      "date": "2026-08-19",
+      "timestamp": "2026-08-19T11:58:52+00:00",
+      "fetched_at": "2026-08-19T16:14:50.370406+00:00"
+    },
+    {
+      "id": "248907e7a199",
+      "title": "Front End Software Engineer - Piper Companies",
+      "company": "Piper Companies",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.pipercompanies.com/details/172407/front_end_software_engineer",
+      "source": "Other",
+      "description": "Qualifications for the Front End Software Engineer : 3+ years of software engineering experience with a focus on frontend development; Strong ...",
+      "date": "2026-08-19",
+      "timestamp": "2026-08-19T10:32:08+00:00",
+      "fetched_at": "2026-08-19T16:14:50.370560+00:00"
+    },
     {
       "id": "37a625fd61c5",
       "title": "Software Engineer 2 - RCM (Remote) @ Rula - Jobs",
@@ -64,6 +169,21 @@
       "date": "2026-08-19",
       "timestamp": "2026-08-19T08:59:57+00:00",
       "fetched_at": "2026-08-19T12:16:27.790498+00:00"
+    },
+    {
+      "id": "c11aa2771a0c",
+      "title": "Sr Software Engineer , Hyderabad | ServiceNow Careers",
+      "company": "ServiceNow Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.servicenow.com/jobs/744000144238749/sr-software-engineer/",
+      "source": "Other",
+      "description": "Sr Software Engineer . Engineering, Infrastructure and Operations \u00b7 Hyderabad; Flexible; August 19, 2026; JB0074815.",
+      "date": "2026-08-19",
+      "timestamp": "2026-08-19T08:53:32+00:00",
+      "fetched_at": "2026-08-19T16:14:50.370846+00:00"
     },
     {
       "id": "eb69eaa9c1e6",
@@ -171,6 +291,37 @@
       "fetched_at": "2026-08-19T04:22:50.523653+00:00"
     },
     {
+      "id": "5e4e06277127",
+      "title": "Frontend Engineer (Remote) India - Monks",
+      "company": "Monks",
+      "role": "Frontend Engineer",
+      "regions": [
+        "India",
+        "Remote"
+      ],
+      "link": "https://www.monks.com/careers/6128669004/job?gh_jid=6128669004",
+      "source": "Other",
+      "description": "We build production web interfaces for clients, and we care about how they feel, not just whether they work. As a Senior Frontend Engineer , you build ...",
+      "date": "2026-08-19",
+      "timestamp": "2026-08-19T03:13:16+00:00",
+      "fetched_at": "2026-08-19T16:14:50.371865+00:00"
+    },
+    {
+      "id": "35db379729fb",
+      "title": "Senior Software Engineer I/II - Digital Engineering | Rocket Lab",
+      "company": "Senior Software Engineer I/II",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://rocketlabcorp.com/careers/positions/senior-software-engineer-iii-digital-engineering-littleton-co-7893882003/",
+      "source": "Other",
+      "description": "QUALIFICATIONS YOU'LL BRING AS SENIOR SOFTWARE ENGINEER II: Bachelor's degree in Computer Science, Computer Engineering, or a related technical ...",
+      "date": "2026-08-19",
+      "timestamp": "2026-08-19T02:01:21+00:00",
+      "fetched_at": "2026-08-19T16:14:50.372131+00:00"
+    },
+    {
       "id": "8e5c2973bbaa",
       "title": "Cloud Engineer - - 129042 - Booz | Allen | Hamilton \u00ae - Careers",
       "company": "- 129042 - Booz | Allen | Hamilton \u00ae - Careers",
@@ -184,6 +335,36 @@
       "date": "2026-08-19",
       "timestamp": "2026-08-19T01:39:33+00:00",
       "fetched_at": "2026-08-19T08:19:07.615689+00:00"
+    },
+    {
+      "id": "b9ae727a6b5a",
+      "title": "DevOps Engineer - - 129034 - Booz | Allen | Hamilton \u00ae - Careers",
+      "company": "- 129034 - Booz | Allen | Hamilton \u00ae - Careers",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.boozallen.com/careers/JobDetail/Belcamp-DevOps-Engineer-R0247219/129034",
+      "source": "Other",
+      "description": "Lorton, Virginia, USA. DevOps Engineer . The Opportunity: Today's dynamic technology landscape demands constant and rapid innovation. To facilitate ...",
+      "date": "2026-08-19",
+      "timestamp": "2026-08-19T01:26:41+00:00",
+      "fetched_at": "2026-08-19T16:14:50.372600+00:00"
+    },
+    {
+      "id": "1505c4165d00",
+      "title": "Senior Software Engineer | Signify Technology",
+      "company": "Signify Technology",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.signifytechnology.com/jobs/Senior-Software-Engineer-21371/",
+      "source": "Other",
+      "description": "Senior Software Engineer (.NET / Azure) | Remote, Latin America | 12M ... Backend Engineer (Implementations). Location. Austin, Austin, United ...",
+      "date": "2026-08-19",
+      "timestamp": "2026-08-19T01:24:56+00:00",
+      "fetched_at": "2026-08-19T16:14:50.372780+00:00"
     },
     {
       "id": "46d66bddd7de",
