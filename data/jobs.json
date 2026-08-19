@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-08-19T16:14:50.510766+00:00",
-  "total_jobs": 7968,
+  "last_updated": "2026-08-19T20:10:41.715775+00:00",
+  "total_jobs": 7980,
   "stats": {
-    "total_companies": 3807,
+    "total_companies": 3814,
     "total_roles": 100,
     "regions": {
-      "India": 5161,
-      "Philippines": 1714,
-      "Remote": 992,
+      "India": 5169,
+      "Philippines": 1715,
+      "Remote": 995,
       "Unknown": 135
     },
     "sources": {
-      "Other": 6259,
-      "Greenhouse": 389,
-      "Workday": 340,
+      "Other": 6266,
+      "Greenhouse": 390,
+      "Workday": 342,
       "LinkedIn": 329,
       "Ashby": 244,
-      "iCIMS": 96,
+      "iCIMS": 97,
       "Breezy": 87,
       "Workable": 55,
       "Lever": 54,
@@ -25,7 +25,7 @@
       "BrassRing": 10,
       "Recruitee": 8,
       "Jobvite": 8,
-      "Taleo": 5,
+      "Taleo": 6,
       "ADP": 2,
       "WeWorkRemotely": 2
     },
@@ -35,6 +35,126 @@
     }
   },
   "jobs": [
+    {
+      "id": "5ccc5a25c78b",
+      "title": "Software Engineer - AI/ML - - 32640 - HARMAN International",
+      "company": "AI/ML - - 32640 - HARMAN International",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobsearch.harman.com/en_US/careers/JobDetail/Software-Engineer-AI-ML/32640",
+      "source": "Other",
+      "description": "Software Engineer - AI/ML. General information. Location: Bangalore ... We are seeking a highly skilled Agentic AI Engineer with 3 to 6 years ...",
+      "date": "2026-08-19",
+      "timestamp": "2026-08-19T17:27:27+00:00",
+      "fetched_at": "2026-08-19T20:10:41.522686+00:00"
+    },
+    {
+      "id": "84174ce3f956",
+      "title": "Senior Software Engineer , Machine Learning - Bengaluru, Karnataka, India | Roku Jobs",
+      "company": "Bengaluru, Karnataka, India | Roku Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.weareroku.com/jobs/senior-software-engineer-machine-learning-bengaluru-karnataka-india-bec27545-4fd0-4de8-b5f9-e8f115480841",
+      "source": "Other",
+      "description": "Senior Software Engineer , Machine Learning. Software Engineering ... Senior Machine Learning Engineer , Content Platform, San Jose, California.",
+      "date": "2026-08-19",
+      "timestamp": "2026-08-19T16:21:54+00:00",
+      "fetched_at": "2026-08-19T20:10:41.523201+00:00"
+    },
+    {
+      "id": "d0b369a953c4",
+      "title": "URBN Software Engineer in Philadelphia, Pennsylvania | Careers at Navy Yard - ICIMS",
+      "company": "Navy Yard",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://homeoffice-na-urbn.icims.com/jobs/30756/urbn-software-engineer/job",
+      "source": "iCIMS",
+      "description": "Navy Yard - B14 is now hiring a URBN Software Engineer in Philadelphia, Pennsylvania. Review all of the job details and apply today!",
+      "date": "2026-08-19",
+      "timestamp": "2026-08-19T16:12:47+00:00",
+      "fetched_at": "2026-08-19T20:10:41.523349+00:00"
+    },
+    {
+      "id": "7f18c2b6de8b",
+      "title": "Job Description - Data Engineer II (344435)",
+      "company": "Job Description",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=344435&lang=en",
+      "source": "Taleo",
+      "description": "Job Summary: As a Data Engineer II, you will play a key role in architecting, developing, and optimizing robust data infrastructure that empowers the ...",
+      "date": "2026-08-19",
+      "timestamp": "2026-08-19T15:55:31+00:00",
+      "fetched_at": "2026-08-19T20:10:41.523616+00:00"
+    },
+    {
+      "id": "1be1cbe98418",
+      "title": "Devops Engineer - RCH Solutions - Career Page",
+      "company": "RCH Solutions - Career Page",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://rchsolutions.applytojob.com/apply/bgcK3Ckedy/Devops-Engineer",
+      "source": "Other",
+      "description": "Devops Engineer \u00b7 Design, build, and maintain backend services in TypeScript and Node. \u00b7 Design and implement role-based access control (RBAC) across ...",
+      "date": "2026-08-19",
+      "timestamp": "2026-08-19T15:33:03+00:00",
+      "fetched_at": "2026-08-19T20:10:41.523909+00:00"
+    },
+    {
+      "id": "a620500846d9",
+      "title": "Full Stack Engineer - RCH Solutions - Career Page",
+      "company": "RCH Solutions - Career Page",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://rchsolutions.applytojob.com/apply/CWaKlvNX98/Full-Stack-Engineer",
+      "source": "Other",
+      "description": "Full Stack Engineer . Wayne, PA. Full Time. Mid Level. Share. Core Values At RCH, our Core Values are more than just words\u2014they represent the threads ...",
+      "date": "2026-08-19",
+      "timestamp": "2026-08-19T15:29:01+00:00",
+      "fetched_at": "2026-08-19T20:10:41.524066+00:00"
+    },
+    {
+      "id": "bdca7487bdf2",
+      "title": "Senior Software Engineer , BENGALURU, Karn\u0101taka | Wells Fargo",
+      "company": "Wells Fargo",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.wellsfargojobs.com/en/jobs/r-568039/senior-software-engineer/",
+      "source": "Other",
+      "description": "About this role: Wells Fargo is seeking a Senior Software Engineer .Join Wells Fargo's cutting-edge LOS AI Data Hub team, building secure, ...",
+      "date": "2026-08-19",
+      "timestamp": "2026-08-19T15:22:14+00:00",
+      "fetched_at": "2026-08-19T20:10:41.678879+00:00"
+    },
+    {
+      "id": "10bc5bae3a40",
+      "title": "Software Engineer 4 - Android | USA - Remote - Netflix Careers",
+      "company": "Android | USA - Remote - Netflix Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://explore.jobs.netflix.net/careers/job/790317885410-software-engineer-4-android-usa-remote?domain=netflix.com&microsite=netflix.com",
+      "source": "Other",
+      "description": "Software Engineer 4 - Android. USA - Remote. Job Posting Date. 08-18-2026. Job Requisition ID. JR42171. Teams. Engineering. Work Type. Remote ...",
+      "date": "2026-08-19",
+      "timestamp": "2026-08-19T15:17:09+00:00",
+      "fetched_at": "2026-08-19T20:10:41.524339+00:00"
+    },
     {
       "id": "c5ba3c33992e",
       "title": "Senior Data Engineer in Multiple Locations | First Citizens Bank",
@@ -49,6 +169,21 @@
       "date": "2026-08-19",
       "timestamp": "2026-08-19T15:14:27+00:00",
       "fetched_at": "2026-08-19T16:14:50.369551+00:00"
+    },
+    {
+      "id": "294bc3e11a51",
+      "title": "Job Application for Senior Software Engineer at ParetoHealth - Greenhouse",
+      "company": "Paretocaptiveservicesllc",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4705486006",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer . Remote. Apply. About ParetoHealth. ParetoHealth is redefining the way employers fund healthcare. As the largest and fastest ...",
+      "date": "2026-08-19",
+      "timestamp": "2026-08-19T15:08:56+00:00",
+      "fetched_at": "2026-08-19T20:10:41.524560+00:00"
     },
     {
       "id": "3abc9ce34001",
@@ -96,6 +231,36 @@
       "fetched_at": "2026-08-19T16:14:50.370097+00:00"
     },
     {
+      "id": "da55ac0dc9e8",
+      "title": "Data Engineer - Myworkdayjobs.com",
+      "company": "Alto",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://alto.wd1.myworkdayjobs.com/Alto_External_Career_Site/job/Remote---Texas/Data-Engineer_R201095",
+      "source": "Workday",
+      "description": "Alto Pharmacy \u00b7 Job Summary \u00b7 Job Description \u00b7 The Data Engineer will be responsible for building and maintaining the platform that services timely and ...",
+      "date": "2026-08-19",
+      "timestamp": "2026-08-19T12:55:39+00:00",
+      "fetched_at": "2026-08-19T20:10:41.680023+00:00"
+    },
+    {
+      "id": "fb28bcf9d378",
+      "title": "Staff Software Engineer , Cortex AI Search Infrastructure - Snowflake Careers",
+      "company": "Snowflake Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.snowflake.com/us/en/job/SNCOUS37DCF7EA43424BB899A6C99065A9897AEXTERNALENUSA1F1779B464C48F6A66456314825C8AC/Staff-Software-Engineer-Cortex-AI-Search-Infrastructure",
+      "source": "Other",
+      "description": "Senior Software Engineer - Cortex AI - FDE. Location Menlo Park ... Senior Fullstack Engineer - Marketplace Monetization. Location Menlo Park ...",
+      "date": "2026-08-19",
+      "timestamp": "2026-08-19T12:42:53+00:00",
+      "fetched_at": "2026-08-19T20:10:41.525668+00:00"
+    },
+    {
       "id": "e4d50137245c",
       "title": "Job Application for Senior Data Engineer at Taskrabbit - Greenhouse",
       "company": "Taskrabbit",
@@ -139,6 +304,21 @@
       "date": "2026-08-19",
       "timestamp": "2026-08-19T10:32:08+00:00",
       "fetched_at": "2026-08-19T16:14:50.370560+00:00"
+    },
+    {
+      "id": "1186d83d9052",
+      "title": "Data Engineer (Intermediate) - Myworkdayjobs.com",
+      "company": "Texasmutual",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://texasmutual.wd1.myworkdayjobs.com/texas_mutual_careers/job/Austin-Texas/Data-Engineer--Intermediate-_R0002473",
+      "source": "Workday",
+      "description": "Texas Mutual Careers \u00b7 Data Engineer (Intermediate) \u00b7 We're excited you're considering joining a great place to work! \u00b7 About this Position.",
+      "date": "2026-08-19",
+      "timestamp": "2026-08-19T10:20:30+00:00",
+      "fetched_at": "2026-08-19T20:10:41.526143+00:00"
     },
     {
       "id": "37a625fd61c5",
