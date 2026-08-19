@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-08-19T00:24:48.318813+00:00",
-  "total_jobs": 7933,
+  "last_updated": "2026-08-19T04:22:50.796394+00:00",
+  "total_jobs": 7943,
   "stats": {
-    "total_companies": 3797,
+    "total_companies": 3798,
     "total_roles": 100,
     "regions": {
-      "India": 5139,
-      "Philippines": 1709,
-      "Remote": 983,
+      "India": 5144,
+      "Philippines": 1711,
+      "Remote": 986,
       "Unknown": 135
     },
     "sources": {
-      "Other": 6231,
-      "Greenhouse": 387,
+      "Other": 6239,
+      "Greenhouse": 388,
       "Workday": 340,
-      "LinkedIn": 328,
+      "LinkedIn": 329,
       "Ashby": 242,
       "iCIMS": 95,
       "Breezy": 86,
@@ -31,10 +31,130 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-08-18"
+      "latest": "2026-08-19"
     }
   },
   "jobs": [
+    {
+      "id": "30652d9e3d0e",
+      "title": "India, Senior Big Data Engineer I - 19902 - MetLife Careers",
+      "company": "19902 - MetLife Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.metlifecareers.com/en_US/ml/JobDetail/Senior-Big-Data-Engineer-I/19902",
+      "source": "Other",
+      "description": "Description and Requirements ; Position Title: MGCC GG 11.1 \u2013 Senior Big Data Engineer I. Function, Responsibility Level: ; Location: Global Grade: 11.",
+      "date": "2026-08-19",
+      "timestamp": "2026-08-19T03:50:35+00:00",
+      "fetched_at": "2026-08-19T04:22:50.523653+00:00"
+    },
+    {
+      "id": "46d66bddd7de",
+      "title": "Software Engineer II at Staples, Inc.",
+      "company": "Staples, Inc.",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.staples.com/en/job/remote/software-engineer-ii/44412/99411158656",
+      "source": "Other",
+      "description": "Role Summary: The Software Engineer II will design, develop, support, and maintain business-critical enterprise applications, integrations, and data ...",
+      "date": "2026-08-19",
+      "timestamp": "2026-08-19T01:08:54+00:00",
+      "fetched_at": "2026-08-19T04:22:50.523815+00:00"
+    },
+    {
+      "id": "5183d0e0d6c5",
+      "title": "Software Engineer (Front End), Retail and Marcom Engineering - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200677686-3956/software-engineer-front-end-retail-and-marcom-engineering",
+      "source": "Other",
+      "description": "Software Engineer (Front End), Retail and Marcom Engineering ... As a Senior Frontend Engineer , you will be a key technical contributor ...",
+      "date": "2026-08-19",
+      "timestamp": "2026-08-19T01:02:44+00:00",
+      "fetched_at": "2026-08-19T04:22:50.523976+00:00"
+    },
+    {
+      "id": "2b28be50b60e",
+      "title": "Job Application for Software Engineer , Content Platform at Reddit - Greenhouse",
+      "company": "Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/reddit/jobs/8139781",
+      "source": "Greenhouse",
+      "description": "Software Engineer , Content Platform. Remote - United States. Apply. Reddit is a community of communities. It's built on shared interests, passion ...",
+      "date": "2026-08-19",
+      "timestamp": "2026-08-19T00:05:38+00:00",
+      "fetched_at": "2026-08-19T04:22:50.767691+00:00"
+    },
+    {
+      "id": "519a046680d6",
+      "title": "Data Engineer in 750 West John Carpenter Fwy, Irving, Texas,United States - CVS Health",
+      "company": "CVS Health",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.cvshealth.com/us/en/job/R1011899/Data-Engineer",
+      "source": "Other",
+      "description": "Data Engineer . Description. We're building a world of health around ... Lead Java Software Engineer . Available in 16 locationsAvailable in 16 ...",
+      "date": "2026-08-19",
+      "timestamp": "2026-08-19T00:01:57+00:00",
+      "fetched_at": "2026-08-19T04:22:50.524087+00:00"
+    },
+    {
+      "id": "86386e0876b0",
+      "title": "Software Engineer - Observability - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200678539-3337/software-engineer-observability",
+      "source": "Other",
+      "description": "Apply for a Software Engineer - Observability job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-08-18",
+      "timestamp": "2026-08-18T23:38:21+00:00",
+      "fetched_at": "2026-08-19T04:22:50.767813+00:00"
+    },
+    {
+      "id": "c5ecc7f0d4bc",
+      "title": "AI Engineer at Capital One",
+      "company": "Capital One",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.capitalonecareers.com/job/mclean/ai-engineer/1732/99414812720",
+      "source": "Other",
+      "description": "Senior Platform Engineer . Richmond, Virginia \u00b7 96832799408. Senior Platform ... Software Engineer , Strategy, Students and Grads Early Internship ...",
+      "date": "2026-08-18",
+      "timestamp": "2026-08-18T22:58:58+00:00",
+      "fetched_at": "2026-08-19T04:22:50.524190+00:00"
+    },
+    {
+      "id": "e7789abcc88f",
+      "title": "exovra hiring AI Software Engineer (Founding Team) in United States | LinkedIn",
+      "company": "LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/ai-software-engineer-founding-team-at-exovra-4377621435",
+      "source": "LinkedIn",
+      "description": "Agentic AI Engineer / Software Engineer - AI Applications (Remote US) ... AI Platform Engineer . fullthrottle.ai\u00ae. United States 2 weeks ago. AI ...",
+      "date": "2026-08-18",
+      "timestamp": "2026-08-18T22:55:32+00:00",
+      "fetched_at": "2026-08-19T04:22:50.524345+00:00"
+    },
     {
       "id": "7c4486b05694",
       "title": "Software Engineer in Bangalore, India | Product and Engineering at Cisco - Cisco Careers",
@@ -64,6 +184,21 @@
       "date": "2026-08-18",
       "timestamp": "2026-08-18T22:25:34+00:00",
       "fetched_at": "2026-08-19T00:24:48.230386+00:00"
+    },
+    {
+      "id": "1523a4d7dbb3",
+      "title": "Front-End Software Engineer (3075) Job Details - SEPTA Careers",
+      "company": "Front",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.septa.org/job/Philadelphia-Front-End-Software-Engineer-%283075%29-PA-19107/1420617100/",
+      "source": "Other",
+      "description": "We are seeking to hire candidates for our Front-End Software Engineer (3075). Opening Date: 08/18/2026. Closing Date: 08/25/2026. Job Grade: SAM 38.",
+      "date": "2026-08-18",
+      "timestamp": "2026-08-18T22:22:49+00:00",
+      "fetched_at": "2026-08-19T04:22:50.768354+00:00"
     },
     {
       "id": "b1b0aa19383e",
@@ -139,6 +274,21 @@
       "date": "2026-08-18",
       "timestamp": "2026-08-18T20:41:09+00:00",
       "fetched_at": "2026-08-19T00:24:48.231137+00:00"
+    },
+    {
+      "id": "5514bacc65ce",
+      "title": "AI Full Stack Engineer - - 80264 - Jobs at Lenovo",
+      "company": "Lenovo",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.lenovo.com/en_US/careers/JobDetail/Finance-AI-Full-Stack-Engineer/80264",
+      "source": "Other",
+      "description": "Share AI Full Stack Engineer with LinkedIn ... Senior AI Engineer . Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur ...",
+      "date": "2026-08-18",
+      "timestamp": "2026-08-18T20:31:35+00:00",
+      "fetched_at": "2026-08-19T04:22:50.525664+00:00"
     },
     {
       "id": "21dad56ecd07",
