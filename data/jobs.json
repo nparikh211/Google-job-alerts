@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-08-20T08:20:27.928731+00:00",
-  "total_jobs": 8021,
+  "last_updated": "2026-08-20T12:18:11.655508+00:00",
+  "total_jobs": 8024,
   "stats": {
-    "total_companies": 3830,
+    "total_companies": 3831,
     "total_roles": 103,
     "regions": {
-      "India": 5197,
+      "India": 5200,
       "Philippines": 1724,
       "Remote": 999,
       "Unknown": 135
     },
     "sources": {
-      "Other": 6296,
+      "Other": 6299,
       "Greenhouse": 393,
       "Workday": 343,
       "LinkedIn": 334,
@@ -35,6 +35,21 @@
     }
   },
   "jobs": [
+    {
+      "id": "a235f1efd862",
+      "title": "Software Engineer II - JPMC Candidate Experience page Careers",
+      "company": "JPMC Candidate Experience page Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774131",
+      "source": "Other",
+      "description": "As a Software Engineer I at JPMorganChase within the Commercial & Investment Bank- Payments Technology team, you are part of an agile team that works ...",
+      "date": "2026-08-20",
+      "timestamp": "2026-08-20T09:28:13+00:00",
+      "fetched_at": "2026-08-20T12:18:11.418946+00:00"
+    },
     {
       "id": "37a1394f76e2",
       "title": "United States, Data Engineer - 19024 - MetLife Careers",
@@ -214,6 +229,36 @@
       "date": "2026-08-20",
       "timestamp": "2026-08-20T03:57:52+00:00",
       "fetched_at": "2026-08-20T08:20:27.894532+00:00"
+    },
+    {
+      "id": "ff184aef0435",
+      "title": "Senior Software Engineer , BENGALURU, Karn\u0101taka | Wells Fargo",
+      "company": "Wells Fargo",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.wellsfargojobs.com/en/jobs/r-567571/senior-software-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer ... Lead moderately complex technical initiatives and provide guidance to junior engineers. ... Design, develop, enhance, and ...",
+      "date": "2026-08-20",
+      "timestamp": "2026-08-20T03:57:09+00:00",
+      "fetched_at": "2026-08-20T12:18:11.421571+00:00"
+    },
+    {
+      "id": "300cc0c0c067",
+      "title": "Data Engineer - Careers at Sunbelt Rentals",
+      "company": "Sunbelt Rentals",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.sunbeltrentals.com/data-engineer/job/P1-6552883-0",
+      "source": "Other",
+      "description": "Join Sunbelt Rentals in Fort Mill, SC by applying to the Data Engineer job today! Start your career in Fort Mill, SC now!",
+      "date": "2026-08-20",
+      "timestamp": "2026-08-20T03:54:57+00:00",
+      "fetched_at": "2026-08-20T12:18:11.421681+00:00"
     },
     {
       "id": "fd5cb9c0d75d",
