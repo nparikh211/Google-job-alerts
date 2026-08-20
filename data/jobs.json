@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-08-20T04:22:55.315593+00:00",
-  "total_jobs": 8000,
+  "last_updated": "2026-08-20T08:20:27.928731+00:00",
+  "total_jobs": 8021,
   "stats": {
-    "total_companies": 3824,
-    "total_roles": 102,
+    "total_companies": 3830,
+    "total_roles": 103,
     "regions": {
-      "India": 5185,
-      "Philippines": 1717,
-      "Remote": 997,
+      "India": 5197,
+      "Philippines": 1724,
+      "Remote": 999,
       "Unknown": 135
     },
     "sources": {
-      "Other": 6280,
-      "Greenhouse": 390,
+      "Other": 6296,
+      "Greenhouse": 393,
       "Workday": 343,
-      "LinkedIn": 332,
+      "LinkedIn": 334,
       "Ashby": 246,
       "iCIMS": 97,
       "Breezy": 87,
@@ -31,10 +31,325 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-08-19"
+      "latest": "2026-08-20"
     }
   },
   "jobs": [
+    {
+      "id": "37a1394f76e2",
+      "title": "United States, Data Engineer - 19024 - MetLife Careers",
+      "company": "19024 - MetLife Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.metlifecareers.com/en_US/ml/JobDetail/Data-Engineer/19024",
+      "source": "Other",
+      "description": "Data Engineer . General Information. Location. Cary, North Carolina. Working Schedule. Full-Time. Work Arrangement. Hybrid. Relocation Assistance ...",
+      "date": "2026-08-20",
+      "timestamp": "2026-08-20T05:54:06+00:00",
+      "fetched_at": "2026-08-20T08:20:27.893206+00:00"
+    },
+    {
+      "id": "baa713daf67c",
+      "title": "Azure Data Engineer - MetLife Careers",
+      "company": "MetLife Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.metlifecareers.com/en_US/ml/JobDetail/Azure-Data-Engineer/20000",
+      "source": "Other",
+      "description": "JD for CIS Team Azure Data Engineer . (GG10). Data Engineer . Role Overview. This role involves designing, developing, and maintaining cloud-native ...",
+      "date": "2026-08-20",
+      "timestamp": "2026-08-20T05:52:16+00:00",
+      "fetched_at": "2026-08-20T08:20:27.780395+00:00"
+    },
+    {
+      "id": "c149461c5a73",
+      "title": "Software Engineer II in Pune, India, 411006 - Mastercard",
+      "company": "Mastercard",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mastercard.com/us/en/job/R-288786/Software-Engineer-II",
+      "source": "Other",
+      "description": "Senior Software Engineer . Location Pune, India, 411006 Category Engineering. Lead, Software Engineer . Location Pune, India, 411006 Category ...",
+      "date": "2026-08-20",
+      "timestamp": "2026-08-20T05:24:31+00:00",
+      "fetched_at": "2026-08-20T08:20:27.780801+00:00"
+    },
+    {
+      "id": "f1a7cee256c8",
+      "title": "Senior Staff AI Engineer , Enterprise AI Products at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-staff-ai-engineer-enterprise-ai-products/47263/99475961616",
+      "source": "Other",
+      "description": "Senior Staff AI Engineer , Enterprise AI Products. Santa Clara, California, United States of America Product Engineering Ref ID: JR-021418.",
+      "date": "2026-08-20",
+      "timestamp": "2026-08-20T05:15:13+00:00",
+      "fetched_at": "2026-08-20T08:20:27.781004+00:00"
+    },
+    {
+      "id": "4bda3f7f9ead",
+      "title": "Software Engineer - Careers at GE Vernova",
+      "company": "GE Vernova",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.gevernova.com/software-engineer/job/R5048951",
+      "source": "Other",
+      "description": "Job Description Summary. As a Software Engineer , you will contribute to GE Vernova Grid Software's mission of enabling a more sustainable and ...",
+      "date": "2026-08-20",
+      "timestamp": "2026-08-20T05:11:55+00:00",
+      "fetched_at": "2026-08-20T08:20:27.781139+00:00"
+    },
+    {
+      "id": "1c0dce5d3540",
+      "title": "Job Application for AI Software Engineer at Relativity Space - Greenhouse",
+      "company": "Relativity",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/relativity/jobs/8726261002",
+      "source": "Greenhouse",
+      "description": "AI Software Engineer . Long Beach, California, United States. Apply. At Relativity Space, we're building rockets to serve today's needs and tomorrow's ...",
+      "date": "2026-08-20",
+      "timestamp": "2026-08-20T05:04:30+00:00",
+      "fetched_at": "2026-08-20T08:20:27.893902+00:00"
+    },
+    {
+      "id": "0ce7f100fcc8",
+      "title": "Software Engineer (Cloud Security), AI & Data Platforms (AiDP) - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200678224-3956/software-engineer-cloud-security-ai-data-platforms-aidp?team=MLAI",
+      "source": "Other",
+      "description": "Apply for a Software Engineer (Cloud Security), AI & Data Platforms (AiDP) job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-08-20",
+      "timestamp": "2026-08-20T04:48:24+00:00",
+      "fetched_at": "2026-08-20T08:20:27.781499+00:00"
+    },
+    {
+      "id": "2ca4acc3c825",
+      "title": "Sr. Software Engineer I in Des Moines, Iowa | Principal Financial Group",
+      "company": "Principal Financial Group",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.principal.com/careers-home/jobs/52117?lang=en-us",
+      "source": "Other",
+      "description": "careers-home is hiring a Software Engineer III/ Sr. Software Engineer I in Des Moines, Iowa. Review all of the job details and apply today!",
+      "date": "2026-08-20",
+      "timestamp": "2026-08-20T04:31:36+00:00",
+      "fetched_at": "2026-08-20T08:20:27.894274+00:00"
+    },
+    {
+      "id": "2247ebea9d1d",
+      "title": "Software Engineer 3 - MongoDB",
+      "company": "MongoDB",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.mongodb.com/careers/jobs/8111979",
+      "source": "Other",
+      "description": "AI agents are transforming the way developers interact with software - and databases are no exception. We're seeking a Software Engineer to join ...",
+      "date": "2026-08-20",
+      "timestamp": "2026-08-20T04:20:55+00:00",
+      "fetched_at": "2026-08-20T08:20:27.781627+00:00"
+    },
+    {
+      "id": "8126e8c8a53c",
+      "title": "Sourav Dabriwala's Post - LinkedIn",
+      "company": "Unknown Company",
+      "role": "Sourav Dabriwala's Post - LinkedIn",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/souravdabriwala20_really-grateful-to-be-starting-a-new-chapter-activity-7495910588309594112-5pXk",
+      "source": "LinkedIn",
+      "description": "Really grateful to be starting a new chapter as a Software Engineer at Walmart Global Tech ,and looking forward to working under Maran MK and ...",
+      "date": "2026-08-20",
+      "timestamp": "2026-08-20T04:18:45+00:00",
+      "fetched_at": "2026-08-20T08:20:27.782284+00:00"
+    },
+    {
+      "id": "4d8dad4ac3ed",
+      "title": "Job Application for Software Engineer at SpaceX - Greenhouse",
+      "company": "Spacex",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/spacex/jobs/8726545002",
+      "source": "Greenhouse",
+      "description": "SOFTWARE ENGINEER . The application software team is the central nervous system of SpaceX \u2013 we create mission critical applications that are used ...",
+      "date": "2026-08-20",
+      "timestamp": "2026-08-20T04:08:02+00:00",
+      "fetched_at": "2026-08-20T08:20:27.782407+00:00"
+    },
+    {
+      "id": "eba1c00fc338",
+      "title": "Data Engineer in Fort Worth, Texas (No Remote) - Leidos Careers",
+      "company": "Leidos Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.leidos.com/jobs/18142072-data-engineer",
+      "source": "Other",
+      "description": "Data Engineer \u00b7 Bachelor's degree and 4 to 8 years of relevant experience in Statistics, Mathematics, Data Analytics, or a related analytical field.",
+      "date": "2026-08-20",
+      "timestamp": "2026-08-20T03:57:52+00:00",
+      "fetched_at": "2026-08-20T08:20:27.894532+00:00"
+    },
+    {
+      "id": "fd5cb9c0d75d",
+      "title": "Senior Software Engineer (Java/AI) | Citi Careers",
+      "company": "Citi Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.citi.com/job/mississauga/senior-software-engineer-java-ai/287/99436884592",
+      "source": "Other",
+      "description": "Learn more about applying for Senior Software Engineer (Java/AI) at Citi. Learn more about potential responsibilities, qualifications and career ...",
+      "date": "2026-08-20",
+      "timestamp": "2026-08-20T03:24:07+00:00",
+      "fetched_at": "2026-08-20T08:20:27.782572+00:00"
+    },
+    {
+      "id": "f0ca8f7a11e8",
+      "title": "Software Engineer I | Victoria Garner, MBA | 100 comments - LinkedIn",
+      "company": "Victoria Garner, MBA | 100 comments - LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/posts/victoria-garner_software-engineer-i-activity-7495905434294325249-A_lr",
+      "source": "LinkedIn",
+      "description": "Raj Desai. Software Engineer | Full-Stack Engineer | React, Next.js, Node.js, Python, TypeScript | AI/ML | Shipped an 8-service AI platform, cut ...",
+      "date": "2026-08-20",
+      "timestamp": "2026-08-20T02:30:31+00:00",
+      "fetched_at": "2026-08-20T08:20:27.894981+00:00"
+    },
+    {
+      "id": "9e8c0d0fd24f",
+      "title": "AI Engineer - HigherEdJobs",
+      "company": "HigherEdJobs",
+      "role": "AI Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.higheredjobs.com/state/details.cfm?JobCode=179533043&Title=AI%20Engineer",
+      "source": "Other",
+      "description": "AI Engineer . Southern New Hampshire University. in Online/Remote. Apply ... Today Category: Software Engineer /Programmer. Southern New Hampshire ...",
+      "date": "2026-08-20",
+      "timestamp": "2026-08-20T02:10:58+00:00",
+      "fetched_at": "2026-08-20T08:20:27.895238+00:00"
+    },
+    {
+      "id": "a2ce71c06dd7",
+      "title": "Software Engineer I, ServiceNow - Nike Careers",
+      "company": "Nike Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.nike.com/software-engineer-i-servicenow/job/R-90283",
+      "source": "Other",
+      "description": "Software Engineer I, ServiceNow. Position Type: Full Time. Career area: Software Engineering. Location: 4/F, WeWork, Embassy GolfLinks, Karnataka ...",
+      "date": "2026-08-20",
+      "timestamp": "2026-08-20T01:42:32+00:00",
+      "fetched_at": "2026-08-20T08:20:27.895378+00:00"
+    },
+    {
+      "id": "9e8a5ba23d4e",
+      "title": "Software Engineer - - 129127 - Booz | Allen | Hamilton \u00ae - Careers",
+      "company": "- 129127 - Booz | Allen | Hamilton \u00ae - Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.boozallen.com/careers/JobDetail/Aurora-Software-Engineer-R0247402/129127",
+      "source": "Other",
+      "description": "Software Engineer . The Opportunity: We are seeking a Software Engineer support Agile design, development, integration, and deployment of a mission ...",
+      "date": "2026-08-20",
+      "timestamp": "2026-08-20T00:36:00+00:00",
+      "fetched_at": "2026-08-20T08:20:27.895614+00:00"
+    },
+    {
+      "id": "e09d4d893d38",
+      "title": "Job Application for Senior Software Engineer II at Prolific - Greenhouse",
+      "company": "Prolific",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/prolific/jobs/4955761101",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer II. Team: Engineering. Prolific. Prolific is not just another player in the AI space \u2013 we are the architects of the human ...",
+      "date": "2026-08-20",
+      "timestamp": "2026-08-20T00:35:49+00:00",
+      "fetched_at": "2026-08-20T08:20:27.782830+00:00"
+    },
+    {
+      "id": "944e19c22fc8",
+      "title": "Senior Machine Learning Engineer - New York, United States | Roku Jobs",
+      "company": "New York, United States | Roku Jobs",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.weareroku.com/jobs/senior-machine-learning-engineer-new-york-united-states-c2a02158-21e1-41c9-bc1b-6cc2d4c3a35f",
+      "source": "Other",
+      "description": "Senior Machine Learning Engineer ... We seek an outstanding, creative, and passionate Machine Learning Platform Engineer to join Roku's Recommendation ...",
+      "date": "2026-08-20",
+      "timestamp": "2026-08-20T00:16:29+00:00",
+      "fetched_at": "2026-08-20T08:20:27.783310+00:00"
+    },
+    {
+      "id": "ecff2a6257fe",
+      "title": "Senior Machine Learning Engineer - San Jose, California, United States | Roku Jobs",
+      "company": "San Jose, California, United States | Roku Jobs",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.weareroku.com/jobs/senior-machine-learning-engineer-san-jose-california-united-states-541e5878-4af1-4475-9ac7-add8d9f1184c",
+      "source": "Other",
+      "description": "Senior Machine Learning Engineer ... We seek an outstanding, creative, and passionate Machine Learning Platform Engineer to join Roku's Recommendation ...",
+      "date": "2026-08-20",
+      "timestamp": "2026-08-20T00:16:28+00:00",
+      "fetched_at": "2026-08-20T08:20:27.896056+00:00"
+    },
+    {
+      "id": "042e7d79da29",
+      "title": "software engineer - Qureos Inc",
+      "company": "Qureos Inc",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.qureos.com/jobs/8242798-software-engineer",
+      "source": "Other",
+      "description": "Job Overview We are representing a confidential organisation seeking a talented and motivated Software Engineer to join their team on a Part-Time ...",
+      "date": "2026-08-19",
+      "timestamp": "2026-08-19T23:28:05+00:00",
+      "fetched_at": "2026-08-20T08:20:27.783455+00:00"
+    },
     {
       "id": "79473ef02f77",
       "title": "Software Engineer , Trainium | OpenAI",
