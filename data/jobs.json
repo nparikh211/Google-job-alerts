@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-08-21T16:16:00.867819+00:00",
-  "total_jobs": 8090,
+  "last_updated": "2026-08-21T20:09:51.018381+00:00",
+  "total_jobs": 8107,
   "stats": {
-    "total_companies": 3854,
-    "total_roles": 104,
+    "total_companies": 3863,
+    "total_roles": 105,
     "regions": {
-      "India": 5246,
-      "Philippines": 1735,
-      "Remote": 1008,
+      "India": 5257,
+      "Philippines": 1738,
+      "Remote": 1011,
       "Unknown": 135
     },
     "sources": {
-      "Other": 6350,
-      "Greenhouse": 397,
-      "Workday": 347,
+      "Other": 6363,
+      "Greenhouse": 398,
+      "Workday": 349,
       "LinkedIn": 335,
-      "Ashby": 247,
+      "Ashby": 248,
       "iCIMS": 98,
       "Breezy": 88,
       "Lever": 55,
@@ -35,6 +35,231 @@
     }
   },
   "jobs": [
+    {
+      "id": "d13b17799ce5",
+      "title": "Sr. Associate Data Engineer (PySpark, Python & ETL) - McKesson Careers",
+      "company": "McKesson Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.mckesson.com/en/job/overland-park/sr-associate-data-engineer-pyspark-python-and-etl/733/98192728800",
+      "source": "Other",
+      "description": "Learn more about applying for Sr. Associate Data Engineer (PySpark, Python & ETL) at MCKESSON.",
+      "date": "2026-08-21",
+      "timestamp": "2026-08-21T19:12:24+00:00",
+      "fetched_at": "2026-08-21T20:09:50.983412+00:00"
+    },
+    {
+      "id": "b5b7b18a02b7",
+      "title": "2027 Undergrad Software Engineer Intern/Co-op in Multiple Locations - AMD Careers",
+      "company": "op in Multiple Locations - AMD Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.amd.com/careers-home/jobs/90947?lang=en-us",
+      "source": "Other",
+      "description": "AMD is hiring a 2027 Undergrad Software Engineer Intern/Co-op in Multiple Locations. Review all of the job details and apply today!",
+      "date": "2026-08-21",
+      "timestamp": "2026-08-21T18:36:48+00:00",
+      "fetched_at": "2026-08-21T20:09:50.983548+00:00"
+    },
+    {
+      "id": "3ac9870c648b",
+      "title": "Swarm Aero - Software Engineer , Frontend Lead - Jobs",
+      "company": "Swarmaero",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.ashbyhq.com/swarmaero/836dac77-6145-42a5-b445-0935f08ed1c7",
+      "source": "Ashby",
+      "description": "Software Engineer , Frontend Lead. Location. Remote. Employment Type. Full time. Department. Legion. Compensation. $190K \u2013 $300K \u2022 Offers Equity.",
+      "date": "2026-08-21",
+      "timestamp": "2026-08-21T18:16:57+00:00",
+      "fetched_at": "2026-08-21T20:09:50.983642+00:00"
+    },
+    {
+      "id": "e6701f660fdf",
+      "title": "Software Engineer III, AI/ ML Engineer - Careers - Google",
+      "company": "Careers - Google",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/106154012847284934",
+      "source": "Other",
+      "description": "Senior Software Engineer , Vertex AI, Workbench. Warsaw, Poland \u00b7 Customer ... Software Engineer III, AI/ ML Engineer . share. Share Software ...",
+      "date": "2026-08-21",
+      "timestamp": "2026-08-21T17:41:08+00:00",
+      "fetched_at": "2026-08-21T20:09:50.632982+00:00"
+    },
+    {
+      "id": "d3e96e746f3c",
+      "title": "Software Engineer | Smiths Detection",
+      "company": "Smiths Detection",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.smithsdetection.com/careers/job-search-results/software-engineer-744000144768115/",
+      "source": "Other",
+      "description": "Software Engineer . Software Engineer . Share. Share to X \u00b7 Share to LinkedIn \u00b7 Share this page. Job Detail. Location: Bengaluru, KA, India. Ref: ...",
+      "date": "2026-08-21",
+      "timestamp": "2026-08-21T17:37:25+00:00",
+      "fetched_at": "2026-08-21T20:09:50.633176+00:00"
+    },
+    {
+      "id": "8aabbde6a126",
+      "title": "Software Engineer , Cloud Interconnect Networking - Search for your career at Google.",
+      "company": "Google.",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.google.com/jobs/results/119204047637881542-software-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer , Site Reliability Engineering, Google Cloud ... Staff Site Reliability Engineer , Semantic Understanding. San Jose, CA ...",
+      "date": "2026-08-21",
+      "timestamp": "2026-08-21T17:30:18+00:00",
+      "fetched_at": "2026-08-21T20:09:50.633345+00:00"
+    },
+    {
+      "id": "ab6f61d97895",
+      "title": "Data Engineer I - Finance - 14474 - TQL careers",
+      "company": "Finance - 14474 - TQL careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.tql.com/en_US/TQLexternalcareers/JobDetail/Data-Engineer-I-Finance/14474",
+      "source": "Other",
+      "description": "About the role:As a Data Engineer you'll play a critical role within Financial Planning & Analysis (FP&A) responsible for maintaining and ...",
+      "date": "2026-08-21",
+      "timestamp": "2026-08-21T17:21:36+00:00",
+      "fetched_at": "2026-08-21T20:09:50.633504+00:00"
+    },
+    {
+      "id": "9421b38b7037",
+      "title": "Software Engineer , API Safety | OpenAI",
+      "company": "OpenAI",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://openai.com/careers/software-engineer-api-safety-san-francisco/",
+      "source": "Other",
+      "description": "Software Engineer , API Safety \u00b7 Design and build dashboards and APIs for safety controls and customer-facing observability. \u00b7 Develop scalable systems ...",
+      "date": "2026-08-21",
+      "timestamp": "2026-08-21T17:16:56+00:00",
+      "fetched_at": "2026-08-21T20:09:50.633642+00:00"
+    },
+    {
+      "id": "6e85eacd6474",
+      "title": "Software Engineer , Unified Gateway - DoorDash",
+      "company": "DoorDash",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careersatdoordash.com/jobs/software-engineer-unified-gateway/8146670",
+      "source": "Other",
+      "description": "Software Engineer , Unified Gateway. Apply To Job. Job ID: 3525443. DoorDash, Inc. San Francisco, CA;Seattle, WA;Los Angeles, CA;New York, Ny. About ...",
+      "date": "2026-08-21",
+      "timestamp": "2026-08-21T17:15:30+00:00",
+      "fetched_at": "2026-08-21T20:09:50.633768+00:00"
+    },
+    {
+      "id": "a7b49b151b55",
+      "title": "Job Application for Machine Learning Engineer at AMP - Greenhouse",
+      "company": "Ampsortation",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/ampsortation/jobs/7919163003",
+      "source": "Greenhouse",
+      "description": "Machine Learning Engineer . Remote, United States. Apply. AMP is applying AI-powered sortation at scale to modernize the world's recycling ...",
+      "date": "2026-08-21",
+      "timestamp": "2026-08-21T17:05:50+00:00",
+      "fetched_at": "2026-08-21T20:09:50.984351+00:00"
+    },
+    {
+      "id": "f36ab500cc45",
+      "title": "Software Engineer - Myworkdayjobs.com",
+      "company": "Valeo",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Troy-MI/Software-Engineer_REQ2026080107",
+      "source": "Workday",
+      "description": "Software Engineer for Troy, MI - multiple positions open - to develop application-specific components for embedded automotive software; participate in ...",
+      "date": "2026-08-21",
+      "timestamp": "2026-08-21T17:00:14+00:00",
+      "fetched_at": "2026-08-21T20:09:50.633838+00:00"
+    },
+    {
+      "id": "2ce48d95f70f",
+      "title": "jobboard-shell - Insight Global",
+      "company": "Unknown Company",
+      "role": "jobboard-shell - Insight Global",
+      "regions": [
+        "India"
+      ],
+      "link": "https://insightglobal.com/jobs/search/all/software-engineer?page=1&size=10",
+      "source": "Other",
+      "description": "",
+      "date": "2026-08-21",
+      "timestamp": "2026-08-21T16:16:50+00:00",
+      "fetched_at": "2026-08-21T20:09:50.634267+00:00"
+    },
+    {
+      "id": "13fc978684cf",
+      "title": "Software Engineer 1 - Myworkdayjobs.com",
+      "company": "Modmed",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://modmed.wd501.myworkdayjobs.com/modmed12/job/Boca-Raton-FL/Software-Engineer-1_R4917",
+      "source": "Workday",
+      "description": "Software Engineer 1 ... At ModMed, we're not just building software\u2014we're reimagining the healthcare experience. Founded in 2010 by a practicing ...",
+      "date": "2026-08-21",
+      "timestamp": "2026-08-21T15:56:14+00:00",
+      "fetched_at": "2026-08-21T20:09:50.634361+00:00"
+    },
+    {
+      "id": "c8c2f0d9a1d0",
+      "title": "International Materials Inc - AI Infrastructure & Platform Engineer",
+      "company": "International Materials Inc",
+      "role": "Platform Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4435908",
+      "source": "Other",
+      "description": "IMI is seeking an AI Infrastructure & Platform Engineer to help build and expand our internal AI capabilities. This is a hands-on opportunity to ...",
+      "date": "2026-08-21",
+      "timestamp": "2026-08-21T15:47:19+00:00",
+      "fetched_at": "2026-08-21T20:09:50.984658+00:00"
+    },
+    {
+      "id": "fa994cc36cbd",
+      "title": "Senior AI Software Engineer (US) | Zapata Quantum - Rippling",
+      "company": "Zapata Quantum - Rippling",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/zapata-quantum/jobs/b432040f-8ba2-494a-bb0e-50fa6f5bf7f7",
+      "source": "Other",
+      "description": "About the role. We are seeking a hands-on Senior Software Engineer to design and build a knowledge graph, ontology, and AI-enabled application ...",
+      "date": "2026-08-21",
+      "timestamp": "2026-08-21T15:27:11+00:00",
+      "fetched_at": "2026-08-21T20:09:50.634613+00:00"
+    },
     {
       "id": "f04e99a7830c",
       "title": "AI Engineer - Recruiting",
@@ -79,6 +304,36 @@
       "date": "2026-08-21",
       "timestamp": "2026-08-21T14:12:16+00:00",
       "fetched_at": "2026-08-21T16:16:00.772460+00:00"
+    },
+    {
+      "id": "a2eadd8031cc",
+      "title": "AI Engineer Job Details - Kiewit Careers",
+      "company": "Kiewit Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://kiewitcareers.kiewit.com/job/Lenexa-AI-Engineer-KS/1421760900/",
+      "source": "Other",
+      "description": "Kiewit is seeking an AI Engineer to help design, develop, and operate intelligent AI systems that support complex enterprise workflows across the ...",
+      "date": "2026-08-21",
+      "timestamp": "2026-08-21T14:10:40+00:00",
+      "fetched_at": "2026-08-21T20:09:50.635502+00:00"
+    },
+    {
+      "id": "c62bacb1a453",
+      "title": "Data Engineer III in Remote, United States | SelectQuote, Inc. - Career",
+      "company": "SelectQuote, Inc. - Career",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.selectquote.com/career-home/jobs/6909?lang=en-us",
+      "source": "Other",
+      "description": "career-home is hiring a Data Engineer III in Remote, United States. Review all of the job details and apply today!",
+      "date": "2026-08-21",
+      "timestamp": "2026-08-21T13:57:27+00:00",
+      "fetched_at": "2026-08-21T20:09:50.635616+00:00"
     },
     {
       "id": "cf6baa296962",
