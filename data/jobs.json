@@ -1,26 +1,26 @@
 {
-  "last_updated": "2026-08-21T12:18:00.219721+00:00",
-  "total_jobs": 8078,
+  "last_updated": "2026-08-21T16:16:00.867819+00:00",
+  "total_jobs": 8090,
   "stats": {
-    "total_companies": 3850,
-    "total_roles": 103,
+    "total_companies": 3854,
+    "total_roles": 104,
     "regions": {
-      "India": 5240,
-      "Philippines": 1730,
-      "Remote": 1007,
+      "India": 5246,
+      "Philippines": 1735,
+      "Remote": 1008,
       "Unknown": 135
     },
     "sources": {
-      "Other": 6341,
-      "Greenhouse": 396,
+      "Other": 6350,
+      "Greenhouse": 397,
       "Workday": 347,
-      "LinkedIn": 334,
+      "LinkedIn": 335,
       "Ashby": 247,
       "iCIMS": 98,
       "Breezy": 88,
       "Lever": 55,
       "Workable": 55,
-      "SmartRecruiters": 52,
+      "SmartRecruiters": 53,
       "Indeed": 29,
       "BrassRing": 10,
       "Recruitee": 8,
@@ -36,6 +36,111 @@
   },
   "jobs": [
     {
+      "id": "f04e99a7830c",
+      "title": "AI Engineer - Recruiting",
+      "company": "Recruiting",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/vouch-inc/jobs/a7099d11-3586-4b85-9d0c-904c9203c8d0",
+      "source": "Other",
+      "description": "AI Engineer \u00b7 Vouch is building AI software for judgment-heavy insurance work: a system that learns from experts and gets measurably better week over ...",
+      "date": "2026-08-21",
+      "timestamp": "2026-08-21T15:19:10+00:00",
+      "fetched_at": "2026-08-21T16:16:00.771405+00:00"
+    },
+    {
+      "id": "fdf45b81dc5c",
+      "title": "Senior Data Engineer - Revenue Data Platform | Datadog Careers",
+      "company": "Revenue Data Platform | Datadog Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.datadoghq.com/detail/8141967/?gh_jid=8141967",
+      "source": "Other",
+      "description": "Senior Data Engineer - Revenue Data Platform. Boston ... As a Senior Software Engineer , you will own meaningful parts of a large ...",
+      "date": "2026-08-21",
+      "timestamp": "2026-08-21T15:05:42+00:00",
+      "fetched_at": "2026-08-21T16:16:00.771842+00:00"
+    },
+    {
+      "id": "ec1c02024d0f",
+      "title": "Shriram Mogal's Post - LinkedIn",
+      "company": "Unknown Company",
+      "role": "Shriram Mogal's Post - LinkedIn",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/shrirammogal_excited-to-share-that-ive-joined-apple-as-activity-7496550467544690688-WFDk",
+      "source": "LinkedIn",
+      "description": "Shriram Mogal's Post. View profile for Shriram Mogal \u00b7 Shriram Mogal. Senior Data Engineer ... Senior Software Engineer @Pubmatic | C++, Java | AdTech.",
+      "date": "2026-08-21",
+      "timestamp": "2026-08-21T14:12:16+00:00",
+      "fetched_at": "2026-08-21T16:16:00.772460+00:00"
+    },
+    {
+      "id": "cf6baa296962",
+      "title": "Frontend Engineer - Rippling",
+      "company": "Rippling",
+      "role": "Frontend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/kredete/jobs/ad5306d9-87f3-4ab6-b0cc-ad4609230695",
+      "source": "Other",
+      "description": "Frontend Engineer \u00b7 Kredete is a financial technology company building modern financial infrastructure for global money movement. \u00b7 Powered by ...",
+      "date": "2026-08-21",
+      "timestamp": "2026-08-21T12:40:35+00:00",
+      "fetched_at": "2026-08-21T16:16:00.772635+00:00"
+    },
+    {
+      "id": "7cbca5480f28",
+      "title": "DevOps Engineer in Omaha, Nebraska (Hybrid Remote) - Leidos Careers",
+      "company": "Leidos Careers",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.leidos.com/jobs/18149393-devops-engineer",
+      "source": "Other",
+      "description": "DevOps Engineer in Omaha, Nebraska (Hybrid Remote) ... Cloud Engineer . READ MORE. Senior Cloud Engineer . READ MORE. Senior Cloud ...",
+      "date": "2026-08-21",
+      "timestamp": "2026-08-21T12:38:16+00:00",
+      "fetched_at": "2026-08-21T16:16:00.772788+00:00"
+    },
+    {
+      "id": "db288edbb758",
+      "title": "Junior Software Engineer - - 80810 - Jobs at Lenovo",
+      "company": "Lenovo",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.lenovo.com/en_US/careers/JobDetail/Junior-Software-Engineer/80810",
+      "source": "Other",
+      "description": "Junior Software Engineer with solid JavaScript/Node.js skills, ready to grow into backend systems development \u2014 including Golang over time. You'll ...",
+      "date": "2026-08-21",
+      "timestamp": "2026-08-21T12:17:46+00:00",
+      "fetched_at": "2026-08-21T16:16:00.772948+00:00"
+    },
+    {
+      "id": "b3908512fc50",
+      "title": "NBCUniversal Sr Software Engineer | SmartRecruiters",
+      "company": "Nbcuniversal3",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.smartrecruiters.com/NBCUniversal3/744000144573219-sr-software-engineer",
+      "source": "SmartRecruiters",
+      "description": "As a Senior Software Engineer focused on Agentic, LLM-powered applications, you will design, develop, and optimize intelligent systems and ...",
+      "date": "2026-08-21",
+      "timestamp": "2026-08-21T10:41:12+00:00",
+      "fetched_at": "2026-08-21T16:16:00.834459+00:00"
+    },
+    {
       "id": "6d6f6f5ddb23",
       "title": "Software Engineer in Bangalore, India | Product and Engineering at Cisco - Cisco Careers",
       "company": "Cisco",
@@ -49,6 +154,21 @@
       "date": "2026-08-21",
       "timestamp": "2026-08-21T10:35:59+00:00",
       "fetched_at": "2026-08-21T12:17:59.827977+00:00"
+    },
+    {
+      "id": "9ccd805f2e20",
+      "title": "Software Engineer (Data Analytics), AI & Data Platforms (AiDP) - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200677745-3956/software-engineer-data-analytics-ai-data-platforms-aidp",
+      "source": "Other",
+      "description": "Apply for a Software Engineer (Data Analytics), AI & Data Platforms (AiDP) job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-08-21",
+      "timestamp": "2026-08-21T09:16:46+00:00",
+      "fetched_at": "2026-08-21T16:16:00.834655+00:00"
     },
     {
       "id": "b13d5d65f173",
@@ -96,6 +216,21 @@
       "fetched_at": "2026-08-21T12:17:59.828681+00:00"
     },
     {
+      "id": "f3ed8c4d8771",
+      "title": "Data Engineer - - 129159 - Booz | Allen | Hamilton \u00ae",
+      "company": "- 129159 - Booz | Allen | Hamilton \u00ae",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.boozallen.com/jobs/JobDetail/McLean-Data-Engineer-R0247439/129159",
+      "source": "Other",
+      "description": "Data Engineer . The Opportunity: Ever-expanding technology like IoT, machine learning, and artificial intelligence means that there's more ...",
+      "date": "2026-08-21",
+      "timestamp": "2026-08-21T07:50:33+00:00",
+      "fetched_at": "2026-08-21T16:16:00.834858+00:00"
+    },
+    {
       "id": "1ba3963656b5",
       "title": "Software Engineer , Fullstack - Moveworks, Mountain View | ServiceNow Careers",
       "company": "Moveworks, Mountain View | ServiceNow Careers",
@@ -141,6 +276,21 @@
       "fetched_at": "2026-08-21T12:17:59.829437+00:00"
     },
     {
+      "id": "6869a50d5660",
+      "title": "Senior Staff Software Engineer , Cloud SDK - Search for your career at Google.",
+      "company": "Google.",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.google.com/jobs/results/90497285095334598-senior-staff-software-engineer/",
+      "source": "Other",
+      "description": "Software Engineer , GDC AI Applications and Agents. Sunnyvale, CA, USA \u00b7 Senior Software Engineer , Site Reliability Engineering, Cloud Storage. Dublin ...",
+      "date": "2026-08-21",
+      "timestamp": "2026-08-21T04:49:28+00:00",
+      "fetched_at": "2026-08-21T16:16:00.774885+00:00"
+    },
+    {
       "id": "4ae3988133d2",
       "title": "Software Engineer (Data Analytics), AI & Data Platforms (AiDP) - Jobs - Careers at Apple",
       "company": "Apple",
@@ -184,6 +334,21 @@
       "date": "2026-08-21",
       "timestamp": "2026-08-21T03:41:03+00:00",
       "fetched_at": "2026-08-21T08:22:07.133231+00:00"
+    },
+    {
+      "id": "852be49773fc",
+      "title": "Applied AI Engineer , Cyber | OpenAI",
+      "company": "OpenAI",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://openai.com/careers/applied-ai-engineer-cyber-dublin-ireland/",
+      "source": "Other",
+      "description": "We are looking for a Cybersecurity Applied AI Engineer to partner with customers and help them apply OpenAI models, APIs, Codex, and agentic workflows ...",
+      "date": "2026-08-21",
+      "timestamp": "2026-08-21T02:49:15+00:00",
+      "fetched_at": "2026-08-21T16:16:00.835643+00:00"
     },
     {
       "id": "763eed8ab635",
@@ -289,6 +454,21 @@
       "date": "2026-08-20",
       "timestamp": "2026-08-20T23:47:14+00:00",
       "fetched_at": "2026-08-21T04:24:58.325617+00:00"
+    },
+    {
+      "id": "ba3586ab7a14",
+      "title": "Job Application for Software Engineer \u2014 Security at Snorkel AI - Greenhouse",
+      "company": "Snorkelai",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/snorkelai/jobs/6148995004",
+      "source": "Greenhouse",
+      "description": "Software Engineer \u2014 Security. New York City, NY (Hybrid); San Francisco, CA (Hybrid). Apply. About Snorkel. At Snorkel, we believe meaningful AI doesn ...",
+      "date": "2026-08-20",
+      "timestamp": "2026-08-20T23:34:50+00:00",
+      "fetched_at": "2026-08-21T16:16:00.836479+00:00"
     },
     {
       "id": "b3d22b821acf",
