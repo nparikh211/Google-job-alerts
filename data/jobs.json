@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-08-21T00:28:11.099616+00:00",
-  "total_jobs": 8058,
+  "last_updated": "2026-08-21T04:24:58.419986+00:00",
+  "total_jobs": 8065,
   "stats": {
-    "total_companies": 3842,
+    "total_companies": 3845,
     "total_roles": 103,
     "regions": {
-      "India": 5222,
+      "India": 5229,
       "Philippines": 1730,
       "Remote": 1005,
       "Unknown": 135
     },
     "sources": {
-      "Other": 6326,
+      "Other": 6332,
       "Greenhouse": 395,
-      "Workday": 344,
+      "Workday": 345,
       "LinkedIn": 334,
       "Ashby": 247,
       "iCIMS": 98,
@@ -31,10 +31,85 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-08-20"
+      "latest": "2026-08-21"
     }
   },
   "jobs": [
+    {
+      "id": "763eed8ab635",
+      "title": "Senior Machine Learning Engineer II | Rocket Lab",
+      "company": "Rocket Lab",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://rocketlabcorp.com/careers/positions/senior-machine-learning-engineer-ii-tucson-az-7919020003/",
+      "source": "Other",
+      "description": "Senior Machine Learning Engineer II. Job Ref: 5688454003 | Type: Regular. Apply for this job. About The Role. ABOUT ROCKET LAB. Rocket Lab is the end ...",
+      "date": "2026-08-21",
+      "timestamp": "2026-08-21T01:46:18+00:00",
+      "fetched_at": "2026-08-21T04:24:58.325052+00:00"
+    },
+    {
+      "id": "7318152aefaa",
+      "title": "Data Engineer Job - Jobs at Armstrong Ceiling",
+      "company": "Armstrong Ceiling",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.armstrong.com/job/Lancaster-Data-Engineer-Job-PA-17603/1421634900/",
+      "source": "Other",
+      "description": "Armstrong is seeking a Data Engineer to design, build, and maintain scalable data pipelines and infrastructure that enable advanced analytics, AI, and ...",
+      "date": "2026-08-21",
+      "timestamp": "2026-08-21T00:38:49+00:00",
+      "fetched_at": "2026-08-21T04:24:58.325275+00:00"
+    },
+    {
+      "id": "2bcee40dfef1",
+      "title": "Senior Software Engineer - Smiths Detection",
+      "company": "Smiths Detection",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.smithsdetection.com/careers/job-search-results/senior-software-engineer-744000144489110/",
+      "source": "Other",
+      "description": "Senior Software Engineer . Senior Software Engineer . Share. Share to X \u00b7 Share to LinkedIn \u00b7 Share this page. Job Detail. Location: Bengaluru, KA, ...",
+      "date": "2026-08-21",
+      "timestamp": "2026-08-21T00:00:03+00:00",
+      "fetched_at": "2026-08-21T04:24:58.386248+00:00"
+    },
+    {
+      "id": "93f98bf6ab9e",
+      "title": "Lead Machine Learning Engineer - McLean - Capital One Career",
+      "company": "McLean - Capital One Career",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.capitalonecareers.com/job/mclean/lead-machine-learning-engineer/1732/99498713984",
+      "source": "Other",
+      "description": "Lead Machine Learning Engineer . McLean, Virginia | Plano ... Lead Software Engineer , Full Stack (Risk Tech, Intelligent Foundations & Experiences).",
+      "date": "2026-08-20",
+      "timestamp": "2026-08-20T23:47:14+00:00",
+      "fetched_at": "2026-08-21T04:24:58.325617+00:00"
+    },
+    {
+      "id": "b3d22b821acf",
+      "title": "Software Engineer , Senior - - 129194 - Booz | Allen | Hamilton \u00ae - Careers",
+      "company": "- 129194 - Booz | Allen | Hamilton \u00ae - Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.boozallen.com/careers/JobDetail/Dayton-Software-Engineer-Senior-R0247529/129194",
+      "source": "Other",
+      "description": "As a software engineer , you know that good software is more than just a nice-looking interface and data. You need the right combination of clean code, ...",
+      "date": "2026-08-20",
+      "timestamp": "2026-08-20T23:01:14+00:00",
+      "fetched_at": "2026-08-21T04:24:58.325880+00:00"
+    },
     {
       "id": "d721b21c7305",
       "title": "Software Engineer \u2013 Entry Level - VivSoft Technologies - Career Page",
@@ -49,6 +124,21 @@
       "date": "2026-08-20",
       "timestamp": "2026-08-20T23:00:36+00:00",
       "fetched_at": "2026-08-21T00:28:10.641338+00:00"
+    },
+    {
+      "id": "e466518a1c91",
+      "title": "Data Engineer , Monetization Data Platform | OpenAI",
+      "company": "OpenAI",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://openai.com/careers/data-engineer-monetization-data-platform-mountain-view/",
+      "source": "Other",
+      "description": "We are looking for a Data Engineer to improve and build the next generation of our monetization data platform. You will own high-impact systems end to ...",
+      "date": "2026-08-20",
+      "timestamp": "2026-08-20T22:44:43+00:00",
+      "fetched_at": "2026-08-21T04:24:58.326306+00:00"
     },
     {
       "id": "131fcd99fe2a",
@@ -79,6 +169,21 @@
       "date": "2026-08-20",
       "timestamp": "2026-08-20T22:21:25+00:00",
       "fetched_at": "2026-08-21T00:28:10.641662+00:00"
+    },
+    {
+      "id": "b1850e8747b3",
+      "title": "Data Engineer - Myworkdayjobs.com",
+      "company": "Linklogistics",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://linklogistics.wd5.myworkdayjobs.com/Link/job/New-York-New-York/Data-Engineer_JR101851",
+      "source": "Workday",
+      "description": "... Backend Engineer to own the intelligence layer of Link's Analytics ... Data Engineer . Apply. locations: New York, New York. time type: Full time.",
+      "date": "2026-08-20",
+      "timestamp": "2026-08-20T22:14:12+00:00",
+      "fetched_at": "2026-08-21T04:24:58.326741+00:00"
     },
     {
       "id": "e3d29f5ddc4a",
