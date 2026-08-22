@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-08-22T08:13:23.831585+00:00",
-  "total_jobs": 8137,
+  "last_updated": "2026-08-22T12:11:32.296318+00:00",
+  "total_jobs": 8144,
   "stats": {
-    "total_companies": 3873,
-    "total_roles": 105,
+    "total_companies": 3876,
+    "total_roles": 106,
     "regions": {
-      "India": 5279,
+      "India": 5286,
       "Philippines": 1741,
       "Remote": 1016,
       "Unknown": 135
     },
     "sources": {
-      "Other": 6381,
+      "Other": 6387,
       "Greenhouse": 402,
       "Workday": 352,
       "LinkedIn": 337,
-      "Ashby": 248,
+      "Ashby": 249,
       "iCIMS": 100,
       "Breezy": 88,
       "Workable": 56,
@@ -35,6 +35,66 @@
     }
   },
   "jobs": [
+    {
+      "id": "364af1ab3d88",
+      "title": "Senior Fullstack Software Engineer , Profiles - Roblox Careers",
+      "company": "Roblox Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.roblox.com/jobs/8140565",
+      "source": "Other",
+      "description": "Related Jobs \u00b7 Senior Software Engineer , Data Engineering \u00b7 Senior Machine Learning Engineer , GenAI Data \u00b7 Principal Rendering Engineer \u00b7 Distinguished ...",
+      "date": "2026-08-22",
+      "timestamp": "2026-08-22T10:12:38+00:00",
+      "fetched_at": "2026-08-22T12:11:32.083306+00:00"
+    },
+    {
+      "id": "e147e0fcf1cf",
+      "title": "Software Engineer Intern (TikTok AI Search & Visual Search Infra Team) - 2027 Summer",
+      "company": "2027 Summer",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://lifeattiktok.com/search/7676276048527214901",
+      "source": "Other",
+      "description": "View our opening for Software Engineer Intern (TikTok AI Search & Visual Search Infra Team) - 2027 Summer and learn more about what it's like to ...",
+      "date": "2026-08-22",
+      "timestamp": "2026-08-22T08:38:47+00:00",
+      "fetched_at": "2026-08-22T12:11:32.083492+00:00"
+    },
+    {
+      "id": "be208d6859ff",
+      "title": "Senior Site Reliability Engineer in Bengaluru, KA, India - Employ Careers",
+      "company": "Employ Careers",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.employinc.com/jobs/18152908-senior-site-reliability-engineer",
+      "source": "Other",
+      "description": "Senior Site Reliability Engineer in Bengaluru, KA, India. ... 5+ years of experience in Site Reliability Engineering, Software Engineer or a similar ...",
+      "date": "2026-08-22",
+      "timestamp": "2026-08-22T08:07:39+00:00",
+      "fetched_at": "2026-08-22T12:11:32.083701+00:00"
+    },
+    {
+      "id": "3dfcb13f4114",
+      "title": "What does \u201cfull-stack\u201d AI actually mean? - Google Blog",
+      "company": "does \u201cfull",
+      "role": "What does \u201cfull-stack\u201d AI actually mean? - Google Blog",
+      "regions": [
+        "India"
+      ],
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/what-full-stack-development-means/",
+      "source": "Other",
+      "description": "A Google DeepMind engineer breaks full-stack development into five simple layers and explains how it affects everyday users.",
+      "date": "2026-08-22",
+      "timestamp": "2026-08-22T08:00:07+00:00",
+      "fetched_at": "2026-08-22T12:11:32.084169+00:00"
+    },
     {
       "id": "0f3a54bed58b",
       "title": "Site Reliability Engineer | Schwab Jobs",
@@ -64,6 +124,21 @@
       "date": "2026-08-22",
       "timestamp": "2026-08-22T04:51:52+00:00",
       "fetched_at": "2026-08-22T08:13:23.719118+00:00"
+    },
+    {
+      "id": "a38402f94d0e",
+      "title": "Fullstack Software Engineer @ Physical Intelligence - Jobs",
+      "company": "Physicalintelligence",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/physicalintelligence/031e9b1e-6e58-4c81-b608-3cfda0514082",
+      "source": "Ashby",
+      "description": "Fullstack Software Engineer . Location. San Francisco. Employment Type. Full time. Location Type. On-site. Department. Software Engineering. Overview ...",
+      "date": "2026-08-22",
+      "timestamp": "2026-08-22T03:24:10+00:00",
+      "fetched_at": "2026-08-22T12:11:32.084554+00:00"
     },
     {
       "id": "7aa7288d7680",
@@ -124,6 +199,36 @@
       "date": "2026-08-21",
       "timestamp": "2026-08-21T23:51:47+00:00",
       "fetched_at": "2026-08-22T04:18:29.097166+00:00"
+    },
+    {
+      "id": "3f80daf42785",
+      "title": "Software Engineer - Frontend - Technology at Lowes",
+      "company": "Lowes",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://talent.lowes.com/us/en/job/JR-02526453/Software-Engineer-Frontend",
+      "source": "Other",
+      "description": "We are seeking a Senior Software Engineer to design and enhance Lowe's Search Platform, focusing on scalable OpenSearch/Elasticsearch solutions ...",
+      "date": "2026-08-21",
+      "timestamp": "2026-08-21T23:26:40+00:00",
+      "fetched_at": "2026-08-22T12:11:32.085407+00:00"
+    },
+    {
+      "id": "ab8df13b76db",
+      "title": "Senior Data Engineer Job Details - Boston Scientific Careers",
+      "company": "Boston Scientific Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.bostonscientific.com/job/Arden-Hills-Senior-Data-Engineer-MN-55112/1422152300/",
+      "source": "Other",
+      "description": "Senior Data Engineer . Work mode: Onsite. Onsite Location(s):. Arden Hills, MN, US, 55112. Additional Location(s): N/A. Diversity - Innovation - Caring ...",
+      "date": "2026-08-21",
+      "timestamp": "2026-08-21T23:26:13+00:00",
+      "fetched_at": "2026-08-22T12:11:32.085592+00:00"
     },
     {
       "id": "1ac6b1beb5bf",
