@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-08-23T00:27:27.753108+00:00",
-  "total_jobs": 8179,
+  "last_updated": "2026-08-23T04:23:50.424654+00:00",
+  "total_jobs": 8184,
   "stats": {
-    "total_companies": 3886,
+    "total_companies": 3887,
     "total_roles": 108,
     "regions": {
-      "India": 5315,
-      "Philippines": 1746,
+      "India": 5319,
+      "Philippines": 1747,
       "Remote": 1017,
       "Unknown": 135
     },
     "sources": {
-      "Other": 6414,
+      "Other": 6419,
       "Greenhouse": 405,
       "Workday": 353,
       "LinkedIn": 341,
@@ -35,6 +35,36 @@
     }
   },
   "jobs": [
+    {
+      "id": "6b072ac07781",
+      "title": "Senior, Software Engineer - Walmart Careers",
+      "company": "Walmart Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.walmart.com/us/en/jobs/R-2608414",
+      "source": "Other",
+      "description": "Position Summary... What you'll do... Role summary: The Senior Software Engineer will lead the delivery of scoped features and models through ...",
+      "date": "2026-08-22",
+      "timestamp": "2026-08-22T23:20:57+00:00",
+      "fetched_at": "2026-08-23T04:23:50.297827+00:00"
+    },
+    {
+      "id": "6854a008de57",
+      "title": "Machine Learning Engineer in Toronto, Canada - eBay Jobs",
+      "company": "eBay Jobs",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ebayinc.com/us/en/job/R0076358/Machine-Learning-Engineer",
+      "source": "Other",
+      "description": "Apply for Machine Learning Engineer job with eBay in Toronto, Canada. Engineering at eBay.",
+      "date": "2026-08-22",
+      "timestamp": "2026-08-22T23:10:36+00:00",
+      "fetched_at": "2026-08-23T04:23:50.298003+00:00"
+    },
     {
       "id": "6dc2ce897ee3",
       "title": "Mahidhar A's Post - LinkedIn",
@@ -66,6 +96,21 @@
       "fetched_at": "2026-08-23T00:27:27.631494+00:00"
     },
     {
+      "id": "09506f01eebb",
+      "title": "Junior Data Engineer - Solita",
+      "company": "Solita",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.solita.fi/positions/junior-data-engineer-7902522003/",
+      "source": "Other",
+      "description": "As a Junior Data Engineer , you'll start your consulting career by working alongside more experienced colleagues on customer projects. This is a hands- ...",
+      "date": "2026-08-22",
+      "timestamp": "2026-08-22T19:53:52+00:00",
+      "fetched_at": "2026-08-23T04:23:50.390251+00:00"
+    },
+    {
       "id": "62c2e4ed3889",
       "title": "Software Engineer , Accessibility - Jobs - Careers at Apple",
       "company": "Apple",
@@ -79,6 +124,21 @@
       "date": "2026-08-22",
       "timestamp": "2026-08-22T19:18:01+00:00",
       "fetched_at": "2026-08-23T00:27:27.631838+00:00"
+    },
+    {
+      "id": "01a2bd202273",
+      "title": "Lead Software Engineer (Python) in Richardson, Texas - State Farm Careers",
+      "company": "State Farm Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.statefarm.com/event-35583/jobs/45014?lang=en-us",
+      "source": "Other",
+      "description": "Proximity Career Events is hiring a Lead Software Engineer (Python) in Richardson, Texas. Review all of the job details and apply today!",
+      "date": "2026-08-22",
+      "timestamp": "2026-08-22T19:09:10+00:00",
+      "fetched_at": "2026-08-23T04:23:50.298583+00:00"
     },
     {
       "id": "898cf71bf548",
@@ -109,6 +169,21 @@
       "date": "2026-08-22",
       "timestamp": "2026-08-22T18:26:57+00:00",
       "fetched_at": "2026-08-23T00:27:27.632118+00:00"
+    },
+    {
+      "id": "db21e3529878",
+      "title": "Senior Fullstack Software Engineer - Careers at NVIDIA Corporation",
+      "company": "NVIDIA Corporation",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.nvidia.com/careers/job/893396754788",
+      "source": "Other",
+      "description": "As a senior software engineer , you will craft highly efficient software to automate and facilitate chip design and verification processes.",
+      "date": "2026-08-22",
+      "timestamp": "2026-08-22T18:26:15+00:00",
+      "fetched_at": "2026-08-23T04:23:50.299173+00:00"
     },
     {
       "id": "aa5a6a0837ea",
