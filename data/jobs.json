@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-08-23T04:23:50.424654+00:00",
-  "total_jobs": 8184,
+  "last_updated": "2026-08-23T08:13:51.962507+00:00",
+  "total_jobs": 8191,
   "stats": {
-    "total_companies": 3887,
+    "total_companies": 3892,
     "total_roles": 108,
     "regions": {
-      "India": 5319,
+      "India": 5325,
       "Philippines": 1747,
-      "Remote": 1017,
+      "Remote": 1018,
       "Unknown": 135
     },
     "sources": {
-      "Other": 6419,
+      "Other": 6425,
       "Greenhouse": 405,
       "Workday": 353,
-      "LinkedIn": 341,
+      "LinkedIn": 342,
       "Ashby": 249,
       "iCIMS": 100,
       "Breezy": 88,
@@ -31,10 +31,70 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-08-22"
+      "latest": "2026-08-23"
     }
   },
   "jobs": [
+    {
+      "id": "f5e5eeac3064",
+      "title": "Job Title: Sr Software Engineer - Careers I NOMURA",
+      "company": "Careers I NOMURA",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.nomura.com/Nomura/job/Mumbai-Sr-Software-Engineer/1386041400/",
+      "source": "Other",
+      "description": "Job Title: Sr Software Engineer . Job Code: 13353. Country: IN. City: Mumbai. Skill Category: IT\\Technology. Description: Division Overview: Global ...",
+      "date": "2026-08-23",
+      "timestamp": "2026-08-23T04:05:32+00:00",
+      "fetched_at": "2026-08-23T08:13:51.839403+00:00"
+    },
+    {
+      "id": "f0dcf29a3cec",
+      "title": "Senior Staff Data Engineer (Data & AI solutions) at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/senior-staff-data-engineer-data-and-ai-solutions/47263/99430671632",
+      "source": "Other",
+      "description": "Learn more about applying for Senior Staff Data Engineer (Data & AI solutions) at Palo Alto Networks. ... Principal Software Engineer (Full Stack- ...",
+      "date": "2026-08-23",
+      "timestamp": "2026-08-23T03:25:56+00:00",
+      "fetched_at": "2026-08-23T08:13:51.839672+00:00"
+    },
+    {
+      "id": "49f39771bff0",
+      "title": "Staff Software Engineer - Switch Design Job Details | Super Micro Computer",
+      "company": "Switch Design Job Details | Super Micro Computer",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.supermicro.com/job/San-Jose-Staff-Software-Engineer-Switch-Design-Cali/1340789500/",
+      "source": "Other",
+      "description": "Supermicro is seeking an experienced Staff Software Engineer - Switch Design to lead the design and development of high-performance networking ...",
+      "date": "2026-08-23",
+      "timestamp": "2026-08-23T02:33:09+00:00",
+      "fetched_at": "2026-08-23T08:13:51.839915+00:00"
+    },
+    {
+      "id": "74fd2f129923",
+      "title": "Data Engineer | Predictions | Experienced Hire in Bala Cynwyd (Philadelphia Area), Pennsylvania",
+      "company": "Predictions | Experienced Hire in Bala Cynwyd (Philadelphia Area), Pennsylvania",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.sig.com/us-technology/jobs/10347?lang=en-us",
+      "source": "Other",
+      "description": "We are looking for an experienced Quantitative Data Engineer to join our Prediction Markets team. We specialize in geopolitical and sports analytics ...",
+      "date": "2026-08-22",
+      "timestamp": "2026-08-22T23:44:35+00:00",
+      "fetched_at": "2026-08-23T08:13:51.840285+00:00"
+    },
     {
       "id": "6b072ac07781",
       "title": "Senior, Software Engineer - Walmart Careers",
@@ -64,6 +124,21 @@
       "date": "2026-08-22",
       "timestamp": "2026-08-22T23:10:36+00:00",
       "fetched_at": "2026-08-23T04:23:50.298003+00:00"
+    },
+    {
+      "id": "b2f0ce732a54",
+      "title": "Sr. Software Engineer - Embedded Platform Software (Onsite) in cedar rapids, Iowa, United ...",
+      "company": "Embedded Platform Software (Onsite) in cedar rapids, Iowa, United ...",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.rtx.com/global/en/job/01867924/Sr-Software-Engineer-Embedded-Platform-Software-Onsite",
+      "source": "Other",
+      "description": "Collins Aerospace Resilient Connectivity Products (RCP) Engineering seeks a Senior Software Engineer ... Senior Software Engineer (Onsite). Location ...",
+      "date": "2026-08-22",
+      "timestamp": "2026-08-22T22:55:42+00:00",
+      "fetched_at": "2026-08-23T08:13:51.840806+00:00"
     },
     {
       "id": "6dc2ce897ee3",
@@ -111,6 +186,21 @@
       "fetched_at": "2026-08-23T04:23:50.390251+00:00"
     },
     {
+      "id": "b3d5dfa9ab41",
+      "title": "Software Engineer \u2013 Cisco IQ | Bangalore",
+      "company": "Bangalore",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2023390EXTERNALENGLOBAL/Software-Engineer-Cisco-IQ-Bangalore",
+      "source": "Other",
+      "description": "Apply for Software Engineer \u2013 Cisco IQ | Bangalore job with Cisco in Bangalore, India. Product and Engineering at Cisco.",
+      "date": "2026-08-22",
+      "timestamp": "2026-08-22T19:45:37+00:00",
+      "fetched_at": "2026-08-23T08:13:51.841287+00:00"
+    },
+    {
       "id": "62c2e4ed3889",
       "title": "Software Engineer , Accessibility - Jobs - Careers at Apple",
       "company": "Apple",
@@ -139,6 +229,21 @@
       "date": "2026-08-22",
       "timestamp": "2026-08-22T19:09:10+00:00",
       "fetched_at": "2026-08-23T04:23:50.298583+00:00"
+    },
+    {
+      "id": "f0fe9e019378",
+      "title": "Senior Software Engineer | Remote at Crossing Hurdles \u2014 United States | LinkedIn Jobs",
+      "company": "Crossing Hurdles \u2014 United States",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/senior-software-engineer-remote-at-crossing-hurdles-4456665463?refId=20%2Bqd7mahJMtLX5ZpNQ2BA%3D%3D&trackingId=QA5fu0kh5rYFENzYMPHcdg%3D%3D",
+      "source": "LinkedIn",
+      "description": "Apply for Senior Software Engineer | Remote at Crossing Hurdles in United States ... People also viewed. Senior Backend Engineer (Remote, US). Senior ...",
+      "date": "2026-08-22",
+      "timestamp": "2026-08-22T19:05:13+00:00",
+      "fetched_at": "2026-08-23T08:13:51.841881+00:00"
     },
     {
       "id": "898cf71bf548",
