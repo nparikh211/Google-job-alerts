@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-08-24T12:18:37.733315+00:00",
-  "total_jobs": 8255,
+  "last_updated": "2026-08-24T16:19:21.783402+00:00",
+  "total_jobs": 8267,
   "stats": {
-    "total_companies": 3914,
+    "total_companies": 3919,
     "total_roles": 108,
     "regions": {
-      "India": 5369,
+      "India": 5381,
       "Philippines": 1765,
       "Remote": 1021,
       "Unknown": 135
     },
     "sources": {
-      "Other": 6480,
+      "Other": 6491,
       "Greenhouse": 406,
-      "Workday": 354,
+      "Workday": 355,
       "LinkedIn": 346,
       "Ashby": 249,
       "iCIMS": 100,
@@ -36,6 +36,141 @@
   },
   "jobs": [
     {
+      "id": "f6cb196a1dfb",
+      "title": "India, Sr DevOps Engineer II - 20183 - MetLife Careers",
+      "company": "20183 - MetLife Careers",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.metlifecareers.com/en_US/ml/JobDetail/Sr-DevOps-Engineer-II/20183",
+      "source": "Other",
+      "description": "Sr DevOps Engineer II. General Information. Location. Pune, Maharashtra. Working Schedule. Full-Time. Work Arrangement. Hybrid. Relocation Assistance ...",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T14:25:13+00:00",
+      "fetched_at": "2026-08-24T16:19:21.635340+00:00"
+    },
+    {
+      "id": "d9abd563c5ba",
+      "title": "Senior Machine Learning Engineer - ML Training Infrastructure - General Motors Careers",
+      "company": "ML Training Infrastructure - General Motors Careers",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://search-careers.gm.com/en/jobs/jr-202618569/senior-machine-learning-engineer-ml-training-infrastructure/",
+      "source": "Other",
+      "description": "Senior Machine Learning Engineer - ML Training Infrastructure. Location ... As a Senior ML Engineer , you will collaborate closely with machine ...",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T13:53:35+00:00",
+      "fetched_at": "2026-08-24T16:19:21.635671+00:00"
+    },
+    {
+      "id": "e6fc4130c37f",
+      "title": "Software Engineer Bengaluru, Karnataka, India - NetApp Careers",
+      "company": "NetApp Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.netapp.com/job/bengaluru/software-engineer/27600/96022744512",
+      "source": "Other",
+      "description": "Explore roles where you can make measurable impact, keep learning, and collaborate with high-performing teams. \u00b7 Software Engineer .",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T13:49:25+00:00",
+      "fetched_at": "2026-08-24T16:19:21.635835+00:00"
+    },
+    {
+      "id": "1bbf6bd056d5",
+      "title": "Data Engineer - Digital Edge DC Jobs",
+      "company": "Digital Edge DC Jobs",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.digitaledgedc.com/job/Data-Engineer/1366284866/",
+      "source": "Other",
+      "description": "Data Engineer \u00b7 Who we are: Digital Edge DC (Digital Edge) is a leading data center platform company, established to transform digital infrastructure ...",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T13:47:49+00:00",
+      "fetched_at": "2026-08-24T16:19:21.635983+00:00"
+    },
+    {
+      "id": "e1039c9c1b8d",
+      "title": "Software Engineer 1 - Myworkdayjobs.com",
+      "company": "Modmed",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://modmed.wd501.myworkdayjobs.com/en-US/ModMed12/job/Hyderabad-India/Software-Engineer-1_R4945/apply/autofillWithResume?source=LinkedIn",
+      "source": "Workday",
+      "description": "... Software Engineer 1, Trainee At ModMed, We Think Big. We Have Fun. We Do Good. Healthcare technology shouldn't get in the way\u2014it should get out of ...",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T13:47:30+00:00",
+      "fetched_at": "2026-08-24T16:19:21.636238+00:00"
+    },
+    {
+      "id": "c2bab68fbb70",
+      "title": "Agentic AI Platform Engineer in Bangalore, Karnataka, India - Merck Careers",
+      "company": "Merck Careers",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.merckgroup.com/global/en/job/302855/Agentic-AI-Platform-Engineer",
+      "source": "Other",
+      "description": "Senior Cloud Engineer - AI-ML Platform. Bangalore, Karnataka, India Job Type Full-time. ( Senior) Software Engineer (all genders) 1. Bangalore ...",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T13:38:40+00:00",
+      "fetched_at": "2026-08-24T16:19:21.636407+00:00"
+    },
+    {
+      "id": "ef365248002d",
+      "title": "Software Engineer (Developer, OpenSearch) - GDIT",
+      "company": "GDIT",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.gdit.com/careers/job/f6f077786/software-engineer-developer-opensearch/",
+      "source": "Other",
+      "description": "Make an impact by using your expertise to protect our country from threats. Job Description. SOFTWARE ENGINEER Transform technology into opportunity ...",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T13:13:50+00:00",
+      "fetched_at": "2026-08-24T16:19:21.636605+00:00"
+    },
+    {
+      "id": "83278a0ed88e",
+      "title": "Senior Data Engineer - Careers at Citizens Bank",
+      "company": "Citizens Bank",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.citizensbank.com/job/johnston/senior-data-engineer/288/99664073040",
+      "source": "Other",
+      "description": "... Data Engineer , Talend Data Engineer , or related position. In the ... Manager, Software Engineer Johnston, Rhode IslandJohnston, Rhode Island.",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T12:38:39+00:00",
+      "fetched_at": "2026-08-24T16:19:21.636752+00:00"
+    },
+    {
+      "id": "eaf6971c1acf",
+      "title": "Lead Full Stack Engineer - Barclays Careers",
+      "company": "Barclays Careers",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://search.jobs.barclays/job/pune/lead-full-stack-engineer/13015/99661801424",
+      "source": "Other",
+      "description": "DevOps Engineer . Pune (India). Barclays UK ... Akshat, Senior Software Engineer , reveals the key factors behind his decision to join Barclays.",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T12:33:56+00:00",
+      "fetched_at": "2026-08-24T16:19:21.636901+00:00"
+    },
+    {
       "id": "155b62d9def7",
       "title": "Job Application for Sr. ML Engineer at 6sense - Greenhouse",
       "company": "6Sense",
@@ -49,6 +184,51 @@
       "date": "2026-08-24",
       "timestamp": "2026-08-24T11:47:57+00:00",
       "fetched_at": "2026-08-24T12:18:37.697524+00:00"
+    },
+    {
+      "id": "497262cb3740",
+      "title": "MTS-2 Machine Learning Engineer in Bengaluru, India - eBay Jobs",
+      "company": "MTS",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ebayinc.com/us/en/job/R0076266/MTS-2-Machine-Learning-Engineer",
+      "source": "Other",
+      "description": "Apply for MTS-2 Machine Learning Engineer job with eBay in Bengaluru, India. Engineering at eBay.",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T11:33:10+00:00",
+      "fetched_at": "2026-08-24T16:19:21.637140+00:00"
+    },
+    {
+      "id": "40f40bbcfad4",
+      "title": "Senior Software Engineer at Ford Motor Company",
+      "company": "Ford Motor Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.careers.ford.com/en/job/india/senior-software-engineer/48560/99660462768",
+      "source": "Other",
+      "description": "Ford is seeking an experienced Senior Software Engineer to help develop, enhance, and expand our observability and chaos engineering platform ...",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T11:02:16+00:00",
+      "fetched_at": "2026-08-24T16:19:21.637430+00:00"
+    },
+    {
+      "id": "feef0957b8a1",
+      "title": "Software Engineer - Devops - - 32663 - HARMAN International",
+      "company": "Devops - - 32663 - HARMAN International",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobsearch.harman.com/en_US/careers/JobDetail/Software-Engineer-Devops/32663",
+      "source": "Other",
+      "description": "Software Engineer - Devops. General ... We are seeking a skilled DevOps Engineer with Python Backend experience to join our engineering team.",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T10:50:59+00:00",
+      "fetched_at": "2026-08-24T16:19:21.637642+00:00"
     },
     {
       "id": "0359f38881c1",
