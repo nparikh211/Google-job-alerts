@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-08-24T00:26:31.164132+00:00",
-  "total_jobs": 8225,
+  "last_updated": "2026-08-24T04:31:38.195731+00:00",
+  "total_jobs": 8232,
   "stats": {
-    "total_companies": 3904,
+    "total_companies": 3909,
     "total_roles": 108,
     "regions": {
-      "India": 5345,
-      "Philippines": 1760,
-      "Remote": 1019,
+      "India": 5349,
+      "Philippines": 1762,
+      "Remote": 1021,
       "Unknown": 135
     },
     "sources": {
-      "Other": 6455,
+      "Other": 6462,
       "Greenhouse": 405,
       "Workday": 354,
       "LinkedIn": 344,
@@ -31,10 +31,71 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-08-23"
+      "latest": "2026-08-24"
     }
   },
   "jobs": [
+    {
+      "id": "ef9cb5f61f07",
+      "title": "Sr. Software Engineer C# - Azure Specialist | Careers at McDonald's - Corporate",
+      "company": "McDonald's",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mcdonalds.com/sr-software-engineer-c-azure-specialist/job/63C85CDD47CED979FA01ED3BDBE51D76",
+      "source": "Other",
+      "description": "Join McDonald's - Corporate in by applying to the Sr. Software Engineer C# - Azure Specialist job today! Start your career in now!",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T02:12:41+00:00",
+      "fetched_at": "2026-08-24T04:31:37.965957+00:00"
+    },
+    {
+      "id": "d1c49d2fee27",
+      "title": "Principal Software Engineer - Mobile Platform - Canva Careers",
+      "company": "Mobile Platform - Canva Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.lifeatcanva.com/en/jobs/6000000001341564/principal-software-engineer-mobile-platform/",
+      "source": "Other",
+      "description": "Medium skinned woman wearing a floral dress, holding a pair of glasses. Principal Software Engineer - Mobile Platform. Team. Engineering. Country.",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T01:56:43+00:00",
+      "fetched_at": "2026-08-24T04:31:37.966504+00:00"
+    },
+    {
+      "id": "6375c7adf955",
+      "title": "Senior / Staff Full-Stack Engineer \u2014 Govra Careers",
+      "company": "Senior / Staff Full",
+      "role": "Stack Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.govra.com/careers/senior-full-stack-engineer?utm_source=General+Catalyst+job+board&utm_medium=getro.com&gh_src=General+Catalyst+job+board",
+      "source": "Other",
+      "description": "Senior / Staff Full-Stack Engineer ... We are seeking a Senior / Staff Software Engineer to help build and scale Govra's intelligent operating system ...",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T00:34:12+00:00",
+      "fetched_at": "2026-08-24T04:31:38.156674+00:00"
+    },
+    {
+      "id": "5735cd6e99b1",
+      "title": "Software Engineer | Appfire",
+      "company": "Appfire",
+      "role": "Software Engineer",
+      "regions": [
+        "India",
+        "Remote"
+      ],
+      "link": "https://appfire.com/careers/open-positions/4726339005/?utm_source=ProductJobsAnywhere",
+      "source": "Other",
+      "description": "Software Engineer . Software Engineer . India. Full Time. At Appfire, we believe that great work happens when people get to choose how they work. After ...",
+      "date": "2026-08-23",
+      "timestamp": "2026-08-23T20:06:15+00:00",
+      "fetched_at": "2026-08-24T04:31:38.157244+00:00"
+    },
     {
       "id": "bc6b1fae862f",
       "title": "Lead Software Engineer | ASSA ABLOY",
@@ -111,6 +172,36 @@
       "fetched_at": "2026-08-23T20:06:51.001203+00:00"
     },
     {
+      "id": "62260dc49b90",
+      "title": "Software Engineer - Data Insights at MCKESSON",
+      "company": "MCKESSON",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mckesson.com/en/job/-/-/733/99440450400?p_sid=7ybmHAb&p_uid=mxJ2NHuuEE&source=rd_dice_pj&ss=paid&utm_campaign=engineering&utm_content=pj_board&utm_medium=jobad&utm_source=dice",
+      "source": "Other",
+      "description": "Tackling challenges no one else can. Software Engineer - Data Insights. Irving, Texas. Job IDJR0151967 See Job Responsibilities.",
+      "date": "2026-08-23",
+      "timestamp": "2026-08-23T18:32:37+00:00",
+      "fetched_at": "2026-08-24T04:31:37.968354+00:00"
+    },
+    {
+      "id": "026f27e41410",
+      "title": "Senior Software Engineer at SugarAI - Remote",
+      "company": "SugarAI",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://remote.com/jobs/sugarai-c12sw6ob/senior-software-engineer-j1a66fdo",
+      "source": "Other",
+      "description": "SugarAI is hiring a Senior Software Engineer . Apply now on remote.com/jobs.",
+      "date": "2026-08-23",
+      "timestamp": "2026-08-23T17:50:34+00:00",
+      "fetched_at": "2026-08-24T04:31:37.968489+00:00"
+    },
+    {
       "id": "b381e51bf3cd",
       "title": "Software Engineer in Bangalore, India | Product and Engineering at Cisco - Cisco Careers",
       "company": "Cisco",
@@ -124,6 +215,21 @@
       "date": "2026-08-23",
       "timestamp": "2026-08-23T17:28:46+00:00",
       "fetched_at": "2026-08-23T20:06:51.001380+00:00"
+    },
+    {
+      "id": "8edf077d79de",
+      "title": "Revley.ai \u2013 Full Stack Engineer - MIT Career Advising",
+      "company": "MIT Career Advising",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://capd.mit.edu/companies/revley-ai/jobs/",
+      "source": "Other",
+      "description": "Full-Stack AI Engineer \u2014 Payments & Agentic Systems. About Revley. The next generation of businesses won't be run by people clicking through ...",
+      "date": "2026-08-23",
+      "timestamp": "2026-08-23T17:07:59+00:00",
+      "fetched_at": "2026-08-24T04:31:38.159864+00:00"
     },
     {
       "id": "a487f5b50811",
