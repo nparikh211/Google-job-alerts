@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-08-24T08:31:53.449126+00:00",
-  "total_jobs": 8245,
+  "last_updated": "2026-08-24T12:18:37.733315+00:00",
+  "total_jobs": 8255,
   "stats": {
-    "total_companies": 3912,
+    "total_companies": 3914,
     "total_roles": 108,
     "regions": {
-      "India": 5362,
-      "Philippines": 1762,
+      "India": 5369,
+      "Philippines": 1765,
       "Remote": 1021,
       "Unknown": 135
     },
     "sources": {
-      "Other": 6472,
-      "Greenhouse": 405,
+      "Other": 6480,
+      "Greenhouse": 406,
       "Workday": 354,
       "LinkedIn": 346,
       "Ashby": 249,
       "iCIMS": 100,
-      "Breezy": 89,
+      "Breezy": 90,
       "Lever": 56,
       "Workable": 56,
       "SmartRecruiters": 53,
@@ -35,6 +35,66 @@
     }
   },
   "jobs": [
+    {
+      "id": "155b62d9def7",
+      "title": "Job Application for Sr. ML Engineer at 6sense - Greenhouse",
+      "company": "6Sense",
+      "role": "ML Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/6sense/jobs/8144725",
+      "source": "Greenhouse",
+      "description": "We want 6sense to be the best chapter of your career. About the Role : We're hiring a Sr. ML Engineer to join our AI team. Signals tell you what ...",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T11:47:57+00:00",
+      "fetched_at": "2026-08-24T12:18:37.697524+00:00"
+    },
+    {
+      "id": "0359f38881c1",
+      "title": "AI Engineer in Bengaluru, Karn\u0101taka, India, 560066 | Digital Technology / IT at GE HealthCare",
+      "company": "GE HealthCare",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.gehealthcare.com/global/en/job/R4045320/AI-Engineer",
+      "source": "Other",
+      "description": "AI Engineer . Apply Now. Back to search results. Previous job Next job ... Software Engineer (Technical Lead). See more. See less. See next. See even ...",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T09:21:20+00:00",
+      "fetched_at": "2026-08-24T12:18:37.697688+00:00"
+    },
+    {
+      "id": "742358b68599",
+      "title": "Senior Software Engineer , AI/TPU Infrastructure Firmware, On-prem \u2014 Google Careers",
+      "company": "prem \u2014 Google Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/141792088101397190-senior-software-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer , AI/TPU Infrastructure Firmware, On-prem. share. Share Senior Software Engineer , AI/TPU Infrastructure Firmware, On-prem.",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T09:20:32+00:00",
+      "fetched_at": "2026-08-24T12:18:37.594440+00:00"
+    },
+    {
+      "id": "763bafbaad06",
+      "title": "AI/ ML Engineer at UnitedHealth Group",
+      "company": "UnitedHealth Group",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.unitedhealthgroup.com/job/minnetonka/ai-ml-engineer/34088/99654623024",
+      "source": "Other",
+      "description": "Join us to start Caring. Connecting. Growing together. Position Summary. As an AI/ ML Engineer , you will join our innovative technology team at Optum ...",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T09:12:18+00:00",
+      "fetched_at": "2026-08-24T12:18:37.594627+00:00"
+    },
     {
       "id": "082c9b3a877f",
       "title": "Software Engineer , ML Accelerators, DeepMind - Careers - Google",
@@ -96,6 +156,66 @@
       "fetched_at": "2026-08-24T08:31:53.203492+00:00"
     },
     {
+      "id": "7a5b7ec587c8",
+      "title": "Backend Engineer (SDE 1) at Kredivo Group",
+      "company": "Kredivo Group",
+      "role": "Backend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://kredivo-group.breezy.hr/p/17efc5ce479e-backend-engineer-sde-1",
+      "source": "Breezy",
+      "description": "Backend Engineer (SDE 1) \u00b7 1. Programming Basics: Programming language related questions - Python/Go experience is good to have. \u00b7 2. Data Structures:.",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T07:49:39+00:00",
+      "fetched_at": "2026-08-24T12:18:37.595424+00:00"
+    },
+    {
+      "id": "4f700c0e2557",
+      "title": "Site Reliability Engineer job in Hyderabad, India | Experian",
+      "company": "Experian",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.experian.com/job/site-reliability-engineer-in-hyderabad-india-jid-6010",
+      "source": "Other",
+      "description": "Role Overview:Results-driven Site Reliability Engineer with experience in building and scaling observability solutions across cloud-native and ...",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T07:31:15+00:00",
+      "fetched_at": "2026-08-24T12:18:37.595739+00:00"
+    },
+    {
+      "id": "795cea94bdbc",
+      "title": "Software Engineer , Power Platform (Senior) - MSD Careers",
+      "company": "MSD Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.msd.com/de/de/job/R404336/Software-Engineer-Power-Platform-Senior",
+      "source": "Other",
+      "description": "Apply for Software Engineer , Power Platform (Senior) job with MSD in Prague, Central Bohemian, Czechia. IT & Digital Data at MSD.",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T07:25:12+00:00",
+      "fetched_at": "2026-08-24T12:18:37.595898+00:00"
+    },
+    {
+      "id": "b1508b355537",
+      "title": "Data Engineer - Mercedes-Benz Group > Careers > Job search",
+      "company": "Mercedes-Benz Group > Careers > Job search",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.mercedes-benz.com/en/data-engineer-235645-mer00047pi",
+      "source": "Other",
+      "description": "Job Summary: We are looking for a hands-on, self-driven Data Engineer with 5+ years of experience to join our team. In this role, you will be the ...",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T06:51:35+00:00",
+      "fetched_at": "2026-08-24T12:18:37.596091+00:00"
+    },
+    {
       "id": "f4127919c1c4",
       "title": "AI Engineer - HigherEdJobs",
       "company": "HigherEdJobs",
@@ -109,6 +229,36 @@
       "date": "2026-08-24",
       "timestamp": "2026-08-24T06:42:06+00:00",
       "fetched_at": "2026-08-24T08:31:53.203636+00:00"
+    },
+    {
+      "id": "3d0ae1d9ea45",
+      "title": "Senior Software Engineer - Job Detail | Careers Marketplace - Siemens",
+      "company": "Job Detail | Careers Marketplace - Siemens",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/519414",
+      "source": "Other",
+      "description": "Senior Software Engineer . Job ID. 519414. Posted since. 24-Aug-2026. Organization. Foundational Technologies. Field of work. Research & Development.",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T06:38:30+00:00",
+      "fetched_at": "2026-08-24T12:18:37.699093+00:00"
+    },
+    {
+      "id": "5a2bc2b23808",
+      "title": "Last I checked nobody hired AI Engineer for their AI certification! No matter where you get ...",
+      "company": "Unknown Company",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://x.com/pvergadia/status/2091753884889063466",
+      "source": "Other",
+      "description": "Priyanka Vergadia (@pvergadia). 351 views. Last I checked nobody hired AI Engineer for their AI certification! No matter where you get the cert ...",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T06:11:54+00:00",
+      "fetched_at": "2026-08-24T12:18:37.699225+00:00"
     },
     {
       "id": "8c5c3f8394b0",
