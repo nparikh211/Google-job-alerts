@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-08-23T20:06:51.183058+00:00",
-  "total_jobs": 8215,
+  "last_updated": "2026-08-24T00:26:31.164132+00:00",
+  "total_jobs": 8225,
   "stats": {
-    "total_companies": 3902,
+    "total_companies": 3904,
     "total_roles": 108,
     "regions": {
-      "India": 5340,
-      "Philippines": 1756,
-      "Remote": 1018,
+      "India": 5345,
+      "Philippines": 1760,
+      "Remote": 1019,
       "Unknown": 135
     },
     "sources": {
-      "Other": 6448,
+      "Other": 6455,
       "Greenhouse": 405,
       "Workday": 354,
-      "LinkedIn": 342,
+      "LinkedIn": 344,
       "Ashby": 249,
       "iCIMS": 100,
       "Breezy": 88,
+      "Lever": 56,
       "Workable": 56,
-      "Lever": 55,
       "SmartRecruiters": 53,
       "Indeed": 29,
       "BrassRing": 10,
@@ -35,6 +35,36 @@
     }
   },
   "jobs": [
+    {
+      "id": "bc6b1fae862f",
+      "title": "Lead Software Engineer | ASSA ABLOY",
+      "company": "ASSA ABLOY",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.assaabloy.com/career/en/open-positions/job.50663",
+      "source": "Other",
+      "description": "Lead Software Engineer . ASSA ABLOY is a global leader in access solutions, dedicated to shaping the future of security and convenience. With a rich ...",
+      "date": "2026-08-23",
+      "timestamp": "2026-08-23T19:51:25+00:00",
+      "fetched_at": "2026-08-24T00:26:31.010593+00:00"
+    },
+    {
+      "id": "e11fc208692d",
+      "title": "Blindly hiring Senior Software Engineer in California, United States | LinkedIn",
+      "company": "LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/senior-software-engineer-at-blindly-4456687744",
+      "source": "LinkedIn",
+      "description": "As a Senior Software Engineer at Payer, you'll play a crucial role in ... Full Stack Engineer jobs \u00b7 Senior Dotnet Developer jobs \u00b7 Senior ...",
+      "date": "2026-08-23",
+      "timestamp": "2026-08-23T19:17:20+00:00",
+      "fetched_at": "2026-08-24T00:26:31.010845+00:00"
+    },
     {
       "id": "ab901235d8a0",
       "title": "Senior Software Engineer - Platform Automation (Cortex) at Palo Alto Networks",
@@ -94,6 +124,81 @@
       "date": "2026-08-23",
       "timestamp": "2026-08-23T17:28:46+00:00",
       "fetched_at": "2026-08-23T20:06:51.001380+00:00"
+    },
+    {
+      "id": "a487f5b50811",
+      "title": "Senior Backend & AI Platform Engineer - Job Detail | Careers Marketplace - Siemens Jobs",
+      "company": "Job Detail | Careers Marketplace - Siemens Jobs",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/508859?ste_sid=417c6fd471954727e50e73a2b899b5a8",
+      "source": "Other",
+      "description": "Senior Backend & AI Platform Engineer . Job ID. 508859. Posted since. 07-Jun ... We are seeking a Senior Backend & AI Engineer with 6+ years of ...",
+      "date": "2026-08-23",
+      "timestamp": "2026-08-23T16:13:58+00:00",
+      "fetched_at": "2026-08-24T00:26:31.012195+00:00"
+    },
+    {
+      "id": "822b385b0a89",
+      "title": "Data Engineer Job Details | Scotiabank",
+      "company": "Scotiabank",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.scotiabank.com/job/Toronto-Data-Engineer-ON-M5H-1H1/605371717/",
+      "source": "Other",
+      "description": "The Role As a Data Engineer on Scotiabank's Data & AI Technology team, you will be involved in designing, building, and scaling our enterprise ...",
+      "date": "2026-08-23",
+      "timestamp": "2026-08-23T15:01:20+00:00",
+      "fetched_at": "2026-08-24T00:26:31.122128+00:00"
+    },
+    {
+      "id": "b9fda90816d9",
+      "title": "Software Engineer , Backend (AI), Petaling Jaya, Malaysia | Grab Careers",
+      "company": "Grab Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.grab.careers/en/jobs/744000145032469/software-engineer-backend-ai/",
+      "source": "Other",
+      "description": "As a Software Engineer on our team, you will be the technical backbone of LLM-Kit, Grab's framework for building, deploying, and monitoring LLM and ...",
+      "date": "2026-08-23",
+      "timestamp": "2026-08-23T14:29:50+00:00",
+      "fetched_at": "2026-08-24T00:26:31.122284+00:00"
+    },
+    {
+      "id": "121ce215e1b2",
+      "title": "Managed Services - Data Engineer - Senior Associate - PwC | Built In Colorado",
+      "company": "Managed Services",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.builtincolorado.com/job/managed-services-data-engineer-senior-associate/10810186",
+      "source": "Other",
+      "description": "PwC is hiring for a Managed Services - Data Engineer - Senior Associate in Denver, CO, USA. Find more details about the job and how to apply at ...",
+      "date": "2026-08-23",
+      "timestamp": "2026-08-23T14:17:06+00:00",
+      "fetched_at": "2026-08-24T00:26:31.122471+00:00"
+    },
+    {
+      "id": "8558abab1912",
+      "title": "Senior Software Engineer - ClearanceJobs",
+      "company": "ClearanceJobs",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.clearancejobs.com/jobs/9113170/senior-software-engineer?source=job_search",
+      "source": "Other",
+      "description": "Senior Software Engineer requiring an active security clearance. Find other Cutlass Systems Engineering defense and intelligence career ...",
+      "date": "2026-08-23",
+      "timestamp": "2026-08-23T13:41:00+00:00",
+      "fetched_at": "2026-08-24T00:26:31.122628+00:00"
     },
     {
       "id": "0ea40c979f74",
@@ -171,6 +276,21 @@
       "fetched_at": "2026-08-23T16:09:07.049219+00:00"
     },
     {
+      "id": "b3f0b519e75e",
+      "title": "Senior Full-Stack Engineer at MBARC LABS \u2014 United States | LinkedIn Jobs",
+      "company": "MBARC LABS \u2014 United States",
+      "role": "Stack Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/senior-full-stack-engineer-at-mbarc-labs-4455080802?position=15&pageNum=0&refId=rW2ICVwkGm2oFBDjwsUZLA%3D%3D&trackingId=KXGdGVa5izGTFNcM%2BnhLzg%3D%3D",
+      "source": "LinkedIn",
+      "description": "Senior Full Stack Engineer \u00b7 Senior Fullstack Engineer (Remote) \u00b7 Senior Full Stack Software Engineer \u00b7 Senior Software Engineer \u00b7 Sr. Full Stack Engineer .",
+      "date": "2026-08-23",
+      "timestamp": "2026-08-23T12:01:04+00:00",
+      "fetched_at": "2026-08-24T00:26:31.013904+00:00"
+    },
+    {
       "id": "d09289f1f493",
       "title": "Embedded Software Engineer in Multiple Locations | Viasat, Inc.",
       "company": "Viasat, Inc.",
@@ -216,6 +336,21 @@
       "fetched_at": "2026-08-23T20:06:51.002666+00:00"
     },
     {
+      "id": "adfb37c28dc6",
+      "title": "Zoox - Software Engineer - Mapping Data Software - Lever",
+      "company": "Zoox",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.lever.co/zoox/8102c816-7ce1-49c8-8093-f46c8074652c",
+      "source": "Lever",
+      "description": "We are seeking a Software Engineer to develop the geometry algorithms behind these data products and the interfaces consumers use to access them - ...",
+      "date": "2026-08-23",
+      "timestamp": "2026-08-23T10:06:30+00:00",
+      "fetched_at": "2026-08-24T00:26:31.014518+00:00"
+    },
+    {
       "id": "f23bac3e6e94",
       "title": "Andrew NG just dropped the full roadmap to become an AI Engineer in 2026.",
       "company": "Unknown Company",
@@ -229,6 +364,21 @@
       "date": "2026-08-23",
       "timestamp": "2026-08-23T09:45:59+00:00",
       "fetched_at": "2026-08-23T20:06:51.002790+00:00"
+    },
+    {
+      "id": "7d8acb747076",
+      "title": "Software Engineer , iOS, Bangalore, India | Grab Careers",
+      "company": "Grab Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.grab.careers/en/jobs/744000145029439/software-engineer-ios/",
+      "source": "Other",
+      "description": "We're looking for a Experience writing clean, concise code with comments and analytics Software Engineer , iOS to join our lending team within Grab ...",
+      "date": "2026-08-23",
+      "timestamp": "2026-08-23T09:36:29+00:00",
+      "fetched_at": "2026-08-24T00:26:31.014791+00:00"
     },
     {
       "id": "0317201c7cd1",
