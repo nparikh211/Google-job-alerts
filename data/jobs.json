@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-08-24T16:19:21.783402+00:00",
-  "total_jobs": 8267,
+  "last_updated": "2026-08-24T20:14:11.600916+00:00",
+  "total_jobs": 8285,
   "stats": {
-    "total_companies": 3919,
+    "total_companies": 3927,
     "total_roles": 108,
     "regions": {
-      "India": 5381,
-      "Philippines": 1765,
-      "Remote": 1021,
+      "India": 5394,
+      "Philippines": 1769,
+      "Remote": 1022,
       "Unknown": 135
     },
     "sources": {
-      "Other": 6491,
+      "Other": 6507,
       "Greenhouse": 406,
       "Workday": 355,
       "LinkedIn": 346,
-      "Ashby": 249,
+      "Ashby": 250,
       "iCIMS": 100,
-      "Breezy": 90,
+      "Breezy": 91,
       "Lever": 56,
       "Workable": 56,
       "SmartRecruiters": 53,
@@ -35,6 +35,276 @@
     }
   },
   "jobs": [
+    {
+      "id": "4924f9f9ae6e",
+      "title": "Systems Software Engineer , Silicon Bringup | OpenAI",
+      "company": "OpenAI",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://openai.com/careers/systems-software-engineer-silicon-bringup-san-francisco/",
+      "source": "Other",
+      "description": "Systems Software Engineer , Silicon Bringup ... OpenAI's Hardware organization develops AI-native silicon and system-level solutions for the unique ...",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T19:06:30+00:00",
+      "fetched_at": "2026-08-24T20:14:11.474625+00:00"
+    },
+    {
+      "id": "0dfec372b099",
+      "title": "Senior Software Engineer , Agentic Validation and Developer AI \u2014 Google Careers",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/121898005744755398-senior-software-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer , Agentic Validation and Developer AI. share. Share Senior Software Engineer , Agentic Validation and Developer AI. linkCopy ...",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T19:01:49+00:00",
+      "fetched_at": "2026-08-24T20:14:11.564338+00:00"
+    },
+    {
+      "id": "3084fc366bb3",
+      "title": "Senior Software Engineer , Austin, Texas plus 1 location | General Motors Careers",
+      "company": "General Motors Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://search-careers.gm.com/en/jobs/jr-202616671/senior-software-engineer/",
+      "source": "Other",
+      "description": "We are seeking a Senior Software Engineer to lead integration with robotic devices and capture production data from plants across the global ...",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T18:47:21+00:00",
+      "fetched_at": "2026-08-24T20:14:11.474837+00:00"
+    },
+    {
+      "id": "3e55eb8f040f",
+      "title": "Senior Data Engineer (m/f/d) - eigenblue",
+      "company": "Eigenblue",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://eigenblue.breezy.hr/p/97b67050f84101-senior-data-engineer-m-f-d/apply",
+      "source": "Breezy",
+      "description": "... Data Engineer (m/f/d) you will be at the forefront of building our data ... Senior Data Engineer (m/f/d). New York, US; Full-Time; Tech ...",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T18:32:47+00:00",
+      "fetched_at": "2026-08-24T20:14:11.564625+00:00"
+    },
+    {
+      "id": "2ff3d20a7f4b",
+      "title": "Senior Software Engineer at Ford Motor Company",
+      "company": "Ford Motor Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.careers.ford.com/job/dearborn/senior-software-engineer/48560/99676125248",
+      "source": "Other",
+      "description": "Senior Software Engineer - positions offered by Ford Motor Company (Dearborn, Michigan). Note, this is a hybrid position whereby the employee will ...",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T18:02:50+00:00",
+      "fetched_at": "2026-08-24T20:14:11.475001+00:00"
+    },
+    {
+      "id": "2c67db64deb8",
+      "title": "DAT Feature and Software Engineer at Ford Motor Company",
+      "company": "Feature and Software Engineer at Ford Motor Company",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.careers.ford.com/job/dearborn/dat-feature-and-software-engineer/48560/99676125008",
+      "source": "Other",
+      "description": "Jobs For You. ... Explore roles tailored to your interests, based on your preferences and experience. Senior Software Engineer . Dearborn, Michigan ...",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T18:02:50+00:00",
+      "fetched_at": "2026-08-24T20:14:11.564950+00:00"
+    },
+    {
+      "id": "4425085de635",
+      "title": "Staff Angular Frontend Engineer - Identity Security (Cortex) at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Frontend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/staff-angular-frontend-engineer-identity-security-cortex/47263/96174874352",
+      "source": "Other",
+      "description": "Staff AI Engineer - IT Business Applications Santa Clara, California, United States ... Senior DevOps Engineer - Data Platform (Cortex) Tel Aviv, Israel",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T17:43:56+00:00",
+      "fetched_at": "2026-08-24T20:14:11.475223+00:00"
+    },
+    {
+      "id": "8a4caa550430",
+      "title": "Associate Platform Services - Data Engineer in Multiple Locations | ZS",
+      "company": "Associate Platform Services",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.zs.com/jobs/62377",
+      "source": "Other",
+      "description": "ZS Associates, Inc. is hiring a Associate Platform Services - Data Engineer in Multiple Locations. Review all of the job details and apply today!",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T17:20:11+00:00",
+      "fetched_at": "2026-08-24T20:14:11.475341+00:00"
+    },
+    {
+      "id": "5411431e4900",
+      "title": "Senior Software Engineer - IVI Servicability, Warren, Michigan | General Motors Careers",
+      "company": "IVI Servicability, Warren, Michigan | General Motors Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://search-careers.gm.com/en/jobs/jr-202616750/senior-software-engineer-ivi-servicability/",
+      "source": "Other",
+      "description": "About the Role We're looking for a Senior Software Engineer to own and advance serviceability for our in-vehicle infotainment (IVI) and Vehicle ...",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T16:50:38+00:00",
+      "fetched_at": "2026-08-24T20:14:11.475563+00:00"
+    },
+    {
+      "id": "65d85c2a3c57",
+      "title": "IT Solutions (Senior Full-Stack Cloud Engineer ) - Jobs at Schaeffler",
+      "company": "Schaeffler",
+      "role": "Cloud Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.schaeffler.com/job/Pune-IT-Solutions-%28Senior-Full-Stack-Cloud-Engineer-%29-412106/1429022933/",
+      "source": "Other",
+      "description": "IT Solutions (Senior Full-Stack Cloud Engineer ) ... Job Segment: Test Engineer, Cloud, Software Engineer , Testing, Computer Science, Engineering, ...",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T16:33:22+00:00",
+      "fetched_at": "2026-08-24T20:14:11.475910+00:00"
+    },
+    {
+      "id": "295e6c47e994",
+      "title": "Senior Software Engineer , Reliability @ Tin Can - Jobs",
+      "company": "Tin Can",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/tin-can/26f930ca-ca96-4757-9568-e6c601c0734a",
+      "source": "Ashby",
+      "description": "... Senior Software Engineer to own that outcome end to end. Our calls run on FreeSWITCH and Kamailio in AWS, gated by a set of Lambda services, with ...",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T16:32:51+00:00",
+      "fetched_at": "2026-08-24T20:14:11.476023+00:00"
+    },
+    {
+      "id": "4b046cc469dd",
+      "title": "India, Software Platform Engineer I - 20224 - MetLife Careers",
+      "company": "20224 - MetLife Careers",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.metlifecareers.com/en_US/ml/JobDetail/Software-Platform-Engineer-I/20224",
+      "source": "Other",
+      "description": "Software Platform Engineer I. General Information. Location. Hyderabad ... We are hiring a Full Stack Engineer with strong backend architecture ...",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T16:31:03+00:00",
+      "fetched_at": "2026-08-24T20:14:11.476195+00:00"
+    },
+    {
+      "id": "68f42c17c50a",
+      "title": "Senior ML Engineer Boston, Massachusetts - Harnham",
+      "company": "Harnham",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-senior-ml-engineer-boston-massachusetts-2/",
+      "source": "Other",
+      "description": "A rapidly growing healthcare technology company is hiring multiple Senior Machine Learning Engineer ... Staff/Principle Software Engineer . Oakland.",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T16:27:08+00:00",
+      "fetched_at": "2026-08-24T20:14:11.476606+00:00"
+    },
+    {
+      "id": "08bad50444da",
+      "title": "Senior Data Engineer - Oliver James",
+      "company": "Oliver James",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.oliverjames.com/en/jobs/senior-data-engineer-13513/",
+      "source": "Other",
+      "description": "Senior Data Engineer (Databricks) gezocht voor remote verzekeringsdata. Vereist: 5+ jaar Databricks en hands-on insurance-ervaring.",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T16:22:46+00:00",
+      "fetched_at": "2026-08-24T20:14:11.476743+00:00"
+    },
+    {
+      "id": "f90846ae275b",
+      "title": "Senior Site Reliability Engineer - Cloud Platform - Romania - GoDaddy Careers",
+      "company": "Cloud Platform - Romania - GoDaddy Careers",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.godaddy/jobs/senior-site-reliability-engineer-cloud-platform-romania",
+      "source": "Other",
+      "description": "Senior Site Reliability Engineer - Cloud Platform \u00b7 What you'll get to do... Operate and scale AWS production infrastructure, owning the health of ...",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T16:22:12+00:00",
+      "fetched_at": "2026-08-24T20:14:11.566645+00:00"
+    },
+    {
+      "id": "d1ea5a4e9592",
+      "title": "Job Opening - Data Engineer II - Carolina Beach, NC - Randstad USA",
+      "company": "Job Opening",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.randstadusa.com/jobs/4/1344357/data-engineer-ii_carolina-beach/",
+      "source": "Other",
+      "description": "Explore and apply for Data Engineer II jobs in Carolina Beach, North Carolina with Randstad. Find the perfect job for you today!",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T15:18:56+00:00",
+      "fetched_at": "2026-08-24T20:14:11.476920+00:00"
+    },
+    {
+      "id": "e6faaa683d0f",
+      "title": "Software Engineer - Celonis Careers",
+      "company": "Celonis Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.celonis.com/join-us/open-positions/job-detail?jobId=7791403003",
+      "source": "Other",
+      "description": "We are seeking a talented Software Backend Engineer with ... Senior Software Engineer - SAP ABAP. Engineering. Bangalore, India. Senior ...",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T14:54:16+00:00",
+      "fetched_at": "2026-08-24T20:14:11.477222+00:00"
+    },
+    {
+      "id": "8f637f6d6345",
+      "title": "Viet Nam, Data Engineer - 20155 - MetLife Careers",
+      "company": "20155 - MetLife Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.metlifecareers.com/en_US/ml/JobDetail/Data-Engineer/20155",
+      "source": "Other",
+      "description": "Data Engineer . General Information. Location. Ha Noi, Viet Nam. Working Schedule. Full-Time. Work Arrangement. In Office. Relocation Assistance ...",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T14:26:11+00:00",
+      "fetched_at": "2026-08-24T20:14:11.477696+00:00"
+    },
     {
       "id": "f6cb196a1dfb",
       "title": "India, Sr DevOps Engineer II - 20183 - MetLife Careers",
