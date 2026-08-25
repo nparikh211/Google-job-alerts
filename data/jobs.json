@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-08-24T20:14:11.600916+00:00",
-  "total_jobs": 8285,
+  "last_updated": "2026-08-25T00:26:20.093664+00:00",
+  "total_jobs": 8302,
   "stats": {
-    "total_companies": 3927,
-    "total_roles": 108,
+    "total_companies": 3932,
+    "total_roles": 110,
     "regions": {
-      "India": 5394,
-      "Philippines": 1769,
-      "Remote": 1022,
+      "India": 5406,
+      "Philippines": 1773,
+      "Remote": 1023,
       "Unknown": 135
     },
     "sources": {
-      "Other": 6507,
+      "Other": 6521,
       "Greenhouse": 406,
       "Workday": 355,
-      "LinkedIn": 346,
+      "LinkedIn": 348,
       "Ashby": 250,
-      "iCIMS": 100,
+      "iCIMS": 101,
       "Breezy": 91,
       "Lever": 56,
       "Workable": 56,
@@ -35,6 +35,186 @@
     }
   },
   "jobs": [
+    {
+      "id": "94f0078d2e44",
+      "title": "Machine Learning Engineer - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200679658-0836/machine-learning-engineer?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Machine Learning Engineer job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T22:03:39+00:00",
+      "fetched_at": "2026-08-25T00:26:19.762404+00:00"
+    },
+    {
+      "id": "3d972577c177",
+      "title": "Staff Software Engineer , Storage Services - Pinterest Careers",
+      "company": "Pinterest Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.pinterestcareers.com/jobs/8047425/staff-software-engineer-storage-services/?gh_jid=8047425",
+      "source": "Other",
+      "description": "We're looking for an exceptional Staff Software Engineer to lead the technical strategy and execution of our storage infrastructure initiatives, ...",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T21:49:58+00:00",
+      "fetched_at": "2026-08-25T00:26:19.762983+00:00"
+    },
+    {
+      "id": "4448b2e9752e",
+      "title": "Data Engineer | Citi Careers",
+      "company": "Citi Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.citi.com/job/mississauga/data-engineer/287/99678065264",
+      "source": "Other",
+      "description": "Learn more about applying for Data Engineer at Citi. Learn more about potential responsibilities, qualifications and career paths.",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T20:56:14+00:00",
+      "fetched_at": "2026-08-25T00:26:19.763148+00:00"
+    },
+    {
+      "id": "deaf763b5b6d",
+      "title": "Software Engineer Intern, Summer 2027 \u2013 United States - Mastercard",
+      "company": "Mastercard",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mastercard.com/us/en/job/R-287618/Software-Engineer-Intern-Summer-2027-United-States",
+      "source": "Other",
+      "description": "Apply for Software Engineer Intern, Summer 2027 \u2013 United States job with Mastercard in O Fallon, United States of America, 63368-7263.",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T20:52:07+00:00",
+      "fetched_at": "2026-08-25T00:26:19.763363+00:00"
+    },
+    {
+      "id": "d9ce6d15cf52",
+      "title": "Senior Software Engineer - Remote at UnitedHealth Group",
+      "company": "UnitedHealth Group",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.unitedhealthgroup.com/job/eden-prairie/senior-software-engineer-remote/34088/99683747728",
+      "source": "Other",
+      "description": "Senior Software Engineer - Remote. Requisition number: 2385016 Job category: Technology Primary location: Eden Prairie, Minnesota Date posted: 08/24 ...",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T20:45:56+00:00",
+      "fetched_at": "2026-08-25T00:26:19.763529+00:00"
+    },
+    {
+      "id": "82387da3f848",
+      "title": "Software Engineer - AGMEDNET INC - Paylocity",
+      "company": "AGMEDNET INC - Paylocity",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4444565",
+      "source": "Other",
+      "description": "The Software Engineer designs, builds, and maintains features across the full Judi stack, from Angular front-end work through Java and Spring back-end ...",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T20:10:30+00:00",
+      "fetched_at": "2026-08-25T00:26:19.763685+00:00"
+    },
+    {
+      "id": "9e439ea5b44d",
+      "title": "Apply For Staff AI Engineer (Hybrid) - Stryker",
+      "company": "Stryker",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.stryker.com/staff-ai-engineer-hybrid/job/37B9B3D33E07E39A9B49A681742ECA69",
+      "source": "Other",
+      "description": "Job description. We're hiring a Staff AI Engineer to build GenAI and voice agents for medical devices, deployed both on-device and ...",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T20:03:16+00:00",
+      "fetched_at": "2026-08-25T00:26:20.058100+00:00"
+    },
+    {
+      "id": "9e1287a5dff9",
+      "title": "Full Stack Software Engineer in San Francisco, California | Careers at San Francisco - ICIMS",
+      "company": "San Francisco",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers-americas.icims.com/jobs/25561/full-stack-software-engineer/job",
+      "source": "iCIMS",
+      "description": "San Francisco - United States is now hiring a Full Stack Software Engineer in San Francisco, California. Review all of the job details and apply ...",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T20:03:03+00:00",
+      "fetched_at": "2026-08-25T00:26:19.763823+00:00"
+    },
+    {
+      "id": "4bacd9146027",
+      "title": "Alok Gananath posted this - LinkedIn",
+      "company": "Unknown Company",
+      "role": "Alok Gananath posted this - LinkedIn",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/alok-gananath_i-met-a-45-year-old-software-engineer-who-activity-7497503001465724928-weDs",
+      "source": "LinkedIn",
+      "description": "I met a 45 year old software engineer who has taken up the Company Secretary course. He walked up to me after the session and asked how he should ...",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T20:02:34+00:00",
+      "fetched_at": "2026-08-25T00:26:19.764418+00:00"
+    },
+    {
+      "id": "3cf69d260984",
+      "title": "Software Engineer - 128879 - IBM",
+      "company": "128879 - IBM",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=128879",
+      "source": "Other",
+      "description": "Software Engineer . Nairobi City, Nairobi Municipality, Kenya Entry Level. Email \u00b7 X \u00b7 LinkedIn \u00b7 Apply now. Introduction. At IBM Research, we are the ...",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T19:57:23+00:00",
+      "fetched_at": "2026-08-25T00:26:19.764579+00:00"
+    },
+    {
+      "id": "330b8c82626d",
+      "title": "Job ID:26030539 - Senior Data Engineer - Charlotte, North Carolina",
+      "company": "Job ID:26030539",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.bankofamerica.com/en-us/job-detail/26030539/senior-data-engineer-charlotte-north-carolina-united-states",
+      "source": "Other",
+      "description": "Apply for the Senior Data Engineer position (Job ID: 26030539), located in Charlotte, North Carolina, at Bank of America.",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T19:47:35+00:00",
+      "fetched_at": "2026-08-25T00:26:19.764788+00:00"
+    },
+    {
+      "id": "6deb64193f13",
+      "title": "Software Engineer , Launch Program 2027 \u2013 United States - Mastercard",
+      "company": "Mastercard",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mastercard.com/us/en/job/R-288578/Software-Engineer-Launch-Program-2027-United-States",
+      "source": "Other",
+      "description": "Senior Software Engineer . Available in 2 locations. Category Engineering. Senior Software Engineer . Location O Fallon, United States of America, 63368 ...",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T19:39:15+00:00",
+      "fetched_at": "2026-08-25T00:26:19.765010+00:00"
+    },
     {
       "id": "4924f9f9ae6e",
       "title": "Systems Software Engineer , Silicon Bringup | OpenAI",
@@ -66,6 +246,21 @@
       "fetched_at": "2026-08-24T20:14:11.564338+00:00"
     },
     {
+      "id": "74692045f47a",
+      "title": "Software Engineer II, Sustainability, Full Stack - Careers - Google",
+      "company": "Careers - Google",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/127697036228076230-software-engineer-ii-sustainability-full-stack?page=144",
+      "source": "Other",
+      "description": "Senior Software Engineer , Performance, Platforms Infrastructure Engineering ... Staff Data Engineer , Search, Data Science. Mountain View, CA, USA ...",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T19:01:49+00:00",
+      "fetched_at": "2026-08-25T00:26:20.059439+00:00"
+    },
+    {
       "id": "3084fc366bb3",
       "title": "Senior Software Engineer , Austin, Texas plus 1 location | General Motors Careers",
       "company": "General Motors Careers",
@@ -81,6 +276,21 @@
       "fetched_at": "2026-08-24T20:14:11.474837+00:00"
     },
     {
+      "id": "eb214b6b7f9f",
+      "title": "Senior Data Engineer in New York, NY - join the Port Authority",
+      "company": "join the Port Authority",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.jointheportauthority.com/jobs/18157406-senior-data-engineer",
+      "source": "Other",
+      "description": "About the Role. The Aviation Department is seeking a Senior Data Engineer with a proven background in cloud-based enterprise data architecture, ...",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T18:37:33+00:00",
+      "fetched_at": "2026-08-25T00:26:19.765804+00:00"
+    },
+    {
       "id": "3e55eb8f040f",
       "title": "Senior Data Engineer (m/f/d) - eigenblue",
       "company": "Eigenblue",
@@ -94,6 +304,36 @@
       "date": "2026-08-24",
       "timestamp": "2026-08-24T18:32:47+00:00",
       "fetched_at": "2026-08-24T20:14:11.564625+00:00"
+    },
+    {
+      "id": "85c3e3c13099",
+      "title": "Software Engineer - Applied Intelligence - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200679666-3760/software-engineer-applied-intelligence",
+      "source": "Other",
+      "description": "Apply for a Software Engineer - Applied Intelligence job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T18:23:01+00:00",
+      "fetched_at": "2026-08-25T00:26:20.060252+00:00"
+    },
+    {
+      "id": "58cc5d465f75",
+      "title": "Ahmad Basyouni's Post - LinkedIn",
+      "company": "Unknown Company",
+      "role": "Ahmad Basyouni's Post - LinkedIn",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/posts/ahmad-basyouni-b5a049236_excited-to-share-that-ive-joined-bloomberg-activity-7497647058699534337-u3bt",
+      "source": "LinkedIn",
+      "description": "Excited to share that I've joined Bloomberg as a Software Engineer on the Cloud Infrastructure team ... AI/ ML Engineer | FullStack Systems | OSS.",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T18:12:31+00:00",
+      "fetched_at": "2026-08-25T00:26:20.060797+00:00"
     },
     {
       "id": "2ff3d20a7f4b",
@@ -124,6 +364,21 @@
       "date": "2026-08-24",
       "timestamp": "2026-08-24T18:02:50+00:00",
       "fetched_at": "2026-08-24T20:14:11.564950+00:00"
+    },
+    {
+      "id": "8c80d2568123",
+      "title": "Software Engineer - Applied Intelligence - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200679666-3337/software-engineer-applied-intelligence",
+      "source": "Other",
+      "description": "Apply for a Software Engineer - Applied Intelligence job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T18:00:20+00:00",
+      "fetched_at": "2026-08-25T00:26:19.766222+00:00"
     },
     {
       "id": "4425085de635",
