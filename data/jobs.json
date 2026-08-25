@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-08-25T16:20:35.101364+00:00",
-  "total_jobs": 8337,
+  "last_updated": "2026-08-25T20:12:38.158386+00:00",
+  "total_jobs": 8351,
   "stats": {
-    "total_companies": 3948,
-    "total_roles": 111,
+    "total_companies": 3953,
+    "total_roles": 112,
     "regions": {
-      "India": 5430,
+      "India": 5442,
       "Philippines": 1780,
-      "Remote": 1027,
+      "Remote": 1029,
       "Unknown": 135
     },
     "sources": {
-      "Other": 6545,
-      "Greenhouse": 407,
-      "Workday": 356,
-      "LinkedIn": 351,
-      "Ashby": 252,
+      "Other": 6551,
+      "Greenhouse": 408,
+      "Workday": 358,
+      "LinkedIn": 352,
+      "Ashby": 254,
       "iCIMS": 102,
-      "Breezy": 92,
+      "Breezy": 94,
       "Workable": 58,
       "Lever": 56,
       "SmartRecruiters": 53,
@@ -35,6 +35,201 @@
     }
   },
   "jobs": [
+    {
+      "id": "cb7642eb5891",
+      "title": "Platform Engineer Job Details | Colgate-Palmolive Company",
+      "company": "Colgate-Palmolive Company",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.colgate.com/job/Piscataway-Platform-Engineer-NJ/1423112900/",
+      "source": "Other",
+      "description": "Platform Engineer . ... Industry technical certifications (e.g., AWS Certified Data Engineer , GCP Professional Data Engineer , Snowflake SnowPro Core).",
+      "date": "2026-08-25",
+      "timestamp": "2026-08-25T18:39:40+00:00",
+      "fetched_at": "2026-08-25T20:12:37.855909+00:00"
+    },
+    {
+      "id": "47e2d1a118d4",
+      "title": "Steve Prymas' Post - LinkedIn",
+      "company": "Unknown Company",
+      "role": "Steve Prymas' Post - LinkedIn",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/stephenprymas_were-hiring-a-data-engineer-help-us-activity-7497717308304314368-7PHK",
+      "source": "LinkedIn",
+      "description": "We're hiring a Data Engineer . Help us build, connect, and scale the data that powers our business. Great team. Big impact.",
+      "date": "2026-08-25",
+      "timestamp": "2026-08-25T18:26:13+00:00",
+      "fetched_at": "2026-08-25T20:12:37.856561+00:00"
+    },
+    {
+      "id": "bd666d090057",
+      "title": "Job Application for Software Engineer - Core Team at FOSSA - Greenhouse",
+      "company": "Fossainc",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/fossainc/jobs/7966024003",
+      "source": "Greenhouse",
+      "description": "Software Engineer - Core Team. US - Remote. Apply. Modern software runs on open source \u2014 and managing the compliance, security, and regulatory ...",
+      "date": "2026-08-25",
+      "timestamp": "2026-08-25T18:24:12+00:00",
+      "fetched_at": "2026-08-25T20:12:37.856692+00:00"
+    },
+    {
+      "id": "4b29522e57c2",
+      "title": "Software Engineer I (Full Time) - United States - Cisco Careers",
+      "company": "United States - Cisco Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2023527EXTERNALENGLOBAL/Software-Engineer-I-Full-Time-United-States",
+      "source": "Other",
+      "description": "Apply for Software Engineer I (Full Time) - United States job with Cisco in Milpitas, California, United States of America.",
+      "date": "2026-08-25",
+      "timestamp": "2026-08-25T18:08:41+00:00",
+      "fetched_at": "2026-08-25T20:12:37.856938+00:00"
+    },
+    {
+      "id": "d0a66db76255",
+      "title": "Software Engineer , Devices - Minneapolis, MN | SmartThings Careers",
+      "company": "Minneapolis, MN | SmartThings Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://smartthings.pinpointhq.com/en/postings/09599043-e839-4bb6-8862-444199bbca65",
+      "source": "Other",
+      "description": "Software Engineer , Devices. We're SmartThings, one of the leading IoT ecosystems in the world, creating the most effortless way for anyone to ...",
+      "date": "2026-08-25",
+      "timestamp": "2026-08-25T17:54:44+00:00",
+      "fetched_at": "2026-08-25T20:12:37.857132+00:00"
+    },
+    {
+      "id": "bef54b5cba7b",
+      "title": "Infrastructure and Data Engineer - Careers at Millennium",
+      "company": "Millennium",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://career.mlp.com/careers/job/755958170476",
+      "source": "Other",
+      "description": "Senior Software Engineer - Trading Technology Infrastructure. Singapore ... Senior Full Stack Data Platform Engineer . Bangalore, Karnataka ...",
+      "date": "2026-08-25",
+      "timestamp": "2026-08-25T17:52:23+00:00",
+      "fetched_at": "2026-08-25T20:12:37.857240+00:00"
+    },
+    {
+      "id": "e00dd41e16df",
+      "title": "Fullstack Engineer , App Platform @ Whatnot - Jobs",
+      "company": "Whatnot",
+      "role": "Fullstack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/whatnot/8c8ef7c3-5fd4-4ee8-b584-e444257b35bd",
+      "source": "Ashby",
+      "description": "... Fullstack Engineer on App Platform, you'll focus on the infrastructure and building blocks that feature teams rely on: scaling our Web backend ...",
+      "date": "2026-08-25",
+      "timestamp": "2026-08-25T17:22:13+00:00",
+      "fetched_at": "2026-08-25T20:12:37.857358+00:00"
+    },
+    {
+      "id": "66f73364792a",
+      "title": "Data Engineer Detail - UCSF Careers",
+      "company": "UCSF Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.ucsf.edu/careers/JobDetail/San-Francisco-CA-United-States/3864",
+      "source": "Other",
+      "description": "General Information. Job Name. Data Engineer . Department. 8481030 - EIA ... The Data Engineer will analyze and create information assets that ...",
+      "date": "2026-08-25",
+      "timestamp": "2026-08-25T17:04:17+00:00",
+      "fetched_at": "2026-08-25T20:12:37.857515+00:00"
+    },
+    {
+      "id": "896b946d403f",
+      "title": "Software Engineer , Machine Interfaces @ Hadrian Automation - Jobs",
+      "company": "Hadrian Automation",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/hadrian-automation/0276373a-fcf7-4a19-bdac-59ac8a0a67d0",
+      "source": "Ashby",
+      "description": "Software Engineer , Machine Interfaces. Location. Los Angeles, CA. Employment Type. Full time. Location Type. On-site. Department. Engineering, Product ...",
+      "date": "2026-08-25",
+      "timestamp": "2026-08-25T16:54:04+00:00",
+      "fetched_at": "2026-08-25T20:12:37.857614+00:00"
+    },
+    {
+      "id": "985b815baec0",
+      "title": "Software Engineer - Myworkdayjobs.com",
+      "company": "Autodesk",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Software-Engineer_26WD100611-1",
+      "source": "Workday",
+      "description": "We are looking for a highly motivated software engineer to join the PSET-Access group. The team builds and operates systems that enable secure, ...",
+      "date": "2026-08-25",
+      "timestamp": "2026-08-25T16:49:29+00:00",
+      "fetched_at": "2026-08-25T20:12:37.857691+00:00"
+    },
+    {
+      "id": "4b2d326806db",
+      "title": "Senior Frontend Engineer at Lovevery",
+      "company": "Lovevery",
+      "role": "Frontend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://lovevery.breezy.hr/p/3b08d72d6cc3-senior-frontend-engineer",
+      "source": "Breezy",
+      "description": "We are looking for a Senior Frontend Engineer to join our team that owns the end-to-end shopping experience focused on our wide array of non- ...",
+      "date": "2026-08-25",
+      "timestamp": "2026-08-25T16:39:18+00:00",
+      "fetched_at": "2026-08-25T20:12:37.857789+00:00"
+    },
+    {
+      "id": "01823e1b96a4",
+      "title": "Senior Backend Engineer (Go/AWS) \u2013 Remote U.S. at Urrly",
+      "company": "Urrly",
+      "role": "Backend Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://urrly.breezy.hr/p/8c3d1441e67b-senior-backend-engineer-go-aws-remote-u-s",
+      "source": "Breezy",
+      "description": "Senior Backend Engineer (Go/AWS) \u2013 Remote U.S. Join a lean engineering team building production systems around medical-grade wearable physiology ...",
+      "date": "2026-08-25",
+      "timestamp": "2026-08-25T16:37:17+00:00",
+      "fetched_at": "2026-08-25T20:12:37.857922+00:00"
+    },
+    {
+      "id": "dd5d0fbe0961",
+      "title": "Software Engineer - Myworkdayjobs.com",
+      "company": "Oclc",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://oclc.wd1.myworkdayjobs.com/oclc_careers/job/Dublin-OH--Hybrid/Software-Engineer_R0003911",
+      "source": "Workday",
+      "description": "We are looking for a Software Engineer who enjoys solving practical engineering problems, building reliable services, and learning within a ...",
+      "date": "2026-08-25",
+      "timestamp": "2026-08-25T16:19:54+00:00",
+      "fetched_at": "2026-08-25T20:12:37.858087+00:00"
+    },
     {
       "id": "529acdf602f4",
       "title": "Senior Data Engineer II - Raydar - Workable Jobs",
@@ -64,6 +259,21 @@
       "date": "2026-08-25",
       "timestamp": "2026-08-25T15:41:14+00:00",
       "fetched_at": "2026-08-25T16:20:34.991674+00:00"
+    },
+    {
+      "id": "042b75136052",
+      "title": "Sr Software Engineer - Piper Companies",
+      "company": "Piper Companies",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.pipercompanies.com/details/172800/sr_software_engineer",
+      "source": "Other",
+      "description": "Applications for this job will be accepted for at least 30 days from the posting date. Keywords: Senior Software Engineer , Full Stack Engineer , ...",
+      "date": "2026-08-25",
+      "timestamp": "2026-08-25T15:17:48+00:00",
+      "fetched_at": "2026-08-25T20:12:37.858745+00:00"
     },
     {
       "id": "570ba9185063",
