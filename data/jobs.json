@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-08-25T08:25:06.160740+00:00",
-  "total_jobs": 8309,
+  "last_updated": "2026-08-25T12:19:10.603098+00:00",
+  "total_jobs": 8322,
   "stats": {
-    "total_companies": 3935,
+    "total_companies": 3941,
     "total_roles": 111,
     "regions": {
-      "India": 5412,
-      "Philippines": 1773,
-      "Remote": 1024,
+      "India": 5417,
+      "Philippines": 1780,
+      "Remote": 1025,
       "Unknown": 135
     },
     "sources": {
-      "Other": 6525,
+      "Other": 6535,
       "Greenhouse": 406,
       "Workday": 355,
-      "LinkedIn": 350,
-      "Ashby": 251,
+      "LinkedIn": 351,
+      "Ashby": 252,
       "iCIMS": 101,
-      "Breezy": 91,
+      "Breezy": 92,
       "Lever": 56,
       "Workable": 56,
       "SmartRecruiters": 53,
@@ -36,6 +36,171 @@
   },
   "jobs": [
     {
+      "id": "70aec46d1893",
+      "title": "Software Engineer Intern in Olathe, Kansas | Garmin International, Inc.",
+      "company": "Garmin International, Inc.",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.garmin.com/jobs/19693?lang=en-us",
+      "source": "Other",
+      "description": "Garmin is hiring a Software Engineer Intern in Olathe, Kansas. Review all of the job details and apply today!",
+      "date": "2026-08-25",
+      "timestamp": "2026-08-25T09:24:46+00:00",
+      "fetched_at": "2026-08-25T12:19:10.564038+00:00"
+    },
+    {
+      "id": "285ed5ac3d82",
+      "title": "Applied AI Engineer in Frisco, Texas - McAfee Careers",
+      "company": "McAfee Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.mcafee.com/jobs/1730?lang=en-us",
+      "source": "Other",
+      "description": "McAfee, LLC is hiring a Applied AI Engineer in Frisco, Texas. Review all of the job details and apply today!",
+      "date": "2026-08-25",
+      "timestamp": "2026-08-25T09:15:02+00:00",
+      "fetched_at": "2026-08-25T12:19:10.564173+00:00"
+    },
+    {
+      "id": "0346e0b5d9dd",
+      "title": "Software Engineer \u2013 Java Full Stack Development at Ford Motor Company",
+      "company": "Ford Motor Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.careers.ford.com/job/chennai/software-engineer-java-full-stack-development/48560/99670440512",
+      "source": "Other",
+      "description": "As a Software Engineer within Ford's Customer Service Division (FCSD) Technology organization, you will design, develop, and support cloud-native ...",
+      "date": "2026-08-25",
+      "timestamp": "2026-08-25T09:05:34+00:00",
+      "fetched_at": "2026-08-25T12:19:10.564368+00:00"
+    },
+    {
+      "id": "9952da1df30b",
+      "title": "Senior Software Engineer - Openings at Bond-Pro Inc",
+      "company": "Bond Pro Inc",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://bond-pro-inc.breezy.hr/p/df3663b31e2b-senior-software-engineer",
+      "source": "Breezy",
+      "description": "SENIOR SOFTWARE ENGINEER Overview We're looking for a Senior Software Engineer who can operate independently within an Agile team, take ambiguous ...",
+      "date": "2026-08-25",
+      "timestamp": "2026-08-25T09:02:07+00:00",
+      "fetched_at": "2026-08-25T12:19:10.564525+00:00"
+    },
+    {
+      "id": "76d7a0797af4",
+      "title": "Software Engineer Job Details - Ametek Careers",
+      "company": "Ametek Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ametek.com/job/Bangalore-Software-Engineer-KA-560048/1422813400/",
+      "source": "Other",
+      "description": "Summary: We are seeking a motivated and detail-oriented Software Engineer with 1 year of experience in aerospace embedded software development and ...",
+      "date": "2026-08-25",
+      "timestamp": "2026-08-25T08:33:16+00:00",
+      "fetched_at": "2026-08-25T12:19:10.564676+00:00"
+    },
+    {
+      "id": "b191adb2ba42",
+      "title": "India, Software/ Platform Engineer I - 19957 - MetLife Careers",
+      "company": "19957 - MetLife Careers",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.metlifecareers.com/en_US/ml/JobDetail/Software-Platform-Engineer-I/19957",
+      "source": "Other",
+      "description": "We are seeking a highly skilled Software/ Platform Engineer , a position with hands-on in IIB/ACE development. He/she will be responsible for hands ...",
+      "date": "2026-08-25",
+      "timestamp": "2026-08-25T07:56:01+00:00",
+      "fetched_at": "2026-08-25T12:19:10.564829+00:00"
+    },
+    {
+      "id": "11bbaeda0122",
+      "title": "AI Engineer in Bengaluru, Karn\u0101taka, India, 560066 | Digital Technology / IT at GE HealthCare",
+      "company": "GE HealthCare",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.gehealthcare.com/global/en/job/GEVGHLGLOBALR4045320EXTERNALENGLOBAL/AI-Engineer",
+      "source": "Other",
+      "description": "Apply for AI Engineer job with GE HealthCare in Bengaluru, Karn\u0101taka, India, 560066. Digital Technology / IT at GE HealthCare.",
+      "date": "2026-08-25",
+      "timestamp": "2026-08-25T07:31:49+00:00",
+      "fetched_at": "2026-08-25T12:19:10.564988+00:00"
+    },
+    {
+      "id": "4e190602e425",
+      "title": "Software Engineer II - JPMC Candidate Experience page Careers",
+      "company": "JPMC Candidate Experience page Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779013",
+      "source": "Other",
+      "description": "As a Software Engineer II at JPMorganChase within the Corporate and Investment Banking - Markets Technology team, you are part of an agile team ...",
+      "date": "2026-08-25",
+      "timestamp": "2026-08-25T07:08:09+00:00",
+      "fetched_at": "2026-08-25T12:19:10.565136+00:00"
+    },
+    {
+      "id": "febfa4505226",
+      "title": "AI Engineer Roadmap | Aishwarya Srinivasan | 11 comments - LinkedIn",
+      "company": "Aishwarya Srinivasan | 11 comments - LinkedIn",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/posts/aishwarya-srinivasan_ai-engineer-roadmap-activity-7497747719315349504-wGdg",
+      "source": "LinkedIn",
+      "description": "Lasya Inguva. Software Engineer . 5h. Report this comment; Close menu. Your \"5 AI Engineer Projects to Build in 2026\" video on YouTube is a great place ...",
+      "date": "2026-08-25",
+      "timestamp": "2026-08-25T05:29:04+00:00",
+      "fetched_at": "2026-08-25T12:19:10.565430+00:00"
+    },
+    {
+      "id": "aa725d4bd7a6",
+      "title": "Software Engineer Jobs at Amgen in India",
+      "company": "Amgen in India",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.amgen.com/en/job/hyderabad/software-engineer/87/99668435968",
+      "source": "Other",
+      "description": "Explore the details of a Software Engineer career in Hyderabad. Live. Win. Thrive. Search and apply for a rewarding new career at Amgen.",
+      "date": "2026-08-25",
+      "timestamp": "2026-08-25T00:42:00+00:00",
+      "fetched_at": "2026-08-25T12:19:10.565536+00:00"
+    },
+    {
+      "id": "f99084e7f6ec",
+      "title": "DevOps Engineer - - 129331 - Booz | Allen | Hamilton \u00ae - Careers",
+      "company": "- 129331 - Booz | Allen | Hamilton \u00ae - Careers",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.boozallen.com/careers/JobDetail/Lexington-DevOps-Engineer-R0247729/129331",
+      "source": "Other",
+      "description": "Washington, District of Columbia, USA. DevOps Engineer . The Opportunity: Today's dynamic technology landscape demands constant and rapid innovation.",
+      "date": "2026-08-25",
+      "timestamp": "2026-08-25T00:25:56+00:00",
+      "fetched_at": "2026-08-25T12:19:10.565768+00:00"
+    },
+    {
       "id": "b461ab91a9a3",
       "title": "C++ Software Engineer | IMC Trading",
       "company": "IMC Trading",
@@ -49,6 +214,36 @@
       "date": "2026-08-25",
       "timestamp": "2026-08-25T00:08:15+00:00",
       "fetched_at": "2026-08-25T04:25:03.827679+00:00"
+    },
+    {
+      "id": "a5fa1cec2454",
+      "title": "Software Engineer @ Doppel - Jobs",
+      "company": "Doppel",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/doppel/9f241955-05be-4638-a972-4638ff733e17",
+      "source": "Ashby",
+      "description": "Software Engineer . Location. New York. Employment Type. Full time. Location Type. Hybrid. Department. Engineering. Compensation. $275K \u2022 Offers Equity.",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T23:46:20+00:00",
+      "fetched_at": "2026-08-25T12:19:10.565954+00:00"
+    },
+    {
+      "id": "6e579a5ce7de",
+      "title": "Staff Software Engineer , Maps Services - Remote - US - Samsara",
+      "company": "Remote - US - Samsara",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.samsara.com/company/careers/roles/8153269?gh_jid=8153269",
+      "source": "Other",
+      "description": "We're hiring a Staff Software Engineer to help set the technical direction for this platform. You'll work across the geospatial stack: building data ...",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T23:29:45+00:00",
+      "fetched_at": "2026-08-25T12:19:10.566090+00:00"
     },
     {
       "id": "90b6d9672eb8",
