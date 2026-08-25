@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-08-25T00:26:20.093664+00:00",
-  "total_jobs": 8302,
+  "last_updated": "2026-08-25T04:25:04.126650+00:00",
+  "total_jobs": 8309,
   "stats": {
-    "total_companies": 3932,
-    "total_roles": 110,
+    "total_companies": 3935,
+    "total_roles": 111,
     "regions": {
-      "India": 5406,
+      "India": 5412,
       "Philippines": 1773,
-      "Remote": 1023,
+      "Remote": 1024,
       "Unknown": 135
     },
     "sources": {
-      "Other": 6521,
+      "Other": 6525,
       "Greenhouse": 406,
       "Workday": 355,
-      "LinkedIn": 348,
-      "Ashby": 250,
+      "LinkedIn": 350,
+      "Ashby": 251,
       "iCIMS": 101,
       "Breezy": 91,
       "Lever": 56,
@@ -31,10 +31,55 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-08-24"
+      "latest": "2026-08-25"
     }
   },
   "jobs": [
+    {
+      "id": "b461ab91a9a3",
+      "title": "C++ Software Engineer | IMC Trading",
+      "company": "IMC Trading",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.imc.com/us/careers/jobs/4931100101",
+      "source": "Other",
+      "description": "C++ Software Engineer \u00b7 Your Core Responsibilities: Build, as part of a team, a full technology stack that supports power and gas trading, including ...",
+      "date": "2026-08-25",
+      "timestamp": "2026-08-25T00:08:15+00:00",
+      "fetched_at": "2026-08-25T04:25:03.827679+00:00"
+    },
+    {
+      "id": "90b6d9672eb8",
+      "title": "Software Engineer , Developer Platform @ Notion - Jobs",
+      "company": "Notion",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/notion/1fc309c8-da20-4ff2-84c7-8b863ece2b0a",
+      "source": "Ashby",
+      "description": "Software Engineer , Developer Platform. Location. San Francisco ... As a Developer Platform engineer , you will directly contribute to the ...",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T22:48:02+00:00",
+      "fetched_at": "2026-08-25T04:25:03.827858+00:00"
+    },
+    {
+      "id": "0dbf86e623f9",
+      "title": "Senior Full Stack Engineer , Revenue Engine | CookUnity Careers",
+      "company": "CookUnity Careers",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.cookunity.com/jobs/7962548003",
+      "source": "Other",
+      "description": "Senior Full Stack Engineer , Revenue Engine. Engineering. Latam (Remote) ... As a Senior Software Engineer on the Revenue Engine team, you will ...",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T22:23:37+00:00",
+      "fetched_at": "2026-08-25T04:25:03.827999+00:00"
+    },
     {
       "id": "94f0078d2e44",
       "title": "Machine Learning Engineer - Jobs - Careers at Apple",
@@ -64,6 +109,51 @@
       "date": "2026-08-24",
       "timestamp": "2026-08-24T21:49:58+00:00",
       "fetched_at": "2026-08-25T00:26:19.762983+00:00"
+    },
+    {
+      "id": "59a7f05803a1",
+      "title": "AI Engineer Roadmap | Aishwarya Srinivasan - LinkedIn",
+      "company": "Aishwarya Srinivasan - LinkedIn",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/aishwarya-srinivasan_ai-engineer-roadmap-activity-7497747719315349504-wGdg",
+      "source": "LinkedIn",
+      "description": "... AI Engineer is one of your goals this year. https://lnkd.in/gQ_wBvHW. ... Go check it out if becoming an AI Engineer is one of your goals this year.",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T21:11:31+00:00",
+      "fetched_at": "2026-08-25T04:25:03.828749+00:00"
+    },
+    {
+      "id": "e3905f74dfac",
+      "title": "Specialist Data Engineer in New York, New York, United States",
+      "company": "Unknown Company",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mta.org/jobs/18157726-specialist-data-engineer",
+      "source": "Other",
+      "description": "Specialist Data Engineer . Job ID: 16948. Business Unit: MTA Headquarters. Location: New York, NY, United States. Regular/Temporary: Regular.",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T21:08:50+00:00",
+      "fetched_at": "2026-08-25T04:25:03.828870+00:00"
+    },
+    {
+      "id": "08b05d332c03",
+      "title": "Cloud Engineer | GDIT",
+      "company": "GDIT",
+      "role": "Cloud Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.gdit.com/careers/job/53b59eab7/cloud-engineer/",
+      "source": "Other",
+      "description": "Transform technology into opportunity as a Cloud Engineer with GDIT. A career in enterprise IT means connecting and enhancing the systems that ...",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T21:00:48+00:00",
+      "fetched_at": "2026-08-25T04:25:03.828979+00:00"
     },
     {
       "id": "4448b2e9752e",
@@ -214,6 +304,21 @@
       "date": "2026-08-24",
       "timestamp": "2026-08-24T19:39:15+00:00",
       "fetched_at": "2026-08-25T00:26:19.765010+00:00"
+    },
+    {
+      "id": "032b71327322",
+      "title": "Padam Kataria's Post - LinkedIn",
+      "company": "Unknown Company",
+      "role": "Padam Kataria's Post - LinkedIn",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/padamkataria_were-hiring-a-software-engineer-at-tross-activity-7497653668335386624-wzKF",
+      "source": "LinkedIn",
+      "description": "We're hiring a Software engineer at Tross. CTC : 25 Lakhs to 45 lakhs (Cash + ESOP) Location : Bangalore (in office) Looking for someone ...",
+      "date": "2026-08-24",
+      "timestamp": "2026-08-24T19:26:54+00:00",
+      "fetched_at": "2026-08-25T04:25:03.830750+00:00"
     },
     {
       "id": "4924f9f9ae6e",
