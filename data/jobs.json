@@ -1,29 +1,29 @@
 {
-  "last_updated": "2026-08-26T00:27:25.493046+00:00",
-  "total_jobs": 8370,
+  "last_updated": "2026-08-26T04:26:36.798139+00:00",
+  "total_jobs": 8378,
   "stats": {
-    "total_companies": 3965,
+    "total_companies": 3969,
     "total_roles": 112,
     "regions": {
-      "India": 5455,
+      "India": 5463,
       "Philippines": 1783,
       "Remote": 1032,
       "Unknown": 135
     },
     "sources": {
-      "Other": 6565,
-      "Greenhouse": 409,
+      "Other": 6570,
+      "Greenhouse": 410,
       "Workday": 358,
       "LinkedIn": 353,
       "Ashby": 254,
-      "iCIMS": 102,
+      "iCIMS": 103,
       "Breezy": 94,
       "Workable": 59,
       "Lever": 57,
       "SmartRecruiters": 54,
       "Indeed": 29,
       "BrassRing": 10,
-      "Recruitee": 8,
+      "Recruitee": 9,
       "Jobvite": 8,
       "Taleo": 6,
       "ADP": 2,
@@ -31,10 +31,70 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-08-25"
+      "latest": "2026-08-26"
     }
   },
   "jobs": [
+    {
+      "id": "e8067e480a8a",
+      "title": "Software Engineer , Browser Client - Job ID: 10514569 - Amazon Careers",
+      "company": "Job ID: 10514569 - Amazon Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.amazon.jobs/en/jobs/10514569/software-engineer-browser-client",
+      "source": "Other",
+      "description": "Software Engineer , Browser Client. Job ID: 10514569 | Twitch Interactive, Inc. - D48. Apply now. Description. If you are interested in this position ...",
+      "date": "2026-08-26",
+      "timestamp": "2026-08-26T00:24:49+00:00",
+      "fetched_at": "2026-08-26T04:26:36.674967+00:00"
+    },
+    {
+      "id": "83386f910859",
+      "title": "Sr. Staff Software Engineer , Big Data Platform - Pinterest Careers",
+      "company": "Pinterest Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.pinterestcareers.com/jobs/7494956/sr-staff-software-engineer-big-data-platform/?gh_jid=7494956",
+      "source": "Other",
+      "description": "We're looking for a senior staff software engineer to lead the next generation of data infrastructure at Pinterest which powers mission critical ...",
+      "date": "2026-08-26",
+      "timestamp": "2026-08-26T00:03:44+00:00",
+      "fetched_at": "2026-08-26T04:26:36.675358+00:00"
+    },
+    {
+      "id": "3a01a5e75feb",
+      "title": "System Software Engineer - Debug Technologies - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200679717-3543/system-software-engineer-debug-technologies",
+      "source": "Other",
+      "description": "Apply for a System Software Engineer - Debug Technologies job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-08-25",
+      "timestamp": "2026-08-25T23:38:26+00:00",
+      "fetched_at": "2026-08-26T04:26:36.675686+00:00"
+    },
+    {
+      "id": "abc036f1d99e",
+      "title": "Backend AI Data Engineer San Diego California - Beacon Hill",
+      "company": "Beacon Hill",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://bhsg.com/jobs/job/san-tt1470819_1787697141-backend-ai-data-engineer-san-diego-california/",
+      "source": "Other",
+      "description": "Seeking a Backend AI Engineer to help build and scale next-generation AI-powered applications and services. This is an opportunity to work on cutting- ...",
+      "date": "2026-08-25",
+      "timestamp": "2026-08-25T23:19:13+00:00",
+      "fetched_at": "2026-08-26T04:26:36.675952+00:00"
+    },
     {
       "id": "8dd29575a4d3",
       "title": "United States, Software Engineer Developer - 18437 - MetLife Careers",
@@ -51,6 +111,21 @@
       "fetched_at": "2026-08-26T00:27:25.339826+00:00"
     },
     {
+      "id": "82ea8599d953",
+      "title": "Job Application for Associate Software Engineer - US at Reltio - Greenhouse",
+      "company": "Reltio",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/reltio/jobs/6119393004",
+      "source": "Greenhouse",
+      "description": "Associate Software Engineer - US. Raleigh-Cary, NC, Austin/Dallas, TX, Tampa Bay, FL, Greater Boston Area, MA, Denver, CO, Atlanta, GA, CA, NJ, TN ...",
+      "date": "2026-08-25",
+      "timestamp": "2026-08-25T22:53:09+00:00",
+      "fetched_at": "2026-08-26T04:26:36.676247+00:00"
+    },
+    {
       "id": "caa790b13c68",
       "title": "[ Software Engineer ][San Francisco] - 2M/yr, 29M : r/Salary - Reddit",
       "company": "2M/yr, 29M : r/Salary - Reddit",
@@ -64,6 +139,21 @@
       "date": "2026-08-25",
       "timestamp": "2026-08-25T22:51:13+00:00",
       "fetched_at": "2026-08-26T00:27:25.455131+00:00"
+    },
+    {
+      "id": "4683f95141f8",
+      "title": "Sr. Machine Learning Engineer , Sunnyvale, CA, United States - Intuitive Surgical Careers",
+      "company": "Intuitive Surgical Careers",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.intuitive.com/en/jobs/744000145565870/JOB218319/sr-machine-learning-engineer/",
+      "source": "Other",
+      "description": "Machine Learning Engineer . Sunnyvale, CA, United States ... Ion Sales, Customer Services and Experiences, Software Engineer , CDE, Human Factors, ...",
+      "date": "2026-08-25",
+      "timestamp": "2026-08-25T22:47:37+00:00",
+      "fetched_at": "2026-08-26T04:26:36.676438+00:00"
     },
     {
       "id": "35ec8841a2b8",
@@ -126,6 +216,21 @@
       "fetched_at": "2026-08-26T00:27:25.340553+00:00"
     },
     {
+      "id": "18b5d491f0cc",
+      "title": "Associate AI Engineer in Atlanta, Georgia | Careers at Northlake - Emory - ICIMS",
+      "company": "Northlake",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://non-clinical-emory.icims.com/jobs/170743/associate-ai-engineer/job",
+      "source": "iCIMS",
+      "description": "Northlake is now hiring a Associate AI Engineer in Atlanta, Georgia. Review all of the job details and apply today!",
+      "date": "2026-08-25",
+      "timestamp": "2026-08-25T21:08:23+00:00",
+      "fetched_at": "2026-08-26T04:26:36.677249+00:00"
+    },
+    {
       "id": "1c8145a1a217",
       "title": "Software Engineer at NetApp, Inc.",
       "company": "NetApp, Inc.",
@@ -139,6 +244,21 @@
       "date": "2026-08-25",
       "timestamp": "2026-08-25T20:37:09+00:00",
       "fetched_at": "2026-08-26T00:27:25.340829+00:00"
+    },
+    {
+      "id": "68ce2e6637d4",
+      "title": "(Senior) Full Stack Engineer (m/f/d) - Natuvion GmbH",
+      "company": "Natuvion",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://natuvion.recruitee.com/o/senior-full-stack-engineer-mfd-1",
+      "source": "Recruitee",
+      "description": "(Senior) Full Stack Engineer (m/f/d) \u00b7 Berlin, Berlin, Germany \u00b7 Bratislava, Bratislavsk\u00fd kraj, Slovakia \u00b7 M\u00fcnchen, Bayern, Germany \u00b7 Walldorf, Baden- ...",
+      "date": "2026-08-25",
+      "timestamp": "2026-08-25T20:30:28+00:00",
+      "fetched_at": "2026-08-26T04:26:36.677494+00:00"
     },
     {
       "id": "61d4559ab404",
