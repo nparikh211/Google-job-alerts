@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-08-26T12:20:53.240943+00:00",
-  "total_jobs": 8400,
+  "last_updated": "2026-08-26T16:39:15.997610+00:00",
+  "total_jobs": 8410,
   "stats": {
-    "total_companies": 3979,
+    "total_companies": 3984,
     "total_roles": 112,
     "regions": {
-      "India": 5477,
+      "India": 5484,
       "Philippines": 1789,
-      "Remote": 1034,
+      "Remote": 1038,
       "Unknown": 135
     },
     "sources": {
-      "Other": 6588,
+      "Other": 6597,
       "Greenhouse": 412,
       "Workday": 358,
       "LinkedIn": 354,
       "Ashby": 255,
-      "iCIMS": 103,
+      "iCIMS": 104,
       "Breezy": 94,
       "Workable": 59,
       "Lever": 57,
@@ -35,6 +35,112 @@
     }
   },
   "jobs": [
+    {
+      "id": "fa3011b46b6d",
+      "title": "Software Engineer 1 - Fullstack at Intuit",
+      "company": "Intuit",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.intuit.com/job/bengaluru/software-engineer-1-fullstack/27595/99744569584",
+      "source": "Other",
+      "description": "Alex Pollock Senior Software Engineer . Software Engineering at ... Staff Machine Learning Engineer Bangalore, India. You haven't ...",
+      "date": "2026-08-26",
+      "timestamp": "2026-08-26T16:05:27+00:00",
+      "fetched_at": "2026-08-26T16:39:15.852846+00:00"
+    },
+    {
+      "id": "5efac1ac4025",
+      "title": "Senior AI Engineer - Data & MLOps (Teradyne, Remote) Job Details",
+      "company": "Data & MLOps (Teradyne, Remote) Job Details",
+      "role": "AI Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Senior-AI-Engineer-Data-&-MLOps-%28Teradyne%2C-Remote%29-MA/1423247200/",
+      "source": "Other",
+      "description": "North Reading Senior AI Engineer - Data & MLOps (Teradyne, Remote) - MA.",
+      "date": "2026-08-26",
+      "timestamp": "2026-08-26T15:51:38+00:00",
+      "fetched_at": "2026-08-26T16:39:15.853413+00:00"
+    },
+    {
+      "id": "725a565eeb4b",
+      "title": "Data Engineer I job | IT jobs at DHL",
+      "company": "DHL",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.dhl.com/amer/en/job/DPDHGLOBAL11113014ENAMEREXTERNALTALENTREEF/Data-Engineer-I",
+      "source": "Other",
+      "description": "At DHL Supply Chain, we're looking for a Data Engineer I who's excited to build reliable data pipelines, enhance data accessibility, and support ...",
+      "date": "2026-08-26",
+      "timestamp": "2026-08-26T15:20:10+00:00",
+      "fetched_at": "2026-08-26T16:39:15.853577+00:00"
+    },
+    {
+      "id": "330abc831cd8",
+      "title": "Senior Data Engineer in Atlanta, Georgia - GreenSky Administrative Services LLC",
+      "company": "GreenSky Administrative Services LLC",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers-greensky.icims.com/jobs/5185/senior-data-engineer/job",
+      "source": "iCIMS",
+      "description": "Atlanta- Glenridge is now hiring a Senior Data Engineer in Atlanta, Georgia. Review all of the job details and apply today!",
+      "date": "2026-08-26",
+      "timestamp": "2026-08-26T14:30:26+00:00",
+      "fetched_at": "2026-08-26T16:39:15.853703+00:00"
+    },
+    {
+      "id": "cd8511703b53",
+      "title": "AI Engineer - Flexday.ai",
+      "company": "Flexday.ai",
+      "role": "AI Engineer",
+      "regions": [
+        "India",
+        "Remote"
+      ],
+      "link": "https://www.flexday.ai/careers/ai-engineer",
+      "source": "Other",
+      "description": "OPEN ROLE. AI Engineer . India (Remote) \u00b7 Exprience: 2 to 5+ years. We are looking for talented engineers who combine strong communication, ...",
+      "date": "2026-08-26",
+      "timestamp": "2026-08-26T13:55:50+00:00",
+      "fetched_at": "2026-08-26T16:39:15.853791+00:00"
+    },
+    {
+      "id": "1fed0e7549c9",
+      "title": "Databricks / Data Engineer @ New York, NY - VBEST Software Inc - Dice",
+      "company": "New York, NY",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.dice.com/job-detail/2cc5d166-a2d0-4557-9b76-b8f41119935a",
+      "source": "Other",
+      "description": "8 hours ago - Databricks / Data Engineer @ New York, NYIntroductionOur client is seeking a Sr Data Engineer with strong Databricks skills to join ...",
+      "date": "2026-08-26",
+      "timestamp": "2026-08-26T13:21:50+00:00",
+      "fetched_at": "2026-08-26T16:39:15.853924+00:00"
+    },
+    {
+      "id": "adea3297479d",
+      "title": "UNC CS Career Panel: What is an AI Engineer ? - UNC Computer Science",
+      "company": "is an AI Engineer ?",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://cs.unc.edu/event/unc-cs-career-panel-what-is-an-ai-engineer/",
+      "source": "Other",
+      "description": "Ever wondered what it actually takes to build AI for a living?Join us for an insider's look at the day-to-day life of an AI engineer .",
+      "date": "2026-08-26",
+      "timestamp": "2026-08-26T12:21:59+00:00",
+      "fetched_at": "2026-08-26T16:39:15.854188+00:00"
+    },
     {
       "id": "d0e1eac7fbbe",
       "title": "Data Engineer - - National Alliance on Mental Illness Jobs",
@@ -111,6 +217,21 @@
       "fetched_at": "2026-08-26T08:26:08.593322+00:00"
     },
     {
+      "id": "6dea19cde9b7",
+      "title": "Senior Software Engineer II (Auth) - Bitwarden",
+      "company": "Bitwarden",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://bitwarden.com/careers/7866918003/",
+      "source": "Other",
+      "description": "Senior Software Engineer II (Auth). at Bitwarden in Engineering. Remote, U.S.. Bitwarden is the trusted identity security leader for millions of ...",
+      "date": "2026-08-26",
+      "timestamp": "2026-08-26T06:39:09+00:00",
+      "fetched_at": "2026-08-26T16:39:15.854841+00:00"
+    },
+    {
       "id": "07f40d13fddd",
       "title": "Applied AI Engineer - Software Engineer II - - 361557 - Deloitte",
       "company": "Applied AI Engineer",
@@ -156,6 +277,21 @@
       "fetched_at": "2026-08-26T08:26:08.593700+00:00"
     },
     {
+      "id": "f06f93debfab",
+      "title": "Senior Site Reliability Engineer - FedRAMP - Bitwarden",
+      "company": "FedRAMP - Bitwarden",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://bitwarden.com/careers/7866857003/",
+      "source": "Other",
+      "description": "Senior Site Reliability Engineer - FedRAMP. at Bitwarden in Engineering. Remote, U.S.. Bitwarden empowers enterprises, developers, and individuals to ...",
+      "date": "2026-08-26",
+      "timestamp": "2026-08-26T03:40:12+00:00",
+      "fetched_at": "2026-08-26T16:39:15.854997+00:00"
+    },
+    {
       "id": "df227f5c8e4b",
       "title": "Data Engineer -Senior II in Chennai, Tamil N\u0101du | FedEx Careers",
       "company": "Senior II in Chennai, Tamil N\u0101du | FedEx Careers",
@@ -169,6 +305,21 @@
       "date": "2026-08-26",
       "timestamp": "2026-08-26T03:31:15+00:00",
       "fetched_at": "2026-08-26T08:26:08.296875+00:00"
+    },
+    {
+      "id": "19f2244f32b3",
+      "title": "Entry Level Software Engineer (Burlington, VT) - Cox Careers",
+      "company": "Cox Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.coxenterprises.com/en/jobs/r202681784/entry-level-software-engineer-burlington-vt/",
+      "source": "Other",
+      "description": "Entry Level Software Engineer (Burlington, VT) \u00b7 1 Howard St, Burlington, Vermont \u00b7 Job Level: Individual Contributor \u00b7 Job Category: Engineering / ...",
+      "date": "2026-08-26",
+      "timestamp": "2026-08-26T02:44:05+00:00",
+      "fetched_at": "2026-08-26T16:39:15.855263+00:00"
     },
     {
       "id": "465efcc68e0b",
