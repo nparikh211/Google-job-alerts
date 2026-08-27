@@ -1,29 +1,29 @@
 {
-  "last_updated": "2026-08-27T05:10:53.394052+00:00",
-  "total_jobs": 8442,
+  "last_updated": "2026-08-27T18:25:36.888469+00:00",
+  "total_jobs": 8464,
   "stats": {
-    "total_companies": 3994,
+    "total_companies": 4003,
     "total_roles": 112,
     "regions": {
-      "India": 5509,
-      "Philippines": 1793,
-      "Remote": 1041,
+      "India": 5522,
+      "Philippines": 1797,
+      "Remote": 1046,
       "Unknown": 135
     },
     "sources": {
-      "Other": 6620,
-      "Greenhouse": 415,
-      "Workday": 360,
+      "Other": 6636,
+      "Greenhouse": 418,
+      "Workday": 361,
       "LinkedIn": 356,
-      "Ashby": 257,
+      "Ashby": 258,
       "iCIMS": 104,
       "Breezy": 94,
       "Workable": 59,
       "Lever": 57,
       "SmartRecruiters": 54,
       "Indeed": 29,
+      "Recruitee": 10,
       "BrassRing": 10,
-      "Recruitee": 9,
       "Jobvite": 8,
       "Taleo": 6,
       "ADP": 2,
@@ -35,6 +35,336 @@
     }
   },
   "jobs": [
+    {
+      "id": "0cc238f70cd7",
+      "title": "Job Application for Senior Software Engineer at ATOMS Careers page - Greenhouse",
+      "company": "Cssmerge",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/cssmerge/jobs/8752921002",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer . New York, NY. Join Us. Who we are. At Picnic, we ... We're looking for a Backend Engineer to help architect and scale ...",
+      "date": "2026-08-27",
+      "timestamp": "2026-08-27T17:36:54+00:00",
+      "fetched_at": "2026-08-27T18:25:36.850612+00:00"
+    },
+    {
+      "id": "bff933597399",
+      "title": "Senior AI Engineer | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.apexsystems.com/job/3044834_usa/senior-ai-engineer",
+      "source": "Other",
+      "description": "Senior AI Engineer . Apply. Job#: 3044834. Job Description: Senior AI ... Sr AI Platform Engineer \u00b7 Senior ServiceNow AI Engineer . Connect with our ...",
+      "date": "2026-08-27",
+      "timestamp": "2026-08-27T17:02:42+00:00",
+      "fetched_at": "2026-08-27T18:25:36.850773+00:00"
+    },
+    {
+      "id": "9fa418d69faa",
+      "title": "Senior Data Engineer , AI Value Realization in Philadelphia, Pennsylvania, United States",
+      "company": "Unknown Company",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.pennmedicine.org/en/jobs/18173504-senior-data-engineer-ai-value-realization",
+      "source": "Other",
+      "description": "Summary: This Senior Data Engineer role will be a key contributor to Penn Medicine's efforts to measure and demonstrate the real-world impact of AI- ...",
+      "date": "2026-08-27",
+      "timestamp": "2026-08-27T16:27:55+00:00",
+      "fetched_at": "2026-08-27T18:25:36.741517+00:00"
+    },
+    {
+      "id": "2bee1f40de8d",
+      "title": "Data Engineer in Rochester, New York - Paychex Careers",
+      "company": "Paychex Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.paychex.com/careers/jobs/43458?lang=en-us",
+      "source": "Other",
+      "description": "Paychex Careers and Job Openings | Paychex is hiring a Data Engineer in Rochester, New York. Review all of the job details and apply today!",
+      "date": "2026-08-27",
+      "timestamp": "2026-08-27T16:02:28+00:00",
+      "fetched_at": "2026-08-27T18:25:36.741870+00:00"
+    },
+    {
+      "id": "2c340a47847a",
+      "title": "Job Application for Senior Software Engineer , Backend (Applied AI) at SmarterDx",
+      "company": "Smarterdx",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/smarterdx/jobs/5223140007",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer , Backend (Applied AI). Remote (United States). Apply. SmarterDx is transforming how health systems use clinical AI to ...",
+      "date": "2026-08-27",
+      "timestamp": "2026-08-27T15:55:32+00:00",
+      "fetched_at": "2026-08-27T18:25:36.742000+00:00"
+    },
+    {
+      "id": "04b86c966185",
+      "title": "Generative AI Engineer , Atlanta / Alpharetta - Equifax Careers",
+      "company": "Equifax Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.equifax.com/en/jobs/j00178371/generative-ai-engineer/",
+      "source": "Other",
+      "description": "We seek a dynamic and driven individual with a strong technical foundation to serve as a Generative AI Engineer . You will leverage our data, ...",
+      "date": "2026-08-27",
+      "timestamp": "2026-08-27T15:55:25+00:00",
+      "fetched_at": "2026-08-27T18:25:36.742152+00:00"
+    },
+    {
+      "id": "70402f650ec9",
+      "title": "Software Engineer , Chrome Networking Security - Careers - Google",
+      "company": "Careers - Google",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/100397577702122182-software-engineer-chrome-networking-security",
+      "source": "Other",
+      "description": "... software engineer , you will work on a specific project critical to ... Senior Software Engineer , Vertex AI, Workbench. Warsaw, Poland \u00b7 Software ...",
+      "date": "2026-08-27",
+      "timestamp": "2026-08-27T15:39:14+00:00",
+      "fetched_at": "2026-08-27T18:25:36.742409+00:00"
+    },
+    {
+      "id": "f99b16b37d21",
+      "title": "AI Software Engineer - Myworkdayjobs.com",
+      "company": "Haier",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/AI-Software-Engineer_REQ-26544-1",
+      "source": "Workday",
+      "description": "... Software Engineer to join ASI's digital innovation team and help ... Senior Applied AI Engineer . locations: USA, Louisville, KY. time type: Full ...",
+      "date": "2026-08-27",
+      "timestamp": "2026-08-27T15:04:18+00:00",
+      "fetched_at": "2026-08-27T18:25:36.742504+00:00"
+    },
+    {
+      "id": "c55138710db8",
+      "title": "BALLY'S INTRALOT SA - Software Engineer",
+      "company": "Ballysintralotsa",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ballysintralotsa.recruitee.com/o/software-engineer-2",
+      "source": "Recruitee",
+      "description": "Software Engineer . Job Description. Bally's Intralot supplies integrated gaming and transaction processing systems, innovative game content, ...",
+      "date": "2026-08-27",
+      "timestamp": "2026-08-27T14:47:42+00:00",
+      "fetched_at": "2026-08-27T18:25:36.742781+00:00"
+    },
+    {
+      "id": "97269f254925",
+      "title": "Senior Software Engineer Job Details | Grainger Businesses",
+      "company": "Grainger Businesses",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.grainger.com/job/CHICAGO-Senior-Software-Engineer-IL-60654-4203/1423692000/",
+      "source": "Other",
+      "description": "As a Senior Software Engineer ( Software Engineer III), you will be involved in the full systems life cycle and responsible for designing, coding ...",
+      "date": "2026-08-27",
+      "timestamp": "2026-08-27T14:02:13+00:00",
+      "fetched_at": "2026-08-27T18:25:36.743167+00:00"
+    },
+    {
+      "id": "17b89a28026c",
+      "title": "Senior Software Engineer , Fullstack @ Flock - Jobs",
+      "company": "Flock",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.ashbyhq.com/flock%20safety/6bccb459-ccdc-423d-a1b5-b6705326b6d1",
+      "source": "Ashby",
+      "description": "... full-stack engineer to design and defend the software engines that ... Senior Software Engineer , Fullstack. Location. Remote - USA. Employment ...",
+      "date": "2026-08-27",
+      "timestamp": "2026-08-27T13:53:45+00:00",
+      "fetched_at": "2026-08-27T18:25:36.743266+00:00"
+    },
+    {
+      "id": "0ab4ffefedf9",
+      "title": "Software Engineer at Ford Motor Company",
+      "company": "Ford Motor Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.careers.ford.com/job/chennai/software-engineer/48560/99797426544",
+      "source": "Other",
+      "description": "Software Engineer \u00b7 3 to 5 years of professional experience as a Full Stack Developer. \u00b7 Strong proficiency in Java and Core Java concepts (OOP, ...",
+      "date": "2026-08-27",
+      "timestamp": "2026-08-27T13:53:35+00:00",
+      "fetched_at": "2026-08-27T18:25:36.743390+00:00"
+    },
+    {
+      "id": "ebac46a02d5b",
+      "title": "Senior Data Engineer - C# OR Python, Remote - 69852 - PRIMUS Global Services Inc.",
+      "company": "C# OR Python, Remote - 69852 - PRIMUS Global Services Inc.",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.dice.com/job-detail/593c3a0f-f122-4d6f-8345-cbca0ed7a059",
+      "source": "Other",
+      "description": "22 hours ago - Senior Data Engineer C# OR Python, Remote We have an immediate need for a Senior Data Engineer with experience and strong expertise ...",
+      "date": "2026-08-27",
+      "timestamp": "2026-08-27T13:52:41+00:00",
+      "fetched_at": "2026-08-27T18:25:36.743585+00:00"
+    },
+    {
+      "id": "deefde3dc9c2",
+      "title": "Senior Software Engineer in Remote - Missouri, 65101, United States of America",
+      "company": "Missouri, 65101, United States of America",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.therealreal.com/us/en/job/R13163/Senior-Software-Engineer",
+      "source": "Other",
+      "description": "Apply for Senior Software Engineer job with The RealReal in Remote - Missouri, 65101, United States of America. Technology at The RealReal.",
+      "date": "2026-08-27",
+      "timestamp": "2026-08-27T13:06:38+00:00",
+      "fetched_at": "2026-08-27T18:25:36.743725+00:00"
+    },
+    {
+      "id": "14a283766d92",
+      "title": "Job Application for Senior Software Engineer at Federato - Greenhouse",
+      "company": "Federato",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/federato/jobs/5400069008",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer . Remote. Apply. There's nothing more exciting than transforming an industry that's been stagnant for decades. Federato is an ...",
+      "date": "2026-08-27",
+      "timestamp": "2026-08-27T12:54:21+00:00",
+      "fetched_at": "2026-08-27T18:25:36.852311+00:00"
+    },
+    {
+      "id": "fa82c0e0cba1",
+      "title": "AEM / Full Stack Software Engineer at Ford Motor Company",
+      "company": "Ford Motor Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.careers.ford.com/job/dearborn/aem-full-stack-software-engineer/48560/99761775904",
+      "source": "Other",
+      "description": "We are seeking a talented and motivated Software Engineer with strong programming fundamentals and experience developing web applications to join our ...",
+      "date": "2026-08-27",
+      "timestamp": "2026-08-27T12:22:54+00:00",
+      "fetched_at": "2026-08-27T18:25:36.743863+00:00"
+    },
+    {
+      "id": "77577e6ba147",
+      "title": "Software Engineer at Ford Motor Company - Ford Careers",
+      "company": "Ford Motor Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.careers.ford.com/job/livonia/software-engineer/48560/99778367328",
+      "source": "Other",
+      "description": "Software Engineer . Job ID: 69527. Location: Livonia, Michigan. Category: Enterprise Technology. Apply Now. Jump To: Overview; Responsibilities ...",
+      "date": "2026-08-27",
+      "timestamp": "2026-08-27T12:22:54+00:00",
+      "fetched_at": "2026-08-27T18:25:36.743997+00:00"
+    },
+    {
+      "id": "7a0b1a1b285b",
+      "title": "Software Engineer II (NST) - Nintendo Careers Site",
+      "company": "Nintendo Careers Site",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.nintendo.com/jobs/4371239009/",
+      "source": "Other",
+      "description": "Learn about Software Engineer II (NST) and apply for this open position.",
+      "date": "2026-08-27",
+      "timestamp": "2026-08-27T11:24:17+00:00",
+      "fetched_at": "2026-08-27T18:25:36.744102+00:00"
+    },
+    {
+      "id": "18c01d5492fc",
+      "title": "Senior Machine Learning Engineer Job Details - Murata Careers",
+      "company": "Murata Careers",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.murata.com/Murata/job/San-Diego-Senior-Machine-Learning-Engineer-CA-92101/1423425300/",
+      "source": "Other",
+      "description": "Senior Machine Learning Engineer . Location: San Diego, CA, US. Sensoride has been driven by a simple vision \u2014 to make sensing smarter, faster, and ...",
+      "date": "2026-08-27",
+      "timestamp": "2026-08-27T10:43:54+00:00",
+      "fetched_at": "2026-08-27T18:25:36.744443+00:00"
+    },
+    {
+      "id": "33e868667330",
+      "title": "Senior Software Engineer - Java - TeamViewer Germany GmbH",
+      "company": "Java - TeamViewer Germany GmbH",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.teamviewer.com/jobs/8276229-senior-software-engineer-java",
+      "source": "Other",
+      "description": "Senior Software Engineer - Java. We're looking for a SSE with strong Java (Spring) and Kotlin expertise to play a key role in designing and ...",
+      "date": "2026-08-27",
+      "timestamp": "2026-08-27T10:26:54+00:00",
+      "fetched_at": "2026-08-27T18:25:36.744610+00:00"
+    },
+    {
+      "id": "a6f57619254d",
+      "title": "AI Engineer job in 9151 E Panorama Cir, Centennial, CO 80112, United States of America",
+      "company": "Unknown Company",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.arrow.com/us/en/job/R246545/AI-Engineer",
+      "source": "Other",
+      "description": "Position: AI Engineer . Job Description: What You'll Be Doing: Implements and manages CI/CD pipelines (e.g., Azure DevOps, Jenkins, etc.) ...",
+      "date": "2026-08-27",
+      "timestamp": "2026-08-27T10:07:02+00:00",
+      "fetched_at": "2026-08-27T18:25:36.853276+00:00"
+    },
+    {
+      "id": "f231f8e740f4",
+      "title": "Lead Full-Stack Engineer - Backend Focus in Dallas, Texas - Humana Careers",
+      "company": "Lead Full",
+      "role": "Stack Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.humana.com/us/en/job/R-425399/Lead-Full-Stack-Engineer-Backend-Focus",
+      "source": "Other",
+      "description": "Apply for Lead Full-Stack Engineer - Backend Focus job ... The Lead Software Engineer codes software applications based on business requirements.",
+      "date": "2026-08-27",
+      "timestamp": "2026-08-27T08:35:24+00:00",
+      "fetched_at": "2026-08-27T18:25:36.853722+00:00"
+    },
     {
       "id": "5824062bdf11",
       "title": "Software Engineer (Full Stack), G&A Solutions Engineering - Jobs - Careers at Apple",
