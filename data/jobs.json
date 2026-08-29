@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-08-28T15:42:30.653958+00:00",
-  "total_jobs": 8501,
+  "last_updated": "2026-08-29T00:10:19.911183+00:00",
+  "total_jobs": 8521,
   "stats": {
-    "total_companies": 4012,
+    "total_companies": 4017,
     "total_roles": 112,
     "regions": {
-      "India": 5550,
-      "Philippines": 1801,
-      "Remote": 1051,
+      "India": 5563,
+      "Philippines": 1803,
+      "Remote": 1056,
       "Unknown": 135
     },
     "sources": {
-      "Other": 6664,
-      "Greenhouse": 419,
-      "Workday": 365,
-      "LinkedIn": 356,
+      "Other": 6680,
+      "Greenhouse": 421,
+      "Workday": 366,
+      "LinkedIn": 357,
       "Ashby": 260,
       "iCIMS": 106,
       "Breezy": 94,
@@ -35,6 +35,306 @@
     }
   },
   "jobs": [
+    {
+      "id": "fc595debf5fb",
+      "title": "Automation & AI Engineer - FedEx Careers",
+      "company": "FedEx Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.fedex.com/automation-ai-engineer/job/3B77AD96C8707C93483D2A9AF2BF0BAC",
+      "source": "Other",
+      "description": "Join FedEx Global Trade Services (GTS) as an Automation & AI Engineer and help design, build, and deploy innovative automation solutions that improve ...",
+      "date": "2026-08-28",
+      "timestamp": "2026-08-28T22:09:58+00:00",
+      "fetched_at": "2026-08-29T00:10:19.874716+00:00"
+    },
+    {
+      "id": "224b2dc96a74",
+      "title": "Job Application for Senior Software Engineer - Temporary at CareDx, Inc. - Greenhouse",
+      "company": "Caredxinc",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/caredxinc/jobs/4377711009",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer - Temporary. United States. Apply. CareDx is a leading precision medicine diagnostics company advancing care in transplant ...",
+      "date": "2026-08-28",
+      "timestamp": "2026-08-28T22:01:31+00:00",
+      "fetched_at": "2026-08-29T00:10:19.771362+00:00"
+    },
+    {
+      "id": "e42e11653889",
+      "title": "Senior Software Engineer - Careers at Lindy.",
+      "company": "Lindy.",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.lindy.ai/jobs/689900-senior-software-engineer",
+      "source": "Other",
+      "description": "Senior Software Engineer . Our mission is to free humanity from work. We ... Full Stack Engineer (Early Career) \u00b7 Picture of Jonathan Cardoso.",
+      "date": "2026-08-28",
+      "timestamp": "2026-08-28T21:25:46+00:00",
+      "fetched_at": "2026-08-29T00:10:19.772178+00:00"
+    },
+    {
+      "id": "9aa4bcea5c02",
+      "title": "Junior Software Engineer in San Francisco, CA | Careers at Zof AI",
+      "company": "Zof AI",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://zof.ai/careers/san-francisco/junior-software-engineer",
+      "source": "Other",
+      "description": "Junior Software Engineer ... Zof AI is hiring for this role in San Francisco, CA. This is a full-time opportunity for candidates who want to contribute ...",
+      "date": "2026-08-28",
+      "timestamp": "2026-08-28T21:19:59+00:00",
+      "fetched_at": "2026-08-29T00:10:19.772336+00:00"
+    },
+    {
+      "id": "5a6aa8a4589a",
+      "title": "Principal Software Engineer - Remote, United States - Toast",
+      "company": "Remote, United States - Toast",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.toasttab.com/jobs/principal-software-engineer-remote-united-states-71925c5f-3a1a-44cc-a428-750c482feb1b?gh_jid=8159140",
+      "source": "Other",
+      "description": "Principal Software Engineer ... Toast creates technology to help restaurants and local businesses succeed in a digital world, helping business owners ...",
+      "date": "2026-08-28",
+      "timestamp": "2026-08-28T20:54:51+00:00",
+      "fetched_at": "2026-08-29T00:10:19.773144+00:00"
+    },
+    {
+      "id": "82b2dde893b7",
+      "title": "Senior Fullstack Engineer (Next.js/AI Agents) | Kake",
+      "company": "Kake",
+      "role": "Fullstack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://kake.co/jobs/senior-fullstack-engineer-next-js-ai-agents-17edc92bcbc8",
+      "source": "Other",
+      "description": "We're looking for a product-minded fullstack engineer to join a fast-moving team building AI-powered products at the intersection of great UX and ...",
+      "date": "2026-08-28",
+      "timestamp": "2026-08-28T20:29:46+00:00",
+      "fetched_at": "2026-08-29T00:10:19.773356+00:00"
+    },
+    {
+      "id": "1a6c2b55e9f9",
+      "title": "Senior Software Engineer (Java) - Fixed Income (VP) - Citi Careers",
+      "company": "Fixed Income (VP) - Citi Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.citi.com/job/belfast/senior-software-engineer-java-fixed-income-vp/287/99856935728",
+      "source": "Other",
+      "description": "Learn more about applying for Senior Software Engineer (Java) - Fixed Income (VP) at Citi. Learn more about potential responsibilities, ...",
+      "date": "2026-08-28",
+      "timestamp": "2026-08-28T20:04:31+00:00",
+      "fetched_at": "2026-08-29T00:10:19.773566+00:00"
+    },
+    {
+      "id": "678aafa8e6cf",
+      "title": "Associate Data Engineer in Costa Mesa, California, 92626 | Technology at AAA Careers",
+      "company": "AAA Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.ace.aaa.com/us/en/job/JR202638846/Associate-Data-Engineer",
+      "source": "Other",
+      "description": "Associate Data Engineer . Apply Now. JOB DESCRIPTION. Associate Data ... Senior Cloud DevOps Engineer . Location Costa Mesa, California, 92626.",
+      "date": "2026-08-28",
+      "timestamp": "2026-08-28T19:25:07+00:00",
+      "fetched_at": "2026-08-29T00:10:19.773701+00:00"
+    },
+    {
+      "id": "146104fa34fd",
+      "title": "Senior Software Engineer , Backend, Remote - Canada | DraftKings Careers",
+      "company": "Canada | DraftKings Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.draftkings.com/jobs/jr14944/senior-software-engineer-backend/",
+      "source": "Other",
+      "description": "Senior Software Engineer , Backend. Remote - Canada. Engineering; Full time. a man and woman looking at a computer screen. About DraftKings. At ...",
+      "date": "2026-08-28",
+      "timestamp": "2026-08-28T19:22:09+00:00",
+      "fetched_at": "2026-08-29T00:10:19.773882+00:00"
+    },
+    {
+      "id": "60fb05ebe68e",
+      "title": "Data Engineer - ORNL Jobs - Oak Ridge National Laboratory",
+      "company": "ORNL Jobs - Oak Ridge National Laboratory",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ornl.gov/job/Oak-Ridge-Data-Engineer-TN-37934/1424339800/",
+      "source": "Other",
+      "description": "Data Engineer \u00b7 Requisition Id 16994 \u00b7 Overview: \u00b7 The Geospatial Science & Engineering Division (GSED), of the National Security Sciences Directorate ( ...",
+      "date": "2026-08-28",
+      "timestamp": "2026-08-28T18:48:09+00:00",
+      "fetched_at": "2026-08-29T00:10:19.774094+00:00"
+    },
+    {
+      "id": "5348a741e210",
+      "title": "Back-End Software Engineer | Everforth Apex",
+      "company": "Back",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.apexsystems.com/job/3048354_usa/back-end-software-engineer",
+      "source": "Other",
+      "description": "Back-End Software Engineer ... Job Description: Position Description: Employees in this job function develop and maintain the back-end/ server-side ...",
+      "date": "2026-08-28",
+      "timestamp": "2026-08-28T18:17:03+00:00",
+      "fetched_at": "2026-08-29T00:10:19.774232+00:00"
+    },
+    {
+      "id": "091f322d5aff",
+      "title": "Software Engineer , Astral | OpenAI",
+      "company": "OpenAI",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://openai.com/careers/software-engineer-astral-new-york-city/",
+      "source": "Other",
+      "description": "Software Engineer , Astral \u00b7 Design and implement features in Astral's existing open source projects (Ruff, uv, ty, and python-build-standalone, and ...",
+      "date": "2026-08-28",
+      "timestamp": "2026-08-28T18:05:40+00:00",
+      "fetched_at": "2026-08-29T00:10:19.774385+00:00"
+    },
+    {
+      "id": "5de4872ec695",
+      "title": "Senior Staff Software Engineer at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-staff-software-engineer/47263/99846400560",
+      "source": "Other",
+      "description": "Senior Staff Software Engineer . Santa Clara, California, United States ... We are seeking a Senior or Principal Backend Engineer for our Santa ...",
+      "date": "2026-08-28",
+      "timestamp": "2026-08-28T18:03:02+00:00",
+      "fetched_at": "2026-08-29T00:10:19.774541+00:00"
+    },
+    {
+      "id": "11b83789a151",
+      "title": "Junior Full Stack Engineer ($250k - $300k salary) at Baton Corporation | Joe Garcia",
+      "company": "Baton Corporation",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/posts/joe-garcia_junior-full-stack-engineer-250k-300k-activity-7498776578672328704-zBoG",
+      "source": "LinkedIn",
+      "description": "... ML Engineer , Perception LLM/VLM \u00b7 $170\u2013216k \u2192 https://t.ly/4GLvo ... AI Engineer \u00b7 $135\u2013155k \u2192 https://t.ly/XKG45 Full comp-sorted list ...",
+      "date": "2026-08-28",
+      "timestamp": "2026-08-28T18:00:06+00:00",
+      "fetched_at": "2026-08-29T00:10:19.877163+00:00"
+    },
+    {
+      "id": "9c23a149b1e8",
+      "title": "Instrument Software Engineer , Sunnyvale, CA, United States - Intuitive Surgical Careers",
+      "company": "Intuitive Surgical Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.intuitive.com/en/jobs/744000146220840/JOB218481/instrument-software-engineer/",
+      "source": "Other",
+      "description": "Job Description Primary Function of Position We are looking for a senior software engineer to lead the development of advanced mechatronic ...",
+      "date": "2026-08-28",
+      "timestamp": "2026-08-28T17:51:10+00:00",
+      "fetched_at": "2026-08-29T00:10:19.774706+00:00"
+    },
+    {
+      "id": "981fa37de66a",
+      "title": "Full Stack Engineer , Sunnyvale, CA, United States - Intuitive Surgical Careers",
+      "company": "Intuitive Surgical Careers",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.intuitive.com/en/jobs/744000146230504/JOB217750/full-stack-engineer/",
+      "source": "Other",
+      "description": "Full Stack Engineer . Sunnyvale, CA, United States; Not Remote; Engineering ... Senior Full-Stack / AI Platform Engineer . Save Saved. Sunnyvale, CA ...",
+      "date": "2026-08-28",
+      "timestamp": "2026-08-28T17:51:04+00:00",
+      "fetched_at": "2026-08-29T00:10:19.774858+00:00"
+    },
+    {
+      "id": "7e9afec864c1",
+      "title": "Sr. DevOps Engineer - Piper Companies",
+      "company": "Piper Companies",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.pipercompanies.com/details/173125/sr_devops_engineer",
+      "source": "Other",
+      "description": "The Sr. DevOps Engineer role is a remote position focused on building and enhancing cloud-native deployment platforms that enable engineering teams to ...",
+      "date": "2026-08-28",
+      "timestamp": "2026-08-28T17:49:25+00:00",
+      "fetched_at": "2026-08-29T00:10:19.775033+00:00"
+    },
+    {
+      "id": "aeb24d29af57",
+      "title": "Machine Learning Engineer - Careers at Moody's",
+      "company": "Moody's",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.moodys.com/en/job/golden/machine-learning-engineer/49841/99815867328",
+      "source": "Other",
+      "description": "Machine Learning Engineer \u00b7 Advanced degree in a Science, Technology, Engineering, or Mathematics field required \u00b7 Typically requires a minimum of two ...",
+      "date": "2026-08-28",
+      "timestamp": "2026-08-28T17:03:05+00:00",
+      "fetched_at": "2026-08-29T00:10:19.775520+00:00"
+    },
+    {
+      "id": "16374b612205",
+      "title": "Software Engineer III - Myworkdayjobs.com",
+      "company": "Alsacstjude",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://alsacstjude.wd1.myworkdayjobs.com/careersalsacstjude/job/Memphis-TN/Software-Engineer-III_R0011135",
+      "source": "Workday",
+      "description": "... Software Engineer III as follows. Responsible for providing technical ... Jude Children's Research Hospital \u2013 is currently looking for a Software ...",
+      "date": "2026-08-28",
+      "timestamp": "2026-08-28T16:39:59+00:00",
+      "fetched_at": "2026-08-29T00:10:19.775651+00:00"
+    },
+    {
+      "id": "3d727357dd5c",
+      "title": "Job Application for Full Stack Engineer at Roadie - Greenhouse",
+      "company": "Roadie",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/roadie/jobs/8757433002",
+      "source": "Greenhouse",
+      "description": "Full Stack Engineer . REMOTE. Apply. Roadie, a UPS company, is a leading ... This Full Stack Software Engineer will help build and evolve the web ...",
+      "date": "2026-08-28",
+      "timestamp": "2026-08-28T16:37:35+00:00",
+      "fetched_at": "2026-08-29T00:10:19.775747+00:00"
+    },
     {
       "id": "f58f4455704b",
       "title": "Senior Software Engineer , Backend Full Stack - Emerging Products - Rippling",
