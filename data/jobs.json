@@ -1,27 +1,27 @@
 {
-  "last_updated": "2026-08-30T01:49:00.688027+00:00",
-  "total_jobs": 8572,
+  "last_updated": "2026-08-30T09:29:26.722286+00:00",
+  "total_jobs": 8592,
   "stats": {
-    "total_companies": 4035,
+    "total_companies": 4041,
     "total_roles": 112,
     "regions": {
-      "India": 5593,
-      "Philippines": 1821,
-      "Remote": 1059,
+      "India": 5606,
+      "Philippines": 1826,
+      "Remote": 1061,
       "Unknown": 135
     },
     "sources": {
-      "Other": 6725,
+      "Other": 6740,
       "Greenhouse": 422,
-      "Workday": 366,
-      "LinkedIn": 360,
-      "Ashby": 261,
-      "iCIMS": 106,
+      "Workday": 367,
+      "LinkedIn": 361,
+      "Ashby": 262,
+      "iCIMS": 107,
       "Breezy": 95,
       "Workable": 59,
       "Lever": 57,
       "SmartRecruiters": 54,
-      "Indeed": 29,
+      "Indeed": 30,
       "Recruitee": 10,
       "BrassRing": 10,
       "Jobvite": 8,
@@ -31,10 +31,175 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-08-29"
+      "latest": "2026-08-30"
     }
   },
   "jobs": [
+    {
+      "id": "deae5dbba207",
+      "title": "Senior Software Engineer , Full Stack, YouTube Creator Studio \u2014 Google Careers",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/114928826454024902-senior-software-engineer-full-stack-youtube-creator-studio",
+      "source": "Other",
+      "description": "As an Senior Software Engineer and Technical Lead for the Studio Client Infra team, you will be a key architect of the engine that powers the world's ...",
+      "date": "2026-08-30",
+      "timestamp": "2026-08-30T07:43:59+00:00",
+      "fetched_at": "2026-08-30T09:29:26.324780+00:00"
+    },
+    {
+      "id": "13f8db53977c",
+      "title": "Crusoe - Software Engineer II, Storage - Jobs",
+      "company": "Crusoe",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/crusoe/ca49cb96-50b9-4a3d-a490-2e1d88c357b3",
+      "source": "Ashby",
+      "description": "Software Engineer II, Storage. Location. San Francisco, CA - US. Employment Type. Full time. Location Type.",
+      "date": "2026-08-30",
+      "timestamp": "2026-08-30T05:16:14+00:00",
+      "fetched_at": "2026-08-30T09:29:26.324932+00:00"
+    },
+    {
+      "id": "210966002ca8",
+      "title": "Senior Software Engineer II - Kargo",
+      "company": "Kargo",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.kargo.com/careers/5218131007?gh_jid=5218131007",
+      "source": "Other",
+      "description": "Senior Software Engineer II. Apply. New York, NY. Who We Are. Kargo creates powerful moments of connection between brands and consumers to build ...",
+      "date": "2026-08-30",
+      "timestamp": "2026-08-30T04:27:48+00:00",
+      "fetched_at": "2026-08-30T09:29:26.684080+00:00"
+    },
+    {
+      "id": "3e25e010516a",
+      "title": "75 Data Engineer Jobs Hiring Now in Harrisburg, ON | Indeed",
+      "company": "Indeed",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://ca.indeed.com/q-data-engineer-l-harrisburg,-on-jobs.html",
+      "source": "Indeed",
+      "description": "Senior Full Stack Engineer - Electronic Arts [EAFS260703]. Easily apply ... Ai FullStack Engineer . Easily apply. HURIX SYSTEMS PRIVATE LIMITED.",
+      "date": "2026-08-30",
+      "timestamp": "2026-08-30T04:22:20+00:00",
+      "fetched_at": "2026-08-30T09:29:26.684226+00:00"
+    },
+    {
+      "id": "064a236f3b1d",
+      "title": "YO AI Labs hiring AI/ML Software Engineer - Remote in New York, NY | LinkedIn",
+      "company": "Remote in New York, NY | LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/ai-ml-software-engineer-remote-at-yo-ai-labs-4459727405",
+      "source": "LinkedIn",
+      "description": "Senior Software Engineer Job Type: Contractor (:15 hours/week) Location ... AI Engineer (Python, Machine Learning, Generative AI/LLMs). Modus ...",
+      "date": "2026-08-30",
+      "timestamp": "2026-08-30T04:12:00+00:00",
+      "fetched_at": "2026-08-30T09:29:26.684422+00:00"
+    },
+    {
+      "id": "82ac0e62355f",
+      "title": "Campus UI Software Engineer (Intern) | Careers at Jump Trading",
+      "company": "Jump Trading",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.jumptrading.com/hr/job?gh_jid=8003019&gh_src=Trackr",
+      "source": "Other",
+      "description": "Campus UI Software Engineer (Intern). Location. Chicago. Job Type. Jump Trading - Intern. Jump Trading Group is committed to world class research. We ...",
+      "date": "2026-08-30",
+      "timestamp": "2026-08-30T03:34:42+00:00",
+      "fetched_at": "2026-08-30T09:29:26.325244+00:00"
+    },
+    {
+      "id": "c1f19a884b8e",
+      "title": "Software Engineer 1 (Full-Stack) \u2013 Prometheum \u2013 Permanent contract \u2013 Fully-remote",
+      "company": "Stack) \u2013 Prometheum \u2013 Permanent contract \u2013 Fully-remote",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.welcometothejungle.com/en/companies/prometheum/jobs/software-engineer-1-full-stack_new-york_zv5orvu2",
+      "source": "Other",
+      "description": "4 days ago. amo \u00b7 Senior Software Engineer , Backend (Rust). amo. Permanent contract. Paris. No remote work. Mobile Apps, Software. 59 employees. 4 ...",
+      "date": "2026-08-30",
+      "timestamp": "2026-08-30T02:33:09+00:00",
+      "fetched_at": "2026-08-30T09:29:26.325464+00:00"
+    },
+    {
+      "id": "5eaa1a3efd9b",
+      "title": "Senior Software Engineer (ServiceNow Catalog) in Hopkins, MN, United States - U.S. Bank careers",
+      "company": "U.S. Bank careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.usbank.com/global/en/job/UBNAGLOBAL20260026739EXTERNALENGLOBAL/Senior-Software-Engineer-ServiceNow-Catalog",
+      "source": "Other",
+      "description": "Apply for Senior Software Engineer (ServiceNow Catalog) job with U.S. Bank in Hopkins, MN, United States. Technology & Digital at U.S. Bank.",
+      "date": "2026-08-30",
+      "timestamp": "2026-08-30T00:58:23+00:00",
+      "fetched_at": "2026-08-30T09:29:26.325680+00:00"
+    },
+    {
+      "id": "9e45dbe5bc5d",
+      "title": "Senior Software Engineer - Windows (Duo) - Cisco Careers",
+      "company": "Windows (Duo) - Cisco Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2023286EXTERNALENGLOBAL/Senior-Software-Engineer-Windows-Duo",
+      "source": "Other",
+      "description": "Apply for Senior Software Engineer - Windows (Duo) job with Cisco in Ann Arbor, Michigan, United States of America. Product and Engineering at ...",
+      "date": "2026-08-30",
+      "timestamp": "2026-08-30T00:34:37+00:00",
+      "fetched_at": "2026-08-30T09:29:26.685341+00:00"
+    },
+    {
+      "id": "39b1cb74cf2b",
+      "title": "Senior Staff Software Engineer (Internet Security) at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-staff-software-engineer-internet-security/47263/99899914240",
+      "source": "Other",
+      "description": "Senior Staff Software Engineer (Internet Security). Santa Clara, California, United States of America Product Engineering Ref ID: JR-021912.",
+      "date": "2026-08-30",
+      "timestamp": "2026-08-30T00:28:14+00:00",
+      "fetched_at": "2026-08-30T09:29:26.325855+00:00"
+    },
+    {
+      "id": "14e7bfcca9d8",
+      "title": "Software Engineer (Programmer/Analyst II) in Logan, Utah | Careers at Logan Campus",
+      "company": "Logan Campus",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers-usu.icims.com/jobs/10669/software-engineer-%28programmer-analyst-ii%29/job",
+      "source": "iCIMS",
+      "description": "Logan Campus is now hiring a Software Engineer (Programmer/Analyst II) in Logan, Utah. Review all of the job details and apply today!",
+      "date": "2026-08-29",
+      "timestamp": "2026-08-29T23:06:39+00:00",
+      "fetched_at": "2026-08-30T09:29:26.326157+00:00"
+    },
     {
       "id": "3793dd1abd23",
       "title": "Senior Platform Software Engineer - Oracle Careers",
@@ -49,6 +214,21 @@
       "date": "2026-08-29",
       "timestamp": "2026-08-29T22:50:11+00:00",
       "fetched_at": "2026-08-30T01:49:00.357233+00:00"
+    },
+    {
+      "id": "f7f41729e583",
+      "title": "5 Ways AI Changed What It Means to Be a Software Engineer | by Wong Xin Wei - Medium",
+      "company": "It Means to Be a Software Engineer",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://medium.com/write-a-catalyst/5-ways-ai-changed-what-it-means-to-be-a-software-engineer-45a3dc1cd444",
+      "source": "Other",
+      "description": "Before AI was part of the job. I started my career as a software engineer before AI tools were a thing. Back then, our toolkit was pretty simple: ...",
+      "date": "2026-08-29",
+      "timestamp": "2026-08-29T22:38:05+00:00",
+      "fetched_at": "2026-08-30T09:29:26.326565+00:00"
     },
     {
       "id": "87e13770cdae",
@@ -66,6 +246,51 @@
       "fetched_at": "2026-08-30T01:49:00.357483+00:00"
     },
     {
+      "id": "a45bfc2c60b5",
+      "title": "BOOX Note Air5 C or iPad for a software engineer ? : r/Onyx_Boox - Reddit",
+      "company": "Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/Onyx_Boox/comments/1w1fk1j/boox_note_air5_c_or_ipad_for_a_software_engineer/",
+      "source": "Other",
+      "description": "I'm a software engineer /control system programmer in large scale (power plants, etc.) industrial automation. My Note Air 2+ is everywhere I am. It ...",
+      "date": "2026-08-29",
+      "timestamp": "2026-08-29T22:09:23+00:00",
+      "fetched_at": "2026-08-30T09:29:26.326951+00:00"
+    },
+    {
+      "id": "aa2f09cf0ec5",
+      "title": "Digital Platform Engineer - Sunflower Bank, N.A. - Paylocity",
+      "company": "Sunflower Bank, N.A. - Paylocity",
+      "role": "Platform Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://recruiting.paylocity.com/recruiting/jobs/Details/4463285/Sunflower-Bank-NA/Digital-Platform-Engineer",
+      "source": "Other",
+      "description": "Sunflower Bank, N.A. is looking for an energetic, highly motivated individual to fill the position of a full-time Digital Platform Engineer . This ...",
+      "date": "2026-08-29",
+      "timestamp": "2026-08-29T21:55:03+00:00",
+      "fetched_at": "2026-08-30T09:29:26.686476+00:00"
+    },
+    {
+      "id": "3224b28606c0",
+      "title": "Digital Platform Engineer - Sunflower Bank, N.A. - Paylocity",
+      "company": "Sunflower Bank, N.A. - Paylocity",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://recruiting.paylocity.com/recruiting/jobs/Details/4463284/Sunflower-Bank-NA/Digital-Platform-Engineer",
+      "source": "Other",
+      "description": "Sunflower Bank, N.A. is looking for an energetic, highly motivated individual to fill the position of a full-time Digital Platform Engineer . This ...",
+      "date": "2026-08-29",
+      "timestamp": "2026-08-29T21:52:43+00:00",
+      "fetched_at": "2026-08-30T09:29:26.327117+00:00"
+    },
+    {
       "id": "510daee99303",
       "title": "Sysadmin \u2192 cloud engineer . How rough is it? Give me a /10 : r/devops - Reddit",
       "company": "Reddit",
@@ -79,6 +304,21 @@
       "date": "2026-08-29",
       "timestamp": "2026-08-29T21:32:08+00:00",
       "fetched_at": "2026-08-30T01:49:00.357727+00:00"
+    },
+    {
+      "id": "037c720c945b",
+      "title": "Senior Cloud Engineer - AI-ML Platform (all genders) - Careers | EMD Group",
+      "company": "AI-ML Platform (all genders) - Careers | EMD Group",
+      "role": "Cloud Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.emdgroup.com/us/en/job/303166/Senior-Cloud-Engineer-AI-ML-Platform-all-genders",
+      "source": "Other",
+      "description": "Apply for Senior Cloud Engineer - AI-ML Platform (all genders) job with EMD Group in Cairo, Egypt, Egypt. Data Analytics & Digital Business at EMD ...",
+      "date": "2026-08-29",
+      "timestamp": "2026-08-29T20:44:03+00:00",
+      "fetched_at": "2026-08-30T09:29:26.686665+00:00"
     },
     {
       "id": "73dde165de6c",
@@ -96,6 +336,36 @@
       "fetched_at": "2026-08-29T22:02:32.980960+00:00"
     },
     {
+      "id": "c9e19b39c237",
+      "title": "Senior AI Engineer , High Performance AI",
+      "company": "Nvidia",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/senior-ai-engineer--high-performance-ai_jr2024664-1",
+      "source": "Workday",
+      "description": "Senior AI Engineer , High Performance AI ... NVIDIA has been transforming computer graphics, PC gaming, and accelerated computing for more than 25 years.",
+      "date": "2026-08-29",
+      "timestamp": "2026-08-29T20:30:57+00:00",
+      "fetched_at": "2026-08-30T09:29:26.327388+00:00"
+    },
+    {
+      "id": "411b94d77de1",
+      "title": "How I'd Become an AI Engineer in 2026 (Even with No CS Degree) - Medium",
+      "company": "Medium",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://medium.com/data-science-collective/how-id-become-an-ai-engineer-in-2026-even-with-no-cs-degree-9e22838d8ed5",
+      "source": "Other",
+      "description": "AI Engineer , ML Engineer , and Software Engineer all kinda blur together ... This is different from a machine learning engineer , who uses data ...",
+      "date": "2026-08-29",
+      "timestamp": "2026-08-29T20:23:44+00:00",
+      "fetched_at": "2026-08-30T09:29:26.327627+00:00"
+    },
+    {
       "id": "1d9f3bcd6ad5",
       "title": "Data Engineer @ Serval - Jobs",
       "company": "Serval",
@@ -111,6 +381,21 @@
       "fetched_at": "2026-08-30T01:49:00.357845+00:00"
     },
     {
+      "id": "37a0aa480453",
+      "title": "Lead Software Engineer (Java, Spring Boot, React & Cloud) - U.S. Bank careers",
+      "company": "U.S. Bank careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.usbank.com/global/en/job/UBNAGLOBAL20260026771EXTERNALENGLOBAL/Lead-Software-Engineer-Java-Spring-Boot-React-Cloud",
+      "source": "Other",
+      "description": "Lead Software Engineer (Java, Spring Boot, React & Cloud). Apply ... Senior Software Engineer (Data & Integration). Available in 7 locations.",
+      "date": "2026-08-29",
+      "timestamp": "2026-08-29T20:07:09+00:00",
+      "fetched_at": "2026-08-30T09:29:26.327965+00:00"
+    },
+    {
       "id": "7395df1df973",
       "title": "Data Engineer , PXT Central Science - Job ID: 10521258 - Amazon Careers",
       "company": "Job ID: 10521258 - Amazon Careers",
@@ -124,6 +409,21 @@
       "date": "2026-08-29",
       "timestamp": "2026-08-29T19:49:17+00:00",
       "fetched_at": "2026-08-30T01:49:00.358023+00:00"
+    },
+    {
+      "id": "da6347c958da",
+      "title": "Mainframe Software Engineer II Job | TD Bank - Jobs",
+      "company": "TD Bank - Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://tdbank.jobs/job-titles/mainframe-software-engineer-ii/jobs/",
+      "source": "Other",
+      "description": "Mainframe Software Engineer II Job, updated and verified daily by DirectEmployers Association.",
+      "date": "2026-08-29",
+      "timestamp": "2026-08-29T19:47:22+00:00",
+      "fetched_at": "2026-08-30T09:29:26.328308+00:00"
     },
     {
       "id": "7d70d50f693f",
