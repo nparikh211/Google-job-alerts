@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-08-30T18:50:59.188649+00:00",
-  "total_jobs": 8611,
+  "last_updated": "2026-08-30T22:09:41.061196+00:00",
+  "total_jobs": 8627,
   "stats": {
-    "total_companies": 4048,
+    "total_companies": 4059,
     "total_roles": 112,
     "regions": {
-      "India": 5624,
-      "Philippines": 1826,
-      "Remote": 1062,
+      "India": 5634,
+      "Philippines": 1831,
+      "Remote": 1063,
       "Unknown": 135
     },
     "sources": {
-      "Other": 6755,
+      "Other": 6769,
       "Greenhouse": 423,
       "Workday": 369,
-      "LinkedIn": 362,
+      "LinkedIn": 363,
       "Ashby": 262,
       "iCIMS": 107,
       "Breezy": 95,
-      "Workable": 59,
+      "Workable": 60,
       "Lever": 57,
       "SmartRecruiters": 54,
       "Indeed": 30,
@@ -36,6 +36,156 @@
   },
   "jobs": [
     {
+      "id": "635f6e186193",
+      "title": "Senior Data Engineer \u2013 Qventus \u2013 Permanent contract \u2013 Fully-remote",
+      "company": "remote",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.welcometothejungle.com/en/companies/qventus/jobs/senior-data-engineer_us_knlxmlmf",
+      "source": "Other",
+      "description": "... Data Engineer , Microsoft Fabric Data Engineer , and dbt Analytics Engineering) ... Experienced/Senior Machine Learning Engineer - Squad Scribe.",
+      "date": "2026-08-30",
+      "timestamp": "2026-08-30T21:05:55+00:00",
+      "fetched_at": "2026-08-30T22:09:40.883272+00:00"
+    },
+    {
+      "id": "f1ae094d6bee",
+      "title": "23M software engineer : stay in EU or take ~2x base compensation in UAE untaxed + bonus? - Reddit",
+      "company": "Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/cscareerquestionsEU/comments/1w2oy0q/23m_software_engineer_stay_in_eu_or_take_2x_base/",
+      "source": "Other",
+      "description": "23M software engineer : stay in EU or take ~2x base compensation ... I've received an offer for an AI Engineer role at a large international ...",
+      "date": "2026-08-30",
+      "timestamp": "2026-08-30T21:02:08+00:00",
+      "fetched_at": "2026-08-30T22:09:40.883551+00:00"
+    },
+    {
+      "id": "b96a3d58938b",
+      "title": "Founding Machine Learning Engineer at The Subvocal Company | Y Combinator",
+      "company": "The Subvocal Company",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.ycombinator.com/companies/the-subvocal-company/jobs/RzUITdx-founding-machine-learning-engineer",
+      "source": "Other",
+      "description": "Founding Machine Learning Engineer . $150K - $200K\u20220.50% - 1.00%\u2022San Francisco ... ML Engineer : Speech & LLMs \u00b7 Silimate \u00b7 Applied AI Engineer .",
+      "date": "2026-08-30",
+      "timestamp": "2026-08-30T20:37:00+00:00",
+      "fetched_at": "2026-08-30T22:09:40.883761+00:00"
+    },
+    {
+      "id": "d2f2a18311ff",
+      "title": "Frontend Engineer - Careers at Autter",
+      "company": "Autter",
+      "role": "Frontend Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://autter.dev/careers/frontend-engineer",
+      "source": "Other",
+      "description": "We're looking for a frontend engineer who cares about craft. You'll work directly on the Autter web application, shipping real features alongside ...",
+      "date": "2026-08-30",
+      "timestamp": "2026-08-30T19:49:00+00:00",
+      "fetched_at": "2026-08-30T22:09:41.023634+00:00"
+    },
+    {
+      "id": "bd465640d956",
+      "title": "New Role For Data Domain - Forward Deployed Engineer (FDE) - YouTube",
+      "company": "New Role For Data Domain",
+      "role": "Deployed Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.youtube.com/watch?v=eJNoIJPzGLs",
+      "source": "Other",
+      "description": "... Data Engineer . you'll be surpirised at how much of coding work can be delegated to AI. 16:49 \u00b7 Go to channel AI Engineer . The Dirty Secret of Forward ...",
+      "date": "2026-08-30",
+      "timestamp": "2026-08-30T19:05:43+00:00",
+      "fetched_at": "2026-08-30T22:09:40.884355+00:00"
+    },
+    {
+      "id": "fa3899c29eed",
+      "title": "Internship, Software Engineer , Maps & Navigation, Robotaxi (Winter/Spring 2027) - Tesla",
+      "company": "Tesla",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.tesla.com/en_AU/careers/search/job/internship-software-engineer-maps-navigation-robotaxi-winter-spring-2027-280960",
+      "source": "Other",
+      "description": "Apply for the Internship, Software Engineer , Maps & Navigation, Robotaxi (Winter/Spring 2027) position in Palo Alto, California.",
+      "date": "2026-08-30",
+      "timestamp": "2026-08-30T18:09:52+00:00",
+      "fetched_at": "2026-08-30T22:09:40.884666+00:00"
+    },
+    {
+      "id": "6aeeeb4134ee",
+      "title": "Frontend Software Engineer - Website Team in Kfar Saba at ERGO - Munich Re",
+      "company": "ERGO",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.munichre.com/en/job/kfar-saba/frontend-software-engineer-website-team/3609/43751556992",
+      "source": "Other",
+      "description": "Learn more about and apply for Frontend Software Engineer - Website Team in Kfar Saba at ERGO here ... As a Senior Frontend Engineer on our Website team, ...",
+      "date": "2026-08-30",
+      "timestamp": "2026-08-30T17:58:11+00:00",
+      "fetched_at": "2026-08-30T22:09:41.023964+00:00"
+    },
+    {
+      "id": "6166b636a57f",
+      "title": "Senior Software Engineer at NetApp \u2014 San Jose, CA | LinkedIn Jobs",
+      "company": "NetApp \u2014 San Jose, CA",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/senior-software-engineer-at-netapp-4460896896",
+      "source": "LinkedIn",
+      "description": "Apply for Senior Software Engineer at NetApp in San Jose, CA. Full ... Machine Learning Engineer jobs \u00b7 SAP jobs \u00b7 JPMorganChase jobs \u00b7 Cisco ...",
+      "date": "2026-08-30",
+      "timestamp": "2026-08-30T17:42:25+00:00",
+      "fetched_at": "2026-08-30T22:09:40.884863+00:00"
+    },
+    {
+      "id": "b283385fa801",
+      "title": "Software Engineer - Game of Thrones Slots - Zynga | Built In",
+      "company": "Game of Thrones Slots - Zynga | Built In",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://builtin.com/job/software-engineer-game-thrones-slots/10924284",
+      "source": "Other",
+      "description": "Software Engineer - Game of Thrones Slots. Job Posted Yesterday Posted ... Zynga's Game of Thrones Slots team is looking for a Full Stack Engineer ...",
+      "date": "2026-08-30",
+      "timestamp": "2026-08-30T17:36:08+00:00",
+      "fetched_at": "2026-08-30T22:09:41.024165+00:00"
+    },
+    {
+      "id": "4d7f0ba31008",
+      "title": "Data Engineer , AI Support - Insurance Institute for Business & Home Safety - Workable Jobs",
+      "company": "Ibhs",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://apply.workable.com/ibhs/j/A909AFBF05/apply/",
+      "source": "Workable",
+      "description": "About the RoleThe Data Engineer , AI Support is a key technical partner in IBHS's responsible adoption and application of artificial intelligence, ...",
+      "date": "2026-08-30",
+      "timestamp": "2026-08-30T17:18:28+00:00",
+      "fetched_at": "2026-08-30T22:09:40.884988+00:00"
+    },
+    {
       "id": "ae3ac1cae738",
       "title": "Senior AI and Machine Learning Engineer in Bengaluru, Karn\u0101taka, 560048 - HPE Careers",
       "company": "HPE Careers",
@@ -51,6 +201,66 @@
       "fetched_at": "2026-08-30T18:50:59.081960+00:00"
     },
     {
+      "id": "e3e271efffc8",
+      "title": "Lead Software Engineer - (Secrets Manager & AI Identity) - Bitwarden",
+      "company": "Lead Software Engineer",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://bitwarden.com/en-gb/careers/7872036003/",
+      "source": "Other",
+      "description": "As a Senior Software Engineer on Bitwarden's Secrets Manager & AI Identity team, you will lead the design and development of our next-generation ...",
+      "date": "2026-08-30",
+      "timestamp": "2026-08-30T14:35:07+00:00",
+      "fetched_at": "2026-08-30T22:09:40.885550+00:00"
+    },
+    {
+      "id": "a394f8b39d6e",
+      "title": "Enterprise Workflow Software Engineer , Mid - - 128720 - Booz | Allen | Hamilton \u00ae",
+      "company": "- 128720 - Booz | Allen | Hamilton \u00ae",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.boozallen.com/jobs/JobDetail/McLean-Enterprise-Workflow-Software-Engineer-Mid-R0246798/128720",
+      "source": "Other",
+      "description": "Enterprise Workflow Software Engineer , Mid. The Opportunity: As a full stack developer, you can resolve a problem with a complete end-to-end ...",
+      "date": "2026-08-30",
+      "timestamp": "2026-08-30T13:41:48+00:00",
+      "fetched_at": "2026-08-30T22:09:40.885825+00:00"
+    },
+    {
+      "id": "63967f37f7b7",
+      "title": "AI-Native DevOps Engineer - Oper (Antwerp) - Join",
+      "company": "Oper (Antwerp) - Join",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://join.com/companies/oper/16640598-ai-native-devops-engineer",
+      "source": "Other",
+      "description": "AI-Native DevOps Engineer . Antwerp, Belgium (hybrid). Employee. Engineering. About Oper. Oper, a European Fintech company, is a leader in cloud-based ...",
+      "date": "2026-08-30",
+      "timestamp": "2026-08-30T13:37:31+00:00",
+      "fetched_at": "2026-08-30T22:09:41.025332+00:00"
+    },
+    {
+      "id": "9dc89878d542",
+      "title": "Senior Software Engineer | Washington D.C., DC, USA - eFinancialCareers",
+      "company": "Washington D.C., DC, USA - eFinancialCareers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.efinancialcareers.com/jobs-USA-DC-Washington_DC-Senior_Software_Engineer.id24710315",
+      "source": "Other",
+      "description": "Senior Software Engineer , Payments. Ripple. San Francisco, United States ... Senior Geospatial Data Engineer . Vantor. McLean, United States. 19 ...",
+      "date": "2026-08-30",
+      "timestamp": "2026-08-30T13:27:51+00:00",
+      "fetched_at": "2026-08-30T22:09:41.025550+00:00"
+    },
+    {
       "id": "c8497e4ca885",
       "title": "[ Software Engineer ] [US Midwest] - $440k. Blessed to graduate right before the rug was pulled",
       "company": "$440k. Blessed to graduate right before the rug was pulled",
@@ -64,6 +274,21 @@
       "date": "2026-08-30",
       "timestamp": "2026-08-30T13:24:10+00:00",
       "fetched_at": "2026-08-30T18:50:59.082225+00:00"
+    },
+    {
+      "id": "4db0cfa0f18e",
+      "title": "Software Engineer - - 129363 - Booz | Allen | Hamilton \u00ae - Careers",
+      "company": "- 129363 - Booz | Allen | Hamilton \u00ae - Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.boozallen.com/jobs/JobDetail/Chantilly-Software-Engineer-R0247781/129363",
+      "source": "Other",
+      "description": "Software Engineer . Chantilly, Virginia, USA. Apply. Advance the nation. And your career. Driven by purpose. Belong. Join a culture of empowerment and ...",
+      "date": "2026-08-30",
+      "timestamp": "2026-08-30T13:08:51+00:00",
+      "fetched_at": "2026-08-30T22:09:40.886326+00:00"
     },
     {
       "id": "c208fffdfca0",
@@ -139,6 +364,21 @@
       "date": "2026-08-30",
       "timestamp": "2026-08-30T10:48:25+00:00",
       "fetched_at": "2026-08-30T18:50:59.082958+00:00"
+    },
+    {
+      "id": "3b8f9af569bd",
+      "title": "AI & Data Engineer Trainee (NAM Portugal) Job Details | nordeabank - Careers Nordea",
+      "company": "nordeabank - Careers Nordea",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.nordea.com/job/Pa%C3%A7o-de-Arcos-AI-&-Data-Engineer-Trainee-%28NAM-Portugal%29-2770-131/1406371333/",
+      "source": "Other",
+      "description": "Job ID: 5556. We are seeking a technically driven and motivated AI & Data Engineer Trainee to join our AI and Data Innovation team.",
+      "date": "2026-08-30",
+      "timestamp": "2026-08-30T09:53:55+00:00",
+      "fetched_at": "2026-08-30T22:09:40.887310+00:00"
     },
     {
       "id": "31843fb1024c",
