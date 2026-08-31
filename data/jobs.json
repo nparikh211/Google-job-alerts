@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-08-30T22:09:41.061196+00:00",
-  "total_jobs": 8627,
+  "last_updated": "2026-08-31T01:43:52.611893+00:00",
+  "total_jobs": 8634,
   "stats": {
-    "total_companies": 4059,
+    "total_companies": 4062,
     "total_roles": 112,
     "regions": {
-      "India": 5634,
-      "Philippines": 1831,
-      "Remote": 1063,
+      "India": 5639,
+      "Philippines": 1832,
+      "Remote": 1064,
       "Unknown": 135
     },
     "sources": {
-      "Other": 6769,
+      "Other": 6775,
       "Greenhouse": 423,
       "Workday": 369,
       "LinkedIn": 363,
@@ -19,7 +19,7 @@
       "iCIMS": 107,
       "Breezy": 95,
       "Workable": 60,
-      "Lever": 57,
+      "Lever": 58,
       "SmartRecruiters": 54,
       "Indeed": 30,
       "Recruitee": 10,
@@ -31,10 +31,70 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-08-30"
+      "latest": "2026-08-31"
     }
   },
   "jobs": [
+    {
+      "id": "45c5eb2c3d9a",
+      "title": "Senior Software Engineer - Dynamic Tables job in Berlin, Germany - Snowflake Careers",
+      "company": "Dynamic Tables job in Berlin, Germany - Snowflake Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.snowflake.com/us/en/job/SNCOUSCA3AB766B6A248888785A6173C3B7EADEXTERNALENUS0DDBB960DF614D1982F1E6CD5AB8DD64/Senior-Software-Engineer-Dynamic-Tables",
+      "source": "Other",
+      "description": "AS A SENIOR SOFTWARE ENGINEER AT SNOWFLAKE YOU WILL: Work with a talented and collaborative team of engineers and Product Managers in our globally ...",
+      "date": "2026-08-31",
+      "timestamp": "2026-08-31T01:22:53+00:00",
+      "fetched_at": "2026-08-31T01:43:52.332753+00:00"
+    },
+    {
+      "id": "90c60cbf5690",
+      "title": "Software Engineer - Dynamic Tables job in Berlin, Germany - Snowflake Careers",
+      "company": "Dynamic Tables job in Berlin, Germany - Snowflake Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.snowflake.com/us/en/job/SNCOUSD345FCFC45C445BFA0D9451C96659C33EXTERNALENUS99DFC81094874AC191A850ACEFD05BAE/Software-Engineer-Dynamic-Tables",
+      "source": "Other",
+      "description": "Senior Software Engineer - Dynamic Tables. Location Berlin, Germany Category Engineering ReqId ASHREQ-8067. Senior Software Engineer , Data ...",
+      "date": "2026-08-31",
+      "timestamp": "2026-08-31T01:22:53+00:00",
+      "fetched_at": "2026-08-31T01:43:52.333133+00:00"
+    },
+    {
+      "id": "0be429772752",
+      "title": "Blockchain Middle Backend Engineer - Itransition",
+      "company": "Itransition",
+      "role": "Backend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.itransition.com/careers/blockchain-middle-backend-engineer",
+      "source": "Other",
+      "description": "We are looking for a Middle Blockchain Backend Engineer to join our team and help build production-grade blockchain and backend systems.",
+      "date": "2026-08-30",
+      "timestamp": "2026-08-30T23:29:05+00:00",
+      "fetched_at": "2026-08-31T01:43:52.333275+00:00"
+    },
+    {
+      "id": "a44d0fcc732b",
+      "title": "Principal Software Engineer (AI Software Integration - Prisma AIRS)) at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-ai-software-integration-prisma-airs/47263/99508000080",
+      "source": "Other",
+      "description": "Principal Software Engineer (AI Software Integration - Prisma AIRS)). Santa Clara, California, United States of America Product Engineering Ref ...",
+      "date": "2026-08-30",
+      "timestamp": "2026-08-30T21:24:50+00:00",
+      "fetched_at": "2026-08-31T01:43:52.333480+00:00"
+    },
     {
       "id": "635f6e186193",
       "title": "Senior Data Engineer \u2013 Qventus \u2013 Permanent contract \u2013 Fully-remote",
@@ -96,6 +156,21 @@
       "fetched_at": "2026-08-30T22:09:41.023634+00:00"
     },
     {
+      "id": "b158d7177caf",
+      "title": "Simcenter Testlab \u2013 Pipeline Operations DevOps Engineer",
+      "company": "Unknown Company",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.sw.siemens.com/brasov-rom/simcenter-testlab-pipeline-operations-devops-engineer/E246B39341C04D4EB7813C032A60E08B/job/",
+      "source": "Other",
+      "description": "Simcenter Testlab \u2013 Pipeline Operations DevOps Engineer . Brasov, ROM. Work Type: Hybrid. Job Family: Research & Development. Req ID: 516082. Apply Now.",
+      "date": "2026-08-30",
+      "timestamp": "2026-08-30T19:25:41+00:00",
+      "fetched_at": "2026-08-31T01:43:52.573099+00:00"
+    },
+    {
       "id": "bd465640d956",
       "title": "New Role For Data Domain - Forward Deployed Engineer (FDE) - YouTube",
       "company": "New Role For Data Domain",
@@ -109,6 +184,21 @@
       "date": "2026-08-30",
       "timestamp": "2026-08-30T19:05:43+00:00",
       "fetched_at": "2026-08-30T22:09:40.884355+00:00"
+    },
+    {
+      "id": "66647a6eebbf",
+      "title": "Data Engineer - Octopus Energy Group - Lever",
+      "company": "Octoenergy",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.lever.co/octoenergy/58d1f78b-1dd0-4821-bb5b-b41b6791549f?lever-source%5B%5D=talent.techchange.org",
+      "source": "Lever",
+      "description": "Data Engineer . London (GB). Octopus Energy Generation \u2600\ufe0f \u2013 Transformation and Technology /. Full-time /. Hybrid. apply for this job. Help us make a ...",
+      "date": "2026-08-30",
+      "timestamp": "2026-08-30T18:48:00+00:00",
+      "fetched_at": "2026-08-31T01:43:52.334774+00:00"
     },
     {
       "id": "fa3899c29eed",
@@ -154,6 +244,21 @@
       "date": "2026-08-30",
       "timestamp": "2026-08-30T17:42:25+00:00",
       "fetched_at": "2026-08-30T22:09:40.884863+00:00"
+    },
+    {
+      "id": "d2235e445eb2",
+      "title": "Lead Frontend Engineer \u2013 US Mobile \u2013 Permanent contract in New York",
+      "company": "Unknown Company",
+      "role": "Frontend Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.welcometothejungle.com/en/companies/us-mobile/jobs/lead-frontend-engineer_new-york_msf7urew",
+      "source": "Other",
+      "description": "4 days ago. amo. Senior Software Engineer , Backend (Rust). amo. Permanent contract. Paris. No remote work. Mobile Apps, Software. 59 employees. 4 days ...",
+      "date": "2026-08-30",
+      "timestamp": "2026-08-30T17:38:31+00:00",
+      "fetched_at": "2026-08-31T01:43:52.574232+00:00"
     },
     {
       "id": "b283385fa801",
