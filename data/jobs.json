@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-09-01T02:07:48.986404+00:00",
-  "total_jobs": 8708,
+  "last_updated": "2026-09-01T08:55:55.348694+00:00",
+  "total_jobs": 8717,
   "stats": {
-    "total_companies": 4095,
+    "total_companies": 4097,
     "total_roles": 112,
     "regions": {
-      "India": 5686,
+      "India": 5691,
       "Philippines": 1851,
-      "Remote": 1072,
+      "Remote": 1076,
       "Unknown": 135
     },
     "sources": {
-      "Other": 6838,
+      "Other": 6843,
       "Greenhouse": 425,
-      "Workday": 370,
-      "LinkedIn": 367,
-      "Ashby": 264,
+      "Workday": 371,
+      "LinkedIn": 368,
+      "Ashby": 265,
       "iCIMS": 108,
       "Breezy": 95,
       "Workable": 61,
-      "Lever": 58,
+      "Lever": 59,
       "SmartRecruiters": 54,
       "Indeed": 30,
       "Recruitee": 10,
@@ -35,6 +35,111 @@
     }
   },
   "jobs": [
+    {
+      "id": "c1ad68a6642c",
+      "title": "Senior Software Engineer / Software Engineer III (Data Engineering) - Myworkdayjobs.com",
+      "company": "Workday",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://workday.wd5.myworkdayjobs.com/Workday/job/Senior-Software-Engineer-Software-Engineer-III--Data-Engineering-_JR-0106163",
+      "source": "Workday",
+      "description": "Your work days are brighter here. \u00b7 About the Team \u00b7 About the Role \u00b7 About You \u00b7 Basic Qualifications - Senior Software Engineer (Required) \u00b7 Basic ...",
+      "date": "2026-09-01",
+      "timestamp": "2026-09-01T04:19:58+00:00",
+      "fetched_at": "2026-09-01T08:55:55.241922+00:00"
+    },
+    {
+      "id": "0a677d25786f",
+      "title": "Software Engineer , New Grad - Stripe Careers",
+      "company": "Stripe Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://stripe.com/careers/listing/software-engineer-new-grad/8130930",
+      "source": "Other",
+      "description": "Software Engineer , New Grad. Who we are. About Stripe. Stripe is a technology company focused on improving the conditions for economic growth and ...",
+      "date": "2026-09-01",
+      "timestamp": "2026-09-01T03:32:40+00:00",
+      "fetched_at": "2026-09-01T08:55:55.242083+00:00"
+    },
+    {
+      "id": "c6f4a3c31143",
+      "title": "Software Engineer Intern in Chandler, Arizona | Garmin International, Inc.",
+      "company": "Garmin International, Inc.",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.garmin.com/jobs/19858?icims=1",
+      "source": "Other",
+      "description": "Garmin is hiring a Software Engineer Intern in Chandler, Arizona. Review all of the job details and apply today!",
+      "date": "2026-09-01",
+      "timestamp": "2026-09-01T02:48:47+00:00",
+      "fetched_at": "2026-09-01T08:55:55.242414+00:00"
+    },
+    {
+      "id": "8fc30869a200",
+      "title": "Senior Software Engineer , Observability - Roblox Careers",
+      "company": "Roblox Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.roblox.com/jobs/8129395",
+      "source": "Other",
+      "description": "We believe in a user-centric strategy, and we are focused on making an impact for all the teams we support. As a Senior Software Engineer in the ...",
+      "date": "2026-09-01",
+      "timestamp": "2026-09-01T02:09:12+00:00",
+      "fetched_at": "2026-09-01T08:55:55.242559+00:00"
+    },
+    {
+      "id": "82c16adb534b",
+      "title": "Senior Software Engineer in el segundo, California, United States of America - RTX Careers",
+      "company": "RTX Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.rtx.com/global/en/job/01866473/Senior-Software-Engineer",
+      "source": "Other",
+      "description": "Senior Software Engineer \u00b7 Experience with embedded or low-level software development, including OS-adjacent or hardware-interfacing work. \u00b7 Experience ...",
+      "date": "2026-09-01",
+      "timestamp": "2026-09-01T02:01:07+00:00",
+      "fetched_at": "2026-09-01T08:55:55.242721+00:00"
+    },
+    {
+      "id": "dc94b39ac08c",
+      "title": "CaptivateIQ - Senior Software Engineer - ICM - Lever",
+      "company": "Captivateiq",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.lever.co/captivateiq/696f8b9b-5693-44fc-a3b3-9ecfe1bc1a1b",
+      "source": "Lever",
+      "description": "Senior Software Engineer - ICM. Remote. Engineering \u2013 Software Engineering Team /. Full-time /. Remote. apply for this job. CaptivateIQ is ...",
+      "date": "2026-09-01",
+      "timestamp": "2026-09-01T01:45:10+00:00",
+      "fetched_at": "2026-09-01T08:55:55.242829+00:00"
+    },
+    {
+      "id": "39eb1888bb00",
+      "title": "Senior Software Engineer I - Platform Enablement @ Wrapbook - Jobs",
+      "company": "Wrapbook",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.ashbyhq.com/wrapbook/43eb663b-2624-4d3c-bc79-25c93a94adec",
+      "source": "Ashby",
+      "description": "... Senior Software Engineer I, Platform Enablement (Remote - CANADA) ... full-stack engineer with a strong technical background building ...",
+      "date": "2026-09-01",
+      "timestamp": "2026-09-01T00:33:05+00:00",
+      "fetched_at": "2026-09-01T08:55:55.242947+00:00"
+    },
     {
       "id": "3fb993ee412e",
       "title": "Tech Lead Software Engineer in Dallas, Texas, United States of America - Southwest Careers",
@@ -96,6 +201,21 @@
       "fetched_at": "2026-09-01T02:07:48.949148+00:00"
     },
     {
+      "id": "9a1e8622afe7",
+      "title": "Stripe Careers | Backend Engineer , Link | Taylor LaVoy | 14 comments - LinkedIn",
+      "company": "Stripe Careers",
+      "role": "Backend Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.linkedin.com/posts/taylorlavoy_stripe-careers-backend-engineer-link-activity-7500262254605500416-AcRL",
+      "source": "LinkedIn",
+      "description": "Senior Software Engineer | Backend & Distributed Systems | Java, Spring Boot, AWS, Azure, Kubernetes | GitHub: github.com/rohith-max003 ...",
+      "date": "2026-08-31",
+      "timestamp": "2026-08-31T22:53:54+00:00",
+      "fetched_at": "2026-09-01T08:55:55.243909+00:00"
+    },
+    {
       "id": "ab206338de04",
       "title": "Front-End Software Engineer - LoadUp Technologies",
       "company": "Front",
@@ -154,6 +274,21 @@
       "date": "2026-08-31",
       "timestamp": "2026-08-31T21:29:12+00:00",
       "fetched_at": "2026-08-31T23:26:49.070840+00:00"
+    },
+    {
+      "id": "0d23cd74f465",
+      "title": "Senior DevOps Engineer - Piper Companies",
+      "company": "Piper Companies",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.pipercompanies.com/details/173247/senior_devops_engineer",
+      "source": "Other",
+      "description": "Keywords: senior devops engineer , devops engineer , platform engineer ... cloud engineer , software engineer , remote. #LI-BM4. #LI-REMOTE. Apply Now.",
+      "date": "2026-08-31",
+      "timestamp": "2026-08-31T21:06:52+00:00",
+      "fetched_at": "2026-09-01T08:55:55.314299+00:00"
     },
     {
       "id": "c1041dcbb8c8",
