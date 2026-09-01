@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-09-01T18:53:38.079522+00:00",
-  "total_jobs": 8757,
+  "last_updated": "2026-09-01T22:07:16.791247+00:00",
+  "total_jobs": 8772,
   "stats": {
-    "total_companies": 4109,
+    "total_companies": 4114,
     "total_roles": 113,
     "regions": {
-      "India": 5720,
-      "Philippines": 1859,
-      "Remote": 1079,
+      "India": 5728,
+      "Philippines": 1863,
+      "Remote": 1082,
       "Unknown": 135
     },
     "sources": {
-      "Other": 6872,
-      "Greenhouse": 428,
+      "Other": 6885,
+      "Greenhouse": 430,
       "Workday": 372,
       "LinkedIn": 371,
       "Ashby": 265,
@@ -36,6 +36,156 @@
   },
   "jobs": [
     {
+      "id": "6f6c44b55976",
+      "title": "Senior Media Platform Engineer in New York, New York - FOX Careers",
+      "company": "FOX Careers",
+      "role": "Platform Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.foxcareers.com/Search/JobDetail/R50032819/senior-media-platform-engineer-fox-corporation?pageLanguage=en-US",
+      "source": "Other",
+      "description": "Senior Media Platform Engineer . Job Number: R50032819. Brand Fox Corporation. Job Type: Engineering, Technology. Location Type Onsite. Experience ...",
+      "date": "2026-09-01",
+      "timestamp": "2026-09-01T20:19:15+00:00",
+      "fetched_at": "2026-09-01T22:07:16.753517+00:00"
+    },
+    {
+      "id": "776bcefebb6d",
+      "title": "Senior Software Engineer , Data Engineering - Cisco Careers",
+      "company": "Cisco Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2022467EXTERNALENGLOBAL/Senior-Software-Engineer-Data-Engineering",
+      "source": "Other",
+      "description": "Apply for Senior Software Engineer , Data Engineering job with Cisco in ... Cloud Engineer . Location: San Jose, California, United States of ...",
+      "date": "2026-09-01",
+      "timestamp": "2026-09-01T19:42:49+00:00",
+      "fetched_at": "2026-09-01T22:07:16.753715+00:00"
+    },
+    {
+      "id": "11e6f2872ff8",
+      "title": "AI / ML Engineer - Jobs at Volvo Group",
+      "company": "Volvo Group",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.volvogroup.com/job/Bangalore-AI-ML-Engineer-562122/1366231755/?feedId=361555",
+      "source": "Other",
+      "description": "AI / ML Engineer . Location: Bangalore, IN, 562122. Position Type: Professional. Transport is at the core of modern society. Imagine using your ...",
+      "date": "2026-09-01",
+      "timestamp": "2026-09-01T19:22:15+00:00",
+      "fetched_at": "2026-09-01T22:07:16.753857+00:00"
+    },
+    {
+      "id": "afb7ab760230",
+      "title": "Senior Security Data Engineer - DoorDash",
+      "company": "DoorDash",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careersatdoordash.com/jobs/senior-security-data-engineer/8168866/",
+      "source": "Other",
+      "description": "Senior Security Data Engineer . Apply To Job. Job ID: 3535216. DoorDash, Inc. United States - Remote. About the Team. At DoorDash, including ...",
+      "date": "2026-09-01",
+      "timestamp": "2026-09-01T19:18:22+00:00",
+      "fetched_at": "2026-09-01T22:07:16.388075+00:00"
+    },
+    {
+      "id": "24d5c31fb3b7",
+      "title": "Software Engineer , Cash App Taxes - Careers - Block",
+      "company": "Careers - Block",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://block.xyz/careers/jobs/5412832008?gh_jid=5412832008",
+      "source": "Other",
+      "description": "As a Software Engineer on our Tax Engine Server Engineering team, you will build and enhance the codebase that powers our tax filing experience. You ...",
+      "date": "2026-09-01",
+      "timestamp": "2026-09-01T19:09:53+00:00",
+      "fetched_at": "2026-09-01T22:07:16.388381+00:00"
+    },
+    {
+      "id": "4c25de46b7b8",
+      "title": "Software Engineer , Test Automation in San Jose, California, United States of America",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2023752EXTERNALENGLOBAL/Software-Engineer-Test-Automation",
+      "source": "Other",
+      "description": "We are seeking a software engineer to build test infrastructure for our AI-agentic Security Operations Center (SOC)! Together, we define the strategic ...",
+      "date": "2026-09-01",
+      "timestamp": "2026-09-01T19:03:30+00:00",
+      "fetched_at": "2026-09-01T22:07:16.754291+00:00"
+    },
+    {
+      "id": "f531c8207836",
+      "title": "Senior Software Engineer , AI Platform | Root Insurance - Recruiting",
+      "company": "Root Insurance - Recruiting",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://ats.rippling.com/joinroot/jobs/4768e34d-630c-44f8-8444-a6822dcac074",
+      "source": "Other",
+      "description": "Senior Software Engineer , AI Platform ... Root is on a mission to unbreak insurance by creating experiences people love at prices they can't believe. We ...",
+      "date": "2026-09-01",
+      "timestamp": "2026-09-01T19:02:15+00:00",
+      "fetched_at": "2026-09-01T22:07:16.754443+00:00"
+    },
+    {
+      "id": "e71edbd075aa",
+      "title": "Software Engineer - SaaS Data Protection - Rubrik",
+      "company": "SaaS Data Protection - Rubrik",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.rubrik.com/company/careers/departments/job.8157246?gh_jid=8157246",
+      "source": "Other",
+      "description": "Software Engineer - SaaS Data Protection. Palo Alto, CA HQ Office. Departments. Job Summary. About the team and role. The team focuses on SaaS ...",
+      "date": "2026-09-01",
+      "timestamp": "2026-09-01T18:38:46+00:00",
+      "fetched_at": "2026-09-01T22:07:16.388539+00:00"
+    },
+    {
+      "id": "e1e4788b249f",
+      "title": "Job Application for Software Engineer II - Engineering at Kapitus - Greenhouse",
+      "company": "Kapitus",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/kapitus/jobs/4390052009",
+      "source": "Greenhouse",
+      "description": "Software Engineer II - Engineering. Remote - US. Apply. Attention: Kapitus is aware that individuals posing as recruiters may be communicating with ...",
+      "date": "2026-09-01",
+      "timestamp": "2026-09-01T18:20:56+00:00",
+      "fetched_at": "2026-09-01T22:07:16.754647+00:00"
+    },
+    {
+      "id": "b4b80701551c",
+      "title": "Software Engineer , Associate ( Angular, JavaScript, Java , AWS ) - Bengaluru | Infor Careers",
+      "company": "Bengaluru | Infor Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.infor.com/postings/473ac4a8-00cb-4748-9ca4-e7febd5f14f8",
+      "source": "Other",
+      "description": "Join Infor in Development, Bengaluru as a Software Engineer , Associate ( Angular, JavaScript, Java , AWS )",
+      "date": "2026-09-01",
+      "timestamp": "2026-09-01T18:17:02+00:00",
+      "fetched_at": "2026-09-01T22:07:16.388694+00:00"
+    },
+    {
       "id": "fa10dfd74582",
       "title": "Job Application for Software Engineer - Internal Tools at PlanetScale - Greenhouse",
       "company": "Planetscale",
@@ -49,6 +199,36 @@
       "date": "2026-09-01",
       "timestamp": "2026-09-01T18:16:57+00:00",
       "fetched_at": "2026-09-01T18:53:37.975650+00:00"
+    },
+    {
+      "id": "331bff99b8db",
+      "title": "Software Engineer , Associate ( Angular, JavaScript, Java , AWS ) - Bengaluru | Infor Careers",
+      "company": "Bengaluru | Infor Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.infor.com/en/postings/473ac4a8-00cb-4748-9ca4-e7febd5f14f8",
+      "source": "Other",
+      "description": "Join Infor in Development, Bengaluru as a Software Engineer , Associate ( Angular, JavaScript, Java , AWS )",
+      "date": "2026-09-01",
+      "timestamp": "2026-09-01T18:16:23+00:00",
+      "fetched_at": "2026-09-01T22:07:16.754866+00:00"
+    },
+    {
+      "id": "660045245fd5",
+      "title": "Mid-Level DATA ENGINEER : Microsoft Power Platform & AI Copilot Studio (HYBRID)",
+      "company": "Mid",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.statefarm.com/main/jobs/46011?lang=en-us",
+      "source": "Other",
+      "description": "State Farm Careers is hiring a Mid-Level DATA ENGINEER : Microsoft Power Platform & AI Copilot Studio (HYBRID) in Multiple Locations.",
+      "date": "2026-09-01",
+      "timestamp": "2026-09-01T17:59:37+00:00",
+      "fetched_at": "2026-09-01T22:07:16.389036+00:00"
     },
     {
       "id": "057f6ecc0f96",
@@ -66,6 +246,21 @@
       "fetched_at": "2026-09-01T18:53:37.976722+00:00"
     },
     {
+      "id": "7a7efd13af45",
+      "title": "Software Engineer at NetApp, Inc.",
+      "company": "NetApp, Inc.",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.netapp.com/job/waltham/software-engineer/27600/100011360240",
+      "source": "Other",
+      "description": "Explore roles where you can make measurable impact, keep learning, and collaborate with high-performing teams. Software Engineer . Waltham, ...",
+      "date": "2026-09-01",
+      "timestamp": "2026-09-01T17:34:19+00:00",
+      "fetched_at": "2026-09-01T22:07:16.389430+00:00"
+    },
+    {
       "id": "68f173fcfec9",
       "title": "Software Engineer - D365 F&O - Caterpillar Careers",
       "company": "D365 F&O - Caterpillar Careers",
@@ -81,6 +276,21 @@
       "fetched_at": "2026-09-01T18:53:37.977224+00:00"
     },
     {
+      "id": "0723a1c1ecbe",
+      "title": "Job Application for Senior Software Engineer at NetBrain - Greenhouse",
+      "company": "Netbrain",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/netbrain/jobs/5226613007",
+      "source": "Greenhouse",
+      "description": "For government reporting purposes, we ask candidates to respond to the below self-identification survey. Completion of the form is entirely voluntary.",
+      "date": "2026-09-01",
+      "timestamp": "2026-09-01T17:14:08+00:00",
+      "fetched_at": "2026-09-01T22:07:16.389759+00:00"
+    },
+    {
       "id": "fe9b008890d7",
       "title": "Machine Learning Engineer II , AI Studios - Job ID: 10522805 - Amazon Careers",
       "company": "Job ID: 10522805 - Amazon Careers",
@@ -94,6 +304,21 @@
       "date": "2026-09-01",
       "timestamp": "2026-09-01T17:00:46+00:00",
       "fetched_at": "2026-09-01T18:53:37.977423+00:00"
+    },
+    {
+      "id": "aae0b6e37ba6",
+      "title": "Lead Data Engineer in United States | McGraw Hill LLC.",
+      "company": "McGraw Hill LLC.",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.mheducation.com/jobs/7070?lang=en-us",
+      "source": "Other",
+      "description": "This is a remote position open to applicants authorized to work for any employer within the United States. What You'll Do: Lead Data Engineer must ...",
+      "date": "2026-09-01",
+      "timestamp": "2026-09-01T16:45:04+00:00",
+      "fetched_at": "2026-09-01T22:07:16.390038+00:00"
     },
     {
       "id": "6a4a8bb7952c",
