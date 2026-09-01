@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-09-01T15:36:02.212548+00:00",
-  "total_jobs": 8739,
+  "last_updated": "2026-09-01T18:53:38.079522+00:00",
+  "total_jobs": 8757,
   "stats": {
-    "total_companies": 4100,
+    "total_companies": 4109,
     "total_roles": 113,
     "regions": {
-      "India": 5707,
-      "Philippines": 1855,
-      "Remote": 1078,
+      "India": 5720,
+      "Philippines": 1859,
+      "Remote": 1079,
       "Unknown": 135
     },
     "sources": {
-      "Other": 6860,
-      "Greenhouse": 426,
-      "Workday": 371,
-      "LinkedIn": 370,
+      "Other": 6872,
+      "Greenhouse": 428,
+      "Workday": 372,
+      "LinkedIn": 371,
       "Ashby": 265,
-      "iCIMS": 108,
-      "Breezy": 96,
+      "iCIMS": 109,
+      "Breezy": 97,
       "Workable": 61,
       "Lever": 59,
       "SmartRecruiters": 55,
@@ -36,6 +36,216 @@
   },
   "jobs": [
     {
+      "id": "fa10dfd74582",
+      "title": "Job Application for Software Engineer - Internal Tools at PlanetScale - Greenhouse",
+      "company": "Planetscale",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/planetscale/jobs/4389100009",
+      "source": "Greenhouse",
+      "description": "We're bringing the same scaling power to PostgreSQL with Neki, our sharded PostgreSQL product. We're hiring a software engineer to build the internal ...",
+      "date": "2026-09-01",
+      "timestamp": "2026-09-01T18:16:57+00:00",
+      "fetched_at": "2026-09-01T18:53:37.975650+00:00"
+    },
+    {
+      "id": "057f6ecc0f96",
+      "title": "Job ID:14857 - Global Technology Software Engineer Full Time Analyst - Bromley, United Kingdom",
+      "company": "Job ID:14857",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.bankofamerica.com/en-us/students/job-detail/14857/global-technology-software-engineer-full-time-analyst-bromley-bromley-united-kingdom",
+      "source": "Other",
+      "description": "Apply for the Global Technology Software Engineer Full Time Analyst - Bromley position (Job ID: 14857), located in Bromley, United Kingdom, ...",
+      "date": "2026-09-01",
+      "timestamp": "2026-09-01T17:35:49+00:00",
+      "fetched_at": "2026-09-01T18:53:37.976722+00:00"
+    },
+    {
+      "id": "68f173fcfec9",
+      "title": "Software Engineer - D365 F&O - Caterpillar Careers",
+      "company": "D365 F&O - Caterpillar Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.caterpillar.com/en/jobs/r0000386730/software-engineer-d365-fo/",
+      "source": "Other",
+      "description": "Together, we are building a better world, so we can all enjoy living in it. Title: Software Engineer - D365 F&O. Management Level: Individual ...",
+      "date": "2026-09-01",
+      "timestamp": "2026-09-01T17:21:31+00:00",
+      "fetched_at": "2026-09-01T18:53:37.977224+00:00"
+    },
+    {
+      "id": "fe9b008890d7",
+      "title": "Machine Learning Engineer II , AI Studios - Job ID: 10522805 - Amazon Careers",
+      "company": "Job ID: 10522805 - Amazon Careers",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.amazon.jobs/en/jobs/10522805/machine-learning-engineer-ii-ai-studios",
+      "source": "Other",
+      "description": "Join the AI Studios Engineering org within Prime Video and Amazon MGM Studios as a Machine Learning Engineer on CreativeFlux, the ML platform powering ...",
+      "date": "2026-09-01",
+      "timestamp": "2026-09-01T17:00:46+00:00",
+      "fetched_at": "2026-09-01T18:53:37.977423+00:00"
+    },
+    {
+      "id": "6a4a8bb7952c",
+      "title": "Software Engineer - AI - Myworkdayjobs.com",
+      "company": "Nebraskablue",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://nebraskablue.wd1.myworkdayjobs.com/bcbsne/job/Omaha-NE/Software-Engineer_JR101415",
+      "source": "Workday",
+      "description": "BCBSNE Careers \u00b7 Software Engineer - AI \u00b7 The ideal candidate will live within driving distance of the Omaha, Nebraska office. \u00b7 If living in one of our ...",
+      "date": "2026-09-01",
+      "timestamp": "2026-09-01T16:42:24+00:00",
+      "fetched_at": "2026-09-01T18:53:37.977521+00:00"
+    },
+    {
+      "id": "a6b85d3676d9",
+      "title": "Senior Software Engineer - Backend - Playlist",
+      "company": "Backend - Playlist",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.playlist.com/careers/opportunities/4708379006",
+      "source": "Other",
+      "description": "Senior Software Engineer - Backend. Mindbody | Engineering | Salaried | Brazil. Apply now. At Playlist, life's richest moments happen when people ...",
+      "date": "2026-09-01",
+      "timestamp": "2026-09-01T16:33:41+00:00",
+      "fetched_at": "2026-09-01T18:53:37.977655+00:00"
+    },
+    {
+      "id": "23147db2af73",
+      "title": "Senior Data Engineer Job Details | Royal Caribbean Cruises Ltd",
+      "company": "Royal Caribbean Cruises Ltd",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.royalcaribbeangroup.com/job/Miramar-Senior-Data-Engineer-FL-33132/1424972800/",
+      "source": "Other",
+      "description": "The Senior Data Engineer is also responsible for leading the task of curating datasets and data pipelines created by various business departments, ...",
+      "date": "2026-09-01",
+      "timestamp": "2026-09-01T16:27:48+00:00",
+      "fetched_at": "2026-09-01T18:53:37.977846+00:00"
+    },
+    {
+      "id": "284919e07249",
+      "title": "Senior Software Engineer , Embedded UI - Cambridge, England, United Kingdom",
+      "company": "Cambridge, England, United Kingdom",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.weareroku.com/jobs/senior-software-engineer-embedded-ui-cambridge-england-united-kingdom-9dd790ec-984a-465a-b8fd-7308aa8e329e",
+      "source": "Other",
+      "description": "We are the pragmatic dreamers inventing and re-inventing the world of streaming media. What is the role? As a Senior Software Engineer on the OS UI/ ...",
+      "date": "2026-09-01",
+      "timestamp": "2026-09-01T16:22:13+00:00",
+      "fetched_at": "2026-09-01T18:53:37.978307+00:00"
+    },
+    {
+      "id": "7444d550e92d",
+      "title": "Software Engineer , R&D Health Enablement in South Jordan, Utah",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers-cotiviti.icims.com/jobs/20240/software-engineer%2C-r%26d-health-enablement/job",
+      "source": "iCIMS",
+      "description": "Utah South Jordan is now hiring a Software Engineer , R&D Health Enablement in South Jordan, Utah. Review all of the job details and apply today!",
+      "date": "2026-09-01",
+      "timestamp": "2026-09-01T16:16:50+00:00",
+      "fetched_at": "2026-09-01T18:53:37.978590+00:00"
+    },
+    {
+      "id": "8735f6d97060",
+      "title": "Senior Software Engineer - Clinisys Careers",
+      "company": "Clinisys Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.clinisys.com/jobs/8302607-senior-software-engineer",
+      "source": "Other",
+      "description": "Job description Senior Software Engineer (SSE) \u2013 GLIMS Application Clinisys' AI Philosophy: Building an AI-first organisation is central to ...",
+      "date": "2026-09-01",
+      "timestamp": "2026-09-01T15:35:58+00:00",
+      "fetched_at": "2026-09-01T18:53:37.978748+00:00"
+    },
+    {
+      "id": "eb5bbc09871a",
+      "title": "Staff AI Engineer - 220565 - Teradata Careers",
+      "company": "220565 - Teradata Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.teradata.com/jobs/220565/staff-ai-engineer?j_idx=6",
+      "source": "Other",
+      "description": "Staff AI Engineer - 220565. Job Link Copied. Full Time. Remote. San Diego, CA, USA. Posted 1 day ago. Apply. Our Company. At Teradata, we believe that ...",
+      "date": "2026-09-01",
+      "timestamp": "2026-09-01T15:21:11+00:00",
+      "fetched_at": "2026-09-01T18:53:37.978895+00:00"
+    },
+    {
+      "id": "f3bcc6e8db8d",
+      "title": "Software Engineer - C# WPF - Job Detail | Careers Marketplace - Siemens Jobs",
+      "company": "C# WPF - Job Detail | Careers Marketplace - Siemens Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/520549",
+      "source": "Other",
+      "description": "Software Engineer - C# WPF. Job ID. 520549. Posted since. 01-Sep-2026. Organization. Foundational Technologies. Field of work. Research & Development.",
+      "date": "2026-09-01",
+      "timestamp": "2026-09-01T15:01:00+00:00",
+      "fetched_at": "2026-09-01T18:53:37.979078+00:00"
+    },
+    {
+      "id": "7c50fde392a3",
+      "title": "Job Application for Full-Stack Engineer at onX - Greenhouse",
+      "company": "Onxmaps",
+      "role": "Stack Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/onxmaps/jobs/4708765006",
+      "source": "Greenhouse",
+      "description": "Full-Stack Engineer . Austin, Texas, United States; Bozeman, Montana, United States; Denver, Colorado, United States; Free Solo; Kalispell, Montana ...",
+      "date": "2026-09-01",
+      "timestamp": "2026-09-01T13:35:22+00:00",
+      "fetched_at": "2026-09-01T18:53:38.040553+00:00"
+    },
+    {
+      "id": "9c4c825f28d4",
+      "title": "Umer Kiani - Deel Senior Full Stack Engineer - LinkedIn",
+      "company": "Umer Kiani",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/umerkianii_deel-senior-full-stack-engineer-activity-7500443658677219329-QKdG",
+      "source": "LinkedIn",
+      "description": "Najeeb Idrees. Engineering Manager | Senior Full Stack Engineer ... Senior Software Engineer @Zscaler | Built High-Impact & Scalable ...",
+      "date": "2026-09-01",
+      "timestamp": "2026-09-01T13:22:36+00:00",
+      "fetched_at": "2026-09-01T18:53:37.979518+00:00"
+    },
+    {
       "id": "66b35c5d9f16",
       "title": "AI Engineer , ML Engineer , or Data Scientist? The titles sound similar, but the day-to-day ...",
       "company": "to-day ...",
@@ -49,6 +259,21 @@
       "date": "2026-09-01",
       "timestamp": "2026-09-01T12:52:10+00:00",
       "fetched_at": "2026-09-01T15:36:01.958406+00:00"
+    },
+    {
+      "id": "7bcd04e48779",
+      "title": "Software Engineer Intern \u2013 Career Center | University of Virginia",
+      "company": "University of Virginia",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://career.virginia.edu/jobs/asti-software-engineer-intern/",
+      "source": "Other",
+      "description": "Software Engineer Intern \u00b7 1. Build user-friendly interfaces to hide some of our products' complexity and enhance our users' experience \u00b7 2. Work with ...",
+      "date": "2026-09-01",
+      "timestamp": "2026-09-01T12:32:35+00:00",
+      "fetched_at": "2026-09-01T18:53:38.041002+00:00"
     },
     {
       "id": "ebb5916866a3",
@@ -96,6 +321,36 @@
       "fetched_at": "2026-09-01T15:36:01.958827+00:00"
     },
     {
+      "id": "695abdf10e93",
+      "title": "Data Engineer Job Details - Aramark Careers",
+      "company": "Aramark Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://aramarkcareers.com/UnitedStates/job/Philadelphia-Data-Engineer-PA-19103/1425182600/",
+      "source": "Other",
+      "description": "The Data Engineer designs, builds, and maintains reliable data pipelines, models, dashboards, and cloud data infrastructure that transform diverse ...",
+      "date": "2026-09-01",
+      "timestamp": "2026-09-01T11:45:08+00:00",
+      "fetched_at": "2026-09-01T18:53:37.980446+00:00"
+    },
+    {
+      "id": "f4b2128f39dd",
+      "title": "Senior Full-Stack Software Engineer at Ontrac Solutions",
+      "company": "Ontrac Solutions Llc",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://ontrac-solutions-llc.breezy.hr/p/d72cafdd960c-senior-full-stack-software-engineer",
+      "source": "Breezy",
+      "description": "OVERVIEW - US ONLY Apply Ontrac Solutions is seeking an experienced Senior Full-Stack Software Engineer to support a critical customer engagement.",
+      "date": "2026-09-01",
+      "timestamp": "2026-09-01T10:55:24+00:00",
+      "fetched_at": "2026-09-01T18:53:38.041732+00:00"
+    },
+    {
       "id": "adfd41eeb7e2",
       "title": "Associate AI Engineer in Bangalore, Karn\u0101taka, India | Information Technology at Ecolab Inc.",
       "company": "Ecolab Inc.",
@@ -124,6 +379,21 @@
       "date": "2026-09-01",
       "timestamp": "2026-09-01T09:44:01+00:00",
       "fetched_at": "2026-09-01T15:36:02.183514+00:00"
+    },
+    {
+      "id": "cd9efd8cf647",
+      "title": "Sr. Software Engineer | Gap Inc.",
+      "company": "Gap Inc.",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.gapinc.com/en-us/jobs/w72/97/sr-software-engineer",
+      "source": "Other",
+      "description": "Sr. Software Engineer \u00b7 About Gap Inc. \u00b7 About the role \u00b7 What you'll do \u00b7 Who you are \u00b7 Benefits at Gap Inc. \u00b7 Sign up for Job Alerts \u00b7 Jobs you might be ...",
+      "date": "2026-09-01",
+      "timestamp": "2026-09-01T09:35:53+00:00",
+      "fetched_at": "2026-09-01T18:53:38.042324+00:00"
     },
     {
       "id": "f35bd77787d9",
