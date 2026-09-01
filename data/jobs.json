@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-08-31T23:26:49.275581+00:00",
-  "total_jobs": 8698,
+  "last_updated": "2026-09-01T02:07:48.986404+00:00",
+  "total_jobs": 8708,
   "stats": {
-    "total_companies": 4088,
+    "total_companies": 4095,
     "total_roles": 112,
     "regions": {
-      "India": 5681,
-      "Philippines": 1847,
-      "Remote": 1071,
+      "India": 5686,
+      "Philippines": 1851,
+      "Remote": 1072,
       "Unknown": 135
     },
     "sources": {
-      "Other": 6828,
+      "Other": 6838,
       "Greenhouse": 425,
       "Workday": 370,
       "LinkedIn": 367,
@@ -31,10 +31,70 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-08-31"
+      "latest": "2026-09-01"
     }
   },
   "jobs": [
+    {
+      "id": "3fb993ee412e",
+      "title": "Tech Lead Software Engineer in Dallas, Texas, United States of America - Southwest Careers",
+      "company": "Southwest Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.southwestair.com/us/en/job/R-2026-71085/Tech-Lead-Software-Engineer",
+      "source": "Other",
+      "description": "Apply for Tech Lead Software Engineer job with Southwest in Dallas ... Cloud Engineer , Technical Lead, or in a related position/occupation.",
+      "date": "2026-09-01",
+      "timestamp": "2026-09-01T00:12:13+00:00",
+      "fetched_at": "2026-09-01T02:07:48.588529+00:00"
+    },
+    {
+      "id": "1e6a8e9f33db",
+      "title": "Software Engineer , Data Team - United States | Confluence Technologies Careers",
+      "company": "United States | Confluence Technologies Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://confluence.pinpointhq.com/en/postings/c7fe935e-f408-4892-a204-dfd7fd2f70d8",
+      "source": "Other",
+      "description": "Join Confluence Technologies in Development - Software Development, United States as a Software Engineer , Data Team.",
+      "date": "2026-09-01",
+      "timestamp": "2026-09-01T00:00:26+00:00",
+      "fetched_at": "2026-09-01T02:07:48.588798+00:00"
+    },
+    {
+      "id": "8451fa09fe0f",
+      "title": "Software Engineer - Intern (Summer 2027) - C3 AI",
+      "company": "Intern (Summer 2027) - C3 AI",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://c3.ai/job-description/8739037002?gh_jid=8739037002",
+      "source": "Other",
+      "description": "Software Engineer - Intern (Summer 2027). Redwood City, California, United States \u00b7 Internships. Apply Now. C3 AI (NYSE: AI), is the Enterprise AI ...",
+      "date": "2026-08-31",
+      "timestamp": "2026-08-31T23:45:33+00:00",
+      "fetched_at": "2026-09-01T02:07:48.589103+00:00"
+    },
+    {
+      "id": "2db9a8023b0d",
+      "title": "Software Engineer , Intern - Stripe Careers",
+      "company": "Stripe Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://stripe.com/careers/listing/software-engineer-intern/8130867",
+      "source": "Other",
+      "description": "Software Engineer , Intern. Who we are. About Stripe. Stripe is a technology company focused on improving the conditions for economic growth and ...",
+      "date": "2026-08-31",
+      "timestamp": "2026-08-31T23:31:08+00:00",
+      "fetched_at": "2026-09-01T02:07:48.949148+00:00"
+    },
     {
       "id": "ab206338de04",
       "title": "Front-End Software Engineer - LoadUp Technologies",
@@ -64,6 +124,21 @@
       "date": "2026-08-31",
       "timestamp": "2026-08-31T21:40:11+00:00",
       "fetched_at": "2026-08-31T23:26:49.070569+00:00"
+    },
+    {
+      "id": "5d46a025e760",
+      "title": "Senior Virtual Cloud Engineer - Volkswagen Group Job Portal",
+      "company": "Volkswagen Group Job Portal",
+      "role": "Cloud Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.volkswagen-group.com/Volkswagen/job/Belmont-Senior-Virtual-Cloud-Engineer-CA-94002/1431995833/",
+      "source": "Other",
+      "description": "The Senior Virtual Cloud Engineer leads the creation and cloud deployment of a virtual Android Automotive (AAOS) infotainment ECU. The role entails ...",
+      "date": "2026-08-31",
+      "timestamp": "2026-08-31T21:33:15+00:00",
+      "fetched_at": "2026-09-01T02:07:48.589870+00:00"
     },
     {
       "id": "7cc2d2a2aa12",
@@ -109,6 +184,21 @@
       "date": "2026-08-31",
       "timestamp": "2026-08-31T20:08:15+00:00",
       "fetched_at": "2026-08-31T23:26:49.239503+00:00"
+    },
+    {
+      "id": "971074c2c4ea",
+      "title": "Senior Lead Software Engineer , Backend, Remote - US | DraftKings Careers",
+      "company": "US | DraftKings Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.draftkings.com/jobs/jr14836/senior-lead-software-engineer-backend/",
+      "source": "Other",
+      "description": "Senior Lead Software Engineer , Backend. Remote - US. Engineering; Full time. a group of people sitting at a table with laptops. About DraftKings. At ...",
+      "date": "2026-08-31",
+      "timestamp": "2026-08-31T20:08:04+00:00",
+      "fetched_at": "2026-09-01T02:07:48.590607+00:00"
     },
     {
       "id": "36b0611abe35",
@@ -169,6 +259,66 @@
       "date": "2026-08-31",
       "timestamp": "2026-08-31T19:16:01+00:00",
       "fetched_at": "2026-08-31T23:26:49.072023+00:00"
+    },
+    {
+      "id": "f36b2d5109fe",
+      "title": "Software Engineer turned gardener - thanks to AI slop : r/buildinpublic - Reddit",
+      "company": "thanks to AI slop : r/buildinpublic - Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.reddit.com/r/buildinpublic/comments/1w2yqey/software_engineer_turned_gardener_thanks_to_ai/",
+      "source": "Other",
+      "description": "Software Engineer turned gardener - thanks to AI slop. Short story time. I'm a full time SWE, working for big-tech - not quite FAANG but close ...",
+      "date": "2026-08-31",
+      "timestamp": "2026-08-31T19:07:21+00:00",
+      "fetched_at": "2026-09-01T02:07:48.951013+00:00"
+    },
+    {
+      "id": "016a0b0f0a82",
+      "title": "Sr. Data Engineer - Supply Chain Automation - Job ID: 10522120 - Amazon Careers",
+      "company": "Supply Chain Automation - Job ID: 10522120 - Amazon Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.amazon.jobs/en/jobs/10522120/sr-data-engineer-supply-chain-automation",
+      "source": "Other",
+      "description": "AWS is seeking a highly motivated and passionate Sr. Data Engineer - Supply Chain Automation who is responsible for designing, developing, testing, ...",
+      "date": "2026-08-31",
+      "timestamp": "2026-08-31T18:50:49+00:00",
+      "fetched_at": "2026-09-01T02:07:48.951212+00:00"
+    },
+    {
+      "id": "cec7f343f9e0",
+      "title": "Data Engineer II, Data Engineer II - Job ID: 10522112 | Amazon.jobs",
+      "company": "Job ID: 10522112 | Amazon.jobs",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.amazon.jobs/jobs/10522112",
+      "source": "Other",
+      "description": "AIS is seeking a highly motivated and passionate Data Engineer who is responsible for designing, developing, testing, and deploying Supply Chain ...",
+      "date": "2026-08-31",
+      "timestamp": "2026-08-31T18:45:26+00:00",
+      "fetched_at": "2026-09-01T02:07:48.591436+00:00"
+    },
+    {
+      "id": "b38b94d0a497",
+      "title": "Senior Frontend Engineer - Layla AI in Seattle, Washington - Expedia Group | Careers",
+      "company": "Layla AI in Seattle, Washington - Expedia Group | Careers",
+      "role": "Frontend Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.expediagroup.com/job/senior-frontend-engineer-layla-ai/seattle-wa/R-109191/",
+      "source": "Other",
+      "description": "As a Senior Frontend Engineer , you will build the web experiences that bring Layla's conversational trip planning and booking to travelers \u2014 turning ...",
+      "date": "2026-08-31",
+      "timestamp": "2026-08-31T18:38:39+00:00",
+      "fetched_at": "2026-09-01T02:07:48.951710+00:00"
     },
     {
       "id": "19834325292a",
