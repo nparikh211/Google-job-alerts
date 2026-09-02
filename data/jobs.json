@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-09-01T22:07:16.791247+00:00",
-  "total_jobs": 8772,
+  "last_updated": "2026-09-02T01:30:37.632294+00:00",
+  "total_jobs": 8781,
   "stats": {
-    "total_companies": 4114,
+    "total_companies": 4116,
     "total_roles": 113,
     "regions": {
-      "India": 5728,
-      "Philippines": 1863,
-      "Remote": 1082,
+      "India": 5733,
+      "Philippines": 1865,
+      "Remote": 1084,
       "Unknown": 135
     },
     "sources": {
-      "Other": 6885,
+      "Other": 6891,
       "Greenhouse": 430,
-      "Workday": 372,
-      "LinkedIn": 371,
+      "Workday": 373,
+      "LinkedIn": 372,
       "Ashby": 265,
       "iCIMS": 109,
-      "Breezy": 97,
+      "Breezy": 98,
       "Workable": 61,
       "Lever": 59,
       "SmartRecruiters": 55,
@@ -35,6 +35,111 @@
     }
   },
   "jobs": [
+    {
+      "id": "df77b61c534b",
+      "title": "Jr. Software Engineer - Climavision",
+      "company": "Climavision",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://climavision.breezy.hr/p/85938efae74c-jr-software-engineer/apply",
+      "source": "Breezy",
+      "description": "Junior Software Engineer Remote | US About Climavision At Climavision, we're rebuilding climate technology from the ground up and changing the way ...",
+      "date": "2026-09-01",
+      "timestamp": "2026-09-01T23:56:31+00:00",
+      "fetched_at": "2026-09-02T01:30:37.394409+00:00"
+    },
+    {
+      "id": "0d4ee5d03f5f",
+      "title": "Staff, Software Engineer | Sangita Raj - LinkedIn",
+      "company": "Sangita Raj - LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/sgraj_staff-software-engineer-activity-7500663905170575360-KMya",
+      "source": "LinkedIn",
+      "description": "We're hiring a Staff Software Engineer to join our team at Walmart Global Tech! This is a wonderful opportunity to work with a fast-paced, ...",
+      "date": "2026-09-01",
+      "timestamp": "2026-09-01T23:31:58+00:00",
+      "fetched_at": "2026-09-02T01:30:37.395296+00:00"
+    },
+    {
+      "id": "4022f99f6ab2",
+      "title": "Senior Software Engineer job in Remote, South Carolina, United States of America",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.pnc.com/global/en/job/R234266/Senior-Software-Engineer",
+      "source": "Other",
+      "description": "As a Senior Software Engineer within PNC's Retail Tech organization, you will be based in Home Location SC. Required Skills & Experience \u2022 Proven ...",
+      "date": "2026-09-01",
+      "timestamp": "2026-09-01T22:12:13+00:00",
+      "fetched_at": "2026-09-02T01:30:37.395482+00:00"
+    },
+    {
+      "id": "f29cd2eb2755",
+      "title": "Senior Software Engineer , SQL Engines - MongoDB",
+      "company": "MongoDB",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.mongodb.com/careers/jobs/8161512",
+      "source": "Other",
+      "description": "Senior Software Engineer , SQL Engines. United States. The SQL Engines team is working to make MongoDB the first choice of application developers ...",
+      "date": "2026-09-01",
+      "timestamp": "2026-09-01T22:02:11+00:00",
+      "fetched_at": "2026-09-02T01:30:37.395606+00:00"
+    },
+    {
+      "id": "ed98cfaac5b6",
+      "title": "Applied AI Engineer , Cyber, Government | OpenAI",
+      "company": "OpenAI",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://openai.com/careers/applied-ai-engineer-cyber-government-washington-dc/",
+      "source": "Other",
+      "description": "We are looking for a hands-on Applied AI Engineer with deep cybersecurity experience and a product mindset to help government and national security ...",
+      "date": "2026-09-01",
+      "timestamp": "2026-09-01T21:38:08+00:00",
+      "fetched_at": "2026-09-02T01:30:37.395819+00:00"
+    },
+    {
+      "id": "b5fe8129442c",
+      "title": "Full Stack Engineer , Graphics, Games, and ML - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200680950-0836/full-stack-engineer-graphics-games-and-ml",
+      "source": "Other",
+      "description": "Apply for a Full Stack Engineer , Graphics, Games, and ML job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-09-01",
+      "timestamp": "2026-09-01T21:14:46+00:00",
+      "fetched_at": "2026-09-02T01:30:37.593375+00:00"
+    },
+    {
+      "id": "7e649a233328",
+      "title": "Software Engineer I - Myworkdayjobs.com",
+      "company": "Aaon",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://aaon.wd108.myworkdayjobs.com/aaon/job/Parkville-MO/Software-Engineer-I_JR103374",
+      "source": "Workday",
+      "description": "Software Engineer I \u00b7 Develops embedded OS applications for operating systems such as Yocto, Ubuntu Core, Armbian, etc. \u00b7 Utilizes modern C++ (C++11 and ...",
+      "date": "2026-09-01",
+      "timestamp": "2026-09-01T20:45:57+00:00",
+      "fetched_at": "2026-09-02T01:30:37.395916+00:00"
+    },
     {
       "id": "6f6c44b55976",
       "title": "Senior Media Platform Engineer in New York, New York - FOX Careers",
@@ -156,6 +261,21 @@
       "fetched_at": "2026-09-01T22:07:16.388539+00:00"
     },
     {
+      "id": "46243376ff76",
+      "title": "Sr. Security Software Engineer , Security Operations - Pinterest Careers",
+      "company": "Pinterest Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.pinterestcareers.com/jobs/8096738/sr-security-software-engineer-security-operations/?gh_jid=8096738",
+      "source": "Other",
+      "description": "We're looking for a Senior Security Software Engineer to provide technical leadership within Security Operations.",
+      "date": "2026-09-01",
+      "timestamp": "2026-09-01T18:27:22+00:00",
+      "fetched_at": "2026-09-02T01:30:37.595144+00:00"
+    },
+    {
       "id": "e1e4788b249f",
       "title": "Job Application for Software Engineer II - Engineering at Kapitus - Greenhouse",
       "company": "Kapitus",
@@ -214,6 +334,21 @@
       "date": "2026-09-01",
       "timestamp": "2026-09-01T18:16:23+00:00",
       "fetched_at": "2026-09-01T22:07:16.754866+00:00"
+    },
+    {
+      "id": "d839a9e91678",
+      "title": "Senior DevOps Engineer in Boone, NC - Samaritan's Purse - Careers",
+      "company": "Samaritan's Purse - Careers",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.samaritanspurse.org/jobs/18195101-senior-devops-engineer",
+      "source": "Other",
+      "description": "Senior DevOps Engineer . Location: Boone, NC, United States Job ID: 17240. Date Posted: Sep 1, 2026. Get Involved! What do we believe? Demonstrate ...",
+      "date": "2026-09-01",
+      "timestamp": "2026-09-01T18:11:23+00:00",
+      "fetched_at": "2026-09-02T01:30:37.397503+00:00"
     },
     {
       "id": "660045245fd5",
