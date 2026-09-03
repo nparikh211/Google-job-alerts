@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-09-02T22:02:34.314638+00:00",
-  "total_jobs": 8827,
+  "last_updated": "2026-09-03T01:34:34.832990+00:00",
+  "total_jobs": 8840,
   "stats": {
-    "total_companies": 4133,
+    "total_companies": 4137,
     "total_roles": 113,
     "regions": {
-      "India": 5767,
-      "Philippines": 1873,
-      "Remote": 1088,
+      "India": 5776,
+      "Philippines": 1874,
+      "Remote": 1091,
       "Unknown": 135
     },
     "sources": {
-      "Other": 6927,
-      "Greenhouse": 433,
-      "Workday": 376,
+      "Other": 6936,
+      "Greenhouse": 434,
+      "Workday": 378,
       "LinkedIn": 372,
-      "Ashby": 266,
+      "Ashby": 267,
       "iCIMS": 111,
       "Breezy": 98,
       "Workable": 62,
@@ -35,6 +35,81 @@
     }
   },
   "jobs": [
+    {
+      "id": "6123753c9e60",
+      "title": "Lead Software Engineer , Go, Remote - Canada | DraftKings Careers",
+      "company": "Canada | DraftKings Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.draftkings.com/jobs/jr14715/lead-software-engineer-go/",
+      "source": "Other",
+      "description": "Lead Software Engineer , Go. Remote - Canada. Engineering; Full time. a group of people in a room. About DraftKings. At DraftKings, AI is becoming an ...",
+      "date": "2026-09-02",
+      "timestamp": "2026-09-02T23:40:09+00:00",
+      "fetched_at": "2026-09-03T01:34:34.580544+00:00"
+    },
+    {
+      "id": "ba11400c2da5",
+      "title": "Senior Full Stack Engineer I (React, Node.JS) - Recruiting",
+      "company": "Recruiting",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/linus-health/jobs/01c7a002-8fd3-4f78-a34d-27103507e5e2",
+      "source": "Other",
+      "description": "Senior Full Stack Engineer I (React, Node.JS). Linus Health is a Boston ... As a Senior Full stack Software Engineer I you will be a core team ...",
+      "date": "2026-09-02",
+      "timestamp": "2026-09-02T23:13:01+00:00",
+      "fetched_at": "2026-09-03T01:34:34.580729+00:00"
+    },
+    {
+      "id": "825c8c2b622b",
+      "title": "Senior Applied AI Engineer - Foresite career site",
+      "company": "Foresite career site",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.foresite.com/jobs/694380-senior-applied-ai-engineer",
+      "source": "Other",
+      "description": "Foresite is looking for a Senior Applied AI Engineer to shape how state-of-the-art AI and autonomous agents power our Managed Security Services ...",
+      "date": "2026-09-02",
+      "timestamp": "2026-09-02T23:07:54+00:00",
+      "fetched_at": "2026-09-03T01:34:34.580873+00:00"
+    },
+    {
+      "id": "a34f61f02fd8",
+      "title": "Lead Platform Engineer - Richmond - Capital One Careers",
+      "company": "Richmond - Capital One Careers",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.capitalonecareers.com/job/richmond/lead-platform-engineer/1732/100095711440",
+      "source": "Other",
+      "description": "Lead Platform Engineer . Richmond, Virginia ... Senior Lead AI Engineer , Gen AI Platform. New York, New York \u00b7 96600956528. Lead Software Engineer .",
+      "date": "2026-09-02",
+      "timestamp": "2026-09-02T22:54:50+00:00",
+      "fetched_at": "2026-09-03T01:34:34.581025+00:00"
+    },
+    {
+      "id": "269812f13dd3",
+      "title": "Software Engineer \u2014 Notification Hub & Experience - DoorDash",
+      "company": "DoorDash",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careersatdoordash.com/jobs/software-engineer-notification-hub-experience/8174363",
+      "source": "Other",
+      "description": "Software Engineer \u2014 Notification Hub & Experience. Apply To Job. Job ID ... We are looking for a Staff Backend Engineer to join our team. As a ...",
+      "date": "2026-09-02",
+      "timestamp": "2026-09-02T22:22:01+00:00",
+      "fetched_at": "2026-09-03T01:34:34.799426+00:00"
+    },
     {
       "id": "5e1ef04041da",
       "title": "Software Engineer - SWE Ops Infrastructure & Planning - Jobs - Careers at Apple",
@@ -64,6 +139,51 @@
       "date": "2026-09-02",
       "timestamp": "2026-09-02T21:07:58+00:00",
       "fetched_at": "2026-09-02T22:02:34.189044+00:00"
+    },
+    {
+      "id": "d5501c92f0eb",
+      "title": "Full-Stack Software Engineer - Myworkdayjobs.com",
+      "company": "Teladoc",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://teladoc.wd503.myworkdayjobs.com/en-US/teladochealth_is_hiring/job/Full-Stack-Software-Engineer_JR21050-1",
+      "source": "Workday",
+      "description": "... Software Engineer at its facility located at 155 E 44th Street, 17th Floor, New York, NY 10017. JOB DESCRIPTION: Own features and systems end-to ...",
+      "date": "2026-09-02",
+      "timestamp": "2026-09-02T20:27:32+00:00",
+      "fetched_at": "2026-09-03T01:34:34.581543+00:00"
+    },
+    {
+      "id": "944130cba4e5",
+      "title": "Sr. Software Engineer - Myworkdayjobs.com",
+      "company": "Workiva",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://workiva.wd503.myworkdayjobs.com/en-US/careers/job/Sr-Software-Engineer_R12422",
+      "source": "Workday",
+      "description": "Join Workiva as a Senior Software Engineer and explore a world of innovation where you'll leverage a diverse and cutting-edge tech stack in an AI ...",
+      "date": "2026-09-02",
+      "timestamp": "2026-09-02T20:23:31+00:00",
+      "fetched_at": "2026-09-03T01:34:34.581630+00:00"
+    },
+    {
+      "id": "37c23774e5a9",
+      "title": "Senior Software Engineer , Agents @ RevenueCat - Jobs",
+      "company": "Revenuecat",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.ashbyhq.com/revenuecat/76a39fe0-eb34-4def-b462-7b0f9de80961",
+      "source": "Ashby",
+      "description": "Senior Software Engineer , Agents. Location. Americas; EMEA. Employment Type. Full time. Location Type. Remote. Department. Engineering. Compensation.",
+      "date": "2026-09-02",
+      "timestamp": "2026-09-02T20:09:37+00:00",
+      "fetched_at": "2026-09-03T01:34:34.799834+00:00"
     },
     {
       "id": "77ce3026f3ee",
@@ -96,6 +216,36 @@
       "fetched_at": "2026-09-02T22:02:34.189281+00:00"
     },
     {
+      "id": "df7f26d58f6a",
+      "title": "Software Engineer job in Pittsburgh, Pennsylvania, United States of America - PNC Careers",
+      "company": "PNC Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.pnc.com/global/en/job/R234369/Software-Engineer",
+      "source": "Other",
+      "description": "Apply for Software Engineer job with PNC in Pittsburgh, Pennsylvania, United States of America. Browse and apply for Technology jobs at PNC.",
+      "date": "2026-09-02",
+      "timestamp": "2026-09-02T20:01:13+00:00",
+      "fetched_at": "2026-09-03T01:34:34.581923+00:00"
+    },
+    {
+      "id": "47998c92283b",
+      "title": "Job Application for Senior Software Engineer , Inference at AssemblyAI - Greenhouse",
+      "company": "Assemblyai",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/assemblyai/jobs/4729799005",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer , Inference. Washington D.C.. Apply. Why AssemblyAI. AssemblyAI builds the best-in-class Voice AI models powering the next ...",
+      "date": "2026-09-02",
+      "timestamp": "2026-09-02T19:38:34+00:00",
+      "fetched_at": "2026-09-03T01:34:34.800152+00:00"
+    },
+    {
       "id": "e37e1fc667d1",
       "title": "Senior Software Engineer - AI Products (SVP) | Citi Careers",
       "company": "AI Products (SVP) | Citi Careers",
@@ -109,6 +259,36 @@
       "date": "2026-09-02",
       "timestamp": "2026-09-02T19:36:30+00:00",
       "fetched_at": "2026-09-02T22:02:34.189436+00:00"
+    },
+    {
+      "id": "7ab4384aa5b6",
+      "title": "Software Engineer , Apple Pay \u2014 Wallet, Payments & Commerce (WPC) - Jobs",
+      "company": "Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200681309-1435/software-engineer-apple-pay-wallet-payments-commerce-wpc",
+      "source": "Other",
+      "description": "Apply for a Software Engineer , Apple Pay \u2014 Wallet, Payments & Commerce (WPC) job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-09-02",
+      "timestamp": "2026-09-02T19:26:59+00:00",
+      "fetched_at": "2026-09-03T01:34:34.582398+00:00"
+    },
+    {
+      "id": "1ecacd439589",
+      "title": "Software Engineer at Empower",
+      "company": "Empower",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.empower.com/job/-/-/42743/96053603392?source=Linkedin",
+      "source": "Other",
+      "description": "Software Engineer . Job ID R.0059326 Date posted 09/01/2026 Worker type Regular Workplace flexibility Remote - Nationwide. Apply Save. Our vision for ...",
+      "date": "2026-09-02",
+      "timestamp": "2026-09-02T19:23:06+00:00",
+      "fetched_at": "2026-09-03T01:34:34.582513+00:00"
     },
     {
       "id": "73e5bfc2c549",
@@ -154,6 +334,21 @@
       "date": "2026-09-02",
       "timestamp": "2026-09-02T18:54:44+00:00",
       "fetched_at": "2026-09-02T22:02:34.189716+00:00"
+    },
+    {
+      "id": "cfac6776cf83",
+      "title": "Full Stack Engineer , eBay Motors in Toronto, Canada - eBay Jobs",
+      "company": "eBay Jobs",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ebayinc.com/us/en/job/R0076252/Full-Stack-Engineer-eBay-Motors",
+      "source": "Other",
+      "description": "Full Stack Engineer , eBay Motors. Apply Now. Back to search results ... We're looking for a dedicated software engineer skilled in both front ...",
+      "date": "2026-09-02",
+      "timestamp": "2026-09-02T18:31:57+00:00",
+      "fetched_at": "2026-09-03T01:34:34.582932+00:00"
     },
     {
       "id": "d878f00f2b2b",
