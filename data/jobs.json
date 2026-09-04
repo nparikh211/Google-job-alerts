@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-09-04T15:10:59.657994+00:00",
-  "total_jobs": 8939,
+  "last_updated": "2026-09-04T18:35:19.619010+00:00",
+  "total_jobs": 8952,
   "stats": {
-    "total_companies": 4167,
-    "total_roles": 114,
+    "total_companies": 4174,
+    "total_roles": 115,
     "regions": {
-      "India": 5839,
-      "Philippines": 1894,
-      "Remote": 1108,
+      "India": 5848,
+      "Philippines": 1895,
+      "Remote": 1111,
       "Unknown": 135
     },
     "sources": {
-      "Other": 7006,
-      "Greenhouse": 441,
-      "Workday": 381,
-      "LinkedIn": 376,
+      "Other": 7014,
+      "Greenhouse": 442,
+      "Workday": 382,
+      "LinkedIn": 378,
       "Ashby": 270,
-      "iCIMS": 113,
+      "iCIMS": 114,
       "Breezy": 100,
       "Workable": 63,
       "Lever": 61,
@@ -36,6 +36,171 @@
   },
   "jobs": [
     {
+      "id": "da21f0aa376c",
+      "title": "Senior Full Stack Engineer at Chargeblast | Amplify IT Jobs",
+      "company": "Chargeblast",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://amplifyit.io/careers/chargeblast/full-stack-engineer",
+      "source": "Other",
+      "description": "Forward Deployed Engineer. AI Engineer Senior Remote to United States of America \u00b7 Simula Ad. Senior ML Engineer ... Fullstack Engineer .",
+      "date": "2026-09-04",
+      "timestamp": "2026-09-04T18:02:15+00:00",
+      "fetched_at": "2026-09-04T18:35:19.361324+00:00"
+    },
+    {
+      "id": "3426b18f7296",
+      "title": "Job ID:26032459 - Senior Data Engineer - Multiple Locations - Bank of America Careers",
+      "company": "Job ID:26032459",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.bankofamerica.com/en-us/job-detail/26032459/senior-data-engineer-multiple-locations",
+      "source": "Other",
+      "description": "Senior Data Engineer . Jersey City, New Jersey; Charlotte, North Carolina; Plano, Texas. Additional locations. Posted Sep 04, 2026. Apply.",
+      "date": "2026-09-04",
+      "timestamp": "2026-09-04T16:57:21+00:00",
+      "fetched_at": "2026-09-04T18:35:19.361856+00:00"
+    },
+    {
+      "id": "a213204f9445",
+      "title": "Senior Software Engineer - Job Detail | Careers Marketplace - Siemens",
+      "company": "Job Detail | Careers Marketplace - Siemens",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/521324",
+      "source": "Other",
+      "description": "Senior Software Engineer \u00b7 Develop, maintain, and enhance Java-based desktop applications for railway/metro visualization and operational analysis.",
+      "date": "2026-09-04",
+      "timestamp": "2026-09-04T16:36:04+00:00",
+      "fetched_at": "2026-09-04T18:35:19.361990+00:00"
+    },
+    {
+      "id": "f2809a2c739f",
+      "title": "Software Engineer 1 - Myworkdayjobs.com",
+      "company": "Condenast",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://condenast.wd115.myworkdayjobs.com/en-US/CondeCareers/job/MARKSQUARE-Bengaluru-IN/Software-Engineer-1_R-24733",
+      "source": "Workday",
+      "description": "... Software Engineer / SE1: Full stack to elevate the visual and ... Software Engineer 1. Apply. locations: MARKSQUARE, Bengaluru, IN. time type ...",
+      "date": "2026-09-04",
+      "timestamp": "2026-09-04T16:35:37+00:00",
+      "fetched_at": "2026-09-04T18:35:19.586834+00:00"
+    },
+    {
+      "id": "f539580ff60c",
+      "title": "Backend Software Engineer - Notifications - Corporater - Teamtailor",
+      "company": "Notifications - Corporater - Teamtailor",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://corporater.teamtailor.com/jobs/8311303-backend-software-engineer-notifications",
+      "source": "Other",
+      "description": "Backend Software Engineer - Notifications. Build a reliable notifications platform with Java and Spring Boot. Shape architecture, integrations, and ...",
+      "date": "2026-09-04",
+      "timestamp": "2026-09-04T16:21:23+00:00",
+      "fetched_at": "2026-09-04T18:35:19.362161+00:00"
+    },
+    {
+      "id": "fac6bf5ffe9d",
+      "title": "Software Engineer Job Details | Elior North America",
+      "company": "Elior North America",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.elior-na.com/job/Minneapolis-Software-Engineer-MN-55413/1371231757/",
+      "source": "Other",
+      "description": "This is an opportunity for an early-career software engineer who has a solid technical foundation and is ready to grow. You don't need to be an ...",
+      "date": "2026-09-04",
+      "timestamp": "2026-09-04T16:09:43+00:00",
+      "fetched_at": "2026-09-04T18:35:19.362298+00:00"
+    },
+    {
+      "id": "065a01519514",
+      "title": "Job Application for Sr. Software Engineer , Site Reliability at Bloomerang - Greenhouse",
+      "company": "Bloomerang",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/bloomerang/jobs/4730955005",
+      "source": "Greenhouse",
+      "description": "Sr. Software Engineer , Site Reliability. Remote, US. Apply. At Bloomerang, we believe change happens on purpose. We champion the power and potential ...",
+      "date": "2026-09-04",
+      "timestamp": "2026-09-04T15:30:33+00:00",
+      "fetched_at": "2026-09-04T18:35:19.362380+00:00"
+    },
+    {
+      "id": "cd4a9f76595b",
+      "title": "Lead Software Engineer in Remote Location | Careers at TDS Corporate",
+      "company": "TDS Corporate",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://external-telecom-teldta.icims.com/jobs/29935/lead-software-engineer/job",
+      "source": "iCIMS",
+      "description": "TDS Corporate is now hiring a Lead Software Engineer in Remote Location. Review all of the job details and apply today!",
+      "date": "2026-09-04",
+      "timestamp": "2026-09-04T15:12:26+00:00",
+      "fetched_at": "2026-09-04T18:35:19.587466+00:00"
+    },
+    {
+      "id": "35624700faa4",
+      "title": "Mischa van den Burg's Post - LinkedIn",
+      "company": "Unknown Company",
+      "role": "Mischa van den Burg's Post - LinkedIn",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/mischavandenburg_some-more-safe-jobs-devops-engineer-activity-7501535180202115072-LYnt",
+      "source": "LinkedIn",
+      "description": "Some more safe jobs: \u2192 DevOps Engineer \u2192 Platform Engineer \u2192 Kubernetes Engineer \u2192 MLOps / AI Ops \u2192 Linux System Administrator Every one of ...",
+      "date": "2026-09-04",
+      "timestamp": "2026-09-04T14:32:55+00:00",
+      "fetched_at": "2026-09-04T18:35:19.362815+00:00"
+    },
+    {
+      "id": "b88b92eaf5a4",
+      "title": "John Crickett's Post - LinkedIn",
+      "company": "Unknown Company",
+      "role": "John Crickett's Post - LinkedIn",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/posts/johncrickett_want-to-become-a-better-software-engineer-activity-7501610530105876480-Rrn8",
+      "source": "LinkedIn",
+      "description": "Want to become a better software engineer ? Build real software. The problem is, when you're coding to learn, figuring out what to build can eat up ...",
+      "date": "2026-09-04",
+      "timestamp": "2026-09-04T14:27:22+00:00",
+      "fetched_at": "2026-09-04T18:35:19.587699+00:00"
+    },
+    {
+      "id": "52093a0f3cfe",
+      "title": "Senior Software Engineer Job Details | Gainwell Technologies LLC",
+      "company": "Gainwell Technologies LLC",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Software-Engineer-WI-99999/1426763400/",
+      "source": "Other",
+      "description": "Seeking a Senior Software Engineer to design, develop, and support enterprise integration solutions on the Gainwell Connect Platform. The role focuses ...",
+      "date": "2026-09-04",
+      "timestamp": "2026-09-04T14:20:30+00:00",
+      "fetched_at": "2026-09-04T18:35:19.363105+00:00"
+    },
+    {
       "id": "77fba718a489",
       "title": "Machine Learning Engineer - San Mateo, CA | BigHat Biosciences Careers",
       "company": "Biosciences Careers",
@@ -49,6 +214,21 @@
       "date": "2026-09-04",
       "timestamp": "2026-09-04T14:02:36+00:00",
       "fetched_at": "2026-09-04T15:10:59.517883+00:00"
+    },
+    {
+      "id": "f1a8da278a15",
+      "title": "Senior Applied AI Engineer | Ozmo - Rippling",
+      "company": "Ozmo - Rippling",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/ozmocareers/jobs/d42d19d5-cf8d-43fc-a0eb-dce35f5bb5bf",
+      "source": "Other",
+      "description": "Ozmo is transforming how enterprises use AI to automate complex support at scale. \u00b7 We're looking for a Senior Applied AI Engineer to help build our ...",
+      "date": "2026-09-04",
+      "timestamp": "2026-09-04T13:51:08+00:00",
+      "fetched_at": "2026-09-04T18:35:19.363459+00:00"
     },
     {
       "id": "92a957b63e7f",
@@ -124,6 +304,21 @@
       "date": "2026-09-04",
       "timestamp": "2026-09-04T12:30:30+00:00",
       "fetched_at": "2026-09-04T15:10:59.519355+00:00"
+    },
+    {
+      "id": "1dd683fe52d0",
+      "title": "India, Associate Site Reliability Engineer II - 20440 - MetLife careers",
+      "company": "20440 - MetLife careers",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.metlifecareers.com/en_US/ml/JobDetail/Associate-Site-Reliability-Engineer-II/20440",
+      "source": "Other",
+      "description": "Role Reasonability. MetLife is seeking a Site Reliability Engineer (SRE) to ensure the reliability, availability, and performance of critical ...",
+      "date": "2026-09-04",
+      "timestamp": "2026-09-04T11:56:41+00:00",
+      "fetched_at": "2026-09-04T18:35:19.364318+00:00"
     },
     {
       "id": "32df804d1e3f",
