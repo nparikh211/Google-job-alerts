@@ -1,26 +1,26 @@
 {
-  "last_updated": "2026-09-03T21:56:36.890178+00:00",
-  "total_jobs": 8900,
+  "last_updated": "2026-09-04T01:28:14.469492+00:00",
+  "total_jobs": 8912,
   "stats": {
-    "total_companies": 4156,
+    "total_companies": 4160,
     "total_roles": 113,
     "regions": {
-      "India": 5816,
-      "Philippines": 1886,
-      "Remote": 1100,
+      "India": 5821,
+      "Philippines": 1890,
+      "Remote": 1103,
       "Unknown": 135
     },
     "sources": {
-      "Other": 6981,
+      "Other": 6989,
       "Greenhouse": 439,
       "Workday": 381,
       "LinkedIn": 373,
-      "Ashby": 267,
+      "Ashby": 269,
       "iCIMS": 112,
       "Breezy": 100,
-      "Workable": 62,
+      "Workable": 63,
       "Lever": 60,
-      "SmartRecruiters": 57,
+      "SmartRecruiters": 58,
       "Indeed": 30,
       "Recruitee": 10,
       "BrassRing": 10,
@@ -31,10 +31,85 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-09-03"
+      "latest": "2026-09-04"
     }
   },
   "jobs": [
+    {
+      "id": "c8d4d7f454da",
+      "title": "Job Title: AI Engineer - Ametek Careers",
+      "company": "Ametek Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ametek.com/job/Mount-Prospect-AI-Engineer-IL-60056/1426573500/",
+      "source": "Other",
+      "description": "Job Title: AI Engineer \u00b7 Develop, test, and deploy AI-powered software applications, including LLM-based tools, copilots, and automation solutions ...",
+      "date": "2026-09-04",
+      "timestamp": "2026-09-04T00:17:32+00:00",
+      "fetched_at": "2026-09-04T01:28:14.431159+00:00"
+    },
+    {
+      "id": "a8b4993315fc",
+      "title": "Senior Software Engineer - Full Stack @ Hinge Health - Jobs",
+      "company": "Hinge Health",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/hinge-health/c829f5e8-463b-421a-a30b-79d3abdaf773",
+      "source": "Ashby",
+      "description": "in their life. We're looking for a Senior Software Engineer to join the team building that experience: the incentive mechanics, referral flows ...",
+      "date": "2026-09-03",
+      "timestamp": "2026-09-03T22:47:28+00:00",
+      "fetched_at": "2026-09-04T01:28:14.216542+00:00"
+    },
+    {
+      "id": "f5c58a144a19",
+      "title": "Site Reliability Engineer | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.apexsystems.com/job/3049714_usa/site-reliability-engineer",
+      "source": "Other",
+      "description": "We are seeking a Site Reliability Engineer (SRE) to join the GDI&A SRE team, focused on observability, monitoring, and technical consulting across GCP ...",
+      "date": "2026-09-03",
+      "timestamp": "2026-09-03T22:25:33+00:00",
+      "fetched_at": "2026-09-04T01:28:14.431447+00:00"
+    },
+    {
+      "id": "40b8598bb3b6",
+      "title": "Data Engineer for Databricks Platform (all humans) - Erste Group",
+      "company": "Erste Group",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.erstegroup.com/en/career/positions-offered/job-detail/data-engineer-for-databricks-platform-all-humans/34153",
+      "source": "Other",
+      "description": "Data Engineer for Databricks Platform (all humans) \u00b7 Location: Bratislava \u00b7 Working hours: Full-time \u00b7 Occupational Area: IT \u00b7 Company: Erste Digital ...",
+      "date": "2026-09-03",
+      "timestamp": "2026-09-03T21:58:57+00:00",
+      "fetched_at": "2026-09-04T01:28:14.217573+00:00"
+    },
+    {
+      "id": "ac820e4ec94c",
+      "title": "Software Engineer Sr in Lisle, Illinois - International Motors, LLC Careers",
+      "company": "International Motors, LLC Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.international.com/jobs/59803?lang=en-us",
+      "source": "Other",
+      "description": "As a Senior Software Engineer supporting Dealer Portal, Sitecore, Coveo, and related dealer-facing digital capabilities, this role will combine strong ...",
+      "date": "2026-09-03",
+      "timestamp": "2026-09-03T21:54:38+00:00",
+      "fetched_at": "2026-09-04T01:28:14.217877+00:00"
+    },
     {
       "id": "2d30d2b9522c",
       "title": "2027 Intern - Software Engineer in San Jose, California, United States of America | Other at Adobe",
@@ -66,6 +141,36 @@
       "fetched_at": "2026-09-03T21:56:36.851748+00:00"
     },
     {
+      "id": "1caf3a36f919",
+      "title": "Finance AI Engineer , Sunnyvale, CA, United States - Intuitive Surgical Careers",
+      "company": "Intuitive Surgical Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.intuitive.com/en/jobs/744000147351020/JOB217424/finance-ai-engineer/",
+      "source": "Other",
+      "description": "Finance AI Engineer . Sunnyvale, CA, United States; Not Remote ... Staff Machine Learning Engineer . Save Saved. Sunnyvale, CA, United States.",
+      "date": "2026-09-03",
+      "timestamp": "2026-09-03T21:22:51+00:00",
+      "fetched_at": "2026-09-04T01:28:14.432090+00:00"
+    },
+    {
+      "id": "1c71f95c7f9f",
+      "title": "Platform Engineer , Golang & IaC (Remote, European Union) - Spacelift Careers",
+      "company": "Spacelift Careers",
+      "role": "Platform Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.spacelift.io/jobs/6326313-platform-engineer-golang-iac-remote-european-union",
+      "source": "Other",
+      "description": "Platform Engineer , Golang & IaC (Remote, European Union). Apply for ... Software Engineer ; Locations: Remote Europe; Remote status: Fully Remote ...",
+      "date": "2026-09-03",
+      "timestamp": "2026-09-03T20:48:13+00:00",
+      "fetched_at": "2026-09-04T01:28:14.218467+00:00"
+    },
+    {
       "id": "4b0dd707b146",
       "title": "Full Stack Software Engineer , Product Explorations - OpenAI",
       "company": "OpenAI",
@@ -94,6 +199,66 @@
       "date": "2026-09-03",
       "timestamp": "2026-09-03T20:41:18+00:00",
       "fetched_at": "2026-09-03T21:56:36.742054+00:00"
+    },
+    {
+      "id": "dc49613fefa9",
+      "title": "AI Engineer @ Unlearn - Jobs",
+      "company": "Unlearn",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/unlearn/8f194bba-0d69-4740-8360-bc6c025639a5",
+      "source": "Ashby",
+      "description": "... AI Engineer . Our Science organization leads Unlearn's efforts to build new capabilities across machine learning, statistics, and AI tools that ...",
+      "date": "2026-09-03",
+      "timestamp": "2026-09-03T20:37:02+00:00",
+      "fetched_at": "2026-09-04T01:28:14.218910+00:00"
+    },
+    {
+      "id": "7dab70448122",
+      "title": "Senior Software Engineer - Ford Global Career Site Careers - oracle",
+      "company": "Ford Global Career Site Careers - oracle",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69728",
+      "source": "Other",
+      "description": "GCP Associate Cloud Engineer , Generative AI Leader, or similar. ... Senior Software Engineer -Ford Pro Intelligence. Dearborn, MI, United ...",
+      "date": "2026-09-03",
+      "timestamp": "2026-09-03T20:16:06+00:00",
+      "fetched_at": "2026-09-04T01:28:14.432902+00:00"
+    },
+    {
+      "id": "c99054a69aa5",
+      "title": "Staff Data Platform Engineer - Murmuration - Workable Jobs",
+      "company": "Murmuration",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://apply.workable.com/murmuration/j/355F1EA63D/",
+      "source": "Workable",
+      "description": "We are seeking a Staff Data Platform Engineer to build opinionated paved roads across engineering. ... The Staff Software Engineer role is a full-time, ...",
+      "date": "2026-09-03",
+      "timestamp": "2026-09-03T20:02:00+00:00",
+      "fetched_at": "2026-09-04T01:28:14.219027+00:00"
+    },
+    {
+      "id": "5e4708b47ea2",
+      "title": "Staff Software Engineer - Pearson",
+      "company": "Pearson",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://pearson.jobs/virtual-usa/staff-software-engineer/F8412132BF9F4C89A1DCF2BA85698C73/job/",
+      "source": "Other",
+      "description": "Staff Software Engineer . USA. Workplace Type: Remote. Job: Engineering; Schedule: FULL_TIME; Req ID: 24663. Role Title: Staff Software Engineer .",
+      "date": "2026-09-03",
+      "timestamp": "2026-09-03T19:57:19+00:00",
+      "fetched_at": "2026-09-04T01:28:14.219216+00:00"
     },
     {
       "id": "8cd926282bb9",
@@ -199,6 +364,21 @@
       "date": "2026-09-03",
       "timestamp": "2026-09-03T18:16:48+00:00",
       "fetched_at": "2026-09-03T21:56:36.743453+00:00"
+    },
+    {
+      "id": "afce3d86847f",
+      "title": "Versant Platform Software Engineer II | SmartRecruiters",
+      "company": "Versant3",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.smartrecruiters.com/Versant3/744000147289959-platform-software-engineer-ii",
+      "source": "SmartRecruiters",
+      "description": "Platform Software Engineer II ... Other jobs at Versant Media. Activations Specialist (Fandango). Orlando, Florida. Senior Software Engineer , Mobile ( ...",
+      "date": "2026-09-03",
+      "timestamp": "2026-09-03T18:02:30+00:00",
+      "fetched_at": "2026-09-04T01:28:14.434074+00:00"
     },
     {
       "id": "95210749a9c7",
