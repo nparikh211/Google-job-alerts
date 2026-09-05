@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-09-05T11:24:17.424403+00:00",
-  "total_jobs": 8992,
+  "last_updated": "2026-09-05T14:01:41.247683+00:00",
+  "total_jobs": 9001,
   "stats": {
-    "total_companies": 4191,
+    "total_companies": 4195,
     "total_roles": 115,
     "regions": {
-      "India": 5877,
+      "India": 5885,
       "Philippines": 1901,
-      "Remote": 1116,
+      "Remote": 1117,
       "Unknown": 135
     },
     "sources": {
-      "Other": 7043,
-      "Greenhouse": 445,
-      "Workday": 383,
-      "LinkedIn": 380,
+      "Other": 7048,
+      "Greenhouse": 446,
+      "Workday": 384,
+      "LinkedIn": 381,
       "Ashby": 272,
-      "iCIMS": 115,
+      "iCIMS": 116,
       "Breezy": 101,
       "Workable": 63,
       "Lever": 62,
@@ -36,6 +36,96 @@
   },
   "jobs": [
     {
+      "id": "bcb408132889",
+      "title": "Data Engineer - II (FTC), DAVENGERS(Data Avengers) - Job ID: 10525238 | Amazon.jobs",
+      "company": "II (FTC), DAVENGERS(Data Avengers) - Job ID: 10525238 | Amazon.jobs",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://amazon.jobs/jobs/10525238",
+      "source": "Other",
+      "description": "Description. As a data engineer are you looking for opportunity to be among software developers, machine learning scientists to build a data ...",
+      "date": "2026-09-05",
+      "timestamp": "2026-09-05T12:40:31+00:00",
+      "fetched_at": "2026-09-05T14:01:40.916233+00:00"
+    },
+    {
+      "id": "a50fde6a0467",
+      "title": "Job Application for Software Engineer II at Garner Health - Greenhouse",
+      "company": "Garnerhealth",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/garnerhealth/jobs/6181655004",
+      "source": "Greenhouse",
+      "description": "Software Engineer II. New York City, New York. Apply. What you'll be part of. Garner is on a mission to transform the U.S. healthcare system \u2014 and we ...",
+      "date": "2026-09-05",
+      "timestamp": "2026-09-05T12:01:35+00:00",
+      "fetched_at": "2026-09-05T14:01:40.916430+00:00"
+    },
+    {
+      "id": "538a0fa9111a",
+      "title": "Jayesh Choudhary's Post - Software Engineer Eligibility - LinkedIn",
+      "company": "Jayesh Choudhary's Post",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/jayesh-choudhary-72444518b_new-opportunity-at-microsoft-software-engineer-activity-7501962083752849408-1yqS",
+      "source": "LinkedIn",
+      "description": "... Software Engineer Eligibility: Bachelor's in CS, IT or related ... Software Engineer || AI & ML Engineer || DM for Collabs. 28m. Report this ...",
+      "date": "2026-09-05",
+      "timestamp": "2026-09-05T11:51:58+00:00",
+      "fetched_at": "2026-09-05T14:01:40.917093+00:00"
+    },
+    {
+      "id": "5ad05ed9f23b",
+      "title": "DevOps Engineer - Myworkdayjobs.com",
+      "company": "Kla",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://kla.wd1.myworkdayjobs.com/Search/job/Chennai-India/DevOps-Engineer_2640063",
+      "source": "Workday",
+      "description": "... DevOps Engineer ... We take your privacy very seriously and confidentially handle your information. Similar Jobs (12). Associate Software Engineer .",
+      "date": "2026-09-05",
+      "timestamp": "2026-09-05T11:11:06+00:00",
+      "fetched_at": "2026-09-05T14:01:40.917221+00:00"
+    },
+    {
+      "id": "ddfbb967090c",
+      "title": "Staff Backend Engineer , Bengaluru | Coupang Careers",
+      "company": "Coupang Careers",
+      "role": "Backend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.coupang.jobs/en/jobs/8129527/staff-backend-engineer/",
+      "source": "Other",
+      "description": "Staff Backend Engineer . Description. Company Introduction. We exist ... Staff Site Reliability Engineer . Save Saved. Bengaluru. a city with trees ...",
+      "date": "2026-09-05",
+      "timestamp": "2026-09-05T10:36:18+00:00",
+      "fetched_at": "2026-09-05T14:01:40.917430+00:00"
+    },
+    {
+      "id": "e99f9d84dc5f",
+      "title": "GCP Architect-Lead Software Engineer II - - 365743 - Deloitte",
+      "company": "GCP Architect",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://usijobs.deloitte.com/en_US/careersUSI/JobDetail/USI-EH27-Consulting-Services-EP-SCNO-GCP-Architect-Lead-Software-Engineer-II/365743",
+      "source": "Other",
+      "description": "GCP Architect-Lead Software Engineer IIEnterprise PerformanceOur Enterprise Performance team is at the forefront of enterprise technology, ...",
+      "date": "2026-09-05",
+      "timestamp": "2026-09-05T09:16:37+00:00",
+      "fetched_at": "2026-09-05T14:01:40.917884+00:00"
+    },
+    {
       "id": "3761970ea365",
       "title": "Junior Software Engineer | Cambridge University Press & Assessment - Careers",
       "company": "Cambridge University Press & Assessment - Careers",
@@ -49,6 +139,21 @@
       "date": "2026-09-05",
       "timestamp": "2026-09-05T08:05:21+00:00",
       "fetched_at": "2026-09-05T11:24:17.036825+00:00"
+    },
+    {
+      "id": "0c0fcd9829f4",
+      "title": "Senior Data Engineer in Remote - Cotiviti | Careers Center - ICIMS",
+      "company": "Cotiviti | Careers Center - ICIMS",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers-cotiviti.icims.com/jobs/20247/senior-data-engineer/job",
+      "source": "iCIMS",
+      "description": "US Nationwide Remote is now hiring a Senior Data Engineer in Remote. Review all of the job details and apply today!",
+      "date": "2026-09-05",
+      "timestamp": "2026-09-05T08:05:18+00:00",
+      "fetched_at": "2026-09-05T14:01:40.918418+00:00"
     },
     {
       "id": "6a5ec04de0db",
@@ -94,6 +199,21 @@
       "date": "2026-09-05",
       "timestamp": "2026-09-05T07:28:26+00:00",
       "fetched_at": "2026-09-05T11:24:17.037342+00:00"
+    },
+    {
+      "id": "a9c027c82642",
+      "title": "Lead Software Platform Engineer I - MetLife careers",
+      "company": "MetLife careers",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.metlifecareers.com/en_US/ml/JobDetail/Lead-Software-Platform-Engineer-I/20441",
+      "source": "Other",
+      "description": "Lead Software Platform Engineer I. General Information. Location. Hyderabad, Telangana. Working Schedule. Full-Time. Work Arrangement. Hybrid.",
+      "date": "2026-09-05",
+      "timestamp": "2026-09-05T06:47:19+00:00",
+      "fetched_at": "2026-09-05T14:01:40.919295+00:00"
     },
     {
       "id": "c31a82930fc9",
@@ -184,6 +304,21 @@
       "date": "2026-09-05",
       "timestamp": "2026-09-05T02:31:20+00:00",
       "fetched_at": "2026-09-05T11:24:17.038352+00:00"
+    },
+    {
+      "id": "85e17f196af2",
+      "title": "Senior Data Engineer , Austin, Texas | General Motors Careers",
+      "company": "General Motors Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://search-careers.gm.com/en/jobs/jr-202615958/senior-data-engineer/",
+      "source": "Other",
+      "description": "... a hands-on Senior Data Engineer to help build the data products that power Customer Care and Aftersales analytics, AI, and operational\u2026",
+      "date": "2026-09-05",
+      "timestamp": "2026-09-05T01:00:36+00:00",
+      "fetched_at": "2026-09-05T14:01:40.920881+00:00"
     },
     {
       "id": "5800e8a2a5aa",
