@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-09-05T01:29:35.571508+00:00",
-  "total_jobs": 8976,
+  "last_updated": "2026-09-05T07:52:21.647684+00:00",
+  "total_jobs": 8984,
   "stats": {
-    "total_companies": 4182,
+    "total_companies": 4185,
     "total_roles": 115,
     "regions": {
-      "India": 5865,
+      "India": 5872,
       "Philippines": 1899,
-      "Remote": 1114,
+      "Remote": 1115,
       "Unknown": 135
     },
     "sources": {
-      "Other": 7031,
-      "Greenhouse": 444,
+      "Other": 7036,
+      "Greenhouse": 445,
       "Workday": 383,
-      "LinkedIn": 378,
+      "LinkedIn": 380,
       "Ashby": 272,
       "iCIMS": 114,
       "Breezy": 101,
@@ -31,10 +31,100 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-09-04"
+      "latest": "2026-09-05"
     }
   },
   "jobs": [
+    {
+      "id": "c31a82930fc9",
+      "title": "Senior Platform Engineer | Michele Riva - LinkedIn",
+      "company": "Michele Riva - LinkedIn",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/micheleriva95_senior-platform-engineer-activity-7501688401407029248-WtrY",
+      "source": "LinkedIn",
+      "description": "Senior Platform Engineer ... Senior Software Engineer | Founding AI Engineer | TypeScript | Node.js | Go | AWS | React.",
+      "date": "2026-09-05",
+      "timestamp": "2026-09-05T06:39:18+00:00",
+      "fetched_at": "2026-09-05T07:52:21.448960+00:00"
+    },
+    {
+      "id": "955beda4080b",
+      "title": "Data Engineer I (Full-Time) - United States - Cisco Careers",
+      "company": "Time) - United States - Cisco Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2024459EXTERNALENGLOBAL/Data-Engineer-I-Full-Time-United-States",
+      "source": "Other",
+      "description": "Data Engineer I (Full-Time) - United States. Share. Share via ... Senior Software Engineer (Remote). Available in 56 locationsAvailable in ...",
+      "date": "2026-09-05",
+      "timestamp": "2026-09-05T04:47:29+00:00",
+      "fetched_at": "2026-09-05T07:52:21.449233+00:00"
+    },
+    {
+      "id": "da0bcc0e897b",
+      "title": "Job Application for Associate Software Engineer at Garner Health - Greenhouse",
+      "company": "Garnerhealth",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/garnerhealth/jobs/6174210004",
+      "source": "Greenhouse",
+      "description": "Associate Software Engineer . New York City, New York. Apply. What you'll be part of. Garner is on a mission to transform the U.S. healthcare system ...",
+      "date": "2026-09-05",
+      "timestamp": "2026-09-05T02:39:25+00:00",
+      "fetched_at": "2026-09-05T07:52:21.449372+00:00"
+    },
+    {
+      "id": "e0c7689b736b",
+      "title": "Junior IT Infrastructure & AI Engineer in Mexico City, Distrito Federal, 01210 - HPE Careers",
+      "company": "HPE Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.hpe.com/us/en/job/1213032/Junior-IT-Infrastructure-AI-Engineer",
+      "source": "Other",
+      "description": "Apply for Junior IT Infrastructure & AI Engineer job with HPE in Mexico City, Distrito Federal, 01210. Professional Services & Consulting at HPE.",
+      "date": "2026-09-05",
+      "timestamp": "2026-09-05T02:33:53+00:00",
+      "fetched_at": "2026-09-05T07:52:21.449551+00:00"
+    },
+    {
+      "id": "5800e8a2a5aa",
+      "title": "John Crickett's Post - LinkedIn",
+      "company": "Unknown Company",
+      "role": "John Crickett's Post - LinkedIn",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/johncrickett_finding-a-job-as-a-software-engineer-is-brutal-activity-7501662937984458752-T9BI",
+      "source": "LinkedIn",
+      "description": "Wissam Sliman. AI / ML Engineer | Agentic LLM Systems (LangGraph, RAG) ... Brian Jenney. Senior Software Engineer | AI Training & Implementation ...",
+      "date": "2026-09-05",
+      "timestamp": "2026-09-05T00:11:38+00:00",
+      "fetched_at": "2026-09-05T07:52:21.450145+00:00"
+    },
+    {
+      "id": "f4d7ee71b0f7",
+      "title": "Software Engineer /Developer - Madison, Wisconsin, United States",
+      "company": "Madison, Wisconsin, United States",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.wisc.edu/jobs/software-engineer-developer-madison-wisconsin-united-states-eaf9daa6-6ed6-4174-83d9-c96c1588746c",
+      "source": "Other",
+      "description": "Software Engineer /Developer \u00b7 Prepares program documentation and training requirements \u00b7 Maintains and troubleshoots applications, systems, or websites.",
+      "date": "2026-09-04",
+      "timestamp": "2026-09-04T23:57:32+00:00",
+      "fetched_at": "2026-09-05T07:52:21.450556+00:00"
+    },
     {
       "id": "f8e3130d6e06",
       "title": "Job Application for Data Engineer at Baselayer - Greenhouse",
@@ -64,6 +154,21 @@
       "date": "2026-09-04",
       "timestamp": "2026-09-04T22:19:48+00:00",
       "fetched_at": "2026-09-05T01:29:35.283787+00:00"
+    },
+    {
+      "id": "d8d34a9c6d67",
+      "title": "Senior Data Engineer in Ireland - Sligo | Quality at Abbott Canvas",
+      "company": "Abbott Canvas",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.jobs.abbott/us/en/job/31158585/Senior-Data-Engineer",
+      "source": "Other",
+      "description": "Senior Data Engineer \u00b7 Build data foundations that support advanced analytics, machine learning, AI, automation, and self-service reporting solutions.",
+      "date": "2026-09-04",
+      "timestamp": "2026-09-04T21:56:05+00:00",
+      "fetched_at": "2026-09-05T07:52:21.451110+00:00"
     },
     {
       "id": "beb9b177f29e",
@@ -124,6 +229,21 @@
       "date": "2026-09-04",
       "timestamp": "2026-09-04T21:27:57+00:00",
       "fetched_at": "2026-09-05T01:29:35.284721+00:00"
+    },
+    {
+      "id": "3a67a1fb5141",
+      "title": "Data Engineer - PESMOA - HigherEdJobs",
+      "company": "PESMOA - HigherEdJobs",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.higheredjobs.com/admin/details.cfm?JobCode=179548121",
+      "source": "Other",
+      "description": "Join the HJF Team! HJF is seeking a Data Engineer who will be architecting and maintaining the Office of Medical Education's enterprise data ...",
+      "date": "2026-09-04",
+      "timestamp": "2026-09-04T20:37:08+00:00",
+      "fetched_at": "2026-09-05T07:52:21.452433+00:00"
     },
     {
       "id": "73eac579a0ee",
