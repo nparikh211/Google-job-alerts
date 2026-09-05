@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-09-05T14:01:41.247683+00:00",
-  "total_jobs": 9001,
+  "last_updated": "2026-09-05T17:44:22.206860+00:00",
+  "total_jobs": 9007,
   "stats": {
     "total_companies": 4195,
     "total_roles": 115,
     "regions": {
-      "India": 5885,
-      "Philippines": 1901,
+      "India": 5890,
+      "Philippines": 1902,
       "Remote": 1117,
       "Unknown": 135
     },
     "sources": {
-      "Other": 7048,
-      "Greenhouse": 446,
+      "Other": 7053,
+      "Greenhouse": 447,
       "Workday": 384,
       "LinkedIn": 381,
       "Ashby": 272,
@@ -35,6 +35,66 @@
     }
   },
   "jobs": [
+    {
+      "id": "989ab3d3355c",
+      "title": "Job Application for Associate, Software Engineer at Vestwell - Greenhouse",
+      "company": "Vestwell",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/vestwell/jobs/7983915003",
+      "source": "Greenhouse",
+      "description": "Associate, Software Engineer . Austin, TX. Apply. Vestwell is the financial technology company powering the new savings economy. Our platform ...",
+      "date": "2026-09-05",
+      "timestamp": "2026-09-05T16:23:36+00:00",
+      "fetched_at": "2026-09-05T17:44:21.790144+00:00"
+    },
+    {
+      "id": "6a39c5e73bf9",
+      "title": "Lead Software Engineer - AI/ML Engineering, GPU ML Serving - JPMorgan Chase",
+      "company": "Lead Software Engineer",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788451?utm_source=Getro+Community+job+board&utm_medium=getro.com&gh_src=Getro+Community+job+board",
+      "source": "Other",
+      "description": "We have an exciting and rewarding opportunity for you to take your software engineering career to the next level. As a Software Engineer III at ...",
+      "date": "2026-09-05",
+      "timestamp": "2026-09-05T15:53:52+00:00",
+      "fetched_at": "2026-09-05T17:44:21.790883+00:00"
+    },
+    {
+      "id": "ab34d0e3df5f",
+      "title": "Software Engineer , Host Assurance - OpenAI",
+      "company": "OpenAI",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://openai.com/careers/software-engineer-host-assurance-san-francisco/",
+      "source": "Other",
+      "description": "Software Engineer , Host Assurance ... Security is foundational to OpenAI's mission to ensure that artificial general intelligence benefits all of ...",
+      "date": "2026-09-05",
+      "timestamp": "2026-09-05T14:38:50+00:00",
+      "fetched_at": "2026-09-05T17:44:21.791146+00:00"
+    },
+    {
+      "id": "1ad00ffeda1f",
+      "title": "Junior AI/ ML Engineer - Auburn Hills - Careers at Stellantis",
+      "company": "Stellantis",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.stellantis.com/job/23814220/junior-ai-ml-engineer-auburn-hills-mi/",
+      "source": "Other",
+      "description": "Discover Junior AI/ ML Engineer and other Engineering jobs at Stellantis in Auburn Hills, MI, US, and apply online today!",
+      "date": "2026-09-05",
+      "timestamp": "2026-09-05T14:07:39+00:00",
+      "fetched_at": "2026-09-05T17:44:21.791261+00:00"
+    },
     {
       "id": "bcb408132889",
       "title": "Data Engineer - II (FTC), DAVENGERS(Data Avengers) - Job ID: 10525238 | Amazon.jobs",
@@ -261,6 +321,21 @@
       "fetched_at": "2026-09-05T07:52:21.449233+00:00"
     },
     {
+      "id": "da6f57f92f88",
+      "title": "Job: Software Engineer 1 - PowerSchool",
+      "company": "PowerSchool",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www1.powerschool.com/company/careers/job/?referencenumber=2026-52950&location=IN-TN-Chennai",
+      "source": "Other",
+      "description": "Software Engineer 1. Research and Development. 2026-52950. Chennai, India. Apply View All Jobs View All Chennai Jobs. Overview. We are looking for a ...",
+      "date": "2026-09-05",
+      "timestamp": "2026-09-05T04:40:51+00:00",
+      "fetched_at": "2026-09-05T17:44:21.793150+00:00"
+    },
+    {
       "id": "da0bcc0e897b",
       "title": "Job Application for Associate Software Engineer at Garner Health - Greenhouse",
       "company": "Garnerhealth",
@@ -334,6 +409,21 @@
       "date": "2026-09-05",
       "timestamp": "2026-09-05T00:11:38+00:00",
       "fetched_at": "2026-09-05T07:52:21.450145+00:00"
+    },
+    {
+      "id": "ad0bfd1e87dd",
+      "title": "Noorain, Associate Software Engineer , emphasizes learning, growth and early career development",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.finastra.com/careers/team-stories/noorain-associate-software-engineer-emphasizes-learning-growth-and-early",
+      "source": "Other",
+      "description": "Noorain Fatima N B, Associate Software Engineer and FinStarter at Finastra, emphasizes the value of continuous learning and development for those ...",
+      "date": "2026-09-05",
+      "timestamp": "2026-09-05T00:04:18+00:00",
+      "fetched_at": "2026-09-05T17:44:22.177823+00:00"
     },
     {
       "id": "f4d7ee71b0f7",
