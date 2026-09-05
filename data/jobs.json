@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-09-04T21:52:49.786036+00:00",
-  "total_jobs": 8964,
+  "last_updated": "2026-09-05T01:29:35.571508+00:00",
+  "total_jobs": 8976,
   "stats": {
-    "total_companies": 4177,
+    "total_companies": 4182,
     "total_roles": 115,
     "regions": {
-      "India": 5858,
-      "Philippines": 1896,
-      "Remote": 1112,
+      "India": 5865,
+      "Philippines": 1899,
+      "Remote": 1114,
       "Unknown": 135
     },
     "sources": {
-      "Other": 7023,
-      "Greenhouse": 443,
+      "Other": 7031,
+      "Greenhouse": 444,
       "Workday": 383,
       "LinkedIn": 378,
-      "Ashby": 271,
+      "Ashby": 272,
       "iCIMS": 114,
-      "Breezy": 100,
+      "Breezy": 101,
       "Workable": 63,
-      "Lever": 61,
+      "Lever": 62,
       "SmartRecruiters": 58,
       "Indeed": 30,
       "BrassRing": 11,
@@ -36,6 +36,36 @@
   },
   "jobs": [
     {
+      "id": "f8e3130d6e06",
+      "title": "Job Application for Data Engineer at Baselayer - Greenhouse",
+      "company": "Baselayer",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/baselayer/jobs/5415971008",
+      "source": "Greenhouse",
+      "description": "Data Engineer . San Francisco, California. Apply. ABOUT BASELAYER. Every business in America needs a bank account to exist. The system that decides ...",
+      "date": "2026-09-04",
+      "timestamp": "2026-09-04T23:14:31+00:00",
+      "fetched_at": "2026-09-05T01:29:35.283058+00:00"
+    },
+    {
+      "id": "d94de334d369",
+      "title": "Staff Machine Learning Engineer at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/bengaluru/staff-machine-learning-engineer/47263/100185745552",
+      "source": "Other",
+      "description": "Staff Machine Learning Engineer . Bangalore, Karn\u0101taka, India Product Engineering Ref ID: JR-021846. Apply Save Job. Current Employees, apply here. Our ...",
+      "date": "2026-09-04",
+      "timestamp": "2026-09-04T22:19:48+00:00",
+      "fetched_at": "2026-09-05T01:29:35.283787+00:00"
+    },
+    {
       "id": "beb9b177f29e",
       "title": "[OC] What an NVIDIA Software Engineer offer over the years looks like now, after adjusting ...",
       "company": "Unknown Company",
@@ -49,6 +79,66 @@
       "date": "2026-09-04",
       "timestamp": "2026-09-04T21:39:17+00:00",
       "fetched_at": "2026-09-04T21:52:49.746664+00:00"
+    },
+    {
+      "id": "c30f453068b3",
+      "title": "Internship, Vehicle Software Engineer , Diagnostic User Interface (Spring 2027) - Tesla",
+      "company": "Tesla",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.tesla.com/careers/search/job/internship-vehicle-software-engineer-diagnostic-user-interface-winter-spring-2027-281921",
+      "source": "Other",
+      "description": "Apply for the Internship, Vehicle Software Engineer , Diagnostic User Interface (Winter/Spring 2027) position in PALO ALTO, California.",
+      "date": "2026-09-04",
+      "timestamp": "2026-09-04T21:36:26+00:00",
+      "fetched_at": "2026-09-05T01:29:35.284564+00:00"
+    },
+    {
+      "id": "44ca9d676b39",
+      "title": "Lead Software Engineer in Remote, Kentucky | Technology and Digital Analytics at Humana",
+      "company": "Humana",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.humana.com/us/en/job/R-427497/Lead-Software-Engineer",
+      "source": "Other",
+      "description": "Apply for Lead Software Engineer job with Humana in Remote, Kentucky. Technology and Digital Analytics at Humana.",
+      "date": "2026-09-04",
+      "timestamp": "2026-09-04T21:28:51+00:00",
+      "fetched_at": "2026-09-05T01:29:35.536579+00:00"
+    },
+    {
+      "id": "d2c93a6e6fcb",
+      "title": "Senior Technical Architect ( devops engineer )_3245 in Pune, Maharashtra, India, 411014",
+      "company": "Unknown Company",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.allianz.com/us/en/job/104849/Senior-Technical-Architect-devops-engineer-3245",
+      "source": "Other",
+      "description": "Apply for Senior Technical Architect ( devops engineer )_3245 job with Allianz in Pune, Maharashtra, India, 411014.",
+      "date": "2026-09-04",
+      "timestamp": "2026-09-04T21:27:57+00:00",
+      "fetched_at": "2026-09-05T01:29:35.284721+00:00"
+    },
+    {
+      "id": "73eac579a0ee",
+      "title": "Senior Software Engineer - FULLY REMOTE - (App deployment & OS deployment software)",
+      "company": "Aiden Technologies Inc",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://aiden-technologies-inc.breezy.hr/p/34de3980d848-senior-software-engineer-fully-remote--app-deployment-os-deployment-software/apply",
+      "source": "Breezy",
+      "description": "Senior Software Engineer - FULLY REMOTE - (App deployment & OS deployment software) About the role Build and evolve AidenBot, the core automation ...",
+      "date": "2026-09-04",
+      "timestamp": "2026-09-04T20:16:01+00:00",
+      "fetched_at": "2026-09-05T01:29:35.285312+00:00"
     },
     {
       "id": "f4e1b4dfa449",
@@ -81,6 +171,21 @@
       "fetched_at": "2026-09-04T21:52:49.533822+00:00"
     },
     {
+      "id": "b8485ffcd3b3",
+      "title": "Staff Site Reliability Engineer (SRE), Austin, Texas plus 1 location | General Motors Careers",
+      "company": "General Motors Careers",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://search-careers.gm.com/en/jobs/jr-202619599/staff-site-reliability-engineer-sre/",
+      "source": "Other",
+      "description": "Staff Site Reliability Engineer (SRE) ... Significant experience as an SRE, Production Engineer, or Infrastructure Software Engineer operating large- ...",
+      "date": "2026-09-04",
+      "timestamp": "2026-09-04T19:48:18+00:00",
+      "fetched_at": "2026-09-05T01:29:35.285714+00:00"
+    },
+    {
       "id": "20efd9a0449c",
       "title": "Frontend Software Engineer - Process Management - Corporater - Teamtailor",
       "company": "Process Management - Corporater - Teamtailor",
@@ -111,6 +216,36 @@
       "fetched_at": "2026-09-04T21:52:49.534246+00:00"
     },
     {
+      "id": "c027707f3255",
+      "title": "Software Engineer , Developer Experience (Full-Stack) @ Superhuman - Jobs",
+      "company": "Superhuman",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/superhuman%20platform%20inc/57a60e3c-a675-4b04-a9d2-574932e8f83f",
+      "source": "Ashby",
+      "description": "... Software Engineer to join our Developer Experience team and help build the next generation of engineering velocity inside Superhuman Docs. The ...",
+      "date": "2026-09-04",
+      "timestamp": "2026-09-04T18:49:25+00:00",
+      "fetched_at": "2026-09-05T01:29:35.286254+00:00"
+    },
+    {
+      "id": "83438b6d3930",
+      "title": "VGS - Sr. Software Engineer - Lever",
+      "company": "Verygoodsecurity",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.lever.co/verygoodsecurity/8ea0979b-8ebd-45b6-9e88-7f1f87700d65",
+      "source": "Lever",
+      "description": "As a Sr. Software Engineer , Payments Quality, you will serve as a key technical practitioner and quality champion on our Payments Engineering team.",
+      "date": "2026-09-04",
+      "timestamp": "2026-09-04T18:45:45+00:00",
+      "fetched_at": "2026-09-05T01:29:35.537693+00:00"
+    },
+    {
       "id": "fd7cf9512067",
       "title": "Job Application for Software Engineer , I - Data Engineering at Torc Robotics - Greenhouse",
       "company": "Torcrobotics",
@@ -124,6 +259,21 @@
       "date": "2026-09-04",
       "timestamp": "2026-09-04T18:44:31+00:00",
       "fetched_at": "2026-09-04T21:52:49.534339+00:00"
+    },
+    {
+      "id": "b1054060ae9d",
+      "title": "Software Engineer III, CCAP | Shippo - Recruiting",
+      "company": "Shippo - Recruiting",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/shippo/jobs/8535abb4-c8fd-4c58-8916-0fcbdff7159d",
+      "source": "Other",
+      "description": "Software Engineer III, CCAP. About Shippo. At Shippo, our vision is bold and clear: we are the shipping layer of the internet ...",
+      "date": "2026-09-04",
+      "timestamp": "2026-09-04T18:11:40+00:00",
+      "fetched_at": "2026-09-05T01:29:35.286461+00:00"
     },
     {
       "id": "a2dde6e6339e",
@@ -156,6 +306,21 @@
       "fetched_at": "2026-09-04T18:35:19.361324+00:00"
     },
     {
+      "id": "630cfb1e43ea",
+      "title": "Backend Engineer - Tibber",
+      "company": "Tibber",
+      "role": "Backend Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.tibber.com/jobs/8318649-backend-engineer",
+      "source": "Other",
+      "description": "Backend Engineer . Enable ... Open jobs. Principal Engineer. House of Product & Engineering \u00b7 Berlin, Stockholm \u00b7 Hybrid \u00b7 Senior AI Platform Engineer .",
+      "date": "2026-09-04",
+      "timestamp": "2026-09-04T17:56:26+00:00",
+      "fetched_at": "2026-09-05T01:29:35.537990+00:00"
+    },
+    {
       "id": "c85efba38125",
       "title": "Software Engineer - San Jose, California, United States - Zoom Careers",
       "company": "San Jose, California, United States - Zoom Careers",
@@ -169,6 +334,21 @@
       "date": "2026-09-04",
       "timestamp": "2026-09-04T17:54:26+00:00",
       "fetched_at": "2026-09-04T21:52:49.535128+00:00"
+    },
+    {
+      "id": "55036229ca52",
+      "title": "Senior Software Engineer , Data Engineering (Short Term) - Roblox Careers",
+      "company": "Roblox Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.roblox.com/jobs/8174475",
+      "source": "Other",
+      "description": "Senior Software Engineer , Data Engineering (Short Term) ... As a Senior Data Engineer , you will work to define the data ontology for all of ...",
+      "date": "2026-09-04",
+      "timestamp": "2026-09-04T17:51:09+00:00",
+      "fetched_at": "2026-09-05T01:29:35.538336+00:00"
     },
     {
       "id": "0d90fccd970c",
