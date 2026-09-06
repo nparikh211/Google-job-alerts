@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-09-06T08:08:50.700944+00:00",
-  "total_jobs": 9056,
+  "last_updated": "2026-09-06T14:26:50.379329+00:00",
+  "total_jobs": 9062,
   "stats": {
-    "total_companies": 4216,
+    "total_companies": 4219,
     "total_roles": 116,
     "regions": {
-      "India": 5924,
+      "India": 5929,
       "Philippines": 1913,
-      "Remote": 1121,
+      "Remote": 1122,
       "Unknown": 135
     },
     "sources": {
-      "Other": 7090,
+      "Other": 7095,
       "Greenhouse": 448,
       "Workday": 387,
-      "LinkedIn": 385,
+      "LinkedIn": 386,
       "Ashby": 273,
       "iCIMS": 117,
       "Breezy": 102,
@@ -36,6 +36,81 @@
   },
   "jobs": [
     {
+      "id": "adcd9d846394",
+      "title": "Linux Internals Software Engineer (Cortex) at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/linux-internals-software-engineer-cortex/47263/100248143808",
+      "source": "Other",
+      "description": "Linux Internals Software Engineer (Cortex). Tel Aviv-Yafo, Israel Product Engineering Ref ID: JR-022156. Apply Save Job.",
+      "date": "2026-09-06",
+      "timestamp": "2026-09-06T11:01:50+00:00",
+      "fetched_at": "2026-09-06T14:26:50.245621+00:00"
+    },
+    {
+      "id": "cf99649706a3",
+      "title": "Senior Software Engineer at BuildBuddy \u2014 San Angelo Area | LinkedIn Jobs",
+      "company": "BuildBuddy \u2014 San Angelo Area",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/senior-software-engineer-at-buildbuddy-4463768932",
+      "source": "LinkedIn",
+      "description": "Apply for Senior Software Engineer at BuildBuddy in San Angelo Area ... Full Stack Engineer , App Framework & E-Commerce. MrBeast. San Angelo Area ...",
+      "date": "2026-09-06",
+      "timestamp": "2026-09-06T10:26:19+00:00",
+      "fetched_at": "2026-09-06T14:26:50.245783+00:00"
+    },
+    {
+      "id": "e823c057bd1f",
+      "title": "Software Engineer III (Java/FullStack/React) - JPMC Candidate Experience page Careers",
+      "company": "JPMC Candidate Experience page Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210785520",
+      "source": "Other",
+      "description": "We have an exciting and rewarding opportunity for you to take your software engineering career to the next level. As a Software Engineer III ...",
+      "date": "2026-09-06",
+      "timestamp": "2026-09-06T08:52:12+00:00",
+      "fetched_at": "2026-09-06T14:26:50.246253+00:00"
+    },
+    {
+      "id": "ee2c1b5e17fb",
+      "title": "AI / ML Engineer at Nextera Robotics | DIDGE.ai - Y Combinator",
+      "company": "Nextera Robotics",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.ycombinator.com/companies/nextera-robotics-didgeai/jobs/U3xCWig-ai-ml-engineer",
+      "source": "Other",
+      "description": "Machine Learning Engineer \u00b7 Luminal \u00b7 Cloud Inference Engineer ... Founding AI Engineer (Healthcare) \u00b7 Kalpa Labs \u00b7 Founding ML ...",
+      "date": "2026-09-06",
+      "timestamp": "2026-09-06T07:45:26+00:00",
+      "fetched_at": "2026-09-06T14:26:50.246352+00:00"
+    },
+    {
+      "id": "e717bcced7cb",
+      "title": "Job opportunity: Senior Frontend Engineer - Coralogix",
+      "company": "Coralogix",
+      "role": "Frontend Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://coralogix.com/careers/co/remote-europe/D3.270/senior-frontend-engineer/all/",
+      "source": "Other",
+      "description": "Senior Frontend Engineer . Remote, Europe \u00b7 Full-time \u00b7 Senior. About The Position. Coralogix is a modern ...",
+      "date": "2026-09-06",
+      "timestamp": "2026-09-06T07:27:33+00:00",
+      "fetched_at": "2026-09-06T14:26:50.246440+00:00"
+    },
+    {
       "id": "4d0799c6b1b1",
       "title": "Senior Software Engineer at Expert Intelligence",
       "company": "Expert Intelligence",
@@ -49,6 +124,21 @@
       "date": "2026-09-06",
       "timestamp": "2026-09-06T06:06:29+00:00",
       "fetched_at": "2026-09-06T08:08:50.580366+00:00"
+    },
+    {
+      "id": "e640dcda3a70",
+      "title": "Full-Stack AI Engineer in San Juan, 00918 | Engineering & QA at HPE - HPE Careers",
+      "company": "HPE",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.hpe.com/us/en/job/1212272/Full-Stack-AI-Engineer",
+      "source": "Other",
+      "description": "We're seeking a Full-Stack Engineer ... Join our team as a Senior AI and Machine Learning Engineer , leading initiatives across the Hybrid Cloud ...",
+      "date": "2026-09-06",
+      "timestamp": "2026-09-06T06:03:56+00:00",
+      "fetched_at": "2026-09-06T14:26:50.246590+00:00"
     },
     {
       "id": "9080dc6a83a2",
