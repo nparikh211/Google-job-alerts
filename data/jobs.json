@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-09-06T01:23:51.014954+00:00",
-  "total_jobs": 9036,
+  "last_updated": "2026-09-06T08:08:50.700944+00:00",
+  "total_jobs": 9056,
   "stats": {
-    "total_companies": 4208,
-    "total_roles": 115,
+    "total_companies": 4216,
+    "total_roles": 116,
     "regions": {
-      "India": 5911,
-      "Philippines": 1908,
-      "Remote": 1119,
+      "India": 5924,
+      "Philippines": 1913,
+      "Remote": 1121,
       "Unknown": 135
     },
     "sources": {
-      "Other": 7075,
+      "Other": 7090,
       "Greenhouse": 448,
-      "Workday": 386,
-      "LinkedIn": 382,
+      "Workday": 387,
+      "LinkedIn": 385,
       "Ashby": 273,
       "iCIMS": 117,
-      "Breezy": 101,
+      "Breezy": 102,
       "Workable": 64,
       "Lever": 62,
       "SmartRecruiters": 58,
@@ -31,10 +31,280 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-09-05"
+      "latest": "2026-09-06"
     }
   },
   "jobs": [
+    {
+      "id": "4d0799c6b1b1",
+      "title": "Senior Software Engineer at Expert Intelligence",
+      "company": "Expert Intelligence",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://expert-intelligence.breezy.hr/p/8a05d8325e95-senior-software-engineer",
+      "source": "Breezy",
+      "description": "Senior Software Engineer Employment Type: Full-timeLocation: Remote About Expert Intelligence Expert Intelligence is building the AI decision ...",
+      "date": "2026-09-06",
+      "timestamp": "2026-09-06T06:06:29+00:00",
+      "fetched_at": "2026-09-06T08:08:50.580366+00:00"
+    },
+    {
+      "id": "9080dc6a83a2",
+      "title": "Data engineering fundamentals will keep you from being a poor data engineer who is ... - LinkedIn",
+      "company": "LinkedIn",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/eczachly_data-engineering-fundamentals-will-keep-you-activity-7502214006758113280-tMJo",
+      "source": "LinkedIn",
+      "description": "Data engineering fundamentals will keep you from being a poor data engineer who is obsessed with tools!",
+      "date": "2026-09-06",
+      "timestamp": "2026-09-06T04:33:45+00:00",
+      "fetched_at": "2026-09-06T08:08:50.581913+00:00"
+    },
+    {
+      "id": "aaa0540d9765",
+      "title": "Senior Software Engineer II | Rocket Lab",
+      "company": "Rocket Lab",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://rocketlabcorp.com/careers/positions/senior-software-engineer-ii-chantilly-va-7987628003/",
+      "source": "Other",
+      "description": "YOU'LL BRING THESE QUALIFICATIONS AS SENIOR SOFTWARE ENGINEER II: Bachelor's degree in computer science, computer engineering,; 8+ years of experience ...",
+      "date": "2026-09-06",
+      "timestamp": "2026-09-06T03:23:38+00:00",
+      "fetched_at": "2026-09-06T08:08:50.582342+00:00"
+    },
+    {
+      "id": "677e7e8d42b0",
+      "title": "Full stack engineer (Python & GCP), HYDERABAD, Telang\u0101na | Wells Fargo",
+      "company": "Wells Fargo",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.wellsfargojobs.com/en/jobs/r-572864/full-stack-engineer-python-gcp/",
+      "source": "Other",
+      "description": "Full stack engineer (Python & GCP). HYDERABAD. Technology; Full time; 04 Sep ... Senior Software Engineer - Java Full Stack. Save Saved. HYDERABAD ...",
+      "date": "2026-09-06",
+      "timestamp": "2026-09-06T03:15:43+00:00",
+      "fetched_at": "2026-09-06T08:08:50.582652+00:00"
+    },
+    {
+      "id": "a80d076745b1",
+      "title": "Senior Power Platform Engineer | Careers | Dow Corporate",
+      "company": "Careers | Dow Corporate",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://corporate.dow.com/en-us/careers/jobs/position.R2068093.html",
+      "source": "Other",
+      "description": "Dow has an exciting opportunity for a Senior Power Platform Engineer based in Navi Mumbai, India. ... EHS&S Data Engineer (Senior IT Analyst) Primary ...",
+      "date": "2026-09-06",
+      "timestamp": "2026-09-06T02:50:38+00:00",
+      "fetched_at": "2026-09-06T08:08:50.582921+00:00"
+    },
+    {
+      "id": "c25fc60be3a7",
+      "title": "Senior AI Engineer in Trivandrum, KL, India - Envestnet Careers",
+      "company": "Envestnet Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.envestnet.com/jobs/18046917-senior-ai-engineer",
+      "source": "Other",
+      "description": "Senior AI Engineer \u00b7 Knowledge of RAG, vector databases, LangGraph, or similar AI frameworks. \u00b7 Experience in fintech, wealth management, or regulated ...",
+      "date": "2026-09-06",
+      "timestamp": "2026-09-06T02:28:11+00:00",
+      "fetched_at": "2026-09-06T08:08:50.583215+00:00"
+    },
+    {
+      "id": "e2020d299aa2",
+      "title": "Search Jobs - United States, Software and Services: Cloud and Back-End Infrastructure",
+      "company": "Unknown Company",
+      "role": "Search Jobs - United States, Software and Services: Cloud an",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=cloud-and-back-end-infrastructure-SFTWR-CLD",
+      "source": "Other",
+      "description": "Data Engineer , Apple Ads. Software and ServicesSep 04, 2026 ... Senior Software Engineer , iCloud Foundation. Software and ServicesSep 02 ...",
+      "date": "2026-09-06",
+      "timestamp": "2026-09-06T02:23:02+00:00",
+      "fetched_at": "2026-09-06T08:08:50.584373+00:00"
+    },
+    {
+      "id": "450be2a5e846",
+      "title": "Machine Learning Engineer at CapitalG \u2014 New York, NY | LinkedIn Jobs",
+      "company": "CapitalG \u2014 New York, NY",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-capitalg-4462669654",
+      "source": "LinkedIn",
+      "description": "Software Engineer - Machine Learning. Figma. New York, NY 1 week ago. AI/ ML Engineer . AI/ ML Engineer ... Machine Learning Platform Engineer . Whatnot.",
+      "date": "2026-09-06",
+      "timestamp": "2026-09-06T02:02:51+00:00",
+      "fetched_at": "2026-09-06T08:08:50.584732+00:00"
+    },
+    {
+      "id": "3084676e4dba",
+      "title": "Software Engineer - Recent Graduate - Myworkdayjobs.com",
+      "company": "Paypal",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer---Recent-Graduate_R0137237",
+      "source": "Workday",
+      "description": "Software Engineer - Recent Graduate \u00b7 Implements tasks within the Software Development Lifecycle (SDLC), receiving structure and oversight from more ...",
+      "date": "2026-09-06",
+      "timestamp": "2026-09-06T01:53:39+00:00",
+      "fetched_at": "2026-09-06T08:08:50.662317+00:00"
+    },
+    {
+      "id": "9ed04eaf66a7",
+      "title": "Software Engineer - Alaska Satellite Facility (ASF) - Fairbanks, Alaska, United States - UA Careers",
+      "company": "Alaska Satellite Facility (ASF) - Fairbanks, Alaska, United States - UA Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.alaska.edu/jobs/software-engineer-alaska-satellite-facility-asf-fairbanks-alaska-united-states",
+      "source": "Other",
+      "description": "To thrive in this position, a Software Engineer will utilize their software engineering experience and education to advance project team objectives, ...",
+      "date": "2026-09-06",
+      "timestamp": "2026-09-06T01:49:48+00:00",
+      "fetched_at": "2026-09-06T08:08:50.585356+00:00"
+    },
+    {
+      "id": "ce4f9a5af275",
+      "title": "Mercor hiring Software Engineer , Applied AI in New York, NY | LinkedIn",
+      "company": "LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/software-engineer-applied-ai-at-mercor-4463791245",
+      "source": "LinkedIn",
+      "description": "Software Engineer , Applied AI. Mercor New York, NY. 33 minutes ago Be ... Applied AI Engineer , Agents & Automations. Cohere. New York, NY 3 days ...",
+      "date": "2026-09-06",
+      "timestamp": "2026-09-06T01:45:17+00:00",
+      "fetched_at": "2026-09-06T08:08:50.662841+00:00"
+    },
+    {
+      "id": "16a3c58d53a5",
+      "title": "Lead Software Engineer - Caterpillar | Built In Chicago",
+      "company": "Caterpillar | Built In Chicago",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.builtinchicago.org/job/lead-software-engineer/11030804",
+      "source": "Other",
+      "description": "Caterpillar is hiring for a Lead Software Engineer in Chicago, IL, USA. Find more details about the job and how to apply at Built In Chicago.",
+      "date": "2026-09-06",
+      "timestamp": "2026-09-06T01:43:38+00:00",
+      "fetched_at": "2026-09-06T08:08:50.585654+00:00"
+    },
+    {
+      "id": "192dd03921b1",
+      "title": "Mid-Level Software Engineer -Full Stack (Hybrid) in Multiple Locations - State Farm Careers",
+      "company": "Mid",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.statefarm.com/event-14739/jobs/46075",
+      "source": "Other",
+      "description": "Mid-Level Software Engineer -Full Stack (Hybrid). JOB_DESCRIPTION.SHARE ... Full-stack engineer (frontend and back-end experience)\u200b\u200b; AWS Native ...",
+      "date": "2026-09-06",
+      "timestamp": "2026-09-06T01:39:15+00:00",
+      "fetched_at": "2026-09-06T08:08:50.585892+00:00"
+    },
+    {
+      "id": "1d5646ed480d",
+      "title": "Senior Data Engineer IS - Hybrid - Providence.jobs",
+      "company": "Hybrid - Providence.jobs",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://providence.jobs/washington-usa/senior-data-engineer-is-hybrid/6FA34B3C070B4342B17BEACF32E1FECF/job/",
+      "source": "Other",
+      "description": "Bachelor's degree in computer engineering, Computer Science, Mathematics, Engineering. 5 or more years of experience as a Senior Data Engineer .",
+      "date": "2026-09-06",
+      "timestamp": "2026-09-06T01:38:25+00:00",
+      "fetched_at": "2026-09-06T08:08:50.586262+00:00"
+    },
+    {
+      "id": "f37369d0862f",
+      "title": "Cloud Engineer in Chantilly, Virginia, United States - SAIC Careers",
+      "company": "SAIC Careers",
+      "role": "Cloud Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.saic.com/jobs/18205849-cloud-engineer",
+      "source": "Other",
+      "description": "As a Senior Cloud Engineer , you will advise Government IT teams on the design and build of single- or multi-cloud computing architecture solutions ...",
+      "date": "2026-09-06",
+      "timestamp": "2026-09-06T01:14:09+00:00",
+      "fetched_at": "2026-09-06T08:08:50.586462+00:00"
+    },
+    {
+      "id": "85c53ca034f2",
+      "title": "Staff Full-Stack Product Software Engineer - Toronto, Ontario, Canada - Equinix Careers",
+      "company": "Staff Full",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.equinix.com/jobs/staff-full-stack-product-software-engineer-toronto-ontario-canada",
+      "source": "Other",
+      "description": "Equinix is seeking a Staff Software Engineer to join the CIM team within the Digital and Innovation organization. This organization is responsible for ...",
+      "date": "2026-09-06",
+      "timestamp": "2026-09-06T00:59:39+00:00",
+      "fetched_at": "2026-09-06T08:08:50.586743+00:00"
+    },
+    {
+      "id": "5d023f32d471",
+      "title": "Full-Stack Engineer , Warsaw | Box",
+      "company": "Full",
+      "role": "Stack Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.box.com/en/jobs/8163987/full-stack-engineer/",
+      "source": "Other",
+      "description": "Full-Stack Engineer . Warsaw ... Senior Software Engineer , Storage Platform. Save Saved. Warsaw, Poland; Engineering. Senior Frontend Engineer , Launchpad.",
+      "date": "2026-09-06",
+      "timestamp": "2026-09-06T00:37:42+00:00",
+      "fetched_at": "2026-09-06T08:08:50.663826+00:00"
+    },
+    {
+      "id": "73ca454b4517",
+      "title": "Platform Engineer II Job Details | Aflac, Incorporated",
+      "company": "Aflac, Incorporated",
+      "role": "Platform Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.aflac.com/job/Platform-Engineer-II-GA-31999/1426852100/",
+      "source": "Other",
+      "description": "Opportunity: Platform Engineer II. Salary Range: $78,000 - $115,000. Division: Digital Services. Worker Designation \u2013 This role is a remote role.",
+      "date": "2026-09-05",
+      "timestamp": "2026-09-05T23:42:47+00:00",
+      "fetched_at": "2026-09-06T08:08:50.586948+00:00"
+    },
     {
       "id": "38de9de24528",
       "title": "Principal Cloud Engineer - 65911 - MANTECH Careers",
@@ -51,6 +321,21 @@
       "fetched_at": "2026-09-06T01:23:50.855457+00:00"
     },
     {
+      "id": "d0696ec3fb81",
+      "title": "Lead AI Engineer , Finance Digital Transformation - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200679654-0836/lead-ai-engineer-finance-digital-transformation?team=CORSV",
+      "source": "Other",
+      "description": "As Lead AI Engineer , you'll architect and deliver AI-powered solutions that transform how Finance operates globally\u2014from automating complex workflows ...",
+      "date": "2026-09-05",
+      "timestamp": "2026-09-05T22:02:52+00:00",
+      "fetched_at": "2026-09-06T08:08:50.664357+00:00"
+    },
+    {
       "id": "623d03ba9797",
       "title": "Software Engineer : Internal Automation @ Rogo - Jobs",
       "company": "Rogo",
@@ -64,6 +349,21 @@
       "date": "2026-09-05",
       "timestamp": "2026-09-05T22:01:47+00:00",
       "fetched_at": "2026-09-06T01:23:50.855617+00:00"
+    },
+    {
+      "id": "40afd894f106",
+      "title": "How To Boost Your Productivity As An AI Engineer - YouTube",
+      "company": "YouTube",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.youtube.com/watch?v=bMXcjZxGMDQ",
+      "source": "Other",
+      "description": "... ai engineer ai for programmers ai developer ai engineer ai software engineer claude code ai artificial intelligence software engineering software ...",
+      "date": "2026-09-05",
+      "timestamp": "2026-09-05T21:50:37+00:00",
+      "fetched_at": "2026-09-06T08:08:50.664580+00:00"
     },
     {
       "id": "45609ada24c6",
