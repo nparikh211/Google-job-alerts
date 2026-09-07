@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-09-06T21:46:37.070697+00:00",
-  "total_jobs": 9082,
+  "last_updated": "2026-09-07T01:22:28.994768+00:00",
+  "total_jobs": 9091,
   "stats": {
-    "total_companies": 4228,
+    "total_companies": 4231,
     "total_roles": 116,
     "regions": {
-      "India": 5942,
-      "Philippines": 1919,
+      "India": 5948,
+      "Philippines": 1922,
       "Remote": 1123,
       "Unknown": 135
     },
     "sources": {
-      "Other": 7112,
-      "Greenhouse": 448,
+      "Other": 7119,
+      "Greenhouse": 449,
       "Workday": 388,
       "LinkedIn": 387,
-      "Ashby": 273,
+      "Ashby": 274,
       "iCIMS": 117,
       "Breezy": 102,
       "Workable": 64,
@@ -31,10 +31,85 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-09-06"
+      "latest": "2026-09-07"
     }
   },
   "jobs": [
+    {
+      "id": "d983d3c62d69",
+      "title": "Applied AI Engineer , Codex | Tokyo - OpenAI",
+      "company": "Tokyo - OpenAI",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://openai.com/careers/applied-ai-engineer-codex-or-tokyo-tokyo-japan/",
+      "source": "Other",
+      "description": "As an Applied AI Engineer focused on Codex, you will partner directly with leading engineering organizations to design, build, and deploy AI systems ...",
+      "date": "2026-09-07",
+      "timestamp": "2026-09-07T00:38:33+00:00",
+      "fetched_at": "2026-09-07T01:22:28.953314+00:00"
+    },
+    {
+      "id": "5024f1dbfc11",
+      "title": "Can you still get hired as a software engineer if you choose not to keep your LinkedIn updated?",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/cscareerquestions/comments/1w8wmtw/can_you_still_get_hired_as_a_software_engineer_if/",
+      "source": "Other",
+      "description": "Can you still get hired as a software engineer if you choose not to keep your LinkedIn updated? Experienced. I choose not to keep it fully updated ...",
+      "date": "2026-09-06",
+      "timestamp": "2026-09-06T23:23:13+00:00",
+      "fetched_at": "2026-09-07T01:22:28.890499+00:00"
+    },
+    {
+      "id": "efd5fb528ff7",
+      "title": "Software Engineer \u2013 Enterprise Claims Build Automation & Release Engineering (Gradle, Maven)",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.statefarm.com/event-18868/jobs/44362",
+      "source": "Other",
+      "description": "IWU Fall 2024 STEM Night is hiring a Software Engineer \u2013 Enterprise Claims Build Automation & Release Engineering (Gradle, Maven) in Multiple ...",
+      "date": "2026-09-06",
+      "timestamp": "2026-09-06T21:15:38+00:00",
+      "fetched_at": "2026-09-07T01:22:28.890702+00:00"
+    },
+    {
+      "id": "358e62a7b7b2",
+      "title": "Senior Backend Engineer (IMMEDIATE JOINER) @ Aries.com - Jobs",
+      "company": "Aries",
+      "role": "Backend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/aries/7352736d-9ea8-4d9b-9b2b-9f719cfce70d",
+      "source": "Ashby",
+      "description": "... Backend Engineer , you will be responsible for building and scaling the backend infrastructure that powers our trading platforms and developer ...",
+      "date": "2026-09-06",
+      "timestamp": "2026-09-06T20:58:32+00:00",
+      "fetched_at": "2026-09-07T01:22:28.890826+00:00"
+    },
+    {
+      "id": "657b5ad265a7",
+      "title": "Software Engineer | Smiths Detection",
+      "company": "Smiths Detection",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.smithsdetection.com/careers/job-search-results/software-engineer-744000147692929/",
+      "source": "Other",
+      "description": "Software Engineer . Software Engineer . Share. Share to X \u00b7 Share to LinkedIn \u00b7 Share this page. Job Detail. Location: Bengaluru, KA, India. Ref: ...",
+      "date": "2026-09-06",
+      "timestamp": "2026-09-06T19:35:26+00:00",
+      "fetched_at": "2026-09-07T01:22:28.953979+00:00"
+    },
     {
       "id": "ebfc8625fc8c",
       "title": "Senior Software Engineer , Cloud Spanner Graph Platform \u2014 Google Careers",
@@ -49,6 +124,21 @@
       "date": "2026-09-06",
       "timestamp": "2026-09-06T18:18:05+00:00",
       "fetched_at": "2026-09-06T21:46:37.030644+00:00"
+    },
+    {
+      "id": "45a2384a2130",
+      "title": "Lead Data Engineer San Francisco, California - Harnham",
+      "company": "Harnham",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-lead-data-engineer-san-francisco-california",
+      "source": "Other",
+      "description": "DevOps, Software Engineer & Cloud. Data Science Machine ... Lead Machine Learning Engineer | Machine Learning Engineering | Platform Engineer ...",
+      "date": "2026-09-06",
+      "timestamp": "2026-09-06T18:11:28+00:00",
+      "fetched_at": "2026-09-07T01:22:28.891347+00:00"
     },
     {
       "id": "a1fe0d9491d9",
@@ -94,6 +184,21 @@
       "date": "2026-09-06",
       "timestamp": "2026-09-06T17:02:08+00:00",
       "fetched_at": "2026-09-06T17:47:32.402833+00:00"
+    },
+    {
+      "id": "7e45095bfb8d",
+      "title": "Data Engineer , Selling Partner Insights and Analytics, SPS - Job ID - Amazon Careers",
+      "company": "Job ID - Amazon Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://amazon.jobs/en/jobs/10530756/data-engineer-selling-partner-insights-and-analytics-sps",
+      "source": "Other",
+      "description": "Description. Amazon's Selling Partner Insights and Analytics (SPIA) team is looking for an experienced Data Engineer to help architect and build ...",
+      "date": "2026-09-06",
+      "timestamp": "2026-09-06T16:52:13+00:00",
+      "fetched_at": "2026-09-07T01:22:28.955352+00:00"
     },
     {
       "id": "1b31750ac056",
@@ -156,6 +261,21 @@
       "fetched_at": "2026-09-06T17:47:32.403814+00:00"
     },
     {
+      "id": "1dae875a6812",
+      "title": "Acceleration Center - Data Engineer - Senior Associate in Ciudad de M\u00e9xico, Mexico",
+      "company": "Acceleration Center",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs-ta.pwc.com/global/en/job/750892WD/Acceleration-Center-Data-Engineer-Senior-Associate",
+      "source": "Other",
+      "description": "Apply for Acceleration Center - Data Engineer - Senior Associate job with PwC Acceleration Centres in Ciudad de M\u00e9xico, Mexico.",
+      "date": "2026-09-06",
+      "timestamp": "2026-09-06T13:31:18+00:00",
+      "fetched_at": "2026-09-07T01:22:28.892823+00:00"
+    },
+    {
       "id": "b2fdf8339666",
       "title": "Senior Site Reliability Engineer | 8x8",
       "company": "8x8",
@@ -169,6 +289,21 @@
       "date": "2026-09-06",
       "timestamp": "2026-09-06T13:05:40+00:00",
       "fetched_at": "2026-09-06T17:47:32.699102+00:00"
+    },
+    {
+      "id": "74f4c1bfcc43",
+      "title": "Job Application for Principal Security Software Engineer (Starlink) at SpaceX - Greenhouse",
+      "company": "Spacex",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/spacex/jobs/8777042002?gh_jid=8777042002",
+      "source": "Greenhouse",
+      "description": "PRINCIPAL SECURITY SOFTWARE ENGINEER (STARLINK). At SpaceX we're leveraging our experience in building rockets and spacecraft to deploy Starlink, ...",
+      "date": "2026-09-06",
+      "timestamp": "2026-09-06T12:25:17+00:00",
+      "fetched_at": "2026-09-07T01:22:28.956672+00:00"
     },
     {
       "id": "ae7e5778cda7",
