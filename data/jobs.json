@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-09-08T01:31:50.237342+00:00",
-  "total_jobs": 9161,
+  "last_updated": "2026-09-08T08:21:41.487199+00:00",
+  "total_jobs": 9176,
   "stats": {
-    "total_companies": 4264,
-    "total_roles": 118,
+    "total_companies": 4272,
+    "total_roles": 119,
     "regions": {
-      "India": 5996,
-      "Philippines": 1940,
-      "Remote": 1127,
+      "India": 6008,
+      "Philippines": 1942,
+      "Remote": 1128,
       "Unknown": 135
     },
     "sources": {
-      "Other": 7178,
-      "Greenhouse": 450,
+      "Other": 7190,
+      "Greenhouse": 451,
       "LinkedIn": 392,
       "Workday": 391,
-      "Ashby": 275,
-      "iCIMS": 117,
+      "Ashby": 276,
+      "iCIMS": 118,
       "Breezy": 102,
       "Workable": 64,
       "Lever": 62,
@@ -36,6 +36,111 @@
   },
   "jobs": [
     {
+      "id": "81f1f973eed7",
+      "title": "Sr. Software Engineer (UI Developer) in Bengaluru, Karn\u0101taka, India, 560066 - GE HealthCare",
+      "company": "GE HealthCare",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.gehealthcare.com/global/en/job/GEVGHLGLOBALR4045578EXTERNALENGLOBAL/Sr-Software-Engineer-UI-Developer",
+      "source": "Other",
+      "description": "Apply for Sr. Software Engineer (UI Developer) job with GE HealthCare in Bengaluru, Karn\u0101taka, India, 560066. Digital Technology / IT at GE ...",
+      "date": "2026-09-08",
+      "timestamp": "2026-09-08T07:47:30+00:00",
+      "fetched_at": "2026-09-08T08:21:41.464662+00:00"
+    },
+    {
+      "id": "54c27a44846f",
+      "title": "Distinguished Architect Software Engineer (Cortex AgentiX) at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/distinguished-architect-software-engineer-cortex-agentix/47263/100299831088",
+      "source": "Other",
+      "description": "Distinguished Architect Software Engineer (Cortex AgentiX). Tel Aviv-Yafo, Israel Product Engineering Ref ID: JR-021410. Apply Save Job.",
+      "date": "2026-09-08",
+      "timestamp": "2026-09-08T06:00:09+00:00",
+      "fetched_at": "2026-09-08T08:21:41.256639+00:00"
+    },
+    {
+      "id": "41f456bd5447",
+      "title": "Cloud Engineer (Remote) ( Cloud Engineer 2) 30021 Job Details - HII Mission Technologies",
+      "company": "HII Mission Technologies",
+      "role": "Cloud Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.hii-tsd.com/job/Fairfax,-VA-Cloud-Engineer-(Remote)-(Cloud-Engineer-2)-30021-Virg/1427334600/",
+      "source": "Other",
+      "description": "Summary: HII Mission Technologies is seeking a motivated and experienced Cloud Engineer to join our IT Engineering team. In this role, you will ...",
+      "date": "2026-09-08",
+      "timestamp": "2026-09-08T05:31:33+00:00",
+      "fetched_at": "2026-09-08T08:21:41.256946+00:00"
+    },
+    {
+      "id": "67a1d5b712cb",
+      "title": "Software Engineer - .Net/SQL, BENGALURU, Karn\u0101taka | Wells Fargo",
+      "company": ".Net/SQL, BENGALURU, Karn\u0101taka | Wells Fargo",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.wellsfargojobs.com/en/jobs/r-568062/software-engineer-net-sql/",
+      "source": "Other",
+      "description": "Job Description About this role: Wells Fargo is seeking a Software Engineer In this role, you will: Participate in low to moderately complex ...",
+      "date": "2026-09-08",
+      "timestamp": "2026-09-08T04:44:34+00:00",
+      "fetched_at": "2026-09-08T08:21:41.257060+00:00"
+    },
+    {
+      "id": "61d38ac1386f",
+      "title": "Senior Software Engineer - .NET in South Jordan, Utah - Cotiviti | Careers Center",
+      "company": ".NET in South Jordan, Utah - Cotiviti | Careers Center",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers-cotiviti.icims.com/jobs/20274/senior-software-engineer---.net/job",
+      "source": "iCIMS",
+      "description": "Utah South Jordan is now hiring a Senior Software Engineer - .NET in South Jordan, Utah. Review all of the job details and apply today!",
+      "date": "2026-09-08",
+      "timestamp": "2026-09-08T04:02:05+00:00",
+      "fetched_at": "2026-09-08T08:21:41.257165+00:00"
+    },
+    {
+      "id": "685bae2fe841",
+      "title": "Advisory Software Engineer , MCU SW - - 81045 - Jobs at Lenovo",
+      "company": "Lenovo",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.lenovo.com/en_US/careers/JobDetail/Advisory-Software-Engineer-MCU-SW/81045",
+      "source": "Other",
+      "description": "Advisory Software Engineer , MCU SW at created 8-Sep-2026.",
+      "date": "2026-09-08",
+      "timestamp": "2026-09-08T03:58:53+00:00",
+      "fetched_at": "2026-09-08T08:21:41.257239+00:00"
+    },
+    {
+      "id": "5f836d976617",
+      "title": "Full-Stack Engineer - Albany @ Rocket Science Group - Jobs",
+      "company": "Rocketsciencegg",
+      "role": "Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/rocketsciencegg/35edbb83-22f4-4882-8849-5247babd772a",
+      "source": "Ashby",
+      "description": "Full-Stack Engineer - Albany. Location. Albany, NY. Employment Type. Full time. Department. Terminal Velocity. OverviewApplication. Please note that ...",
+      "date": "2026-09-08",
+      "timestamp": "2026-09-08T02:35:50+00:00",
+      "fetched_at": "2026-09-08T08:21:41.257433+00:00"
+    },
+    {
       "id": "4258b8739c2d",
       "title": "Senior Software Engineer \u2013 VEEComm, Warren, Michigan | General Motors Careers",
       "company": "General Motors Careers",
@@ -49,6 +154,21 @@
       "date": "2026-09-08",
       "timestamp": "2026-09-08T01:10:52+00:00",
       "fetched_at": "2026-09-08T01:31:50.199044+00:00"
+    },
+    {
+      "id": "630add652093",
+      "title": "Data Engineer , VP in Chennai | NatWest Group Careers",
+      "company": "NatWest Group Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.natwestgroup.com/jobs/18212974-data-engineer-vp",
+      "source": "Other",
+      "description": "As a Data Engineer , you'll be looking to simplify our organisation by developing innovative data driven solutions through data pipelines, modelling ...",
+      "date": "2026-09-07",
+      "timestamp": "2026-09-07T23:56:36+00:00",
+      "fetched_at": "2026-09-08T08:21:41.257621+00:00"
     },
     {
       "id": "2ec4e6072399",
@@ -79,6 +199,51 @@
       "date": "2026-09-07",
       "timestamp": "2026-09-07T22:45:29+00:00",
       "fetched_at": "2026-09-08T01:31:49.953964+00:00"
+    },
+    {
+      "id": "e98eab03f3ec",
+      "title": "Software Engineer Integration & Automation - Mettler Toledo",
+      "company": "Mettler Toledo",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.mt.com/en_US/careers/JobDetail/1/23019",
+      "source": "Other",
+      "description": "Software Engineer Integration & Automation ... The Software Development Center (SWDC) is METTLER TOLEDO's internal software service center supporting ...",
+      "date": "2026-09-07",
+      "timestamp": "2026-09-07T22:43:52+00:00",
+      "fetched_at": "2026-09-08T08:21:41.465727+00:00"
+    },
+    {
+      "id": "47828e25ee8c",
+      "title": "Search | Texas Department of Information Resources",
+      "company": "Unknown Company",
+      "role": "Search | Texas Department of Information Resources",
+      "regions": [
+        "India"
+      ],
+      "link": "https://dir.texas.gov/search-results?query=5850%20cdw&page=53",
+      "source": "Other",
+      "description": "DIR-CPO-5469 Appendix C ITSAC Not To Exceed Rates.pdf Title Level Not-To-Exceed Rate DevOps Engineer Intern 1 $36.98 DevOps Engineer Intern 2 $55.47 ...",
+      "date": "2026-09-07",
+      "timestamp": "2026-09-07T21:20:49+00:00",
+      "fetched_at": "2026-09-08T08:21:41.258122+00:00"
+    },
+    {
+      "id": "295836739979",
+      "title": "DevOps Engineer - Telia Company",
+      "company": "Telia Company",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.teliacompany.com/en/careers/open-positions/DevOps-Engineer_62878",
+      "source": "Other",
+      "description": "My name is Bjorn Balldin and we are looking for a Devops Engineer in Vilnius. Our vision is simple: seamless entertainment experiences powered by ...",
+      "date": "2026-09-07",
+      "timestamp": "2026-09-07T21:05:35+00:00",
+      "fetched_at": "2026-09-08T08:21:41.465802+00:00"
     },
     {
       "id": "90a5f558a669",
@@ -139,6 +304,66 @@
       "date": "2026-09-07",
       "timestamp": "2026-09-07T19:49:56+00:00",
       "fetched_at": "2026-09-07T22:18:55.653828+00:00"
+    },
+    {
+      "id": "117f983f41a6",
+      "title": "Paris vs Berlin software engineer salaries \u2014 how big is the real difference? - Reddit",
+      "company": "Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/cscareerquestionsEU/comments/1w9t2y3/paris_vs_berlin_software_engineer_salaries_how/",
+      "source": "Other",
+      "description": "Paris vs Berlin software engineer salaries \u2014 how big is the real difference? ... Is this a good salary for a data engineer in Italy? 20 upvotes \u00b7 58 ...",
+      "date": "2026-09-07",
+      "timestamp": "2026-09-07T19:44:26+00:00",
+      "fetched_at": "2026-09-08T08:21:41.258508+00:00"
+    },
+    {
+      "id": "873c7567bfbb",
+      "title": "Senior TDI Site Reliability Engineer , Okta Federal",
+      "company": "Unknown Company",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.okta.com/company/careers/ga/senior-tdi-site-reliability-engineer-okta-federal-8100444/",
+      "source": "Other",
+      "description": "The Technology, Data and Intelligence Team Message \u00b7 The Senior Site Reliability Engineer Opportunity \u00b7 What you can look forward to as an Okta employee ...",
+      "date": "2026-09-07",
+      "timestamp": "2026-09-07T19:19:54+00:00",
+      "fetched_at": "2026-09-08T08:21:41.258610+00:00"
+    },
+    {
+      "id": "0c5a4d2b12c6",
+      "title": "Job Application for Software Engineer I: Perception at Lodestar - Greenhouse",
+      "company": "Lodestar",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.eu.greenhouse.io/lodestarspace/jobs/4969597101",
+      "source": "Greenhouse",
+      "description": "Software Engineer I: Perception. Los Angeles, US. Apply. About Lodestar. Lodestar's mission is to develop the first \"Protect and Defend\" capability ...",
+      "date": "2026-09-07",
+      "timestamp": "2026-09-07T18:24:26+00:00",
+      "fetched_at": "2026-09-08T08:21:41.258672+00:00"
+    },
+    {
+      "id": "c4cc2f92a8b8",
+      "title": "Senior Software Engineer - Runtime Diagnostics - 21942 - Bloomberg",
+      "company": "Runtime Diagnostics - 21942 - Bloomberg",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://bloomberg.avature.net/careers/JobDetail/Senior-Software-Engineer-Runtime-Diagnostics/21942",
+      "source": "Other",
+      "description": "Bloomberg. Our Company \u00b7 Events \u00b7 Search Jobs \u00b7 Login. Senior Software Engineer - Runtime Diagnostics. Location. Dublin. Business Area. Engineering ...",
+      "date": "2026-09-07",
+      "timestamp": "2026-09-07T17:34:09+00:00",
+      "fetched_at": "2026-09-08T08:21:41.258782+00:00"
     },
     {
       "id": "f3132f976643",
