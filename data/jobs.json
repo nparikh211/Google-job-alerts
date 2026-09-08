@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-09-07T22:18:55.780357+00:00",
-  "total_jobs": 9152,
+  "last_updated": "2026-09-08T01:31:50.237342+00:00",
+  "total_jobs": 9161,
   "stats": {
-    "total_companies": 4261,
+    "total_companies": 4264,
     "total_roles": 118,
     "regions": {
-      "India": 5991,
-      "Philippines": 1937,
-      "Remote": 1126,
+      "India": 5996,
+      "Philippines": 1940,
+      "Remote": 1127,
       "Unknown": 135
     },
     "sources": {
-      "Other": 7172,
+      "Other": 7178,
       "Greenhouse": 450,
-      "Workday": 390,
-      "LinkedIn": 390,
+      "LinkedIn": 392,
+      "Workday": 391,
       "Ashby": 275,
       "iCIMS": 117,
       "Breezy": 102,
@@ -31,10 +31,55 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-09-07"
+      "latest": "2026-09-08"
     }
   },
   "jobs": [
+    {
+      "id": "4258b8739c2d",
+      "title": "Senior Software Engineer \u2013 VEEComm, Warren, Michigan | General Motors Careers",
+      "company": "General Motors Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://search-careers.gm.com/en/jobs/jr-202615466/senior-software-engineer-veecomm/",
+      "source": "Other",
+      "description": "Senior Software Engineer \u2013 VEEComm. Location. Warren, Michigan. (+) Show ... Senior Software Engineer - IVI Servicability. Engineering 3 ...",
+      "date": "2026-09-08",
+      "timestamp": "2026-09-08T01:10:52+00:00",
+      "fetched_at": "2026-09-08T01:31:50.199044+00:00"
+    },
+    {
+      "id": "2ec4e6072399",
+      "title": "Staff Software Engineer - Java Backend - Bengaluru, Karn\u0101taka, India - Equinix Careers",
+      "company": "Java Backend - Bengaluru, Karn\u0101taka, India - Equinix Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.equinix.com/jobs/staff-software-engineer-java-backend-bengaluru-karnataka-india-bd182853-c688-4053-9269-19d36f9ae55f",
+      "source": "Other",
+      "description": "Staff Software Engineer - Java Backend \u00b7 Contribute to the technical strategy and execution for modular, event-driven, and scalable microservices ...",
+      "date": "2026-09-07",
+      "timestamp": "2026-09-07T23:37:07+00:00",
+      "fetched_at": "2026-09-08T01:31:49.953716+00:00"
+    },
+    {
+      "id": "0e38a9e0aa7f",
+      "title": "Senior Lead Software Engineer , Full Stack-IC - Capital One Careers",
+      "company": "IC - Capital One Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.capitalonecareers.com/job/richmond/senior-lead-software-engineer-full-stack-ic/1732/100317321376",
+      "source": "Other",
+      "description": "Learn more about applying for Senior Lead Software Engineer , Full Stack-IC at Capital One. ... Lead Data Engineer -IC. Richmond, Virginia \u00b7 100317320096 ...",
+      "date": "2026-09-07",
+      "timestamp": "2026-09-07T22:45:29+00:00",
+      "fetched_at": "2026-09-08T01:31:49.953964+00:00"
+    },
     {
       "id": "90a5f558a669",
       "title": "Senior Software Engineer , AIOps",
@@ -49,6 +94,36 @@
       "date": "2026-09-07",
       "timestamp": "2026-09-07T20:34:20+00:00",
       "fetched_at": "2026-09-07T22:18:55.652878+00:00"
+    },
+    {
+      "id": "27e35c0003ce",
+      "title": "Senior Software Engineer - Backend Platform",
+      "company": "Nvidia",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Raanana/Senior-Software-Engineer---Backend-Platform_JR2024955",
+      "source": "Workday",
+      "description": "We are looking for a Senior Software Engineer to build the backend platform underneath it: the distributed services that move, transform, store and ...",
+      "date": "2026-09-07",
+      "timestamp": "2026-09-07T20:34:19+00:00",
+      "fetched_at": "2026-09-08T01:31:50.199797+00:00"
+    },
+    {
+      "id": "8a751f45d67e",
+      "title": "Senior Data Engineer - Bengaluru, Karnataka, India | Roku Jobs",
+      "company": "Bengaluru, Karnataka, India | Roku Jobs",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.weareroku.com/jobs/senior-data-engineer-bengaluru-karnataka-india-541acc2d-79f1-40cd-bb4a-05050151091e",
+      "source": "Other",
+      "description": "Senior Data Engineer . Software Engineering | Bengaluru, India | ID ... Senior Software Engineer , Full Stack, Milton, Cambridge, England. Senior ...",
+      "date": "2026-09-07",
+      "timestamp": "2026-09-07T20:24:12+00:00",
+      "fetched_at": "2026-09-08T01:31:49.954336+00:00"
     },
     {
       "id": "ad2df7262cfd",
@@ -276,6 +351,36 @@
       "fetched_at": "2026-09-07T16:41:07.280130+00:00"
     },
     {
+      "id": "f56b28af1205",
+      "title": "Senior Software Engineer , Pixel Security and Privacy \u2014 Google Careers",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/86474414714954438-senior-software-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer , Pixel Security and Privacy. share. Share Senior Software Engineer , Pixel Security and Privacy. linkCopy link; emailEmail a ...",
+      "date": "2026-09-07",
+      "timestamp": "2026-09-07T14:50:04+00:00",
+      "fetched_at": "2026-09-08T01:31:49.956351+00:00"
+    },
+    {
+      "id": "cc9c2f166074",
+      "title": "Software Engineer at Nickel.com \u2014 New York, NY | LinkedIn Jobs",
+      "company": "Nickel.com \u2014 New York, NY",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/software-engineer-at-nickel-com-4464098487?position=28&pageNum=0&refId=UNPuDoTwMeFLRQJMvfSYWw%3D%3D&trackingId=DboHjKRPxEJdHUI1i9KFdg%3D%3D",
+      "source": "LinkedIn",
+      "description": "Backend Engineer . Bevel. New York, NY $150,000 - $190,000 7 months ... Senior Software Engineer jobs \u00b7 Web Development Intern jobs \u00b7 Junior Java ...",
+      "date": "2026-09-07",
+      "timestamp": "2026-09-07T14:46:38+00:00",
+      "fetched_at": "2026-09-08T01:31:50.201629+00:00"
+    },
+    {
       "id": "67370e19557d",
       "title": "Blount Fine Foods hiring Senior Software Engineer in McKinney, TX | LinkedIn",
       "company": "LinkedIn",
@@ -289,6 +394,36 @@
       "date": "2026-09-07",
       "timestamp": "2026-09-07T14:38:16+00:00",
       "fetched_at": "2026-09-07T16:41:07.450589+00:00"
+    },
+    {
+      "id": "2805a6741e17",
+      "title": "Python Data Platform Engineer in Krakow, Poland | Product and Engineering at Cisco",
+      "company": "Cisco",
+      "role": "Platform Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2024489EXTERNALENGLOBAL/Python-Data-Platform-Engineer",
+      "source": "Other",
+      "description": "Apply for Python Data Platform Engineer job with Cisco in Krakow, Poland. Product and Engineering at Cisco. ... Senior Software Engineer . Available in 3 ...",
+      "date": "2026-09-07",
+      "timestamp": "2026-09-07T14:20:39+00:00",
+      "fetched_at": "2026-09-08T01:31:50.201966+00:00"
+    },
+    {
+      "id": "67e682973fdd",
+      "title": "Software Engineer at Nickel.com \u2014 New York, NY | LinkedIn Jobs",
+      "company": "Nickel.com \u2014 New York, NY",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/software-engineer-at-nickel-com-4464098487?position=47&pageNum=0&refId=YUeu0KRJG8xYfjgFZN%2FkNg%3D%3D&trackingId=yLfHy3wt8hUEA3oi6YM8pg%3D%3D",
+      "source": "LinkedIn",
+      "description": "Backend Engineer . Bevel. New York, NY $150,000 - $190,000 7 months ... Senior Software Engineer jobs \u00b7 Web Development Intern jobs \u00b7 Junior Java ...",
+      "date": "2026-09-07",
+      "timestamp": "2026-09-07T14:04:09+00:00",
+      "fetched_at": "2026-09-08T01:31:49.956860+00:00"
     },
     {
       "id": "39c4233dda7f",
