@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-09-08T19:00:37.715860+00:00",
-  "total_jobs": 9220,
+  "last_updated": "2026-09-08T22:03:20.806676+00:00",
+  "total_jobs": 9239,
   "stats": {
-    "total_companies": 4285,
+    "total_companies": 4295,
     "total_roles": 119,
     "regions": {
-      "India": 6043,
-      "Philippines": 1950,
-      "Remote": 1130,
+      "India": 6054,
+      "Philippines": 1955,
+      "Remote": 1134,
       "Unknown": 135
     },
     "sources": {
-      "Other": 7229,
-      "Greenhouse": 452,
-      "LinkedIn": 393,
-      "Workday": 392,
+      "Other": 7243,
+      "Greenhouse": 454,
+      "Workday": 394,
+      "LinkedIn": 394,
       "Ashby": 277,
       "iCIMS": 119,
       "Breezy": 102,
@@ -35,6 +35,247 @@
     }
   },
   "jobs": [
+    {
+      "id": "d1c90f250a45",
+      "title": "Senior Associate - GCP Data Engineer - Bengaluru, Karn\u0101taka, India - Equinix Careers",
+      "company": "Senior Associate",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.equinix.com/jobs/senior-associate-gcp-data-engineer-bengaluru-karnataka-india-c05f011f-d2c0-4aa5-81ce-7fd7d7396d07",
+      "source": "Other",
+      "description": "Senior Associate - GCP Data Engineer \u00b7 Design, develop, and maintain scalable ETL/ELT pipelines using Cloud Dataflow, Cloud Composer (Apache Airflow), ...",
+      "date": "2026-09-08",
+      "timestamp": "2026-09-08T21:03:31+00:00",
+      "fetched_at": "2026-09-08T22:03:20.354789+00:00"
+    },
+    {
+      "id": "32d2fac0c9b4",
+      "title": "Job Application for Software Engineer , Growth Conversion at The New York Times",
+      "company": "Thenewyorktimes",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4730745005",
+      "source": "Greenhouse",
+      "description": "Software Engineer , Growth Conversion. New York, NY. Apply. The mission of The New York Times is to seek the truth and help people understand the ...",
+      "date": "2026-09-08",
+      "timestamp": "2026-09-08T20:55:11+00:00",
+      "fetched_at": "2026-09-08T22:03:20.354954+00:00"
+    },
+    {
+      "id": "7edf6c6424d3",
+      "title": "Sr. Data Engineer Job Details - Colgate-Palmolive Company",
+      "company": "Colgate-Palmolive Company",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.colgate.com/job/Piscataway-Sr_-Data-Engineer-NJ/1427529100/",
+      "source": "Other",
+      "description": "Sr. Data Engineer \u00b7 Travel - up to 10% of time \u00b7 9/8/26 \u00b7 Hybrid \u00b7 No Relocation Assistance Offered Job Number #173322 - Piscataway, New Jersey, United ...",
+      "date": "2026-09-08",
+      "timestamp": "2026-09-08T20:53:40+00:00",
+      "fetched_at": "2026-09-08T22:03:20.355304+00:00"
+    },
+    {
+      "id": "882cf8a2c2dd",
+      "title": "Senior Software Engineer - C#/Angular/API job in Pittsburgh, Pennsylvania, United States of America",
+      "company": "C#/Angular/API job in Pittsburgh, Pennsylvania, United States of America",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.pnc.com/global/en/job/R232747/Senior-Software-Engineer-C-Angular-API",
+      "source": "Other",
+      "description": "As a Senior Software Engineer within PNC's Lending Technology organization, you will be based in Pittsburgh PA, Dallas TX, Birmingham AL or ...",
+      "date": "2026-09-08",
+      "timestamp": "2026-09-08T20:01:31+00:00",
+      "fetched_at": "2026-09-08T22:03:20.762378+00:00"
+    },
+    {
+      "id": "528231ec4ed0",
+      "title": "DevOps Engineer Job Details - Careers at Celestica",
+      "company": "Celestica",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.celestica.com/job/Remote-Employee-US-DevOps-Engineer-NH/1434912833/",
+      "source": "Other",
+      "description": "Remote Employee US DevOps Engineer - NH. ... This role, as a DevOps engineer is to support and accelerate engineering productivity ...",
+      "date": "2026-09-08",
+      "timestamp": "2026-09-08T19:37:06+00:00",
+      "fetched_at": "2026-09-08T22:03:20.355472+00:00"
+    },
+    {
+      "id": "cba5d333c231",
+      "title": "Software Engineer , Milwaukee, WI Corporate | Northwestern Mutual Careers",
+      "company": "Northwestern Mutual Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.northwesternmutual.com/corporate-careers/jr-45763/software-engineer/",
+      "source": "Other",
+      "description": "About the Role We are seeking a highly motivated Senior Software Engineer to design, develop, modernize, and support critical applications within ...",
+      "date": "2026-09-08",
+      "timestamp": "2026-09-08T19:22:38+00:00",
+      "fetched_at": "2026-09-08T22:03:20.762667+00:00"
+    },
+    {
+      "id": "4448fc18ad0e",
+      "title": "NCSU Employment Site | Junior Research Software Engineer , LAS",
+      "company": "NCSU Employment Site",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ncsu.edu/postings/234760",
+      "source": "Other",
+      "description": "Eligibility and Employer Sponsored Plans can be found within each of the links offered. Essential Job Duties. The Junior Research Software Engineer ...",
+      "date": "2026-09-08",
+      "timestamp": "2026-09-08T19:22:34+00:00",
+      "fetched_at": "2026-09-08T22:03:20.762791+00:00"
+    },
+    {
+      "id": "9903d7548b3a",
+      "title": "Lead Data Engineer -IC at Capital One",
+      "company": "Capital One",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.capitalonecareers.com/job/richmond/lead-data-engineer-ic/1732/100317320176",
+      "source": "Other",
+      "description": "Lead Data Engineer -IC. Richmond, Virginia | McLean, Virginia ... Lead Software Engineer , Full Stack. McLean, Virginia \u00b7 99414812496. Lead ...",
+      "date": "2026-09-08",
+      "timestamp": "2026-09-08T19:18:39+00:00",
+      "fetched_at": "2026-09-08T22:03:20.355618+00:00"
+    },
+    {
+      "id": "3464bf4af580",
+      "title": "Software Engineer Intern \u2013 AI Applications - Myworkdayjobs.com",
+      "company": "Cambiumlearning",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://cambiumlearning.wd1.myworkdayjobs.com/en-US/camb/job/Software-Engineer-Intern---AI-Applications_REQ-4610",
+      "source": "Workday",
+      "description": "Software Engineer Intern \u2013 AI Applications ... Cambium Learning\u00ae Group is an award-winning educational technology solutions leader dedicated to helping ...",
+      "date": "2026-09-08",
+      "timestamp": "2026-09-08T19:14:00+00:00",
+      "fetched_at": "2026-09-08T22:03:20.762898+00:00"
+    },
+    {
+      "id": "e9124d4d8f91",
+      "title": "Software Engineer - India - GoDaddy Careers",
+      "company": "India - GoDaddy Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India",
+        "Remote"
+      ],
+      "link": "https://careers.godaddy/jobs/software-engineer-india-9657c8ce-2820-4d9a-8e32-c81fdd12c45c",
+      "source": "Other",
+      "description": "Software Engineer . R023984. India. Engineering. Regular. Add to favorites. View favorites Apply Now. Location Details: India, Remote. At GoDaddy the ...",
+      "date": "2026-09-08",
+      "timestamp": "2026-09-08T19:13:39+00:00",
+      "fetched_at": "2026-09-08T22:03:20.355875+00:00"
+    },
+    {
+      "id": "f8180c04063a",
+      "title": "Software Engineer III - GenAI Foundational Services - JPMC Candidate Experience page Careers",
+      "company": "GenAI Foundational Services - JPMC Candidate Experience page Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210785705?utm_source=Georgia+Fintech+Academy+job+board&utm_medium=getro.com&gh_src=Georgia+Fintech+Academy+job+board",
+      "source": "Other",
+      "description": "As a Software Engineer III at JPMorganChase within the Chief Data and Analytics Office, you are an integral part of an agile team that works to ...",
+      "date": "2026-09-08",
+      "timestamp": "2026-09-08T19:10:05+00:00",
+      "fetched_at": "2026-09-08T22:03:20.356267+00:00"
+    },
+    {
+      "id": "ad94166bf231",
+      "title": "Technology Innovation Institute hiring DevOps Engineer in United Arab Emirates | LinkedIn",
+      "company": "LinkedIn",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/4464357227/",
+      "source": "LinkedIn",
+      "description": "Software Engineer (DevOps) - Site Reliability. Revolut. United Arab ... Site Reliability Engineer (SRE). Epergne Solutions. Al Ain, Abu Dhabi ...",
+      "date": "2026-09-08",
+      "timestamp": "2026-09-08T18:58:52+00:00",
+      "fetched_at": "2026-09-08T22:03:20.356405+00:00"
+    },
+    {
+      "id": "4a6ca8c4c086",
+      "title": "Software Engineer , Cloud Platforms",
+      "company": "Nvidia",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Software-Engineer--Cloud-Platforms_JR2025037",
+      "source": "Workday",
+      "description": "Software Engineer , Cloud Platforms ... NVIDIA is looking for an excellent Software Developer to work on open-source cloud platforms such as Kubernetes.",
+      "date": "2026-09-08",
+      "timestamp": "2026-09-08T18:52:42+00:00",
+      "fetched_at": "2026-09-08T22:03:20.356486+00:00"
+    },
+    {
+      "id": "b37174772b82",
+      "title": "Site Reliability Engineer II job in Hyderabad, Telangana, India at Phenom",
+      "company": "Phenom",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.phenom.com/global/en/job/P-104722/Site-Reliability-Engineer-II",
+      "source": "Other",
+      "description": "As a Site Reliability Engineer II at Phenom, you will play a crucial role in ensuring the reliability of our production Kubernetes and AWS ...",
+      "date": "2026-09-08",
+      "timestamp": "2026-09-08T18:43:59+00:00",
+      "fetched_at": "2026-09-08T22:03:20.356611+00:00"
+    },
+    {
+      "id": "88294e23ea84",
+      "title": "Senior Software Engineer (Backend) - Lingo in Spain - Barcelona - Abbott Jobs",
+      "company": "Lingo in Spain - Barcelona - Abbott Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.jobs.abbott/us/en/job/31161202/Senior-Software-Engineer-Backend-Lingo",
+      "source": "Other",
+      "description": "Apply for Senior Software Engineer (Backend) - Lingo job with Abbott Canvas in Spain - Barcelona ... As a Senior Backend Engineer , you'll ...",
+      "date": "2026-09-08",
+      "timestamp": "2026-09-08T18:35:28+00:00",
+      "fetched_at": "2026-09-08T22:03:20.763840+00:00"
+    },
+    {
+      "id": "0745a0845668",
+      "title": "Senior Data Engineer | SimplePractice Careers",
+      "company": "SimplePractice Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.simplepractice.com/careers/roles/6184676004/",
+      "source": "Other",
+      "description": "Apply to Senior Data Engineer at SimplePractice. Join a growing team dedicated to helping health & wellness professionals in growing their private ...",
+      "date": "2026-09-08",
+      "timestamp": "2026-09-08T18:10:54+00:00",
+      "fetched_at": "2026-09-08T22:03:20.356735+00:00"
+    },
     {
       "id": "e085eb403477",
       "title": "Senior AI Engineer Job Details | Thales Defense & Security, Inc.",
@@ -81,6 +322,36 @@
       "fetched_at": "2026-09-08T19:00:37.561610+00:00"
     },
     {
+      "id": "520c962381d9",
+      "title": "Senior, Software Engineer - Java - Walmart Careers",
+      "company": "Java - Walmart Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.walmart.com/us/en/jobs/R-2624106",
+      "source": "Other",
+      "description": "This is a full-time onsite role based in Bellevue, WA; remote and hybrid options are not available. Walmart is seeking a Senior Software Engineer to ...",
+      "date": "2026-09-08",
+      "timestamp": "2026-09-08T17:31:11+00:00",
+      "fetched_at": "2026-09-08T22:03:20.357305+00:00"
+    },
+    {
+      "id": "c62d6f058a8f",
+      "title": "Job Application for Senior Software Engineer - SRE at Mercury - Greenhouse",
+      "company": "Mercury",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/mercury/jobs/6184992004",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer - SRE. San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States. Apply. When the Tarr Steps ...",
+      "date": "2026-09-08",
+      "timestamp": "2026-09-08T17:24:20+00:00",
+      "fetched_at": "2026-09-08T22:03:20.357382+00:00"
+    },
+    {
       "id": "0d44fc233c04",
       "title": "Data Engineer job - Experis USA - 410607",
       "company": "Experis USA - 410607",
@@ -94,6 +365,21 @@
       "date": "2026-09-08",
       "timestamp": "2026-09-08T17:16:52+00:00",
       "fetched_at": "2026-09-08T19:00:37.561757+00:00"
+    },
+    {
+      "id": "37ecf27f6e8c",
+      "title": "Software Engineer job in Shenyang, Liaoning, China - Philips Careers",
+      "company": "Philips Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.careers.philips.com/global/en/job/586941/Software-Engineer",
+      "source": "Other",
+      "description": "Apply for Software Engineer job with Philips in Shenyang, Liaoning, China. Browse and apply for Software development jobs at Philips.",
+      "date": "2026-09-08",
+      "timestamp": "2026-09-08T17:16:42+00:00",
+      "fetched_at": "2026-09-08T22:03:20.357605+00:00"
     },
     {
       "id": "c752d79b1972",
