@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-09-09T18:52:50.013763+00:00",
-  "total_jobs": 9285,
+  "last_updated": "2026-09-09T22:00:55.459500+00:00",
+  "total_jobs": 9304,
   "stats": {
-    "total_companies": 4307,
+    "total_companies": 4314,
     "total_roles": 119,
     "regions": {
-      "India": 6078,
-      "Philippines": 1973,
-      "Remote": 1138,
+      "India": 6090,
+      "Philippines": 1976,
+      "Remote": 1143,
       "Unknown": 135
     },
     "sources": {
-      "Other": 7277,
-      "Greenhouse": 457,
-      "Workday": 396,
+      "Other": 7291,
+      "Greenhouse": 458,
+      "Workday": 398,
       "LinkedIn": 396,
-      "Ashby": 281,
+      "Ashby": 282,
       "iCIMS": 119,
       "Breezy": 103,
       "Workable": 64,
-      "Lever": 62,
+      "Lever": 63,
       "SmartRecruiters": 59,
       "Indeed": 31,
       "BrassRing": 11,
@@ -36,6 +36,247 @@
   },
   "jobs": [
     {
+      "id": "60fafa46fc8e",
+      "title": "Software Engineer Senior - Myworkdayjobs.com",
+      "company": "Pnc",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://pnc.wd5.myworkdayjobs.com/External/job/Home-Location-PA-PAH01/Software-Engineer-Senior_R235072",
+      "source": "Workday",
+      "description": "As a Software Engineer Senior within PNC's Asset Management Group organization, you will be based remotely in the state of PA. This position may be ...",
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T20:53:45+00:00",
+      "fetched_at": "2026-09-09T22:00:55.414843+00:00"
+    },
+    {
+      "id": "3aadf7d58731",
+      "title": "Software Engineer II - Myworkdayjobs.com",
+      "company": "Chegg",
+      "role": "Software Engineer",
+      "regions": [
+        "India",
+        "Remote"
+      ],
+      "link": "https://osv-chegg.wd5.myworkdayjobs.com/en-US/Chegg/job/Software-Engineer-II_R5389-1",
+      "source": "Workday",
+      "description": "Job Description Position: Software Engineer II, Frontend Base Location: New Delhi Location: India (Remote / Hybrid) Experience: 4+ years About ...",
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T20:51:41+00:00",
+      "fetched_at": "2026-09-09T22:00:55.414941+00:00"
+    },
+    {
+      "id": "266b197fbe77",
+      "title": "Senior Software Engineer at Cephable - Gusto",
+      "company": "Cephable",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.gusto.com/postings/cephable-senior-software-engineer-0aa875fb-8ad0-48a9-84ea-925b95e1337c",
+      "source": "Other",
+      "description": "We are seeking a Senior Software Engineer to own and evolve Cephable's React/Electron desktop app. This is a hands-on, high-ownership role for a ...",
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T19:36:20+00:00",
+      "fetched_at": "2026-09-09T22:00:55.123583+00:00"
+    },
+    {
+      "id": "14bf47ab9004",
+      "title": "GE Vernova - Energy Optimization Software Engineer Intern - Summer 2027",
+      "company": "GE Vernova",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.gevernova.com/ge-vernova-energy-optimization-software-engineer-intern-summer-2027/job/R5050015",
+      "source": "Other",
+      "description": "Apply for the position GE Vernova - Energy Optimization Software Engineer Intern - Summer 2027 today!",
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T19:33:36+00:00",
+      "fetched_at": "2026-09-09T22:00:55.415418+00:00"
+    },
+    {
+      "id": "3edf7b34fb60",
+      "title": "No one above me as an ML engineer , how bad is my case? - Reddit",
+      "company": "Reddit",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/learnmachinelearning/comments/1wbh43c/no_one_above_me_as_an_ml_engineer_how_bad_is_my/",
+      "source": "Other",
+      "description": "Worked as a basic Java backend engineer for 3.5 years and my employer ... Career Choice: software engineer vs machine learning engineer . 4. 20 ...",
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T19:26:04+00:00",
+      "fetched_at": "2026-09-09T22:00:55.124181+00:00"
+    },
+    {
+      "id": "ed663fca5f4f",
+      "title": "Job Application for Data Engineer at LLR Partners - Greenhouse",
+      "company": "Llrpartnersjobs",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/llrpartnersjobs/jobs/4396101009",
+      "source": "Greenhouse",
+      "description": "Data Engineer ... Pair with our analytics and ML lead, our infrastructure lead, and the incoming AI Engineer on agentic workflows that consume your data ...",
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T18:58:42+00:00",
+      "fetched_at": "2026-09-09T22:00:55.124301+00:00"
+    },
+    {
+      "id": "c738c90bb07f",
+      "title": "Platform Engineer , IT - DevOps and Emerging Tech - Working at Vantive",
+      "company": "Vantive",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.vantive.com/job/deerfield/platform-engineer-it-devops-and-emerging-tech/47727/100396511504",
+      "source": "Other",
+      "description": "Platform Engineer , IT - DevOps and Emerging Tech. Deerfield, Illinois. Job ID: JR - 197396. Category: Development. Date posted: 09/09/2026.",
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T18:46:21+00:00",
+      "fetched_at": "2026-09-09T22:00:55.124489+00:00"
+    },
+    {
+      "id": "b12c7a88e738",
+      "title": "Machine Learning Software Engineer in Lund at Arm",
+      "company": "Arm",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.arm.com/job/lund/machine-learning-software-engineer/33099/100378769264",
+      "source": "Other",
+      "description": "Machine Learning Software Engineer . Job ID 2026-19151 Date posted Sep. 09, 2026 Location Lund, Sweden Category Software Engineering Apply.",
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T18:34:35+00:00",
+      "fetched_at": "2026-09-09T22:00:55.415651+00:00"
+    },
+    {
+      "id": "cf5a8d0a3c4c",
+      "title": "Senior Machine Learning Engineer at Carbon Mapper, Inc. - Gusto",
+      "company": "Carbon Mapper, Inc.",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.gusto.com/postings/carbon-mapper-inc-senior-machine-learning-engineer-cd086718-8f3e-4fce-94ff-4427d7a05aac",
+      "source": "Other",
+      "description": "Senior Machine Learning Engineer . About Carbon Mapper. Carbon Mapper is a non-profit organization based in Pasadena, CA with the mission to drive ...",
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T18:02:08+00:00",
+      "fetched_at": "2026-09-09T22:00:55.124830+00:00"
+    },
+    {
+      "id": "d5337b063a67",
+      "title": "Zoom AI DevOps Engineer - San Jose, California, United States",
+      "company": "San Jose, California, United States",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.zoom.us/jobs/zoom-ai-devops-engineer-san-jose-california-united-states",
+      "source": "Other",
+      "description": "Zoom AI DevOps Engineer . Engineering. Person, Crowd, Audience ... What you can expect As an AI Engineer specializing in Agentic AI, you ...",
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T17:59:10+00:00",
+      "fetched_at": "2026-09-09T22:00:55.125061+00:00"
+    },
+    {
+      "id": "670e12286697",
+      "title": "Software Engineer , Automation and Data - Central Technology - Activision Careers",
+      "company": "Central Technology - Activision Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.activision.com/job/ACPUUSR027984EXTERNAL/Software-Engineer-Automation-and-Data-Central-Technology",
+      "source": "Other",
+      "description": "Apply for Software Engineer , Automation and Data - Central Technology job with Activision in Santa Monica, California, United States of America.",
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T17:51:40+00:00",
+      "fetched_at": "2026-09-09T22:00:55.125310+00:00"
+    },
+    {
+      "id": "20beda1e5250",
+      "title": "Fullstack Engineer | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "Fullstack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.apexsystems.com/job/3047590_usa/fullstack-engineer",
+      "source": "Other",
+      "description": "Fullstack Engineer . Location: Des Moines, Iowa (On-site). Role Overview. We are seeking a Software Engineer to join our team. This role will partner ...",
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T17:33:21+00:00",
+      "fetched_at": "2026-09-09T22:00:55.125450+00:00"
+    },
+    {
+      "id": "d33f44d0c647",
+      "title": "Software Engineer , Applied AI @ Kaizen Labs - Jobs",
+      "company": "Kaizenlabs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/kaizenlabs/fea8a38f-0f22-47d6-bbf9-a72ef6bb215c",
+      "source": "Ashby",
+      "description": "Software Engineer , Applied AI. Location. New York, NY. Employment Type. Full time. Location Type. Hybrid. Department. Data Intelligence. Compensation.",
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T17:14:22+00:00",
+      "fetched_at": "2026-09-09T22:00:55.125540+00:00"
+    },
+    {
+      "id": "a20268ddde5f",
+      "title": "Staff Software Engineer , Workflow Platform - Pinterest Careers",
+      "company": "Pinterest Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.pinterestcareers.com/jobs/8157900/staff-software-engineer-workflow-platform/?gh_jid=8157900",
+      "source": "Other",
+      "description": "Staff Software Engineer , Workflow Platform. Palo Alto / Remote \u00b7 Engineering; Regular. a screenshot of a social media post. Share. Apply Now ...",
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T17:09:21+00:00",
+      "fetched_at": "2026-09-09T22:00:55.125892+00:00"
+    },
+    {
+      "id": "21ae208b102b",
+      "title": "Full-Stack Software Engineer in Remote (excluding ND, VT, or RI), California | Viasat, Inc.",
+      "company": "Full",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.viasat.com/jobs/6733?lang=en-us",
+      "source": "Other",
+      "description": "Viasat is hiring a Full-Stack Software Engineer in Remote (excluding ND, VT, or RI), California. Review all of the job details and apply today!",
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T17:05:16+00:00",
+      "fetched_at": "2026-09-09T22:00:55.126024+00:00"
+    },
+    {
+      "id": "6aa2b1eede10",
+      "title": "Data Engineer DBA | Job Details",
+      "company": "Job Details",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://utdgohcm.csod.com/ux/ats/careersite/4/home/requisition/2421?c=utdgohcm",
+      "source": "Other",
+      "description": "Key Responsibilities. Data Engineer / Microsoft SQL Database Administrator. The Utah State Board of Education (USBE) is seeking a skilled Data ...",
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T17:02:50+00:00",
+      "fetched_at": "2026-09-09T22:00:55.126165+00:00"
+    },
+    {
       "id": "cc5f159cff23",
       "title": "Software Engineer - Rippling",
       "company": "Rippling",
@@ -49,6 +290,21 @@
       "date": "2026-09-09",
       "timestamp": "2026-09-09T16:51:06+00:00",
       "fetched_at": "2026-09-09T18:52:49.888897+00:00"
+    },
+    {
+      "id": "719b8d6dd557",
+      "title": "Senior Software Engineer (APKWS) in Hudson, New Hampshire, United States",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.baesystems.com/global/en/job/129650BR/Senior-Software-Engineer-APKWS",
+      "source": "Other",
+      "description": "Apply for Senior Software Engineer (APKWS) job with BAE Systems in Hudson, New Hampshire, United States. Engineering & Technology at BAE Systems.",
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T16:44:40+00:00",
+      "fetched_at": "2026-09-09T22:00:55.126456+00:00"
     },
     {
       "id": "21ba86ca84c5",
@@ -66,6 +322,21 @@
       "fetched_at": "2026-09-09T18:52:49.889073+00:00"
     },
     {
+      "id": "e503e5c2ac63",
+      "title": "Software Engineer (Frontend-Focused Full Stack) - Lendbuzz - Lever",
+      "company": "Lendbuzz",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.lever.co/lendbuzz/f3c0d168-fc27-4a3e-89f4-b3efcf1db4b4",
+      "source": "Lever",
+      "description": "Software Engineer (Frontend-Focused Full Stack). Boston, MA. Engineering \u2013 Software Engineering /. Full-Time /. Hybrid. apply for this job. At ...",
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T16:37:17+00:00",
+      "fetched_at": "2026-09-09T22:00:55.417366+00:00"
+    },
+    {
       "id": "dbe583856f94",
       "title": "Job Application for Data Engineer , GTM at Anthropic - Greenhouse",
       "company": "Anthropic",
@@ -79,6 +350,21 @@
       "date": "2026-09-09",
       "timestamp": "2026-09-09T16:33:24+00:00",
       "fetched_at": "2026-09-09T18:52:49.973900+00:00"
+    },
+    {
+      "id": "7a1a835d8a86",
+      "title": "Junior Software Engineer - WordPress Jobs",
+      "company": "WordPress Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.wordpress.net/job/junior-software-engineer/",
+      "source": "Other",
+      "description": "Junior Full-Stack Software Engineer . GeniusXLab LLC \u00b7 Avalon, Texas, United States \u00b7 Remote or hybrid \u00b7 Experience: 0\u20132 years \u00b7 Eligibility: U.S. ...",
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T16:29:32+00:00",
+      "fetched_at": "2026-09-09T22:00:55.126692+00:00"
     },
     {
       "id": "1bef2c59e276",
