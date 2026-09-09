@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-09-08T22:03:20.806676+00:00",
-  "total_jobs": 9239,
+  "last_updated": "2026-09-09T01:39:28.048518+00:00",
+  "total_jobs": 9245,
   "stats": {
     "total_companies": 4295,
     "total_roles": 119,
     "regions": {
-      "India": 6054,
-      "Philippines": 1955,
+      "India": 6057,
+      "Philippines": 1958,
       "Remote": 1134,
       "Unknown": 135
     },
     "sources": {
-      "Other": 7243,
+      "Other": 7248,
       "Greenhouse": 454,
-      "Workday": 394,
+      "Workday": 395,
       "LinkedIn": 394,
       "Ashby": 277,
       "iCIMS": 119,
@@ -36,6 +36,21 @@
   },
   "jobs": [
     {
+      "id": "f8ab1a5ce1e7",
+      "title": "Software Engineer , Applied ML - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200682462-0836/software-engineer-applied-ml?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Software Engineer , Applied ML job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-09-08",
+      "timestamp": "2026-09-08T23:34:50+00:00",
+      "fetched_at": "2026-09-09T01:39:28.007686+00:00"
+    },
+    {
       "id": "d1c90f250a45",
       "title": "Senior Associate - GCP Data Engineer - Bengaluru, Karn\u0101taka, India - Equinix Careers",
       "company": "Senior Associate",
@@ -49,6 +64,21 @@
       "date": "2026-09-08",
       "timestamp": "2026-09-08T21:03:31+00:00",
       "fetched_at": "2026-09-08T22:03:20.354789+00:00"
+    },
+    {
+      "id": "f8f61146a5a8",
+      "title": "Sr. Data Engineer Job Details - Colgate-Palmolive Company",
+      "company": "Colgate-Palmolive Company",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.colgate.com/job/Sr_-Data-Engineer/173322-en_US/",
+      "source": "Other",
+      "description": "Sr. Data Engineer \u00b7 Travel - up to 10% of time \u00b7 9/8/26 \u00b7 Hybrid \u00b7 No Relocation Assistance Offered Job Number #173322 - Piscataway, New Jersey, United ...",
+      "date": "2026-09-08",
+      "timestamp": "2026-09-08T20:55:40+00:00",
+      "fetched_at": "2026-09-09T01:39:28.008372+00:00"
     },
     {
       "id": "32d2fac0c9b4",
@@ -79,6 +109,51 @@
       "date": "2026-09-08",
       "timestamp": "2026-09-08T20:53:40+00:00",
       "fetched_at": "2026-09-08T22:03:20.355304+00:00"
+    },
+    {
+      "id": "eeeee99dadd5",
+      "title": "Principal Software Engineer - Storage (Chronosphere), Vilnius at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/vilnius/principal-software-engineer-storage-chronosphere-vilnius/47263/100354163936",
+      "source": "Other",
+      "description": "Learn more about applying for Principal Software Engineer ... Staff AI Engineer - IT Business Applications Santa Clara, California, United States",
+      "date": "2026-09-08",
+      "timestamp": "2026-09-08T20:50:48+00:00",
+      "fetched_at": "2026-09-09T01:39:28.008574+00:00"
+    },
+    {
+      "id": "77ef04b7bb17",
+      "title": "Staff Software Engineer , Information Security in Los Angeles, California | FOX Careers",
+      "company": "FOX Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.foxcareers.com/Search/JobDetail/R50033805/staff-software-engineer-information-security-fox-corporation?pageLanguage=en-US",
+      "source": "Other",
+      "description": "Staff Software Engineer , Information Security. Job Number: R50033805. Brand Fox Corporation. Job Type: Engineering, Security, Technology. Location ...",
+      "date": "2026-09-08",
+      "timestamp": "2026-09-08T20:31:25+00:00",
+      "fetched_at": "2026-09-09T01:39:27.795607+00:00"
+    },
+    {
+      "id": "20fa5b6cac11",
+      "title": "AI ENGINEER - GDIT",
+      "company": "GDIT",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.gdit.com/careers/job/763f1cdea/ai-engineer/?",
+      "source": "Other",
+      "description": "AI ENGINEER . *** Up to 3 Days per week telework! *** Own your opportunity to turn data into measurable outcomes for our customers' most complex ...",
+      "date": "2026-09-08",
+      "timestamp": "2026-09-08T20:19:10+00:00",
+      "fetched_at": "2026-09-09T01:39:27.795755+00:00"
     },
     {
       "id": "882cf8a2c2dd",
@@ -230,6 +305,21 @@
       "date": "2026-09-08",
       "timestamp": "2026-09-08T18:52:42+00:00",
       "fetched_at": "2026-09-08T22:03:20.356486+00:00"
+    },
+    {
+      "id": "276f3aac2c6d",
+      "title": "DevOps Engineer , DOCA",
+      "company": "Nvidia",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/DevOps-Engineer--DOCA_JR2023758",
+      "source": "Workday",
+      "description": "DevOps Engineer , DOCA \u00b7 Develop and support continuous integration (CI/CD) processes and automation workflows for various hardware and software ...",
+      "date": "2026-09-08",
+      "timestamp": "2026-09-08T18:52:41+00:00",
+      "fetched_at": "2026-09-09T01:39:27.797158+00:00"
     },
     {
       "id": "b37174772b82",
