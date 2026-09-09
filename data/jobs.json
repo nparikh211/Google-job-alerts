@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-09-09T01:39:28.048518+00:00",
-  "total_jobs": 9245,
+  "last_updated": "2026-09-09T08:24:17.228937+00:00",
+  "total_jobs": 9259,
   "stats": {
-    "total_companies": 4295,
+    "total_companies": 4299,
     "total_roles": 119,
     "regions": {
-      "India": 6057,
-      "Philippines": 1958,
-      "Remote": 1134,
+      "India": 6067,
+      "Philippines": 1961,
+      "Remote": 1135,
       "Unknown": 135
     },
     "sources": {
-      "Other": 7248,
-      "Greenhouse": 454,
+      "Other": 7259,
+      "Greenhouse": 455,
       "Workday": 395,
       "LinkedIn": 394,
-      "Ashby": 277,
+      "Ashby": 278,
       "iCIMS": 119,
-      "Breezy": 102,
+      "Breezy": 103,
       "Workable": 64,
       "Lever": 62,
       "SmartRecruiters": 59,
@@ -31,10 +31,175 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-09-08"
+      "latest": "2026-09-09"
     }
   },
   "jobs": [
+    {
+      "id": "0cc08b4f822e",
+      "title": "AI Engineer at Ford Motor Company - Ford Careers",
+      "company": "Ford Motor Company",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.careers.ford.com/job/chennai/ai-engineer/48560/100352477728",
+      "source": "Other",
+      "description": "As an AI Engineer , you will design and build next-generation AI applications that leverage agentic workflows, large language models, ...",
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T08:02:04+00:00",
+      "fetched_at": "2026-09-09T08:24:17.190310+00:00"
+    },
+    {
+      "id": "696e1f2b7169",
+      "title": "DevOps Engineer | DuploCloud - Recruiting",
+      "company": "DuploCloud - Recruiting",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://ats.rippling.com/duplocloud/jobs/807425e6-4d5a-4f26-9440-357caf287357",
+      "source": "Other",
+      "description": "DuploCloud is looking for a DevOps Engineer to join our customer-facing engineering team, working at the intersection of cloud architecture, security, ...",
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T07:06:00+00:00",
+      "fetched_at": "2026-09-09T08:24:17.190473+00:00"
+    },
+    {
+      "id": "8d5397acfef4",
+      "title": "Data Engineer - Ardoq",
+      "company": "Ardoq",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.ardoq.com/jobs/8103369-data-engineer",
+      "source": "Other",
+      "description": "Data Engineer (Mid/Senior) at Ardoq . Building the data foundation that turns enterprise complexity into connected intelligence.",
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T04:05:52+00:00",
+      "fetched_at": "2026-09-09T08:24:17.190578+00:00"
+    },
+    {
+      "id": "ff94036b14cd",
+      "title": "Job Application for Software Engineer Intern \u2014 Summer 2027 at Gallup - Greenhouse",
+      "company": "Gallup",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/gallup/jobs/4395897009",
+      "source": "Greenhouse",
+      "description": "Software Engineer Intern \u2014 Summer 2027. San Francisco. Apply. Apply early for priority consideration. Gallup has limited openings for this internship ...",
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T03:49:46+00:00",
+      "fetched_at": "2026-09-09T08:24:17.010948+00:00"
+    },
+    {
+      "id": "13b89aacb04f",
+      "title": "Software Engineer Intern, RFQ @ Talos - Jobs",
+      "company": "Talos Trading",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/talos-trading/2c833180-484f-4657-80e3-f822cf1a0285",
+      "source": "Ashby",
+      "description": "Talos is hiring a Software Engineer Intern to join our RFQ team for the Summer 2027. You'll work on a critical project related to our ...",
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T03:36:52+00:00",
+      "fetched_at": "2026-09-09T08:24:17.011248+00:00"
+    },
+    {
+      "id": "3ad500962465",
+      "title": "Software Engineer at NinjaHoldings",
+      "company": "Ninjaholdings",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://ninjaholdings.breezy.hr/p/6eb4151310bf-software-engineer",
+      "source": "Breezy",
+      "description": "Software Engineer . Chicago, IL - Remote (any location); Full-Time; $100,000 \u2013 $150,000 / year. Job Openings; Software Engineer .",
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T01:53:38+00:00",
+      "fetched_at": "2026-09-09T08:24:17.190900+00:00"
+    },
+    {
+      "id": "9050e6880b22",
+      "title": "Staff Machine Learning Engineer , Mapping - Mountain View, California, United States",
+      "company": "Mountain View, California, United States",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.withwaymo.com/jobs/staff-machine-learning-engineer-mapping-mountain-view-california-united-states",
+      "source": "Other",
+      "description": "Staff Machine Learning Engineer , Mapping ... Waymo is an autonomous driving technology company with the mission to be the world's most trusted driver.",
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T01:44:36+00:00",
+      "fetched_at": "2026-09-09T08:24:17.012558+00:00"
+    },
+    {
+      "id": "6fef73c58c42",
+      "title": "Senior Mainframe Modernization & Integration Software Engineer - General Motors Careers",
+      "company": "General Motors Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://search-careers.gm.com/en/jobs/jr-202618084/senior-mainframe-modernization-integration-software-engineer/",
+      "source": "Other",
+      "description": "About the Role We are seeking a Senior Mainframe Software Engineer to design, develop, maintain, support, and modernize enterprise applications ...",
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T00:53:59+00:00",
+      "fetched_at": "2026-09-09T08:24:17.191640+00:00"
+    },
+    {
+      "id": "0706bb526b25",
+      "title": "Software Engineer III - Rippling",
+      "company": "Rippling",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/absencesoft/jobs/bd229f84-2fdc-4c82-9040-1acc0aae36c3",
+      "source": "Other",
+      "description": "Software Engineer III. At AbsenceSoft, we're transforming the employee experience. Our secure, intuitive technology helps employers bring humanity, ...",
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T00:52:39+00:00",
+      "fetched_at": "2026-09-09T08:24:17.012712+00:00"
+    },
+    {
+      "id": "07d4b55276cd",
+      "title": "Lead Software Engineer , Full Stack at Capital One",
+      "company": "Capital One",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.capitalonecareers.com/en/job/mclean/lead-software-engineer-full-stack/1732/100364149872",
+      "source": "Other",
+      "description": "Lead Software Engineer ... Lead Data Engineer (Python, AWS, SQL, GenAI) (Enterprise Platforms Technology). McLean, Virginia \u00b7 100364149600. Lead AI ...",
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T00:00:34+00:00",
+      "fetched_at": "2026-09-09T08:24:17.012853+00:00"
+    },
+    {
+      "id": "ea751a496868",
+      "title": "Software Engineer , AI for Chip Design | OpenAI",
+      "company": "OpenAI",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://openai.com/careers/software-engineer-ai-for-chip-design-san-francisco/",
+      "source": "Other",
+      "description": "About the Role. We're hiring a Software Engineer to build the research infrastructure and tooling that help OpenAI models design silicon. You'll turn ...",
+      "date": "2026-09-08",
+      "timestamp": "2026-09-08T23:53:27+00:00",
+      "fetched_at": "2026-09-09T08:24:17.013062+00:00"
+    },
     {
       "id": "f8ab1a5ce1e7",
       "title": "Software Engineer , Applied ML - Jobs - Careers at Apple",
@@ -49,6 +214,36 @@
       "date": "2026-09-08",
       "timestamp": "2026-09-08T23:34:50+00:00",
       "fetched_at": "2026-09-09T01:39:28.007686+00:00"
+    },
+    {
+      "id": "4a5fc7d2a90b",
+      "title": "Research Software Engineer - Program Analyst in New Haven, Connecticut, 06519",
+      "company": "Research Software Engineer",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.yale.edu/us/en/job/YUCYUHUS137745WDEXTERNALENUS/Research-Software-Engineer-Program-Analyst",
+      "source": "Other",
+      "description": "Apply for Research Software Engineer - Program Analyst job with Yale University in New Haven, Connecticut, 06519. IT at Yale University.",
+      "date": "2026-09-08",
+      "timestamp": "2026-09-08T22:38:50+00:00",
+      "fetched_at": "2026-09-09T08:24:17.013229+00:00"
+    },
+    {
+      "id": "c49f71793302",
+      "title": "Tech Lead Cloud DevOps Engineer - Southwest Careers",
+      "company": "Southwest Careers",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.southwestair.com/us/en/job/R-2026-71517/Tech-Lead-Cloud-DevOps-Engineer",
+      "source": "Other",
+      "description": "Apply for Tech Lead Cloud DevOps Engineer job with Southwest in Dallas, Texas, United States of America ... Software Engineer , Full Stack Developer, ...",
+      "date": "2026-09-08",
+      "timestamp": "2026-09-08T21:52:56+00:00",
+      "fetched_at": "2026-09-09T08:24:17.013368+00:00"
     },
     {
       "id": "d1c90f250a45",
@@ -139,6 +334,21 @@
       "date": "2026-09-08",
       "timestamp": "2026-09-08T20:31:25+00:00",
       "fetched_at": "2026-09-09T01:39:27.795607+00:00"
+    },
+    {
+      "id": "1b387aa14aab",
+      "title": "Senior Software Engineer - Backend - Bengaluru, Karnataka, India | Roku Jobs",
+      "company": "Backend - Bengaluru, Karnataka, India | Roku Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.weareroku.com/jobs/senior-software-engineer-backend-bengaluru-karnataka-india-e1653560-016b-4500-9223-71203dcac0a2",
+      "source": "Other",
+      "description": "What is the role? We are seeking a Senior Software Engineer to join the Payouts team where you will be responsible for designing and building mission- ...",
+      "date": "2026-09-08",
+      "timestamp": "2026-09-08T20:29:00+00:00",
+      "fetched_at": "2026-09-09T08:24:17.014785+00:00"
     },
     {
       "id": "20fa5b6cac11",
