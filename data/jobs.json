@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-09-09T08:24:17.228937+00:00",
-  "total_jobs": 9259,
+  "last_updated": "2026-09-09T15:21:55.251251+00:00",
+  "total_jobs": 9276,
   "stats": {
-    "total_companies": 4299,
+    "total_companies": 4304,
     "total_roles": 119,
     "regions": {
-      "India": 6067,
-      "Philippines": 1961,
+      "India": 6073,
+      "Philippines": 1972,
       "Remote": 1135,
       "Unknown": 135
     },
     "sources": {
-      "Other": 7259,
-      "Greenhouse": 455,
+      "Other": 7272,
+      "Greenhouse": 456,
+      "LinkedIn": 395,
       "Workday": 395,
-      "LinkedIn": 394,
-      "Ashby": 278,
+      "Ashby": 280,
       "iCIMS": 119,
       "Breezy": 103,
       "Workable": 64,
@@ -36,6 +36,171 @@
   },
   "jobs": [
     {
+      "id": "3fa3e882eb00",
+      "title": "Security Software Engineer - Hover",
+      "company": "Hover",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://hover.to/job-posts/8187357?gh_jid=8187357",
+      "source": "Other",
+      "description": "Security Software Engineer . Engineering. Apply now. Explore all jobs. Join Hover. Hover helps people design, improve, and protect the properties they ...",
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T14:28:03+00:00",
+      "fetched_at": "2026-09-09T15:21:55.205225+00:00"
+    },
+    {
+      "id": "d02bce01ce7a",
+      "title": "Jr Data Engineer - SmartLight Analytics - Career Page",
+      "company": "SmartLight Analytics - Career Page",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://smartlightanalytics.applytojob.com/apply/m8ElvgaNby/Jr-Data-Engineer",
+      "source": "Other",
+      "description": "We're looking for a Junior Data Engineer to join our Data Platform Team and grow alongside a modern, AI-augmented data stack. This is a hands-on role: ...",
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T14:15:48+00:00",
+      "fetched_at": "2026-09-09T15:21:55.205453+00:00"
+    },
+    {
+      "id": "f37473ae8de7",
+      "title": "No one above me as an ML engineer , how bad is my case? : r/learnmachinelearning",
+      "company": "Unknown Company",
+      "role": "ML Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.reddit.com/r/learnmachinelearning/comments/1wbh43c/no_one_above_me_as_an_ml_engineer_how_bad_is_my/",
+      "source": "Other",
+      "description": "Interview advice - ML/ AI Engineer . 202. 33. Is the traditional \" ML ... Career Choice: software engineer vs machine learning engineer . 4. 20 ...",
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T14:09:41+00:00",
+      "fetched_at": "2026-09-09T15:21:55.205682+00:00"
+    },
+    {
+      "id": "9ff38ca55c7b",
+      "title": "Software Engineer Intern, Hybrid - San Francisco, CA - Coinbase",
+      "company": "San Francisco, CA - Coinbase",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.coinbase.com/careers/positions/8168315",
+      "source": "Other",
+      "description": "Software Engineer Intern \u00b7 Base - Scale the crypto economy by creating integrations, fiat onramps, and developer tools on Coinbase's Ethereum L2 ...",
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T13:49:29+00:00",
+      "fetched_at": "2026-09-09T15:21:55.205830+00:00"
+    },
+    {
+      "id": "1b3ae12c0cf3",
+      "title": "Job Application for Senior Software Engineer at EnergyHub - Greenhouse",
+      "company": "Energyhub",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/energyhub/jobs/8617107002",
+      "source": "Greenhouse",
+      "description": "As a Senior Software Engineer on our growing Battery team, you will design and develop backend services that support residential battery programs ...",
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T13:39:13+00:00",
+      "fetched_at": "2026-09-09T15:21:55.205927+00:00"
+    },
+    {
+      "id": "214ac0041d1a",
+      "title": "Principal Software Engineer | Okta",
+      "company": "Okta",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.okta.com/company/careers/principal-software-engineer-7849955/",
+      "source": "Other",
+      "description": "If you are too, let's talk. We are looking for an experienced Principal Software Engineer to work on our next-generation Imports Platform team.",
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T11:13:40+00:00",
+      "fetched_at": "2026-09-09T15:21:55.206241+00:00"
+    },
+    {
+      "id": "749bb1268406",
+      "title": "Software Engineer , HYDERABAD, Telang\u0101na | Wells Fargo",
+      "company": "Wells Fargo",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.wellsfargojobs.com/en/jobs/r-573515/software-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer . Save Saved. HYDERABAD, Telang\u0101na; Technology. Senior Software Engineer . Save Saved. HYDERABAD, Telang\u0101na; Technology. Join ...",
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T11:05:14+00:00",
+      "fetched_at": "2026-09-09T15:21:55.206420+00:00"
+    },
+    {
+      "id": "651c1ff3e334",
+      "title": "Senior Software Engineer , Python/Typescript - Cambridge, England, United Kingdom",
+      "company": "Cambridge, England, United Kingdom",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.weareroku.com/jobs/senior-software-engineer-python-typescript-cambridge-england-united-kingdom",
+      "source": "Other",
+      "description": "What is the role? Roku is looking for a Senior Software Engineer to join the Embedded Software Automation and Tools team to build full stack ...",
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T10:22:53+00:00",
+      "fetched_at": "2026-09-09T15:21:55.206686+00:00"
+    },
+    {
+      "id": "8c3a0ea305a5",
+      "title": "Full-stack Engineer - Modern Payment Journeys - Rabobank.jobs",
+      "company": "Full",
+      "role": "stack Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://rabobank.jobs/en/job/full-stack-engineer-modern-payment-journeys/JR_00144388/",
+      "source": "Other",
+      "description": "A job with impact? Become Full-stack Engineer - Modern Payment Journeys at Rabobank in Utrecht. View this job and discover your possibilities at ...",
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T10:17:08+00:00",
+      "fetched_at": "2026-09-09T15:21:55.207161+00:00"
+    },
+    {
+      "id": "4f494743b8e3",
+      "title": "Software Engineer , Hyderabad | ServiceNow Careers",
+      "company": "ServiceNow Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.servicenow.com/jobs/744000148409258/software-engineer/",
+      "source": "Other",
+      "description": "Software Engineer . Product \u00b7 Hyderabad; Flexible; September 09, 2026; JB0075091. Apply Now. Save Saved. Open sharing options. Share. See all jobs ...",
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T10:08:49+00:00",
+      "fetched_at": "2026-09-09T15:21:55.207340+00:00"
+    },
+    {
+      "id": "2d26b8484ddd",
+      "title": "Service Now Developer - Software Engineer II - - 358556 - Deloitte",
+      "company": "Service Now Developer",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://usijobs.deloitte.com/en_US/careersUSI/JobDetail/USI-EH27-Consulting-IDT-IDT-FT-Deloitte-Engineering-ServiceNow-Developer-Software-Engineer-II/358556",
+      "source": "Other",
+      "description": "Service Now Developer - Software Engineer II. Same job available in 4 locations. Bengaluru, Karnataka, India. Chennai, Tamil Nadu, India. Hyderabad, ...",
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T09:42:55+00:00",
+      "fetched_at": "2026-09-09T15:21:55.207684+00:00"
+    },
+    {
       "id": "0cc08b4f822e",
       "title": "AI Engineer at Ford Motor Company - Ford Careers",
       "company": "Ford Motor Company",
@@ -51,6 +216,36 @@
       "fetched_at": "2026-09-09T08:24:17.190310+00:00"
     },
     {
+      "id": "8db3d55a9ac6",
+      "title": "Machine Learning Engineer Intern, Hybrid - San Francisco, CA - Coinbase",
+      "company": "San Francisco, CA - Coinbase",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.coinbase.com/careers/positions/8175441",
+      "source": "Other",
+      "description": "Machine Learning Engineer Intern \u00b7 Develop, deploy, and operate machine learning models and pipelines at production scale \u00b7 Drive an end-to-end research ...",
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T07:47:31+00:00",
+      "fetched_at": "2026-09-09T15:21:55.207950+00:00"
+    },
+    {
+      "id": "eebec1e818ba",
+      "title": "Principal Software Engineer in Milpitas, California, United States of America - Cisco Careers",
+      "company": "Cisco Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2021696EXTERNALENGLOBAL/Principal-Software-Engineer",
+      "source": "Other",
+      "description": "Principal Software Engineer . Share. Share via Facebook. Share via ... Senior Site Reliability Engineer , Production Engineer - ThousandEyes(Hybrid).",
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T07:38:37+00:00",
+      "fetched_at": "2026-09-09T15:21:55.208137+00:00"
+    },
+    {
       "id": "696e1f2b7169",
       "title": "DevOps Engineer | DuploCloud - Recruiting",
       "company": "DuploCloud - Recruiting",
@@ -64,6 +259,36 @@
       "date": "2026-09-09",
       "timestamp": "2026-09-09T07:06:00+00:00",
       "fetched_at": "2026-09-09T08:24:17.190473+00:00"
+    },
+    {
+      "id": "5b4121ab9978",
+      "title": "Software Engineer , Forward Deployed @ Ramp - Jobs",
+      "company": "Ramp",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/ramp/9916e9da-7491-4c99-afd1-e4b8158fa58b",
+      "source": "Ashby",
+      "description": "Software Engineer , Forward Deployed. Location. San Francisco, CA; New York, NY (HQ). Employment Type. Full time ...",
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T06:19:41+00:00",
+      "fetched_at": "2026-09-09T15:21:55.208469+00:00"
+    },
+    {
+      "id": "15ac6cf430bf",
+      "title": "Staff Software Engineer | David Merritt - LinkedIn",
+      "company": "David Merritt - LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/davidemerritt_staff-software-engineer-activity-7503177771049734144-WcTD",
+      "source": "LinkedIn",
+      "description": "... https://lnkd.in/g3uwbHFP \u00b7 Staff Software Engineer job-boards.greenhouse.io \u00b7 42 3 Comments \u00b7 Like Comment. Share. Copy",
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T04:26:05+00:00",
+      "fetched_at": "2026-09-09T15:21:55.208971+00:00"
     },
     {
       "id": "8d5397acfef4",
@@ -94,6 +319,21 @@
       "date": "2026-09-09",
       "timestamp": "2026-09-09T03:49:46+00:00",
       "fetched_at": "2026-09-09T08:24:17.010948+00:00"
+    },
+    {
+      "id": "eef6dee96e81",
+      "title": "Software Engineer Intern @ ConductorAI - Jobs",
+      "company": "Conductorai",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/conductorai/d6a1b110-10ad-4b5e-83a0-88c5fd7bc891",
+      "source": "Ashby",
+      "description": "... Software Engineer Intern, you'll work alongside our engineering team to build ConductorAI's core application: a user-facing web platform for large ...",
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T03:46:52+00:00",
+      "fetched_at": "2026-09-09T15:21:55.128021+00:00"
     },
     {
       "id": "13b89aacb04f",
@@ -244,6 +484,21 @@
       "date": "2026-09-08",
       "timestamp": "2026-09-08T21:52:56+00:00",
       "fetched_at": "2026-09-09T08:24:17.013368+00:00"
+    },
+    {
+      "id": "fe4e2d01832f",
+      "title": "Data Engineer , MIDAS, Digital Acceleration - Job ID: 10531732 - Amazon Careers",
+      "company": "Job ID: 10531732 - Amazon Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://amazon.jobs/en/jobs/10531732/data-engineer-midas-digital-acceleration",
+      "source": "Other",
+      "description": "Data Engineer , MIDAS, Digital Acceleration. Job ID: 10531732 | ADCI MAA 15 SEZ. Apply now. Description. Are you excited about the digital media ...",
+      "date": "2026-09-08",
+      "timestamp": "2026-09-08T21:39:23+00:00",
+      "fetched_at": "2026-09-09T15:21:55.130145+00:00"
     },
     {
       "id": "d1c90f250a45",
