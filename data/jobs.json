@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-09-09T22:00:55.459500+00:00",
-  "total_jobs": 9304,
+  "last_updated": "2026-09-10T01:34:12.967544+00:00",
+  "total_jobs": 9316,
   "stats": {
-    "total_companies": 4314,
+    "total_companies": 4315,
     "total_roles": 119,
     "regions": {
-      "India": 6090,
-      "Philippines": 1976,
-      "Remote": 1143,
+      "India": 6099,
+      "Philippines": 1978,
+      "Remote": 1144,
       "Unknown": 135
     },
     "sources": {
-      "Other": 7291,
-      "Greenhouse": 458,
+      "Other": 7300,
+      "Greenhouse": 459,
+      "LinkedIn": 398,
       "Workday": 398,
-      "LinkedIn": 396,
       "Ashby": 282,
       "iCIMS": 119,
       "Breezy": 103,
@@ -31,10 +31,130 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-09-09"
+      "latest": "2026-09-10"
     }
   },
   "jobs": [
+    {
+      "id": "71089fda3fc9",
+      "title": "Software Engineer in Westminster, Colorado | Publicis Groupe Holdings B.V",
+      "company": "Publicis Groupe Holdings B.V",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.publicisgroupe.com/jobs/166907?lang=en-us",
+      "source": "Other",
+      "description": "Publicis Groupe is hiring a Software Engineer in Westminster, Colorado. Review all of the job details and apply today!",
+      "date": "2026-09-10",
+      "timestamp": "2026-09-10T01:03:10+00:00",
+      "fetched_at": "2026-09-10T01:34:12.927915+00:00"
+    },
+    {
+      "id": "87c09c470be0",
+      "title": "Staff Software Engineer , Ads & Core Serving Platform - Pinterest Careers",
+      "company": "Pinterest Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.pinterestcareers.com/jobs/8055266/staff-software-engineer-ads-core-serving-platform/?gh_jid=8055266",
+      "source": "Other",
+      "description": "You can read more about our AI interview philosophy and how we use AI in our recruiting process here. Pinterest is seeking a Staff Software Engineer ...",
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T23:07:54+00:00",
+      "fetched_at": "2026-09-10T01:34:12.928156+00:00"
+    },
+    {
+      "id": "b443112d0b9f",
+      "title": "AI Software Engineer - Rockstar | Jasjit Singh - LinkedIn",
+      "company": "Rockstar | Jasjit Singh - LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/jasjitsingh85_ai-software-engineer-rockstar-activity-7503508177938800640-l8Ud",
+      "source": "LinkedIn",
+      "description": "Rockstar is helping Tally hire an AI Software Engineer ! Tally is building the Agentic Execution System for global trade.",
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T23:07:12+00:00",
+      "fetched_at": "2026-09-10T01:34:12.494135+00:00"
+    },
+    {
+      "id": "825ae79638fe",
+      "title": "Machine Learning Software Engineer in Lund at Arm",
+      "company": "Arm",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.arm.com/job/lund/machine-learning-software-engineer/33099/100378769232",
+      "source": "Other",
+      "description": "Machine Learning Software Engineer . Job ID 2026-19145 Date posted Sep. 09, 2026 Location Lund, Sweden Category Software Engineering Apply.",
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T22:08:05+00:00",
+      "fetched_at": "2026-09-10T01:34:12.494354+00:00"
+    },
+    {
+      "id": "3de5dfa13432",
+      "title": "Software Engineer , Cloud Infrastructure - DoorDash",
+      "company": "DoorDash",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careersatdoordash.com/jobs/software-engineer-cloud-infrastructure/8180903",
+      "source": "Other",
+      "description": "Software Engineer , Cloud Infrastructure. Apply To Job. Job ID: 3540132. DoorDash, Inc. New York, NY. About the Team. Help us build the world's most ...",
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T22:07:55+00:00",
+      "fetched_at": "2026-09-10T01:34:12.494548+00:00"
+    },
+    {
+      "id": "61d9542b4985",
+      "title": "Job Application for Software Engineer I, Elixir (New Grad) at True Anomaly - Greenhouse",
+      "company": "Trueanomalyinc",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5232802007",
+      "source": "Greenhouse",
+      "description": "Software Engineer I, Elixir (New Grad). Denver, CO or Long Beach, CA. Apply. Space is a warfighting domain. True Anomaly seeks those with the talent ...",
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T21:46:20+00:00",
+      "fetched_at": "2026-09-10T01:34:12.494660+00:00"
+    },
+    {
+      "id": "ecf6197a0a22",
+      "title": "Senior IT Software Engineer at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-it-software-engineer/47263/100407276864",
+      "source": "Other",
+      "description": "Senior IT Software Engineer . Santa Clara, California, United States of America IT Ref ID: JR-022045. Apply Save Job. Current Employees, apply here.",
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T21:46:05+00:00",
+      "fetched_at": "2026-09-10T01:34:12.494816+00:00"
+    },
+    {
+      "id": "4c3222796d31",
+      "title": "I'm hiring an AI Engineer . This is a ridiculously fun role - LinkedIn",
+      "company": "LinkedIn",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/mobattah_im-hiring-an-ai-engineer-this-is-a-ridiculously-activity-7503518871262248960-g-S9",
+      "source": "LinkedIn",
+      "description": "I'm hiring an AI Engineer . This is a ridiculously fun role: you get to help set the vision for AI at a fast-growing startup while staying hands-on ...",
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T21:19:59+00:00",
+      "fetched_at": "2026-09-10T01:34:12.495156+00:00"
+    },
     {
       "id": "60fafa46fc8e",
       "title": "Software Engineer Senior - Myworkdayjobs.com",
@@ -65,6 +185,21 @@
       "date": "2026-09-09",
       "timestamp": "2026-09-09T20:51:41+00:00",
       "fetched_at": "2026-09-09T22:00:55.414941+00:00"
+    },
+    {
+      "id": "171f24455f7d",
+      "title": "Software Engineer III | MISO Energy",
+      "company": "MISO Energy",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.misoenergy.org/little-rock-ar/software-engineer-iii/9E3D1209E75E4FCEBCEC0F66E3E03F65/job/",
+      "source": "Other",
+      "description": "Description. MISO is hiring a Software Engineer III . You'll take a hands-on role in building reliable, scalable systems that keep our grid ...",
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T20:27:23+00:00",
+      "fetched_at": "2026-09-10T01:34:12.495557+00:00"
     },
     {
       "id": "266b197fbe77",
@@ -112,6 +247,21 @@
       "fetched_at": "2026-09-09T22:00:55.124181+00:00"
     },
     {
+      "id": "5c2b631d4dd1",
+      "title": "Senior Software Engineer - Core Products Engineering, Pune - 21954 - Bloomberg",
+      "company": "Senior Software Engineer",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://bloomberg.avature.net/careers/JobDetail/Senior-Software-Engineer-Core-Products-Engineering-Pune/21954",
+      "source": "Other",
+      "description": "The Role: The Company Financials team is looking for a highly motivated and experienced Senior Software Engineer to join us in Pune. You will design ...",
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T19:05:53+00:00",
+      "fetched_at": "2026-09-10T01:34:12.496769+00:00"
+    },
+    {
       "id": "ed663fca5f4f",
       "title": "Job Application for Data Engineer at LLR Partners - Greenhouse",
       "company": "Llrpartnersjobs",
@@ -142,6 +292,21 @@
       "fetched_at": "2026-09-09T22:00:55.124489+00:00"
     },
     {
+      "id": "dd21b2e17fce",
+      "title": "Software Engineer job in 650 S Main St, Salt Lake City, UT 84101, United States of America",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.regions.com/us/en/job/R105870/Software-Engineer",
+      "source": "Other",
+      "description": "At Regions, the Software Engineer oversees application development, modification, and maintenance of applications. This position monitors system ...",
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T18:43:35+00:00",
+      "fetched_at": "2026-09-10T01:34:12.497164+00:00"
+    },
+    {
       "id": "b12c7a88e738",
       "title": "Machine Learning Software Engineer in Lund at Arm",
       "company": "Arm",
@@ -155,6 +320,21 @@
       "date": "2026-09-09",
       "timestamp": "2026-09-09T18:34:35+00:00",
       "fetched_at": "2026-09-09T22:00:55.415651+00:00"
+    },
+    {
+      "id": "d5d1b7523f95",
+      "title": "Sr. Machine Learning Engineer , Medical Imaging - Intuitive Surgical Careers",
+      "company": "Intuitive Surgical Careers",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.intuitive.com/en/jobs/744000148562034/JOB215526/sr-machine-learning-engineer-medical-imaging/",
+      "source": "Other",
+      "description": "Sr. Machine Learning Engineer , Medical Imaging \u00b7 Sunnyvale, CA, United States \u00b7 Not Remote \u00b7 Engineering \u00b7 JOB215526.",
+      "date": "2026-09-09",
+      "timestamp": "2026-09-09T18:13:17+00:00",
+      "fetched_at": "2026-09-10T01:34:12.497389+00:00"
     },
     {
       "id": "cf5a8d0a3c4c",
