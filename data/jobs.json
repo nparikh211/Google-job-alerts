@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-09-10T15:15:13.440650+00:00",
-  "total_jobs": 9349,
+  "last_updated": "2026-09-10T18:42:55.488764+00:00",
+  "total_jobs": 9367,
   "stats": {
-    "total_companies": 4329,
-    "total_roles": 119,
+    "total_companies": 4335,
+    "total_roles": 120,
     "regions": {
-      "India": 6127,
-      "Philippines": 1979,
-      "Remote": 1149,
+      "India": 6138,
+      "Philippines": 1983,
+      "Remote": 1152,
       "Unknown": 135
     },
     "sources": {
-      "Other": 7330,
-      "Greenhouse": 459,
+      "Other": 7344,
+      "Greenhouse": 460,
+      "LinkedIn": 400,
       "Workday": 399,
-      "LinkedIn": 399,
-      "Ashby": 283,
+      "Ashby": 285,
       "iCIMS": 119,
       "Breezy": 103,
       "Workable": 64,
@@ -35,6 +35,261 @@
     }
   },
   "jobs": [
+    {
+      "id": "3b9587670ec4",
+      "title": "Platform Engineer @ Perry Weather - Jobs",
+      "company": "Perryweather",
+      "role": "Platform Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/perryweather/e8d81344-c4eb-4339-99ae-38c477a4aeae",
+      "source": "Ashby",
+      "description": "... Platform Engineer to help build and run the infrastructure the rest of engineering depends on. You'll partner closely with our Lead Platform Engineer ...",
+      "date": "2026-09-10",
+      "timestamp": "2026-09-10T16:59:39+00:00",
+      "fetched_at": "2026-09-10T18:42:55.444750+00:00"
+    },
+    {
+      "id": "69f22a5bed13",
+      "title": "Data Platform Engineer @ Mercor - Jobs",
+      "company": "Mercor",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/mercor/415d2ee3-44b9-40e5-ab4b-04340faa3872",
+      "source": "Ashby",
+      "description": "Data Platform Engineer . Location. San Francisco. Employment Type. Full time. Location Type. On-site. Department. Engineering. Compensation. $130K \u2013 ...",
+      "date": "2026-09-10",
+      "timestamp": "2026-09-10T16:57:23+00:00",
+      "fetched_at": "2026-09-10T18:42:55.349446+00:00"
+    },
+    {
+      "id": "3a70ebd95534",
+      "title": "Data Engineer | Job Details - + Cornerstone Galaxy +",
+      "company": "Job Details - + Cornerstone Galaxy +",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://cornerstone.csod.com/ux/ats/careersite/2/home/requisition/11505?c=cornerstone",
+      "source": "Other",
+      "description": "We are seeking a talented Data Engineer to sit in our Dublin, CA office(Hybrid). The right candidate has strong communication skills, passion for ...",
+      "date": "2026-09-10",
+      "timestamp": "2026-09-10T16:39:17+00:00",
+      "fetched_at": "2026-09-10T18:42:55.445292+00:00"
+    },
+    {
+      "id": "4f89f3737fed",
+      "title": "Senior Machine Learning Engineer - Remote - US - Samsara",
+      "company": "Remote - US - Samsara",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.samsara.com/company/careers/roles/8055245?gh_jid=8055245",
+      "source": "Other",
+      "description": "In this role, you will: \u00b7 6+ years of experience as a Machine Learning Engineer or similar role, with a track record of shipping models in production.",
+      "date": "2026-09-10",
+      "timestamp": "2026-09-10T16:37:34+00:00",
+      "fetched_at": "2026-09-10T18:42:55.350591+00:00"
+    },
+    {
+      "id": "b0261fe28b46",
+      "title": "Frontend / Fullstack Engineer - Marketplace job in Menlo Park, California, United States",
+      "company": "Marketplace job in Menlo Park, California, United States",
+      "role": "Fullstack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.snowflake.com/us/en/job/SNCOUS6A9A95335E6A412FA2C3FFF102D2D0D8EXTERNALENUSA51A1E3094EC4550B39F90EF328DFA87/Frontend-Fullstack-Engineer-Marketplace",
+      "source": "Other",
+      "description": "Frontend / Fullstack Engineer ... We are looking for a Software Engineer who is passionate about creating exceptional user experiences and driving ...",
+      "date": "2026-09-10",
+      "timestamp": "2026-09-10T16:30:48+00:00",
+      "fetched_at": "2026-09-10T18:42:55.351032+00:00"
+    },
+    {
+      "id": "8d0f4e12a6f2",
+      "title": "Software Engineer III Job Details | Briggs & Stratton - Careers",
+      "company": "Briggs & Stratton - Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.basco.com/job/Wauwatosa-Software-Engineer-III-WI-53222/1428159600/",
+      "source": "Other",
+      "description": "As a Software Engineer III, your goal will be to support our Electrification group by performing a variety of complex engineering duties to design ...",
+      "date": "2026-09-10",
+      "timestamp": "2026-09-10T15:55:32+00:00",
+      "fetched_at": "2026-09-10T18:42:55.351234+00:00"
+    },
+    {
+      "id": "82995944b955",
+      "title": "Software Engineer - paycomonline.net",
+      "company": "paycomonline.net",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.paycomonline.net/v4/ats/web.php/portal/F96D35AF09F8603CFE20EE86A84DE50D/jobs/520488",
+      "source": "Other",
+      "description": "Software Engineer . Optional Work from Home \u2022 Buffalo Office - Buffalo ... We are looking for an experienced, full stack software engineer to ...",
+      "date": "2026-09-10",
+      "timestamp": "2026-09-10T15:30:05+00:00",
+      "fetched_at": "2026-09-10T18:42:55.351420+00:00"
+    },
+    {
+      "id": "a63583e5041e",
+      "title": "Software Engineer - Pittsfield, MA, US - 2026-74877 | General Dynamics Mission Systems",
+      "company": "Pittsfield, MA, US - 2026-74877 | General Dynamics Mission Systems",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://gdmissionsystems.com/careers/software-engineer-pittsfield-ma-us-2026-74877-opportunity",
+      "source": "Other",
+      "description": "ROLE AND POSITION OBJECTIVES: As a software engineer for General Dynamics Mission Systems, you'll be a member of a cross functional team responsible ...",
+      "date": "2026-09-10",
+      "timestamp": "2026-09-10T15:21:40+00:00",
+      "fetched_at": "2026-09-10T18:42:55.351723+00:00"
+    },
+    {
+      "id": "6cac77d09127",
+      "title": "Staff Full Stack Engineer , Post Order Experience | CookUnity Careers",
+      "company": "CookUnity Careers",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.cookunity.com/jobs/7904275003",
+      "source": "Other",
+      "description": "Staff Full Stack Engineer , Post Order Experience. Engineering. Latam (Remote). About CookUnity: Food has lost its soul to modern convenience. And ...",
+      "date": "2026-09-10",
+      "timestamp": "2026-09-10T15:18:13+00:00",
+      "fetched_at": "2026-09-10T18:42:55.351856+00:00"
+    },
+    {
+      "id": "75d0bf99c665",
+      "title": "Senior Software Engineer - Network Automation - Dallas, Texas, United States",
+      "company": "Network Automation - Dallas, Texas, United States",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.equinix.com/jobs/senior-software-engineer-network-automation-dallas-texas-united-states",
+      "source": "Other",
+      "description": "Senior Software Engineer - Network Automation ... Who are we? Equinix is the world's digital infrastructure company\u00ae, shortening the path to ...",
+      "date": "2026-09-10",
+      "timestamp": "2026-09-10T15:08:07+00:00",
+      "fetched_at": "2026-09-10T18:42:55.352136+00:00"
+    },
+    {
+      "id": "136f37fc6f05",
+      "title": "Senior Software Engineer in Atlanta, Georgia | First Citizens Bank",
+      "company": "First Citizens Bank",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.firstcitizens.com/jobs/35465?lang=en-us",
+      "source": "Other",
+      "description": "First Citizens Careers is hiring a Senior Software Engineer in Atlanta, Georgia. Review all of the job details and apply today!",
+      "date": "2026-09-10",
+      "timestamp": "2026-09-10T15:04:08+00:00",
+      "fetched_at": "2026-09-10T18:42:55.352276+00:00"
+    },
+    {
+      "id": "c04bf2c27ec0",
+      "title": "DevOps Engineer - Metropolitan Companies Wyomissing",
+      "company": "Metropolitan Companies Wyomissing",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://mmgapts.pinpointhq.com/en/postings/93941392-4ad8-40a3-a4a8-8ed1a0e253be",
+      "source": "Other",
+      "description": "Metropolitan Companies is seeking a DevOps Engineer to support and scale our internal development and infrastructure platforms.",
+      "date": "2026-09-10",
+      "timestamp": "2026-09-10T14:49:01+00:00",
+      "fetched_at": "2026-09-10T18:42:55.352442+00:00"
+    },
+    {
+      "id": "b5237d3aa11c",
+      "title": "Job Application for Associate Software Engineer at Rothera - Greenhouse",
+      "company": "Rotheramarketsllc",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/rotheramarketsllc/jobs/4401091009",
+      "source": "Greenhouse",
+      "description": "Associate Software Engineer . Chicago, IL or New York City, NY. Apply. Building markets for the new trading frontier. Bringing the future into focus ...",
+      "date": "2026-09-10",
+      "timestamp": "2026-09-10T14:28:32+00:00",
+      "fetched_at": "2026-09-10T18:42:55.447840+00:00"
+    },
+    {
+      "id": "fc324c5f8f1a",
+      "title": "Senior Software Engineer , SWE Program Tools - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200682819-0836/senior-software-engineer-swe-program-tools?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Senior Software Engineer , SWE Program Tools job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-09-10",
+      "timestamp": "2026-09-10T14:27:27+00:00",
+      "fetched_at": "2026-09-10T18:42:55.352646+00:00"
+    },
+    {
+      "id": "d292a51059ab",
+      "title": "Senior Legal AI Platform Engineer - Cribl",
+      "company": "Cribl",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://cribl.io/job-detail/6183372004/",
+      "source": "Other",
+      "description": "Ready to do the best work of your career? Join the herd and unlock your opportunity.",
+      "date": "2026-09-10",
+      "timestamp": "2026-09-10T13:48:50+00:00",
+      "fetched_at": "2026-09-10T18:42:55.352919+00:00"
+    },
+    {
+      "id": "529f89af5286",
+      "title": "Machine Learning Engineer in United States | Avita Care Solutions",
+      "company": "Avita Care Solutions",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.avitapharmacy.com/jobs/3088?lang=en-us",
+      "source": "Other",
+      "description": "Job Description. The Machine Learning Engineer will have deep expertise in healthcare and pharmacy data. The focus of the role is on designing ...",
+      "date": "2026-09-10",
+      "timestamp": "2026-09-10T13:33:12+00:00",
+      "fetched_at": "2026-09-10T18:42:55.353191+00:00"
+    },
+    {
+      "id": "b30eb405ba84",
+      "title": "GOPAL JAISWAL's Post - LinkedIn",
+      "company": "Unknown Company",
+      "role": "GOPAL JAISWAL's Post - LinkedIn",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/gopal-jaiswal-568ab9a8_wanted-to-share-got-promoted-to-senior-software-activity-7503774108539817984-Qe-8",
+      "source": "LinkedIn",
+      "description": "Senior Software Engineer @Microsoft | Tech, Agentic Al & Career Coach | Top 1% Topmate | Gen Al | Mentor | Content Creator | AI Engineer | 24K+ ...",
+      "date": "2026-09-10",
+      "timestamp": "2026-09-10T13:28:20+00:00",
+      "fetched_at": "2026-09-10T18:42:55.353880+00:00"
+    },
     {
       "id": "74c83b9a5041",
       "title": "Data Engineer in Media, Pennsylvania - Elwyn Careers",
@@ -64,6 +319,21 @@
       "date": "2026-09-10",
       "timestamp": "2026-09-10T13:18:48+00:00",
       "fetched_at": "2026-09-10T15:15:13.223054+00:00"
+    },
+    {
+      "id": "df3dcb1cec28",
+      "title": "Belva Inc - Sr. Generative AI Engineer - Paylocity",
+      "company": "Belva Inc",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://recruiting.paylocity.com/recruiting/jobs/Details/4489024/Belva-Inc/Sr-Generative-AI-Engineer",
+      "source": "Other",
+      "description": "We are looking for a hands-on and highly capable Sr. Gen AI Engineer to join our growing AI team. As an early team member at a fast-paced and ...",
+      "date": "2026-09-10",
+      "timestamp": "2026-09-10T13:14:28+00:00",
+      "fetched_at": "2026-09-10T18:42:55.450438+00:00"
     },
     {
       "id": "514f2112ec11",
