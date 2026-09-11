@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-09-11T18:46:33.435899+00:00",
-  "total_jobs": 9430,
+  "last_updated": "2026-09-11T22:02:02.345928+00:00",
+  "total_jobs": 9435,
   "stats": {
-    "total_companies": 4362,
+    "total_companies": 4363,
     "total_roles": 121,
     "regions": {
-      "India": 6173,
+      "India": 6178,
       "Philippines": 2001,
       "Remote": 1162,
       "Unknown": 135
     },
     "sources": {
-      "Other": 7392,
+      "Other": 7395,
       "Greenhouse": 467,
+      "Workday": 403,
       "LinkedIn": 402,
-      "Workday": 402,
-      "Ashby": 287,
+      "Ashby": 288,
       "iCIMS": 120,
       "Breezy": 103,
       "Workable": 64,
@@ -36,6 +36,36 @@
   },
   "jobs": [
     {
+      "id": "6c8bc77f8314",
+      "title": "AI Engineer in Rochester, New York, United States of America",
+      "company": "Unknown Company",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.excellusbcbs.com/us/en/job/EXBCUSJR103556EXTERNALENUS/AI-Engineer",
+      "source": "Other",
+      "description": "... Software Engineer to contribute to software development projects ... Cloud Engineer Network. Available in 6 locations. Category Analytics, Data ...",
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T18:40:02+00:00",
+      "fetched_at": "2026-09-11T22:02:02.205309+00:00"
+    },
+    {
+      "id": "1bf320a3802b",
+      "title": "Senior Software Engineer - AI Enablement - Myworkdayjobs.com",
+      "company": "Workiva",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://workiva.wd503.myworkdayjobs.com/en-US/careers/job/Senior-Software-Engineer---AI-Enablement_R12336-1",
+      "source": "Workday",
+      "description": "As a Senior Software Engineer , you will be the technical engine of the AI Enablement team. Your mission is to bridge the gap between \"AI-adjacent\" ...",
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T17:35:32+00:00",
+      "fetched_at": "2026-09-11T22:02:02.205443+00:00"
+    },
+    {
       "id": "e89461ad34b9",
       "title": "Software Engineer Job Details | Super Micro Computer",
       "company": "Super Micro Computer",
@@ -49,6 +79,21 @@
       "date": "2026-09-11",
       "timestamp": "2026-09-11T17:10:22+00:00",
       "fetched_at": "2026-09-11T18:46:33.318992+00:00"
+    },
+    {
+      "id": "23a834a3b845",
+      "title": "Software Engineer , Data Infrastructure @ Cohere - Jobs",
+      "company": "Cohere",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/cohere/70313283-6532-450a-8cae-18f9e05a7673",
+      "source": "Ashby",
+      "description": "Software Engineer , Data Infrastructure. Location. United States; Canada; London. Employment Type. Full time. Location Type. On-site. Department.",
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T17:00:23+00:00",
+      "fetched_at": "2026-09-11T22:02:02.205809+00:00"
     },
     {
       "id": "18f99335ea85",
@@ -186,6 +231,21 @@
       "fetched_at": "2026-09-11T18:46:33.320312+00:00"
     },
     {
+      "id": "9a891156fd29",
+      "title": "Sr Cloud Engineer | Lockton Careers",
+      "company": "Lockton Careers",
+      "role": "Cloud Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.lockton.com/jobid/2601ko",
+      "source": "Other",
+      "description": "The Senior Cloud Engineer serves as a key technical leader and Level-3 ... Full Lifecycle Data Engineer . Kansas City, United States of America.",
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T13:49:20+00:00",
+      "fetched_at": "2026-09-11T22:02:02.207360+00:00"
+    },
+    {
       "id": "7e9044eeb968",
       "title": "Senior Software Engineer - Commercial Navigation - Remote - US - Samsara",
       "company": "Commercial Navigation - Remote - US - Samsara",
@@ -229,6 +289,21 @@
       "date": "2026-09-11",
       "timestamp": "2026-09-11T13:03:19+00:00",
       "fetched_at": "2026-09-11T18:46:33.320750+00:00"
+    },
+    {
+      "id": "021a5283610a",
+      "title": "Software Engineer , Infrastructure Services (Data Plane) - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200683048-3401/software-engineer-infrastructure-services-data-plane",
+      "source": "Other",
+      "description": "Apply for a Software Engineer , Infrastructure Services (Data Plane) job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T12:58:03+00:00",
+      "fetched_at": "2026-09-11T22:02:02.208166+00:00"
     },
     {
       "id": "1090abc87207",
