@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-09-11T15:17:16.782441+00:00",
-  "total_jobs": 9416,
+  "last_updated": "2026-09-11T18:46:33.435899+00:00",
+  "total_jobs": 9430,
   "stats": {
-    "total_companies": 4354,
+    "total_companies": 4362,
     "total_roles": 121,
     "regions": {
-      "India": 6163,
-      "Philippines": 1998,
-      "Remote": 1161,
+      "India": 6173,
+      "Philippines": 2001,
+      "Remote": 1162,
       "Unknown": 135
     },
     "sources": {
-      "Other": 7383,
-      "Greenhouse": 464,
+      "Other": 7392,
+      "Greenhouse": 467,
+      "LinkedIn": 402,
       "Workday": 402,
-      "LinkedIn": 401,
-      "Ashby": 286,
+      "Ashby": 287,
       "iCIMS": 120,
       "Breezy": 103,
       "Workable": 64,
@@ -36,6 +36,156 @@
   },
   "jobs": [
     {
+      "id": "e89461ad34b9",
+      "title": "Software Engineer Job Details | Super Micro Computer",
+      "company": "Super Micro Computer",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.supermicro.com/job/San-Jose-Software-Engineer-Cali/1428832300/",
+      "source": "Other",
+      "description": "Job Summary: We are looking for a passionate, motivated Software Engineer to join our dynamic and fast-paced team. In this role, you will ...",
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T17:10:22+00:00",
+      "fetched_at": "2026-09-11T18:46:33.318992+00:00"
+    },
+    {
+      "id": "18f99335ea85",
+      "title": "Job Application for Senior Software Engineer - Backend at Roadie - Greenhouse",
+      "company": "Roadie",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/roadie/jobs/8786983002",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer - Backend. REMOTE. Apply. Roadie, a UPS company, is a leading logistics and delivery platform that helps businesses tackle ...",
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T16:41:24+00:00",
+      "fetched_at": "2026-09-11T18:46:33.395735+00:00"
+    },
+    {
+      "id": "3de516fead6c",
+      "title": "Greylock Partners hiring Sr. Data Engineer in San Francisco, CA | LinkedIn",
+      "company": "LinkedIn",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/4464820171/",
+      "source": "LinkedIn",
+      "description": "Machine Learning Engineer jobs \u00b7 Scientist jobs \u00b7 Data Warehouse Manager ... Telecommunications Software Engineer jobs \u00b7 Randall Reilly jobs ...",
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T16:10:48+00:00",
+      "fetched_at": "2026-09-11T18:46:33.319182+00:00"
+    },
+    {
+      "id": "fd699157a68c",
+      "title": "Job Application for Full Stack Engineer at AssetWatch, Inc. - Greenhouse",
+      "company": "Assetwatch",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/assetwatch/jobs/4730476005",
+      "source": "Greenhouse",
+      "description": "Full Stack Engineer . United States. Apply. AssetWatch serves global manufacturers by powering manufacturing uptime through the delivery of an ...",
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T15:50:13+00:00",
+      "fetched_at": "2026-09-11T18:46:33.319336+00:00"
+    },
+    {
+      "id": "55c4024680a8",
+      "title": "Job Application for Senior, Data Engineer at TaxRise - Greenhouse",
+      "company": "Taxrise",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/taxrise/jobs/4402302009",
+      "source": "Greenhouse",
+      "description": "Senior, Data Engineer . Irvine. Apply. WHY JOIN TAXRISE? At TaxRise, we don't just provide tax relief services; we provide hope, stability, and ...",
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T15:34:11+00:00",
+      "fetched_at": "2026-09-11T18:46:33.396332+00:00"
+    },
+    {
+      "id": "62764f064284",
+      "title": "Data Engineer - Python - Government Systems Technologies Inc. (GSTi) - Hartford, CT, US",
+      "company": "Python - Government Systems Technologies Inc. (GSTi) - Hartford, CT, US",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.dice.com/job-detail/fdfbdc62-dcc6-4695-a065-506dfc6145db",
+      "source": "Other",
+      "description": "1 day ago - Job Title: Data Engineer - PythonLocation: Hartford, CTContractPrimary Skills: PythonJob Description:Job Requirements This is an ...",
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T15:25:06+00:00",
+      "fetched_at": "2026-09-11T18:46:33.396567+00:00"
+    },
+    {
+      "id": "53e1ec54f193",
+      "title": "Software Engineer I in Pune, India, 411006 - Mastercard",
+      "company": "Mastercard",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mastercard.com/us/en/job/R-290204/Software-Engineer-I",
+      "source": "Other",
+      "description": "Software Engineer I. Apply Now. Back to search results. Previous job Next job ... Senior Software Engineer . Location Pune, India, 411006 Category ...",
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T15:13:44+00:00",
+      "fetched_at": "2026-09-11T18:46:33.319506+00:00"
+    },
+    {
+      "id": "172a94bb6c87",
+      "title": "Software Engineer - 66002 - MANTECH",
+      "company": "66002 - MANTECH",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mantech.com/en_US/careers/JobDetail/Software-Engineer/66002",
+      "source": "Other",
+      "description": "MANTECH seeks a motivated, career and customer-oriented Software Engineer to join our team in Fort Meade, MD. The Software Engineer will leverage ...",
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T14:47:52+00:00",
+      "fetched_at": "2026-09-11T18:46:33.319659+00:00"
+    },
+    {
+      "id": "3eca2e951216",
+      "title": "Software Engineer - Sustaining Engineering - Swisslog Healthcare",
+      "company": "Software Engineer",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.swisslog-healthcare.com/en-us/careers/openings/software-engineer---sustaining-engineering-4643",
+      "source": "Other",
+      "description": "Software Engineer - Sustaining Engineering. September 11, 2026. APPLY HERE. Make an Impact with Healthcare ...",
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T14:19:39+00:00",
+      "fetched_at": "2026-09-11T18:46:33.320019+00:00"
+    },
+    {
+      "id": "ef33b7155c06",
+      "title": "Senior Data Engineer - Microsoft Fabric Job Details | Black & Veatch Family of Companies",
+      "company": "Microsoft Fabric Job Details | Black & Veatch Family of Companies",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.bv.com/job/Overland-Park-Senior-Data-Engineer-Microsoft-Fabric-KS-66062/1435869733/",
+      "source": "Other",
+      "description": "We are looking for an experienced, talented, and motivated Senior Data Engineer with significant experience in Agile Methodology, ETL, Data Automation ...",
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T14:19:04+00:00",
+      "fetched_at": "2026-09-11T18:46:33.320312+00:00"
+    },
+    {
       "id": "7e9044eeb968",
       "title": "Senior Software Engineer - Commercial Navigation - Remote - US - Samsara",
       "company": "Commercial Navigation - Remote - US - Samsara",
@@ -51,6 +201,36 @@
       "fetched_at": "2026-09-11T15:17:16.351305+00:00"
     },
     {
+      "id": "8428064bf248",
+      "title": "Data Engineer , Flex Analytics - Job ID: 10536801 - Amazon Careers",
+      "company": "Job ID: 10536801 - Amazon Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://amazon.jobs/en/jobs/10536801/data-engineer-flex-analytics",
+      "source": "Other",
+      "description": "Data Engineer , Flex Analytics \u00b7 Description. Interested in the gig economy? Come be a part of it. \u00b7 Basic Qualifications. - 1+ years of data engineering ...",
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T13:33:46+00:00",
+      "fetched_at": "2026-09-11T18:46:33.398163+00:00"
+    },
+    {
+      "id": "bef1f62ac141",
+      "title": "Applied AI Engineer @ Arena Intelligence, Inc. - Jobs",
+      "company": "Arena",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/arena/d82adca7-5bd5-4c54-b201-3d027968764d",
+      "source": "Ashby",
+      "description": "Applied AI Engineer . Location. Bay Area. Employment Type. Full time. Location Type. Hybrid. Department. Engineering. Compensation. $150K \u2013 $250K. See ...",
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T13:03:19+00:00",
+      "fetched_at": "2026-09-11T18:46:33.320750+00:00"
+    },
+    {
       "id": "1090abc87207",
       "title": "Software Engineer - Hearst Careers - Sign in",
       "company": "Hearst Careers - Sign in",
@@ -64,6 +244,21 @@
       "date": "2026-09-11",
       "timestamp": "2026-09-11T11:43:23+00:00",
       "fetched_at": "2026-09-11T15:17:16.351674+00:00"
+    },
+    {
+      "id": "09004eebe7ed",
+      "title": "Software Engineer - Port Orchard, WA, US - 2026-74837",
+      "company": "Port Orchard, WA, US - 2026-74837",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://gdmissionsystems.com/careers/software-engineer-lakewood-oh-us-2026-74837-opportunity",
+      "source": "Other",
+      "description": "A Software Engineer designs, develops, tests, and maintains software applications or related, Science, Engineering or Mathematics fields, ...",
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T11:40:57+00:00",
+      "fetched_at": "2026-09-11T18:46:33.321280+00:00"
     },
     {
       "id": "87ddd0eefa98",
@@ -169,6 +364,21 @@
       "date": "2026-09-11",
       "timestamp": "2026-09-11T10:08:09+00:00",
       "fetched_at": "2026-09-11T15:17:16.352515+00:00"
+    },
+    {
+      "id": "d9b998dfff7f",
+      "title": "Senior Software Engineer - Kafka - Gravitee",
+      "company": "Kafka - Gravitee",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://graviteetopcoltd.teamtailor.com/jobs/8362082-senior-software-engineer-kafka",
+      "source": "Other",
+      "description": "Senior Software Engineer - Kafka. Build full-stack experiences that make APIs and AI agents clearer, safer, and easier to govern \u2014 using Java ...",
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T10:03:59+00:00",
+      "fetched_at": "2026-09-11T18:46:33.322413+00:00"
     },
     {
       "id": "7ceb86e15a19",
