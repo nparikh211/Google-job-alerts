@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-09-11T08:20:14.408207+00:00",
-  "total_jobs": 9398,
+  "last_updated": "2026-09-11T15:17:16.782441+00:00",
+  "total_jobs": 9416,
   "stats": {
-    "total_companies": 4347,
+    "total_companies": 4354,
     "total_roles": 121,
     "regions": {
-      "India": 6153,
-      "Philippines": 1995,
-      "Remote": 1156,
+      "India": 6163,
+      "Philippines": 1998,
+      "Remote": 1161,
       "Unknown": 135
     },
     "sources": {
-      "Other": 7366,
+      "Other": 7383,
       "Greenhouse": 464,
-      "Workday": 401,
+      "Workday": 402,
       "LinkedIn": 401,
       "Ashby": 286,
       "iCIMS": 120,
@@ -36,6 +36,231 @@
   },
   "jobs": [
     {
+      "id": "7e9044eeb968",
+      "title": "Senior Software Engineer - Commercial Navigation - Remote - US - Samsara",
+      "company": "Commercial Navigation - Remote - US - Samsara",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.samsara.com/company/careers/roles/7892026?gh_jid=7892026",
+      "source": "Other",
+      "description": "Senior Software Engineer - Commercial Navigation. Remote - US. ID:JR10995 (for internal use only). Apply Now. Senior Software Engineer - Commercial ...",
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T13:36:31+00:00",
+      "fetched_at": "2026-09-11T15:17:16.351305+00:00"
+    },
+    {
+      "id": "1090abc87207",
+      "title": "Software Engineer - Hearst Careers - Sign in",
+      "company": "Hearst Careers - Sign in",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2027409",
+      "source": "Other",
+      "description": "Software Engineer . About Hearst Magazines (Why Us?) Bring a Trailer is part of the Hearst Autos family.",
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T11:43:23+00:00",
+      "fetched_at": "2026-09-11T15:17:16.351674+00:00"
+    },
+    {
+      "id": "87ddd0eefa98",
+      "title": "Platform & Data Engineer III - Myworkdayjobs.com",
+      "company": "Alsacstjude",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://alsacstjude.wd1.myworkdayjobs.com/careersalsacstjude/job/NEO---Tamer-Rashid-Building-OA/Platform---Data-Engineer-III_R0011170-1",
+      "source": "Workday",
+      "description": "Jude Children's Research Hospital \u2013 is currently looking for a Platform & Data Engineer III as follows. Responsible for providing technical leadership ...",
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T11:29:22+00:00",
+      "fetched_at": "2026-09-11T15:17:16.351788+00:00"
+    },
+    {
+      "id": "037d2423568e",
+      "title": "Senior Software Engineer (Limited-Term) - CU Boulder Jobs",
+      "company": "Term) - CU Boulder Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.colorado.edu/jobs/JobDetail/Senior-Software-Engineer-Limited-Term/74785",
+      "source": "Other",
+      "description": "Senior Software Engineer (Limited-Term) at created 10-Sep-2026.",
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T11:09:30+00:00",
+      "fetched_at": "2026-09-11T15:17:16.741382+00:00"
+    },
+    {
+      "id": "6055f41b8749",
+      "title": "Data Engineer in Louisville, Kentucky | Technology and Digital Analytics at Humana",
+      "company": "Humana",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.humana.com/us/en/job/R-423900/Data-Engineer",
+      "source": "Other",
+      "description": "Data Engineer . Description. Become a part of our caring community. We are ... Lead Cloud & Data Platform Engineer . Location: Louisville, Kentucky.",
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T10:39:51+00:00",
+      "fetched_at": "2026-09-11T15:17:16.351902+00:00"
+    },
+    {
+      "id": "ac331ac62883",
+      "title": "Senior Software Engineer - Husky Storage - Datadog Careers",
+      "company": "Husky Storage - Datadog Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.datadoghq.com/detail/8193518/?gh_jid=8193518",
+      "source": "Other",
+      "description": "As a Senior Software Engineer on this team, you'll work hands-on with a distributed storage system at petabyte scale, and help us evolve our platform ...",
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T10:39:35+00:00",
+      "fetched_at": "2026-09-11T15:17:16.352052+00:00"
+    },
+    {
+      "id": "a8fd9e37015d",
+      "title": "Sr Principal Software Engineer - ADEM (Backend) at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-principal-software-engineer-adem-backend/47263/96174881872",
+      "source": "Other",
+      "description": "Sr Principal Software Engineer - ADEM (Backend). Santa Clara, California, United States of America Product Engineering Ref ID: JR-018648. Apply",
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T10:28:09+00:00",
+      "fetched_at": "2026-09-11T15:17:16.352225+00:00"
+    },
+    {
+      "id": "b89abfedb625",
+      "title": "Senior Data & AI Platform Engineer - Saab",
+      "company": "Saab",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.saab.com/career/job-opportunities/senior-data--ai-platform-engineer",
+      "source": "Other",
+      "description": "Join our welcoming world of tech and let your ideas soar. Your Role. We are looking for a Senior Data & AI Platform Engineer who wants to contribute ...",
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T10:18:49+00:00",
+      "fetched_at": "2026-09-11T15:17:16.352373+00:00"
+    },
+    {
+      "id": "499b3fdfa1ae",
+      "title": "Software Engineer (HLS) - Jobs at Volvo Group",
+      "company": "Volvo Group",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.volvogroup.com/job/Bangalore-Software-Engineer-%28HLS%29-562122/1355384455/?feedId=361555",
+      "source": "Other",
+      "description": "Software Engineer (HLS). Location: Bangalore, IN, 562122. Position Type: Professional. Transport is at the core of modern society. Imagine using your ...",
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T10:08:09+00:00",
+      "fetched_at": "2026-09-11T15:17:16.352515+00:00"
+    },
+    {
+      "id": "7ceb86e15a19",
+      "title": "Senior Software Engineer , Search & Recommendations - Cambridge, England, United Kingdom",
+      "company": "Cambridge, England, United Kingdom",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.weareroku.com/jobs/senior-software-engineer-search-recommendations-cambridge-england-united-kingdom-e2e9e64d-1cfd-41b5-9556-1c7e51afc34e",
+      "source": "Other",
+      "description": "What is the role? We are seeking a Senior Software Engineer to join the Search & Recommendations team, building services at scale that power Roku's ...",
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T10:00:02+00:00",
+      "fetched_at": "2026-09-11T15:17:16.352902+00:00"
+    },
+    {
+      "id": "beae7ccc315a",
+      "title": "Senior DevOps Engineer - Remote, United States of America | EIS Careers",
+      "company": "Remote, United States of America | EIS Careers",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.eisgroup.com/en/postings/1935378e-2e12-4610-a5f9-eceb97526b1b",
+      "source": "Other",
+      "description": "Senior DevOps Engineer . At EIS, DevOps ownership spans the complete path from cloud foundation to a running application. We are looking for a senior ...",
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T09:26:33+00:00",
+      "fetched_at": "2026-09-11T15:17:16.353169+00:00"
+    },
+    {
+      "id": "18a3f704a907",
+      "title": "Sr Software Engineer , Radomlje | ServiceNow Careers",
+      "company": "ServiceNow Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.servicenow.com/jobs/744000148866434/sr-software-engineer/",
+      "source": "Other",
+      "description": "We are seeking a passionate Senior Software Engineer to play a critical ... Similar Jobs. See All Jobs \u00b7 Sr Staff AI Engineer - Veza. Save Saved.",
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T09:04:44+00:00",
+      "fetched_at": "2026-09-11T15:17:16.353302+00:00"
+    },
+    {
+      "id": "3b6e8f1371c6",
+      "title": "Data Engineer , Information Technology - The Heritage Foundation - Career Page",
+      "company": "The Heritage Foundation - Career Page",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://heritage.applytojob.com/apply/SACmsVN5P3/Data-Engineer-Information-Technology",
+      "source": "Other",
+      "description": "The Data Engineer collaborates with cross-functional teams, including analysts, engineers, and business stakeholders, to deliver scalable data ...",
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T07:54:13+00:00",
+      "fetched_at": "2026-09-11T15:17:16.353586+00:00"
+    },
+    {
+      "id": "ce1403a422c6",
+      "title": "Senior Software Engineer , Storage - Distributed Caching - DoorDash",
+      "company": "Distributed Caching - DoorDash",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careersatdoordash.com/jobs/senior-software-engineer-storage---distributed-caching/8191134",
+      "source": "Other",
+      "description": "Senior Software Engineer , Storage - Distributed Caching. Apply To Job. Job ID: 3544626. DoorDash, Inc. San Francisco, CA; Seattle, WA; New York, NY ...",
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T07:42:26+00:00",
+      "fetched_at": "2026-09-11T15:17:16.353769+00:00"
+    },
+    {
+      "id": "3dd56d08e440",
+      "title": "Software Engineer - Revalue - Teamtailor",
+      "company": "Revalue - Teamtailor",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://revalue.teamtailor.com/jobs/8342501-software-engineer",
+      "source": "Other",
+      "description": "Software Engineer . Apply for this job. **Candidates must reside in Indonesia and have existing authorisation to work there**. About Us. Revalue is a ...",
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T06:47:13+00:00",
+      "fetched_at": "2026-09-11T15:17:16.354044+00:00"
+    },
+    {
       "id": "916cb6e9d194",
       "title": "Software Engineer , Santa Clara | ServiceNow Careers",
       "company": "ServiceNow Careers",
@@ -49,6 +274,21 @@
       "date": "2026-09-11",
       "timestamp": "2026-09-11T06:38:38+00:00",
       "fetched_at": "2026-09-11T08:20:14.367770+00:00"
+    },
+    {
+      "id": "3348c99bd5ce",
+      "title": "Data Engineer - Kenya Airways Careers | Join Our Team",
+      "company": "Kenya Airways Careers | Join Our Team",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.kenya-airways.com/anonymous/listing/01dd3b69-1a41-4151-b5d6-06c1a7931f9a/details?division=6fef853f-d078-4aa9-8642-79d61dc68585",
+      "source": "Other",
+      "description": "Reporting to the Senior Manager Data Science & Analytics, the Data Engineer is responsible for documenting data models, architecting distributed ...",
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T06:38:03+00:00",
+      "fetched_at": "2026-09-11T15:17:16.354264+00:00"
     },
     {
       "id": "99633c98c59f",
@@ -126,6 +366,21 @@
       "fetched_at": "2026-09-11T08:20:14.368488+00:00"
     },
     {
+      "id": "a1b1f4f204d1",
+      "title": "Software Engineer , Maneuvering Tech - Mountain View, California, United States",
+      "company": "Mountain View, California, United States",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.withwaymo.com/jobs/software-engineer-maneuvering-tech-mountain-view-california-united-states-pittsburgh-pennsylvania-san-francisco",
+      "source": "Other",
+      "description": "Software Engineer , Maneuvering Tech. Mountain View, California ... Machine Learning Engineer , Fleet Monitoring & Response. Mountain View ...",
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T01:46:32+00:00",
+      "fetched_at": "2026-09-11T15:17:16.744525+00:00"
+    },
+    {
       "id": "4b72b1e55267",
       "title": "Senior Software Engineer | Mahdokht (Maddy) Kalantari - LinkedIn",
       "company": "Mahdokht (Maddy) Kalantari - LinkedIn",
@@ -139,6 +394,21 @@
       "date": "2026-09-11",
       "timestamp": "2026-09-11T01:42:41+00:00",
       "fetched_at": "2026-09-11T08:20:13.977694+00:00"
+    },
+    {
+      "id": "55b87b9c1b5b",
+      "title": "Software Engineer - Job Detail | Careers Marketplace - Siemens",
+      "company": "Job Detail | Careers Marketplace - Siemens",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/522148",
+      "source": "Other",
+      "description": "Similar jobs. Senior Software Engineer . Multiple Locations. Senior Software Engineer ... Data and AI Fullstack Engineer . Multiple Locations. View all ...",
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T00:39:45+00:00",
+      "fetched_at": "2026-09-11T15:17:16.744987+00:00"
     },
     {
       "id": "5864b484e646",
