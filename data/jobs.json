@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-09-12T17:54:07.050588+00:00",
-  "total_jobs": 9487,
+  "last_updated": "2026-09-12T21:43:03.046357+00:00",
+  "total_jobs": 9492,
   "stats": {
     "total_companies": 4378,
-    "total_roles": 121,
+    "total_roles": 122,
     "regions": {
-      "India": 6207,
-      "Philippines": 2019,
+      "India": 6211,
+      "Philippines": 2020,
       "Remote": 1167,
       "Unknown": 135
     },
     "sources": {
-      "Other": 7435,
+      "Other": 7439,
       "Greenhouse": 470,
       "Workday": 405,
-      "LinkedIn": 403,
+      "LinkedIn": 404,
       "Ashby": 290,
       "iCIMS": 123,
       "Breezy": 103,
@@ -35,6 +35,36 @@
     }
   },
   "jobs": [
+    {
+      "id": "3fc32494a8cb",
+      "title": "Experienced Software Engineer at Boeing",
+      "company": "Boeing",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.boeing.com/job/hazelwood/experienced-software-engineer/185/100506251872",
+      "source": "Other",
+      "description": "Experienced Software Engineer . Hazelwood, Missouri; Berkeley, Missouri Job ID JR2026524478 Category Engineering - Software Role Type Onsite Post ...",
+      "date": "2026-09-12",
+      "timestamp": "2026-09-12T16:49:55+00:00",
+      "fetched_at": "2026-09-12T21:43:02.934162+00:00"
+    },
+    {
+      "id": "651a58b58683",
+      "title": "Pradeep Kumar's Post - LinkedIn",
+      "company": "Unknown Company",
+      "role": "Pradeep Kumar's Post - LinkedIn",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/pradeepkumar40_%F0%9D%97%9C-%F0%9D%97%B9%F0%9D%97%B2%F0%9D%97%B3%F0%9D%98%81-%F0%9D%97%BA%F0%9D%98%86-%F0%9D%97%B7%F0%9D%97%BC%F0%9D%97%AF-%F0%9D%97%AE%F0%9D%98%80-%F0%9D%97%AE-%F0%9D%97%A6%F0%9D%97%B2%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BC%F0%9D%97%BF-activity-7504399645540954112-h5C4",
+      "source": "LinkedIn",
+      "description": "I left my job as a Senior Software Engineer at NetApp. Not because I had stopped ...",
+      "date": "2026-09-12",
+      "timestamp": "2026-09-12T16:09:41+00:00",
+      "fetched_at": "2026-09-12T21:43:02.935173+00:00"
+    },
     {
       "id": "c705390eb500",
       "title": "Associate Software Engineer - Java in Sterling, Virginia - Job Listings at REI Systems",
@@ -111,6 +141,36 @@
       "fetched_at": "2026-09-12T17:54:02.886212+00:00"
     },
     {
+      "id": "68b8a120ab66",
+      "title": "A Day in The Life of a Software Engineer - YouTube",
+      "company": "YouTube",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.youtube.com/shorts/mz9wAJ0D6Bk",
+      "source": "Other",
+      "description": "A Day in The Life of a Software Engineer . I woke up and took the skytrain downtown. Then I started my day with emails and responding to slack ...",
+      "date": "2026-09-12",
+      "timestamp": "2026-09-12T12:18:56+00:00",
+      "fetched_at": "2026-09-12T21:43:02.936200+00:00"
+    },
+    {
+      "id": "cd2da2d1cc1a",
+      "title": "Lead Platform Software Engineer in Multiple Locations - State Farm Careers",
+      "company": "State Farm Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.statefarm.com/main/jobs/45570?lang=en-us",
+      "source": "Other",
+      "description": "Lead Platform Software Engineer . JOB_DESCRIPTION.SHARE.HTML ... As a Lead Platform Engineer , you will design, build, and maintain an ...",
+      "date": "2026-09-12",
+      "timestamp": "2026-09-12T12:00:09+00:00",
+      "fetched_at": "2026-09-12T21:43:03.008580+00:00"
+    },
+    {
       "id": "3b43f85fedc3",
       "title": "AlloBaas - Data Engineer II - Paylocity",
       "company": "AlloBaas",
@@ -169,6 +229,21 @@
       "date": "2026-09-12",
       "timestamp": "2026-09-12T10:23:36+00:00",
       "fetched_at": "2026-09-12T14:25:22.518632+00:00"
+    },
+    {
+      "id": "cf8fd1d29702",
+      "title": "Python Software Engineer , CX Engineering(Hybrid) - Cisco Careers",
+      "company": "Cisco Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2021701EXTERNALENGLOBAL/Python-Software-Engineer-CX-Engineering-Hybrid",
+      "source": "Other",
+      "description": "Exciting opportunity for a Senior Software Engineer to design and deliver robust, scalable software solutions within Cisco's Customer Experience ...",
+      "date": "2026-09-12",
+      "timestamp": "2026-09-12T10:23:36+00:00",
+      "fetched_at": "2026-09-12T21:43:02.937534+00:00"
     },
     {
       "id": "7fe6a120f1c5",
