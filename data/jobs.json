@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-09-11T22:02:02.345928+00:00",
-  "total_jobs": 9435,
+  "last_updated": "2026-09-12T01:39:41.030459+00:00",
+  "total_jobs": 9455,
   "stats": {
-    "total_companies": 4363,
+    "total_companies": 4367,
     "total_roles": 121,
     "regions": {
-      "India": 6178,
-      "Philippines": 2001,
-      "Remote": 1162,
+      "India": 6193,
+      "Philippines": 2002,
+      "Remote": 1166,
       "Unknown": 135
     },
     "sources": {
-      "Other": 7395,
-      "Greenhouse": 467,
-      "Workday": 403,
+      "Other": 7410,
+      "Greenhouse": 469,
+      "Workday": 405,
       "LinkedIn": 402,
       "Ashby": 288,
-      "iCIMS": 120,
+      "iCIMS": 121,
       "Breezy": 103,
       "Workable": 64,
       "Lever": 63,
@@ -31,10 +31,280 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-09-11"
+      "latest": "2026-09-12"
     }
   },
   "jobs": [
+    {
+      "id": "6b398e10d8db",
+      "title": "Full Stack Engineer - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200680032-3956/full-stack-engineer?team=SFTWR",
+      "source": "Other",
+      "description": "We are looking for a Full Stack Engineer who is, at heart, a builder. Someone equally at home crafting a refined ReactJS interface and designing ...",
+      "date": "2026-09-12",
+      "timestamp": "2026-09-12T00:19:07+00:00",
+      "fetched_at": "2026-09-12T01:39:40.827203+00:00"
+    },
+    {
+      "id": "cc5201e0bd9c",
+      "title": "Software Engineer I - Backend in Amsterdam, Netherlands - Booking.com Careers",
+      "company": "Backend in Amsterdam, Netherlands - Booking.com Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.booking.com/booking/jobs/30257?lang=en-us",
+      "source": "Other",
+      "description": "Booking.com Careers is hiring a Software Engineer I - Backend in Amsterdam, Netherlands. Review all of the job details and apply today!",
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T22:53:23+00:00",
+      "fetched_at": "2026-09-12T01:39:40.827736+00:00"
+    },
+    {
+      "id": "a36efbcc107b",
+      "title": "Software Engineer , Early Careers focused on AI and UI - San Jose, California, United States",
+      "company": "San Jose, California, United States",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.weareroku.com/jobs/software-engineer-early-careers-focused-on-ai-and-ui-san-jose-california-united-states",
+      "source": "Other",
+      "description": "Related Jobs ; Senior Financial Analyst, San Jose, California ; Senior Software Engineer - Java, AWS, Oxford Road, Manchester, England ; Senior Software ...",
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T22:39:44+00:00",
+      "fetched_at": "2026-09-12T01:39:40.828106+00:00"
+    },
+    {
+      "id": "16e04a960e9a",
+      "title": "Lyft Software Engineer Intern, Backend (Summer 2027) - Puck",
+      "company": "Puck",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://app.careerpuck.com/job-board/lyft/job/8767726002",
+      "source": "Other",
+      "description": "Software Engineer Intern, Backend (Summer 2027). San Francisco, CA. ID: 111132. Apply Hear clips from the team.",
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T21:36:09+00:00",
+      "fetched_at": "2026-09-12T01:39:40.828227+00:00"
+    },
+    {
+      "id": "52d023c7aa63",
+      "title": "Software Engineer 4 in Remote - Job Listings at Granicus, LLC - ICIMS",
+      "company": "Granicus, LLC",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers-granicus.icims.com/jobs/10452/software-engineer-4/job",
+      "source": "iCIMS",
+      "description": "Remote: US is now hiring a Software Engineer 4 in Remote. Review all of the job details and apply today!",
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T21:26:27+00:00",
+      "fetched_at": "2026-09-12T01:39:40.987328+00:00"
+    },
+    {
+      "id": "f3d31bbb717b",
+      "title": "Senior Software Engineer - Myworkdayjobs.com",
+      "company": "Stord",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://stord.wd503.myworkdayjobs.com/en-US/Stord_External_Career/job/Senior-Software-Engineer_JR102980",
+      "source": "Workday",
+      "description": "Senior Software Engineer ... Stord is The Consumer Experience Company, powering seamless checkout through delivery for today's leading brands. Stord is ...",
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T21:14:30+00:00",
+      "fetched_at": "2026-09-12T01:39:40.828491+00:00"
+    },
+    {
+      "id": "ec4b57a5a123",
+      "title": "Software Engineer - Careers - Myworkdayjobs.com",
+      "company": "Johngore",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://johngore.wd1.myworkdayjobs.com/careers/job/Boca-Raton-FL-Mon---Th-in-Office/Software-Engineer_R100723",
+      "source": "Workday",
+      "description": "Software Engineer \u00b7 THE JOHN GORE ORGANIZATION \u00b7 Duties and Responsibilities \u00b7 Communication Skills \u00b7 Critical Thinking \u00b7 Acknowledgement \u00b7 EQUAL EMPLOYMENT ...",
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T21:01:19+00:00",
+      "fetched_at": "2026-09-12T01:39:40.987489+00:00"
+    },
+    {
+      "id": "e46537ac3ae2",
+      "title": "Sr. Software Engineer -0335 and jobs at Comcast",
+      "company": "Comcast",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.comcast.com/job/reston/sr-software-engineer-0335/47546/100488230960",
+      "source": "Other",
+      "description": "Sr. Software Engineer -0335. Location Reston, Virginia Req ID R444352 Job Type Full Time. Category Computer Engineering Date posted ...",
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T20:20:09+00:00",
+      "fetched_at": "2026-09-12T01:39:40.828791+00:00"
+    },
+    {
+      "id": "02198af50139",
+      "title": "Software Engineer in Huntsville, Alabama (No Remote) - Leidos Careers",
+      "company": "Leidos Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.leidos.com/jobs/18234039-software-engineer",
+      "source": "Other",
+      "description": "Within the Defense Sector, the Airborne Systems Business Area at Leidos currently has an opening for a talented Flight Software Engineer to work in ...",
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T20:15:29+00:00",
+      "fetched_at": "2026-09-12T01:39:40.987789+00:00"
+    },
+    {
+      "id": "845a25925b0f",
+      "title": "Senior Software Engineer , Booking - Mountain View, California, United States",
+      "company": "Mountain View, California, United States",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.withwaymo.com/jobs/senior-software-engineer-booking-mountain-view-california-united-states-san-francisco",
+      "source": "Other",
+      "description": "Senior Software Engineer , Booking. Mountain View, California, United ... Machine Learning Engineer , Fleet Monitoring & Response. Mountain View ...",
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T20:13:44+00:00",
+      "fetched_at": "2026-09-12T01:39:40.829125+00:00"
+    },
+    {
+      "id": "e68a4dae670d",
+      "title": "Job Application for Software Engineer , Machine Learning at AppLovin - Greenhouse",
+      "company": "Applovin",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/applovin/jobs/4712559006?gh_jid=4712559006",
+      "source": "Greenhouse",
+      "description": "Software Engineer , Machine Learning. Palo Alto, CA. Apply. About AppLovin. AppLovin makes technologies that help businesses of every size connect to ...",
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T20:07:47+00:00",
+      "fetched_at": "2026-09-12T01:39:40.988176+00:00"
+    },
+    {
+      "id": "f4b4ee5c06aa",
+      "title": "DevOps Engineer | Citi Careers",
+      "company": "Citi Careers",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.citi.com/job/warsaw/devops-engineer/287/100494874656",
+      "source": "Other",
+      "description": "DevOps Engineer \u00b7 Simplify CI/CD pipeline based on Enterprise level solutions: \u00b7 Build cloud infrastructure in our AWS environment: \u00b7 Build cloud ...",
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T20:00:08+00:00",
+      "fetched_at": "2026-09-12T01:39:40.829255+00:00"
+    },
+    {
+      "id": "ede109deacc5",
+      "title": "Job Application for Senior Full Stack Engineer at Techstars - Greenhouse",
+      "company": "Techstars57",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/techstars57/jobs/8787386002",
+      "source": "Greenhouse",
+      "description": "Senior Full Stack Engineer . Remote. Apply. Techstars is building an operating system that centralizes how we run accelerator programs, support ...",
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T19:59:51+00:00",
+      "fetched_at": "2026-09-12T01:39:40.829338+00:00"
+    },
+    {
+      "id": "888968550acf",
+      "title": "Software Engineer - Rippling",
+      "company": "Rippling",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/quotewell/jobs/87ba22da-e236-4a79-84ac-d5a78bc9f75b",
+      "source": "Other",
+      "description": "Software Engineer . We started as a vertical SaaS company in insurance. We grew into operating our own wholesale brokerage and a programs group ...",
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T19:56:56+00:00",
+      "fetched_at": "2026-09-12T01:39:40.829481+00:00"
+    },
+    {
+      "id": "3ec7fff316da",
+      "title": "Senior Software Engineer , Sunnyvale, CA, United States - Intuitive Surgical Careers",
+      "company": "Intuitive Surgical Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.intuitive.com/en/jobs/744000149078939/JOB218302/senior-software-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer . Sunnyvale, CA, United States; Not Remote ... Join us. View all jobs \u00b7 Staff Machine Learning Engineer . Save Saved.",
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T19:33:40+00:00",
+      "fetched_at": "2026-09-12T01:39:40.829825+00:00"
+    },
+    {
+      "id": "bb3687b033fb",
+      "title": "Data Engineer - - 81232 - Jobs at Lenovo",
+      "company": "Lenovo",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.lenovo.com/en_US/careers/JobDetail/Data-Engineer/81232",
+      "source": "Other",
+      "description": "As a Data Engineer , you will work side by side with Domain Leaders, Forward Deployed Engineers, subject matter experts, and platform partners to turn ...",
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T19:18:49+00:00",
+      "fetched_at": "2026-09-12T01:39:40.829938+00:00"
+    },
+    {
+      "id": "1940f8d0c603",
+      "title": "Software Engineer I - American Express Careers",
+      "company": "American Express Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.americanexpress.com/en/sites/CX_1/job/26013594",
+      "source": "Other",
+      "description": "Software Engineer I. Bengaluru, KA, India (Hybride). Apply Now. Job Description. The Enterprise Technology Services organization partners with every ...",
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T18:55:31+00:00",
+      "fetched_at": "2026-09-12T01:39:40.988802+00:00"
+    },
+    {
+      "id": "e566d28cb8d9",
+      "title": "Software Engineer - Careers at GE Vernova",
+      "company": "GE Vernova",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.gevernova.com/software-engineer/job/R5052246",
+      "source": "Other",
+      "description": "Software Engineer . Digital Engineering; PB. Type: Full Time. Location(s):: Bangalore VERNOVA (JFWTC) IN. Date Posted: Salary: Job Posting Start Date ...",
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T18:40:40+00:00",
+      "fetched_at": "2026-09-12T01:39:40.830040+00:00"
+    },
     {
       "id": "6c8bc77f8314",
       "title": "AI Engineer in Rochester, New York, United States of America",
@@ -49,6 +319,36 @@
       "date": "2026-09-11",
       "timestamp": "2026-09-11T18:40:02+00:00",
       "fetched_at": "2026-09-11T22:02:02.205309+00:00"
+    },
+    {
+      "id": "af4330611036",
+      "title": "Software Engineer - ASML",
+      "company": "ASML",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.asml.com/en/careers/find-your-job/software-engineer-j00348262",
+      "source": "Other",
+      "description": "Software Engineer . Apply Now. In a nutshell. Location. Veldhoven, Netherlands. Team. Design Engineering and Architecture. Work experience. 4-9 years ...",
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T18:39:25+00:00",
+      "fetched_at": "2026-09-12T01:39:40.830304+00:00"
+    },
+    {
+      "id": "6a42b4a3ca1a",
+      "title": "Senior Lead Software Engineer , Marketing and Messaging Experimentation at Capital One",
+      "company": "Capital One",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.capitalonecareers.com/job/mclean/senior-lead-software-engineer-marketing-and-messaging-experimentation/1732/100492581152",
+      "source": "Other",
+      "description": "Learn more about applying for Senior Lead Software Engineer , Marketing and Messaging Experimentation at Capital One. ... Lead Data Engineer . New York, ...",
+      "date": "2026-09-11",
+      "timestamp": "2026-09-11T18:05:25+00:00",
+      "fetched_at": "2026-09-12T01:39:40.830668+00:00"
     },
     {
       "id": "1bf320a3802b",
