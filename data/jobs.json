@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-09-13T08:33:36.874590+00:00",
-  "total_jobs": 9516,
+  "last_updated": "2026-09-13T15:07:02.852186+00:00",
+  "total_jobs": 9532,
   "stats": {
-    "total_companies": 4388,
+    "total_companies": 4396,
     "total_roles": 122,
     "regions": {
-      "India": 6229,
-      "Philippines": 2023,
-      "Remote": 1170,
+      "India": 6240,
+      "Philippines": 2026,
+      "Remote": 1172,
       "Unknown": 135
     },
     "sources": {
-      "Other": 7455,
+      "Other": 7470,
       "Greenhouse": 471,
       "Workday": 407,
       "LinkedIn": 405,
-      "Ashby": 292,
+      "Ashby": 293,
       "iCIMS": 124,
       "Breezy": 103,
       "Lever": 64,
@@ -35,6 +35,111 @@
     }
   },
   "jobs": [
+    {
+      "id": "6d572f724652",
+      "title": "Software Engineer : I'm Tired of Pretending | daily.dev",
+      "company": "daily.dev",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://daily.dev/posts/csnrcuaoh",
+      "source": "Other",
+      "description": "A software engineer reflects candidly on burnout, imposter syndrome, and the exhausting pressure to constantly keep up with new technology and AI.",
+      "date": "2026-09-13",
+      "timestamp": "2026-09-13T13:36:22+00:00",
+      "fetched_at": "2026-09-13T15:07:02.808536+00:00"
+    },
+    {
+      "id": "d8cbd159b8ff",
+      "title": "Data Engineer in Princeton, NJ for Princeton University",
+      "company": "Unknown Company",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://main.hercjobs.org/jobs/22577999/data-engineer",
+      "source": "Other",
+      "description": "Job Type Full-Time Overview. The Princeton DMIA Integration team is looking for a Data Engineer to own and evolve our data integration practice.",
+      "date": "2026-09-13",
+      "timestamp": "2026-09-13T11:52:08+00:00",
+      "fetched_at": "2026-09-13T15:07:02.808673+00:00"
+    },
+    {
+      "id": "a857428f17ec",
+      "title": "Fullstack Engineer , Ads @ Whatnot - Jobs",
+      "company": "Whatnot",
+      "role": "Fullstack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/whatnot/8c35bce8-aef3-4911-81a9-8a81497494b2?locationId=8a6781ca-9b3b-481b-b147-2d7c1017c2d1",
+      "source": "Ashby",
+      "description": "... Fullstack Engineer you should have 5+ years of generalist ... full-stack engineer . Experience with Python on backend, and/or Postgres ...",
+      "date": "2026-09-13",
+      "timestamp": "2026-09-13T10:39:15+00:00",
+      "fetched_at": "2026-09-13T15:07:02.511074+00:00"
+    },
+    {
+      "id": "b10b7ee077c2",
+      "title": "What to do with my 4yoe as a DevOps Engineer ? : r/devopsjobs - Reddit",
+      "company": "to do with my 4yoe as a DevOps Engineer ? : r/devopsjobs",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/devopsjobs/comments/1wedim3/what_to_do_with_my_4yoe_as_a_devops_engineer/",
+      "source": "Other",
+      "description": "I'm a DevOps / Cloud / Platform Engineer with 4.5+ years of experience, currently working as a DevOps Engineer (Lead) & CISO at an AI startup. 15 ...",
+      "date": "2026-09-13",
+      "timestamp": "2026-09-13T10:33:50+00:00",
+      "fetched_at": "2026-09-13T15:07:02.511793+00:00"
+    },
+    {
+      "id": "5ec07ce5d362",
+      "title": "Staff Full Stack Engineer at Sully | Y Combinator",
+      "company": "Sully",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.ycombinator.com/companies/sully/jobs/DuoVsUf-staff-full-stack-engineer",
+      "source": "Other",
+      "description": "... Software Engineer at Sully, you will be responsible for gathering ... Staff Data Engineer \u00b7 Conduit \u00b7 Software Engineer \u00b7 Glen.",
+      "date": "2026-09-13",
+      "timestamp": "2026-09-13T10:14:10+00:00",
+      "fetched_at": "2026-09-13T15:07:02.511967+00:00"
+    },
+    {
+      "id": "ab81b5b23956",
+      "title": "Senior Software Engineer (Infrastructure) \u2013 VSCO \u2013 Permanent contract in San Francisco",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.welcometothejungle.com/en/companies/vsco/jobs/senior-software-engineer-infrastructure_san-francisco_ywf3qf2t",
+      "source": "Other",
+      "description": "We're looking for a Senior Software Engineer , Infrastructure to own the platform that VSCO product and data teams ship on.",
+      "date": "2026-09-13",
+      "timestamp": "2026-09-13T08:13:23+00:00",
+      "fetched_at": "2026-09-13T15:07:02.512570+00:00"
+    },
+    {
+      "id": "ec72cc533550",
+      "title": "Principal Software Engineer - Cisco Careers",
+      "company": "Cisco Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2025605EXTERNALENGLOBAL/Principal-Software-Engineer",
+      "source": "Other",
+      "description": "We are recruiting a Senior Software Engineer to design and develop control plane software for Cisco Hypershield, focusing on network security features ...",
+      "date": "2026-09-13",
+      "timestamp": "2026-09-13T07:59:31+00:00",
+      "fetched_at": "2026-09-13T15:07:02.512773+00:00"
+    },
     {
       "id": "8c7f7d4f290a",
       "title": "East West Bank | AI Engineer in Pasadena, California | Careers at SCA Head Office",
@@ -66,6 +171,36 @@
       "fetched_at": "2026-09-13T08:33:36.755508+00:00"
     },
     {
+      "id": "e33ada45d5f3",
+      "title": "Mid-Level Data Engineer and Data Modeler \u2013 RDBMS and NoSQL - ITDS - Just Join IT",
+      "company": "Mid",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://justjoin.it/job-offer/itds-mid-level-data-engineer-and-data-modeler---rdbms-and-nosql-krakow-data-6ca1871a",
+      "source": "Other",
+      "description": "As a Mid-Level Data Engineer and Data Modeler, you will be working for our client, a global leader supporting diverse businesses and functions across ...",
+      "date": "2026-09-13",
+      "timestamp": "2026-09-13T06:57:03+00:00",
+      "fetched_at": "2026-09-13T15:07:02.513437+00:00"
+    },
+    {
+      "id": "5eebf05d54c3",
+      "title": "Software Engineer - Data Insights Job in Texas - TX, Other Career, Full Time Jobs in McKesson",
+      "company": "Data Insights Job in Texas - TX, Other Career, Full Time Jobs in McKesson",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.oriontalent.com/search-jobs/career/11647919/software-engineer-data-insights-texas-tx-irving",
+      "source": "Other",
+      "description": "McKesson Pharmacy Systems (MPS) is seeking a Software Engineer to join our Data Insights team. In this role, you will build and support scalable data ...",
+      "date": "2026-09-13",
+      "timestamp": "2026-09-13T06:32:39+00:00",
+      "fetched_at": "2026-09-13T15:07:02.513681+00:00"
+    },
+    {
       "id": "e90e47d1d924",
       "title": "Senior Software Engineer (.NET + Vue) - Remote - Latin America - LinkedIn",
       "company": "Remote - Latin America - LinkedIn",
@@ -79,6 +214,96 @@
       "date": "2026-09-13",
       "timestamp": "2026-09-13T06:25:32+00:00",
       "fetched_at": "2026-09-13T08:33:36.755671+00:00"
+    },
+    {
+      "id": "60cf7f191ec9",
+      "title": "Senior Software Engineer - Devex",
+      "company": "Devex",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.devex.com/jobs/senior-software-engineer-1460070",
+      "source": "Other",
+      "description": "Locations New Delhi, India Contract Type Full time Deadline End Date: October 10, 2026 REFERENCE R00029835 Who is ERM?",
+      "date": "2026-09-13",
+      "timestamp": "2026-09-13T06:16:12+00:00",
+      "fetched_at": "2026-09-13T15:07:02.810609+00:00"
+    },
+    {
+      "id": "cea2eb430e08",
+      "title": "r/EngineeringResumes on Reddit: [4 YoE] Current Role: Software Engineer (DevOps), Target Role",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/EngineeringResumes/comments/1wezbbi/4_yoe_current_role_software_engineer_devops/",
+      "source": "Other",
+      "description": "Senior software engineer roles - is the market that bad or am I looking ... Senior DevOps Engineer . 42 upvotes \u00b7 9 comments. Software Engineer .",
+      "date": "2026-09-13",
+      "timestamp": "2026-09-13T06:07:09+00:00",
+      "fetched_at": "2026-09-13T15:07:02.514009+00:00"
+    },
+    {
+      "id": "69e627cfc684",
+      "title": "Senior Machine Learning Engineer - Aftershoot Careers",
+      "company": "Aftershoot Careers",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.aftershoot.com/o/senior-machine-learning-engineer-1",
+      "source": "Other",
+      "description": "Your Mission. We are looking for an experienced Machine Learning Engineer with deep expertise in Computer Vision and Generative AI to join our team ...",
+      "date": "2026-09-13",
+      "timestamp": "2026-09-13T05:21:57+00:00",
+      "fetched_at": "2026-09-13T15:07:02.514156+00:00"
+    },
+    {
+      "id": "c303f0dceef4",
+      "title": "Staff Software Engineer , Front End, Google Workspace - Leadership Triangle Job Board",
+      "company": "Staff Software Engineer , Front End, Google Workspace",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.leadershiptriangle.com/companies/google-24698/jobs/93057089-staff-software-engineer-front-end-google-workspace",
+      "source": "Other",
+      "description": "As a software engineer , you will work on a specific project critical to Google's needs with opportunities to switch teams and projects as you and ...",
+      "date": "2026-09-13",
+      "timestamp": "2026-09-13T03:33:26+00:00",
+      "fetched_at": "2026-09-13T15:07:02.810911+00:00"
+    },
+    {
+      "id": "8a9e375b4034",
+      "title": "Senior Software Engineer (Android) \u2013 SpotOn \u2013 Permanent contract \u2013 Fully-remote",
+      "company": "remote",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.welcometothejungle.com/en/companies/spoton/jobs/senior-software-engineer-android_us_5vdhu4dw",
+      "source": "Other",
+      "description": "SpotOn is looking for a Senior Software Engineer (Android)!",
+      "date": "2026-09-13",
+      "timestamp": "2026-09-13T03:17:58+00:00",
+      "fetched_at": "2026-09-13T15:07:02.514410+00:00"
+    },
+    {
+      "id": "42f2835df5a3",
+      "title": "Machine Learning Engineer - Remote job with YO AI Labs | 42002571 - Physics Today Jobs",
+      "company": "Remote job with YO AI Labs | 42002571 - Physics Today Jobs",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.physicstoday.org/job/42002571/machine-learning-engineer-remote/",
+      "source": "Other",
+      "description": "Machine Learning Engineer - Remote in Bachelor, Experienced Career ... Senior Software Engineer , Machine Learning Infrastructure. Spokane ...",
+      "date": "2026-09-13",
+      "timestamp": "2026-09-13T02:51:30+00:00",
+      "fetched_at": "2026-09-13T15:07:02.514597+00:00"
     },
     {
       "id": "3d75ef138d7a",
@@ -109,6 +334,21 @@
       "date": "2026-09-13",
       "timestamp": "2026-09-13T00:50:12+00:00",
       "fetched_at": "2026-09-13T08:33:36.756117+00:00"
+    },
+    {
+      "id": "2ae9895a3e9a",
+      "title": "Platform Engineer - AI Engineering | Chicago, IL, USA - eFinancialCareers",
+      "company": "Platform Engineer",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.efinancialcareers.com/jobs-USA-IL-Chicago-Platform_Engineer_-_AI_Engineering.id24770064",
+      "source": "Other",
+      "description": "Cloud Engineer . DRW. Chicago, United States. DRW. Senior Software Engineer , Finance (Clojure) ... Site Reliability Engineer - Algorithmic Trading. DRW.",
+      "date": "2026-09-13",
+      "timestamp": "2026-09-13T00:50:12+00:00",
+      "fetched_at": "2026-09-13T15:07:02.514965+00:00"
     },
     {
       "id": "3a27e248f807",
