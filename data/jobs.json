@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-09-13T01:29:52.408259+00:00",
-  "total_jobs": 9501,
+  "last_updated": "2026-09-13T08:33:36.874590+00:00",
+  "total_jobs": 9516,
   "stats": {
-    "total_companies": 4381,
+    "total_companies": 4388,
     "total_roles": 122,
     "regions": {
-      "India": 6219,
-      "Philippines": 2021,
-      "Remote": 1167,
+      "India": 6229,
+      "Philippines": 2023,
+      "Remote": 1170,
       "Unknown": 135
     },
     "sources": {
-      "Other": 7446,
+      "Other": 7455,
       "Greenhouse": 471,
-      "Workday": 406,
-      "LinkedIn": 404,
-      "Ashby": 290,
-      "iCIMS": 123,
+      "Workday": 407,
+      "LinkedIn": 405,
+      "Ashby": 292,
+      "iCIMS": 124,
       "Breezy": 103,
+      "Lever": 64,
       "Workable": 64,
-      "Lever": 63,
       "SmartRecruiters": 60,
       "Indeed": 31,
       "BrassRing": 11,
@@ -31,10 +31,145 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-09-12"
+      "latest": "2026-09-13"
     }
   },
   "jobs": [
+    {
+      "id": "8c7f7d4f290a",
+      "title": "East West Bank | AI Engineer in Pasadena, California | Careers at SCA Head Office",
+      "company": "SCA Head Office",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers-eastwestbank.icims.com/jobs/13502/ai-engineer/job",
+      "source": "iCIMS",
+      "description": "SCA Head Office is now hiring a AI Engineer in Pasadena, California. Review all of the job details and apply today!",
+      "date": "2026-09-13",
+      "timestamp": "2026-09-13T07:28:15+00:00",
+      "fetched_at": "2026-09-13T08:33:36.754943+00:00"
+    },
+    {
+      "id": "3ac847ba0846",
+      "title": "Senior Software Engineer , Data Platform - Rippling",
+      "company": "Rippling",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/rippling/jobs/c18cd3b8-f998-4aed-8192-20e2f71f4b45",
+      "source": "Other",
+      "description": "About the role. We are hiring a Senior Software Engineer to work across core data and ML infrastructure, workflow orchestration, data integrations and ...",
+      "date": "2026-09-13",
+      "timestamp": "2026-09-13T06:59:09+00:00",
+      "fetched_at": "2026-09-13T08:33:36.755508+00:00"
+    },
+    {
+      "id": "e90e47d1d924",
+      "title": "Senior Software Engineer (.NET + Vue) - Remote - Latin America - LinkedIn",
+      "company": "Remote - Latin America - LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/4466401437/",
+      "source": "LinkedIn",
+      "description": "Senior Software Engineer (.NET + Vue) - Remote - Latin America ... Senior Full Stack Engineer (Node + Vue) - Remote - Latin America. FullStack.",
+      "date": "2026-09-13",
+      "timestamp": "2026-09-13T06:25:32+00:00",
+      "fetched_at": "2026-09-13T08:33:36.755671+00:00"
+    },
+    {
+      "id": "3d75ef138d7a",
+      "title": "Senior Systems Software Engineer , Observability and Telemetry Platform",
+      "company": "Nvidia",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Senior-Systems-Software-Engineer--Observability-and-Telemetry-Platform_JR2024747",
+      "source": "Workday",
+      "description": "... Software Engineer at NVIDIA ensures that our internal and external facing GPU cloud services run maximum reliability and uptime as promised to the ...",
+      "date": "2026-09-13",
+      "timestamp": "2026-09-13T02:05:16+00:00",
+      "fetched_at": "2026-09-13T08:33:36.755779+00:00"
+    },
+    {
+      "id": "da5809bcd742",
+      "title": "Cloud Engineer | Chicago, IL, USA - eFinancialCareers",
+      "company": "Chicago, IL, USA - eFinancialCareers",
+      "role": "Cloud Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.efinancialcareers.com/jobs-USA-IL-Chicago-Cloud_Engineer.id24770030",
+      "source": "Other",
+      "description": "Platform Engineer - AI Engineering. DRW. Chicago, United States. DRW. Senior Software Engineer , Finance (Clojure) ... Site Reliability Engineer ...",
+      "date": "2026-09-13",
+      "timestamp": "2026-09-13T00:50:12+00:00",
+      "fetched_at": "2026-09-13T08:33:36.756117+00:00"
+    },
+    {
+      "id": "3a27e248f807",
+      "title": "Senior Embedded Software Engineer - Caterpillar Careers",
+      "company": "Caterpillar Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.caterpillar.com/en/jobs/r0000392191/senior-embedded-software-engineer/",
+      "source": "Other",
+      "description": "Embedded Software Engineer - Web. Save Saved. Mossville, Illinois, United States of America. Autonomy Engineering Specialist - Operator Safety ...",
+      "date": "2026-09-13",
+      "timestamp": "2026-09-13T00:37:24+00:00",
+      "fetched_at": "2026-09-13T08:33:36.756295+00:00"
+    },
+    {
+      "id": "110e17767ad7",
+      "title": "Platform Engineer II (Application Infrastructure) @ Whoop - Jobs",
+      "company": "Whoop",
+      "role": "Platform Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/whoop/97fdb239-1cf3-47de-906a-96fddd2f361f?utm_source=Ld4yoN6NDV&src=LinkedIn",
+      "source": "Ashby",
+      "description": "Platform Engineer II (Application Infrastructure). Location. Boston, MA. Employment Type. Full time. Location Type. On-site. Department. Software.",
+      "date": "2026-09-13",
+      "timestamp": "2026-09-13T00:14:01+00:00",
+      "fetched_at": "2026-09-13T08:33:36.835295+00:00"
+    },
+    {
+      "id": "5e4851f36643",
+      "title": "Whoop - Software Engineer II (Backend, Core) - Jobs",
+      "company": "Whoop",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/whoop/cdf31e5e-d62a-4a20-9e11-2675ce645d5d?utm_source=Ld4yoN6NDV&src=LinkedIn",
+      "source": "Ashby",
+      "description": "Software Engineer II (Backend, Core). Location. Boston, MA. Employment Type. Full time. Location Type. On- ...",
+      "date": "2026-09-13",
+      "timestamp": "2026-09-13T00:10:16+00:00",
+      "fetched_at": "2026-09-13T08:33:36.756541+00:00"
+    },
+    {
+      "id": "5504f72ac8f7",
+      "title": "Sn Software Engineer Biligual Remote Jobs in Malambo, COL - Iron Mountain",
+      "company": "Iron Mountain",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://ironmountain.jobs/locations/malambo-col/job-titles/sn-software-engineer-biligual-remote/job-category/spanish-default/jobs/?vs=13",
+      "source": "Other",
+      "description": "Job Category: Spanish Default | Find Sn Software Engineer Biligual Remote jobs in Malambo, COL at Iron Mountain.",
+      "date": "2026-09-12",
+      "timestamp": "2026-09-12T22:09:41+00:00",
+      "fetched_at": "2026-09-13T08:33:36.756858+00:00"
+    },
     {
       "id": "d8060646ad58",
       "title": "Job Application for Software Engineer Intern (Summer 2027) at Klaviyo Campus",
@@ -64,6 +199,51 @@
       "date": "2026-09-12",
       "timestamp": "2026-09-12T21:12:02+00:00",
       "fetched_at": "2026-09-13T01:29:52.155951+00:00"
+    },
+    {
+      "id": "d715ded2ff63",
+      "title": "Lead Software Engineer at CoderPad - Remote",
+      "company": "CoderPad",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://remote.com/jobs/coderpad-c1sgm0cf/lead-software-engineer-j1elfc6h",
+      "source": "Other",
+      "description": "We are looking for a Lead Software Engineer to join our EMEA Engineering team in France (remote). What does a Lead Software Engineer at CoderPad ...",
+      "date": "2026-09-12",
+      "timestamp": "2026-09-12T20:55:07+00:00",
+      "fetched_at": "2026-09-13T08:33:36.757301+00:00"
+    },
+    {
+      "id": "f6316783e5b1",
+      "title": "Senior Mobile Software Engineer (iOS) - Xsolla - Lever",
+      "company": "Xsolla",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.lever.co/xsolla/b609a359-4fe2-40df-b8b8-f0030862162d",
+      "source": "Lever",
+      "description": "For the Senior Mobile Software Engineer , we will conduct a background check that may include the following: Criminal history check; Employment ...",
+      "date": "2026-09-12",
+      "timestamp": "2026-09-12T20:34:32+00:00",
+      "fetched_at": "2026-09-13T08:33:36.757393+00:00"
+    },
+    {
+      "id": "4fd23ce6ffe5",
+      "title": "Analytics Platform Engineer in New York, New York - PepsiCo Careers",
+      "company": "PepsiCo Careers",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.pepsicojobs.com/main/jobs/468920?lang=en-us",
+      "source": "Other",
+      "description": "The Analytics Platform Engineer will work alongside senior engineers to deliver reliable, scalable platform tooling that delivery engineering teams ...",
+      "date": "2026-09-12",
+      "timestamp": "2026-09-12T20:23:32+00:00",
+      "fetched_at": "2026-09-13T08:33:36.757530+00:00"
     },
     {
       "id": "3a2f29b62b2c",
@@ -96,6 +276,36 @@
       "fetched_at": "2026-09-13T01:29:52.156054+00:00"
     },
     {
+      "id": "3bb4cf7ab076",
+      "title": "Software Engineer AI Response Evaluator | OpenTrain AI",
+      "company": "OpenTrain AI",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.opentrain.ai/jobs/software-engineer-ai-response-evaluator--cmty60q7d000z0agmk4jrocil/",
+      "source": "Other",
+      "description": "Software Engineer AI Response Evaluator. Use your software engineering and technical communication expertise to evaluate AI-generated answers for ...",
+      "date": "2026-09-12",
+      "timestamp": "2026-09-12T19:38:37+00:00",
+      "fetched_at": "2026-09-13T08:33:36.836623+00:00"
+    },
+    {
+      "id": "232f60640c38",
+      "title": "Senior Data Engineer (m/f/d) with Google Cloud (GCP) | Global Career Website",
+      "company": "Global Career Website",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.telekom.com/en/jobs/senior-data-engineer-m-f-d-with-google-cloud-gcp-744000130047219",
+      "source": "Other",
+      "description": "... Data Engineer . The senior data engineer develops, constructs, tests and ... Senior Software Engineer for AI applications. Product Development.",
+      "date": "2026-09-12",
+      "timestamp": "2026-09-12T19:21:27+00:00",
+      "fetched_at": "2026-09-13T08:33:36.758176+00:00"
+    },
+    {
       "id": "52c574821063",
       "title": "Staff Software Engineer , Data Warehouse - Careers at Airbnb",
       "company": "Airbnb",
@@ -109,6 +319,21 @@
       "date": "2026-09-12",
       "timestamp": "2026-09-12T19:18:58+00:00",
       "fetched_at": "2026-09-13T01:29:52.156230+00:00"
+    },
+    {
+      "id": "d874acf9a33c",
+      "title": "Software Engineer Intern - Summer 2027 | CACI",
+      "company": "Summer 2027 | CACI",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://searchcareers.caci.com/careers/job/1443153389145-software-engineer-intern-summer-2027-ypsilanti-mi-us",
+      "source": "Other",
+      "description": "Software Engineer Intern - Summer 2027. Ypsilanti, MI, US. Apply Now. Add to cart. Find out how well you match with this job. Upload your resume. Job ...",
+      "date": "2026-09-12",
+      "timestamp": "2026-09-12T18:49:39+00:00",
+      "fetched_at": "2026-09-13T08:33:36.758541+00:00"
     },
     {
       "id": "760b8fc36257",
