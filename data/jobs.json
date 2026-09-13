@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-09-13T15:07:02.852186+00:00",
-  "total_jobs": 9532,
+  "last_updated": "2026-09-13T18:22:04.105121+00:00",
+  "total_jobs": 9541,
   "stats": {
-    "total_companies": 4396,
+    "total_companies": 4401,
     "total_roles": 122,
     "regions": {
-      "India": 6240,
-      "Philippines": 2026,
+      "India": 6246,
+      "Philippines": 2029,
       "Remote": 1172,
       "Unknown": 135
     },
     "sources": {
-      "Other": 7470,
+      "Other": 7479,
       "Greenhouse": 471,
       "Workday": 407,
       "LinkedIn": 405,
@@ -36,6 +36,51 @@
   },
   "jobs": [
     {
+      "id": "d91aa192435d",
+      "title": "Software Engineer , Gameplay, NPC - StarCraft | Irvine, CA - Blizzard Careers",
+      "company": "StarCraft | Irvine, CA - Blizzard Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.blizzard.com/global/en/job/R028141/Software-Engineer-Gameplay-NPC-StarCraft-Irvine-CA",
+      "source": "Other",
+      "description": "Apply for Software Engineer , Gameplay, NPC - StarCraft | Irvine, CA job with Blizzard Entertainment in Irvine, California, United States of ...",
+      "date": "2026-09-13",
+      "timestamp": "2026-09-13T15:25:16+00:00",
+      "fetched_at": "2026-09-13T18:22:03.794525+00:00"
+    },
+    {
+      "id": "19bb39ee0bc7",
+      "title": "Senior Test Software Engineer in mckinney, Texas, United States of America - RTX Careers",
+      "company": "RTX Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.rtx.com/mx/es/job/01873492/Senior-Test-Software-Engineer",
+      "source": "Other",
+      "description": "Senior Software Engineer \u2013 Embedded (Onsite). Ubicaci\u00f3n mckinney, Texas, United States of America Categor\u00eda Ingenier\u00eda Posted Date 09/09/2026. FPGA ...",
+      "date": "2026-09-13",
+      "timestamp": "2026-09-13T14:33:39+00:00",
+      "fetched_at": "2026-09-13T18:22:04.063354+00:00"
+    },
+    {
+      "id": "dbcee0ff1f8b",
+      "title": "DevOps Engineer - KUKA Robotics",
+      "company": "KUKA Robotics",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.kuka.com/pt-pt/empresa/carreira/ofertas-de-emprego/devops-engineer-4522",
+      "source": "Other",
+      "description": "DevOps Engineer . 3 de setembro de 2026. Candidatar-se online agora. Discover your impact with KUKA. KUKA ...",
+      "date": "2026-09-13",
+      "timestamp": "2026-09-13T14:33:12+00:00",
+      "fetched_at": "2026-09-13T18:22:03.794720+00:00"
+    },
+    {
       "id": "6d572f724652",
       "title": "Software Engineer : I'm Tired of Pretending | daily.dev",
       "company": "daily.dev",
@@ -49,6 +94,51 @@
       "date": "2026-09-13",
       "timestamp": "2026-09-13T13:36:22+00:00",
       "fetched_at": "2026-09-13T15:07:02.808536+00:00"
+    },
+    {
+      "id": "7e296ba66152",
+      "title": "Senior Machine Learning Engineer , Global E-Commerce \u2013 Recommendation (Multiple Positions)",
+      "company": "Commerce \u2013 Recommendation",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://lifeattiktok.com/search/7683256075692345653",
+      "source": "Other",
+      "description": "View our opening for Senior Machine Learning Engineer , Global E-Commerce \u2013 Recommendation (Multiple Positions) and learn more about what it's like ...",
+      "date": "2026-09-13",
+      "timestamp": "2026-09-13T13:23:23+00:00",
+      "fetched_at": "2026-09-13T18:22:03.795043+00:00"
+    },
+    {
+      "id": "10a86e896c7d",
+      "title": "Developer to Cloud/Devops/ Platform engineer . : r/azuredevops - Reddit",
+      "company": "Reddit",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/azuredevops/comments/1wf4jcd/developer_to_clouddevopsplatform_engineer/",
+      "source": "Other",
+      "description": "Your development experience WILL aid you, but it's usually only a smaller part of the role of a DevOps engineer compared to Operations/Infrastructure.",
+      "date": "2026-09-13",
+      "timestamp": "2026-09-13T12:27:07+00:00",
+      "fetched_at": "2026-09-13T18:22:03.795274+00:00"
+    },
+    {
+      "id": "a305df3178d1",
+      "title": "2027 Spring Co-op - Global Technology & Solutions - Software Engineer (SWE) - TD Bank",
+      "company": "2027 Spring Co",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://tdbank.jobs/mount-laurel-nj/2027-spring-co-op-global-technology-solutions-software-engineer-swe/5C40B344B1224253B1E224A5379E5F5F/job/",
+      "source": "Other",
+      "description": "2027 Spring Co-op - Global Technology & Solutions - Software Engineer (SWE)Mount Laurel, NJ Posted today \u00b7 Builds an understanding of the businesses ...",
+      "date": "2026-09-13",
+      "timestamp": "2026-09-13T12:18:12+00:00",
+      "fetched_at": "2026-09-13T18:22:03.795584+00:00"
     },
     {
       "id": "d8cbd159b8ff",
@@ -109,6 +199,21 @@
       "date": "2026-09-13",
       "timestamp": "2026-09-13T10:14:10+00:00",
       "fetched_at": "2026-09-13T15:07:02.511967+00:00"
+    },
+    {
+      "id": "94c9361cf24b",
+      "title": "(USA) Senior, Software Engineer - Walmart Careers",
+      "company": "Walmart Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.walmart.com/us/en/jobs/R-2630797",
+      "source": "Other",
+      "description": "Position Summary... What you'll do... Role summary: As a Senior Software Engineer at Walmart, you will lead the delivery of scalable software ...",
+      "date": "2026-09-13",
+      "timestamp": "2026-09-13T08:38:40+00:00",
+      "fetched_at": "2026-09-13T18:22:04.065202+00:00"
     },
     {
       "id": "ab81b5b23956",
@@ -186,6 +291,21 @@
       "fetched_at": "2026-09-13T15:07:02.513437+00:00"
     },
     {
+      "id": "c15fbf4fe0d5",
+      "title": "Co-Op, Software Engineer - Onsite in cedar rapids, Iowa, United States of America",
+      "company": "Onsite in cedar rapids, Iowa, United States of America",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.rtx.com/global/en/job/RAYTGLOBAL01871298EXTERNALENGLOBAL/Co-Op-Software-Engineer-Onsite?utm_source=linkedin&utm_medium=phenom-feeds",
+      "source": "Other",
+      "description": "Senior Software Engineer DevOps (Onsite). Location cedar rapids, Iowa, United States of America Category Engineering Posted Date 08/11/2026. Senior ...",
+      "date": "2026-09-13",
+      "timestamp": "2026-09-13T06:42:02+00:00",
+      "fetched_at": "2026-09-13T18:22:03.797562+00:00"
+    },
+    {
       "id": "5eebf05d54c3",
       "title": "Software Engineer - Data Insights Job in Texas - TX, Other Career, Full Time Jobs in McKesson",
       "company": "Data Insights Job in Texas - TX, Other Career, Full Time Jobs in McKesson",
@@ -259,6 +379,21 @@
       "date": "2026-09-13",
       "timestamp": "2026-09-13T05:21:57+00:00",
       "fetched_at": "2026-09-13T15:07:02.514156+00:00"
+    },
+    {
+      "id": "e7acc7024e3d",
+      "title": "Senior Software Engineer , TuneLab - Lilly Careers",
+      "company": "Lilly Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.lilly.com/fr/fr/job/R-111481/Senior-Software-Engineer-TuneLab",
+      "source": "Other",
+      "description": "Candidater pour un poste Senior Software Engineer , TuneLab chez Lilly \u00e0 San Francisco, California, United States of America.",
+      "date": "2026-09-13",
+      "timestamp": "2026-09-13T04:02:50+00:00",
+      "fetched_at": "2026-09-13T18:22:04.066812+00:00"
     },
     {
       "id": "c303f0dceef4",
