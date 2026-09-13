@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-09-13T18:22:04.105121+00:00",
-  "total_jobs": 9541,
+  "last_updated": "2026-09-13T21:49:45.508590+00:00",
+  "total_jobs": 9548,
   "stats": {
-    "total_companies": 4401,
+    "total_companies": 4406,
     "total_roles": 122,
     "regions": {
-      "India": 6246,
-      "Philippines": 2029,
+      "India": 6252,
+      "Philippines": 2030,
       "Remote": 1172,
       "Unknown": 135
     },
     "sources": {
-      "Other": 7479,
+      "Other": 7486,
       "Greenhouse": 471,
       "Workday": 407,
       "LinkedIn": 405,
@@ -35,6 +35,51 @@
     }
   },
   "jobs": [
+    {
+      "id": "9d0d9574d1dc",
+      "title": "Software Engineer , Data & Observability Platforms \u2014 MTS/SMTS - California - Salesforce",
+      "company": "California - Salesforce",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.salesforce.com/company/careers/jobs/JR360029/software-engineer-data-observability-platforms-mtssmts/",
+      "source": "Other",
+      "description": "Software Engineer , Data & Observability Platforms \u2014 MTS/SMTS \u00b7 California - San Francisco \u00b7 New York - New York \u00b7 Illinois - Chicago \u00b7 Georgia - Atlanta ...",
+      "date": "2026-09-13",
+      "timestamp": "2026-09-13T19:01:04+00:00",
+      "fetched_at": "2026-09-13T21:49:45.354404+00:00"
+    },
+    {
+      "id": "22ff788b6d6f",
+      "title": "Microsoft Foundry Tutorial For Beginners (2026 Guide) | Azure AI Data Engineer - YouTube",
+      "company": "Microsoft Foundry Tutorial For Beginners",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.youtube.com/watch?v=nuQtFrewR0o",
+      "source": "Other",
+      "description": "Microsoft Foundry Tutorial | AI Engineer | AI Data Engineer | Langchain | AI Agents | Agentic AI | Azure AI What you will learn?",
+      "date": "2026-09-13",
+      "timestamp": "2026-09-13T19:00:47+00:00",
+      "fetched_at": "2026-09-13T21:49:45.354719+00:00"
+    },
+    {
+      "id": "c98849e80e5e",
+      "title": "SplatForge | AI Engineer World's Fair Hackathon 2026 - Cerebral Valley",
+      "company": "SplatForge",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://cerebralvalley.ai/e/aiewf-hackathon-2026/hackathon/gallery/18",
+      "source": "Other",
+      "description": "Built at AI Engineer World's Fair Hackathon 2026 \u00b7 Jun 27, 2026 \u00b7 San Francisco, CA. SplatForge \u2014 Demo video. SplatForge is a robot manipulation ...",
+      "date": "2026-09-13",
+      "timestamp": "2026-09-13T18:14:09+00:00",
+      "fetched_at": "2026-09-13T21:49:45.354934+00:00"
+    },
     {
       "id": "d91aa192435d",
       "title": "Software Engineer , Gameplay, NPC - StarCraft | Irvine, CA - Blizzard Careers",
@@ -79,6 +124,66 @@
       "date": "2026-09-13",
       "timestamp": "2026-09-13T14:33:12+00:00",
       "fetched_at": "2026-09-13T18:22:03.794720+00:00"
+    },
+    {
+      "id": "b9d6457a1089",
+      "title": "Lead Software Engineer Job Details | Standard Chartered Bank",
+      "company": "Standard Chartered Bank",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.standardchartered.com/job/Lead-Software-Engineer/62173-en_GB/",
+      "source": "Other",
+      "description": "Job Details. Lead Software Engineer . Job Description. Apply now. Requisition Number: 62173. Job Location: Guangzhou, CHN. Global Grade: Band 5.",
+      "date": "2026-09-13",
+      "timestamp": "2026-09-13T14:23:23+00:00",
+      "fetched_at": "2026-09-13T21:49:45.355565+00:00"
+    },
+    {
+      "id": "31abc3f9919b",
+      "title": "Ansible Automation Platform Engineer @ Truist | Leadership Triangle Job Board",
+      "company": "Truist",
+      "role": "Platform Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.leadershiptriangle.com/companies/truist/jobs/92964259-ansible-automation-platform-engineer",
+      "source": "Other",
+      "description": "Ansible Automation Platform Engineer . Truist. Software Engineering \u00b7 Full-time. Raleigh, NC, USA. Posted on Sep 12, 2026. Apply now. The position ...",
+      "date": "2026-09-13",
+      "timestamp": "2026-09-13T14:14:03+00:00",
+      "fetched_at": "2026-09-13T21:49:45.448731+00:00"
+    },
+    {
+      "id": "de919e19184d",
+      "title": "Devops Engineer job | jobs at DHL Group",
+      "company": "DHL Group",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.dhl.com/eu/fr/job/DPDHGLOBALAV376501FREUEXTERNAL/Devops-Engineer",
+      "source": "Other",
+      "description": "As a Devops Engineer , you will be responsible for the technical operation, incident resolution, and continuous improvement of the Broker and LPS ...",
+      "date": "2026-09-13",
+      "timestamp": "2026-09-13T14:06:51+00:00",
+      "fetched_at": "2026-09-13T21:49:45.355718+00:00"
+    },
+    {
+      "id": "d9de7447952d",
+      "title": "Robotics Software Engineer job with Tutor Intelligence | 42002755 - Physics Today Jobs",
+      "company": "42002755 - Physics Today Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.physicstoday.org/job/42002755/robotics-software-engineer/",
+      "source": "Other",
+      "description": "Robotics Software Engineer in Bachelor ... AI, Data Science & Machine Learning Engineer Experienced Career Bachelor jobs in Cambridge ...",
+      "date": "2026-09-13",
+      "timestamp": "2026-09-13T14:02:48+00:00",
+      "fetched_at": "2026-09-13T21:49:45.355894+00:00"
     },
     {
       "id": "6d572f724652",
