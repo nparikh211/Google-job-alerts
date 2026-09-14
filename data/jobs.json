@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-09-14T17:04:25.171651+00:00",
-  "total_jobs": 9591,
+  "last_updated": "2026-09-14T22:46:53.414496+00:00",
+  "total_jobs": 9612,
   "stats": {
-    "total_companies": 4425,
+    "total_companies": 4437,
     "total_roles": 122,
     "regions": {
-      "India": 6287,
-      "Philippines": 2036,
-      "Remote": 1174,
+      "India": 6301,
+      "Philippines": 2042,
+      "Remote": 1175,
       "Unknown": 135
     },
     "sources": {
-      "Other": 7521,
+      "Other": 7539,
       "Greenhouse": 472,
-      "Workday": 409,
+      "Workday": 410,
       "LinkedIn": 407,
-      "Ashby": 293,
+      "Ashby": 295,
       "iCIMS": 124,
       "Breezy": 103,
       "Workable": 65,
@@ -35,6 +35,321 @@
     }
   },
   "jobs": [
+    {
+      "id": "11207fb4fe21",
+      "title": "Software Engineer Advisor - FedEx Careers",
+      "company": "FedEx Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.fedex.com/software-engineer-advisor/job/P25-374354-1",
+      "source": "Other",
+      "description": "Software Engineer Advisor. Professional ... Google Cloud Certified: Professional Cloud Architect or Professional Machine Learning Engineer .",
+      "date": "2026-09-14",
+      "timestamp": "2026-09-14T21:02:14+00:00",
+      "fetched_at": "2026-09-14T22:46:53.163270+00:00"
+    },
+    {
+      "id": "51abc9946744",
+      "title": "Software Engineer I - Careers at FAU - Myworkdayjobs.com",
+      "company": "Fau",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://fau.wd1.myworkdayjobs.com/FAU/job/Boca-Raton/Software-Engineer-I_REQ22843",
+      "source": "Workday",
+      "description": "University is seeking a Software Engineer I in Boca Raton, FL. At Florida Atlantic University, the Software Engineer I supports the mission of the ...",
+      "date": "2026-09-14",
+      "timestamp": "2026-09-14T20:49:17+00:00",
+      "fetched_at": "2026-09-14T22:46:53.163371+00:00"
+    },
+    {
+      "id": "f86e4def3e0e",
+      "title": "Senior AI Engineer - Avenga",
+      "company": "Avenga",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://career.avenga.com/jobs/8376098-senior-ai-engineer",
+      "source": "Other",
+      "description": "Senior AI Engineer . Your journey matters \u2013 start it with us. Apply now. This is us. At Avenga, we believe that human creativity empowers technology ...",
+      "date": "2026-09-14",
+      "timestamp": "2026-09-14T20:32:07+00:00",
+      "fetched_at": "2026-09-14T22:46:53.163491+00:00"
+    },
+    {
+      "id": "4809c060bc56",
+      "title": "Software Engineer , Security Agents @ Cohere - Jobs",
+      "company": "Cohere",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/cohere/1b909aeb-1221-476f-88fe-8300a2065975",
+      "source": "Ashby",
+      "description": "... Senior Software Engineer to create autonomous systems that handle the complex, critical tasks security practitioners face every day. KEY ...",
+      "date": "2026-09-14",
+      "timestamp": "2026-09-14T20:19:04+00:00",
+      "fetched_at": "2026-09-14T22:46:53.382178+00:00"
+    },
+    {
+      "id": "40affe9ea07f",
+      "title": "Data Engineer - - 130409 - Booz | Allen | Hamilton \u00ae - Careers",
+      "company": "- 130409 - Booz | Allen | Hamilton \u00ae - Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.boozallen.com/jobs/JobDetail?jobId=130409",
+      "source": "Other",
+      "description": "Data Engineer . The Opportunity: Ever-expanding technology like IoT, machine learning, and artificial intelligence means that there's more ...",
+      "date": "2026-09-14",
+      "timestamp": "2026-09-14T20:14:16+00:00",
+      "fetched_at": "2026-09-14T22:46:53.163763+00:00"
+    },
+    {
+      "id": "2cfb36aff835",
+      "title": "Senior Software Engineer , Sunnyvale, CA, United States - Intuitive Surgical Careers",
+      "company": "Intuitive Surgical Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.intuitive.com/en/jobs/744000149414249/JOB217995/senior-software-engineer/",
+      "source": "Other",
+      "description": "Job Description Primary Function of Position The Interaction Software Engineering (ISE) organization is seeking a Senior Software Engineer with ...",
+      "date": "2026-09-14",
+      "timestamp": "2026-09-14T19:54:14+00:00",
+      "fetched_at": "2026-09-14T22:46:53.163896+00:00"
+    },
+    {
+      "id": "3ba93a52d5d6",
+      "title": "Senior Software Engineer - Embedded Network in Multiple Locations | Viasat, Inc.",
+      "company": "Embedded Network in Multiple Locations | Viasat, Inc.",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.viasat.com/jobs/5931?lang=en-us",
+      "source": "Other",
+      "description": "Viasat is hiring a Senior Software Engineer - Embedded Network in Multiple Locations. Review all of the job details and apply today!",
+      "date": "2026-09-14",
+      "timestamp": "2026-09-14T19:35:36+00:00",
+      "fetched_at": "2026-09-14T22:46:53.382411+00:00"
+    },
+    {
+      "id": "3a5064713161",
+      "title": "Summer 2027 Intern - Enterprise Technology - Mainframe Software Engineer",
+      "company": "Summer 2027 Intern",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.statefarm.com/main/jobs/45592?lang=en-us",
+      "source": "Other",
+      "description": "State Farm Careers is hiring a Summer 2027 Intern - Enterprise Technology - Mainframe Software Engineer in Multiple Locations.",
+      "date": "2026-09-14",
+      "timestamp": "2026-09-14T19:25:49+00:00",
+      "fetched_at": "2026-09-14T22:46:53.382503+00:00"
+    },
+    {
+      "id": "c256d92b170d",
+      "title": "Data Engineer III - 335087 Job Details | Grainger Businesses",
+      "company": "335087 Job Details | Grainger Businesses",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.grainger.com/job/LAKE-FOREST-Data-Engineer-III-335087-IL-60045-5201/1429687900/",
+      "source": "Other",
+      "description": "Grainger Corporate Services LLC is seeking a Data Engineer III in Lake Forest, IL with the following requirements: Bachelor's degree in Computer ...",
+      "date": "2026-09-14",
+      "timestamp": "2026-09-14T19:24:20+00:00",
+      "fetched_at": "2026-09-14T22:46:53.164196+00:00"
+    },
+    {
+      "id": "7e26b5b0befd",
+      "title": "Software Engineer Co-Op (Summer 2027) - Saab",
+      "company": "Op (Summer 2027) - Saab",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.saab.com/career/job-opportunities/software-engineer-co-op-summer-2027",
+      "source": "Other",
+      "description": "Software Engineer Co-Op (Summer 2027). East Syracuse NY,. United States of America. Closing date: 31 October 2026. Apply for this job! Job Description ...",
+      "date": "2026-09-14",
+      "timestamp": "2026-09-14T19:01:34+00:00",
+      "fetched_at": "2026-09-14T22:46:53.164331+00:00"
+    },
+    {
+      "id": "6ba01d9c2acc",
+      "title": "Software Engineer - New Grad | Careers - Scale AI",
+      "company": "New Grad | Careers - Scale AI",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://scale.com/careers/4730851005",
+      "source": "Other",
+      "description": "Software Engineer - New Grad \u00b7 Creating custom AI applications that will impact millions of citizens \u00b7 Generating high-quality training data for ...",
+      "date": "2026-09-14",
+      "timestamp": "2026-09-14T18:58:18+00:00",
+      "fetched_at": "2026-09-14T22:46:53.164433+00:00"
+    },
+    {
+      "id": "56f9520aecfa",
+      "title": "Software Engineer and Developer - - 130398 - Booz | Allen | Hamilton \u00ae",
+      "company": "- 130398 - Booz | Allen | Hamilton \u00ae",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.boozallen.com/jobs/JobDetail/Annapolis-Junction-Software-Engineer-and-Developer-R0249415/130398",
+      "source": "Other",
+      "description": "Software Engineer and Developer. The Opportunity: We are seeking a motivated Junior Software Developer to join our technology team supporting the ...",
+      "date": "2026-09-14",
+      "timestamp": "2026-09-14T18:25:38+00:00",
+      "fetched_at": "2026-09-14T22:46:53.164650+00:00"
+    },
+    {
+      "id": "e90197a22f59",
+      "title": "Senior Software Engineer II - Digital Engineering | Rocket Lab",
+      "company": "Senior Software Engineer II",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://rocketlabcorp.com/careers/positions/senior-software-engineer-ii-digital-engineering-littleton-co-7994336003/",
+      "source": "Other",
+      "description": "Are you passionate about advancing aerospace technology through cutting-edge software solutions? We're looking for a driven Senior Software Engineer ...",
+      "date": "2026-09-14",
+      "timestamp": "2026-09-14T18:24:42+00:00",
+      "fetched_at": "2026-09-14T22:46:53.164857+00:00"
+    },
+    {
+      "id": "3f2dd6c243c5",
+      "title": "DevOps Engineer @ Clair - Jobs",
+      "company": "Clair",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/clair/0b83fc4d-2461-44ce-887d-49a7baf17d38",
+      "source": "Ashby",
+      "description": "... DevOps Engineer who thrives on solving high-impact, complex infrastructure and automation problems. You will own critical system architecture ...",
+      "date": "2026-09-14",
+      "timestamp": "2026-09-14T18:24:29+00:00",
+      "fetched_at": "2026-09-14T22:46:53.164924+00:00"
+    },
+    {
+      "id": "0fa7c188fc81",
+      "title": "Generative AI Engineer \u2014 Careers | Zetaris",
+      "company": "Zetaris",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.zetaris.com/careers/generative-ai-engineer",
+      "source": "Other",
+      "description": "Join Zetaris as a Generative AI Engineer \u2014 build the LLM-powered, agentic capabilities behind AgentFlow and the Zetaris platform.",
+      "date": "2026-09-14",
+      "timestamp": "2026-09-14T18:08:17+00:00",
+      "fetched_at": "2026-09-14T22:46:53.165165+00:00"
+    },
+    {
+      "id": "f9cd4f77bf58",
+      "title": "Campus - Internship Programme - Undergraduate Software Engineer - 2027 (UK - Burgess Hill)",
+      "company": "Campus",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013771?utm_source=Simplify&ref=Simplify",
+      "source": "Other",
+      "description": "At American Express, we empower future technologists to learn, innovate, and make an impact from day one. As a Software Engineer Intern, you'll join a ...",
+      "date": "2026-09-14",
+      "timestamp": "2026-09-14T18:08:07+00:00",
+      "fetched_at": "2026-09-14T22:46:53.165301+00:00"
+    },
+    {
+      "id": "6e3793ab51c1",
+      "title": "Staff Software Engineer - DroneDeploy - San Francisco, California, United States",
+      "company": "DroneDeploy - San Francisco, California, United States",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.procore.com/jobs/staff-software-engineer-dronedeploy-san-francisco-california-united-states",
+      "source": "Other",
+      "description": "We are looking for a Staff Software Engineer to lead execution on our core photogrammetry pipeline. As the Staff Computer Vision Engineer on our Core ...",
+      "date": "2026-09-14",
+      "timestamp": "2026-09-14T18:01:53+00:00",
+      "fetched_at": "2026-09-14T22:46:53.383565+00:00"
+    },
+    {
+      "id": "90584ec964c2",
+      "title": "Data Engineer with DBT & Databricks ,SQL -- 100% Remote -- Only independent Visa(W2 Only )",
+      "company": "- 100% Remote -- Only independent Visa",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.dice.com/job-detail/47742c58-9d95-4adf-beff-c6917973e009",
+      "source": "Other",
+      "description": "3 hours ago - Job Title: Data Engineer \u2013 DBT, Databricks & SQL ExpertLocation: RemoteKey Responsibilities:Design, buil...",
+      "date": "2026-09-14",
+      "timestamp": "2026-09-14T17:10:15+00:00",
+      "fetched_at": "2026-09-14T22:46:53.165682+00:00"
+    },
+    {
+      "id": "ca2af7bf1a93",
+      "title": "Software Engineer \u2013 Mainframe Developer (multiple positions) in Charlotte, NC.",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.usbank.com/global/en/job/UBNAGLOBAL20260028289EXTERNALENGLOBAL/Software-Engineer-Mainframe-Developer-multiple-positions-in-Charlotte-NC",
+      "source": "Other",
+      "description": "... Software Engineer (Full Stack). Available in 9 locations. Software Engineer 2 (ASP.NET Web API). Available in 7 locations. Senior Software Engineer ...",
+      "date": "2026-09-14",
+      "timestamp": "2026-09-14T17:04:33+00:00",
+      "fetched_at": "2026-09-14T22:46:53.165936+00:00"
+    },
+    {
+      "id": "bc8e47ca124d",
+      "title": "Software Engineer \u2013 Physical AI Platform Integration - Rippling",
+      "company": "Rippling",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://ats.rippling.com/lyte/jobs/77c2e01b-4e63-4759-a769-7ac35b9d06b5",
+      "source": "Other",
+      "description": "We are looking for a hands-on software engineer to make Lyte's LiDAR and camera perception systems work end to end on real robots and on the compute ...",
+      "date": "2026-09-14",
+      "timestamp": "2026-09-14T17:01:01+00:00",
+      "fetched_at": "2026-09-14T22:46:53.384299+00:00"
+    },
+    {
+      "id": "289537ed14c5",
+      "title": "2027 Summer Intern, BS/MS, Software Engineer - San Francisco, California, United States",
+      "company": "San Francisco, California, United States",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.withwaymo.com/jobs/2027-summer-intern-bs-ms-software-engineer-san-francisco-california-united-states",
+      "source": "Other",
+      "description": "If you're a software engineer or researcher who's curious and passionate about Level 4 autonomous driving, we'd like to meet you. Waymo interns ...",
+      "date": "2026-09-14",
+      "timestamp": "2026-09-14T16:59:16+00:00",
+      "fetched_at": "2026-09-14T22:46:53.384542+00:00"
+    },
     {
       "id": "2e7623748637",
       "title": "Entry Level Software Engineer - Myworkdayjobs.com",
