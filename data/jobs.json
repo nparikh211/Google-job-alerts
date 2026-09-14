@@ -1,33 +1,33 @@
 {
-  "last_updated": "2026-09-14T09:17:14.796760+00:00",
-  "total_jobs": 9571,
+  "last_updated": "2026-09-14T17:04:25.171651+00:00",
+  "total_jobs": 9591,
   "stats": {
-    "total_companies": 4418,
+    "total_companies": 4425,
     "total_roles": 122,
     "regions": {
-      "India": 6270,
-      "Philippines": 2034,
-      "Remote": 1173,
+      "India": 6287,
+      "Philippines": 2036,
+      "Remote": 1174,
       "Unknown": 135
     },
     "sources": {
-      "Other": 7507,
+      "Other": 7521,
       "Greenhouse": 472,
-      "Workday": 407,
-      "LinkedIn": 405,
+      "Workday": 409,
+      "LinkedIn": 407,
       "Ashby": 293,
       "iCIMS": 124,
       "Breezy": 103,
+      "Workable": 65,
       "Lever": 64,
-      "Workable": 64,
       "SmartRecruiters": 60,
       "Indeed": 32,
       "BrassRing": 11,
       "Recruitee": 10,
       "Jobvite": 8,
       "Taleo": 7,
-      "ADP": 2,
-      "WeWorkRemotely": 2
+      "WeWorkRemotely": 3,
+      "ADP": 2
     },
     "date_range": {
       "earliest": "2026-04-14",
@@ -35,6 +35,306 @@
     }
   },
   "jobs": [
+    {
+      "id": "2e7623748637",
+      "title": "Entry Level Software Engineer - Myworkdayjobs.com",
+      "company": "Autostore",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/Entry-Level-Software-Engineer_JR102691",
+      "source": "Workday",
+      "description": "As a Software Engineer I you will contribute to building and maintaining reliable, scalable software systems that support warehouse automation and ...",
+      "date": "2026-09-14",
+      "timestamp": "2026-09-14T16:39:15+00:00",
+      "fetched_at": "2026-09-14T17:04:25.137834+00:00"
+    },
+    {
+      "id": "020de40be0bd",
+      "title": "Sr. Cloud Engineer | Schwab Jobs",
+      "company": "Schwab Jobs",
+      "role": "Cloud Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.schwabjobs.com/job/austin/sr-cloud-engineer/33727/100623685936",
+      "source": "Other",
+      "description": "Sr. Cloud Engineer . Austin, TX. Requisition ID 2026-126540 Category Engineering & Software Development Position type Regular Pay range USD ...",
+      "date": "2026-09-14",
+      "timestamp": "2026-09-14T16:35:31+00:00",
+      "fetched_at": "2026-09-14T17:04:25.137959+00:00"
+    },
+    {
+      "id": "3168a85c593f",
+      "title": "Senior Embedded Software Engineer , Milford, Michigan | General Motors Careers",
+      "company": "General Motors Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://search-careers.gm.com/en/jobs/jr-202620253/senior-embedded-software-engineer/",
+      "source": "Other",
+      "description": "Senior Embedded Software Engineer . Location. Milford, Michigan. (+) Show all locations (-) Hide all locations. Job Type ...",
+      "date": "2026-09-14",
+      "timestamp": "2026-09-14T16:00:18+00:00",
+      "fetched_at": "2026-09-14T17:04:25.076617+00:00"
+    },
+    {
+      "id": "ee6cac9ececa",
+      "title": "Senior Backend Engineer (Payment Product and Solution) - Global Payment",
+      "company": "Global Payment",
+      "role": "Backend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://joinbytedance.com/search/7683455244748474677",
+      "source": "Other",
+      "description": "View our opening for Senior Backend Engineer (Payment Product and Solution) - Global Payment and learn more about what it's like to work at ...",
+      "date": "2026-09-14",
+      "timestamp": "2026-09-14T15:29:51+00:00",
+      "fetched_at": "2026-09-14T17:04:25.076839+00:00"
+    },
+    {
+      "id": "2d77f6ae48da",
+      "title": "Software Engineer II - Builder Experience - Platform Engineering Productivity",
+      "company": "Software Engineer II",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.elastic.co/form?gh_jid=8154426",
+      "source": "Other",
+      "description": "... senior Software Engineer who embraces AI as part of their engineering craft to join our Platform Engineering Productivity team. In this role, you",
+      "date": "2026-09-14",
+      "timestamp": "2026-09-14T15:12:34+00:00",
+      "fetched_at": "2026-09-14T17:04:25.077025+00:00"
+    },
+    {
+      "id": "a10608c88e91",
+      "title": "Senior Machine Learning Engineer - Myworkdayjobs.com",
+      "company": "Capitalone",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Senior-Machine-Learning-Engineer_R1000509-1",
+      "source": "Workday",
+      "description": "Senior Machine Learning Engineer As a Capital One Machine Learning Engineer (MLE), you'll be part of an Agile team dedicated to productionizing ...",
+      "date": "2026-09-14",
+      "timestamp": "2026-09-14T15:05:45+00:00",
+      "fetched_at": "2026-09-14T17:04:25.077102+00:00"
+    },
+    {
+      "id": "95aecc1ed270",
+      "title": "Summer 2027 Intern- Innovation Group- Software Engineer - State Farm Careers",
+      "company": "Summer 2027 Intern",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.statefarm.com/main/jobs/45838?lang=en-us",
+      "source": "Other",
+      "description": "State Farm Careers is hiring a Summer 2027 Intern- Innovation Group- Software Engineer in Multiple Locations. Review all of the job details and ...",
+      "date": "2026-09-14",
+      "timestamp": "2026-09-14T14:43:32+00:00",
+      "fetched_at": "2026-09-14T17:04:25.077370+00:00"
+    },
+    {
+      "id": "8e4ad42895f8",
+      "title": "Sr Software Engineer , Santa Clara | ServiceNow Careers",
+      "company": "ServiceNow Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.servicenow.com/jobs/744000149345688/sr-software-engineer/",
+      "source": "Other",
+      "description": "Sr Software Engineer . Engineering, Infrastructure and Operations \u00b7 Santa Clara; Flexible; September 14, 2026; JB0075015.",
+      "date": "2026-09-14",
+      "timestamp": "2026-09-14T14:36:17+00:00",
+      "fetched_at": "2026-09-14T17:04:25.077482+00:00"
+    },
+    {
+      "id": "66a6063bd9d4",
+      "title": "AI Engineer Learning Roadmap 0 \u2192 Job Ready | Jean Lee | 60 comments - LinkedIn",
+      "company": "Jean Lee | 60 comments - LinkedIn",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/jeanklee_ai-engineer-learning-roadmap-0-job-ready-activity-7505264246725693440-AsKN",
+      "source": "LinkedIn",
+      "description": "AI/ ML Engineer | 5+ YOE @ Amazon, TikTok. 18m. Report this comment; Close ... Anjali Viramgama. Software Engineer | Exp: Meta, Microsoft, Amazon ...",
+      "date": "2026-09-14",
+      "timestamp": "2026-09-14T14:34:26+00:00",
+      "fetched_at": "2026-09-14T17:04:25.077775+00:00"
+    },
+    {
+      "id": "c7cbeb334544",
+      "title": "Experienced Java Software Engineer at Boeing",
+      "company": "Boeing",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.boeing.com/job/gdansk/experienced-java-software-engineer/185/100614501392",
+      "source": "Other",
+      "description": "Experienced Java Software Engineer . Gdansk, Pomerania Job ID JR2026518026 Category Engineering - Software Role Type Hybrid Post Date Sep. 14, 2026.",
+      "date": "2026-09-14",
+      "timestamp": "2026-09-14T14:26:25+00:00",
+      "fetched_at": "2026-09-14T17:04:25.077899+00:00"
+    },
+    {
+      "id": "42b9f8b5edc4",
+      "title": "Software Engineer II Data Reliability & Automation (APIs) - PlayStation Careers",
+      "company": "PlayStation Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.playstation.com/software-engineer-ii-data-reliability-automation-apis/job/6151894004",
+      "source": "Other",
+      "description": "Join Sony Interactive Entertainment in San Diego, CA! Apply for the Software Engineer II Data Reliability & Automation (APIs) role today and start ...",
+      "date": "2026-09-14",
+      "timestamp": "2026-09-14T14:13:21+00:00",
+      "fetched_at": "2026-09-14T17:04:25.078064+00:00"
+    },
+    {
+      "id": "f7057c4db06f",
+      "title": "Graduate Software Engineer Job | Rochester | BAE Systems",
+      "company": "Rochester | BAE Systems",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobsearch.baesystems.com/job/graduate-software-engineer-v06335-11344",
+      "source": "Other",
+      "description": "Description. Job title: Graduate Electronic Systems Software Engineer . Location: Rochester (Kent). We offer a range of hybrid and flexible working ...",
+      "date": "2026-09-14",
+      "timestamp": "2026-09-14T14:13:18+00:00",
+      "fetched_at": "2026-09-14T17:04:25.078196+00:00"
+    },
+    {
+      "id": "0fcc49c77ad0",
+      "title": "Site Reliability Engineer in US - FDM Group",
+      "company": "FDM Group",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.fdmgroup.com/vacancies/3060/site-reliability-engineer.html",
+      "source": "Other",
+      "description": "Site Reliability Engineer . Save Job. Apply. All Locations. US. All Locations ... Senior AI Software Engineer . All Locations. US. All Locations is a ...",
+      "date": "2026-09-14",
+      "timestamp": "2026-09-14T14:04:01+00:00",
+      "fetched_at": "2026-09-14T17:04:25.078300+00:00"
+    },
+    {
+      "id": "e1d8a2254ec6",
+      "title": "Senior DevOps Engineer - Faro Health Inc. - Application - Workable Jobs",
+      "company": "Farohealth",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://apply.workable.com/farohealth/j/F75AB0E554/apply/",
+      "source": "Workable",
+      "description": "Senior DevOps Engineer ... Save time by importing your resume in one of the following formats: .pdf, .doc, .docx, .odt, or .rtf. Import ...",
+      "date": "2026-09-14",
+      "timestamp": "2026-09-14T13:51:09+00:00",
+      "fetched_at": "2026-09-14T17:04:25.078378+00:00"
+    },
+    {
+      "id": "45f7a9384f2a",
+      "title": "Associate Software Engineer - Careers at SLB",
+      "company": "SLB",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://apply.slb.com/careers/apply?pid=563499734247476&domain=slb.com",
+      "source": "Other",
+      "description": "Development of new features for new Project/Product. Contribute in analysis, upgrade and troubleshooting of existing applications.",
+      "date": "2026-09-14",
+      "timestamp": "2026-09-14T13:41:50+00:00",
+      "fetched_at": "2026-09-14T17:04:25.078466+00:00"
+    },
+    {
+      "id": "eca2bb57eea3",
+      "title": "Senior ML Platform Engineer in Budapest, Hungary, H-1052 | AI & Data at Mastercard",
+      "company": "Mastercard",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mastercard.com/us/en/job/R-288698/Senior-ML-Platform-Engineer",
+      "source": "Other",
+      "description": "Senior ML Platform Engineer . Apply Now. Back to search results ... The ideal candidate is a strong software engineer who enjoys solving ...",
+      "date": "2026-09-14",
+      "timestamp": "2026-09-14T13:32:03+00:00",
+      "fetched_at": "2026-09-14T17:04:25.078565+00:00"
+    },
+    {
+      "id": "36292d919759",
+      "title": "AI Engineer Code Summit is headed home to San Francisco on Nov 10-12, presented by ...",
+      "company": "12, presented by ...",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/aidotengineer_ai-engineer-code-summit-is-headed-home-to-activity-7505250062332190720-dlVB",
+      "source": "LinkedIn",
+      "description": "AI Engineer Code Summit is headed home to San Francisco on Nov 10-12, presented by Google DeepMind and supported by G2i We're bringing together a ...",
+      "date": "2026-09-14",
+      "timestamp": "2026-09-14T13:09:10+00:00",
+      "fetched_at": "2026-09-14T17:04:25.078834+00:00"
+    },
+    {
+      "id": "de5e0e91fe7c",
+      "title": "Backend Engineer , Growth Platform - Wolt Careers",
+      "company": "Wolt Careers",
+      "role": "Backend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.wolt.com/jobs/1/8200764",
+      "source": "Other",
+      "description": "Backend Engineer , Growth Platform. Engineering Helsinki, Finland ... - Kimbo, Software Engineer . Read Kimbo's story. Kimbo - cover image. Apply ...",
+      "date": "2026-09-14",
+      "timestamp": "2026-09-14T12:25:57+00:00",
+      "fetched_at": "2026-09-14T17:04:25.078922+00:00"
+    },
+    {
+      "id": "47866d86243e",
+      "title": "Sr. Principal Backend Engineer (Cortex XSIAM) at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Backend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/sr-principal-backend-engineer-cortex-xsiam/47263/100606751136",
+      "source": "Other",
+      "description": "Principal Backend Engineer (Cortex XSIAM). Tel Aviv-Yafo, Israel Product Engineering Ref ID: JR-019823. Apply Save Job.",
+      "date": "2026-09-14",
+      "timestamp": "2026-09-14T11:59:26+00:00",
+      "fetched_at": "2026-09-14T17:04:25.079051+00:00"
+    },
+    {
+      "id": "0f3534ec8fe6",
+      "title": "Remote Backend Engineer , IAM at Reddit",
+      "company": "Reddit",
+      "role": "Backend Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://weworkremotely.com/remote-jobs/reddit-backend-engineer-iam",
+      "source": "WeWorkRemotely",
+      "description": "Reddit is hiring a remote Backend Engineer , IAM to join their remote Back-End Programming team ... Full Stack AI Engineer . Jul 31. Reveleer. United ...",
+      "date": "2026-09-14",
+      "timestamp": "2026-09-14T11:37:57+00:00",
+      "fetched_at": "2026-09-14T17:04:25.140277+00:00"
+    },
     {
       "id": "5f1da542c492",
       "title": "Software Platform Engineer II - Pune, \u00cdndia - 20490 - MetLife careers",
