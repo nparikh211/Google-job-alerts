@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-09-14T01:48:06.711940+00:00",
-  "total_jobs": 9553,
+  "last_updated": "2026-09-14T09:17:14.796760+00:00",
+  "total_jobs": 9571,
   "stats": {
-    "total_companies": 4409,
+    "total_companies": 4418,
     "total_roles": 122,
     "regions": {
-      "India": 6256,
-      "Philippines": 2031,
-      "Remote": 1172,
+      "India": 6270,
+      "Philippines": 2034,
+      "Remote": 1173,
       "Unknown": 135
     },
     "sources": {
-      "Other": 7491,
-      "Greenhouse": 471,
+      "Other": 7507,
+      "Greenhouse": 472,
       "Workday": 407,
       "LinkedIn": 405,
       "Ashby": 293,
@@ -21,7 +21,7 @@
       "Lever": 64,
       "Workable": 64,
       "SmartRecruiters": 60,
-      "Indeed": 31,
+      "Indeed": 32,
       "BrassRing": 11,
       "Recruitee": 10,
       "Jobvite": 8,
@@ -31,10 +31,190 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-09-13"
+      "latest": "2026-09-14"
     }
   },
   "jobs": [
+    {
+      "id": "5f1da542c492",
+      "title": "Software Platform Engineer II - Pune, \u00cdndia - 20490 - MetLife careers",
+      "company": "Pune, \u00cdndia - 20490 - MetLife careers",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.metlifecareers.com/pt_BR/ml/JobDetail/Software-Platform-Engineer-II/20490",
+      "source": "Other",
+      "description": "Software Platform Engineer II. Informa\u00e7\u00f5es gerais. Localiza\u00e7\u00e3o. Pune ... We are seeking a Full Stack Engineer who is passionate about building ...",
+      "date": "2026-09-14",
+      "timestamp": "2026-09-14T07:27:49+00:00",
+      "fetched_at": "2026-09-14T09:17:14.680613+00:00"
+    },
+    {
+      "id": "4fb7ca6b579b",
+      "title": "Senior Staff Software Engineer , Gemini Mobile App, DeepMind \u2014 Google Careers",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.google.com/jobs/results/133023244499198662-senior-staff-software-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer , AI/ML, Google Cloud. Sunnyvale, CA, USA \u00b7 Senior ... Senior Staff Software Engineer , Gemini Mobile App, DeepMind. share.",
+      "date": "2026-09-14",
+      "timestamp": "2026-09-14T07:21:34+00:00",
+      "fetched_at": "2026-09-14T09:17:14.680813+00:00"
+    },
+    {
+      "id": "71e9a864901d",
+      "title": "Cloud Engineer - Finance Operations - GuideWell | Built In NYC",
+      "company": "Finance Operations - GuideWell | Built In NYC",
+      "role": "Cloud Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.builtinnyc.com/job/cloud-engineer-finance-operations/11154464",
+      "source": "Other",
+      "description": "GuideWell is hiring for a Remote Cloud Engineer - Finance Operations in United States. Find more details about the job and how to apply at Built ...",
+      "date": "2026-09-14",
+      "timestamp": "2026-09-14T04:26:19+00:00",
+      "fetched_at": "2026-09-14T09:17:14.681206+00:00"
+    },
+    {
+      "id": "049c2ccfb649",
+      "title": "Senior Software Engineer , Smart TV - Hsinchu, Taiwan | Roku Jobs",
+      "company": "Hsinchu, Taiwan | Roku Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.weareroku.com/jobs/senior-software-engineer-smart-tv-hsinchu-taiwan-2b3d1f08-dea7-4c6f-9c61-91f51d9dce98",
+      "source": "Other",
+      "description": "Senior Software Engineer , Smart TV. Software Engineering | Hsinchu ... Senior Software Engineer - Java, AWS, Oxford Road, Manchester, England.",
+      "date": "2026-09-14",
+      "timestamp": "2026-09-14T04:11:59+00:00",
+      "fetched_at": "2026-09-14T09:17:14.681483+00:00"
+    },
+    {
+      "id": "142546baea8c",
+      "title": "Full Stack Engineer (Flutter, Mobile & Web) @ FaithOnline",
+      "company": "FaithOnline",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.deel.com/faithonline/job-details/09d493ab-8ecd-4799-ad89-b7768c7b90bd/overview",
+      "source": "Other",
+      "description": "The Role. We need a full-stack engineer who can work across the whole stack: mobile, backend, and web. You will build a real product ...",
+      "date": "2026-09-14",
+      "timestamp": "2026-09-14T03:41:24+00:00",
+      "fetched_at": "2026-09-14T09:17:14.681616+00:00"
+    },
+    {
+      "id": "471e4f4759c7",
+      "title": "AI Engineer - USEReady Technology Private Limited - Kula",
+      "company": "USEReady Technology Private Limited - Kula",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.kula.ai/useready/51213",
+      "source": "Other",
+      "description": "ABOUT JOB We are looking for a talented AI Engineer with 2\u20133 years of hands-on experience in building and deploying AI/LLM-pow.",
+      "date": "2026-09-14",
+      "timestamp": "2026-09-14T03:29:21+00:00",
+      "fetched_at": "2026-09-14T09:17:14.681718+00:00"
+    },
+    {
+      "id": "87377bf7ba66",
+      "title": "Linux for Edge System Software Engineer (RDSS intern) - Nvidia Career",
+      "company": "Nvidia Career",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.nvidia.com/careers/job/893397235109",
+      "source": "Other",
+      "description": "Linux for Edge System Software Engineer (RDSS intern) ... By submitting your resume, you're expressing interest in our 2027 RDSS (Research and ...",
+      "date": "2026-09-14",
+      "timestamp": "2026-09-14T02:29:32+00:00",
+      "fetched_at": "2026-09-14T09:17:14.764038+00:00"
+    },
+    {
+      "id": "100b99a64ed8",
+      "title": "Software DevOps Cloud Engineer - Data and Automation job in Pittsburgh ... - PNC Careers",
+      "company": "Data and Automation job in Pittsburgh ... - PNC Careers",
+      "role": "Cloud Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.pnc.com/global/en/job/R232038/Software-DevOps-Cloud-Engineer-Data-and-Automation",
+      "source": "Other",
+      "description": "Software Engineer Principal - Data and Automation (Sagemaker, AWS CDK ... Software \" DevOps\" Engineer Principal - Data Platforms (Red Hat ...",
+      "date": "2026-09-14",
+      "timestamp": "2026-09-14T02:10:03+00:00",
+      "fetched_at": "2026-09-14T09:17:14.681900+00:00"
+    },
+    {
+      "id": "39dd30281182",
+      "title": "Azure AI Engineer - Senior Associate in Ciudad de M\u00e9xico, Mexico",
+      "company": "Senior Associate in Ciudad de M\u00e9xico, Mexico",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs-ta.pwc.com/global/en/job/760497WD/Azure-AI-Engineer-Senior-Associate",
+      "source": "Other",
+      "description": "Apply for Azure AI Engineer - Senior Associate job with PwC Acceleration Centres in Ciudad de M\u00e9xico, Mexico. Consulting at PwC Acceleration ...",
+      "date": "2026-09-14",
+      "timestamp": "2026-09-14T00:25:18+00:00",
+      "fetched_at": "2026-09-14T09:17:14.682037+00:00"
+    },
+    {
+      "id": "cd1fe97f5ed4",
+      "title": "Associate Software Engineer - FSI in KING OF PRUSSIA, Pennsylvania - UHS Careers",
+      "company": "FSI in KING OF PRUSSIA, Pennsylvania - UHS Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.uhsinc.com/careers/jobs/362176?lang=en-us",
+      "source": "Other",
+      "description": "UHS is hiring a Associate Software Engineer - FSI in KING OF PRUSSIA, Pennsylvania. Review all of the job details and apply today!",
+      "date": "2026-09-13",
+      "timestamp": "2026-09-13T23:56:41+00:00",
+      "fetched_at": "2026-09-14T09:17:14.682259+00:00"
+    },
+    {
+      "id": "ff8cb2ee3ef2",
+      "title": "Software Engineer II \u2013 Generative AI & LLM Platforms - HPE Careers",
+      "company": "HPE Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.hpe.com/ca/fr/job/1212245/Software-Engineer-II-Generative-AI-LLM-Platforms",
+      "source": "Other",
+      "description": "We are looking for a Full-Stack AI Engineer to develop and deploy ... DevOps Engineer \u2013 Generative AI & Enterprise Web Platforms. Emplacement ...",
+      "date": "2026-09-13",
+      "timestamp": "2026-09-13T23:32:14+00:00",
+      "fetched_at": "2026-09-14T09:17:14.682425+00:00"
+    },
+    {
+      "id": "86fdb2768fdf",
+      "title": "Senior Software Engineer jobs in Cicero, IL - Indeed",
+      "company": "Indeed",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.indeed.com/q-senior-software-engineer-l-cicero,-il-jobs.html",
+      "source": "Indeed",
+      "description": "The Senior Software Engineer designs and delivers complex features and services, mentors junior\u2026 Senior Backend Engineer .",
+      "date": "2026-09-13",
+      "timestamp": "2026-09-13T23:30:23+00:00",
+      "fetched_at": "2026-09-14T09:17:14.682543+00:00"
+    },
     {
       "id": "4f49f6f4f719",
       "title": "Senior Software Engineer | New York, NY, USA - eFinancialCareers",
@@ -64,6 +244,81 @@
       "date": "2026-09-13",
       "timestamp": "2026-09-13T22:47:00+00:00",
       "fetched_at": "2026-09-14T01:48:06.667963+00:00"
+    },
+    {
+      "id": "ec301cc6e4af",
+      "title": "Job Application for Data Engineer at Rackner - Greenhouse",
+      "company": "Rackner",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/rackner/jobs/4733525005",
+      "source": "Greenhouse",
+      "description": "The Data Engineer will also support education data integration using the Ed-Fi Data Standard and REST APIs, including source-to-Ed-Fi mapping, ...",
+      "date": "2026-09-13",
+      "timestamp": "2026-09-13T21:56:42+00:00",
+      "fetched_at": "2026-09-14T09:17:14.683016+00:00"
+    },
+    {
+      "id": "c06c32609d20",
+      "title": "Software Engineer - Test Automation (SDET) at Mach9 - Y Combinator",
+      "company": "Mach9",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.ycombinator.com/companies/mach9/jobs/RBOssgq-software-engineer-test-automation-sdet",
+      "source": "Other",
+      "description": "Senior Software Engineer \u00b7 Blacksmith \u00b7 Staff Product Engineer \u00b7 BoldVoice \u00b7 Fullstack Engineer (NYC) \u00b7 throxy \u00b7 Software Engineer .",
+      "date": "2026-09-13",
+      "timestamp": "2026-09-13T20:25:18+00:00",
+      "fetched_at": "2026-09-14T09:17:14.683227+00:00"
+    },
+    {
+      "id": "bc3497d47d08",
+      "title": "Senior Software Engineer - Optum | Built In",
+      "company": "Optum | Built In",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://builtin.com/job/senior-software-engineer/11154178",
+      "source": "Other",
+      "description": "Optum is hiring for a Senior Software Engineer in Eden Prairie, MN, USA. Find more details about the job and how to apply at Built In.",
+      "date": "2026-09-13",
+      "timestamp": "2026-09-13T20:17:08+00:00",
+      "fetched_at": "2026-09-14T09:17:14.683335+00:00"
+    },
+    {
+      "id": "8038feb3b273",
+      "title": "Senior DevOps Engineer (Oracle HCM) in Cyberjaya, Selangor, Malaysia | at DHL Group",
+      "company": "DHL Group",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.dhl.com/eu/de/job/DPDHGLOBALAV376522DEEUEXTERNAL/Senior-DevOps-Engineer-Oracle-HCM",
+      "source": "Other",
+      "description": "Senior DevOps Engineer (Oracle HCM) \u00b7 Gain a deep understanding of how HR processes and Oracle Fusion HCM Core system work. \u00b7 At least 8 years of ...",
+      "date": "2026-09-13",
+      "timestamp": "2026-09-13T20:08:25+00:00",
+      "fetched_at": "2026-09-14T09:17:14.683474+00:00"
+    },
+    {
+      "id": "6c13557e957f",
+      "title": "Data Engineer in San Jose, California, United States of America - Cisco Careers",
+      "company": "Cisco Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/2023841/Data-Engineer",
+      "source": "Other",
+      "description": "Data Engineer . Share. Share via Facebook. Share via twitter. Share via ... Senior Software Engineer , Data Engineering. Location: San Francisco ...",
+      "date": "2026-09-13",
+      "timestamp": "2026-09-13T19:05:36+00:00",
+      "fetched_at": "2026-09-14T09:17:14.765074+00:00"
     },
     {
       "id": "9d0d9574d1dc",
@@ -139,6 +394,21 @@
       "date": "2026-09-13",
       "timestamp": "2026-09-13T18:14:09+00:00",
       "fetched_at": "2026-09-13T21:49:45.354934+00:00"
+    },
+    {
+      "id": "fb2f506b2a30",
+      "title": "Software Engineer (DevOps/.NET/Azure) in Hoffman Estates, Illinois, United States of ...",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.siemens-healthineers.com/fr/fr/job/R-26937/Software-Engineer-DevOps-NET-Azure",
+      "source": "Other",
+      "description": "Apply for Software Engineer (DevOps/.NET/Azure) job with Siemens Healthineers in Hoffman Estates, Illinois, United States of America.",
+      "date": "2026-09-13",
+      "timestamp": "2026-09-13T17:34:01+00:00",
+      "fetched_at": "2026-09-14T09:17:14.765895+00:00"
     },
     {
       "id": "d91aa192435d",
