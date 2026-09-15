@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-09-15T15:44:03.024847+00:00",
-  "total_jobs": 9646,
+  "last_updated": "2026-09-15T19:18:22.868504+00:00",
+  "total_jobs": 9663,
   "stats": {
-    "total_companies": 4451,
-    "total_roles": 122,
+    "total_companies": 4456,
+    "total_roles": 123,
     "regions": {
-      "India": 6331,
-      "Philippines": 2043,
-      "Remote": 1179,
+      "India": 6346,
+      "Philippines": 2044,
+      "Remote": 1180,
       "Unknown": 135
     },
     "sources": {
-      "Other": 7568,
-      "Greenhouse": 474,
-      "Workday": 410,
-      "LinkedIn": 407,
+      "Other": 7579,
+      "Greenhouse": 475,
+      "Workday": 411,
+      "LinkedIn": 409,
       "Ashby": 296,
-      "iCIMS": 125,
-      "Breezy": 103,
+      "iCIMS": 126,
+      "Breezy": 104,
       "Workable": 66,
       "Lever": 64,
       "SmartRecruiters": 60,
@@ -36,6 +36,186 @@
   },
   "jobs": [
     {
+      "id": "c8fa3e93e6b9",
+      "title": "Senior Software Engineer - Myworkdayjobs.com",
+      "company": "Autodesk",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Norway---Oslo/Senior-Software-Engineer_26WD101130-1?utm_source=Merantix+AI+Campus+job+board&utm_medium=getro.com&gh_src=Merantix+AI+Campus+job+board",
+      "source": "Workday",
+      "description": "Job Requisition ID # 26WD101130 Help shape how cities are designed We are looking for a Senior Software Engineer to join us in developing the next ...",
+      "date": "2026-09-15",
+      "timestamp": "2026-09-15T19:14:37+00:00",
+      "fetched_at": "2026-09-15T19:18:22.455395+00:00"
+    },
+    {
+      "id": "b39ad1bdf01e",
+      "title": "Software Engineer | Job Details - + Cornerstone Galaxy +",
+      "company": "Job Details - + Cornerstone Galaxy +",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://cornerstone.csod.com/ux/ats/careersite/2/home/requisition/11513?c=cornerstone&source=LinkedIn",
+      "source": "Other",
+      "description": "Software Engineer \u00b7 Design, develop, and maintain backend services and REST APIs using C# and .NET. \u00b7 Develop application UI using React and TypeScript.",
+      "date": "2026-09-15",
+      "timestamp": "2026-09-15T18:45:41+00:00",
+      "fetched_at": "2026-09-15T19:18:22.456285+00:00"
+    },
+    {
+      "id": "55d1cf52dcf8",
+      "title": "Associate Software Engineer - IC1 (SOFENG | Careers at Dallas",
+      "company": "Dallas",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers-powerschool.icims.com/jobs/53084/associate-software-engineer/job",
+      "source": "iCIMS",
+      "description": "Dallas is now hiring a Associate Software Engineer - IC1 (SOFENG - Software Engineering) in Dallas, Texas. Review all of the job details and apply ...",
+      "date": "2026-09-15",
+      "timestamp": "2026-09-15T18:24:05+00:00",
+      "fetched_at": "2026-09-15T19:18:22.456432+00:00"
+    },
+    {
+      "id": "985d49ddd9c6",
+      "title": "Senior AI Engineer - Job Detail | Careers Marketplace - Siemens",
+      "company": "Job Detail | Careers Marketplace - Siemens",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/522160",
+      "source": "Other",
+      "description": "Senior AI Engineer . Job ID. 522160. Posted since. 15 ... Similar jobs. Senior Software Engineer - SAP BW/4HANA (Integrated Planning + ABAP) Consultant.",
+      "date": "2026-09-15",
+      "timestamp": "2026-09-15T17:55:10+00:00",
+      "fetched_at": "2026-09-15T19:18:22.456565+00:00"
+    },
+    {
+      "id": "82f227434170",
+      "title": "Process Automation Software Engineer - Jobs at Nucor",
+      "company": "Nucor",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.nucor.com/job/Apple-Grove-Process-Automation-Software-Engineer-WV-25502/1430049300/",
+      "source": "Other",
+      "description": "Basic Job Functions: Nucor Steel West Virginia is seeking a Process Automation Software Engineer . The Process Automation Software Engineer works ...",
+      "date": "2026-09-15",
+      "timestamp": "2026-09-15T17:50:26+00:00",
+      "fetched_at": "2026-09-15T19:18:22.456718+00:00"
+    },
+    {
+      "id": "ade9f01f2d2d",
+      "title": "Full Stack Software Engineer (Java and Cloud) in Multiple Locations - State Farm Careers",
+      "company": "State Farm Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.statefarm.com/main/jobs/46108?lang=en-us",
+      "source": "Other",
+      "description": "State Farm Careers is hiring a Full Stack Software Engineer (Java and Cloud) in Multiple Locations. Review all of the job details and apply today!",
+      "date": "2026-09-15",
+      "timestamp": "2026-09-15T17:29:54+00:00",
+      "fetched_at": "2026-09-15T19:18:22.456826+00:00"
+    },
+    {
+      "id": "6089aaf27ce9",
+      "title": "Senior Applied AI Engineer - Nvidia Career",
+      "company": "Nvidia Career",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.nvidia.com/careers/job/893397659441",
+      "source": "Other",
+      "description": "NVIDIA is looking for a Senior Applied AI Engineer to help build intelligent software systems that improve engineering productivity and software ...",
+      "date": "2026-09-15",
+      "timestamp": "2026-09-15T16:55:29+00:00",
+      "fetched_at": "2026-09-15T19:18:22.456916+00:00"
+    },
+    {
+      "id": "4cdabb425b7c",
+      "title": "Senior AI Engineer (hybrid) - Johnson Controls Careers",
+      "company": "Johnson Controls Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.johnsoncontrols.com/job/WD30279049",
+      "source": "Other",
+      "description": "Apply today for the Senior AI Engineer (hybrid) in United States of America, Maryland; Pennsylvania, York | United States of America, Pennsylvania ...",
+      "date": "2026-09-15",
+      "timestamp": "2026-09-15T16:26:28+00:00",
+      "fetched_at": "2026-09-15T19:18:22.457341+00:00"
+    },
+    {
+      "id": "4db078e84d4c",
+      "title": "Data Engineer \u2013 Media & Entertainment - Fincons.US, Inc. - Career Page",
+      "company": "Fincons.US, Inc. - Career Page",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://finconsus.applytojob.com/apply/XKKRkAbmSy/Data-Engineer-Media-Entertainment",
+      "source": "Other",
+      "description": "Apply to Data Engineer \u2013 Media & Entertainment at Fincons.US, Inc. in Los Angeles, CA.",
+      "date": "2026-09-15",
+      "timestamp": "2026-09-15T16:23:47+00:00",
+      "fetched_at": "2026-09-15T19:18:22.457501+00:00"
+    },
+    {
+      "id": "fc25e4d46e8f",
+      "title": "Job Application for Senior Software Engineer , Backend at Flex - Greenhouse",
+      "company": "Flex",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/flex/jobs/4732764005",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer , Backend. Remote; USA. Apply. Flex is a growth ... As a Senior Backend Engineer , you'll design, build, and scale the ...",
+      "date": "2026-09-15",
+      "timestamp": "2026-09-15T16:02:48+00:00",
+      "fetched_at": "2026-09-15T19:18:22.457572+00:00"
+    },
+    {
+      "id": "6bf77484ddc5",
+      "title": "Senior Software Engineer , Storage - Careers at Airbnb",
+      "company": "Airbnb",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.airbnb.com/positions/8165656/?gh_jid=8165656",
+      "source": "Other",
+      "description": "Senior Software Engineer , Storage. United States. Role overview. Application. Airbnb was born in 2007 when two hosts welcomed three guests to their ...",
+      "date": "2026-09-15",
+      "timestamp": "2026-09-15T16:02:07+00:00",
+      "fetched_at": "2026-09-15T19:18:22.457660+00:00"
+    },
+    {
+      "id": "b00ed1720d16",
+      "title": "Sr. Principal Data Engineer - Data Ingestion Pipeline at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-principal-data-engineer-data-ingestion-pipeline/47263/100093058976",
+      "source": "Other",
+      "description": "Learn more about applying for Sr. Principal Data Engineer ... Senior Staff Software Engineer (Internet Security) Santa Clara, California, United States",
+      "date": "2026-09-15",
+      "timestamp": "2026-09-15T15:30:38+00:00",
+      "fetched_at": "2026-09-15T19:18:22.457809+00:00"
+    },
+    {
       "id": "50469b6cfb94",
       "title": "Acceleration Center - Full-Stack Cloud Engineer - Senior Associate - PwC jobs",
       "company": "Acceleration Center",
@@ -51,6 +231,51 @@
       "fetched_at": "2026-09-15T15:44:02.974747+00:00"
     },
     {
+      "id": "d4e87141ef82",
+      "title": "Senior Software Engineer in United States | GitHub, Inc.",
+      "company": "GitHub, Inc.",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.github.careers/careers-home/jobs/5770?lang=en-us",
+      "source": "Other",
+      "description": "GitHub Careers Home is hiring a Senior Software Engineer in United States. Review all of the job details and apply today!",
+      "date": "2026-09-15",
+      "timestamp": "2026-09-15T15:19:13+00:00",
+      "fetched_at": "2026-09-15T19:18:22.457899+00:00"
+    },
+    {
+      "id": "de2acfc2f35d",
+      "title": "AWS Certified Data Engineer | Ayan Hussain | 30 comments - LinkedIn",
+      "company": "Ayan Hussain | 30 comments - LinkedIn",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/ayan-hussain_aws-certified-data-engineer-activity-7505609304817930240-BdHa",
+      "source": "LinkedIn",
+      "description": "AWS Certified Data Engineer \u2601\ufe0f After quite a lot of procrastination, I finally decided to book the exam and I'm happy to share that I've ...",
+      "date": "2026-09-15",
+      "timestamp": "2026-09-15T15:11:17+00:00",
+      "fetched_at": "2026-09-15T19:18:22.458107+00:00"
+    },
+    {
+      "id": "2ed57e9e7cf0",
+      "title": "Full-stack Engineer - Openings at FBS",
+      "company": "Fbs Financial Business Systems",
+      "role": "stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://fbs-financial-business-systems.breezy.hr/p/04ace287159e-full-stack-engineer",
+      "source": "Breezy",
+      "description": "FBS is looking for a full stack engineer to build and improve customer-facing software across frontend, backend, and data integration layers. This ...",
+      "date": "2026-09-15",
+      "timestamp": "2026-09-15T15:05:36+00:00",
+      "fetched_at": "2026-09-15T19:18:22.458387+00:00"
+    },
+    {
       "id": "ccffe7f33be7",
       "title": "Senior Software Engineer - Electricity Markets - Careers at GE Vernova",
       "company": "GE Vernova",
@@ -64,6 +289,21 @@
       "date": "2026-09-15",
       "timestamp": "2026-09-15T14:54:11+00:00",
       "fetched_at": "2026-09-15T15:44:02.794744+00:00"
+    },
+    {
+      "id": "bf9ee05e9240",
+      "title": "Brien Grant, MS' Post - LinkedIn",
+      "company": "Unknown Company",
+      "role": "Brien Grant, MS' Post - LinkedIn",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/brienbuilds_is-a-data-engineer-less-people-i-would-activity-7505603873781260288-YtkO",
+      "source": "LinkedIn",
+      "description": "Is a data engineer less people? I would have to say no. This is my reasoning. Any data role is about business impact. Providing insight or clean ...",
+      "date": "2026-09-15",
+      "timestamp": "2026-09-15T14:41:13+00:00",
+      "fetched_at": "2026-09-15T19:18:22.458731+00:00"
     },
     {
       "id": "594ab492d0de",
@@ -94,6 +334,21 @@
       "date": "2026-09-15",
       "timestamp": "2026-09-15T14:34:33+00:00",
       "fetched_at": "2026-09-15T15:44:02.795471+00:00"
+    },
+    {
+      "id": "3363bda4bcb2",
+      "title": "Associate Software Engineer - Launchpad in Lowe's Charlotte Technology Hub 3505",
+      "company": "Launchpad in Lowe's Charlotte Technology Hub 3505",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://talent.lowes.com/us/en/job/JR-02641559/Associate-Software-Engineer-Launchpad",
+      "source": "Other",
+      "description": "Associate Software Engineer - Launchpad \u00b7 Innovate in Charlotte. Thank you for dedicating your time and talent to Lowe's. \u00b7 Your Impact \u00b7 Launchpad ...",
+      "date": "2026-09-15",
+      "timestamp": "2026-09-15T13:56:45+00:00",
+      "fetched_at": "2026-09-15T19:18:22.837868+00:00"
     },
     {
       "id": "b3141a2d9a19",
