@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-09-15T01:59:01.555983+00:00",
-  "total_jobs": 9622,
+  "last_updated": "2026-09-15T08:59:30.267633+00:00",
+  "total_jobs": 9628,
   "stats": {
-    "total_companies": 4443,
+    "total_companies": 4444,
     "total_roles": 122,
     "regions": {
-      "India": 6311,
+      "India": 6314,
       "Philippines": 2042,
-      "Remote": 1175,
+      "Remote": 1178,
       "Unknown": 135
     },
     "sources": {
-      "Other": 7549,
-      "Greenhouse": 472,
+      "Other": 7552,
+      "Greenhouse": 473,
       "Workday": 410,
       "LinkedIn": 407,
-      "Ashby": 295,
-      "iCIMS": 124,
+      "Ashby": 296,
+      "iCIMS": 125,
       "Breezy": 103,
       "Workable": 65,
       "Lever": 64,
@@ -31,10 +31,70 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-09-14"
+      "latest": "2026-09-15"
     }
   },
   "jobs": [
+    {
+      "id": "94f48d3696c1",
+      "title": "Frontend / AI Engineer - ExpertVoice Inc - Paylocity",
+      "company": "ExpertVoice Inc - Paylocity",
+      "role": "AI Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://recruiting.paylocity.com/recruiting/jobs/Details/4500949/ExpertVoice-Inc/Frontend-AI-Engineer",
+      "source": "Other",
+      "description": "Frontend / AI Engineer . Remote, Continental United States About Expertvoice. We work with hundreds of the world's most respected consumer brands ...",
+      "date": "2026-09-15",
+      "timestamp": "2026-09-15T02:38:24+00:00",
+      "fetched_at": "2026-09-15T08:59:30.226196+00:00"
+    },
+    {
+      "id": "91b9efb85b97",
+      "title": "Software Engineer II - JPMC Candidate Experience page Careers",
+      "company": "JPMC Candidate Experience page Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210770595",
+      "source": "Other",
+      "description": "Software Engineer II ( Full Stack Engineer ). New York, NY, United States ... Software Engineer II - Platform Engineer /Databricks. Jersey City ...",
+      "date": "2026-09-15",
+      "timestamp": "2026-09-15T01:41:27+00:00",
+      "fetched_at": "2026-09-15T08:59:29.963546+00:00"
+    },
+    {
+      "id": "13743d14f80b",
+      "title": "Data Engineer @ Ibotta - Jobs",
+      "company": "Ibotta",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/ibotta/fe48cc5f-5be8-4575-924a-c36b21cbd706",
+      "source": "Ashby",
+      "description": "... Data Engineer on DICE, you'll build software to provision and govern our data assets, develop self-service infrastructure tooling, and automate ...",
+      "date": "2026-09-15",
+      "timestamp": "2026-09-15T01:17:04+00:00",
+      "fetched_at": "2026-09-15T08:59:29.963688+00:00"
+    },
+    {
+      "id": "92a07801c967",
+      "title": "ExpertVoice Inc - Frontend / AI Engineer - Paylocity",
+      "company": "ExpertVoice Inc",
+      "role": "AI Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4500949",
+      "source": "Other",
+      "description": "Frontend / AI Engineer . Remote, Continental United States About Expertvoice. We work with hundreds of the world's most respected consumer brands ...",
+      "date": "2026-09-15",
+      "timestamp": "2026-09-15T00:53:30+00:00",
+      "fetched_at": "2026-09-15T08:59:29.963834+00:00"
+    },
     {
       "id": "9370605fee24",
       "title": "Software Engineer , Intern (Summer 2027) - US - DoorDash",
@@ -124,6 +184,21 @@
       "date": "2026-09-14",
       "timestamp": "2026-09-14T22:13:02+00:00",
       "fetched_at": "2026-09-15T01:59:01.454655+00:00"
+    },
+    {
+      "id": "559b900c8bd0",
+      "title": "Job Application for Senior Software Engineer at Ping Identity - Greenhouse",
+      "company": "Pingidentity",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/pingidentity/jobs/8797384002",
+      "source": "Greenhouse",
+      "description": "The team is focused on building Ping's identity for AI offerings to secure and govern AI agents. We are looking for a Senior Software Engineer who can ...",
+      "date": "2026-09-14",
+      "timestamp": "2026-09-14T22:11:07+00:00",
+      "fetched_at": "2026-09-15T08:59:29.965290+00:00"
     },
     {
       "id": "bf2983a53e59",
@@ -229,6 +304,21 @@
       "date": "2026-09-14",
       "timestamp": "2026-09-14T20:32:07+00:00",
       "fetched_at": "2026-09-14T22:46:53.163491+00:00"
+    },
+    {
+      "id": "ec55771fad43",
+      "title": "Lead Software Engineer in Remote Location | Careers at TDS Corporate",
+      "company": "TDS Corporate",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://external-telecom-teldta.icims.com/jobs/29951/lead-software-engineer/job",
+      "source": "iCIMS",
+      "description": "Lead Software Engineer . Job Locations US-Remote Location. ID: 2026-29951. Company: TDS Telecom. Pay Range: $81,000.00 - $131,600.00. Overview. At TDS ...",
+      "date": "2026-09-14",
+      "timestamp": "2026-09-14T20:28:20+00:00",
+      "fetched_at": "2026-09-15T08:59:29.966934+00:00"
     },
     {
       "id": "4809c060bc56",
