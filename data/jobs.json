@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-09-16T15:36:03.006696+00:00",
-  "total_jobs": 9718,
+  "last_updated": "2026-09-16T19:08:12.608078+00:00",
+  "total_jobs": 9734,
   "stats": {
-    "total_companies": 4470,
-    "total_roles": 124,
+    "total_companies": 4477,
+    "total_roles": 125,
     "regions": {
-      "India": 6376,
-      "Philippines": 2063,
+      "India": 6387,
+      "Philippines": 2068,
       "Remote": 1186,
       "Unknown": 135
     },
     "sources": {
-      "Other": 7621,
-      "Greenhouse": 477,
-      "Workday": 414,
-      "LinkedIn": 411,
-      "Ashby": 299,
+      "Other": 7632,
+      "Greenhouse": 478,
+      "Workday": 416,
+      "LinkedIn": 412,
+      "Ashby": 300,
       "iCIMS": 127,
       "Breezy": 104,
       "Workable": 66,
@@ -36,6 +36,201 @@
   },
   "jobs": [
     {
+      "id": "ffcd924f36e7",
+      "title": "Senior Software Engineer , Full Stack - Myworkdayjobs.com",
+      "company": "Bitsight",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://bitsight.wd1.myworkdayjobs.com/Bitsight/job/Boston-MA/Senior-Software-Engineer--Full-Stack_JR101421-1",
+      "source": "Workday",
+      "description": "... Full Stack Engineer and team player to join one of our multicultural ... Senior Software Engineer , Full Stack. Apply. locations: Boston, MA. time ...",
+      "date": "2026-09-16",
+      "timestamp": "2026-09-16T18:35:17+00:00",
+      "fetched_at": "2026-09-16T19:08:12.576028+00:00"
+    },
+    {
+      "id": "a907fce9b542",
+      "title": "Software Engineer II - Security, San Francisco, United States",
+      "company": "Security, San Francisco, United States",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.uber.com/en/jobs/302349/",
+      "source": "Other",
+      "description": "and team Engineering at Uber means building for real-world impact under real-world constraints. As a Software Engineer II on our Security team, ...",
+      "date": "2026-09-16",
+      "timestamp": "2026-09-16T18:14:51+00:00",
+      "fetched_at": "2026-09-16T19:08:12.576131+00:00"
+    },
+    {
+      "id": "0d31d73554b8",
+      "title": "Software Engineer Job Details | Super Micro Computer",
+      "company": "Super Micro Computer",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.supermicro.com/job/San-Jose-Software-Engineer-Cali/1430350500/",
+      "source": "Other",
+      "description": "Job Summary: We are looking for a passionate, motivated Software Engineer to join our dynamic and fast-paced team building switch agent and network ...",
+      "date": "2026-09-16",
+      "timestamp": "2026-09-16T17:26:46+00:00",
+      "fetched_at": "2026-09-16T19:08:12.163135+00:00"
+    },
+    {
+      "id": "9de7ad04dc1b",
+      "title": "Job ID:26033994 - Software Engineer III - GBS IND - Multiple Locations",
+      "company": "Job ID:26033994",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.bankofamerica.com/en-us/job-detail/26033994/software-engineer-iii-gbs-ind-multiple-locations",
+      "source": "Other",
+      "description": "Apply for the Software Engineer III - GBS IND position (Job ID: 26033994), with openings in multiple locations, at Bank of America.",
+      "date": "2026-09-16",
+      "timestamp": "2026-09-16T17:15:48+00:00",
+      "fetched_at": "2026-09-16T19:08:12.163290+00:00"
+    },
+    {
+      "id": "71051bb93afb",
+      "title": "Full Stack Engineer - React/Typescript - Python (VP) - Citi Careers",
+      "company": "React/Typescript - Python (VP) - Citi Careers",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.citi.com/job/london/full-stack-engineer-react-typescript-python-vp/287/100709925360",
+      "source": "Other",
+      "description": "Learn more about applying for Full Stack Engineer - React/Typescript - Python (VP) at Citi. Learn more about potential responsibilities, ...",
+      "date": "2026-09-16",
+      "timestamp": "2026-09-16T17:13:43+00:00",
+      "fetched_at": "2026-09-16T19:08:12.163438+00:00"
+    },
+    {
+      "id": "f85fa485d267",
+      "title": "CPU Hardware Verification Software Engineer in Austin at Arm",
+      "company": "Arm",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.arm.com/job/austin/cpu-hardware-verification-software-engineer/33099/100674696784",
+      "source": "Other",
+      "description": "We are searching for a dedicated Verification/ Software Engineer to join the Raven Random Test Generator team at the Arm Austin Design Center.",
+      "date": "2026-09-16",
+      "timestamp": "2026-09-16T17:03:36+00:00",
+      "fetched_at": "2026-09-16T19:08:12.576704+00:00"
+    },
+    {
+      "id": "e5bec9408992",
+      "title": "Platform Engineer - Rippling",
+      "company": "Rippling",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/stream-companies/jobs/db8616bb-252a-4061-bfcc-e868188808a1",
+      "source": "Other",
+      "description": "Stream Companies is seeking a Platform Engineer to serve as the primary guardian of our infrastructure and deployment stability for our best-in-class ...",
+      "date": "2026-09-16",
+      "timestamp": "2026-09-16T17:00:29+00:00",
+      "fetched_at": "2026-09-16T19:08:12.163546+00:00"
+    },
+    {
+      "id": "702dbd1f921f",
+      "title": "Senior Software Engineer , Fullstack @ Posh - Jobs",
+      "company": "Posh",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/posh/3c29a47d-d0f0-4596-a739-4712bcf951c5",
+      "source": "Ashby",
+      "description": "Senior Software Engineer , Fullstack. Location. New York City. Employment Type. Full time. Location Type. On-site. Department. Engineering ...",
+      "date": "2026-09-16",
+      "timestamp": "2026-09-16T16:41:51+00:00",
+      "fetched_at": "2026-09-16T19:08:12.576884+00:00"
+    },
+    {
+      "id": "990d8072eab0",
+      "title": "Software Engineer II: Data Engineer - JPMC Candidate Experience page Careers",
+      "company": "JPMC Candidate Experience page Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790994",
+      "source": "Other",
+      "description": "Software Engineer II: Data Engineer . Jersey City, NJ, United States ... Software Engineer II - Platform Engineer /Databricks. Jersey City, NJ ...",
+      "date": "2026-09-16",
+      "timestamp": "2026-09-16T16:20:58+00:00",
+      "fetched_at": "2026-09-16T19:08:12.163742+00:00"
+    },
+    {
+      "id": "d04d8629178e",
+      "title": "Software Engineer - Myworkdayjobs.com",
+      "company": "Highmarkhealth",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Software-Engineer_J286286",
+      "source": "Workday",
+      "description": "This job is an integral member of an agile software engineer team responsible for building complex scalable software applications across all digital ...",
+      "date": "2026-09-16",
+      "timestamp": "2026-09-16T16:03:24+00:00",
+      "fetched_at": "2026-09-16T19:08:12.163826+00:00"
+    },
+    {
+      "id": "aad5fe04f30c",
+      "title": "Job Application for Senior Platform Engineer at Genio - Greenhouse",
+      "company": "Genio",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/genio/jobs/6173304004",
+      "source": "Greenhouse",
+      "description": "Senior Platform Engineer . Leeds, England, United Kingdom. Apply Here. Hi ... Senior Data Engineer (Operations). About you: Essential: Systems ...",
+      "date": "2026-09-16",
+      "timestamp": "2026-09-16T15:52:42+00:00",
+      "fetched_at": "2026-09-16T19:08:12.163903+00:00"
+    },
+    {
+      "id": "1fa889fdd01b",
+      "title": "Professional Developer Platform Engineer - Affirmative Opportunity for People with Disabilities",
+      "company": "Affirmative Opportunity for People with Disabilities",
+      "role": "Platform Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.volvogroup.com/job/Curitiba-Professional-Developer-Platform-Engineer-Affirmative-Opportunity-for-People-with-Disabilities-81260-900/1368335355/?feedId=361555",
+      "source": "Other",
+      "description": "Curitiba Professional Developer Platform Engineer - Affirmative Opportunity for People with Disabilities, 81260-900.",
+      "date": "2026-09-16",
+      "timestamp": "2026-09-16T15:41:02+00:00",
+      "fetched_at": "2026-09-16T19:08:12.577650+00:00"
+    },
+    {
+      "id": "18ada4ceffc6",
+      "title": "WMS Software Engineer at MCKESSON",
+      "company": "MCKESSON",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mckesson.com/en/job/irving/wms-software-engineer/733/100714680848",
+      "source": "Other",
+      "description": "The WMS Software Engineer - IBM i / AS400 Specialist plays a critical role in designing, developing, and delivering high-quality software solutions ...",
+      "date": "2026-09-16",
+      "timestamp": "2026-09-16T15:07:37+00:00",
+      "fetched_at": "2026-09-16T19:08:12.163985+00:00"
+    },
+    {
       "id": "c5f08470eb3d",
       "title": "Principal, Software Engineer 1 at DIRECTV",
       "company": "DIRECTV",
@@ -49,6 +244,21 @@
       "date": "2026-09-16",
       "timestamp": "2026-09-16T14:18:13+00:00",
       "fetched_at": "2026-09-16T15:36:02.750904+00:00"
+    },
+    {
+      "id": "d0dd85d2ce69",
+      "title": "Sr. Fullstack Software Engineer , Manufacturing Site Reliability Engineer - Tesla",
+      "company": "Tesla",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.tesla.com/careers/search/job/sr-fullstack-software-engineer-manufacturing-site-reliability-engineer-279052",
+      "source": "Other",
+      "description": "Sr. Fullstack Software Engineer , Manufacturing Site Reliability Engineer ... As a MFGSRE Fullstack Engineer , you'll take part in the design, development ...",
+      "date": "2026-09-16",
+      "timestamp": "2026-09-16T13:52:16+00:00",
+      "fetched_at": "2026-09-16T19:08:12.164505+00:00"
     },
     {
       "id": "8c419cbde8be",
@@ -81,6 +291,21 @@
       "fetched_at": "2026-09-16T15:36:02.751335+00:00"
     },
     {
+      "id": "452eb5241d72",
+      "title": "Sayna Parida's Post - LinkedIn",
+      "company": "Unknown Company",
+      "role": "Sayna Parida's Post - LinkedIn",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/sayna-parida_in-march-2025-i-joined-google-as-a-backend-activity-7505472679898976258-Q3FR",
+      "source": "LinkedIn",
+      "description": "... backend engineer at Google scale, from my actual week ... Unbelievable. Like \u00b7 Reply \u00b7 1 Reaction 2 Reactions. Vinay Dixit. Senior Software Engineer ...",
+      "date": "2026-09-16",
+      "timestamp": "2026-09-16T13:18:20+00:00",
+      "fetched_at": "2026-09-16T19:08:12.165061+00:00"
+    },
+    {
       "id": "7ad6c892e20e",
       "title": "Senior Software Engineer , Warren, Michigan | General Motors Careers",
       "company": "General Motors Careers",
@@ -94,6 +319,21 @@
       "date": "2026-09-16",
       "timestamp": "2026-09-16T13:10:32+00:00",
       "fetched_at": "2026-09-16T15:36:02.751431+00:00"
+    },
+    {
+      "id": "7f6812e05a63",
+      "title": "ML/ Data Engineer | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.apexsystems.com/job/3051810_usa/mldata-engineer",
+      "source": "Other",
+      "description": "ML/ Data Engineer \u00b7 7+ years of software engineering experience, with 3+ years in data infrastructure. \u00b7 Strong expertise in GCP's data and ML ...",
+      "date": "2026-09-16",
+      "timestamp": "2026-09-16T11:52:14+00:00",
+      "fetched_at": "2026-09-16T19:08:12.165336+00:00"
     },
     {
       "id": "b5230befd97d",
