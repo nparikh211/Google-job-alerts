@@ -1,26 +1,26 @@
 {
-  "last_updated": "2026-09-16T01:48:25.932237+00:00",
-  "total_jobs": 9690,
+  "last_updated": "2026-09-16T08:51:55.277356+00:00",
+  "total_jobs": 9703,
   "stats": {
-    "total_companies": 4463,
+    "total_companies": 4465,
     "total_roles": 123,
     "regions": {
-      "India": 6360,
-      "Philippines": 2051,
+      "India": 6361,
+      "Philippines": 2063,
       "Remote": 1186,
       "Unknown": 135
     },
     "sources": {
-      "Other": 7599,
-      "Greenhouse": 476,
+      "Other": 7609,
+      "Greenhouse": 477,
       "Workday": 413,
       "LinkedIn": 410,
       "Ashby": 298,
       "iCIMS": 127,
       "Breezy": 104,
       "Workable": 66,
-      "Lever": 64,
-      "SmartRecruiters": 60,
+      "Lever": 65,
+      "SmartRecruiters": 61,
       "Indeed": 32,
       "BrassRing": 11,
       "Recruitee": 10,
@@ -35,6 +35,141 @@
     }
   },
   "jobs": [
+    {
+      "id": "82e501ae9ddd",
+      "title": "AI Engineer - Ford Global Career Site",
+      "company": "Ford Global Career Site",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://apply.ford.com/en/sites/CX_1/job/70493",
+      "source": "Other",
+      "description": "We are seeking a creative and driven Full-Stack Software Engineer to join our innovative team. ... Senior AI Platform Engineer Join Ford Credit's ...",
+      "date": "2026-09-16",
+      "timestamp": "2026-09-16T05:59:10+00:00",
+      "fetched_at": "2026-09-16T08:51:55.237411+00:00"
+    },
+    {
+      "id": "86cfe6f1c4a3",
+      "title": "Senior Software Engineer in Torrance, California - Rivian Careers",
+      "company": "Rivian Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.rivian.com/careers-home/jobs/33506?lang=en-us",
+      "source": "Other",
+      "description": "Rivian Careers Home is hiring a Senior Software Engineer in Torrance, California. Review all of the job details and apply today!",
+      "date": "2026-09-16",
+      "timestamp": "2026-09-16T05:51:30+00:00",
+      "fetched_at": "2026-09-16T08:51:55.237574+00:00"
+    },
+    {
+      "id": "99d83789bd76",
+      "title": "Machine Learning Engineer - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200683846-0836/machine-learning-engineer?team=MLAI",
+      "source": "Other",
+      "description": "Machine Learning Engineer . Cupertino, California, United States ... We are looking for an ML engineer who is passionate about developing ...",
+      "date": "2026-09-16",
+      "timestamp": "2026-09-16T04:37:10+00:00",
+      "fetched_at": "2026-09-16T08:51:55.237734+00:00"
+    },
+    {
+      "id": "13486ddbeeb2",
+      "title": "Machine Learning Engineer - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200683295-0836/machine-learning-engineer?team=SFTWR",
+      "source": "Other",
+      "description": "As a Machine Learning Engineer , you'll pioneer research and develop groundbreaking generative AI for image enhancement and restoration. Your work will ...",
+      "date": "2026-09-16",
+      "timestamp": "2026-09-16T03:32:07+00:00",
+      "fetched_at": "2026-09-16T08:51:55.237892+00:00"
+    },
+    {
+      "id": "6063f04aec34",
+      "title": "Job Application for Software Engineer Intern at SingleStore - Greenhouse",
+      "company": "Singlestore",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/singlestore/jobs/8205514",
+      "source": "Greenhouse",
+      "description": "As a Software Engineer , Intern, you'll have the opportunity to spend 12 weeks working on one (or more) of the engineering teams at SingleStore.",
+      "date": "2026-09-16",
+      "timestamp": "2026-09-16T02:06:44+00:00",
+      "fetched_at": "2026-09-16T08:51:55.237992+00:00"
+    },
+    {
+      "id": "46c638a4e808",
+      "title": "Senior Software Engineer , Platform Identity in Krakow, Poland - Cisco Careers",
+      "company": "Cisco Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2024712EXTERNALENGLOBAL/Senior-Software-Engineer-Platform-Identity",
+      "source": "Other",
+      "description": "Apply for Senior Software Engineer , Platform Identity job with Cisco in Krakow, Poland. Product and Engineering at Cisco.",
+      "date": "2026-09-16",
+      "timestamp": "2026-09-16T02:00:27+00:00",
+      "fetched_at": "2026-09-16T08:51:55.238234+00:00"
+    },
+    {
+      "id": "6bc4e26dd919",
+      "title": "Senior Data Engineer - Firstup - Lever",
+      "company": "Firstup",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.lever.co/firstup/25679b95-047f-4473-845a-230e4ad7ad23",
+      "source": "Lever",
+      "description": "Senior Data Engineer . Hybrid- London, UK. Product Management & Engineering \u2013 Product Engineering /. Full-time /. Hybrid. apply for this job. Who We ...",
+      "date": "2026-09-16",
+      "timestamp": "2026-09-16T01:52:10+00:00",
+      "fetched_at": "2026-09-16T08:51:55.238347+00:00"
+    },
+    {
+      "id": "f90d3a4cdf18",
+      "title": "Software Engineer , Code Quality - DoorDash",
+      "company": "DoorDash",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careersatdoordash.com/jobs/software-engineer-code-quality/8202736/",
+      "source": "Other",
+      "description": "Software Engineer , Code Quality. Apply To Job. Job ID: 3550137. DoorDash, Inc. San Francisco, CA; Seattle, WA; New York, NY; Los Angeles, CA. About ...",
+      "date": "2026-09-16",
+      "timestamp": "2026-09-16T00:58:09+00:00",
+      "fetched_at": "2026-09-16T08:51:55.238496+00:00"
+    },
+    {
+      "id": "8ed7d2fb02e9",
+      "title": "Software Engineer - Full Stack Java job in Birmingham, Alabama, United States of America",
+      "company": "Full Stack Java job in Birmingham, Alabama, United States of America",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.pnc.com/global/en/job/R231732/Software-Engineer-Full-Stack-Java",
+      "source": "Other",
+      "description": "Software Engineer - Full Stack Java. location Birmingham, Alabama, United ... Software \" DevOps\" Engineer Principal - Data Platforms (Red Hat ...",
+      "date": "2026-09-16",
+      "timestamp": "2026-09-16T00:39:44+00:00",
+      "fetched_at": "2026-09-16T08:51:55.238678+00:00"
+    },
     {
       "id": "0f7ccb8d0fa8",
       "title": "Software Engineer , Manufacturing Infrastructure - OpenAI",
@@ -51,6 +186,36 @@
       "fetched_at": "2026-09-16T01:48:25.890467+00:00"
     },
     {
+      "id": "b79960ab0169",
+      "title": "Nexthink Software Engineer | SmartRecruiters",
+      "company": "Nexthink",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.smartrecruiters.com/Nexthink/744000149535361-software-engineer",
+      "source": "SmartRecruiters",
+      "description": "Software Engineer . Lausanne ... Other jobs at Nexthink. Senior Backend Software Engineer (Java). Bengaluru, India. Senior Site Reliability Engineer .",
+      "date": "2026-09-15",
+      "timestamp": "2026-09-15T23:57:21+00:00",
+      "fetched_at": "2026-09-16T08:51:55.238966+00:00"
+    },
+    {
+      "id": "25585157a85c",
+      "title": "Systems Software Engineer - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200683808-3543/systems-software-engineer?team=HRDWR",
+      "source": "Other",
+      "description": "Systems Software Engineer . San Diego, California, United States Hardware. Submit Resume. Summary. Posted: Sep 15, 2026. Role Number:200683808-3543.",
+      "date": "2026-09-15",
+      "timestamp": "2026-09-15T23:40:42+00:00",
+      "fetched_at": "2026-09-16T08:51:55.239103+00:00"
+    },
+    {
       "id": "6ce0e33b3911",
       "title": "Senior Site Reliability Engineer at Palo Alto Networks",
       "company": "Palo Alto Networks",
@@ -64,6 +229,21 @@
       "date": "2026-09-15",
       "timestamp": "2026-09-15T23:30:34+00:00",
       "fetched_at": "2026-09-16T01:48:25.817553+00:00"
+    },
+    {
+      "id": "4e060e05cd15",
+      "title": "AI Platform Data Engineer , Ring Decision Science, Ring Decision Science - Job ID",
+      "company": "Job ID",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.amazon.jobs/en/jobs/10543908/ai-platform-data-engineer-ring-decision-science-ring-decision-science",
+      "source": "Other",
+      "description": "We seek an AI Platform Builder\u2014a Data Engineer focused on developing Platforms and Agentic AI solution\u2014who embraces prompt-driven development with ...",
+      "date": "2026-09-15",
+      "timestamp": "2026-09-15T23:29:14+00:00",
+      "fetched_at": "2026-09-16T08:51:55.239543+00:00"
     },
     {
       "id": "65fde3e0fec2",
@@ -94,6 +274,21 @@
       "date": "2026-09-15",
       "timestamp": "2026-09-15T22:27:47+00:00",
       "fetched_at": "2026-09-16T01:48:25.891050+00:00"
+    },
+    {
+      "id": "e8d9f7634110",
+      "title": "AI Engineer in United States - Illinois - Abbott Park | Research & Development at Abbott Canvas",
+      "company": "Abbott Canvas",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.jobs.abbott/us/en/job/31162232/AI-Engineer",
+      "source": "Other",
+      "description": "Similar Jobs \u00b7 Sr. AI/ ML Engineer - Life Sciences \u00b7 Sr. Scientific Data Engineer , R&D Data Platform \u00b7 Senior Software Engineer , Cloud \u00b7 Senior Software ...",
+      "date": "2026-09-15",
+      "timestamp": "2026-09-15T22:23:25+00:00",
+      "fetched_at": "2026-09-16T08:51:55.240007+00:00"
     },
     {
       "id": "6b37458557f8",
