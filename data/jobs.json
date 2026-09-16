@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-09-15T22:27:54.383601+00:00",
-  "total_jobs": 9680,
+  "last_updated": "2026-09-16T01:48:25.932237+00:00",
+  "total_jobs": 9690,
   "stats": {
-    "total_companies": 4460,
+    "total_companies": 4463,
     "total_roles": 123,
     "regions": {
-      "India": 6355,
-      "Philippines": 2047,
-      "Remote": 1185,
+      "India": 6360,
+      "Philippines": 2051,
+      "Remote": 1186,
       "Unknown": 135
     },
     "sources": {
-      "Other": 7590,
-      "Greenhouse": 475,
+      "Other": 7599,
+      "Greenhouse": 476,
       "Workday": 413,
       "LinkedIn": 410,
       "Ashby": 298,
@@ -31,10 +31,115 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-09-15"
+      "latest": "2026-09-16"
     }
   },
   "jobs": [
+    {
+      "id": "0f7ccb8d0fa8",
+      "title": "Software Engineer , Manufacturing Infrastructure - OpenAI",
+      "company": "OpenAI",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://openai.com/careers/software-engineer-manufacturing-infrastructure-san-francisco/",
+      "source": "Other",
+      "description": "Software Engineer , Manufacturing Infrastructure ... OpenAI's Hardware organization develops AI-native silicon and system-level solutions for the unique ...",
+      "date": "2026-09-16",
+      "timestamp": "2026-09-16T00:38:19+00:00",
+      "fetched_at": "2026-09-16T01:48:25.890467+00:00"
+    },
+    {
+      "id": "6ce0e33b3911",
+      "title": "Senior Site Reliability Engineer at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-site-reliability-engineer/47263/100674861248",
+      "source": "Other",
+      "description": "Senior DevOps Engineer - Data Platform (Cortex) Tel Aviv, Israel Save ... Senior / Principal Backend Engineer \u2013 AppSec Platform (Cortex Cloud) Tel Aviv, ...",
+      "date": "2026-09-15",
+      "timestamp": "2026-09-15T23:30:34+00:00",
+      "fetched_at": "2026-09-16T01:48:25.817553+00:00"
+    },
+    {
+      "id": "65fde3e0fec2",
+      "title": "Production Site Reliability Engineer - Schwab Jobs",
+      "company": "Schwab Jobs",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.schwabjobs.com/job/austin/production-site-reliability-engineer/33727/100685628928",
+      "source": "Other",
+      "description": "Production Site Reliability Engineer . Austin, TX ; Southlake, TX. Requisition ID 2026-126692 Category Engineering & Software Development Position ...",
+      "date": "2026-09-15",
+      "timestamp": "2026-09-15T22:42:45+00:00",
+      "fetched_at": "2026-09-16T01:48:25.818133+00:00"
+    },
+    {
+      "id": "3b6a0c1613a0",
+      "title": "Software Engineer II - Backend APIs and Services Job Details - CNH Careers",
+      "company": "Backend APIs and Services Job Details - CNH Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://join.cnh.com/job/Software-Engineer-II-Backend-APIs-and-Services/4823-en_US/",
+      "source": "Other",
+      "description": "Job Purpose. As a Software Engineer II at CNH, you will play a critical role in supporting the delivery of cloud-based applications, focusing ...",
+      "date": "2026-09-15",
+      "timestamp": "2026-09-15T22:27:47+00:00",
+      "fetched_at": "2026-09-16T01:48:25.891050+00:00"
+    },
+    {
+      "id": "6b37458557f8",
+      "title": "Sr Software Engineer - Engineer, Seattle, United States",
+      "company": "Sr Software Engineer",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.uber.com/en/jobs/302275/",
+      "source": "Other",
+      "description": "As a Senior Software Engineer , you will be expected to lead key projects that contribute to one or several top-line KPIs for the team. You will ...",
+      "date": "2026-09-15",
+      "timestamp": "2026-09-15T21:59:01+00:00",
+      "fetched_at": "2026-09-16T01:48:25.818272+00:00"
+    },
+    {
+      "id": "e5ee6dc3d569",
+      "title": "Machine Learning Engineer - Multimodal Intelligence - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200683687-3337/machine-learning-engineer-multimodal-intelligence?team=HRDWR",
+      "source": "Other",
+      "description": "Apply for a Machine Learning Engineer - Multimodal Intelligence job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-09-15",
+      "timestamp": "2026-09-15T21:12:12+00:00",
+      "fetched_at": "2026-09-16T01:48:25.891531+00:00"
+    },
+    {
+      "id": "6eb2900da1a1",
+      "title": "Mozilla Careers \u2014 Senior Software Engineer , Add-Ons \u2014 Open Positions",
+      "company": "Ons \u2014 Open Positions",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.mozilla.org/en-US/careers/position/gh/8188889/",
+      "source": "Other",
+      "description": "Mozilla is hiring a Senior Software Engineer , Add-Ons in Remote Canada, Core Services, Firefox, New Products, Infrastructure, New Products, ...",
+      "date": "2026-09-15",
+      "timestamp": "2026-09-15T21:03:06+00:00",
+      "fetched_at": "2026-09-16T01:48:25.818440+00:00"
+    },
     {
       "id": "661724556254",
       "title": "Senior Software Engineer | Pearson",
@@ -49,6 +154,36 @@
       "date": "2026-09-15",
       "timestamp": "2026-09-15T20:26:04+00:00",
       "fetched_at": "2026-09-15T22:27:54.327754+00:00"
+    },
+    {
+      "id": "8a92703ceab0",
+      "title": "Principal DevOps Engineer - Rippling",
+      "company": "Rippling",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/campspot/jobs/4670e0ab-069f-4b94-8343-44fe8d036f4b",
+      "source": "Other",
+      "description": "Principal DevOps Engineer . Welcome to Campspot! Whether you are an avid camper, the occasional glamper, an expert RV-er, or ...",
+      "date": "2026-09-15",
+      "timestamp": "2026-09-15T20:20:56+00:00",
+      "fetched_at": "2026-09-16T01:48:25.818816+00:00"
+    },
+    {
+      "id": "fb63a81a965c",
+      "title": "Job Application for Software Engineer Intern (Summer 2027) at Workshop - Greenhouse",
+      "company": "Workshop",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/workshop/jobs/5237900007",
+      "source": "Greenhouse",
+      "description": "*This is a hybrid role based in our Omaha, Nebraska office. As a Software Engineer Intern, you will: Work closely with our engineers and designers to ...",
+      "date": "2026-09-15",
+      "timestamp": "2026-09-15T20:12:40+00:00",
+      "fetched_at": "2026-09-16T01:48:25.892117+00:00"
     },
     {
       "id": "41ac7dc8f23d",
@@ -94,6 +229,21 @@
       "date": "2026-09-15",
       "timestamp": "2026-09-15T19:47:28+00:00",
       "fetched_at": "2026-09-15T22:27:54.248318+00:00"
+    },
+    {
+      "id": "b2dd33df6197",
+      "title": "Get started by using your email or phone number - Ford Global Career Site",
+      "company": "Unknown Company",
+      "role": "Get started by using your email or phone number - Ford Globa",
+      "regions": [
+        "India"
+      ],
+      "link": "https://apply.ford.com/en/sites/CX_1/job/70493/apply/email",
+      "source": "Other",
+      "description": "AI Engineer ... Location: Chennai, Tamil Nadu, India (Hybrid); Job Identification: 70493; Job Category: Enterprise Technology; Posting Date: 09/15 ...",
+      "date": "2026-09-15",
+      "timestamp": "2026-09-15T19:45:28+00:00",
+      "fetched_at": "2026-09-16T01:48:25.819828+00:00"
     },
     {
       "id": "6f2da6a708bb",
