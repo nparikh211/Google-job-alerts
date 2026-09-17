@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-09-17T08:56:37.298060+00:00",
-  "total_jobs": 9772,
+  "last_updated": "2026-09-17T15:41:59.210556+00:00",
+  "total_jobs": 9790,
   "stats": {
-    "total_companies": 4489,
-    "total_roles": 126,
+    "total_companies": 4500,
+    "total_roles": 128,
     "regions": {
-      "India": 6414,
-      "Philippines": 2076,
-      "Remote": 1189,
+      "India": 6422,
+      "Philippines": 2083,
+      "Remote": 1192,
       "Unknown": 135
     },
     "sources": {
-      "Other": 7665,
-      "Greenhouse": 479,
-      "Workday": 417,
-      "LinkedIn": 413,
-      "Ashby": 301,
+      "Other": 7677,
+      "Greenhouse": 480,
+      "Workday": 418,
+      "LinkedIn": 415,
+      "Ashby": 303,
       "iCIMS": 128,
       "Breezy": 104,
       "Workable": 66,
@@ -36,6 +36,156 @@
   },
   "jobs": [
     {
+      "id": "44587e04b22f",
+      "title": "Junior Application Support & Site Reliability Engineer - Sales Engineering,IS&T - Jobs",
+      "company": "Junior Application Support & Site Reliability Engineer",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200682322/junior-application-support-site-reliability-engineer-sales-engineering-is-t",
+      "source": "Other",
+      "description": "Apply for a Junior Application Support & Site Reliability Engineer - Sales Engineering,IS&T job at Apple. Read about the role and find out if it's ...",
+      "date": "2026-09-17",
+      "timestamp": "2026-09-17T14:37:21+00:00",
+      "fetched_at": "2026-09-17T15:41:59.175750+00:00"
+    },
+    {
+      "id": "78006885e05a",
+      "title": "Jaret Andr\u00e9's Post - LinkedIn",
+      "company": "Unknown Company",
+      "role": "Jaret Andr\u00e9's Post - LinkedIn",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/posts/jaret-andre_if-i-were-still-working-as-a-data-engineer-activity-7506340321107193856-7VYw",
+      "source": "LinkedIn",
+      "description": "If I were still working as a data engineer today, these are the 11 case studies I would read this weekend. Before I coached data professionals, ...",
+      "date": "2026-09-17",
+      "timestamp": "2026-09-17T13:26:11+00:00",
+      "fetched_at": "2026-09-17T15:41:59.176042+00:00"
+    },
+    {
+      "id": "ad9df232c58f",
+      "title": "Senior Software Engineer at Becton Dickinson & Company - Careers at BD",
+      "company": "Becton Dickinson & Company",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.bd.com/en/job/san-diego/senior-software-engineer/159/100745730464",
+      "source": "Other",
+      "description": "Senior Software Engineer \u00b7 Job Description \u00b7 Why Join Us? \u00b7 Primary Work Location \u00b7 Additional Locations \u00b7 Work Shift.",
+      "date": "2026-09-17",
+      "timestamp": "2026-09-17T13:11:13+00:00",
+      "fetched_at": "2026-09-17T15:41:59.176157+00:00"
+    },
+    {
+      "id": "5bed3ee6c269",
+      "title": "Job Application for Senior Software Engineer at Renaissance Learning North America",
+      "company": "Renaissancelearning",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/renaissancelearning-nam/jobs/5416488008",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer ... When you join Renaissance\u00ae, you join a global leader in pre-K\u201312 education technology! Renaissance's solutions help ...",
+      "date": "2026-09-17",
+      "timestamp": "2026-09-17T13:09:05+00:00",
+      "fetched_at": "2026-09-17T15:41:59.176260+00:00"
+    },
+    {
+      "id": "045cf637c198",
+      "title": "Big Data Engineer II - Pune, India - 20605 - MetLife careers",
+      "company": "Pune, India - 20605 - MetLife careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.metlifecareers.com/es_ES/ml/JobDetail/Big-Data-Engineer-II/20605",
+      "source": "Other",
+      "description": "Big Data Engineer II. Informaci\u00f3n general. Ubicaci\u00f3n. Pune, Maharashtra ... Software Engineer II. Hyderabad, India \u00b7 Software Platform Engineer II.",
+      "date": "2026-09-17",
+      "timestamp": "2026-09-17T12:20:08+00:00",
+      "fetched_at": "2026-09-17T15:41:59.176392+00:00"
+    },
+    {
+      "id": "bb50c549d89a",
+      "title": "Microsoft Job Opening | Jayesh Choudhary | 22 comments - LinkedIn",
+      "company": "Unknown Company",
+      "role": "Microsoft Job Opening | Jayesh Choudhary | 22 comments - Lin",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/jayesh-choudhary-72444518b_microsoft-job-opening-software-engineer-activity-7506308793937317889-6P6p",
+      "source": "LinkedIn",
+      "description": "... Software Engineer || AI & ML Engineer || DM for Collabs. 32m. Report this ... Data Engineer & Career Coach | 31K+ @LinkedIn | 2x Microsoft ...",
+      "date": "2026-09-17",
+      "timestamp": "2026-09-17T11:47:21+00:00",
+      "fetched_at": "2026-09-17T15:41:59.094268+00:00"
+    },
+    {
+      "id": "b4a836edd0b1",
+      "title": "Staff Data Engineer in Sao Paulo - WEX Careers",
+      "company": "WEX Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.wexinc.com/us/en/job/R22681/Staff-Data-Engineer",
+      "source": "Other",
+      "description": "Apply for Staff Data Engineer job with WEX in Sao Paulo - Remote, S\u00e3o Paulo, Brazil ... Staff Software Engineer . Category Product Development/ ...",
+      "date": "2026-09-17",
+      "timestamp": "2026-09-17T11:36:26+00:00",
+      "fetched_at": "2026-09-17T15:41:59.176488+00:00"
+    },
+    {
+      "id": "8ebe48f647d7",
+      "title": "Senior Software Engineer , Computation @ Aurora Solar - Jobs",
+      "company": "Aurorasolar",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/aurorasolar/900df453-aa45-444e-974f-12bf2b3d3118",
+      "source": "Ashby",
+      "description": "... Senior Software Engineer on the System Design Pod, you'll help build the next generation of PV and storage design tools at Aurora. You'll lead ...",
+      "date": "2026-09-17",
+      "timestamp": "2026-09-17T11:24:08+00:00",
+      "fetched_at": "2026-09-17T15:41:59.176560+00:00"
+    },
+    {
+      "id": "6055827344b4",
+      "title": "AIR6500 Senior Software Engineer at Boeing",
+      "company": "Boeing",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.boeing.com/job/brisbane/air6500-senior-software-engineer/185/100746857744",
+      "source": "Other",
+      "description": "AIR6500 Senior Software Engineer ; Location: Brisbane ; Category: Engineering / Technical ; Position Type: Permanent ; Job Reference: BOE/1947598.",
+      "date": "2026-09-17",
+      "timestamp": "2026-09-17T09:43:38+00:00",
+      "fetched_at": "2026-09-17T15:41:59.176662+00:00"
+    },
+    {
+      "id": "eff5c7572d47",
+      "title": "Senior Software Engineer - AI, Agentic Applications, Enterprise Integration",
+      "company": "Perkinscoie",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://perkinscoie.wd115.myworkdayjobs.com/perkinscoieexternal/job/Seattle-WA/Senior-Software-Engineer---AI--Agentic-Applications--Enterprise-Integration_R0006501",
+      "source": "Workday",
+      "description": "... full-stack engineer with a strong foundation in C# and .NET ... Senior Software Engineer - AI, Agentic Applications, Enterprise Integration.",
+      "date": "2026-09-17",
+      "timestamp": "2026-09-17T08:23:35+00:00",
+      "fetched_at": "2026-09-17T15:41:59.094378+00:00"
+    },
+    {
       "id": "d5f4f3dbecd7",
       "title": "Associate Software Engineer - 132670 - IBM",
       "company": "132670 - IBM",
@@ -49,6 +199,81 @@
       "date": "2026-09-17",
       "timestamp": "2026-09-17T07:03:35+00:00",
       "fetched_at": "2026-09-17T08:56:36.967747+00:00"
+    },
+    {
+      "id": "ee8b9474a9e1",
+      "title": "Data Engineer I, DSP Analytics - Job ID: 10551531 - Amazon Careers",
+      "company": "Job ID: 10551531 - Amazon Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.amazon.jobs/en/jobs/10551531/data-engineer-i-dsp-analytics",
+      "source": "Other",
+      "description": "The DSP Analytics team has an exciting opportunity for a Data Engineer to make impactful contributions to Amazon's Delivery Service Partner (DSP) ...",
+      "date": "2026-09-17",
+      "timestamp": "2026-09-17T06:49:12+00:00",
+      "fetched_at": "2026-09-17T15:41:59.094697+00:00"
+    },
+    {
+      "id": "5f0b5799f8ca",
+      "title": "Software Engineer - .NET / C# / XAML Digital, Westlake, TX | Fidelity Careers",
+      "company": ".NET / C# / XAML Digital, Westlake, TX | Fidelity Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.fidelity.com/en/jobs/2134710/software-engineer-net-c-xaml-digital/",
+      "source": "Other",
+      "description": "Senior Software Engineer - .NET / C# / XAML Digital Experience. Save Saved. Technology Published: Sep 26; Westlake, TX. Details \u00b7 Principal Software ...",
+      "date": "2026-09-17",
+      "timestamp": "2026-09-17T06:45:36+00:00",
+      "fetched_at": "2026-09-17T15:41:59.094855+00:00"
+    },
+    {
+      "id": "d67c8b72e9f8",
+      "title": "Data Engineer - Remote in Reston, Virginia, United States of America | Research at ICF",
+      "company": "ICF",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.icf.com/us/en/job/R2603056/Data-Engineer-Remote",
+      "source": "Other",
+      "description": "Apply for Data Engineer - Remote job with ICF in Reston, Virginia, United States of America. Research at ICF.",
+      "date": "2026-09-17",
+      "timestamp": "2026-09-17T06:40:48+00:00",
+      "fetched_at": "2026-09-17T15:41:59.094946+00:00"
+    },
+    {
+      "id": "28c733f3706b",
+      "title": "Senior Data Engineer in United States - Careforth Careers",
+      "company": "Careforth Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.careforth.com/jobs/5195?lang=en-us",
+      "source": "Other",
+      "description": "Careforth is hiring a Senior Data Engineer in United States. Review all of the job details and apply today!",
+      "date": "2026-09-17",
+      "timestamp": "2026-09-17T06:22:41+00:00",
+      "fetched_at": "2026-09-17T15:41:59.095139+00:00"
+    },
+    {
+      "id": "08236e5ecb1b",
+      "title": "Senior Software Engineer - FullStack - Gurugram, Haryana, India - GoDaddy Careers",
+      "company": "FullStack - Gurugram, Haryana, India - GoDaddy Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.godaddy/jobs/senior-software-engineer-fullstack-gurugram-haryana-india-57c88ebf-6a81-4d9f-84bc-cd929e5b465f",
+      "source": "Other",
+      "description": "... Senior Software Engineer with ... Site Reliability Engineer - Linux. Pune, Maharashtra, India Engineering. Location Details: Pune, India At ...",
+      "date": "2026-09-17",
+      "timestamp": "2026-09-17T05:47:03+00:00",
+      "fetched_at": "2026-09-17T15:41:59.095491+00:00"
     },
     {
       "id": "182c4d02e656",
@@ -66,6 +291,36 @@
       "fetched_at": "2026-09-17T08:56:37.258032+00:00"
     },
     {
+      "id": "7656aa066982",
+      "title": "Senior Software Engineer @ Ayble Health - Jobs",
+      "company": "Ayblehealth",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.ashbyhq.com/ayblehealth/8fd47c3f-f26c-4924-9c16-b0226419bf9d",
+      "source": "Ashby",
+      "description": "Senior Software Engineer . Location. United States. Employment Type. Full time. Department. Engineering. OverviewApplication. Remote (Chicago or Boston ...",
+      "date": "2026-09-17",
+      "timestamp": "2026-09-17T05:07:56+00:00",
+      "fetched_at": "2026-09-17T15:41:59.095674+00:00"
+    },
+    {
+      "id": "e5f555fce150",
+      "title": "Software Engineer - ServiceNow Platform Engineer job in Pittsburgh, Pennsylvania, United ...",
+      "company": "Software Engineer",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.pnc.com/global/en/job/R234008/Software-Engineer-ServiceNow-Platform-Engineer",
+      "source": "Other",
+      "description": "Software Engineer - ServiceNow Platform Engineer . location ... Senior Software Engineer - Salesforce. Category Technology. Job available ...",
+      "date": "2026-09-17",
+      "timestamp": "2026-09-17T04:13:30+00:00",
+      "fetched_at": "2026-09-17T15:41:59.096087+00:00"
+    },
+    {
       "id": "1b7ab28500fa",
       "title": "Software Engineer II - Engineer, San Francisco, United States",
       "company": "Software Engineer II",
@@ -79,6 +334,21 @@
       "date": "2026-09-17",
       "timestamp": "2026-09-17T04:11:22+00:00",
       "fetched_at": "2026-09-17T08:56:36.968124+00:00"
+    },
+    {
+      "id": "8f69ba1c5507",
+      "title": "Senior Software Engineer at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-software-engineer/47263/100739310032",
+      "source": "Other",
+      "description": "Senior Software Engineer . Santa Clara, California, United States of America Product Engineering Ref ID: JR-022390. Apply Save Job. Current Employees ...",
+      "date": "2026-09-17",
+      "timestamp": "2026-09-17T04:00:57+00:00",
+      "fetched_at": "2026-09-17T15:41:59.178098+00:00"
     },
     {
       "id": "31180a3b2a06",
