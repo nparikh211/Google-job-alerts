@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-09-17T01:52:22.523782+00:00",
-  "total_jobs": 9757,
+  "last_updated": "2026-09-17T08:56:37.298060+00:00",
+  "total_jobs": 9772,
   "stats": {
-    "total_companies": 4487,
-    "total_roles": 125,
+    "total_companies": 4489,
+    "total_roles": 126,
     "regions": {
-      "India": 6404,
-      "Philippines": 2073,
-      "Remote": 1187,
+      "India": 6414,
+      "Philippines": 2076,
+      "Remote": 1189,
       "Unknown": 135
     },
     "sources": {
-      "Other": 7653,
-      "Greenhouse": 478,
+      "Other": 7665,
+      "Greenhouse": 479,
       "Workday": 417,
-      "LinkedIn": 412,
+      "LinkedIn": 413,
       "Ashby": 301,
-      "iCIMS": 127,
+      "iCIMS": 128,
       "Breezy": 104,
       "Workable": 66,
       "Lever": 65,
@@ -36,6 +36,126 @@
   },
   "jobs": [
     {
+      "id": "d5f4f3dbecd7",
+      "title": "Associate Software Engineer - 132670 - IBM",
+      "company": "132670 - IBM",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.ibm.com/en_US/careers/JobDetail/Associate-Software-Engineer/132670",
+      "source": "Other",
+      "description": "The Associate Software Engineer develops and tests software solutions that contribute to solving user problems. Guided by senior team members, this ...",
+      "date": "2026-09-17",
+      "timestamp": "2026-09-17T07:03:35+00:00",
+      "fetched_at": "2026-09-17T08:56:36.967747+00:00"
+    },
+    {
+      "id": "182c4d02e656",
+      "title": "Software Engineer , Platform - Vercel",
+      "company": "Vercel",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://vercel.com/careers/software-engineer-platform-6195280004",
+      "source": "Other",
+      "description": "About the role: We are looking for a Software Engineer to join our Platform team. You will build the observability systems that give Vercel visibility ...",
+      "date": "2026-09-17",
+      "timestamp": "2026-09-17T05:40:51+00:00",
+      "fetched_at": "2026-09-17T08:56:37.258032+00:00"
+    },
+    {
+      "id": "1b7ab28500fa",
+      "title": "Software Engineer II - Engineer, San Francisco, United States",
+      "company": "Software Engineer II",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.uber.com/en/jobs/302438/",
+      "source": "Other",
+      "description": "and team Engineering at Uber means building for real-world impact under real-world constraints. As a Software Engineer II on the Eater Real Time ...",
+      "date": "2026-09-17",
+      "timestamp": "2026-09-17T04:11:22+00:00",
+      "fetched_at": "2026-09-17T08:56:36.968124+00:00"
+    },
+    {
+      "id": "31180a3b2a06",
+      "title": "Data Engineer , Associate at BlackRock",
+      "company": "BlackRock",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.blackrock.com/job/mumbai/data-engineer-associate/45831/99437087392",
+      "source": "Other",
+      "description": "We are seeking a self-motivated Data Engineer to build and enhance our Scalable Data Platform, delivering curated historical datasets at security, ...",
+      "date": "2026-09-17",
+      "timestamp": "2026-09-17T03:49:06+00:00",
+      "fetched_at": "2026-09-17T08:56:36.968301+00:00"
+    },
+    {
+      "id": "78ff143f3d65",
+      "title": "Bharath Reddy's Post - LinkedIn",
+      "company": "Unknown Company",
+      "role": "Bharath Reddy's Post - LinkedIn",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/bharath-reddy-35a405195_i-interviewed-an-ai-engineer-recently-his-activity-7506163839856652288-UONw",
+      "source": "LinkedIn",
+      "description": "I interviewed an AI Engineer recently. His technical knowledge was impressive. He explained RAG confidently. He knew LangGraph.",
+      "date": "2026-09-17",
+      "timestamp": "2026-09-17T03:13:22+00:00",
+      "fetched_at": "2026-09-17T08:56:36.968917+00:00"
+    },
+    {
+      "id": "5baaee3f69d2",
+      "title": "Software Engineer I (Intern) - United States - Cisco Careers",
+      "company": "United States - Cisco Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2025890EXTERNALENGLOBAL/Software-Engineer-I-Intern-United-States",
+      "source": "Other",
+      "description": "Apply for Software Engineer I (Intern) - United States job with Cisco in Research Triangle Park, North Carolina, United States of America.",
+      "date": "2026-09-17",
+      "timestamp": "2026-09-17T02:55:44+00:00",
+      "fetched_at": "2026-09-17T08:56:36.969177+00:00"
+    },
+    {
+      "id": "e26c28467929",
+      "title": "Senior Software Engineer , Tech Foundations - Careers at Airbnb",
+      "company": "Airbnb",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.airbnb.com/positions/8197816/?gh_jid=8197816",
+      "source": "Other",
+      "description": "Senior Software Engineer , Tech Foundations. USA. Role overview. Application. Airbnb was born in 2007 when two hosts welcomed three guests to their San ...",
+      "date": "2026-09-17",
+      "timestamp": "2026-09-17T02:41:46+00:00",
+      "fetched_at": "2026-09-17T08:56:36.969473+00:00"
+    },
+    {
+      "id": "9324580e1c45",
+      "title": "Job Application for Senior Software Engineer , Consumer Engineering at Reddit",
+      "company": "Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/reddit/jobs/8187247",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer , Consumer Engineering. Remote - United States. Apply. Reddit is a community of communities. It's built on shared interests ...",
+      "date": "2026-09-17",
+      "timestamp": "2026-09-17T01:12:30+00:00",
+      "fetched_at": "2026-09-17T08:56:36.969589+00:00"
+    },
+    {
       "id": "2332c132e42d",
       "title": "Principal AI Engineer (SDLC) Jobs and Careers in Dallas at AT&T",
       "company": "AT&T",
@@ -49,6 +169,21 @@
       "date": "2026-09-17",
       "timestamp": "2026-09-17T00:57:08+00:00",
       "fetched_at": "2026-09-17T01:52:22.266039+00:00"
+    },
+    {
+      "id": "ed3051032187",
+      "title": "Staff Fullstack Engineer , SecureAI - Okta",
+      "company": "Okta",
+      "role": "Fullstack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.okta.com/company/careers/staff-fullstack-engineer-secureai-8208367/",
+      "source": "Other",
+      "description": "As a Staff Fullstack Engineer on the Okta Secures AI team, your mission is to build the industry's first Identity Security Fabric for the agentic era.",
+      "date": "2026-09-17",
+      "timestamp": "2026-09-17T00:20:25+00:00",
+      "fetched_at": "2026-09-17T08:56:36.969899+00:00"
     },
     {
       "id": "97f36f3a8b9e",
@@ -66,6 +201,36 @@
       "fetched_at": "2026-09-17T01:52:22.266604+00:00"
     },
     {
+      "id": "16d07d6b3daa",
+      "title": "Sr Software Engineer - G&A Solutions Engineering (GSE) - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200683959-3401/sr-software-engineer-g-a-solutions-engineering-gse?team=SFTWR",
+      "source": "Other",
+      "description": "Sr Software Engineer - G&A Solutions Engineering (GSE). San Francisco ... As a Senior Backend Engineer , you'll architect and own Java micro ...",
+      "date": "2026-09-17",
+      "timestamp": "2026-09-17T00:15:35+00:00",
+      "fetched_at": "2026-09-17T08:56:37.259513+00:00"
+    },
+    {
+      "id": "0731d148f3f5",
+      "title": "Machine Learning Engineer - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200684201-0836/machine-learning-engineer?team=HRDWR",
+      "source": "Other",
+      "description": "We are seeking a highly motivated and talented machine learning engineer to join our Platform Architecture team. You will work at the forefront of ...",
+      "date": "2026-09-17",
+      "timestamp": "2026-09-17T00:01:14+00:00",
+      "fetched_at": "2026-09-17T08:56:36.970373+00:00"
+    },
+    {
       "id": "e648ddbdf21e",
       "title": "Principal Site Reliability Engineer (ADEM) at Palo Alto Networks",
       "company": "Palo Alto Networks",
@@ -79,6 +244,21 @@
       "date": "2026-09-16",
       "timestamp": "2026-09-16T23:52:19+00:00",
       "fetched_at": "2026-09-17T01:52:22.266775+00:00"
+    },
+    {
+      "id": "06a7738757fe",
+      "title": "Software Engineer , Compute Foundations | OpenAI",
+      "company": "OpenAI",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://openai.com/careers/software-engineer-compute-foundations-san-francisco/",
+      "source": "Other",
+      "description": "Software Engineer , Compute Foundations. Supercomputing - San Francisco. Apply now (opens in a new window). About the Team. Compute Foundations builds ...",
+      "date": "2026-09-16",
+      "timestamp": "2026-09-16T23:49:13+00:00",
+      "fetched_at": "2026-09-17T08:56:36.970759+00:00"
     },
     {
       "id": "10a7e159ca54",
@@ -96,6 +276,36 @@
       "fetched_at": "2026-09-17T01:52:22.266960+00:00"
     },
     {
+      "id": "f408626f29c5",
+      "title": "Data Engineer , Amazon Customer Service - Job ID: 10547654",
+      "company": "Job ID: 10547654",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.amazon.jobs/en/jobs/10547654/data-engineer-amazon-customer-service",
+      "source": "Other",
+      "description": "Data Engineer , Amazon Customer Service. Job ID: 10547654 | Amazon.com Services LLC. Apply now. Description. Customer Experience Products (CXP) is ...",
+      "date": "2026-09-16",
+      "timestamp": "2026-09-16T22:51:17+00:00",
+      "fetched_at": "2026-09-17T08:56:36.971118+00:00"
+    },
+    {
+      "id": "7e9aa6882a8e",
+      "title": "Cloud Engineer in New Haven, Connecticut, 06511 | IT at Yale University",
+      "company": "Yale University",
+      "role": "Cloud Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.yale.edu/us/en/job/YUCYUHUS137934WDEXTERNALENUS/Cloud-Engineer",
+      "source": "Other",
+      "description": "The Cloud Engineer works independently and collaboratively with infrastructure, security, application, research, and other technology teams to ...",
+      "date": "2026-09-16",
+      "timestamp": "2026-09-16T22:39:59+00:00",
+      "fetched_at": "2026-09-17T08:56:37.260367+00:00"
+    },
+    {
       "id": "7021aa9559f1",
       "title": "Software Engineer II at Dana-Farber Cancer Institute in 450 Brookline Ave, BOSTON, MA",
       "company": "Dana",
@@ -109,6 +319,21 @@
       "date": "2026-09-16",
       "timestamp": "2026-09-16T22:16:44+00:00",
       "fetched_at": "2026-09-17T01:52:22.267168+00:00"
+    },
+    {
+      "id": "e97182bde6eb",
+      "title": "Senior Data Engineer - Careers at Remote - Personify Health - ICIMS",
+      "company": "Remote",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers-personifyhealth.icims.com/jobs/4833/senior-data-engineer/job",
+      "source": "iCIMS",
+      "description": "Remote is now hiring a Senior Data Engineer in Remote. Review all of the job details and apply today!",
+      "date": "2026-09-16",
+      "timestamp": "2026-09-16T21:34:10+00:00",
+      "fetched_at": "2026-09-17T08:56:36.971633+00:00"
     },
     {
       "id": "a0018e1e15d0",
