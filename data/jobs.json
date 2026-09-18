@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-09-18T18:40:02.480768+00:00",
-  "total_jobs": 9869,
+  "last_updated": "2026-09-18T21:57:59.972485+00:00",
+  "total_jobs": 9884,
   "stats": {
-    "total_companies": 4532,
+    "total_companies": 4538,
     "total_roles": 129,
     "regions": {
-      "India": 6482,
-      "Philippines": 2095,
-      "Remote": 1200,
+      "India": 6491,
+      "Philippines": 2100,
+      "Remote": 1201,
       "Unknown": 135
     },
     "sources": {
-      "Other": 7732,
-      "Greenhouse": 490,
-      "Workday": 422,
+      "Other": 7741,
+      "Greenhouse": 493,
+      "Workday": 423,
       "LinkedIn": 421,
-      "Ashby": 304,
+      "Ashby": 305,
       "iCIMS": 130,
       "Breezy": 104,
+      "Lever": 66,
       "Workable": 66,
-      "Lever": 65,
       "SmartRecruiters": 62,
       "Indeed": 32,
       "BrassRing": 11,
@@ -36,6 +36,141 @@
   },
   "jobs": [
     {
+      "id": "8a93afabd185",
+      "title": "Software Engineer , Data Platform - Job ID: 10553687 - Amazon Careers",
+      "company": "Job ID: 10553687 - Amazon Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.amazon.jobs/en/jobs/10553687/software-engineer-data-platform",
+      "source": "Other",
+      "description": "Software Engineer , Data Platform. Job ID: 10553687 | Twitch Interactive, Inc. - D48. Apply now. Description. If you are interested in this position ...",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T21:40:31+00:00",
+      "fetched_at": "2026-09-18T21:57:59.931494+00:00"
+    },
+    {
+      "id": "b7006ce7b4d3",
+      "title": "Senior Software Engineer , AI - FloQast - Lever",
+      "company": "Floqast",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.lever.co/floqast/ac67f397-3c04-4eda-b466-00a6d6a65bcb/apply",
+      "source": "Lever",
+      "description": "Senior Software Engineer , AI. San Jose, California. Engineering \u2013 Engineering /. Full-time /. Hybrid. Submit your application. Resume/CV \u2731. ATTACH ...",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T21:16:37+00:00",
+      "fetched_at": "2026-09-18T21:57:59.931624+00:00"
+    },
+    {
+      "id": "c3f7e21ab4cf",
+      "title": "Data Engineer I - Valenz - Career Page",
+      "company": "Valenz - Career Page",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://valenz.applytojob.com/apply/9b0615wYnu/Data-Engineer-I",
+      "source": "Other",
+      "description": "Data Engineer I \u00b7 Experience with Azure Databricks, Spark, PySpark, Spark SQL, or Delta Lake. \u00b7 Experience with Microsoft Azure services such as Azure ...",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T20:44:31+00:00",
+      "fetched_at": "2026-09-18T21:57:59.854459+00:00"
+    },
+    {
+      "id": "84feae55c784",
+      "title": "Senior Software Engineer - ASML",
+      "company": "ASML",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.asml.com/en/careers/find-your-job/senior-software-engineer-j00352948",
+      "source": "Other",
+      "description": "Senior Software Engineer . Apply Now. In a nutshell. Location. Beijing, China. Team. Design Engineering and Architecture. Work experience. 4-9 years ...",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T19:43:23+00:00",
+      "fetched_at": "2026-09-18T21:57:59.854806+00:00"
+    },
+    {
+      "id": "2f6e8e9fd8eb",
+      "title": "Job Application for Software Engineer , New Grad (2027) at Together AI - Greenhouse",
+      "company": "Togetherai",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/togetherai/jobs/5211582007",
+      "source": "Greenhouse",
+      "description": "About the Role. As an early career Software Engineer , you'll work on a variety of projects, from designing scalable systems, building product ...",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T19:13:15+00:00",
+      "fetched_at": "2026-09-18T21:57:59.855112+00:00"
+    },
+    {
+      "id": "57421c71c4e7",
+      "title": "Senior Software Engineer - Myworkdayjobs.com",
+      "company": "Transamerica",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://transamerica.wd5.myworkdayjobs.com/US/job/Cedar-Rapids-Iowa/Senior-Software-Engineer_R20062689-1/apply",
+      "source": "Workday",
+      "description": "... Senior Software Engineer designs, develops, implements, and supports ... Senior Software Engineer . Autofill with Resume \u00b7 Apply Manually \u00b7 Use My ...",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T18:58:56+00:00",
+      "fetched_at": "2026-09-18T21:57:59.855244+00:00"
+    },
+    {
+      "id": "ea73afedcac4",
+      "title": "Job Application for Software Engineer at Cloudflare - Greenhouse",
+      "company": "Cloudflare",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/cloudflare/jobs/8212060?gh_jid=8212060",
+      "source": "Greenhouse",
+      "description": "Software Engineer . Hybrid. Apply. About Us. At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the ...",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T18:51:05+00:00",
+      "fetched_at": "2026-09-18T21:57:59.932575+00:00"
+    },
+    {
+      "id": "f7ae13755fa2",
+      "title": "Generative AI Engineer Full Course 2026 - YouTube",
+      "company": "YouTube",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.youtube.com/watch?v=xf-Q2E4w8So",
+      "source": "Other",
+      "description": "... AI Engineer Full Course 2026, you'll get a complete, end-to-end roadmap to become a production-ready Generative AI engineer \u2014covering LLMs, prompt ...",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T18:32:22+00:00",
+      "fetched_at": "2026-09-18T21:57:59.932852+00:00"
+    },
+    {
+      "id": "28987272c3d6",
+      "title": "Job Application for Software Engineer at Orchard - Greenhouse",
+      "company": "Orchard",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/orchard/jobs/8817823002",
+      "source": "Greenhouse",
+      "description": "Software Engineer . New York, New York, United States. Apply. About ... This is a full-time role that will report into our Senior Software Engineer ...",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T18:02:00+00:00",
+      "fetched_at": "2026-09-18T21:57:59.855515+00:00"
+    },
+    {
       "id": "8af2fd5912cd",
       "title": "Senior Software Engineer - Myworkdayjobs.com",
       "company": "Onto",
@@ -49,6 +184,36 @@
       "date": "2026-09-18",
       "timestamp": "2026-09-18T17:45:00+00:00",
       "fetched_at": "2026-09-18T18:40:02.438816+00:00"
+    },
+    {
+      "id": "512a71649980",
+      "title": "Staff DevOps Engineer - San Jose, California, United States - Zoom Careers",
+      "company": "San Jose, California, United States - Zoom Careers",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.zoom.us/jobs/staff-devops-engineer-san-jose-california-united-states-5b759c37-95c6-40ae-9dfe-8708b1060c79",
+      "source": "Other",
+      "description": "Immigration sponsorship is not available for this positionWhat you can expectWe are hiring a Staff DevOps/ Site Reliability Engineer to ensure ...",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T17:36:41+00:00",
+      "fetched_at": "2026-09-18T21:57:59.855979+00:00"
+    },
+    {
+      "id": "42195b4dd060",
+      "title": "Software Engineer , Data Engineering @ Lumos - Jobs",
+      "company": "Lumos",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/lumos/3b2097a1-9627-484b-88d3-00c49f4b3946",
+      "source": "Ashby",
+      "description": "... Software Engineer on our Data Engineering team, you will design ... platform engineer , building service layers in front of a transactional ...",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T17:19:31+00:00",
+      "fetched_at": "2026-09-18T21:57:59.933514+00:00"
     },
     {
       "id": "9207dc875006",
@@ -97,6 +262,36 @@
       "fetched_at": "2026-09-18T18:40:01.972190+00:00"
     },
     {
+      "id": "858b6652391c",
+      "title": "Senior Platform Engineer , Boston, MA | DraftKings Careers",
+      "company": "DraftKings Careers",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.draftkings.com/jobs/jr14940/senior-platform-engineer/",
+      "source": "Other",
+      "description": "Senior Platform Engineer . Boston, MA. Engineering; Full time. a man and woman sitting at a table looking at each other. About DraftKings. At ...",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T16:53:29+00:00",
+      "fetched_at": "2026-09-18T21:57:59.856807+00:00"
+    },
+    {
+      "id": "31078a7af76c",
+      "title": "Senior Software Engineer , Motion Planning, Autonomy in Multiple Locations | Rivian",
+      "company": "Rivian",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.rivian.com/careers-home/jobs/33709?lang=en-us",
+      "source": "Other",
+      "description": "B.S. or M.S. \u00b7 3+ years of experience as a Software Engineer , Data Analytics Engineer, Machine Learning Engineer , or Motion Planning Engineer.",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T16:51:54+00:00",
+      "fetched_at": "2026-09-18T21:57:59.856948+00:00"
+    },
+    {
       "id": "1f2f56a72c27",
       "title": "Senior AI Platform Engineer Job Details | Janus Henderson Investors",
       "company": "Janus Henderson Investors",
@@ -142,6 +337,21 @@
       "fetched_at": "2026-09-18T18:40:02.439996+00:00"
     },
     {
+      "id": "edc94f970260",
+      "title": "Software Engineer - Sound Decisions - Career Page",
+      "company": "Sound Decisions - Career Page",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.careers-page.com/sound-decisions/job/8X5RR94V",
+      "source": "Other",
+      "description": "Software Engineer \u2014 Full-Stack (Front-End Focused). About the company. A fast-growing, fully remote FinTech SaaS company sitting at the ...",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T16:23:36+00:00",
+      "fetched_at": "2026-09-18T21:57:59.857317+00:00"
+    },
+    {
       "id": "280dd65eadf5",
       "title": "Machine Learning Engineer | Everforth Apex",
       "company": "Everforth Apex",
@@ -155,6 +365,21 @@
       "date": "2026-09-18",
       "timestamp": "2026-09-18T16:22:46+00:00",
       "fetched_at": "2026-09-18T18:40:02.440140+00:00"
+    },
+    {
+      "id": "ebc133b01b7d",
+      "title": "Marketing Cloud Engineer - Careers at UF - University of Florida",
+      "company": "Careers at UF - University of Florida",
+      "role": "Cloud Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://explore.jobs.ufl.edu/en-us/job/541381/marketing-cloud-engineer",
+      "source": "Other",
+      "description": "Marketing Cloud Engineer . Apply now Job no: 541381. Work type: Staff Full-Time Location: Main Campus (Gainesville, FL) Categories: Communications ...",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T16:15:10+00:00",
+      "fetched_at": "2026-09-18T21:57:59.857485+00:00"
     },
     {
       "id": "8ff5e169df5d",
