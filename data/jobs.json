@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-09-18T08:31:27.935632+00:00",
-  "total_jobs": 9836,
+  "last_updated": "2026-09-18T15:14:14.226556+00:00",
+  "total_jobs": 9849,
   "stats": {
-    "total_companies": 4515,
-    "total_roles": 128,
+    "total_companies": 4522,
+    "total_roles": 129,
     "regions": {
-      "India": 6457,
+      "India": 6470,
       "Philippines": 2089,
       "Remote": 1197,
       "Unknown": 135
     },
     "sources": {
-      "Other": 7714,
-      "Greenhouse": 485,
-      "Workday": 418,
-      "LinkedIn": 417,
+      "Other": 7722,
+      "Greenhouse": 486,
+      "Workday": 420,
+      "LinkedIn": 418,
       "Ashby": 304,
-      "iCIMS": 128,
+      "iCIMS": 129,
       "Breezy": 104,
       "Workable": 66,
       "Lever": 65,
@@ -35,6 +35,156 @@
     }
   },
   "jobs": [
+    {
+      "id": "65c3311813ba",
+      "title": "Data Engineer in Chicago, Illinois | Careers at GATX Headquarters - ICIMS",
+      "company": "GATX Headquarters",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers-gatx.icims.com/jobs/4705/data-engineer/job",
+      "source": "iCIMS",
+      "description": "GATX Headquarters is now hiring a Data Engineer in Chicago, Illinois. Review all of the job details and apply today!",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T14:12:42+00:00",
+      "fetched_at": "2026-09-18T15:14:14.104211+00:00"
+    },
+    {
+      "id": "f1e2c60bd635",
+      "title": "Data Engineer Job Details | Farm Credit Services of America",
+      "company": "Farm Credit Services of America",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.fcsamerica.com/job/Omaha-Data-Engineer-NE-68137-2210/1431176800/",
+      "source": "Other",
+      "description": "Data Engineer . Location: Omaha, NE, US, 68137-2210. Req ID: 2365. Salary Range: $114,380-$177,300. Incentive Opportunity: 10% - 20%. AgCountry Farm ...",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T13:18:30+00:00",
+      "fetched_at": "2026-09-18T15:14:14.104794+00:00"
+    },
+    {
+      "id": "614f56198083",
+      "title": "Global Data Engineer - Jobs at Tennant Company",
+      "company": "Tennant Company",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.tennantco.com/job/Eden-Prairie-Global-Data-Engineer-MN-55344/1431328800/",
+      "source": "Other",
+      "description": "Global Data Engineer . Location: United States - Minneapolis, MN. Hours: Monday \u2013 Friday;. Pay: $72,800 - $109,500. With more than $1B in revenue ...",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T13:14:28+00:00",
+      "fetched_at": "2026-09-18T15:14:14.104997+00:00"
+    },
+    {
+      "id": "452dd3e98f3f",
+      "title": "Software Engineer - Java | IMC Trading",
+      "company": "Java | IMC Trading",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.imc.com/in/careers/jobs/4976994101",
+      "source": "Other",
+      "description": "Software Engineer - Java. Experienced. Technology. Mumbai. Apply Now. We are seeking a driven Java engineer to join our global research platform team ...",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T11:41:29+00:00",
+      "fetched_at": "2026-09-18T15:14:14.105137+00:00"
+    },
+    {
+      "id": "553494750b28",
+      "title": "Aniket Gupta's Post - LinkedIn",
+      "company": "Unknown Company",
+      "role": "Aniket Gupta's Post - LinkedIn",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/aniket-gupta-8b189b224_excited-to-share-that-ive-been-promoted-activity-7506616742543020032-NLbA",
+      "source": "LinkedIn",
+      "description": "Shashwat Shagun Pandey. Associate Software Engineer (SDE) @ Lowe's India | Full-Stack & AI Engineer ... Nishant Singh. Senior Software Engineer | ...",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T10:29:55+00:00",
+      "fetched_at": "2026-09-18T15:14:14.105791+00:00"
+    },
+    {
+      "id": "28826fee7f44",
+      "title": "DevOps Engineer Job Details | Gainwell Technologies LLC",
+      "company": "Gainwell Technologies LLC",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.gainwelltechnologies.com/job/Any-city-DevOps-Engineer-MI-99999/1431198700/",
+      "source": "Other",
+      "description": "DevOps Engineer will collaborate with software developers, system operators and other IT staff members to manage development or deployment processes ...",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T10:23:38+00:00",
+      "fetched_at": "2026-09-18T15:14:14.105992+00:00"
+    },
+    {
+      "id": "ab5ef9631607",
+      "title": "Job Application for Software Engineer - Full Stack at K Health - Greenhouse",
+      "company": "Khealthcareers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/khealthcareers/jobs/6198505004",
+      "source": "Greenhouse",
+      "description": "About the Role. As a Software Engineer at K Health, you are the champion of technical excellence for a high-stakes portfolio of clinical AI and a ...",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T08:50:23+00:00",
+      "fetched_at": "2026-09-18T15:14:14.106096+00:00"
+    },
+    {
+      "id": "a7578c0267dc",
+      "title": "Software Engineer Job Details | Lear Corporation",
+      "company": "Lear Corporation",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.lear.com/job/Valladolid-Software-Engineer-VA-47195/1437846133/",
+      "source": "Other",
+      "description": "Software Engineer . Location: Valladolid, VA, ES, 47195. Country/Region: Spain. Job Function: Engineering. Requisition ID: 49035. Employment Type: ...",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T08:44:05+00:00",
+      "fetched_at": "2026-09-18T15:14:14.106273+00:00"
+    },
+    {
+      "id": "bfcc7c708a7c",
+      "title": "Software Engineer - AML, AI & Data Platforms (AiDP) - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200683319-3956/software-engineer-aml-ai-data-platforms-aidp?team=CORSV",
+      "source": "Other",
+      "description": "Apply for a Software Engineer - AML, AI & Data Platforms (AiDP) job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T06:00:17+00:00",
+      "fetched_at": "2026-09-18T15:14:14.106631+00:00"
+    },
+    {
+      "id": "4c274a957fa9",
+      "title": "Staff Software Engineer , Factory Software | Tesla Careers",
+      "company": "Tesla Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.tesla.com/careers/search/job/staff-software-engineer-factory-software-272087",
+      "source": "Other",
+      "description": "Staff Software Engineer , Factory Software. Job Category, Engineering & Information Technology. Location, Fremont, California. Req. ID, 272087. Job ...",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T03:58:16+00:00",
+      "fetched_at": "2026-09-18T15:14:14.106832+00:00"
+    },
     {
       "id": "b369ac584402",
       "title": "Full Stack Data Engineer at Ford Motor Company",
@@ -81,6 +231,21 @@
       "fetched_at": "2026-09-18T08:31:27.911471+00:00"
     },
     {
+      "id": "b6ba44eedf15",
+      "title": "Software Engineer 1 - Myworkdayjobs.com",
+      "company": "Relx",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Software-Engineer-1_R117973-1",
+      "source": "Workday",
+      "description": "As an entry-level Software Engineer , you will contribute to the design, development, and maintenance of software components within a specific product ...",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T02:07:01+00:00",
+      "fetched_at": "2026-09-18T15:14:14.106924+00:00"
+    },
+    {
       "id": "e9944c176666",
       "title": "Linux platform engineer in Bangalore, Karn\u0101taka, India | Information Technology at Lilly",
       "company": "Lilly",
@@ -96,6 +261,21 @@
       "fetched_at": "2026-09-18T08:31:27.911561+00:00"
     },
     {
+      "id": "9fdff389ba4c",
+      "title": "Software Engineer - Context and Semantics (AI) - Myworkdayjobs.com",
+      "company": "Workday",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Software-Engineer---Context-and-Semantics--AI-_JR-0110210",
+      "source": "Workday",
+      "description": "Software Engineer - Context and Semantics (AI) \u00b7 3+ years of professional software engineering experience focusing on backend development, ...",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T01:02:52+00:00",
+      "fetched_at": "2026-09-18T15:14:14.107177+00:00"
+    },
+    {
       "id": "44f47307404b",
       "title": "Software Engineer II - Engineer, San Francisco, United States",
       "company": "Software Engineer II",
@@ -109,6 +289,21 @@
       "date": "2026-09-18",
       "timestamp": "2026-09-18T00:45:03+00:00",
       "fetched_at": "2026-09-18T08:31:27.911627+00:00"
+    },
+    {
+      "id": "5bfe070383d1",
+      "title": "Software Engineer - Backend Developer at UnitedHealth Group",
+      "company": "UnitedHealth Group",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.unitedhealthgroup.com/job/noida/software-engineer-backend-developer/34088/100784155792",
+      "source": "Other",
+      "description": "Software Engineer - Backend Developer. Requisition number: 2382772 Job category: Technology Primary location: Noida, India Date posted: 09/17/ ...",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T00:43:26+00:00",
+      "fetched_at": "2026-09-18T15:14:14.107479+00:00"
     },
     {
       "id": "86d15dce19e0",
