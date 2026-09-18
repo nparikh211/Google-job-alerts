@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-09-18T01:39:42.411241+00:00",
-  "total_jobs": 9831,
+  "last_updated": "2026-09-18T08:31:27.935632+00:00",
+  "total_jobs": 9836,
   "stats": {
     "total_companies": 4515,
     "total_roles": 128,
     "regions": {
-      "India": 6455,
-      "Philippines": 2086,
+      "India": 6457,
+      "Philippines": 2089,
       "Remote": 1197,
       "Unknown": 135
     },
     "sources": {
-      "Other": 7709,
+      "Other": 7714,
       "Greenhouse": 485,
       "Workday": 418,
       "LinkedIn": 417,
@@ -35,6 +35,81 @@
     }
   },
   "jobs": [
+    {
+      "id": "b369ac584402",
+      "title": "Full Stack Data Engineer at Ford Motor Company",
+      "company": "Ford Motor Company",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.careers.ford.com/job/dearborn/full-stack-data-engineer/48560/100778795840",
+      "source": "Other",
+      "description": "Full Stack Data Engineer . Job ID: 69459. Location: Dearborn, Michigan. Category: Global Data Insight & Analytics.",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T03:44:29+00:00",
+      "fetched_at": "2026-09-18T08:31:27.911060+00:00"
+    },
+    {
+      "id": "a6a6b90cd355",
+      "title": "Staff Site Reliability Engineer at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/bengaluru/staff-site-reliability-engineer/47263/100750635536",
+      "source": "Other",
+      "description": "Staff Site Reliability Engineer . Bangalore ... Senior Staff Software Engineer (Internet Security) Santa Clara, California, United States",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T02:58:58+00:00",
+      "fetched_at": "2026-09-18T08:31:27.911170+00:00"
+    },
+    {
+      "id": "ff281e9d1049",
+      "title": "Are software engineer adjacent jobs in essentially dead? : r/cscareerquestions - Reddit",
+      "company": "Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.reddit.com/r/cscareerquestions/comments/1wjcvs3/are_software_engineer_adjacent_jobs_in/",
+      "source": "Other",
+      "description": "I am as mediocre as they come as a dev and I've been looking to switch to another career that is adjacent to software engineer However with the\u2026",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T02:45:55+00:00",
+      "fetched_at": "2026-09-18T08:31:27.911471+00:00"
+    },
+    {
+      "id": "e9944c176666",
+      "title": "Linux platform engineer in Bangalore, Karn\u0101taka, India | Information Technology at Lilly",
+      "company": "Lilly",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.lilly.com/us/en/job/R-109636/Linux-platform-engineer",
+      "source": "Other",
+      "description": "Linux platform engineer . Apply Now. Back to search results. Previous ... Sr. Principal Machine Learning Engineer . Location Bangalore, Karn\u0101taka ...",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T01:40:34+00:00",
+      "fetched_at": "2026-09-18T08:31:27.911561+00:00"
+    },
+    {
+      "id": "44f47307404b",
+      "title": "Software Engineer II - Engineer, San Francisco, United States",
+      "company": "Software Engineer II",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.uber.com/en/jobs/302383/",
+      "source": "Other",
+      "description": "We are hiring a Software Engineer II for the Login Services Platform Engineering team within Core Security Engineering.",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T00:45:03+00:00",
+      "fetched_at": "2026-09-18T08:31:27.911627+00:00"
+    },
     {
       "id": "86d15dce19e0",
       "title": "Data Engineer - NCSU Jobs - NC State University",
