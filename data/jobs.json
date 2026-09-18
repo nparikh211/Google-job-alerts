@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-09-18T15:14:14.226556+00:00",
-  "total_jobs": 9849,
+  "last_updated": "2026-09-18T18:40:02.480768+00:00",
+  "total_jobs": 9869,
   "stats": {
-    "total_companies": 4522,
+    "total_companies": 4532,
     "total_roles": 129,
     "regions": {
-      "India": 6470,
-      "Philippines": 2089,
-      "Remote": 1197,
+      "India": 6482,
+      "Philippines": 2095,
+      "Remote": 1200,
       "Unknown": 135
     },
     "sources": {
-      "Other": 7722,
-      "Greenhouse": 486,
-      "Workday": 420,
-      "LinkedIn": 418,
+      "Other": 7732,
+      "Greenhouse": 490,
+      "Workday": 422,
+      "LinkedIn": 421,
       "Ashby": 304,
-      "iCIMS": 129,
+      "iCIMS": 130,
       "Breezy": 104,
       "Workable": 66,
       "Lever": 65,
@@ -36,6 +36,262 @@
   },
   "jobs": [
     {
+      "id": "8af2fd5912cd",
+      "title": "Senior Software Engineer - Myworkdayjobs.com",
+      "company": "Onto",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://onto.wd1.myworkdayjobs.com/onto_careers/job/Hillsboro-OR/Senior-Software-Engineer_R-6506",
+      "source": "Workday",
+      "description": "Senior Software Engineer \u00b7 BS degree in Computer Science, Software Engineering, Electrical Engineering, Physics, Applied Mathematics, or a related ...",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T17:45:00+00:00",
+      "fetched_at": "2026-09-18T18:40:02.438816+00:00"
+    },
+    {
+      "id": "9207dc875006",
+      "title": "Senior Machine Learning Engineer - Research & Innovation Team Job Details | SAP",
+      "company": "Research & Innovation Team Job Details | SAP",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.sap.com/job/Palo-Alto-Senior-Machine-Learning-Engineer-Research-&-Innovation-Team-CA-94304/1438239233/",
+      "source": "Other",
+      "description": "Senior Machine Learning Engineer - Research & Innovation Team. We help the world run better. At SAP, we keep it simple: you bring your best to us ...",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T17:12:06+00:00",
+      "fetched_at": "2026-09-18T18:40:01.971882+00:00"
+    },
+    {
+      "id": "e60753774894",
+      "title": "Data Engineer - Nest Veterinary - Built In",
+      "company": "Nest Veterinary - Built In",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://builtin.com/job/data-engineer/11243896",
+      "source": "Other",
+      "description": "Data Engineer . Job Posted 16 Hours Ago Posted 16 Hours Ago. 2 Locations ... Senior Software Engineer . Big Data \u2022 Fintech \u2022 Mobile \u2022 Payments ...",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T17:08:07+00:00",
+      "fetched_at": "2026-09-18T18:40:01.972078+00:00"
+    },
+    {
+      "id": "b89b08f9cf8c",
+      "title": "Job Application for Senior Software Engineer , Infrastructure at Engine - Greenhouse",
+      "company": "Engine",
+      "role": "Software Engineer",
+      "regions": [
+        "India",
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/engine/jobs/7996132003",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer , Infrastructure. Remote - US. Apply. About Engine. Engine is the all-in-one travel and spend management platform trusted by ...",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T16:55:48+00:00",
+      "fetched_at": "2026-09-18T18:40:01.972190+00:00"
+    },
+    {
+      "id": "1f2f56a72c27",
+      "title": "Senior AI Platform Engineer Job Details | Janus Henderson Investors",
+      "company": "Janus Henderson Investors",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.janushenderson.com/job/Denver-Senior-AI-Platform-Engineer-CO-80206/1431377500/",
+      "source": "Other",
+      "description": "Senior AI Platform Engineer . City: Denver. Division: Corporate - CFO. Why work for us? A career at Janus Henderson is more than a job, it's about ...",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T16:50:34+00:00",
+      "fetched_at": "2026-09-18T18:40:01.972421+00:00"
+    },
+    {
+      "id": "d26c9c945f97",
+      "title": "Job Application for AI Engineer at Impiricus - Greenhouse",
+      "company": "Impiricus",
+      "role": "AI Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/impiricus/jobs/5427769008",
+      "source": "Greenhouse",
+      "description": "AI Engineer . New York, NY, Atlanta, GA, or Remote, USA. Apply. Job ... software engineer with a focus on generative AI technologies?*. Select ...",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T16:37:44+00:00",
+      "fetched_at": "2026-09-18T18:40:02.439701+00:00"
+    },
+    {
+      "id": "d5ba216d3823",
+      "title": "Hansei Solutions - Senior Data Engineer",
+      "company": "Hansei Solutions",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4511781",
+      "source": "Other",
+      "description": "JOB SUMMARY. We are looking for a Senior Data Engineer who can hit the ground running. You will be a core builder of our data infrastructure, ...",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T16:24:20+00:00",
+      "fetched_at": "2026-09-18T18:40:02.439996+00:00"
+    },
+    {
+      "id": "280dd65eadf5",
+      "title": "Machine Learning Engineer | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.apexsystems.com/job/3049127_usa/machine-learning-engineer",
+      "source": "Other",
+      "description": "Machine Learning Engineer \u00b7 Design, develop, and optimize AI agents that support enterprise business workflows. \u00b7 Build and maintain agentic workflows ...",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T16:22:46+00:00",
+      "fetched_at": "2026-09-18T18:40:02.440140+00:00"
+    },
+    {
+      "id": "8ff5e169df5d",
+      "title": "Job Application for Backend Software Engineer at GetWhys - Greenhouse",
+      "company": "Getwhys",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/getwhys/jobs/4410645009",
+      "source": "Greenhouse",
+      "description": "Backend Software Engineer . Portland, OR | Bozeman, MT | Boise, ID| NYC, NY. Apply. About GetWhys. AI has made it much faster for go-to-market teams to ...",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T16:13:45+00:00",
+      "fetched_at": "2026-09-18T18:40:02.440591+00:00"
+    },
+    {
+      "id": "7b5ee09a2cf9",
+      "title": "Senior Data Engineer Job Details | Janus Henderson Investors",
+      "company": "Janus Henderson Investors",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.janushenderson.com/job/Denver-Senior-Data-Engineer-CO-80206/1431323900/",
+      "source": "Other",
+      "description": "Senior Data Engineer . City: Denver. Division: Technology Delivery. Why work for us? A career at Janus Henderson is more than a job, it's about ...",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T15:45:41+00:00",
+      "fetched_at": "2026-09-18T18:40:01.972609+00:00"
+    },
+    {
+      "id": "6f7815fc7a9a",
+      "title": "John Crickett's Post - LinkedIn",
+      "company": "Unknown Company",
+      "role": "John Crickett's Post - LinkedIn",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/johncrickett_want-to-become-a-better-software-engineer-activity-7506683689230274560-JBJG",
+      "source": "LinkedIn",
+      "description": "Want to become a better software engineer ? Build real software. The problem ... Backend Engineer | Go, Node.js, PostgreSQL | Scalable & High ...",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T15:41:21+00:00",
+      "fetched_at": "2026-09-18T18:40:01.973171+00:00"
+    },
+    {
+      "id": "e5b3221348d6",
+      "title": "Larry Galford's Post - Software Engineer - LinkedIn",
+      "company": "Larry Galford's Post",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/posts/larrygalford_i-have-3-thoughts-about-the-software-engineer-activity-7506383184410898434-b2ns",
+      "source": "LinkedIn",
+      "description": "Larry Galford's Post. View profile for Larry Galford \u00b7 Larry Galford. Software Engineer | Senior Software Engineer | Web Developer | Junior YouTuber | ...",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T15:38:15+00:00",
+      "fetched_at": "2026-09-18T18:40:02.441423+00:00"
+    },
+    {
+      "id": "68818aac80c8",
+      "title": "Software Engineer , New College Grad - 2027, Austin, TX - Myworkdayjobs.com",
+      "company": "Visa",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/Software-Engineer--New-College-Grad---2027--Austin--TX_REF088586W",
+      "source": "Workday",
+      "description": "Progress starts with you. Job Description. As a New College Graduate Software Engineer at Visa, you will join one of our technology organizations and ...",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T15:29:28+00:00",
+      "fetched_at": "2026-09-18T18:40:01.973451+00:00"
+    },
+    {
+      "id": "99055667aa28",
+      "title": "Job Application for Senior Full Stack Engineer , Notetaker at Calendly - Greenhouse",
+      "company": "Calendly",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/calendly/jobs/8817389002",
+      "source": "Greenhouse",
+      "description": "Senior Full Stack Engineer , Notetaker. Remote - US. Apply. What's in it for you? Ready to make a serious impact? Millions of people already rely on ...",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T15:11:51+00:00",
+      "fetched_at": "2026-09-18T18:40:01.973558+00:00"
+    },
+    {
+      "id": "0d2b76179ce1",
+      "title": "Senior Software Engineer - Data Platform - Klaviyo",
+      "company": "Data Platform - Klaviyo",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.klaviyo.com/careers/jobs/7997137003?gh_jid=7997137003",
+      "source": "Other",
+      "description": "Senior Software Engineer - Data Platform ... At Klaviyo, we value the unique backgrounds, experiences and perspectives each Klaviyo (we call ourselves ...",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T14:50:02+00:00",
+      "fetched_at": "2026-09-18T18:40:01.973711+00:00"
+    },
+    {
+      "id": "506dbdeaf40c",
+      "title": "Senior Software Engineer - Smiths Detection",
+      "company": "Smiths Detection",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.smithsdetection.com/careers/job-search-results/senior-software-engineer-744000150336895/",
+      "source": "Other",
+      "description": "Job Description. Job Purpose: The Senior Software Engineer role delivers scalable, secure, and maintainable software by solving complex problems ...",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T14:46:34+00:00",
+      "fetched_at": "2026-09-18T18:40:01.973893+00:00"
+    },
+    {
+      "id": "c50df257a9e2",
+      "title": "Senior Associate - AI/ Data Engineer (PEG Alpha) - Bain & Company",
+      "company": "Senior Associate",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.bain.com/careers/find-a-role/position/?jobid=109991",
+      "source": "Other",
+      "description": "Senior Associate - AI/ Data Engineer (PEG Alpha) \u00b7 Job ID \u00b7 Work area(s) \u00b7 Team \u00b7 Employment type \u00b7 Location(s).",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T14:28:23+00:00",
+      "fetched_at": "2026-09-18T18:40:02.441749+00:00"
+    },
+    {
       "id": "65c3311813ba",
       "title": "Data Engineer in Chicago, Illinois | Careers at GATX Headquarters - ICIMS",
       "company": "GATX Headquarters",
@@ -49,6 +305,36 @@
       "date": "2026-09-18",
       "timestamp": "2026-09-18T14:12:42+00:00",
       "fetched_at": "2026-09-18T15:14:14.104211+00:00"
+    },
+    {
+      "id": "c15541279ac5",
+      "title": "DATA ENGINEER I in Jacksonville, Florida | Careers at The Jacksonville Sheriff's Office - ICIMS",
+      "company": "The Jacksonville Sheriff's Office",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers-jaxsheriff.icims.com/jobs/1687/data-engineer-i/job",
+      "source": "iCIMS",
+      "description": "The Jacksonville Sheriff's Office: Jacksonville, Florida is now hiring a DATA ENGINEER I in Jacksonville, Florida. Review all of the job details ...",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T14:04:41+00:00",
+      "fetched_at": "2026-09-18T18:40:01.974280+00:00"
+    },
+    {
+      "id": "9e04833fe31e",
+      "title": "Software Engineer To ML Engineer A 10-Step Roadmap | Umang Chaudhary | 53 comments",
+      "company": "Step Roadmap | Umang Chaudhary | 53 comments",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/mlwithumang_software-engineer-to-ml-engineer-a-10-step-activity-7506702912878882817-EI47",
+      "source": "LinkedIn",
+      "description": "Software Engineer To ML Engineer A 10-Step Roadmap \u2022 12 pages 12 pages ... DevOps Engineer | Databricks \u2022 PySpark \u2022 ADF \u2022 Synapse \u2022 Python \u2022 SQL ...",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T13:37:05+00:00",
+      "fetched_at": "2026-09-18T18:40:01.974636+00:00"
     },
     {
       "id": "f1e2c60bd635",
@@ -94,6 +380,21 @@
       "date": "2026-09-18",
       "timestamp": "2026-09-18T11:41:29+00:00",
       "fetched_at": "2026-09-18T15:14:14.105137+00:00"
+    },
+    {
+      "id": "cf10a8cafb5a",
+      "title": "Software Engineer in Bangalore, India | Product and Engineering at Cisco - Cisco Careers",
+      "company": "Cisco",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2025269EXTERNALENGLOBAL/Software-Engineer",
+      "source": "Other",
+      "description": "Job Description. Job Title: Software Engineer II (Solution Test), Cisco IQ Platform Team. Location: Bangalore (Hybrid). Organization: Cisco ...",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T11:34:39+00:00",
+      "fetched_at": "2026-09-18T18:40:01.975434+00:00"
     },
     {
       "id": "553494750b28",
