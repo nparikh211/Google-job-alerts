@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-09-19T14:51:34.443546+00:00",
-  "total_jobs": 9929,
+  "last_updated": "2026-09-19T18:14:05.442134+00:00",
+  "total_jobs": 9933,
   "stats": {
-    "total_companies": 4552,
+    "total_companies": 4554,
     "total_roles": 129,
     "regions": {
-      "India": 6522,
+      "India": 6525,
       "Philippines": 2113,
-      "Remote": 1202,
+      "Remote": 1203,
       "Unknown": 135
     },
     "sources": {
-      "Other": 7777,
-      "Greenhouse": 495,
-      "LinkedIn": 425,
+      "Other": 7778,
+      "Greenhouse": 496,
+      "LinkedIn": 426,
       "Workday": 423,
       "Ashby": 306,
       "iCIMS": 131,
-      "Breezy": 104,
+      "Breezy": 105,
       "Lever": 66,
       "Workable": 66,
       "SmartRecruiters": 63,
@@ -35,6 +35,21 @@
     }
   },
   "jobs": [
+    {
+      "id": "07bb6cd1a622",
+      "title": "Job Application for Data Engineer at You.com - Greenhouse",
+      "company": "Youcom",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/youcom/jobs/5428768008",
+      "source": "Greenhouse",
+      "description": "Data Engineer . San Francisco (Hybrid). Apply. About Us. At You.com, we are building the AI Search Infrastructure that powers modern AI systems. Our ...",
+      "date": "2026-09-19",
+      "timestamp": "2026-09-19T14:37:58+00:00",
+      "fetched_at": "2026-09-19T18:14:05.296928+00:00"
+    },
     {
       "id": "69f98c1b22e7",
       "title": "Senior Data Engineer , Supply Chain & AI at Staples, Inc.",
@@ -64,6 +79,21 @@
       "date": "2026-09-19",
       "timestamp": "2026-09-19T12:58:32+00:00",
       "fetched_at": "2026-09-19T14:51:34.283869+00:00"
+    },
+    {
+      "id": "79041543da85",
+      "title": "Senior Software Engineer",
+      "company": "Solen Software Group",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://solen-software-group.breezy.hr/p/793036afdb64-senior-software-engineer/apply",
+      "source": "Breezy",
+      "description": "Senior Software Engineer . United States - Remote (any location); Full-Time; Engineering. Job Openings \u00b7 Senior Software Engineer ; Apply. Upload Resume ...",
+      "date": "2026-09-19",
+      "timestamp": "2026-09-19T12:55:08+00:00",
+      "fetched_at": "2026-09-19T18:14:05.297451+00:00"
     },
     {
       "id": "a39190b96ce0",
@@ -109,6 +139,21 @@
       "date": "2026-09-19",
       "timestamp": "2026-09-19T10:58:15+00:00",
       "fetched_at": "2026-09-19T14:51:34.394310+00:00"
+    },
+    {
+      "id": "7a5a1aeba00c",
+      "title": "Rippling is hiring Software Engineer I. Batch: 2024, 2025, 2026 Location: Bangalore ... - LinkedIn",
+      "company": "LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/smsubham_rippling-is-hiring-software-engineer-i-batch-activity-7507019439641563136-BOM8",
+      "source": "LinkedIn",
+      "description": "Rippling is hiring Software Engineer I. Batch: 2024 ... Data Engineer @CRED | Data Platform Engineer @Ex-Innovaccer | 60k+ @LinkedIn | AI & Tech.",
+      "date": "2026-09-19",
+      "timestamp": "2026-09-19T10:40:37+00:00",
+      "fetched_at": "2026-09-19T18:14:05.298314+00:00"
     },
     {
       "id": "da6685d0f6d3",
@@ -184,6 +229,21 @@
       "date": "2026-09-19",
       "timestamp": "2026-09-19T07:56:29+00:00",
       "fetched_at": "2026-09-19T14:51:34.285114+00:00"
+    },
+    {
+      "id": "940e4f4c3332",
+      "title": "Platform Engineer Job Details | HOLCIM Group",
+      "company": "HOLCIM Group",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.holcimgroup.com/holcim_edc/job/MADRID-Platform-Engineer-28037/1371329457/",
+      "source": "Other",
+      "description": "Platform Engineer . Job Description. 1. Objective. Deliver a multi-cloud and edge platform on which Holcim's business products are developed and ...",
+      "date": "2026-09-19",
+      "timestamp": "2026-09-19T07:24:28+00:00",
+      "fetched_at": "2026-09-19T18:14:05.299289+00:00"
     },
     {
       "id": "814198169428",
