@@ -1,26 +1,26 @@
 {
-  "last_updated": "2026-09-18T21:57:59.972485+00:00",
-  "total_jobs": 9884,
+  "last_updated": "2026-09-19T01:44:16.669559+00:00",
+  "total_jobs": 9895,
   "stats": {
-    "total_companies": 4538,
+    "total_companies": 4542,
     "total_roles": 129,
     "regions": {
-      "India": 6491,
-      "Philippines": 2100,
+      "India": 6499,
+      "Philippines": 2103,
       "Remote": 1201,
       "Unknown": 135
     },
     "sources": {
-      "Other": 7741,
+      "Other": 7748,
       "Greenhouse": 493,
       "Workday": 423,
-      "LinkedIn": 421,
-      "Ashby": 305,
-      "iCIMS": 130,
+      "LinkedIn": 422,
+      "Ashby": 306,
+      "iCIMS": 131,
       "Breezy": 104,
       "Lever": 66,
       "Workable": 66,
-      "SmartRecruiters": 62,
+      "SmartRecruiters": 63,
       "Indeed": 32,
       "BrassRing": 11,
       "Recruitee": 10,
@@ -36,6 +36,51 @@
   },
   "jobs": [
     {
+      "id": "efe7154d38f3",
+      "title": "Staff Machine Learning Engineer , Infrastructure - Mountain View, California, United States",
+      "company": "Mountain View, California, United States",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.withwaymo.com/jobs/staff-machine-learning-engineer-infrastructure-mountain-view-california-united-states-san-francisco",
+      "source": "Other",
+      "description": "Staff Machine Learning Engineer , Infrastructure. Mountain View ... Senior Software Engineer , Maneuvering Tech. Mountain View, California ...",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T22:18:18+00:00",
+      "fetched_at": "2026-09-19T01:44:16.553400+00:00"
+    },
+    {
+      "id": "ddb78ab233df",
+      "title": "Versant Software Engineer | SmartRecruiters",
+      "company": "Versant3",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.smartrecruiters.com/Versant3/744000150397599-software-engineer",
+      "source": "SmartRecruiters",
+      "description": "Software Engineer . 900 Sylvan ... Other jobs at Versant Media. Senior Equity Research Analyst, AI Platform. Englewood Cliffs, NJ. Sr. Data Engineer .",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T22:06:38+00:00",
+      "fetched_at": "2026-09-19T01:44:16.553539+00:00"
+    },
+    {
+      "id": "bd7def244800",
+      "title": "Data Engineer - - 126611 - Booz | Allen | Hamilton \u00ae - Careers",
+      "company": "- 126611 - Booz | Allen | Hamilton \u00ae - Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.boozallen.com/careers/JobDetail/Hanscom-AFB-Data-Engineer-R0243381/126611",
+      "source": "Other",
+      "description": "Data Engineer . The Opportunity: Ever-expanding technology like IoT, machine learning, and artificial intelligence means that there's more ...",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T21:45:42+00:00",
+      "fetched_at": "2026-09-19T01:44:16.628793+00:00"
+    },
+    {
       "id": "8a93afabd185",
       "title": "Software Engineer , Data Platform - Job ID: 10553687 - Amazon Careers",
       "company": "Job ID: 10553687 - Amazon Careers",
@@ -49,6 +94,36 @@
       "date": "2026-09-18",
       "timestamp": "2026-09-18T21:40:31+00:00",
       "fetched_at": "2026-09-18T21:57:59.931494+00:00"
+    },
+    {
+      "id": "c8782ec97639",
+      "title": "IT Data Engineer in Hilliard, Ohio - ADS Careers - ADS Pipe",
+      "company": "ADS Careers - ADS Pipe",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers-adspipe.icims.com/jobs/21834/it-data-engineer/job",
+      "source": "iCIMS",
+      "description": "Advanced Drainage Systems (ADS) is seeking a Data Engineer to build and support modern data pipelines and AI-ready data platforms that improve ...",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T21:23:36+00:00",
+      "fetched_at": "2026-09-19T01:44:16.553879+00:00"
+    },
+    {
+      "id": "746894792d2b",
+      "title": "Sr Data Engineer Dallas, Texas - Harnham",
+      "company": "Harnham",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-sr-data-engineer-dallas-texas/",
+      "source": "Other",
+      "description": "Sr Data Engineer Dallas, Texas. ... DevOps, Software Engineer & Cloud. Data Science Machine Learning & AI.",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T21:23:36+00:00",
+      "fetched_at": "2026-09-19T01:44:16.629214+00:00"
     },
     {
       "id": "b7006ce7b4d3",
@@ -66,6 +141,36 @@
       "fetched_at": "2026-09-18T21:57:59.931624+00:00"
     },
     {
+      "id": "00f821f71dbb",
+      "title": "Software Engineer - Android in Bengaluru, India - Docusign Careers",
+      "company": "Android in Bengaluru, India - Docusign Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.docusign.com/jobs/30324",
+      "source": "Other",
+      "description": "careers-home is hiring a Software Engineer - Android in Bengaluru, India. Review all of the job details and apply today!",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T20:51:22+00:00",
+      "fetched_at": "2026-09-19T01:44:16.554168+00:00"
+    },
+    {
+      "id": "df5820fa7d3b",
+      "title": "After eleven years as a software engineer , I'm taking a break to\u2026write a book! The book ... - LinkedIn",
+      "company": "LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/justinmanley_after-eleven-years-as-a-software-engineer-activity-7506382115454775297-CDqq",
+      "source": "LinkedIn",
+      "description": "After eleven years as a software engineer , I'm taking a break to\u2026write a book! The book, which I'm calling Pairwise, is a collection of photos ...",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T20:46:37+00:00",
+      "fetched_at": "2026-09-19T01:44:16.554532+00:00"
+    },
+    {
       "id": "c3f7e21ab4cf",
       "title": "Data Engineer I - Valenz - Career Page",
       "company": "Valenz - Career Page",
@@ -79,6 +184,51 @@
       "date": "2026-09-18",
       "timestamp": "2026-09-18T20:44:31+00:00",
       "fetched_at": "2026-09-18T21:57:59.854459+00:00"
+    },
+    {
+      "id": "aaaf89045b02",
+      "title": "Senior Software Engineer - Continuity @ Rad AI - Jobs",
+      "company": "Radai",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/radai/50c47b22-f5e0-4ce2-89a7-a63002347b8e",
+      "source": "Ashby",
+      "description": "... Senior Software Engineer to join our team building the future of radiology. This role will work alongside our high-performing cross-functional ...",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T20:30:15+00:00",
+      "fetched_at": "2026-09-19T01:44:16.554957+00:00"
+    },
+    {
+      "id": "e0b634d1d8f4",
+      "title": "Software Engineer , Algorithms (SDE) - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200672921-0836/software-engineer-algorithms-sde?team=HRDWR",
+      "source": "Other",
+      "description": "Apply for a Software Engineer , Algorithms (SDE) job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T20:25:33+00:00",
+      "fetched_at": "2026-09-19T01:44:16.630346+00:00"
+    },
+    {
+      "id": "33691e5419d5",
+      "title": "Data Engineer \u2013 Snowflake & FHIR. - IQVIA | Jobs",
+      "company": "IQVIA | Jobs",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.iqvia.com/en/jobs/R1565372-0",
+      "source": "Other",
+      "description": "... monitor in. Jobs. Back to Jobs. Data Engineer \u2013 Snowflake & FHIR. Bengaluru, India | Full time | Hybrid | R1565372. Apply Now. Three diverse ...",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T19:44:59+00:00",
+      "fetched_at": "2026-09-19T01:44:16.555276+00:00"
     },
     {
       "id": "84feae55c784",
@@ -154,6 +304,21 @@
       "date": "2026-09-18",
       "timestamp": "2026-09-18T18:32:22+00:00",
       "fetched_at": "2026-09-18T21:57:59.932852+00:00"
+    },
+    {
+      "id": "547f55932d05",
+      "title": "Mid-Level/Lead Software Engineer - FULL STACK (Hybrid) - State Farm Careers",
+      "company": "Mid",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.statefarm.com/main/jobs/46302?lang=en-us",
+      "source": "Other",
+      "description": "State Farm Careers is hiring a Mid-Level/Lead Software Engineer - FULL STACK (Hybrid) in Multiple Locations. Review all of the job details and ...",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T18:25:51+00:00",
+      "fetched_at": "2026-09-19T01:44:16.556391+00:00"
     },
     {
       "id": "28987272c3d6",
