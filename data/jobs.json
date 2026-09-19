@@ -1,26 +1,26 @@
 {
-  "last_updated": "2026-09-19T18:14:05.442134+00:00",
-  "total_jobs": 9933,
+  "last_updated": "2026-09-19T21:48:22.608469+00:00",
+  "total_jobs": 9941,
   "stats": {
-    "total_companies": 4554,
+    "total_companies": 4556,
     "total_roles": 129,
     "regions": {
-      "India": 6525,
-      "Philippines": 2113,
+      "India": 6531,
+      "Philippines": 2115,
       "Remote": 1203,
       "Unknown": 135
     },
     "sources": {
-      "Other": 7778,
+      "Other": 7784,
       "Greenhouse": 496,
       "LinkedIn": 426,
-      "Workday": 423,
+      "Workday": 424,
       "Ashby": 306,
       "iCIMS": 131,
       "Breezy": 105,
       "Lever": 66,
       "Workable": 66,
-      "SmartRecruiters": 63,
+      "SmartRecruiters": 64,
       "Indeed": 32,
       "BrassRing": 11,
       "Recruitee": 10,
@@ -35,6 +35,36 @@
     }
   },
   "jobs": [
+    {
+      "id": "9390d239f266",
+      "title": "Sr. Software Engineer \u2013 API & Developer Platform - U.S. Bank careers",
+      "company": "U.S. Bank careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.usbank.com/global/en/job/UBNAGLOBAL20260029023EXTERNALENGLOBAL/Sr-Software-Engineer-API-Developer-Platform",
+      "source": "Other",
+      "description": "About the Role. We are seeking a highly skilled Senior Software Engineer to help design and build the next generation of enterprise API platform ...",
+      "date": "2026-09-19",
+      "timestamp": "2026-09-19T18:06:32+00:00",
+      "fetched_at": "2026-09-19T21:48:22.487283+00:00"
+    },
+    {
+      "id": "30bf19502704",
+      "title": "Software Engineer - Myworkdayjobs.com",
+      "company": "Visa",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/IN---Bengaluru-India/Software-Engineer_REF081660W/apply/useMyLastApplication?share_id=LinkedIn_corporate_page",
+      "source": "Workday",
+      "description": "Software Engineer . current step 1 of 6. step 2 of 6. step 3 of 6. step 4 of 6. step 5 of 6. step 6 of 6. Create Account. Password Requirements:.",
+      "date": "2026-09-19",
+      "timestamp": "2026-09-19T16:51:18+00:00",
+      "fetched_at": "2026-09-19T21:48:22.487705+00:00"
+    },
     {
       "id": "07bb6cd1a622",
       "title": "Job Application for Data Engineer at You.com - Greenhouse",
@@ -64,6 +94,21 @@
       "date": "2026-09-19",
       "timestamp": "2026-09-19T13:15:23+00:00",
       "fetched_at": "2026-09-19T14:51:34.283162+00:00"
+    },
+    {
+      "id": "bf46c76e2457",
+      "title": "ServiceNow Software Engineer | SmartRecruiters",
+      "company": "Servicenow",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.smartrecruiters.com/ServiceNow/744000150444020-software-engineer",
+      "source": "SmartRecruiters",
+      "description": "We are the Platform Engineering Application Life Cycle Team and we are looking for a backend engineer to help join a dynamic environment.",
+      "date": "2026-09-19",
+      "timestamp": "2026-09-19T13:04:05+00:00",
+      "fetched_at": "2026-09-19T21:48:22.488273+00:00"
     },
     {
       "id": "6aa993b8eb4f",
@@ -109,6 +154,36 @@
       "date": "2026-09-19",
       "timestamp": "2026-09-19T12:24:03+00:00",
       "fetched_at": "2026-09-19T14:51:34.284330+00:00"
+    },
+    {
+      "id": "ba296a3e30c8",
+      "title": "Senior Data Engineer with Data Analytics - U.S. Bank careers",
+      "company": "U.S. Bank careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.usbank.com/global/en/job/2026-0023384/Senior-Data-Engineer-with-Data-Analytics",
+      "source": "Other",
+      "description": "Apply for Senior Data Engineer with Data Analytics job with U.S. Bank in Cincinnati, OH, United States ... Software Engineer 2 - Salesforce Developer.",
+      "date": "2026-09-19",
+      "timestamp": "2026-09-19T12:10:48+00:00",
+      "fetched_at": "2026-09-19T21:48:22.567847+00:00"
+    },
+    {
+      "id": "0004bcb8fff2",
+      "title": "FLEX Senior Full Stack Software Engineer - Marriott Careers",
+      "company": "Marriott Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.marriott.com/flex-senior-full-stack-software-engineer/job/P1-6577711-0",
+      "source": "Other",
+      "description": "This is a temporary position. The assignment duration is through September 6, 2027. JOB SUMMARY. As a FLEX Senior Full Stack Software Engineer at ...",
+      "date": "2026-09-19",
+      "timestamp": "2026-09-19T11:56:52+00:00",
+      "fetched_at": "2026-09-19T21:48:22.489180+00:00"
     },
     {
       "id": "6d3ed86499b8",
@@ -171,6 +246,21 @@
       "fetched_at": "2026-09-19T14:51:34.284720+00:00"
     },
     {
+      "id": "be1e20ae03b2",
+      "title": "Data Engineer , Mobile Game Analytics at Mattel",
+      "company": "Mattel",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.mattel.com/en/job/el-segundo/data-engineer-mobile-game-analytics/2015/94747865584",
+      "source": "Other",
+      "description": "Posting Title Data Engineer , Mobile Game Analytics Requisition Number R237488 Company Mattel Sales Corp. Location El Segundo, California Address ...",
+      "date": "2026-09-19",
+      "timestamp": "2026-09-19T09:30:25+00:00",
+      "fetched_at": "2026-09-19T21:48:22.489961+00:00"
+    },
+    {
       "id": "89ed2868c4f2",
       "title": "Senior Full Stack Engineer C#.NET | Schwab Jobs",
       "company": "Schwab Jobs",
@@ -216,6 +306,21 @@
       "fetched_at": "2026-09-19T14:51:34.284928+00:00"
     },
     {
+      "id": "ac8556980305",
+      "title": "Senior Director, Full-stack Engineer (Developer Experience) - Capital One Careers",
+      "company": "Senior Director, Full",
+      "role": "CTO",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.capitalonecareers.com/job/mclean/senior-director-full-stack-engineer-developer-experience/1732/100827636912",
+      "source": "Other",
+      "description": "Learn more about applying for Senior Director, Full-stack Engineer (Developer Experience) at Capital One. ... Staff Software Engineer (Resilience ...",
+      "date": "2026-09-19",
+      "timestamp": "2026-09-19T07:56:30+00:00",
+      "fetched_at": "2026-09-19T21:48:22.490549+00:00"
+    },
+    {
       "id": "d9e7f42d18da",
       "title": "AI Engineer 3 (AI Foundations) - McLean - Capital One Careers",
       "company": "McLean - Capital One Careers",
@@ -229,6 +334,21 @@
       "date": "2026-09-19",
       "timestamp": "2026-09-19T07:56:29+00:00",
       "fetched_at": "2026-09-19T14:51:34.285114+00:00"
+    },
+    {
+      "id": "dd98432f1496",
+      "title": "Data Engineer - HigherEdJobs",
+      "company": "HigherEdJobs",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.higheredjobs.com/admin/details.cfm?JobCode=179561900",
+      "source": "Other",
+      "description": "Essential Job Duties: The Data Engineer supports the NSF-funded Programmable Cloud Lab Center's research mission by developing and maintaining data ...",
+      "date": "2026-09-19",
+      "timestamp": "2026-09-19T07:38:51+00:00",
+      "fetched_at": "2026-09-19T21:48:22.569526+00:00"
     },
     {
       "id": "940e4f4c3332",
