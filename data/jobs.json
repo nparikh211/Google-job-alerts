@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-09-19T01:44:16.669559+00:00",
-  "total_jobs": 9895,
+  "last_updated": "2026-09-19T08:18:46.965963+00:00",
+  "total_jobs": 9909,
   "stats": {
-    "total_companies": 4542,
+    "total_companies": 4547,
     "total_roles": 129,
     "regions": {
-      "India": 6499,
-      "Philippines": 2103,
+      "India": 6507,
+      "Philippines": 2109,
       "Remote": 1201,
       "Unknown": 135
     },
     "sources": {
-      "Other": 7748,
+      "Other": 7761,
       "Greenhouse": 493,
+      "LinkedIn": 423,
       "Workday": 423,
-      "LinkedIn": 422,
       "Ashby": 306,
       "iCIMS": 131,
       "Breezy": 104,
@@ -31,10 +31,175 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-09-18"
+      "latest": "2026-09-19"
     }
   },
   "jobs": [
+    {
+      "id": "bc7c1ffd19c2",
+      "title": "2027 Software Engineer Summer Internship - Lazard Student Careers",
+      "company": "Lazard Student Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardStudentCareers/job/6603",
+      "source": "Other",
+      "description": "2027 Software Engineer Summer Internship. New York, United States (Hybrid). Job Description. Lazard is one of the world's preeminent financial ...",
+      "date": "2026-09-19",
+      "timestamp": "2026-09-19T04:40:53+00:00",
+      "fetched_at": "2026-09-19T08:18:46.931233+00:00"
+    },
+    {
+      "id": "ffd733f1ac16",
+      "title": "Software Engineer - DoorDash",
+      "company": "DoorDash",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careersatdoordash.com/jobs/software-engineer/8212984",
+      "source": "Other",
+      "description": "If you are passionate about deploying autonomous technology at scale, then we want to talk to you. About the Role. As a software engineer on the data ...",
+      "date": "2026-09-19",
+      "timestamp": "2026-09-19T04:00:59+00:00",
+      "fetched_at": "2026-09-19T08:18:46.931340+00:00"
+    },
+    {
+      "id": "a944407fb4be",
+      "title": "Software Engineer - Saviynt IGA, BENGALURU, Karn\u0101taka | Wells Fargo",
+      "company": "Saviynt IGA, BENGALURU, Karn\u0101taka | Wells Fargo",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.wellsfargojobs.com/en/jobs/r-575186/software-engineer-saviynt-iga/",
+      "source": "Other",
+      "description": "About this role: Wells Fargo is seeking a Software Engineer . In this role, you will: Participate in low to moderately complex initiatives and ...",
+      "date": "2026-09-19",
+      "timestamp": "2026-09-19T00:33:54+00:00",
+      "fetched_at": "2026-09-19T08:18:46.713750+00:00"
+    },
+    {
+      "id": "3b83ee4a0703",
+      "title": "Data Engineer , Ring Agent Platforms - Job ID: 10553797 - Amazon Careers",
+      "company": "Job ID: 10553797 - Amazon Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://amazon.jobs/en/jobs/10553797/data-engineer-ring-agent-platforms",
+      "source": "Other",
+      "description": "Description. We are looking for a Data Engineer to design, build, and operate the data pipelines, models, and platform infrastructure that power ...",
+      "date": "2026-09-19",
+      "timestamp": "2026-09-19T00:26:31+00:00",
+      "fetched_at": "2026-09-19T08:18:46.931722+00:00"
+    },
+    {
+      "id": "c476e872f3e1",
+      "title": "Student Intern, Software Engineer Job Details | Celestica International LP",
+      "company": "Celestica International LP",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.celestica.com/job/San-Jose-Student-Intern%2C-Software-Engineer-CA-95101/1439119233/",
+      "source": "Other",
+      "description": "San Jose Student Intern, Software Engineer - CA, 95101.",
+      "date": "2026-09-19",
+      "timestamp": "2026-09-19T00:22:48+00:00",
+      "fetched_at": "2026-09-19T08:18:46.931852+00:00"
+    },
+    {
+      "id": "e9797a801bf5",
+      "title": "Apply for Software Engineer , Early Career \u2014 Immediate Start - Stripe",
+      "company": "Stripe",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://stripe.com/careers/apply/software-engineer-early-career-immediate-start/8212508",
+      "source": "Other",
+      "description": "Software Engineer , Early Career \u2014 Immediate Start. Company. Stripe. Team. University. Office locations. New York, Seattle, South San Francisco HQ ...",
+      "date": "2026-09-19",
+      "timestamp": "2026-09-19T00:11:32+00:00",
+      "fetched_at": "2026-09-19T08:18:46.713931+00:00"
+    },
+    {
+      "id": "089e345e794b",
+      "title": "Machine Learning Engineer - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200681112-0836/machine-learning-engineer",
+      "source": "Other",
+      "description": "Apply for a Machine Learning Engineer job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-09-19",
+      "timestamp": "2026-09-19T00:06:53+00:00",
+      "fetched_at": "2026-09-19T08:18:46.932079+00:00"
+    },
+    {
+      "id": "e724ef55e251",
+      "title": "Software Engineer at Netpace Inc \u2014 United States - Jobs - LinkedIn",
+      "company": "Netpace Inc \u2014 United States",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/software-engineer-at-netpace-inc-4454432798",
+      "source": "LinkedIn",
+      "description": "We are seeking a Senior Software Engineer with strong hands-on C#/.NET ... Software Engineer , Backend Engineer . Rescale. United States 4 weeks ...",
+      "date": "2026-09-19",
+      "timestamp": "2026-09-19T00:04:56+00:00",
+      "fetched_at": "2026-09-19T08:18:46.714069+00:00"
+    },
+    {
+      "id": "114e4b9f7e49",
+      "title": "Full Stack Engineer 4 - McLean - Capital One Careers",
+      "company": "McLean - Capital One Careers",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.capitalonecareers.com/job/mclean/full-stack-engineer-4/1732/100827636672",
+      "source": "Other",
+      "description": "Full Stack Engineer 4. McLean, Virginia | Plano, Texas Save Job. Apply ... Senior Lead Software Engineer , Full Stack (Global Payment Network).",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T23:22:54+00:00",
+      "fetched_at": "2026-09-19T08:18:46.714196+00:00"
+    },
+    {
+      "id": "c0534afac623",
+      "title": "Senior Software Engineer - 2390930 at UnitedHealth Group",
+      "company": "UnitedHealth Group",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.unitedhealthgroup.com/job/eden-prairie/senior-software-engineer-2390930/34088/100827911696",
+      "source": "Other",
+      "description": "Senior Software Engineer - 2390930. EMPLOYER: Optum Services, Inc. JOB TITLE: Sr. Software Engineer . LOCATION: 1 Optum Circle, Eden Prairie, ...",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T22:35:53+00:00",
+      "fetched_at": "2026-09-19T08:18:46.714319+00:00"
+    },
+    {
+      "id": "8f0480e17f7f",
+      "title": "Software Engineer - Systems - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200684670-0836/software-engineer-systems",
+      "source": "Other",
+      "description": "Apply for a Software Engineer - Systems job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T22:19:46+00:00",
+      "fetched_at": "2026-09-19T08:18:46.714421+00:00"
+    },
     {
       "id": "efe7154d38f3",
       "title": "Staff Machine Learning Engineer , Infrastructure - Mountain View, California, United States",
@@ -64,6 +229,21 @@
       "date": "2026-09-18",
       "timestamp": "2026-09-18T22:06:38+00:00",
       "fetched_at": "2026-09-19T01:44:16.553539+00:00"
+    },
+    {
+      "id": "c6fb3d81b4fa",
+      "title": "Staff Software Engineer , Architecture, Sunnyvale, CA, United States",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.intuitive.com/en/jobs/744000150361949/JOB216652/staff-software-engineer-architecture/",
+      "source": "Other",
+      "description": "Senior Software Engineer . Save Saved. Sunnyvale, CA, United States. Senior Software Engineer . Save Saved. Sunnyvale, CA, United States. Staff Embedded ...",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T21:52:14+00:00",
+      "fetched_at": "2026-09-19T08:18:46.933083+00:00"
     },
     {
       "id": "bd7def244800",
@@ -141,6 +321,21 @@
       "fetched_at": "2026-09-18T21:57:59.931624+00:00"
     },
     {
+      "id": "851f60b6656c",
+      "title": "Senior Software Engineer - IOS in Bengaluru, India - Docusign Careers",
+      "company": "IOS in Bengaluru, India - Docusign Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.docusign.com/jobs/30325?lang=en-us",
+      "source": "Other",
+      "description": "careers-home is hiring a Senior Software Engineer - IOS in Bengaluru, India. Review all of the job details and apply today!",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T21:10:56+00:00",
+      "fetched_at": "2026-09-19T08:18:46.715268+00:00"
+    },
+    {
       "id": "00f821f71dbb",
       "title": "Software Engineer - Android in Bengaluru, India - Docusign Careers",
       "company": "Android in Bengaluru, India - Docusign Careers",
@@ -214,6 +409,21 @@
       "date": "2026-09-18",
       "timestamp": "2026-09-18T20:25:33+00:00",
       "fetched_at": "2026-09-19T01:44:16.630346+00:00"
+    },
+    {
+      "id": "1bba6f425311",
+      "title": "Software Engineer (AML), AI & Data Platforms (AiDP) - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200684574-0157/software-engineer-aml-ai-data-platforms-aidp",
+      "source": "Other",
+      "description": "Software Engineer (AML), AI & Data Platforms (AiDP). Austin, Texas ... As a Machine Learning Engineer , you will work on building intelligent ...",
+      "date": "2026-09-18",
+      "timestamp": "2026-09-18T19:48:04+00:00",
+      "fetched_at": "2026-09-19T08:18:46.716099+00:00"
     },
     {
       "id": "33691e5419d5",
