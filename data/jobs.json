@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-09-19T21:48:22.608469+00:00",
-  "total_jobs": 9941,
+  "last_updated": "2026-09-20T01:46:24.677714+00:00",
+  "total_jobs": 9955,
   "stats": {
-    "total_companies": 4556,
-    "total_roles": 129,
+    "total_companies": 4566,
+    "total_roles": 130,
     "regions": {
-      "India": 6531,
-      "Philippines": 2115,
-      "Remote": 1203,
+      "India": 6536,
+      "Philippines": 2121,
+      "Remote": 1206,
       "Unknown": 135
     },
     "sources": {
-      "Other": 7784,
-      "Greenhouse": 496,
-      "LinkedIn": 426,
-      "Workday": 424,
-      "Ashby": 306,
+      "Other": 7793,
+      "Greenhouse": 497,
+      "LinkedIn": 427,
+      "Workday": 425,
+      "Ashby": 307,
       "iCIMS": 131,
       "Breezy": 105,
       "Lever": 66,
@@ -26,15 +26,165 @@
       "Recruitee": 10,
       "Jobvite": 8,
       "Taleo": 7,
-      "WeWorkRemotely": 3,
+      "WeWorkRemotely": 4,
       "ADP": 2
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-09-19"
+      "latest": "2026-09-20"
     }
   },
   "jobs": [
+    {
+      "id": "dca8c1a0f35a",
+      "title": "Senior Software Engineer , Android - Myworkdayjobs.com",
+      "company": "Turo",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://turo.wd12.myworkdayjobs.com/Turo_careers/job/San-Francisco/Senior-Software-Engineer--Android_R-102719-1",
+      "source": "Workday",
+      "description": "Senior Software Engineer , Android page is loaded. Turo logo. Senior Software Engineer , Android. Apply. locations: San Francisco. time type: Full time.",
+      "date": "2026-09-20",
+      "timestamp": "2026-09-20T00:31:15+00:00",
+      "fetched_at": "2026-09-20T01:46:24.636725+00:00"
+    },
+    {
+      "id": "a968f583e5ee",
+      "title": "Senior Manager, Full-stack Engineer -People Leader - Capital One Careers",
+      "company": "Senior Manager, Full",
+      "role": "Senior Manager",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.capitalonecareers.com/job/mclean/senior-manager-full-stack-engineer-people-leader/1732/100871864448",
+      "source": "Other",
+      "description": "Learn more about applying for Senior Manager, Full-stack Engineer -People Leader at Capital One. ... Software Engineer , Strategy, Students and Grads ...",
+      "date": "2026-09-19",
+      "timestamp": "2026-09-19T22:42:58+00:00",
+      "fetched_at": "2026-09-20T01:46:24.267742+00:00"
+    },
+    {
+      "id": "bb5cf3b09306",
+      "title": "Senior Manager, Full-stack Engineer -People Leader - Capital One Careers",
+      "company": "Senior Manager, Full",
+      "role": "Senior Manager",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.capitalonecareers.com/job/richmond/senior-manager-full-stack-engineer-people-leader/1732/100871864352",
+      "source": "Other",
+      "description": "Learn more about applying for Senior Manager, Full-stack Engineer -People Leader at Capital One. ... Software Engineer , Strategy, Students and Grads ...",
+      "date": "2026-09-19",
+      "timestamp": "2026-09-19T22:42:58+00:00",
+      "fetched_at": "2026-09-20T01:46:24.637006+00:00"
+    },
+    {
+      "id": "80b11a06eff6",
+      "title": "Software Engineer II - Backend Engineer , San Francisco, United States",
+      "company": "Software Engineer II",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.uber.com/en/jobs/302455/",
+      "source": "Other",
+      "description": "Software Engineer II - Backend Engineer . Job removed. Location: San Francisco, California; Team: Engineer; Subteam: Software Engineering; Posted on ...",
+      "date": "2026-09-19",
+      "timestamp": "2026-09-19T22:33:30+00:00",
+      "fetched_at": "2026-09-20T01:46:24.267906+00:00"
+    },
+    {
+      "id": "a48fd9091f21",
+      "title": "AI and Machine Learning Engineer I Graduate - HPE Careers",
+      "company": "HPE Careers",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.hpe.com/us/en/job/1211881/AI-and-Machine-Learning-Engineer-I-Graduate",
+      "source": "Other",
+      "description": "Apply for AI and Machine Learning Engineer I Graduate job with HPE in San Jose, California, 95002. Engineering & QA at HPE.",
+      "date": "2026-09-19",
+      "timestamp": "2026-09-19T22:17:12+00:00",
+      "fetched_at": "2026-09-20T01:46:24.637333+00:00"
+    },
+    {
+      "id": "f1d5600cced8",
+      "title": "Remote Software Engineer at CircleCI",
+      "company": "CircleCI",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://weworkremotely.com/remote-jobs/circleci-software-engineer",
+      "source": "WeWorkRemotely",
+      "description": "Software Engineer . Posted 13 hours ago. Apply now \u00b7 AI Auto-Apply Save ... Senior Site Reliability Engineer (SRE). Nov 21. CloudDevs. San Francisco.",
+      "date": "2026-09-19",
+      "timestamp": "2026-09-19T20:59:31+00:00",
+      "fetched_at": "2026-09-20T01:46:24.268083+00:00"
+    },
+    {
+      "id": "833e1e2c7ed3",
+      "title": "Sr. Software Engineer (Mainframe - Cobol) in Irving, TX, United States - U.S. Bank careers",
+      "company": "Cobol) in Irving, TX, United States - U.S. Bank careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.usbank.com/global/en/job/2026-0027166/Sr-Software-Engineer-Mainframe-Cobol",
+      "source": "Other",
+      "description": "Software Engineer (Mainframe - Cobol). Apply now. JOB DESCRIPTION. At ... Senior Software Engineer (ServiceNow Catalog). Available in 7 locations.",
+      "date": "2026-09-19",
+      "timestamp": "2026-09-19T20:39:09+00:00",
+      "fetched_at": "2026-09-20T01:46:24.268467+00:00"
+    },
+    {
+      "id": "4de2fe867bb0",
+      "title": "Data Engineer , Junior in Georgia, United States | Chenega Corporation",
+      "company": "Chenega Corporation",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.chenega.com/professional-services/jobs/42243?lang=en-us",
+      "source": "Other",
+      "description": "Chenega|Professional Services Careers is hiring a Data Engineer , Junior in Georgia, United States. Review all of the job details and apply today!",
+      "date": "2026-09-19",
+      "timestamp": "2026-09-19T20:25:17+00:00",
+      "fetched_at": "2026-09-20T01:46:24.637795+00:00"
+    },
+    {
+      "id": "12917d00e7ad",
+      "title": "Rivian hiring Early Career - Cloud Engineer , Cloud Operations in Atlanta, GA | LinkedIn",
+      "company": "Rivian hiring Early Career",
+      "role": "Cloud Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/early-career-cloud-engineer-cloud-operations-at-rivian-4408928817",
+      "source": "LinkedIn",
+      "description": "Platform Engineer (Linux/Kubernetes/AWS). SCIENTIFIC GAMES. Alpharetta ... Software Engineer II - Platform Reliability Engineering (Remote). The ...",
+      "date": "2026-09-19",
+      "timestamp": "2026-09-19T20:05:17+00:00",
+      "fetched_at": "2026-09-20T01:46:24.268720+00:00"
+    },
+    {
+      "id": "92a1386019c1",
+      "title": "SOFTWARE ENGINEER - beaconfireinc.com",
+      "company": "beaconfireinc.com",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.beaconfireinc.com/lets-grow-together/software-engineer/",
+      "source": "Other",
+      "description": "BeaconFire Corporation is currently looking for a Software Engineer to join us. JOB REQUIREMENTS: Build, test, and deploy new features ...",
+      "date": "2026-09-19",
+      "timestamp": "2026-09-19T19:37:02+00:00",
+      "fetched_at": "2026-09-20T01:46:24.268870+00:00"
+    },
     {
       "id": "9390d239f266",
       "title": "Sr. Software Engineer \u2013 API & Developer Platform - U.S. Bank careers",
@@ -49,6 +199,36 @@
       "date": "2026-09-19",
       "timestamp": "2026-09-19T18:06:32+00:00",
       "fetched_at": "2026-09-19T21:48:22.487283+00:00"
+    },
+    {
+      "id": "5b21de24aebe",
+      "title": "Software Engineer , Data Acquisition @ Nascent - Jobs",
+      "company": "Nascent",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.ashbyhq.com/nascent/08f07bcf-1646-4c87-830d-6d2f1f4cd615",
+      "source": "Ashby",
+      "description": "Software Engineer , Data Acquisition. Location. Remote - Canada; Montreal, QC; Onsite - Montreal, QC; Remote - United States. Employment Type. Full ...",
+      "date": "2026-09-19",
+      "timestamp": "2026-09-19T17:26:40+00:00",
+      "fetched_at": "2026-09-20T01:46:24.269543+00:00"
+    },
+    {
+      "id": "a6efe15ce840",
+      "title": "Software Engineer - Wolverine Trading | Built In Chicago",
+      "company": "Wolverine Trading | Built In Chicago",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.builtinchicago.org/job/software-engineer/11267768",
+      "source": "Other",
+      "description": "Wolverine Trading is hiring for a Software Engineer in Chicago, IL, USA. Find more details about the job and how to apply at Built In Chicago.",
+      "date": "2026-09-19",
+      "timestamp": "2026-09-19T17:17:54+00:00",
+      "fetched_at": "2026-09-20T01:46:24.269694+00:00"
     },
     {
       "id": "30bf19502704",
@@ -79,6 +259,36 @@
       "date": "2026-09-19",
       "timestamp": "2026-09-19T14:37:58+00:00",
       "fetched_at": "2026-09-19T18:14:05.296928+00:00"
+    },
+    {
+      "id": "649e49aa6b6f",
+      "title": "Sr. Data Engineer , Amazon Digital Advertising - Job ID: 10547075",
+      "company": "Job ID: 10547075",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://amazon.jobs/en/jobs/10547075/sr-data-engineer-amazon-digital-advertising",
+      "source": "Other",
+      "description": "That's where you come in. As a Data Engineer on this team, you'll own the ingestion pipelines and the normalized dataset that everything else depends ...",
+      "date": "2026-09-19",
+      "timestamp": "2026-09-19T14:16:19+00:00",
+      "fetched_at": "2026-09-20T01:46:24.638896+00:00"
+    },
+    {
+      "id": "2ac45cd9d6b4",
+      "title": "Job Application for Software Engineer at SpaceX - Greenhouse",
+      "company": "Spacex",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/spacex/jobs/8822280002",
+      "source": "Greenhouse",
+      "description": "We are looking for a software engineer to join our Test Software team at Starbase. This team designs, develops, tests, and maintains software used for ...",
+      "date": "2026-09-19",
+      "timestamp": "2026-09-19T13:23:20+00:00",
+      "fetched_at": "2026-09-20T01:46:24.638984+00:00"
     },
     {
       "id": "69f98c1b22e7",
