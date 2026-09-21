@@ -1,26 +1,26 @@
 {
-  "last_updated": "2026-09-21T17:13:43.344115+00:00",
-  "total_jobs": 10062,
+  "last_updated": "2026-09-21T22:51:37.502892+00:00",
+  "total_jobs": 10082,
   "stats": {
-    "total_companies": 4619,
-    "total_roles": 130,
+    "total_companies": 4624,
+    "total_roles": 131,
     "regions": {
-      "India": 6598,
-      "Philippines": 2155,
-      "Remote": 1219,
+      "India": 6610,
+      "Philippines": 2159,
+      "Remote": 1223,
       "Unknown": 135
     },
     "sources": {
-      "Other": 7872,
-      "Greenhouse": 502,
-      "LinkedIn": 436,
+      "Other": 7886,
+      "Greenhouse": 503,
+      "LinkedIn": 438,
       "Workday": 428,
       "Ashby": 309,
-      "iCIMS": 131,
+      "iCIMS": 132,
       "Breezy": 105,
       "Lever": 69,
+      "SmartRecruiters": 67,
       "Workable": 67,
-      "SmartRecruiters": 65,
       "Indeed": 36,
       "BrassRing": 11,
       "Recruitee": 10,
@@ -35,6 +35,306 @@
     }
   },
   "jobs": [
+    {
+      "id": "dcc63ced9426",
+      "title": "Senior Software Engineer - paycomonline.net",
+      "company": "paycomonline.net",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.paycomonline.net/v4/ats/web.php/portal/3C6419E2DC8D91081A6AD67E311A7994/jobs/456036",
+      "source": "Other",
+      "description": "The Senior Software Engineer will focus on improving employee and customer engagement in the senior care industry. This role combines technical ...",
+      "date": "2026-09-21",
+      "timestamp": "2026-09-21T21:36:32+00:00",
+      "fetched_at": "2026-09-21T22:51:37.460621+00:00"
+    },
+    {
+      "id": "ac2a2e7b8c89",
+      "title": "Senior Software Engineer in Remote | Careers at Remote US - HealthEdge",
+      "company": "Remote US",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers-healthedge.icims.com/jobs/8559/senior-software-engineer/job",
+      "source": "iCIMS",
+      "description": "Remote US is now hiring a Senior Software Engineer in Remote. Review all of the job details and apply today!",
+      "date": "2026-09-21",
+      "timestamp": "2026-09-21T20:48:42+00:00",
+      "fetched_at": "2026-09-21T22:51:37.144393+00:00"
+    },
+    {
+      "id": "5417fcd54e6b",
+      "title": "Sr. Data Engineer with strong SQL and Databricks experience - TekShapers - Hybrid in Irving, TX, US",
+      "company": "TekShapers - Hybrid in Irving, TX, US",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.dice.com/job-detail/30f32ef4-a6f3-4b21-aa76-9d2e6bb853f2",
+      "source": "Other",
+      "description": "Sr. Data Engineer with strong SQL and Databricks experience. Hybrid ... Senior Data Platform Engineer . Dallas, Texas. \u2022. 19d ago. Location: Dallas ...",
+      "date": "2026-09-21",
+      "timestamp": "2026-09-21T20:33:05+00:00",
+      "fetched_at": "2026-09-21T22:51:37.461011+00:00"
+    },
+    {
+      "id": "efa5202353e9",
+      "title": "Senior Software Engineer - 1668 S. Garfield Ave. 2nd Floor, Alhambra, CA 91801 - Astrana Health",
+      "company": "1668 S. Garfield Ave. 2nd Floor, Alhambra, CA 91801 - Astrana Health",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.astranahealth.com/postings/22ddf6b9-1f8b-4532-9fca-ecf0e6b1b5ed",
+      "source": "Other",
+      "description": "Join Astrana Health, Inc. in Software Engineering, 1668 S. Garfield Ave. 2nd Floor, Alhambra, CA 91801 as a Senior Software Engineer .",
+      "date": "2026-09-21",
+      "timestamp": "2026-09-21T20:32:54+00:00",
+      "fetched_at": "2026-09-21T22:51:37.144983+00:00"
+    },
+    {
+      "id": "b0c9d00243b1",
+      "title": "Job Application for Senior Data Engineer at Healthie - Greenhouse",
+      "company": "Healthie",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/healthie/jobs/4412029009",
+      "source": "Greenhouse",
+      "description": "Senior Data Engineer . Remote. Apply. Our Mission. Healthie is an AI-Native, ONC Certified EHR for modern outpatient healthcare. Healthie is proud to ...",
+      "date": "2026-09-21",
+      "timestamp": "2026-09-21T20:04:02+00:00",
+      "fetched_at": "2026-09-21T22:51:37.145110+00:00"
+    },
+    {
+      "id": "8703074946c7",
+      "title": "Full-stack Engineer 5 - McLean - Capital One Careers",
+      "company": "Full",
+      "role": "stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.capitalonecareers.com/job/mclean/full-stack-engineer-5/1732/100950228752",
+      "source": "Other",
+      "description": "Full-stack Engineer 5. McLean, Virginia | Richmond, Virginia | New ... Software Engineer , Strategy, Students and Grads Early Internship Programs ...",
+      "date": "2026-09-21",
+      "timestamp": "2026-09-21T19:32:48+00:00",
+      "fetched_at": "2026-09-21T22:51:37.145615+00:00"
+    },
+    {
+      "id": "2226d723579f",
+      "title": "Software Engineer - Omniverse Simulation at Mayo Clinic",
+      "company": "Mayo Clinic",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.mayoclinic.org/job/rochester/software-engineer-omniverse-simulation/33647/100951617456",
+      "source": "Other",
+      "description": "Software Engineer - Omniverse Simulation. Job ID 391820 Date posted 09/21/2026 Job Expiration Date 10/12/2026. Rochester, MN; Full Time; Remote: No.",
+      "date": "2026-09-21",
+      "timestamp": "2026-09-21T19:28:52+00:00",
+      "fetched_at": "2026-09-21T22:51:37.145813+00:00"
+    },
+    {
+      "id": "95813b445b47",
+      "title": "Software Engineer at Ford Motor Company - Ford Careers",
+      "company": "Ford Motor Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.careers.ford.com/job/united-states/software-engineer/48560/100950158816",
+      "source": "Other",
+      "description": "As a software engineer on our global team, you'll work with Google Cloud Platform, modern IDEs, and GenAI tools to write code \u2014 using a tech stack ...",
+      "date": "2026-09-21",
+      "timestamp": "2026-09-21T19:15:10+00:00",
+      "fetched_at": "2026-09-21T22:51:37.145975+00:00"
+    },
+    {
+      "id": "d25a48504171",
+      "title": "Systems Software Engineer , Intelligence Orchestration, Proactive Intelligence - Jobs",
+      "company": "Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200670440-0836/systems-software-engineer-intelligence-orchestration-proactive-intelligence?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Systems Software Engineer , Intelligence Orchestration, Proactive Intelligence job at Apple. Read about the role and find out if it's ...",
+      "date": "2026-09-21",
+      "timestamp": "2026-09-21T19:12:46+00:00",
+      "fetched_at": "2026-09-21T22:51:37.146387+00:00"
+    },
+    {
+      "id": "479c27209600",
+      "title": "Software Engineer in Multiple Locations - State Farm Careers",
+      "company": "State Farm Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.statefarm.com/main/jobs/46099?lang=en-us",
+      "source": "Other",
+      "description": "As a Software Engineer you will: Work closely with product team and customers to develop applications for managing business content used for modeling ...",
+      "date": "2026-09-21",
+      "timestamp": "2026-09-21T19:09:43+00:00",
+      "fetched_at": "2026-09-21T22:51:37.146532+00:00"
+    },
+    {
+      "id": "a9541847396a",
+      "title": "Being a software engineer often means demoing your work. Every sprint ends the same way ...",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/sajjaad-khader_being-a-software-engineer-often-means-demoing-activity-7507823786944102400-w9Y6",
+      "source": "LinkedIn",
+      "description": "How did you finish already? It's easy. I got my buddy Confluence slides. Con what now? Confluent slides? So I'm a software engineer building a money ...",
+      "date": "2026-09-21",
+      "timestamp": "2026-09-21T18:57:11+00:00",
+      "fetched_at": "2026-09-21T22:51:37.146885+00:00"
+    },
+    {
+      "id": "bf4bb1919451",
+      "title": "Senior Cloud Data Engineer / Modern Data Stack Focus | Lititz, PA | Clark Associates",
+      "company": "Lititz, PA | Clark Associates",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.clarkassociatesinc.biz/careerdetail/?id=103498",
+      "source": "Other",
+      "description": "As a Senior Cloud Data Engineer , you will architect and own the next generation of our modern data ingestion and integration ecosystem. You will lead ...",
+      "date": "2026-09-21",
+      "timestamp": "2026-09-21T18:37:41+00:00",
+      "fetched_at": "2026-09-21T22:51:37.462587+00:00"
+    },
+    {
+      "id": "77dab457bbbe",
+      "title": "Gergely Orosz on X: \"Heard a software engineer say: \"my cofounder is Claude\" about a ...",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://x.com/GergelyOrosz/status/2102093253591937511",
+      "source": "Other",
+      "description": "Heard a software engineer say: \"my cofounder is Claude\" about a project they built + shipped. I am baffled by people humanizing AI, ...",
+      "date": "2026-09-21",
+      "timestamp": "2026-09-21T18:23:11+00:00",
+      "fetched_at": "2026-09-21T22:51:37.147027+00:00"
+    },
+    {
+      "id": "24d61328c72d",
+      "title": "AI Engineer - Nashville, Tennessee, United States - WTW career",
+      "company": "Nashville, Tennessee, United States - WTW career",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.wtwco.com/jobs/ai-engineer-nashville-tennessee-united-states",
+      "source": "Other",
+      "description": "Description The Role We are seeking a skilled AI-enabled Software Engineer ... AI Engineer . Nashville, Tennessee, United States. AI Engineer .",
+      "date": "2026-09-21",
+      "timestamp": "2026-09-21T18:21:38+00:00",
+      "fetched_at": "2026-09-21T22:51:37.147216+00:00"
+    },
+    {
+      "id": "65bb1fc584d9",
+      "title": "Sportradar Senior Software Engineer | SmartRecruiters",
+      "company": "Sportradar",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.smartrecruiters.com/Sportradar/744000150643119",
+      "source": "SmartRecruiters",
+      "description": "Senior Software Engineer (.NET) Competition Management & Digital Engagement (CMDE) | Sportradar Company Description We're the world's leading ...",
+      "date": "2026-09-21",
+      "timestamp": "2026-09-21T18:07:04+00:00",
+      "fetched_at": "2026-09-21T22:51:37.147449+00:00"
+    },
+    {
+      "id": "0eb133a1c02d",
+      "title": "Sportradar Senior Software Engineer - SmartRecruiters Job Search",
+      "company": "Sportradar",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.smartrecruiters.com/Sportradar/744000150643119",
+      "source": "SmartRecruiters",
+      "description": "Senior Software Engineer (.NET) Competition Management & Digital Engagement (CMDE) | Sportradar Company Description We're the world's leading ...",
+      "date": "2026-09-21",
+      "timestamp": "2026-09-21T18:07:04+00:00",
+      "fetched_at": "2026-09-21T22:51:37.463161+00:00"
+    },
+    {
+      "id": "7676260fe4d5",
+      "title": "Software Engineer in San Diego, California (No Remote) - Leidos Careers",
+      "company": "Leidos Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.leidos.com/jobs/18264127-software-engineer",
+      "source": "Other",
+      "description": "Leidos Defense is seeking a Senior Software Engineer to join our team in our San Diego facility, supporting the U.S. Navy's AN/SQQ-89(V) Anti- ...",
+      "date": "2026-09-21",
+      "timestamp": "2026-09-21T17:44:55+00:00",
+      "fetched_at": "2026-09-21T22:51:37.463299+00:00"
+    },
+    {
+      "id": "46238528a256",
+      "title": "Software Engineer - Data Analytics and Reporting - Job Detail - Siemens Jobs",
+      "company": "Data Analytics and Reporting - Job Detail - Siemens Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/522935",
+      "source": "Other",
+      "description": "Does that sound like you? Then it seems like you'd make a great addition to our vibrant team. We are looking for a Senior Software Engineer \u2013 Data ...",
+      "date": "2026-09-21",
+      "timestamp": "2026-09-21T17:20:18+00:00",
+      "fetched_at": "2026-09-21T22:51:37.147911+00:00"
+    },
+    {
+      "id": "d75369ca78f5",
+      "title": "Maarten Grootendorst's Post - LinkedIn",
+      "company": "Unknown Company",
+      "role": "Maarten Grootendorst's Post - LinkedIn",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/mgrootendorst_im-joining-ai-engineer-paris-to-talk-about-activity-7507804670908706816--kaN",
+      "source": "LinkedIn",
+      "description": "I'm joining AI Engineer Paris to talk about the Efficiency of Gemma 4! When we talk about the performance of models, it's not just about their ...",
+      "date": "2026-09-21",
+      "timestamp": "2026-09-21T17:19:45+00:00",
+      "fetched_at": "2026-09-21T22:51:37.148239+00:00"
+    },
+    {
+      "id": "f4e9cb85c17b",
+      "title": "AI Engineer | Careers - Dassault Syst\u00e8mes",
+      "company": "Careers - Dassault Syst\u00e8mes",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.3ds.com/careers/jobs/ai-engineer-549968",
+      "source": "Other",
+      "description": "AI Engineer . United States, MA ... We are seeking a Software Engineer specializing in Generative AI and Agentic AI to join our R&D organization.",
+      "date": "2026-09-21",
+      "timestamp": "2026-09-21T17:17:19+00:00",
+      "fetched_at": "2026-09-21T22:51:37.148386+00:00"
+    },
     {
       "id": "c6639898ff03",
       "title": "Sr Principal Software Engineer / (Maximo Functional Lead) - 90260895 - Philadelphia",
