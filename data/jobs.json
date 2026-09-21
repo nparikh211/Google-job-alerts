@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-09-20T21:56:14.193405+00:00",
-  "total_jobs": 10001,
+  "last_updated": "2026-09-21T01:47:21.327793+00:00",
+  "total_jobs": 10017,
   "stats": {
-    "total_companies": 4596,
+    "total_companies": 4604,
     "total_roles": 130,
     "regions": {
-      "India": 6557,
-      "Philippines": 2141,
-      "Remote": 1211,
+      "India": 6568,
+      "Philippines": 2145,
+      "Remote": 1212,
       "Unknown": 135
     },
     "sources": {
-      "Other": 7826,
+      "Other": 7839,
       "Greenhouse": 498,
-      "LinkedIn": 432,
+      "LinkedIn": 434,
       "Workday": 427,
       "Ashby": 307,
       "iCIMS": 131,
@@ -21,7 +21,7 @@
       "Lever": 68,
       "Workable": 67,
       "SmartRecruiters": 64,
-      "Indeed": 34,
+      "Indeed": 35,
       "BrassRing": 11,
       "Recruitee": 10,
       "Jobvite": 8,
@@ -31,10 +31,85 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-09-20"
+      "latest": "2026-09-21"
     }
   },
   "jobs": [
+    {
+      "id": "7d52a06230bf",
+      "title": "Assoc Director- Platform & Data Engineer | Novartis Indonesia",
+      "company": "Assoc Director",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.novartis.com/id-en/careers/career-search/job/details/req-10087538-assoc-director-platform-data-engineer",
+      "source": "Other",
+      "description": "Assoc Director- Platform & Data Engineer \u00b7 REQ-10087538 \u00b7 Sep 19, 2026 \u00b7 India ...",
+      "date": "2026-09-21",
+      "timestamp": "2026-09-21T00:49:42+00:00",
+      "fetched_at": "2026-09-21T01:47:21.280290+00:00"
+    },
+    {
+      "id": "ab45cad9a6b4",
+      "title": "Now Hiring: 200 Machine Learning Engineer Jobs in Homestead, PA - Indeed",
+      "company": "Indeed",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.indeed.com/q-machine-learning-engineer-l-homestead,-pa-jobs.html",
+      "source": "Indeed",
+      "description": "Apply to Data Scientist, Machine Learning Engineer , Data Engineer and more ... Senior Software Engineer . Easily apply. Joy Global Underground.",
+      "date": "2026-09-20",
+      "timestamp": "2026-09-20T21:48:02+00:00",
+      "fetched_at": "2026-09-21T01:47:20.881699+00:00"
+    },
+    {
+      "id": "4dcbc7008f50",
+      "title": "Senior Site Reliability Engineer at Canonical - Remote",
+      "company": "Canonical",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://remote.com/jobs/canonical-c11tjiq0/senior-site-reliability-engineer-j1t9t96s",
+      "source": "Other",
+      "description": "Canonical is hiring a Senior Site Reliability Engineer . Apply now on remote ... To become a member of this team, you need to be a software engineer ...",
+      "date": "2026-09-20",
+      "timestamp": "2026-09-20T20:43:10+00:00",
+      "fetched_at": "2026-09-21T01:47:20.881913+00:00"
+    },
+    {
+      "id": "75938c34315a",
+      "title": "Senior Staff Software Engineer at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/hyderabad/senior-staff-software-engineer/47263/100905884384",
+      "source": "Other",
+      "description": "We are looking for a passionate Senior Software Engineer to join our ... Staff DevOps Engineer (Cortex) Bengaluru, India save job; Senior ...",
+      "date": "2026-09-20",
+      "timestamp": "2026-09-20T20:13:10+00:00",
+      "fetched_at": "2026-09-21T01:47:20.882080+00:00"
+    },
+    {
+      "id": "678dcbea6378",
+      "title": "Staff DevOps Engineer (Cortex) at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/bengaluru/staff-devops-engineer-cortex/47263/100905892704",
+      "source": "Other",
+      "description": "Staff DevOps Engineer (Cortex). Bangalore, Karn\u0101taka, India Product Engineering Ref ID: JR-022758. Apply Save Job. Current Employees, apply here. Our ...",
+      "date": "2026-09-20",
+      "timestamp": "2026-09-20T20:13:10+00:00",
+      "fetched_at": "2026-09-21T01:47:20.882276+00:00"
+    },
     {
       "id": "2120b1dbb67f",
       "title": "Senior Fullstack Engineer - Mexico - Sokin",
@@ -66,6 +141,66 @@
       "fetched_at": "2026-09-20T21:56:14.151895+00:00"
     },
     {
+      "id": "dbee51c6b3cc",
+      "title": "Machine Learning Engineer , LLM Post-Training job with NewsBreak | 42006465",
+      "company": "Training job with NewsBreak | 42006465",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.physicstoday.org/job/42006465/machine-learning-engineer-llm-post-training/",
+      "source": "Other",
+      "description": "Machine Learning Engineer , LLM Post-Training in Bachelor, Experienced Career, Engineer, Computational & Data Science with NewsBreak. Apply Today.",
+      "date": "2026-09-20",
+      "timestamp": "2026-09-20T19:52:39+00:00",
+      "fetched_at": "2026-09-21T01:47:21.281492+00:00"
+    },
+    {
+      "id": "d5b8edeedba6",
+      "title": "What is the correct path to become an ML Engineer ? : r/learnmachinelearning - Reddit",
+      "company": "is the correct path to become an ML Engineer ? : r/learnmachinelearning",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/learnmachinelearning/comments/1wlpoeu/what_is_the_correct_path_to_become_an_ml_engineer/",
+      "source": "Other",
+      "description": "AI engineer and ML engineer : should I do both? 26 upvotes \u00b7 12 comments ... Machine Learning Engineer Career Advice. 7 upvotes \u00b7 8 comments ...",
+      "date": "2026-09-20",
+      "timestamp": "2026-09-20T19:39:17+00:00",
+      "fetched_at": "2026-09-21T01:47:20.882883+00:00"
+    },
+    {
+      "id": "cd83c955bc5f",
+      "title": "Internship, Software Engineer Opticaster, Energy Engineering (Winter/Spring 2027) - Tesla",
+      "company": "Tesla",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.tesla.com/careers/search/job/internship-software-engineer-opticaster-energy-engineering-winter-spring-2027-283950",
+      "source": "Other",
+      "description": "Apply for the Internship, Software Engineer Opticaster, Energy Engineering (Winter/Spring 2027) position in Palo Alto, California.",
+      "date": "2026-09-20",
+      "timestamp": "2026-09-20T19:23:57+00:00",
+      "fetched_at": "2026-09-21T01:47:20.883180+00:00"
+    },
+    {
+      "id": "c5bec169fa6b",
+      "title": "AI Engineer Paris on X",
+      "company": "Unknown Company",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://x.com/aiDotEngineer/status/2101738020630298971",
+      "source": "Other",
+      "description": "We're excited to announce our AI Engineer New York speaker lineup! Presented by @arizeai CEO @ExaAILabs CTO @tryramp CEO @ValsAI CEO @RogoAI CTO ...",
+      "date": "2026-09-20",
+      "timestamp": "2026-09-20T18:38:31+00:00",
+      "fetched_at": "2026-09-21T01:47:21.282098+00:00"
+    },
+    {
       "id": "c3faa9ebac32",
       "title": "Software Engineer \u2013 AI Adoption (all levels) (m/f/d) - Gigafactory Berlin-Brandenburg - Tesla",
       "company": "Gigafactory Berlin-Brandenburg - Tesla",
@@ -79,6 +214,51 @@
       "date": "2026-09-20",
       "timestamp": "2026-09-20T17:41:02+00:00",
       "fetched_at": "2026-09-20T21:56:13.979403+00:00"
+    },
+    {
+      "id": "753fe27e16f7",
+      "title": "Site Reliability Engineer II | O'Fallon, MO, USA - eFinancialCareers",
+      "company": "O'Fallon, MO, USA - eFinancialCareers",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.efinancialcareers.com/jobs-United_States-OFallon-Site_Reliability_Engineer_II.id24804183",
+      "source": "Other",
+      "description": "See job details and apply here for this site reliability engineer ii job in O'Fallon, MO, USA with Mastercard on eFinancialCareers US.",
+      "date": "2026-09-20",
+      "timestamp": "2026-09-20T17:25:42+00:00",
+      "fetched_at": "2026-09-21T01:47:21.282693+00:00"
+    },
+    {
+      "id": "29e6c36b6bbf",
+      "title": "Lead AI Applied ML Engineer - Alumni Career Site Careers - JPMorgan Chase",
+      "company": "Alumni Career Site Careers - JPMorgan Chase",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/210782484",
+      "source": "Other",
+      "description": "Lead AI Applied ML Engineer . Jersey City, NJ, United States. and 1 more. Apply Now. Job Information. Job Identification 210782484; Job Category ...",
+      "date": "2026-09-20",
+      "timestamp": "2026-09-20T17:22:40+00:00",
+      "fetched_at": "2026-09-21T01:47:20.883878+00:00"
+    },
+    {
+      "id": "4d12f9160e69",
+      "title": "Senior Staff Software Engineer -Full-Stack at Capital One - CA",
+      "company": "Capital One",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.capitalonecareers.ca/job/toronto/senior-staff-software-engineer-full-stack/1733/96662443936",
+      "source": "Other",
+      "description": "161 Bay Street (93021), Canada, Toronto,Toronto, Ontario,Senior Staff Software Engineer -Full-Stack. About Capital One Canada.",
+      "date": "2026-09-20",
+      "timestamp": "2026-09-20T16:51:37+00:00",
+      "fetched_at": "2026-09-21T01:47:20.884046+00:00"
     },
     {
       "id": "ded281872d88",
@@ -109,6 +289,66 @@
       "date": "2026-09-20",
       "timestamp": "2026-09-20T16:23:53+00:00",
       "fetched_at": "2026-09-20T18:19:31.919729+00:00"
+    },
+    {
+      "id": "c5af458e8897",
+      "title": "Haystack hiring Senior Software Engineer in San Francisco Bay Area | LinkedIn",
+      "company": "LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/senior-software-engineer-at-haystack-4468479072",
+      "source": "LinkedIn",
+      "description": "Senior Software Engineer Technical Lead jobs \u00b7 Senior Software Engineer ... Full Stack Engineer jobs \u00b7 Senior Dotnet Developer jobs \u00b7 Senior ...",
+      "date": "2026-09-20",
+      "timestamp": "2026-09-20T16:20:54+00:00",
+      "fetched_at": "2026-09-21T01:47:20.884781+00:00"
+    },
+    {
+      "id": "29300b1f8453",
+      "title": "Full Stack Engineer at Entangl | Y Combinator",
+      "company": "Entangl",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.ycombinator.com/companies/entangl/jobs/nu9J4uA-full-stack-engineer",
+      "source": "Other",
+      "description": "... Full Stack Engineer , you'll take products from first idea to ... Senior Software Engineer ; Analytics Compute Platform team.",
+      "date": "2026-09-20",
+      "timestamp": "2026-09-20T16:19:55+00:00",
+      "fetched_at": "2026-09-21T01:47:21.283525+00:00"
+    },
+    {
+      "id": "a31ac56a5ca0",
+      "title": "Issue #405 - The ML Engineer - LinkedIn",
+      "company": "Issue #405",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/pulse/issue-405-ml-engineer-alejandro-saucedo-clq4f",
+      "source": "LinkedIn",
+      "description": "AI Engineer World's Fair 2027 - June @ San Francisco; WeAreDevelopers ... The Machine Learning Engineer . 54,612 ...",
+      "date": "2026-09-20",
+      "timestamp": "2026-09-20T16:02:08+00:00",
+      "fetched_at": "2026-09-21T01:47:20.884940+00:00"
+    },
+    {
+      "id": "d2b4da8db8a0",
+      "title": "Software Engineer (26-420) - Jobs | Northrop Grumman",
+      "company": "420) - Jobs | Northrop Grumman",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://northropgrumman.jobs/huntsville-al/software-engineer-26-420/9747AEC0EE8C46DE9ED2AB69A7690627/job/",
+      "source": "Other",
+      "description": "Software Engineer (26-420). Huntsville, AL. Apply Now. RELOCATION ASSISTANCE: No relocation assistance available. CLEARANCE REQUIRED FOR START: Yes.",
+      "date": "2026-09-20",
+      "timestamp": "2026-09-20T15:14:54+00:00",
+      "fetched_at": "2026-09-21T01:47:20.885132+00:00"
     },
     {
       "id": "65ea51145626",
