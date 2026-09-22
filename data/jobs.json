@@ -1,29 +1,29 @@
 {
-  "last_updated": "2026-09-21T22:51:37.502892+00:00",
-  "total_jobs": 10082,
+  "last_updated": "2026-09-22T01:57:43.736783+00:00",
+  "total_jobs": 10091,
   "stats": {
-    "total_companies": 4624,
+    "total_companies": 4627,
     "total_roles": 131,
     "regions": {
-      "India": 6610,
-      "Philippines": 2159,
-      "Remote": 1223,
+      "India": 6616,
+      "Philippines": 2160,
+      "Remote": 1225,
       "Unknown": 135
     },
     "sources": {
-      "Other": 7886,
-      "Greenhouse": 503,
+      "Other": 7891,
+      "Greenhouse": 505,
       "LinkedIn": 438,
       "Workday": 428,
       "Ashby": 309,
       "iCIMS": 132,
       "Breezy": 105,
-      "Lever": 69,
+      "Lever": 70,
       "SmartRecruiters": 67,
       "Workable": 67,
       "Indeed": 36,
+      "Recruitee": 11,
       "BrassRing": 11,
-      "Recruitee": 10,
       "Jobvite": 8,
       "Taleo": 7,
       "WeWorkRemotely": 4,
@@ -35,6 +35,66 @@
     }
   },
   "jobs": [
+    {
+      "id": "c61396d04d57",
+      "title": "Job Application for AI Engineer at Brunswick Group - Greenhouse",
+      "company": "Brunswickgroup",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/brunswickgroup/jobs/8821383002",
+      "source": "Greenhouse",
+      "description": "AI Engineer . Dallas, Texas, United States. Apply. AI Engineer . Opportunity. Brunswick is on an exciting journey to harness the power of artificial ...",
+      "date": "2026-09-21",
+      "timestamp": "2026-09-21T23:45:44+00:00",
+      "fetched_at": "2026-09-22T01:57:43.448839+00:00"
+    },
+    {
+      "id": "f780ba7472b5",
+      "title": "Software Engineer - Generative UI, Input Experience - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200684878-0836/software-engineer-generative-ui-input-experience",
+      "source": "Other",
+      "description": "Apply for a Software Engineer - Generative UI, Input Experience job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-09-21",
+      "timestamp": "2026-09-21T23:13:30+00:00",
+      "fetched_at": "2026-09-22T01:57:43.449588+00:00"
+    },
+    {
+      "id": "118508ce1dd1",
+      "title": "Sr. Software Engineer - Prenosis Inc.",
+      "company": "Prenosis",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://prenosis.recruitee.com/o/sr-software-engineer-1",
+      "source": "Recruitee",
+      "description": "Homepage. Prenosis Inc. logo Prenosis Inc.Homepage. Sr. Software Engineer . Remote. Chicago, Illinois, United States. Technology. Job details. Apply ...",
+      "date": "2026-09-21",
+      "timestamp": "2026-09-21T22:13:19+00:00",
+      "fetched_at": "2026-09-22T01:57:43.694781+00:00"
+    },
+    {
+      "id": "c9398b8966d4",
+      "title": "Senior Software Engineer - Morningstar | Built In Chicago",
+      "company": "Morningstar | Built In Chicago",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.builtinchicago.org/job/senior-software-engineer/11289629",
+      "source": "Other",
+      "description": "Morningstar is hiring for a Senior Software Engineer in Chicago, IL, USA. Find more details about the job and how to apply at Built In Chicago.",
+      "date": "2026-09-21",
+      "timestamp": "2026-09-21T21:38:20+00:00",
+      "fetched_at": "2026-09-22T01:57:43.450044+00:00"
+    },
     {
       "id": "dcc63ced9426",
       "title": "Senior Software Engineer - paycomonline.net",
@@ -51,6 +111,21 @@
       "fetched_at": "2026-09-21T22:51:37.460621+00:00"
     },
     {
+      "id": "b35f9478121e",
+      "title": "Full-Stack Engineer (Backend) - Lendbuzz - Lever",
+      "company": "Lendbuzz",
+      "role": "Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.lever.co/lendbuzz/a19330a3-380a-45ad-b388-c98c33ef0db3",
+      "source": "Lever",
+      "description": "Full-Stack Engineer (Backend). Boston, MA. Engineering \u2013 Software ... We're looking for a backend-focused full-stack Software Engineer to ...",
+      "date": "2026-09-21",
+      "timestamp": "2026-09-21T21:24:18+00:00",
+      "fetched_at": "2026-09-22T01:57:43.450529+00:00"
+    },
+    {
       "id": "ac2a2e7b8c89",
       "title": "Senior Software Engineer in Remote | Careers at Remote US - HealthEdge",
       "company": "Remote US",
@@ -64,6 +139,21 @@
       "date": "2026-09-21",
       "timestamp": "2026-09-21T20:48:42+00:00",
       "fetched_at": "2026-09-21T22:51:37.144393+00:00"
+    },
+    {
+      "id": "558d1a505811",
+      "title": "Job Application for Data Platform Engineer at Figma - Greenhouse",
+      "company": "Figma",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/figma/jobs/6201407004?gh_jid=6201407004",
+      "source": "Greenhouse",
+      "description": "Data Platform Engineer . San Francisco, CA \u2022 New York, NY \u2022 United States. Apply. Figma is growing our team of passionate creatives and builders on a ...",
+      "date": "2026-09-21",
+      "timestamp": "2026-09-21T20:45:44+00:00",
+      "fetched_at": "2026-09-22T01:57:43.450900+00:00"
     },
     {
       "id": "5417fcd54e6b",
@@ -111,6 +201,21 @@
       "fetched_at": "2026-09-21T22:51:37.145110+00:00"
     },
     {
+      "id": "b01be506b301",
+      "title": "eSimplicity - Senior DevOps Engineer - Paylocity",
+      "company": "eSimplicity",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://recruiting.paylocity.com/recruiting/jobs/Details/4469749/eSimplicity/Senior-DevOps-Engineer",
+      "source": "Other",
+      "description": "8+ years of DevOps Engineer experience. Proven experience in a DevSecOps, DevOps, or Security Engineering role. Strong hands-on experience with ...",
+      "date": "2026-09-21",
+      "timestamp": "2026-09-21T19:43:18+00:00",
+      "fetched_at": "2026-09-22T01:57:43.451380+00:00"
+    },
+    {
       "id": "8703074946c7",
       "title": "Full-stack Engineer 5 - McLean - Capital One Careers",
       "company": "Full",
@@ -124,6 +229,36 @@
       "date": "2026-09-21",
       "timestamp": "2026-09-21T19:32:48+00:00",
       "fetched_at": "2026-09-21T22:51:37.145615+00:00"
+    },
+    {
+      "id": "3e93cdd48a30",
+      "title": "Staff Full-stack Engineer at Capital One",
+      "company": "Capital One",
+      "role": "stack Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.capitalonecareers.com/job/remote/staff-full-stack-engineer/1732/100950788336",
+      "source": "Other",
+      "description": "Staff Full-stack Engineer . Remote, USA | McLean, Virginia Save Job ... Staff Software Engineer , Full Stack - Finance Tech \u00b7 96359807296. Director ...",
+      "date": "2026-09-21",
+      "timestamp": "2026-09-21T19:30:49+00:00",
+      "fetched_at": "2026-09-22T01:57:43.451667+00:00"
+    },
+    {
+      "id": "1831a09a81ed",
+      "title": "Machine Learning Engineer 5 - McLean - Capital One Careers",
+      "company": "McLean - Capital One Careers",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.capitalonecareers.com/job/mclean/machine-learning-engineer-5/1732/100950230848",
+      "source": "Other",
+      "description": "Machine Learning Engineer 5 (Senior Manager, IC). McLean, Virginia \u00b7 100950227744. AI Engineer 5 ((AI Foundations, LLM Core and Agentic AI). New York ...",
+      "date": "2026-09-21",
+      "timestamp": "2026-09-21T19:30:49+00:00",
+      "fetched_at": "2026-09-22T01:57:43.696603+00:00"
     },
     {
       "id": "2226d723579f",
