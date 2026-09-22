@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-09-22T08:49:56.114106+00:00",
-  "total_jobs": 10103,
+  "last_updated": "2026-09-22T15:46:47.360826+00:00",
+  "total_jobs": 10114,
   "stats": {
-    "total_companies": 4634,
+    "total_companies": 4639,
     "total_roles": 131,
     "regions": {
-      "India": 6625,
-      "Philippines": 2161,
-      "Remote": 1227,
+      "India": 6626,
+      "Philippines": 2169,
+      "Remote": 1229,
       "Unknown": 135
     },
     "sources": {
-      "Other": 7901,
-      "Greenhouse": 506,
+      "Other": 7909,
+      "Greenhouse": 507,
       "LinkedIn": 439,
       "Workday": 428,
-      "Ashby": 309,
+      "Ashby": 310,
       "iCIMS": 132,
       "Breezy": 105,
-      "Lever": 70,
+      "Lever": 71,
       "SmartRecruiters": 67,
       "Workable": 67,
       "Indeed": 36,
@@ -35,6 +35,96 @@
     }
   },
   "jobs": [
+    {
+      "id": "1da929d211ea",
+      "title": "Tessera Labs - Software Engineer , Full Stack - Jobs",
+      "company": "Tessera Labs",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/tessera-labs/202be46b-0d9d-4277-b8b2-719c3321a352",
+      "source": "Ashby",
+      "description": "... Software Engineer to help build Tessera Mosaic, where AI agents work alongside people to transform how enterprises operate. You'll own meaningful ...",
+      "date": "2026-09-22",
+      "timestamp": "2026-09-22T11:37:48+00:00",
+      "fetched_at": "2026-09-22T15:46:47.319383+00:00"
+    },
+    {
+      "id": "57a29a328ef6",
+      "title": "Software Engineer , CHARLOTTE, North Carolina | Wells Fargo",
+      "company": "Wells Fargo",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.wellsfargojobs.com/en/jobs/r-576173/software-engineer/",
+      "source": "Other",
+      "description": "Related Jobs \u00b7 Senior Data Engineer \u00b7 Principal Engineer Fixed Income, Currencies & Commodities (FICC) \u00b7 Senior Software Engineer - Java, Springboot.",
+      "date": "2026-09-22",
+      "timestamp": "2026-09-22T10:53:13+00:00",
+      "fetched_at": "2026-09-22T15:46:47.319531+00:00"
+    },
+    {
+      "id": "5919967c27a5",
+      "title": "AI Engineer | Mortenson",
+      "company": "Mortenson",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.mortenson.com/careers/hq-business-support/ai-engineer-23866",
+      "source": "Other",
+      "description": "SUMMARY. Mortenson is currently seeking an AI Engineer that will play a key role in developing, testing, and deploying AI solutions that enhance ...",
+      "date": "2026-09-22",
+      "timestamp": "2026-09-22T10:41:10+00:00",
+      "fetched_at": "2026-09-22T15:46:47.319696+00:00"
+    },
+    {
+      "id": "5527a542eb38",
+      "title": "Staff Software Engineer , Hyderabad | ServiceNow Careers",
+      "company": "ServiceNow Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.servicenow.com/jobs/744000150658079/staff-software-engineer/",
+      "source": "Other",
+      "description": "Staff Software Engineer . Engineering, Infrastructure and Operations \u00b7 Hyderabad; Flexible; September 21, 2026; JB0075586.",
+      "date": "2026-09-22",
+      "timestamp": "2026-09-22T08:50:48+00:00",
+      "fetched_at": "2026-09-22T15:46:47.319855+00:00"
+    },
+    {
+      "id": "7b6c5e77fc8d",
+      "title": "Aledade PBC - Senior Software Engineer II (AI Enablement) - Lever",
+      "company": "Aledade",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.lever.co/aledade/63db4a0e-53a1-4dcc-b846-55ec47bd38b4",
+      "source": "Lever",
+      "description": "Senior Software Engineer II (AI Enablement). Remote, United States ... The AI Enablement Platform Engineer is the engineer accountable for the ...",
+      "date": "2026-09-22",
+      "timestamp": "2026-09-22T07:59:24+00:00",
+      "fetched_at": "2026-09-22T15:46:47.319953+00:00"
+    },
+    {
+      "id": "17353d3050a6",
+      "title": "Job ID:26034229 - Software Engineer III - Multiple Locations - Bank of America Careers",
+      "company": "Job ID:26034229",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.bankofamerica.com/en-us/job-detail/26034229/software-engineer-iii-multiple-locations",
+      "source": "Other",
+      "description": "Apply for the Software Engineer III position (Job ID: 26034229), with openings in multiple locations, at Bank of America.",
+      "date": "2026-09-22",
+      "timestamp": "2026-09-22T07:42:42+00:00",
+      "fetched_at": "2026-09-22T15:46:47.320125+00:00"
+    },
     {
       "id": "646101ad5f20",
       "title": "Data Engineer - vidaXL",
@@ -66,6 +156,21 @@
       "fetched_at": "2026-09-22T08:49:55.781902+00:00"
     },
     {
+      "id": "f6474d9e6ae3",
+      "title": "Systems Software Engineer , Platform Architecture - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200684973-0157/systems-software-engineer-platform-architecture",
+      "source": "Other",
+      "description": "Systems Software Engineer , Platform Architecture. Austin, Texas ... Apple's Platform Architecture group is seeking a ML engineer who will ...",
+      "date": "2026-09-22",
+      "timestamp": "2026-09-22T05:48:55+00:00",
+      "fetched_at": "2026-09-22T15:46:47.320425+00:00"
+    },
+    {
       "id": "4b5dcb401e4d",
       "title": "Associate Software Engineer at Cargill - Careers",
       "company": "Cargill",
@@ -81,6 +186,21 @@
       "fetched_at": "2026-09-22T08:49:55.782051+00:00"
     },
     {
+      "id": "1c5bee54f028",
+      "title": "Job Application for Software Engineer , Python at Northbeam - Greenhouse",
+      "company": "Northbeam",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/northbeam/jobs/4715159006",
+      "source": "Greenhouse",
+      "description": "Software Engineer , Python. Remote - USA. Apply. About Northbeam. Northbeam is building the world's most advanced marketing intelligence platform ...",
+      "date": "2026-09-22",
+      "timestamp": "2026-09-22T04:08:44+00:00",
+      "fetched_at": "2026-09-22T15:46:47.320681+00:00"
+    },
+    {
       "id": "9398beb03b5c",
       "title": "Backend Engineer | Catawiki Careers",
       "company": "Catawiki Careers",
@@ -94,6 +214,51 @@
       "date": "2026-09-22",
       "timestamp": "2026-09-22T03:05:43+00:00",
       "fetched_at": "2026-09-22T08:49:55.782367+00:00"
+    },
+    {
+      "id": "0dacc816eb2b",
+      "title": "Data Engineer in Chesterfield, Missouri, United States of America - RGA",
+      "company": "RGA",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.rgarecareers.com/us/en/job/J28835/Data-Engineer",
+      "source": "Other",
+      "description": "Apply for Data Engineer job with Reinsurance Group of America in Chesterfield, Missouri, United States of America. Technology at Reinsurance Group ...",
+      "date": "2026-09-22",
+      "timestamp": "2026-09-22T02:53:06+00:00",
+      "fetched_at": "2026-09-22T15:46:47.320979+00:00"
+    },
+    {
+      "id": "e8f985e5a14e",
+      "title": "Entry Level Software Engineer - Atlanta, GA - Cox Careers",
+      "company": "Atlanta, GA - Cox Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.coxenterprises.com/en/jobs/r202682766/entry-level-software-engineer-atlanta-ga/",
+      "source": "Other",
+      "description": "Entry Level Software Engineer - Atlanta, GA. 6305 Peachtree Dunwoody ... Senior Software Engineer . Save Saved. Atlanta GA; Hybrid work. Software ...",
+      "date": "2026-09-22",
+      "timestamp": "2026-09-22T02:34:44+00:00",
+      "fetched_at": "2026-09-22T15:46:47.321163+00:00"
+    },
+    {
+      "id": "20770e939c1a",
+      "title": "Software Engineer (Developer, OpenSearch)-TS/SCI with Polygraph - Chantilly, VA, US",
+      "company": "TS/SCI with Polygraph - Chantilly, VA, US",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.gd.com/careers/software-engineer-developer-opensearch-ts-sci-with-polygraph-chantilly-va-us-rq227308-gdit-opportunity",
+      "source": "Other",
+      "description": "Transform technology into opportunity as a Software Engineer at GDIT. Shape what's next for mission-critical government projects while shaping what's ...",
+      "date": "2026-09-22",
+      "timestamp": "2026-09-22T02:08:38+00:00",
+      "fetched_at": "2026-09-22T15:46:47.321532+00:00"
     },
     {
       "id": "cbabf17ab447",
