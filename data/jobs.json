@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-09-22T01:57:43.736783+00:00",
-  "total_jobs": 10091,
+  "last_updated": "2026-09-22T08:49:56.114106+00:00",
+  "total_jobs": 10103,
   "stats": {
-    "total_companies": 4627,
+    "total_companies": 4634,
     "total_roles": 131,
     "regions": {
-      "India": 6616,
-      "Philippines": 2160,
-      "Remote": 1225,
+      "India": 6625,
+      "Philippines": 2161,
+      "Remote": 1227,
       "Unknown": 135
     },
     "sources": {
-      "Other": 7891,
-      "Greenhouse": 505,
-      "LinkedIn": 438,
+      "Other": 7901,
+      "Greenhouse": 506,
+      "LinkedIn": 439,
       "Workday": 428,
       "Ashby": 309,
       "iCIMS": 132,
@@ -31,10 +31,115 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-09-21"
+      "latest": "2026-09-22"
     }
   },
   "jobs": [
+    {
+      "id": "646101ad5f20",
+      "title": "Data Engineer - vidaXL",
+      "company": "vidaXL",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.vidaxl.com/vacancy/2954/technical-lead-1",
+      "source": "Other",
+      "description": "Data Engineer \u00b7 Set up ETL pipelines to load data from various domains using API, Cloud SQL, scripts, FTP/SFTP etc. \u00b7 Collaborate with business analysts ...",
+      "date": "2026-09-22",
+      "timestamp": "2026-09-22T07:10:51+00:00",
+      "fetched_at": "2026-09-22T08:49:55.781687+00:00"
+    },
+    {
+      "id": "f24a77a73eeb",
+      "title": "DevOps Engineer - Pavilion Payments Career Opportunities",
+      "company": "Pavilion Payments Career Opportunities",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://pavilionpaymentscareers.exponentats.com/job/1059187/devops-engineer",
+      "source": "Other",
+      "description": "We're looking for an experienced DevOps Engineer with strong hands-on Kubernetes experience to help build, manage, and improve the infrastructure ...",
+      "date": "2026-09-22",
+      "timestamp": "2026-09-22T05:52:02+00:00",
+      "fetched_at": "2026-09-22T08:49:55.781902+00:00"
+    },
+    {
+      "id": "4b5dcb401e4d",
+      "title": "Associate Software Engineer at Cargill - Careers",
+      "company": "Cargill",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cargill.com/en/job/bengaluru/associate-software-engineer/23251/100970107392",
+      "source": "Other",
+      "description": "Job Purpose and Impact. The Associate Software Engineer assists with designing, developing and maintaining software applications and systems. Under ...",
+      "date": "2026-09-22",
+      "timestamp": "2026-09-22T04:33:50+00:00",
+      "fetched_at": "2026-09-22T08:49:55.782051+00:00"
+    },
+    {
+      "id": "9398beb03b5c",
+      "title": "Backend Engineer | Catawiki Careers",
+      "company": "Catawiki Careers",
+      "role": "Backend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://catawiki.careers/vacancies/backend-engineer-netherlands-3538951-8215843",
+      "source": "Other",
+      "description": "Backend Engineer . Be our. Go back. Netherlands. Apply ... Frontend Engineer . Netherlands. 0.0 km. View vacancy \u00b7 Platform Engineer .",
+      "date": "2026-09-22",
+      "timestamp": "2026-09-22T03:05:43+00:00",
+      "fetched_at": "2026-09-22T08:49:55.782367+00:00"
+    },
+    {
+      "id": "cbabf17ab447",
+      "title": "Data Engineer , Apple Ads - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200684964-0836/data-engineer-apple-ads?team=MLAI",
+      "source": "Other",
+      "description": "Apply for a Data Engineer , Apple Ads job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-09-22",
+      "timestamp": "2026-09-22T01:26:40+00:00",
+      "fetched_at": "2026-09-22T08:49:55.782646+00:00"
+    },
+    {
+      "id": "4a0129743b2e",
+      "title": "Senior AI Software Engineer - Recruiting",
+      "company": "Recruiting",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://ats.rippling.com/xcures-inc/jobs/653a3d8b-7e53-4bd8-996b-ee0cb0d6ff2e",
+      "source": "Other",
+      "description": "Senior AI Software Engineer . About xCures. The best of medicine should belong to everyone. Nobody dreams of becoming good at being a patient ...",
+      "date": "2026-09-22",
+      "timestamp": "2026-09-22T00:40:36+00:00",
+      "fetched_at": "2026-09-22T08:49:56.071561+00:00"
+    },
+    {
+      "id": "e6eb033124c6",
+      "title": "Software Engineer , Employee Experience & Productivity - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200671481-0670/software-engineer-employee-experience-productivity",
+      "source": "Other",
+      "description": "As a Software Engineer , you'll architect and develop large-scale web applications, collaborating with cross-functional teams to deliver high-quality ...",
+      "date": "2026-09-22",
+      "timestamp": "2026-09-22T00:39:24+00:00",
+      "fetched_at": "2026-09-22T08:49:55.782973+00:00"
+    },
     {
       "id": "c61396d04d57",
       "title": "Job Application for AI Engineer at Brunswick Group - Greenhouse",
@@ -64,6 +169,36 @@
       "date": "2026-09-21",
       "timestamp": "2026-09-21T23:13:30+00:00",
       "fetched_at": "2026-09-22T01:57:43.449588+00:00"
+    },
+    {
+      "id": "d25f712270a5",
+      "title": "Senior Software Engineer at Becton Dickinson & Company - Careers at BD",
+      "company": "Becton Dickinson & Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.bd.com/en/job/irvine/senior-software-engineer/159/100950653616",
+      "source": "Other",
+      "description": "Learn more about applying for Senior Software Engineer at Becton Dickinson & Company.",
+      "date": "2026-09-21",
+      "timestamp": "2026-09-21T23:06:13+00:00",
+      "fetched_at": "2026-09-22T08:49:55.783389+00:00"
+    },
+    {
+      "id": "675f3f00d4d9",
+      "title": "Software Engineer - REST API Development, Officer job in Burlington - State Street Careers",
+      "company": "REST API Development, Officer job in Burlington - State Street Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.statestreet.com/global/en/job/STSTGLOBALR798140EXTERNALENGLOBAL/Software-Engineer-REST-API-Development-Officer",
+      "source": "Other",
+      "description": "About the Role. We are seeking an enthusiastic and motivated Junior Software Engineer to join our API Engineering team.",
+      "date": "2026-09-21",
+      "timestamp": "2026-09-21T22:17:41+00:00",
+      "fetched_at": "2026-09-22T08:49:55.783645+00:00"
     },
     {
       "id": "118508ce1dd1",
@@ -126,6 +261,21 @@
       "fetched_at": "2026-09-22T01:57:43.450529+00:00"
     },
     {
+      "id": "e74e74332f7d",
+      "title": "Senior Software Engineer , Test - Autonomous Vehicles - Nvidia Career",
+      "company": "Autonomous Vehicles - Nvidia Career",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.nvidia.com/careers/job/893397790060",
+      "source": "Other",
+      "description": "As a senior software engineer , your primary role will be to build robust and scalable simulation infrastructure that will enable us to test and ...",
+      "date": "2026-09-21",
+      "timestamp": "2026-09-21T21:07:14+00:00",
+      "fetched_at": "2026-09-22T08:49:55.784465+00:00"
+    },
+    {
       "id": "ac2a2e7b8c89",
       "title": "Senior Software Engineer in Remote | Careers at Remote US - HealthEdge",
       "company": "Remote US",
@@ -156,6 +306,21 @@
       "fetched_at": "2026-09-22T01:57:43.450900+00:00"
     },
     {
+      "id": "a9702ecb6e20",
+      "title": "Senior Software Engineer , Platform Infrastructure (Remote) - Greenhouse",
+      "company": "Ezcaterinc",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/ezcaterinc/jobs/5243815007",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer , Platform Infrastructure (Remote). Boston, MA. Apply. ezCater is the #1 food tech platform for workplaces in the US. The ...",
+      "date": "2026-09-21",
+      "timestamp": "2026-09-21T20:36:10+00:00",
+      "fetched_at": "2026-09-22T08:49:55.784773+00:00"
+    },
+    {
       "id": "5417fcd54e6b",
       "title": "Sr. Data Engineer with strong SQL and Databricks experience - TekShapers - Hybrid in Irving, TX, US",
       "company": "TekShapers - Hybrid in Irving, TX, US",
@@ -184,6 +349,21 @@
       "date": "2026-09-21",
       "timestamp": "2026-09-21T20:32:54+00:00",
       "fetched_at": "2026-09-21T22:51:37.144983+00:00"
+    },
+    {
+      "id": "5ddd9b7a8118",
+      "title": "Senior Full Stack Engineer (Go) at Arsenal AI \u2014 Pittsburgh, PA | LinkedIn Jobs",
+      "company": "Arsenal AI \u2014 Pittsburgh, PA",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/senior-full-stack-engineer-go-at-arsenal-ai-4468135092",
+      "source": "LinkedIn",
+      "description": "Senior Software Engineer \u2013 Go / TypeScript / GraphQL / Kafka. HTC Global ... Senior FullStack Engineer - Grafana Cloud Observability| US | Remote.",
+      "date": "2026-09-21",
+      "timestamp": "2026-09-21T20:15:57+00:00",
+      "fetched_at": "2026-09-22T08:49:56.073671+00:00"
     },
     {
       "id": "b0c9d00243b1",
