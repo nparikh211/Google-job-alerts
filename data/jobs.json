@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-09-23T01:54:04.877858+00:00",
-  "total_jobs": 10153,
+  "last_updated": "2026-09-23T08:51:21.223248+00:00",
+  "total_jobs": 10166,
   "stats": {
-    "total_companies": 4654,
-    "total_roles": 132,
+    "total_companies": 4659,
+    "total_roles": 134,
     "regions": {
-      "India": 6656,
-      "Philippines": 2175,
+      "India": 6663,
+      "Philippines": 2181,
       "Remote": 1232,
       "Unknown": 135
     },
     "sources": {
-      "Other": 7942,
-      "Greenhouse": 507,
-      "LinkedIn": 440,
+      "Other": 7953,
+      "Greenhouse": 508,
+      "LinkedIn": 441,
       "Workday": 430,
       "Ashby": 312,
       "iCIMS": 132,
@@ -31,10 +31,100 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-09-22"
+      "latest": "2026-09-23"
     }
   },
   "jobs": [
+    {
+      "id": "15bfb80226d2",
+      "title": "Software Engineer - 132895 - IBM",
+      "company": "132895 - IBM",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.ibm.com/en_US/careers/JobDetail/Software-Engineer/132895",
+      "source": "Other",
+      "description": "Regular Job opportunities across ISDL teams are in the following areas. Systems and Cloud Software Engineer : As a Software Engineer with IBM Systems ...",
+      "date": "2026-09-23",
+      "timestamp": "2026-09-23T07:53:47+00:00",
+      "fetched_at": "2026-09-23T08:51:21.181751+00:00"
+    },
+    {
+      "id": "9b0ab33d5e24",
+      "title": "Senior Lead AI Engineer , Kuala Lumpur | \u00d8rsted",
+      "company": "\u00d8rsted",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://orsted.com/en/careers/vacancies-list/2026/09/32776-senior-lead-ai-engineer",
+      "source": "Other",
+      "description": "Senior Lead AI Engineer . Imagine a future where every developer at \u00d8rsted ships software seamlessly paired with an AI agent, and our business teams ...",
+      "date": "2026-09-23",
+      "timestamp": "2026-09-23T07:15:44+00:00",
+      "fetched_at": "2026-09-23T08:51:21.181941+00:00"
+    },
+    {
+      "id": "99dd7ba1c91c",
+      "title": "Apprentice, Software Engineer - Pearson",
+      "company": "Pearson",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://pearson.jobs/bangalore-ind/apprentice-software-engineer/EBA0426CD6F64C0A89204ADE3E65C5EF/job/",
+      "source": "Other",
+      "description": "Apprentice, Software Engineer ... We are looking for a motivated and curious Full Stack Engineer Apprentice/Intern to join our engineering team.",
+      "date": "2026-09-23",
+      "timestamp": "2026-09-23T07:15:19+00:00",
+      "fetched_at": "2026-09-23T08:51:21.182122+00:00"
+    },
+    {
+      "id": "f371b2baefe1",
+      "title": "Sam Birtwistle's Post - LinkedIn",
+      "company": "Unknown Company",
+      "role": "Sam Birtwistle's Post - LinkedIn",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/posts/samuelbirtwistle_nobody-wants-to-hire-juniors-anymore-entry-activity-7508072738834657280-zmjD",
+      "source": "LinkedIn",
+      "description": "Fiodar Sazanavets. Principal AI Engineer | Staff Software Engineer ... 1 Reaction. Steven Hargrove. Senior Software Engineer . 8h. Report this comment",
+      "date": "2026-09-23",
+      "timestamp": "2026-09-23T06:45:48+00:00",
+      "fetched_at": "2026-09-23T08:51:21.182703+00:00"
+    },
+    {
+      "id": "44e59b0ade66",
+      "title": "AI Platform Data Engineer , Ring Agent Platform Org - Job ID: 10556787 | Amazon.jobs",
+      "company": "Job ID: 10556787 | Amazon.jobs",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.amazon.jobs/en/jobs/10556787/ai-platform-data-engineer-ring-agent-platform-org",
+      "source": "Other",
+      "description": "We are seeking a Platform Builder\u2014a Data Engineer focused on developing platforms and scalable data solutions\u2014with strong technical, analytical, ...",
+      "date": "2026-09-23",
+      "timestamp": "2026-09-23T05:18:03+00:00",
+      "fetched_at": "2026-09-23T08:51:21.182915+00:00"
+    },
+    {
+      "id": "997e175e7983",
+      "title": "Software Engineer - San Jose, California, United States | Roku Jobs",
+      "company": "San Jose, California, United States | Roku Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.weareroku.com/jobs/software-engineer-san-jose-california-united-states",
+      "source": "Other",
+      "description": "Senior Software Engineer , San Jose, California. Senior Software Engineer , San Jose, California. Senior Software Engineer , San Jose, California.",
+      "date": "2026-09-23",
+      "timestamp": "2026-09-23T02:45:29+00:00",
+      "fetched_at": "2026-09-23T08:51:21.183116+00:00"
+    },
     {
       "id": "64b0ebbe0e69",
       "title": "Software Engineer II - Myworkdayjobs.com",
@@ -79,6 +169,36 @@
       "date": "2026-09-22",
       "timestamp": "2026-09-22T22:08:34+00:00",
       "fetched_at": "2026-09-22T22:26:40.479197+00:00"
+    },
+    {
+      "id": "ad606dfb60d6",
+      "title": "Senior Azure Data Engineer (SAP SuccessFactors Focus) job - Experis USA - 412323",
+      "company": "Experis USA - 412323",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.experis.com/en/job/412323/senior-azure-data-engineer-sap-successfactors-focus-",
+      "source": "Other",
+      "description": "Senior Azure Data Engineer (SAP SuccessFactors Focus) Location: Charlotte, NC (Hybrid) Pay Rate: $55.00 \u2013 $65.00 / hr W2",
+      "date": "2026-09-22",
+      "timestamp": "2026-09-22T22:04:08+00:00",
+      "fetched_at": "2026-09-23T08:51:21.121674+00:00"
+    },
+    {
+      "id": "4cd43b701eb8",
+      "title": "Job Application for Senior Platform Software Engineer at Everpure - Greenhouse",
+      "company": "Purestorage",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/purestorage/jobs/8220267",
+      "source": "Greenhouse",
+      "description": "Senior Platform Software Engineer . Santa Clara, California. Join Us. Everpure (NYSE: P) has evolved from storage pioneer to data platform, closing ...",
+      "date": "2026-09-22",
+      "timestamp": "2026-09-22T21:22:14+00:00",
+      "fetched_at": "2026-09-23T08:51:21.183939+00:00"
     },
     {
       "id": "f0832b7e86b7",
@@ -126,6 +246,21 @@
       "fetched_at": "2026-09-22T22:26:40.479814+00:00"
     },
     {
+      "id": "7c9bf71ad6ae",
+      "title": "Data/Database Administration - Data Engineer - Mitchell Martin, Inc. - Hybrid in Montvale, NJ, US",
+      "company": "Data/Database Administration",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.dice.com/job-detail/05b7b731-2af8-4caa-ad0e-8565411b1e6e",
+      "source": "Other",
+      "description": "SENIOR DATA ENGINEER . DATA PLATFORM ENGINEER . DATA ENGINEER . AZURE. PYTHON. DATABRICKS. PYSPARK. APACHE SPARK. T-SQL. TRANSACT-SQL. AZURE DATA FACTORY.",
+      "date": "2026-09-22",
+      "timestamp": "2026-09-22T21:14:18+00:00",
+      "fetched_at": "2026-09-23T08:51:21.122691+00:00"
+    },
+    {
       "id": "c7a11a38d580",
       "title": "Software Engineer 2 (Kernel Development) - Nutanix Careers",
       "company": "Nutanix Careers",
@@ -154,6 +289,36 @@
       "date": "2026-09-22",
       "timestamp": "2026-09-22T20:38:13+00:00",
       "fetched_at": "2026-09-23T01:54:04.837722+00:00"
+    },
+    {
+      "id": "379f022a4878",
+      "title": "Generative AI Engineer | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.apexsystems.com/job/3053042_usa/generative-ai-engineer",
+      "source": "Other",
+      "description": "We are seeking an AI Engineer with expertise in Microsoft Copilot, Generative AI, Large Language Models (LLMs), and AI-powered automation.",
+      "date": "2026-09-22",
+      "timestamp": "2026-09-22T20:30:47+00:00",
+      "fetched_at": "2026-09-23T08:51:21.123236+00:00"
+    },
+    {
+      "id": "da465497daf3",
+      "title": "Advisory Seasonal Intern, Federal Technology Enablement | Multiple Locations Summer 2027",
+      "company": "Unknown Company",
+      "role": "Advisory Seasonal Intern, Federal Technology Enablement | Mu",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.kpmguscareers.com/jobdetail/?jobId=138629",
+      "source": "Other",
+      "description": "Save. Advisory / Early Career / Internship. Advisory Seasonal Intern, Federal Technology Enablement - PhD Data Science/ Data Engineer | Multiple ...",
+      "date": "2026-09-22",
+      "timestamp": "2026-09-22T20:04:49+00:00",
+      "fetched_at": "2026-09-23T08:51:21.124039+00:00"
     },
     {
       "id": "cd16fde6adbf",
@@ -214,6 +379,36 @@
       "date": "2026-09-22",
       "timestamp": "2026-09-22T19:43:43+00:00",
       "fetched_at": "2026-09-22T22:26:40.480630+00:00"
+    },
+    {
+      "id": "409c23a5af28",
+      "title": "Pyspark- Data Engineer III - - 350743 - Deloitte",
+      "company": "Pyspark",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://usijobs.deloitte.com/en_US/careersUSI/JobDetail/USI-EH27-Consulting-AI-Data-Data-Engineer-III-Pyspark/350743",
+      "source": "Other",
+      "description": "Pyspark- Data Engineer III. Same job available in 4 locations. Bengaluru, Karnataka, India. Chennai, Tamil Nadu, India. Hyderabad, Telangana, ...",
+      "date": "2026-09-22",
+      "timestamp": "2026-09-22T19:34:39+00:00",
+      "fetched_at": "2026-09-23T08:51:21.124895+00:00"
+    },
+    {
+      "id": "9f696ca61063",
+      "title": "Sr Software Engineer - Engineer, New York City, United States",
+      "company": "Sr Software Engineer",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.uber.com/en/jobs/302747/",
+      "source": "Other",
+      "description": "and team Engineering at Uber means building for real-world impact under real-world constraints. As a Senior Software Engineer (Data & Backend), ...",
+      "date": "2026-09-22",
+      "timestamp": "2026-09-22T19:24:07+00:00",
+      "fetched_at": "2026-09-23T08:51:21.125012+00:00"
     },
     {
       "id": "94068fdbe884",
