@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-09-23T15:36:15.372731+00:00",
-  "total_jobs": 10182,
+  "last_updated": "2026-09-23T19:15:08.767509+00:00",
+  "total_jobs": 10194,
   "stats": {
-    "total_companies": 4663,
-    "total_roles": 134,
+    "total_companies": 4669,
+    "total_roles": 135,
     "regions": {
-      "India": 6675,
-      "Philippines": 2183,
-      "Remote": 1234,
+      "India": 6684,
+      "Philippines": 2185,
+      "Remote": 1235,
       "Unknown": 135
     },
     "sources": {
-      "Other": 7965,
+      "Other": 7974,
       "Greenhouse": 510,
-      "LinkedIn": 441,
-      "Workday": 430,
+      "LinkedIn": 442,
+      "Workday": 432,
       "Ashby": 313,
       "iCIMS": 132,
       "Breezy": 107,
@@ -36,6 +36,96 @@
   },
   "jobs": [
     {
+      "id": "c61c144b1438",
+      "title": "Software Engineer - Ford Global Career Site",
+      "company": "Ford Global Career Site",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://apply.ford.com/en/sites/CX_1/job/71009/apply/section/1",
+      "source": "Other",
+      "description": "Software Engineer . United States (Remote). Trending. Job Description. We made history and now we work to transform the future \u2013 for our customers, our ...",
+      "date": "2026-09-23",
+      "timestamp": "2026-09-23T18:52:30+00:00",
+      "fetched_at": "2026-09-23T19:15:08.542949+00:00"
+    },
+    {
+      "id": "503defe8b303",
+      "title": "Sharjel Amir's Post - LinkedIn",
+      "company": "Unknown Company",
+      "role": "Sharjel Amir's Post - LinkedIn",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/sharjel-amir-424951127_after-six-and-a-half-years-as-a-frontend-activity-7508128668871720961-ajwg",
+      "source": "LinkedIn",
+      "description": "After six and a half years as a frontend engineer at J.P. Morgan, I was made redundant. ... Ahmed S. Full Stack Engineer at FYCLabs | Next.js ...",
+      "date": "2026-09-23",
+      "timestamp": "2026-09-23T17:48:46+00:00",
+      "fetched_at": "2026-09-23T19:15:08.543646+00:00"
+    },
+    {
+      "id": "9ee62c4b4ffe",
+      "title": "Software Engineer - Myworkdayjobs.com",
+      "company": "Newrez",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://newrez.wd1.myworkdayjobs.com/en-US/Genesis/job/Software-Engineer_R10509",
+      "source": "Workday",
+      "description": "The Company is a subsidiary of Rithm Capital (parent company), a publicly traded mortgage real estate investment trust. The Software Engineer will ...",
+      "date": "2026-09-23",
+      "timestamp": "2026-09-23T16:57:36+00:00",
+      "fetched_at": "2026-09-23T19:15:08.543974+00:00"
+    },
+    {
+      "id": "2065218d1108",
+      "title": "AI ML Engineer - Myworkdayjobs.com",
+      "company": "Connect",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://connect.wd1.myworkdayjobs.com/ztsystemscareers/job/AI-ML-Engineer_R-105394",
+      "source": "Workday",
+      "description": "About The Role We are seeking an AI/ ML Engineer to build, deploy, and operate scalable AI applications and production infrastructure.",
+      "date": "2026-09-23",
+      "timestamp": "2026-09-23T16:47:49+00:00",
+      "fetched_at": "2026-09-23T19:15:08.544060+00:00"
+    },
+    {
+      "id": "7072171c2919",
+      "title": "Senior Software Engineer - BOLD",
+      "company": "BOLD",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.bold.com/job-description/senior-software-engineer-2/",
+      "source": "Other",
+      "description": "We are looking for a Senior Software Engineer to join our PL engineering team and work on an ecosystem of various microfrontend modules deployed ...",
+      "date": "2026-09-23",
+      "timestamp": "2026-09-23T16:46:40+00:00",
+      "fetched_at": "2026-09-23T19:15:08.544351+00:00"
+    },
+    {
+      "id": "c301678a82e9",
+      "title": "DevOps Engineer (Integrated System Test, North Reading) - Teradyne Careers",
+      "company": "Teradyne Careers",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.teradyne.com/Teradyne/job/North-Reading-DevOps-Engineer-%28Integrated-System-Test%2C-North-Reading%29-MA/1432791500/",
+      "source": "Other",
+      "description": "As a DevOps Engineer \u2013 Software Tooling & CI/CD Platform, you will play a key role in designing, building, and operating the automation and platforms ...",
+      "date": "2026-09-23",
+      "timestamp": "2026-09-23T15:04:56+00:00",
+      "fetched_at": "2026-09-23T19:15:08.544817+00:00"
+    },
+    {
       "id": "365210f859fb",
       "title": "Full Stack Software Engineer - Jobs at Nucor",
       "company": "Nucor",
@@ -49,6 +139,21 @@
       "date": "2026-09-23",
       "timestamp": "2026-09-23T14:54:48+00:00",
       "fetched_at": "2026-09-23T15:36:15.330770+00:00"
+    },
+    {
+      "id": "7cbd21dd55c0",
+      "title": "What does a software engineer should do now? : r/reactjs - Reddit",
+      "company": "does a software engineer should do now? : r/reactjs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/reactjs/comments/1wo1q36/what_does_a_software_engineer_should_do_now/",
+      "source": "Other",
+      "description": "get into backend side of things as Software engineer is a generalist role. Take your project's backend repository and ask cursor or claude or whatever ...",
+      "date": "2026-09-23",
+      "timestamp": "2026-09-23T14:52:29+00:00",
+      "fetched_at": "2026-09-23T19:15:08.545169+00:00"
     },
     {
       "id": "4e5839cead19",
@@ -66,6 +171,21 @@
       "fetched_at": "2026-09-23T15:36:15.250083+00:00"
     },
     {
+      "id": "b7e7aac8fc5c",
+      "title": "Backend Engineer - Windsor AI - Teamtailor",
+      "company": "Windsor AI - Teamtailor",
+      "role": "Backend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://windsorai.teamtailor.com/jobs/8436730-backend-engineer",
+      "source": "Other",
+      "description": "Backend Engineer \u00b7 6,000+ Customers. \u00b7 You'll build and maintain the Python pipelines at the core of our marketing data integration and ELT platform: ...",
+      "date": "2026-09-23",
+      "timestamp": "2026-09-23T13:19:08+00:00",
+      "fetched_at": "2026-09-23T19:15:08.545613+00:00"
+    },
+    {
       "id": "8d995be563a9",
       "title": "Associate AI Engineer , Physical AI - Careers - Avathon",
       "company": "Careers - Avathon",
@@ -79,6 +199,36 @@
       "date": "2026-09-23",
       "timestamp": "2026-09-23T13:05:45+00:00",
       "fetched_at": "2026-09-23T15:36:15.250313+00:00"
+    },
+    {
+      "id": "75c4d9441f48",
+      "title": "Senior Software Engineer - Caterpillar Careers",
+      "company": "Caterpillar Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.caterpillar.com/en/jobs/r0000378024/senior-software-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer . Location, Bangalore, Karn\u0101taka / Chennai, Tamil N\u0101du, India. Date Posted, Wednesday, September 23, 2026. Apply By, Tuesday ...",
+      "date": "2026-09-23",
+      "timestamp": "2026-09-23T12:38:04+00:00",
+      "fetched_at": "2026-09-23T19:15:08.546064+00:00"
+    },
+    {
+      "id": "c303bd686399",
+      "title": "Software Engineer - Openflow in Menlo Park, California, United States - Snowflake Careers",
+      "company": "Openflow in Menlo Park, California, United States - Snowflake Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.snowflake.com/us/en/job/SNCOUS0DF857AF468E428CADBB5D9EF22C0A41EXTERNALENUSAB0ABD7E7E3F4F1EBCA0297765ED6425/Software-Engineer-Openflow",
+      "source": "Other",
+      "description": "Senior Software Engineer - Database Engineering. Available in 2 locations. Category Engineering ReqId ASHREQ-7495. Principal Software Engineer .",
+      "date": "2026-09-23",
+      "timestamp": "2026-09-23T12:37:06+00:00",
+      "fetched_at": "2026-09-23T19:15:08.546492+00:00"
     },
     {
       "id": "b8d7ea4233d1",
@@ -111,6 +261,21 @@
       "fetched_at": "2026-09-23T15:36:15.331759+00:00"
     },
     {
+      "id": "beee0234eeb1",
+      "title": "Senior Software Engineer , Backend (Node.js, TypeScript, Rust) - Mercor Jobs",
+      "company": "Mercor Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://work.mercor.com/jobs/list_AAABoMtDExxnRVLyaolPD7pJ/senior-software-engineer-backend-node-js-typescript-rust",
+      "source": "Other",
+      "description": "Join a high-scale consumer platform team as a Senior Backend Engineer ... Senior Software Engineer , Backend (Node.js, TypeScript, Rust). $45-$65 ...",
+      "date": "2026-09-23",
+      "timestamp": "2026-09-23T12:01:43+00:00",
+      "fetched_at": "2026-09-23T19:15:08.725207+00:00"
+    },
+    {
       "id": "a837815c727a",
       "title": "Senior Software Engineer , AI Benchmarking - SecureBio",
       "company": "SecureBio",
@@ -124,6 +289,21 @@
       "date": "2026-09-23",
       "timestamp": "2026-09-23T11:59:09+00:00",
       "fetched_at": "2026-09-23T15:36:15.250829+00:00"
+    },
+    {
+      "id": "645514d6fd63",
+      "title": "2027 Summer Intern, MS/PhD, Machine Learning Engineer - San Francisco, California, United States",
+      "company": "San Francisco, California, United States",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.withwaymo.com/jobs/2027-summer-intern-ms-phd-machine-learning-engineer-san-francisco-california-united-states",
+      "source": "Other",
+      "description": "2027 Summer Intern, MS/PhD, Machine Learning Engineer . San Francisco ... If you're a software engineer or researcher who's curious and ...",
+      "date": "2026-09-23",
+      "timestamp": "2026-09-23T11:57:54+00:00",
+      "fetched_at": "2026-09-23T19:15:08.725685+00:00"
     },
     {
       "id": "8e5e0fb21c11",
