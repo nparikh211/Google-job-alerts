@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-09-22T22:26:40.765499+00:00",
-  "total_jobs": 10148,
+  "last_updated": "2026-09-23T01:54:04.877858+00:00",
+  "total_jobs": 10153,
   "stats": {
-    "total_companies": 4651,
+    "total_companies": 4654,
     "total_roles": 132,
     "regions": {
-      "India": 6653,
-      "Philippines": 2174,
-      "Remote": 1231,
+      "India": 6656,
+      "Philippines": 2175,
+      "Remote": 1232,
       "Unknown": 135
     },
     "sources": {
-      "Other": 7939,
+      "Other": 7942,
       "Greenhouse": 507,
       "LinkedIn": 440,
-      "Workday": 429,
-      "Ashby": 311,
+      "Workday": 430,
+      "Ashby": 312,
       "iCIMS": 132,
       "Breezy": 106,
       "Lever": 71,
@@ -35,6 +35,36 @@
     }
   },
   "jobs": [
+    {
+      "id": "64b0ebbe0e69",
+      "title": "Software Engineer II - Myworkdayjobs.com",
+      "company": "Jacksonhealthcare",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jacksonhealthcare.wd1.myworkdayjobs.com/en-US/careers-jacksonhealthcare/job/Software-Engineer-II_JR109280-2",
+      "source": "Workday",
+      "description": "Software Engineer II ... Kimedics, LLC is one of LocumTenens.com families of companies. Kimedics is building workforce solutions for healthcare staffing ...",
+      "date": "2026-09-22",
+      "timestamp": "2026-09-22T23:03:27+00:00",
+      "fetched_at": "2026-09-23T01:54:04.613178+00:00"
+    },
+    {
+      "id": "e9b5d18525aa",
+      "title": "Senior Software Engineer , Agentic Commerce - ThredUp careers",
+      "company": "ThredUp careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.thredup.com/us/en/job/1662/Senior-Software-Engineer-Agentic-Commerce",
+      "source": "Other",
+      "description": "Apply for Senior Software Engineer , Agentic Commerce job with ThredUp in Remote, California, United States of America. Engineering at ThredUp.",
+      "date": "2026-09-22",
+      "timestamp": "2026-09-22T22:29:39+00:00",
+      "fetched_at": "2026-09-23T01:54:04.614214+00:00"
+    },
     {
       "id": "d2aaec4410a6",
       "title": "Associate Cloud DevOps Engineer - Direct College Hire in Dallas, Texas, United States of America",
@@ -111,6 +141,36 @@
       "fetched_at": "2026-09-22T22:26:40.479979+00:00"
     },
     {
+      "id": "6d567552a142",
+      "title": "Software Engineer , AI Teammates Experience in San Francisco \u2022 Asana Jobs",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://asana.com/jobs/apply/8155344",
+      "source": "Other",
+      "description": "San Francisco. Apply. Asana is seeking an experienced and empathetic Software Engineer to join our AI Teammates Experience team. Asana's AI Teammates ...",
+      "date": "2026-09-22",
+      "timestamp": "2026-09-22T20:38:13+00:00",
+      "fetched_at": "2026-09-23T01:54:04.837722+00:00"
+    },
+    {
+      "id": "cd16fde6adbf",
+      "title": "Software Engineer : Fullstack @ Rogo - Jobs",
+      "company": "Rogo",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/Rogo/46da838e-af45-4cb9-bb15-d1818613a876?src=LinkedIn",
+      "source": "Ashby",
+      "description": "... Full-Stack Engineer at Rogo, you will be instrumental in shaping the ... Software Engineer : Fullstack. Location. New York City. Employment Type.",
+      "date": "2026-09-22",
+      "timestamp": "2026-09-22T20:03:09+00:00",
+      "fetched_at": "2026-09-23T01:54:04.615601+00:00"
+    },
+    {
       "id": "f06ebd71eea5",
       "title": "Senior Software Engineer (Remote) - RXNT Careers",
       "company": "RXNT Careers",
@@ -184,6 +244,21 @@
       "date": "2026-09-22",
       "timestamp": "2026-09-22T19:17:29+00:00",
       "fetched_at": "2026-09-22T22:26:40.481489+00:00"
+    },
+    {
+      "id": "746ad43a2326",
+      "title": "Lead Software Engineer - Python/Gen AI/RAG, HYDERABAD, Telang\u0101na | Wells Fargo",
+      "company": "Python/Gen AI/RAG, HYDERABAD, Telang\u0101na | Wells Fargo",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.wellsfargojobs.com/en/jobs/r-572542/lead-software-engineer-python-gen-ai-rag/",
+      "source": "Other",
+      "description": "Lead Software Engineer - Python/Gen AI/RAG. HYDERABAD. Technology; Full ... Lead AI Engineer . Save Saved. HYDERABAD, Telang\u0101na; Technology. Lead AI ...",
+      "date": "2026-09-22",
+      "timestamp": "2026-09-22T19:16:54+00:00",
+      "fetched_at": "2026-09-23T01:54:04.616892+00:00"
     },
     {
       "id": "def5cdaf8798",
