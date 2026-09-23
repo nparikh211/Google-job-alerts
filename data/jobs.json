@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-09-23T08:51:21.223248+00:00",
-  "total_jobs": 10166,
+  "last_updated": "2026-09-23T15:36:15.372731+00:00",
+  "total_jobs": 10182,
   "stats": {
-    "total_companies": 4659,
+    "total_companies": 4663,
     "total_roles": 134,
     "regions": {
-      "India": 6663,
-      "Philippines": 2181,
-      "Remote": 1232,
+      "India": 6675,
+      "Philippines": 2183,
+      "Remote": 1234,
       "Unknown": 135
     },
     "sources": {
-      "Other": 7953,
-      "Greenhouse": 508,
+      "Other": 7965,
+      "Greenhouse": 510,
       "LinkedIn": 441,
       "Workday": 430,
-      "Ashby": 312,
+      "Ashby": 313,
       "iCIMS": 132,
-      "Breezy": 106,
+      "Breezy": 107,
       "Lever": 71,
       "SmartRecruiters": 67,
       "Workable": 67,
@@ -36,6 +36,186 @@
   },
   "jobs": [
     {
+      "id": "365210f859fb",
+      "title": "Full Stack Software Engineer - Jobs at Nucor",
+      "company": "Nucor",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.nucor.com/job/Portland-Full-Stack-Software-Engineer-TN-37148/1432735200/",
+      "source": "Other",
+      "description": "Full Stack Software Engineer ... Nucor Buildings Group - NBG is seeking Full Stack Developers to design, develop, test, and deliver modern enterprise ...",
+      "date": "2026-09-23",
+      "timestamp": "2026-09-23T14:54:48+00:00",
+      "fetched_at": "2026-09-23T15:36:15.330770+00:00"
+    },
+    {
+      "id": "4e5839cead19",
+      "title": "Senior Software Engineer - Rippling",
+      "company": "Rippling",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/dockwa/jobs/bb36a8f5-6113-4805-8af6-e4ce37f4dc8a",
+      "source": "Other",
+      "description": "Senior Software Engineer . About Dockwa. Dockwa is the operating system for the marine economy. More than 1,250 marinas run their ...",
+      "date": "2026-09-23",
+      "timestamp": "2026-09-23T14:19:32+00:00",
+      "fetched_at": "2026-09-23T15:36:15.250083+00:00"
+    },
+    {
+      "id": "8d995be563a9",
+      "title": "Associate AI Engineer , Physical AI - Careers - Avathon",
+      "company": "Careers - Avathon",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://avathon.com/company/careers/associate-ai-engineer-physical-ai-4736834005/",
+      "source": "Other",
+      "description": "Associate AI Engineer , Physical AI \u00b7 Who We Are & Why Join Us \u00b7 Avathon is the leading Industrial AI autonomy platform, helping customers across heavy ...",
+      "date": "2026-09-23",
+      "timestamp": "2026-09-23T13:05:45+00:00",
+      "fetched_at": "2026-09-23T15:36:15.250313+00:00"
+    },
+    {
+      "id": "b8d7ea4233d1",
+      "title": "Stripe Careers | Frontend Engineer , Data Product Experiences",
+      "company": "Stripe Careers",
+      "role": "Frontend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://stripe.com/careers/listing/frontend-engineer-data-product-experiences/8194606",
+      "source": "Other",
+      "description": "Frontend Engineer , Data Product Experiences. Who we are. About Stripe. Stripe is a financial infrastructure platform for businesses. Millions of ...",
+      "date": "2026-09-23",
+      "timestamp": "2026-09-23T12:29:13+00:00",
+      "fetched_at": "2026-09-23T15:36:15.250688+00:00"
+    },
+    {
+      "id": "0d1ec78a1811",
+      "title": "Job Application for Senior Full-Stack Engineer at Nadia Care - Greenhouse",
+      "company": "Nadiacare",
+      "role": "Stack Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/nadiacare/jobs/4408418009",
+      "source": "Greenhouse",
+      "description": "Senior Full-Stack Engineer . Remote, United States. Apply Now. About Us: The United States has the poorest maternal and birth outcomes of all ...",
+      "date": "2026-09-23",
+      "timestamp": "2026-09-23T12:04:22+00:00",
+      "fetched_at": "2026-09-23T15:36:15.331759+00:00"
+    },
+    {
+      "id": "a837815c727a",
+      "title": "Senior Software Engineer , AI Benchmarking - SecureBio",
+      "company": "SecureBio",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://securebio.org/careers/senior-ai-benchmarking/",
+      "source": "Other",
+      "description": "The role. SecureBio is looking for a Senior Software Engineer to build, scale, and run biosecurity evaluations on frontier AI systems. The tools you ...",
+      "date": "2026-09-23",
+      "timestamp": "2026-09-23T11:59:09+00:00",
+      "fetched_at": "2026-09-23T15:36:15.250829+00:00"
+    },
+    {
+      "id": "8e5e0fb21c11",
+      "title": "Junior Platform Engineer - Arup Careers",
+      "company": "Arup Careers",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.arup.com/jobs/junior-platform-engineer-34899",
+      "source": "Other",
+      "description": "Junior Platform Engineer . Hyderabad, -, India. New. \u25be\u25b81 additional ... Lead Data Engineer . Corporate Services. Hyderabad, -, India. Data ...",
+      "date": "2026-09-23",
+      "timestamp": "2026-09-23T11:56:47+00:00",
+      "fetched_at": "2026-09-23T15:36:15.250983+00:00"
+    },
+    {
+      "id": "77e3dddfc265",
+      "title": "Senior Software Engineer , Data Infrastructure (RDBMS) @ TRM Labs - Jobs",
+      "company": "Trm Labs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/trm-labs/33af3036-a865-44cd-a609-76f91d3c203d",
+      "source": "Ashby",
+      "description": "... Senior Software Engineer on Data Infrastructure (RDBMS), you will develop, operate, and scale the relational database systems that serve data at ...",
+      "date": "2026-09-23",
+      "timestamp": "2026-09-23T10:15:10+00:00",
+      "fetched_at": "2026-09-23T15:36:15.251089+00:00"
+    },
+    {
+      "id": "015dd40596e0",
+      "title": "Sr Software Engineer , Hyderabad | ServiceNow Careers",
+      "company": "ServiceNow Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.servicenow.com/jobs/744000151287595/sr-software-engineer/",
+      "source": "Other",
+      "description": "Sr Software Engineer . Engineering, Infrastructure and Operations \u00b7 Hyderabad; Flexible; September 23, 2026; JB0075636.",
+      "date": "2026-09-23",
+      "timestamp": "2026-09-23T09:28:13+00:00",
+      "fetched_at": "2026-09-23T15:36:15.251244+00:00"
+    },
+    {
+      "id": "8296831249be",
+      "title": "Embedded Software Engineer , Chennai, Tamil N\u0101du, India | Caterpillar Careers",
+      "company": "Caterpillar Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.caterpillar.com/en/jobs/r0000395772/embedded-software-engineer/",
+      "source": "Other",
+      "description": "Embedded Software Engineer . Location, Chennai, Tamil N\u0101du, India. Date Posted, Wednesday, September 23, 2026. Apply By, Wednesday, October 7, 2026.",
+      "date": "2026-09-23",
+      "timestamp": "2026-09-23T09:13:14+00:00",
+      "fetched_at": "2026-09-23T15:36:15.332487+00:00"
+    },
+    {
+      "id": "5de991312c49",
+      "title": "Job Application for Java Senior Software Engineer at MariaDB plc - Greenhouse",
+      "company": "MariaDB plc",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.eu.greenhouse.io/mariadbplc/jobs/4982948101",
+      "source": "Greenhouse",
+      "description": "Here at MariaDB we are seeking a highly motivated and experienced Java Senior Software Engineer to lead the development of our highly scalable, geo- ...",
+      "date": "2026-09-23",
+      "timestamp": "2026-09-23T08:58:32+00:00",
+      "fetched_at": "2026-09-23T15:36:15.251395+00:00"
+    },
+    {
+      "id": "9ab7bd720cf3",
+      "title": "Software Engineer at Ford Motor Company",
+      "company": "Ford Motor Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.careers.ford.com/job/chennai/software-engineer/48560/100989225872",
+      "source": "Other",
+      "description": "Software Engineer . Job ID: 70924. Category ... We are looking for an experienced Senior Software Full Stack Engineer to join our engineering team.",
+      "date": "2026-09-23",
+      "timestamp": "2026-09-23T08:55:56+00:00",
+      "fetched_at": "2026-09-23T15:36:15.251528+00:00"
+    },
+    {
       "id": "15bfb80226d2",
       "title": "Software Engineer - 132895 - IBM",
       "company": "132895 - IBM",
@@ -49,6 +229,21 @@
       "date": "2026-09-23",
       "timestamp": "2026-09-23T07:53:47+00:00",
       "fetched_at": "2026-09-23T08:51:21.181751+00:00"
+    },
+    {
+      "id": "35f43ff8c441",
+      "title": "Graphics Software Engineer - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200685051-0157/graphics-software-engineer",
+      "source": "Other",
+      "description": "Apply for a Graphics Software Engineer job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-09-23",
+      "timestamp": "2026-09-23T07:42:45+00:00",
+      "fetched_at": "2026-09-23T15:36:15.251800+00:00"
     },
     {
       "id": "9b0ab33d5e24",
@@ -96,6 +291,36 @@
       "fetched_at": "2026-09-23T08:51:21.182703+00:00"
     },
     {
+      "id": "90fd9e17618c",
+      "title": "Junior/Mid Software Engineer at Bond-Pro Inc",
+      "company": "Bond Pro Inc",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://bond-pro-inc.breezy.hr/p/34f1907c51ff-junior-mid-software-engineer",
+      "source": "Breezy",
+      "description": "We're looking for a Software Engineer who can operate independently within an Agile team, take ambiguous requirements from concept to production, and ...",
+      "date": "2026-09-23",
+      "timestamp": "2026-09-23T05:50:56+00:00",
+      "fetched_at": "2026-09-23T15:36:15.334055+00:00"
+    },
+    {
+      "id": "5286028bf68b",
+      "title": "Software Engineer Expert - Mercor Jobs",
+      "company": "Mercor Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://work.mercor.com/jobs/list_AAABoMYQ0qNlviukgg1BYo3b/software-engineer-expert",
+      "source": "Other",
+      "description": "Software Engineer Expert. $100-$150 / hr. Hourly contract. Remote. New opportunity. Early applicant. $100-$150. per hour. Application. Not started. 0 ...",
+      "date": "2026-09-23",
+      "timestamp": "2026-09-23T05:41:12+00:00",
+      "fetched_at": "2026-09-23T15:36:15.252294+00:00"
+    },
+    {
       "id": "44e59b0ade66",
       "title": "AI Platform Data Engineer , Ring Agent Platform Org - Job ID: 10556787 | Amazon.jobs",
       "company": "Job ID: 10556787 | Amazon.jobs",
@@ -139,6 +364,21 @@
       "date": "2026-09-22",
       "timestamp": "2026-09-22T23:03:27+00:00",
       "fetched_at": "2026-09-23T01:54:04.613178+00:00"
+    },
+    {
+      "id": "df70e4adc62c",
+      "title": "Full Stack Data Engineer - Ford Global Career Site Careers - oracle",
+      "company": "Ford Global Career Site Careers - oracle",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71394",
+      "source": "Other",
+      "description": "Full Stack Software Engineer - AI Applications. Dearborn, MI, United ... You'll be a Full Stack Engineer who uses AI to build \u2014 and builds with AI.",
+      "date": "2026-09-22",
+      "timestamp": "2026-09-22T22:47:14+00:00",
+      "fetched_at": "2026-09-23T15:36:15.253136+00:00"
     },
     {
       "id": "e9b5d18525aa",
