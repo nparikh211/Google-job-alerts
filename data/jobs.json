@@ -1,26 +1,26 @@
 {
-  "last_updated": "2026-09-24T01:43:14.250963+00:00",
-  "total_jobs": 10218,
+  "last_updated": "2026-09-24T08:47:07.717922+00:00",
+  "total_jobs": 10233,
   "stats": {
-    "total_companies": 4679,
+    "total_companies": 4684,
     "total_roles": 135,
     "regions": {
-      "India": 6700,
-      "Philippines": 2191,
-      "Remote": 1237,
+      "India": 6710,
+      "Philippines": 2193,
+      "Remote": 1240,
       "Unknown": 135
     },
     "sources": {
-      "Other": 7990,
-      "Greenhouse": 510,
-      "LinkedIn": 444,
-      "Workday": 433,
+      "Other": 7999,
+      "Greenhouse": 512,
+      "LinkedIn": 445,
+      "Workday": 434,
       "Ashby": 315,
-      "iCIMS": 133,
+      "iCIMS": 134,
       "Breezy": 107,
       "Lever": 71,
+      "Workable": 69,
       "SmartRecruiters": 68,
-      "Workable": 68,
       "Indeed": 36,
       "Recruitee": 11,
       "BrassRing": 11,
@@ -36,6 +36,96 @@
   },
   "jobs": [
     {
+      "id": "7a7e21448664",
+      "title": "Data Engineer II - Insights, Strategy & Analysis at Sony Pictures Entertainment, Inc.",
+      "company": "Sony Pictures Entertainment, Inc.",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.sonypicturesjobs.com/job/culver-city/data-engineer-ii-insights-strategy-and-analysis/22978/101055926320",
+      "source": "Other",
+      "description": "Sony Pictures Entertainment is seeking a talented data engineer to join the Insights, Strategy and Analytics (ISA) organization.",
+      "date": "2026-09-24",
+      "timestamp": "2026-09-24T03:57:02+00:00",
+      "fetched_at": "2026-09-24T08:47:07.562635+00:00"
+    },
+    {
+      "id": "a947f8456f00",
+      "title": "Software Engineer - New Grad at SeatGeek",
+      "company": "SeatGeek",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://seatgeek.com/jobs/8227548",
+      "source": "Other",
+      "description": "View all jobs. Software Engineer - New Grad. New York, New York. Resources. About \u00b7 Jobs \u00b7 Inclusion \u00b7 Why Trust SeatGeek \u00b7 Digital Accessibility ...",
+      "date": "2026-09-24",
+      "timestamp": "2026-09-24T03:31:40+00:00",
+      "fetched_at": "2026-09-24T08:47:07.562801+00:00"
+    },
+    {
+      "id": "36ff95ecfa2c",
+      "title": "Job Application for Software Engineer - Intern at ZipRecruiter - Greenhouse",
+      "company": "Ziprecruiter",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/ziprecruiter/jobs/8180455",
+      "source": "Greenhouse",
+      "description": "Software Engineer - Intern. Santa Monica, CA. Apply. We offer a hybrid work environment. Most US-based positions can also be performed remotely (any ...",
+      "date": "2026-09-24",
+      "timestamp": "2026-09-24T02:55:58+00:00",
+      "fetched_at": "2026-09-24T08:47:07.562920+00:00"
+    },
+    {
+      "id": "82e261298ec8",
+      "title": "Senior Data Engineer in Reston, Virginia, United States of America | Research at ICF",
+      "company": "ICF",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.icf.com/us/en/job/R2603132/Senior-Data-Engineer",
+      "source": "Other",
+      "description": "We are looking for a Senior Data Engineer with a strong foundation in modern data engineering, DevOps, and cloud data platforms. The primary focus of ...",
+      "date": "2026-09-24",
+      "timestamp": "2026-09-24T01:38:21+00:00",
+      "fetched_at": "2026-09-24T08:47:07.563061+00:00"
+    },
+    {
+      "id": "f2b899adef9b",
+      "title": "Job Application for Software Engineer II, Mission Software at Vast - Greenhouse",
+      "company": "Vast",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/vast/jobs/4715944006?gh_jid=4715944006",
+      "source": "Greenhouse",
+      "description": "Software Engineer II, Mission Software. Long Beach, California, United States. Apply. Vast is developing next-generation space stations and space ...",
+      "date": "2026-09-24",
+      "timestamp": "2026-09-24T01:02:20+00:00",
+      "fetched_at": "2026-09-24T08:47:07.563325+00:00"
+    },
+    {
+      "id": "f5b8afcfedc6",
+      "title": "Software Engineer - Myworkdayjobs.com",
+      "company": "Blueorigin",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Software-Engineer_R72382",
+      "source": "Workday",
+      "description": "Software Engineer \u00b7 Bachelor's degree in Computer Engineering, Computer Science, Electrical Engineering, or related field \u00b7 1+ year of experience in ...",
+      "date": "2026-09-24",
+      "timestamp": "2026-09-24T00:54:55+00:00",
+      "fetched_at": "2026-09-24T08:47:07.563441+00:00"
+    },
+    {
       "id": "1fa09f879edb",
       "title": "Software Engineer - Internship at SeatGeek",
       "company": "SeatGeek",
@@ -49,6 +139,21 @@
       "date": "2026-09-24",
       "timestamp": "2026-09-24T00:32:00+00:00",
       "fetched_at": "2026-09-24T01:43:14.207896+00:00"
+    },
+    {
+      "id": "d4cbd4ac3646",
+      "title": "(USA) Senior, Data Engineer - Walmart Careers",
+      "company": "Walmart Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.walmart.com/us/en/jobs/R-2595942",
+      "source": "Other",
+      "description": "As a Senior Data Engineer , you will design, develop, and maintain scalable data pipelines and architectures that support critical business ...",
+      "date": "2026-09-24",
+      "timestamp": "2026-09-24T00:16:25+00:00",
+      "fetched_at": "2026-09-24T08:47:07.563913+00:00"
     },
     {
       "id": "5fc4c60b221a",
@@ -66,6 +171,36 @@
       "fetched_at": "2026-09-24T01:43:14.033391+00:00"
     },
     {
+      "id": "3e9a7d8d8e0e",
+      "title": "Senior Software Engineer in Foxboro, Massachusetts - Life at Schneider Electric",
+      "company": "Schneider Electric",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.se.com/jobs/135257?lang=en-us",
+      "source": "Other",
+      "description": "Schneider Electric Careers is hiring a Senior Software Engineer in Foxboro, Massachusetts. Review all of the job details and apply today!",
+      "date": "2026-09-23",
+      "timestamp": "2026-09-23T23:38:11+00:00",
+      "fetched_at": "2026-09-24T08:47:07.676922+00:00"
+    },
+    {
+      "id": "4ea2beea3190",
+      "title": "Software Engineer - 66202 - MANTECH Careers",
+      "company": "66202 - MANTECH Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mantech.com/en_US/careers/JobDetail/Software-Engineer/66202",
+      "source": "Other",
+      "description": "MANTECH seeks a motivated, career and customer-oriented Software Engineer to join our team in Philadelphia, Pennsylvania.",
+      "date": "2026-09-23",
+      "timestamp": "2026-09-23T23:30:49+00:00",
+      "fetched_at": "2026-09-24T08:47:07.564220+00:00"
+    },
+    {
       "id": "5687fb778eb0",
       "title": "Staff Platform Engineer - Careers at Veeam",
       "company": "Veeam",
@@ -79,6 +214,21 @@
       "date": "2026-09-23",
       "timestamp": "2026-09-23T23:17:52+00:00",
       "fetched_at": "2026-09-24T01:43:14.208143+00:00"
+    },
+    {
+      "id": "8dc98a7ba354",
+      "title": "Software Engineer , Application Platform - Careers at Airbnb",
+      "company": "Airbnb",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.airbnb.com/positions/8227620/",
+      "source": "Other",
+      "description": "Software Engineer , Application Platform. United States. Role overview. Application. Airbnb was born in 2007 when two hosts welcomed three guests to ...",
+      "date": "2026-09-23",
+      "timestamp": "2026-09-23T22:34:38+00:00",
+      "fetched_at": "2026-09-24T08:47:07.564346+00:00"
     },
     {
       "id": "304c0482389c",
@@ -126,6 +276,21 @@
       "fetched_at": "2026-09-23T22:29:44.105714+00:00"
     },
     {
+      "id": "5a2f3b86b408",
+      "title": "Data Engineer Principal in Plano, Texas | FedEx Careers",
+      "company": "FedEx Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.fedex.com/data-engineer-principal/job/P25-378631-1",
+      "source": "Other",
+      "description": "Candidates residing within 50 miles of a FedEx campus will be required to work on-site at a FedEx location several times per week. The Data Engineer ...",
+      "date": "2026-09-23",
+      "timestamp": "2026-09-23T22:01:26+00:00",
+      "fetched_at": "2026-09-24T08:47:07.565297+00:00"
+    },
+    {
       "id": "439710001031",
       "title": "Software Engineer \u2014 Face ID - Jobs - Careers at Apple",
       "company": "Apple",
@@ -139,6 +304,21 @@
       "date": "2026-09-23",
       "timestamp": "2026-09-23T21:27:35+00:00",
       "fetched_at": "2026-09-24T01:43:14.034864+00:00"
+    },
+    {
+      "id": "4d91a499ee7e",
+      "title": "Forward Deployed Machine Learning Engineer - Raydar - Jobs by Workable",
+      "company": "Raydar",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://apply.workable.com/raydar/j/8289A8BE63/",
+      "source": "Workable",
+      "description": "This is the first Machine Learning Engineer dedicated to the company's Benchmarks and Evaluations vertical. You will partner directly with the ...",
+      "date": "2026-09-23",
+      "timestamp": "2026-09-23T21:26:39+00:00",
+      "fetched_at": "2026-09-24T08:47:07.565555+00:00"
     },
     {
       "id": "47c12c34e94b",
@@ -186,6 +366,21 @@
       "fetched_at": "2026-09-23T22:29:44.106033+00:00"
     },
     {
+      "id": "b945ab15f41d",
+      "title": "Software Engineer - Remote at UnitedHealth Group",
+      "company": "UnitedHealth Group",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.unitedhealthgroup.com/job/eden-prairie/software-engineer-remote/34088/101048993264",
+      "source": "Other",
+      "description": "Software Engineer - Remote. Requisition number: 2387951 Job category: Technology Primary location: Eden Prairie, Minnesota Date posted: 09/23 ...",
+      "date": "2026-09-23",
+      "timestamp": "2026-09-23T20:39:30+00:00",
+      "fetched_at": "2026-09-24T08:47:07.678303+00:00"
+    },
+    {
       "id": "00311b4e77f6",
       "title": "GenAI Software Engineer II (Production Systems) - Niagara Bottling",
       "company": "Niagara Bottling",
@@ -201,6 +396,21 @@
       "fetched_at": "2026-09-23T22:29:44.106227+00:00"
     },
     {
+      "id": "f40d649126fa",
+      "title": "Senior Software Engineer /Developer in Remote - Nakupuna Companies",
+      "company": "Nakupuna Companies",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers-nakupuna.icims.com/jobs/6989/senior-software-engineer-developer/job",
+      "source": "iCIMS",
+      "description": "Remote is now hiring a Senior Software Engineer /Developer in Remote. Review all of the job details and apply today!",
+      "date": "2026-09-23",
+      "timestamp": "2026-09-23T20:05:11+00:00",
+      "fetched_at": "2026-09-24T08:47:07.678622+00:00"
+    },
+    {
       "id": "de5422ce05a3",
       "title": "AI Engineer \u2013 Local Models, Computer Vision & RAG | Signify Technology",
       "company": "Signify Technology",
@@ -214,6 +424,21 @@
       "date": "2026-09-23",
       "timestamp": "2026-09-23T19:48:54+00:00",
       "fetched_at": "2026-09-24T01:43:14.035757+00:00"
+    },
+    {
+      "id": "95a5913b30b2",
+      "title": "Data Engineer at TARGAN Inc. \u2014 Raleigh, NC | LinkedIn Jobs",
+      "company": "TARGAN Inc. \u2014 Raleigh, NC",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/data-engineer-at-targan-inc-4465248310",
+      "source": "LinkedIn",
+      "description": "Data Platform Engineer . Banc of California. Durham, NC $78,000 ... Machine Learning Engineer jobs \u00b7 Total Education Solutions jobs \u00b7 Data ...",
+      "date": "2026-09-23",
+      "timestamp": "2026-09-23T19:43:44+00:00",
+      "fetched_at": "2026-09-24T08:47:07.679035+00:00"
     },
     {
       "id": "1e0f5e75c46f",
