@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-09-24T08:47:07.717922+00:00",
-  "total_jobs": 10233,
+  "last_updated": "2026-09-24T15:57:14.402522+00:00",
+  "total_jobs": 10252,
   "stats": {
-    "total_companies": 4684,
+    "total_companies": 4686,
     "total_roles": 135,
     "regions": {
-      "India": 6710,
-      "Philippines": 2193,
-      "Remote": 1240,
+      "India": 6718,
+      "Philippines": 2201,
+      "Remote": 1243,
       "Unknown": 135
     },
     "sources": {
-      "Other": 7999,
-      "Greenhouse": 512,
-      "LinkedIn": 445,
-      "Workday": 434,
-      "Ashby": 315,
+      "Other": 8013,
+      "Greenhouse": 514,
+      "LinkedIn": 446,
+      "Workday": 435,
+      "Ashby": 316,
       "iCIMS": 134,
       "Breezy": 107,
       "Lever": 71,
@@ -35,6 +35,276 @@
     }
   },
   "jobs": [
+    {
+      "id": "5a2052ac48de",
+      "title": "Platform Engineer at Arm",
+      "company": "Arm",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.arm.com/job/bengaluru/platform-engineer/33099/101067454544",
+      "source": "Other",
+      "description": "Learn how you can help solve the world's most complex technology problems as a Platform Engineer ... Staff Software Engineer Sophia Antipolis, France ...",
+      "date": "2026-09-24",
+      "timestamp": "2026-09-24T15:15:54+00:00",
+      "fetched_at": "2026-09-24T15:57:14.357912+00:00"
+    },
+    {
+      "id": "44828b233d6b",
+      "title": "Software Engineer - Visa - Myworkdayjobs.com",
+      "company": "Visa",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/Software-Engineer_REF088484W",
+      "source": "Workday",
+      "description": "Software Engineer \u00b7 Conduct analysis, design, programming, debugging, and modification of computer programs for commercial or end user applications.",
+      "date": "2026-09-24",
+      "timestamp": "2026-09-24T14:42:19+00:00",
+      "fetched_at": "2026-09-24T15:57:14.358201+00:00"
+    },
+    {
+      "id": "0696798ee743",
+      "title": "Job Application for Full Stack Software Engineer I at Parallel Systems - Greenhouse",
+      "company": "Parallel",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/parallel/jobs/5247800007?gh_jid=5247800007",
+      "source": "Greenhouse",
+      "description": "Full Stack Software Engineer I ... Parallel Systems is pioneering autonomous battery-electric rail vehicles designed to transform freight transportation ...",
+      "date": "2026-09-24",
+      "timestamp": "2026-09-24T14:42:05+00:00",
+      "fetched_at": "2026-09-24T15:57:14.358314+00:00"
+    },
+    {
+      "id": "fd2c913fc0d7",
+      "title": "Job Application for Senior Software Engineer (Repository) at Chainguard - Greenhouse",
+      "company": "Chainguard",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/chainguard/jobs/4715630006",
+      "source": "Greenhouse",
+      "description": "We're hiring a Senior Software Engineer to help lead the architecture and implementation of the Repository team's core systems: package registries, ...",
+      "date": "2026-09-24",
+      "timestamp": "2026-09-24T14:34:03+00:00",
+      "fetched_at": "2026-09-24T15:57:14.358454+00:00"
+    },
+    {
+      "id": "31fc33b032fb",
+      "title": "Senior Software Engineer (Remote) - Sivad Consulting - Career Page",
+      "company": "Sivad Consulting - Career Page",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.careers-page.com/sivad-consulting/job/W38V4596",
+      "source": "Other",
+      "description": "Senior Software Engineer (Remote). \ufeffSalary range: $210,000 to $285,000. Location: New York, NY; San Francisco, CA. We are looking for a Senior ...",
+      "date": "2026-09-24",
+      "timestamp": "2026-09-24T14:04:31+00:00",
+      "fetched_at": "2026-09-24T15:57:14.358627+00:00"
+    },
+    {
+      "id": "123d86fd16a6",
+      "title": "Data Engineer Job Details - Careers at ExxonMobil",
+      "company": "ExxonMobil",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.exxonmobil.com/job/Spring-Data-Engineer-TX-77389/1433004400/",
+      "source": "Other",
+      "description": "Data Engineer . Location: Spring, TX, US, 77389. Company Name: ExxonMobil. About us. For well over a century, ExxonMobil has been at the heart of ...",
+      "date": "2026-09-24",
+      "timestamp": "2026-09-24T13:10:31+00:00",
+      "fetched_at": "2026-09-24T15:57:14.358780+00:00"
+    },
+    {
+      "id": "8520f4cf7cac",
+      "title": "Staff Software Engineer , Programmatic Ads - Pinterest Careers",
+      "company": "Pinterest Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.pinterestcareers.com/jobs/8226802/staff-software-engineer-programmatic-ads/",
+      "source": "Other",
+      "description": "Staff Software Engineer , Programmatic Ads. San Francisco / Remote \u00b7 Engineering; Regular. a screenshot of a social media post. Share. Apply Now ...",
+      "date": "2026-09-24",
+      "timestamp": "2026-09-24T13:00:39+00:00",
+      "fetched_at": "2026-09-24T15:57:14.358973+00:00"
+    },
+    {
+      "id": "c0d234ad7228",
+      "title": "Software Engineer II IS - Providence.jobs",
+      "company": "Providence.jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://providence.jobs/portland-or/software-engineer-ii-is/497B1027111E4EBAB920200BC474A723/job/",
+      "source": "Other",
+      "description": "Software Engineer II IS. Portland, OR ... Your client appears to be a bot or automated crawler. Other Jobs You Might Like. Senior Data Engineer ...",
+      "date": "2026-09-24",
+      "timestamp": "2026-09-24T12:49:18+00:00",
+      "fetched_at": "2026-09-24T15:57:14.359165+00:00"
+    },
+    {
+      "id": "7c1202f9bbb4",
+      "title": "Senior Software Engineer , Frontend @ Sardine - Jobs",
+      "company": "Sardine",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/sardine/e8b95f0e-8bd2-4263-904a-563214a9fde5",
+      "source": "Ashby",
+      "description": "... Senior Software Engineer , you will own the design and delivery of the user-facing experiences at the heart of our AI products. Your primary focus ...",
+      "date": "2026-09-24",
+      "timestamp": "2026-09-24T12:46:18+00:00",
+      "fetched_at": "2026-09-24T15:57:14.359265+00:00"
+    },
+    {
+      "id": "fe5fc17c5685",
+      "title": "Associate Software Engineer in Bengaluru, India | Emmes Group",
+      "company": "Emmes Group",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.emmes.com/jobs/3617",
+      "source": "Other",
+      "description": "emmes is hiring a Associate Software Engineer in Bengaluru, India. Review all of the job details and apply today!",
+      "date": "2026-09-24",
+      "timestamp": "2026-09-24T12:40:29+00:00",
+      "fetched_at": "2026-09-24T15:57:14.359423+00:00"
+    },
+    {
+      "id": "4f988fb33d1a",
+      "title": "Software Engineer - Clinisys Careers",
+      "company": "Clinisys Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.clinisys.com/jobs/8446120-software-engineer",
+      "source": "Other",
+      "description": "Position Summary. As a Software Engineer II and a member of a dynamic and multi-functional Agile development team, you will be responsible for ...",
+      "date": "2026-09-24",
+      "timestamp": "2026-09-24T11:22:02+00:00",
+      "fetched_at": "2026-09-24T15:57:14.184513+00:00"
+    },
+    {
+      "id": "da65fcaa6584",
+      "title": "Fullstack Engineer (Java & Angular) - Intermediate, Pune | Equifax Careers",
+      "company": "Intermediate, Pune | Equifax Careers",
+      "role": "Fullstack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.equifax.com/en/jobs/j00179168/fullstack-engineer-java-angular-intermediate/",
+      "source": "Other",
+      "description": "Fullstack Engineer (Java & Angular) - Intermediate. Pune; India ... Certification in Google Cloud (e.g., Associate Cloud Engineer ). We ...",
+      "date": "2026-09-24",
+      "timestamp": "2026-09-24T10:10:26+00:00",
+      "fetched_at": "2026-09-24T15:57:14.359757+00:00"
+    },
+    {
+      "id": "9c088b4dd7ab",
+      "title": "Sr Data Engineer in Lowe's Charlotte Technology Hub 3505",
+      "company": "Unknown Company",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://talent.lowes.com/us/en/job/JR-02641782/Sr-Data-Engineer",
+      "source": "Other",
+      "description": "Exciting opportunity for a Senior AI Engineer to lead the development and operationalization of Physical AI systems at Lowe's. Drive model ...",
+      "date": "2026-09-24",
+      "timestamp": "2026-09-24T09:54:20+00:00",
+      "fetched_at": "2026-09-24T15:57:14.184726+00:00"
+    },
+    {
+      "id": "6526692a9535",
+      "title": "Software Engineer II - Java - JPMC Candidate Experience page Careers",
+      "company": "Java - JPMC Candidate Experience page Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210784117",
+      "source": "Other",
+      "description": "Software Engineer II - Java. Bengaluru, Karnataka, India. Apply Now. Job Information. Job Identification 210784117; Job Category Software Engineering ...",
+      "date": "2026-09-24",
+      "timestamp": "2026-09-24T09:14:50+00:00",
+      "fetched_at": "2026-09-24T15:57:14.360057+00:00"
+    },
+    {
+      "id": "e6bd1840cc29",
+      "title": "Careers - Software Engineer, Privacy Engineering - Block",
+      "company": "Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://block.xyz/careers/jobs/5418586008?gh_jid=5418586008",
+      "source": "Other",
+      "description": "SEE ALL JOBS;. cashapp. Software Engineer , Privacy Engineering. Apply. Remote. Bay Area, CA, US. Req ID: R0006554. Posted Date: 09/23/26. Posted today.",
+      "date": "2026-09-24",
+      "timestamp": "2026-09-24T07:33:27+00:00",
+      "fetched_at": "2026-09-24T15:57:14.185008+00:00"
+    },
+    {
+      "id": "99c150e34f02",
+      "title": "Senior AI Engineer - TX, NC | Everforth Apex",
+      "company": "TX, NC | Everforth Apex",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.apexsystems.com/job/3053206_usa/senior-ai-engineer---tx-nc",
+      "source": "Other",
+      "description": "Job Title: Software Engineer 4 \u2013 Senior AI Engineer (Microsoft Copilot Studio). Location: Irving, TX \u2013 Preferred / Charlotte, NC. Contract Length ...",
+      "date": "2026-09-24",
+      "timestamp": "2026-09-24T06:38:13+00:00",
+      "fetched_at": "2026-09-24T15:57:14.360389+00:00"
+    },
+    {
+      "id": "dde402bbfb1b",
+      "title": "Meet the AI Engineer New York speaker lineup - LinkedIn",
+      "company": "LinkedIn",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/posts/aidotengineer_meet-the-ai-engineer-new-york-speaker-lineup-activity-7508623919285936128-0rS5",
+      "source": "LinkedIn",
+      "description": "We're excited to announce our AI Engineer New York speaker lineup! \u2192 https:// ai.engineer /nyc CEO, Exa CTO, Ramp CEO, Vals AI CEO, Rogo CTO, ...",
+      "date": "2026-09-24",
+      "timestamp": "2026-09-24T06:18:25+00:00",
+      "fetched_at": "2026-09-24T15:57:14.360732+00:00"
+    },
+    {
+      "id": "39112f6decd4",
+      "title": "How did u find ur first job as a DevOps engineer ? - Reddit",
+      "company": "Reddit",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/devops/comments/1wodqzw/how_did_u_find_ur_first_job_as_a_devops_engineer/",
+      "source": "Other",
+      "description": "I never expected to be devops engineer , I got hired as full stack engineer , realized they assigned me to team devops\u2026 was confused af for first ...",
+      "date": "2026-09-24",
+      "timestamp": "2026-09-24T05:38:37+00:00",
+      "fetched_at": "2026-09-24T15:57:14.185252+00:00"
+    },
     {
       "id": "7a7e21448664",
       "title": "Data Engineer II - Insights, Strategy & Analysis at Sony Pictures Entertainment, Inc.",
@@ -214,6 +484,21 @@
       "date": "2026-09-23",
       "timestamp": "2026-09-23T23:17:52+00:00",
       "fetched_at": "2026-09-24T01:43:14.208143+00:00"
+    },
+    {
+      "id": "708a50f81267",
+      "title": "Data Engineer at MCKESSON",
+      "company": "MCKESSON",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mckesson.com/en/job/irving/data-engineer/733/101053948784",
+      "source": "Other",
+      "description": "Data Engineer . Irving, Texas, The Woodlands, Texas Job ID JR0153583 Category Data Engineering, Information Technology Post Date Sep. 23, 2026. Apply",
+      "date": "2026-09-23",
+      "timestamp": "2026-09-23T22:40:07+00:00",
+      "fetched_at": "2026-09-24T15:57:14.186935+00:00"
     },
     {
       "id": "8dc98a7ba354",
