@@ -1,26 +1,26 @@
 {
-  "last_updated": "2026-09-23T22:29:44.311260+00:00",
-  "total_jobs": 10206,
+  "last_updated": "2026-09-24T01:43:14.250963+00:00",
+  "total_jobs": 10218,
   "stats": {
-    "total_companies": 4674,
+    "total_companies": 4679,
     "total_roles": 135,
     "regions": {
-      "India": 6694,
-      "Philippines": 2187,
-      "Remote": 1235,
+      "India": 6700,
+      "Philippines": 2191,
+      "Remote": 1237,
       "Unknown": 135
     },
     "sources": {
-      "Other": 7983,
+      "Other": 7990,
       "Greenhouse": 510,
-      "LinkedIn": 442,
+      "LinkedIn": 444,
       "Workday": 433,
-      "Ashby": 314,
-      "iCIMS": 132,
+      "Ashby": 315,
+      "iCIMS": 133,
       "Breezy": 107,
       "Lever": 71,
+      "SmartRecruiters": 68,
       "Workable": 68,
-      "SmartRecruiters": 67,
       "Indeed": 36,
       "Recruitee": 11,
       "BrassRing": 11,
@@ -31,10 +31,85 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-09-23"
+      "latest": "2026-09-24"
     }
   },
   "jobs": [
+    {
+      "id": "1fa09f879edb",
+      "title": "Software Engineer - Internship at SeatGeek",
+      "company": "SeatGeek",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://seatgeek.com/jobs/8227553",
+      "source": "Other",
+      "description": "Software Engineer - Internship. New York, New York. Resources. About \u00b7 Jobs \u00b7 Inclusion \u00b7 Why Trust SeatGeek \u00b7 Digital Accessibility \u00b7 SeatGeek Blog ...",
+      "date": "2026-09-24",
+      "timestamp": "2026-09-24T00:32:00+00:00",
+      "fetched_at": "2026-09-24T01:43:14.207896+00:00"
+    },
+    {
+      "id": "5fc4c60b221a",
+      "title": "LinkedIn Software Engineer | SmartRecruiters",
+      "company": "Linkedin3",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.smartrecruiters.com/LinkedIn3/744000151447279-software-engineer",
+      "source": "SmartRecruiters",
+      "description": "Software Engineer . Bellevue, WA Employees work in a hybrid mode; Full-time; Workplace Type: Hybrid; Career Track & Grade: IC2/7; Department ...",
+      "date": "2026-09-23",
+      "timestamp": "2026-09-23T23:58:56+00:00",
+      "fetched_at": "2026-09-24T01:43:14.033391+00:00"
+    },
+    {
+      "id": "5687fb778eb0",
+      "title": "Staff Platform Engineer - Careers at Veeam",
+      "company": "Veeam",
+      "role": "Platform Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.veeam.com/job/united-states/staff-platform-engineer/22681/101054489600",
+      "source": "Other",
+      "description": "Discover roles where bold ideas, real impact, and career-defining growth come together. More jobs \u00b7 Software Engineer II. Product Engineering United ...",
+      "date": "2026-09-23",
+      "timestamp": "2026-09-23T23:17:52+00:00",
+      "fetched_at": "2026-09-24T01:43:14.208143+00:00"
+    },
+    {
+      "id": "304c0482389c",
+      "title": "We're excited to announce our AI Engineer New York speaker lineup! \u2192 https:// ai ... - LinkedIn",
+      "company": "LinkedIn",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/aidotengineer_were-excited-to-announce-our-ai-engineer-activity-7508623919285936128-XhIr",
+      "source": "LinkedIn",
+      "description": "We're excited to announce our AI Engineer New York speaker lineup! \u2192 https:// ai.engineer /nyc CEO, Exa CTO, Ramp CEO, Vals AI CEO, Rogo CTO, ...",
+      "date": "2026-09-23",
+      "timestamp": "2026-09-23T22:06:02+00:00",
+      "fetched_at": "2026-09-24T01:43:14.034444+00:00"
+    },
+    {
+      "id": "270c6d8cd3ce",
+      "title": "Data Engineer in Naperville, Illinois | KeHE Distributors, LLC",
+      "company": "KeHE Distributors, LLC",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.kehe.com/careers-home/jobs/30225",
+      "source": "Other",
+      "description": "careers-home is hiring a Data Engineer in Naperville, Illinois. Review all of the job details and apply today!",
+      "date": "2026-09-23",
+      "timestamp": "2026-09-23T22:06:01+00:00",
+      "fetched_at": "2026-09-24T01:43:14.208261+00:00"
+    },
     {
       "id": "e87b2e2d5aba",
       "title": "Senior AI Engineer Job Details | Janus Henderson Investors",
@@ -49,6 +124,51 @@
       "date": "2026-09-23",
       "timestamp": "2026-09-23T22:05:49+00:00",
       "fetched_at": "2026-09-23T22:29:44.105714+00:00"
+    },
+    {
+      "id": "439710001031",
+      "title": "Software Engineer \u2014 Face ID - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200685202-3956/software-engineer-face-id",
+      "source": "Other",
+      "description": "Apply for a Software Engineer \u2014 Face ID job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-09-23",
+      "timestamp": "2026-09-23T21:27:35+00:00",
+      "fetched_at": "2026-09-24T01:43:14.034864+00:00"
+    },
+    {
+      "id": "47c12c34e94b",
+      "title": "Data Engineer @ Crux - Jobs",
+      "company": "Cruxclimate",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/cruxclimate/3588802b-d553-41a2-9eec-a7543a750376",
+      "source": "Ashby",
+      "description": "... Data Engineer to fix that. You will sit on Crux's Data Team and embed with Market Intelligence, building the foundational datasets and pipelines ...",
+      "date": "2026-09-23",
+      "timestamp": "2026-09-23T20:58:19+00:00",
+      "fetched_at": "2026-09-24T01:43:14.035011+00:00"
+    },
+    {
+      "id": "926e3d5514c2",
+      "title": "Autonomy Platform Engineer - DoorDash",
+      "company": "DoorDash",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careersatdoordash.com/jobs/autonomy-platform-engineer/8225722",
+      "source": "Other",
+      "description": "We are hiring an Autonomy Platform Engineer to build and evolve the foundational software that runs our autonomy stack across robot and compute ...",
+      "date": "2026-09-23",
+      "timestamp": "2026-09-23T20:48:42+00:00",
+      "fetched_at": "2026-09-24T01:43:14.035146+00:00"
     },
     {
       "id": "6ae94b648ee2",
@@ -81,6 +201,21 @@
       "fetched_at": "2026-09-23T22:29:44.106227+00:00"
     },
     {
+      "id": "de5422ce05a3",
+      "title": "AI Engineer \u2013 Local Models, Computer Vision & RAG | Signify Technology",
+      "company": "Signify Technology",
+      "role": "AI Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.signifytechnology.com/jobs/AI-Engineer-Local-Models-Computer-Vision-RAG-21675/",
+      "source": "Other",
+      "description": "AI Engineer - Local Models, Computer Vision & RAG. Location: Remote, United States - Midwest-based candidates preferred. Employment type: Permanent ...",
+      "date": "2026-09-23",
+      "timestamp": "2026-09-23T19:48:54+00:00",
+      "fetched_at": "2026-09-24T01:43:14.035757+00:00"
+    },
+    {
       "id": "1e0f5e75c46f",
       "title": "Full-Stack Engineer - Raydar - Application - Jobs by Workable",
       "company": "Raydar",
@@ -111,6 +246,21 @@
       "fetched_at": "2026-09-23T22:29:44.106943+00:00"
     },
     {
+      "id": "9ea5faafc28c",
+      "title": "Staff AI Engineer (Remote Eligible) - Capital One Careers",
+      "company": "Capital One Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.capitalonecareers.com/job/san-francisco/staff-ai-engineer-remote-eligible/1732/101007327840",
+      "source": "Other",
+      "description": "Staff AI Engineer (Remote Eligible). San Francisco, California ... Software Engineer , Strategy, Students and Grads Early Internship Programs ...",
+      "date": "2026-09-23",
+      "timestamp": "2026-09-23T19:33:14+00:00",
+      "fetched_at": "2026-09-24T01:43:14.036371+00:00"
+    },
+    {
       "id": "07c5e974a256",
       "title": "Software Engineer - Job Detail | Careers Marketplace - Siemens",
       "company": "Job Detail | Careers Marketplace - Siemens",
@@ -139,6 +289,21 @@
       "date": "2026-09-23",
       "timestamp": "2026-09-23T19:03:11+00:00",
       "fetched_at": "2026-09-23T22:29:44.268601+00:00"
+    },
+    {
+      "id": "a10ab006a620",
+      "title": "Software Engineer I in Greensboro, North Carolina | Careers at Corporate Office (099) - GSO",
+      "company": "Corporate Office",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://fieldhourly-thefreshmarket.icims.com/jobs/145591/software-engineer-i/job",
+      "source": "iCIMS",
+      "description": "Corporate Office (099) - GSO is now hiring a Software Engineer I in Greensboro, North Carolina. Review all of the job details and apply today!",
+      "date": "2026-09-23",
+      "timestamp": "2026-09-23T19:02:31+00:00",
+      "fetched_at": "2026-09-24T01:43:14.036640+00:00"
     },
     {
       "id": "acaa535e0fa0",
@@ -184,6 +349,21 @@
       "date": "2026-09-23",
       "timestamp": "2026-09-23T18:50:22+00:00",
       "fetched_at": "2026-09-23T22:29:44.107570+00:00"
+    },
+    {
+      "id": "689eacde56c2",
+      "title": "Manu Agrawal's Post - LinkedIn",
+      "company": "Unknown Company",
+      "role": "Manu Agrawal's Post - LinkedIn",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/posts/manuagrawal2_as-a-software-engineer-i-dont-know-everything-activity-7508362588926169088-r_T8",
+      "source": "LinkedIn",
+      "description": "Senior Software Engineer | I build scalable backend systems and ... Ankur Kesharwani. Senior AI engineer | 135K+ @LinkedIn | AI creator for ...",
+      "date": "2026-09-23",
+      "timestamp": "2026-09-23T17:52:57+00:00",
+      "fetched_at": "2026-09-24T01:43:14.210620+00:00"
     },
     {
       "id": "503defe8b303",
