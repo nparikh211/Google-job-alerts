@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-09-25T09:07:11.037435+00:00",
-  "total_jobs": 10301,
+  "last_updated": "2026-09-25T15:57:58.583949+00:00",
+  "total_jobs": 10319,
   "stats": {
-    "total_companies": 4700,
+    "total_companies": 4705,
     "total_roles": 135,
     "regions": {
-      "India": 6748,
+      "India": 6763,
       "Philippines": 2210,
-      "Remote": 1254,
+      "Remote": 1258,
       "Unknown": 135
     },
     "sources": {
-      "Other": 8052,
-      "Greenhouse": 519,
+      "Other": 8068,
+      "Greenhouse": 520,
       "LinkedIn": 446,
       "Workday": 438,
-      "Ashby": 318,
+      "Ashby": 319,
       "iCIMS": 134,
       "Breezy": 107,
       "Lever": 71,
@@ -36,6 +36,217 @@
   },
   "jobs": [
     {
+      "id": "abb890bdd361",
+      "title": "Software Engineer , Horizon @ Sierra - Jobs",
+      "company": "Sierra",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/sierra/87f2a303-c2a1-484e-9e4b-efdcaafa440e",
+      "source": "Ashby",
+      "description": "Software Engineer , Horizon. Location. San Francisco, CA. Employment Type. Full time. Location Type. On-site. Department. EngineeringPlatform ...",
+      "date": "2026-09-25",
+      "timestamp": "2026-09-25T14:28:26+00:00",
+      "fetched_at": "2026-09-25T15:57:58.161075+00:00"
+    },
+    {
+      "id": "e726d0ff0412",
+      "title": "Sr. Data Engineer at Cargill - Careers",
+      "company": "Cargill",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cargill.com/en/job/atlanta/sr-data-engineer/23251/101107282400",
+      "source": "Other",
+      "description": "Data Engineer . Sr. Data Engineer . Apply Now Save Job Remove Job. Job ID 334179 Date posted 09/24/2026 Location : Atlanta, Georgia Category DATA Job ...",
+      "date": "2026-09-25",
+      "timestamp": "2026-09-25T13:46:46+00:00",
+      "fetched_at": "2026-09-25T15:57:58.161541+00:00"
+    },
+    {
+      "id": "a68bf8e37194",
+      "title": "Senior Data Engineer - Deel Careers",
+      "company": "Deel Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.deel.com/deel/job-details/60ec2b28-4190-42d9-9618-49eedbff597c/overview",
+      "source": "Other",
+      "description": "Senior Data Engineer . Apply. Job details. Org Department / Data Engineering. Brazil, Chile, Mexico, Colombia. Full-time. $50,000 USD - $80,000 USD.",
+      "date": "2026-09-25",
+      "timestamp": "2026-09-25T13:42:39+00:00",
+      "fetched_at": "2026-09-25T15:57:58.161948+00:00"
+    },
+    {
+      "id": "8e17d231f833",
+      "title": "Big Data Engineer III (60641) - paycomonline.net",
+      "company": "paycomonline.net",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.paycomonline.net/v4/ats/web.php/portal/F8C2F2A5E6941D68D408FE312CA0ADFD/jobs/464263",
+      "source": "Other",
+      "description": "Big Data Engineer III (60641). Fully Remote \u2022 Providence, RI 02904; Hamden, CT 06518; North Andover, MA 01845; Salem, NH 03079; Wayne, NJ 07470 ...",
+      "date": "2026-09-25",
+      "timestamp": "2026-09-25T13:22:52+00:00",
+      "fetched_at": "2026-09-25T15:57:58.162102+00:00"
+    },
+    {
+      "id": "51ddb851f1d4",
+      "title": "Software Engineer (m/f/d) job in Florence, Firenze, Italy - Baker Hughes",
+      "company": "Baker Hughes",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.bakerhughes.com/global/en/job/R168942/Software-Engineer-m-f-d",
+      "source": "Other",
+      "description": "Apply for Software Engineer (m/f/d) job with Baker Hughes in Florence, Firenze, Italy. Browse and apply for Engineering/Technology jobs at Baker ...",
+      "date": "2026-09-25",
+      "timestamp": "2026-09-25T13:05:22+00:00",
+      "fetched_at": "2026-09-25T15:57:58.162219+00:00"
+    },
+    {
+      "id": "2871e1f486b2",
+      "title": "SENIOR SOFTWARE ENGINEER job in Menlo Park, California, United States - Snowflake Careers",
+      "company": "Snowflake Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.snowflake.com/us/en/job/SNCOUS93D020504FE84E74B44157D59D6FCA3DEXTERNALENUSC03ACC32F60B40DE9838E954D3F419B9/SENIOR-SOFTWARE-ENGINEER",
+      "source": "Other",
+      "description": "Apply for SENIOR SOFTWARE ENGINEER job in Menlo Park, California, United States. Browse and apply for Engineering jobs at Snowflake.",
+      "date": "2026-09-25",
+      "timestamp": "2026-09-25T12:19:10+00:00",
+      "fetched_at": "2026-09-25T15:57:58.162481+00:00"
+    },
+    {
+      "id": "1a9dfdc39668",
+      "title": "Data Engineer II in Bangalore, India - Life at Schneider Electric",
+      "company": "Schneider Electric",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.se.com/jobs/130717",
+      "source": "Other",
+      "description": "Schneider Electric Careers is hiring a Data Engineer II in Bangalore, India. Review all of the job details and apply today!",
+      "date": "2026-09-25",
+      "timestamp": "2026-09-25T11:52:42+00:00",
+      "fetched_at": "2026-09-25T15:57:58.162559+00:00"
+    },
+    {
+      "id": "50f7762c09e6",
+      "title": "Software Engineer Job Details - Careers at Paramount",
+      "company": "Paramount",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.paramount.com/job/New-York-Software-Engineer-NY-10036/1433499400/",
+      "source": "Other",
+      "description": "Paramount Skydance Corp is seeking a Software Engineer to build AI\u2011powered tools, backend services, and internal platforms that support the Global ...",
+      "date": "2026-09-25",
+      "timestamp": "2026-09-25T10:59:48+00:00",
+      "fetched_at": "2026-09-25T15:57:58.162811+00:00"
+    },
+    {
+      "id": "f47b64ce4919",
+      "title": "Senior Software Engineer II - Remote - SF Bay Area - Samsara",
+      "company": "Remote - SF Bay Area - Samsara",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.samsara.com/company/careers/roles/8186910?gh_jid=8186910",
+      "source": "Other",
+      "description": "Senior Software Engineer II. Remote - SF Bay Area. ID:JR12191 (for internal use only). Apply Now. Senior Software Engineer II. Apply Now. Samsara's ...",
+      "date": "2026-09-25",
+      "timestamp": "2026-09-25T10:25:52+00:00",
+      "fetched_at": "2026-09-25T15:57:58.163049+00:00"
+    },
+    {
+      "id": "8db5d913b4d2",
+      "title": "Job Application for Senior Software Engineer - Clearing at Alpaca - Greenhouse",
+      "company": "Alpaca",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/alpaca/jobs/6207222004",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer - Clearing. Remote - Europe or Remote America. Apply. Who We Are: Alpaca is a US-headquartered, global leader in agent-first ...",
+      "date": "2026-09-25",
+      "timestamp": "2026-09-25T09:35:12+00:00",
+      "fetched_at": "2026-09-25T15:57:58.163124+00:00"
+    },
+    {
+      "id": "387d10319cc4",
+      "title": "Software Engineer - Platform in Bengaluru, Karn\u0101taka, 560048 | Engineering & QA at HPE",
+      "company": "HPE",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.hpe.com/us/en/job/1214746/Software-Engineer-Platform",
+      "source": "Other",
+      "description": "Apply for Software Engineer - Platform job with HPE in Bengaluru, Karn\u0101taka, 560048. Engineering & QA at HPE.",
+      "date": "2026-09-25",
+      "timestamp": "2026-09-25T09:31:56+00:00",
+      "fetched_at": "2026-09-25T15:57:58.163230+00:00"
+    },
+    {
+      "id": "f5bbae6c5d67",
+      "title": "Google Cloud Platform- Data Engineer III - - 350737 - Deloitte",
+      "company": "Google Cloud Platform",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://usijobs.deloitte.com/careersUSI/JobDetail/USI-EH27-Consulting-AI-Data-Data-Engineer-III-Google-Cloud-Platform/350737",
+      "source": "Other",
+      "description": "As a Data Engineer III at Deloitte Consulting, you will design, develop, and deploy enterprise-scale software solutions, lead the creation of robust ...",
+      "date": "2026-09-25",
+      "timestamp": "2026-09-25T09:00:40+00:00",
+      "fetched_at": "2026-09-25T15:57:58.163409+00:00"
+    },
+    {
+      "id": "eb445003da1b",
+      "title": "Software Engineer 3 - MongoDB",
+      "company": "MongoDB",
+      "role": "Software Engineer",
+      "regions": [
+        "India",
+        "Remote"
+      ],
+      "link": "https://www.mongodb.com/careers/jobs/8208074",
+      "source": "Other",
+      "description": "Software Engineer 3. Gurugram. Enterprise Advanced is a distributed team across Europe and India that builds the software running MongoDB on any ...",
+      "date": "2026-09-25",
+      "timestamp": "2026-09-25T08:22:04+00:00",
+      "fetched_at": "2026-09-25T15:57:58.163554+00:00"
+    },
+    {
+      "id": "b55d2d58ddae",
+      "title": "Embedded Software Engineer - careers.cern",
+      "company": "careers.cern",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cern/jobs/embedded-software-engineer/",
+      "source": "Other",
+      "description": "Embedded Software Engineer . Switzerland flag Geneva, Switzerland BE-CEM-MRO-2026-156-GRAP Ideal start date: 01 ...",
+      "date": "2026-09-25",
+      "timestamp": "2026-09-25T07:58:48+00:00",
+      "fetched_at": "2026-09-25T15:57:58.163645+00:00"
+    },
+    {
       "id": "188fcc0c33a2",
       "title": "Software Engineer Intern (Core, Infrastructure & Security) \u2014 Spring 2027",
       "company": "Unknown Company",
@@ -51,6 +262,36 @@
       "fetched_at": "2026-09-25T09:07:10.993253+00:00"
     },
     {
+      "id": "ceb0e9d11b08",
+      "title": "Software Engineer Intern (AI / ML) - Spring 2027 job in Menlo Park, California, United States",
+      "company": "Spring 2027 job in Menlo Park, California, United States",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.snowflake.com/us/en/job/SNCOUS8F474D881B9A4957B0189633A5434752EXTERNALENUS4BE290AEDD9D488C9D9056FCD69101CA/Software-Engineer-Intern-AI-ML-Spring-2027",
+      "source": "Other",
+      "description": "At Snowflake, your role isn't just to execute a function, but to help redefine the future of how work gets done. Software Engineer Intern (AI / ML) - ...",
+      "date": "2026-09-25",
+      "timestamp": "2026-09-25T07:21:57+00:00",
+      "fetched_at": "2026-09-25T15:57:58.163954+00:00"
+    },
+    {
+      "id": "152f08cae277",
+      "title": "Data Engineer in Leesburg, VA | GovernmentJobs.com",
+      "company": "GovernmentJobs.com",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.governmentjobs.com/jobs/5492538-0/data-engineer",
+      "source": "Other",
+      "description": "Apply for Data Engineer position in Leesburg, VA through GovernmentJobs.com. Join our team and become a part of Loudoun County Government ...",
+      "date": "2026-09-25",
+      "timestamp": "2026-09-25T06:19:39+00:00",
+      "fetched_at": "2026-09-25T15:57:58.164055+00:00"
+    },
+    {
       "id": "71d6f530491e",
       "title": "Software Engineer I - Myworkdayjobs.com",
       "company": "Acrisure",
@@ -64,6 +305,36 @@
       "date": "2026-09-25",
       "timestamp": "2026-09-25T04:25:37+00:00",
       "fetched_at": "2026-09-25T09:07:10.993360+00:00"
+    },
+    {
+      "id": "701c40730c82",
+      "title": "AI Engineer Internship | Undergraduate or Graduate - Summer 2027 - Endeavor career",
+      "company": "Undergraduate or Graduate - Summer 2027 - Endeavor career",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.endeavor.org/jobs/8445546-ai-engineer-internship-undergraduate-or-graduate-summer-2027?utm_source=aijobs-dot-com",
+      "source": "Other",
+      "description": "AI Engineer Internship | Undergraduate or Graduate - Summer 2027. Apply for this job. ABOUT THE ROLE: Endeavor's Platform team builds the data ...",
+      "date": "2026-09-25",
+      "timestamp": "2026-09-25T03:40:56+00:00",
+      "fetched_at": "2026-09-25T15:57:58.164286+00:00"
+    },
+    {
+      "id": "b6c8e66a539e",
+      "title": "Senior Software Engineer in london, London, City of, United Kingdom - RTX Careers",
+      "company": "RTX Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.rtx.com/global/en/job/01876706/Senior-Software-Engineer",
+      "source": "Other",
+      "description": "Apply for Senior Software Engineer job with Raytheon in london, London, City of, United Kingdom. Engineering at Raytheon.",
+      "date": "2026-09-25",
+      "timestamp": "2026-09-25T03:39:13+00:00",
+      "fetched_at": "2026-09-25T15:57:58.164389+00:00"
     },
     {
       "id": "caafd024c920",
