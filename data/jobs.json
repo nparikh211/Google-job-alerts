@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-09-25T19:44:50.810233+00:00",
-  "total_jobs": 10335,
+  "last_updated": "2026-09-25T22:50:51.080536+00:00",
+  "total_jobs": 10347,
   "stats": {
-    "total_companies": 4710,
+    "total_companies": 4718,
     "total_roles": 136,
     "regions": {
-      "India": 6774,
-      "Philippines": 2212,
-      "Remote": 1261,
+      "India": 6783,
+      "Philippines": 2213,
+      "Remote": 1263,
       "Unknown": 135
     },
     "sources": {
-      "Other": 8079,
-      "Greenhouse": 522,
+      "Other": 8086,
+      "Greenhouse": 523,
       "LinkedIn": 447,
-      "Workday": 439,
+      "Workday": 442,
       "Ashby": 320,
-      "iCIMS": 134,
+      "iCIMS": 135,
       "Breezy": 107,
       "Lever": 71,
       "Workable": 69,
@@ -36,6 +36,126 @@
   },
   "jobs": [
     {
+      "id": "8d2e4eed536f",
+      "title": "Senior Software Engineer , Fullstack - Myworkdayjobs.com",
+      "company": "Hagerty",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://hagerty.wd5.myworkdayjobs.com/hagerty/job/United-States/Senior-Software-Engineer--Fullstack_R5428-1",
+      "source": "Workday",
+      "description": "Senior Software Engineer , Fullstack ... Hagerty is a company built by drivers for drivers. We put our members at the center of everything we do and are ...",
+      "date": "2026-09-25",
+      "timestamp": "2026-09-25T20:21:20+00:00",
+      "fetched_at": "2026-09-25T22:50:50.781733+00:00"
+    },
+    {
+      "id": "fc594407cf29",
+      "title": "Senior Software Engineer , BENGALURU, Karn\u0101taka | Wells Fargo",
+      "company": "Wells Fargo",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.wellsfargojobs.com/en/jobs/r-576870/senior-software-engineer/",
+      "source": "Other",
+      "description": "About this role: Wells Fargo is seeking a Senior Software Engineer . This role is aligned to modern Site Reliability Engineering (SRE) practices ...",
+      "date": "2026-09-25",
+      "timestamp": "2026-09-25T20:00:05+00:00",
+      "fetched_at": "2026-09-25T22:50:50.783087+00:00"
+    },
+    {
+      "id": "8401dfbd3a3b",
+      "title": "Software Engineer - Logo - Myworkdayjobs.com",
+      "company": "Alliantgroup",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://alliantgroup.wd1.myworkdayjobs.com/alliantgroup/job/Houston-TX/Software-Engineer_JR101983",
+      "source": "Workday",
+      "description": "alliant. Similar Jobs (3). Senior Software Engineer . locations: Houston, TX. time type: Full time. posted on: Posted Yesterday. Software Product ...",
+      "date": "2026-09-25",
+      "timestamp": "2026-09-25T19:55:36+00:00",
+      "fetched_at": "2026-09-25T22:50:50.783196+00:00"
+    },
+    {
+      "id": "621642694538",
+      "title": "Machine Learning Engineer , Co-op - Lehi, Utah, United States - Careers",
+      "company": "op - Lehi, Utah, United States - Careers",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.ancestry.com/jobs/machine-learning-engineer-co-op-lehi-utah-united-states-2d826c80-8228-4e61-bf8b-6c96845a8c51",
+      "source": "Other",
+      "description": "Machine Learning Engineer , Co-op. Remote. 1300 West Traverse Parkway, Lehi, Utah, United States, 84043. Cross Functional. Part_time. Add to favorites.",
+      "date": "2026-09-25",
+      "timestamp": "2026-09-25T19:45:03+00:00",
+      "fetched_at": "2026-09-25T22:50:50.783618+00:00"
+    },
+    {
+      "id": "a2aff30216e9",
+      "title": "AI Engineer - Careers - Myworkdayjobs.com",
+      "company": "Bcbsms",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://bcbsms.wd5.myworkdayjobs.com/bcbsms/job/Flowood-MS/AI-Engineer_JR100368",
+      "source": "Workday",
+      "description": "... AI Engineer will work closely with cross-functional teams, including clinical leaders, data engineers, and administrative staff, to identify ...",
+      "date": "2026-09-25",
+      "timestamp": "2026-09-25T19:36:18+00:00",
+      "fetched_at": "2026-09-25T22:50:50.783727+00:00"
+    },
+    {
+      "id": "51080f711959",
+      "title": "January 2027 - Leap Software Engineer - Fidelity Careers",
+      "company": "January 2027",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.fidelity.com/en/jobs/2133859/january-2027-leap-software-engineer/",
+      "source": "Other",
+      "description": "Job Description: Fidelity Leap Program - Software Engineer This Position starts on January 11, 2027 Locations: Boston, MA | Durham, NC | Merrimack ...",
+      "date": "2026-09-25",
+      "timestamp": "2026-09-25T19:28:29+00:00",
+      "fetched_at": "2026-09-25T22:50:50.783893+00:00"
+    },
+    {
+      "id": "c14cda1fbdc0",
+      "title": "Gen AI - Software Engineer II - - 360113 - Deloitte",
+      "company": "Gen AI",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://usijobs.deloitte.com/en_US/careersUSI/JobDetail/USI-EH27-Consulting-Services-AI-E-EaaS-SWE-Software-Engineer-II-Gen-AI-Developer/360113",
+      "source": "Other",
+      "description": "As a Software Engineer ... Relevant certifications such as GitHub Copilot Certification (GH-300), Microsoft Azure AI Engineer Associate, AWS Certified ...",
+      "date": "2026-09-25",
+      "timestamp": "2026-09-25T19:24:53+00:00",
+      "fetched_at": "2026-09-25T22:50:50.784231+00:00"
+    },
+    {
+      "id": "3b4b467d6e84",
+      "title": "Job Application for Senior Full-Stack Engineer - Artist Success at SoundCloud - Greenhouse",
+      "company": "Soundcloud71",
+      "role": "Stack Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/soundcloud71/jobs/8843976002",
+      "source": "Greenhouse",
+      "description": "Senior Full-Stack Engineer - Artist Success. New York. Apply. SoundCloud empowers artists, tastemakers and fans to connect and share through music ...",
+      "date": "2026-09-25",
+      "timestamp": "2026-09-25T19:22:09+00:00",
+      "fetched_at": "2026-09-25T22:50:51.038444+00:00"
+    },
+    {
       "id": "789b827332e5",
       "title": "Associate Software Engineer | Job Details - Cornerstone OnDemand",
       "company": "Job Details - Cornerstone OnDemand",
@@ -49,6 +169,66 @@
       "date": "2026-09-25",
       "timestamp": "2026-09-25T18:52:44+00:00",
       "fetched_at": "2026-09-25T19:44:50.576801+00:00"
+    },
+    {
+      "id": "dd3f3dc00959",
+      "title": "Senior Software Engineer in | Careers at Remote - ICIMS",
+      "company": "Remote",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers-compsych.icims.com/jobs/2237/senior-software-engineer/job",
+      "source": "iCIMS",
+      "description": "Remote is now hiring a Senior Software Engineer in . Review all of the job details and apply today!",
+      "date": "2026-09-25",
+      "timestamp": "2026-09-25T18:07:39+00:00",
+      "fetched_at": "2026-09-25T22:50:50.784713+00:00"
+    },
+    {
+      "id": "233a7e504fae",
+      "title": "Unit21, INC - Full Stack Engineer in San Francisco",
+      "company": "Unit21, INC",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://unit21.zohorecruit.com/jobs/Careers/764373000016104708/Full-Stack-Engineer",
+      "source": "Other",
+      "description": "Unit21, INC About the role: We are looking for a full stack engineer who is passionate about catching fraud. We build AI products that help our ...",
+      "date": "2026-09-25",
+      "timestamp": "2026-09-25T17:51:13+00:00",
+      "fetched_at": "2026-09-25T22:50:50.785032+00:00"
+    },
+    {
+      "id": "73e9ea4de65b",
+      "title": "Jr. Software Engineer - Rippling",
+      "company": "Rippling",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/decisions/jobs/81949c4c-6c70-44f9-9e49-78f270252a09",
+      "source": "Other",
+      "description": "Software Engineer . Open Positions. Jr. Software Engineer . Why Decisions. At Decisions, we help organizations make work easier through intelligent ...",
+      "date": "2026-09-25",
+      "timestamp": "2026-09-25T17:49:35+00:00",
+      "fetched_at": "2026-09-25T22:50:50.785185+00:00"
+    },
+    {
+      "id": "c38244f8808d",
+      "title": "Senior Machine Learning Engineer , Trust - Careers at Airbnb",
+      "company": "Airbnb",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.airbnb.com/positions/8232153/",
+      "source": "Other",
+      "description": "Senior Machine Learning Engineer , Trust. San Francisco, CA. Role overview. Application. Airbnb was born in 2007 when two hosts welcomed three guests ...",
+      "date": "2026-09-25",
+      "timestamp": "2026-09-25T17:28:45+00:00",
+      "fetched_at": "2026-09-25T22:50:50.785479+00:00"
     },
     {
       "id": "7f54bbd78268",
