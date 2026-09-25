@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-09-24T22:45:08.734341+00:00",
-  "total_jobs": 10281,
+  "last_updated": "2026-09-25T02:00:09.156231+00:00",
+  "total_jobs": 10293,
   "stats": {
-    "total_companies": 4694,
+    "total_companies": 4698,
     "total_roles": 135,
     "regions": {
-      "India": 6739,
-      "Philippines": 2203,
-      "Remote": 1250,
+      "India": 6748,
+      "Philippines": 2204,
+      "Remote": 1252,
       "Unknown": 135
     },
     "sources": {
-      "Other": 8039,
-      "Greenhouse": 515,
+      "Other": 8047,
+      "Greenhouse": 518,
       "LinkedIn": 446,
       "Workday": 437,
-      "Ashby": 316,
+      "Ashby": 317,
       "iCIMS": 134,
       "Breezy": 107,
       "Lever": 71,
@@ -31,10 +31,130 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-09-24"
+      "latest": "2026-09-25"
     }
   },
   "jobs": [
+    {
+      "id": "b7ec2ad30e1b",
+      "title": "NCSU Employment Site | Software Engineer",
+      "company": "NCSU Employment Site",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ncsu.edu/postings/235386",
+      "source": "Other",
+      "description": "Posting Details ; PG194906EP \u00b7 No \u00b7 Software Engineer \u00b7 Commensurate with education and experience (anticipated hiring range $70,000-$80,000).",
+      "date": "2026-09-25",
+      "timestamp": "2026-09-25T00:19:22+00:00",
+      "fetched_at": "2026-09-25T02:00:08.945928+00:00"
+    },
+    {
+      "id": "84ad6477ec10",
+      "title": "Job Application for Data Engineer at UJET - Greenhouse",
+      "company": "Ujet",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/ujet/jobs/4736897005",
+      "source": "Greenhouse",
+      "description": "Data Engineer . Remote, US. Apply. About Us. UJET leads the way in AI-powered contact center innovation, delivering a future-proof, cloud platform that ...",
+      "date": "2026-09-25",
+      "timestamp": "2026-09-25T00:05:19+00:00",
+      "fetched_at": "2026-09-25T02:00:08.946071+00:00"
+    },
+    {
+      "id": "ce4a9299efa1",
+      "title": "Software Engineer , Scribe AI @ Commure - Jobs",
+      "company": "Commure",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/commure/259988fe-0389-461f-823c-36d81840d465",
+      "source": "Ashby",
+      "description": "Software Engineer , Scribe AI. Location. Mountain View, CA. Employment Type. Full time. Department. Engineering. Compensation. $130K \u2013 $180K \u2022 Offers ...",
+      "date": "2026-09-25",
+      "timestamp": "2026-09-25T00:02:34+00:00",
+      "fetched_at": "2026-09-25T02:00:09.113651+00:00"
+    },
+    {
+      "id": "77d68e6144ec",
+      "title": "Job Application for Staff Software Engineer at Axios - Greenhouse",
+      "company": "Axios",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/axios/jobs/8229298",
+      "source": "Greenhouse",
+      "description": "Staff Software Engineer \u00b7 Cross-team technical leadership: \u00b7 Architecture and design: \u00b7 Hands-on system ownership: \u00b7 AI-enabled product and engineering: ...",
+      "date": "2026-09-24",
+      "timestamp": "2026-09-24T23:37:20+00:00",
+      "fetched_at": "2026-09-25T02:00:08.946188+00:00"
+    },
+    {
+      "id": "b32c018bc9f6",
+      "title": "Senior Software Engineer - San Jose, California, United States | Roku Jobs",
+      "company": "San Jose, California, United States | Roku Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.weareroku.com/jobs/senior-software-engineer-san-jose-california-united-states-190a2072-0dec-4551-abb4-70235c05147d",
+      "source": "Other",
+      "description": "Senior Software Engineer . Software Engineering | San Jose, United States ... Senior Software Engineer , San Jose, California. Senior Software ...",
+      "date": "2026-09-24",
+      "timestamp": "2026-09-24T22:59:56+00:00",
+      "fetched_at": "2026-09-25T02:00:08.946748+00:00"
+    },
+    {
+      "id": "b95f7bfd8dd3",
+      "title": "Staff Software Engineer | Primum Careers",
+      "company": "Primum Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://primum.co/careers/staff-software-engineer",
+      "source": "Other",
+      "description": "Staff Software Engineer . Remote or Hybrid (Columbus, OH) Full-time. About Primum. Community oncologists care for 80% of cancer patients, and no one ...",
+      "date": "2026-09-24",
+      "timestamp": "2026-09-24T22:17:05+00:00",
+      "fetched_at": "2026-09-25T02:00:08.946945+00:00"
+    },
+    {
+      "id": "7da0d7406cbc",
+      "title": "AI Engineer Manager / AI Development Manager - Careers At Carter's",
+      "company": "Carter's",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.carters.com/ai-engineer-manager-ai-development-manager/job/P1-6926912-0",
+      "source": "Other",
+      "description": "AI Engineer Manager / AI Development Manager. Back to Search. Job Details. Career area: Information Technology. Position Type: Full Time. Date Posted ...",
+      "date": "2026-09-24",
+      "timestamp": "2026-09-24T21:59:02+00:00",
+      "fetched_at": "2026-09-25T02:00:08.947174+00:00"
+    },
+    {
+      "id": "cffcc6ea7baf",
+      "title": "2027 University Graduate - Machine Learning Engineer in San Jose, California, United ...",
+      "company": "2027 University Graduate",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.adobe.com/us/en/job/R172085/2027-University-Graduate-Machine-Learning-Engineer",
+      "source": "Other",
+      "description": "Apply for 2027 University Graduate - Machine Learning Engineer job with Adobe in San Jose, California, United States of America.",
+      "date": "2026-09-24",
+      "timestamp": "2026-09-24T21:58:40+00:00",
+      "fetched_at": "2026-09-25T02:00:08.947414+00:00"
+    },
     {
       "id": "c506dba6bc97",
       "title": "Software Engineer III - Guidewire (Claims Center) - oracle",
@@ -64,6 +184,66 @@
       "date": "2026-09-24",
       "timestamp": "2026-09-24T21:16:38+00:00",
       "fetched_at": "2026-09-24T22:45:08.625197+00:00"
+    },
+    {
+      "id": "1b00af8eb7f0",
+      "title": "Senior Software Engineer - AI at Smartsheet Job Ads - Greenhouse",
+      "company": "Smartsheetjobads",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/smartsheetjobads/jobs/8227299",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer - AI. Bellevue, WA, USA. Apply. For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale ...",
+      "date": "2026-09-24",
+      "timestamp": "2026-09-24T21:07:59+00:00",
+      "fetched_at": "2026-09-25T02:00:08.948192+00:00"
+    },
+    {
+      "id": "64ab2a0a4959",
+      "title": "Senior DevOps Engineer - Rippling",
+      "company": "Rippling",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/genlogs-corporation/jobs/117fd089-6a14-4c0f-b9dd-2a89e71a56b6",
+      "source": "Other",
+      "description": "Senior DevOps Engineer ... GenLogs is a transportation-technology company building the next generation of truck intelligence. Through a nationwide ...",
+      "date": "2026-09-24",
+      "timestamp": "2026-09-24T20:49:42+00:00",
+      "fetched_at": "2026-09-25T02:00:08.948601+00:00"
+    },
+    {
+      "id": "7de86efb46e1",
+      "title": "Machine Learning Engineer , Core Experimentation | OpenAI",
+      "company": "OpenAI",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://openai.com/careers/machine-learning-engineer-core-experimentation-seattle/",
+      "source": "Other",
+      "description": "We are looking for a Machine Learning Engineer to lead the technical direction for ML-powered experimentation and insights capabilities. You will ...",
+      "date": "2026-09-24",
+      "timestamp": "2026-09-24T20:43:47+00:00",
+      "fetched_at": "2026-09-25T02:00:08.949041+00:00"
+    },
+    {
+      "id": "d833f589559a",
+      "title": "Software Engineer , Chennai, Tamil N\u0101du, India | Caterpillar Careers",
+      "company": "Caterpillar Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.caterpillar.com/en/jobs/r0000393501/software-engineer/",
+      "source": "Other",
+      "description": "Software Engineer . Location, Chennai, Tamil N\u0101du, India. Date Posted ... Embedded Software Engineer . Save Saved. Chennai, Tamil N\u0101du, India. Lead ...",
+      "date": "2026-09-24",
+      "timestamp": "2026-09-24T20:22:54+00:00",
+      "fetched_at": "2026-09-25T02:00:09.115673+00:00"
     },
     {
       "id": "253c7413b190",
