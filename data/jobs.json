@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-09-25T02:00:09.156231+00:00",
-  "total_jobs": 10293,
+  "last_updated": "2026-09-25T09:07:11.037435+00:00",
+  "total_jobs": 10301,
   "stats": {
-    "total_companies": 4698,
+    "total_companies": 4700,
     "total_roles": 135,
     "regions": {
       "India": 6748,
-      "Philippines": 2204,
-      "Remote": 1252,
+      "Philippines": 2210,
+      "Remote": 1254,
       "Unknown": 135
     },
     "sources": {
-      "Other": 8047,
-      "Greenhouse": 518,
+      "Other": 8052,
+      "Greenhouse": 519,
       "LinkedIn": 446,
-      "Workday": 437,
-      "Ashby": 317,
+      "Workday": 438,
+      "Ashby": 318,
       "iCIMS": 134,
       "Breezy": 107,
       "Lever": 71,
@@ -35,6 +35,51 @@
     }
   },
   "jobs": [
+    {
+      "id": "188fcc0c33a2",
+      "title": "Software Engineer Intern (Core, Infrastructure & Security) \u2014 Spring 2027",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.snowflake.com/us/en/job/SNCOUSB497FA45A04449C9A9B82749BEB58E69EXTERNALENUS5315B6F62C144CB9A884C2BAE69F2C69/Software-Engineer-Intern-Core-Infrastructure-Security-%E2%80%94-Spring-2027",
+      "source": "Other",
+      "description": "Senior Software Engineer - ManagedDB. Location Menlo Park, California, United States Category Engineering ReqId REQ19399. Software Engineer - Openflow.",
+      "date": "2026-09-25",
+      "timestamp": "2026-09-25T07:21:57+00:00",
+      "fetched_at": "2026-09-25T09:07:10.993253+00:00"
+    },
+    {
+      "id": "71d6f530491e",
+      "title": "Software Engineer I - Myworkdayjobs.com",
+      "company": "Acrisure",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://acrisure.wd1.myworkdayjobs.com/en-US/Acrisure/job/Software-Engineer-I_JR114404",
+      "source": "Workday",
+      "description": "Software Engineer I. Apply. remote type: Hybrid. locations: 816 Congress ... Senior Software Engineer . locations: 816 Congress Ave Ste 1800 - AUSTIN ...",
+      "date": "2026-09-25",
+      "timestamp": "2026-09-25T04:25:37+00:00",
+      "fetched_at": "2026-09-25T09:07:10.993360+00:00"
+    },
+    {
+      "id": "caafd024c920",
+      "title": "Software Engineer , Applied AI - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200684521/software-engineer-applied-ai",
+      "source": "Other",
+      "description": "Apply for a Software Engineer , Applied AI job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-09-25",
+      "timestamp": "2026-09-25T02:27:59+00:00",
+      "fetched_at": "2026-09-25T09:07:10.993547+00:00"
+    },
     {
       "id": "b7ec2ad30e1b",
       "title": "NCSU Employment Site | Software Engineer",
@@ -81,6 +126,36 @@
       "fetched_at": "2026-09-25T02:00:09.113651+00:00"
     },
     {
+      "id": "5a1288a33e4f",
+      "title": "Job Application for Software Engineer - New Grad at ZipRecruiter - Greenhouse",
+      "company": "Ziprecruiter",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/ziprecruiter/jobs/8127108",
+      "source": "Greenhouse",
+      "description": "Software Engineer - New Grad. Santa Monica, CA. Apply. We offer a hybrid work environment. Most US-based positions can also be performed remotely ...",
+      "date": "2026-09-24",
+      "timestamp": "2026-09-24T23:55:20+00:00",
+      "fetched_at": "2026-09-25T09:07:10.993865+00:00"
+    },
+    {
+      "id": "ea3b0acdec2c",
+      "title": "Applied AI Engineer @ Warp - Jobs",
+      "company": "Warp",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/warp/718d38f5-dc6c-43cd-b7e5-ce70eab048d6",
+      "source": "Ashby",
+      "description": "... AI Engineer , you'll build those agents, the runtime they operate on, and the systems that make them reliable enough to run a company's people ...",
+      "date": "2026-09-24",
+      "timestamp": "2026-09-24T23:46:27+00:00",
+      "fetched_at": "2026-09-25T09:07:10.993967+00:00"
+    },
+    {
       "id": "77d68e6144ec",
       "title": "Job Application for Staff Software Engineer at Axios - Greenhouse",
       "company": "Axios",
@@ -96,6 +171,21 @@
       "fetched_at": "2026-09-25T02:00:08.946188+00:00"
     },
     {
+      "id": "d7d7a49d7513",
+      "title": "Software Engineer , Music Search - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200685742-0670/software-engineer-music-search",
+      "source": "Other",
+      "description": "The Apple Services Engineering AI/ML organization is hiring a Software Engineer to join the Music Search team.",
+      "date": "2026-09-24",
+      "timestamp": "2026-09-24T23:25:42+00:00",
+      "fetched_at": "2026-09-25T09:07:10.994104+00:00"
+    },
+    {
       "id": "b32c018bc9f6",
       "title": "Senior Software Engineer - San Jose, California, United States | Roku Jobs",
       "company": "San Jose, California, United States | Roku Jobs",
@@ -109,6 +199,21 @@
       "date": "2026-09-24",
       "timestamp": "2026-09-24T22:59:56+00:00",
       "fetched_at": "2026-09-25T02:00:08.946748+00:00"
+    },
+    {
+      "id": "9d8dfcb6ce38",
+      "title": "Software Engineer , Central Trading | Careers at Jump Trading",
+      "company": "Jump Trading",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.jumptrading.com/hr/job?gh_jid=7940413",
+      "source": "Other",
+      "description": "Software Engineer , Central Trading. Location. Chicago. Job Type. Full-time - Experienced. About Jump. Jump Trading Group is committed to world class ...",
+      "date": "2026-09-24",
+      "timestamp": "2026-09-24T22:50:53+00:00",
+      "fetched_at": "2026-09-25T09:07:10.994609+00:00"
     },
     {
       "id": "b95f7bfd8dd3",
@@ -199,6 +304,21 @@
       "date": "2026-09-24",
       "timestamp": "2026-09-24T21:07:59+00:00",
       "fetched_at": "2026-09-25T02:00:08.948192+00:00"
+    },
+    {
+      "id": "c7832bfc956a",
+      "title": "Kaspar Companies: AI Engineer - Paylocity",
+      "company": "Paylocity",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://recruiting.paylocity.com/recruiting/jobs/Details/4180823/Kaspar-Companies/Kaspar-Companies-AI-Engineer",
+      "source": "Other",
+      "description": "AI Engineer Job Summary. Kaspar Companies is seeking a full-time AI Engineer to lead and develop our AI-driven initiatives. Based in Shiner, TX ...",
+      "date": "2026-09-24",
+      "timestamp": "2026-09-24T21:01:18+00:00",
+      "fetched_at": "2026-09-25T09:07:10.995825+00:00"
     },
     {
       "id": "64ab2a0a4959",
