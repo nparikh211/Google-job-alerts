@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-09-26T02:05:44.190328+00:00",
-  "total_jobs": 10354,
+  "last_updated": "2026-09-26T08:50:45.905830+00:00",
+  "total_jobs": 10362,
   "stats": {
-    "total_companies": 4722,
+    "total_companies": 4727,
     "total_roles": 137,
     "regions": {
-      "India": 6789,
-      "Philippines": 2213,
-      "Remote": 1264,
+      "India": 6793,
+      "Philippines": 2215,
+      "Remote": 1266,
       "Unknown": 135
     },
     "sources": {
-      "Other": 8092,
+      "Other": 8098,
       "Greenhouse": 523,
-      "LinkedIn": 448,
-      "Workday": 442,
+      "LinkedIn": 449,
+      "Workday": 443,
       "Ashby": 320,
       "iCIMS": 135,
       "Breezy": 107,
@@ -31,10 +31,115 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-09-25"
+      "latest": "2026-09-26"
     }
   },
   "jobs": [
+    {
+      "id": "e3e722f96ab3",
+      "title": "Staff Software Engineer - Engineer, Bengaluru, India",
+      "company": "Staff Software Engineer",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.uber.com/en/jobs/302596/",
+      "source": "Other",
+      "description": "and team Leading at Uber means setting direction in motion, not waiting for perfect conditions. As a Staff Software Engineer , ...",
+      "date": "2026-09-26",
+      "timestamp": "2026-09-26T07:12:16+00:00",
+      "fetched_at": "2026-09-26T08:50:45.798814+00:00"
+    },
+    {
+      "id": "4b2182f06590",
+      "title": "Advice to a beginning software engineer - Sean Goedecke",
+      "company": "Sean Goedecke",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.seangoedecke.com/advice-to-a-beginning-software-engineer/",
+      "source": "Other",
+      "description": "Advice to a beginning software engineer \u00b7 Don't trust senior engineers who are telling you to pick political fights \u00b7 Don't play games. \u00b7 Be ...",
+      "date": "2026-09-26",
+      "timestamp": "2026-09-26T06:21:12+00:00",
+      "fetched_at": "2026-09-26T08:50:45.861040+00:00"
+    },
+    {
+      "id": "5532a0e82326",
+      "title": "Nikhil Mulik's Post - Senior Software Engineer",
+      "company": "Nikhil Mulik's Post",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.linkedin.com/posts/nikhil-mulik_senior-software-engineer-activity-7509230916804739072-LPSf",
+      "source": "LinkedIn",
+      "description": "We're hiring! Senior Software Engineer \u2013 (Remote position, no sponsorship) We are looking for a Senior Software Engineer to help shape the future ...",
+      "date": "2026-09-26",
+      "timestamp": "2026-09-26T04:37:51+00:00",
+      "fetched_at": "2026-09-26T08:50:45.799110+00:00"
+    },
+    {
+      "id": "eb701ede8774",
+      "title": "Senior Software Engineer I - Myworkdayjobs.com",
+      "company": "Relx",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://relx.wd3.myworkdayjobs.com/en-US/ElsevierJobs/job/Senior-Software-Engineer-I_R118682-1",
+      "source": "Workday",
+      "description": "Senior Software Engineer I \u2013 Search and AI Platform About the Team Our team is dedicated to unlocking the rich knowledge embedded within ...",
+      "date": "2026-09-26",
+      "timestamp": "2026-09-26T03:43:24+00:00",
+      "fetched_at": "2026-09-26T08:50:45.861422+00:00"
+    },
+    {
+      "id": "685a20ea66e3",
+      "title": "Senior Software Engineer - Global Forwarding Technology | C.H. Robinson",
+      "company": "Global Forwarding Technology | C.H. Robinson",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.chrobinson.com/en-us/about-us/careers/jobs/remote/senior-software-engineer-global-forwarding-technology/r49501/",
+      "source": "Other",
+      "description": "C.H Robinson is seeking a Senior Software Engineer role on our Global Forwarding team which is expanding engineering capacity to support a growing ...",
+      "date": "2026-09-26",
+      "timestamp": "2026-09-26T01:03:13+00:00",
+      "fetched_at": "2026-09-26T08:50:45.799536+00:00"
+    },
+    {
+      "id": "195288014055",
+      "title": "Software Engineer , Energy Management | Careers - Fluidstack",
+      "company": "Careers - Fluidstack",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://fluidstack.io/jobs/9e7a062f-752b-4690-98fd-a3cf29860636",
+      "source": "Other",
+      "description": "Software Engineer , Energy Management \u2014 Development. Austin, TX, San Francisco, CA, Seattle, WA.",
+      "date": "2026-09-26",
+      "timestamp": "2026-09-26T00:47:06+00:00",
+      "fetched_at": "2026-09-26T08:50:45.799718+00:00"
+    },
+    {
+      "id": "44a5da16fb28",
+      "title": "Senior AI ML Engineer - 66244 - MANTECH Careers",
+      "company": "66244 - MANTECH Careers",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mantech.com/en_US/careers/JobDetail/Senior-AI-ML-Engineer/66244",
+      "source": "Other",
+      "description": "Senior AI ML Engineer . General information. Requisition #. R70959. Locations ... Artificial Intelligence Machine Learning Engineer \u00b7 View all. 2026 ...",
+      "date": "2026-09-25",
+      "timestamp": "2026-09-25T23:30:12+00:00",
+      "fetched_at": "2026-09-26T08:50:45.799922+00:00"
+    },
     {
       "id": "be2b24a0b685",
       "title": "0.2% to 0.75% \u2192 12 of 14 in the Bay Area Most requested: Python\u2026 | Chasen Nick - LinkedIn",
@@ -184,6 +289,21 @@
       "date": "2026-09-25",
       "timestamp": "2026-09-25T19:45:03+00:00",
       "fetched_at": "2026-09-25T22:50:50.783618+00:00"
+    },
+    {
+      "id": "5ffbc5b969e0",
+      "title": "Senior Software Engineer - Java Team Lead (Fraud Technology) - Truist Careers",
+      "company": "Senior Software Engineer",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.truist.com/us/en/job/TBJTBFUSR0119547EXTERNALENUS/Senior-Software-Engineer-Java-Team-Lead-Fraud-Technology",
+      "source": "Other",
+      "description": "Apply for Senior Software Engineer - Java Team Lead (Fraud Technology) job with Truist Bank in Charlotte, North Carolina, USA.",
+      "date": "2026-09-25",
+      "timestamp": "2026-09-25T19:44:20+00:00",
+      "fetched_at": "2026-09-26T08:50:45.802944+00:00"
     },
     {
       "id": "a2aff30216e9",
