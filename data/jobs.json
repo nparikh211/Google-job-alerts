@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-09-26T15:09:30.390781+00:00",
-  "total_jobs": 10375,
+  "last_updated": "2026-09-26T18:44:49.317607+00:00",
+  "total_jobs": 10385,
   "stats": {
-    "total_companies": 4734,
+    "total_companies": 4741,
     "total_roles": 137,
     "regions": {
-      "India": 6802,
-      "Philippines": 2217,
-      "Remote": 1269,
+      "India": 6808,
+      "Philippines": 2219,
+      "Remote": 1271,
       "Unknown": 135
     },
     "sources": {
-      "Other": 8109,
-      "Greenhouse": 523,
+      "Other": 8116,
+      "Greenhouse": 524,
       "LinkedIn": 450,
       "Workday": 444,
-      "Ashby": 320,
+      "Ashby": 321,
       "iCIMS": 135,
       "Breezy": 107,
       "Lever": 71,
-      "Workable": 69,
+      "Workable": 70,
       "SmartRecruiters": 68,
       "Indeed": 36,
       "Recruitee": 11,
@@ -35,6 +35,21 @@
     }
   },
   "jobs": [
+    {
+      "id": "6f8d03717f02",
+      "title": "Software Engineer New Grad, Machine Learning Platform - Quora (Remote) - Jobs",
+      "company": "Quora",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0",
+      "source": "Ashby",
+      "description": "... ML engineer enablement and developer velocity, business impact, and ... Software Engineer (New Grad) on this team, you'll work at the ...",
+      "date": "2026-09-26",
+      "timestamp": "2026-09-26T16:07:03+00:00",
+      "fetched_at": "2026-09-26T18:44:49.105220+00:00"
+    },
     {
       "id": "bfd0e9366642",
       "title": "Software Engineer I - Myworkdayjobs.com",
@@ -66,6 +81,36 @@
       "fetched_at": "2026-09-26T15:09:30.260987+00:00"
     },
     {
+      "id": "5cc8d222dcf0",
+      "title": "Senior Software Engineer - Cortex AI Infrastructure in Menlo Park, California, United States",
+      "company": "Cortex AI Infrastructure in Menlo Park, California, United States",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.snowflake.com/us/en/job/SNCOUS449A02E324FE4A2BAB54AE3AA25C0238EXTERNALENUS79E0F681FED642CC97549E150E056C5A/Senior-Software-Engineer-Cortex-AI-Infrastructure",
+      "source": "Other",
+      "description": "Apply for Senior Software Engineer - Cortex AI Infrastructure job in Menlo Park, California, United States. Browse and apply for Engineering jobs ...",
+      "date": "2026-09-26",
+      "timestamp": "2026-09-26T10:16:42+00:00",
+      "fetched_at": "2026-09-26T18:44:49.106309+00:00"
+    },
+    {
+      "id": "6b6cc0a7088f",
+      "title": "Job Application for Senior Software Engineer , AI Engineer at Midi Health - Greenhouse",
+      "company": "Midihealth",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/midihealth/jobs/4735107005",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer , AI Engineer . Hybrid - SF Bay Area. Apply. Location: Hybrid- San Francisco OR Palo Alto Office, Tuesday/Thursday Job Type ...",
+      "date": "2026-09-26",
+      "timestamp": "2026-09-26T09:31:58+00:00",
+      "fetched_at": "2026-09-26T18:44:49.106415+00:00"
+    },
+    {
       "id": "6a2380a1cd62",
       "title": "Interviewed candidates for \u201c AI engineer \u201d roles this week, my god is this really where our ... - Reddit",
       "company": "Reddit",
@@ -79,6 +124,36 @@
       "date": "2026-09-26",
       "timestamp": "2026-09-26T09:03:42+00:00",
       "fetched_at": "2026-09-26T15:09:30.261645+00:00"
+    },
+    {
+      "id": "66fc7d47dec8",
+      "title": "Senior Data Engineer - Burson",
+      "company": "Burson",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.bursonglobal.com/careers/jobs?gh_jid=5434873008",
+      "source": "Other",
+      "description": "HomeCareersSenior Data Engineer . Senior Data Engineer . London, England, United Kingdom. Apply Now. Who we are: Burson, part of WPP, is the global ...",
+      "date": "2026-09-26",
+      "timestamp": "2026-09-26T08:50:53+00:00",
+      "fetched_at": "2026-09-26T18:44:49.106834+00:00"
+    },
+    {
+      "id": "3f143c2d093a",
+      "title": "Lead DevOps Engineer (Remote - US) in Reston, Virginia, United States of America",
+      "company": "US) in Reston, Virginia, United States of America",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.icf.com/us/en/job/R2603255/Lead-DevOps-Engineer-Remote-US",
+      "source": "Other",
+      "description": "... Platform Engineer . Available in 3 locations. Job Id R2602576. Apply Now ... Software Engineer - Cloud/GovCloud (Top Secret - Remote US). Location ...",
+      "date": "2026-09-26",
+      "timestamp": "2026-09-26T08:40:06+00:00",
+      "fetched_at": "2026-09-26T18:44:49.107009+00:00"
     },
     {
       "id": "c36290cba605",
@@ -172,6 +247,51 @@
       "fetched_at": "2026-09-26T08:50:45.861040+00:00"
     },
     {
+      "id": "6ebf615a0adb",
+      "title": "2027 Internship \u2013 Space Exploration Software Engineer \u2013 Embedded Applications",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.jhuapl.edu/jobs/60223?lang=en-us",
+      "source": "Other",
+      "description": "Johns Hopkins APL is hiring a 2027 Internship \u2013 Space Exploration Software Engineer \u2013 Embedded Applications in Laurel, Maryland.",
+      "date": "2026-09-26",
+      "timestamp": "2026-09-26T05:37:08+00:00",
+      "fetched_at": "2026-09-26T18:44:49.108440+00:00"
+    },
+    {
+      "id": "d37381f0f581",
+      "title": "Full Stack. NET Sr. Software Engineer - CaptiveAire",
+      "company": "CaptiveAire",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://captiveaire.com/careers/opening?id=8843205002",
+      "source": "Other",
+      "description": "Software Engineer . CaptiveAire values its software developers highly and offers them immense opportunities for freedom and creativity while not ...",
+      "date": "2026-09-26",
+      "timestamp": "2026-09-26T05:13:37+00:00",
+      "fetched_at": "2026-09-26T18:44:49.108572+00:00"
+    },
+    {
+      "id": "6f0389d74b48",
+      "title": "Senior Software Engineer - IPID - Jobs by Workable",
+      "company": "Ipid",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://apply.workable.com/ipid/j/501CC9B953/",
+      "source": "Workable",
+      "description": "As a Senior Software Engineer , you'll play a key role in shaping the technology behind IPID's account verification platform. From designing scalable ...",
+      "date": "2026-09-26",
+      "timestamp": "2026-09-26T05:07:51+00:00",
+      "fetched_at": "2026-09-26T18:44:49.108679+00:00"
+    },
+    {
       "id": "5532a0e82326",
       "title": "Nikhil Mulik's Post - Senior Software Engineer",
       "company": "Nikhil Mulik's Post",
@@ -185,6 +305,21 @@
       "date": "2026-09-26",
       "timestamp": "2026-09-26T04:37:51+00:00",
       "fetched_at": "2026-09-26T08:50:45.799110+00:00"
+    },
+    {
+      "id": "6fbc8eba06dd",
+      "title": "Senior Software Engineer - Product-Led Growth - Dublin, County Dublin, Ireland - Toast",
+      "company": "Product-Led Growth - Dublin, County Dublin, Ireland - Toast",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.toasttab.com/jobs?gh_jid=8225806?ref=employbl",
+      "source": "Other",
+      "description": "Senior Software Engineer - Product-Led Growth \u00b7 About Toast: Toast is driven by building the restaurant platform that helps restaurants adapt, take ...",
+      "date": "2026-09-26",
+      "timestamp": "2026-09-26T04:18:19+00:00",
+      "fetched_at": "2026-09-26T18:44:49.275534+00:00"
     },
     {
       "id": "eb701ede8774",
@@ -215,6 +350,21 @@
       "date": "2026-09-26",
       "timestamp": "2026-09-26T02:32:56+00:00",
       "fetched_at": "2026-09-26T15:09:30.346653+00:00"
+    },
+    {
+      "id": "9ba37712aa8f",
+      "title": "Sr. Software Backend Engineer , Machine Learning Data Pipelines - Tesla",
+      "company": "Tesla",
+      "role": "Backend Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.tesla.com/careers/search/job/sr-software-backend-engineer-machine-learning-data-pipelines--284638",
+      "source": "Other",
+      "description": "Apply for the Sr. Software Backend Engineer , Machine Learning Data Pipelines position in Fremont, California.",
+      "date": "2026-09-26",
+      "timestamp": "2026-09-26T02:28:17+00:00",
+      "fetched_at": "2026-09-26T18:44:49.276038+00:00"
     },
     {
       "id": "685a20ea66e3",
