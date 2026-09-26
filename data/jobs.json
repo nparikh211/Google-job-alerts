@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-09-26T08:50:45.905830+00:00",
-  "total_jobs": 10362,
+  "last_updated": "2026-09-26T15:09:30.390781+00:00",
+  "total_jobs": 10375,
   "stats": {
-    "total_companies": 4727,
+    "total_companies": 4734,
     "total_roles": 137,
     "regions": {
-      "India": 6793,
-      "Philippines": 2215,
-      "Remote": 1266,
+      "India": 6802,
+      "Philippines": 2217,
+      "Remote": 1269,
       "Unknown": 135
     },
     "sources": {
-      "Other": 8098,
+      "Other": 8109,
       "Greenhouse": 523,
-      "LinkedIn": 449,
-      "Workday": 443,
+      "LinkedIn": 450,
+      "Workday": 444,
       "Ashby": 320,
       "iCIMS": 135,
       "Breezy": 107,
@@ -36,6 +36,97 @@
   },
   "jobs": [
     {
+      "id": "bfd0e9366642",
+      "title": "Software Engineer I - Myworkdayjobs.com",
+      "company": "Abbott",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers2/job/Software-Engineer-I_31162389",
+      "source": "Workday",
+      "description": "As an Software Engineer I, you will learn the basic concepts of all software components for Abbott Cancer Diagnostics. This role will contribute to ...",
+      "date": "2026-09-26",
+      "timestamp": "2026-09-26T12:28:24+00:00",
+      "fetched_at": "2026-09-26T15:09:30.345017+00:00"
+    },
+    {
+      "id": "025d0207ebb5",
+      "title": "Associate Data Engineer , AI Data Products Job Details - Jobs at Lincoln Financial",
+      "company": "Lincoln Financial",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.lincolnfinancial.com/job/Radnor-Associate-Data-Engineer%2C-AI-Data-Products-PA/1433876400/",
+      "source": "Other",
+      "description": "Associate Data Engineer , AI Data Products. Apply now \u00bb. Date: Sep 25, 2026. Primary Location: Radnor, PA, US. Company: Lincoln Financial. Alternate ...",
+      "date": "2026-09-26",
+      "timestamp": "2026-09-26T10:34:54+00:00",
+      "fetched_at": "2026-09-26T15:09:30.260987+00:00"
+    },
+    {
+      "id": "6a2380a1cd62",
+      "title": "Interviewed candidates for \u201c AI engineer \u201d roles this week, my god is this really where our ... - Reddit",
+      "company": "Reddit",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/ExperiencedDevs/comments/1wql3g2/interviewed_candidates_for_ai_engineer_roles_this/",
+      "source": "Other",
+      "description": "For example, a frontend engineer who uses AI assistance for coding is a still a frontend engineer , not an \" AI engineer \". SquiffSquiff. \u2022. in 9h.",
+      "date": "2026-09-26",
+      "timestamp": "2026-09-26T09:03:42+00:00",
+      "fetched_at": "2026-09-26T15:09:30.261645+00:00"
+    },
+    {
+      "id": "c36290cba605",
+      "title": "day in my life as a fully remote software engineer ! not every day looks the same, but this ... - LinkedIn",
+      "company": "LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "India",
+        "Remote"
+      ],
+      "link": "https://www.linkedin.com/posts/chase-grainger_day-in-my-life-as-a-fully-remote-software-activity-7509220454566432768-6ZT4",
+      "source": "LinkedIn",
+      "description": "Jeremy Swagger. Senior Software Engineer | React \u2219 AWS \u2219 GIS. 8h. Report ... Manan Ur Rehman. DevOps Engineer | I build pipelines where ...",
+      "date": "2026-09-26",
+      "timestamp": "2026-09-26T08:08:12+00:00",
+      "fetched_at": "2026-09-26T15:09:30.262008+00:00"
+    },
+    {
+      "id": "e01f4d87055d",
+      "title": "Fundamental Equities AI Engineer - London - Point72 Careers",
+      "company": "London - Point72 Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.point72.com/CSJobDetail?jobCode=LSI-0014840",
+      "source": "Other",
+      "description": "Fundamental Equities AI Engineer - London \u00b7 A CAREER BUILDING AI WITHIN POINT72'S FUNDAMENTAL EQUITIES BUSINESS \u00b7 WHAT YOU'LL DO \u00b7 WHAT'S REQUIRED \u00b7 WE ...",
+      "date": "2026-09-26",
+      "timestamp": "2026-09-26T08:06:34+00:00",
+      "fetched_at": "2026-09-26T15:09:30.262198+00:00"
+    },
+    {
+      "id": "d475ae4395cf",
+      "title": "Senior Software Engineer in Arlington, United States of America, 22203 - Careers at Mastercard",
+      "company": "Mastercard",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mastercard.com/us/en/job/R-291094/Senior-Software-Engineer",
+      "source": "Other",
+      "description": "Apply for Senior Software Engineer job with Mastercard in Arlington, United States of America, 22203. Engineering at Mastercard.",
+      "date": "2026-09-26",
+      "timestamp": "2026-09-26T07:41:12+00:00",
+      "fetched_at": "2026-09-26T15:09:30.262342+00:00"
+    },
+    {
       "id": "e3e722f96ab3",
       "title": "Staff Software Engineer - Engineer, Bengaluru, India",
       "company": "Staff Software Engineer",
@@ -49,6 +140,21 @@
       "date": "2026-09-26",
       "timestamp": "2026-09-26T07:12:16+00:00",
       "fetched_at": "2026-09-26T08:50:45.798814+00:00"
+    },
+    {
+      "id": "cebb8d3c8ecb",
+      "title": "Principal Software Engineer in O Fallon, United States of America, 63368-7263",
+      "company": "7263",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mastercard.com/us/en/job/R-289407/Principal-Software-Engineer",
+      "source": "Other",
+      "description": "Similar Jobs \u00b7 Senior Software Engineer - Java. Location O Fallon, United States of America, 63368-7263 Category Engineering \u00b7 Senior Software Engineer .",
+      "date": "2026-09-26",
+      "timestamp": "2026-09-26T07:09:50+00:00",
+      "fetched_at": "2026-09-26T15:09:30.262660+00:00"
     },
     {
       "id": "4b2182f06590",
@@ -96,6 +202,21 @@
       "fetched_at": "2026-09-26T08:50:45.861422+00:00"
     },
     {
+      "id": "d6d84f5552e2",
+      "title": "Software Engineer II - Engineer, Sunnyvale, United States",
+      "company": "Software Engineer II",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.uber.com/en/jobs/302709/",
+      "source": "Other",
+      "description": "As a Software Engineer on the Uber Eats Feed team at Uber, you will be at the forefront of building and scaling Uber's feed products and its ...",
+      "date": "2026-09-26",
+      "timestamp": "2026-09-26T02:32:56+00:00",
+      "fetched_at": "2026-09-26T15:09:30.346653+00:00"
+    },
+    {
       "id": "685a20ea66e3",
       "title": "Senior Software Engineer - Global Forwarding Technology | C.H. Robinson",
       "company": "Global Forwarding Technology | C.H. Robinson",
@@ -109,6 +230,21 @@
       "date": "2026-09-26",
       "timestamp": "2026-09-26T01:03:13+00:00",
       "fetched_at": "2026-09-26T08:50:45.799536+00:00"
+    },
+    {
+      "id": "1495d75b25f9",
+      "title": "Software Engineer , Manufacturing Test Equipment - Tesla",
+      "company": "Tesla",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.tesla.com/careers/search/job/software-engineer-manufacturing-test-equipment-284621",
+      "source": "Other",
+      "description": "Apply for the Software Engineer , Manufacturing Test Equipment position in Palo Alto, California.",
+      "date": "2026-09-26",
+      "timestamp": "2026-09-26T00:57:09+00:00",
+      "fetched_at": "2026-09-26T15:09:30.263690+00:00"
     },
     {
       "id": "195288014055",
@@ -126,6 +262,21 @@
       "fetched_at": "2026-09-26T08:50:45.799718+00:00"
     },
     {
+      "id": "8d257b2ca349",
+      "title": "Senior Software Engineer \u2013 Remote | Akkio Careers - Kula",
+      "company": "Akkio Careers - Kula",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.kula.ai/akkio/52130-senior-software-engineer?jobs=true",
+      "source": "Other",
+      "description": "Senior Software Engineer . Job type: Full Time \u00b7 Department: Engineering \u00b7 Work type: Remote \u00b7 USD 160,000-240,000 / year. United States. Job details",
+      "date": "2026-09-26",
+      "timestamp": "2026-09-26T00:27:41+00:00",
+      "fetched_at": "2026-09-26T15:09:30.347558+00:00"
+    },
+    {
       "id": "44a5da16fb28",
       "title": "Senior AI ML Engineer - 66244 - MANTECH Careers",
       "company": "66244 - MANTECH Careers",
@@ -141,6 +292,36 @@
       "fetched_at": "2026-09-26T08:50:45.799922+00:00"
     },
     {
+      "id": "f7d3ef2bf31a",
+      "title": "AI DevOps Engineer - - 131027 - Booz | Allen | Hamilton \u00ae - Careers",
+      "company": "- 131027 - Booz | Allen | Hamilton \u00ae - Careers",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.boozallen.com/careers/JobDetail/Ashburn-AI-DevOps-Engineer-R0250362/131027",
+      "source": "Other",
+      "description": "The Opportunity: As an AI DevOps Engineer you'll design, build, connect, and operate AI tools and automated workflows that help Booz Allen teams ...",
+      "date": "2026-09-25",
+      "timestamp": "2026-09-25T23:22:49+00:00",
+      "fetched_at": "2026-09-26T15:09:30.264260+00:00"
+    },
+    {
+      "id": "9359b0313699",
+      "title": "Principal Machine Learning Engineer Jobs at Amgen in United States - Remote",
+      "company": "Amgen in United States",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.amgen.com/en/job/washington-d-c/principal-machine-learning-engineer/87/101148956448",
+      "source": "Other",
+      "description": "Principal Machine Learning Engineer . Two ... Certifications on GenAI/ML platforms (AWS AI, Azure AI Engineer , Google Cloud ML, etc.) are a plus.",
+      "date": "2026-09-25",
+      "timestamp": "2026-09-25T23:03:02+00:00",
+      "fetched_at": "2026-09-26T15:09:30.264471+00:00"
+    },
+    {
       "id": "be2b24a0b685",
       "title": "0.2% to 0.75% \u2192 12 of 14 in the Bay Area Most requested: Python\u2026 | Chasen Nick - LinkedIn",
       "company": "Unknown Company",
@@ -154,6 +335,21 @@
       "date": "2026-09-25",
       "timestamp": "2026-09-25T22:49:46+00:00",
       "fetched_at": "2026-09-26T02:05:43.999606+00:00"
+    },
+    {
+      "id": "ccffc7405596",
+      "title": "Software Engineer IV - Search Platform Job Details | Grainger Businesses",
+      "company": "Search Platform Job Details | Grainger Businesses",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.grainger.com/job/CHICAGO-Software-Engineer-IV-Search-Platform-IL-60654-4203/1433965100/",
+      "source": "Other",
+      "description": "CHICAGO Software Engineer IV - Search Platform - IL, 60654-4203.",
+      "date": "2026-09-25",
+      "timestamp": "2026-09-25T21:14:54+00:00",
+      "fetched_at": "2026-09-26T15:09:30.265356+00:00"
     },
     {
       "id": "9a26ece0ee36",
