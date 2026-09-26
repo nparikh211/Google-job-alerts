@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-09-25T22:50:51.080536+00:00",
-  "total_jobs": 10347,
+  "last_updated": "2026-09-26T02:05:44.190328+00:00",
+  "total_jobs": 10354,
   "stats": {
-    "total_companies": 4718,
-    "total_roles": 136,
+    "total_companies": 4722,
+    "total_roles": 137,
     "regions": {
-      "India": 6783,
+      "India": 6789,
       "Philippines": 2213,
-      "Remote": 1263,
+      "Remote": 1264,
       "Unknown": 135
     },
     "sources": {
-      "Other": 8086,
+      "Other": 8092,
       "Greenhouse": 523,
-      "LinkedIn": 447,
+      "LinkedIn": 448,
       "Workday": 442,
       "Ashby": 320,
       "iCIMS": 135,
@@ -36,6 +36,51 @@
   },
   "jobs": [
     {
+      "id": "be2b24a0b685",
+      "title": "0.2% to 0.75% \u2192 12 of 14 in the Bay Area Most requested: Python\u2026 | Chasen Nick - LinkedIn",
+      "company": "Unknown Company",
+      "role": "0.2% to 0.75% \u2192 12 of 14 in the Bay Area Most requested: Pyt",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/chasennick_ive-worked-14-ml-and-ai-engineer-searches-activity-7509013453001580545-coDA",
+      "source": "LinkedIn",
+      "description": "I've worked 14 ML and AI engineer searches this year. The pay: \u2192 Base ... ML engineer who interviews well and one who gets hired. If you're ...",
+      "date": "2026-09-25",
+      "timestamp": "2026-09-25T22:49:46+00:00",
+      "fetched_at": "2026-09-26T02:05:43.999606+00:00"
+    },
+    {
+      "id": "9a26ece0ee36",
+      "title": "Software Engineer , AI Job Details - Softchoice Careers",
+      "company": "Softchoice Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.softchoice.com/job/Toronto-Software-Engineer%2C-AI-ON/606482717/",
+      "source": "Other",
+      "description": "We are hiring a Software Engineer , AI to play a key role in designing and delivering AI-driven solutions that empower businesses with intelligent ...",
+      "date": "2026-09-25",
+      "timestamp": "2026-09-25T21:02:06+00:00",
+      "fetched_at": "2026-09-26T02:05:44.000300+00:00"
+    },
+    {
+      "id": "bd14b5ebc27a",
+      "title": "2027 Summer Intern, BS, Software Engineer , Driver Refinement Foundations",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.withwaymo.com/jobs/2027-summer-intern-bs-software-engineer-driver-refinement-foundations-mountain-view-california-united-states",
+      "source": "Other",
+      "description": "If you're a software engineer or researcher who's curious and passionate about Level 4 autonomous driving, we'd like to meet you. The subteam for ...",
+      "date": "2026-09-25",
+      "timestamp": "2026-09-25T20:48:10+00:00",
+      "fetched_at": "2026-09-26T02:05:44.001061+00:00"
+    },
+    {
       "id": "8d2e4eed536f",
       "title": "Senior Software Engineer , Fullstack - Myworkdayjobs.com",
       "company": "Hagerty",
@@ -49,6 +94,51 @@
       "date": "2026-09-25",
       "timestamp": "2026-09-25T20:21:20+00:00",
       "fetched_at": "2026-09-25T22:50:50.781733+00:00"
+    },
+    {
+      "id": "812c0f8f098f",
+      "title": "AI Engineer at Barclays",
+      "company": "Barclays",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://search.jobs.barclays/job/noida/ai-engineer/13015/101121922800",
+      "source": "Other",
+      "description": "AI Engineer . Noida, India. Apply for job. Save for Later. Date live: 09/25/2026. Business Area: USCB Operations. Area of Expertise: Data & Analytics.",
+      "date": "2026-09-25",
+      "timestamp": "2026-09-25T20:21:14+00:00",
+      "fetched_at": "2026-09-26T02:05:44.001463+00:00"
+    },
+    {
+      "id": "3738c2fbd241",
+      "title": "Software Engineer II in St. Petersburg, Florida | Bank OZK - Career",
+      "company": "Bank OZK - Career",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.ozk.com/Bank-OZK-Talent-Community-Landing-Page/jobs/6588?lang=en-us",
+      "source": "Other",
+      "description": "AVP Senior Software Engineer . Req ID: 6411. location_on. St. Petersburg, Florida. label. Data & Information Technology. access_time. 22 days ago.",
+      "date": "2026-09-25",
+      "timestamp": "2026-09-25T20:20:32+00:00",
+      "fetched_at": "2026-09-26T02:05:44.001768+00:00"
+    },
+    {
+      "id": "f4a18eb3ae00",
+      "title": "Site Reliability Engineer (SRE) - FEDRAMP | NIGHTS | Remote - Cisco Careers",
+      "company": "FEDRAMP | NIGHTS | Remote - Cisco Careers",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2024247EXTERNALENGLOBAL/Site-Reliability-Engineer-SRE-FEDRAMP-NIGHTS-Remote",
+      "source": "Other",
+      "description": "We are seeking a Senior Software Engineer to lead the architecture and ... Take on the role of Lead DevOps Engineer to drive innovation and operational ...",
+      "date": "2026-09-25",
+      "timestamp": "2026-09-25T20:06:23+00:00",
+      "fetched_at": "2026-09-26T02:05:44.002493+00:00"
     },
     {
       "id": "fc594407cf29",
@@ -109,6 +199,21 @@
       "date": "2026-09-25",
       "timestamp": "2026-09-25T19:36:18+00:00",
       "fetched_at": "2026-09-25T22:50:50.783727+00:00"
+    },
+    {
+      "id": "5b2d975f0cfb",
+      "title": "Data Engineer - United States - 194742 - Koch",
+      "company": "United States - 194742 - Koch",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://koch.avature.net/en_US/careers/JobDetail/United-States-Data-Engineer-RL/194742",
+      "source": "Other",
+      "description": "Your Job i360 is seeking a Data Engineer to join its Data Engineering team. With your technical expertise, you will architect, implement, ...",
+      "date": "2026-09-25",
+      "timestamp": "2026-09-25T19:31:56+00:00",
+      "fetched_at": "2026-09-26T02:05:44.004202+00:00"
     },
     {
       "id": "51080f711959",
