@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-09-28T10:11:54.128511+00:00",
-  "total_jobs": 10476,
+  "last_updated": "2026-09-28T18:47:18.425164+00:00",
+  "total_jobs": 10498,
   "stats": {
-    "total_companies": 4788,
-    "total_roles": 140,
+    "total_companies": 4792,
+    "total_roles": 141,
     "regions": {
-      "India": 6863,
-      "Philippines": 2238,
-      "Remote": 1289,
+      "India": 6881,
+      "Philippines": 2240,
+      "Remote": 1291,
       "Unknown": 135
     },
     "sources": {
-      "Other": 8188,
+      "Other": 8208,
       "Greenhouse": 530,
-      "LinkedIn": 460,
+      "LinkedIn": 462,
       "Workday": 444,
       "Ashby": 321,
       "iCIMS": 135,
@@ -35,6 +35,336 @@
     }
   },
   "jobs": [
+    {
+      "id": "b6f755cb1b32",
+      "title": "Software Engineer , DevOps - OpenAI",
+      "company": "OpenAI",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://openai.com/careers/software-engineer-devops-san-francisco/",
+      "source": "Other",
+      "description": "Software Engineer , DevOps \u00b7 Define the model CI strategy for frontier models running on OpenAI custom silicon and integrated accelerator systems.",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T18:38:51+00:00",
+      "fetched_at": "2026-09-28T18:47:18.193099+00:00"
+    },
+    {
+      "id": "9de7ae7f345c",
+      "title": "Job Opening - Software Engineer - Plano, TX - Randstad USA",
+      "company": "Job Opening",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.randstadusa.com/jobs/4/1347604/software-engineer_plano/",
+      "source": "Other",
+      "description": "Explore and apply for Software Engineer jobs in Plano, Texas with Randstad. Find the perfect job for you today!",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T18:34:31+00:00",
+      "fetched_at": "2026-09-28T18:47:18.193270+00:00"
+    },
+    {
+      "id": "a61b8d0f249d",
+      "title": "Cloud Engineer at Northwestern Medicine",
+      "company": "Northwestern Medicine",
+      "role": "Cloud Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.nm.org/job/chicago/cloud-engineer/27763/101270275152",
+      "source": "Other",
+      "description": "Cloud Engineer . Location Chicago, Illinois Business Unit Northwestern Medicine Corporate Job REQID 225291 Job Function Information Technology Shift ...",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T17:33:55+00:00",
+      "fetched_at": "2026-09-28T18:47:18.193562+00:00"
+    },
+    {
+      "id": "57a8d8314d8c",
+      "title": "DeWinter Group hiring Data Engineer (AI Pipelines) in Campbell, CA | LinkedIn",
+      "company": "LinkedIn",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/4472442871/",
+      "source": "LinkedIn",
+      "description": "Data Platform Engineer . Figma. San Francisco, CA 6 days ago. Data Product ... Software Engineer , AI Platform. Fluency. San Francisco, CA $150,000 ...",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T17:09:26+00:00",
+      "fetched_at": "2026-09-28T18:47:18.193858+00:00"
+    },
+    {
+      "id": "8c43c1af72f6",
+      "title": "Data Engineer Senior/Lead in United States | Progressive Careers",
+      "company": "Progressive Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.progressive.com/jobs/18180678-data-engineer-senior-slash-lead/",
+      "source": "Other",
+      "description": "Data Engineer Senior/Lead in United States. ... Progressive Insurance Homepage \u2022 Careers \u2022 Job Openings \u2022 Data Engineer Senior/Lead.",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T17:07:32+00:00",
+      "fetched_at": "2026-09-28T18:47:18.194041+00:00"
+    },
+    {
+      "id": "2949fa8c7cea",
+      "title": "Software Engineer - Full Stack, Bangalore, KA | Fidelity Careers",
+      "company": "Full Stack, Bangalore, KA | Fidelity Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.fidelity.com/in/jobs/2134500/software-engineer-full-stack/",
+      "source": "Other",
+      "description": "Job Description: Job Title \u2013Associate Software Engineer / Software Engineer - Full Stack Software Engineer Grade \u2013 3/4 Business Intelligence ...",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T17:04:19+00:00",
+      "fetched_at": "2026-09-28T18:47:18.194223+00:00"
+    },
+    {
+      "id": "d8558f040486",
+      "title": "Data Engineer - Databricks - Analytics8 | Built In",
+      "company": "Databricks - Analytics8 | Built In",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://builtin.com/job/data-engineer-databricks/11392722",
+      "source": "Other",
+      "description": "Analytics8 is hiring for a Remote Data Engineer - Databricks in Chicago, IL, United States. Find more details about the job and how to apply at ...",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T16:58:37+00:00",
+      "fetched_at": "2026-09-28T18:47:18.194379+00:00"
+    },
+    {
+      "id": "fc1f704e0352",
+      "title": "Senior Software Engineer in Huntsville, Alabama (Hybrid Remote) - Leidos Careers",
+      "company": "Leidos Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.leidos.com/jobs/18286715-senior-software-engineer",
+      "source": "Other",
+      "description": "Senior Software Engineer \u00b7 Provide technical leadership and direction for software development teams (5-15 engineers). \u00b7 Define full-stack software ...",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T16:43:49+00:00",
+      "fetched_at": "2026-09-28T18:47:18.194531+00:00"
+    },
+    {
+      "id": "b6033eb403b5",
+      "title": "Big Data Engineer (Scala), Warsaw - Box",
+      "company": "Box",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.box.com/en/jobs/8173685/big-data-engineer-scala/",
+      "source": "Other",
+      "description": "Senior Software Engineer , Storage Platform. Save Saved. Warsaw, Poland; Engineering. Full-Stack Engineer ... Software Backend Engineer III. Save Saved.",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T16:36:52+00:00",
+      "fetched_at": "2026-09-28T18:47:18.194650+00:00"
+    },
+    {
+      "id": "d6efa123d85c",
+      "title": "Site Reliability Engineer , Raxium - Careers - Google",
+      "company": "Careers - Google",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/111719432543183558-site-reliability-engineer-raxium",
+      "source": "Other",
+      "description": "As a Site Reliability Engineer , you will drive strategic direction ... Software Engineer III, Infrastructure, Internet Egress Traffic Engineering.",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T15:55:06+00:00",
+      "fetched_at": "2026-09-28T18:47:18.194866+00:00"
+    },
+    {
+      "id": "d09115692776",
+      "title": "Software Engineer - Postgres job in Menlo Park, California, United States",
+      "company": "Postgres job in Menlo Park, California, United States",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.snowflake.com/us/en/job/SNCOUSF7DE0ACE454B4992AEE8D2DB1B232226EXTERNALENUS6E96B818235046018BDD7DDD6C4A5F6D/Software-Engineer-Postgres",
+      "source": "Other",
+      "description": "Software Engineer - Openflow. Location Menlo Park, California, United States Category Engineering ReqId REQ20967. Senior Software Engineer - ManagedDB.",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T15:51:51+00:00",
+      "fetched_at": "2026-09-28T18:47:18.195264+00:00"
+    },
+    {
+      "id": "50eeb07fdb93",
+      "title": "Senior Software Engineer - Careers at Citizens Bank",
+      "company": "Citizens Bank",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.citizensbank.com/job/short-hills/senior-software-engineer/288/101265739040",
+      "source": "Other",
+      "description": "(CFG) seeks a Senior Software Engineer for its Short Hills, New Jersey location. ... Principal Data Engineer Johnston, Rhode Island Johnston, Rhode ...",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T15:51:39+00:00",
+      "fetched_at": "2026-09-28T18:47:18.195394+00:00"
+    },
+    {
+      "id": "111a7623b293",
+      "title": "As an AI Engineer . Please learn: > Harness engineering, not just prompt engineering ... - LinkedIn",
+      "company": "LinkedIn",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/rohit-ghumare_as-an-ai-engineer-please-learn-harness-activity-7510210239183523840-XY9P",
+      "source": "LinkedIn",
+      "description": "As an AI Engineer . Please learn: > Harness engineering, not just prompt engineering > Context engineering, not just long prompts > Prompt caching ...",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T15:50:00+00:00",
+      "fetched_at": "2026-09-28T18:47:18.195717+00:00"
+    },
+    {
+      "id": "077df137a32b",
+      "title": "I spent 20+ years as a software engineer looking down on marketing. I owe you all an apology",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/DigitalMarketing/comments/1wscm93/i_spent_20_years_as_a_software_engineer_looking/",
+      "source": "Other",
+      "description": "... analytics and marketing. As a software engineer , u actually can understand it quite easily if someone guides u at work over a while. OkCommunity6018.",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T15:09:04+00:00",
+      "fetched_at": "2026-09-28T18:47:18.195947+00:00"
+    },
+    {
+      "id": "9f5327b76345",
+      "title": "Machine Learning ( ML) Engineer , Applied AI | Signify Technology",
+      "company": "Signify Technology",
+      "role": "Machine Learning ( ML) Engineer , Applied AI | Signify Techn",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.signifytechnology.com/jobs/Machine-Learning-ML-Engineer-Applied-AI-21704/",
+      "source": "Other",
+      "description": "This is an opportunity to join a small, highly capable Applied AI team as the third specialist ML Engineer ... Senior Software Engineer . Location.",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T15:01:54+00:00",
+      "fetched_at": "2026-09-28T18:47:18.196409+00:00"
+    },
+    {
+      "id": "5d2a4e87e5da",
+      "title": "BTS Behind The Scenes: Meet Principal Software Engineer Hal Black",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://unleashbts.com/bts-behind-the-scenes-meet-principal-software-engineer-hal-black/",
+      "source": "Other",
+      "description": "In this month's feature we'll talk with Principal Software Engineer Hal Black on the recent Augury acquisition, technical challenges, and AI. Augury ...",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T14:57:46+00:00",
+      "fetched_at": "2026-09-28T18:47:18.196652+00:00"
+    },
+    {
+      "id": "c2be40cfd8f9",
+      "title": "Data Engineer -Data Platforms-SnowFlake - 131775 - IBM",
+      "company": "Data Platforms-SnowFlake - 131775 - IBM",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131775",
+      "source": "Other",
+      "description": "As a Data Engineer specializing in Data Platforms-SnowFlake, you play a critical role in building and enhancing Snowflake platforms for clients' ...",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T14:36:51+00:00",
+      "fetched_at": "2026-09-28T18:47:18.196942+00:00"
+    },
+    {
+      "id": "35fc66a07e82",
+      "title": "Careers | Microsoft AI: Software Engineer | AI Infra",
+      "company": "Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://microsoft.ai/careers/job/4422043009/software-engineer-ai-infra/",
+      "source": "Other",
+      "description": "Microsoft AI is looking for a Software Engineer AI Infra to help build the SOTA LLM models. ... Principal AI Evaluations Platform Engineer . London, UK ...",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T14:36:31+00:00",
+      "fetched_at": "2026-09-28T18:47:18.197080+00:00"
+    },
+    {
+      "id": "05c32efd416f",
+      "title": "Software Engineer (Java) job in Sofia, Bulgaria - Experian",
+      "company": "Experian",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.experian.com/job/software-engineer-java-in-sofia-bulgaria-jid-6260",
+      "source": "Other",
+      "description": "Specialist I - Data Engineer (Brazil Based). Salary. Location. S\u00e3o Carlos ... Full-Stack Engineer . Salary. Location. Sofia, Bulgaria. Experience ...",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T14:20:01+00:00",
+      "fetched_at": "2026-09-28T18:47:18.382963+00:00"
+    },
+    {
+      "id": "29f485a16ba4",
+      "title": "Agentic AI, Data Engineer COA Accelerator - IQVIA",
+      "company": "IQVIA",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.iqvia.com/en/jobs/R1553982-5",
+      "source": "Other",
+      "description": "The Data Engineer will play a critical role in transforming fragmented clinical, regulatory, scientific, and proprietary content into structured ...",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T14:05:44+00:00",
+      "fetched_at": "2026-09-28T18:47:18.383061+00:00"
+    },
+    {
+      "id": "38f910abddd3",
+      "title": "Senior Software Engineer , Full Stack Web Development \u2013 GCP & Vertex AI Focus",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://search-careers.gm.com/en/jobs/jr-202620787/senior-software-engineer-full-stack-web-development-gcp-vertex-ai-focus/",
+      "source": "Other",
+      "description": "We are looking for an exceptional Senior Software Engineer (Full Stack Web) who is excited about building high-impact web products across General ...",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T14:00:54+00:00",
+      "fetched_at": "2026-09-28T18:47:18.383339+00:00"
+    },
+    {
+      "id": "d1094c4b850c",
+      "title": "Analyst - Software Engineer I - AI/ML, Java/Python, REACT - JPMorgan Chase",
+      "company": "Analyst",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210795285",
+      "source": "Other",
+      "description": "Analyst - Software Engineer I - AI/ML, Java/Python, REACT. Mumbai, Maharashtra, India. Apply Now. Job Information. Job Identification 210795285; Job ...",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T13:44:32+00:00",
+      "fetched_at": "2026-09-28T18:47:18.383460+00:00"
+    },
     {
       "id": "0f47affeb70d",
       "title": "DevOps Engineer II #612153 US-Remote",
