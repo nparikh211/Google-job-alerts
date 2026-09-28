@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-09-28T02:03:05.011362+00:00",
-  "total_jobs": 10455,
+  "last_updated": "2026-09-28T10:11:54.128511+00:00",
+  "total_jobs": 10476,
   "stats": {
-    "total_companies": 4778,
+    "total_companies": 4788,
     "total_roles": 140,
     "regions": {
-      "India": 6848,
-      "Philippines": 2236,
-      "Remote": 1284,
+      "India": 6863,
+      "Philippines": 2238,
+      "Remote": 1289,
       "Unknown": 135
     },
     "sources": {
-      "Other": 8167,
+      "Other": 8188,
       "Greenhouse": 530,
       "LinkedIn": 460,
       "Workday": 444,
@@ -31,10 +31,326 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-09-27"
+      "latest": "2026-09-28"
     }
   },
   "jobs": [
+    {
+      "id": "0f47affeb70d",
+      "title": "DevOps Engineer II #612153 US-Remote",
+      "company": "Remote",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://recruit.hirebridge.com/v3/Jobs/JobDetails.aspx?cid=6875&jid=612153&locvalue=1170",
+      "source": "Other",
+      "description": "DevOps Engineer II. Sovos\u00b7Full-Time\u00b7United States. Build Your Future With Us. The digitization of tax compliance is fundamentally changing global ...",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T09:46:43+00:00",
+      "fetched_at": "2026-09-28T10:11:53.840358+00:00"
+    },
+    {
+      "id": "a9294507d5e5",
+      "title": "21 year old software engineer . Not even joking what should I go for? : r/whatcarshouldIbuy",
+      "company": "should I go for? : r/whatcarshouldIbuy",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/whatcarshouldIbuy/comments/1wrij07/21_year_old_software_engineer_not_even_joking/",
+      "source": "Other",
+      "description": "21 year old software engineer . Not even joking what should I go for?",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T09:39:27+00:00",
+      "fetched_at": "2026-09-28T10:11:53.840578+00:00"
+    },
+    {
+      "id": "34ad78a9c667",
+      "title": "Software Engineer - ACI Worldwide Job Opportunities Careers - Cloud Sign In",
+      "company": "ACI Worldwide Job Opportunities Careers - Cloud Sign In",
+      "role": "Software Engineer",
+      "regions": [
+        "India",
+        "Remote"
+      ],
+      "link": "https://ebwg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19285",
+      "source": "Other",
+      "description": "Software Engineer . Pune, Maharashtra, India (Hybrid). Trending. Job Description. Powering the world's payments ecosystem. ACI powers the payments ...",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T08:56:54+00:00",
+      "fetched_at": "2026-09-28T10:11:53.840763+00:00"
+    },
+    {
+      "id": "e08cd36052c8",
+      "title": "Software Engineer - GEN AI, Kosice, Slovakia | Caterpillar Careers",
+      "company": "GEN AI, Kosice, Slovakia | Caterpillar Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.caterpillar.com/en/jobs/r0000396074/software-engineer-gen-ai/",
+      "source": "Other",
+      "description": "Software Engineer - GEN AI. Location, Kosice, Slovakia. Date Posted ... Senior Software Engineer \u2013 genAI. Save Saved. Kosice, Slovakia. a person ...",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T08:49:01+00:00",
+      "fetched_at": "2026-09-28T10:11:53.840990+00:00"
+    },
+    {
+      "id": "29e6a2d0bbcc",
+      "title": "DevOps Engineer , Shangai, China | SAP Careers",
+      "company": "SAP Careers",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.sap.com/en/jobs/744000152095669/devops-engineer/",
+      "source": "Other",
+      "description": "DevOps Engineer . Team Links:Information Technology And Services; Location Links:Shangai; Published Date:Today. Work Pattern:Hybrid -. Contract Type ...",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T08:17:46+00:00",
+      "fetched_at": "2026-09-28T10:11:54.085452+00:00"
+    },
+    {
+      "id": "536b77e694f6",
+      "title": "Senior Site Reliability Engineer (SRE) \u2013 Infrastructure & Systems (Remote)",
+      "company": "Unknown Company",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://career.oxylabs.io/job/8e7a55c8/senior-site-reliability-engineer-sre-infrastructure-systems-remote/",
+      "source": "Other",
+      "description": "... AI Engineer . Vilnius, Oxylabs. Details \u00b7 Android Engineer (Mid-Senior) ... Full Stack Engineer (Node.js, React). Vilnius, Data Team. Details \u00b7 Browser ...",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T07:31:21+00:00",
+      "fetched_at": "2026-09-28T10:11:53.841258+00:00"
+    },
+    {
+      "id": "a429109f3775",
+      "title": "Gen AI Engineer (C/Pro*C with GitHub Copilot) Job Details | Gainwell Technologies LLC",
+      "company": "Gainwell Technologies LLC",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.gainwelltechnologies.com/job/Hyderabad-Gen-AI-Engineer-%28CProC-with-GitHub-Copilot%29-TG-500032/1434215200/",
+      "source": "Other",
+      "description": "Hyderabad Gen AI Engineer (C/Pro*C with GitHub Copilot) - TG, 500032.",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T07:27:49+00:00",
+      "fetched_at": "2026-09-28T10:11:53.841480+00:00"
+    },
+    {
+      "id": "2e305f7b5487",
+      "title": "Sr. Staff Software Engineer - Intuit Careers",
+      "company": "Intuit Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.intuit.com/job/bengaluru/sr-staff-software-engineer/27595/101248711776",
+      "source": "Other",
+      "description": "Intuit supports you, not just as you are now, but as the person that you want to grow to be. Alex Pollock Senior Software Engineer . Software ...",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T07:25:19+00:00",
+      "fetched_at": "2026-09-28T10:11:53.841680+00:00"
+    },
+    {
+      "id": "84f3a6524287",
+      "title": "Senior Software Engineer - ServiceNow IRM - American Express Careers",
+      "company": "ServiceNow IRM - American Express Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.americanexpress.com/en/sites/CX_1/job/26013786/?location=Gurugram%252525252525252C+HR%252525252525252C+India&locationId=300000032710650&locationLevel=city&mode=location&radius=0&radiusUnit=KM&intlink=gb-amex-career-en-gb-gurgaon-explore-all-jobs",
+      "source": "Other",
+      "description": "Senior Software Engineer - ServiceNow IRM. Bengaluru, KA, India; Gurugram, HR, India. (Hybrid). Apply Now. Job Description. The Enterprise Technology ...",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T07:21:11+00:00",
+      "fetched_at": "2026-09-28T10:11:53.842015+00:00"
+    },
+    {
+      "id": "b97fd74ce855",
+      "title": "Software Engineer II in O Fallon, United States of America, 63368-7263 - Careers at Mastercard",
+      "company": "Mastercard",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mastercard.com/us/en/job/R-290657/Software-Engineer-II",
+      "source": "Other",
+      "description": "Senior Software Engineer . Location O Fallon, United States of America, 63368-7263 Category Engineering. Senior Software Engineer . Location O Fallon ...",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T07:12:49+00:00",
+      "fetched_at": "2026-09-28T10:11:53.842156+00:00"
+    },
+    {
+      "id": "45617757a7f4",
+      "title": "Data Engineer -Data Platforms-SnowFlake - 131775 - IBM",
+      "company": "Data Platforms-SnowFlake - 131775 - IBM",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=131775&source=SN_LinkedIn",
+      "source": "Other",
+      "description": "Data Engineer -Data Platforms-SnowFlake ... A career in IBM Consulting is built on long-term client relationships and close collaboration worldwide. You' ...",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T05:53:38+00:00",
+      "fetched_at": "2026-09-28T10:11:53.842411+00:00"
+    },
+    {
+      "id": "7be38c081bbc",
+      "title": "Site Reliability Engineer - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200684387-3715/site-reliability-engineer?team=SFTWR",
+      "source": "Other",
+      "description": "Site Reliability Engineer . Shanghai, Shanghai, China Software and ... We are looking for a Senior DevOps Engineer who can design, build, and ...",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T05:47:51+00:00",
+      "fetched_at": "2026-09-28T10:11:53.842564+00:00"
+    },
+    {
+      "id": "78f525d38843",
+      "title": "Software Engineer in Chicago, Illinois, United States of America | Technology at Cboe Global Markets",
+      "company": "Cboe Global Markets",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cboe.com/us/en/job/R-4636/Software-Engineer",
+      "source": "Other",
+      "description": "Apply for Software Engineer job with Cboe Global Markets in Chicago, Illinois, United States of America. Technology at Cboe Global Markets.",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T05:08:48+00:00",
+      "fetched_at": "2026-09-28T10:11:53.842683+00:00"
+    },
+    {
+      "id": "28dcb0f9d235",
+      "title": "(USA) Senior, Software Engineer - Walmart Careers",
+      "company": "Walmart Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.walmart.com/us/en/jobs/R-2577556",
+      "source": "Other",
+      "description": "Walmart is seeking a Senior Software Engineer to lead the delivery of scalable, secure software solutions through collaborative engineering teams.",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T04:53:30+00:00",
+      "fetched_at": "2026-09-28T10:11:53.842800+00:00"
+    },
+    {
+      "id": "9f8ccea9d7f8",
+      "title": "Data Engineer - Monks",
+      "company": "Monks",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.monks.com/careers/cairo/6113548004/data-engineer",
+      "source": "Other",
+      "description": "Associate Cloud Certification such as GCP Associate Cloud Engineer , GCP Professional Data Engineer , AWS Solutions Architect Associate, or equivalent.",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T03:48:33+00:00",
+      "fetched_at": "2026-09-28T10:11:53.842913+00:00"
+    },
+    {
+      "id": "84d608042bb4",
+      "title": "Senior Software Engineer , Localization on AI Answers \u2014 Google Careers",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/97905280120955590-senior-software-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer , Localization on AI Answers. share. Share Senior Software Engineer , Localization on AI Answers. linkCopy link; emailEmail a ...",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T02:23:09+00:00",
+      "fetched_at": "2026-09-28T10:11:53.843276+00:00"
+    },
+    {
+      "id": "62f3d83b9010",
+      "title": "Software Engineer I - Chewy | Built In Seattle",
+      "company": "Chewy | Built In Seattle",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.builtinseattle.com/job/software-engineer-i/11387823",
+      "source": "Other",
+      "description": "Chewy is hiring for a Software Engineer I in Bellevue, WA, USA. Find more details about the job and how to apply at Built In Seattle.",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T00:22:12+00:00",
+      "fetched_at": "2026-09-28T10:11:53.843530+00:00"
+    },
+    {
+      "id": "1f37957649a4",
+      "title": "DevOps Engineer - Apex Talents Solution - Built In NYC",
+      "company": "Apex Talents Solution - Built In NYC",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.builtinnyc.com/job/devops-engineer/11387609",
+      "source": "Other",
+      "description": "Apex Talents Solution is hiring for a Remote DevOps Engineer in United States. Find more details about the job and how to apply at Built In NYC.",
+      "date": "2026-09-27",
+      "timestamp": "2026-09-27T23:52:34+00:00",
+      "fetched_at": "2026-09-28T10:11:53.843771+00:00"
+    },
+    {
+      "id": "251b3bfcf352",
+      "title": "Software Engineer - Robotics \u2013 El Segundo | Shinkei Careers - Kula",
+      "company": "Robotics \u2013 El Segundo | Shinkei Careers - Kula",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.kula.ai/shinkei/53228-software-engineer-robotics",
+      "source": "Other",
+      "description": "Software Engineer - Robotics \u00b7 Support motor and sensor selection, development, and integration efforts on our Poseidon robots, enabling both current ...",
+      "date": "2026-09-27",
+      "timestamp": "2026-09-27T23:46:54+00:00",
+      "fetched_at": "2026-09-28T10:11:53.844061+00:00"
+    },
+    {
+      "id": "72dc2d1ac0d1",
+      "title": "Senior DevOps Engineer - Backend Infrastructure Team (Cortex) at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/senior-devops-engineer-backend-infrastructure-team-cortex/47263/101209917648",
+      "source": "Other",
+      "description": "Senior DevOps Engineer - Backend Infrastructure Team (Cortex). Tel Aviv-Yafo, Israel Product Engineering Ref ID: JR-022256. Apply Save Job.",
+      "date": "2026-09-27",
+      "timestamp": "2026-09-27T23:39:11+00:00",
+      "fetched_at": "2026-09-28T10:11:54.087865+00:00"
+    },
+    {
+      "id": "db07a485f7fc",
+      "title": "Machine Learning Engineer II Job in West Chester | Kelly Telecom",
+      "company": "Kelly Telecom",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.kellytelecom.com/machine-learning-engineer-ii-west-chester/888344",
+      "source": "Other",
+      "description": "Help develop machine learning solutions that support real products and applications. As a Machine Learning Engineer II, you'll work across ...",
+      "date": "2026-09-27",
+      "timestamp": "2026-09-27T23:27:30+00:00",
+      "fetched_at": "2026-09-28T10:11:53.844245+00:00"
+    },
     {
       "id": "a1bed05352b9",
       "title": "Full Stack Engineer - Remote (select US states) - Coforma Careers",
