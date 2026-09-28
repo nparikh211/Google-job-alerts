@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-09-28T18:47:18.425164+00:00",
-  "total_jobs": 10498,
+  "last_updated": "2026-09-28T23:59:17.313479+00:00",
+  "total_jobs": 10518,
   "stats": {
-    "total_companies": 4792,
+    "total_companies": 4801,
     "total_roles": 141,
     "regions": {
-      "India": 6881,
-      "Philippines": 2240,
-      "Remote": 1291,
+      "India": 6896,
+      "Philippines": 2243,
+      "Remote": 1293,
       "Unknown": 135
     },
     "sources": {
-      "Other": 8208,
-      "Greenhouse": 530,
+      "Other": 8225,
+      "Greenhouse": 531,
       "LinkedIn": 462,
       "Workday": 444,
-      "Ashby": 321,
-      "iCIMS": 135,
+      "Ashby": 322,
+      "iCIMS": 136,
       "Breezy": 108,
       "Workable": 71,
       "Lever": 71,
@@ -36,6 +36,231 @@
   },
   "jobs": [
     {
+      "id": "6301effe4d6b",
+      "title": "Software Engineer - Careers at IA, Urbandale",
+      "company": "IA, Urbandale",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers-berkley.icims.com/jobs/14480/software-engineer/job",
+      "source": "iCIMS",
+      "description": "IA, Urbandale - 11201 Douglas Avenue is now hiring a Software Engineer in Urbandale, Iowa. Review all of the job details and apply today!",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T22:25:27+00:00",
+      "fetched_at": "2026-09-28T23:59:17.172642+00:00"
+    },
+    {
+      "id": "ea9f6007d016",
+      "title": "Data Engineer I - Data Platform in Raleigh, North Carolina | First Citizens Bank",
+      "company": "Data Platform in Raleigh, North Carolina | First Citizens Bank",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.firstcitizens.com/jobs/34606?lang=en-us",
+      "source": "Other",
+      "description": "The ideal candidate is a hands-on data engineer with experience in cloud-based data platforms, data warehousing, ETL/ELT development, and modern data ...",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T22:10:43+00:00",
+      "fetched_at": "2026-09-28T23:59:17.173335+00:00"
+    },
+    {
+      "id": "410cc312ae2c",
+      "title": "Stripe Careers | Apply for Machine Learning Engineer , Growth Platform",
+      "company": "Stripe Careers",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://stripe.com/careers/apply/machine-learning-engineer-growth-platform/8224915",
+      "source": "Other",
+      "description": "/; Application. Machine Learning Engineer , Growth Platform. Company. Stripe. Team. Data & Data Science. Office locations. Chicago, New York, Seattle, ...",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T21:39:09+00:00",
+      "fetched_at": "2026-09-28T23:59:17.173528+00:00"
+    },
+    {
+      "id": "ce9f2418f23c",
+      "title": "Senior Software Engineer - 3 (Full Stack) in Irving, TX, United States - U.S. Bank careers",
+      "company": "3 (Full Stack) in Irving, TX, United States - U.S. Bank careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.usbank.com/global/en/job/UBNAGLOBAL20260028748EXTERNALENGLOBAL/Senior-Software-Engineer-3-Full-Stack",
+      "source": "Other",
+      "description": "Apply for Senior Software Engineer - 3 (Full Stack) job with U.S. Bank in Irving, TX, United States. Technology & Digital at U.S. Bank.",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T21:28:02+00:00",
+      "fetched_at": "2026-09-28T23:59:17.173813+00:00"
+    },
+    {
+      "id": "fabf9f83c273",
+      "title": "Software Engineer III Job Details | Aflac, Incorporated",
+      "company": "Aflac, Incorporated",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.aflac.com/job/Software-Engineer-III-GA-31999/1434344400/",
+      "source": "Other",
+      "description": "Opportunity: Software Engineer III. Salary Range: $105,000-$155,000. Work Designation. Depending on your location within the continental US, ...",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T21:14:16+00:00",
+      "fetched_at": "2026-09-28T23:59:17.269827+00:00"
+    },
+    {
+      "id": "ba39d13d6d13",
+      "title": "Job Application for Senior Full Stack Engineer , Website Development at Calendly",
+      "company": "Calendly",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/calendly/jobs/8846049002",
+      "source": "Greenhouse",
+      "description": "A day in the life of a Senior Full Stack Engineer at Calendly \u00b7 Design, build, and maintain performant, responsive, and accessible web experiences used ...",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T20:05:27+00:00",
+      "fetched_at": "2026-09-28T23:59:17.173927+00:00"
+    },
+    {
+      "id": "8897b7cab339",
+      "title": "Data Engineer job - Experis USA - 412448",
+      "company": "Experis USA - 412448",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.experis.com/en/job/412448/data-engineer",
+      "source": "Other",
+      "description": "Data Engineer \u00b7 10+ years of Data Engineering/software development experience with strong Python and PySpark skills. \u00b7 Hands-on experience with Azure, ...",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T20:01:25+00:00",
+      "fetched_at": "2026-09-28T23:59:17.174074+00:00"
+    },
+    {
+      "id": "148d4e472c7d",
+      "title": "AI/ ML Engineer - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200685680-3760/ai-ml-engineer?team=HRDWR",
+      "source": "Other",
+      "description": "Apply for a AI/ ML Engineer job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T19:47:12+00:00",
+      "fetched_at": "2026-09-28T23:59:17.174217+00:00"
+    },
+    {
+      "id": "1137a96b4fad",
+      "title": "Sr. Software Engineer - Caterpillar Careers",
+      "company": "Caterpillar Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.caterpillar.com/en/jobs/r0000394330/sr-software-engineer/",
+      "source": "Other",
+      "description": "Sr. Software Engineer . Location, Peoria, Illinois / Irving, Texas ... Senior Software Engineer . Save Saved. Irving, Texas, United States of ...",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T19:42:46+00:00",
+      "fetched_at": "2026-09-28T23:59:17.270333+00:00"
+    },
+    {
+      "id": "c68e64310220",
+      "title": "Data Engineer Associate at Northwestern Medicine",
+      "company": "Northwestern Medicine",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.nm.org/job/chicago/data-engineer-associate/27763/101270274816",
+      "source": "Other",
+      "description": "Paid time off and Holiday pay. Description. The Data Engineer Associate, reflects the mission, vision, and values of NM, adheres to the organization's ...",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T19:40:43+00:00",
+      "fetched_at": "2026-09-28T23:59:17.174368+00:00"
+    },
+    {
+      "id": "bdd64e257e4f",
+      "title": "Senior Data Engineer - Montreal, Canada | Confluence Technologies Careers",
+      "company": "Montreal, Canada | Confluence Technologies Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://confluence.pinpointhq.com/postings/f0966ee3-6938-4de6-9b6a-1e4f94e70203",
+      "source": "Other",
+      "description": "Join Confluence Technologies in Development - Software Development, Montreal, Canada as a Senior Data Engineer .",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T19:39:16+00:00",
+      "fetched_at": "2026-09-28T23:59:17.174561+00:00"
+    },
+    {
+      "id": "6ae6b8f84e5e",
+      "title": "Software Engineer , Full Stack - Experimentation Platform - DoorDash",
+      "company": "Experimentation Platform - DoorDash",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careersatdoordash.com/jobs/software-engineer-full-stack---experimentation-platform/8236946",
+      "source": "Other",
+      "description": "Software Engineer , Full Stack - Experimentation Platform. Apply To Job ... As a full stack engineer , you'll build across our backend services ...",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T19:07:23+00:00",
+      "fetched_at": "2026-09-28T23:59:17.174993+00:00"
+    },
+    {
+      "id": "9b4116ae942f",
+      "title": "Principal Data Engineer - Remote, United States - WellSense Health Plan",
+      "company": "Remote, United States - WellSense Health Plan",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.silkroad.com/BMCHP/Careers/jobs/294760",
+      "source": "Other",
+      "description": "Principal Data Engineer . \ufeff. LinkedIn Twitter Email Message Share. Category. Information Technology. Job Location. Remote, United States. Tracking Code.",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T19:06:51+00:00",
+      "fetched_at": "2026-09-28T23:59:17.175154+00:00"
+    },
+    {
+      "id": "d02759aea470",
+      "title": "Lead Software Engineer / Software Engineer - Digital Measurement in Multiple Locations",
+      "company": "Digital Measurement in Multiple Locations",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.statefarm.com/event-37727/jobs/46398?lang=en-us",
+      "source": "Other",
+      "description": "UGA Fall Career and Internship Fair is hiring a Lead Software Engineer / Software Engineer - Digital Measurement in Multiple Locations.",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T18:43:04+00:00",
+      "fetched_at": "2026-09-28T23:59:17.175308+00:00"
+    },
+    {
+      "id": "3693a9a67ce0",
+      "title": "(AI and Full Stack Experienced) Software Engineer /Lead Software Engineer - State Farm Careers",
+      "company": "State Farm Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.statefarm.com/event-37726/jobs/43740?lang=en-us",
+      "source": "Other",
+      "description": "We are seeking an amazing Software Engineer to join the Innovation Group. The ideal candidate will bring a strong track record of software delivery, ...",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T18:42:49+00:00",
+      "fetched_at": "2026-09-28T23:59:17.175455+00:00"
+    },
+    {
       "id": "b6f755cb1b32",
       "title": "Software Engineer , DevOps - OpenAI",
       "company": "OpenAI",
@@ -51,6 +276,21 @@
       "fetched_at": "2026-09-28T18:47:18.193099+00:00"
     },
     {
+      "id": "2784060319ff",
+      "title": "Software Engineer - Frontend @ Luzid - Jobs",
+      "company": "Luzid",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/luzid/2be433a3-bb91-4d62-9a6b-a4a703236da2",
+      "source": "Ashby",
+      "description": "LUZID Software Engineer , Frontend San Francisco, in-person 4x/week About Luzid Luzid is building the operating system for SAP delivery \u2014 the ...",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T18:38:06+00:00",
+      "fetched_at": "2026-09-28T23:59:17.175750+00:00"
+    },
+    {
       "id": "9de7ae7f345c",
       "title": "Job Opening - Software Engineer - Plano, TX - Randstad USA",
       "company": "Job Opening",
@@ -64,6 +304,66 @@
       "date": "2026-09-28",
       "timestamp": "2026-09-28T18:34:31+00:00",
       "fetched_at": "2026-09-28T18:47:18.193270+00:00"
+    },
+    {
+      "id": "ef7f27279ee5",
+      "title": "PROJECT - Data Engineer II - - 368800 - Deloitte US",
+      "company": "PROJECT",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://apply.deloitte.com/en_US/careers/JobDetail/PROJECT-Data-Engineer-II/368800",
+      "source": "Other",
+      "description": "As a PROJECT - Data Engineer II on the AI & Data team, you will be responsible for\u2026 Designing, developing, and maintaining batch and streaming data ...",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T18:32:58+00:00",
+      "fetched_at": "2026-09-28T23:59:17.271906+00:00"
+    },
+    {
+      "id": "92236f759af8",
+      "title": "Software Engineer AI BU at NetApp, Inc.",
+      "company": "NetApp, Inc.",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.netapp.com/job/san-jose/software-engineer-ai-bu/27600/101273235968",
+      "source": "Other",
+      "description": "Explore roles where you can make measurable impact, keep learning, and collaborate with high-performing teams. Software Engineer AI BU. San Jose, ...",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T18:32:32+00:00",
+      "fetched_at": "2026-09-28T23:59:17.176011+00:00"
+    },
+    {
+      "id": "1a953304434d",
+      "title": "Full Stack Engineer , Sunnyvale, CA, United States - Intuitive Surgical Careers",
+      "company": "Intuitive Surgical Careers",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.intuitive.com/en/jobs/744000152226699/JOB219098/full-stack-engineer/",
+      "source": "Other",
+      "description": "Full Stack Engineer . Sunnyvale, CA, United States; Not Remote; Engineering ... Our achievements have been recognized and celebrated around the world.",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T18:31:34+00:00",
+      "fetched_at": "2026-09-28T23:59:17.176158+00:00"
+    },
+    {
+      "id": "9d91f9c6c8f4",
+      "title": "Software Engineer III: Backend C# at Jack Henry & Associates, Inc",
+      "company": "Jack Henry & Associates, Inc",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.jackhenry.com/job/united-states/software-engineer-iii-backend-c/42859/101273290032",
+      "source": "Other",
+      "description": "As a Software Engineer III: Backend C# at Jack Henry, you'll have the opportunity to drive innovation and build platforms that will help financial ...",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T18:18:35+00:00",
+      "fetched_at": "2026-09-28T23:59:17.176313+00:00"
     },
     {
       "id": "a61b8d0f249d",
