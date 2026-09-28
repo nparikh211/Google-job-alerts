@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-09-27T22:36:22.418597+00:00",
-  "total_jobs": 10449,
+  "last_updated": "2026-09-28T02:03:05.011362+00:00",
+  "total_jobs": 10455,
   "stats": {
-    "total_companies": 4775,
-    "total_roles": 139,
+    "total_companies": 4778,
+    "total_roles": 140,
     "regions": {
-      "India": 6845,
-      "Philippines": 2235,
-      "Remote": 1282,
+      "India": 6848,
+      "Philippines": 2236,
+      "Remote": 1284,
       "Unknown": 135
     },
     "sources": {
-      "Other": 8163,
-      "Greenhouse": 529,
-      "LinkedIn": 459,
+      "Other": 8167,
+      "Greenhouse": 530,
+      "LinkedIn": 460,
       "Workday": 444,
       "Ashby": 321,
       "iCIMS": 135,
@@ -35,6 +35,51 @@
     }
   },
   "jobs": [
+    {
+      "id": "a1bed05352b9",
+      "title": "Full Stack Engineer - Remote (select US states) - Coforma Careers",
+      "company": "Remote (select US states) - Coforma Careers",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://coforma.pinpointhq.com/postings/508e9051-a05a-41b3-ba0e-1156f040aa22",
+      "source": "Other",
+      "description": "Full Stack Engineer . Department: Engineering; Employment Type: Full Time; Location: Remote (select US states); Workplace type ...",
+      "date": "2026-09-27",
+      "timestamp": "2026-09-27T22:02:49+00:00",
+      "fetched_at": "2026-09-28T02:03:04.615779+00:00"
+    },
+    {
+      "id": "2c53b3a08398",
+      "title": "Senior Software Engineer - GPU Server - Nvidia Career",
+      "company": "GPU Server - Nvidia Career",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.nvidia.com/careers/job/893397347625?domain=nvidia.com&l=en",
+      "source": "Other",
+      "description": "Senior Software Engineer - GPU Server ... We are seeking software engineers to work on next-generation graphics and computing products. Our charter is ...",
+      "date": "2026-09-27",
+      "timestamp": "2026-09-27T20:58:50+00:00",
+      "fetched_at": "2026-09-28T02:03:04.616110+00:00"
+    },
+    {
+      "id": "72cd7a93bbe1",
+      "title": "Ricardo L\u00f3pez posted this - LinkedIn",
+      "company": "Unknown Company",
+      "role": "Ricardo L\u00f3pez posted this - LinkedIn",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/ricardolopez69_looking-for-a-strong-senior-software-engineer-activity-7509964799305220096-Cb8R",
+      "source": "LinkedIn",
+      "description": "Ricardo L\u00f3pez's Post \u00b7 Bilal Arshad. Fullstack Developer | Laravel, Nest.js | Vue.js, Next. \u00b7 Jeffrey Barrios. Senior Software Engineer | AI Engineer | ...",
+      "date": "2026-09-27",
+      "timestamp": "2026-09-27T20:52:06+00:00",
+      "fetched_at": "2026-09-28T02:03:04.616766+00:00"
+    },
     {
       "id": "644646a4ba71",
       "title": "Senior Data Engineer / Integration Lead - SnapIT Solutions",
@@ -81,6 +126,21 @@
       "fetched_at": "2026-09-27T22:36:22.314254+00:00"
     },
     {
+      "id": "b30df79d82d5",
+      "title": "Job Application for Software Engineer at Eon - Greenhouse",
+      "company": "Eonio",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/eonio/jobs/4988012101",
+      "source": "Greenhouse",
+      "description": "Software Engineer . US- Remote. Apply. About Eon. Eon is building a new category around cloud backup data. We help enterprises turn their backup ...",
+      "date": "2026-09-27",
+      "timestamp": "2026-09-27T18:49:27+00:00",
+      "fetched_at": "2026-09-28T02:03:04.617427+00:00"
+    },
+    {
       "id": "fbfbc2d717b4",
       "title": "Job Application for Fullstack Engineer , Consumer Order Experience at Deliveroo",
       "company": "Deliveroo",
@@ -94,6 +154,21 @@
       "date": "2026-09-27",
       "timestamp": "2026-09-27T18:43:27+00:00",
       "fetched_at": "2026-09-27T22:36:22.373398+00:00"
+    },
+    {
+      "id": "2d1c3841a70e",
+      "title": "Software Engineer - AI Reviewer (150$/h) - Ethos",
+      "company": "AI Reviewer (150$/h) - Ethos",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://agent.askethos.com/opportunities/software-engineer-ai-reviewer-150-h?ref=zyxcuyum5rs0",
+      "source": "Other",
+      "description": "About this opportunity \u00b7 2+ years of experience as a software engineer \u00b7 Current, hands-on familiarity with the documents your team writes and reviews ...",
+      "date": "2026-09-27",
+      "timestamp": "2026-09-27T18:37:30+00:00",
+      "fetched_at": "2026-09-28T02:03:04.617650+00:00"
     },
     {
       "id": "968df0a85fa7",
@@ -259,6 +334,21 @@
       "date": "2026-09-27",
       "timestamp": "2026-09-27T13:48:39+00:00",
       "fetched_at": "2026-09-27T22:36:22.376085+00:00"
+    },
+    {
+      "id": "cde0b69fc800",
+      "title": "Software Engineer II (Salesforce Loyalty Management Developer) | TD Bank Jobs",
+      "company": "TD Bank Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://tdbank.jobs/toronto-on/software-engineer-ii-salesforce-loyalty-management-developer/B558FCB9D3CF446DACB18C3051EC4033/job/",
+      "source": "Other",
+      "description": "Software Engineer II (Salesforce Loyalty Management Developer)Toronto, ON Posted 2 days ago. Apply Now. Hybrid. Toronto, Ontario. Full time. R_1509038.",
+      "date": "2026-09-27",
+      "timestamp": "2026-09-27T13:12:55+00:00",
+      "fetched_at": "2026-09-28T02:03:04.971027+00:00"
     },
     {
       "id": "d5172bf5039c",
