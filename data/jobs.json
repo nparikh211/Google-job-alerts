@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-09-29T14:23:22.629769+00:00",
-  "total_jobs": 10546,
+  "last_updated": "2026-09-29T20:16:21.850478+00:00",
+  "total_jobs": 10566,
   "stats": {
-    "total_companies": 4810,
+    "total_companies": 4818,
     "total_roles": 141,
     "regions": {
-      "India": 6909,
-      "Philippines": 2252,
-      "Remote": 1299,
+      "India": 6925,
+      "Philippines": 2255,
+      "Remote": 1300,
       "Unknown": 135
     },
     "sources": {
-      "Other": 8245,
-      "Greenhouse": 534,
-      "LinkedIn": 462,
-      "Workday": 446,
+      "Other": 8261,
+      "Greenhouse": 536,
+      "LinkedIn": 463,
+      "Workday": 447,
       "Ashby": 324,
       "iCIMS": 136,
       "Breezy": 108,
@@ -35,6 +35,291 @@
     }
   },
   "jobs": [
+    {
+      "id": "f72b37c7fcac",
+      "title": "My Last Week as an Amazon Software Engineer - YouTube",
+      "company": "YouTube",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.youtube.com/watch?v=--_Yr8iepDg",
+      "source": "Other",
+      "description": "... software engineer at Amazon, I'm saying goodbye to my first job after university. Come along for my last week, from the nerve-wracking resignation ...",
+      "date": "2026-09-29",
+      "timestamp": "2026-09-29T19:25:51+00:00",
+      "fetched_at": "2026-09-29T20:16:21.615319+00:00"
+    },
+    {
+      "id": "64af7c976fb1",
+      "title": "Senior Data Engineer RCMP - WMATA Candidate Experience Site Careers - Cloud Sign In",
+      "company": "WMATA Candidate Experience Site Careers - Cloud Sign In",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ibpbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2011/job/255",
+      "source": "Other",
+      "description": "Job Description. The Senior Data Engineer leads the development, analysis, and maintenance of telematics solutions for the Authority. This role ...",
+      "date": "2026-09-29",
+      "timestamp": "2026-09-29T17:55:30+00:00",
+      "fetched_at": "2026-09-29T20:16:21.615575+00:00"
+    },
+    {
+      "id": "45c80dcdaea8",
+      "title": "Senior Site Reliability Engineer - Databases - Vinted Careers",
+      "company": "Databases - Vinted Careers",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.vinted.com/jobs/4925634101?gh_jid=4925634101",
+      "source": "Other",
+      "description": "... Site Reliability Engineer - Databases. Engineering. Multiple locations, Lithuania. Vinted Group. Lead Backend Engineer , Order Fulfillment (Limited ...",
+      "date": "2026-09-29",
+      "timestamp": "2026-09-29T17:34:04+00:00",
+      "fetched_at": "2026-09-29T20:16:21.615757+00:00"
+    },
+    {
+      "id": "25f10618899d",
+      "title": "New role Senior Frontend Engineer (React) Remote Europe \u00a380k | Marcus Gray | 73 comments",
+      "company": "Marcus Gray | 73 comments",
+      "role": "Frontend Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.linkedin.com/posts/marcus-gray-055637175_new-role-senior-frontend-engineer-activity-7510638607918047235-mwnS",
+      "source": "LinkedIn",
+      "description": "New role Senior Frontend Engineer (React) Remote Europe \u00a380k - 130k + ... Senior Software Engineer @ Rennly Pty Ltd | Frontend & Full-Stack ...",
+      "date": "2026-09-29",
+      "timestamp": "2026-09-29T17:30:07+00:00",
+      "fetched_at": "2026-09-29T20:16:21.616107+00:00"
+    },
+    {
+      "id": "08c633c5f6f0",
+      "title": "DevOps Engineer - Job Detail | Careers Marketplace - Siemens",
+      "company": "Job Detail | Careers Marketplace - Siemens",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/523841",
+      "source": "Other",
+      "description": "DevOps Engineer \u00b7 Understand and analyze project requirements and deployment needs. \u00b7 Design, implement, and maintain CI/CD pipelines for application ...",
+      "date": "2026-09-29",
+      "timestamp": "2026-09-29T17:16:31+00:00",
+      "fetched_at": "2026-09-29T20:16:21.616450+00:00"
+    },
+    {
+      "id": "20e8d52737eb",
+      "title": "Applied AI Engineer - Myworkdayjobs.com",
+      "company": "Ercot",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ercot.wd1.myworkdayjobs.com/en-US/ercot_careers/job/Applied-AI-Engineer_R2497-1",
+      "source": "Workday",
+      "description": "Applied AI Engineer \u00b7 Proven record of building and deploying production-grade autonomous agents, not prototypes. \u00b7 Agent orchestration frameworks ( ...",
+      "date": "2026-09-29",
+      "timestamp": "2026-09-29T16:46:43+00:00",
+      "fetched_at": "2026-09-29T20:16:21.616558+00:00"
+    },
+    {
+      "id": "2fffadee54bf",
+      "title": "Sr Ai Engineer | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.apexsystems.com/job/3053891_usa/sr-ai-engineer",
+      "source": "Other",
+      "description": "Sr Ai Engineer . Apply. Job#: 3053891. Job Description: Senior AI ... Sr AI Platform Engineer \u00b7 Senior ServiceNow AI Engineer \u00b7 Senior AI/ ML Engineer ...",
+      "date": "2026-09-29",
+      "timestamp": "2026-09-29T16:28:05+00:00",
+      "fetched_at": "2026-09-29T20:16:21.808155+00:00"
+    },
+    {
+      "id": "f4dd071fe16b",
+      "title": "Senior Software Engineer - C.H. Robinson",
+      "company": "C.H. Robinson",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.chrobinson.com/en-us/about-us/careers/jobs/eden-prairie/senior-software-engineer/r49554/",
+      "source": "Other",
+      "description": "C.H. Robinson is seeking a Senior Software Engineer to join our Master Data Management (MDM) team within Technology. This team owns the customer, ...",
+      "date": "2026-09-29",
+      "timestamp": "2026-09-29T16:20:48+00:00",
+      "fetched_at": "2026-09-29T20:16:21.616976+00:00"
+    },
+    {
+      "id": "920f4788fda5",
+      "title": "Job Application for Software Engineer , Consumer Revenue at Discord - Greenhouse",
+      "company": "Discord",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/discord/jobs/8846732002",
+      "source": "Greenhouse",
+      "description": "Software Engineer , Consumer Revenue. San Francisco Bay Area. Apply. Discord has a highly engaged community of millions of daily active users who use ...",
+      "date": "2026-09-29",
+      "timestamp": "2026-09-29T15:36:43+00:00",
+      "fetched_at": "2026-09-29T20:16:21.617092+00:00"
+    },
+    {
+      "id": "f9aa2af8f951",
+      "title": "Principal Software Engineer in Nairobi, Kenya, 00606 - Careers at Mastercard",
+      "company": "Mastercard",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mastercard.com/us/en/job/R-292030/Principal-Software-Engineer",
+      "source": "Other",
+      "description": "Apply for Principal Software Engineer job with Mastercard in Nairobi, Kenya, 00606. Engineering at Mastercard.",
+      "date": "2026-09-29",
+      "timestamp": "2026-09-29T15:25:40+00:00",
+      "fetched_at": "2026-09-29T20:16:21.617229+00:00"
+    },
+    {
+      "id": "29d63fbb0613",
+      "title": "Senior Software Engineer in United States - Texas - Plano - Abbott Jobs",
+      "company": "Texas - Plano - Abbott Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.jobs.abbott/us/en/job/31162369/Senior-Software-Engineer",
+      "source": "Other",
+      "description": "Apply for Senior Software Engineer job with Abbott Canvas in United States - Texas - Plano. Research & Development at Abbott Canvas.",
+      "date": "2026-09-29",
+      "timestamp": "2026-09-29T15:16:57+00:00",
+      "fetched_at": "2026-09-29T20:16:21.617420+00:00"
+    },
+    {
+      "id": "50a7b5cd5660",
+      "title": "Senior Data Platform Engineer | Citi Careers",
+      "company": "Citi Careers",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.citi.com/job/irving/senior-data-platform-engineer/287/101282727792",
+      "source": "Other",
+      "description": "Job Overview. We are seeking a highly skilled and motivated Senior Data Platform Engineer , AVP (Python/PySpark, Microsoft SSIS, SQL Server, ETL & ...",
+      "date": "2026-09-29",
+      "timestamp": "2026-09-29T15:16:46+00:00",
+      "fetched_at": "2026-09-29T20:16:21.617579+00:00"
+    },
+    {
+      "id": "b98c7753b3d4",
+      "title": "Senior Golang Full Stack Engineer - Avenga",
+      "company": "Avenga",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://career.avenga.com/jobs/8468208-senior-golang-full-stack-engineer",
+      "source": "Other",
+      "description": "Senior Golang Full Stack Engineer . Apply now. This is us. Avenga is an international engineering firm helping businesses operate with AI at the core ...",
+      "date": "2026-09-29",
+      "timestamp": "2026-09-29T14:42:10+00:00",
+      "fetched_at": "2026-09-29T20:16:21.617736+00:00"
+    },
+    {
+      "id": "46110546e27a",
+      "title": "Senior Data Engineer (Snowflake, MySQL, Python), Covington, KY | Fidelity Careers",
+      "company": "Fidelity Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.fidelity.com/en/jobs/2136324/senior-data-engineer-snowflake-mysql-python/",
+      "source": "Other",
+      "description": "Job Description: Senior Data Engineer Note: Fidelity will not provide immigration sponsorship for this position. The Role: At Fidelity, ...",
+      "date": "2026-09-29",
+      "timestamp": "2026-09-29T14:41:42+00:00",
+      "fetched_at": "2026-09-29T20:16:21.617914+00:00"
+    },
+    {
+      "id": "3fe08abe050a",
+      "title": "AI Software Engineer II - Planet DDS Career Opportunities",
+      "company": "Planet DDS Career Opportunities",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://pdds-buyer-llc.primepay-recruit.com/job/1061741/ai-software-engineer-ii",
+      "source": "Other",
+      "description": "We're looking for a great AI Software Engineer II to join our team at Planet DDS.",
+      "date": "2026-09-29",
+      "timestamp": "2026-09-29T14:36:57+00:00",
+      "fetched_at": "2026-09-29T20:16:21.618232+00:00"
+    },
+    {
+      "id": "9cc0c7768f77",
+      "title": "Full Stack Engineer , Covington, Kentucky - Fidelity TalentSource",
+      "company": "Fidelity TalentSource",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.fidelitytalentsource.com/job-search/181915/full-stack-engineer/?job-id=181915",
+      "source": "Other",
+      "description": "... Full Stack Engineer to work in Covington, KY! The Role. Core Brokerage Technology Domain is looking for Cloud/ Software Engineer to join our ...",
+      "date": "2026-09-29",
+      "timestamp": "2026-09-29T14:34:59+00:00",
+      "fetched_at": "2026-09-29T20:16:21.618441+00:00"
+    },
+    {
+      "id": "83c46e98d30b",
+      "title": "Machine Learning Engineer @ SwingVision, Inc.",
+      "company": "SwingVision, Inc.",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.deel.com/swingvision/job-details/cc271cef-58f7-45f5-9f1e-f8df9646fb9f/overview",
+      "source": "Other",
+      "description": "We are currently seeking a Machine Learning Engineer to join our team in Berkeley, CA. You will contribute to the entire machine learning ...",
+      "date": "2026-09-29",
+      "timestamp": "2026-09-29T14:22:22+00:00",
+      "fetched_at": "2026-09-29T20:16:21.618610+00:00"
+    },
+    {
+      "id": "2f8f4117d4cc",
+      "title": "Data Engineer \u2013 Snowflake & Informatica | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.apexsystems.com/job/3053413_usa/data-engineer--snowflake--informatica",
+      "source": "Other",
+      "description": "Data Engineer \u2013 Snowflake & Informatica. Apply. Job#: 3053413. Job ... Principal Full Stack Engineer (Python / Snowflake/ Angular). Connect ...",
+      "date": "2026-09-29",
+      "timestamp": "2026-09-29T13:16:08+00:00",
+      "fetched_at": "2026-09-29T20:16:21.618801+00:00"
+    },
+    {
+      "id": "ca51d99163fe",
+      "title": "Full Stack Engineer , Boston, Massachusetts | Fidelity TalentSource",
+      "company": "Fidelity TalentSource",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.fidelitytalentsource.com/job-search/181913/full-stack-engineer/?job-id=181913",
+      "source": "Other",
+      "description": "The Full Stack Engineer is a hands-on technical role responsible for designing, developing, and supporting business process solutions that automate, ...",
+      "date": "2026-09-29",
+      "timestamp": "2026-09-29T12:55:09+00:00",
+      "fetched_at": "2026-09-29T20:16:21.809827+00:00"
+    },
     {
       "id": "39cccd5eca12",
       "title": "Job Application for Senior Software Engineer - Core Platform (Ruby/Rails) at Huntress",
@@ -64,6 +349,21 @@
       "date": "2026-09-29",
       "timestamp": "2026-09-29T11:58:00+00:00",
       "fetched_at": "2026-09-29T14:23:22.499369+00:00"
+    },
+    {
+      "id": "c6c1dffd697a",
+      "title": "Job Application for Senior Fullstack Engineer at Layer Health - Greenhouse",
+      "company": "Layerhealth",
+      "role": "Fullstack Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/layerhealth/jobs/5436362008",
+      "source": "Greenhouse",
+      "description": "Senior Fullstack Engineer . Boston or NYC. Apply. Layer Health ... We're hiring an experienced product-minded full stack engineer to join our team.",
+      "date": "2026-09-29",
+      "timestamp": "2026-09-29T11:44:56+00:00",
+      "fetched_at": "2026-09-29T20:16:21.810061+00:00"
     },
     {
       "id": "3cf83bbb3aa8",
