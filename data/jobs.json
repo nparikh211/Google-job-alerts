@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-09-28T23:59:17.313479+00:00",
-  "total_jobs": 10518,
+  "last_updated": "2026-09-29T04:12:03.795362+00:00",
+  "total_jobs": 10530,
   "stats": {
-    "total_companies": 4801,
+    "total_companies": 4804,
     "total_roles": 141,
     "regions": {
-      "India": 6896,
-      "Philippines": 2243,
-      "Remote": 1293,
+      "India": 6899,
+      "Philippines": 2250,
+      "Remote": 1295,
       "Unknown": 135
     },
     "sources": {
-      "Other": 8225,
-      "Greenhouse": 531,
+      "Other": 8232,
+      "Greenhouse": 532,
       "LinkedIn": 462,
-      "Workday": 444,
-      "Ashby": 322,
+      "Workday": 446,
+      "Ashby": 323,
       "iCIMS": 136,
       "Breezy": 108,
       "Workable": 71,
@@ -26,15 +26,120 @@
       "BrassRing": 11,
       "Jobvite": 8,
       "Taleo": 7,
-      "WeWorkRemotely": 5,
+      "WeWorkRemotely": 6,
       "ADP": 2
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-09-28"
+      "latest": "2026-09-29"
     }
   },
   "jobs": [
+    {
+      "id": "50d49e1582ba",
+      "title": "Sr. Software Engineer (AI) @ MeridianLink - Jobs",
+      "company": "Meridianlink",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/meridianlink/6081bd28-6951-4129-b7c3-b43266a358e0",
+      "source": "Ashby",
+      "description": "Senior Software Engineer (AI) Position Summary This Senior Software Engineer is a senior technical contributor responsible for delivering scalable ...",
+      "date": "2026-09-29",
+      "timestamp": "2026-09-29T02:46:22+00:00",
+      "fetched_at": "2026-09-29T04:12:03.756209+00:00"
+    },
+    {
+      "id": "cf8bf8277b1d",
+      "title": "Data Engineer in Louisville, Kentucky | Technology and Digital Analytics at Humana",
+      "company": "Humana",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.humana.com/us/en/job/R-430106/Data-Engineer",
+      "source": "Other",
+      "description": "Data Engineer . Description. Become a part of our caring community. Humana ... Lead Cloud & Data Platform Engineer . Location: Louisville, Kentucky.",
+      "date": "2026-09-29",
+      "timestamp": "2026-09-29T00:53:06+00:00",
+      "fetched_at": "2026-09-29T04:12:03.756316+00:00"
+    },
+    {
+      "id": "fc7db350ea7d",
+      "title": "Machine Learning Engineer , Growth Platform - Stripe Careers",
+      "company": "Stripe Careers",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://stripe.com/careers/listing/machine-learning-engineer-growth-platform/8224915",
+      "source": "Other",
+      "description": "Machine Learning Engineer , Growth Platform. Who we are. About Stripe. Stripe is a financial infrastructure platform for businesses. Millions of ...",
+      "date": "2026-09-29",
+      "timestamp": "2026-09-29T00:49:24+00:00",
+      "fetched_at": "2026-09-29T04:12:03.756470+00:00"
+    },
+    {
+      "id": "f416eacc26ce",
+      "title": "AI/ ML Engineer - Myworkdayjobs.com",
+      "company": "Connect",
+      "role": "ML Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://connect.wd1.myworkdayjobs.com/ztsystemscareers/job/Secaucus-NJ/AI-ML-Engineer_R-105439",
+      "source": "Workday",
+      "description": "About The Role ZT Systems, a wholly owned subsidiary of Sanmina,, is seeking AI/ ML Engineer to help build, deploy, and operate AI applications.",
+      "date": "2026-09-29",
+      "timestamp": "2026-09-29T00:27:55+00:00",
+      "fetched_at": "2026-09-29T04:12:03.756532+00:00"
+    },
+    {
+      "id": "b293610cd5c7",
+      "title": "Senior Software Engineer - Cut and Dry",
+      "company": "Cut and Dry",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://c-p.to/cut-and-dry/aff978a7-087a-4e0e-a8de-cddf6b9e78ad",
+      "source": "Other",
+      "description": "As a Senior Software Engineer (Distributor Products), you will build and enhance high-impact features for the foodservice ecosystem while ...",
+      "date": "2026-09-29",
+      "timestamp": "2026-09-29T00:18:06+00:00",
+      "fetched_at": "2026-09-29T04:12:03.756645+00:00"
+    },
+    {
+      "id": "341138ff2277",
+      "title": "Platform and Data Engineer - - 131108 - Booz | Allen | Hamilton \u00ae",
+      "company": "- 131108 - Booz | Allen | Hamilton \u00ae",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.boozallen.com/jobs/JobDetail/Honolulu-Platform-and-Data-Engineer-R0250490/131108",
+      "source": "Other",
+      "description": "Platform and Data Engineer . The Opportunity: Ever-expanding technology like IoT, machine learning, and artificial intelligence means that there's ...",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T23:41:03+00:00",
+      "fetched_at": "2026-09-29T04:12:03.756838+00:00"
+    },
+    {
+      "id": "5d43e5b1d6b9",
+      "title": "Senior System Software Engineer , NVLink Fusion",
+      "company": "Nvidia",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Senior-System-Software-Engineer--NVLink-Fusion_JR2026446-1",
+      "source": "Workday",
+      "description": "We are looking for a Senior System Software Engineer to develop low-level software for NVIDIA NVLink Fusion, a high-bandwidth, low-latency ...",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T23:08:26+00:00",
+      "fetched_at": "2026-09-29T04:12:03.756899+00:00"
+    },
     {
       "id": "6301effe4d6b",
       "title": "Software Engineer - Careers at IA, Urbandale",
@@ -49,6 +154,36 @@
       "date": "2026-09-28",
       "timestamp": "2026-09-28T22:25:27+00:00",
       "fetched_at": "2026-09-28T23:59:17.172642+00:00"
+    },
+    {
+      "id": "ca6d2744bca5",
+      "title": "Software Engineer - Location & Spatial Awareness, Sensing & Connectivity - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200686212-0836/software-engineer-location-spatial-awareness-sensing-connectivity",
+      "source": "Other",
+      "description": "We are looking for a highly-motivated and creative Senior Software Engineer with a strong background in Computer Science to help develop new ...",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T22:20:39+00:00",
+      "fetched_at": "2026-09-29T04:12:03.537933+00:00"
+    },
+    {
+      "id": "86208bb553c0",
+      "title": "Software Engineer , Product Velocity | OpenAI",
+      "company": "OpenAI",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://openai.com/careers/software-engineer-product-velocity-san-francisco/",
+      "source": "Other",
+      "description": "Software Engineer , Product Velocity \u00b7 Reduce local development startup and iteration latency for ChatGPT engineers \u00b7 Improve Bazel and build performance ...",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T22:16:45+00:00",
+      "fetched_at": "2026-09-29T04:12:03.538322+00:00"
     },
     {
       "id": "ea9f6007d016",
@@ -94,6 +229,36 @@
       "date": "2026-09-28",
       "timestamp": "2026-09-28T21:28:02+00:00",
       "fetched_at": "2026-09-28T23:59:17.173813+00:00"
+    },
+    {
+      "id": "5f7f104c47a1",
+      "title": "Software Engineer - Decisionly - Built In",
+      "company": "Decisionly - Built In",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://builtin.com/job/software-engineer/11399031",
+      "source": "Other",
+      "description": "Decisionly is hiring for a Remote Software Engineer in Canada. Find more details about the job and how to apply at Built In.",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T21:22:01+00:00",
+      "fetched_at": "2026-09-29T04:12:03.539017+00:00"
+    },
+    {
+      "id": "ac971f0ce0e0",
+      "title": "Remote Software Engineer - Developer Experience at Dremio",
+      "company": "Dremio",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://weworkremotely.com/remote-jobs/dremio-software-engineer-developer-experience",
+      "source": "WeWorkRemotely",
+      "description": "Dremio is hiring a remote Software Engineer - Developer Experience to join their remote Full-Stack Programming team. Be Part of Building the ...",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T21:19:14+00:00",
+      "fetched_at": "2026-09-29T04:12:03.539149+00:00"
     },
     {
       "id": "fabf9f83c273",
@@ -199,6 +364,21 @@
       "date": "2026-09-28",
       "timestamp": "2026-09-28T19:39:16+00:00",
       "fetched_at": "2026-09-28T23:59:17.174561+00:00"
+    },
+    {
+      "id": "030e8ceb95f6",
+      "title": "Job Application for Applied AI Engineer , DNB at Anthropic - Greenhouse",
+      "company": "Anthropic",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5435282008",
+      "source": "Greenhouse",
+      "description": "Applied AI Engineer , DNB ... You may be a good fit if you have. 4+ years of experience as a Software Engineer , Forward Deployed Engineer, or technical ...",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T19:35:33+00:00",
+      "fetched_at": "2026-09-29T04:12:03.539734+00:00"
     },
     {
       "id": "6ae6b8f84e5e",
