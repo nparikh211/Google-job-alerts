@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-09-29T20:16:21.850478+00:00",
-  "total_jobs": 10566,
+  "last_updated": "2026-09-30T02:31:00.818501+00:00",
+  "total_jobs": 10583,
   "stats": {
-    "total_companies": 4818,
+    "total_companies": 4823,
     "total_roles": 141,
     "regions": {
-      "India": 6925,
+      "India": 6941,
       "Philippines": 2255,
-      "Remote": 1300,
+      "Remote": 1301,
       "Unknown": 135
     },
     "sources": {
-      "Other": 8261,
+      "Other": 8276,
       "Greenhouse": 536,
-      "LinkedIn": 463,
+      "LinkedIn": 464,
       "Workday": 447,
       "Ashby": 324,
       "iCIMS": 136,
-      "Breezy": 108,
+      "Breezy": 109,
       "Workable": 71,
       "Lever": 71,
       "SmartRecruiters": 68,
@@ -31,10 +31,130 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-09-29"
+      "latest": "2026-09-30"
     }
   },
   "jobs": [
+    {
+      "id": "de155c948737",
+      "title": "Software Engineer - Ops Suite in Dallas, Texas, United States of America | Technology at Southwest",
+      "company": "Southwest",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.southwestair.com/us/en/job/R-2026-72130/Software-Engineer-Ops-Suite",
+      "source": "Other",
+      "description": "Software Engineer - Ops Suite ... Are you a Southwest Employee? Current Southwest Employees should apply for jobs using the internal My Career & ...",
+      "date": "2026-09-30",
+      "timestamp": "2026-09-30T01:18:39+00:00",
+      "fetched_at": "2026-09-30T02:31:00.408486+00:00"
+    },
+    {
+      "id": "3c17a721ddec",
+      "title": "Software Engineer , Implicit Signals | OpenAI",
+      "company": "OpenAI",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://openai.com/careers/software-engineer-implicit-signals-san-francisco/",
+      "source": "Other",
+      "description": "We're looking for a software engineer to build and evolve our classification and evaluation platform. You'll develop services, online and offline ...",
+      "date": "2026-09-29",
+      "timestamp": "2026-09-29T23:17:54+00:00",
+      "fetched_at": "2026-09-30T02:31:00.409072+00:00"
+    },
+    {
+      "id": "00d0d35288bb",
+      "title": "Senior Site Reliability Engineer (US) - Openings at Climavision",
+      "company": "Climavision",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://climavision.breezy.hr/p/94d2b23704ac-senior-site-reliability-engineer-us/apply",
+      "source": "Breezy",
+      "description": "Senior Site Reliability Engineer (US) \u00b7 United States - Remote (within locations) \u00b7 Full-Time \u00b7 Weather Intelligence Tech \u00b7 $135,000 \u2013 $170,000 / year.",
+      "date": "2026-09-29",
+      "timestamp": "2026-09-29T22:39:15+00:00",
+      "fetched_at": "2026-09-30T02:31:00.409245+00:00"
+    },
+    {
+      "id": "329acdb908e4",
+      "title": "Software Engineer , Pricing - - Careers - Upstart",
+      "company": "- Careers - Upstart",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.upstart.com/jobs/software-engineer-pricing",
+      "source": "Other",
+      "description": "As a Senior Software Engineer on Core Pricing, you'll play a ... Senior Software Engineer , Home Lending. Current Upstart employee? Click ...",
+      "date": "2026-09-29",
+      "timestamp": "2026-09-29T21:54:29+00:00",
+      "fetched_at": "2026-09-30T02:31:00.409578+00:00"
+    },
+    {
+      "id": "71151f2f4205",
+      "title": "Site Reliability Engineer - Piper Companies",
+      "company": "Piper Companies",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.pipercompanies.com/details/1764/site_reliability_engineer",
+      "source": "Other",
+      "description": "Responsibilities of the Site Reliability Engineer : Design and enhance monitoring, logging, and alerting solutions to improve visibility across ...",
+      "date": "2026-09-29",
+      "timestamp": "2026-09-29T20:53:33+00:00",
+      "fetched_at": "2026-09-30T02:31:00.409725+00:00"
+    },
+    {
+      "id": "ee89b642cdf1",
+      "title": "AI Engineer | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.apexsystems.com/job/3053914_usa/ai-engineer",
+      "source": "Other",
+      "description": "AI Engineer . Location: Charlotte NC/ Irving TX (On-site). Duration: 12 months. Role Overview. As a Lead Software Engineer , you will discover, design ...",
+      "date": "2026-09-29",
+      "timestamp": "2026-09-29T20:11:23+00:00",
+      "fetched_at": "2026-09-30T02:31:00.410098+00:00"
+    },
+    {
+      "id": "8e4166b65e26",
+      "title": "Full Stack Engineer , Enterprise Engineering - Stripe Careers",
+      "company": "Stripe Careers",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://stripe.com/careers/listing/full-stack-engineer-enterprise-engineering/8214616",
+      "source": "Other",
+      "description": "Full Stack Engineer , Enterprise Engineering. Who we are. About Stripe. Stripe is a financial infrastructure platform for businesses. Millions of ...",
+      "date": "2026-09-29",
+      "timestamp": "2026-09-29T19:54:20+00:00",
+      "fetched_at": "2026-09-30T02:31:00.410321+00:00"
+    },
+    {
+      "id": "3c9a069f1d3f",
+      "title": "Software Engineer Graduate (AI Infrastructure-Compute Efficiency & Scheduling) \u2013 2027 Start",
+      "company": "Compute Efficiency & Scheduling) \u2013 2027 Start",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://career.virginia.edu/jobs/tiktok-inc-software-engineer-graduate-ai-infrastructure-compute-efficiency-scheduling-2027-start-2/",
+      "source": "Other",
+      "description": "Software Engineer Graduate (AI Infrastructure-Compute Efficiency & Scheduling) \u2013 2027 Start. Location: Seattle. Team: Technology.",
+      "date": "2026-09-29",
+      "timestamp": "2026-09-29T19:39:13+00:00",
+      "fetched_at": "2026-09-30T02:31:00.410729+00:00"
+    },
     {
       "id": "f72b37c7fcac",
       "title": "My Last Week as an Amazon Software Engineer - YouTube",
@@ -49,6 +169,141 @@
       "date": "2026-09-29",
       "timestamp": "2026-09-29T19:25:51+00:00",
       "fetched_at": "2026-09-29T20:16:21.615319+00:00"
+    },
+    {
+      "id": "e03e2047f6b2",
+      "title": "Senior Software Engineer - MongoDB",
+      "company": "MongoDB",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.mongodb.com/careers/jobs/8178900",
+      "source": "Other",
+      "description": "We are seeking a Senior Software Engineer to join our growing Bengaluru Products & Technology team to provide technical direction, ...",
+      "date": "2026-09-29",
+      "timestamp": "2026-09-29T19:22:55+00:00",
+      "fetched_at": "2026-09-30T02:31:00.411125+00:00"
+    },
+    {
+      "id": "fc33ec1e16df",
+      "title": "Software Engineer \u2014 Full Stack & AI Infrastructure - LinkedIn",
+      "company": "LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/software-engineer-%E2%80%94-full-stack-ai-infrastructure-at-the-law-offices-of-juliet-cohen-p-c-4471329052",
+      "source": "LinkedIn",
+      "description": "\ud83d\udee0\ufe0f Platform Engineer (Full-Stack). Partiful. New York, NY 2 months ... Senior Software Engineer jobs \u00b7 Web Development Intern jobs \u00b7 Junior Java ...",
+      "date": "2026-09-29",
+      "timestamp": "2026-09-29T19:19:39+00:00",
+      "fetched_at": "2026-09-30T02:31:00.411468+00:00"
+    },
+    {
+      "id": "91130fc69cac",
+      "title": "Data Engineer Consultant II | Bengaluru, Karnataka - Allstate Careers",
+      "company": "Bengaluru, Karnataka - Allstate Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.allstate.jobs/job/23930129/data-engineer-consultant-ii-bengaluru-in/",
+      "source": "Other",
+      "description": "Data Engineer Consultant II. Bengaluru, Karnataka ... Cloud Engineer . Kelly. Dana T. Senior Product Consultant. Paul D. Software Engineer .",
+      "date": "2026-09-29",
+      "timestamp": "2026-09-29T19:05:10+00:00",
+      "fetched_at": "2026-09-30T02:31:00.411648+00:00"
+    },
+    {
+      "id": "b5aab5648ee4",
+      "title": "Software Engineer , Information Systems & Technology - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200685186-3956/software-engineer-information-systems-technology?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Software Engineer , Information Systems & Technology job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-09-29",
+      "timestamp": "2026-09-29T19:01:03+00:00",
+      "fetched_at": "2026-09-30T02:31:00.411837+00:00"
+    },
+    {
+      "id": "037ae7158469",
+      "title": "AI/ ML Engineer - - 131178 - Booz | Allen | Hamilton \u00ae - Careers",
+      "company": "- 131178 - Booz | Allen | Hamilton \u00ae - Careers",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.boozallen.com/careers/JobDetail/Chantilly-AI-ML-Engineer-R0250559/131178",
+      "source": "Other",
+      "description": "AI/ ML Engineer at created 29-Sep ... As a machine learning engineer on our national security and cyber ...",
+      "date": "2026-09-29",
+      "timestamp": "2026-09-29T18:59:12+00:00",
+      "fetched_at": "2026-09-30T02:31:00.412084+00:00"
+    },
+    {
+      "id": "f35a022a8472",
+      "title": "Senior Java Software Engineer - Avenga",
+      "company": "Avenga",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://career.avenga.com/jobs/8473117-senior-java-software-engineer",
+      "source": "Other",
+      "description": "Senior Java Software Engineer . Apply now. Avenga is an international engineering firm helping businesses operate with AI at the core. With 6,000+ ...",
+      "date": "2026-09-29",
+      "timestamp": "2026-09-29T18:59:10+00:00",
+      "fetched_at": "2026-09-30T02:31:00.412219+00:00"
+    },
+    {
+      "id": "0ef189cc1cd3",
+      "title": "Software engineer needed : r/Backend - Reddit",
+      "company": "Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/Backend/comments/1wsx9yq/software_engineer_needed/",
+      "source": "Other",
+      "description": "Software engineer needed. Hey! Are you currently ... Need a roadmap to become a Good Backend Engineer depending upon skills i have done yet.",
+      "date": "2026-09-29",
+      "timestamp": "2026-09-29T18:56:10+00:00",
+      "fetched_at": "2026-09-30T02:31:00.412339+00:00"
+    },
+    {
+      "id": "a2df2483f0a7",
+      "title": "Data Engineer II, AWS Partnerships - Job ID: 10564179 - Amazon Careers",
+      "company": "Job ID: 10564179 - Amazon Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.amazon.jobs/en/jobs/10564179/data-engineer-ii-aws-partnerships",
+      "source": "Other",
+      "description": "As a Data Engineer on the team, you will own large portions of the data infrastructure and will have significant influence on our strategy by helping ...",
+      "date": "2026-09-29",
+      "timestamp": "2026-09-29T18:41:09+00:00",
+      "fetched_at": "2026-09-30T02:31:00.412497+00:00"
+    },
+    {
+      "id": "66cb71b10738",
+      "title": "Computer Vision & Machine Learning Engineer , Photon-Efficient Event-Driven Imaging",
+      "company": "Efficient Event-Driven Imaging",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.snap.com/job?id=R0046959",
+      "source": "Other",
+      "description": "... Machine Learning Engineer on this team, you'll work on solving tough challenges in ultra-low-light and high-temporal-resolution imaging ...",
+      "date": "2026-09-29",
+      "timestamp": "2026-09-29T18:19:33+00:00",
+      "fetched_at": "2026-09-30T02:31:00.412615+00:00"
     },
     {
       "id": "64af7c976fb1",
