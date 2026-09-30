@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-09-30T02:31:00.818501+00:00",
-  "total_jobs": 10583,
+  "last_updated": "2026-09-30T10:01:38.685782+00:00",
+  "total_jobs": 10603,
   "stats": {
-    "total_companies": 4823,
-    "total_roles": 141,
+    "total_companies": 4832,
+    "total_roles": 142,
     "regions": {
-      "India": 6941,
-      "Philippines": 2255,
-      "Remote": 1301,
+      "India": 6958,
+      "Philippines": 2256,
+      "Remote": 1303,
       "Unknown": 135
     },
     "sources": {
-      "Other": 8276,
-      "Greenhouse": 536,
-      "LinkedIn": 464,
+      "Other": 8292,
+      "Greenhouse": 537,
+      "LinkedIn": 465,
       "Workday": 447,
-      "Ashby": 324,
+      "Ashby": 326,
       "iCIMS": 136,
       "Breezy": 109,
       "Workable": 71,
@@ -36,6 +36,201 @@
   },
   "jobs": [
     {
+      "id": "7866e91ee669",
+      "title": "Data Engineer @ Cyvl - Jobs",
+      "company": "Cyvl",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/cyvl/e16271f4-2d3a-4fa0-aa51-eab3713a1e91",
+      "source": "Ashby",
+      "description": "... Data Engineer , you'll build and scale the pipelines and data platform behind our Infrastructure Intelligence Platform, taking raw sensor data ...",
+      "date": "2026-09-30",
+      "timestamp": "2026-09-30T07:12:07+00:00",
+      "fetched_at": "2026-09-30T10:01:38.563700+00:00"
+    },
+    {
+      "id": "60226bf2843c",
+      "title": "Machine Learning Engineer - Proactive - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200686466-0836/machine-learning-engineer-proactive",
+      "source": "Other",
+      "description": "Apply for a Machine Learning Engineer - Proactive job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-09-30",
+      "timestamp": "2026-09-30T06:43:16+00:00",
+      "fetched_at": "2026-09-30T10:01:38.564326+00:00"
+    },
+    {
+      "id": "8e6d4541496d",
+      "title": "Platform Data Engineer | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.apexsystems.com/job/3053885_usa/platform-data-engineer",
+      "source": "Other",
+      "description": "Platform Data Engineer . Apply. Job#: 3053885. Job Description: Platform ... Platform Engineer \u00b7 Senior Data Engineer \u2013 Encounter Processing & Data ...",
+      "date": "2026-09-30",
+      "timestamp": "2026-09-30T05:36:57+00:00",
+      "fetched_at": "2026-09-30T10:01:38.564863+00:00"
+    },
+    {
+      "id": "bcc60cc650cc",
+      "title": "Software Engineer L2-Messaging API - Twilio Careers",
+      "company": "Messaging API - Twilio Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.twilio.com/careers/job/1099553093091?ref=jobs.supporthuman.cx",
+      "source": "Other",
+      "description": "See yourself at Twilio Join the team as Twilio's next Software Engineer (L2) - Messaging API. About the job This position is needed to help the ...",
+      "date": "2026-09-30",
+      "timestamp": "2026-09-30T05:21:53+00:00",
+      "fetched_at": "2026-09-30T10:01:38.565170+00:00"
+    },
+    {
+      "id": "07d2dae6aaa1",
+      "title": "Ankit Bansal's Post - LinkedIn",
+      "company": "Unknown Company",
+      "role": "Ankit Bansal's Post - LinkedIn",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/ankitbansal6_10-years-ago-becoming-a-data-engineer-was-activity-7510903592686567424-Z94W",
+      "source": "LinkedIn",
+      "description": "10 years ago, becoming a Data Engineer was relatively straightforward\u2026 Learn SQL. Pick up an ETL tool. Understand data warehouses.",
+      "date": "2026-09-30",
+      "timestamp": "2026-09-30T04:43:08+00:00",
+      "fetched_at": "2026-09-30T10:01:38.565776+00:00"
+    },
+    {
+      "id": "d7277c1b942b",
+      "title": "Machine Learning Engineer , Santa Clara | ServiceNow Careers",
+      "company": "ServiceNow Careers",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.servicenow.com/jobs/744000152540769/machine-learning-engineer/",
+      "source": "Other",
+      "description": "Machine Learning Engineer . Engineering, Infrastructure and ... Staff Software Engineer , Platform Cryptography. Save Saved. Santa Clara ...",
+      "date": "2026-09-30",
+      "timestamp": "2026-09-30T04:28:30+00:00",
+      "fetched_at": "2026-09-30T10:01:38.565957+00:00"
+    },
+    {
+      "id": "2fd874fae50b",
+      "title": "Senior Software Engineer , DevOps - Moveworks (DevSecOps) - ServiceNow Careers",
+      "company": "Moveworks (DevSecOps) - ServiceNow Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.servicenow.com/jobs/744000152399499/senior-software-engineer-devops-moveworks-devsecops/",
+      "source": "Other",
+      "description": "Senior Software Engineer , DevOps - Moveworks (DevSecOps). Engineering ... Senior DevOps Engineer . Save Saved. Bangalore. Senior Security Software ...",
+      "date": "2026-09-30",
+      "timestamp": "2026-09-30T04:13:17+00:00",
+      "fetched_at": "2026-09-30T10:01:38.566187+00:00"
+    },
+    {
+      "id": "2782200db0bc",
+      "title": "Research Software Engineer , Formal Methods (Hybrid) - RTX Careers",
+      "company": "RTX Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.rtx.com/global/en/job/01878215/Research-Software-Engineer-Formal-Methods-Hybrid",
+      "source": "Other",
+      "description": "Senior Software Engineer - C++. Location marlborough, Massachusetts, United States of America Category Engineering Posted Date 08/20/2026. Principal ...",
+      "date": "2026-09-30",
+      "timestamp": "2026-09-30T03:27:34+00:00",
+      "fetched_at": "2026-09-30T10:01:38.566394+00:00"
+    },
+    {
+      "id": "1c2dcce0577e",
+      "title": "Details - Data Engineer (Specialist) - UMBC",
+      "company": "Details",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://listings.umbc.edu/cw/en-us/job/495362/data-engineer-specialist",
+      "source": "Other",
+      "description": "Data Engineer (Specialist). Apply now Job no: 495362. Work type: Staff Full-time. Location: UMBC Campus Categories: Information Technology/IT ...",
+      "date": "2026-09-30",
+      "timestamp": "2026-09-30T03:20:03+00:00",
+      "fetched_at": "2026-09-30T10:01:38.566564+00:00"
+    },
+    {
+      "id": "66a56fa9332f",
+      "title": "DevOps Engineer II - commonsku - Teamtailor",
+      "company": "commonsku - Teamtailor",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://commonsku.na.teamtailor.com/jobs/709083-devops-engineer-ii",
+      "source": "Other",
+      "description": "DevOps Engineer II. Apply Today! We usually respond within a week. Ready to help reshape a $26B industry and build the future of branded merch ...",
+      "date": "2026-09-30",
+      "timestamp": "2026-09-30T03:12:01+00:00",
+      "fetched_at": "2026-09-30T10:01:38.566722+00:00"
+    },
+    {
+      "id": "c9961b20e84e",
+      "title": "Full Stack Engineer - Java at UnitedHealth Group",
+      "company": "UnitedHealth Group",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.unitedhealthgroup.com/job/hyderabad/full-stack-engineer-java/34088/101293195232",
+      "source": "Other",
+      "description": "Full Stack Engineer - Java. Requisition number: 2382838 Job category: Technology Primary location: Hyderabad, India Date posted: 09/28/ ...",
+      "date": "2026-09-30",
+      "timestamp": "2026-09-30T02:15:04+00:00",
+      "fetched_at": "2026-09-30T10:01:38.642348+00:00"
+    },
+    {
+      "id": "57929c3cfa49",
+      "title": "Software Engineer , Shortcuts - Proactive - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200686475-0836/software-engineer-shortcuts-proactive",
+      "source": "Other",
+      "description": "Apply for a Software Engineer , Shortcuts - Proactive job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-09-30",
+      "timestamp": "2026-09-30T02:05:34+00:00",
+      "fetched_at": "2026-09-30T10:01:38.566876+00:00"
+    },
+    {
+      "id": "9b93b755802c",
+      "title": "AI/ ML Engineer Intern job in Austin, Texas, United States of America",
+      "company": "Unknown Company",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.thecignagroup.com/us/en/job/26010877/AI-ML-Engineer-Intern",
+      "source": "Other",
+      "description": "Apply for AI/ ML Engineer Intern job with The Cigna Group in Austin, Texas, United States of America. Browse and apply for Admin/Corporate Services ...",
+      "date": "2026-09-30",
+      "timestamp": "2026-09-30T02:04:53+00:00",
+      "fetched_at": "2026-09-30T10:01:38.567019+00:00"
+    },
+    {
       "id": "de155c948737",
       "title": "Software Engineer - Ops Suite in Dallas, Texas, United States of America | Technology at Southwest",
       "company": "Southwest",
@@ -49,6 +244,51 @@
       "date": "2026-09-30",
       "timestamp": "2026-09-30T01:18:39+00:00",
       "fetched_at": "2026-09-30T02:31:00.408486+00:00"
+    },
+    {
+      "id": "09b35258a454",
+      "title": "Software Engineer , CDP - Foundations , Remote - USA - Coinbase",
+      "company": "Foundations , Remote - USA - Coinbase",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.coinbase.com/careers/positions/8241522",
+      "source": "Other",
+      "description": "As a Software Engineer on the CDP Foundations team within the Developer group, you'll build the core platform capabilities that enable businesses to ...",
+      "date": "2026-09-30",
+      "timestamp": "2026-09-30T01:06:09+00:00",
+      "fetched_at": "2026-09-30T10:01:38.567311+00:00"
+    },
+    {
+      "id": "754928ff6c50",
+      "title": "Software Engineer - - 131203 - Booz | Allen | Hamilton \u00ae - Careers",
+      "company": "- 131203 - Booz | Allen | Hamilton \u00ae - Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.boozallen.com/jobs/JobDetail/Chantilly-Software-Engineer-R0250590/131203",
+      "source": "Other",
+      "description": "Job Description \u00b7 The Opportunity: As a software engineer , you ensure mission systems remain reliable, secure, and continuously improving. \u00b7 You Have:.",
+      "date": "2026-09-30",
+      "timestamp": "2026-09-30T00:11:12+00:00",
+      "fetched_at": "2026-09-30T10:01:38.567582+00:00"
+    },
+    {
+      "id": "5c2867be35f5",
+      "title": "Lead Software Engineer - Appian Careers",
+      "company": "Appian Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.appian.com/jobs/8240635-lead-software-engineer",
+      "source": "Other",
+      "description": "Lead Software Engineer . September 29, 2026. Apply Now. Experienced Hire Engineering McLean, Virginia. Here at Appian, our values of Intensity and ...",
+      "date": "2026-09-29",
+      "timestamp": "2026-09-29T23:19:13+00:00",
+      "fetched_at": "2026-09-30T10:01:38.567729+00:00"
     },
     {
       "id": "3c17a721ddec",
@@ -66,6 +306,51 @@
       "fetched_at": "2026-09-30T02:31:00.409072+00:00"
     },
     {
+      "id": "e3564c4cf03d",
+      "title": "Sr. Cloud Engineer - Bixal career",
+      "company": "Bixal career",
+      "role": "Cloud Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.bixal.com/jobs/709346-sr-cloud-engineer",
+      "source": "Other",
+      "description": "Sr. Cloud Engineer . Apply Here. Bixal_Logo_Black_Margin-Tight.png. Important Notice for Applicants: At Bixal, we want to ensure a transparent and ...",
+      "date": "2026-09-29",
+      "timestamp": "2026-09-29T23:01:19+00:00",
+      "fetched_at": "2026-09-30T10:01:38.568026+00:00"
+    },
+    {
+      "id": "b5ec43a5418c",
+      "title": "Job Application for Senior Software Engineer \u2013 Data Focused at Attain Talent - Greenhouse",
+      "company": "Attaintalent",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/attaintalent/jobs/5438084008",
+      "source": "Greenhouse",
+      "description": "Attain Talent seeks a Senior Software Engineer who enjoys solving practical problems and seeing work through. You'll help build AirHub, ...",
+      "date": "2026-09-29",
+      "timestamp": "2026-09-29T22:59:41+00:00",
+      "fetched_at": "2026-09-30T10:01:38.568135+00:00"
+    },
+    {
+      "id": "2dcabcc24c46",
+      "title": "DevOps Engineer @ Colonist - Jobs",
+      "company": "Colonist",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.ashbyhq.com/colonist/a8300c34-6aaf-415c-a247-5e0ce8556c5f",
+      "source": "Ashby",
+      "description": "Wanted: Colonist DevOps Engineer Working Hours: We work asynchronously and value outcomes over hours Location: Fully Remote Compensation: Paid in ...",
+      "date": "2026-09-29",
+      "timestamp": "2026-09-29T22:49:56+00:00",
+      "fetched_at": "2026-09-30T10:01:38.568230+00:00"
+    },
+    {
       "id": "00d0d35288bb",
       "title": "Senior Site Reliability Engineer (US) - Openings at Climavision",
       "company": "Climavision",
@@ -79,6 +364,21 @@
       "date": "2026-09-29",
       "timestamp": "2026-09-29T22:39:15+00:00",
       "fetched_at": "2026-09-30T02:31:00.409245+00:00"
+    },
+    {
+      "id": "42886a34dca5",
+      "title": "Software Engineer III, WebApp | Shippo - Recruiting",
+      "company": "Shippo - Recruiting",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://ats.rippling.com/shippo/jobs/26ca208a-49a3-4faf-aca8-0e96945d4874",
+      "source": "Other",
+      "description": "Software Engineer III, WebApp. About Shippo. At Shippo, our vision is bold and clear: we are the shipping layer of the internet ...",
+      "date": "2026-09-29",
+      "timestamp": "2026-09-29T22:13:47+00:00",
+      "fetched_at": "2026-09-30T10:01:38.643906+00:00"
     },
     {
       "id": "329acdb908e4",
