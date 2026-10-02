@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-10-01T23:29:36.360696+00:00",
-  "total_jobs": 10684,
+  "last_updated": "2026-10-02T02:38:46.043646+00:00",
+  "total_jobs": 10689,
   "stats": {
-    "total_companies": 4860,
+    "total_companies": 4861,
     "total_roles": 142,
     "regions": {
-      "India": 7006,
-      "Philippines": 2269,
+      "India": 7008,
+      "Philippines": 2272,
       "Remote": 1323,
       "Unknown": 135
     },
     "sources": {
-      "Other": 8347,
+      "Other": 8352,
       "Greenhouse": 543,
       "LinkedIn": 466,
       "Workday": 455,
@@ -31,10 +31,40 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-10-01"
+      "latest": "2026-10-02"
     }
   },
   "jobs": [
+    {
+      "id": "66f06834d8d3",
+      "title": "Applied AI Engineer \u2014 Careers at Ease Health",
+      "company": "Ease Health",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://easehealth.com/careers/applied-ai-engineer",
+      "source": "Other",
+      "description": "Applied AI Engineer ... US-based applicants only. This role is open to people who live in the United States. Applications sent from outside the US, ...",
+      "date": "2026-10-02",
+      "timestamp": "2026-10-02T01:08:50+00:00",
+      "fetched_at": "2026-10-02T02:38:45.996875+00:00"
+    },
+    {
+      "id": "fd3fd9b78050",
+      "title": "Data Engineer , Google.org for Social Impact",
+      "company": "Unknown Company",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/77643041757635270-data-engineer/",
+      "source": "Other",
+      "description": "Software Engineer III, Infrastructure, Internet Egress Traffic Engineering ... Data Engineer , Google.org for Social Impact. share. Share Data ...",
+      "date": "2026-10-01",
+      "timestamp": "2026-10-01T22:24:05+00:00",
+      "fetched_at": "2026-10-02T02:38:45.997052+00:00"
+    },
     {
       "id": "57e27b7af817",
       "title": "Software Engineer (Mid-Level\u2013Senior) - Urrly",
@@ -66,6 +96,21 @@
       "fetched_at": "2026-10-01T23:29:36.183708+00:00"
     },
     {
+      "id": "20b6aa385785",
+      "title": "Senior Full Stack Engineer , Galway | Fidelity Investments Ireland",
+      "company": "Fidelity Investments Ireland",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.fidelity.com/ie/jobs/2135547/senior-full-stack-engineer/",
+      "source": "Other",
+      "description": "Senior Full Stack Engineer ... Fidelity Investments Workplace Investing (WI) is seeking a Senior Software Engineer to join Digital Platforms Technology.",
+      "date": "2026-10-01",
+      "timestamp": "2026-10-01T21:49:09+00:00",
+      "fetched_at": "2026-10-02T02:38:45.820064+00:00"
+    },
+    {
       "id": "96b00fe7db0e",
       "title": "Data & AI Engineer - Mercedes-Benz Group > Careers > Job search",
       "company": "Mercedes-Benz Group > Careers > Job search",
@@ -94,6 +139,36 @@
       "date": "2026-10-01",
       "timestamp": "2026-10-01T20:52:24+00:00",
       "fetched_at": "2026-10-01T23:29:36.184132+00:00"
+    },
+    {
+      "id": "d9401c2dc776",
+      "title": "Full Stack Engineer , Boise - Equifax Careers",
+      "company": "Equifax Careers",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.equifax.com/en/jobs/j00179237/full-stack-engineer/",
+      "source": "Other",
+      "description": "Full Stack Engineer ... You are ideal for this position if you are a forward-thinking, committed, and enthusiastic software engineer who is passionate ...",
+      "date": "2026-10-01",
+      "timestamp": "2026-10-01T20:16:36+00:00",
+      "fetched_at": "2026-10-02T02:38:45.820770+00:00"
+    },
+    {
+      "id": "9bfc1d12c894",
+      "title": "Senior Fullstack Engineer , Tech Foundations - Careers at Airbnb",
+      "company": "Airbnb",
+      "role": "Fullstack Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.airbnb.com/positions/8241882/",
+      "source": "Other",
+      "description": "Senior Fullstack Engineer , Tech Foundations. United States. Role overview. Application. Airbnb was born in 2007 when two hosts welcomed three guests ...",
+      "date": "2026-10-01",
+      "timestamp": "2026-10-01T20:12:28+00:00",
+      "fetched_at": "2026-10-02T02:38:45.997968+00:00"
     },
     {
       "id": "6d5b926f29c7",
