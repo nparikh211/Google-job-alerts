@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-10-02T16:51:19.755076+00:00",
-  "total_jobs": 10717,
+  "last_updated": "2026-10-02T23:19:15.723841+00:00",
+  "total_jobs": 10739,
   "stats": {
-    "total_companies": 4867,
+    "total_companies": 4876,
     "total_roles": 143,
     "regions": {
-      "India": 7032,
-      "Philippines": 2276,
-      "Remote": 1323,
+      "India": 7047,
+      "Philippines": 2280,
+      "Remote": 1326,
       "Unknown": 135
     },
     "sources": {
-      "Other": 8375,
-      "Greenhouse": 544,
+      "Other": 8394,
+      "Greenhouse": 547,
       "LinkedIn": 467,
       "Workday": 456,
       "Ashby": 332,
@@ -35,6 +35,336 @@
     }
   },
   "jobs": [
+    {
+      "id": "c8035765925e",
+      "title": "Applied AI Engineer , API Platform, Digital Natives | OpenAI",
+      "company": "OpenAI",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://openai.com/careers/applied-ai-engineer-api-platform-digital-natives-new-york-city/",
+      "source": "Other",
+      "description": "Applied AI Engineer , API Platform, Digital Natives ... The Applied AI Engineering team is responsible for ensuring the safe and effective deployment of ...",
+      "date": "2026-10-02",
+      "timestamp": "2026-10-02T22:28:30+00:00",
+      "fetched_at": "2026-10-02T23:19:15.594501+00:00"
+    },
+    {
+      "id": "96f79ad786f4",
+      "title": "Junior Data and AI- ML Engineer - - 82262 - Jobs at Lenovo",
+      "company": "Lenovo",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.lenovo.com/en_US/careers/JobDetail/Junior-Data-and-AI-ML-Engineer/82262",
+      "source": "Other",
+      "description": "Data and AI- ML Engineer . Role Overview. In this role, you will join Lenovo's Advanced Innovation Center (AIC) and help build data and AI solutions ...",
+      "date": "2026-10-02",
+      "timestamp": "2026-10-02T21:31:30+00:00",
+      "fetched_at": "2026-10-02T23:19:15.594851+00:00"
+    },
+    {
+      "id": "39e926f1a336",
+      "title": "AI Platform Engineer , Irving, United States of America | Verizon Careers",
+      "company": "Verizon Careers",
+      "role": "Platform Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://mycareer.verizon.com/jobs/r-1101077/ai-platform-engineer/",
+      "source": "Other",
+      "description": "AI Platform Engineer . Irving, Texas/; Hilliard, Ohio/; Alpharetta ... We are seeking a highly skilled and innovative AI Engineer to focus on ...",
+      "date": "2026-10-02",
+      "timestamp": "2026-10-02T21:01:32+00:00",
+      "fetched_at": "2026-10-02T23:19:15.673346+00:00"
+    },
+    {
+      "id": "af2303f7c50c",
+      "title": "Job Application for Senior Data Platform Engineer at Neros Technologies - Greenhouse",
+      "company": "Nerostechnologies",
+      "role": "Platform Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5241234007",
+      "source": "Greenhouse",
+      "description": "The Data Platform Engineer owns the autonomy data pipeline end to end: recovering flight data from vehicles in the field, landing it in the cloud, and ...",
+      "date": "2026-10-02",
+      "timestamp": "2026-10-02T20:32:59+00:00",
+      "fetched_at": "2026-10-02T23:19:15.673450+00:00"
+    },
+    {
+      "id": "d88beff30541",
+      "title": "Senior Platform Software Engineer - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200686871-3337/senior-platform-software-engineer",
+      "source": "Other",
+      "description": "Apply for a Senior Platform Software Engineer job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-10-02",
+      "timestamp": "2026-10-02T20:29:26+00:00",
+      "fetched_at": "2026-10-02T23:19:15.595153+00:00"
+    },
+    {
+      "id": "0e7cd54b3c6c",
+      "title": "Senior Software Engineer | Life at Spotify",
+      "company": "Spotify",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.lifeatspotify.com/jobs/senior-software-engineer",
+      "source": "Other",
+      "description": "Spotify is looking for a Senior Software Engineer to join the Authorization team within Platform. Our team builds and operates the authorization and ...",
+      "date": "2026-10-02",
+      "timestamp": "2026-10-02T20:25:48+00:00",
+      "fetched_at": "2026-10-02T23:19:15.673751+00:00"
+    },
+    {
+      "id": "86843495ddd1",
+      "title": "DevOps Engineer | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.apexsystems.com/job/3054465_usa/devops-engineer",
+      "source": "Other",
+      "description": "DevOps Engineer \u00b7 Design, implement, and support CI/CD pipelines to enable efficient application delivery. \u00b7 Administer and maintain Azure DevOps (ADO) ...",
+      "date": "2026-10-02",
+      "timestamp": "2026-10-02T20:18:07+00:00",
+      "fetched_at": "2026-10-02T23:19:15.595447+00:00"
+    },
+    {
+      "id": "9d9a2baf69a7",
+      "title": "Staff/Software Software Engineer - Rippling",
+      "company": "Rippling",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/pear-suites-career-page/jobs/bc19fc81-fefb-48da-84aa-a126c7fd59da",
+      "source": "Other",
+      "description": "We're hiring an experienced full-stack engineer to help shape the ... A Senior Software Engineer typically owns the design and architecture ...",
+      "date": "2026-10-02",
+      "timestamp": "2026-10-02T19:59:44+00:00",
+      "fetched_at": "2026-10-02T23:19:15.595830+00:00"
+    },
+    {
+      "id": "182909aefd91",
+      "title": "Software Engineer , Passport & Commerce, Android - Careers at Airbnb",
+      "company": "Airbnb",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.airbnb.com/positions/8247303/",
+      "source": "Other",
+      "description": "Software Engineer , Passport & Commerce, Android. Remote, USA. Role overview. Application. Airbnb was born in 2007 when two hosts welcomed three guests ...",
+      "date": "2026-10-02",
+      "timestamp": "2026-10-02T19:40:45+00:00",
+      "fetched_at": "2026-10-02T23:19:15.596076+00:00"
+    },
+    {
+      "id": "6fc4d44a8bf8",
+      "title": "Job Application for Senior Staff Software Engineer at SmithRx - Greenhouse",
+      "company": "Smithrx",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/smithrx/jobs/8848007002",
+      "source": "Greenhouse",
+      "description": "Senior Staff Software Engineer . Remote. Apply. Who We Are: SmithRx is a rapidly growing, venture-backed Health-Tech company. Our mission is to ...",
+      "date": "2026-10-02",
+      "timestamp": "2026-10-02T19:22:05+00:00",
+      "fetched_at": "2026-10-02T23:19:15.596269+00:00"
+    },
+    {
+      "id": "471de906b065",
+      "title": "Senior Software Engineer I - Core Platforms - Central Tech - Booking.com Careers",
+      "company": "Core Platforms - Central Tech - Booking.com Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.booking.com/booking/jobs/30234?lang=en-us",
+      "source": "Other",
+      "description": "Booking.com Careers is hiring a Senior Software Engineer I - Core Platforms - Central Tech in Amsterdam, Netherlands.",
+      "date": "2026-10-02",
+      "timestamp": "2026-10-02T19:19:32+00:00",
+      "fetched_at": "2026-10-02T23:19:15.596881+00:00"
+    },
+    {
+      "id": "895419bb4f9d",
+      "title": "Software Engineer I - Web Services in Cincinnati, Ohio, United States of America",
+      "company": "Web Services in Cincinnati, Ohio, United States of America",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.cincinnatichildrens.org/us/en/job/JR225073/Software-Engineer-I-Web-Services",
+      "source": "Other",
+      "description": "Apply for Software Engineer I - Web Services job with Cincinnati Children's Hospital Medical Center in Cincinnati, Ohio, United States of America.",
+      "date": "2026-10-02",
+      "timestamp": "2026-10-02T18:18:35+00:00",
+      "fetched_at": "2026-10-02T23:19:15.597226+00:00"
+    },
+    {
+      "id": "eb20bb48c6b1",
+      "title": "Cloud Engineer - United States - 194957 - Koch",
+      "company": "United States - 194957 - Koch",
+      "role": "Cloud Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://koch.avature.net/en_US/careers/JobDetail/United-States-Cloud-Engineer/194957",
+      "source": "Other",
+      "description": "Cloud Engineer . Location(s). Green Bay, Wisconsin | Wichita, Kansas. Company. KBX. Career Field. Information Systems & Technology. Job Number. 194957.",
+      "date": "2026-10-02",
+      "timestamp": "2026-10-02T18:14:45+00:00",
+      "fetched_at": "2026-10-02T23:19:15.597533+00:00"
+    },
+    {
+      "id": "bb46981aea7c",
+      "title": "Software Engineer I at USAA",
+      "company": "USAA",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.usaajobs.com/job/san-antonio/software-engineer-i/1207/101403765328",
+      "source": "Other",
+      "description": "Software Engineer I. Location San Antonio, Texas. Job ID: R0120356. Date posted: 10/01/2026.",
+      "date": "2026-10-02",
+      "timestamp": "2026-10-02T18:10:02+00:00",
+      "fetched_at": "2026-10-02T23:19:15.674825+00:00"
+    },
+    {
+      "id": "2ce65b8f8c86",
+      "title": "AI Engineer - K1 - Career Page",
+      "company": "K1 - Career Page",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://k1im.applytojob.com/apply/7yVsObIt1i/AI-Engineer",
+      "source": "Other",
+      "description": "Position Summary: K1 is seeking an AI Engineer to join our founding AI team in Manhattan Beach, CA. This is not a typical role. You will be one ...",
+      "date": "2026-10-02",
+      "timestamp": "2026-10-02T18:03:02+00:00",
+      "fetched_at": "2026-10-02T23:19:15.597828+00:00"
+    },
+    {
+      "id": "68b833e722cc",
+      "title": "Software Engineer II - Remote - US - Samsara",
+      "company": "Remote - US - Samsara",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.samsara.com/company/careers/roles/8223645?gh_jid=8223645",
+      "source": "Other",
+      "description": "Software Engineer II. Samsara's Mission. Improve the safety, efficiency, and sustainability of the operations that power the global economy. Who we ...",
+      "date": "2026-10-02",
+      "timestamp": "2026-10-02T18:00:16+00:00",
+      "fetched_at": "2026-10-02T23:19:15.598115+00:00"
+    },
+    {
+      "id": "f90e21a09fad",
+      "title": "Sensor Data Engineer - WindBorne Systems",
+      "company": "WindBorne Systems",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://windbornesystems.com/careers/sensor-data-engineer",
+      "source": "Other",
+      "description": "We're hiring a Sensor Data Engineer to own the software that turns raw measurements into weather data. You'll be responsible for a pipeline that ...",
+      "date": "2026-10-02",
+      "timestamp": "2026-10-02T17:59:47+00:00",
+      "fetched_at": "2026-10-02T23:19:15.598388+00:00"
+    },
+    {
+      "id": "e8d11a1d0c62",
+      "title": "Cloud Engineer - Software Engineer II - - 369578 - Deloitte US",
+      "company": "Cloud Engineer",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://apply.deloitte.com/en_US/careers/JobDetail/Cloud-Engineer-Software-Engineer-II/369578",
+      "source": "Other",
+      "description": "Cloud Engineer - Software Engineer II. Engineering and Product | Software Engineering. Portland, Oregon, United States.",
+      "date": "2026-10-02",
+      "timestamp": "2026-10-02T17:49:40+00:00",
+      "fetched_at": "2026-10-02T23:19:15.599012+00:00"
+    },
+    {
+      "id": "8a2c9f85443e",
+      "title": "Senior Machine Learning Engineer - New Verticals Agentic Foundations - DoorDash",
+      "company": "New Verticals Agentic Foundations - DoorDash",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careersatdoordash.com/jobs/senior-machine-learning-engineer---new-verticals-agentic-foundations/8249493",
+      "source": "Other",
+      "description": "We're looking for a Senior Machine Learning Engineer to join Agentic Foundations with a primary focus on Vertical Agent Development. You will own the ...",
+      "date": "2026-10-02",
+      "timestamp": "2026-10-02T17:38:52+00:00",
+      "fetched_at": "2026-10-02T23:19:15.599514+00:00"
+    },
+    {
+      "id": "4a52522f8042",
+      "title": "Data Engineer (Software Developer 2) - Stanford Careers",
+      "company": "Stanford Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careersearch.stanford.edu/hcmUI/CandidateExperience/en/sites/Stanford/job/201222",
+      "source": "Other",
+      "description": "Data Engineer (Software Developer 2). Stanford, CA, United States ... SimVascular Software Engineer and Architect. Stanford, CA, United States ...",
+      "date": "2026-10-02",
+      "timestamp": "2026-10-02T17:28:56+00:00",
+      "fetched_at": "2026-10-02T23:19:15.599833+00:00"
+    },
+    {
+      "id": "ec5411962bfc",
+      "title": "Job Application for Senior Software Engineer , Engagement at Discord - Greenhouse",
+      "company": "Discord",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/discord/jobs/8856467002",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer , Engagement. San Francisco Bay Area. Apply. Discord has a highly engaged community of millions of daily active users who use ...",
+      "date": "2026-10-02",
+      "timestamp": "2026-10-02T17:02:52+00:00",
+      "fetched_at": "2026-10-02T23:19:15.600191+00:00"
+    },
+    {
+      "id": "5d036d42ea06",
+      "title": "Actimize-SAS AML Data Engineer | Multiple Locations - Huntington Careers",
+      "company": "Actimize",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://huntington-careers.com/search/jobdetails/actimize-sas-aml-data-engineer/3e5c5db8-3443-4228-81e0-8388ca7495ef",
+      "source": "Other",
+      "description": "Actimize-SAS AML Data Engineer \u00b7 Location: 7 Easton Oval. Columbus,. OH. 11100 Wayzata Blvd. Minnetonka,. MN. 12750 Merit Dr. Dallas,. TX \u00b7 Reference ...",
+      "date": "2026-10-02",
+      "timestamp": "2026-10-02T17:01:15+00:00",
+      "fetched_at": "2026-10-02T23:19:15.600547+00:00"
+    },
     {
       "id": "f6d8aa86a0ab",
       "title": "Software Engineer , Full Stack - Applications | C3 AI",
