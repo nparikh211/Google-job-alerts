@@ -1,26 +1,26 @@
 {
-  "last_updated": "2026-10-02T02:38:46.043646+00:00",
-  "total_jobs": 10689,
+  "last_updated": "2026-10-02T10:04:34.773417+00:00",
+  "total_jobs": 10707,
   "stats": {
-    "total_companies": 4861,
+    "total_companies": 4865,
     "total_roles": 142,
     "regions": {
-      "India": 7008,
-      "Philippines": 2272,
+      "India": 7024,
+      "Philippines": 2274,
       "Remote": 1323,
       "Unknown": 135
     },
     "sources": {
-      "Other": 8352,
-      "Greenhouse": 543,
+      "Other": 8366,
+      "Greenhouse": 544,
       "LinkedIn": 466,
-      "Workday": 455,
+      "Workday": 456,
       "Ashby": 332,
       "iCIMS": 136,
       "Breezy": 111,
       "Workable": 73,
       "Lever": 72,
-      "SmartRecruiters": 68,
+      "SmartRecruiters": 70,
       "Indeed": 36,
       "Recruitee": 11,
       "BrassRing": 11,
@@ -35,6 +35,156 @@
     }
   },
   "jobs": [
+    {
+      "id": "1409a61f603d",
+      "title": "Job Application for Machine Learning Engineer at Reddit - Greenhouse",
+      "company": "Reddit",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/reddit/jobs/8244082",
+      "source": "Greenhouse",
+      "description": "Machine Learning Engineer . San Francisco, CA. Apply. Reddit is a community of communities. It's built on shared interests, passion, and trust, and is ...",
+      "date": "2026-10-02",
+      "timestamp": "2026-10-02T06:47:27+00:00",
+      "fetched_at": "2026-10-02T10:04:34.661593+00:00"
+    },
+    {
+      "id": "7d22a1bb8db6",
+      "title": "Software Engineer , Data Loading Infrastructure in San Francisco \u2022 Asana Jobs",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://asana.com/jobs/apply/7962412?gh_jid=7962412",
+      "source": "Other",
+      "description": "We are seeking a Software Engineer to join our team to help maintain and modernize our data loading tier. In this role, you will work closely with ...",
+      "date": "2026-10-02",
+      "timestamp": "2026-10-02T06:34:42+00:00",
+      "fetched_at": "2026-10-02T10:04:34.662853+00:00"
+    },
+    {
+      "id": "d4a1f92823bb",
+      "title": "Software Engineer II - Jobs - Cox Careers",
+      "company": "Jobs - Cox Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.coxenterprises.com/en/jobs/r202683103/software-engineer-ii/",
+      "source": "Other",
+      "description": "Senior Software Engineer . Save Saved. Atlanta GA; Hybrid work. Lead Software Engineer . Save Saved. Atlanta GA; Hybrid work. Sr. Lead Data Engineer .",
+      "date": "2026-10-02",
+      "timestamp": "2026-10-02T05:59:58+00:00",
+      "fetched_at": "2026-10-02T10:04:34.663095+00:00"
+    },
+    {
+      "id": "41c943f6ea6e",
+      "title": "Prenuvo Senior Backend Engineer II - Data - Puck",
+      "company": "Data - Puck",
+      "role": "Backend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://app.careerpuck.com/job-board/prenuvo/job/4738973005",
+      "source": "Other",
+      "description": "Senior Backend Engineer II - Data \u00b7 Build and Evolve the Medical Data Server: \u00b7 Clinical Data Architecture: \u00b7 Data Pipeline Development: \u00b7 Data Quality ...",
+      "date": "2026-10-02",
+      "timestamp": "2026-10-02T05:33:54+00:00",
+      "fetched_at": "2026-10-02T10:04:34.663262+00:00"
+    },
+    {
+      "id": "3bcbab473801",
+      "title": "Software Engineer , I - Careers - Myworkdayjobs.com",
+      "company": "Zebra",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Pune-India/Software-Engineer--I_JR103443-1",
+      "source": "Workday",
+      "description": "Software Engineer , I ; time type: Full time ; posted on: Posted Today ; time left to apply: End Date: October 3, 2026 (16 hours left to apply) ; job ...",
+      "date": "2026-10-02",
+      "timestamp": "2026-10-02T05:14:27+00:00",
+      "fetched_at": "2026-10-02T10:04:34.663362+00:00"
+    },
+    {
+      "id": "f7f9ea380758",
+      "title": "AI Software Engineer , App Intelligence - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200686874-0836/ai-software-engineer-app-intelligence?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a AI Software Engineer , App Intelligence job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-10-02",
+      "timestamp": "2026-10-02T03:32:08+00:00",
+      "fetched_at": "2026-10-02T10:04:34.663562+00:00"
+    },
+    {
+      "id": "67c7d66c0b2d",
+      "title": "LinkedIn AI Engineer | SmartRecruiters",
+      "company": "Linkedin3",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.smartrecruiters.com/LinkedIn3/744000152986948-ai-engineer",
+      "source": "SmartRecruiters",
+      "description": "AI Engineer . Mountain View, CA Employees work in a hybrid mode; Full ... As an AI Software Engineer you will own end-to-end machine learning ...",
+      "date": "2026-10-02",
+      "timestamp": "2026-10-02T02:57:43+00:00",
+      "fetched_at": "2026-10-02T10:04:34.663669+00:00"
+    },
+    {
+      "id": "4b8b4a4bfd8a",
+      "title": "Senior (DevOps) Machine Learning Engineer , Santa Clara | ServiceNow Careers",
+      "company": "ServiceNow Careers",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.servicenow.com/jobs/744000152874765/senior-devops-machine-learning-engineer/",
+      "source": "Other",
+      "description": "Senior (DevOps) Machine Learning Engineer \u00b7 Build the best cloud-based AI/ML solutions to power intelligent enterprise services \u00b7 Deploy, scale, and ...",
+      "date": "2026-10-02",
+      "timestamp": "2026-10-02T02:29:07+00:00",
+      "fetched_at": "2026-10-02T10:04:34.664068+00:00"
+    },
+    {
+      "id": "ef44b926f706",
+      "title": "Software Engineer (Cybersecurity Integrations) - Armis , Bangalore | ServiceNow Careers",
+      "company": "Armis , Bangalore | ServiceNow Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.servicenow.com/jobs/744000152831074/software-engineer-cybersecurity-integrations-armis/",
+      "source": "Other",
+      "description": "Software Engineer (Cybersecurity Integrations) - Armis. Engineering, Infrastructure and Operations \u00b7 Bangalore; Required in Office; October 01, ...",
+      "date": "2026-10-02",
+      "timestamp": "2026-10-02T02:29:07+00:00",
+      "fetched_at": "2026-10-02T10:04:34.664327+00:00"
+    },
+    {
+      "id": "510eadbec66e",
+      "title": "Software Engineer (Framework Solutions), AI & Data Platforms (AiDP) - Apple Careers",
+      "company": "Apple Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200656819-0157/software-engineer-framework-solutions-ai-data-platforms-aidp",
+      "source": "Other",
+      "description": "Apply for a Software Engineer (Framework Solutions), AI & Data Platforms (AiDP) job at Apple. Read about the role and find out if it's right for ...",
+      "date": "2026-10-02",
+      "timestamp": "2026-10-02T01:34:16+00:00",
+      "fetched_at": "2026-10-02T10:04:34.664711+00:00"
+    },
     {
       "id": "66f06834d8d3",
       "title": "Applied AI Engineer \u2014 Careers at Ease Health",
@@ -51,6 +201,81 @@
       "fetched_at": "2026-10-02T02:38:45.996875+00:00"
     },
     {
+      "id": "827124d8a4a3",
+      "title": "Job Title: Junior Software Engineer - Ametek Careers",
+      "company": "Ametek Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ametek.com/job/Atlanta-Junior-Software-Engineer-GA-30339/1435994100/",
+      "source": "Other",
+      "description": "Telguard is seeking a Junior Software Engineer to help design, develop, test, deploy, and support reliable back-office applications and Windows ...",
+      "date": "2026-10-02",
+      "timestamp": "2026-10-02T00:47:29+00:00",
+      "fetched_at": "2026-10-02T10:04:34.665110+00:00"
+    },
+    {
+      "id": "e986bd19d3f4",
+      "title": "Senior Software Engineer | Pearson",
+      "company": "Pearson",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://pearson.jobs/virtual-lka/senior-software-engineer/167FA59D63874D8A920A8BFDEEC8D019/job/",
+      "source": "Other",
+      "description": "js, GraphQL, and AWS. This role aligns to industry level titles such as Senior Frontend Engineer , Lead Frontend Engineer , Senior Software Engineer \u2013 ...",
+      "date": "2026-10-02",
+      "timestamp": "2026-10-02T00:37:51+00:00",
+      "fetched_at": "2026-10-02T10:04:34.665315+00:00"
+    },
+    {
+      "id": "b9e82548b0f6",
+      "title": "Software Engineer | Senior, Staff & Senior Staff Opportunities Job Details - Grainger Careers",
+      "company": "Senior, Staff & Senior Staff Opportunities Job Details - Grainger Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.grainger.com/job/CHICAGO-Software-Engineer-Senior%2C-Staff-&-Senior-Staff-Opportunities-IL-60654-4203/1435537600/",
+      "source": "Other",
+      "description": "The anticipated base pay compensation range for these positions is as follows: Senior Software Engineer : $112,900 - $188,100; Staff Software Engineer : ...",
+      "date": "2026-10-01",
+      "timestamp": "2026-10-01T23:53:28+00:00",
+      "fetched_at": "2026-10-02T10:04:34.665606+00:00"
+    },
+    {
+      "id": "4eb1540acb40",
+      "title": "Senior Software Engineer - 66320 - MANTECH Careers",
+      "company": "66320 - MANTECH Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mantech.com/en_US/careers/JobDetail/Senior-Software-Engineer/66320",
+      "source": "Other",
+      "description": "MANTECH seeks a motivated, career and customer-oriented Senior Software Engineer to join our team in Annapolis Junction, MD.",
+      "date": "2026-10-01",
+      "timestamp": "2026-10-01T23:43:13+00:00",
+      "fetched_at": "2026-10-02T10:04:34.665768+00:00"
+    },
+    {
+      "id": "636644b6ef82",
+      "title": "Software Engineer | GE Vernova",
+      "company": "GE Vernova",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.gevernova.com/software-engineer/job/R5054410",
+      "source": "Other",
+      "description": "Software Engineer . Systems Engineering; PB. Type: Full Time. Location(s):: Roanoke US VA 3. Date Posted: Salary: Job Posting Start Date: 2026-10-01.",
+      "date": "2026-10-01",
+      "timestamp": "2026-10-01T22:26:41+00:00",
+      "fetched_at": "2026-10-02T10:04:34.665930+00:00"
+    },
+    {
       "id": "fd3fd9b78050",
       "title": "Data Engineer , Google.org for Social Impact",
       "company": "Unknown Company",
@@ -64,6 +289,21 @@
       "date": "2026-10-01",
       "timestamp": "2026-10-01T22:24:05+00:00",
       "fetched_at": "2026-10-02T02:38:45.997052+00:00"
+    },
+    {
+      "id": "82de84cf65bd",
+      "title": "Senior Machine Learning Engineer , Maneuvering Tech - San Francisco, California, United States",
+      "company": "San Francisco, California, United States",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.withwaymo.com/jobs/senior-machine-learning-engineer-maneuvering-tech-mountain-view-california-united-states-pittsburgh-pennsylvania-san-francisco",
+      "source": "Other",
+      "description": "Senior Machine Learning Engineer , Maneuvering Tech. Mountain View ... Related Job Openings. Senior Software Engineer - Multiverse. Mountain ...",
+      "date": "2026-10-01",
+      "timestamp": "2026-10-01T22:15:27+00:00",
+      "fetched_at": "2026-10-02T10:04:34.666587+00:00"
     },
     {
       "id": "57e27b7af817",
@@ -111,6 +351,21 @@
       "fetched_at": "2026-10-02T02:38:45.820064+00:00"
     },
     {
+      "id": "0a8ed8c6fc2c",
+      "title": "ServiceNow Software Engineer | SmartRecruiters",
+      "company": "Servicenow",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.smartrecruiters.com/ServiceNow/744000152734009-software-engineer",
+      "source": "SmartRecruiters",
+      "description": "Software Engineer . Building A,B,C ... Other jobs at ServiceNow. Senior Staff Technical Program Manager. Addison, TEXAS. Machine Learning Engineer .",
+      "date": "2026-10-01",
+      "timestamp": "2026-10-01T21:43:45+00:00",
+      "fetched_at": "2026-10-02T10:04:34.729050+00:00"
+    },
+    {
       "id": "96b00fe7db0e",
       "title": "Data & AI Engineer - Mercedes-Benz Group > Careers > Job search",
       "company": "Mercedes-Benz Group > Careers > Job search",
@@ -139,6 +394,21 @@
       "date": "2026-10-01",
       "timestamp": "2026-10-01T20:52:24+00:00",
       "fetched_at": "2026-10-01T23:29:36.184132+00:00"
+    },
+    {
+      "id": "e335216fae00",
+      "title": "Senior Backend Engineer New York - Harnham",
+      "company": "Harnham",
+      "role": "Backend Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.harnham.com/job/eb8cdd1a-d1d1-4f13-3bd8-08d5dc096ea6-senior-backend-engineer-new-york/",
+      "source": "Other",
+      "description": "AI Full Stack Engineer (Contract). London. \u00a3500 - \u00a3550. + Data Science & AI. Contract London. To Apply for this Job Click Here. Full Stack AI Engineer ...",
+      "date": "2026-10-01",
+      "timestamp": "2026-10-01T20:18:11+00:00",
+      "fetched_at": "2026-10-02T10:04:34.729650+00:00"
     },
     {
       "id": "d9401c2dc776",
