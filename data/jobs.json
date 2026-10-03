@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-10-03T15:15:49.707209+00:00",
-  "total_jobs": 10765,
+  "last_updated": "2026-10-03T18:50:44.319907+00:00",
+  "total_jobs": 10779,
   "stats": {
-    "total_companies": 4883,
+    "total_companies": 4891,
     "total_roles": 143,
     "regions": {
-      "India": 7065,
-      "Philippines": 2285,
-      "Remote": 1329,
+      "India": 7075,
+      "Philippines": 2287,
+      "Remote": 1331,
       "Unknown": 135
     },
     "sources": {
-      "Other": 8416,
-      "Greenhouse": 549,
-      "LinkedIn": 467,
+      "Other": 8428,
+      "Greenhouse": 550,
+      "LinkedIn": 468,
       "Workday": 457,
       "Ashby": 333,
       "iCIMS": 136,
@@ -36,6 +36,81 @@
   },
   "jobs": [
     {
+      "id": "032407a8a7c8",
+      "title": "Full Stack Engineer , Revenue - Stripe Careers",
+      "company": "Stripe Careers",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://stripe.com/careers/listing/full-stack-engineer-revenue/8234357",
+      "source": "Other",
+      "description": "Full Stack Engineer , Revenue. Who we are. About Stripe. Stripe is a financial infrastructure platform for businesses. Millions of companies\u2014from the ...",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T17:30:55+00:00",
+      "fetched_at": "2026-10-03T18:50:44.224955+00:00"
+    },
+    {
+      "id": "b0d628d14415",
+      "title": "You are competing with PhDs Analysis of ML Engineer roles shows that over 40% require a ...",
+      "company": "over 40% require a ...",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/jeanklee_everyone-wants-to-be-a-machine-learning-engineer-activity-7512167079572156416-hWhw",
+      "source": "LinkedIn",
+      "description": "Everyone wants to be a Machine Learning Engineer . But my research shows ... AI Engineer is practical software engineering. It involves system ...",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T16:55:56+00:00",
+      "fetched_at": "2026-10-03T18:50:44.225277+00:00"
+    },
+    {
+      "id": "ce309fd696b1",
+      "title": "What's the point of a software engineer ? - YouTube",
+      "company": "YouTube",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.youtube.com/watch?v=tdeQWiTzodY",
+      "source": "Other",
+      "description": "Sign in. Video unavailable. This content isn't available. What's the point of a software engineer ? @albertatech625 likes5.9K views22 minutes ago more.",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T15:58:13+00:00",
+      "fetched_at": "2026-10-03T18:50:44.225485+00:00"
+    },
+    {
+      "id": "4dbca4453ea8",
+      "title": "Full Stack Engineer @ Burq | Tandem Ventures Job Board",
+      "company": "Burq",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.tandeminvest.com/companies/burq/jobs/95529311-full-stack-engineer",
+      "source": "Other",
+      "description": "Full Stack Engineer ... We're revolutionizing commerce from port to doorstep with Burq Intelligence. Burq started with an ambitious mission: to turn the ...",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T14:32:57+00:00",
+      "fetched_at": "2026-10-03T18:50:44.225602+00:00"
+    },
+    {
+      "id": "70b859cfdbb6",
+      "title": "Software Engineer , New Grad (2027) - Careers at Sentry",
+      "company": "Sentry",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://sentry.io/careers/f345b525-b2e9-4dc1-bec1-85fb4c3b3cf2/",
+      "source": "Other",
+      "description": "Software Engineer , New Grad (2027). Vienna, Austria. About Sentry. Software runs the world and the pace is faster than ever. Sentry helps developers ...",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T14:08:52+00:00",
+      "fetched_at": "2026-10-03T18:50:44.225718+00:00"
+    },
+    {
       "id": "b649f2cb2b2f",
       "title": "Senior Software Engineer in gloucester, South Gloucestershire, United Kingdom",
       "company": "Unknown Company",
@@ -51,6 +126,36 @@
       "fetched_at": "2026-10-03T15:15:49.598011+00:00"
     },
     {
+      "id": "6ae7b67c0e87",
+      "title": "Job Application for iOS Software Engineer , Consumer Engineering at Reddit - Greenhouse",
+      "company": "Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/reddit/jobs/8250125",
+      "source": "Greenhouse",
+      "description": "iOS Software Engineer , Consumer Engineering. Remote - United States. Apply. Reddit is a community of communities. It's built on shared interests ...",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T09:04:24+00:00",
+      "fetched_at": "2026-10-03T18:50:44.225897+00:00"
+    },
+    {
+      "id": "ff167de15170",
+      "title": "Platform Engineer - Catawiki Careers",
+      "company": "Catawiki Careers",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://catawiki.careers/vacancies/platform-engineer-netherlands-3019627-8248891",
+      "source": "Other",
+      "description": "As a Platform Engineer , you'll work at the intersection of development, infrastructure, and operations. You'll help shape and execute our long-term ...",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T08:24:24+00:00",
+      "fetched_at": "2026-10-03T18:50:44.226187+00:00"
+    },
+    {
       "id": "f9f2aa6f2d82",
       "title": "Seattle software engineer turned general contractor built an AI guide to the patchwork of permit rules",
       "company": "Unknown Company",
@@ -64,6 +169,21 @@
       "date": "2026-10-03",
       "timestamp": "2026-10-03T07:47:45+00:00",
       "fetched_at": "2026-10-03T09:27:22.561832+00:00"
+    },
+    {
+      "id": "ea85b480dfd0",
+      "title": "Full-Stack Software Engineer in Remote - Viasat Careers",
+      "company": "Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.viasat.com/Python-Developers/jobs/6733?lang=en-us",
+      "source": "Other",
+      "description": "Python Developers is hiring a Full-Stack Software Engineer in Remote - Oregon, Oregon. Review all of the job details and apply today!",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T07:34:01+00:00",
+      "fetched_at": "2026-10-03T18:50:44.283091+00:00"
     },
     {
       "id": "5983c706332f",
@@ -96,6 +216,21 @@
       "fetched_at": "2026-10-03T15:15:49.598691+00:00"
     },
     {
+      "id": "9fd46b0f1648",
+      "title": "Software Engineer - - 130129 - Booz | Allen | Hamilton \u00ae - Careers",
+      "company": "- 130129 - Booz | Allen | Hamilton \u00ae - Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.boozallen.com/careers/JobDetail/130129",
+      "source": "Other",
+      "description": "Software Engineer . Chantilly, Virginia, USA. Apply. Advance the nation. And your career. Driven by purpose. Belong. Join a culture of empowerment and ...",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T05:54:35+00:00",
+      "fetched_at": "2026-10-03T18:50:44.226709+00:00"
+    },
+    {
       "id": "9d639f15cbe2",
       "title": "Full Stack Engineer , Enterprise Expansions | OpenAI",
       "company": "OpenAI",
@@ -126,6 +261,36 @@
       "fetched_at": "2026-10-03T15:15:49.599006+00:00"
     },
     {
+      "id": "fef98625ad12",
+      "title": "Senior Platform Engineer , Vice President job in Quincy | Other jobs at State Street",
+      "company": "State Street",
+      "role": "Platform Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.statestreet.com/global/en/job/STSTGLOBALR798917EXTERNALENGLOBAL/Senior-Platform-Engineer-Vice-President",
+      "source": "Other",
+      "description": "The State Street Cyber Architecture & Engineering team is looking for a Senior Platform Engineer , VP. The Cyber Data & Analytics team delivers models, ...",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T05:04:47+00:00",
+      "fetched_at": "2026-10-03T18:50:44.283861+00:00"
+    },
+    {
+      "id": "5d80baf0df5f",
+      "title": "Senior Software Engineer - Distribution and Supply in Seattle, Washington | Expedia Group",
+      "company": "Distribution and Supply in Seattle, Washington | Expedia Group",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "http://careers.expediagroup.com/job/senior-software-engineer-distribution-and-supply/seattle-wa/R-110161/",
+      "source": "Other",
+      "description": "Join Expedia Group | Careers as a Senior Software Engineer - Distribution and Supply in Seattle, Washington.",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T05:02:03+00:00",
+      "fetched_at": "2026-10-03T18:50:44.227075+00:00"
+    },
+    {
       "id": "4819b864a75f",
       "title": "Software Engineer - Cloud and DevOps - Zions Bancorporation Careers",
       "company": "Cloud and DevOps - Zions Bancorporation Careers",
@@ -141,6 +306,21 @@
       "fetched_at": "2026-10-03T09:27:22.687337+00:00"
     },
     {
+      "id": "b94fc41c566e",
+      "title": "Machine Learning Engineer in McLean, Virginia | Somatus, Inc.",
+      "company": "Somatus, Inc.",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.somatus.com/jobs/3019?lang=en-us",
+      "source": "Other",
+      "description": "career-home is hiring a Machine Learning Engineer in McLean, Virginia. Review all of the job details and apply today!",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T02:55:53+00:00",
+      "fetched_at": "2026-10-03T18:50:44.284266+00:00"
+    },
+    {
       "id": "31c0c887a321",
       "title": "Senior Software Engineer - Careers - LEGO.com",
       "company": "Careers - LEGO.com",
@@ -154,6 +334,21 @@
       "date": "2026-10-03",
       "timestamp": "2026-10-03T02:43:22+00:00",
       "fetched_at": "2026-10-03T15:15:49.599221+00:00"
+    },
+    {
+      "id": "849998946a3b",
+      "title": "Austin Rief \u2615\ufe0f on X: \"What I want: AI engineer What I get:\" / X",
+      "company": "I want: AI engineer What I get:\" / X",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://x.com/austin_rief/status/2106096358025478221",
+      "source": "Other",
+      "description": "What I want: AI engineer What I get: 11:57 AM \u00b7 Oct 2, 2026\u00b7. 6,654. Views.",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T02:29:36+00:00",
+      "fetched_at": "2026-10-03T18:50:44.227363+00:00"
     },
     {
       "id": "78edf3fd0d1b",
@@ -199,6 +394,21 @@
       "date": "2026-10-03",
       "timestamp": "2026-10-03T02:01:48+00:00",
       "fetched_at": "2026-10-03T15:15:49.663824+00:00"
+    },
+    {
+      "id": "e057abe88dcc",
+      "title": "DevOps Engineer (Junior) - MULTIVERSE COMPUTING - Teamtailor",
+      "company": "MULTIVERSE COMPUTING - Teamtailor",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://multiversecomputing.teamtailor.com/jobs/8429009-devops-engineer-junior",
+      "source": "Other",
+      "description": "DevOps Engineer (Junior). Apply for this job. Multiverse Computing. Multiverse is a well-funded, fast-growing deep-tech company founded in 2019. We ...",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T02:00:05+00:00",
+      "fetched_at": "2026-10-03T18:50:44.227651+00:00"
     },
     {
       "id": "9ffc33e8980e",
