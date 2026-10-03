@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-10-03T18:50:44.319907+00:00",
-  "total_jobs": 10779,
+  "last_updated": "2026-10-03T22:28:23.580348+00:00",
+  "total_jobs": 10786,
   "stats": {
-    "total_companies": 4891,
+    "total_companies": 4894,
     "total_roles": 143,
     "regions": {
-      "India": 7075,
-      "Philippines": 2287,
-      "Remote": 1331,
+      "India": 7080,
+      "Philippines": 2288,
+      "Remote": 1332,
       "Unknown": 135
     },
     "sources": {
-      "Other": 8428,
+      "Other": 8434,
       "Greenhouse": 550,
-      "LinkedIn": 468,
+      "LinkedIn": 469,
       "Workday": 457,
       "Ashby": 333,
       "iCIMS": 136,
@@ -35,6 +35,36 @@
     }
   },
   "jobs": [
+    {
+      "id": "c72a4e046f34",
+      "title": "Dibya Dutta - AI Software Engineer , Apple Cloud AI Platform - LinkedIn",
+      "company": "Dibya Dutta",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/dibya-dutta-2209a465_ai-software-engineer-apple-cloud-ai-platform-activity-7511634275864084480-BwSC",
+      "source": "LinkedIn",
+      "description": "... ML Engineer job title. In the posting, the bit about contributing to ... backend engineer (Go, Django, React, AWS). Applying now \u2014 excited ...",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T21:15:36+00:00",
+      "fetched_at": "2026-10-03T22:28:23.400458+00:00"
+    },
+    {
+      "id": "41dcb0435d89",
+      "title": "Software Engineer 1 - Careers at Lam Research",
+      "company": "Lam Research",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.lamresearch.com/careers/job/1099555961986?src=Eightfold",
+      "source": "Other",
+      "description": "As a Software Engineer at Lam, you will be at the forefront of innovation by designing, developing, and troubleshooting, and debugging software ...",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T19:06:01+00:00",
+      "fetched_at": "2026-10-03T22:28:23.400755+00:00"
+    },
     {
       "id": "032407a8a7c8",
       "title": "Full Stack Engineer , Revenue - Stripe Careers",
@@ -111,6 +141,36 @@
       "fetched_at": "2026-10-03T18:50:44.225718+00:00"
     },
     {
+      "id": "8c5c72183bf4",
+      "title": "Senior Data Engineer in Nashville, Tennessee, United States - HCA Healthcare Careers",
+      "company": "HCA Healthcare Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.hcahealthcare.com/jobs/18303060-senior-data-engineer",
+      "source": "Other",
+      "description": "Do you have the career opportunities as a Senior Data Engineer you want with your current employer? We have an exciting opportunity for you to ...",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T13:42:58+00:00",
+      "fetched_at": "2026-10-03T22:28:23.402139+00:00"
+    },
+    {
+      "id": "b87818f5ed1a",
+      "title": "Full-Stack Software Engineer in Remote - Viasat Careers",
+      "company": "Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.viasat.com/systemengineering/jobs/6733",
+      "source": "Other",
+      "description": "systemengineering is hiring a Full-Stack Software Engineer in Remote - Oregon, Oregon. Review all of the job details and apply today!",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T12:45:06+00:00",
+      "fetched_at": "2026-10-03T22:28:23.402324+00:00"
+    },
+    {
       "id": "b649f2cb2b2f",
       "title": "Senior Software Engineer in gloucester, South Gloucestershire, United Kingdom",
       "company": "Unknown Company",
@@ -124,6 +184,36 @@
       "date": "2026-10-03",
       "timestamp": "2026-10-03T11:25:31+00:00",
       "fetched_at": "2026-10-03T15:15:49.598011+00:00"
+    },
+    {
+      "id": "6d8b441321e3",
+      "title": "Site Reliability Engineer , Amazon Ads PubTech - Job ID: 10568206",
+      "company": "Job ID: 10568206",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.amazon.jobs/en/jobs/10568206/site-reliability-engineer-amazon-ads-pubtech",
+      "source": "Other",
+      "description": "We are looking for a Senior System Development Engineer, operating as a Site Reliability Engineer , to raise the reliability bar for SupplyTech's most ...",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T10:45:56+00:00",
+      "fetched_at": "2026-10-03T22:28:23.537783+00:00"
+    },
+    {
+      "id": "1e101ee6def1",
+      "title": "Lead Software Engineer - Commercial Connect API Team in Dublin 18, Ireland",
+      "company": "Commercial Connect API Team in Dublin 18, Ireland",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mastercard.com/us/en/job/R-277250/Lead-Software-Engineer-Commercial-Connect-API-Team",
+      "source": "Other",
+      "description": "Senior Software Engineer (API) \u2013 Fraud Platform. Location Dublin 18 ... Principal DevOps Engineer - Decision Management Platform. Location ...",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T09:12:10+00:00",
+      "fetched_at": "2026-10-03T22:28:23.402687+00:00"
     },
     {
       "id": "6ae7b67c0e87",
@@ -214,6 +304,21 @@
       "date": "2026-10-03",
       "timestamp": "2026-10-03T06:27:09+00:00",
       "fetched_at": "2026-10-03T15:15:49.598691+00:00"
+    },
+    {
+      "id": "eada241b74a1",
+      "title": "2027 Summer Intern \u2013 Machine Learning Engineer , AV/AI Platform, Sunnyvale, California",
+      "company": "Unknown Company",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://search-careers.gm.com/en/jobs/jr-202621695/2027-summer-intern-machine-learning-engineer-av-ai-platform/",
+      "source": "Other",
+      "description": "2027 Summer Intern \u2013 Machine Learning Engineer , AV/AI Platform ... 2027 Summer Intern \u2013 AI/ ML Engineer , Autonomous Vehicles: Simulation (PhD).",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T05:57:57+00:00",
+      "fetched_at": "2026-10-03T22:28:23.403901+00:00"
     },
     {
       "id": "9fd46b0f1648",
