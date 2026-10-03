@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-10-02T23:19:15.723841+00:00",
-  "total_jobs": 10739,
+  "last_updated": "2026-10-03T02:25:45.383112+00:00",
+  "total_jobs": 10744,
   "stats": {
-    "total_companies": 4876,
+    "total_companies": 4877,
     "total_roles": 143,
     "regions": {
-      "India": 7047,
-      "Philippines": 2280,
-      "Remote": 1326,
+      "India": 7049,
+      "Philippines": 2281,
+      "Remote": 1328,
       "Unknown": 135
     },
     "sources": {
-      "Other": 8394,
-      "Greenhouse": 547,
+      "Other": 8398,
+      "Greenhouse": 548,
       "LinkedIn": 467,
       "Workday": 456,
       "Ashby": 332,
@@ -36,6 +36,51 @@
   },
   "jobs": [
     {
+      "id": "8600ed00b848",
+      "title": "Job Application for Staff Machine Learning Engineer at Babylist - Greenhouse",
+      "company": "Babylist",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/babylist/jobs/6211274004",
+      "source": "Greenhouse",
+      "description": "As a Staff Machine Learning Engineer at Babylist, you own personalization and decide where it goes. Millions of families depend on what we build.",
+      "date": "2026-10-02",
+      "timestamp": "2026-10-02T23:12:01+00:00",
+      "fetched_at": "2026-10-03T02:25:45.334662+00:00"
+    },
+    {
+      "id": "069881501d5c",
+      "title": "Applied AI and ML Engineer - Careers - Google",
+      "company": "Careers - Google",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/132456108026405574-applied-ai-and-ml-engineer",
+      "source": "Other",
+      "description": "Software Engineer III, Infrastructure, Internet Egress Traffic Engineering ... Applied AI and ML Engineer . share. Share Applied AI and ML Engineer .",
+      "date": "2026-10-02",
+      "timestamp": "2026-10-02T22:44:56+00:00",
+      "fetched_at": "2026-10-03T02:25:45.041740+00:00"
+    },
+    {
+      "id": "49321bb69dce",
+      "title": "Software Engineer in Milpitas, California, United States of America - Careers at Cisco",
+      "company": "Cisco",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2024295EXTERNALENGLOBAL/Software-Engineer",
+      "source": "Other",
+      "description": "Apply for Software Engineer job with Cisco in Milpitas, California, United States of America. Product and Engineering at Cisco.",
+      "date": "2026-10-02",
+      "timestamp": "2026-10-02T22:38:42+00:00",
+      "fetched_at": "2026-10-03T02:25:45.041944+00:00"
+    },
+    {
       "id": "c8035765925e",
       "title": "Applied AI Engineer , API Platform, Digital Natives | OpenAI",
       "company": "OpenAI",
@@ -49,6 +94,21 @@
       "date": "2026-10-02",
       "timestamp": "2026-10-02T22:28:30+00:00",
       "fetched_at": "2026-10-02T23:19:15.594501+00:00"
+    },
+    {
+      "id": "15e1bac42df8",
+      "title": "Senior Data Engineer at Truthset, Inc. - Gusto",
+      "company": "Truthset, Inc.",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.gusto.com/postings/truthset-inc-senior-data-engineer-946119d0-6be1-4cf6-a18c-c20b8827313c",
+      "source": "Other",
+      "description": "Senior Data Engineer . Level: Senior (6+ years of experience). Location: New York, or Remote (US). Who We Are. Truthset is a venture-backed data ...",
+      "date": "2026-10-02",
+      "timestamp": "2026-10-02T21:52:04+00:00",
+      "fetched_at": "2026-10-03T02:25:45.336226+00:00"
     },
     {
       "id": "96f79ad786f4",
@@ -289,6 +349,21 @@
       "date": "2026-10-02",
       "timestamp": "2026-10-02T17:59:47+00:00",
       "fetched_at": "2026-10-02T23:19:15.598388+00:00"
+    },
+    {
+      "id": "37977d2ecd53",
+      "title": "Sr Kubernetes Platform Engineer at Ford Motor Company",
+      "company": "Ford Motor Company",
+      "role": "Platform Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.careers.ford.com/job/united-states/sr-kubernetes-platform-engineer/48560/101449356000",
+      "source": "Other",
+      "description": "Sr Kubernetes Platform Engineer . Job ID: 71037. Location: Remote. Category: Enterprise Technology. Apply Now. Jump To: Overview; Responsibilities ...",
+      "date": "2026-10-02",
+      "timestamp": "2026-10-02T17:50:01+00:00",
+      "fetched_at": "2026-10-03T02:25:45.044894+00:00"
     },
     {
       "id": "e8d11a1d0c62",
