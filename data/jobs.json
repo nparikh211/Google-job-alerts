@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-10-04T10:14:17.440596+00:00",
-  "total_jobs": 10813,
+  "last_updated": "2026-10-04T16:00:30.875483+00:00",
+  "total_jobs": 10825,
   "stats": {
-    "total_companies": 4904,
+    "total_companies": 4910,
     "total_roles": 143,
     "regions": {
-      "India": 7100,
-      "Philippines": 2293,
-      "Remote": 1334,
+      "India": 7110,
+      "Philippines": 2294,
+      "Remote": 1335,
       "Unknown": 135
     },
     "sources": {
-      "Other": 8457,
+      "Other": 8466,
       "Greenhouse": 550,
-      "LinkedIn": 471,
-      "Workday": 458,
+      "LinkedIn": 473,
+      "Workday": 459,
       "Ashby": 333,
       "iCIMS": 136,
       "Breezy": 111,
@@ -36,6 +36,96 @@
   },
   "jobs": [
     {
+      "id": "f132a52c572e",
+      "title": "Software Engineer , Charging Analytics - Tesla",
+      "company": "Tesla",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.tesla.com/careers/search/job/software-engineer-charging-analytics-285620",
+      "source": "Other",
+      "description": "Software Engineer , Charging Analytics. Job Category, Charging. Location, Palo Alto, California. Req. ID, 285620. Job Type, Full-time. What to Expect.",
+      "date": "2026-10-04",
+      "timestamp": "2026-10-04T13:08:56+00:00",
+      "fetched_at": "2026-10-04T16:00:30.742184+00:00"
+    },
+    {
+      "id": "55714597fdf6",
+      "title": "Software Engineer | Remote at Crossing Hurdles \u2014 United States | LinkedIn Jobs",
+      "company": "Crossing Hurdles \u2014 United States",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/software-engineer-remote-at-crossing-hurdles-4473867404",
+      "source": "LinkedIn",
+      "description": "People also viewed. Software Engineer , Backend Engineer . Software Engineer , Backend Engineer ... Senior Software Engineer jobs \u00b7 Web Development Intern ...",
+      "date": "2026-10-04",
+      "timestamp": "2026-10-04T11:31:05+00:00",
+      "fetched_at": "2026-10-04T16:00:30.829276+00:00"
+    },
+    {
+      "id": "6c7280d3b0f2",
+      "title": "Principal DevOps Engineer (Prisma Browser) at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/principal-devops-engineer-prisma-browser/47263/101035436304",
+      "source": "Other",
+      "description": "Principal DevOps Engineer (Prisma Browser). Tel Aviv-Yafo, Israel Product Engineering Ref ID: JR-022627. Apply Save Job.",
+      "date": "2026-10-04",
+      "timestamp": "2026-10-04T11:17:53+00:00",
+      "fetched_at": "2026-10-04T16:00:30.742721+00:00"
+    },
+    {
+      "id": "78dffdd07a83",
+      "title": "Principal Software Engineer - Tech - Walmart Careers",
+      "company": "Tech - Walmart Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.walmart.com/us/en/jobs/R-2647120",
+      "source": "Other",
+      "description": "The Principal Software Engineer leads complex, large-scale cross-functional projects by translating requirements into technical solutions and ...",
+      "date": "2026-10-04",
+      "timestamp": "2026-10-04T09:58:08+00:00",
+      "fetched_at": "2026-10-04T16:00:30.742871+00:00"
+    },
+    {
+      "id": "4cb2fc1f5343",
+      "title": "Senior Full-Stack Engineer at Amara Consulting and Technology \u2014 Arlington, VA - LinkedIn",
+      "company": "Amara Consulting and Technology \u2014 Arlington, VA",
+      "role": "Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/senior-full-stack-engineer-at-amara-consulting-and-technology-4475346030",
+      "source": "LinkedIn",
+      "description": "Similar jobs \u00b7 Senior Full Stack Engineer \u00b7 Senior Software Engineer \u00b7 Horizon: Full-Stack Engineer (Senior) \u00b7 Senior Fullstack Engineer , Premium \u00b7 Senior ...",
+      "date": "2026-10-04",
+      "timestamp": "2026-10-04T09:52:23+00:00",
+      "fetched_at": "2026-10-04T16:00:30.743427+00:00"
+    },
+    {
+      "id": "0e9e597bc357",
+      "title": "Data Engineer (Autonomous Systems) job with Ellison Institute of Technology | 680556",
+      "company": "680556",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.sciencecareers.org/job/680556/data-engineer-autonomous-systems-/",
+      "source": "Other",
+      "description": "You don't need to be a machine learning engineer , but you should know what makes a dataset good. ... ML Engineer . In-office, Emeryville ...",
+      "date": "2026-10-04",
+      "timestamp": "2026-10-04T09:31:03+00:00",
+      "fetched_at": "2026-10-04T16:00:30.743636+00:00"
+    },
+    {
       "id": "eaebd95a7f2e",
       "title": "Agentic AI Engineer Roadmap - Krish Naik",
       "company": "Krish Naik",
@@ -49,6 +139,36 @@
       "date": "2026-10-04",
       "timestamp": "2026-10-04T09:27:51+00:00",
       "fetched_at": "2026-10-04T10:14:17.333722+00:00"
+    },
+    {
+      "id": "ed93b360d1fb",
+      "title": "(Hybrid) LEAD Software Engineer -Full Stack in Multiple Locations - State Farm Careers",
+      "company": "Full Stack in Multiple Locations - State Farm Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.statefarm.com/event-37726/jobs/46449?lang=en-us",
+      "source": "Other",
+      "description": "State Farm Virtual Career Conversations - Get Career Ready: Resume & Interviewing Skills is hiring a (Hybrid) LEAD Software Engineer -Full Stack in ...",
+      "date": "2026-10-04",
+      "timestamp": "2026-10-04T08:32:09+00:00",
+      "fetched_at": "2026-10-04T16:00:30.829996+00:00"
+    },
+    {
+      "id": "f5af3bebfad0",
+      "title": "Senior Associate, Platform Engineer - Myworkdayjobs.com",
+      "company": "Pfizer",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---New-York---New-York-City/Senior-Associate--Platform-Engineer_4959913-1/apply/autofillWithResume?source=linkedin",
+      "source": "Workday",
+      "description": "... Platform Engineer for the pro-code Agent Platform that serves a diverse group of colleagues \u2013 ranging from novice business analysts and developers ...",
+      "date": "2026-10-04",
+      "timestamp": "2026-10-04T08:16:33+00:00",
+      "fetched_at": "2026-10-04T16:00:30.743990+00:00"
     },
     {
       "id": "4259f329454c",
@@ -94,6 +214,36 @@
       "date": "2026-10-04",
       "timestamp": "2026-10-04T04:43:18+00:00",
       "fetched_at": "2026-10-04T10:14:17.334268+00:00"
+    },
+    {
+      "id": "ddab2447463e",
+      "title": "Software Engineer III in Greensboro, North Carolina, USA | Technology at Truist Bank",
+      "company": "Truist Bank",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.truist.com/us/en/job/TBJTBFUSR0120174EXTERNALENUS/Software-Engineer-III",
+      "source": "Other",
+      "description": "... Senior Software Engineer . Location Raleigh, North Carolina, USA Category ... Site Reliability Engineer . Available in 3 locations. Category ...",
+      "date": "2026-10-04",
+      "timestamp": "2026-10-04T04:22:50+00:00",
+      "fetched_at": "2026-10-04T16:00:30.744712+00:00"
+    },
+    {
+      "id": "1d0d24e8af4c",
+      "title": "Software Engineer Consultant (Hogan) in Multiple Locations | First Citizens Bank",
+      "company": "First Citizens Bank",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.firstcitizens.com/event-33638/jobs/34754?lang=en-us",
+      "source": "Other",
+      "description": "First Citizens Careers is hiring a Software Engineer Consultant (Hogan) in Multiple Locations. Review all of the job details and apply today!",
+      "date": "2026-10-04",
+      "timestamp": "2026-10-04T02:46:42+00:00",
+      "fetched_at": "2026-10-04T16:00:30.744973+00:00"
     },
     {
       "id": "c73d14775d14",
@@ -156,6 +306,21 @@
       "fetched_at": "2026-10-04T10:14:17.334692+00:00"
     },
     {
+      "id": "13033cea98cd",
+      "title": "Staff Data Engineer , Platform Administration - Realtor.com - Careers - News Corp",
+      "company": "Realtor.com - Careers - News Corp",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.newscorp.com/austin-tx/staff-data-engineer/3CE1C5D777CD4FA4AC4E10B9C3C48ECE/job/",
+      "source": "Other",
+      "description": "We have an exciting and unique opportunity for a motivated and energetic Staff Software Engineer to join the Realtor.com Data Operations team. In ...",
+      "date": "2026-10-04",
+      "timestamp": "2026-10-04T00:39:18+00:00",
+      "fetched_at": "2026-10-04T16:00:30.745766+00:00"
+    },
+    {
       "id": "c45f5be4b66c",
       "title": "Software Engineer , Mid - - 127109 - Booz | Allen | Hamilton \u00ae - Careers",
       "company": "- 127109 - Booz | Allen | Hamilton \u00ae - Careers",
@@ -214,6 +379,21 @@
       "date": "2026-10-03",
       "timestamp": "2026-10-03T22:17:56+00:00",
       "fetched_at": "2026-10-04T02:54:49.286434+00:00"
+    },
+    {
+      "id": "9852603bb699",
+      "title": "Software Engineer (C/C++ Developer) - NetApp Careers",
+      "company": "NetApp Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.netapp.com/job/bengaluru/software-engineer-c-c-developer/27600/101496020704",
+      "source": "Other",
+      "description": "Learn more about applying for Software Engineer (C/C Developer) at NetApp, Inc.",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T21:54:33+00:00",
+      "fetched_at": "2026-10-04T16:00:30.832083+00:00"
     },
     {
       "id": "c72a4e046f34",
