@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-10-04T16:00:30.875483+00:00",
-  "total_jobs": 10825,
+  "last_updated": "2026-10-04T22:33:44.867750+00:00",
+  "total_jobs": 10841,
   "stats": {
-    "total_companies": 4910,
-    "total_roles": 143,
+    "total_companies": 4918,
+    "total_roles": 144,
     "regions": {
-      "India": 7110,
-      "Philippines": 2294,
+      "India": 7123,
+      "Philippines": 2297,
       "Remote": 1335,
       "Unknown": 135
     },
     "sources": {
-      "Other": 8466,
+      "Other": 8479,
       "Greenhouse": 550,
-      "LinkedIn": 473,
+      "LinkedIn": 475,
       "Workday": 459,
       "Ashby": 333,
       "iCIMS": 136,
-      "Breezy": 111,
+      "Breezy": 112,
       "Workable": 74,
       "Lever": 72,
       "SmartRecruiters": 70,
@@ -36,6 +36,126 @@
   },
   "jobs": [
     {
+      "id": "d52ed5e7abc7",
+      "title": "System internals developer - macOS Platform Engineer (Cortex XDR) at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/system-internals-developer-macos-platform-engineer-cortex-xdr/47263/101526159936",
+      "source": "Other",
+      "description": "Learn more about applying for System internals developer - macOS Platform Engineer (Cortex XDR) at Palo Alto Networks. ... Experienced Backend Engineer ...",
+      "date": "2026-10-04",
+      "timestamp": "2026-10-04T19:52:11+00:00",
+      "fetched_at": "2026-10-04T22:33:44.526151+00:00"
+    },
+    {
+      "id": "9277f3eb36b0",
+      "title": "Senior Software Engineer - Architecture & Systems Design at CACI - Apps Script",
+      "company": "CACI",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://script.google.com/macros/s/AKfycbyRUbykkxr0_C6EOWEYZPDTiu7IeTcuZg0Q_GEX49Me94whC25N77Y74yoT1Jv3opQ/exec?slug=senior-software-engineer-architecture-systems-design-caci-herndon-virginia",
+      "source": "Other",
+      "description": "Job Title: Senior Software Engineer - Architecture & Systems Design Job Category: Engineering Time Type: Full time Minimum Clearance Required to ...",
+      "date": "2026-10-04",
+      "timestamp": "2026-10-04T18:52:29+00:00",
+      "fetched_at": "2026-10-04T22:33:44.526739+00:00"
+    },
+    {
+      "id": "462f58dd9546",
+      "title": "Senior Software Engineer , Observability Delivery in United States | GitHub, Inc.",
+      "company": "GitHub, Inc.",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.github.careers/careers-home/jobs/5816?lang=en-us",
+      "source": "Other",
+      "description": "GitHub Careers Home is hiring a Senior Software Engineer , Observability Delivery in United States. Review all of the job details and apply today!",
+      "date": "2026-10-04",
+      "timestamp": "2026-10-04T18:35:41+00:00",
+      "fetched_at": "2026-10-04T22:33:44.527175+00:00"
+    },
+    {
+      "id": "d88dde2a81a7",
+      "title": "Senior Frontend Engineer at Hudhud Maps",
+      "company": "Hudhud",
+      "role": "Frontend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://hudhud.breezy.hr/p/ef68f9a820a5-senior-frontend-engineer",
+      "source": "Breezy",
+      "description": "About the RoleWe are looking for a highly skilled Frontend Engineer (React.js) with 4\u20137years of professional experience, ideally gained in ...",
+      "date": "2026-10-04",
+      "timestamp": "2026-10-04T17:33:20+00:00",
+      "fetched_at": "2026-10-04T22:33:44.527339+00:00"
+    },
+    {
+      "id": "a0cfb473c6ec",
+      "title": "Systems Platform QA and AI engineer in Bengaluru, Karn\u0101taka, 560048 - HPE Careers",
+      "company": "HPE Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.hpe.com/us/en/job/1215799/Systems-Platform-QA-and-AI-engineer",
+      "source": "Other",
+      "description": "Exciting opportunity for a Senior AI & Data Engineer to act as a ... Systems/ Software Engineer - Routing Protocol/Segment RoutingTesting.",
+      "date": "2026-10-04",
+      "timestamp": "2026-10-04T17:32:19+00:00",
+      "fetched_at": "2026-10-04T22:33:44.527515+00:00"
+    },
+    {
+      "id": "8c78f62e3319",
+      "title": "Forward Deployed AI Engineer at Runtime | Y Combinator's Work at a Startup",
+      "company": "Runtime",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.workatastartup.com/jobs/114062",
+      "source": "Other",
+      "description": "AI engineer and second-time YC founder. Former ... Software Engineer Jobs in San FranciscoProduct Manager Jobs in San Francisco Software Engineer ...",
+      "date": "2026-10-04",
+      "timestamp": "2026-10-04T17:11:02+00:00",
+      "fetched_at": "2026-10-04T22:33:44.527636+00:00"
+    },
+    {
+      "id": "c174d4819392",
+      "title": "Application: Software Engineer II - Current Health",
+      "company": "Current Health",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://currenthealth.com/application-software-engineer-ii/",
+      "source": "Other",
+      "description": "We're looking for a Software Engineer II to help build and scale the technology that supports Current Health's mission to make lifesaving and ...",
+      "date": "2026-10-04",
+      "timestamp": "2026-10-04T14:25:08+00:00",
+      "fetched_at": "2026-10-04T22:33:44.527775+00:00"
+    },
+    {
+      "id": "b5ed02eea4c2",
+      "title": "Stop Fine-Tuning to Fix Retrieval Problems \u2014 Anant Srivastava - YouTube",
+      "company": "Unknown Company",
+      "role": "Stop Fine-Tuning to Fix Retrieval Problems \u2014 Anant Srivastav",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.youtube.com/watch?v=qflLT3SoVbw",
+      "source": "Other",
+      "description": "... AI Engineer World's Fair 2026 in San Francisco. Subscribe for more talks from the engineers building with AI. AI Engineer : https:// ai.engineer ...",
+      "date": "2026-10-04",
+      "timestamp": "2026-10-04T13:48:10+00:00",
+      "fetched_at": "2026-10-04T22:33:44.528180+00:00"
+    },
+    {
       "id": "f132a52c572e",
       "title": "Software Engineer , Charging Analytics - Tesla",
       "company": "Tesla",
@@ -49,6 +169,36 @@
       "date": "2026-10-04",
       "timestamp": "2026-10-04T13:08:56+00:00",
       "fetched_at": "2026-10-04T16:00:30.742184+00:00"
+    },
+    {
+      "id": "609bc4dfc38a",
+      "title": "Staff Software Engineer - Unpublished R&D Product (Australia-Based; Relocation Provided)",
+      "company": "Unpublished R&D Product",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.riotgames.com/ms/work-with-us/job/7061304/staff-software-engineer-unpublished-r-d-product-australia-based-relocation-provided-sydney-australia",
+      "source": "Other",
+      "description": "Staff Software Engineer - Unpublished R&D Product (Australia-Based; Relocation Provided). Sydney, Australia. Job Id: REQ-0009163. At Riot, we believe ...",
+      "date": "2026-10-04",
+      "timestamp": "2026-10-04T12:18:23+00:00",
+      "fetched_at": "2026-10-04T22:33:44.528875+00:00"
+    },
+    {
+      "id": "f594f7faa3c3",
+      "title": "HuntingCube hiring Senior Backend Engineer in United States | LinkedIn",
+      "company": "LinkedIn",
+      "role": "Backend Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/senior-backend-engineer-at-huntingcube-4475361863",
+      "source": "LinkedIn",
+      "description": "Senior Backend Engineer . Quo. California, United States 3 weeks ago. Senior Software Engineer (Backend). Senior Software Engineer (Backend). TeamSnap.",
+      "date": "2026-10-04",
+      "timestamp": "2026-10-04T11:46:11+00:00",
+      "fetched_at": "2026-10-04T22:33:44.823294+00:00"
     },
     {
       "id": "55714597fdf6",
@@ -79,6 +229,66 @@
       "date": "2026-10-04",
       "timestamp": "2026-10-04T11:17:53+00:00",
       "fetched_at": "2026-10-04T16:00:30.742721+00:00"
+    },
+    {
+      "id": "be76915adbf2",
+      "title": "Senior Fullstack Software Engineer , Global E-commerce User Growth - We Are TikTok",
+      "company": "commerce User Growth - We Are TikTok",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://lifeattiktok.com/search/7689368204483758341",
+      "source": "Other",
+      "description": "View our opening for Senior Fullstack Software Engineer , Global E-commerce User Growth - Global E-Commerce Business Platform and learn more about ...",
+      "date": "2026-10-04",
+      "timestamp": "2026-10-04T11:11:51+00:00",
+      "fetched_at": "2026-10-04T22:33:44.529149+00:00"
+    },
+    {
+      "id": "2a4798225f24",
+      "title": "Senior Software Engineer - SOC Platforms - Nvidia Career",
+      "company": "SOC Platforms - Nvidia Career",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.nvidia.com/careers/job/893397963743",
+      "source": "Other",
+      "description": "Senior Software Engineer - SOC Platforms. US, CA, Santa Clara. Apply Now ... Senior Software Engineer - Embedded Platform. JR2025588. US, CA ...",
+      "date": "2026-10-04",
+      "timestamp": "2026-10-04T11:10:37+00:00",
+      "fetched_at": "2026-10-04T22:33:44.529279+00:00"
+    },
+    {
+      "id": "27d3c1463617",
+      "title": "The Creators Hub hiring Senior Software Engineer in Lombardy, Italy | LinkedIn",
+      "company": "LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/4473364706/",
+      "source": "LinkedIn",
+      "description": "Senior Software Engineer . The Creators Hub Lombardy, Italy. 1 day ago Be ... Senior Backend Engineer C# / .NET. Vivaticket. Milan, Lombardy ...",
+      "date": "2026-10-04",
+      "timestamp": "2026-10-04T10:54:39+00:00",
+      "fetched_at": "2026-10-04T22:33:44.823831+00:00"
+    },
+    {
+      "id": "ed774f2bf77b",
+      "title": "AI/ ML Engineer , Mid - - 131226 - Booz | Allen | Hamilton \u00ae - Careers",
+      "company": "- 131226 - Booz | Allen | Hamilton \u00ae - Careers",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.boozallen.com/careers/JobDetail/Aurora-AI-ML-Engineer-Mid-R0250628/131226",
+      "source": "Other",
+      "description": "The Opportunity: As an AI/ ML Engineer at Booz Allen, you will help design, build, and implement practical artificial intelligence and machine learning ...",
+      "date": "2026-10-04",
+      "timestamp": "2026-10-04T10:31:19+00:00",
+      "fetched_at": "2026-10-04T22:33:44.529492+00:00"
     },
     {
       "id": "78dffdd07a83",
@@ -126,6 +336,21 @@
       "fetched_at": "2026-10-04T16:00:30.743636+00:00"
     },
     {
+      "id": "6a3576506137",
+      "title": "Senior Software Engineer , Site Reliability Engineering \u2014 Google Careers",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/97304001879384774-senior-software-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer , Site Reliability Engineering. share. Share Senior Software Engineer , Site Reliability Engineering. linkCopy link; emailEmail ...",
+      "date": "2026-10-04",
+      "timestamp": "2026-10-04T09:28:28+00:00",
+      "fetched_at": "2026-10-04T22:33:44.824540+00:00"
+    },
+    {
       "id": "eaebd95a7f2e",
       "title": "Agentic AI Engineer Roadmap - Krish Naik",
       "company": "Krish Naik",
@@ -139,6 +364,21 @@
       "date": "2026-10-04",
       "timestamp": "2026-10-04T09:27:51+00:00",
       "fetched_at": "2026-10-04T10:14:17.333722+00:00"
+    },
+    {
+      "id": "273abe4d6793",
+      "title": "AI Platform Engineer and Advocate (Databricks) - Job Market - K\u00f6rber",
+      "company": "Job Market - K\u00f6rber",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.koerber.com/job/Bangalore-AI-Platform-Engineer-and-Advocate-%28Databricks%29/1393210533/",
+      "source": "Other",
+      "description": "We're looking for an AI Platform Engineer and Advocate with deep Databricks expertise. \u00b7 You'll define the guardrails and standards that keep a growing ...",
+      "date": "2026-10-04",
+      "timestamp": "2026-10-04T09:19:18+00:00",
+      "fetched_at": "2026-10-04T22:33:44.530337+00:00"
     },
     {
       "id": "ed93b360d1fb",
