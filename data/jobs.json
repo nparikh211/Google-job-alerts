@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-10-03T22:28:23.580348+00:00",
-  "total_jobs": 10786,
+  "last_updated": "2026-10-04T02:54:49.528521+00:00",
+  "total_jobs": 10796,
   "stats": {
-    "total_companies": 4894,
+    "total_companies": 4896,
     "total_roles": 143,
     "regions": {
-      "India": 7080,
-      "Philippines": 2288,
+      "India": 7088,
+      "Philippines": 2290,
       "Remote": 1332,
       "Unknown": 135
     },
     "sources": {
-      "Other": 8434,
+      "Other": 8442,
       "Greenhouse": 550,
       "LinkedIn": 469,
-      "Workday": 457,
+      "Workday": 458,
       "Ashby": 333,
       "iCIMS": 136,
       "Breezy": 111,
-      "Workable": 73,
+      "Workable": 74,
       "Lever": 72,
       "SmartRecruiters": 70,
       "Indeed": 36,
@@ -36,6 +36,21 @@
   },
   "jobs": [
     {
+      "id": "b342d756a192",
+      "title": "Senior Software Engineer - First Help Financial - Jobs by Workable",
+      "company": "Firsthelpfinancial",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://apply.workable.com/firsthelpfinancial/j/CFD1CF6B12/",
+      "source": "Workable",
+      "description": "(Needham, MA) Senior Software Engineer sought by First Help Financial LLC to design and develop major functional or performance enhancements for ...",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T22:17:56+00:00",
+      "fetched_at": "2026-10-04T02:54:49.286434+00:00"
+    },
+    {
       "id": "c72a4e046f34",
       "title": "Dibya Dutta - AI Software Engineer , Apple Cloud AI Platform - LinkedIn",
       "company": "Dibya Dutta",
@@ -49,6 +64,36 @@
       "date": "2026-10-03",
       "timestamp": "2026-10-03T21:15:36+00:00",
       "fetched_at": "2026-10-03T22:28:23.400458+00:00"
+    },
+    {
+      "id": "2aaaaa03373d",
+      "title": "Staff Security Software Engineer - Aurora",
+      "company": "Aurora",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://aurora.tech/careers/db77855f-3caa-4c74-b32a-528c87705f4a",
+      "source": "Other",
+      "description": "We're searching for a Staff Security Software Engineer . This is a software architecture/development position reporting in the reporting chain of the ...",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T21:03:07+00:00",
+      "fetched_at": "2026-10-04T02:54:49.287220+00:00"
+    },
+    {
+      "id": "c454a1e081bc",
+      "title": "I transitioned from software engineer to an AI Engineer who fine tunes LLMs. What do you ...",
+      "company": "do you ...",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/learnmachinelearning/comments/1wwxpbd/i_transitioned_from_software_engineer_to_an_ai/",
+      "source": "Other",
+      "description": "I transitioned from software engineer to an AI Engineer who fine tunes LLMs. ... What's the difference between ai engineer and ml Engineer and what is ...",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T20:58:11+00:00",
+      "fetched_at": "2026-10-04T02:54:49.287395+00:00"
     },
     {
       "id": "41dcb0435d89",
@@ -111,6 +156,21 @@
       "fetched_at": "2026-10-03T18:50:44.225485+00:00"
     },
     {
+      "id": "022a5a76b88f",
+      "title": "Digital Software Engineer Intermediate Analyst | Citi Careers",
+      "company": "Citi Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.citi.com/job/irving/digital-software-engineer-intermediate-analyst/287/101451423616",
+      "source": "Other",
+      "description": "Job Overview. The Digital Software Engineer Intermediate Analyst is an early-career software engineering role responsible for developing, testing, and ...",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T15:37:20+00:00",
+      "fetched_at": "2026-10-04T02:54:49.288324+00:00"
+    },
+    {
       "id": "4dbca4453ea8",
       "title": "Full Stack Engineer @ Burq | Tandem Ventures Job Board",
       "company": "Burq",
@@ -141,6 +201,21 @@
       "fetched_at": "2026-10-03T18:50:44.225718+00:00"
     },
     {
+      "id": "bc5330439501",
+      "title": "Full Stack Engineer , Westlake, TX | Fidelity Careers",
+      "company": "Fidelity Careers",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.fidelity.com/en/jobs/2131558/full-stack-engineer/",
+      "source": "Other",
+      "description": "Fidelity will not provide immigration sponsorship for this position. Job Description: Full Stack Engineer The Role The Fidelity Insurance Group ...",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T14:03:58+00:00",
+      "fetched_at": "2026-10-04T02:54:49.288631+00:00"
+    },
+    {
       "id": "8c5c72183bf4",
       "title": "Senior Data Engineer in Nashville, Tennessee, United States - HCA Healthcare Careers",
       "company": "HCA Healthcare Careers",
@@ -154,6 +229,36 @@
       "date": "2026-10-03",
       "timestamp": "2026-10-03T13:42:58+00:00",
       "fetched_at": "2026-10-03T22:28:23.402139+00:00"
+    },
+    {
+      "id": "00d89f006da9",
+      "title": "Software Engineer 2 (Automation Engineer) - U.S. Bank careers",
+      "company": "U.S. Bank careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.usbank.com/global/en/job/UBNAGLOBAL20260030297EXTERNALENGLOBAL/Software-Engineer-2-Automation-Engineer",
+      "source": "Other",
+      "description": "Apply for Software Engineer 2 (Automation Engineer) job with U.S. Bank in Earth City, MO, United States. Technology & Digital at U.S. Bank.",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T13:34:24+00:00",
+      "fetched_at": "2026-10-04T02:54:49.493968+00:00"
+    },
+    {
+      "id": "18f7d94bba29",
+      "title": "Senior Software Engineer - ServiceNow - Myworkdayjobs.com",
+      "company": "Unum",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://unum.wd1.myworkdayjobs.com/external/job/Chattanooga-Tennessee-USA/Senior-Software-Engineer---ServiceNow_836356",
+      "source": "Workday",
+      "description": "Join us. General Summary: The Senior Software Engineer - ServiceNow will provide technical leadership for Unum's ServiceNow platform, with a focus on ...",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T13:08:41+00:00",
+      "fetched_at": "2026-10-04T02:54:49.288847+00:00"
     },
     {
       "id": "b87818f5ed1a",
@@ -199,6 +304,51 @@
       "date": "2026-10-03",
       "timestamp": "2026-10-03T10:45:56+00:00",
       "fetched_at": "2026-10-03T22:28:23.537783+00:00"
+    },
+    {
+      "id": "628e2b438f5c",
+      "title": "Software Engineer in San Francisco, California, United States of America - Careers at Cisco",
+      "company": "Cisco",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2024992EXTERNALENGLOBAL/Software-Engineer",
+      "source": "Other",
+      "description": "We are recruiting a Senior Embedded Software Engineer to architect and develop BIOS, BSP, and diagnostics for Cisco Core and Edge routing products.",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T10:12:29+00:00",
+      "fetched_at": "2026-10-04T02:54:49.494511+00:00"
+    },
+    {
+      "id": "76cabc4f58cf",
+      "title": "Senior Software Engineer - Caterpillar Careers",
+      "company": "Caterpillar Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.caterpillar.com/en/jobs/r0000397761/senior-software-engineer/",
+      "source": "Other",
+      "description": "As a Senior Software Engineer on the Data Engineering team, you will be responsible for developing Python data pipelines that build business data ...",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T09:58:43+00:00",
+      "fetched_at": "2026-10-04T02:54:49.289124+00:00"
+    },
+    {
+      "id": "ca53d4df3b78",
+      "title": "Senior Software Engineer in Dublin 18, Ireland - Careers at Mastercard",
+      "company": "Mastercard",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mastercard.com/us/en/job/R-291765/Senior-Software-Engineer",
+      "source": "Other",
+      "description": "Apply for Senior Software Engineer job with Mastercard in Dublin 18, Ireland. Engineering at Mastercard.",
+      "date": "2026-10-03",
+      "timestamp": "2026-10-03T09:51:21+00:00",
+      "fetched_at": "2026-10-04T02:54:49.289218+00:00"
     },
     {
       "id": "1e101ee6def1",
