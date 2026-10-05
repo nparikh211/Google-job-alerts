@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-10-04T22:33:44.867750+00:00",
-  "total_jobs": 10841,
+  "last_updated": "2026-10-05T02:28:52.017385+00:00",
+  "total_jobs": 10851,
   "stats": {
-    "total_companies": 4918,
+    "total_companies": 4922,
     "total_roles": 144,
     "regions": {
-      "India": 7123,
-      "Philippines": 2297,
+      "India": 7132,
+      "Philippines": 2298,
       "Remote": 1335,
       "Unknown": 135
     },
     "sources": {
-      "Other": 8479,
-      "Greenhouse": 550,
-      "LinkedIn": 475,
-      "Workday": 459,
-      "Ashby": 333,
+      "Other": 8485,
+      "Greenhouse": 551,
+      "LinkedIn": 476,
+      "Workday": 460,
+      "Ashby": 334,
       "iCIMS": 136,
       "Breezy": 112,
       "Workable": 74,
@@ -31,10 +31,85 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-10-04"
+      "latest": "2026-10-05"
     }
   },
   "jobs": [
+    {
+      "id": "e426e5a7ecc7",
+      "title": "Lead Software Engineer - Caterpillar Careers",
+      "company": "Caterpillar Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.caterpillar.com/en/jobs/r0000397677/lead-software-engineer/",
+      "source": "Other",
+      "description": "Lead Software Engineer ; Sunday, October 4, 2026 \u00b7 Monday, October 12, 2026 \u00b7 Full time \u00b7 Regular \u00b7 R0000397677 ...",
+      "date": "2026-10-05",
+      "timestamp": "2026-10-05T01:35:14+00:00",
+      "fetched_at": "2026-10-05T02:28:51.764402+00:00"
+    },
+    {
+      "id": "1eb0a0497fb6",
+      "title": "New Grad Software Engineer at Confido \u2014 New York, NY | LinkedIn Jobs",
+      "company": "Confido \u2014 New York, NY",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/new-grad-software-engineer-at-confido-4474223646?position=34&pageNum=0&refId=9c02tK3cr%2FY0PNzRiN12zQ%3D%3D&trackingId=rSuSnDAB%2BH2LnZ1YSyRPFg%3D%3D",
+      "source": "LinkedIn",
+      "description": "As a Full-Stack Engineer (Early Career) at Confido, you will help ... Senior Software Engineer jobs \u00b7 Web Development Intern jobs \u00b7 Junior Java ...",
+      "date": "2026-10-05",
+      "timestamp": "2026-10-05T01:30:11+00:00",
+      "fetched_at": "2026-10-05T02:28:51.764708+00:00"
+    },
+    {
+      "id": "5861ef58ad7b",
+      "title": "Senior Software Engineer - Inetum",
+      "company": "Inetum",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.inetum.com/pt/en/careers/04032ab9-8420-4f94-9cd0-87c7c9768981.html",
+      "source": "Other",
+      "description": "Senior Software Engineer \u00b7 Engage directly with front-office operators to identify automation opportunities and pain points \u00b7 Design and build ...",
+      "date": "2026-10-04",
+      "timestamp": "2026-10-04T23:52:18+00:00",
+      "fetched_at": "2026-10-05T02:28:51.764822+00:00"
+    },
+    {
+      "id": "9832159d77fd",
+      "title": "Software engineer quit a $250000 job to open a matcha cafe in Manhattan - Facebook",
+      "company": "Facebook",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.facebook.com/cnbc/posts/software-engineer-quit-a-250000-job-to-open-a-matcha-cafe-in-manhattan-i-wanted-/1497803332221055/",
+      "source": "Other",
+      "description": "Michelle Yeung, a former software engineer , recounts her journey of quitting a $250,000-a-year job to open Matcha House, a cafe in Manhattan.",
+      "date": "2026-10-04",
+      "timestamp": "2026-10-04T22:04:50+00:00",
+      "fetched_at": "2026-10-05T02:28:51.765019+00:00"
+    },
+    {
+      "id": "34beafcd7e74",
+      "title": "As a software engineer , what are you grinding in your free time : r/cscareerquestions",
+      "company": "are you grinding in your free time : r/cscareerquestions",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/cscareerquestions/comments/1wxjprr/as_a_software_engineer_what_are_you_grinding_in/",
+      "source": "Other",
+      "description": "As a software engineer , what are you grinding in your free time. Experienced. Now that AI is able to code so good most of us have moved our focus on ...",
+      "date": "2026-10-04",
+      "timestamp": "2026-10-04T21:52:51+00:00",
+      "fetched_at": "2026-10-05T02:28:51.765154+00:00"
+    },
     {
       "id": "d52ed5e7abc7",
       "title": "System internals developer - macOS Platform Engineer (Cortex XDR) at Palo Alto Networks",
@@ -49,6 +124,21 @@
       "date": "2026-10-04",
       "timestamp": "2026-10-04T19:52:11+00:00",
       "fetched_at": "2026-10-04T22:33:44.526151+00:00"
+    },
+    {
+      "id": "fa74087f42cb",
+      "title": "Software Engineer \u2013 Datacenter - Myworkdayjobs.com",
+      "company": "Intel",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://intel.wd1.myworkdayjobs.com/External/job/Software-Engineer---Datacenter_JR0287686/apply",
+      "source": "Workday",
+      "description": "Software Engineer \u2013 Datacenter. If selecting \"Use My Last Application\" confirm your most recent resume is attached in the My Experience section.",
+      "date": "2026-10-04",
+      "timestamp": "2026-10-04T19:26:49+00:00",
+      "fetched_at": "2026-10-05T02:28:51.765399+00:00"
     },
     {
       "id": "9277f3eb36b0",
@@ -79,6 +169,21 @@
       "date": "2026-10-04",
       "timestamp": "2026-10-04T18:35:41+00:00",
       "fetched_at": "2026-10-04T22:33:44.527175+00:00"
+    },
+    {
+      "id": "126bdf2fda5a",
+      "title": "Job Application for Sr. Software Engineer , Platform at SpaceX - Greenhouse",
+      "company": "Spacex",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/spacex/jobs/8860711002?gh_jid=8860711002",
+      "source": "Greenhouse",
+      "description": "SR. SOFTWARE ENGINEER , PLATFORM. The application software team is the central nervous system of SpaceX \u2013 we create mission critical applications ...",
+      "date": "2026-10-04",
+      "timestamp": "2026-10-04T18:16:38+00:00",
+      "fetched_at": "2026-10-05T02:28:51.765951+00:00"
     },
     {
       "id": "d88dde2a81a7",
@@ -126,6 +231,21 @@
       "fetched_at": "2026-10-04T22:33:44.527636+00:00"
     },
     {
+      "id": "49fbae011e03",
+      "title": "Software Engineer | Careers - Dassault Syst\u00e8mes",
+      "company": "Careers - Dassault Syst\u00e8mes",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.3ds.com/careers/jobs/software-engineer-549430",
+      "source": "Other",
+      "description": "Unlock your potential with Dassault Syst\u00e8mes, a global leader in Scientific Software Engineering as a C++ Software Engineer in Daegu, South Korea!",
+      "date": "2026-10-04",
+      "timestamp": "2026-10-04T16:45:14+00:00",
+      "fetched_at": "2026-10-05T02:28:51.766322+00:00"
+    },
+    {
       "id": "c174d4819392",
       "title": "Application: Software Engineer II - Current Health",
       "company": "Current Health",
@@ -139,6 +259,21 @@
       "date": "2026-10-04",
       "timestamp": "2026-10-04T14:25:08+00:00",
       "fetched_at": "2026-10-04T22:33:44.527775+00:00"
+    },
+    {
+      "id": "ff97be78d854",
+      "title": "Manufacturing Test Software Engineer - Careers at HP",
+      "company": "Careers at HP",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://apply.hp.com/careers/job/44544496?hl=ko&domain=hp.com",
+      "source": "Other",
+      "description": "Senior Software Engineer . 2. Senior Engineer. 3. Lead Engineer. 4. Lead Software Engineer . 5. Software Engineer . \uc720\uc0ac\ud55c \uc9c1\ubb34. Manufacturing Test ...",
+      "date": "2026-10-04",
+      "timestamp": "2026-10-04T14:01:23+00:00",
+      "fetched_at": "2026-10-05T02:28:51.766504+00:00"
     },
     {
       "id": "b5ed02eea4c2",
@@ -184,6 +319,21 @@
       "date": "2026-10-04",
       "timestamp": "2026-10-04T12:18:23+00:00",
       "fetched_at": "2026-10-04T22:33:44.528875+00:00"
+    },
+    {
+      "id": "d8d31583196c",
+      "title": "Staff Software Engineer @ Merge - Jobs",
+      "company": "Merge",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/merge/18ef9d99-96d3-47ae-9645-803095c9a881?utm_source=Accel+job+board&utm_medium=getro.com&gh_src=Accel+job+board",
+      "source": "Ashby",
+      "description": "Staff Software Engineer . Location. New York, NY; San Francisco, CA. Employment Type. Full time. Department. Engineering. OverviewApplication. Merge is ...",
+      "date": "2026-10-04",
+      "timestamp": "2026-10-04T12:15:40+00:00",
+      "fetched_at": "2026-10-05T02:28:51.984520+00:00"
     },
     {
       "id": "f594f7faa3c3",
