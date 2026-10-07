@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-10-06T23:22:09.766494+00:00",
-  "total_jobs": 10947,
+  "last_updated": "2026-10-07T02:47:08.102809+00:00",
+  "total_jobs": 10950,
   "stats": {
-    "total_companies": 4955,
+    "total_companies": 4956,
     "total_roles": 144,
     "regions": {
-      "India": 7203,
+      "India": 7206,
       "Philippines": 2312,
       "Remote": 1347,
       "Unknown": 135
     },
     "sources": {
-      "Other": 8566,
+      "Other": 8568,
       "Greenhouse": 555,
       "LinkedIn": 478,
       "Workday": 462,
       "Ashby": 336,
-      "iCIMS": 137,
+      "iCIMS": 138,
       "Breezy": 114,
       "Workable": 74,
       "Lever": 72,
@@ -35,6 +35,36 @@
     }
   },
   "jobs": [
+    {
+      "id": "3736b7c59575",
+      "title": "I am a Software Engineer with 8 years of experience. I want to shift to Quantum Computing ... - Reddit",
+      "company": "Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/QuantumComputing/comments/1wyvcbw/i_am_a_software_engineer_with_8_years_of/",
+      "source": "Other",
+      "description": "29 votes, 29 comments. Worst waste of time you could do. I was a software engineer , got my masters in QC, continued with a PhD in CS with research ...",
+      "date": "2026-10-06",
+      "timestamp": "2026-10-06T23:18:34+00:00",
+      "fetched_at": "2026-10-07T02:47:07.972726+00:00"
+    },
+    {
+      "id": "76151e94ff9f",
+      "title": "Data Engineer II in Providence, Rhode Island - Gilbane",
+      "company": "Gilbane",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers-gilbaneco.icims.com/jobs/13543/data-engineer-ii/job",
+      "source": "iCIMS",
+      "description": "Providence Office is now hiring a Data Engineer II in Providence, Rhode Island. Review all of the job details and apply today!",
+      "date": "2026-10-06",
+      "timestamp": "2026-10-06T22:03:52+00:00",
+      "fetched_at": "2026-10-07T02:47:07.973049+00:00"
+    },
     {
       "id": "1d773a9c799f",
       "title": "You Are An Expert Software Engineer - YouTube",
@@ -64,6 +94,21 @@
       "date": "2026-10-06",
       "timestamp": "2026-10-06T20:21:15+00:00",
       "fetched_at": "2026-10-06T23:22:09.212455+00:00"
+    },
+    {
+      "id": "13522ea54334",
+      "title": "Software Engineer , Shop/Feed Ads | OpenAI",
+      "company": "OpenAI",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://openai.com/careers/software-engineer-shopfeed-ads-san-francisco/",
+      "source": "Other",
+      "description": "About the role. We're looking for an experienced Software Engineer to lead the design and development of the systems that turn advertiser feeds (eg.",
+      "date": "2026-10-06",
+      "timestamp": "2026-10-06T20:01:38+00:00",
+      "fetched_at": "2026-10-07T02:47:07.973656+00:00"
     },
     {
       "id": "b7a519a6e857",
