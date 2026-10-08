@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-10-08T10:57:37.963679+00:00",
-  "total_jobs": 11014,
+  "last_updated": "2026-10-08T18:01:00.818829+00:00",
+  "total_jobs": 11039,
   "stats": {
-    "total_companies": 4975,
+    "total_companies": 4983,
     "total_roles": 144,
     "regions": {
-      "India": 7255,
-      "Philippines": 2322,
-      "Remote": 1352,
+      "India": 7270,
+      "Philippines": 2327,
+      "Remote": 1357,
       "Unknown": 135
     },
     "sources": {
-      "Other": 8620,
-      "Greenhouse": 560,
+      "Other": 8640,
+      "Greenhouse": 561,
       "LinkedIn": 478,
       "Workday": 465,
-      "Ashby": 340,
-      "iCIMS": 138,
+      "Ashby": 342,
+      "iCIMS": 139,
       "Breezy": 114,
       "Workable": 74,
-      "Lever": 72,
+      "Lever": 73,
       "SmartRecruiters": 71,
       "Indeed": 37,
       "Recruitee": 11,
@@ -35,6 +35,381 @@
     }
   },
   "jobs": [
+    {
+      "id": "acbe086b1123",
+      "title": "Associate Data Engineer in Costa Mesa, California, 92626 | Technology at AAA Careers",
+      "company": "AAA Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.ace.aaa.com/us/en/job/JR202639452/Associate-Data-Engineer",
+      "source": "Other",
+      "description": "Associate Data Engineer . Job Summary The Associate DevOps Engineer position is responsible for implementing the elements of software ...",
+      "date": "2026-10-08",
+      "timestamp": "2026-10-08T17:33:06+00:00",
+      "fetched_at": "2026-10-08T18:01:00.692650+00:00"
+    },
+    {
+      "id": "23238debad0c",
+      "title": "Senior Software Engineer , Payments @ Alt Platform Inc - Jobs",
+      "company": "Alt",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.ashbyhq.com/alt/9bd9d6a6-e9ef-4eb5-bb75-5e7a4a45c15e",
+      "source": "Ashby",
+      "description": "Senior Software Engineer , Payments. Location. Remote. Employment Type. Full time. Location Type. Remote. Department. Product and Data. Compensation.",
+      "date": "2026-10-08",
+      "timestamp": "2026-10-08T17:27:43+00:00",
+      "fetched_at": "2026-10-08T18:01:00.692769+00:00"
+    },
+    {
+      "id": "bf3a560e055d",
+      "title": "Job Application for Full Stack Software Engineer at BetterHelp - Greenhouse",
+      "company": "Betterhelpcom",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/betterhelpcom/jobs/5444452008",
+      "source": "Greenhouse",
+      "description": "Full Stack Software Engineer . US - Remote. Apply. Who are we and why should you join us? BetterHelp is on a mission to champion the well-being in all ...",
+      "date": "2026-10-08",
+      "timestamp": "2026-10-08T17:06:34+00:00",
+      "fetched_at": "2026-10-08T18:01:00.692903+00:00"
+    },
+    {
+      "id": "6e9b855328ef",
+      "title": "Machine Learning Engineer , Radar - Stripe Careers",
+      "company": "Stripe Careers",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://stripe.com/careers/listing/machine-learning-engineer-radar/8243617?gh_jid=8243617",
+      "source": "Other",
+      "description": "Machine Learning Engineer , Radar. Who we are. About Stripe. Stripe is a financial infrastructure platform for businesses. Millions of companies\u2014from ...",
+      "date": "2026-10-08",
+      "timestamp": "2026-10-08T16:48:43+00:00",
+      "fetched_at": "2026-10-08T18:01:00.693236+00:00"
+    },
+    {
+      "id": "126c2e6dd4bf",
+      "title": "Software Engineer II - Mimecast Careers",
+      "company": "Mimecast Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.mimecast.com/en/jobs/r6804/software-engineer-ii/",
+      "source": "Other",
+      "description": "In this role, you will work as a full stack engineer with an ... Senior Software Engineer . Save Saved. United States of America\u2013 Minnesota ...",
+      "date": "2026-10-08",
+      "timestamp": "2026-10-08T16:27:51+00:00",
+      "fetched_at": "2026-10-08T18:01:00.769787+00:00"
+    },
+    {
+      "id": "4fa5645a6f67",
+      "title": "Software Engineer in Bangalore, India | Product and Engineering at Cisco - Careers at Cisco",
+      "company": "Cisco",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2019628EXTERNALENGLOBAL/Software-Engineer",
+      "source": "Other",
+      "description": "Apply for Software Engineer job with Cisco in Bangalore, India. Product and Engineering at Cisco. ... Join us as a Backend Engineer to design, build, ...",
+      "date": "2026-10-08",
+      "timestamp": "2026-10-08T16:11:12+00:00",
+      "fetched_at": "2026-10-08T18:01:00.769980+00:00"
+    },
+    {
+      "id": "b449f942daf9",
+      "title": "CNO Cloud Engineer - 66458 - MANTECH Careers",
+      "company": "66458 - MANTECH Careers",
+      "role": "Cloud Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.mantech.com/en_US/careers/JobDetail/CNO-Cloud-Engineer/66458",
+      "source": "Other",
+      "description": "MANTECH is looking for a highly motivated and qualified CNO Cloud Engineer to join our team in a remote based position.",
+      "date": "2026-10-08",
+      "timestamp": "2026-10-08T15:57:09+00:00",
+      "fetched_at": "2026-10-08T18:01:00.770165+00:00"
+    },
+    {
+      "id": "9e553fed9224",
+      "title": "Senior Data Engineer | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.apexsystems.com/job/3054722_usa/senior-data-engineer",
+      "source": "Other",
+      "description": "Senior Data Engineer . Apply. Job#: 3054722. Job Description: Senior ... Data and AI Engineer \u00b7 DMHS Senior Data Engineer . Connect with our experts ...",
+      "date": "2026-10-08",
+      "timestamp": "2026-10-08T15:53:31+00:00",
+      "fetched_at": "2026-10-08T18:01:00.693397+00:00"
+    },
+    {
+      "id": "2230ede2ba5e",
+      "title": "AI Engineer I - FedEx Careers",
+      "company": "FedEx Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.fedex.com/ai-engineer-i/job/P25-383899-2",
+      "source": "Other",
+      "description": "AI Engineer I. Professional. Company: FedEx Dataworks; Category ... Data Engineer Principal. 7900 Legacy Drive, Plano, TX. Apply Now. Learn ...",
+      "date": "2026-10-08",
+      "timestamp": "2026-10-08T15:33:36+00:00",
+      "fetched_at": "2026-10-08T18:01:00.770442+00:00"
+    },
+    {
+      "id": "6a747d42bb4e",
+      "title": "Data Engineer - Formlabs Careers",
+      "company": "Formlabs Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.formlabs.com/job/8262437/apply/?gh_jid=8262437",
+      "source": "Other",
+      "description": "As a Data Engineer at Formlabs, you will build and operate the pipelines that turn raw printer telemetry, manufacturing data, and business system data ...",
+      "date": "2026-10-08",
+      "timestamp": "2026-10-08T15:29:20+00:00",
+      "fetched_at": "2026-10-08T18:01:00.770579+00:00"
+    },
+    {
+      "id": "1b246584c52d",
+      "title": "AI Engineer @ Mastra - Jobs",
+      "company": "Mastra",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/mastra/531a3fe8-556f-4b83-bee7-20374f67f980",
+      "source": "Ashby",
+      "description": "We're looking for an AI engineer . You'll work on features that help developers understand their agents' behavior, evaluate their performance, ...",
+      "date": "2026-10-08",
+      "timestamp": "2026-10-08T15:25:00+00:00",
+      "fetched_at": "2026-10-08T18:01:00.693515+00:00"
+    },
+    {
+      "id": "340d5ff9bb0b",
+      "title": "AI Data Engineer III Job Details - Boston Scientific Careers",
+      "company": "Boston Scientific Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.bostonscientific.com/job/Marlborough-AI-Data-Engineer-III-MA-01752/1438018800/",
+      "source": "Other",
+      "description": "AI Data Engineer III. Work mode ... Job Segment: Test Engineer, Cloud, Testing, Software Engineer , PLM, Engineering, Technology, Management.",
+      "date": "2026-10-08",
+      "timestamp": "2026-10-08T15:23:03+00:00",
+      "fetched_at": "2026-10-08T18:01:00.693718+00:00"
+    },
+    {
+      "id": "d3279059ec54",
+      "title": "Apply for Associate Data Engineer - Careers at WGU - Western Governors University",
+      "company": "WGU",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.wgu.edu/associate-data-engineer/job/P1-6566705-0",
+      "source": "Other",
+      "description": "Join WGU in Salt Lake City, UT! Apply for the Associate Data Engineer role today and start your journey with us.",
+      "date": "2026-10-08",
+      "timestamp": "2026-10-08T15:10:09+00:00",
+      "fetched_at": "2026-10-08T18:01:00.693886+00:00"
+    },
+    {
+      "id": "c82bc1e716a3",
+      "title": "AI Engineer II - Klaviyo",
+      "company": "Klaviyo",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.klaviyo.com/careers/jobs/8003261003?gh_jid=8003261003",
+      "source": "Other",
+      "description": "We're looking for an AI Engineer to join the Customer Agent team, Klaviyo's AI-native conversational platform. You'll help build scalable backend ...",
+      "date": "2026-10-08",
+      "timestamp": "2026-10-08T15:09:05+00:00",
+      "fetched_at": "2026-10-08T18:01:00.694042+00:00"
+    },
+    {
+      "id": "c66f3b455c71",
+      "title": "Software Engineer (Remote - US) - TixTrack - Teamtailor",
+      "company": "US) - TixTrack - Teamtailor",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://tixtrack.teamtailor.com/jobs/8514114-software-engineer-remote-us",
+      "source": "Other",
+      "description": "Software Engineer (Remote - US). Your ticket to a meaningful career. Apply. We usually respond within two weeks.",
+      "date": "2026-10-08",
+      "timestamp": "2026-10-08T15:05:46+00:00",
+      "fetched_at": "2026-10-08T18:01:00.771169+00:00"
+    },
+    {
+      "id": "3a2cdee10ac8",
+      "title": "Systems Software Engineer , Platform Architecture - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200687597-0836/systems-software-engineer-platform-architecture",
+      "source": "Other",
+      "description": "Apply for a Systems Software Engineer , Platform Architecture job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-10-08",
+      "timestamp": "2026-10-08T15:02:28+00:00",
+      "fetched_at": "2026-10-08T18:01:00.771344+00:00"
+    },
+    {
+      "id": "7bb3df16f9f4",
+      "title": "Data Engineer III - ETL - JPMC Candidate Experience page Careers",
+      "company": "ETL - JPMC Candidate Experience page Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796387",
+      "source": "Other",
+      "description": "Data Engineer III - ETL. Jersey City, NJ, United States. Apply Now. Job ... Software Engineer III. Jersey City, NJ, United States Posted on 08/21 ...",
+      "date": "2026-10-08",
+      "timestamp": "2026-10-08T15:00:25+00:00",
+      "fetched_at": "2026-10-08T18:01:00.694231+00:00"
+    },
+    {
+      "id": "a73263ff57f8",
+      "title": "Senior DevOps Engineer - Eiden Systems Consulting - ApplicantStack",
+      "company": "Eiden Systems Consulting - ApplicantStack",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://eidensys.applicantstack.com/x/detail/a2suihuda2fs",
+      "source": "Other",
+      "description": "Job Openings >> Senior DevOps Engineer . Senior DevOps Engineer . Summary. Title: Senior DevOps Engineer . ID: 206. Location: Fort Belvoir, VA. More ...",
+      "date": "2026-10-08",
+      "timestamp": "2026-10-08T14:49:29+00:00",
+      "fetched_at": "2026-10-08T18:01:00.771683+00:00"
+    },
+    {
+      "id": "58aa9bb7810c",
+      "title": "Data/ ML Engineer in Princeton, New Jersey | Careers at Princeton University - ICIMS",
+      "company": "Princeton University",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://main-princeton.icims.com/jobs/22319/data-ml-engineer/job",
+      "source": "iCIMS",
+      "description": "Data/ ML Engineer . Requisition # 2026-22319. Date Posted 19 hours ... 3+ years of relevant experience as a data engineer , machine learning engineer ...",
+      "date": "2026-10-08",
+      "timestamp": "2026-10-08T14:33:19+00:00",
+      "fetched_at": "2026-10-08T18:01:00.694527+00:00"
+    },
+    {
+      "id": "b4a7b184e2bb",
+      "title": "Site Reliability Engineer (SRE) \u2013 Building X - Job Detail | Careers Marketplace - Siemens",
+      "company": "Job Detail | Careers Marketplace - Siemens",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/525102",
+      "source": "Other",
+      "description": "Site Reliability Engineer (SRE) \u2013 Building X. Job ID. 525102. Posted ... Senior Software Engineer - DevSecOps. Pune, Maharashtra, India. Data ...",
+      "date": "2026-10-08",
+      "timestamp": "2026-10-08T14:20:02+00:00",
+      "fetched_at": "2026-10-08T18:01:00.694729+00:00"
+    },
+    {
+      "id": "d4272fa493cc",
+      "title": "Senior AI & Data Engineer - Study Experience | Medidata Solutions",
+      "company": "Study Experience | Medidata Solutions",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.medidata.com/en/careers/senior-ai-data-engineer-study-experience-550406/job/",
+      "source": "Other",
+      "description": "Senior AI & Data Engineer \u2013 Study Experience. Careers. Requisition ID. 550406. Category. Research & Development. Location. United States - NY, New ...",
+      "date": "2026-10-08",
+      "timestamp": "2026-10-08T13:58:47+00:00",
+      "fetched_at": "2026-10-08T18:01:00.694974+00:00"
+    },
+    {
+      "id": "66961677fcfb",
+      "title": "Senior Data Engineer - Data Platform - Vida Health - Lever",
+      "company": "Vida",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.lever.co/vida/9f4469f5-964c-46b4-b368-ef7eb4841e60",
+      "source": "Lever",
+      "description": "Senior Data Engineer - Data Platform. United States. Engineering \u2013 All Teams /. Full Time- Exempt /. Remote. apply for this job. ABOUT US. At Vida, we ...",
+      "date": "2026-10-08",
+      "timestamp": "2026-10-08T13:21:41+00:00",
+      "fetched_at": "2026-10-08T18:01:00.695082+00:00"
+    },
+    {
+      "id": "78f0dfab83f3",
+      "title": "Transitioning from IT specialist to Cloud Engineer : r/ITCareerQuestions - Reddit",
+      "company": "Reddit",
+      "role": "Cloud Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/ITCareerQuestions/comments/1x07rhd/transitioning_from_it_specialist_to_cloud_engineer/",
+      "source": "Other",
+      "description": "My long career goal was and still is to be a cloud engineer and last year I've successfully obtained my GCP Associate Cloud Engineer certificate ...",
+      "date": "2026-10-08",
+      "timestamp": "2026-10-08T13:16:05+00:00",
+      "fetched_at": "2026-10-08T18:01:00.695310+00:00"
+    },
+    {
+      "id": "c28fa884064f",
+      "title": "Software Engineer at NetApp, Inc.",
+      "company": "NetApp, Inc.",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.netapp.com/job/bengaluru/software-engineer/27600/101686488608",
+      "source": "Other",
+      "description": "Explore roles where you can make measurable impact, keep learning, and collaborate with high-performing teams. Software Engineer . Bengaluru, India.",
+      "date": "2026-10-08",
+      "timestamp": "2026-10-08T12:40:48+00:00",
+      "fetched_at": "2026-10-08T18:01:00.695431+00:00"
+    },
+    {
+      "id": "47be82c96651",
+      "title": "Junior Data Engineer - careers - GitGuardian",
+      "company": "careers - GitGuardian",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.gitguardian.com/jobs/8513246-junior-data-engineer",
+      "source": "Other",
+      "description": "These contacts should be as recent as possible, and we will call them at the end of the process. Team: Engineering; Role: Software Engineer (backend) ...",
+      "date": "2026-10-08",
+      "timestamp": "2026-10-08T12:20:09+00:00",
+      "fetched_at": "2026-10-08T18:01:00.695583+00:00"
+    },
     {
       "id": "7863bb259645",
       "title": "Python AI Engineer - Assistant Vice President | Citi Careers",
