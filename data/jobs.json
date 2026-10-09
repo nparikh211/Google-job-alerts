@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-10-08T23:59:42.512318+00:00",
-  "total_jobs": 11056,
+  "last_updated": "2026-10-09T04:42:31.428080+00:00",
+  "total_jobs": 11061,
   "stats": {
-    "total_companies": 4990,
+    "total_companies": 4992,
     "total_roles": 144,
     "regions": {
-      "India": 7283,
+      "India": 7288,
       "Philippines": 2328,
       "Remote": 1360,
       "Unknown": 135
     },
     "sources": {
-      "Other": 8655,
+      "Other": 8660,
       "Greenhouse": 562,
       "LinkedIn": 478,
       "Workday": 465,
@@ -31,10 +31,70 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-10-08"
+      "latest": "2026-10-09"
     }
   },
   "jobs": [
+    {
+      "id": "6e010fbdaac6",
+      "title": "Software Engineer I - Job ID: 10573768 - Amazon Careers",
+      "company": "Job ID: 10573768 - Amazon Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.amazon.jobs/en/jobs/10573768/software-engineer-i",
+      "source": "Other",
+      "description": "Software Engineer I. Job ID: 10573768 | Twitch Interactive, Inc. - D48. Apply now. Description. If you are interested in this position, please apply ...",
+      "date": "2026-10-09",
+      "timestamp": "2026-10-09T04:08:16+00:00",
+      "fetched_at": "2026-10-09T04:42:31.164684+00:00"
+    },
+    {
+      "id": "9604bededdf6",
+      "title": "Senior Software Engineer (Data), CHARLOTTE, North Carolina | Wells Fargo",
+      "company": "Wells Fargo",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.wellsfargojobs.com/en/jobs/r-570187/senior-software-engineer-data/",
+      "source": "Other",
+      "description": "About this role: Wells Fargo is seeking a Senior Software Engineer (Data) within Technology, aligned to the Enterprise Functions Technology Group.",
+      "date": "2026-10-08",
+      "timestamp": "2026-10-08T23:58:03+00:00",
+      "fetched_at": "2026-10-09T04:42:31.164856+00:00"
+    },
+    {
+      "id": "3f024b0c692c",
+      "title": "Senior Backend Engineer , Apple News - Jobs",
+      "company": "Jobs",
+      "role": "Backend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200688024-0836/senior-backend-engineer-apple-news?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Senior Backend Engineer , Apple News job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-10-08",
+      "timestamp": "2026-10-08T22:19:27+00:00",
+      "fetched_at": "2026-10-09T04:42:31.165123+00:00"
+    },
+    {
+      "id": "2eee06a75f55",
+      "title": "Sr Staff AI Engineer at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-staff-ai-engineer/47263/101714091136",
+      "source": "Other",
+      "description": "Sr Staff AI Engineer . Santa Clara, California, United States of America Product Engineering Ref ID: JR-023500. Apply Save Job. Current Employees ...",
+      "date": "2026-10-08",
+      "timestamp": "2026-10-08T21:53:03+00:00",
+      "fetched_at": "2026-10-09T04:42:31.165261+00:00"
+    },
     {
       "id": "44c3c4ed6696",
       "title": "Site Reliability Engineer , Alpharetta - Equifax Careers",
@@ -124,6 +184,21 @@
       "date": "2026-10-08",
       "timestamp": "2026-10-08T19:39:20+00:00",
       "fetched_at": "2026-10-08T23:59:42.420449+00:00"
+    },
+    {
+      "id": "1c3d7a79d8d9",
+      "title": "Software Engineer / Senior Software Engineer | pmtbox - Rippling",
+      "company": "pmtbox - Rippling",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/pmtbox/jobs/027847fb-f0f7-4bed-a1aa-fa51edc301a3",
+      "source": "Other",
+      "description": "Software Engineer / Senior Software Engineer . Most engineering job descriptions read like a checklist. This one is different. At pmtbox (\u201cPayment Box ...",
+      "date": "2026-10-08",
+      "timestamp": "2026-10-08T19:36:58+00:00",
+      "fetched_at": "2026-10-09T04:42:31.166367+00:00"
     },
     {
       "id": "cbc98f74856b",
