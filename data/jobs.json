@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-10-10T16:24:28.590125+00:00",
-  "total_jobs": 11144,
+  "last_updated": "2026-10-10T22:58:51.417153+00:00",
+  "total_jobs": 11159,
   "stats": {
-    "total_companies": 5030,
+    "total_companies": 5035,
     "total_roles": 145,
     "regions": {
-      "India": 7350,
-      "Philippines": 2341,
-      "Remote": 1368,
+      "India": 7362,
+      "Philippines": 2343,
+      "Remote": 1369,
       "Unknown": 135
     },
     "sources": {
-      "Other": 8726,
+      "Other": 8738,
       "Greenhouse": 566,
       "LinkedIn": 482,
-      "Workday": 468,
+      "Workday": 471,
       "Ashby": 345,
       "iCIMS": 141,
       "Breezy": 115,
@@ -36,6 +36,96 @@
   },
   "jobs": [
     {
+      "id": "324bc32a2139",
+      "title": "Sr. AI Software Engineer - GFT Technologies",
+      "company": "GFT Technologies",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.gft.com/Costarica/job/Heredia-Sr_-AI-Software-Engineer-40101/1446277933/",
+      "source": "Other",
+      "description": "Sr. AI Software Engineer \u00b7 Own the design and delivery of high-performance, low-latency APIs and microservices powering vehicle history (VHR), VIN ...",
+      "date": "2026-10-10",
+      "timestamp": "2026-10-10T22:12:49+00:00",
+      "fetched_at": "2026-10-10T22:58:51.313568+00:00"
+    },
+    {
+      "id": "b089dd632e85",
+      "title": "Software Engineer , Operator Tooling - Stripe Careers",
+      "company": "Stripe Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://stripe.com/careers/listing/software-engineer-operator-tooling/8178879",
+      "source": "Other",
+      "description": "Software Engineer , Operator Tooling. Who we are. About Stripe. Stripe is a financial infrastructure platform for businesses. Millions of companies ...",
+      "date": "2026-10-10",
+      "timestamp": "2026-10-10T19:17:59+00:00",
+      "fetched_at": "2026-10-10T22:58:51.313792+00:00"
+    },
+    {
+      "id": "3613bf97bdad",
+      "title": "Lead Software Engineer - Data Engineer /Pyspark/Databricks - JPMorgan Chase",
+      "company": "Lead Software Engineer",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210799281?utm_source=Out+for+Undergrad+job+board&utm_medium=getro.com&gh_src=Out+for+Undergrad+job+board",
+      "source": "Other",
+      "description": "Lead Software Engineer - Data Engineer /Pyspark/Databricks. Houston, TX, United States. Apply Now. Job Information. Job Identification 210799281; Job ...",
+      "date": "2026-10-10",
+      "timestamp": "2026-10-10T19:04:43+00:00",
+      "fetched_at": "2026-10-10T22:58:51.314190+00:00"
+    },
+    {
+      "id": "98567cc05b10",
+      "title": "DevOps Engineer I - Ansira Careers - Myworkdayjobs.com",
+      "company": "Ansira",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://ansira.wd1.myworkdayjobs.com/en-US/Ansira_Careers/job/DevOps-Engineer-I_R1020-1",
+      "source": "Workday",
+      "description": "As a DevOps Engineer at Ansira Inc., you will play a crucial role in building and maintaining our automated infrastructure and deployment pipelines.",
+      "date": "2026-10-10",
+      "timestamp": "2026-10-10T16:45:31+00:00",
+      "fetched_at": "2026-10-10T22:58:51.370441+00:00"
+    },
+    {
+      "id": "bdb876535f94",
+      "title": "DevOps Engineer I - Ansira Careers - Myworkdayjobs.com",
+      "company": "Ansira",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ansira.wd1.myworkdayjobs.com/Ansira_Careers/job/India-Bengaluru/DevOps-Engineer-I_R1020-1?source=LinkedIn",
+      "source": "Workday",
+      "description": "As a DevOps Engineer at Ansira Inc., you will play a crucial role in building and maintaining our automated infrastructure and deployment pipelines.",
+      "date": "2026-10-10",
+      "timestamp": "2026-10-10T16:43:31+00:00",
+      "fetched_at": "2026-10-10T22:58:51.314321+00:00"
+    },
+    {
+      "id": "139df36b9095",
+      "title": "Staff Cloud Platform Engineer | Medidata Solutions",
+      "company": "Medidata Solutions",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.medidata.com/en/careers/staff-cloud-platform-engineer-550383/job/",
+      "source": "Other",
+      "description": "About the Team: As a Staff Cloud Platform Engineer , you will be the primary architect and operator of our multi-cloud ecosystem. This is a high-impact ...",
+      "date": "2026-10-10",
+      "timestamp": "2026-10-10T16:28:59+00:00",
+      "fetched_at": "2026-10-10T22:58:51.314508+00:00"
+    },
+    {
       "id": "18e139466860",
       "title": "Senior Platform Engineer - Enterprise AI Job Details - Boston Scientific Careers",
       "company": "Enterprise AI Job Details - Boston Scientific Careers",
@@ -51,6 +141,81 @@
       "fetched_at": "2026-10-10T16:24:28.356856+00:00"
     },
     {
+      "id": "bbf3e7e0dad6",
+      "title": "DevOps Engineer | Citi Careers",
+      "company": "Citi Careers",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.citi.com/job/new-castle/devops-engineer/287/101749500256",
+      "source": "Other",
+      "description": "Learn more about applying for DevOps Engineer at Citi. Learn more about potential responsibilities, qualifications and career paths.",
+      "date": "2026-10-10",
+      "timestamp": "2026-10-10T15:26:01+00:00",
+      "fetched_at": "2026-10-10T22:58:51.371050+00:00"
+    },
+    {
+      "id": "3c7b1fe9d863",
+      "title": "Research Data Engineer | Hudson River Trading",
+      "company": "Hudson River Trading",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.hudsonrivertrading.com/hrt-job/research-data-engineer/",
+      "source": "Other",
+      "description": "Hudson River Trading is a multi-asset class quantitative trading firm that provides liquidity on global markets and directly to our clients. We have ...",
+      "date": "2026-10-10",
+      "timestamp": "2026-10-10T15:23:42+00:00",
+      "fetched_at": "2026-10-10T22:58:51.314951+00:00"
+    },
+    {
+      "id": "2f6f7a68fbee",
+      "title": "Software Engineer Project Intern (Developer Infrastructure) - 2027 Start",
+      "company": "2027 Start",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://joinbytedance.com/search/7678555814927730949",
+      "source": "Other",
+      "description": "View our opening for Software Engineer Project Intern (Developer Infrastructure) - 2027 Start and learn more about what it's like to work at ...",
+      "date": "2026-10-10",
+      "timestamp": "2026-10-10T15:03:47+00:00",
+      "fetched_at": "2026-10-10T22:58:51.315139+00:00"
+    },
+    {
+      "id": "1a6c62202a4c",
+      "title": "Software Engineer 2 - Development Infrastructure | Careers - Abnormal AI",
+      "company": "Development Infrastructure | Careers - Abnormal AI",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://abnormal.ai/careers/jobs/8015189003?gh_jid=8015189003",
+      "source": "Other",
+      "description": "Apply for Software Engineer 2 - Development Infrastructure \u2014 Remote - USA at Abnormal.",
+      "date": "2026-10-10",
+      "timestamp": "2026-10-10T14:50:49+00:00",
+      "fetched_at": "2026-10-10T22:58:51.315324+00:00"
+    },
+    {
+      "id": "d8cf7e59428b",
+      "title": "Software Engineer (Agentic AI Automation) - Myworkdayjobs.com",
+      "company": "Tti",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://tti.wd1.myworkdayjobs.com/en-US/Milwaukee/job/Software-Engineer-Agentic-AI-Automation-_R78372",
+      "source": "Workday",
+      "description": "The Agentic Automation Engineer is a multi-platform AI role at the Software Engineer I level. You will work with business-aligned teams, Product ...",
+      "date": "2026-10-10",
+      "timestamp": "2026-10-10T12:07:41+00:00",
+      "fetched_at": "2026-10-10T22:58:51.315540+00:00"
+    },
+    {
       "id": "179185338558",
       "title": "Software Engineer - Java, React & GCP at Ford Motor Company",
       "company": "Ford Motor Company",
@@ -64,6 +229,51 @@
       "date": "2026-10-10",
       "timestamp": "2026-10-10T11:08:09+00:00",
       "fetched_at": "2026-10-10T16:24:28.356988+00:00"
+    },
+    {
+      "id": "57ec0a8d9708",
+      "title": "Senior Data Engineer | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.apexsystems.com/job/3055535_usa/senior-data-engineer",
+      "source": "Other",
+      "description": "Senior Data Engineer . Apply. Job#: 3055535. Job Description: Senior ... Data and AI Engineer . Connect with our experts. Looking for your next ...",
+      "date": "2026-10-10",
+      "timestamp": "2026-10-10T10:59:26+00:00",
+      "fetched_at": "2026-10-10T22:58:51.315838+00:00"
+    },
+    {
+      "id": "210f5ab3be28",
+      "title": "Senior Fullstack Engineer - Messaging Platform - Life at Spotify",
+      "company": "Spotify",
+      "role": "Fullstack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.lifeatspotify.com/jobs/senior-fullstack-engineer-messaging-platform",
+      "source": "Other",
+      "description": "Senior Fullstack Engineer . Messaging Platform. Link copied to clipboard ... Staff Machine Learning Engineer , Home Surfaces. New York. New York.",
+      "date": "2026-10-10",
+      "timestamp": "2026-10-10T10:45:47+00:00",
+      "fetched_at": "2026-10-10T22:58:51.316020+00:00"
+    },
+    {
+      "id": "143fbe5fcfd5",
+      "title": "Senior Data Engineer | Real-Time Data Platforms, Snowflake & AWS | Galway onsite",
+      "company": "Real-Time Data Platforms, Snowflake & AWS | Galway onsite",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.fidelity.com/ie/jobs/2136218/senior-data-engineer-real-time-data-platforms-snowflake-aws-galway-onsite/",
+      "source": "Other",
+      "description": "Full Stack Engineer . Save Saved. Technology Published: Sep 26 ... Senior Software Engineer . Save Saved. Technology Published: Oct 26; Galway. Details ...",
+      "date": "2026-10-10",
+      "timestamp": "2026-10-10T10:19:56+00:00",
+      "fetched_at": "2026-10-10T22:58:51.316327+00:00"
     },
     {
       "id": "0a299554fe3a",
@@ -124,6 +334,21 @@
       "date": "2026-10-10",
       "timestamp": "2026-10-10T08:50:26+00:00",
       "fetched_at": "2026-10-10T10:09:06.948187+00:00"
+    },
+    {
+      "id": "22248c4403d3",
+      "title": "Senior Software Engineer | Pearson",
+      "company": "Pearson",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://pearson.jobs/bangalore-ind/senior-software-engineer/014FF0BA19C44884AD30C3A9D8BEA198/job/",
+      "source": "Other",
+      "description": "Senior Software Engineer . Bangalore, IND. Workplace Type: Hybrid. Job: Engineering; Schedule: FULL_TIME; Req ID: 26083. Senior Software Engineer ...",
+      "date": "2026-10-10",
+      "timestamp": "2026-10-10T08:50:26+00:00",
+      "fetched_at": "2026-10-10T22:58:51.316952+00:00"
     },
     {
       "id": "95c1885fbab9",
