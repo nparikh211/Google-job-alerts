@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-10-11T23:14:14.158654+00:00",
-  "total_jobs": 11217,
+  "last_updated": "2026-10-12T02:43:43.023256+00:00",
+  "total_jobs": 11225,
   "stats": {
-    "total_companies": 5063,
+    "total_companies": 5065,
     "total_roles": 145,
     "regions": {
-      "India": 7407,
-      "Philippines": 2352,
+      "India": 7411,
+      "Philippines": 2356,
       "Remote": 1373,
       "Unknown": 135
     },
     "sources": {
-      "Other": 8786,
+      "Other": 8793,
       "Greenhouse": 567,
       "LinkedIn": 487,
       "Workday": 474,
@@ -21,7 +21,7 @@
       "Workable": 75,
       "Lever": 73,
       "SmartRecruiters": 72,
-      "Indeed": 37,
+      "Indeed": 38,
       "Recruitee": 11,
       "BrassRing": 11,
       "Jobvite": 8,
@@ -31,10 +31,70 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-10-11"
+      "latest": "2026-10-12"
     }
   },
   "jobs": [
+    {
+      "id": "858cf09e47a0",
+      "title": "Platform Engineer Job Details | Avaya",
+      "company": "Avaya",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.avaya.com/job/virtual-Platform-Engineer/1446318733/",
+      "source": "Other",
+      "description": "We're looking for a Platform Engineer to help build, optimize, and maintain the cloud platform technologies that support our applications and services ...",
+      "date": "2026-10-12",
+      "timestamp": "2026-10-12T00:47:12+00:00",
+      "fetched_at": "2026-10-12T02:43:42.875728+00:00"
+    },
+    {
+      "id": "0d443215a52c",
+      "title": "Senior Machine Learning Engineer II (EO/IR Image Analysis) - Rocket Lab",
+      "company": "Rocket Lab",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://rocketlabcorp.com/careers/positions/senior-machine-learning-engineer-ii-eoir-image-analysis-long-beach-ca-8025567003/",
+      "source": "Other",
+      "description": "WHAT WE'RE LOOKING FOR IN A SENIOR MACHINE LEARNING ENGINEER II: Bachelor's degree and 8+ years of experience, master's degree or a Ph.D. in Computer ...",
+      "date": "2026-10-12",
+      "timestamp": "2026-10-12T00:37:41+00:00",
+      "fetched_at": "2026-10-12T02:43:42.982928+00:00"
+    },
+    {
+      "id": "ef31248a0927",
+      "title": "Senior Machine Learning Engineer II (EO/IR Image Analysis) | Rocket Lab",
+      "company": "Rocket Lab",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://rocketlabcorp.com/careers/positions/senior-machine-learning-engineer-ii-eoir-image-analysis-tucson-az-8025569003/",
+      "source": "Other",
+      "description": "Senior Machine Learning Engineer II (EO/IR Image Analysis). Job Ref: 5889015003 | Type: Regular. Apply for this job. About The Role. ABOUT ROCKET LAB.",
+      "date": "2026-10-12",
+      "timestamp": "2026-10-12T00:37:37+00:00",
+      "fetched_at": "2026-10-12T02:43:42.983136+00:00"
+    },
+    {
+      "id": "e1cbf6d227d8",
+      "title": "Leadership Waitlist \u2014 AI Engineer New York 2026",
+      "company": "Unknown Company",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ai.engineer/nyc/2026/waitlist",
+      "source": "Other",
+      "description": "Leadership tickets for AI Engineer New York 2026 are sold out. Join the waitlist to hear if a spot opens up.",
+      "date": "2026-10-11",
+      "timestamp": "2026-10-11T22:18:13+00:00",
+      "fetched_at": "2026-10-12T02:43:42.875872+00:00"
+    },
     {
       "id": "0eadd442b549",
       "title": "Senior Data Engineer at Jobgether - Remote",
@@ -49,6 +109,36 @@
       "date": "2026-10-11",
       "timestamp": "2026-10-11T21:24:44+00:00",
       "fetched_at": "2026-10-11T23:14:14.027862+00:00"
+    },
+    {
+      "id": "0898935d3f2b",
+      "title": "700 Devops Engineer Jobs Hiring Now in Davisville, ON | Indeed",
+      "company": "Indeed",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://ca.indeed.com/q-devops-engineer-l-davisville,-on-jobs.html",
+      "source": "Indeed",
+      "description": "Adobe Site Reliability Engineer (SRE) \u2013 CDN & Web Performance ... Senior Software Engineer . autoTRADER.ca. Toronto, ON. $140,000\u2013$190,000 a ...",
+      "date": "2026-10-11",
+      "timestamp": "2026-10-11T20:31:55+00:00",
+      "fetched_at": "2026-10-12T02:43:42.983456+00:00"
+    },
+    {
+      "id": "8f0c40276476",
+      "title": "Senior Staff Software Engineer (Secrets Manager SAAS) at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/senior-staff-software-engineer-secrets-manager-saas/47263/99799498064",
+      "source": "Other",
+      "description": "Senior Staff Software Engineer (Secrets Manager SAAS). Petach Tikva, Israel Product Engineering Ref ID: JR-021196.",
+      "date": "2026-10-11",
+      "timestamp": "2026-10-11T19:53:15+00:00",
+      "fetched_at": "2026-10-12T02:43:42.983662+00:00"
     },
     {
       "id": "8766954c0ef5",
@@ -94,6 +184,21 @@
       "date": "2026-10-11",
       "timestamp": "2026-10-11T18:58:17+00:00",
       "fetched_at": "2026-10-11T23:14:14.029211+00:00"
+    },
+    {
+      "id": "5048646ec2b8",
+      "title": "Software Engineer I - Front End Job - TD Bank",
+      "company": "Front End Job - TD Bank",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://tdbank.jobs/job-titles/software-engineer-i-front-end/jobs/",
+      "source": "Other",
+      "description": "Software Engineer I - Front End Job, updated and verified daily by DirectEmployers Association.",
+      "date": "2026-10-11",
+      "timestamp": "2026-10-11T18:32:41+00:00",
+      "fetched_at": "2026-10-12T02:43:42.876801+00:00"
     },
     {
       "id": "abfe9aaf8a8b",
@@ -214,6 +319,21 @@
       "date": "2026-10-11",
       "timestamp": "2026-10-11T16:31:40+00:00",
       "fetched_at": "2026-10-11T23:14:14.030668+00:00"
+    },
+    {
+      "id": "2b8b5f4c8ee8",
+      "title": "Senior Software Engineer , Networking DGX Cloud - NVIDIA Careers",
+      "company": "NVIDIA Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.nvidia.com/careers/job/893396811046?domain=nvidia.com&hl=zh-TW",
+      "source": "Other",
+      "description": "Senior Software Engineer , Networking DGX Cloud \u00b7 Developing software to enable efficient network design, deployment and day 2 management. \u00b7 Building ...",
+      "date": "2026-10-11",
+      "timestamp": "2026-10-11T16:17:21+00:00",
+      "fetched_at": "2026-10-12T02:43:42.878082+00:00"
     },
     {
       "id": "298cf1b529f2",
