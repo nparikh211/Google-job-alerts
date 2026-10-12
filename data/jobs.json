@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-10-12T11:21:54.146315+00:00",
-  "total_jobs": 11245,
+  "last_updated": "2026-10-12T20:26:54.884722+00:00",
+  "total_jobs": 11265,
   "stats": {
-    "total_companies": 5080,
-    "total_roles": 145,
+    "total_companies": 5086,
+    "total_roles": 146,
     "regions": {
-      "India": 7427,
-      "Philippines": 2358,
+      "India": 7443,
+      "Philippines": 2362,
       "Remote": 1375,
       "Unknown": 135
     },
     "sources": {
-      "Other": 8808,
-      "Greenhouse": 568,
-      "LinkedIn": 488,
+      "Other": 8824,
+      "Greenhouse": 569,
+      "LinkedIn": 490,
       "Workday": 474,
       "Ashby": 346,
       "iCIMS": 141,
-      "Breezy": 115,
+      "Breezy": 116,
       "Workable": 75,
       "Lever": 73,
       "SmartRecruiters": 72,
@@ -35,6 +35,306 @@
     }
   },
   "jobs": [
+    {
+      "id": "29e518c87e32",
+      "title": "Sr. AI Engineer , AI FDE - Databricks",
+      "company": "Databricks",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.databricks.com/company/careers/professional-services-operations/sr-ai-engineer-ai-fde-8516112002",
+      "source": "Other",
+      "description": "CSQ326R35. AI Engineer - FDE (Forward Deployed Engineer). Mission. The AI Forward Deployed Engineering (AI FDE) team is a highly specialized ...",
+      "date": "2026-10-12",
+      "timestamp": "2026-10-12T20:01:26+00:00",
+      "fetched_at": "2026-10-12T20:26:54.836705+00:00"
+    },
+    {
+      "id": "8de8824d0e1a",
+      "title": "C++ Software Engineer (Early Career) - Chicago, IL",
+      "company": "Chicago, IL",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.wolve.com/en/postings/4b0e86a1-db36-4490-9a98-17782ffcc648",
+      "source": "Other",
+      "description": "At Wolverine Trading, we're looking for a C++ Software Engineer who is eager to launch their career in high-performance trading technology.",
+      "date": "2026-10-12",
+      "timestamp": "2026-10-12T19:14:25+00:00",
+      "fetched_at": "2026-10-12T20:26:54.737926+00:00"
+    },
+    {
+      "id": "c2ee6f4bf0bf",
+      "title": "Senior Software Engineer (.NET/C#/Azure) - Ontrac Solutions",
+      "company": "Ontrac Solutions Llc",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ontrac-solutions-llc.breezy.hr/p/4ed6af610a08-senior-software-engineer-net-c-azure/apply",
+      "source": "Breezy",
+      "description": "OVERVIEW OnTrac is seeking a Senior Software Engineer (.NET / C# / Azure) to join a contractor program supporting a large wholesale ...",
+      "date": "2026-10-12",
+      "timestamp": "2026-10-12T18:40:13+00:00",
+      "fetched_at": "2026-10-12T20:26:54.738109+00:00"
+    },
+    {
+      "id": "215ed699d251",
+      "title": "Staff Software Engineer I - Confluent Cloud Platform - 122177 - IBM",
+      "company": "Confluent Cloud Platform - 122177 - IBM",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.ibm.com/en_US/careers/JobDetail/Staff-Software-Engineer-I-Confluent-Cloud-Platform/122177",
+      "source": "Other",
+      "description": "Staff Software Engineer I - Confluent Cloud Platform ... At IBM Software, we transform client challenges into solutions. Building the world's leading AI ...",
+      "date": "2026-10-12",
+      "timestamp": "2026-10-12T18:35:25+00:00",
+      "fetched_at": "2026-10-12T20:26:54.837126+00:00"
+    },
+    {
+      "id": "8c212f053ddf",
+      "title": "Hemant Pandey posted this - LinkedIn",
+      "company": "Unknown Company",
+      "role": "Hemant Pandey posted this - LinkedIn",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/posts/hemant-pandey_can-anyone-connect-me-with-any-software-engineer-activity-7515286966570012672-1vDI",
+      "source": "LinkedIn",
+      "description": "Can anyone connect me with any Software Engineer working at OpenAI and Anthropic ? Looking for someone who is willing to share their experience of ...",
+      "date": "2026-10-12",
+      "timestamp": "2026-10-12T18:19:42+00:00",
+      "fetched_at": "2026-10-12T20:26:54.837812+00:00"
+    },
+    {
+      "id": "a5cd52756814",
+      "title": "Senior Software Engineer - Careers at Moody's",
+      "company": "Moody's",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.moodys.com/en/job/heredia/senior-software-engineer/49841/101869788192",
+      "source": "Other",
+      "description": "Senior Software Engineer . Heredia, Costa Rica. Apply now. Save job. Posted: 10/12/2026. Job reference: 15455. Experience level: Experienced Hire. Job ...",
+      "date": "2026-10-12",
+      "timestamp": "2026-10-12T18:06:51+00:00",
+      "fetched_at": "2026-10-12T20:26:54.738304+00:00"
+    },
+    {
+      "id": "48c8a8169d0b",
+      "title": "Software engineer in Bangalore, India | Product and Engineering at Cisco - Cisco Careers",
+      "company": "Cisco",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2027739EXTERNALENGLOBAL/Software-engineer",
+      "source": "Other",
+      "description": "Take on the role of Software Engineer to deliver reliable automation for IP transport networks using Python and networking protocols. You will plan ...",
+      "date": "2026-10-12",
+      "timestamp": "2026-10-12T17:42:38+00:00",
+      "fetched_at": "2026-10-12T20:26:54.738482+00:00"
+    },
+    {
+      "id": "0e3931e1bdf2",
+      "title": "Job Application for Software Engineer , AI Security at Robinhood - Greenhouse",
+      "company": "Robinhood",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/robinhood/jobs/8220757?t=gh_src=&gh_jid=8220757",
+      "source": "Greenhouse",
+      "description": "Software Engineer , AI Security. Bellevue, WA; Menlo Park, CA. Apply. Join us in building the future of finance. Our mission is to democratize finance ...",
+      "date": "2026-10-12",
+      "timestamp": "2026-10-12T17:05:57+00:00",
+      "fetched_at": "2026-10-12T20:26:54.738738+00:00"
+    },
+    {
+      "id": "f693e496e12f",
+      "title": "Senior Embedded Software Engineer , Milford, Michigan | General Motors Careers",
+      "company": "General Motors Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://search-careers.gm.com/en/jobs/jr-202622213/senior-embedded-software-engineer/",
+      "source": "Other",
+      "description": "... Software Engineer , Embedded Software Engineer or related role. Five (5) ... Senior Software Engineer - High Voltage Electrification. Save Saved.",
+      "date": "2026-10-12",
+      "timestamp": "2026-10-12T17:00:09+00:00",
+      "fetched_at": "2026-10-12T20:26:54.738928+00:00"
+    },
+    {
+      "id": "ad0cb882267f",
+      "title": "Careers at Sony Interactive Entertainment I Software Engineer , AI/ML",
+      "company": "Sony Interactive Entertainment I Software Engineer , AI/ML",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.playstation.com/software-engineer-ai-ml/job/6220970004",
+      "source": "Other",
+      "description": "Join Sony Interactive Entertainment in San Diego, CA! Apply for the Software Engineer , AI/ML role today and start your journey with us.",
+      "date": "2026-10-12",
+      "timestamp": "2026-10-12T16:56:11+00:00",
+      "fetched_at": "2026-10-12T20:26:54.739071+00:00"
+    },
+    {
+      "id": "7b2eb310491b",
+      "title": "Senior Software Engineer in Test - Okta",
+      "company": "Okta",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.okta.com/company/careers/rd/senior-software-engineer-in-test-7840417/",
+      "source": "Other",
+      "description": "Senior Software Engineer in Test. Bengaluru, India. Secure Every Identity, from AI to Human Identity is the key to unlocking the ...",
+      "date": "2026-10-12",
+      "timestamp": "2026-10-12T16:31:02+00:00",
+      "fetched_at": "2026-10-12T20:26:54.739425+00:00"
+    },
+    {
+      "id": "c57d36fa72dc",
+      "title": "Associate Software DevOps Engineer at Boeing",
+      "company": "Boeing",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.boeing.com/job/gdansk/associate-software-devops-engineer/185/101864347120",
+      "source": "Other",
+      "description": "Associate Software DevOps Engineer . Gdansk, Pomerania Job ID JR2026526511 Category Engineering - Software Role Type Hybrid Post Date Oct. 12, 2026.",
+      "date": "2026-10-12",
+      "timestamp": "2026-10-12T16:30:40+00:00",
+      "fetched_at": "2026-10-12T20:26:54.739570+00:00"
+    },
+    {
+      "id": "bd4ecd9f59a3",
+      "title": "Software Engineer Job Details - Responsive.io",
+      "company": "Responsive.io",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.responsive.io/job/India-Software-Engineer-Bang/59498744/",
+      "source": "Other",
+      "description": "Responsive is looking for a product minded Software Engineer with strong technical skills and a passion for building scalable solutions. This is ...",
+      "date": "2026-10-12",
+      "timestamp": "2026-10-12T16:16:31+00:00",
+      "fetched_at": "2026-10-12T20:26:54.739720+00:00"
+    },
+    {
+      "id": "292d16fa92e4",
+      "title": "Software Engineer | Java/Golang/Python/ C/C++ | 2 to 4 years | Bangalore - Cisco Careers",
+      "company": "Java/Golang/Python/ C/C++ | 2 to 4 years | Bangalore - Cisco Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2027391EXTERNALENGLOBAL/Software-Engineer-Java-Golang-Python-C-C-2-to-4-years-Bangalore",
+      "source": "Other",
+      "description": "Apply for Software Engineer | Java/Golang/Python/ C/C++ | 2 to 4 years | Bangalore job with Cisco in Bangalore, India. Product and Engineering at ...",
+      "date": "2026-10-12",
+      "timestamp": "2026-10-12T16:14:20+00:00",
+      "fetched_at": "2026-10-12T20:26:54.839857+00:00"
+    },
+    {
+      "id": "bd455e1725f0",
+      "title": "AI Engineer - Bengaluru, Karn\u0101taka, India - Equinix Careers",
+      "company": "Bengaluru, Karn\u0101taka, India - Equinix Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.equinix.com/jobs/ai-engineer-bengaluru-karnataka-india-d288f572-783c-4a85-815b-1a61ea893934",
+      "source": "Other",
+      "description": "AI Engineer \u00b7 Design, build, deploy, and maintain LLM-powered agents and AI-driven applications \u00b7 Integrate AI capabilities into existing software ...",
+      "date": "2026-10-12",
+      "timestamp": "2026-10-12T15:50:50+00:00",
+      "fetched_at": "2026-10-12T20:26:54.740223+00:00"
+    },
+    {
+      "id": "b7fc75dc4099",
+      "title": "Sci-Rec hiring Senior AI Engineer in California, United States | LinkedIn",
+      "company": "Sci",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/senior-ai-engineer-at-sci-rec-4478360363",
+      "source": "LinkedIn",
+      "description": "Senior Software Engineer - AI & Agentic Architecture. Sony Interactive ... Senior AI/ ML Engineer - Agentic AI. SAP. Newport Beach, CA 1 week ago.",
+      "date": "2026-10-12",
+      "timestamp": "2026-10-12T15:43:08+00:00",
+      "fetched_at": "2026-10-12T20:26:54.740390+00:00"
+    },
+    {
+      "id": "369c5b13d775",
+      "title": "Senior Backend Engineer \u2014 Careers - Firebird",
+      "company": "Firebird",
+      "role": "Backend Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://firebird.ai/job-senior-backend-engineer.html",
+      "source": "Other",
+      "description": "Senior Backend Engineer . Yerevan, Armenia \u00b7 Full time. About the Role. We ... Full time ML Engineer , Inference and Serving Build, deploy, and ...",
+      "date": "2026-10-12",
+      "timestamp": "2026-10-12T15:18:05+00:00",
+      "fetched_at": "2026-10-12T20:26:54.840708+00:00"
+    },
+    {
+      "id": "8126e54668af",
+      "title": "Software engineer , Bangalore, KA | Fidelity Careers",
+      "company": "Fidelity Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.fidelity.com/in/jobs/2136757/software-engineer/",
+      "source": "Other",
+      "description": "Software engineer . Published: Oct 12. ID: 2136757. Save Saved. Location ... Principal, Full Stack Engineer - Digital Assets. Save Saved. Technology ...",
+      "date": "2026-10-12",
+      "timestamp": "2026-10-12T15:06:46+00:00",
+      "fetched_at": "2026-10-12T20:26:54.740732+00:00"
+    },
+    {
+      "id": "df91df437e76",
+      "title": "DevOps Engineer in Warsaw, Poland | Technology & Digital at U.S. Bank",
+      "company": "U.S. Bank",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.usbank.com/global/en/job/2026-0029378/DevOps-Engineer",
+      "source": "Other",
+      "description": "Job Description. DevOps Engineer . ** We are hiring a team of 4 DevOps Engineers in our Warsaw office. These roles are permanent roles (salary based - ...",
+      "date": "2026-10-12",
+      "timestamp": "2026-10-12T14:42:54+00:00",
+      "fetched_at": "2026-10-12T20:26:54.741067+00:00"
+    },
+    {
+      "id": "8df321468475",
+      "title": "Senior Data Engineer , Smithfield, RI | Fidelity Careers",
+      "company": "Fidelity Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.fidelity.com/en/jobs/2135067/senior-data-engineer/",
+      "source": "Other",
+      "description": "The Workplace Investing Data Conversion & Implementation team is seeking a Senior Data Engineer to support Defined Benefits client implementations and ...",
+      "date": "2026-10-12",
+      "timestamp": "2026-10-12T14:25:31+00:00",
+      "fetched_at": "2026-10-12T20:26:54.741392+00:00"
+    },
     {
       "id": "63824fe68fb5",
       "title": "[ Software Engineer ] 2016-2026 salary progression - Reddit",
