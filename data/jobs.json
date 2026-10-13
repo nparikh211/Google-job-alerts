@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-10-13T04:00:48.725998+00:00",
-  "total_jobs": 11284,
+  "last_updated": "2026-10-13T15:19:03.384276+00:00",
+  "total_jobs": 11309,
   "stats": {
-    "total_companies": 5089,
-    "total_roles": 146,
+    "total_companies": 5096,
+    "total_roles": 147,
     "regions": {
-      "India": 7459,
-      "Philippines": 2364,
-      "Remote": 1377,
+      "India": 7476,
+      "Philippines": 2367,
+      "Remote": 1382,
       "Unknown": 135
     },
     "sources": {
-      "Other": 8838,
+      "Other": 8859,
       "Greenhouse": 569,
-      "LinkedIn": 490,
-      "Workday": 477,
-      "Ashby": 346,
+      "LinkedIn": 491,
+      "Workday": 478,
+      "Ashby": 347,
       "iCIMS": 143,
       "Breezy": 116,
-      "Workable": 75,
+      "Workable": 76,
       "Lever": 73,
       "SmartRecruiters": 72,
       "Indeed": 39,
@@ -35,6 +35,381 @@
     }
   },
   "jobs": [
+    {
+      "id": "d0c8af77e9be",
+      "title": "Applied AI Engineer | Careers at Parsons",
+      "company": "Parsons",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.parsons.com/jobs/applied-ai-engineer-westminster-r-187096-jobs--technical-specialties--",
+      "source": "Other",
+      "description": "Join Parsons as a Applied AI Engineer and contribute to innovative projects in US - CO, Westminster. Explore how your skills can drive solutions ...",
+      "date": "2026-10-13",
+      "timestamp": "2026-10-13T14:18:36+00:00",
+      "fetched_at": "2026-10-13T15:19:03.098096+00:00"
+    },
+    {
+      "id": "4821d05d3433",
+      "title": "Data Engineer - Jenzabar - Jobs by Workable",
+      "company": "Jenzabar1",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://apply.workable.com/jenzabar1/j/CE830FA785/",
+      "source": "Workable",
+      "description": "The Data Engineer V leads the design, development, and optimization of scalable data pipelines and analytics platforms. This role partners closely ...",
+      "date": "2026-10-13",
+      "timestamp": "2026-10-13T12:40:04+00:00",
+      "fetched_at": "2026-10-13T15:19:03.098235+00:00"
+    },
+    {
+      "id": "e9d072c08526",
+      "title": "Senior, Software Engineer (Backend) - Walmart Careers",
+      "company": "Walmart Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.walmart.com/us/en/jobs/R-2604641",
+      "source": "Other",
+      "description": "Senior, Software Engineer (Backend). 811 11 Th Ave Sunnyvale, CA 94089-4731. R-2604641.",
+      "date": "2026-10-13",
+      "timestamp": "2026-10-13T11:40:14+00:00",
+      "fetched_at": "2026-10-13T15:19:03.342819+00:00"
+    },
+    {
+      "id": "a91a7b67f58b",
+      "title": "Principal Data Engineer - Rippling",
+      "company": "Rippling",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://ats.rippling.com/everfi/jobs/3b2e6a0d-a387-457b-acbf-575d5a845845",
+      "source": "Other",
+      "description": "Principal Data Engineer . Everfi is a leading education technology company founded in 2008 that delivers digital learning solutions focused on real- ...",
+      "date": "2026-10-13",
+      "timestamp": "2026-10-13T11:31:01+00:00",
+      "fetched_at": "2026-10-13T15:19:03.343068+00:00"
+    },
+    {
+      "id": "2451013e107d",
+      "title": "Senior Backend Software Engineer - Swish Analytics - Teamtailor",
+      "company": "Swish Analytics - Teamtailor",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://swishanalytics.na.teamtailor.com/jobs/718582-senior-backend-software-engineer",
+      "source": "Other",
+      "description": "Senior Backend Software Engineer . Company Description Swish Analytics is a sports analytics, betting and fantasy startup building the next ...",
+      "date": "2026-10-13",
+      "timestamp": "2026-10-13T10:27:33+00:00",
+      "fetched_at": "2026-10-13T15:19:03.098635+00:00"
+    },
+    {
+      "id": "aa9400486941",
+      "title": "Software Engineer III -GBS IND - Multiple Locations - Bank of America Careers",
+      "company": "GBS IND - Multiple Locations - Bank of America Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.bankofamerica.com/en-us/job-detail/26037064/software-engineer-iii-gbs-ind-multiple-locations",
+      "source": "Other",
+      "description": "Apply for the Software Engineer III -GBS IND position (Job ID: 26037064), with openings in multiple locations, at Bank of America.",
+      "date": "2026-10-13",
+      "timestamp": "2026-10-13T10:05:03+00:00",
+      "fetched_at": "2026-10-13T15:19:03.098825+00:00"
+    },
+    {
+      "id": "819ba82e95c4",
+      "title": "Software Engineer I - Java Backend in Pune, India, 411006 - Careers at Mastercard",
+      "company": "Mastercard",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mastercard.com/us/en/job/R-290797/Software-Engineer-I-Java-Backend",
+      "source": "Other",
+      "description": "Senior Software Engineer . Location Pune, India, 411006 Category Engineering. Senior Software Engineer (Java Backend Developer). Location Pune ...",
+      "date": "2026-10-13",
+      "timestamp": "2026-10-13T09:22:26+00:00",
+      "fetched_at": "2026-10-13T15:19:03.098937+00:00"
+    },
+    {
+      "id": "6663cc52a60a",
+      "title": "Data Engineer - Arc Energy Services - Career Page - JazzHR",
+      "company": "Arc Energy Services - Career Page - JazzHR",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://arcenergyservices.applytojob.com/apply/LVBgbkjYzs/Data-Engineer",
+      "source": "Other",
+      "description": "Position Summary. ARC Energy Services is seeking a Data Engineer to join our Technology team in Rock Hill, SC. You will build ...",
+      "date": "2026-10-13",
+      "timestamp": "2026-10-13T09:14:33+00:00",
+      "fetched_at": "2026-10-13T15:19:03.343591+00:00"
+    },
+    {
+      "id": "980d1c2ef2e5",
+      "title": "Software Engineer at NetApp, Inc.",
+      "company": "NetApp, Inc.",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.netapp.com/job/san-jose/software-engineer/27600/101875969056",
+      "source": "Other",
+      "description": "As an Senior Software Engineer , you will apply broad and deep expertise across multiple specialized disciplines including distributed systems ...",
+      "date": "2026-10-13",
+      "timestamp": "2026-10-13T08:47:34+00:00",
+      "fetched_at": "2026-10-13T15:19:03.343677+00:00"
+    },
+    {
+      "id": "20c40bf41d26",
+      "title": "AI Data Engineer - Careers at UKG",
+      "company": "UKG",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://apply.ukg.com/careers/job/893397898895?utm_source=Job+Board+-+FairyGodBoss&src=Job+Board+-+FairyGodBoss",
+      "source": "Other",
+      "description": "AI Data Engineer II. Bangalore,INKA,India. Information Technology. Hybrid \u00b7 Fellow Software Engineer -Eng (Agentic AI Architecture & Engineering).",
+      "date": "2026-10-13",
+      "timestamp": "2026-10-13T08:46:44+00:00",
+      "fetched_at": "2026-10-13T15:19:03.099180+00:00"
+    },
+    {
+      "id": "be521518f9c9",
+      "title": "Senior Software Engineer , Payments - Careers at Airbnb",
+      "company": "Airbnb",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.airbnb.com/positions/8275273/?gh_jid=8275273",
+      "source": "Other",
+      "description": "Senior Software Engineer , Payments. Remote, USA. Role overview. Application. Airbnb was born in 2007 when two hosts welcomed three guests to their San ...",
+      "date": "2026-10-13",
+      "timestamp": "2026-10-13T08:41:20+00:00",
+      "fetched_at": "2026-10-13T15:19:03.099280+00:00"
+    },
+    {
+      "id": "02df429e9baa",
+      "title": "Senior Cloud Engineer Job Details - Kiewit Careers",
+      "company": "Kiewit Careers",
+      "role": "Cloud Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://kiewitcareers.kiewit.com/job/Omaha-Senior-Cloud-Engineer-NE-68046/1439081500/",
+      "source": "Other",
+      "description": "Senior Cloud Engineer . Location: Omaha, NE, US Remote, US. Requisition ID: 182705. Job Level: Senior Level. Home District/Group: DHO Kiewit Data ...",
+      "date": "2026-10-13",
+      "timestamp": "2026-10-13T08:33:10+00:00",
+      "fetched_at": "2026-10-13T15:19:03.099419+00:00"
+    },
+    {
+      "id": "33217f5c500c",
+      "title": "Software Engineer | GE Vernova",
+      "company": "GE Vernova",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.gevernova.com/software-engineer/job/R5055037",
+      "source": "Other",
+      "description": "Apply for the position Software Engineer today ... Software Engineer . Digital Engineering; PB. Type: Full Time. Location(s): ...",
+      "date": "2026-10-13",
+      "timestamp": "2026-10-13T08:07:21+00:00",
+      "fetched_at": "2026-10-13T15:19:03.099516+00:00"
+    },
+    {
+      "id": "36ad0385c6bf",
+      "title": "Senior Software Engineer \u2013 Mainframe Modernization - Myworkdayjobs.com",
+      "company": "Broadcom",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/Senior-Software-Engineer---Mainframe-Modernization_R027352-1",
+      "source": "Workday",
+      "description": "At Broadcom, we believe enterprise software should be powerful, intuitive, and seamlessly integrated. We are seeking a Senior Software Engineer who ...",
+      "date": "2026-10-13",
+      "timestamp": "2026-10-13T07:33:06+00:00",
+      "fetched_at": "2026-10-13T15:19:03.099599+00:00"
+    },
+    {
+      "id": "b02d191f3d15",
+      "title": "Software Engineer , Bengaluru, Karnataka - Deltek Careers",
+      "company": "Deltek Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.deltek.com/job/23997426/software-engineer-onsite/",
+      "source": "Other",
+      "description": "This AI-first SaaS solution unifies project controls, including cost, schedule, and risk, into a single, modern experience. As a Software Engineer , ...",
+      "date": "2026-10-13",
+      "timestamp": "2026-10-13T06:34:01+00:00",
+      "fetched_at": "2026-10-13T15:19:03.099698+00:00"
+    },
+    {
+      "id": "530c8dae58b9",
+      "title": "Software Engineer , Bengaluru, Karnataka - Deltek Careers",
+      "company": "Deltek Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.deltek.com/job/23997425/software-engineer-onsite/",
+      "source": "Other",
+      "description": "Software Engineer . Job ID: 11265BR; Location: India-Bangalore; Work Setup: Onsite; Job Category: Engineering; Posting Date: October 12, 2026. Job ...",
+      "date": "2026-10-13",
+      "timestamp": "2026-10-13T06:34:00+00:00",
+      "fetched_at": "2026-10-13T15:19:03.344574+00:00"
+    },
+    {
+      "id": "a4b2d6b35991",
+      "title": "Software Engineer , Bengaluru, Karnataka - Deltek Careers",
+      "company": "Deltek Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.deltek.com/job/23997425/software-engineer-onsite/?source=Career_website",
+      "source": "Other",
+      "description": "Software Engineer \u00b7 Job ID: 11265BR \u00b7 Location: India-Bangalore \u00b7 Work Setup: Onsite \u00b7 Job Category: Engineering \u00b7 Posting Date: October 12, 2026.",
+      "date": "2026-10-13",
+      "timestamp": "2026-10-13T06:31:57+00:00",
+      "fetched_at": "2026-10-13T15:19:03.099809+00:00"
+    },
+    {
+      "id": "43ad8b9fa15d",
+      "title": "Full Stack Engineer at Ford Motor Company",
+      "company": "Ford Motor Company",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.careers.ford.com/job/chennai/full-stack-engineer/48560/101880632912",
+      "source": "Other",
+      "description": "Full Stack Engineer . Job ID: 71943. Category: Enterprise Technology. Location: Chennai, India. Work Type: On-site. Apply Now. The ideal candidate ...",
+      "date": "2026-10-13",
+      "timestamp": "2026-10-13T06:21:03+00:00",
+      "fetched_at": "2026-10-13T15:19:03.099901+00:00"
+    },
+    {
+      "id": "be7c7fdea799",
+      "title": "Kevin Naughton posted this - LinkedIn",
+      "company": "Unknown Company",
+      "role": "Kevin Naughton posted this - LinkedIn",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/kevindnaughtonjr_being-a-software-engineer-is-genuinely-the-activity-7515516100093165568-IwVR",
+      "source": "LinkedIn",
+      "description": "being a software engineer is genuinely the greatest job in the world all day long you get to just chip away at making something better and better ...",
+      "date": "2026-10-13",
+      "timestamp": "2026-10-13T06:12:26+00:00",
+      "fetched_at": "2026-10-13T15:19:03.100389+00:00"
+    },
+    {
+      "id": "03e04d718f9d",
+      "title": "Software Engineer - Validation - - 33026 - HARMAN International",
+      "company": "Validation - - 33026 - HARMAN International",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobsearch.harman.com/en_US/careers/JobDetail/Software-Engineer-Validation/33026",
+      "source": "Other",
+      "description": "Software Engineer - Validation. General information. Location: Bangalore - Karnataka, India - Kalyani Platina. Job Family: Engineering. Worker Type ...",
+      "date": "2026-10-13",
+      "timestamp": "2026-10-13T06:00:21+00:00",
+      "fetched_at": "2026-10-13T15:19:03.100548+00:00"
+    },
+    {
+      "id": "1f78f58f5a14",
+      "title": "Field Software Engineer | ASM",
+      "company": "ASM",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.asm.com/open-vacancies/field-software-engineer-4966075101?gh_jid=4966075101",
+      "source": "Other",
+      "description": "Job Mission. As a Field Software Engineer I, you help bring ASM's semiconductor equipment to life by supporting the software that drives robotics, ...",
+      "date": "2026-10-13",
+      "timestamp": "2026-10-13T05:39:42+00:00",
+      "fetched_at": "2026-10-13T15:19:03.100675+00:00"
+    },
+    {
+      "id": "5fa64fba8e28",
+      "title": "Full Stack Engineer @ WellTheory - Jobs",
+      "company": "Welltheory",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.ashbyhq.com/welltheory/b1976828-b3e4-4109-b929-8897b7b3d6c1",
+      "source": "Ashby",
+      "description": "... software engineer and fluency in TypeScript. Our stack is TypeScript ... Full Stack Engineer . Location. Remote - US. Employment Type. Full time ...",
+      "date": "2026-10-13",
+      "timestamp": "2026-10-13T05:33:25+00:00",
+      "fetched_at": "2026-10-13T15:19:03.100745+00:00"
+    },
+    {
+      "id": "ab949958455e",
+      "title": "0 Years professional experience but trying to get a AI / ML engineer role - Reddit",
+      "company": "Reddit",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/learnmachinelearning/comments/1x3ym3j/0_years_professional_experience_but_trying_to_get/",
+      "source": "Other",
+      "description": "... AI Engineer interview, with 4hrs time limit. How would you approach it ... How did you guys get a first machine learning engineer job in the US?",
+      "date": "2026-10-13",
+      "timestamp": "2026-10-13T05:27:17+00:00",
+      "fetched_at": "2026-10-13T15:19:03.100910+00:00"
+    },
+    {
+      "id": "2507263d75b5",
+      "title": "Junior Software Engineer | Apply on Job - Micro1",
+      "company": "Apply on Job - Micro1",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.micro1.ai/post/29ba0d51-2d9f-412e-ad19-5f28a76ca96e",
+      "source": "Other",
+      "description": "Junior Software Engineer . $150 - $200/hourpay. Required Skills. System Design. Code Review. Debugging. Algorithms. Data Structures. Software ...",
+      "date": "2026-10-13",
+      "timestamp": "2026-10-13T05:21:48+00:00",
+      "fetched_at": "2026-10-13T15:19:03.101028+00:00"
+    },
+    {
+      "id": "dcde89f24019",
+      "title": "Staff Software Engineer - Pearson",
+      "company": "Pearson",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://pearson.jobs/virtual-esp/staff-software-engineer/540E93C4923F422391EEA89B685630BD/job/",
+      "source": "Other",
+      "description": "Staff Software Engineer . ESP. Workplace Type: Remote. Job: Engineering; Schedule: FULL_TIME; Req ID: 26236. Staff Android Engineer. Who we are. At ...",
+      "date": "2026-10-13",
+      "timestamp": "2026-10-13T04:52:54+00:00",
+      "fetched_at": "2026-10-13T15:19:03.101177+00:00"
+    },
     {
       "id": "ff0ad7647f6b",
       "title": "Software Engineer Job Details - AGCO Careers",
