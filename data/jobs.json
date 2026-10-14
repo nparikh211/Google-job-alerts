@@ -1,26 +1,26 @@
 {
-  "last_updated": "2026-10-14T19:58:59.921577+00:00",
-  "total_jobs": 11407,
+  "last_updated": "2026-10-14T22:57:26.209202+00:00",
+  "total_jobs": 11415,
   "stats": {
-    "total_companies": 5128,
+    "total_companies": 5131,
     "total_roles": 148,
     "regions": {
-      "India": 7542,
-      "Philippines": 2381,
-      "Remote": 1400,
+      "India": 7546,
+      "Philippines": 2383,
+      "Remote": 1402,
       "Unknown": 135
     },
     "sources": {
-      "Other": 8926,
+      "Other": 8930,
       "Greenhouse": 577,
-      "LinkedIn": 494,
-      "Workday": 482,
+      "LinkedIn": 495,
+      "Workday": 483,
       "Ashby": 352,
       "iCIMS": 143,
-      "Breezy": 121,
+      "Breezy": 122,
       "Workable": 78,
       "Lever": 75,
-      "SmartRecruiters": 73,
+      "SmartRecruiters": 74,
       "Indeed": 39,
       "Recruitee": 12,
       "BrassRing": 11,
@@ -35,6 +35,66 @@
     }
   },
   "jobs": [
+    {
+      "id": "3925cfee59d9",
+      "title": "Graduate software engineer , US - Jobs | Bending Spoons",
+      "company": "Jobs | Bending Spoons",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.bendingspoons.com/positions/6ace4e547cbcd6cf9947b5b0",
+      "source": "Other",
+      "description": "Graduate software engineer , US. Atlanta (GA), Boston (MA), Miami (FL), New York (NY), or fully remote from eligible countries. Permanent or fixed ...",
+      "date": "2026-10-14",
+      "timestamp": "2026-10-14T22:06:23+00:00",
+      "fetched_at": "2026-10-14T22:57:25.890415+00:00"
+    },
+    {
+      "id": "0aa8441e235b",
+      "title": "Software Engineer \u2013 Graduate Program (Bootcamp) at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/petah-tikva/software-engineer-graduate-program-bootcamp/47263/101948148512",
+      "source": "Other",
+      "description": "Software Engineer \u2013 Graduate Program (Bootcamp). Petach Tikva, Israel Product Engineering Ref ID: JR-023624. Apply Save Job.",
+      "date": "2026-10-14",
+      "timestamp": "2026-10-14T21:13:55+00:00",
+      "fetched_at": "2026-10-14T22:57:25.890644+00:00"
+    },
+    {
+      "id": "a604320aaed6",
+      "title": "Senior Data Engineer at NationsBenefits, LLC",
+      "company": "Nationsbenefits",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://nationsbenefits.breezy.hr/p/d4e15fd00c84-senior-data-engineer",
+      "source": "Breezy",
+      "description": "Senior Data Engineer \u00b7 NationsBenefits is recognized as one of the fastest-growing companies in America and a Healthcare Fintech provider of ...",
+      "date": "2026-10-14",
+      "timestamp": "2026-10-14T20:41:59+00:00",
+      "fetched_at": "2026-10-14T22:57:25.890769+00:00"
+    },
+    {
+      "id": "24276daf648a",
+      "title": "Ali Oxford - Summer 2027 Intern:: Software Engineer II - LinkedIn",
+      "company": "Ali Oxford",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/posts/ali-oxford_summer-2027-intern-software-engineer-ii-activity-7515815301041786881-kWj-",
+      "source": "LinkedIn",
+      "description": "Know someone who might be interested? Feel free to share! Summer 2027 Intern:: Software Engineer II Summer 2027 Intern:: Software Engineer II walmart.",
+      "date": "2026-10-14",
+      "timestamp": "2026-10-14T18:53:22+00:00",
+      "fetched_at": "2026-10-14T22:57:26.157972+00:00"
+    },
     {
       "id": "fb3f4afd482e",
       "title": "Software Engineer I - Job ID: 10578558 - Amazon Careers",
@@ -51,6 +111,21 @@
       "fetched_at": "2026-10-14T19:58:59.645972+00:00"
     },
     {
+      "id": "311c3b04a1bd",
+      "title": "Senior Software Engineer , Agentic AI - Myworkdayjobs.com",
+      "company": "Autodesk",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Senior-Software-Engineer--Agentic-AI_26WD101603-2",
+      "source": "Workday",
+      "description": "Job Requisition ID # 26WD101603 Position Overview We are seeking an experienced Senior Software Engineer to design, build, and operate resilient, ...",
+      "date": "2026-10-14",
+      "timestamp": "2026-10-14T18:34:26+00:00",
+      "fetched_at": "2026-10-14T22:57:25.891170+00:00"
+    },
+    {
       "id": "9cb85d8a315e",
       "title": "Software Engineer in Bengaluru, India | Engineering at eBay - EBay Careers",
       "company": "eBay",
@@ -64,6 +139,21 @@
       "date": "2026-10-14",
       "timestamp": "2026-10-14T18:21:30+00:00",
       "fetched_at": "2026-10-14T19:58:59.646160+00:00"
+    },
+    {
+      "id": "897823b3a414",
+      "title": "Azure Data Engineer | Mitchell Martin",
+      "company": "Mitchell Martin",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.mitchellmartin.com/blog/job/azure-data-engineer-3",
+      "source": "Other",
+      "description": "Azure Data Engineer - Charlotte, NC - Contract - $70-80 Per HR Design and build data solutions using cloud-based technologies in a remote setting.",
+      "date": "2026-10-14",
+      "timestamp": "2026-10-14T18:13:54+00:00",
+      "fetched_at": "2026-10-14T22:57:25.891567+00:00"
     },
     {
       "id": "98ba3dc502be",
@@ -156,6 +246,21 @@
       "fetched_at": "2026-10-14T19:58:59.647699+00:00"
     },
     {
+      "id": "6ddd73b55e03",
+      "title": "Software Engineer , ASE Commerce Engineering - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200688902-2459/software-engineer-ase-commerce-engineering",
+      "source": "Other",
+      "description": "Apply for a Software Engineer , ASE Commerce Engineering job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-10-14",
+      "timestamp": "2026-10-14T16:53:26+00:00",
+      "fetched_at": "2026-10-14T22:57:25.892814+00:00"
+    },
+    {
       "id": "18c286540b2d",
       "title": "Java Software Engineer , Data Platform | Citi Careers",
       "company": "Citi Careers",
@@ -214,6 +319,21 @@
       "date": "2026-10-14",
       "timestamp": "2026-10-14T16:14:47+00:00",
       "fetched_at": "2026-10-14T19:58:59.648300+00:00"
+    },
+    {
+      "id": "815d648414b7",
+      "title": "H&M Group Software Engineer - Frontend (ReactJS, NextJs) | SmartRecruiters",
+      "company": "Hmgroup",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.smartrecruiters.com/HMGroup/744000155482000-software-engineer-frontend-reactjs-nextjs-",
+      "source": "SmartRecruiters",
+      "description": "Software Engineer - Frontend (ReactJS, NextJs) ... Other jobs at H&M. Software Engineer . Stockholm, Sweden. Senior Software Engineer , Frontend \u2013 Web ...",
+      "date": "2026-10-14",
+      "timestamp": "2026-10-14T16:03:53+00:00",
+      "fetched_at": "2026-10-14T22:57:26.160822+00:00"
     },
     {
       "id": "94a97f661f9a",
