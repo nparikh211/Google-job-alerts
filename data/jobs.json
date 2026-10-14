@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-10-13T20:50:29.431611+00:00",
-  "total_jobs": 11332,
+  "last_updated": "2026-10-14T02:14:49.366076+00:00",
+  "total_jobs": 11346,
   "stats": {
-    "total_companies": 5105,
+    "total_companies": 5109,
     "total_roles": 147,
     "regions": {
-      "India": 7495,
-      "Philippines": 2369,
-      "Remote": 1384,
+      "India": 7505,
+      "Philippines": 2372,
+      "Remote": 1385,
       "Unknown": 135
     },
     "sources": {
-      "Other": 8875,
+      "Other": 8885,
       "Greenhouse": 570,
       "LinkedIn": 492,
-      "Workday": 479,
-      "Ashby": 348,
+      "Workday": 480,
+      "Ashby": 349,
       "iCIMS": 143,
       "Breezy": 116,
       "Workable": 78,
-      "Lever": 74,
+      "Lever": 75,
       "SmartRecruiters": 72,
       "Indeed": 39,
-      "Recruitee": 11,
+      "Recruitee": 12,
       "BrassRing": 11,
       "Jobvite": 8,
       "WeWorkRemotely": 7,
@@ -35,6 +35,111 @@
     }
   },
   "jobs": [
+    {
+      "id": "a483534cdf75",
+      "title": "Senior Data Engineer Lake Buena Vista FLORIDA - INSPYR Solutions",
+      "company": "INSPYR Solutions",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.inspyrsolutions.com/job/26-159953-senior-data-engineer-lake-buena-vista-fl/",
+      "source": "Other",
+      "description": "Senior Data Engineer . Posted at: 10/12/2026. Onsite - IT - Business Systems / Data / Analyst - Contract - Job ID: 26-159953. The Disney Decision ...",
+      "date": "2026-10-13",
+      "timestamp": "2026-10-13T23:22:29+00:00",
+      "fetched_at": "2026-10-14T02:14:49.255713+00:00"
+    },
+    {
+      "id": "a9926a2c0b76",
+      "title": "Software Engineer , Spark Platform - DoorDash",
+      "company": "DoorDash",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careersatdoordash.com/jobs/software-engineer-spark-platform/8192190",
+      "source": "Other",
+      "description": "Software Engineer , Spark Platform. Apply To Job. Job ID: 3544891. DoorDash, Inc. San Francisco, CA; Sunnyvale, CA; Seattle, WA; New York City, NY ...",
+      "date": "2026-10-13",
+      "timestamp": "2026-10-13T22:37:37+00:00",
+      "fetched_at": "2026-10-14T02:14:49.318545+00:00"
+    },
+    {
+      "id": "f25cde0187aa",
+      "title": "Software Engineer , Data Engineering - DoorDash",
+      "company": "DoorDash",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careersatdoordash.com/jobs/software-engineer-data-engineering/8192116",
+      "source": "Other",
+      "description": "About the Role. DoorDash is looking for a Software Engineer to be a technical powerhouse to help us scale our data infrastructure, automation and ...",
+      "date": "2026-10-13",
+      "timestamp": "2026-10-13T22:35:30+00:00",
+      "fetched_at": "2026-10-14T02:14:49.255929+00:00"
+    },
+    {
+      "id": "a4ca84e35e08",
+      "title": "Embedded Software Engineer - Vision, Sunnyvale, CA, United States",
+      "company": "Vision, Sunnyvale, CA, United States",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.intuitive.com/en/jobs/744000155363501/JOB219916/embedded-software-engineer-vision/",
+      "source": "Other",
+      "description": "Embedded Software Engineer - Vision ... Oh no! We failed to fetch the stories from CultureHQ. Please refresh to try again. If this continues to happen, ...",
+      "date": "2026-10-13",
+      "timestamp": "2026-10-13T21:51:42+00:00",
+      "fetched_at": "2026-10-14T02:14:49.256133+00:00"
+    },
+    {
+      "id": "1e384d35460e",
+      "title": "Lead Full Stack Engineer - Myworkdayjobs.com",
+      "company": "Collegeboard",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://collegeboard.wd1.myworkdayjobs.com/en-US/Careers/job/Lead-Full-Stack-Engineer_REQ002955",
+      "source": "Workday",
+      "description": "Lead Full Stack Engineer . Apply ... Check out our careers page for more. #LI-Remote. #LI-TheAcorn. Similar Jobs (7). Senior Software Engineer .",
+      "date": "2026-10-13",
+      "timestamp": "2026-10-13T21:11:25+00:00",
+      "fetched_at": "2026-10-14T02:14:49.256243+00:00"
+    },
+    {
+      "id": "2e5dd61de411",
+      "title": "Software Engineer (Early Career) - Careers at Constructive Dialogue Institute",
+      "company": "Constructivedialogue",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://constructivedialogue.recruitee.com/o/software-engineer-early-career",
+      "source": "Recruitee",
+      "description": "CDI is looking for an early-career software engineer to grow into full ownership of our learning platform alongside and mentored by our senior ...",
+      "date": "2026-10-13",
+      "timestamp": "2026-10-13T21:08:43+00:00",
+      "fetched_at": "2026-10-14T02:14:49.256388+00:00"
+    },
+    {
+      "id": "7ae7e38d3e78",
+      "title": "AI Engineering - Assoc Software Engineer Internships - Summer 2027 (Bachelors)",
+      "company": "AI Engineering",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.servicenow.com/jobs/744000155345889/ai-engineering-assoc-software-engineer-internships-summer-2027-bachelors/",
+      "source": "Other",
+      "description": "AI Engineering - Assoc Software Engineer ... Senior Staff (DevOps) Machine Learning Engineer . Save Saved. Santa Clara. Principal Software Engineer .",
+      "date": "2026-10-13",
+      "timestamp": "2026-10-13T20:45:19+00:00",
+      "fetched_at": "2026-10-14T02:14:49.256687+00:00"
+    },
     {
       "id": "69164fb2dee6",
       "title": "Data Engineer job - Experis USA - 401453",
@@ -49,6 +154,21 @@
       "date": "2026-10-13",
       "timestamp": "2026-10-13T20:09:45+00:00",
       "fetched_at": "2026-10-13T20:50:29.305720+00:00"
+    },
+    {
+      "id": "a843dc0a0540",
+      "title": "Zoox - Machine Learning Engineer - 3D Sensor Simulation - Lever",
+      "company": "Zoox",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.lever.co/zoox/2347453a-f11f-4dc2-ad14-572bc1f6247f",
+      "source": "Lever",
+      "description": "Machine Learning Engineer - 3D Sensor Simulation ... The Zoox 3D Sensor Simulation team's work is at the core of creating in-the-loop simulation and ...",
+      "date": "2026-10-13",
+      "timestamp": "2026-10-13T20:05:01+00:00",
+      "fetched_at": "2026-10-14T02:14:49.319473+00:00"
     },
     {
       "id": "76f03cbd3bec",
@@ -66,6 +186,66 @@
       "fetched_at": "2026-10-13T20:50:29.305990+00:00"
     },
     {
+      "id": "6e6ee57a1137",
+      "title": "Data Engineer - University of Tennessee Career Site Careers - Cloud Sign In",
+      "company": "University of Tennessee Career Site Careers - Cloud Sign In",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://fa-ewlq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10350",
+      "source": "Other",
+      "description": "Job Description. The University of Tennessee Foundation, Inc (UTFI) invites applications and nominations to fill the position of Data Engineer .",
+      "date": "2026-10-13",
+      "timestamp": "2026-10-13T19:44:59+00:00",
+      "fetched_at": "2026-10-14T02:14:49.257367+00:00"
+    },
+    {
+      "id": "2b1c4a164e33",
+      "title": "Software Engineer , AI Platform @ Chai Discovery - Jobs",
+      "company": "Chaidiscovery",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/chaidiscovery/ad8dd3de-8139-4385-8c5a-566a359e9be0",
+      "source": "Ashby",
+      "description": "Software Engineer , AI Platform. Location. San Francisco office. Employment Type. Full time. Department. Platform & Products. OverviewApplication ...",
+      "date": "2026-10-13",
+      "timestamp": "2026-10-13T19:37:07+00:00",
+      "fetched_at": "2026-10-14T02:14:49.319756+00:00"
+    },
+    {
+      "id": "194a4f131717",
+      "title": "Senior Software Engineer , Backend (All Teams) - DoorDash",
+      "company": "DoorDash",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careersatdoordash.com/jobs/senior-software-engineer-backend-all-teams/8136498",
+      "source": "Other",
+      "description": "Senior Software Engineer , Backend (All Teams). Apply To Job. Job ID: 3521889. DoorDash, Inc. San Francisco, CA; New York City, NY; Sunnyvale, CA ...",
+      "date": "2026-10-13",
+      "timestamp": "2026-10-13T19:34:20+00:00",
+      "fetched_at": "2026-10-14T02:14:49.257595+00:00"
+    },
+    {
+      "id": "7698fd26b0b9",
+      "title": "Senior Software Engineer , Machine Learning - DoorDash",
+      "company": "DoorDash",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careersatdoordash.com/jobs/senior-software-engineer-machine-learning/8143205",
+      "source": "Other",
+      "description": "About the Role As a Senior Software Engineer , Machine Learning, you'll be conceptualizing, designing, implementing, and validating algorithmic ...",
+      "date": "2026-10-13",
+      "timestamp": "2026-10-13T19:34:19+00:00",
+      "fetched_at": "2026-10-14T02:14:49.257789+00:00"
+    },
+    {
       "id": "3f0781b2fc9e",
       "title": "Staff Software Engineer , Notification Hub & Experience - DoorDash",
       "company": "DoorDash",
@@ -81,6 +261,21 @@
       "fetched_at": "2026-10-13T20:50:29.306517+00:00"
     },
     {
+      "id": "c95575de9f48",
+      "title": "Senior Software Engineer II in Virtual, IL, United States - careers at CDW",
+      "company": "CDW",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.cdwjobs.com/jobs/18352908-senior-software-engineer-ii",
+      "source": "Other",
+      "description": "Senior Software Engineer II ... Job Summary: The SR Software Engineer II supports business solutions. The purpose of this role is to develop business ...",
+      "date": "2026-10-13",
+      "timestamp": "2026-10-13T19:23:32+00:00",
+      "fetched_at": "2026-10-14T02:14:49.258135+00:00"
+    },
+    {
       "id": "3dd36df954ce",
       "title": "Job Application for Software Engineer , Lab Platform at Arc Institute - Greenhouse",
       "company": "Arcinstitute",
@@ -94,6 +289,21 @@
       "date": "2026-10-13",
       "timestamp": "2026-10-13T19:13:03+00:00",
       "fetched_at": "2026-10-13T20:50:29.306649+00:00"
+    },
+    {
+      "id": "b88e53ec5ac7",
+      "title": "Senior Software Engineer - FullStack - Gurugram, Haryana, India - GoDaddy Careers",
+      "company": "FullStack - Gurugram, Haryana, India - GoDaddy Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.godaddy/jobs/senior-software-engineer-fullstack-gurugram-haryana-india-1d58b8ae-5294-40ad-ad69-3391801a8a7e",
+      "source": "Other",
+      "description": "Senior Software Engineer - FullStack \u00b7 Design, develop, and maintain secure, highly available, fault-tolerant, and globally performant code deployed on ...",
+      "date": "2026-10-13",
+      "timestamp": "2026-10-13T18:43:10+00:00",
+      "fetched_at": "2026-10-14T02:14:49.258636+00:00"
     },
     {
       "id": "b350527cbf13",
