@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-10-14T22:57:26.209202+00:00",
-  "total_jobs": 11415,
+  "last_updated": "2026-10-15T01:56:07.923975+00:00",
+  "total_jobs": 11420,
   "stats": {
-    "total_companies": 5131,
+    "total_companies": 5134,
     "total_roles": 148,
     "regions": {
-      "India": 7546,
-      "Philippines": 2383,
-      "Remote": 1402,
+      "India": 7547,
+      "Philippines": 2384,
+      "Remote": 1405,
       "Unknown": 135
     },
     "sources": {
-      "Other": 8930,
+      "Other": 8934,
       "Greenhouse": 577,
       "LinkedIn": 495,
-      "Workday": 483,
+      "Workday": 484,
       "Ashby": 352,
       "iCIMS": 143,
       "Breezy": 122,
@@ -35,6 +35,21 @@
     }
   },
   "jobs": [
+    {
+      "id": "c9f889a835a8",
+      "title": "Data Engineer - Vaga para mulheres - DoorDash",
+      "company": "Vaga para mulheres - DoorDash",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careersatdoordash.com/jobs/data-engineer---vaga-para-mulheres/8195669",
+      "source": "Other",
+      "description": "Data Engineer - Vaga para mulheres. Apply To Job. Job ID: 3546924. Doordash Tecnologias Do Brasil LTDA. S\u00e3o Paulo, Brazil. Engineering the future of ...",
+      "date": "2026-10-14",
+      "timestamp": "2026-10-14T22:57:58+00:00",
+      "fetched_at": "2026-10-15T01:56:07.876511+00:00"
+    },
     {
       "id": "3925cfee59d9",
       "title": "Graduate software engineer , US - Jobs | Bending Spoons",
@@ -79,6 +94,36 @@
       "date": "2026-10-14",
       "timestamp": "2026-10-14T20:41:59+00:00",
       "fetched_at": "2026-10-14T22:57:25.890769+00:00"
+    },
+    {
+      "id": "cc4f8a28a785",
+      "title": "Remote AI Engineer | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "AI Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.apexsystems.com/job/3055878_usa/remote-ai-engineer",
+      "source": "Other",
+      "description": "We are seeking a talented AI Engineer to develop innovative solutions using generative AI, agentic systems, machine learning (ML), Large Language ...",
+      "date": "2026-10-14",
+      "timestamp": "2026-10-14T20:11:22+00:00",
+      "fetched_at": "2026-10-15T01:56:07.770402+00:00"
+    },
+    {
+      "id": "1ce73cf304ec",
+      "title": "Software Engineer I (Remote) - Myworkdayjobs.com",
+      "company": "Signetjewelers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://signetjewelers.wd1.myworkdayjobs.com/en-US/SignetCorporateCareers/job/Software-Engineer-I--Remote-_REQ_83354-1",
+      "source": "Workday",
+      "description": "There are dynamic career paths awaiting you \u2013 rewarding opportunities to impact the lives of others and inspire love. Join us! Software Engineer - ...",
+      "date": "2026-10-14",
+      "timestamp": "2026-10-14T20:01:04+00:00",
+      "fetched_at": "2026-10-15T01:56:07.770747+00:00"
     },
     {
       "id": "24276daf648a",
@@ -186,6 +231,21 @@
       "fetched_at": "2026-10-14T19:58:59.646912+00:00"
     },
     {
+      "id": "de3d13687736",
+      "title": "Senior Data Engineer - Jobs at Nucor",
+      "company": "Nucor",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.nucor.com/job/Waterloo-Senior-Data-Engineer-IN-46793/1439970700/",
+      "source": "Other",
+      "description": "Basic Job Functions: NBT's Data & Analytics team is seeking a Senior Data Engineer to build upon the data platform, its standards, and its roadmap ...",
+      "date": "2026-10-14",
+      "timestamp": "2026-10-14T17:45:10+00:00",
+      "fetched_at": "2026-10-15T01:56:07.773024+00:00"
+    },
+    {
       "id": "4adf998d073c",
       "title": "Staff Software Engineer , Care Experience - Remote, United States - Toast",
       "company": "Remote, United States - Toast",
@@ -199,6 +259,21 @@
       "date": "2026-10-14",
       "timestamp": "2026-10-14T17:37:22+00:00",
       "fetched_at": "2026-10-14T19:58:59.872760+00:00"
+    },
+    {
+      "id": "086a51be5909",
+      "title": "Senior Data Engineer IS - Remote - Providence.jobs",
+      "company": "Remote - Providence.jobs",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://providence.jobs/richland-wa/senior-data-engineer-is-remote/6917185CBE0843DAACBFAA6946A824AD/job/",
+      "source": "Other",
+      "description": "Providence is seeking an Experienced Senior Data Engineer to be part of the evolution of the organization's enterprise data platform strategy, ...",
+      "date": "2026-10-14",
+      "timestamp": "2026-10-14T17:20:24+00:00",
+      "fetched_at": "2026-10-15T01:56:07.773743+00:00"
     },
     {
       "id": "68cec59fa107",
