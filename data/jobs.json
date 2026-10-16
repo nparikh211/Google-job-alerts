@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-10-16T08:32:01.744924+00:00",
-  "total_jobs": 11506,
+  "last_updated": "2026-10-16T15:36:46.176544+00:00",
+  "total_jobs": 11521,
   "stats": {
-    "total_companies": 5175,
+    "total_companies": 5180,
     "total_roles": 149,
     "regions": {
-      "India": 7612,
-      "Philippines": 2399,
-      "Remote": 1411,
+      "India": 7614,
+      "Philippines": 2411,
+      "Remote": 1412,
       "Unknown": 135
     },
     "sources": {
-      "Other": 9001,
+      "Other": 9015,
       "Greenhouse": 582,
       "LinkedIn": 500,
       "Workday": 486,
-      "Ashby": 355,
+      "Ashby": 356,
       "iCIMS": 144,
       "Breezy": 123,
       "Workable": 78,
@@ -36,6 +36,186 @@
   },
   "jobs": [
     {
+      "id": "ce59ba98e567",
+      "title": "Software Engineer in Bangalore, India | Product and Engineering at Cisco - Cisco Careers",
+      "company": "Cisco",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2026139EXTERNALENGLOBAL/Software-Engineer",
+      "source": "Other",
+      "description": "Join our team as a senior Software Engineer to lead the design and development of Cisco's IIoT management strategy, focusing on operational technology ...",
+      "date": "2026-10-16",
+      "timestamp": "2026-10-16T13:12:59+00:00",
+      "fetched_at": "2026-10-16T15:36:46.123203+00:00"
+    },
+    {
+      "id": "06d02fc1dbd5",
+      "title": "Software Engineer (Early Career) at Constructive Dialogue Institute | Tech Jobs for Good",
+      "company": "Constructive Dialogue Institute",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://techjobsforgood.com/jobs/36947/",
+      "source": "Other",
+      "description": "The Role. We're seeking an early-career Software Engineer to help build the technology behind CDI's learning programs. You'll work on Perspectives, ...",
+      "date": "2026-10-16",
+      "timestamp": "2026-10-16T12:15:45+00:00",
+      "fetched_at": "2026-10-16T15:36:46.123380+00:00"
+    },
+    {
+      "id": "bbe5dee1fe77",
+      "title": "Senior Data Engineer Job Details | Grainger Businesses",
+      "company": "Grainger Businesses",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.grainger.com/job/LAKE-FOREST-Senior-Data-Engineer-IL-60045-5202/1440415700/",
+      "source": "Other",
+      "description": "Senior Data Engineer . Apply now \u00bb. Date: Oct 15, 2026. Location: LAKE FOREST, IL, US, 60045-5202. Company: Grainger Businesses. Work Location Type ...",
+      "date": "2026-10-16",
+      "timestamp": "2026-10-16T11:59:02+00:00",
+      "fetched_at": "2026-10-16T15:36:46.123589+00:00"
+    },
+    {
+      "id": "a962e766130d",
+      "title": "Senior AI DevOps Engineer - San Jose, California, United States | Roku Jobs",
+      "company": "San Jose, California, United States | Roku Jobs",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.weareroku.com/jobs/senior-ai-devops-engineer-san-jose-california-united-states",
+      "source": "Other",
+      "description": "Senior AI DevOps Engineer . Software Engineering | San Jose, United ... Senior Software Engineer , Web Development \u2013 AI, Oxford Road, Manchester ...",
+      "date": "2026-10-16",
+      "timestamp": "2026-10-16T11:51:26+00:00",
+      "fetched_at": "2026-10-16T15:36:46.123853+00:00"
+    },
+    {
+      "id": "dfe7334b5349",
+      "title": "Senior Software Engineer @ LanceDB - Jobs",
+      "company": "Lancedb",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/lancedb/3a984b21-7b04-44c8-b8be-471526dc66e0",
+      "source": "Ashby",
+      "description": "We're hiring a Senior Software Engineer at LanceDB! Help shape the future of multimodal AI by working on the LanceDB software stack.",
+      "date": "2026-10-16",
+      "timestamp": "2026-10-16T11:38:57+00:00",
+      "fetched_at": "2026-10-16T15:36:46.124016+00:00"
+    },
+    {
+      "id": "593da3399020",
+      "title": "Data Engineer - Symple Lending - Career Page",
+      "company": "Symple Lending - Career Page",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://symplelendingllc.applytojob.com/apply/Msrflwyfn7/Data-Engineer",
+      "source": "Other",
+      "description": "In this role, you'll work directly with our Senior Data Engineer to maintain and enhance the cloud infrastructure and data pipelines that power our ...",
+      "date": "2026-10-16",
+      "timestamp": "2026-10-16T08:02:52+00:00",
+      "fetched_at": "2026-10-16T15:36:46.124314+00:00"
+    },
+    {
+      "id": "f21e43e0410a",
+      "title": "Software Engineer to AI Engineer Before 2027: Complete Roadmap - YouTube",
+      "company": "YouTube",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.youtube.com/watch?v=ZQ-YD96JPqQ",
+      "source": "Other",
+      "description": "Best courses to transition from software engineer to AI engineer : DataCamp Associate AI Engineer for Developers Track ...",
+      "date": "2026-10-16",
+      "timestamp": "2026-10-16T07:52:25+00:00",
+      "fetched_at": "2026-10-16T15:36:46.124545+00:00"
+    },
+    {
+      "id": "25691e86c73b",
+      "title": "Software Engineer Intern (Recommendation Performance Efficiency) - 2027 Summer",
+      "company": "2027 Summer",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://lifeattiktok.com/search/7673636206961641781",
+      "source": "Other",
+      "description": "View our opening for Software Engineer Intern (Recommendation Performance Efficiency) - 2027 Summer and learn more about what it's like to work at ...",
+      "date": "2026-10-16",
+      "timestamp": "2026-10-16T07:16:30+00:00",
+      "fetched_at": "2026-10-16T15:36:46.124817+00:00"
+    },
+    {
+      "id": "4a9f92d44c77",
+      "title": "Senior AI Engineer Job Details | Penguin Solutions",
+      "company": "Penguin Solutions",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.penguinsolutions.com/job/Senior-AI-Engineer/1440525100/",
+      "source": "Other",
+      "description": "Senior AI Engineer . ... As an Senior AI/ ML Engineer , you will be a hands-on technical expert ...",
+      "date": "2026-10-16",
+      "timestamp": "2026-10-16T06:59:41+00:00",
+      "fetched_at": "2026-10-16T15:36:46.125072+00:00"
+    },
+    {
+      "id": "3ba7318f5722",
+      "title": "Machine Learning Engineer , System Experience - Proactive - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200689638-0836/machine-learning-engineer-system-experience-proactive",
+      "source": "Other",
+      "description": "Apply for a Machine Learning Engineer , System Experience - Proactive job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-10-16",
+      "timestamp": "2026-10-16T06:40:01+00:00",
+      "fetched_at": "2026-10-16T15:36:46.125428+00:00"
+    },
+    {
+      "id": "3ae71ada4f86",
+      "title": "Senior AI Engineer in Trivandrum, KL, India - Envestnet Careers",
+      "company": "Envestnet Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.envestnet.com/jobs/18364244-senior-ai-engineer",
+      "source": "Other",
+      "description": "Senior AI Engineer \u00b7 Experience integrating AI/ML solutions with enterprise platforms such as wealth management systems, data lake houses, and identity ...",
+      "date": "2026-10-16",
+      "timestamp": "2026-10-16T06:32:45+00:00",
+      "fetched_at": "2026-10-16T15:36:46.125697+00:00"
+    },
+    {
+      "id": "50f03f921834",
+      "title": "Frontend Software Engineer - Frameworks & Dev Platforms - Lowe's Careers",
+      "company": "Frameworks & Dev Platforms - Lowe's Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://talent.lowes.com/us/en/job/JR-02671814/Frontend-Software-Engineer-Frameworks-Dev-Platforms",
+      "source": "Other",
+      "description": "Seeking a Senior Software Engineer to design, develop, and maintain scalable Search Platform solutions using OpenSearch/Elasticsearch and cloud-native ...",
+      "date": "2026-10-16",
+      "timestamp": "2026-10-16T04:45:38+00:00",
+      "fetched_at": "2026-10-16T15:36:46.126062+00:00"
+    },
+    {
       "id": "2db739df8093",
       "title": "Senior Software Engineer II, Applied AI @ Wrapbook - Jobs",
       "company": "Wrapbook",
@@ -49,6 +229,51 @@
       "date": "2026-10-16",
       "timestamp": "2026-10-16T04:44:56+00:00",
       "fetched_at": "2026-10-16T08:32:01.354283+00:00"
+    },
+    {
+      "id": "f78b1798092d",
+      "title": "ServiceNow Software Engineer Intern at CHS Inc",
+      "company": "CHS Inc",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.chsinc.com/job/inver-grove-heights/servicenow-software-engineer-intern/34006/101896829440",
+      "source": "Other",
+      "description": "ServiceNow Software Engineer Intern. Location Remote Date posted 10/15/2026 Job ID 25388 Salary range $17.00 - $25.00 /hr Schedule Seasonal ...",
+      "date": "2026-10-16",
+      "timestamp": "2026-10-16T04:15:37+00:00",
+      "fetched_at": "2026-10-16T15:36:46.126394+00:00"
+    },
+    {
+      "id": "bd43dce4dc10",
+      "title": "Full-Stack Software Engineer , Intelligence & Investigations | OpenAI",
+      "company": "Full",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://openai.com/careers/full-stack-software-engineer-intelligence-and-investigations-san-francisco/",
+      "source": "Other",
+      "description": "Full-Stack Software Engineer , Intelligence & Investigations. Applied AI ... 4+ years of experience as a software engineer . Experience designing ...",
+      "date": "2026-10-16",
+      "timestamp": "2026-10-16T03:30:43+00:00",
+      "fetched_at": "2026-10-16T15:36:46.127177+00:00"
+    },
+    {
+      "id": "166bcb25a584",
+      "title": "Sr. Software Engineer at Cargill - Careers",
+      "company": "Cargill",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.cargill.com/en/job/wayzata/sr-software-engineer/23251/102015168016",
+      "source": "Other",
+      "description": "Software Engineer . Sr. Software Engineer . Apply Now Save Job Remove Job. Job ID 335408 Date posted 10/15/2026 Location : Wayzata, Minnesota Category ...",
+      "date": "2026-10-16",
+      "timestamp": "2026-10-16T02:42:21+00:00",
+      "fetched_at": "2026-10-16T15:36:46.127470+00:00"
     },
     {
       "id": "1fc935752791",
