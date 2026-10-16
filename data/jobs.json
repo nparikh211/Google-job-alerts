@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-10-16T01:46:15.643949+00:00",
-  "total_jobs": 11497,
+  "last_updated": "2026-10-16T08:32:01.744924+00:00",
+  "total_jobs": 11506,
   "stats": {
-    "total_companies": 5169,
+    "total_companies": 5175,
     "total_roles": 149,
     "regions": {
-      "India": 7607,
-      "Philippines": 2396,
-      "Remote": 1410,
+      "India": 7612,
+      "Philippines": 2399,
+      "Remote": 1411,
       "Unknown": 135
     },
     "sources": {
-      "Other": 8995,
-      "Greenhouse": 581,
+      "Other": 9001,
+      "Greenhouse": 582,
       "LinkedIn": 500,
       "Workday": 486,
-      "Ashby": 354,
+      "Ashby": 355,
       "iCIMS": 144,
       "Breezy": 123,
       "Workable": 78,
-      "SmartRecruiters": 75,
+      "SmartRecruiters": 76,
       "Lever": 75,
       "Indeed": 39,
       "Recruitee": 12,
@@ -36,6 +36,21 @@
   },
   "jobs": [
     {
+      "id": "2db739df8093",
+      "title": "Senior Software Engineer II, Applied AI @ Wrapbook - Jobs",
+      "company": "Wrapbook",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.ashbyhq.com/wrapbook/52715b76-a189-4554-b77f-cf8485e1229c",
+      "source": "Ashby",
+      "description": "Compensation \u00b7 About Us: Wrapbook is the AI platform for production finance. \u00b7 The Opportunity: Senior Software Engineer II, Applied AI (Remote - USA / ...",
+      "date": "2026-10-16",
+      "timestamp": "2026-10-16T04:44:56+00:00",
+      "fetched_at": "2026-10-16T08:32:01.354283+00:00"
+    },
+    {
       "id": "1fc935752791",
       "title": "Job Application for Senior Full Stack Engineer , AgentControl at LaunchDarkly - Greenhouse",
       "company": "Launchdarkly",
@@ -51,6 +66,36 @@
       "fetched_at": "2026-10-16T01:46:15.594256+00:00"
     },
     {
+      "id": "02910f725845",
+      "title": "Data Engineer , Robotics Delivery and Packaging Innovation - Job ID - Amazon Careers",
+      "company": "Job ID - Amazon Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://amazon.jobs/jobs/10579596",
+      "source": "Other",
+      "description": "Data Engineer , Robotics Delivery and Packaging Innovation. Job ID ... Software Engineer I. Location: US, Washington, Seattle. Posted: December ...",
+      "date": "2026-10-16",
+      "timestamp": "2026-10-16T00:57:19+00:00",
+      "fetched_at": "2026-10-16T08:32:01.709167+00:00"
+    },
+    {
+      "id": "db2b1776af33",
+      "title": "Data Engineer in Gurugram, Haryana, India | Digital Technology at United Airlines",
+      "company": "United Airlines",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.united.com/us/en/job/GGN00002706/Data-Engineer",
+      "source": "Other",
+      "description": "Apply for Data Engineer job with United Airlines in Gurugram, Haryana, India. Digital Technology at United Airlines.",
+      "date": "2026-10-16",
+      "timestamp": "2026-10-16T00:56:27+00:00",
+      "fetched_at": "2026-10-16T08:32:01.709235+00:00"
+    },
+    {
       "id": "4f201177d38c",
       "title": "Senior Software Engineer - Data Engineering | Rocket Lab",
       "company": "Senior Software Engineer",
@@ -64,6 +109,81 @@
       "date": "2026-10-16",
       "timestamp": "2026-10-16T00:34:39+00:00",
       "fetched_at": "2026-10-16T01:46:15.508197+00:00"
+    },
+    {
+      "id": "490ac03878c0",
+      "title": "Job Application for Senior Software Engineer - Infrastructure at Pie Insurance - Greenhouse",
+      "company": "Pieinsurance",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/pieinsurance/jobs/6220010004",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer - Infrastructure. United States. Apply. Pie's mission is to empower small businesses to thrive by making commercial ...",
+      "date": "2026-10-16",
+      "timestamp": "2026-10-16T00:17:53+00:00",
+      "fetched_at": "2026-10-16T08:32:01.354927+00:00"
+    },
+    {
+      "id": "e0aa18660fb3",
+      "title": "Senior Software Engineer (Full-stack) at Swiftly | Tech Jobs for Good",
+      "company": "Swiftly",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://techjobsforgood.com/jobs/36926/",
+      "source": "Other",
+      "description": "About the Role. Swiftly is looking for a Senior Software Engineer with experience building scalable cloud-based services. You'll collaborate ...",
+      "date": "2026-10-16",
+      "timestamp": "2026-10-16T00:16:05+00:00",
+      "fetched_at": "2026-10-16T08:32:01.709351+00:00"
+    },
+    {
+      "id": "0246fb0cdc91",
+      "title": "[Hiring] Senior Site Reliability Engineer \u2013 Search Platform | Japan, Tokyo : r/sre - Reddit",
+      "company": "Japan, Tokyo : r/sre - Reddit",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/sre/comments/1x6qfne/hiring_senior_site_reliability_engineer_search/",
+      "source": "Other",
+      "description": "We are looking for a highly motivated Senior Site Reliability Engineer to join the Search Engineering team. ... Data Engineer (Mid level). 35. 58. Sales ...",
+      "date": "2026-10-15",
+      "timestamp": "2026-10-15T23:50:29+00:00",
+      "fetched_at": "2026-10-16T08:32:01.355167+00:00"
+    },
+    {
+      "id": "298820ed5730",
+      "title": "Backend Engineer Graduate (Social Foundation) - 2027 Start - LifeAtTikTok",
+      "company": "2027 Start - LifeAtTikTok",
+      "role": "Backend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://lifeattiktok.com/search/7696782198126545157",
+      "source": "Other",
+      "description": "View our opening for Backend Engineer Graduate (Social Foundation) - 2027 Start and learn more about what it's like to work at TikTok!",
+      "date": "2026-10-15",
+      "timestamp": "2026-10-15T23:48:18+00:00",
+      "fetched_at": "2026-10-16T08:32:01.355256+00:00"
+    },
+    {
+      "id": "1f350cf932ab",
+      "title": "Boston Engineering Corporation Embedded Software Engineer | SmartRecruiters",
+      "company": "Bostonengineeringcorporation",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.smartrecruiters.com/BostonEngineeringCorporation/744000155609780-embedded-software-engineer",
+      "source": "SmartRecruiters",
+      "description": "Boston Engineering is seeking an Embedded Software Engineer to develop software for robotics, autonomous systems, medical devices, ...",
+      "date": "2026-10-15",
+      "timestamp": "2026-10-15T23:31:20+00:00",
+      "fetched_at": "2026-10-16T08:32:01.709623+00:00"
     },
     {
       "id": "e1a0be0ca325",
@@ -199,6 +319,21 @@
       "date": "2026-10-15",
       "timestamp": "2026-10-15T20:15:40+00:00",
       "fetched_at": "2026-10-16T01:46:15.509864+00:00"
+    },
+    {
+      "id": "a1a513c9ec24",
+      "title": "Job ID:26037349 - Software Engineer II A - GBS IND - Multiple Locations",
+      "company": "Job ID:26037349",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.bankofamerica.com/en-us/job-detail/26037349/software-engineer-ii-a-gbs-ind-multiple-locations",
+      "source": "Other",
+      "description": "Apply for the Software Engineer II A - GBS IND position (Job ID: 26037349), with openings in multiple locations, at Bank of America.",
+      "date": "2026-10-15",
+      "timestamp": "2026-10-15T20:08:47+00:00",
+      "fetched_at": "2026-10-16T08:32:01.356370+00:00"
     },
     {
       "id": "1597a689c5cb",
