@@ -1,26 +1,26 @@
 {
-  "last_updated": "2026-10-15T22:42:25.920256+00:00",
-  "total_jobs": 11488,
+  "last_updated": "2026-10-16T01:46:15.643949+00:00",
+  "total_jobs": 11497,
   "stats": {
-    "total_companies": 5165,
+    "total_companies": 5169,
     "total_roles": 149,
     "regions": {
-      "India": 7600,
-      "Philippines": 2394,
+      "India": 7607,
+      "Philippines": 2396,
       "Remote": 1410,
       "Unknown": 135
     },
     "sources": {
-      "Other": 8989,
-      "Greenhouse": 580,
+      "Other": 8995,
+      "Greenhouse": 581,
       "LinkedIn": 500,
       "Workday": 486,
       "Ashby": 354,
       "iCIMS": 144,
-      "Breezy": 122,
+      "Breezy": 123,
       "Workable": 78,
+      "SmartRecruiters": 75,
       "Lever": 75,
-      "SmartRecruiters": 74,
       "Indeed": 39,
       "Recruitee": 12,
       "BrassRing": 11,
@@ -31,10 +31,70 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-10-15"
+      "latest": "2026-10-16"
     }
   },
   "jobs": [
+    {
+      "id": "1fc935752791",
+      "title": "Job Application for Senior Full Stack Engineer , AgentControl at LaunchDarkly - Greenhouse",
+      "company": "Launchdarkly",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/launchdarkly/jobs/8011709003",
+      "source": "Greenhouse",
+      "description": "About the Job: As a Senior Full Stack Engineer on LaunchDarkly's AgentControl team, you'll build critical systems such as the web application that ...",
+      "date": "2026-10-16",
+      "timestamp": "2026-10-16T01:06:50+00:00",
+      "fetched_at": "2026-10-16T01:46:15.594256+00:00"
+    },
+    {
+      "id": "4f201177d38c",
+      "title": "Senior Software Engineer - Data Engineering | Rocket Lab",
+      "company": "Senior Software Engineer",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://rocketlabcorp.com/careers/positions/senior-software-engineer-data-engineering-auckland-nz-8028718003/",
+      "source": "Other",
+      "description": "Based in Auckland, NZ, the Senior Software Engineer \u2013 Data Engineering will design, build and deploy the APIs, services, data pipelines and tools that ...",
+      "date": "2026-10-16",
+      "timestamp": "2026-10-16T00:34:39+00:00",
+      "fetched_at": "2026-10-16T01:46:15.508197+00:00"
+    },
+    {
+      "id": "e1a0be0ca325",
+      "title": "Machine Learning Engineer , Amazon FAI - Job ID: 10579960",
+      "company": "Job ID: 10579960",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.amazon.jobs/en/jobs/10579960/machine-learning-engineer-amazon-fai",
+      "source": "Other",
+      "description": "Machine Learning Engineer , Amazon FAI. Job ID: 10579960 | Amazon.com ... Robot Embedded Senior Software Engineer . Location: USA, MA, North ...",
+      "date": "2026-10-15",
+      "timestamp": "2026-10-15T21:48:24+00:00",
+      "fetched_at": "2026-10-16T01:46:15.508563+00:00"
+    },
+    {
+      "id": "69b773c18131",
+      "title": "Apply - Expert Opportunity - Software Engineer ($100/hr, up to $2,000/week) - Ethos",
+      "company": "Apply",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://agent.askethos.com/opportunities/expert-opportunity-software-engineer-100-hr-up-to-2-000-week/apply",
+      "source": "Other",
+      "description": "Apply for Expert Opportunity - Software Engineer ($100/hr, up to $2000/week) at Ethos.",
+      "date": "2026-10-15",
+      "timestamp": "2026-10-15T21:36:48+00:00",
+      "fetched_at": "2026-10-16T01:46:15.594815+00:00"
+    },
     {
       "id": "9e535c3266a3",
       "title": "Software Engineer (DevSecOps) in Pune, India, 411006 - Careers at Mastercard",
@@ -66,6 +126,21 @@
       "fetched_at": "2026-10-15T22:42:25.790115+00:00"
     },
     {
+      "id": "e04e6167141b",
+      "title": "Senior Software Engineer at zerohash - Breezy HR",
+      "company": "Zero Hash",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://zero-hash.breezy.hr/p/c00124c46538-senior-software-engineer",
+      "source": "Breezy",
+      "description": "About the Job Zero Hash is looking for a Senior Software Engineer to help architect and build new features, as well as scaling the gateway to ...",
+      "date": "2026-10-15",
+      "timestamp": "2026-10-15T21:00:13+00:00",
+      "fetched_at": "2026-10-16T01:46:15.508997+00:00"
+    },
+    {
       "id": "d874ba3d05e4",
       "title": "Software Engineer II, Application Platform - AI Services | Guidewire",
       "company": "AI Services | Guidewire",
@@ -79,6 +154,51 @@
       "date": "2026-10-15",
       "timestamp": "2026-10-15T20:50:39+00:00",
       "fetched_at": "2026-10-15T22:42:25.790697+00:00"
+    },
+    {
+      "id": "dd0ec0f582da",
+      "title": "Senior Software Engineer - Full Stack in Olathe, Kansas | Garmin International, Inc.",
+      "company": "Full Stack in Olathe, Kansas | Garmin International, Inc.",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.garmin.com/jobs/20347?lang=en-us",
+      "source": "Other",
+      "description": "Garmin is hiring a Senior Software Engineer - Full Stack in Olathe, Kansas. Review all of the job details and apply today!",
+      "date": "2026-10-15",
+      "timestamp": "2026-10-15T20:23:15+00:00",
+      "fetched_at": "2026-10-16T01:46:15.509533+00:00"
+    },
+    {
+      "id": "1cf78870ad3c",
+      "title": "Principal Software Engineer (Cloud Platform and AI Engineering) at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-software-engineer-cloud-platform-and-ai-engineering/47263/101999774512",
+      "source": "Other",
+      "description": "Principal Software Engineer (Cloud Platform and AI Engineering). Santa Clara, California, United States of America Product Engineering Ref ID: JR- ...",
+      "date": "2026-10-15",
+      "timestamp": "2026-10-15T20:20:59+00:00",
+      "fetched_at": "2026-10-16T01:46:15.509770+00:00"
+    },
+    {
+      "id": "06a829afb1fe",
+      "title": "ixigo Senior Software Engineer - Android - SmartRecruiters Jobs",
+      "company": "Ixigo",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.smartrecruiters.com/ixigo/744000155667589-senior-software-engineer-android",
+      "source": "SmartRecruiters",
+      "description": "Senior Software Engineer - Android. Gurugram, Gurugram, India; Full-time. Company Description. Launched in 2007 by Aloke Bajpai & Rajnish Kumar, ixigo ...",
+      "date": "2026-10-15",
+      "timestamp": "2026-10-15T20:15:40+00:00",
+      "fetched_at": "2026-10-16T01:46:15.509864+00:00"
     },
     {
       "id": "1597a689c5cb",
@@ -214,6 +334,21 @@
       "date": "2026-10-15",
       "timestamp": "2026-10-15T19:08:32+00:00",
       "fetched_at": "2026-10-15T22:42:25.869527+00:00"
+    },
+    {
+      "id": "97d342cddc19",
+      "title": "Senior Platform Engineer at Cargill - Careers",
+      "company": "Cargill",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cargill.com/en/job/bengaluru/senior-platform-engineer/23251/101999263408",
+      "source": "Other",
+      "description": "Job Purpose and Impact. As a Self-Service Analytics (SSA) Platform Engineer , you will be working on a small team responsible for full stack ...",
+      "date": "2026-10-15",
+      "timestamp": "2026-10-15T19:08:32+00:00",
+      "fetched_at": "2026-10-16T01:46:15.511203+00:00"
     },
     {
       "id": "7bd152f0141b",
