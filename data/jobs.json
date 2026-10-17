@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-10-16T22:14:26.014664+00:00",
-  "total_jobs": 11563,
+  "last_updated": "2026-10-17T01:40:40.076726+00:00",
+  "total_jobs": 11574,
   "stats": {
-    "total_companies": 5197,
-    "total_roles": 149,
+    "total_companies": 5201,
+    "total_roles": 150,
     "regions": {
-      "India": 7637,
-      "Philippines": 2422,
-      "Remote": 1420,
+      "India": 7641,
+      "Philippines": 2428,
+      "Remote": 1421,
       "Unknown": 135
     },
     "sources": {
-      "Other": 9047,
-      "Greenhouse": 584,
-      "LinkedIn": 500,
+      "Other": 9056,
+      "Greenhouse": 585,
+      "LinkedIn": 501,
       "Workday": 488,
       "Ashby": 359,
       "iCIMS": 144,
@@ -31,10 +31,100 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-10-16"
+      "latest": "2026-10-17"
     }
   },
   "jobs": [
+    {
+      "id": "829c8a864591",
+      "title": "Senior Full-Stack Engineer , NimbleRx - Rippling",
+      "company": "Senior Full",
+      "role": "Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/swoopishiring/jobs/52db57ed-16e4-421f-8f42-52afa0968c35",
+      "source": "Other",
+      "description": "Senior Full-Stack Engineer , NimbleRx. Swoop. Senior Full-Stack Engineer , NimbleRx. At Swoop, our mission is simple: Improving patient outcomes. As a ...",
+      "date": "2026-10-17",
+      "timestamp": "2026-10-17T00:53:41+00:00",
+      "fetched_at": "2026-10-17T01:40:39.878523+00:00"
+    },
+    {
+      "id": "d87bc28858f1",
+      "title": "Job Application for Senior Backend Engineer at Piramidal, Inc. - Greenhouse",
+      "company": "Piramidalinc",
+      "role": "Backend Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/piramidalinc/jobs/4443102009",
+      "source": "Greenhouse",
+      "description": "Piramidal is looking for a backend engineer to help build and scale the infrastructure behind our real time neural monitoring platform. You'll work on ...",
+      "date": "2026-10-16",
+      "timestamp": "2026-10-16T23:40:27+00:00",
+      "fetched_at": "2026-10-17T01:40:40.009612+00:00"
+    },
+    {
+      "id": "fb563faff180",
+      "title": "AI Engineer \u2013 Development Expert (f/m/d), Garching bei M\u00fcnchen, Germany | SAP Careers",
+      "company": "SAP Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.sap.com/en/jobs/744000156035248/ai-engineer-development-expert-fmd/",
+      "source": "Other",
+      "description": "AI Engineer \u2013 Development Expert (f/m/d). Team Links:Engineering ... Similar Roles. Senior Platform Engineer (f/m/d) for LoB & Industry ...",
+      "date": "2026-10-16",
+      "timestamp": "2026-10-16T22:59:10+00:00",
+      "fetched_at": "2026-10-17T01:40:40.010006+00:00"
+    },
+    {
+      "id": "803d16ea4950",
+      "title": "Principal Machine Learning Engineer , Causal Decisioning - DoorDash",
+      "company": "DoorDash",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careersatdoordash.com/jobs/principal-machine-learning-engineer-causal-decisioning/8205488",
+      "source": "Other",
+      "description": "We are hiring a Principal Machine Learning Engineer to lead the Causal ML pod and establish the technical foundation for company-level causal ...",
+      "date": "2026-10-16",
+      "timestamp": "2026-10-16T22:54:41+00:00",
+      "fetched_at": "2026-10-17T01:40:40.010407+00:00"
+    },
+    {
+      "id": "dc9ce5ea3976",
+      "title": "Senior Software Engineer , FinOps, Redwood City - Box",
+      "company": "Box",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.box.com/en/jobs/8236515/senior-software-engineer-finops/",
+      "source": "Other",
+      "description": "As a Senior Software Engineer on this team, you will own the design and development of the systems behind this critical work. You will join a cross- ...",
+      "date": "2026-10-16",
+      "timestamp": "2026-10-16T22:08:57+00:00",
+      "fetched_at": "2026-10-17T01:40:39.878872+00:00"
+    },
+    {
+      "id": "20a579e202db",
+      "title": "Careers at Sony Interactive Entertainment I Staff Software Engineer \u2013 Data",
+      "company": "Sony Interactive Entertainment I Staff Software Engineer \u2013 Data",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.playstation.com/staff-software-engineer-data/job/6225845004",
+      "source": "Other",
+      "description": "Join Sony Interactive Entertainment in Anytown, WY! Apply for the Staff Software Engineer \u2013 Data role today and start your journey with us.",
+      "date": "2026-10-16",
+      "timestamp": "2026-10-16T21:56:06+00:00",
+      "fetched_at": "2026-10-17T01:40:40.011008+00:00"
+    },
     {
       "id": "e12ba14218d1",
       "title": "Software Engineer - South Dakota Board of Regents Employment Opportunities",
@@ -66,6 +156,51 @@
       "fetched_at": "2026-10-16T22:14:25.966764+00:00"
     },
     {
+      "id": "423569550970",
+      "title": "Senior Data Engineer , CONCORD, California | Wells Fargo",
+      "company": "Wells Fargo",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.wellsfargojobs.com/en/jobs/r-580076/senior-data-engineer/",
+      "source": "Other",
+      "description": "About this role: Wells Fargo is seeking a Lead Data Engineer \u2013 Automation for the Data Integration and Development (DID) team.",
+      "date": "2026-10-16",
+      "timestamp": "2026-10-16T21:12:31+00:00",
+      "fetched_at": "2026-10-17T01:40:40.011593+00:00"
+    },
+    {
+      "id": "35ecd964a638",
+      "title": "Keith Lewis' Post - LinkedIn",
+      "company": "Unknown Company",
+      "role": "Keith Lewis' Post - LinkedIn",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/posts/keith-lewis-9011858_when-i-started-at-bloomberg-as-a-senior-software-activity-7516416862872821761-mt_Q",
+      "source": "LinkedIn",
+      "description": "When I started at Bloomberg as a Senior Software Engineer , they showed me their programming guidelines. Their very first rule was \"Don't sweat the ...",
+      "date": "2026-10-16",
+      "timestamp": "2026-10-16T21:05:19+00:00",
+      "fetched_at": "2026-10-17T01:40:40.012336+00:00"
+    },
+    {
+      "id": "ba8d22ffb00a",
+      "title": "Data Engineer - 66591 - MANTECH Careers",
+      "company": "66591 - MANTECH Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mantech.com/en_US/careers/JobDetail/Data-Engineer/66591",
+      "source": "Other",
+      "description": "MANTECH seeks a motivated, career and customer-oriented Data Engineer to join our team in Chantilly, VA. The Data Engineer will leverage their ...",
+      "date": "2026-10-16",
+      "timestamp": "2026-10-16T21:03:01+00:00",
+      "fetched_at": "2026-10-17T01:40:39.879400+00:00"
+    },
+    {
       "id": "4f612fb9bd2d",
       "title": "Backend Engineer in Multiple Locations | Lakeview Loan Servicing",
       "company": "Lakeview Loan Servicing",
@@ -79,6 +214,21 @@
       "date": "2026-10-16",
       "timestamp": "2026-10-16T21:02:24+00:00",
       "fetched_at": "2026-10-16T22:14:25.966926+00:00"
+    },
+    {
+      "id": "bcb9eb67a381",
+      "title": "Software Engineer - Simulation, Fauna - Job ID: 10581340 - Amazon Careers",
+      "company": "Simulation, Fauna - Job ID: 10581340 - Amazon Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://amazon.jobs/en/jobs/10581340/software-engineer-simulation-fauna",
+      "source": "Other",
+      "description": "We're looking for a Simulation Software Engineer to build the environments, tools, and systems that make this possible\u2014from generating diverse virtual ...",
+      "date": "2026-10-16",
+      "timestamp": "2026-10-16T20:55:37+00:00",
+      "fetched_at": "2026-10-17T01:40:39.880077+00:00"
     },
     {
       "id": "35b81110e01a",
@@ -139,6 +289,21 @@
       "date": "2026-10-16",
       "timestamp": "2026-10-16T20:17:21+00:00",
       "fetched_at": "2026-10-16T22:14:25.824024+00:00"
+    },
+    {
+      "id": "5310838955dc",
+      "title": "Staff Software Engineer , Backend - FinHub (Transfers), Remote - USA - Coinbase",
+      "company": "FinHub (Transfers), Remote - USA - Coinbase",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.coinbase.com/careers/positions/8287662",
+      "source": "Other",
+      "description": "Staff Software Engineer , Backend - FinHub (Transfers). Remote - USAJob ID#: P78784. Apply now. \udb81\udf72. Ready to do the most impactful work of your career ...",
+      "date": "2026-10-16",
+      "timestamp": "2026-10-16T20:04:44+00:00",
+      "fetched_at": "2026-10-17T01:40:39.880669+00:00"
     },
     {
       "id": "8304fe0e1507",
