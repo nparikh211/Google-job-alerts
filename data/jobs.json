@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-10-17T14:28:43.494836+00:00",
-  "total_jobs": 11598,
+  "last_updated": "2026-10-17T17:58:57.442670+00:00",
+  "total_jobs": 11608,
   "stats": {
-    "total_companies": 5210,
+    "total_companies": 5213,
     "total_roles": 150,
     "regions": {
-      "India": 7659,
-      "Philippines": 2432,
-      "Remote": 1423,
+      "India": 7665,
+      "Philippines": 2435,
+      "Remote": 1424,
       "Unknown": 135
     },
     "sources": {
-      "Other": 9077,
-      "Greenhouse": 585,
+      "Other": 9086,
+      "Greenhouse": 586,
       "LinkedIn": 502,
       "Workday": 489,
       "Ashby": 359,
@@ -35,6 +35,36 @@
     }
   },
   "jobs": [
+    {
+      "id": "e41123294f67",
+      "title": "Software Engineer I-1 in Pune, India, 411006 - Careers at Mastercard",
+      "company": "Mastercard",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mastercard.com/us/en/job/R-293576/Software-Engineer-I-1",
+      "source": "Other",
+      "description": "Software Engineer I-1. Apply Now. Back to search results. Previous job Next ... Senior Software Engineer . Location Pune, India, 411006 Category ...",
+      "date": "2026-10-17",
+      "timestamp": "2026-10-17T16:14:36+00:00",
+      "fetched_at": "2026-10-17T17:58:57.078112+00:00"
+    },
+    {
+      "id": "e162f36d5e78",
+      "title": "Job Application for Software Engineer III/Senior, Infrastructure Platform at ngrok Inc.",
+      "company": "Ngrokinc",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/ngrokinc/jobs/6218316004",
+      "source": "Greenhouse",
+      "description": "Compensation. Job Title. Senior Software Engineer . Tier 1 (SF, LA, Seattle, NYC): $202,500 \u2013 $247,500; Tier 2 (rest of ...",
+      "date": "2026-10-17",
+      "timestamp": "2026-10-17T13:29:18+00:00",
+      "fetched_at": "2026-10-17T17:58:57.078262+00:00"
+    },
     {
       "id": "cd69a756ed6b",
       "title": "Senior Software Engineer , AI/ML, Core \u2014 Google Careers",
@@ -94,6 +124,36 @@
       "date": "2026-10-17",
       "timestamp": "2026-10-17T08:24:53+00:00",
       "fetched_at": "2026-10-17T14:28:43.233031+00:00"
+    },
+    {
+      "id": "074875900f69",
+      "title": "Software Engineer - Senior Consultant II - (Hybrid) - Allstate Careers",
+      "company": "Senior Consultant II - (Hybrid) - Allstate Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.allstate.jobs/job/24018707/software-engineer-senior-consultant-ii-hybrid-/",
+      "source": "Other",
+      "description": "Software Engineer \u2013 Senior Consultant II \u2013 (Hybrid) ... Allstate is committed to helping employees continuously develop and grow. Kelly. Cloud Engineer .",
+      "date": "2026-10-17",
+      "timestamp": "2026-10-17T08:18:21+00:00",
+      "fetched_at": "2026-10-17T17:58:57.079956+00:00"
+    },
+    {
+      "id": "bf149a8d9e3e",
+      "title": "Staff Software Engineer , Data - Experimentation - DoorDash",
+      "company": "Experimentation - DoorDash",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careersatdoordash.com/jobs/staff-software-engineer-data---experimentation/8294468",
+      "source": "Other",
+      "description": "Staff Software Engineer , Data - Experimentation. Apply To Job. Job ID: 3586501. DoorDash, Inc. California, CA; San Francisco, CA; Seattle, WA; New ...",
+      "date": "2026-10-17",
+      "timestamp": "2026-10-17T08:17:45+00:00",
+      "fetched_at": "2026-10-17T17:58:57.394526+00:00"
     },
     {
       "id": "eee359c4e523",
@@ -171,6 +231,36 @@
       "fetched_at": "2026-10-17T08:04:11.860214+00:00"
     },
     {
+      "id": "48a73e0745d0",
+      "title": "Lead Software Engineer in Chennai, Tamil N\u0101du, India | Technology & Digital at U.S. Bank",
+      "company": "U.S. Bank",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.usbank.com/global/en/job/2026-0017399/Lead-Software-Engineer",
+      "source": "Other",
+      "description": "Lead Software Engineer . Apply now. JOB DESCRIPTION. At U.S. Bancorp ... The Java Backend Engineer is responsible for designing, developing, and ...",
+      "date": "2026-10-17",
+      "timestamp": "2026-10-17T03:11:14+00:00",
+      "fetched_at": "2026-10-17T17:58:57.080824+00:00"
+    },
+    {
+      "id": "c4e433e6653c",
+      "title": "Software Engineer - Primordial Labs",
+      "company": "Primordial Labs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.primordial-labs.com/jobs/721282-software-engineer",
+      "source": "Other",
+      "description": "Software Engineer . Build the Future of Human-Machine Teaming. Let's build! Apply here. About Primordial Labs. We're building the next generation ...",
+      "date": "2026-10-17",
+      "timestamp": "2026-10-17T02:32:45+00:00",
+      "fetched_at": "2026-10-17T17:58:57.080972+00:00"
+    },
+    {
       "id": "bd25b50ae5f5",
       "title": "Senior Software Engineer , Agentic AI Platforms - Careers at FIS Global",
       "company": "FIS Global",
@@ -246,6 +336,36 @@
       "fetched_at": "2026-10-17T14:28:43.454730+00:00"
     },
     {
+      "id": "c3c3938878d5",
+      "title": "Senior Corporate Enterprise Platform Engineer , Windows - Dropbox Careers",
+      "company": "Dropbox Careers",
+      "role": "Platform Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.dropbox.jobs/en/jobs/8280093/senior-corporate-enterprise-platform-engineer-windows/",
+      "source": "Other",
+      "description": "Senior Corporate Enterprise Platform Engineer , Windows. Remote - US: Select ... Maciej, Software Engineer . Dropbox logo. Everyone I met during the ...",
+      "date": "2026-10-17",
+      "timestamp": "2026-10-17T01:36:26+00:00",
+      "fetched_at": "2026-10-17T17:58:57.082012+00:00"
+    },
+    {
+      "id": "94ef1d38c56d",
+      "title": "Software Engineer III in Pasadena, California, United States of America - JPL.jobs",
+      "company": "JPL.jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.jpl.jobs/job/R6146/Software-Engineer-III",
+      "source": "Other",
+      "description": "Apply for Software Engineer III job with JPL (Jet Propulsion Laboratory) in Pasadena, California, United States of America.",
+      "date": "2026-10-17",
+      "timestamp": "2026-10-17T01:34:09+00:00",
+      "fetched_at": "2026-10-17T17:58:57.082135+00:00"
+    },
+    {
       "id": "cd912cc934f4",
       "title": "Senior Software Engineer - ETL Talend, Officer job in Hyderabad | Other jobs at State Street",
       "company": "State Street",
@@ -261,6 +381,21 @@
       "fetched_at": "2026-10-17T08:04:12.100980+00:00"
     },
     {
+      "id": "af7b75923e99",
+      "title": "Sr Software Engineer (Backend) - Rippling",
+      "company": "Rippling",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://ats.rippling.com/coterie-careers/jobs/368d1573-2079-40d7-ac1b-04de40071fdc",
+      "source": "Other",
+      "description": "What will the Sr Software Engineer (Backend) do? The Senior Software Engineer is responsible for leading the design, development, and maintenance ...",
+      "date": "2026-10-17",
+      "timestamp": "2026-10-17T01:06:24+00:00",
+      "fetched_at": "2026-10-17T17:58:57.396883+00:00"
+    },
+    {
       "id": "829c8a864591",
       "title": "Senior Full-Stack Engineer , NimbleRx - Rippling",
       "company": "Senior Full",
@@ -274,6 +409,21 @@
       "date": "2026-10-17",
       "timestamp": "2026-10-17T00:53:41+00:00",
       "fetched_at": "2026-10-17T01:40:39.878523+00:00"
+    },
+    {
+      "id": "6c590c564518",
+      "title": "Staff Platform Engineer , Senior Vice President | AlixPartners",
+      "company": "AlixPartners",
+      "role": "Platform Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.alixpartners.com/careers/8035494003/staff-platform-engineer-senior-vice-president/",
+      "source": "Other",
+      "description": "Staff Platform Engineer \u2014 Senior Vice President At AlixPartners, we ... software engineer , in at least one of Go, Python, or TypeScript, and is ...",
+      "date": "2026-10-17",
+      "timestamp": "2026-10-17T00:50:32+00:00",
+      "fetched_at": "2026-10-17T17:58:57.397594+00:00"
     },
     {
       "id": "a6cd328f8e7b",
