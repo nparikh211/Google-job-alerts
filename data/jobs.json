@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-10-18T14:54:53.605482+00:00",
-  "total_jobs": 11646,
+  "last_updated": "2026-10-18T18:18:01.313658+00:00",
+  "total_jobs": 11659,
   "stats": {
-    "total_companies": 5236,
+    "total_companies": 5239,
     "total_roles": 150,
     "regions": {
-      "India": 7687,
-      "Philippines": 2447,
+      "India": 7694,
+      "Philippines": 2453,
       "Remote": 1428,
       "Unknown": 135
     },
     "sources": {
-      "Other": 9116,
-      "Greenhouse": 587,
+      "Other": 9126,
+      "Greenhouse": 588,
       "LinkedIn": 504,
-      "Workday": 491,
-      "Ashby": 361,
+      "Workday": 492,
+      "Ashby": 362,
       "iCIMS": 144,
       "Breezy": 124,
       "Workable": 79,
@@ -36,6 +36,51 @@
   },
   "jobs": [
     {
+      "id": "5c38dd808aad",
+      "title": "T-Mobile AI Engineer vs Indian HFT Trade Ops. Will a TradeOps role limit my future SWE career?",
+      "company": "Unknown Company",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/developersIndia/comments/1x8zt8v/offer_discussion_tmobile_ai_engineer_vs_indian/",
+      "source": "Other",
+      "description": "2 YOE software engineer in India, feel like I messed up and fell behind ... ML Engineer Role @ Tiger Analytics. 42. 38. Is mobile engineering a bad ...",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T16:05:18+00:00",
+      "fetched_at": "2026-10-18T18:18:01.082940+00:00"
+    },
+    {
+      "id": "e7a17a3e62c9",
+      "title": "Software Engineer | Chicago, IL, USA - eFinancialCareers",
+      "company": "Chicago, IL, USA - eFinancialCareers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.efinancialcareers.com/jobs-United_States-Chicago-Software_Engineer.id24440776",
+      "source": "Other",
+      "description": "Senior Software Engineer . Cantor Fitzgerald Securities. New York, United States. 18 days ago Full time Competitive. Cantor Fitzgerald Securities.",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T13:03:40+00:00",
+      "fetched_at": "2026-10-18T18:18:01.262414+00:00"
+    },
+    {
+      "id": "47cffd3291da",
+      "title": "Software Engineer - Core Platform @ Elorian - Jobs",
+      "company": "Elorian Ai Inc",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/elorian-ai-inc/902f441b-6ed6-43ac-bca6-453d959ac7ac",
+      "source": "Ashby",
+      "description": "Software Engineer - Core Platform. Location. Palo Alto. Employment Type. Full time. Location Type. Hybrid. Department. All DepartmentsTechnical ...",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T12:43:59+00:00",
+      "fetched_at": "2026-10-18T18:18:01.262568+00:00"
+    },
+    {
       "id": "ec6b78b70aad",
       "title": "LeoTech - Agentic Development Platform Engineer - Paylocity",
       "company": "LeoTech",
@@ -51,6 +96,21 @@
       "fetched_at": "2026-10-18T14:54:53.564578+00:00"
     },
     {
+      "id": "80a881e0c3e3",
+      "title": "Data Engineer \u2013 Career Advising & Professional Development | MIT",
+      "company": "MIT",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://capd.mit.edu/jobs/beaconfire-data-engineer-5/",
+      "source": "Other",
+      "description": "Data Engineer (Entry-Level). Location: NJ (Hybrid/On-site based on project needs). Employment Type: Full-Time.",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T12:00:21+00:00",
+      "fetched_at": "2026-10-18T18:18:01.262906+00:00"
+    },
+    {
       "id": "045c3a54454e",
       "title": "Data Engineer Internship (m/f/x) in PACO DE ARCOS, LISBON, Portugal - P&G Careers",
       "company": "P&G Careers",
@@ -64,6 +124,51 @@
       "date": "2026-10-18",
       "timestamp": "2026-10-18T11:40:26+00:00",
       "fetched_at": "2026-10-18T14:54:53.564712+00:00"
+    },
+    {
+      "id": "6b305e26edfb",
+      "title": "Job Application for Software Engineer II (Backend) - Subscriptions at Deliveroo",
+      "company": "Deliveroo",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/deliveroo/jobs/8266851",
+      "source": "Greenhouse",
+      "description": "Software Engineer II (Backend) - Subscriptions. London, United Kingdom - Deliveroo. Apply. Our Global Structure. Deliveroo is now part of DoorDash ...",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T11:36:32+00:00",
+      "fetched_at": "2026-10-18T18:18:01.263282+00:00"
+    },
+    {
+      "id": "65924385e0c7",
+      "title": "Data Engineer II, AWS DC Global Network Delivery - Job ID: 10580357 - Amazon Careers",
+      "company": "Job ID: 10580357 - Amazon Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.amazon.jobs/en/jobs/10580357/data-engineer-ii-aws-dc-global-network-delivery",
+      "source": "Other",
+      "description": "Data Engineer II, AWS DC Global Network Delivery. Job ID: 10580357 ... Software Engineer I. Location: US, Washington, Seattle. Posted: December ...",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T11:20:54+00:00",
+      "fetched_at": "2026-10-18T18:18:01.263491+00:00"
+    },
+    {
+      "id": "a1a4122ccdd0",
+      "title": "Platform Engineer - Careers In Government",
+      "company": "Careers In Government",
+      "role": "Platform Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.careersingovernment.com/job/3488410/platform-engineer/",
+      "source": "Other",
+      "description": "MANTECH seeks a motivated, career and customer-oriented Platform Engineer to join our team in Tampa, FL . The Platform Engineer will leverage ...",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T11:00:16+00:00",
+      "fetched_at": "2026-10-18T18:18:01.263651+00:00"
     },
     {
       "id": "5abb41e20414",
@@ -96,6 +201,21 @@
       "fetched_at": "2026-10-18T14:54:53.565144+00:00"
     },
     {
+      "id": "67a937a3ea5c",
+      "title": "Senior Software Engineer 2 - Myworkdayjobs.com",
+      "company": "Modmed",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://modmed.wd501.myworkdayjobs.com/india_career_site/job/Senior-Software-Engineer-2_R5101-2/apply",
+      "source": "Workday",
+      "description": "Introduce Yourself. Start Your Application. Senior Software Engineer 2. Autofill with Resume \u00b7 Apply Manually \u00b7 Use My Last Application. Follow Us.",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T08:33:07+00:00",
+      "fetched_at": "2026-10-18T18:18:01.083945+00:00"
+    },
+    {
       "id": "b28f5877d72c",
       "title": "Software Engineer , Associate - Hyderabad | Infor Careers",
       "company": "Hyderabad | Infor Careers",
@@ -126,6 +246,21 @@
       "fetched_at": "2026-10-18T14:54:53.565442+00:00"
     },
     {
+      "id": "22c35e36248a",
+      "title": "Sr Software Engineer I ( Web Application & Cloud Development)",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.siemens-healthineers.com/global/en/job/R-31277/Sr-Software-Engineer-I-Web-Application-Cloud-Development",
+      "source": "Other",
+      "description": "Apply for Sr Software Engineer I ( Web Application & Cloud Development) job with Siemens Healthineers in Newton, Massachusetts, United States of ...",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T06:35:51+00:00",
+      "fetched_at": "2026-10-18T18:18:01.084601+00:00"
+    },
+    {
       "id": "98a6e8fecf31",
       "title": "JL4 Senior Software Engineer \u2013 Full Stack & Platform Engineering | Saurav Singh - LinkedIn",
       "company": "Saurav Singh - LinkedIn",
@@ -141,6 +276,21 @@
       "fetched_at": "2026-10-18T14:54:53.565709+00:00"
     },
     {
+      "id": "df068f49f161",
+      "title": "Java Software engineer (SITE team) in Hengelo, Overijssel, 7554 RR - Thales Careers",
+      "company": "Thales Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.thalesgroup.com/global/en/job/R0329194/Java-Software-engineer-SITE-team",
+      "source": "Other",
+      "description": "Apply for Java Software engineer (SITE team) job with Thales Group in Hengelo, Overijssel, 7554 RR. Software at Thales Group.",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T04:40:15+00:00",
+      "fetched_at": "2026-10-18T18:18:01.085456+00:00"
+    },
+    {
       "id": "c985968fa37a",
       "title": "AI Engineer in Madrid, Spain | Information Technology at Roche",
       "company": "Roche",
@@ -154,6 +304,21 @@
       "date": "2026-10-18",
       "timestamp": "2026-10-18T04:39:23+00:00",
       "fetched_at": "2026-10-18T08:21:10.156372+00:00"
+    },
+    {
+      "id": "80fd92c0340a",
+      "title": "Senior DevOps Engineer (m/f/d) for MARE - Telekom Careers",
+      "company": "Telekom Careers",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.telekom.com/en/jobs/senior-devops-engineer-m-f-d-for-mare-744000141183849",
+      "source": "Other",
+      "description": "... DevOps Engineer who loves turning complex cloud operations into smooth, automated delivery. You'll work hands-on with Telekom's cloud platforms ...",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T04:36:19+00:00",
+      "fetched_at": "2026-10-18T18:18:01.085827+00:00"
     },
     {
       "id": "f0c1c0cac72c",
@@ -184,6 +349,36 @@
       "date": "2026-10-18",
       "timestamp": "2026-10-18T02:58:10+00:00",
       "fetched_at": "2026-10-18T08:21:10.156868+00:00"
+    },
+    {
+      "id": "4db6ba210c16",
+      "title": "Senior MarTech Platform Engineer | Careers at CoStar Group",
+      "company": "CoStar Group",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.costargroup.com/careers/job/446721456819-senior-martech-platform-engineer-sydney-new-south-wales-australia",
+      "source": "Other",
+      "description": "At Domain (part of the CoStar Group), we're looking for a Senior MarTech Platform Engineer ... Senior Software Engineer - Audience Amplication. Sydney, ...",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T01:47:38+00:00",
+      "fetched_at": "2026-10-18T18:18:01.086612+00:00"
+    },
+    {
+      "id": "b93758d381bc",
+      "title": "AI/ ML Engineer - - 78250 - Jobs at Lenovo",
+      "company": "Lenovo",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.lenovo.com/en_US/careers/JobDetail/AI-ML-Engineer/78250?3_138_3=326204&3_169_3=1248934&3_112_3=434&3_113_3=2436&jobId=78250&title=%C3%84hnliche+Jobs",
+      "source": "Other",
+      "description": "Share AI/ ML Engineer with LinkedIn ... Senior Software Engineer (Java Microservices & Cloud-Native Platforms).",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T01:33:08+00:00",
+      "fetched_at": "2026-10-18T18:18:01.086788+00:00"
     },
     {
       "id": "2dfaa692f3ce",
