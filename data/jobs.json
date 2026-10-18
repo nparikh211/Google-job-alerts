@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-10-18T18:18:01.313658+00:00",
-  "total_jobs": 11659,
+  "last_updated": "2026-10-18T21:56:51.856150+00:00",
+  "total_jobs": 11677,
   "stats": {
-    "total_companies": 5239,
+    "total_companies": 5247,
     "total_roles": 150,
     "regions": {
-      "India": 7694,
-      "Philippines": 2453,
-      "Remote": 1428,
+      "India": 7705,
+      "Philippines": 2457,
+      "Remote": 1431,
       "Unknown": 135
     },
     "sources": {
-      "Other": 9126,
-      "Greenhouse": 588,
-      "LinkedIn": 504,
+      "Other": 9141,
+      "Greenhouse": 589,
+      "LinkedIn": 505,
       "Workday": 492,
-      "Ashby": 362,
+      "Ashby": 363,
       "iCIMS": 144,
       "Breezy": 124,
       "Workable": 79,
@@ -36,6 +36,141 @@
   },
   "jobs": [
     {
+      "id": "694458ed770c",
+      "title": "Senior Software Engineer - Data Pipelines (Cortex) at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/senior-software-engineer-data-pipelines-cortex/47263/102126513168",
+      "source": "Other",
+      "description": "Senior Software Engineer - Data Pipelines (Cortex). Tel Aviv-Yafo, Israel Product Engineering Ref ID: JR-022570. Apply Save Job.",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T19:42:34+00:00",
+      "fetched_at": "2026-10-18T21:56:51.803813+00:00"
+    },
+    {
+      "id": "d2c4d47077d1",
+      "title": "Staff/ Senior Software Engineer - Collection Team (Cortex Platform) at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/staff-senior-software-engineer-collection-team-cortex-platform/47263/102126517056",
+      "source": "Other",
+      "description": "Staff/ Senior Software Engineer - Collection Team (Cortex Platform). Tel Aviv-Yafo, Israel Product Engineering Ref ID: JR-023625.",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T19:42:34+00:00",
+      "fetched_at": "2026-10-18T21:56:51.804079+00:00"
+    },
+    {
+      "id": "2b78062d433b",
+      "title": "Job Application for Senior ML Engineer at CreateFuture - Greenhouse",
+      "company": "Xdesign",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/xdesign/jobs/5008697101",
+      "source": "Greenhouse",
+      "description": "Senior ML Engineer . Edinburgh, Leeds, Manchester, London. Apply ... We are looking for a Senior Data Engineer with a machine learning focus ...",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T19:17:09+00:00",
+      "fetched_at": "2026-10-18T21:56:51.726227+00:00"
+    },
+    {
+      "id": "a5bb666a4b21",
+      "title": "Staff Software Engineer (Android) at TeamSnap - Remote",
+      "company": "TeamSnap",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://remote.com/jobs/teamsnap-c1yzu9y4/staff-software-engineer-android-j14slwk0",
+      "source": "Other",
+      "description": "TeamSnap is hiring a Staff Software Engineer (Android). Apply now on remote.com/jobs.",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T19:10:50+00:00",
+      "fetched_at": "2026-10-18T21:56:51.727053+00:00"
+    },
+    {
+      "id": "6a210614c9cb",
+      "title": "PIM Data Engineer - Caterpillar Careers",
+      "company": "Caterpillar Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.caterpillar.com/en/jobs/r0000398224/pim-data-engineer/",
+      "source": "Other",
+      "description": "PIM Data Engineer . Location, Bangalore, Karn\u0101taka / Chennai, Tamil N\u0101du ... Lead Software Engineer - Adobe Workfront. Save Saved. Bangalore ...",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T18:49:09+00:00",
+      "fetched_at": "2026-10-18T21:56:51.727589+00:00"
+    },
+    {
+      "id": "753ed0e35c73",
+      "title": "Full-stack Engineer 5 (Senior Manager, IC) - Capital One | Built In Boston",
+      "company": "Full",
+      "role": "stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.builtinboston.com/job/full-stack-engineer-5-senior-manager-ic/11740138",
+      "source": "Other",
+      "description": "Capital One is hiring for a Full-stack Engineer 5 (Senior Manager, IC) in Cambridge, MA, USA. Find more details about the job and how to apply at ...",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T18:33:44+00:00",
+      "fetched_at": "2026-10-18T21:56:51.728042+00:00"
+    },
+    {
+      "id": "2917e5f5cbf0",
+      "title": "Software Engineer II (Procurement and Risk Technology) Job - TD Bank",
+      "company": "TD Bank",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://tdbank.jobs/job-titles/software-engineer-ii-procurement-and-risk-technology/jobs/",
+      "source": "Other",
+      "description": "Software Engineer II (Procurement and Risk Technology) Job, updated and verified daily by DirectEmployers Association.",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T16:34:24+00:00",
+      "fetched_at": "2026-10-18T21:56:51.728270+00:00"
+    },
+    {
+      "id": "269a095f1e2b",
+      "title": "1 Senior Software Engineer Job in Zug, CHE - AECOM Europe",
+      "company": "AECOM Europe",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://europe.aecom.jobs/locations/zug-che/job-titles/senior-software-engineer/jobs/",
+      "source": "Other",
+      "description": "Senior Software Engineer ... We are committed to ethical hiring practices and safeguarding candidates from fraudulent activity. We will never request ...",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T16:27:49+00:00",
+      "fetched_at": "2026-10-18T21:56:51.804927+00:00"
+    },
+    {
+      "id": "4782e9a3dd33",
+      "title": "Lead Software Engineer in Bangalore, Karn\u0101taka, India | Information Technology at Ecolab Inc.",
+      "company": "Ecolab Inc.",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ecolab.com/global/en/job/R00306657/Lead-Software-Engineer",
+      "source": "Other",
+      "description": "Senior Software Engineer . Location Bangalore, Karn\u0101taka, India Category Information Technology Job Id R00305084. Senior Software Engineer .",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T16:22:43+00:00",
+      "fetched_at": "2026-10-18T21:56:51.728429+00:00"
+    },
+    {
       "id": "5c38dd808aad",
       "title": "T-Mobile AI Engineer vs Indian HFT Trade Ops. Will a TradeOps role limit my future SWE career?",
       "company": "Unknown Company",
@@ -49,6 +184,51 @@
       "date": "2026-10-18",
       "timestamp": "2026-10-18T16:05:18+00:00",
       "fetched_at": "2026-10-18T18:18:01.082940+00:00"
+    },
+    {
+      "id": "0ecd47960513",
+      "title": "Issue #409 - The ML Engineer - LinkedIn",
+      "company": "Issue #409",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/pulse/issue-409-ml-engineer-alejandro-saucedo-lwydf",
+      "source": "LinkedIn",
+      "description": "AI Engineer World's Fair 2027 - June @ San Francisco; RAISE Summit 2027 ... The Machine Learning Engineer . 54,514 ...",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T15:27:01+00:00",
+      "fetched_at": "2026-10-18T21:56:51.728846+00:00"
+    },
+    {
+      "id": "c9528aefd4d9",
+      "title": "Full-Stack Engineer - MIT Career Services",
+      "company": "Full",
+      "role": "Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://capd.mit.edu/jobs/leyton-full-stack-engineer/",
+      "source": "Other",
+      "description": "Build AI Products. Own Them for Years. Shape the Future of Engineering in Barcelona. Full-Stack Engineer (Junior & Senior Levels).",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T13:35:58+00:00",
+      "fetched_at": "2026-10-18T21:56:51.728991+00:00"
+    },
+    {
+      "id": "dc733e9e25a1",
+      "title": "Senior Software Engineer | AECOM Europe",
+      "company": "AECOM Europe",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://europe.aecom.jobs/zug-che/senior-software-engineer/B3B8A5B776D44BC3A0F8E1EE89621ACB/job/",
+      "source": "Other",
+      "description": "Senior Software Engineer . Zug, CHE. Reqid:J10160958; Career Area:Information Technology; Business Line:Corporate; Business Group:Corporate. Apply Now.",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T13:10:44+00:00",
+      "fetched_at": "2026-10-18T21:56:51.729192+00:00"
     },
     {
       "id": "e7a17a3e62c9",
@@ -81,6 +261,21 @@
       "fetched_at": "2026-10-18T18:18:01.262568+00:00"
     },
     {
+      "id": "ad1342dd8cb1",
+      "title": "Software Engineer - Blend | Built In NYC",
+      "company": "Blend | Built In NYC",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.builtinnyc.com/job/software-engineer/11288623",
+      "source": "Other",
+      "description": "Blend is hiring for a Remote Software Engineer in United States. Find more details about the job and how to apply at Built In NYC.",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T12:38:32+00:00",
+      "fetched_at": "2026-10-18T21:56:51.729533+00:00"
+    },
+    {
       "id": "ec6b78b70aad",
       "title": "LeoTech - Agentic Development Platform Engineer - Paylocity",
       "company": "LeoTech",
@@ -109,6 +304,21 @@
       "date": "2026-10-18",
       "timestamp": "2026-10-18T12:00:21+00:00",
       "fetched_at": "2026-10-18T18:18:01.262906+00:00"
+    },
+    {
+      "id": "aa13cf0f4820",
+      "title": "Full Stack Software Engineer (TS/SCI) - Careers In Government",
+      "company": "Careers In Government",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.careersingovernment.com/job/3489123/full-stack-software-engineer-ts-sci/",
+      "source": "Other",
+      "description": "Full Stack Software Engineer Pentagon or Reston VA Clearance: Active TS/SCI Required About the Role Marathon TS is seeking an experienced Full ...",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T11:49:06+00:00",
+      "fetched_at": "2026-10-18T21:56:51.730146+00:00"
     },
     {
       "id": "045c3a54454e",
@@ -169,6 +379,66 @@
       "date": "2026-10-18",
       "timestamp": "2026-10-18T11:00:16+00:00",
       "fetched_at": "2026-10-18T18:18:01.263651+00:00"
+    },
+    {
+      "id": "4be440a058c6",
+      "title": "Software Engineer \u2013 Career Advising & Professional Development | MIT",
+      "company": "MIT",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://capd.mit.edu/jobs/the-trade-lab-software-engineer/",
+      "source": "Other",
+      "description": "Software Engineer . Share This: Share Software Engineer on FacebookShare Software Engineer on LinkedInShare Software Engineer on X; Copy Link.",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T10:45:47+00:00",
+      "fetched_at": "2026-10-18T21:56:51.807371+00:00"
+    },
+    {
+      "id": "2f177ccd83c9",
+      "title": "Senior Software Engineer @ True Talent Solutions Partners - Jobs",
+      "company": "True Talent Solutions Partners",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/true-talent-solutions-partners/70e0b03b-5f8f-4a9f-b708-9d8bf133bafb",
+      "source": "Ashby",
+      "description": "... data engineer , with broad backend skills and senior-level ownership ... Senior Software Engineer . Location. New York. Employment Type. Full time ...",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T10:39:56+00:00",
+      "fetched_at": "2026-10-18T21:56:51.730461+00:00"
+    },
+    {
+      "id": "c78f5b857613",
+      "title": "Senior Fullstack Engineer | Emerging Products - NinjaOne - Built In Chicago",
+      "company": "Emerging Products - NinjaOne - Built In Chicago",
+      "role": "Fullstack Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.builtinchicago.org/job/senior-fullstack-engineer-emerging-products/11075253",
+      "source": "Other",
+      "description": "Senior Full-stack Engineer . 20 Days Ago. Remote or ... We are looking for a Senior Full Stack Software Engineer to join our Emerging Products team.",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T10:39:12+00:00",
+      "fetched_at": "2026-10-18T21:56:51.730660+00:00"
+    },
+    {
+      "id": "14a2f394b32d",
+      "title": "Cloud & AI Engineer - 135933 - IBM",
+      "company": "135933 - IBM",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.ibm.com/en_US/careers/JobDetail/Cloud-AI-Engineer/135933",
+      "source": "Other",
+      "description": "Cloud & AI Engineer ... At IBM Infrastructure & Technology, we design and operate the systems that keep the world running. From high-resiliency ...",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T09:49:58+00:00",
+      "fetched_at": "2026-10-18T21:56:51.730800+00:00"
     },
     {
       "id": "5abb41e20414",
