@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-10-19T09:20:12.252954+00:00",
-  "total_jobs": 11712,
+  "last_updated": "2026-10-19T17:48:17.563770+00:00",
+  "total_jobs": 11740,
   "stats": {
-    "total_companies": 5264,
-    "total_roles": 151,
+    "total_companies": 5269,
+    "total_roles": 152,
     "regions": {
-      "India": 7726,
-      "Philippines": 2464,
-      "Remote": 1438,
+      "India": 7744,
+      "Philippines": 2470,
+      "Remote": 1442,
       "Unknown": 135
     },
     "sources": {
-      "Other": 9170,
-      "Greenhouse": 591,
-      "LinkedIn": 507,
+      "Other": 9193,
+      "Greenhouse": 593,
+      "LinkedIn": 509,
       "Workday": 492,
-      "Ashby": 363,
+      "Ashby": 364,
       "iCIMS": 145,
       "Breezy": 125,
       "Workable": 79,
@@ -35,6 +35,426 @@
     }
   },
   "jobs": [
+    {
+      "id": "30bc51ebd29c",
+      "title": "Melissa Rosenthal's Post - LinkedIn",
+      "company": "Unknown Company",
+      "role": "Melissa Rosenthal's Post - LinkedIn",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/posts/melissarosenthal5_ali-hamie-a-software-engineer-at-meta-wrote-activity-7517987685563584512-6ZQx",
+      "source": "LinkedIn",
+      "description": "Ali Hamie, a software engineer at Meta, wrote on LinkedIn that he's now shipping code he doesn't fully understand. He didn't say the code was ...",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T17:16:23+00:00",
+      "fetched_at": "2026-10-19T17:48:17.516478+00:00"
+    },
+    {
+      "id": "6901dc152d49",
+      "title": "15 years as a software engineer , and AI is making me feel obsolete. How are you coping?",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/ClaudeAI/comments/1xa0gn5/15_years_as_a_software_engineer_and_ai_is_making/",
+      "source": "Other",
+      "description": "202 votes, 146 comments. I'm a software engineer with over 15 years of experience, and lately I've been feeling super anxious about AI.",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T17:08:24+00:00",
+      "fetched_at": "2026-10-19T17:48:17.299226+00:00"
+    },
+    {
+      "id": "d47f18544af7",
+      "title": "Data Engineer - New York - Trading Technologies Careers",
+      "company": "New York - Trading Technologies Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://tradingtechnologies.pinpointhq.com/en/postings/29e1d229-a138-4791-8f2f-3e72bf949104",
+      "source": "Other",
+      "description": "We are looking for a Data Engineer with strong Microsoft SQL Server and Snowflake experience to join our Data & Analytics engineering team. This role ...",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T16:46:10+00:00",
+      "fetched_at": "2026-10-19T17:48:17.299477+00:00"
+    },
+    {
+      "id": "a5b94cf90fc3",
+      "title": "Senior Software Engineer - HigherEdJobs",
+      "company": "HigherEdJobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.higheredjobs.com/state/details.cfm?JobCode=179592049&Title=Senior%20Software%20Engineer",
+      "source": "Other",
+      "description": "Carnegie Mellon University seeks a Senior Software Engineer (Pittsburgh, PA) to design, develop, test and maintain applications or systems ...",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T16:32:38+00:00",
+      "fetched_at": "2026-10-19T17:48:17.299706+00:00"
+    },
+    {
+      "id": "250e5d48e79f",
+      "title": "Software Engineer - HigherEdJobs",
+      "company": "HigherEdJobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.higheredjobs.com/state/details.cfm?JobCode=179592099&Title=Software%20Engineer",
+      "source": "Other",
+      "description": "Software Engineer . Application Instructions: External Applicants: Please upload your resume on the Apply screen.",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T16:22:35+00:00",
+      "fetched_at": "2026-10-19T17:48:17.299953+00:00"
+    },
+    {
+      "id": "f3c8250bb4c0",
+      "title": "Senior Software Engineer , Warren, Michigan | General Motors Careers",
+      "company": "General Motors Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://search-careers.gm.com/en/jobs/jr-202622690/senior-software-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer \u00b7 Location. Warren, Michigan. (+) Show all locations (-) Hide all locations \u00b7 Job Type Full time \u00b7 Posted Oct 19 2026 \u00b7 Job ...",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T16:10:37+00:00",
+      "fetched_at": "2026-10-19T17:48:17.300085+00:00"
+    },
+    {
+      "id": "ee5af0ced3d5",
+      "title": "Senior Java Backend Engineer | Citi Careers",
+      "company": "Citi Careers",
+      "role": "Backend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.citi.com/job/mississauga/senior-java-backend-engineer/287/102161084944",
+      "source": "Other",
+      "description": "Learn more about applying for Senior Java Backend Engineer at Citi. Learn more about potential responsibilities, qualifications and career paths.",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T15:59:27+00:00",
+      "fetched_at": "2026-10-19T17:48:17.300196+00:00"
+    },
+    {
+      "id": "f856a5c1d2ab",
+      "title": "Software Engineer I - Careers at Citizens Bank",
+      "company": "Citizens Bank",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.citizensbank.com/job/johnston/software-engineer-i/288/102162281600",
+      "source": "Other",
+      "description": "Ready to thrive, personally and professionally. Learn more about and apply for the Software Engineer I job at Citizens now.",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T15:41:36+00:00",
+      "fetched_at": "2026-10-19T17:48:17.516953+00:00"
+    },
+    {
+      "id": "219baf052562",
+      "title": "Data Engineer II, Intl. Seller Services - Job ID: 10582199 - Amazon Careers",
+      "company": "Job ID: 10582199 - Amazon Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.amazon.jobs/en/jobs/10582199/data-engineer-ii-intl-seller-services",
+      "source": "Other",
+      "description": "ISS is seeking a highly motivated, experienced Data Engineer to help design and build the next generation of Data and ML infrastructure to power GenAI ...",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T15:40:26+00:00",
+      "fetched_at": "2026-10-19T17:48:17.300352+00:00"
+    },
+    {
+      "id": "c19bf338ec8a",
+      "title": "Staff Full-Stack Engineer - McLean - Capital One Careers",
+      "company": "Staff Full",
+      "role": "Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.capitalonecareers.com/job/mclean/staff-full-stack-engineer/1732/102158125088",
+      "source": "Other",
+      "description": "Staff Full-Stack Engineer . McLean, Virginia | Richmond ... VP. Similar Jobs; Saved Jobs. 102041002688. Staff Software Engineer - Card Technology.",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T15:38:04+00:00",
+      "fetched_at": "2026-10-19T17:48:17.300668+00:00"
+    },
+    {
+      "id": "1c24ce276834",
+      "title": "Senior Software Engineer (Java Or Python) - VP | Citi Careers",
+      "company": "VP | Citi Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.citi.com/job/belfast/senior-software-engineer-java-or-python-vp/287/102156451440",
+      "source": "Other",
+      "description": "Learn more about applying for Senior Software Engineer (Java Or Python) - VP at Citi. Learn more about potential responsibilities, ...",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T15:35:28+00:00",
+      "fetched_at": "2026-10-19T17:48:17.300816+00:00"
+    },
+    {
+      "id": "7ce97859b613",
+      "title": "Senior Software Engineer - Remote at UnitedHealth Group",
+      "company": "UnitedHealth Group",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.unitedhealthgroup.com/job/san-diego/senior-software-engineer-remote/34088/102160482720",
+      "source": "Other",
+      "description": "Share this job \u00b7 Optum Tech is a global leader in health care innovation. \u00b7 As a Senior Software Engineer on the CLI team within Optum Technology, you ...",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T15:33:36+00:00",
+      "fetched_at": "2026-10-19T17:48:17.517185+00:00"
+    },
+    {
+      "id": "aa93c8493a52",
+      "title": "Software Engineer - Zions Bank Careers",
+      "company": "Zions Bank Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://zionsbancorp.referrals.selectminds.com/jobs/software-engineer-28961",
+      "source": "Other",
+      "description": "We are seeking a Software Engineer to join our Enterprise Technology team. The Software Engineer is responsible for developing innovative software ...",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T15:32:29+00:00",
+      "fetched_at": "2026-10-19T17:48:17.517299+00:00"
+    },
+    {
+      "id": "48470752ef35",
+      "title": "Site Reliability Engineer in Norfolk, Virginia (No Remote) - Leidos Careers",
+      "company": "Leidos Careers",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.leidos.com/jobs/18372715-site-reliability-engineer",
+      "source": "Other",
+      "description": "The NMCI Service Management Integration and Transport (SMIT) group at Leidos has an opening for a Site Reliability Engineer to focus on the ...",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T15:19:26+00:00",
+      "fetched_at": "2026-10-19T17:48:17.517405+00:00"
+    },
+    {
+      "id": "a11a740f0ca4",
+      "title": "DevOps Engineer | Citi Careers",
+      "company": "Citi Careers",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.citi.com/job/new-castle/devops-engineer/287/102155192976",
+      "source": "Other",
+      "description": "Learn more about applying for DevOps Engineer at Citi. Learn more about potential responsibilities, qualifications and career paths.",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T15:11:02+00:00",
+      "fetched_at": "2026-10-19T17:48:17.301020+00:00"
+    },
+    {
+      "id": "afe85d9848b3",
+      "title": "Staff Platform Engineer in Austin at Arm - Arm Careers",
+      "company": "Arm",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.arm.com/job/austin/staff-platform-engineer/33099/100805674576",
+      "source": "Other",
+      "description": "Staff Platform Engineer . Job ID 2026-19469 Date posted Oct. 19, 2026 Location Austin, Texas Category Software Engineering Apply. Jump to section ...",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T15:08:47+00:00",
+      "fetched_at": "2026-10-19T17:48:17.301114+00:00"
+    },
+    {
+      "id": "d8533a51428d",
+      "title": "How to Learn ML in 2026 (feat. Vicki Boykis ML Engineer ) - YouTube",
+      "company": "YouTube",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.youtube.com/watch?v=vSz-VWb_0tY",
+      "source": "Other",
+      "description": "... ai-engineer -path-c02v/?via=yacineMahdid AI agents course: https ... Vicki Boykis ML Engineer ). @deeplearningexplained19 likes172 views1 ...",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T15:07:27+00:00",
+      "fetched_at": "2026-10-19T17:48:17.301203+00:00"
+    },
+    {
+      "id": "0cc08189bfb3",
+      "title": "Meet Gabriel Stenb\u00e4ck, our Founding AI engineer ! Fave salesperson: Phil Swift Fave Spiich feature",
+      "company": "Unknown Company",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/spiich-labs_meet-gabriel-stenb%C3%A4ck-our-founding-ai-engineer-activity-7517929720030765057-A0e6",
+      "source": "LinkedIn",
+      "description": "Meet Gabriel Stenb\u00e4ck, our Founding AI engineer ! Fave salesperson: Phil Swift Fave Spiich feature: Deal recycling \u267b\ufe0f Fave food: Korean fried ...",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T14:59:33+00:00",
+      "fetched_at": "2026-10-19T17:48:17.301434+00:00"
+    },
+    {
+      "id": "07e2de3c8081",
+      "title": "Software Engineer - Cloud Team - - 82492 - Jobs at Lenovo",
+      "company": "Lenovo",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.lenovo.com/careers/JobDetail/Staff-Software-Engineer/82492",
+      "source": "Other",
+      "description": "Candidate must be willing to work onsite in our Tel-Aviv, Israel office. Lenovo's Enterprise AI team is hiring a Senior Software Engineer to ...",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T14:45:30+00:00",
+      "fetched_at": "2026-10-19T17:48:17.301532+00:00"
+    },
+    {
+      "id": "37f91aaeef0c",
+      "title": "I wanted better accounting reports. Somehow I'm a data engineer now. : r/MicrosoftFabric",
+      "company": "Unknown Company",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/MicrosoftFabric/comments/1x988vk/i_wanted_better_accounting_reports_somehow_im_a/",
+      "source": "Other",
+      "description": "I am already working on to become a data engineer in my next job. Good luck to you.",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T14:04:23+00:00",
+      "fetched_at": "2026-10-19T17:48:17.301686+00:00"
+    },
+    {
+      "id": "9a601c7cebd8",
+      "title": "ECM Software Engineer in Remote, Kentucky | Technology and Digital Analytics at Humana",
+      "company": "Humana",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.humana.com/us/en/job/R-434203/ECM-Software-Engineer",
+      "source": "Other",
+      "description": "ECM Software Engineer . Description. Become a part of our caring ... Senior Software Engineer , HGB IT. Available in 4 locationsAvailable in 4 ...",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T13:51:30+00:00",
+      "fetched_at": "2026-10-19T17:48:17.301776+00:00"
+    },
+    {
+      "id": "ee756b9bbe5e",
+      "title": "Software Engineer I in United States - Planview | Careers",
+      "company": "Planview | Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.planview.com/careers-home/jobs/5080?lang=en-us",
+      "source": "Other",
+      "description": "We are seeking a Software Engineer I to join our Portfolio Intelligence team. This is an opportunity to launch your career in cloud-native engineering ...",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T13:37:49+00:00",
+      "fetched_at": "2026-10-19T17:48:17.301879+00:00"
+    },
+    {
+      "id": "4748ceab1ce0",
+      "title": "Portfolio Software Engineer @ Beacon Holdings - Jobs",
+      "company": "Beaconholdings",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/beaconholdings/09f8c87c-e446-440e-b497-b4f5e67b4ab2",
+      "source": "Ashby",
+      "description": "Portfolio Software Engineer . Location. New York, NY. Employment Type. Full time. Location Type. On-site. Department. Engineering. OverviewApplication.",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T12:53:45+00:00",
+      "fetched_at": "2026-10-19T17:48:17.301946+00:00"
+    },
+    {
+      "id": "52f88e3bfaec",
+      "title": "Staff FrontEnd Engineer - Platform - App Core Usage | US | Remote - Greenhouse",
+      "company": "Grafanalabs",
+      "role": "Frontend Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/grafanalabs/jobs/6227872004",
+      "source": "Greenhouse",
+      "description": "Staff FrontEnd Engineer - Platform - App Core Usage | US | Remote ... We are seeking a Staff FullStack Engineer who thrives on building ...",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T12:32:28+00:00",
+      "fetched_at": "2026-10-19T17:48:17.517696+00:00"
+    },
+    {
+      "id": "6b6376c41b39",
+      "title": "Software Engineer in New York at Munich Re",
+      "company": "Munich Re",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.munichre.com/en/job/new-york/software-engineer/3342/46115728960",
+      "source": "Other",
+      "description": "Learn more about and apply for Software Engineer in New York at Munich Re here.",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T11:59:23+00:00",
+      "fetched_at": "2026-10-19T17:48:17.517775+00:00"
+    },
+    {
+      "id": "71a46539aebe",
+      "title": "Job Application for Sr. Software Engineer (AI Data Engineering) at SpaceX - Greenhouse",
+      "company": "Spacex",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/spacex/jobs/8880858002?gh_jid=8880858002",
+      "source": "Greenhouse",
+      "description": "Software Engineer (AI Data Engineering). Hawthorne, CA. Apply. SpaceX was founded under the belief that a future where humanity is out exploring the ...",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T11:38:21+00:00",
+      "fetched_at": "2026-10-19T17:48:17.517921+00:00"
+    },
+    {
+      "id": "6a09c0af8f2a",
+      "title": "Software Engineer - Ag & Trading at Cargill",
+      "company": "Cargill",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cargill.com/en/job/bengaluru/software-engineer-ag-and-trading/23251/102151528944",
+      "source": "Other",
+      "description": "Learn more about applying for Software Engineer - Ag & Trading at Cargill.",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T11:27:03+00:00",
+      "fetched_at": "2026-10-19T17:48:17.518021+00:00"
+    },
+    {
+      "id": "7e108cbf7ae7",
+      "title": "Staff Software Engineer \u2013 DSP & AI Optimisation in Cambridge at Arm",
+      "company": "Arm",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.arm.com/job/cambridge/staff-software-engineer-dsp-and-ai-optimisation/33099/102151874032",
+      "source": "Other",
+      "description": "Job Overview. We seek a passionate, experienced embedded software engineer to design, improve, and present DSP and AI workloads on the latest Arm- ...",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T11:26:35+00:00",
+      "fetched_at": "2026-10-19T17:48:17.518165+00:00"
+    },
     {
       "id": "5d7ac3f2d8bb",
       "title": "Backend Software Engineer , DX in | Careers at Remote - Americas - ICIMS",
