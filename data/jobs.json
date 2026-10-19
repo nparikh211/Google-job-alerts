@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-10-18T21:56:51.856150+00:00",
-  "total_jobs": 11677,
+  "last_updated": "2026-10-19T01:54:29.334961+00:00",
+  "total_jobs": 11687,
   "stats": {
-    "total_companies": 5247,
+    "total_companies": 5252,
     "total_roles": 150,
     "regions": {
-      "India": 7705,
-      "Philippines": 2457,
-      "Remote": 1431,
+      "India": 7710,
+      "Philippines": 2460,
+      "Remote": 1433,
       "Unknown": 135
     },
     "sources": {
-      "Other": 9141,
+      "Other": 9149,
       "Greenhouse": 589,
-      "LinkedIn": 505,
+      "LinkedIn": 507,
       "Workday": 492,
       "Ashby": 363,
       "iCIMS": 144,
@@ -31,10 +31,85 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-10-18"
+      "latest": "2026-10-19"
     }
   },
   "jobs": [
+    {
+      "id": "63257446638e",
+      "title": "Happy Monday.. New role for this week! **SENIOR AI ENGINEER | BRISBANE | Danielle McNeill",
+      "company": "BRISBANE | Danielle McNeill",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/danielle-mcneill_happy-monday-new-role-for-this-week-activity-7517738532128358401-gpPC",
+      "source": "LinkedIn",
+      "description": "Happy Monday.. New role for this week! **SENIOR AI ENGINEER | BRISBANE | HYBRID, 1 DAY IN OFFICE** Want to shape how AI is built and governed in a ...",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T00:44:39+00:00",
+      "fetched_at": "2026-10-19T01:54:29.057266+00:00"
+    },
+    {
+      "id": "d0b5628971b6",
+      "title": "Software Engineer - Job Detail | Careers Marketplace - Siemens Jobs",
+      "company": "Job Detail | Careers Marketplace - Siemens Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526209",
+      "source": "Other",
+      "description": "As a Software Engineer with Siemens Grid Software, you will join the team that maintains and enhances our industry-leading smart grid engineering ...",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T22:35:23+00:00",
+      "fetched_at": "2026-10-19T01:54:29.284791+00:00"
+    },
+    {
+      "id": "eee18ddc36c2",
+      "title": "Data Scientist & Machine Learning Engineer - Careers At Identity Digital - ClearCompany",
+      "company": "Identity Digital",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://donuts.hrmdirect.com/employment/job-opening.php?req=3818934&req_loc=1476292&&&nohd",
+      "source": "Other",
+      "description": "... Machine Learning Engineer you will work across and connect the expertise of these two related but distinct disciplines Your responsibilities will ...",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T22:32:32+00:00",
+      "fetched_at": "2026-10-19T01:54:29.057587+00:00"
+    },
+    {
+      "id": "2f6abbe4af25",
+      "title": "Senior Software Engineer in 151 Farmington Avenue, Hartford, Connecticut,United States",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.cvshealth.com/us/en/job/R1062847/Senior-Software-Engineer",
+      "source": "Other",
+      "description": "Apply for Senior Software Engineer job with CVS Health in 151 Farmington Avenue, Hartford, Connecticut,United States. Innovation and Technology at ...",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T21:29:03+00:00",
+      "fetched_at": "2026-10-19T01:54:29.057732+00:00"
+    },
+    {
+      "id": "7a91e8348125",
+      "title": "Software Engineer 1 - Emerson Career Site Careers",
+      "company": "Emerson Career Site Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26011225",
+      "source": "Other",
+      "description": "Software Engineer 1. PUNE, MAHARASHTRA, India (On-site). Apply Now. Job Description. In This Role, Your Responsibilities Will Be: Software testing of ...",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T21:02:24+00:00",
+      "fetched_at": "2026-10-19T01:54:29.285290+00:00"
+    },
     {
       "id": "694458ed770c",
       "title": "Senior Software Engineer - Data Pipelines (Cortex) at Palo Alto Networks",
@@ -64,6 +139,36 @@
       "date": "2026-10-18",
       "timestamp": "2026-10-18T19:42:34+00:00",
       "fetched_at": "2026-10-18T21:56:51.804079+00:00"
+    },
+    {
+      "id": "164b0929c557",
+      "title": "Site Reliability Engineer in Atlanta, Georgia | Intercontinental Exchange Holdings, Inc.",
+      "company": "Intercontinental Exchange Holdings, Inc.",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.ice.com/jobs/13332?lang=en-us",
+      "source": "Other",
+      "description": "Intercontinental Exchange Holdings, Inc. is hiring a Site Reliability Engineer in Atlanta, Georgia. Review all of the job details and apply today!",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T19:42:29+00:00",
+      "fetched_at": "2026-10-19T01:54:29.058232+00:00"
+    },
+    {
+      "id": "1c4a16262d0c",
+      "title": "Senior / Staff Software Engineer , Mobile - Clear Street | Built In Colorado",
+      "company": "Clear Street | Built In Colorado",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.builtincolorado.com/job/senior-staff-software-engineer-mobile/11739970",
+      "source": "Other",
+      "description": "As a Senior Software Engineer on the Clear Street Frontend team, you'll ... Senior Data Engineer . 2 Hours Ago. Easy Apply. Remote or Hybrid. USA.",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T19:22:42+00:00",
+      "fetched_at": "2026-10-19T01:54:29.286088+00:00"
     },
     {
       "id": "2b78062d433b",
@@ -126,6 +231,21 @@
       "fetched_at": "2026-10-18T21:56:51.728042+00:00"
     },
     {
+      "id": "8639f9a4a6ef",
+      "title": "GymKeeper hiring Senior Full Stack Engineer in United States | LinkedIn",
+      "company": "LinkedIn",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/senior-full-stack-engineer-at-gymkeeper-4478213343",
+      "source": "LinkedIn",
+      "description": "Senior Full Stack Engineer \u00b7 Senior Full Stack Engineer \u00b7 Senior Full Stack Engineer \u00b7 Senior Fullstack Engineer (Remote) \u00b7 Senior Software Engineer (Full ...",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T18:17:45+00:00",
+      "fetched_at": "2026-10-19T01:54:29.286915+00:00"
+    },
+    {
       "id": "2917e5f5cbf0",
       "title": "Software Engineer II (Procurement and Risk Technology) Job - TD Bank",
       "company": "TD Bank",
@@ -154,6 +274,21 @@
       "date": "2026-10-18",
       "timestamp": "2026-10-18T16:27:49+00:00",
       "fetched_at": "2026-10-18T21:56:51.804927+00:00"
+    },
+    {
+      "id": "26fb075d2144",
+      "title": "Job offer Full Stack C# .Net Software Engineer - Groupe BNP Paribas",
+      "company": "Groupe BNP Paribas",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://group.bnpparibas/en/careers/job-offer/full-stack-c-net-software-engineer",
+      "source": "Other",
+      "description": "... - Discover our job Full Stack C# .Net Software Engineer ... Full Stack Developer / Data Engineer (Python) \u2013 All Genders \u2013 Fluent in ...",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T16:25:41+00:00",
+      "fetched_at": "2026-10-19T01:54:29.287699+00:00"
     },
     {
       "id": "4782e9a3dd33",
@@ -199,6 +334,21 @@
       "date": "2026-10-18",
       "timestamp": "2026-10-18T15:27:01+00:00",
       "fetched_at": "2026-10-18T21:56:51.728846+00:00"
+    },
+    {
+      "id": "8a18921dfe08",
+      "title": "Sr. Software Engineer in United States - Illinois | Research & Development at Abbott Canvas",
+      "company": "Abbott Canvas",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.jobs.abbott/us/en/job/31164104",
+      "source": "Other",
+      "description": "Senior Full stack Engineer . Location United States - Illinois - Abbott ... Senior Software Engineer , Cloud. Location United States - Illinois ...",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T15:25:01+00:00",
+      "fetched_at": "2026-10-19T01:54:29.287827+00:00"
     },
     {
       "id": "c9528aefd4d9",
