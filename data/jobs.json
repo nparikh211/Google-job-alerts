@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-10-19T01:54:29.334961+00:00",
-  "total_jobs": 11687,
+  "last_updated": "2026-10-19T09:20:12.252954+00:00",
+  "total_jobs": 11712,
   "stats": {
-    "total_companies": 5252,
-    "total_roles": 150,
+    "total_companies": 5264,
+    "total_roles": 151,
     "regions": {
-      "India": 7710,
-      "Philippines": 2460,
-      "Remote": 1433,
+      "India": 7726,
+      "Philippines": 2464,
+      "Remote": 1438,
       "Unknown": 135
     },
     "sources": {
-      "Other": 9149,
-      "Greenhouse": 589,
+      "Other": 9170,
+      "Greenhouse": 591,
       "LinkedIn": 507,
       "Workday": 492,
       "Ashby": 363,
-      "iCIMS": 144,
-      "Breezy": 124,
+      "iCIMS": 145,
+      "Breezy": 125,
       "Workable": 79,
       "SmartRecruiters": 77,
       "Lever": 76,
@@ -36,6 +36,306 @@
   },
   "jobs": [
     {
+      "id": "5d7ac3f2d8bb",
+      "title": "Backend Software Engineer , DX in | Careers at Remote - Americas - ICIMS",
+      "company": "Remote",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers-americas.icims.com/jobs/27728/backend-software-engineer%2C-dx/job",
+      "source": "iCIMS",
+      "description": "Remote - Americas is now hiring a Backend Software Engineer , DX in . Review all of the job details and apply today!",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T07:09:25+00:00",
+      "fetched_at": "2026-10-19T09:20:12.031974+00:00"
+    },
+    {
+      "id": "b37bc624f4cd",
+      "title": "DevOps Engineer | Bengaluru, Karnataka - Hitachi Careers",
+      "company": "Bengaluru, Karnataka - Hitachi Careers",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.hitachi.com/devops-engineer/job/IRC304924",
+      "source": "Other",
+      "description": "Join Hitachi as a DevOps Engineer located at Bengaluru, Karnataka and build a rewarding career with competitive benefits, growth opportunities, ...",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T06:49:48+00:00",
+      "fetched_at": "2026-10-19T09:20:12.203337+00:00"
+    },
+    {
+      "id": "2163c3de5bc3",
+      "title": "Lead Software Engineer , BENGALURU, Karn\u0101taka | Wells Fargo",
+      "company": "Wells Fargo",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.wellsfargojobs.com/en/jobs/r-580170/lead-software-engineer/",
+      "source": "Other",
+      "description": "About this role: Wells Fargo is seeking a Lead Software Engineer (Full Stack Developer) who will be part of building Observability capabilities ...",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T06:45:08+00:00",
+      "fetched_at": "2026-10-19T09:20:12.032537+00:00"
+    },
+    {
+      "id": "fd31dafe1470",
+      "title": "Software Engineer , Associate - Hyderabad | Infor Careers",
+      "company": "Hyderabad | Infor Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.infor.com/en/postings/19a90029-643b-4b49-be84-96696f7c15c9",
+      "source": "Other",
+      "description": "We are looking for a passionate Software Engineer to join our dynamic product development team. In this role, you will design, develop, ...",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T05:46:50+00:00",
+      "fetched_at": "2026-10-19T09:20:12.203725+00:00"
+    },
+    {
+      "id": "f1ad0530d22a",
+      "title": "Associate Cloud Engineer I job in North Chicago, IL - AbbVie Careers",
+      "company": "AbbVie Careers",
+      "role": "Cloud Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.abbvie.com/en/job/associate-cloud-engineer-i-in-north-chicago-il-jid-34605",
+      "source": "Other",
+      "description": "The Associate Cloud Engineer I will help support, design, and deliver technical solutions that keep AbbVie's business platforms running ...",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T05:30:25+00:00",
+      "fetched_at": "2026-10-19T09:20:12.032768+00:00"
+    },
+    {
+      "id": "e1a263b27e49",
+      "title": "Lead Software Engineer at UnitedHealth Group",
+      "company": "UnitedHealth Group",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.unitedhealthgroup.com/job/eden-prairie/lead-software-engineer/34088/102145842512",
+      "source": "Other",
+      "description": "Genoa Healthcare, part of Optum Rx, is seeking an experienced Lead Software Engineer to serve as a technical leader within its Forward Deployed ...",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T05:20:13+00:00",
+      "fetched_at": "2026-10-19T09:20:12.032932+00:00"
+    },
+    {
+      "id": "7da4e0e963ee",
+      "title": "Senior Data Engineer - Remote at UnitedHealth Group",
+      "company": "UnitedHealth Group",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.unitedhealthgroup.com/job/eden-prairie/senior-data-engineer-remote/34088/102145842400",
+      "source": "Other",
+      "description": "Share this job \u00b7 Optum Tech is a global leader in health care innovation. \u00b7 As a Senior Data Engineer , you will play a key role in building, optimizing, ...",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T05:20:12+00:00",
+      "fetched_at": "2026-10-19T09:20:12.033123+00:00"
+    },
+    {
+      "id": "12c6552a95f6",
+      "title": "SRE/ DevOps Engineer , Platform Reliability Engineering Group - Cloud Services Department (CLSD)",
+      "company": "Cloud Services Department",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://japan-job-en.rakuten.careers/job/tokyo/sre-devops-engineer-platform-reliability-engineering-group-cloud-services-department-clsd/32045/102143678048",
+      "source": "Other",
+      "description": "Learn more about applying for SRE/ DevOps Engineer , Platform Reliability Engineering Group - Cloud Services Department (CLSD) at Rakuten.",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T05:16:26+00:00",
+      "fetched_at": "2026-10-19T09:20:12.204644+00:00"
+    },
+    {
+      "id": "cb796309451f",
+      "title": "Job Application for Senior Software Engineer , Business Systems - GTM at Verkada",
+      "company": "Verkada",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/verkada/jobs/5264710007?utm_source=Quiet+job+board&utm_medium=getro.com&gh_src=Quiet+job+board",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer , Business Systems - GTM. San Mateo, CA United States. Apply. Who We Are. Verkada is transforming how organizations protect ...",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T04:32:35+00:00",
+      "fetched_at": "2026-10-19T09:20:12.033268+00:00"
+    },
+    {
+      "id": "d486dfa4d40e",
+      "title": "Data Engineer (Azure, Fabric, Databricks) - Collectiv",
+      "company": "Collectiv",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://collectiv.breezy.hr/p/8a23cec9fcae-data-engineer-azure-fabric-databricks/apply",
+      "source": "Breezy",
+      "description": "Role Overview The Data Engineer is responsible for designing, implementing, and supporting modern data platforms using Microsoft Fabric and ...",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T04:26:53+00:00",
+      "fetched_at": "2026-10-19T09:20:12.033407+00:00"
+    },
+    {
+      "id": "fef38ba0898f",
+      "title": "Ai/ Ml Engineer @ Accelera Digital Group",
+      "company": "Accelera Digital Group",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.deel.com/4a9f4504-6058-403a-9cb7-5dc27b7fe85b-1789634936748/job-details/3724d4d2-0076-4b93-8af0-1ddc1d6be9e2/overview",
+      "source": "Other",
+      "description": "Job Title: Senior AI/ ML Engineer We are seeking an experienced, energetic, and highly motivated Senior AI/ ML Engineer to join our dynamic ...",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T03:36:13+00:00",
+      "fetched_at": "2026-10-19T09:20:12.033662+00:00"
+    },
+    {
+      "id": "e17ed386898b",
+      "title": "Staff IT Software Engineer at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/bengaluru/staff-it-software-engineer/47263/102133647648",
+      "source": "Other",
+      "description": "As a Staff Full Stack Engineer , you will be a technical leader and a key ... Senior Software Engineer - Data Pipelines (Cortex) Tel Aviv, Israel",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T03:31:16+00:00",
+      "fetched_at": "2026-10-19T09:20:12.033815+00:00"
+    },
+    {
+      "id": "bc0f5ee57afa",
+      "title": "Senior AI Engineer - Agentic Systems & LLMs Job Details - Boehringer Ingelheim Careers",
+      "company": "Agentic Systems & LLMs Job Details - Boehringer Ingelheim Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.boehringer-ingelheim.com/job/Biberach-Senior-AI-Engineer-Agentic-Systems-&-LLMs-Germ/1448554733/",
+      "source": "Other",
+      "description": "Biberach Senior AI Engineer - Agentic Systems & LLMs - Germ.",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T02:39:22+00:00",
+      "fetched_at": "2026-10-19T09:20:12.205164+00:00"
+    },
+    {
+      "id": "acd52334c667",
+      "title": "Full Stack Engineer (Hybrid) Job Details | Nestle Operational Services Worldwide SA",
+      "company": "Nestle Operational Services Worldwide SA",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobdetails.nestle.com/job/New-York-Full-Stack-Engineer-(Hybrid)-NY-10001/1446697433/",
+      "source": "Other",
+      "description": "Join us! POSITION OVERVIEW: This Full Stack Engineer will manage local standalone applications for market initiatives which will in turn improve ...",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T02:39:01+00:00",
+      "fetched_at": "2026-10-19T09:20:12.205346+00:00"
+    },
+    {
+      "id": "33795bcf7eee",
+      "title": "Junior Software Engineer in Hanover, Maryland | VTG",
+      "company": "VTG",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.vtgdefense.com/jobs/9669?lang=en-us",
+      "source": "Other",
+      "description": "VTG is hiring a Junior Software Engineer in Hanover, Maryland. Review all of the job details and apply today!",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T02:21:12+00:00",
+      "fetched_at": "2026-10-19T09:20:12.205467+00:00"
+    },
+    {
+      "id": "97672834b71c",
+      "title": "I'm a software engineer with a decade of experience. I vibe code pretty much all of my side ... - Reddit",
+      "company": "Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/ClaudeCode/comments/1x9h6tb/im_a_software_engineer_with_a_decade_of/",
+      "source": "Other",
+      "description": "I'm a software engineer with a decade of experience. I vibe code pretty much all of my side projects using Claude Code. Here are the steps I follow:.",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T01:50:37+00:00",
+      "fetched_at": "2026-10-19T09:20:12.034287+00:00"
+    },
+    {
+      "id": "af8244d8db71",
+      "title": "Senior Data Engineer | Remote?, IL - Allstate Careers",
+      "company": "Remote?, IL - Allstate Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.allstate.jobs/job/24014795/senior-data-engineer-remote-il/",
+      "source": "Other",
+      "description": "Senior Data Engineer . United States. Fully Remote \u2013 As ... Cloud Engineer . Kelly. Dana T. Senior Product Consultant. Paul D. Software Engineer .",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T01:45:38+00:00",
+      "fetched_at": "2026-10-19T09:20:12.034464+00:00"
+    },
+    {
+      "id": "cb78ba2bedd7",
+      "title": "Software Engineer - Panera Bread Careers",
+      "company": "Panera Bread Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.panerabread.com/global/en/job/JR0048722/Software-Engineer",
+      "source": "Other",
+      "description": "Apply for Software Engineer job with Panera Bread in 1400 South Highway Drive, Fenton, MO 63026, United States of America.",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T01:33:46+00:00",
+      "fetched_at": "2026-10-19T09:20:12.034607+00:00"
+    },
+    {
+      "id": "569013a71362",
+      "title": "Junior Software Engineer in Hanover, Maryland - VTG",
+      "company": "VTG",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.vtgdefense.com/jobs/9669?icims=1&utm_source=Simplify&ref=Simplify",
+      "source": "Other",
+      "description": "VTG is hiring a Junior Software Engineer in Hanover, Maryland. Review all of the job details and apply today!",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T01:10:44+00:00",
+      "fetched_at": "2026-10-19T09:20:12.034744+00:00"
+    },
+    {
+      "id": "0129460e65d8",
+      "title": "Fullstack Software Engineer Senior Consultant I | Springfield, IL - Allstate Careers",
+      "company": "Springfield, IL - Allstate Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.allstate.jobs/job/24006075/fullstack-software-engineer-senior-consultant-i-springfield-il/",
+      "source": "Other",
+      "description": "The Full Stack Developer is a hands on, full stack engineer responsible ... Senior MongoDB Database Platform Engineer . Technology. Fully Remote.",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T00:54:42+00:00",
+      "fetched_at": "2026-10-19T09:20:12.034983+00:00"
+    },
+    {
       "id": "63257446638e",
       "title": "Happy Monday.. New role for this week! **SENIOR AI ENGINEER | BRISBANE | Danielle McNeill",
       "company": "BRISBANE | Danielle McNeill",
@@ -49,6 +349,81 @@
       "date": "2026-10-19",
       "timestamp": "2026-10-19T00:44:39+00:00",
       "fetched_at": "2026-10-19T01:54:29.057266+00:00"
+    },
+    {
+      "id": "8111545855a9",
+      "title": "Job Application for Full-Stack Engineer - Fleet Management at Atoms - Greenhouse",
+      "company": "Atoms",
+      "role": "Stack Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/atoms/jobs/8899477002",
+      "source": "Greenhouse",
+      "description": "Full-Stack Engineer - Fleet Management. San Francisco, CA. Apply. Who we are. Atoms is building the machines that power the next era of progress. Over ...",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T00:25:39+00:00",
+      "fetched_at": "2026-10-19T09:20:12.206417+00:00"
+    },
+    {
+      "id": "9b4bdc2fe5ed",
+      "title": "Careers at Sony Interactive Entertainment I Senior Data Engineer",
+      "company": "Sony Interactive Entertainment I Senior Data Engineer",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.playstation.com/senior-data-engineer/job/6223952004",
+      "source": "Other",
+      "description": "Join Sony Interactive Entertainment in Dublin, D! Apply for the Senior Data Engineer role today and start your journey with us.",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T00:02:18+00:00",
+      "fetched_at": "2026-10-19T09:20:12.035464+00:00"
+    },
+    {
+      "id": "5dca6c519236",
+      "title": "Senior Data Engineer - Animal Health Clinical Development - Boehringer Ingelheim Careers",
+      "company": "Animal Health Clinical Development - Boehringer Ingelheim Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.boehringer-ingelheim.com/job/Ingelheim-Senior-Data-Engineer-Animal-Health-Clinical-Development-Germ/1442640833/",
+      "source": "Other",
+      "description": "Ingelheim Senior Data Engineer - Animal Health Clinical Development - Germ.",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T23:22:00+00:00",
+      "fetched_at": "2026-10-19T09:20:12.035742+00:00"
+    },
+    {
+      "id": "c0c1abc4f915",
+      "title": "Stop Telling Agents How \u2014 Dan Barrett, Raymond Weitekamp & Jose Montes de Oca, OpenProse",
+      "company": "Unknown Company",
+      "role": "Stop Telling Agents How \u2014 Dan Barrett, Raymond Weitekamp & J",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.youtube.com/watch?v=7T-gldvgfpo",
+      "source": "Other",
+      "description": "Go to channel AI Engineer \u00b7 Teach Your Agent to Prove It's Done \u2014 Nick Nisi & Zack Proser, WorkOS. AI Engineer . New. 9.4K views \u00b7 20:37 \u00b7 Go to ...",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T22:58:03+00:00",
+      "fetched_at": "2026-10-19T09:20:12.036218+00:00"
+    },
+    {
+      "id": "d6cd6b1c4d22",
+      "title": "Student Placement Software Engineer | Signal and Spectrum Analysis | Rohde & Schwarz",
+      "company": "Signal and Spectrum Analysis | Rohde & Schwarz",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.rohde-schwarz.com/us/career/jobs/student-placement-software-engineer-signal-and-spectrum-analysis_251563-1692096.html",
+      "source": "Other",
+      "description": "Student Placement Software Engineer - Signal and Spectrum Analysis, Software Development, Working students.",
+      "date": "2026-10-18",
+      "timestamp": "2026-10-18T22:37:09+00:00",
+      "fetched_at": "2026-10-19T09:20:12.036540+00:00"
     },
     {
       "id": "d0b5628971b6",
