@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-10-20T19:39:47.278074+00:00",
-  "total_jobs": 11813,
+  "last_updated": "2026-10-20T22:44:04.260089+00:00",
+  "total_jobs": 11825,
   "stats": {
-    "total_companies": 5293,
+    "total_companies": 5299,
     "total_roles": 153,
     "regions": {
-      "India": 7781,
-      "Philippines": 2497,
-      "Remote": 1452,
+      "India": 7788,
+      "Philippines": 2500,
+      "Remote": 1454,
       "Unknown": 135
     },
     "sources": {
-      "Other": 9254,
-      "Greenhouse": 598,
+      "Other": 9263,
+      "Greenhouse": 599,
       "LinkedIn": 509,
-      "Workday": 494,
+      "Workday": 495,
       "Ashby": 364,
       "iCIMS": 146,
       "Breezy": 126,
-      "Workable": 79,
+      "Workable": 80,
       "Lever": 77,
       "SmartRecruiters": 77,
       "Indeed": 39,
@@ -35,6 +35,126 @@
     }
   },
   "jobs": [
+    {
+      "id": "c8697d5e3c60",
+      "title": "Job Application for Senior Software Engineer , Web Platform at Reddit - Greenhouse",
+      "company": "Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/reddit/jobs/8303798",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer , Web Platform. Remote - United States. Apply. Reddit is a community of communities. It's built on shared interests, passion ...",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T21:58:57+00:00",
+      "fetched_at": "2026-10-20T22:44:04.091258+00:00"
+    },
+    {
+      "id": "9f86b326f648",
+      "title": "Staff Software Engineer , Planner - DoorDash",
+      "company": "DoorDash",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careersatdoordash.com/jobs/staff-software-engineer-planner/8304373",
+      "source": "Other",
+      "description": "Staff Software Engineer , Planner. Apply To Job. Job ID: 3590550. DoorDash, Inc. United States - Remote. About the Team. DoorDash Labs, established in ...",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T21:05:32+00:00",
+      "fetched_at": "2026-10-20T22:44:04.210766+00:00"
+    },
+    {
+      "id": "c7d9cc76be51",
+      "title": "Software Engineer - Ottimate - Workable Jobs",
+      "company": "Ottimate",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://apply.workable.com/ottimate/j/1B2646E985/",
+      "source": "Workable",
+      "description": "We're looking for a capable, growth-minded software engineer to join our team as its third engineer. This is an ideal opportunity for an early-to-mid- ...",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T20:16:04+00:00",
+      "fetched_at": "2026-10-20T22:44:04.091604+00:00"
+    },
+    {
+      "id": "c7679c5465b4",
+      "title": "Data Engineer - FanDuel Careers",
+      "company": "FanDuel Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.fanduel.careers/jobs/fanduel/data-engineer-3/?gh_jid=8267158",
+      "source": "Other",
+      "description": "Data Engineer . Atlanta, Georgia, United States Data Engineering. THE POSITION. Our roster has an opening with your name on it FanDuel is looking for ...",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T19:43:03+00:00",
+      "fetched_at": "2026-10-20T22:44:04.210920+00:00"
+    },
+    {
+      "id": "0a501975c96b",
+      "title": "Senior Software Engineer - Data Foundations, Core Integrations and Architecture",
+      "company": "Senior Software Engineer",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.riotgames.com/en/work-with-us/job/8113272/senior-software-engineer-data-foundations-core-integrations-and-architecture-los-angeles-usa",
+      "source": "Other",
+      "description": "You'll lead without authority and provide other engineers with a clear illustration of extraordinary engineering. As a Senior Software Engineer on the ...",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T19:20:50+00:00",
+      "fetched_at": "2026-10-20T22:44:04.211091+00:00"
+    },
+    {
+      "id": "1747b5844b06",
+      "title": "Lead - Data Engineer - 1600 Corporate Center Dr., Monterey Park, CA 91754 - Astrana Health",
+      "company": "Lead",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.astranahealth.com/jobs/599447",
+      "source": "Other",
+      "description": "Join Astrana Health, Inc. in Data - Engineering, 1600 Corporate Center Dr., Monterey Park, CA 91754 as a Lead - Data Engineer .",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T19:18:03+00:00",
+      "fetched_at": "2026-10-20T22:44:04.091856+00:00"
+    },
+    {
+      "id": "9802d87449fd",
+      "title": "Integration Platform Engineer II Job Details - Freeport-McMoRan",
+      "company": "Freeport-McMoRan",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.fcx.com/job/Phoenix-Integration-Platform-Engineer-II-AZ-85004-2121/1441603100/",
+      "source": "Other",
+      "description": "Phoenix Integration Platform Engineer II - AZ, 85004-2121.",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T19:04:43+00:00",
+      "fetched_at": "2026-10-20T22:44:04.092075+00:00"
+    },
+    {
+      "id": "4949bd89859b",
+      "title": "AI Engineer - Myworkdayjobs.com",
+      "company": "Sedgwick",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://sedgwick.wd1.myworkdayjobs.com/en-US/Sedgwick/job/AI-Engineer_R79500",
+      "source": "Workday",
+      "description": "... AI Engineer PRIMARY PURPOSE: The AI Engineer within the Transformation Office serves as the hands\u2011on architect of the enterprise data supply chain ...",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T18:12:05+00:00",
+      "fetched_at": "2026-10-20T22:44:04.092144+00:00"
+    },
     {
       "id": "cc9351d00a42",
       "title": "Senior Applied Machine Learning Engineer in Durham, North Carolina, 27703",
@@ -81,6 +201,36 @@
       "fetched_at": "2026-10-20T19:39:47.135456+00:00"
     },
     {
+      "id": "b8b888501b9c",
+      "title": "Data Engineer , Crew Data Products - Delta Log In",
+      "company": "Delta Log In",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://delta.avature.net/en_US/careers/JobDetail/Data-Engineer-Crew-Data-Products/34802?jobId=34802",
+      "source": "Other",
+      "description": "Data Engineer , Crew Data Products. United States, Georgia, Atlanta. Crew Resources. 20-Oct-2026. Ref #: 34802. How you'll help us Keep Climbing ...",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T17:23:37+00:00",
+      "fetched_at": "2026-10-20T22:44:04.092663+00:00"
+    },
+    {
+      "id": "99a84e4f989d",
+      "title": "Software Engineer - Access Edge Terminal Software in Multiple Locations | Viasat, Inc.",
+      "company": "Access Edge Terminal Software in Multiple Locations | Viasat, Inc.",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.viasat.com/jobs/6797?lang=en-us",
+      "source": "Other",
+      "description": "Viasat is hiring a Software Engineer - Access Edge Terminal Software in Multiple Locations. Review all of the job details and apply today!",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T17:20:47+00:00",
+      "fetched_at": "2026-10-20T22:44:04.092746+00:00"
+    },
+    {
       "id": "5dfe6094c1f3",
       "title": "Senior Software Engineer , ML Evaluation & Introspection Infrastructure",
       "company": "Unknown Company",
@@ -109,6 +259,21 @@
       "date": "2026-10-20",
       "timestamp": "2026-10-20T17:19:47+00:00",
       "fetched_at": "2026-10-20T19:39:47.135626+00:00"
+    },
+    {
+      "id": "e7688d51036b",
+      "title": "Full Stack Engineer II in Phoenix, Arizona, 85054 | Information Technology at Republic Services",
+      "company": "Republic Services",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.republicservices.com/us/en/job/R-186867/Full-Stack-Engineer-II",
+      "source": "Other",
+      "description": "POSITION SUMMARY: The Full Stack Engineer II serves as a technical resource and participates in all phases of the development life cycle.",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T17:13:24+00:00",
+      "fetched_at": "2026-10-20T22:44:04.092905+00:00"
     },
     {
       "id": "05ba5f01b736",
@@ -214,6 +379,21 @@
       "date": "2026-10-20",
       "timestamp": "2026-10-20T16:16:01+00:00",
       "fetched_at": "2026-10-20T19:39:47.137191+00:00"
+    },
+    {
+      "id": "79704b4e1095",
+      "title": "Senior Software Engineer - MongoDB",
+      "company": "MongoDB",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.mongodb.com/careers/jobs/8300359",
+      "source": "Other",
+      "description": "Senior Software Engineer . New York City. The database market is massive and MongoDB is at the head of its disruption. At MongoDB we are transforming ...",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T16:15:31+00:00",
+      "fetched_at": "2026-10-20T22:44:04.212278+00:00"
     },
     {
       "id": "39acaef93564",
