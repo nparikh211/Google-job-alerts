@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-10-20T08:54:25.956967+00:00",
-  "total_jobs": 11779,
+  "last_updated": "2026-10-20T15:51:38.518051+00:00",
+  "total_jobs": 11791,
   "stats": {
-    "total_companies": 5284,
+    "total_companies": 5288,
     "total_roles": 153,
     "regions": {
-      "India": 7767,
-      "Philippines": 2482,
-      "Remote": 1446,
+      "India": 7768,
+      "Philippines": 2490,
+      "Remote": 1450,
       "Unknown": 135
     },
     "sources": {
-      "Other": 9226,
-      "Greenhouse": 595,
+      "Other": 9235,
+      "Greenhouse": 597,
       "LinkedIn": 509,
       "Workday": 493,
       "Ashby": 364,
@@ -24,7 +24,7 @@
       "Indeed": 39,
       "Recruitee": 13,
       "BrassRing": 11,
-      "WeWorkRemotely": 8,
+      "WeWorkRemotely": 9,
       "Jobvite": 8,
       "Taleo": 7,
       "ADP": 2
@@ -35,6 +35,172 @@
     }
   },
   "jobs": [
+    {
+      "id": "8abc8574b986",
+      "title": "Software Engineer III- AI, LLM & Data Platforms - JPMorgan Chase",
+      "company": "AI, LLM & Data Platforms - JPMorgan Chase",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/210792343",
+      "source": "Other",
+      "description": "Software Engineer III - Data Engineer /Applied AI (LLMs). Plano, TX ... Software Engineer III \u2013 AWS Data Platform Engineer . Plano, TX, United ...",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T12:43:27+00:00",
+      "fetched_at": "2026-10-20T15:51:38.468114+00:00"
+    },
+    {
+      "id": "23b79ffe592f",
+      "title": "Job Application for Software Engineer , Machine Learning at Scopely - Greenhouse",
+      "company": "Scopely",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/scopely/jobs/5456049008?gh_jid=5456049008",
+      "source": "Greenhouse",
+      "description": "Software Engineer , Machine Learning (Scopely Explore Inc Inc, fka Niantic Inc.; San Francisco, CA): Implement and maintain scalable infrastructure ...",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T12:27:30+00:00",
+      "fetched_at": "2026-10-20T15:51:38.468244+00:00"
+    },
+    {
+      "id": "fc0510accb54",
+      "title": "Forward Deployed AI Engineer job in Anderlecht, Brussels, Belgium - UCB jobs",
+      "company": "UCB jobs",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.ucb.com/global/en/job/UCB1GLOBAL94039EXTERNALENGLOBAL/Forward-Deployed-AI-Engineer",
+      "source": "Other",
+      "description": "Apply for Forward Deployed AI Engineer job with UCB in Anderlecht, Brussels, Belgium. Browse and apply for Finance, Digital, ...",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T12:26:01+00:00",
+      "fetched_at": "2026-10-20T15:51:38.468435+00:00"
+    },
+    {
+      "id": "38dfd914585b",
+      "title": "Full Stack Engineer (TS/SCI) at Hazel - Y Combinator",
+      "company": "Hazel",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.ycombinator.com/companies/hazel-2/jobs/PpNKYBS-full-stack-engineer-ts-sci",
+      "source": "Other",
+      "description": "... full stack engineer , you will be at ... Applied AI Engineer \u00b7 Pine Park Health \u00b7 Senior Software Engineer (Hybrid/San Francisco area).",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T12:20:10+00:00",
+      "fetched_at": "2026-10-20T15:51:38.468589+00:00"
+    },
+    {
+      "id": "58e7ebcadfff",
+      "title": "Job Application for Senior Software Engineer - Data Infrastructure at Backblaze External Website",
+      "company": "Backblaze",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/backblaze/jobs/5451391008",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer - Data Infrastructure. Remote - US. Apply. About Backblaze. Backblaze is the object storage leader in the open cloud movement ...",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T11:52:49+00:00",
+      "fetched_at": "2026-10-20T15:51:38.468996+00:00"
+    },
+    {
+      "id": "954e8d781314",
+      "title": "Senior Software Engineer , Agentic Platform | Jobs at GetYourGuide",
+      "company": "GetYourGuide",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.getyourguide.careers/jobs/8264281",
+      "source": "Other",
+      "description": "Apply for the role of Senior Software Engineer , Agentic Platform in our Engineering team in Berlin. Join the journey.",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T11:16:58+00:00",
+      "fetched_at": "2026-10-20T15:51:38.469136+00:00"
+    },
+    {
+      "id": "8eefb471443a",
+      "title": "Remote Senior Data Engineer at Growth Minded",
+      "company": "Growth Minded",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://weworkremotely.com/remote-jobs/growth-minded-senior-data-engineer",
+      "source": "WeWorkRemotely",
+      "description": "Growth Minded is hiring a remote Senior Data Engineer to join their remote Full-Stack Programming team. About the role You'll own the data layer ...",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T09:03:10+00:00",
+      "fetched_at": "2026-10-20T15:51:38.469336+00:00"
+    },
+    {
+      "id": "c5b223fecd05",
+      "title": "Full Stack Engineer (Remote) | Lititz, PA - Clark Associates | Careers",
+      "company": "Lititz, PA - Clark Associates | Careers",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Philippines",
+        "Remote"
+      ],
+      "link": "https://careers.clarkassociatesinc.biz/careerdetail/?id=104054",
+      "source": "Other",
+      "description": "Job Summary. We are looking for a Full Stack Engineer to join our centralized development team, where you'll help design, build, and maintain the ...",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T09:03:07+00:00",
+      "fetched_at": "2026-10-20T15:51:38.469510+00:00"
+    },
+    {
+      "id": "c2704598ebc0",
+      "title": "2027 Summer Intern, AI Engineer (Reston, VA) - ICF career",
+      "company": "ICF career",
+      "role": "AI Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.icf.com/us/en/job/R2603521/2027-Summer-Intern-AI-Engineer-Reston-VA",
+      "source": "Other",
+      "description": "... Software Engineer (Reston, VA). Location Reston, Virginia, United States ... Data Engineer (Reston, VA or Remote). Available in 2 locations. Job ...",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T07:52:51+00:00",
+      "fetched_at": "2026-10-20T15:51:38.469674+00:00"
+    },
+    {
+      "id": "ec03d0d041bd",
+      "title": "Software Engineer at Ford Motor Company",
+      "company": "Ford Motor Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.careers.ford.com/job/chennai/software-engineer/48560/102176609584",
+      "source": "Other",
+      "description": "Software Engineer \u00b7 Use an AI first approach to development. \u00b7 Design, develop, test, deploy, and maintain robust and scalable full-stack applications.",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T06:30:32+00:00",
+      "fetched_at": "2026-10-20T15:51:38.469806+00:00"
+    },
+    {
+      "id": "dd30ec7b9bd5",
+      "title": "Senior Software Engineer , Streaming Infrastructure - Careers at Airbnb",
+      "company": "Airbnb",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.airbnb.com/positions/8242235/",
+      "source": "Other",
+      "description": "Senior Software Engineer , Streaming Infrastructure. United States. Role overview. Application. Airbnb was born in 2007 when two hosts welcomed three ...",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T05:31:42+00:00",
+      "fetched_at": "2026-10-20T15:51:38.469912+00:00"
+    },
     {
       "id": "6d314922e8d6",
       "title": "Senior AI Engineer - Myworkdayjobs.com",
@@ -49,6 +215,21 @@
       "date": "2026-10-20",
       "timestamp": "2026-10-20T05:02:02+00:00",
       "fetched_at": "2026-10-20T08:54:25.903079+00:00"
+    },
+    {
+      "id": "5238808badb4",
+      "title": "Senior Software Engineer - Automation & Build Systems, Unpublished R&D Product",
+      "company": "Automation & Build Systems, Unpublished R&D Product",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.riotgames.com/en/work-with-us/job/8293711/senior-software-engineer-automation-build-systems-unpublished-r-d-product-sydney-australia",
+      "source": "Other",
+      "description": "Senior Software Engineer - Automation & Build Systems, Unpublished R&D Product. Sydney, Australia. Job Id: REQ-0010423. At Riot, we believe in ...",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T04:08:49+00:00",
+      "fetched_at": "2026-10-20T15:51:38.470519+00:00"
     },
     {
       "id": "9b3bc4727900",
