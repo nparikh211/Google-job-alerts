@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-10-20T15:51:38.518051+00:00",
-  "total_jobs": 11791,
+  "last_updated": "2026-10-20T19:39:47.278074+00:00",
+  "total_jobs": 11813,
   "stats": {
-    "total_companies": 5288,
+    "total_companies": 5293,
     "total_roles": 153,
     "regions": {
-      "India": 7768,
-      "Philippines": 2490,
-      "Remote": 1450,
+      "India": 7781,
+      "Philippines": 2497,
+      "Remote": 1452,
       "Unknown": 135
     },
     "sources": {
-      "Other": 9235,
-      "Greenhouse": 597,
+      "Other": 9254,
+      "Greenhouse": 598,
       "LinkedIn": 509,
-      "Workday": 493,
+      "Workday": 494,
       "Ashby": 364,
-      "iCIMS": 145,
+      "iCIMS": 146,
       "Breezy": 126,
       "Workable": 79,
       "Lever": 77,
@@ -35,6 +35,336 @@
     }
   },
   "jobs": [
+    {
+      "id": "cc9351d00a42",
+      "title": "Senior Applied Machine Learning Engineer in Durham, North Carolina, 27703",
+      "company": "Unknown Company",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.hpe.com/us/en/job/1216153/Senior-Applied-Machine-Learning-Engineer",
+      "source": "Other",
+      "description": "Senior Applied Machine Learning Engineer . Description. Senior ... Become part of our team as a Senior Software Engineer , Inference, where ...",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T17:38:45+00:00",
+      "fetched_at": "2026-10-20T19:39:47.135048+00:00"
+    },
+    {
+      "id": "cd2b61c2493b",
+      "title": "Senior Software Engineer , Motion Controls",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://aurora.tech/careers/fcb5715b-0ec7-407a-be1b-369074273be0",
+      "source": "Other",
+      "description": "Senior Software Engineer , Motion Controls. Who we are. Aurora's mission is to deliver the benefits of self-driving technology safely, quickly, and ...",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T17:30:06+00:00",
+      "fetched_at": "2026-10-20T19:39:47.135226+00:00"
+    },
+    {
+      "id": "b39bbab0183c",
+      "title": "Machine Learning Engineer (AI Enablement) - Careers at Genentech",
+      "company": "Genentech",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.gene.com/us/en/job/202610-125840/Machine-Learning-Engineer-AI-Enablement",
+      "source": "Other",
+      "description": "Machine Learning Engineer (AI Enablement). Apply Now. Back to search ... Senior AI Engineer - Imaging. Location South San Francisco, California ...",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T17:27:43+00:00",
+      "fetched_at": "2026-10-20T19:39:47.135456+00:00"
+    },
+    {
+      "id": "5dfe6094c1f3",
+      "title": "Senior Software Engineer , ML Evaluation & Introspection Infrastructure",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://aurora.tech/careers/52ff9be4-0e2f-43f0-8867-c84cb123a1c5",
+      "source": "Other",
+      "description": "We're searching for a Senior Software Engineer , ML Evaluation & Introspection Infrastructure to join our Behavior Analysis team, reporting to the ...",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T17:20:27+00:00",
+      "fetched_at": "2026-10-20T19:39:47.221240+00:00"
+    },
+    {
+      "id": "70f972f28bd7",
+      "title": "Senior Software Engineer , Remote plus 1 location | General Motors Careers",
+      "company": "General Motors Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://search-careers.gm.com/en/jobs/jr-202609267/senior-software-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer . Location. Remote; Sunnyvale, California. (+) Show ... Senior Software Engineer , Simulation. H0A0504 Test3 RGB Def 1 (2) ...",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T17:19:47+00:00",
+      "fetched_at": "2026-10-20T19:39:47.135626+00:00"
+    },
+    {
+      "id": "05ba5f01b736",
+      "title": "Software Engineer , Payin - Stripe Careers",
+      "company": "Stripe Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://stripe.com/careers/listing/software-engineer-payin/8185012",
+      "source": "Other",
+      "description": "Software Engineer , Payin. Who we are. About Stripe. Stripe is a financial infrastructure platform for businesses. Millions of companies - from the ...",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T17:08:52+00:00",
+      "fetched_at": "2026-10-20T19:39:47.135773+00:00"
+    },
+    {
+      "id": "a31f6427c852",
+      "title": "Full Stack Engineer - Rippling",
+      "company": "Rippling",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/differentai/jobs/b1af21a2-ca30-42a1-a952-04070e5d939f",
+      "source": "Other",
+      "description": "Full Stack Engineer . About us. Different is a marketing system that runs demand generation for B2B companies. It handles campaign creation, ...",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T17:08:39+00:00",
+      "fetched_at": "2026-10-20T19:39:47.135960+00:00"
+    },
+    {
+      "id": "d6a3df992faf",
+      "title": "Senior Software Engineer II - Careers at Scottsdale - Axway",
+      "company": "Scottsdale",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers-axway.icims.com/jobs/9034/senior-software-engineer-ii/job",
+      "source": "iCIMS",
+      "description": "Scottsdale is now hiring a Senior Software Engineer II in Scottsdale, Arizona. Review all of the job details and apply today!",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T17:01:30+00:00",
+      "fetched_at": "2026-10-20T19:39:47.136098+00:00"
+    },
+    {
+      "id": "798d3732de65",
+      "title": "Software Engineer looking to move companies. Any recommendations? : r/HENRYUK",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/HENRYUK/comments/1xaqg96/software_engineer_looking_to_move_companies_any/",
+      "source": "Other",
+      "description": "Software Engineer looking to move companies. Any recommendations ... r/ResumeExperts - Need help landing a IAM / Cloud Engineer Role. 6. 6 ...",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T16:47:08+00:00",
+      "fetched_at": "2026-10-20T19:39:47.136292+00:00"
+    },
+    {
+      "id": "38291741f543",
+      "title": "Senior Data Engineer - this page",
+      "company": "Nvidia",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Senior-Data-Engineer_JR2027678",
+      "source": "Workday",
+      "description": "NVIDIA's Digital Marketing Operations team is seeking a Senior Data Engineer to help build the shared data infrastructure that powers customer ...",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T16:44:15+00:00",
+      "fetched_at": "2026-10-20T19:39:47.136387+00:00"
+    },
+    {
+      "id": "5ea87bc9d4f2",
+      "title": "Senior Software Engineer - MongoDB | Built In NYC",
+      "company": "MongoDB | Built In NYC",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.builtinnyc.com/job/senior-software-engineer/11770748",
+      "source": "Other",
+      "description": "MongoDB is hiring for a Senior Software Engineer in New York City, NY, USA. Find more details about the job and how to apply at Built In NYC.",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T16:37:24+00:00",
+      "fetched_at": "2026-10-20T19:39:47.136533+00:00"
+    },
+    {
+      "id": "cf87fc91bcee",
+      "title": "Senior Software Engineer - Jobs at Danfoss",
+      "company": "Danfoss",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.danfoss.com/job/Senior-Software-Engineer/52101-en_GB/",
+      "source": "Other",
+      "description": "The Impact You'll Make. Are you a Senior Software Engineer with experience in embedded Linux systems development? We are looking for an experienced ...",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T16:16:01+00:00",
+      "fetched_at": "2026-10-20T19:39:47.137191+00:00"
+    },
+    {
+      "id": "39acaef93564",
+      "title": "Software Engineer at Ford Motor Company - Ford Careers",
+      "company": "Ford Motor Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.careers.ford.com/en/job/united-states/software-engineer/48560/102176607312",
+      "source": "Other",
+      "description": "Software Engineer \u00b7 Engineer high-quality, reusable code to develop dynamic user interfaces across multiple platforms \u00b7 Enhance testing frameworks, ...",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T16:10:07+00:00",
+      "fetched_at": "2026-10-20T19:39:47.137329+00:00"
+    },
+    {
+      "id": "bb930c12bbbb",
+      "title": "Sr. Software Engineer - AI Solutions Engineering | Schwab Jobs",
+      "company": "Sr. Software Engineer",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.schwabjobs.com/job/austin/sr-software-engineer-ai-solutions-engineering/33727/101266248384",
+      "source": "Other",
+      "description": "Learn more about applying for Sr. Software Engineer - AI Solutions Engineering at Charles Schwab.",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T16:05:51+00:00",
+      "fetched_at": "2026-10-20T19:39:47.137495+00:00"
+    },
+    {
+      "id": "64ccbb768101",
+      "title": "Senior Frontend Engineer - Nordhealth",
+      "company": "Nordhealth",
+      "role": "Frontend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.nordhealth.com/jobs/8571712-senior-frontend-engineer",
+      "source": "Other",
+      "description": "Senior Frontend Engineer . For our Veterinary Unit - Provet! Apply for this job. Who are we? Nordhealth (OB:NORDH) is the leading provider of ...",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T15:57:27+00:00",
+      "fetched_at": "2026-10-20T19:39:47.137783+00:00"
+    },
+    {
+      "id": "5405eb2f4374",
+      "title": "Full Stack Software Engineer - - 13974 - Avature",
+      "company": "- 13974 - Avature",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://mhcta.avature.net/careers/JobDetail/Full-Stack-Software-Engineer/13974",
+      "source": "Other",
+      "description": "Job Title. Full Stack Software Engineer ; Business Function. Information Technology ; Branch Name. Murphy-Hoffman Company ; Date. 10-19-2026 ; Address.",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T15:37:58+00:00",
+      "fetched_at": "2026-10-20T19:39:47.223096+00:00"
+    },
+    {
+      "id": "b76779187d2b",
+      "title": "Software Engineer (React and Java) - Zions Bank Careers",
+      "company": "Zions Bank Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://zionsbancorp.referrals.selectminds.com/jobs/software-engineer-react-and-java-28963",
+      "source": "Other",
+      "description": "We are seeking a Software Engineer to join Zions Bancorporation. The Software Engineer plays a key role in developing innovative software ...",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T15:32:18+00:00",
+      "fetched_at": "2026-10-20T19:39:47.223270+00:00"
+    },
+    {
+      "id": "def91b4068fa",
+      "title": "Data Engineer | Trading Technologies",
+      "company": "Trading Technologies",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://tradingtechnologies.com/job/data-engineer-602118/?jr_id=6ad645db3dc655658d8e3e9b",
+      "source": "Other",
+      "description": "We are looking for a Data Engineer with strong Microsoft SQL Server and Snowflake experience to join our Data & Analytics engineering team.",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T15:22:03+00:00",
+      "fetched_at": "2026-10-20T19:39:47.223723+00:00"
+    },
+    {
+      "id": "6b55108e43b3",
+      "title": "Lead Data Engineer (AWS) in Multiple Locations | State Farm",
+      "company": "State Farm",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.statefarm.com/main/jobs/46673?lang=en-us",
+      "source": "Other",
+      "description": "Lead Data Engineer (AWS) \u00b7 Tempe, Arizona; Bloomington, Illinois; Richardson, Texas; Dunwoody, Georgia \u00b7 Technology and UX \u00b7 Regular Full Time \u00b7 46673.",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T15:14:57+00:00",
+      "fetched_at": "2026-10-20T19:39:47.223871+00:00"
+    },
+    {
+      "id": "b400e76313b9",
+      "title": "Software Engineer (Java / Spring) - Careers at Moody's",
+      "company": "Moody's",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.moodys.com/en/job/king-of-prussia/software-engineer-java-spring/49841/102176542704",
+      "source": "Other",
+      "description": "Software Engineer (Java / Spring) \u00b7 Develop and enhance screening applications, including grid screening solutions, using Java, Spring Boot, and ...",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T15:05:13+00:00",
+      "fetched_at": "2026-10-20T19:39:47.224067+00:00"
+    },
+    {
+      "id": "150bd98eab9c",
+      "title": "Senior Full-Stack Engineer - Grafana Analytics| NASA | (Remote, USA) - Greenhouse",
+      "company": "Grafanalabs",
+      "role": "Stack Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/grafanalabs/jobs/6228094004",
+      "source": "Greenhouse",
+      "description": "Senior Full-Stack Engineer - Grafana Analytics| NASA | (Remote, USA) ... We're looking for a Full-Stack Software Engineer with a strong software ...",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T14:44:24+00:00",
+      "fetched_at": "2026-10-20T19:39:47.224614+00:00"
+    },
+    {
+      "id": "775992ff0117",
+      "title": "AI/ ML Engineer - Mid Level at USAA",
+      "company": "USAA",
+      "role": "ML Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.usaajobs.com/job/san-antonio/ai-ml-engineer-mid-level/1207/102166808736",
+      "source": "Other",
+      "description": "Learn more about and apply for the AI/ ML Engineer - Mid Level job at USAA here.",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T14:28:05+00:00",
+      "fetched_at": "2026-10-20T19:39:47.224752+00:00"
+    },
     {
       "id": "8abc8574b986",
       "title": "Software Engineer III- AI, LLM & Data Platforms - JPMorgan Chase",
