@@ -1,26 +1,26 @@
 {
-  "last_updated": "2026-10-20T02:12:42.992945+00:00",
-  "total_jobs": 11773,
+  "last_updated": "2026-10-20T08:54:25.956967+00:00",
+  "total_jobs": 11779,
   "stats": {
-    "total_companies": 5281,
-    "total_roles": 152,
+    "total_companies": 5284,
+    "total_roles": 153,
     "regions": {
-      "India": 7766,
-      "Philippines": 2477,
+      "India": 7767,
+      "Philippines": 2482,
       "Remote": 1446,
       "Unknown": 135
     },
     "sources": {
-      "Other": 9222,
+      "Other": 9226,
       "Greenhouse": 595,
       "LinkedIn": 509,
-      "Workday": 492,
+      "Workday": 493,
       "Ashby": 364,
       "iCIMS": 145,
       "Breezy": 126,
       "Workable": 79,
+      "Lever": 77,
       "SmartRecruiters": 77,
-      "Lever": 76,
       "Indeed": 39,
       "Recruitee": 13,
       "BrassRing": 11,
@@ -31,10 +31,85 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-10-19"
+      "latest": "2026-10-20"
     }
   },
   "jobs": [
+    {
+      "id": "6d314922e8d6",
+      "title": "Senior AI Engineer - Myworkdayjobs.com",
+      "company": "Sedgwick",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://sedgwick.wd1.myworkdayjobs.com/en-US/Sedgwick/job/Senior-AI-Engineer_R79503",
+      "source": "Workday",
+      "description": "Senior AI Engineer . Apply. locations: Telecommuter FL. posted on: Posted Today. job requisition id: R79503. By joining Sedgwick, you'll be part of ...",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T05:02:02+00:00",
+      "fetched_at": "2026-10-20T08:54:25.903079+00:00"
+    },
+    {
+      "id": "9b3bc4727900",
+      "title": "Palantir Technologies - Software Engineer , Internship - Query Engines - Lever",
+      "company": "Palantir",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13/apply",
+      "source": "Lever",
+      "description": "Software Engineer , Internship - Query Engines \u00b7 Submit your application \u00b7 Links \u00b7 Supplementary Questions \u00b7 Early Talent Questions - Offer Deadlines.",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T03:40:44+00:00",
+      "fetched_at": "2026-10-20T08:54:25.903468+00:00"
+    },
+    {
+      "id": "e582cde23d2d",
+      "title": "AI Engineer CODE Summit (@aiDotEngineer) on X",
+      "company": "Unknown Company",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://x.com/aiDotEngineer/status/2112276851355693315",
+      "source": "Other",
+      "description": "... Software Engineer @ Ramp Nov 10-12, SF. Come hang out with us. Apply at ai.engineer /code. AI Engineer Code Summit speaker announcement featuring ...",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T03:28:51+00:00",
+      "fetched_at": "2026-10-20T08:54:25.903604+00:00"
+    },
+    {
+      "id": "0c89903604f4",
+      "title": "View Open Job Positions - TENEX.AI",
+      "company": "Unknown Company",
+      "role": "View Open Job Positions - TENEX.AI",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://tenex.ai/careers/open-positions",
+      "source": "Other",
+      "description": "Engineering \u00b7 AI/ ML Engineer \u00b7 AI/ ML Engineer II \u00b7 Platform Engineer , AI & Security \u00b7 Platform Security Automation Engineer \u00b7 Principal AI Engineer .",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T01:09:50+00:00",
+      "fetched_at": "2026-10-20T08:54:25.904177+00:00"
+    },
+    {
+      "id": "7b9deb7be95b",
+      "title": "Cloud Engineer - - 132031 - Booz | Allen | Hamilton \u00ae",
+      "company": "- 132031 - Booz | Allen | Hamilton \u00ae",
+      "role": "Cloud Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.boozallen.com/jobs/JobDetail?jobId=132031",
+      "source": "Other",
+      "description": "Cloud Engineer . The Opportunity: Manage, administer, support, and enhance cloud environments, ensuring continuous improvement and rapid problem ...",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T23:50:03+00:00",
+      "fetched_at": "2026-10-20T08:54:25.678255+00:00"
+    },
     {
       "id": "2222b2cd2c48",
       "title": "Graduate Software Engineer job in London | Wise",
@@ -154,6 +229,21 @@
       "date": "2026-10-19",
       "timestamp": "2026-10-19T21:44:02+00:00",
       "fetched_at": "2026-10-19T23:09:30.236837+00:00"
+    },
+    {
+      "id": "965cac41f6a1",
+      "title": "Senior Software Engineer with Python - CodiLime",
+      "company": "CodiLime",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.codilime.com/jobs/8571212-senior-software-engineer-with-python",
+      "source": "Other",
+      "description": "Senior Software Engineer with Python. Apply for this job. Get to know us better. CodiLime is a software and network engineering industry expert and ...",
+      "date": "2026-10-19",
+      "timestamp": "2026-10-19T21:17:28+00:00",
+      "fetched_at": "2026-10-20T08:54:25.905636+00:00"
     },
     {
       "id": "02a4290be80f",
