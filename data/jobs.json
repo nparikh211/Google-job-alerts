@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-10-20T22:44:04.260089+00:00",
-  "total_jobs": 11825,
+  "last_updated": "2026-10-21T02:06:09.696279+00:00",
+  "total_jobs": 11840,
   "stats": {
-    "total_companies": 5299,
+    "total_companies": 5310,
     "total_roles": 153,
     "regions": {
-      "India": 7788,
-      "Philippines": 2500,
+      "India": 7802,
+      "Philippines": 2501,
       "Remote": 1454,
       "Unknown": 135
     },
     "sources": {
-      "Other": 9263,
-      "Greenhouse": 599,
-      "LinkedIn": 509,
+      "Other": 9274,
+      "Greenhouse": 600,
+      "LinkedIn": 510,
       "Workday": 495,
-      "Ashby": 364,
+      "Ashby": 365,
       "iCIMS": 146,
       "Breezy": 126,
-      "Workable": 80,
+      "Workable": 81,
       "Lever": 77,
       "SmartRecruiters": 77,
       "Indeed": 39,
@@ -31,10 +31,145 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-10-20"
+      "latest": "2026-10-21"
     }
   },
   "jobs": [
+    {
+      "id": "114eb713a5c7",
+      "title": "Machine Learning Engineer - Chooch - Application - Workable Jobs",
+      "company": "Chooch",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://apply.workable.com/chooch/j/04471691E6/apply/",
+      "source": "Workable",
+      "description": "Machine Learning Engineer . HybridFull time. San Mateo, California, United States. OverviewApplication. Autofill application. Save time by importing ...",
+      "date": "2026-10-21",
+      "timestamp": "2026-10-21T00:28:58+00:00",
+      "fetched_at": "2026-10-21T02:06:09.547949+00:00"
+    },
+    {
+      "id": "a4a1c09d54ac",
+      "title": "Software Engineer - Madison, Wisconsin, United States",
+      "company": "Madison, Wisconsin, United States",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.wisc.edu/jobs/software-engineer-madison-wisconsin-united-states-7aeeeea5-0731-4fe5-86f7-fa9133cecb17",
+      "source": "Other",
+      "description": "Job Summary: The Software Engineer will be responsible for custom development that integrates the College of Engineering systems with campus data ...",
+      "date": "2026-10-21",
+      "timestamp": "2026-10-21T00:05:32+00:00",
+      "fetched_at": "2026-10-21T02:06:09.548805+00:00"
+    },
+    {
+      "id": "850df8489177",
+      "title": "Data Engineer at Co-op | Grace O'Halloran | 11 comments - LinkedIn",
+      "company": "op | Grace O'Halloran | 11 comments - LinkedIn",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/grace-o-halloran_data-engineer-at-co-op-activity-7518314954882486272-o3vn",
+      "source": "LinkedIn",
+      "description": "Hi, I'm a Senior Software Engineer with 6+ years of experience in C#/.NET, Angular, TypeScript, JavaScript, Azure, SQL, Python and AI technologies.",
+      "date": "2026-10-21",
+      "timestamp": "2026-10-21T00:05:06+00:00",
+      "fetched_at": "2026-10-21T02:06:09.549112+00:00"
+    },
+    {
+      "id": "5bc99c0aa2e9",
+      "title": "Senior Software Engineer - Seedtag",
+      "company": "Seedtag",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.seedtag.com/jobs/8578657-senior-software-engineer",
+      "source": "Other",
+      "description": "We're looking for a Senior Software Engineer to join our tech team and help build the future of neuro-contextual advertising at global scale.",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T23:44:02+00:00",
+      "fetched_at": "2026-10-21T02:06:09.549275+00:00"
+    },
+    {
+      "id": "164e9192b49b",
+      "title": "Job Application for Software Engineer at Gradial - Greenhouse",
+      "company": "Gradial",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/gradial/jobs/4459656009",
+      "source": "Greenhouse",
+      "description": "Software Engineer . Seattle, WA. Apply. Gradial is building the AI-native system of work for enterprise marketing. Our agents turn ideas into live ...",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T23:33:53+00:00",
+      "fetched_at": "2026-10-21T02:06:09.549407+00:00"
+    },
+    {
+      "id": "2a94f28114d0",
+      "title": "Software Engineer , Backend @ Patreon - Jobs",
+      "company": "Patreon",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/patreon/2c79ab4b-6479-451d-bbac-e2e2fb0dc911",
+      "source": "Ashby",
+      "description": "... Software Engineer , Backend to support our mission. This role is ... Backend Engineer on the team, you will build and own the services, APIs ...",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T23:26:05+00:00",
+      "fetched_at": "2026-10-21T02:06:09.549518+00:00"
+    },
+    {
+      "id": "520ea5aceba7",
+      "title": "Full-Stack Engineer , Sunnyvale, CA, United States - Intuitive Surgical Careers",
+      "company": "Full",
+      "role": "Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.intuitive.com/en/jobs/744000156658124/JOB219489/full-stack-engineer/",
+      "source": "Other",
+      "description": "Full-Stack Engineer . Sunnyvale, CA ... Senior Software Engineer . Save Saved. Sunnyvale, CA, United States. Sr. Simulation & Synthetic Data Engineer .",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T23:11:25+00:00",
+      "fetched_at": "2026-10-21T02:06:09.549929+00:00"
+    },
+    {
+      "id": "fc1412e4e366",
+      "title": "Senior Software Engineer , DSD Routing & Delivery Technology - Keurig Dr Pepper Careers",
+      "company": "Keurig Dr Pepper Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.keurigdrpepper.com/en/job/frisco/senior-software-engineer-dsd-routing-and-delivery-technology/42849/101563628720",
+      "source": "Other",
+      "description": "Drink in the possibilities at Keurig Dr Pepper. Learn more about our Senior Software Engineer , DSD Routing & Delivery Technology job in Frisco and ...",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T23:09:22+00:00",
+      "fetched_at": "2026-10-21T02:06:09.550203+00:00"
+    },
+    {
+      "id": "bf961f2cdba8",
+      "title": "Senior Software Engineer - SureCost - Career Page",
+      "company": "SureCost - Career Page",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://surecost.applytojob.com/apply/nvgL4HvyTB/Senior-Software-Engineer",
+      "source": "Other",
+      "description": "Position summary. The Senior Software Engineer builds, maintains, and improves the backend services, APIs, and third-party integrations that power ...",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T22:07:09+00:00",
+      "fetched_at": "2026-10-21T02:06:09.550399+00:00"
+    },
     {
       "id": "c8697d5e3c60",
       "title": "Job Application for Senior Software Engineer , Web Platform at Reddit - Greenhouse",
@@ -49,6 +184,21 @@
       "date": "2026-10-20",
       "timestamp": "2026-10-20T21:58:57+00:00",
       "fetched_at": "2026-10-20T22:44:04.091258+00:00"
+    },
+    {
+      "id": "794c06eee3b8",
+      "title": "Software Engineer - Federal, Santa Clara | ServiceNow Careers",
+      "company": "Federal, Santa Clara | ServiceNow Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.servicenow.com/jobs/744000156619374/software-engineer-federal/",
+      "source": "Other",
+      "description": "Software Engineer - Federal. Engineering, Infrastructure and Operations \u00b7 Santa Clara; Flexible; October 20, 2026; JB0076224.",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T21:27:43+00:00",
+      "fetched_at": "2026-10-21T02:06:09.550796+00:00"
     },
     {
       "id": "9f86b326f648",
@@ -66,6 +216,21 @@
       "fetched_at": "2026-10-20T22:44:04.210766+00:00"
     },
     {
+      "id": "a0a99338b614",
+      "title": "Machine Learning Engineer - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200690288-0836/machine-learning-engineer",
+      "source": "Other",
+      "description": "Machine Learning Engineer . Cupertino, California, United States ... We are looking for an experienced Software Engineer to help design and ...",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T20:22:28+00:00",
+      "fetched_at": "2026-10-21T02:06:09.551087+00:00"
+    },
+    {
       "id": "c7d9cc76be51",
       "title": "Software Engineer - Ottimate - Workable Jobs",
       "company": "Ottimate",
@@ -81,6 +246,21 @@
       "fetched_at": "2026-10-20T22:44:04.091604+00:00"
     },
     {
+      "id": "96f5c528558e",
+      "title": "Machine Learning Engineer /Senior Machine Learning Engineer - Devops, AI for Drug Discovery",
+      "company": "Devops, AI for Drug Discovery",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.gene.com/us/en/job/202610-126834/Machine-Learning-Engineer-Senior-Machine-Learning-Engineer-Devops-AI-for-Drug-Discovery?utm_source=aijobs-dot-com",
+      "source": "Other",
+      "description": "Machine Learning Engineer /Senior Machine Learning Engineer ... We are seeking a highly motivated and skilled ML Infrastructure DevOps Engineer ...",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T20:02:36+00:00",
+      "fetched_at": "2026-10-21T02:06:09.551683+00:00"
+    },
+    {
       "id": "c7679c5465b4",
       "title": "Data Engineer - FanDuel Careers",
       "company": "FanDuel Careers",
@@ -94,6 +274,36 @@
       "date": "2026-10-20",
       "timestamp": "2026-10-20T19:43:03+00:00",
       "fetched_at": "2026-10-20T22:44:04.210920+00:00"
+    },
+    {
+      "id": "690c41aca63f",
+      "title": "Senior/Principal Backend Engineer - Cortex Platform and Application at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Backend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/tel-aviv/senior-principal-backend-engineer-cortex-platform-and-application/47263/102203582304",
+      "source": "Other",
+      "description": "As a Senior Software Engineer on the Cortex Platform Application team, you will be a hands-on technical leader responsible for designing, building ...",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T19:39:43+00:00",
+      "fetched_at": "2026-10-21T02:06:09.552075+00:00"
+    },
+    {
+      "id": "e7dcad6a168d",
+      "title": "Full Stack Engineer - Senior/Lead - Office of the CEO - California - Salesforce",
+      "company": "Full Stack Engineer",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.salesforce.com/company/careers/jobs/JR359437/full-stack-engineer-seniorlead-office-of-the-ceo/",
+      "source": "Other",
+      "description": "Full Stack Engineer - Senior/Lead - Office of the CEO \u00b7 California - San Francisco \u00b7 Illinois - Chicago \u00b7 Georgia - Atlanta \u00b7 Washington - Seattle ...",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T19:36:14+00:00",
+      "fetched_at": "2026-10-21T02:06:09.552278+00:00"
     },
     {
       "id": "0a501975c96b",
@@ -139,6 +349,21 @@
       "date": "2026-10-20",
       "timestamp": "2026-10-20T19:04:43+00:00",
       "fetched_at": "2026-10-20T22:44:04.092075+00:00"
+    },
+    {
+      "id": "c11702425b2f",
+      "title": "ServiceNow Developer - Lead Software Engineer II - - 372185 - Deloitte",
+      "company": "ServiceNow Developer",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://usijobs.deloitte.com/en_US/careersUSI/JobDetail/USI-EH27-Consulting-P-P-CP-P-ServiceNow-Developer-Lead-Software-Engineer-II/372185",
+      "source": "Other",
+      "description": "As a Software Engineer II, you will design and deliver ServiceNow solutions that help address complex business and technology needs. In this role, you ...",
+      "date": "2026-10-20",
+      "timestamp": "2026-10-20T19:03:09+00:00",
+      "fetched_at": "2026-10-21T02:06:09.642694+00:00"
     },
     {
       "id": "4949bd89859b",
