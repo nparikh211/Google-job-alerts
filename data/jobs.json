@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-10-22T02:00:19.004203+00:00",
-  "total_jobs": 11907,
+  "last_updated": "2026-10-22T08:56:59.107764+00:00",
+  "total_jobs": 11925,
   "stats": {
-    "total_companies": 5336,
-    "total_roles": 153,
+    "total_companies": 5339,
+    "total_roles": 154,
     "regions": {
-      "India": 7843,
-      "Philippines": 2518,
-      "Remote": 1465,
+      "India": 7855,
+      "Philippines": 2521,
+      "Remote": 1468,
       "Unknown": 135
     },
     "sources": {
-      "Other": 9325,
-      "Greenhouse": 602,
-      "LinkedIn": 511,
+      "Other": 9340,
+      "Greenhouse": 603,
+      "LinkedIn": 512,
       "Workday": 497,
-      "Ashby": 370,
+      "Ashby": 371,
       "iCIMS": 146,
       "Breezy": 126,
       "Workable": 82,
@@ -31,10 +31,220 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-10-21"
+      "latest": "2026-10-22"
     }
   },
   "jobs": [
+    {
+      "id": "93df99682549",
+      "title": "Associate Data Platform Engineer | Madison Square Garden Entertainment Careers",
+      "company": "Madison Square Garden Entertainment Careers",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.msgentertainment.com/jobs/associate-data-platform-engineer-new-york-city-ny/?gh_jid=5262622007&gh_src=0b3130db7us",
+      "source": "Other",
+      "description": "Madison Square Garden Entertainment is seeking a Full-time Associate Data Platform Engineer to join MSGE's Technology team in New York City, NY.",
+      "date": "2026-10-22",
+      "timestamp": "2026-10-22T08:46:55+00:00",
+      "fetched_at": "2026-10-22T08:56:58.714875+00:00"
+    },
+    {
+      "id": "930068054f5e",
+      "title": "Tyler on X: \"a close friend of mine is a software engineer making $350k+ a year and he ...",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://x.com/tyler_agg/status/2112957441717809226",
+      "source": "Other",
+      "description": "a close friend of mine is a software engineer making $350k+ a year and he finally got hooked on AI this week bro tried claude for the first time ...",
+      "date": "2026-10-22",
+      "timestamp": "2026-10-22T07:48:19+00:00",
+      "fetched_at": "2026-10-22T08:56:58.715058+00:00"
+    },
+    {
+      "id": "5411707d1a22",
+      "title": "Software Engineer - AML - Ai & Data Platforms - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200690530-3956/software-engineer-aml-ai-data-platforms?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Software Engineer - AML - Ai & Data Platforms job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-10-22",
+      "timestamp": "2026-10-22T05:09:10+00:00",
+      "fetched_at": "2026-10-22T08:56:58.715257+00:00"
+    },
+    {
+      "id": "6a829b625bbf",
+      "title": "Sr. Software Engineer - Spectro Cloud",
+      "company": "Spectro Cloud",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.spectrocloud.com/jobs/7166805-sr-software-engineer",
+      "source": "Other",
+      "description": "Software Engineer . Build AI inferencing solutions at scale. Apply. Who We Are. Spectro Cloud helps platform teams and cloud providers modernize and ...",
+      "date": "2026-10-22",
+      "timestamp": "2026-10-22T03:19:50+00:00",
+      "fetched_at": "2026-10-22T08:56:58.715455+00:00"
+    },
+    {
+      "id": "2739c4d2f1d4",
+      "title": "Platform Engineer , Find My - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Platform Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200683831-0836/platform-engineer-find-my",
+      "source": "Other",
+      "description": "Platform Engineer , Find My. Cupertino, California, United States ... As Find My expands, we are seeking a software engineer to lead partner ...",
+      "date": "2026-10-22",
+      "timestamp": "2026-10-22T03:07:57+00:00",
+      "fetched_at": "2026-10-22T08:56:59.055030+00:00"
+    },
+    {
+      "id": "3495645ff374",
+      "title": "Software Engineer I, Marketplace Makers - Brooklyn, New York, United States",
+      "company": "Brooklyn, New York, United States",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.etsy.com/jobs/software-engineer-i-marketplace-makers-brooklyn-new-york-united-states",
+      "source": "Other",
+      "description": "Software Engineer I, Marketplace Makers. Hybrid. Brooklyn. Full-time. Company Description Etsy is the global marketplace for unique and creative goods ...",
+      "date": "2026-10-22",
+      "timestamp": "2026-10-22T02:55:37+00:00",
+      "fetched_at": "2026-10-22T08:56:59.055326+00:00"
+    },
+    {
+      "id": "a2a26b8c513e",
+      "title": "Principal Software Engineer | Rocket Lab",
+      "company": "Rocket Lab",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://rocketlabcorp.com/careers/positions/principal-software-engineer-chantilly-va-8040511003/",
+      "source": "Other",
+      "description": "YOU'LL BRING THESE QUALIFICATIONS AS PRINCIPAL SOFTWARE ENGINEER : Bachelor's degree in computer science, computer engineering. 12+ years of experience ...",
+      "date": "2026-10-22",
+      "timestamp": "2026-10-22T02:47:32+00:00",
+      "fetched_at": "2026-10-22T08:56:58.715690+00:00"
+    },
+    {
+      "id": "2dfa8bee3faf",
+      "title": "Sr Software Engineer (Developer Advocacy, GenAi), Ai & Data Platforms - Apple Careers",
+      "company": "Apple Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200689096-0157/sr-software-engineer-developer-advocacy-genai-ai-data-platforms",
+      "source": "Other",
+      "description": "Minimum Qualifications. 4+ years of experience as a software engineer , machine learning engineer , or technical developer advocate. Hands-on experience ...",
+      "date": "2026-10-22",
+      "timestamp": "2026-10-22T02:41:05+00:00",
+      "fetched_at": "2026-10-22T08:56:58.715941+00:00"
+    },
+    {
+      "id": "0ecf3b8ead9b",
+      "title": "Site Reliability Engineer - Apple Data Platform (ADP) - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200690733-0157/site-reliability-engineer-apple-data-platform-adp",
+      "source": "Other",
+      "description": "Apply for a Site Reliability Engineer - Apple Data Platform (ADP) job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-10-22",
+      "timestamp": "2026-10-22T02:39:30+00:00",
+      "fetched_at": "2026-10-22T08:56:58.716128+00:00"
+    },
+    {
+      "id": "ee36fb845cf6",
+      "title": "Software Engineer 2 in Remote, Maine, United States of America - WEX Careers",
+      "company": "WEX Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.wexinc.com/us/en/job/R23214/Software-Engineer-2",
+      "source": "Other",
+      "description": "Senior Full-Stack Engineer (Java / Spring Boot). Category Product ... Senior Software Engineer , Semantic Data Team. WEX is reimagining its ...",
+      "date": "2026-10-22",
+      "timestamp": "2026-10-22T02:31:51+00:00",
+      "fetched_at": "2026-10-22T08:56:59.055759+00:00"
+    },
+    {
+      "id": "94b7bd6c55f5",
+      "title": "Software Engineer - Turso @ Supabase - Jobs",
+      "company": "Supabase",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/supabase/7c5eb3fc-1087-4c1c-b3a2-a19fe01dd259",
+      "source": "Ashby",
+      "description": "... Software Engineer to join our Turso core database team and help bring forward the future of agentic databases. Turso is both an Open Source ...",
+      "date": "2026-10-22",
+      "timestamp": "2026-10-22T01:52:37+00:00",
+      "fetched_at": "2026-10-22T08:56:58.716245+00:00"
+    },
+    {
+      "id": "44b019278f0e",
+      "title": "Job Application for Software Engineer I at Twitch - Greenhouse",
+      "company": "Twitch",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/twitch/jobs/8906750002",
+      "source": "Greenhouse",
+      "description": "Software Engineer I. Seattle, WA. Apply. About Us. Twitch is the world's biggest live streaming service, with global communities built around gaming ...",
+      "date": "2026-10-22",
+      "timestamp": "2026-10-22T01:02:11+00:00",
+      "fetched_at": "2026-10-22T08:56:58.716348+00:00"
+    },
+    {
+      "id": "4396c842d221",
+      "title": "Senior Software Engineer | Data & AI Platform in Arlington, United States of America, 22203",
+      "company": "Data & AI Platform in Arlington, United States of America, 22203",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mastercard.com/us/en/job/R-294125/Senior-Software-Engineer-Data-AI-Platform",
+      "source": "Other",
+      "description": "Apply for Senior Software Engineer | Data & AI Platform job with ... Principal AI Platform Engineer - AI Center of Excellence. Available in 9 ...",
+      "date": "2026-10-22",
+      "timestamp": "2026-10-22T00:55:07+00:00",
+      "fetched_at": "2026-10-22T08:56:58.716579+00:00"
+    },
+    {
+      "id": "95319eec4bc3",
+      "title": "Generative Data Platform, Evaluation - Jobs - Careers at Apple | Chelsea Elwood, CDR",
+      "company": "Apple",
+      "role": "Generative Data Platform, Evaluation - Jobs - Careers at App",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/chelseaelwood_software-engineer-generative-data-platform-activity-7518803991808364544-p4o8",
+      "source": "LinkedIn",
+      "description": "Hi Network! Apple is hiring a Software Engineer to work on our Generative Data Platform for the AIML Evaluation Team.",
+      "date": "2026-10-22",
+      "timestamp": "2026-10-22T00:02:12+00:00",
+      "fetched_at": "2026-10-22T08:56:58.717173+00:00"
+    },
     {
       "id": "a6aede4e56ac",
       "title": "Senior Software Engineer , AI/ML Computer Vision, Google Cloud | Allan Fernandez",
@@ -49,6 +259,36 @@
       "date": "2026-10-21",
       "timestamp": "2026-10-21T23:58:49+00:00",
       "fetched_at": "2026-10-22T02:00:18.724595+00:00"
+    },
+    {
+      "id": "b0247a0ee410",
+      "title": "Software Engineer 2 in Remote, Nationwide | Technology and Digital Analytics at Humana",
+      "company": "Humana",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.humana.com/us/en/job/R-432908/Software-Engineer-2",
+      "source": "Other",
+      "description": "Site Reliability Engineer . Available in 25 locationsAvailable in 25 ... Senior Data Engineer . Location: Remote, Nationwide. Remote Job: Yes.",
+      "date": "2026-10-21",
+      "timestamp": "2026-10-21T23:54:37+00:00",
+      "fetched_at": "2026-10-22T08:56:58.717696+00:00"
+    },
+    {
+      "id": "3083b8266fbd",
+      "title": "Senior Manager, Full-Stack Engineer (People Leader) - Capital One Careers",
+      "company": "Senior Manager, Full",
+      "role": "Senior Manager",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.capitalonecareers.com/job/mclean/senior-manager-full-stack-engineer-people-leader/1732/102252809776",
+      "source": "Other",
+      "description": "Full-stack Engineer 4. McLean, Virginia \u00b7 100950229456. Data Engineer 5. McLean, Virginia \u00b7 102253941552. AI Engineer 4 (AI Foundations, VLM ...",
+      "date": "2026-10-21",
+      "timestamp": "2026-10-21T23:46:09+00:00",
+      "fetched_at": "2026-10-22T08:56:59.057077+00:00"
     },
     {
       "id": "fa79cebbc857",
@@ -94,6 +334,21 @@
       "date": "2026-10-21",
       "timestamp": "2026-10-21T21:11:13+00:00",
       "fetched_at": "2026-10-22T02:00:18.954585+00:00"
+    },
+    {
+      "id": "3d2da7b5078c",
+      "title": "Software Engineer , Agentic, San Francisco, United States",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.uber.com/en/jobs/303493/",
+      "source": "Other",
+      "description": "We are looking for an Agentic Software Engineer to design, build, and operate production-grade agentic systems and processes that improve complex ...",
+      "date": "2026-10-21",
+      "timestamp": "2026-10-21T21:08:02+00:00",
+      "fetched_at": "2026-10-22T08:56:58.717984+00:00"
     },
     {
       "id": "fe8657c468fa",
@@ -169,6 +424,21 @@
       "date": "2026-10-21",
       "timestamp": "2026-10-21T19:54:48+00:00",
       "fetched_at": "2026-10-22T02:00:18.725690+00:00"
+    },
+    {
+      "id": "ee753ab45090",
+      "title": "Software Engineer | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.apexsystems.com/job/3056574_usa/software-engineer",
+      "source": "Other",
+      "description": "Software Engineer . Apply. Job#: 3056574. Job Description: Senior Software Engineer . Location: United States (Remote). Work Type: Contract. Role ...",
+      "date": "2026-10-21",
+      "timestamp": "2026-10-21T19:53:32+00:00",
+      "fetched_at": "2026-10-22T08:56:59.058642+00:00"
     },
     {
       "id": "45f015b3c3a4",
