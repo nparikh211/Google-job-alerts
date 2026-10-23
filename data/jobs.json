@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-10-23T15:57:01.749448+00:00",
-  "total_jobs": 12000,
+  "last_updated": "2026-10-23T19:39:00.352231+00:00",
+  "total_jobs": 12026,
   "stats": {
-    "total_companies": 5372,
+    "total_companies": 5385,
     "total_roles": 154,
     "regions": {
-      "India": 7894,
-      "Philippines": 2542,
-      "Remote": 1483,
+      "India": 7910,
+      "Philippines": 2549,
+      "Remote": 1486,
       "Unknown": 135
     },
     "sources": {
-      "Other": 9398,
-      "Greenhouse": 608,
+      "Other": 9419,
+      "Greenhouse": 609,
       "LinkedIn": 514,
       "Workday": 498,
-      "Ashby": 377,
-      "iCIMS": 146,
+      "Ashby": 380,
+      "iCIMS": 147,
       "Breezy": 128,
       "Workable": 82,
       "SmartRecruiters": 80,
@@ -35,6 +35,396 @@
     }
   },
   "jobs": [
+    {
+      "id": "caa09869e3f7",
+      "title": "Senior Full Stack Software Engineer II | SimplePractice Careers",
+      "company": "SimplePractice Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.simplepractice.com/careers/roles/6230926004/?gh_jid=6230926004",
+      "source": "Other",
+      "description": "Senior Full Stack Software Engineer II. illustration of a map pin ... SimplePractice is seeking a Senior Full Stack Engineer II to help lead ...",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T19:28:37+00:00",
+      "fetched_at": "2026-10-23T19:39:00.229803+00:00"
+    },
+    {
+      "id": "d24733d32a78",
+      "title": "Full-Stack Engineer | Citi Careers",
+      "company": "Full",
+      "role": "Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.citi.com/job/warsaw/full-stack-engineer/287/102333954448",
+      "source": "Other",
+      "description": "We are seeking an experienced, hands-on Lead Software Engineer to drive ... Bigdata Backend Engineer . Chennai, Tamil Nadu. Save for Later. Early ...",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T18:06:37+00:00",
+      "fetched_at": "2026-10-23T19:39:00.230252+00:00"
+    },
+    {
+      "id": "4598c02bf57c",
+      "title": "Senior Machine learning Engineer - Guidewire",
+      "company": "Guidewire",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.guidewire.com/about/careers/jobs/senior-machine-learning-engineer-jr_15324",
+      "source": "Other",
+      "description": "... ML Engineer , Generative AI, you will be a technical leader driving the ... Senior Machine learning Engineer . United States - Remote. Product ...",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T17:57:52+00:00",
+      "fetched_at": "2026-10-23T19:39:00.230447+00:00"
+    },
+    {
+      "id": "297e1f9eabf2",
+      "title": "Software Engineer , Durham, NC | Fidelity Careers",
+      "company": "Fidelity Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.fidelity.com/en/jobs/2135826/software-engineer/",
+      "source": "Other",
+      "description": "Software Engineer . Published: Oct 22. ID: 2135826. Fidelity is ... Principal Full Stack Engineer . Save Saved. Technology Published: Oct 26 ...",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T17:55:31+00:00",
+      "fetched_at": "2026-10-23T19:39:00.230911+00:00"
+    },
+    {
+      "id": "21f34ba7f745",
+      "title": "AI Engineer in Atlanta, Georgia | Careers at Atlanta Office - PowerPlan, Inc",
+      "company": "Atlanta Office",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers-powerplan.icims.com/jobs/1978/ai-engineer/job",
+      "source": "iCIMS",
+      "description": "AI Engineer . Job Locations US-GA-Atlanta. Posted Date 22 hours ago(10 ... data engineer . Redesign clumsy workflows with the people who run them ...",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T17:25:42+00:00",
+      "fetched_at": "2026-10-23T19:39:00.231050+00:00"
+    },
+    {
+      "id": "39c42a334219",
+      "title": "Senior Software Engineer @ Adonis - Jobs",
+      "company": "Adonis",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/adonis/6286397e-0c54-4947-86c5-e0f5c2389e77",
+      "source": "Ashby",
+      "description": "ABOUT THE ROLE We're building enterprise-grade AI, and we need a Senior Software Engineer to be the technical anchor of a growing team.",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T17:25:09+00:00",
+      "fetched_at": "2026-10-23T19:39:00.231154+00:00"
+    },
+    {
+      "id": "68dc50e4c415",
+      "title": "Job Application for Software Engineer at Glean - Greenhouse",
+      "company": "Gleanwork",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/gleanwork/jobs/4746910005",
+      "source": "Greenhouse",
+      "description": "Software Engineer . Mountain View, CA. Apply. About Glean: Glean is the Work AI platform that helps everyone work smarter with AI. What began as the ...",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T17:23:56+00:00",
+      "fetched_at": "2026-10-23T19:39:00.231263+00:00"
+    },
+    {
+      "id": "1525d65aeda4",
+      "title": "Software Engineer I (Java Required) in Coppell, Texas, 75019 - Blue Yonder jobs",
+      "company": "Blue Yonder jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.blueyonder.com/us/en/job/263368/Software-Engineer-I-Java-Required",
+      "source": "Other",
+      "description": "Apply for Software Engineer I (Java Required) job with Blue Yonder in Coppell, Texas, 75019. Product Development at Blue Yonder.",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T17:22:11+00:00",
+      "fetched_at": "2026-10-23T19:39:00.231426+00:00"
+    },
+    {
+      "id": "0d0121467de0",
+      "title": "Senior Full Stack Engineer - Angular, Java, Spring Boot, Denver, CO | Fidelity Careers",
+      "company": "Angular, Java, Spring Boot, Denver, CO | Fidelity Careers",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.fidelity.com/en/jobs/2131286/senior-full-stack-engineer-angular-java-spring-boot/",
+      "source": "Other",
+      "description": "Senior Full Stack Engineer - Angular, Java, Spring Boot ... We are seeking a highly skilled and experienced software engineer to join our dynamic team.",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T17:21:18+00:00",
+      "fetched_at": "2026-10-23T19:39:00.231655+00:00"
+    },
+    {
+      "id": "91aa72b06a78",
+      "title": "Machine Learning Engineer III, Shield, Redwood City - Box",
+      "company": "Box",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.box.com/en/jobs/8288896/machine-learning-engineer-iii-shield/",
+      "source": "Other",
+      "description": "Machine Learning Engineer III, Shield. Redwood City, California ... Senior Software Engineer , Identity & Security Foundation (ISF). Save",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T17:11:05+00:00",
+      "fetched_at": "2026-10-23T19:39:00.231998+00:00"
+    },
+    {
+      "id": "05b2ab85310a",
+      "title": "Software Engineer II in Pune, India, 411006 - Careers at Mastercard",
+      "company": "Mastercard",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mastercard.com/us/en/job/R-293121/Software-Engineer-II",
+      "source": "Other",
+      "description": "Software Engineer II ( Software Engineer in Test ). Location Pune, India, 411006 Category Engineering. Senior Software Engineer . Location Pune ...",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T16:57:45+00:00",
+      "fetched_at": "2026-10-23T19:39:00.232125+00:00"
+    },
+    {
+      "id": "c329640005d7",
+      "title": "Senior, Software Engineer - Careers at Mastercard",
+      "company": "Mastercard",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mastercard.com/us/en/job/R-293457/Senior-Software-Engineer",
+      "source": "Other",
+      "description": "Apply for Senior, Software Engineer job with Mastercard in O Fallon, United States of America, 63368-7263. Engineering at Mastercard.",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T16:57:39+00:00",
+      "fetched_at": "2026-10-23T19:39:00.232250+00:00"
+    },
+    {
+      "id": "5a2a68ae9a00",
+      "title": "Software Engineer , Forward Deployed @ Ramp - Jobs",
+      "company": "Ramp",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/ramp/29a5da77-37f0-402a-92bc-072778e77ed8",
+      "source": "Ashby",
+      "description": "Software Engineer , Forward Deployed. Location. New York, NY (HQ); San Francisco, CA. Employment Type. Full time. Location Type. Hybrid. Department.",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T16:52:59+00:00",
+      "fetched_at": "2026-10-23T19:39:00.232341+00:00"
+    },
+    {
+      "id": "67bbe5e7da9d",
+      "title": "Software Engineer 2 - Dell Careers",
+      "company": "Dell Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/careers/job/300718",
+      "source": "Other",
+      "description": "Software Engineer 2. Hopkinton, MA, United States. and 1 more. Apply Now. Save Job. Copy Job Link. Infrastructure Solutions Group (ISG) builds the ...",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T16:48:03+00:00",
+      "fetched_at": "2026-10-23T19:39:00.232488+00:00"
+    },
+    {
+      "id": "5e93111870ee",
+      "title": "Senior DevOps Engineer - Remote in Reston, Virginia, United States of America - ICF career",
+      "company": "Remote in Reston, Virginia, United States of America - ICF career",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.icf.com/us/en/job/IIIIIIUSR2603604EXTERNALENUS/Senior-DevOps-Engineer-Remote",
+      "source": "Other",
+      "description": "Azure Ops/ AI Engineer (US Remote). Location Reston, Virginia, United ... Cloud Platform Engineer . Available in 3 locations. Job Id R2602576.",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T16:46:23+00:00",
+      "fetched_at": "2026-10-23T19:39:00.232696+00:00"
+    },
+    {
+      "id": "893b7b227121",
+      "title": "Data Engineer , Sr in Austin,TX,United States - Realtor.com Careers",
+      "company": "Realtor.com Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.realtor.com/jobs/18368738-data-engineer-sr",
+      "source": "Other",
+      "description": "Data Engineer , Sr in Austin,TX,United States. ... Software Engineer , Sr. Austin, TX, United States Technology. Software ...",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T16:35:21+00:00",
+      "fetched_at": "2026-10-23T19:39:00.232861+00:00"
+    },
+    {
+      "id": "613a0ed16d77",
+      "title": "Senior AI Engineer - Rippling",
+      "company": "Rippling",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/absencesoft/jobs/9cf62bb8-58c6-4762-8635-0ecb6889ad39",
+      "source": "Other",
+      "description": "Senior AI Engineer . Senior AI Engineer . At AbsenceSoft, we're transforming the employee experience. Our secure, intuitive technology helps employers ...",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T16:32:34+00:00",
+      "fetched_at": "2026-10-23T19:39:00.233021+00:00"
+    },
+    {
+      "id": "b6d65b651ce1",
+      "title": "Senior Software Engineer - Remote (select US states) | Coforma Careers",
+      "company": "Remote (select US states) | Coforma Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://coforma.pinpointhq.com/en/postings/b1641d05-50d0-477f-91f3-c22baab25792",
+      "source": "Other",
+      "description": "We are looking for a curious, conscientious, and fast-learning Senior Software Engineer to join our growing, distributed team supporting a federal ...",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T15:59:24+00:00",
+      "fetched_at": "2026-10-23T19:39:00.233203+00:00"
+    },
+    {
+      "id": "e7f8d35c1ca9",
+      "title": "Senior Full Stack Software Engineer (f/m/d) \u2013 React, Node.js, TypeScript + AI - smartclip",
+      "company": "smartclip",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.smartclip.tv/jobs/7130731-senior-full-stack-software-engineer-f-m-d-react-node-js-typescript-ai",
+      "source": "Other",
+      "description": "Senior Full Stack Software Engineer (f/m/d) \u2013 React, Node.js, TypeScript + AI. Apply now. We usually respond within three days. AI makes us faster ...",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T15:44:10+00:00",
+      "fetched_at": "2026-10-23T19:39:00.295996+00:00"
+    },
+    {
+      "id": "fdf18067a044",
+      "title": "Senior Software Engineer - SoFi | Built In Seattle",
+      "company": "SoFi | Built In Seattle",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.builtinseattle.com/job/senior-software-engineer/11839747",
+      "source": "Other",
+      "description": "SoFi is hiring for a Senior Software Engineer in Seattle, WA, USA. Find more details about the job and how to apply at Built In Seattle.",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T15:34:55+00:00",
+      "fetched_at": "2026-10-23T19:39:00.296146+00:00"
+    },
+    {
+      "id": "b6b9cf736aa2",
+      "title": "Software Engineer 1 \u2013 Python in Minneapolis, MN, United States | Technology & Digital at U.S. Bank",
+      "company": "U.S. Bank",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.usbank.com/global/en/job/UBNAGLOBAL20260033403EXTERNALENGLOBAL/Software-Engineer-1-Python",
+      "source": "Other",
+      "description": "Apply for Software Engineer 1 \u2013 Python job with U.S. Bank in Minneapolis, MN, United States ... Senior Software Engineer (Front-end Development/Full ...",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T15:12:13+00:00",
+      "fetched_at": "2026-10-23T19:39:00.296340+00:00"
+    },
+    {
+      "id": "843440e25a36",
+      "title": "Job ID:26019544 - Senior Cloud Engineer - GenAI Platform Engineering - Multiple Locations",
+      "company": "Job ID:26019544",
+      "role": "Cloud Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.bankofamerica.com/en-us/job-detail/26019544/senior-cloud-engineer-genai-platform-engineering-multiple-locations",
+      "source": "Other",
+      "description": "Apply for the Senior Cloud Engineer - GenAI Platform Engineering position (Job ID: 26019544), with openings in multiple locations, ...",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T14:58:07+00:00",
+      "fetched_at": "2026-10-23T19:39:00.296580+00:00"
+    },
+    {
+      "id": "c11242e6853a",
+      "title": "Senior Software Engineer @ Develop Health - Jobs",
+      "company": "Develop Health",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/develop-health/0f1f3cac-2723-4115-ba8e-ac3007818b20",
+      "source": "Ashby",
+      "description": "We are now scaling rapidly following a major funding round. About The Role. We're hiring a Senior Software Engineer to build the software that removes ...",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T14:42:06+00:00",
+      "fetched_at": "2026-10-23T19:39:00.296679+00:00"
+    },
+    {
+      "id": "0ee9df35bcb6",
+      "title": "Lead Data Engineer at AbsoluteCare",
+      "company": "AbsoluteCare",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://absolutecare.workgr8.com/jobs/3231/lead-data-engineer",
+      "source": "Other",
+      "description": "Salary Range: $120-$130K. Job Summary. A Lead Data Engineer is a senior-level technical leader responsible for designing, building, and optimizing ...",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T14:32:37+00:00",
+      "fetched_at": "2026-10-23T19:39:00.296818+00:00"
+    },
+    {
+      "id": "3488ba68274d",
+      "title": "AI Data Engineer job - Experis USA - 415597",
+      "company": "Experis USA - 415597",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.experis.com/en/job/415597/ai-data-engineer-",
+      "source": "Other",
+      "description": "As a AI Data Engineer , you will be part of the SPARC_COGS_1010 supporting a team focused on modernizing how roadmap and portfolio data is managed and ...",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T14:19:57+00:00",
+      "fetched_at": "2026-10-23T19:39:00.296950+00:00"
+    },
+    {
+      "id": "d8c59e19c8aa",
+      "title": "Senior software engineer at Intuit",
+      "company": "Intuit",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.intuit.com/job/bengaluru/senior-software-engineer/27595/102296002352",
+      "source": "Other",
+      "description": "Learn more about applying for Senior software engineer at Intuit. ... Staff Machine Learning Engineer Bangalore, India. You haven't saved ...",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T14:10:55+00:00",
+      "fetched_at": "2026-10-23T19:39:00.297078+00:00"
+    },
     {
       "id": "8c3b6f2b0f8d",
       "title": "Job Application for Senior Full Stack Engineer at Checkbook - Greenhouse",
