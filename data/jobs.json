@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-10-22T22:48:18.244683+00:00",
-  "total_jobs": 11970,
+  "last_updated": "2026-10-23T02:04:30.178027+00:00",
+  "total_jobs": 11975,
   "stats": {
-    "total_companies": 5360,
+    "total_companies": 5363,
     "total_roles": 154,
     "regions": {
-      "India": 7877,
-      "Philippines": 2533,
+      "India": 7881,
+      "Philippines": 2534,
       "Remote": 1479,
       "Unknown": 135
     },
     "sources": {
-      "Other": 9373,
+      "Other": 9378,
       "Greenhouse": 606,
       "LinkedIn": 514,
       "Workday": 498,
@@ -35,6 +35,36 @@
     }
   },
   "jobs": [
+    {
+      "id": "7e73f4beddd7",
+      "title": "Software Engineer , Find My - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200691025-0836/software-engineer-find-my",
+      "source": "Other",
+      "description": "Apply for a Software Engineer , Find My job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-10-22",
+      "timestamp": "2026-10-22T23:16:49+00:00",
+      "fetched_at": "2026-10-23T02:04:30.126762+00:00"
+    },
+    {
+      "id": "914a785e0b03",
+      "title": "Associate Software Engineer - IQVIA",
+      "company": "IQVIA",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.iqvia.com/en/jobs/R1566771-0",
+      "source": "Other",
+      "description": "Associate Software Engineer . Bengaluru, India | Full time | Hybrid | R1566771. Apply Now. Three diverse colleagues smile while collaborating with ...",
+      "date": "2026-10-22",
+      "timestamp": "2026-10-22T22:21:58+00:00",
+      "fetched_at": "2026-10-23T02:04:30.126892+00:00"
+    },
     {
       "id": "0a3bcce1f11f",
       "title": "Data Engineer II - GM Financial United States Careers",
@@ -64,6 +94,36 @@
       "date": "2026-10-22",
       "timestamp": "2026-10-22T21:06:27+00:00",
       "fetched_at": "2026-10-22T22:48:18.108947+00:00"
+    },
+    {
+      "id": "7ed42e2b13e9",
+      "title": "Climate Data Utility Tech Team - Senior Data Engineer - 19675 - Bloomberg",
+      "company": "Climate Data Utility Tech Team",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://bloomberg.avature.net/careers/JobDetail/Climate-Data-Utility-Tech-Team-Senior-Data-Engineer/19675",
+      "source": "Other",
+      "description": "The Climate Data Utility Tech Team is actively searching for an experienced Senior Data Engineer to play a pivotal role in the design, i ...",
+      "date": "2026-10-22",
+      "timestamp": "2026-10-22T20:59:56+00:00",
+      "fetched_at": "2026-10-23T02:04:30.043821+00:00"
+    },
+    {
+      "id": "11ed126fd678",
+      "title": "Software Engineer - 66726 - MANTECH Careers",
+      "company": "66726 - MANTECH Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mantech.com/en_US/careers/JobDetail/Software-Engineer/66726",
+      "source": "Other",
+      "description": "MANTECH seeks a motivated, customer-oriented Software Engineer to join our team at Cape Canaveral, Florida. This is an onsite position This ...",
+      "date": "2026-10-22",
+      "timestamp": "2026-10-22T20:59:30+00:00",
+      "fetched_at": "2026-10-23T02:04:30.043986+00:00"
     },
     {
       "id": "f071e64a6d67",
@@ -199,6 +259,21 @@
       "date": "2026-10-22",
       "timestamp": "2026-10-22T18:41:25+00:00",
       "fetched_at": "2026-10-22T22:48:18.188415+00:00"
+    },
+    {
+      "id": "859c01403ef3",
+      "title": "Software Engineer - - 130960 - Booz | Allen | Hamilton \u00ae - Careers",
+      "company": "- 130960 - Booz | Allen | Hamilton \u00ae - Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.boozallen.com/jobs/JobDetail/McLean-Software-Engineer-R0250289/130960",
+      "source": "Other",
+      "description": "Washington, District of Columbia, USA. Software Engineer . The Opportunity: As a full-stack developer, you can resolve a problem with a complete end ...",
+      "date": "2026-10-22",
+      "timestamp": "2026-10-22T18:39:28+00:00",
+      "fetched_at": "2026-10-23T02:04:30.045309+00:00"
     },
     {
       "id": "559c41cd74ba",
