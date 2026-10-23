@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-10-23T08:52:01.049790+00:00",
-  "total_jobs": 11983,
+  "last_updated": "2026-10-23T15:57:01.749448+00:00",
+  "total_jobs": 12000,
   "stats": {
-    "total_companies": 5365,
+    "total_companies": 5372,
     "total_roles": 154,
     "regions": {
-      "India": 7884,
-      "Philippines": 2539,
-      "Remote": 1479,
+      "India": 7894,
+      "Philippines": 2542,
+      "Remote": 1483,
       "Unknown": 135
     },
     "sources": {
-      "Other": 9385,
-      "Greenhouse": 606,
+      "Other": 9398,
+      "Greenhouse": 608,
       "LinkedIn": 514,
       "Workday": 498,
-      "Ashby": 375,
+      "Ashby": 377,
       "iCIMS": 146,
       "Breezy": 128,
       "Workable": 82,
@@ -35,6 +35,141 @@
     }
   },
   "jobs": [
+    {
+      "id": "8c3b6f2b0f8d",
+      "title": "Job Application for Senior Full Stack Engineer at Checkbook - Greenhouse",
+      "company": "Checkbook",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/checkbook/jobs/5272902007",
+      "source": "Greenhouse",
+      "description": "Senior Full Stack Engineer . San Mateo, CA / REMOTE. Apply. About Us: Checkbook enables businesses to access the speed, flexibility and cost savings ...",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T13:07:42+00:00",
+      "fetched_at": "2026-10-23T15:57:01.475291+00:00"
+    },
+    {
+      "id": "8a93e25149bb",
+      "title": "Full Stack Engineer (Backend Focus) @ Commons - Jobs",
+      "company": "Commons",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.ashbyhq.com/commons/48fefa82-e2b7-4835-89e1-3ef91541ca51",
+      "source": "Ashby",
+      "description": "Full Stack Engineer (Backend Focus). Location. Commons HQ & Remote; Canada; Mexico; United States. Employment Type. Full time. Location Type. Remote ...",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T12:26:53+00:00",
+      "fetched_at": "2026-10-23T15:57:01.475958+00:00"
+    },
+    {
+      "id": "461b64cad6aa",
+      "title": "Frontend Engineer , Web Funnels - Remote - Replika",
+      "company": "Remote - Replika",
+      "role": "Frontend Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.replika.com/jobs/8593051-frontend-engineer-web-funnels-remote",
+      "source": "Other",
+      "description": "Frontend Engineer , Web Funnels - Remote. Apply for this job. About Replika. In 2017, no one knew what AI was supposed to be. We built the world's ...",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T10:37:22+00:00",
+      "fetched_at": "2026-10-23T15:57:01.476196+00:00"
+    },
+    {
+      "id": "f278fe414ae4",
+      "title": "Machine Learning Engineer , AI/ML Expert for Agents and TrustGraph, Google Ads",
+      "company": "Unknown Company",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.google.com/jobs/results/132867596763439814-machine-learning-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer , Ask Google Pay. Singapore \u00b7 Technical Solutions ... Machine Learning Engineer , AI/ML Expert for Agents and TrustGraph, Google ...",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T09:48:07+00:00",
+      "fetched_at": "2026-10-23T15:57:01.720211+00:00"
+    },
+    {
+      "id": "3ab4e660a98b",
+      "title": "Software Engineer I, ITC - Nike Careers",
+      "company": "Nike Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.nike.com/software-engineer-i-itc/job/R-94808",
+      "source": "Other",
+      "description": "Software Engineer I, ITC. Position Type: Full Time. Career area: Software Engineering. Location: 4/F, WeWork, Embassy GolfLinks, Karnataka, Karn\u0101taka ...",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T09:44:49+00:00",
+      "fetched_at": "2026-10-23T15:57:01.476352+00:00"
+    },
+    {
+      "id": "cd4831718826",
+      "title": "Senior Software Engineer - Evondos",
+      "company": "Evondos",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.evondos.com/jobs/8574970-senior-software-engineer",
+      "source": "Other",
+      "description": "Senior Software Engineer ... At Evondos, we're on a mission to Give Time Back. ... As the European market leader in medication management, our technology ...",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T09:37:55+00:00",
+      "fetched_at": "2026-10-23T15:57:01.476433+00:00"
+    },
+    {
+      "id": "ae2918523fb3",
+      "title": "Mobile App Dev - Android Engineer - Software Engineer III - - 370968 - Deloitte",
+      "company": "Mobile App Dev",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://usijobs.deloitte.com/en_US/careersUSI/JobDetail/USI-EH27-Consulting-P-P-Industry-Products-Mobile-App-Dev-Android-Engineer-Software-Engineer-III/370968",
+      "source": "Other",
+      "description": "Mobile App Dev - Android Engineer - Software Engineer III. Same job available in 4 locations. Bengaluru, Karnataka, India. Chennai, Tamil Nadu, India.",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T09:07:13+00:00",
+      "fetched_at": "2026-10-23T15:57:01.720458+00:00"
+    },
+    {
+      "id": "0badfc3e1321",
+      "title": "Senior Software Engineer , Observability - New York, United States | Roku Jobs",
+      "company": "New York, United States | Roku Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.weareroku.com/jobs/senior-software-engineer-observability-new-york-united-states-f66204e7-e087-4745-a2eb-09cd5efe90d5",
+      "source": "Other",
+      "description": "As a Senior Software Engineer on the Observability team, you'll help design, develop, and scale the platform used across Roku engineering teams to ...",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T08:14:19+00:00",
+      "fetched_at": "2026-10-23T15:57:01.476679+00:00"
+    },
+    {
+      "id": "dc106a5aa4f9",
+      "title": "Staff Embedded Linux Platform Engineer - Zipline",
+      "company": "Zipline",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.zipline.com/open-roles/8040816003",
+      "source": "Other",
+      "description": "Join Zipline as Staff Embedded Linux Platform Engineer . Help us build the world's most advanced autonomous delivery platform.",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T07:15:18+00:00",
+      "fetched_at": "2026-10-23T15:57:01.476740+00:00"
+    },
     {
       "id": "2264a1d15b40",
       "title": "Senior Data Engineer - AI and Data Science Engineer III - - 372586 - Deloitte",
@@ -66,6 +201,36 @@
       "fetched_at": "2026-10-23T08:52:01.009205+00:00"
     },
     {
+      "id": "d214212fdf87",
+      "title": "Principal Software Engineer , ChatGPT Education and Learning - OpenAI",
+      "company": "OpenAI",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://openai.com/careers/principal-software-engineer-chatgpt-education-and-learning-san-francisco/",
+      "source": "Other",
+      "description": "About the Role. As a Principal Software Engineer on the ChatGPT Learning team, you will set technical direction and lead the design and development of ...",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T05:34:29+00:00",
+      "fetched_at": "2026-10-23T15:57:01.721018+00:00"
+    },
+    {
+      "id": "4b7ba4f5f753",
+      "title": "Job Application for Senior Software Engineer at Deliveroo - Greenhouse",
+      "company": "Deliveroo",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/deliveroo/jobs/8311914",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer . Hyderabad, India. Apply. Our Global Structure. Deliveroo is now part of DoorDash, bringing together teams with even greater ...",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T05:15:51+00:00",
+      "fetched_at": "2026-10-23T15:57:01.476930+00:00"
+    },
+    {
       "id": "06bf101ff3d3",
       "title": "Site Reliability Engineer - - 129773 - Booz | Allen | Hamilton \u00ae - Careers",
       "company": "- 129773 - Booz | Allen | Hamilton \u00ae - Careers",
@@ -79,6 +244,36 @@
       "date": "2026-10-23",
       "timestamp": "2026-10-23T05:08:38+00:00",
       "fetched_at": "2026-10-23T08:52:01.009370+00:00"
+    },
+    {
+      "id": "8fc1e9e28abd",
+      "title": "Software Engineer at Ford Motor Company - Ford Careers",
+      "company": "Ford Motor Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.careers.ford.com/en/job/chennai/software-engineer/48560/102290228112",
+      "source": "Other",
+      "description": "Software Engineer \u00b7 Develop and maintain a robust and scalable UI architecture using NextJS / React JS as the primary technology. \u00b7 Work as an expert on ...",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T04:37:05+00:00",
+      "fetched_at": "2026-10-23T15:57:01.721304+00:00"
+    },
+    {
+      "id": "3a853ebf6d26",
+      "title": "AI Data Engineer | Citi Careers",
+      "company": "Citi Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.citi.com/job/mississauga/ai-data-engineer/287/102309789712",
+      "source": "Other",
+      "description": "Job Overview. We are seeking a highly motivated AI Data Engineer to design, develop, and deploy AI-powered applications and agentic solutions that ...",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T04:36:44+00:00",
+      "fetched_at": "2026-10-23T15:57:01.721368+00:00"
     },
     {
       "id": "fed40dcd0dc1",
@@ -126,6 +321,36 @@
       "fetched_at": "2026-10-23T08:52:01.009704+00:00"
     },
     {
+      "id": "7395b5260515",
+      "title": "Software Engineer \u2013 AI Applications & ServiceNow in United States - GovCIO Careers",
+      "company": "GovCIO Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.govcio.com/careers-home/jobs/9190?lang=en-us",
+      "source": "Other",
+      "description": "GovCIO Careers is hiring a Software Engineer \u2013 AI Applications & ServiceNow in United States. Review all of the job details and apply today!",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T04:02:28+00:00",
+      "fetched_at": "2026-10-23T15:57:01.477194+00:00"
+    },
+    {
+      "id": "39d66d9f37fd",
+      "title": "Prenuvo Senior Software Engineer II - Agentic SDLC - Puck",
+      "company": "Agentic SDLC - Puck",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://app.careerpuck.com/job-board/prenuvo/job/4742463005",
+      "source": "Other",
+      "description": "Senior Software Engineer II - Agentic SDLC. Remote, USA. Apply Hear clips from the team. About Us. At ...",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T03:55:34+00:00",
+      "fetched_at": "2026-10-23T15:57:01.721638+00:00"
+    },
+    {
       "id": "8dd1f8700b57",
       "title": "Senior Software Engineer C++/C# - TeamViewer Germany GmbH",
       "company": "TeamViewer Germany GmbH",
@@ -139,6 +364,36 @@
       "date": "2026-10-23",
       "timestamp": "2026-10-23T03:07:25+00:00",
       "fetched_at": "2026-10-23T08:52:01.009815+00:00"
+    },
+    {
+      "id": "98fe5d10a925",
+      "title": "Software Engineer - Partner Platform @ Baseten - Jobs",
+      "company": "Baseten",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/baseten/08bededd-d362-453e-b014-384a2003cbf1",
+      "source": "Ashby",
+      "description": "Software Engineer - Partner Platform. Location. San Francisco; Montreal; New York; Seattle; Toronto. Employment Type. Full time. Location Type. Hybrid ...",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T02:13:01+00:00",
+      "fetched_at": "2026-10-23T15:57:01.477298+00:00"
+    },
+    {
+      "id": "9baf87af7325",
+      "title": "Software Engineer Intern, Hybrid - Singapore - Coinbase",
+      "company": "Singapore - Coinbase",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.coinbase.com/careers/positions/8175873",
+      "source": "Other",
+      "description": "Software Engineer Intern \u00b7 Have experience in any object-oriented programming language (in a class, for fun, at a job) \u00b7 Enjoy thinking about how people ...",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T01:19:29+00:00",
+      "fetched_at": "2026-10-23T15:57:01.477366+00:00"
     },
     {
       "id": "db2f9127848f",
