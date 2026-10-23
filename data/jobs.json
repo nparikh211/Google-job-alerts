@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-10-23T02:04:30.178027+00:00",
-  "total_jobs": 11975,
+  "last_updated": "2026-10-23T08:52:01.049790+00:00",
+  "total_jobs": 11983,
   "stats": {
-    "total_companies": 5363,
+    "total_companies": 5365,
     "total_roles": 154,
     "regions": {
-      "India": 7881,
-      "Philippines": 2534,
+      "India": 7884,
+      "Philippines": 2539,
       "Remote": 1479,
       "Unknown": 135
     },
     "sources": {
-      "Other": 9378,
+      "Other": 9385,
       "Greenhouse": 606,
       "LinkedIn": 514,
       "Workday": 498,
@@ -19,8 +19,8 @@
       "iCIMS": 146,
       "Breezy": 128,
       "Workable": 82,
+      "SmartRecruiters": 80,
       "Lever": 80,
-      "SmartRecruiters": 79,
       "Indeed": 39,
       "Recruitee": 13,
       "BrassRing": 11,
@@ -31,10 +31,130 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-10-22"
+      "latest": "2026-10-23"
     }
   },
   "jobs": [
+    {
+      "id": "2264a1d15b40",
+      "title": "Senior Data Engineer - AI and Data Science Engineer III - - 372586 - Deloitte",
+      "company": "Senior Data Engineer",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://usijobs.deloitte.com/en_US/careersUSI/JobDetail/USI-EH27-Consulting-P-P-Industry-Products-Senior-Data-Engineer-AI-and-Data-Science-Engineer-III/372586",
+      "source": "Other",
+      "description": "As a Senior Data Engineer based in US-India (USI), you will design and build the data pipelines that turn raw sports data into production-grade ...",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T06:25:36+00:00",
+      "fetched_at": "2026-10-23T08:52:01.009031+00:00"
+    },
+    {
+      "id": "a6b837acbcf0",
+      "title": "Senior Infrastructure & Cloud Engineer Spain | Fever Careers | Join our company",
+      "company": "Fever Careers | Join our company",
+      "role": "Cloud Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.feverup.com/jobs/5013204101/senior-infrastructure-cloud-engineer/",
+      "source": "Other",
+      "description": "AWS certifications such as Solutions Architect, SysOps Administrator, or DevOps Engineer . Kubernetes certifications such as CKA, CKAD, or CKS ...",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T05:37:41+00:00",
+      "fetched_at": "2026-10-23T08:52:01.009205+00:00"
+    },
+    {
+      "id": "06bf101ff3d3",
+      "title": "Site Reliability Engineer - - 129773 - Booz | Allen | Hamilton \u00ae - Careers",
+      "company": "- 129773 - Booz | Allen | Hamilton \u00ae - Careers",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.boozallen.com/careers/JobDetail/129773",
+      "source": "Other",
+      "description": "Site Reliability Engineer . The Opportunity: Engineering to make a system more resilient and efficient frees up time and money to build more ...",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T05:08:38+00:00",
+      "fetched_at": "2026-10-23T08:52:01.009370+00:00"
+    },
+    {
+      "id": "fed40dcd0dc1",
+      "title": "Senior Data Engineer at Parexel",
+      "company": "Parexel",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.parexel.com/en/job/india/senior-data-engineer/877/102276755776",
+      "source": "Other",
+      "description": "As a Senior Data Engineer , you will design, build, and support the data and software solutions that power clinical research and help advance new ...",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T04:21:52+00:00",
+      "fetched_at": "2026-10-23T08:52:01.009460+00:00"
+    },
+    {
+      "id": "03ec34593819",
+      "title": "[7 YoE, Software Engineer , Senior Software Engineer , Montreal] Senior frontend dev, 7 ... - Reddit",
+      "company": "Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.reddit.com/r/resumes/comments/1xcnra3/7_yoe_software_engineer_senior_software_engineer/",
+      "source": "Other",
+      "description": "[7 YoE, Software Engineer , Senior Software Engineer , Montreal] Senior ... [ 6years, Senior Data Engineer , Senior Data Engineer , USA] \u00b7 r ...",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T04:13:38+00:00",
+      "fetched_at": "2026-10-23T08:52:01.009632+00:00"
+    },
+    {
+      "id": "8c7f4ea936af",
+      "title": "LinkedIn Software Engineer - Fullstack | SmartRecruiters",
+      "company": "Linkedin3",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.smartrecruiters.com/LinkedIn3/744000157109249-software-engineer-fullstack-",
+      "source": "SmartRecruiters",
+      "description": "Software Engineer - Fullstack ... Other jobs at LinkedIn. Staff Software Engineer - Fullstack. Bengaluru, India. Senior Software Engineer - Fullstack.",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T04:06:11+00:00",
+      "fetched_at": "2026-10-23T08:52:01.009704+00:00"
+    },
+    {
+      "id": "8dd1f8700b57",
+      "title": "Senior Software Engineer C++/C# - TeamViewer Germany GmbH",
+      "company": "TeamViewer Germany GmbH",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.teamviewer.com/jobs/8588208-senior-software-engineer-c-c",
+      "source": "Other",
+      "description": "Senior Software Engineer C++/C#. Join a global team shaping the future of connectivity, with opportunities tailored to the APAC market. Apply now.",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T03:07:25+00:00",
+      "fetched_at": "2026-10-23T08:52:01.009815+00:00"
+    },
+    {
+      "id": "db2f9127848f",
+      "title": "Software Engineer , API & Automation - Formlabs Careers",
+      "company": "Formlabs Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.formlabs.com/job/8312364/apply/",
+      "source": "Other",
+      "description": "Software Engineer , API & Automation. Department: Software Engineering Location: Somerville, MA. Do you want to change how the world creates? At ...",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T00:43:50+00:00",
+      "fetched_at": "2026-10-23T08:52:01.009903+00:00"
+    },
     {
       "id": "7e73f4beddd7",
       "title": "Software Engineer , Find My - Jobs - Careers at Apple",
