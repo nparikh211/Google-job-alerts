@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-10-24T02:03:12.484968+00:00",
-  "total_jobs": 12042,
+  "last_updated": "2026-10-24T08:25:47.477996+00:00",
+  "total_jobs": 12049,
   "stats": {
-    "total_companies": 5388,
+    "total_companies": 5391,
     "total_roles": 154,
     "regions": {
-      "India": 7919,
-      "Philippines": 2553,
-      "Remote": 1489,
+      "India": 7921,
+      "Philippines": 2555,
+      "Remote": 1493,
       "Unknown": 135
     },
     "sources": {
-      "Other": 9431,
-      "Greenhouse": 611,
+      "Other": 9435,
+      "Greenhouse": 613,
       "LinkedIn": 514,
       "Workday": 498,
       "Ashby": 380,
@@ -24,17 +24,77 @@
       "Indeed": 39,
       "Recruitee": 13,
       "BrassRing": 11,
+      "Jobvite": 9,
       "WeWorkRemotely": 9,
-      "Jobvite": 8,
       "Taleo": 7,
       "ADP": 2
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-10-23"
+      "latest": "2026-10-24"
     }
   },
   "jobs": [
+    {
+      "id": "066a17cb07d1",
+      "title": "Job Application for Software Engineer - Mercury Command at Mercury - Greenhouse",
+      "company": "Mercury",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/mercury/jobs/6233238004",
+      "source": "Greenhouse",
+      "description": "Software Engineer - Mercury Command. San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States. Apply. In 1965, an ...",
+      "date": "2026-10-24",
+      "timestamp": "2026-10-24T01:49:50+00:00",
+      "fetched_at": "2026-10-24T08:25:47.421563+00:00"
+    },
+    {
+      "id": "4feae228a5fc",
+      "title": "Senior Backend Engineer - Remote - USA | ProphetX Careers",
+      "company": "Remote - USA | ProphetX Careers",
+      "role": "Backend Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://prophetexchange.pinpointhq.com/postings/6f920262-6974-49c7-b6ee-f584edeafe82",
+      "source": "Other",
+      "description": "We're looking for a Senior Backend Engineer (IC3) to take ownership of designing, developing, deploying, and maintaining complex backend systems.",
+      "date": "2026-10-24",
+      "timestamp": "2026-10-24T01:36:58+00:00",
+      "fetched_at": "2026-10-24T08:25:47.355956+00:00"
+    },
+    {
+      "id": "23183cda7e07",
+      "title": "Software Engineer , Evaluation - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200691391-0836/software-engineer-evaluation",
+      "source": "Other",
+      "description": "Apply for a Software Engineer , Evaluation job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-10-24",
+      "timestamp": "2026-10-24T00:39:25+00:00",
+      "fetched_at": "2026-10-24T08:25:47.421730+00:00"
+    },
+    {
+      "id": "d269e651b0f2",
+      "title": "Software Engineer in Westford, Massachusetts, 01886 | Engineering & QA at HPE",
+      "company": "HPE",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.hpe.com/us/en/job/1215856/Software-Engineer",
+      "source": "Other",
+      "description": "Apply for Software Engineer job with HPE in Westford, Massachusetts, 01886. Engineering & QA at HPE.",
+      "date": "2026-10-24",
+      "timestamp": "2026-10-24T00:20:01+00:00",
+      "fetched_at": "2026-10-24T08:25:47.356119+00:00"
+    },
     {
       "id": "625e0e190c75",
       "title": "AI Engineer | Schwab Jobs",
@@ -186,6 +246,21 @@
       "fetched_at": "2026-10-23T22:40:49.306422+00:00"
     },
     {
+      "id": "c373b91638f6",
+      "title": "Staff Software Engineer : Database Reliability Engineering - Jack Henry & Associates",
+      "company": "Jack Henry & Associates",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.jackhenry.com/job/united-states/staff-software-engineer-database-reliability-engineering/42859/102339387824",
+      "source": "Other",
+      "description": "Learn more about applying for Staff Software Engineer : Database ... Google Associate Cloud Engineer or Google Cloud Architect preferred.",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T18:56:48+00:00",
+      "fetched_at": "2026-10-24T08:25:47.423542+00:00"
+    },
+    {
       "id": "c5fe04e796d1",
       "title": "Full Stack Software Engineer , Monetization Platform | OpenAI",
       "company": "OpenAI",
@@ -276,6 +351,21 @@
       "fetched_at": "2026-10-23T19:39:00.230911+00:00"
     },
     {
+      "id": "4a15c9ee8936",
+      "title": "Job Application for Senior Full-Stack Engineer - Internal Tools at Alpaca - Greenhouse",
+      "company": "Alpaca",
+      "role": "Stack Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/alpaca/jobs/6233042004",
+      "source": "Greenhouse",
+      "description": "Senior Full-Stack Engineer - Internal Tools. Remote - North America - South America. Apply. Who We Are: Alpaca is a US-headquartered, global leader ...",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T17:53:54+00:00",
+      "fetched_at": "2026-10-24T08:25:47.359048+00:00"
+    },
+    {
       "id": "70317ddb8bf3",
       "title": "Software Engineer - HDR Careers - Jobs",
       "company": "HDR Careers - Jobs",
@@ -289,6 +379,22 @@
       "date": "2026-10-23",
       "timestamp": "2026-10-23T17:53:28+00:00",
       "fetched_at": "2026-10-23T22:40:49.307615+00:00"
+    },
+    {
+      "id": "b60e4d2ac92d",
+      "title": "Egnyte Careers - Senior Software Engineer - Go - Jobvite",
+      "company": "Egnyte",
+      "role": "Software Engineer",
+      "regions": [
+        "India",
+        "Remote"
+      ],
+      "link": "https://jobs.jobvite.com/egnyte/job/o5fJAfwn",
+      "source": "Jobvite",
+      "description": "Senior Software Engineer - Go. Remote, India. Apply. Description. EGNYTE YOUR CAREER. SPARK YOUR PASSION. Egnyte is a place where we spark ...",
+      "date": "2026-10-23",
+      "timestamp": "2026-10-23T17:47:50+00:00",
+      "fetched_at": "2026-10-24T08:25:47.359285+00:00"
     },
     {
       "id": "c48d6c4c3a59",
