@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-10-26T01:52:00.608642+00:00",
-  "total_jobs": 12164,
+  "last_updated": "2026-10-26T09:23:57.734129+00:00",
+  "total_jobs": 12174,
   "stats": {
-    "total_companies": 5428,
+    "total_companies": 5430,
     "total_roles": 155,
     "regions": {
-      "India": 7995,
-      "Philippines": 2584,
-      "Remote": 1505,
+      "India": 8001,
+      "Philippines": 2587,
+      "Remote": 1506,
       "Unknown": 135
     },
     "sources": {
-      "Other": 9527,
-      "Greenhouse": 618,
+      "Other": 9533,
+      "Greenhouse": 619,
       "LinkedIn": 518,
-      "Workday": 504,
-      "Ashby": 382,
+      "Workday": 505,
+      "Ashby": 383,
       "iCIMS": 148,
       "Breezy": 128,
-      "Workable": 85,
+      "Workable": 86,
       "Lever": 81,
       "SmartRecruiters": 81,
       "Indeed": 40,
@@ -31,10 +31,115 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-10-25"
+      "latest": "2026-10-26"
     }
   },
   "jobs": [
+    {
+      "id": "cfbba390f7b8",
+      "title": "Senior Software Engineer | Riot Games",
+      "company": "Riot Games",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.riotgames.com/ro/work-with-us/job/8316775/senior-software-engineer-seoul-korea",
+      "source": "Other",
+      "description": "Senior Software Engineer . Seoul, Korea. Job Id: REQ-0010445. Riot Games was established in 2006 by entrepreneurial gamers who believe that player ...",
+      "date": "2026-10-26",
+      "timestamp": "2026-10-26T07:53:56+00:00",
+      "fetched_at": "2026-10-26T09:23:57.684654+00:00"
+    },
+    {
+      "id": "def5e9274671",
+      "title": "Software Engineer , Hyderabad - ServiceNow Careers",
+      "company": "ServiceNow Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.servicenow.com/jobs/744000157722179/software-engineer/",
+      "source": "Other",
+      "description": "Software Engineer . Engineering, Infrastructure and Operations \u00b7 Hyderabad; Flexible; October 26, 2026; JB0076090.",
+      "date": "2026-10-26",
+      "timestamp": "2026-10-26T05:45:13+00:00",
+      "fetched_at": "2026-10-26T09:23:57.684775+00:00"
+    },
+    {
+      "id": "4c3141a9d332",
+      "title": "Senior Software Engineer - Bengaluru, Karnataka, India - Toast",
+      "company": "Bengaluru, Karnataka, India - Toast",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.toasttab.com/jobs/senior-software-engineer-bengaluru-karnataka-india-e2ffc2ae-8021-47b2-8d57-a97ab40a62bc",
+      "source": "Other",
+      "description": "Senior Software Engineer \u00b7 Design, build, deploy, and maintain highly resilient and scalable features across Toast's enterprise management products ...",
+      "date": "2026-10-26",
+      "timestamp": "2026-10-26T04:01:28+00:00",
+      "fetched_at": "2026-10-26T09:23:57.452124+00:00"
+    },
+    {
+      "id": "7a9da79188e9",
+      "title": "Lead, Software Engineer - Cloud Architect - Top Secret Clearance at L3Harris Technologies",
+      "company": "L3Harris Technologies",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.l3harris.com/en/job/patrick-air-force-base/lead-software-engineer-cloud-architect-top-secret-clearance/4832/102445922464",
+      "source": "Other",
+      "description": "Lead, Software Engineer - Cloud Architect - Top Secret Clearance. Patrick Air Force Base, Florida. Job ID 46736.",
+      "date": "2026-10-26",
+      "timestamp": "2026-10-26T02:30:58+00:00",
+      "fetched_at": "2026-10-26T09:23:57.452324+00:00"
+    },
+    {
+      "id": "40aa69364243",
+      "title": "Software Engineer Mobility Customer Services - Job Detail | Careers Marketplace - Siemens",
+      "company": "Job Detail | Careers Marketplace - Siemens",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526032",
+      "source": "Other",
+      "description": "Build software that connects rail technology with real-world impact. Join Siemens Mobility Customer Services as an experienced Software Engineer and ...",
+      "date": "2026-10-26",
+      "timestamp": "2026-10-26T02:00:33+00:00",
+      "fetched_at": "2026-10-26T09:23:57.452457+00:00"
+    },
+    {
+      "id": "83d85b0cb771",
+      "title": "Software Engineer , Internship \u2013 Defense Tech \u2013 New York - MIT Career Services",
+      "company": "MIT Career Services",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://capd.mit.edu/jobs/palantir-technologies-software-engineer-internship-defense-tech-new-york/",
+      "source": "Other",
+      "description": "Software Engineers at Palantir build software at scale to transform how organizations around the world use data. As a Defense Tech Software Engineer ...",
+      "date": "2026-10-26",
+      "timestamp": "2026-10-26T01:50:52+00:00",
+      "fetched_at": "2026-10-26T09:23:57.685567+00:00"
+    },
+    {
+      "id": "497c1903940b",
+      "title": "Software Engineer (US Candidates only) - Ottimate - Application - Workable Jobs",
+      "company": "Ottimate",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://apply.workable.com/ottimate/j/1B2646E985/apply",
+      "source": "Workable",
+      "description": "Software Engineer (US Candidates only). RemoteR&DFull time. United States. OverviewApplication. Autofill application. Save time by importing your ...",
+      "date": "2026-10-26",
+      "timestamp": "2026-10-26T01:35:21+00:00",
+      "fetched_at": "2026-10-26T09:23:57.452544+00:00"
+    },
     {
       "id": "eadf2571a50e",
       "title": "Software Engineer III | Pearson",
@@ -49,6 +154,21 @@
       "date": "2026-10-25",
       "timestamp": "2026-10-25T23:42:09+00:00",
       "fetched_at": "2026-10-26T01:52:00.558999+00:00"
+    },
+    {
+      "id": "146715ef0bba",
+      "title": "AI Engineer @ Momentic - Jobs",
+      "company": "Momentic",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/momentic/9fdfdb6c-f74c-407d-92c3-a6b0bdb37ec1",
+      "source": "Ashby",
+      "description": "... AI engineer who can fine-tune models, build evaluations, and turn production data into more reliable, efficient agents. Momentic executes more ...",
+      "date": "2026-10-25",
+      "timestamp": "2026-10-25T23:39:36+00:00",
+      "fetched_at": "2026-10-26T09:23:57.452784+00:00"
     },
     {
       "id": "83cab637396f",
@@ -79,6 +199,21 @@
       "date": "2026-10-25",
       "timestamp": "2026-10-25T22:37:03+00:00",
       "fetched_at": "2026-10-26T01:52:00.559486+00:00"
+    },
+    {
+      "id": "3fdaad6c9b13",
+      "title": "Job Application for Software Engineer , Supercomputer Network (Starlink) at SpaceX",
+      "company": "Spacex",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/spacex/jobs/8852113002?gh_jid=8852113002",
+      "source": "Greenhouse",
+      "description": "Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. SOFTWARE ENGINEER , ...",
+      "date": "2026-10-25",
+      "timestamp": "2026-10-25T22:24:21+00:00",
+      "fetched_at": "2026-10-26T09:23:57.686377+00:00"
     },
     {
       "id": "611a5ebe246e",
@@ -169,6 +304,21 @@
       "date": "2026-10-25",
       "timestamp": "2026-10-25T21:27:27+00:00",
       "fetched_at": "2026-10-26T01:52:00.318565+00:00"
+    },
+    {
+      "id": "1bcc3f4d097f",
+      "title": "Senior System Software Engineer",
+      "company": "Nvidia",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Senior-System-Software-Engineer_JR2028521",
+      "source": "Workday",
+      "description": "Senior System Software Engineer \u00b7 Direct experience debugging and optimizing multimedia or display hardware offload pipelines for power savings.",
+      "date": "2026-10-25",
+      "timestamp": "2026-10-25T21:25:46+00:00",
+      "fetched_at": "2026-10-26T09:23:57.454171+00:00"
     },
     {
       "id": "feb9cb40fc1b",
