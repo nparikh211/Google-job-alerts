@@ -1,27 +1,27 @@
 {
-  "last_updated": "2026-10-25T22:06:40.440071+00:00",
-  "total_jobs": 12152,
+  "last_updated": "2026-10-26T01:52:00.608642+00:00",
+  "total_jobs": 12164,
   "stats": {
-    "total_companies": 5422,
+    "total_companies": 5428,
     "total_roles": 155,
     "regions": {
-      "India": 7989,
-      "Philippines": 2580,
-      "Remote": 1503,
+      "India": 7995,
+      "Philippines": 2584,
+      "Remote": 1505,
       "Unknown": 135
     },
     "sources": {
-      "Other": 9517,
+      "Other": 9527,
       "Greenhouse": 618,
       "LinkedIn": 518,
-      "Workday": 503,
+      "Workday": 504,
       "Ashby": 382,
       "iCIMS": 148,
       "Breezy": 128,
       "Workable": 85,
       "Lever": 81,
       "SmartRecruiters": 81,
-      "Indeed": 39,
+      "Indeed": 40,
       "Recruitee": 13,
       "BrassRing": 11,
       "WeWorkRemotely": 10,
@@ -36,6 +36,141 @@
   },
   "jobs": [
     {
+      "id": "eadf2571a50e",
+      "title": "Software Engineer III | Pearson",
+      "company": "Pearson",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://pearson.jobs/colombo-lka/software-engineer-iii/A1E2D39A50674CBEA1D57A858B21F119/job/",
+      "source": "Other",
+      "description": "Software Engineer III \u00b7 Design, develop, test, and maintain software applications using Java and Spring Boot. \u00b7 Develop and maintain REST APIs, backend ...",
+      "date": "2026-10-25",
+      "timestamp": "2026-10-25T23:42:09+00:00",
+      "fetched_at": "2026-10-26T01:52:00.558999+00:00"
+    },
+    {
+      "id": "83cab637396f",
+      "title": "Senior Data Engineer at UnitedHealth Group",
+      "company": "UnitedHealth Group",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.unitedhealthgroup.com/job/cypress/senior-data-engineer/34088/102440137776",
+      "source": "Other",
+      "description": "The ideal candidate is a Data Engineer with 5+ years of experience in Python, Azure Databricks, PySpark, Azure Data Factory, and Git, along with hands ...",
+      "date": "2026-10-25",
+      "timestamp": "2026-10-25T22:51:20+00:00",
+      "fetched_at": "2026-10-26T01:52:00.317304+00:00"
+    },
+    {
+      "id": "c73c34e96633",
+      "title": "Applied Machine Learning Engineer , AI for VLSI Design - New College Grad 2026",
+      "company": "New College Grad 2026",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.nvidia.com/careers/job/893397927110-applied-machine-learning-engineer-ai-for-vlsi-design-new-college-grad-2026-us-ca-santa-clara",
+      "source": "Other",
+      "description": "Applied Machine Learning Engineer , AI for VLSI Design - New College Grad 2026 ... PCB Design EDA and AI Engineer - New College Graduate 2027. JR2027611.",
+      "date": "2026-10-25",
+      "timestamp": "2026-10-25T22:37:03+00:00",
+      "fetched_at": "2026-10-26T01:52:00.559486+00:00"
+    },
+    {
+      "id": "611a5ebe246e",
+      "title": "Software Engineer Full Stack / Backend I (Co-op) - United States - Cisco Careers",
+      "company": "op) - United States - Cisco Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/2026049/Software-Engineer-Full-Stack-Backend-I-Co-op-United-States",
+      "source": "Other",
+      "description": "Apply for Software Engineer Full Stack / Backend I (Co-op) - United States job with Cisco in San Jose, California, United States of America.",
+      "date": "2026-10-25",
+      "timestamp": "2026-10-25T22:20:50+00:00",
+      "fetched_at": "2026-10-26T01:52:00.317747+00:00"
+    },
+    {
+      "id": "a6ea4206d02b",
+      "title": "Senior Frontend Software Engineer in Canada | Atlassian",
+      "company": "Atlassian",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://join.atlassian.com/jobs/27184?lang=en-us&utm_source=Accel+job+board&utm_medium=getro.com&gh_src=Accel+job+board",
+      "source": "Other",
+      "description": "Atlassian Talent Community (MAIN) is hiring a Senior Frontend Software Engineer in Canada. Review all of the job details and apply today!",
+      "date": "2026-10-25",
+      "timestamp": "2026-10-25T22:19:32+00:00",
+      "fetched_at": "2026-10-26T01:52:00.317985+00:00"
+    },
+    {
+      "id": "0c5e7ceb7903",
+      "title": "Senior Machine Learning Engineer , Prediction - Autonomous Driving | NVIDIA Corporation",
+      "company": "Autonomous Driving | NVIDIA Corporation",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.nvidia.com/careers/job/893398212041-senior-machine-learning-engineer-prediction-autonomous-driving-us-ca-santa-clara",
+      "source": "Other",
+      "description": "Senior Machine Learning Engineer , Prediction - Autonomous Driving ... Senior Software Engineer , GPU Code Generation for Machine Learning Inference.",
+      "date": "2026-10-25",
+      "timestamp": "2026-10-25T22:11:30+00:00",
+      "fetched_at": "2026-10-26T01:52:00.318276+00:00"
+    },
+    {
+      "id": "b22b11c10617",
+      "title": "Java Full Stack Engineer at Ford Motor Company",
+      "company": "Ford Motor Company",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.careers.ford.com/en/job/chennai/java-full-stack-engineer/48560/102438053264",
+      "source": "Other",
+      "description": "Java Full Stack Engineer . Job ID: 71760. Category: Enterprise Technology ... As a Platform Engineer , you will balance hands-on architecture and ...",
+      "date": "2026-10-25",
+      "timestamp": "2026-10-25T22:09:25+00:00",
+      "fetched_at": "2026-10-26T01:52:00.318387+00:00"
+    },
+    {
+      "id": "d82498730fb9",
+      "title": "Senior Full Stack Software Engineer , Marketing Platforms",
+      "company": "Nvidia",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Senior-Full-Stack-Software-Engineer--Marketing-Platforms_JR2028332/apply/applyManually",
+      "source": "Workday",
+      "description": "Back to Job Posting. Senior Full Stack Software Engineer , Marketing Platforms. current step 1 of 6. step 2 of 6. step 3 of 6. step 4 of 6. step 5 of 6.",
+      "date": "2026-10-25",
+      "timestamp": "2026-10-25T21:53:41+00:00",
+      "fetched_at": "2026-10-26T01:52:00.560252+00:00"
+    },
+    {
+      "id": "7f950a0dd64a",
+      "title": "Senior Software Engineer : Engineering Applications (Python) (m/f/*) - Join",
+      "company": "Join",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://join.com/companies/pidso/16868089-senior-software-engineer-engineering-applications-python-m-f",
+      "source": "Other",
+      "description": "PIDSO - Propagation Ideas & Solutions GmbH has a job opening for Senior Software Engineer : Engineering Applications (Python) (m/f/*) in Vienna ...",
+      "date": "2026-10-25",
+      "timestamp": "2026-10-25T21:27:27+00:00",
+      "fetched_at": "2026-10-26T01:52:00.318565+00:00"
+    },
+    {
       "id": "feb9cb40fc1b",
       "title": "I'm an ML engineer . I built an election forecasting model : r/fivethirtyeight - Reddit",
       "company": "Reddit",
@@ -49,6 +184,36 @@
       "date": "2026-10-25",
       "timestamp": "2026-10-25T20:28:19+00:00",
       "fetched_at": "2026-10-25T22:06:40.402830+00:00"
+    },
+    {
+      "id": "e18613bf42bc",
+      "title": "Senior Software Engineer yearly salaries in the United States at Oriental Trading Company",
+      "company": "Oriental Trading Company",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.indeed.com/cmp/Oriental-Trading-Company/salaries/Senior-Software-Engineer?from=acme-salaries-v2",
+      "source": "Indeed",
+      "description": "Senior Software Engineer yearly salaries in the United States at Oriental Trading Company ... Cloud Engineer . $94,047 per year \u00b7 Automation Engineer.",
+      "date": "2026-10-25",
+      "timestamp": "2026-10-25T20:19:32+00:00",
+      "fetched_at": "2026-10-26T01:52:00.560728+00:00"
+    },
+    {
+      "id": "92515514681c",
+      "title": "Senior Full Stack Software Engineer - SAIC Careers - Cloud Sign In",
+      "company": "SAIC Careers - Cloud Sign In",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2618396",
+      "source": "Other",
+      "description": "Senior Full Stack Software Engineer . Remote Work, AL, United ... Senior Software Engineer . Huntsville, AL, United States (On-site) Posted ...",
+      "date": "2026-10-25",
+      "timestamp": "2026-10-25T20:04:02+00:00",
+      "fetched_at": "2026-10-26T01:52:00.318741+00:00"
     },
     {
       "id": "f2d59d04373e",
@@ -214,6 +379,21 @@
       "date": "2026-10-25",
       "timestamp": "2026-10-25T16:40:21+00:00",
       "fetched_at": "2026-10-25T18:34:14.871200+00:00"
+    },
+    {
+      "id": "7a5a75eaca16",
+      "title": "Software Engineer - Cisco | Built In",
+      "company": "Cisco | Built In",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://builtin.com/job/software-engineer/11864897",
+      "source": "Other",
+      "description": "Cisco is hiring for a Remote Software Engineer in Durham, NC, USA. Find more details about the job and how to apply at Built In.",
+      "date": "2026-10-25",
+      "timestamp": "2026-10-25T16:23:02+00:00",
+      "fetched_at": "2026-10-26T01:52:00.320095+00:00"
     },
     {
       "id": "afda3bebc03b",
