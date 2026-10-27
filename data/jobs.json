@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-10-27T16:53:35.487795+00:00",
-  "total_jobs": 12283,
+  "last_updated": "2026-10-27T23:15:51.066790+00:00",
+  "total_jobs": 12305,
   "stats": {
-    "total_companies": 5468,
+    "total_companies": 5479,
     "total_roles": 156,
     "regions": {
-      "India": 8065,
-      "Philippines": 2622,
-      "Remote": 1516,
+      "India": 8079,
+      "Philippines": 2628,
+      "Remote": 1519,
       "Unknown": 135
     },
     "sources": {
-      "Other": 9617,
-      "Greenhouse": 624,
+      "Other": 9635,
+      "Greenhouse": 625,
       "LinkedIn": 521,
       "Workday": 511,
-      "Ashby": 387,
-      "iCIMS": 150,
+      "Ashby": 389,
+      "iCIMS": 151,
       "Breezy": 129,
       "Workable": 86,
       "Lever": 82,
@@ -35,6 +35,337 @@
     }
   },
   "jobs": [
+    {
+      "id": "63975329197c",
+      "title": "Software Engineer , NHI Platform @ Lumos - Jobs",
+      "company": "Lumos",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/lumos/52e98603-8302-4bf1-9bdb-6ab829c8e701",
+      "source": "Ashby",
+      "description": "... Software Engineer on our NHI Platform team you will drive the evolution of our non-human identity data backbone, the systems every Lumos product ...",
+      "date": "2026-10-27",
+      "timestamp": "2026-10-27T22:15:26+00:00",
+      "fetched_at": "2026-10-27T23:15:50.690542+00:00"
+    },
+    {
+      "id": "7111063d46eb",
+      "title": "Devops Engineer / Full Stack Engineer - USAJobs",
+      "company": "USAJobs",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.usajobs.gov/job/890388700",
+      "source": "Other",
+      "description": "Devops Engineer / Full Stack Engineer . Judicial Branch. U.S. Tax Court. OIS ... A hands-on software engineer who develops applications and cloud ...",
+      "date": "2026-10-27",
+      "timestamp": "2026-10-27T21:22:06+00:00",
+      "fetched_at": "2026-10-27T23:15:50.691196+00:00"
+    },
+    {
+      "id": "5d58b89d9c0d",
+      "title": "Software Engineer , Bangalore | ServiceNow Careers",
+      "company": "ServiceNow Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India",
+        "Remote"
+      ],
+      "link": "https://careers.servicenow.com/jobs/744000158030037/software-engineer/",
+      "source": "Other",
+      "description": "Software Engineer \u00b7 What you get to do in this role: \u00b7 To be successful in this role you have: \u00b7 Work Personas. We approach our distributed world of work ...",
+      "date": "2026-10-27",
+      "timestamp": "2026-10-27T19:58:18+00:00",
+      "fetched_at": "2026-10-27T23:15:50.691455+00:00"
+    },
+    {
+      "id": "83b08194b06f",
+      "title": "L55 - Lead DevOps Engineer II - - 372304 - Deloitte US",
+      "company": "L55",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://apply.deloitte.com/en_US/careers/JobDetail/L55-Lead-DevOps-Engineer-II/372304",
+      "source": "Other",
+      "description": "Share L55 - Lead DevOps Engineer II with Facebook ... As a Lead Applied AI Site Reliability Engineer II, you will actively ...",
+      "date": "2026-10-27",
+      "timestamp": "2026-10-27T19:48:52+00:00",
+      "fetched_at": "2026-10-27T23:15:50.691538+00:00"
+    },
+    {
+      "id": "954730137cf0",
+      "title": "Senior Software Engineer - Superlinked",
+      "company": "Superlinked",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.superlinked.com/jobs/8626074-senior-software-engineer",
+      "source": "Other",
+      "description": "Senior Software Engineer . Develop and optimize high-performance AI inference infrastructure using Python and Rust. Build scalable APIs and backend ...",
+      "date": "2026-10-27",
+      "timestamp": "2026-10-27T19:30:46+00:00",
+      "fetched_at": "2026-10-27T23:15:50.691621+00:00"
+    },
+    {
+      "id": "c7fb7ac3b87a",
+      "title": "AI Engineer - Careers - IMA Financial Group",
+      "company": "Careers - IMA Financial Group",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://imacorp.com/careers/openings/5275163007?gh_jid=5275163007",
+      "source": "Other",
+      "description": "Solutions may range from low-code agents and automations to custom-developed Azure applications and integrations. The AI Engineer selects and ...",
+      "date": "2026-10-27",
+      "timestamp": "2026-10-27T19:28:48+00:00",
+      "fetched_at": "2026-10-27T23:15:50.691778+00:00"
+    },
+    {
+      "id": "6ba8e1d48dec",
+      "title": "Data Engineer - University of Idaho - Another Source",
+      "company": "University of Idaho - Another Source",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers-anothersource.icims.com/jobs/102631/data-engineer---university-of-idaho/job",
+      "source": "iCIMS",
+      "description": "Moscow, ID 83844 is now hiring a Data Engineer - University of Idaho in Moscow, Idaho. Review all of the job details and apply today!",
+      "date": "2026-10-27",
+      "timestamp": "2026-10-27T19:09:36+00:00",
+      "fetched_at": "2026-10-27T23:15:50.691883+00:00"
+    },
+    {
+      "id": "afb00a2afeac",
+      "title": "Backend Engineer , UI Platform - Stripe Careers",
+      "company": "Stripe Careers",
+      "role": "Backend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://stripe.com/careers/listing/backend-engineer-ui-platform/8212319",
+      "source": "Other",
+      "description": "Backend Engineer , UI Platform. Who we are. About Stripe. Stripe is a financial infrastructure platform for businesses. Millions of companies\u2014from the ...",
+      "date": "2026-10-27",
+      "timestamp": "2026-10-27T19:03:33+00:00",
+      "fetched_at": "2026-10-27T23:15:50.691979+00:00"
+    },
+    {
+      "id": "3483f3d4dcba",
+      "title": "Senior Software Engineer - Study Lifecycle Tooling - Evinova at AstraZeneca",
+      "company": "AstraZeneca",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.astrazeneca.com/job/gaithersburg/senior-software-engineer-study-lifecycle-tooling-evinova/7684/102515310656",
+      "source": "Other",
+      "description": "We are looking for a Senior Software Engineer to help design, build, and evolve the backend services and APIs that enable clinical trial teams to ...",
+      "date": "2026-10-27",
+      "timestamp": "2026-10-27T18:46:16+00:00",
+      "fetched_at": "2026-10-27T23:15:50.692092+00:00"
+    },
+    {
+      "id": "60b5a56ebd7c",
+      "title": "Principal Software Engineer , AWS CloudWatch - Job ID: 10590018 - Amazon Careers",
+      "company": "Job ID: 10590018 - Amazon Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.amazon.jobs/en/jobs/10590018/principal-software-engineer-aws-cloudwatch",
+      "source": "Other",
+      "description": "Principal Software Engineer , AWS CloudWatch \u00b7 Description. Come build the next generation of cloud observability with us. \u00b7 Basic Qualifications. 10+ ...",
+      "date": "2026-10-27",
+      "timestamp": "2026-10-27T18:26:08+00:00",
+      "fetched_at": "2026-10-27T23:15:50.692193+00:00"
+    },
+    {
+      "id": "f1898b497757",
+      "title": "Data Engineer | Dayforce Jobs - dayforcehcm.com",
+      "company": "Dayforce Jobs - dayforcehcm.com",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.dayforcehcm.com/en-US/lightbox/lightboxcareers/jobs/927",
+      "source": "Other",
+      "description": "Data Engineer Data Integration Team | LightBox Department Data Integration Reports to Manager, Data Engineering Position Overview LightBox is ...",
+      "date": "2026-10-27",
+      "timestamp": "2026-10-27T18:20:20+00:00",
+      "fetched_at": "2026-10-27T23:15:50.692444+00:00"
+    },
+    {
+      "id": "5b2163957708",
+      "title": "Senior Software Engineer - Fanduel | Built In NYC",
+      "company": "Fanduel | Built In NYC",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.builtinnyc.com/job/senior-software-engineer/11920167",
+      "source": "Other",
+      "description": "Fanduel is hiring for a Senior Software Engineer in New York City, NY, USA. Find more details about the job and how to apply at Built In NYC.",
+      "date": "2026-10-27",
+      "timestamp": "2026-10-27T18:17:55+00:00",
+      "fetched_at": "2026-10-27T23:15:50.692519+00:00"
+    },
+    {
+      "id": "7623d3f4587e",
+      "title": "Johnson Health Tech Companies - Software Engineer II-Matrix Fitness",
+      "company": "Johnson Health Tech Companies",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4614265",
+      "source": "Other",
+      "description": "The Software Engineer II owns features independently within a project. This position requires a creative and flexible individual who can stretch ...",
+      "date": "2026-10-27",
+      "timestamp": "2026-10-27T17:15:53+00:00",
+      "fetched_at": "2026-10-27T23:15:50.692583+00:00"
+    },
+    {
+      "id": "3748fad56f12",
+      "title": "Staff Software Engineer , Backend, Level 6 - Snap Careers",
+      "company": "Snap Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.snap.com/job?id=Q426SWEB9",
+      "source": "Other",
+      "description": "... Backend Engineer to join Snap Inc! What you'll do: Design, implement ... Staff Software Engineer , Backend, Level 6. Bellevue. Los Angeles. New ...",
+      "date": "2026-10-27",
+      "timestamp": "2026-10-27T17:15:29+00:00",
+      "fetched_at": "2026-10-27T23:15:50.692653+00:00"
+    },
+    {
+      "id": "25f45bfad922",
+      "title": "Job Application for Security Data Engineer at Anthropic - Greenhouse",
+      "company": "Anthropic",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/anthropic/jobs/5462966008",
+      "source": "Greenhouse",
+      "description": "Security Data Engineer . Remote-Friendly (Travel Required) | San Francisco, CA. Apply. About Anthropic. Anthropic's mission is to create reliable ...",
+      "date": "2026-10-27",
+      "timestamp": "2026-10-27T17:08:21+00:00",
+      "fetched_at": "2026-10-27T23:15:51.023008+00:00"
+    },
+    {
+      "id": "f6365dee2b91",
+      "title": "Senior Software Engineer , GTM @ OpenArt AI - Jobs",
+      "company": "Openart",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.ashbyhq.com/openart/dea087a1-a04f-4254-94ef-7a9035d5e05b",
+      "source": "Ashby",
+      "description": "SENIOR SOFTWARE ENGINEER , GTM ABOUT OPENART OpenArt is an AI storytelling and visual creation platform used by millions of creators worldwide.",
+      "date": "2026-10-27",
+      "timestamp": "2026-10-27T17:08:12+00:00",
+      "fetched_at": "2026-10-27T23:15:50.692707+00:00"
+    },
+    {
+      "id": "3a5027fcea69",
+      "title": "Software Engineer II in O Fallon, United States of America, 63368-7263 - Careers at Mastercard",
+      "company": "Mastercard",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.mastercard.com/us/en/job/R-294517/Software-Engineer-II",
+      "source": "Other",
+      "description": "Senior Software Engineer . Location O Fallon, United States of America, 63368-7263 Category Engineering. Senior Software Engineer - Java. Location O ...",
+      "date": "2026-10-27",
+      "timestamp": "2026-10-27T17:06:16+00:00",
+      "fetched_at": "2026-10-27T23:15:51.023133+00:00"
+    },
+    {
+      "id": "098e82571897",
+      "title": "Senior SW Backend Engineer at Applied Materials in Rehovot - 102498521504",
+      "company": "Applied Materials in Rehovot",
+      "role": "Backend Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.appliedmaterials.com/job/rehovot/senior-sw-backend-engineer/95/102498521504",
+      "source": "Other",
+      "description": "Learn more about applying for Senior SW Backend Engineer at Applied Materials in Rehovot - 102498521504. ... As a Software Engineer at Applied Materials ...",
+      "date": "2026-10-27",
+      "timestamp": "2026-10-27T17:03:36+00:00",
+      "fetched_at": "2026-10-27T23:15:51.023214+00:00"
+    },
+    {
+      "id": "e8b8424285dd",
+      "title": "Intermediate Data Engineer in United States | Progressive Careers",
+      "company": "Progressive Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.progressive.com/jobs/18410547-intermediate-data-engineer/",
+      "source": "Other",
+      "description": "Intermediate Data Engineer in United States. ... Progressive Insurance Homepage \u2022 Careers \u2022 Job Openings \u2022 Intermediate Data Engineer .",
+      "date": "2026-10-27",
+      "timestamp": "2026-10-27T17:03:09+00:00",
+      "fetched_at": "2026-10-27T23:15:51.023303+00:00"
+    },
+    {
+      "id": "6d2c35a197a3",
+      "title": "Software Engineer , DevEx & Tools - Redondo Beach | Impulse Space Careers",
+      "company": "Redondo Beach | Impulse Space Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://impulsespace.pinpointhq.com/en/postings/d81245f6-a6d4-432f-b301-83be3007cebe",
+      "source": "Other",
+      "description": "As a Software Engineer , DevEx & Tools, you'll build and improve the developer tools, infrastructure, and workflows that help Software and GNC ...",
+      "date": "2026-10-27",
+      "timestamp": "2026-10-27T16:58:24+00:00",
+      "fetched_at": "2026-10-27T23:15:51.023417+00:00"
+    },
+    {
+      "id": "9c9db31e8096",
+      "title": "Data Engineer - Xcel Energy Careers",
+      "company": "Xcel Energy Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.xcelenergy.com/data-engineer/job/0F53BE1F7B0DFD6E217EBE10FF117D5F",
+      "source": "Other",
+      "description": "The Data Engineer will be a hands-on engineer on the Xcel Vision Suite (XVS) Data & Applications Engineering team, reporting to the Manager of Data & ...",
+      "date": "2026-10-27",
+      "timestamp": "2026-10-27T16:54:45+00:00",
+      "fetched_at": "2026-10-27T23:15:51.023510+00:00"
+    },
+    {
+      "id": "520f1dd0279f",
+      "title": "Software Engineer - Job Detail | Careers Marketplace - Siemens",
+      "company": "Job Detail | Careers Marketplace - Siemens",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527170",
+      "source": "Other",
+      "description": "Software Engineer \u00b7 Responsibilities: \u00b7 Design, hands on in develop, modify, and implement modular service for Data Mesh and Agentic AI use cases.",
+      "date": "2026-10-27",
+      "timestamp": "2026-10-27T16:47:10+00:00",
+      "fetched_at": "2026-10-27T23:15:51.023667+00:00"
+    },
     {
       "id": "92918e365a36",
       "title": "Software Engineer III - Python/ AI - JPMC Candidate Experience page Careers",
