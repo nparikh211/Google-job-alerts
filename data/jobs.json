@@ -1,40 +1,175 @@
 {
-  "last_updated": "2026-10-26T23:24:06.153644+00:00",
-  "total_jobs": 12224,
+  "last_updated": "2026-10-27T02:30:34.851801+00:00",
+  "total_jobs": 12244,
   "stats": {
-    "total_companies": 5445,
+    "total_companies": 5451,
     "total_roles": 156,
     "regions": {
-      "India": 8034,
-      "Philippines": 2603,
-      "Remote": 1507,
+      "India": 8044,
+      "Philippines": 2609,
+      "Remote": 1511,
       "Unknown": 135
     },
     "sources": {
-      "Other": 9569,
+      "Other": 9586,
       "Greenhouse": 622,
       "LinkedIn": 518,
-      "Workday": 508,
+      "Workday": 509,
       "Ashby": 387,
       "iCIMS": 150,
       "Breezy": 129,
       "Workable": 86,
+      "Lever": 82,
       "SmartRecruiters": 82,
-      "Lever": 81,
       "Indeed": 40,
       "Recruitee": 13,
+      "WeWorkRemotely": 11,
       "BrassRing": 11,
-      "WeWorkRemotely": 10,
       "Jobvite": 9,
       "Taleo": 7,
       "ADP": 2
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-10-26"
+      "latest": "2026-10-27"
     }
   },
   "jobs": [
+    {
+      "id": "dc79966776e7",
+      "title": "Senior System Software Engineer , Platform and Performance - GeForce Now",
+      "company": "Nvidia",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Senior-System-Software-Engineer--Platform-and-Performance---GeForce-Now_JR2028680-1",
+      "source": "Workday",
+      "description": "... Software Engineer who loves challenges? Do you have a genuine passion for advancing the state of Computer Vision 3D across a variety of industries ...",
+      "date": "2026-10-27",
+      "timestamp": "2026-10-27T00:20:48+00:00",
+      "fetched_at": "2026-10-27T02:30:34.622725+00:00"
+    },
+    {
+      "id": "996a284e740c",
+      "title": "Senior Software Engineer - Capacity Planning | Schwab Jobs",
+      "company": "Capacity Planning | Schwab Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.schwabjobs.com/job/austin/senior-software-engineer-capacity-planning/33727/102482685632",
+      "source": "Other",
+      "description": "Senior Software Engineer - Capacity Planning. Austin, TX ; Southlake, TX ; Omaha, NE. Requisition ID 2026-128794 Category Engineering & Software ...",
+      "date": "2026-10-27",
+      "timestamp": "2026-10-27T00:04:02+00:00",
+      "fetched_at": "2026-10-27T02:30:34.623333+00:00"
+    },
+    {
+      "id": "8c379de87b1a",
+      "title": "Senior Software Engineer , DevOps - Eko - Lever",
+      "company": "Ekohealth",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.lever.co/ekohealth/fce2e3f7-7a55-43b8-ab99-ab908d96366b/apply",
+      "source": "Lever",
+      "description": "Senior Software Engineer , DevOps. Remote, US. R&D \u2013 Software /. Full Time ... Application Question - Senior DevOps Engineer . In Terraform, what ...",
+      "date": "2026-10-26",
+      "timestamp": "2026-10-26T23:51:33+00:00",
+      "fetched_at": "2026-10-27T02:30:34.623420+00:00"
+    },
+    {
+      "id": "70ef0e97a333",
+      "title": "Data Engineer in McLean, Virginia, United States - BAE Systems",
+      "company": "BAE Systems",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.baesystems.com/global/en/job/132004BR/Data-Engineer",
+      "source": "Other",
+      "description": "Data Engineer . Apply Now. Job Advanced Widget. JOB DESCRIPTION. Job ... DevOps Engineer . Location Sterling, Virginia, United States. Lead ...",
+      "date": "2026-10-26",
+      "timestamp": "2026-10-26T23:47:32+00:00",
+      "fetched_at": "2026-10-27T02:30:34.623510+00:00"
+    },
+    {
+      "id": "754426f3b75b",
+      "title": "Senior Software Engineer , Backend (AI Platform) - Affirm | Built In Chicago",
+      "company": "Affirm | Built In Chicago",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.builtinchicago.org/job/senior-software-engineer-backend-ai-platform/11898644",
+      "source": "Other",
+      "description": "Affirm is hiring for a Remote Senior Software Engineer , Backend (AI Platform) in United States. Find more details about the job and how to apply ...",
+      "date": "2026-10-26",
+      "timestamp": "2026-10-26T23:37:38+00:00",
+      "fetched_at": "2026-10-27T02:30:34.623639+00:00"
+    },
+    {
+      "id": "cf276c799c77",
+      "title": "AI Engineer , AI.x - Schwab Jobs",
+      "company": "Schwab Jobs",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.schwabjobs.com/job/san-francisco/ai-engineer-ai-x/33727/102482701536",
+      "source": "Other",
+      "description": "AI Engineer , AI.x. San Francisco, CA. Requisition ID 2026-128736 Category Engineering & Software Development Position type Regular Pay range USD ...",
+      "date": "2026-10-26",
+      "timestamp": "2026-10-26T23:33:04+00:00",
+      "fetched_at": "2026-10-27T02:30:34.810462+00:00"
+    },
+    {
+      "id": "99ce8671e5f2",
+      "title": "AI Engineer Jobs | Southern Company",
+      "company": "Southern Company",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://southerncompany.jobs/job-titles/ai-engineer/company/southern-company-services/jobs/",
+      "source": "Other",
+      "description": "You are one step closer to helping us build the future of energy! Our Culture Hiring Process. Active Filters. close-icon AI Engineer ...",
+      "date": "2026-10-26",
+      "timestamp": "2026-10-26T23:30:49+00:00",
+      "fetched_at": "2026-10-27T02:30:34.623818+00:00"
+    },
+    {
+      "id": "6de935f02def",
+      "title": "Sr Software Engineer at UnitedHealth Group",
+      "company": "UnitedHealth Group",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.unitedhealthgroup.com/job/eden-prairie/sr-software-engineer/34088/102482783216",
+      "source": "Other",
+      "description": "Ready to help us deliver results that improve lives? Join us to start Caring. Connecting. Growing together. We're looking for a Sr. Software Engineer ...",
+      "date": "2026-10-26",
+      "timestamp": "2026-10-26T23:14:54+00:00",
+      "fetched_at": "2026-10-27T02:30:34.623913+00:00"
+    },
+    {
+      "id": "f128804891a3",
+      "title": "Senior Software Engineer at Chevron",
+      "company": "Chevron",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.chevron.com/job/houston/senior-software-engineer/38138/102483286816",
+      "source": "Other",
+      "description": "Chevron is accepting online applications for the position Senior Software Engineer through Nov 15, 2026 at 11:59 p.m. (Central Time). Overview:.",
+      "date": "2026-10-26",
+      "timestamp": "2026-10-26T23:13:27+00:00",
+      "fetched_at": "2026-10-27T02:30:34.623994+00:00"
+    },
     {
       "id": "7d7b314de649",
       "title": "Senior System Software Engineer - Security",
@@ -49,6 +184,21 @@
       "date": "2026-10-26",
       "timestamp": "2026-10-26T23:00:40+00:00",
       "fetched_at": "2026-10-26T23:24:06.105063+00:00"
+    },
+    {
+      "id": "5fc9305003f8",
+      "title": "Senior Software Engineer - Snowflake Feature Store in Bellevue, Washington, United States",
+      "company": "Snowflake Feature Store in Bellevue, Washington, United States",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.snowflake.com/us/en/job/SNCOUS1B897A26CD72439BA26ED23D4419BCE2EXTERNALENUS3744BDA5C74A4FA0ABB273DA7FCFEF09/Senior-Software-Engineer-Snowflake-Feature-Store",
+      "source": "Other",
+      "description": "Apply for Senior Software Engineer - Snowflake Feature Store job in Bellevue, Washington, United States. Browse and apply for Engineering jobs at ...",
+      "date": "2026-10-26",
+      "timestamp": "2026-10-26T22:55:52+00:00",
+      "fetched_at": "2026-10-27T02:30:34.810802+00:00"
     },
     {
       "id": "7149519da145",
@@ -81,6 +231,36 @@
       "fetched_at": "2026-10-26T23:24:05.873909+00:00"
     },
     {
+      "id": "69e86a7942a0",
+      "title": "Sr Software Engineer , New York City, United States",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.uber.com/en/jobs/303718/",
+      "source": "Other",
+      "description": "Sr Software Engineer \u00b7 About the role: \u00b7 Minimum qualifications: \u00b7 Technical skills:.",
+      "date": "2026-10-26",
+      "timestamp": "2026-10-26T22:14:49+00:00",
+      "fetched_at": "2026-10-27T02:30:34.624178+00:00"
+    },
+    {
+      "id": "2e3164d6493e",
+      "title": "Senior BMC Helix Administrator / Platform Engineer - Bethpage, New York | Indotronix",
+      "company": "Bethpage, New York | Indotronix",
+      "role": "Platform Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.iic.com/job-opening/211844/senior-bmc-helix-administrator-platform-engineer/",
+      "source": "Other",
+      "description": "Job Description. Senior BMC Helix Administrator / Platform Engineer Location: Remote | Bethpage, NY, 11714 | C2C About the Role Join Optimum ...",
+      "date": "2026-10-26",
+      "timestamp": "2026-10-26T22:08:15+00:00",
+      "fetched_at": "2026-10-27T02:30:34.624302+00:00"
+    },
+    {
       "id": "997947b50cce",
       "title": "Job Application for Software Engineer \u2013 Developer Experience & AI Platform at ID.me",
       "company": "Idme",
@@ -94,6 +274,81 @@
       "date": "2026-10-26",
       "timestamp": "2026-10-26T22:06:55+00:00",
       "fetched_at": "2026-10-26T23:24:06.105309+00:00"
+    },
+    {
+      "id": "fb9173e68e8c",
+      "title": "Software Engineer job in Strongsville, Ohio, United States of America - PNC Careers",
+      "company": "PNC Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.pnc.com/global/en/job/R239085/Software-Engineer",
+      "source": "Other",
+      "description": "Apply for Software Engineer job with PNC in Strongsville, Ohio, United States of America. Browse and apply for Technology jobs at PNC.",
+      "date": "2026-10-26",
+      "timestamp": "2026-10-26T22:05:46+00:00",
+      "fetched_at": "2026-10-27T02:30:34.624380+00:00"
+    },
+    {
+      "id": "d6f85ef51c7a",
+      "title": "Senior Staff Software Engineer (Secure Agentic AI - Be'er Sheva) at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/southern-district/senior-staff-software-engineer-secure-agentic-ai-be-er-sheva/47263/102455346960",
+      "source": "Other",
+      "description": "Learn more about applying for Senior Staff Software Engineer (Secure Agentic AI - Be'er Sheva) at Palo Alto Networks.",
+      "date": "2026-10-26",
+      "timestamp": "2026-10-26T21:53:05+00:00",
+      "fetched_at": "2026-10-27T02:30:34.624522+00:00"
+    },
+    {
+      "id": "a00931dd67b8",
+      "title": "Senior Software Engineer (Applications), Full Stack | Edwards Lifesciences",
+      "company": "Edwards Lifesciences",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.edwards.com/job/51718/senior-software-engineer-applications-full-stack",
+      "source": "Other",
+      "description": "Senior Software Engineer (Applications), Full Stack. Type. Full time. Category. Engineering. Location. USA - California \u2013 Irvine. Job reference. Req- ...",
+      "date": "2026-10-26",
+      "timestamp": "2026-10-26T21:38:47+00:00",
+      "fetched_at": "2026-10-27T02:30:34.624638+00:00"
+    },
+    {
+      "id": "313f7213bfc4",
+      "title": "Lead Data Engineer & DevOps in WARSAW, Poland | Information Technology at Procter & Gamble",
+      "company": "Procter & Gamble",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.pgcareers.com/de/en/job/R000153283/Lead-Data-Engineer-DevOps",
+      "source": "Other",
+      "description": "... Poland. AI Engineer . Location WARSAW, Poland Category Information Technology Poland. Senior Databricks Platform Engineer (Azure). Location ...",
+      "date": "2026-10-26",
+      "timestamp": "2026-10-26T21:35:27+00:00",
+      "fetched_at": "2026-10-27T02:30:34.811086+00:00"
+    },
+    {
+      "id": "516e9a2cef61",
+      "title": "Cloud Data Engineer Tulsa Oklahoma - Inceed",
+      "company": "Inceed",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.inceed.com/job/34299-cloud-data-engineer-tulsa-oklahoma/",
+      "source": "Other",
+      "description": "This is a great opportunity for a hands-on data engineer to help shape a modern Microsoft Fabric environment from the ground up. You'll work across ...",
+      "date": "2026-10-26",
+      "timestamp": "2026-10-26T21:27:06+00:00",
+      "fetched_at": "2026-10-27T02:30:34.811189+00:00"
     },
     {
       "id": "208dbee888e2",
@@ -156,6 +411,21 @@
       "fetched_at": "2026-10-26T23:24:06.105489+00:00"
     },
     {
+      "id": "9390f2b68c8f",
+      "title": "Remote Frontend Engineer , Ads at Reddit",
+      "company": "Reddit",
+      "role": "Frontend Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://weworkremotely.com/remote-jobs/reddit-frontend-engineer-ads",
+      "source": "WeWorkRemotely",
+      "description": "Reddit is hiring a remote Frontend Engineer , Ads to join their remote Front-End Programming team ... Senior Software Engineer , Design Systems. Apr 16.",
+      "date": "2026-10-26",
+      "timestamp": "2026-10-26T20:51:46+00:00",
+      "fetched_at": "2026-10-27T02:30:34.624923+00:00"
+    },
+    {
       "id": "8769ba42de96",
       "title": "Stripe Careers | Apply for Software Engineer",
       "company": "Stripe Careers",
@@ -216,6 +486,21 @@
       "fetched_at": "2026-10-26T23:24:06.105624+00:00"
     },
     {
+      "id": "e83ae12f70af",
+      "title": "Physics Machine Learning Engineer - ASML",
+      "company": "ASML",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.asml.com/en/careers/find-your-job/physics-machine-learning-engineer-j00351998",
+      "source": "Other",
+      "description": "Physics Machine Learning Engineer . Do you enjoy solving algorithm design problems for the semiconductor metrology industry, with demanding time, ...",
+      "date": "2026-10-26",
+      "timestamp": "2026-10-26T19:57:33+00:00",
+      "fetched_at": "2026-10-27T02:30:34.811791+00:00"
+    },
+    {
       "id": "5794aeb85c7f",
       "title": "Senior Software Engineer , Global Converse - Nike Careers",
       "company": "Nike Careers",
@@ -259,6 +544,21 @@
       "date": "2026-10-26",
       "timestamp": "2026-10-26T19:49:17+00:00",
       "fetched_at": "2026-10-26T23:24:06.106112+00:00"
+    },
+    {
+      "id": "5dbf653028d8",
+      "title": "Senior data engineer Poland - Harnham",
+      "company": "Harnham",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.harnham.com/job/e1aeb1da-8723-4ba1-d23d-08d5948a7341-senior-data-engineer-poland/",
+      "source": "Other",
+      "description": "JOB RESULTS. Senior Software Engineer . San Francisco, CA. $160000 ... AI Engineer . London. \u00a3100000 - \u00a3150000. + Data Science & AI. Permanent London ...",
+      "date": "2026-10-26",
+      "timestamp": "2026-10-26T19:33:11+00:00",
+      "fetched_at": "2026-10-27T02:30:34.812256+00:00"
     },
     {
       "id": "9f956e57593d",
