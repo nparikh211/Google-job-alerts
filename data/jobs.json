@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-10-27T23:15:51.066790+00:00",
-  "total_jobs": 12305,
+  "last_updated": "2026-10-28T02:39:11.917105+00:00",
+  "total_jobs": 12313,
   "stats": {
-    "total_companies": 5479,
+    "total_companies": 5481,
     "total_roles": 156,
     "regions": {
-      "India": 8079,
-      "Philippines": 2628,
-      "Remote": 1519,
+      "India": 8083,
+      "Philippines": 2631,
+      "Remote": 1520,
       "Unknown": 135
     },
     "sources": {
-      "Other": 9635,
-      "Greenhouse": 625,
+      "Other": 9639,
+      "Greenhouse": 627,
       "LinkedIn": 521,
-      "Workday": 511,
+      "Workday": 513,
       "Ashby": 389,
       "iCIMS": 151,
       "Breezy": 129,
@@ -31,10 +31,85 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-10-27"
+      "latest": "2026-10-28"
     }
   },
   "jobs": [
+    {
+      "id": "1ff03687164b",
+      "title": "Job Application for Software Engineer II - CIAM at Affirm - Greenhouse",
+      "company": "Affirm",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/affirm/jobs/8040751003",
+      "source": "Greenhouse",
+      "description": "We're looking for a Mid-Level Software Engineer with solid engineering fundamentals, a passion for authentication, and an eagerness to learn customer ...",
+      "date": "2026-10-28",
+      "timestamp": "2026-10-28T00:52:04+00:00",
+      "fetched_at": "2026-10-28T02:39:11.723891+00:00"
+    },
+    {
+      "id": "be48e5350bdb",
+      "title": "Software Engineer - New Grad (2027 Start) - Databricks",
+      "company": "New Grad (2027 Start) - Databricks",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.databricks.com/company/careers/university-recruiting---engineering/software-engineer---new-grad-2027-start-6865698002",
+      "source": "Other",
+      "description": "As a software engineer , you will work with our engineering team to build infrastructure and products for the Databricks platform. We're hiring across ...",
+      "date": "2026-10-28",
+      "timestamp": "2026-10-28T00:28:19+00:00",
+      "fetched_at": "2026-10-28T02:39:11.725150+00:00"
+    },
+    {
+      "id": "645f3dcac5d6",
+      "title": "DevOps Engineer in Bethesda, Maryland (No Remote) - Leidos Careers",
+      "company": "Leidos Careers",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.leidos.com/jobs/18412563-devops-engineer",
+      "source": "Other",
+      "description": "DevOps Engineer \u00b7 Supports software deployments, cloud infrastructure baselines, and operational availability of production systems. \u00b7 Managing, ...",
+      "date": "2026-10-27",
+      "timestamp": "2026-10-27T23:51:34+00:00",
+      "fetched_at": "2026-10-28T02:39:11.858120+00:00"
+    },
+    {
+      "id": "3edf199a15c0",
+      "title": "Job Application for AI Engineer , Internal Tools at Figma - Greenhouse",
+      "company": "Figma",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/figma/jobs/6233043004?gh_jid=6233043004",
+      "source": "Greenhouse",
+      "description": "AI Engineer , Internal Tools. San Francisco, CA \u2022 New York, NY \u2022 United States. Apply. Figma is growing our team of passionate creatives and builders ...",
+      "date": "2026-10-27",
+      "timestamp": "2026-10-27T23:41:47+00:00",
+      "fetched_at": "2026-10-28T02:39:11.858247+00:00"
+    },
+    {
+      "id": "9eca85f9e0b6",
+      "title": "2027 Sophomore Internship Program - Software Engineer Intern, Austin, TX",
+      "company": "Visa",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin--TX---2027_REF089882W-1",
+      "source": "Workday",
+      "description": "As a Sophomore intern program Software Engineer Intern, you will contribute to Visa's technology teams by taking on meaningful work aligned with your ...",
+      "date": "2026-10-27",
+      "timestamp": "2026-10-27T22:42:40+00:00",
+      "fetched_at": "2026-10-28T02:39:11.725387+00:00"
+    },
     {
       "id": "63975329197c",
       "title": "Software Engineer , NHI Platform @ Lumos - Jobs",
@@ -64,6 +139,21 @@
       "date": "2026-10-27",
       "timestamp": "2026-10-27T21:22:06+00:00",
       "fetched_at": "2026-10-27T23:15:50.691196+00:00"
+    },
+    {
+      "id": "c2f30d8f8542",
+      "title": "Data Systems Software Engineer II - CU Boulder Jobs",
+      "company": "CU Boulder Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.colorado.edu/jobs/JobDetail/Data-Systems-Software-Engineer-II/75694",
+      "source": "Other",
+      "description": "Data Systems Software Engineer II. Requisition Number: 75694. Location: Boulder, Colorado. City. Boulder. State. Colorado. Employment Type: Research ...",
+      "date": "2026-10-27",
+      "timestamp": "2026-10-27T21:21:13+00:00",
+      "fetched_at": "2026-10-28T02:39:11.858669+00:00"
     },
     {
       "id": "5d58b89d9c0d",
@@ -157,6 +247,21 @@
       "fetched_at": "2026-10-27T23:15:50.691979+00:00"
     },
     {
+      "id": "8d125c3500d3",
+      "title": "Software Engineer , Santa Clara | ServiceNow Careers",
+      "company": "ServiceNow Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.servicenow.com/jobs/744000158119381/software-engineer/",
+      "source": "Other",
+      "description": "Job Description. Job Summary. The Software Engineer designs, builds, and ships features for the Strategic Portfolio Management (SPM) suite of products ...",
+      "date": "2026-10-27",
+      "timestamp": "2026-10-27T18:49:18+00:00",
+      "fetched_at": "2026-10-28T02:39:11.727695+00:00"
+    },
+    {
       "id": "3483f3d4dcba",
       "title": "Senior Software Engineer - Study Lifecycle Tooling - Evinova at AstraZeneca",
       "company": "AstraZeneca",
@@ -170,6 +275,21 @@
       "date": "2026-10-27",
       "timestamp": "2026-10-27T18:46:16+00:00",
       "fetched_at": "2026-10-27T23:15:50.692092+00:00"
+    },
+    {
+      "id": "9ff42170d909",
+      "title": "Sr AI Engineer - Advanced AI (applied ML, Gen AI, ML ops) - Myworkdayjobs.com",
+      "company": "Target",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/Sr-AI-Engineer---Advanced-AI--applied-ML--Gen-AI--ML-ops-_R0000478792",
+      "source": "Workday",
+      "description": "As a Senior AI Engineer for Advanced AI, you will help build, deploy, and maintain AI/ML applications that support automation, insight, and action ...",
+      "date": "2026-10-27",
+      "timestamp": "2026-10-27T18:34:05+00:00",
+      "fetched_at": "2026-10-28T02:39:11.860099+00:00"
     },
     {
       "id": "60b5a56ebd7c",
