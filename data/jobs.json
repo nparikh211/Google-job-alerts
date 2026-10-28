@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-10-28T02:39:11.917105+00:00",
-  "total_jobs": 12313,
+  "last_updated": "2026-10-28T10:03:20.389030+00:00",
+  "total_jobs": 12325,
   "stats": {
-    "total_companies": 5481,
+    "total_companies": 5485,
     "total_roles": 156,
     "regions": {
-      "India": 8083,
+      "India": 8092,
       "Philippines": 2631,
-      "Remote": 1520,
+      "Remote": 1523,
       "Unknown": 135
     },
     "sources": {
-      "Other": 9639,
-      "Greenhouse": 627,
-      "LinkedIn": 521,
+      "Other": 9649,
+      "Greenhouse": 628,
+      "LinkedIn": 522,
       "Workday": 513,
       "Ashby": 389,
       "iCIMS": 151,
@@ -35,6 +35,141 @@
     }
   },
   "jobs": [
+    {
+      "id": "a2a1a5f033c1",
+      "title": "ML Engineer \u2014 Careers - Visia",
+      "company": "Visia",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.visia.ai/jobs/ml-engineer",
+      "source": "Other",
+      "description": "ML Engineer at Visia \u2014 You'll own the agent that trains, evaluates, and improves the models behind our vision systems at 50+ industrial sites.",
+      "date": "2026-10-28",
+      "timestamp": "2026-10-28T08:10:01+00:00",
+      "fetched_at": "2026-10-28T10:03:20.223055+00:00"
+    },
+    {
+      "id": "5b69a0649773",
+      "title": "Software Engineer , Hyderabad | ServiceNow Careers",
+      "company": "ServiceNow Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.servicenow.com/jobs/744000157856929/software-engineer/",
+      "source": "Other",
+      "description": "Software Engineer . Engineering, Infrastructure and Operations \u00b7 Hyderabad; Flexible; October 26, 2026; JB0076357.",
+      "date": "2026-10-28",
+      "timestamp": "2026-10-28T06:55:08+00:00",
+      "fetched_at": "2026-10-28T10:03:20.223212+00:00"
+    },
+    {
+      "id": "0ec56defe025",
+      "title": "GE Vernova AI Engineer",
+      "company": "Unknown Company",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.gevernova.com/ge-vernova-ai-engineer/job/R5057133",
+      "source": "Other",
+      "description": "Job Description Summary. As an entry-level AI Engineer , you will help design, build, integrate and operate AI-enabled applications for engineering ...",
+      "date": "2026-10-28",
+      "timestamp": "2026-10-28T06:51:51+00:00",
+      "fetched_at": "2026-10-28T10:03:20.223316+00:00"
+    },
+    {
+      "id": "f317a22811dc",
+      "title": "Software Engineer - New Grad, Distributed Data Systems (2027 Start) - Databricks",
+      "company": "New Grad, Distributed Data Systems (2027 Start) - Databricks",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.databricks.com/company/careers/university-recruiting---engineering/software-engineer---new-grad-distributed-data-systems-2027-start-6865704002",
+      "source": "Other",
+      "description": "Software Engineer - New Grad, Distributed Data Systems (2027 Start), Bellevue, Washington; Mountain View, California. Join us!",
+      "date": "2026-10-28",
+      "timestamp": "2026-10-28T06:35:35+00:00",
+      "fetched_at": "2026-10-28T10:03:20.223530+00:00"
+    },
+    {
+      "id": "5fc7676620be",
+      "title": "Data Engineer at UnitedHealth Group",
+      "company": "UnitedHealth Group",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.unitedhealthgroup.com/job/hyderabad/data-engineer/34088/102512671952",
+      "source": "Other",
+      "description": "Data Engineer . Requisition number: 2392042 Job category: Technology Primary location: Hyderabad, India Date posted: 10/27/ ...",
+      "date": "2026-10-28",
+      "timestamp": "2026-10-28T05:52:02+00:00",
+      "fetched_at": "2026-10-28T10:03:20.223607+00:00"
+    },
+    {
+      "id": "e3801ae7d95a",
+      "title": "Senior Software Engineer job in McLean, VA - Freddie Mac Careers",
+      "company": "Freddie Mac Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.freddiemac.com/us/en/job/JR17758/Senior-Software-Engineer",
+      "source": "Other",
+      "description": "Your Impact: The Senior Software Engineer role requires ensuring applications remain reliable by supporting technology updates, platform migrations ...",
+      "date": "2026-10-28",
+      "timestamp": "2026-10-28T05:11:53+00:00",
+      "fetched_at": "2026-10-28T10:03:20.223690+00:00"
+    },
+    {
+      "id": "8d7786467761",
+      "title": ".NET Software Engineer at IQVIA",
+      "company": "IQVIA",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.iqvia.com/en/jobs/R1574605-0",
+      "source": "Other",
+      "description": ".NET Software Engineer \u00b7 Bachelor's degree in Computer Science, Information Technology, Software Engineering, or a related field, or equivalent ...",
+      "date": "2026-10-28",
+      "timestamp": "2026-10-28T04:03:48+00:00",
+      "fetched_at": "2026-10-28T10:03:20.223754+00:00"
+    },
+    {
+      "id": "84b7bed4c248",
+      "title": "Software Engineer - Crew Scheduling Modernization in Dallas, Texas, United States of America",
+      "company": "Crew Scheduling Modernization in Dallas, Texas, United States of America",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.southwestair.com/us/en/job/R-2026-73739/Software-Engineer-Crew-Scheduling-Modernization",
+      "source": "Other",
+      "description": "The Software Engineer leverages strong technical and problem\u2011solving skills to deliver innovative solutions that support Crew Members, strengthen ...",
+      "date": "2026-10-28",
+      "timestamp": "2026-10-28T03:06:31+00:00",
+      "fetched_at": "2026-10-28T10:03:20.223893+00:00"
+    },
+    {
+      "id": "7c204d9f2f1e",
+      "title": "You Don't Need a New Job to Become an AI Engineer - LinkedIn",
+      "company": "LinkedIn",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/pulse/you-dont-need-new-job-become-ai-engineer-brian-jenney-scbac",
+      "source": "LinkedIn",
+      "description": "Both times the opportunity came from looking at the business and asking what would help. Nobody handed me an \" AI engineer \" title first. 1. Vector-ify.",
+      "date": "2026-10-28",
+      "timestamp": "2026-10-28T01:14:27+00:00",
+      "fetched_at": "2026-10-28T10:03:20.224012+00:00"
+    },
     {
       "id": "1ff03687164b",
       "title": "Job Application for Software Engineer II - CIAM at Affirm - Greenhouse",
@@ -66,6 +201,36 @@
       "fetched_at": "2026-10-28T02:39:11.725150+00:00"
     },
     {
+      "id": "c206fbb8b0bd",
+      "title": "Job Application for Senior Software Engineer II at Boulevard - Greenhouse",
+      "company": "Boulevard",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/boulevard/jobs/4722370006",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer II. Remote - USA. Apply. Who is Boulevard? Boulevard provides the first and only client experience platform for appointment ...",
+      "date": "2026-10-28",
+      "timestamp": "2026-10-28T00:24:01+00:00",
+      "fetched_at": "2026-10-28T10:03:20.224252+00:00"
+    },
+    {
+      "id": "913658346f7e",
+      "title": "Senior Network Software Engineer II -Secret Clearance | Rocket Lab",
+      "company": "Secret Clearance | Rocket Lab",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://rocketlabcorp.com/careers/positions/senior-network-software-engineer-ii-secret-clearance-littleton-co-7994294003/",
+      "source": "Other",
+      "description": "Rocket Lab is looking for a driven Senior Network Software Engineer II to be based out of our office in Littleton, CO. This role will work with a ...",
+      "date": "2026-10-28",
+      "timestamp": "2026-10-28T00:12:21+00:00",
+      "fetched_at": "2026-10-28T10:03:20.224407+00:00"
+    },
+    {
       "id": "645f3dcac5d6",
       "title": "DevOps Engineer in Bethesda, Maryland (No Remote) - Leidos Careers",
       "company": "Leidos Careers",
@@ -94,6 +259,21 @@
       "date": "2026-10-27",
       "timestamp": "2026-10-27T23:41:47+00:00",
       "fetched_at": "2026-10-28T02:39:11.858247+00:00"
+    },
+    {
+      "id": "d39dc9e29ba9",
+      "title": "Senior Data Engineer - Pharmacy at Mayo Clinic",
+      "company": "Mayo Clinic",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.mayoclinic.org/job/rochester/senior-data-engineer-pharmacy/33647/102525624464",
+      "source": "Other",
+      "description": "Senior Data Engineer - Pharmacy. Job ID 394542 Date posted 10/27/2026. Rochester, Minnesota; Full Time; Pharmacy; Remote: No. Apply Now Save JobUn ...",
+      "date": "2026-10-27",
+      "timestamp": "2026-10-27T23:02:23+00:00",
+      "fetched_at": "2026-10-28T10:03:20.224687+00:00"
     },
     {
       "id": "9eca85f9e0b6",
