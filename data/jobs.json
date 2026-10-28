@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-10-28T17:27:20.316169+00:00",
-  "total_jobs": 12345,
+  "last_updated": "2026-10-28T23:39:52.858335+00:00",
+  "total_jobs": 12366,
   "stats": {
-    "total_companies": 5488,
+    "total_companies": 5498,
     "total_roles": 157,
     "regions": {
-      "India": 8107,
-      "Philippines": 2635,
-      "Remote": 1524,
+      "India": 8122,
+      "Philippines": 2639,
+      "Remote": 1526,
       "Unknown": 135
     },
     "sources": {
-      "Other": 9664,
-      "Greenhouse": 629,
+      "Other": 9680,
+      "Greenhouse": 631,
       "LinkedIn": 523,
-      "Workday": 514,
-      "Ashby": 390,
+      "Workday": 515,
+      "Ashby": 391,
       "iCIMS": 151,
       "Breezy": 129,
       "Workable": 86,
@@ -25,7 +25,7 @@
       "Recruitee": 13,
       "WeWorkRemotely": 12,
       "BrassRing": 11,
-      "Jobvite": 9,
+      "Jobvite": 10,
       "Taleo": 8,
       "ADP": 2
     },
@@ -35,6 +35,246 @@
     }
   },
   "jobs": [
+    {
+      "id": "109ad57409c5",
+      "title": "Sr Software Engineer - Engineer, New York City, United States",
+      "company": "Sr Software Engineer",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.uber.com/en/jobs/304084/",
+      "source": "Other",
+      "description": "Sr Software Engineer - Engineer \u00b7 BS or MS in Computer Science or a related technical discipline, or equivalent experience. \u00b7 5+ years of working ...",
+      "date": "2026-10-28",
+      "timestamp": "2026-10-28T21:40:15+00:00",
+      "fetched_at": "2026-10-28T23:39:52.706776+00:00"
+    },
+    {
+      "id": "40f807063cb5",
+      "title": "Software Engineer , Global Investment Research, Agentic Systems - Associate - gs",
+      "company": "Associate - gs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://higher.gs.com/roles/187976",
+      "source": "Other",
+      "description": "Software Engineer , Global Investment Research, Agentic Systems - Associate. Apply. Software Engineer , Global Investment Research, Agentic Systems ...",
+      "date": "2026-10-28",
+      "timestamp": "2026-10-28T21:22:55+00:00",
+      "fetched_at": "2026-10-28T23:39:52.707129+00:00"
+    },
+    {
+      "id": "799f2dd2cf04",
+      "title": "AI/ ML Engineer - Senior - McLean, VA - Halvik Jobs",
+      "company": "Senior - McLean, VA - Halvik Jobs",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://halvik.isolvedhire.com/jobs/1888709",
+      "source": "Other",
+      "description": "AI/ ML Engineer - Senior \u00b7 7901 Jones Branch Dr, McLean, VA 22102, USA \u00b7 200,000-220,000 per year \u00b7 Salary \u00b7 Full Time.",
+      "date": "2026-10-28",
+      "timestamp": "2026-10-28T21:09:08+00:00",
+      "fetched_at": "2026-10-28T23:39:52.707310+00:00"
+    },
+    {
+      "id": "7f2c521e300b",
+      "title": "NinjaOne Careers - Senior DevOps Engineer - Jobvite",
+      "company": "Ninjaone",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.jobvite.com/ninjaone/job/o5b1AfwB?nl=1&fr=true",
+      "source": "Jobvite",
+      "description": "As a Senior DevOps Engineer on NinjaOne's DevOps Engineering team, you will build and run the release and deployment pipelines that move code from ...",
+      "date": "2026-10-28",
+      "timestamp": "2026-10-28T20:56:16+00:00",
+      "fetched_at": "2026-10-28T23:39:52.707576+00:00"
+    },
+    {
+      "id": "79098475d234",
+      "title": "Software Engineer II | Fortive - Eightfold AI",
+      "company": "Fortive - Eightfold AI",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://fortive.eightfold.ai/careers/job/893398053831",
+      "source": "Other",
+      "description": "AI-Native Software Development Independently deliver SaaS product features, integrations, APIs, workflow capabilities, automated tests, ...",
+      "date": "2026-10-28",
+      "timestamp": "2026-10-28T20:39:40+00:00",
+      "fetched_at": "2026-10-28T23:39:52.799327+00:00"
+    },
+    {
+      "id": "c75949c43164",
+      "title": "Data Engineer - Myworkdayjobs.com",
+      "company": "Chathamfinancial",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://chathamfinancial.wd501.myworkdayjobs.com/chathamfinancial/job/kennett-square/data-engineer_r-100347",
+      "source": "Workday",
+      "description": "... Data Engineer , within the Product Engineering department, you will ... Senior Software Engineer . locations: 2 Locations. time type: Full time.",
+      "date": "2026-10-28",
+      "timestamp": "2026-10-28T19:43:11+00:00",
+      "fetched_at": "2026-10-28T23:39:52.707678+00:00"
+    },
+    {
+      "id": "c8b8a9fafd6e",
+      "title": "Data Engineer , Global Logistics Product Analytics Team - Job ID: 10590795 | Amazon.jobs",
+      "company": "Job ID: 10590795 | Amazon.jobs",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.amazon.jobs/en/jobs/10590795/data-engineer-global-logistics-product-analytics-team",
+      "source": "Other",
+      "description": "As a Data Engineer on our team, you will design and deliver production-ready data systems that directly influence how Amazon moves products around the ...",
+      "date": "2026-10-28",
+      "timestamp": "2026-10-28T19:38:39+00:00",
+      "fetched_at": "2026-10-28T23:39:52.707925+00:00"
+    },
+    {
+      "id": "c6d3fa4a222c",
+      "title": "Software Engineer - Entry Level at USAA",
+      "company": "USAA",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.usaajobs.com/job/san-antonio/software-engineer-entry-level/1207/102550133984",
+      "source": "Other",
+      "description": "Learn more about and apply for the Software Engineer - Entry Level job at USAA here.",
+      "date": "2026-10-28",
+      "timestamp": "2026-10-28T19:21:14+00:00",
+      "fetched_at": "2026-10-28T23:39:52.708067+00:00"
+    },
+    {
+      "id": "b55a6f42a2f1",
+      "title": "Senior Machine Learning Engineer - GUS Job Details | Grainger Businesses",
+      "company": "GUS Job Details | Grainger Businesses",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.grainger.com/job/CHICAGO-Senior-Machine-Learning-Engineer-GUS-IL-60661-4555/1444137200/",
+      "source": "Other",
+      "description": "CHICAGO Senior Machine Learning Engineer - GUS - IL, 60661-4555.",
+      "date": "2026-10-28",
+      "timestamp": "2026-10-28T19:13:25+00:00",
+      "fetched_at": "2026-10-28T23:39:52.708308+00:00"
+    },
+    {
+      "id": "53f34400ae13",
+      "title": "Software Engineer 3, Identity and Access Management - MongoDB",
+      "company": "MongoDB",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.mongodb.com/careers/jobs/8313374",
+      "source": "Other",
+      "description": "We're seeking a Software Engineer to join the Atlas Identity and Access Management (IAM) team. The IAM team owns authentication and authorization ...",
+      "date": "2026-10-28",
+      "timestamp": "2026-10-28T18:23:23+00:00",
+      "fetched_at": "2026-10-28T23:39:52.708435+00:00"
+    },
+    {
+      "id": "8a022f6c2936",
+      "title": "Sr Software Engineer - Backend, Bengaluru, India",
+      "company": "Backend, Bengaluru, India",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.uber.com/en/jobs/303882/",
+      "source": "Other",
+      "description": "and team Engineering at Uber means building for real-world impact under real-world constraints. As a Senior Software Engineer (Data & Backend), ...",
+      "date": "2026-10-28",
+      "timestamp": "2026-10-28T18:07:15+00:00",
+      "fetched_at": "2026-10-28T23:39:52.708556+00:00"
+    },
+    {
+      "id": "01f94ce02297",
+      "title": "Senior Software Engineer - Angular, Spring Boot, Java - Fidelity Careers",
+      "company": "Angular, Spring Boot, Java - Fidelity Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.fidelity.com/en/jobs/2132154/senior-software-engineer-angular-spring-boot-java/",
+      "source": "Other",
+      "description": "Fidelity will not provide immigration sponsorship for this position. Job Description: The Team Fidelity is looking for a Senior Software Engineer ...",
+      "date": "2026-10-28",
+      "timestamp": "2026-10-28T17:57:08+00:00",
+      "fetched_at": "2026-10-28T23:39:52.800366+00:00"
+    },
+    {
+      "id": "7fe2cdb56c8f",
+      "title": "Software Engineer in Milpitas, California, United States of America - Cisco Careers",
+      "company": "Cisco Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2027515EXTERNALENGLOBAL/Software-Engineer",
+      "source": "Other",
+      "description": "Software Engineer ... We are looking for a Lead Backend Engineer to drive architectural strategy and engineering initiatives for Cisco's Studio platform ...",
+      "date": "2026-10-28",
+      "timestamp": "2026-10-28T17:51:45+00:00",
+      "fetched_at": "2026-10-28T23:39:52.708796+00:00"
+    },
+    {
+      "id": "456aac4b54a2",
+      "title": "Job Application for Full Stack Software Engineer at Juul Labs - Greenhouse",
+      "company": "Juullabs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/juullabs/jobs/8319432",
+      "source": "Greenhouse",
+      "description": "Full Stack Software Engineer ... THE COMPANY: Juul Labs's mission is to transition the world's billion adult smokers away from combustible cigarettes, ...",
+      "date": "2026-10-28",
+      "timestamp": "2026-10-28T17:29:34+00:00",
+      "fetched_at": "2026-10-28T23:39:52.708919+00:00"
+    },
+    {
+      "id": "17a0da012c5e",
+      "title": "Staff Data Engineer Job Details | natgridProd - National Grid Careers",
+      "company": "natgridProd - National Grid Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs-ats.nationalgrid.com/job/Brooklyn-Staff-Data-Engineer-NY-11217/1444388800/",
+      "source": "Other",
+      "description": "Staff Data Engineer . Business Unit: IT and ... This position requires an innovative software engineer who is passionate about data & data quality.",
+      "date": "2026-10-28",
+      "timestamp": "2026-10-28T17:17:36+00:00",
+      "fetched_at": "2026-10-28T23:39:52.709114+00:00"
+    },
+    {
+      "id": "79cb761a66f3",
+      "title": "AI Engineer at Stacksync | Y Combinator's Work at a Startup - WorkAtAStartup",
+      "company": "Stacksync",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.workatastartup.com/jobs/119087",
+      "source": "Other",
+      "description": "",
+      "date": "2026-10-28",
+      "timestamp": "2026-10-28T16:39:53+00:00",
+      "fetched_at": "2026-10-28T23:39:52.801093+00:00"
+    },
     {
       "id": "947beaa845e7",
       "title": "Operations Software Engineer | Careers | Oxide Computer Company",
@@ -51,6 +291,51 @@
       "fetched_at": "2026-10-28T17:27:19.999771+00:00"
     },
     {
+      "id": "52f04f4a9f85",
+      "title": "AI Platform Engineer at Ford Motor Company",
+      "company": "Ford Motor Company",
+      "role": "Platform Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.careers.ford.com/en/job/allen-park/ai-platform-engineer/48560/102542676080",
+      "source": "Other",
+      "description": "We are seeking an AI Platform Engineer to design, develop, and deploy software capabilities for Ford's enterprise AI and analytics platforms.",
+      "date": "2026-10-28",
+      "timestamp": "2026-10-28T16:14:45+00:00",
+      "fetched_at": "2026-10-28T23:39:52.801369+00:00"
+    },
+    {
+      "id": "a4801929b236",
+      "title": "Software Engineer , Back-End - Mail (US) @ Superhuman - Jobs",
+      "company": "Superhuman",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.ashbyhq.com/superhuman%20platform%20inc/3cff688a-2fa0-4e5c-a644-3af99cc0a39d",
+      "source": "Ashby",
+      "description": "Software Engineer , Back-End - Mail (US). Location. Remote - United States. Employment Type. Full time. Location Type. Remote. Department. Engineering ...",
+      "date": "2026-10-28",
+      "timestamp": "2026-10-28T16:05:43+00:00",
+      "fetched_at": "2026-10-28T23:39:52.709382+00:00"
+    },
+    {
+      "id": "3141ed3e90c6",
+      "title": "Data Platform Engineer - - 24612 - Macquarie Group",
+      "company": "- 24612 - Macquarie Group",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=24612",
+      "source": "Other",
+      "description": "Data Platform Engineer . Additional office locations. Houston. Job ID ... As a Data Engineer , you will develop and maintain data products across ...",
+      "date": "2026-10-28",
+      "timestamp": "2026-10-28T15:54:55+00:00",
+      "fetched_at": "2026-10-28T23:39:52.709546+00:00"
+    },
+    {
       "id": "cf7602ded4c0",
       "title": "Job Description - DevOps Engineer (260000A7) - Sign in",
       "company": "Job Description",
@@ -64,6 +349,36 @@
       "date": "2026-10-28",
       "timestamp": "2026-10-28T15:36:29+00:00",
       "fetched_at": "2026-10-28T17:27:20.257625+00:00"
+    },
+    {
+      "id": "00be083c0eb4",
+      "title": "Job Application for Senior Software Engineer , II at Life360 - Greenhouse",
+      "company": "Life360",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/life360/jobs/8920421002",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer , II. Remote, USA. Apply. About Life360. Life360's mission is to keep people close to the ones they love. Our category-leading ...",
+      "date": "2026-10-28",
+      "timestamp": "2026-10-28T15:10:24+00:00",
+      "fetched_at": "2026-10-28T23:39:52.709818+00:00"
+    },
+    {
+      "id": "f6ba54056c24",
+      "title": "Senior Software Engineer - Angular, Spring Boot, Java, Denver, CO | Fidelity Careers",
+      "company": "Angular, Spring Boot, Java, Denver, CO | Fidelity Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.fidelity.com/en/jobs/2132154/senior-software-engineer-angular-spring-boot-java/",
+      "source": "Other",
+      "description": "Fidelity will not provide immigration sponsorship for this position. Job Description: The Team Fidelity is looking for a Senior Software Engineer ...",
+      "date": "2026-10-28",
+      "timestamp": "2026-10-28T15:02:50+00:00",
+      "fetched_at": "2026-10-28T23:39:52.710038+00:00"
     },
     {
       "id": "eb13be9ce06e",
