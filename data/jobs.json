@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-10-29T10:27:50.606708+00:00",
-  "total_jobs": 12389,
+  "last_updated": "2026-10-29T17:37:38.422035+00:00",
+  "total_jobs": 12413,
   "stats": {
-    "total_companies": 5508,
+    "total_companies": 5512,
     "total_roles": 157,
     "regions": {
-      "India": 8134,
-      "Philippines": 2648,
-      "Remote": 1528,
+      "India": 8151,
+      "Philippines": 2652,
+      "Remote": 1531,
       "Unknown": 135
     },
     "sources": {
-      "Other": 9697,
+      "Other": 9716,
       "Greenhouse": 631,
-      "LinkedIn": 525,
-      "Workday": 516,
-      "Ashby": 392,
+      "LinkedIn": 526,
+      "Workday": 518,
+      "Ashby": 394,
       "iCIMS": 152,
       "Breezy": 129,
       "Workable": 86,
@@ -35,6 +35,351 @@
     }
   },
   "jobs": [
+    {
+      "id": "e4d1d85daa09",
+      "title": "Software Engineer 1 (Java, Linux, SQL) in Saint Paul, MN, United States - U.S. Bank careers",
+      "company": "U.S. Bank careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.usbank.com/global/en/job/UBNAGLOBAL20260026539EXTERNALENGLOBAL/Software-Engineer-1-Java-Linux-SQL",
+      "source": "Other",
+      "description": "Apply for Software Engineer 1 (Java, Linux, SQL) job with U.S. Bank in Saint Paul, MN, United States. Technology & Digital at U.S. Bank.",
+      "date": "2026-10-29",
+      "timestamp": "2026-10-29T16:52:58+00:00",
+      "fetched_at": "2026-10-29T17:37:38.294793+00:00"
+    },
+    {
+      "id": "51dbb3f56db5",
+      "title": "From Spreadsheets to DuckLake: A Data Engineer's Road to DuckDB",
+      "company": "Unknown Company",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://duckdb.org/2026/10/29/from-spreadsheets-to-ducklake",
+      "source": "Other",
+      "description": "After nearly two decades working with increasingly sophisticated data infrastructure, data engineer Matt Martin discovered DuckDB could handle ...",
+      "date": "2026-10-29",
+      "timestamp": "2026-10-29T16:41:13+00:00",
+      "fetched_at": "2026-10-29T17:37:38.294977+00:00"
+    },
+    {
+      "id": "a409a2d1ee18",
+      "title": "Vibecoded my way to an AI engineer role, Need fable 5.5 immediately : r/claude - Reddit",
+      "company": "Reddit",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/claude/comments/1xil6op/vibecoded_my_way_to_an_ai_engineer_role_need/",
+      "source": "Other",
+      "description": "I'm a software engineer with 20+ years of experience coding and 3+ years experience AI coding. In the past 2 weeks I got Claude to build me an ...",
+      "date": "2026-10-29",
+      "timestamp": "2026-10-29T16:25:12+00:00",
+      "fetched_at": "2026-10-29T17:37:38.295195+00:00"
+    },
+    {
+      "id": "3ccc0feaa1e5",
+      "title": "Software Engineer I - Remote - Nationwide in Sacramento, California | Corporate at Vituity",
+      "company": "Vituity",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.vituity.com/job/CEAMUS260003GPEXTERNALENUS/Software-Engineer-I-Remote-Nationwide",
+      "source": "Other",
+      "description": "Apply for Software Engineer I - Remote - Nationwide job with Vituity in Sacramento, California. Corporate at Vituity.",
+      "date": "2026-10-29",
+      "timestamp": "2026-10-29T16:15:55+00:00",
+      "fetched_at": "2026-10-29T17:37:38.295376+00:00"
+    },
+    {
+      "id": "be1c5607c42f",
+      "title": "Software Engineer III Job Details | Grainger Businesses",
+      "company": "Grainger Businesses",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.grainger.com/job/LAKE-FOREST-Software-Engineer-III-IL-60045-5201/1444684500/",
+      "source": "Other",
+      "description": "Position Details. As a Senior Software Engineer ( Software Engineer III) you will be involved in the full systems life cycle and responsible for ...",
+      "date": "2026-10-29",
+      "timestamp": "2026-10-29T15:16:01+00:00",
+      "fetched_at": "2026-10-29T17:37:38.295576+00:00"
+    },
+    {
+      "id": "9f6b8a3b1768",
+      "title": "Data Engineer - Myworkdayjobs.com",
+      "company": "Psu",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Data-Engineer_REQ_0000083430-2",
+      "source": "Workday",
+      "description": "... Data Engineer to join our Data Engineering Team. You'll have the ... Data Engineer . Apply. locations: Penn State University Park. time type: Full ...",
+      "date": "2026-10-29",
+      "timestamp": "2026-10-29T15:11:46+00:00",
+      "fetched_at": "2026-10-29T17:37:38.362578+00:00"
+    },
+    {
+      "id": "f32d04b79e20",
+      "title": "Software Engineer , Infrastructure - Databricks",
+      "company": "Databricks",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.databricks.com/company/careers/infrastructure/software-engineer-infrastructure-8829039002",
+      "source": "Other",
+      "description": "As a Software Engineer , Infrastructure, you will be a core technical contributor on the IT CorpEng Infrastructure team, owning and driving the ...",
+      "date": "2026-10-29",
+      "timestamp": "2026-10-29T14:47:02+00:00",
+      "fetched_at": "2026-10-29T17:37:38.295791+00:00"
+    },
+    {
+      "id": "aa4100c09b38",
+      "title": "Intermediate Software Engineer | Aegon Group Corporate Website",
+      "company": "Aegon Group Corporate Website",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.aegon.com/careers/vacancies/united-states/denver/information-technology/intermediate-software-engineer-1",
+      "source": "Other",
+      "description": "The Intermediate Software Engineer designs, develops, implements, and supports enterprise application solutions that meet business and customer ...",
+      "date": "2026-10-29",
+      "timestamp": "2026-10-29T14:44:00+00:00",
+      "fetched_at": "2026-10-29T17:37:38.362956+00:00"
+    },
+    {
+      "id": "fc969a0c3622",
+      "title": "Senior Software Engineer , Chicago, Illinois, United States of America | Caterpillar Careers",
+      "company": "Caterpillar Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.caterpillar.com/en/jobs/r0000402602/senior-software-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer . Location, Chicago, Illinois, United States Of America. Date Posted, Wednesday, October 28, 2026. Apply By, Sunday, November ...",
+      "date": "2026-10-29",
+      "timestamp": "2026-10-29T14:41:01+00:00",
+      "fetched_at": "2026-10-29T17:37:38.295954+00:00"
+    },
+    {
+      "id": "8fca22759f3f",
+      "title": "Notion - Data Engineer , Product - Jobs",
+      "company": "Notion",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/notion/73a71747-28d3-4dda-a718-77336056e687",
+      "source": "Ashby",
+      "description": "... data engineer building core datasets and supporting business functions, with a passion for analytics, data modeling, and solving complex problems ...",
+      "date": "2026-10-29",
+      "timestamp": "2026-10-29T14:32:10+00:00",
+      "fetched_at": "2026-10-29T17:37:38.296072+00:00"
+    },
+    {
+      "id": "357442c0bbe0",
+      "title": "Senior Software Engineer in Chicago, Illinois | Technology and Digital Analytics at Humana",
+      "company": "Humana",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.humana.com/us/en/job/R-435071/Senior-Software-Engineer",
+      "source": "Other",
+      "description": "Senior Software Engineer . Description. Become a part of our caring community. The Senior Full Stack Engineer is a hands-on technical lead role. This ...",
+      "date": "2026-10-29",
+      "timestamp": "2026-10-29T14:26:21+00:00",
+      "fetched_at": "2026-10-29T17:37:38.296207+00:00"
+    },
+    {
+      "id": "7845bbf5f2aa",
+      "title": "AI Engineer , AVP at Barclays",
+      "company": "Barclays",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://search.jobs.barclays/job/henderson/ai-engineer-avp/13015/102570651008",
+      "source": "Other",
+      "description": "Software Engineer . Pune (India). Recently viewed jobs. No jobs viewed yet ... AI Engineer , AVP. Henderson, United States. Apply for job. Save for ...",
+      "date": "2026-10-29",
+      "timestamp": "2026-10-29T14:17:44+00:00",
+      "fetched_at": "2026-10-29T17:37:38.363420+00:00"
+    },
+    {
+      "id": "cb76c394c545",
+      "title": "Find The Software Engineer I played against Marcel Claus-Ahrens to see who could identify ...",
+      "company": "Ahrens to see who could identify ...",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/maxtkacz_just-released-a-new-format-on-theflowgrammer-activity-7521552338923302912-2efN",
+      "source": "LinkedIn",
+      "description": "Transcript. I'm the Flow Grandma. I'm Doctor Pure Eva. And today we are finding this software engineer in the lineup of eight people.",
+      "date": "2026-10-29",
+      "timestamp": "2026-10-29T14:04:39+00:00",
+      "fetched_at": "2026-10-29T17:37:38.296615+00:00"
+    },
+    {
+      "id": "af05b3109883",
+      "title": "Software Engineer 1 | Careers - Abnormal AI",
+      "company": "Careers - Abnormal AI",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://abnormal.ai/careers/jobs/8016939003?gh_jid=8016939003",
+      "source": "Other",
+      "description": "Apply for Software Engineer 1 \u2014 Hybrid - Bangalore, India at Abnormal.",
+      "date": "2026-10-29",
+      "timestamp": "2026-10-29T13:56:01+00:00",
+      "fetched_at": "2026-10-29T17:37:38.296911+00:00"
+    },
+    {
+      "id": "9cd51c5b1de2",
+      "title": "Enterprise Data Engineering & Analytics - UT MD Anderson Cancer Center Careers - Jobs",
+      "company": "UT MD Anderson Cancer Center Careers - Jobs",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://mdanderson.referrals.selectminds.com/jobs/data-engineer-enterprise-data-engineering-analytics-78485",
+      "source": "Other",
+      "description": "The University of Texas MD Anderson Cancer Center is seeking a Data Engineer to join the Enterprise Data Engineering & Analytics Department. The.",
+      "date": "2026-10-29",
+      "timestamp": "2026-10-29T13:50:21+00:00",
+      "fetched_at": "2026-10-29T17:37:38.364105+00:00"
+    },
+    {
+      "id": "817fc313627a",
+      "title": "Data Engineer III - Servco Careers - Myworkdayjobs.com",
+      "company": "Servco",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://servco.wd5.myworkdayjobs.com/Servco_Careers/job/Honolulu/Data-Engineer-III_R4057",
+      "source": "Workday",
+      "description": "Servco is hiring a Data Engineer III to lead complex data engineering work for Hawaii Mobility ... Platform engineer on trusted reporting and AI-ready ...",
+      "date": "2026-10-29",
+      "timestamp": "2026-10-29T13:22:48+00:00",
+      "fetched_at": "2026-10-29T17:37:38.297012+00:00"
+    },
+    {
+      "id": "fe0cd4f0a6b6",
+      "title": "Senior Software Engineer - Recruiting",
+      "company": "Recruiting",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/anaconda/jobs/dcc9eb7d-95bc-4de4-947e-c86c23c113c0",
+      "source": "Other",
+      "description": "Senior Software Engineer . Senior Software Engineer . About Anaconda. Be at the center of AI. Anaconda is built to advance AI with open source at scale ...",
+      "date": "2026-10-29",
+      "timestamp": "2026-10-29T13:17:46+00:00",
+      "fetched_at": "2026-10-29T17:37:38.297171+00:00"
+    },
+    {
+      "id": "3d04fe2901c8",
+      "title": "Full-stack Engineer 4 - McLean - Capital One Careers",
+      "company": "Full",
+      "role": "stack Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.capitalonecareers.com/job/mclean/full-stack-engineer-4/1732/102557675616",
+      "source": "Other",
+      "description": "Full-stack Engineer 4. McLean, Virginia Save Job. Apply. Category ... Machine Learning Engineer 5 (Senior Manager, IC). New York, New York.",
+      "date": "2026-10-29",
+      "timestamp": "2026-10-29T12:33:23+00:00",
+      "fetched_at": "2026-10-29T17:37:38.364768+00:00"
+    },
+    {
+      "id": "e451bcbf550a",
+      "title": "Software Engineer , Chennai, Tamil N\u0101du, India | Caterpillar Careers",
+      "company": "Caterpillar Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.caterpillar.com/en/jobs/r0000402782/software-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer - Salesforce. Save Saved. Chennai, Tamil N\u0101du, India. Manager Software Engineering. Save Saved. Bangalore, Karn\u0101taka, India ...",
+      "date": "2026-10-29",
+      "timestamp": "2026-10-29T10:54:22+00:00",
+      "fetched_at": "2026-10-29T17:37:38.297466+00:00"
+    },
+    {
+      "id": "162324a2da2b",
+      "title": "Senior Software Engineer - Akamai Career Site Careers - Cloud Sign In",
+      "company": "Akamai Career Site Careers - Cloud Sign In",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4300",
+      "source": "Other",
+      "description": "Senior Software Engineer . United States (Remote). Job Description. Are you excited to work with innovative security products? Do you relish the ...",
+      "date": "2026-10-29",
+      "timestamp": "2026-10-29T10:43:23+00:00",
+      "fetched_at": "2026-10-29T17:37:38.297689+00:00"
+    },
+    {
+      "id": "f7861a8f2015",
+      "title": "Senior Machine Learning Engineer - Remote - US - Samsara",
+      "company": "Remote - US - Samsara",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.samsara.com/company/careers/roles/8055245?gh_board=samsara&gh_jid=8055245",
+      "source": "Other",
+      "description": "Senior Machine Learning Engineer . Remote - US. ID:JR11911 (for internal use only). Apply Now. Senior Machine Learning Engineer . Apply Now. Samsara's ...",
+      "date": "2026-10-29",
+      "timestamp": "2026-10-29T10:42:20+00:00",
+      "fetched_at": "2026-10-29T17:37:38.297863+00:00"
+    },
+    {
+      "id": "9374acf4998f",
+      "title": "Software Engineer , Payments - Careers at Airbnb",
+      "company": "Airbnb",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.airbnb.com/positions/8332157/?gh_jid=8332157",
+      "source": "Other",
+      "description": "Software Engineer , Payments \u00b7 Build backend services and APIs for the Earnings Dashboard and other payments features that help Hosts grow their income ...",
+      "date": "2026-10-29",
+      "timestamp": "2026-10-29T09:50:35+00:00",
+      "fetched_at": "2026-10-29T17:37:38.297990+00:00"
+    },
+    {
+      "id": "771a3e231868",
+      "title": "Senio Software Engineer @ Boon Technologies, Inc. - Jobs",
+      "company": "Boon",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/boon/6cbeff98-b1a6-4d10-ad23-eb0d7a4b4e55",
+      "source": "Ashby",
+      "description": "... Senior Software Engineer , you'll own meaningful features and services across this platform, solve challenging technical problems, and help build a ...",
+      "date": "2026-10-29",
+      "timestamp": "2026-10-29T09:21:14+00:00",
+      "fetched_at": "2026-10-29T17:37:38.298088+00:00"
+    },
     {
       "id": "58dbc936aa14",
       "title": "Sr Software Engineer , Hyderabad | ServiceNow Careers",
@@ -79,6 +424,21 @@
       "date": "2026-10-29",
       "timestamp": "2026-10-29T06:50:10+00:00",
       "fetched_at": "2026-10-29T10:27:50.546067+00:00"
+    },
+    {
+      "id": "19360127dddb",
+      "title": "Staff Software Engineer at Intuit",
+      "company": "Intuit",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.intuit.com/job/mountain-view/staff-software-engineer/27595/102572085328",
+      "source": "Other",
+      "description": "... Full-Stack Engineer ; hold a BS/MS in Computer Science (or ... Alex Pollock Senior Software Engineer . Software Engineering at ...",
+      "date": "2026-10-29",
+      "timestamp": "2026-10-29T06:38:51+00:00",
+      "fetched_at": "2026-10-29T17:37:38.298225+00:00"
     },
     {
       "id": "74baa37426f8",
