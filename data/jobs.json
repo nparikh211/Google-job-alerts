@@ -1,27 +1,27 @@
 {
-  "last_updated": "2026-10-29T02:58:21.323920+00:00",
-  "total_jobs": 12372,
+  "last_updated": "2026-10-29T10:27:50.606708+00:00",
+  "total_jobs": 12389,
   "stats": {
-    "total_companies": 5501,
+    "total_companies": 5508,
     "total_roles": 157,
     "regions": {
-      "India": 8123,
-      "Philippines": 2643,
-      "Remote": 1527,
+      "India": 8134,
+      "Philippines": 2648,
+      "Remote": 1528,
       "Unknown": 135
     },
     "sources": {
-      "Other": 9685,
+      "Other": 9697,
       "Greenhouse": 631,
-      "LinkedIn": 524,
-      "Workday": 515,
-      "Ashby": 391,
-      "iCIMS": 151,
+      "LinkedIn": 525,
+      "Workday": 516,
+      "Ashby": 392,
+      "iCIMS": 152,
       "Breezy": 129,
       "Workable": 86,
       "Lever": 82,
       "SmartRecruiters": 82,
-      "Indeed": 40,
+      "Indeed": 41,
       "Recruitee": 13,
       "WeWorkRemotely": 12,
       "BrassRing": 11,
@@ -31,10 +31,250 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-10-28"
+      "latest": "2026-10-29"
     }
   },
   "jobs": [
+    {
+      "id": "58dbc936aa14",
+      "title": "Sr Software Engineer , Hyderabad | ServiceNow Careers",
+      "company": "ServiceNow Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.servicenow.com/jobs/744000158321252/sr-software-engineer/",
+      "source": "Other",
+      "description": "Sr Software Engineer . Engineering, Infrastructure and Operations ... Machine Learning Engineer , GAI Search Platform - Moveworks. Save Saved.",
+      "date": "2026-10-29",
+      "timestamp": "2026-10-29T08:13:16+00:00",
+      "fetched_at": "2026-10-29T10:27:50.545703+00:00"
+    },
+    {
+      "id": "12b629fc40a3",
+      "title": "Senior/Staff Full Stack Software Engineer , Frontend Leaning @ Anomalo - Jobs",
+      "company": "Anomalo",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/anomalo/2719f476-5a93-475f-b9ce-26a83b8c0da2",
+      "source": "Ashby",
+      "description": "... Software Engineer at Anomalo, you'll play an important role in building and maintaining our web platform. You'll define, shape, and ship ...",
+      "date": "2026-10-29",
+      "timestamp": "2026-10-29T07:34:44+00:00",
+      "fetched_at": "2026-10-29T10:27:50.545830+00:00"
+    },
+    {
+      "id": "2c5339c54d82",
+      "title": "Senior Full Stack Agentic AI Engineer \u2014 Layla AI in Seattle, Washington | Expedia Group",
+      "company": "Expedia Group",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.expediagroup.com/job/senior-full-stack-agentic-ai-engineer-layla-ai/seattle-wa/R-110976/",
+      "source": "Other",
+      "description": "Join Expedia Group | Careers as a Senior Full Stack Agentic AI Engineer \u2014 Layla AI in Seattle, Washington.",
+      "date": "2026-10-29",
+      "timestamp": "2026-10-29T06:50:10+00:00",
+      "fetched_at": "2026-10-29T10:27:50.546067+00:00"
+    },
+    {
+      "id": "74baa37426f8",
+      "title": "Senior Software Engineer - C#, .Net & ASP.Net Core - Wells Fargo",
+      "company": "C#, .Net & ASP.Net Core - Wells Fargo",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.wellsfargojobs.com/en/jobs/r-582220/senior-software-engineer-c-net-asp-net-core/",
+      "source": "Other",
+      "description": "About this role: Wells Fargo is seeking a Senior Software Engineer - C#, .Net In this role, you will: Lead moderately complex initiatives and ...",
+      "date": "2026-10-29",
+      "timestamp": "2026-10-29T05:49:10+00:00",
+      "fetched_at": "2026-10-29T10:27:50.546307+00:00"
+    },
+    {
+      "id": "0e412aa59877",
+      "title": "Software Engineer in Miami, Florida - Adastra Corporation",
+      "company": "Adastra Corporation",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers-adastragrp.icims.com/jobs/5811/software-engineer/job",
+      "source": "iCIMS",
+      "description": "Adastra Miami is now hiring a Software Engineer in Miami, Florida. Review all of the job details and apply today!",
+      "date": "2026-10-29",
+      "timestamp": "2026-10-29T05:00:05+00:00",
+      "fetched_at": "2026-10-29T10:27:50.432488+00:00"
+    },
+    {
+      "id": "ff29d4217d6a",
+      "title": "Data Engineer I - Servco Careers",
+      "company": "Servco",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://servco.wd5.myworkdayjobs.com/Servco_Careers/job/Honolulu/Data-Engineer-I_R4058",
+      "source": "Workday",
+      "description": "Servco is hiring a Data Engineer I to build and support defined data pipelines for Hawaii Mobility. Working with internal systems and external ...",
+      "date": "2026-10-29",
+      "timestamp": "2026-10-29T04:38:28+00:00",
+      "fetched_at": "2026-10-29T10:27:50.432631+00:00"
+    },
+    {
+      "id": "8ef0aceb0916",
+      "title": "Mid-Level/Lead Software Engineer -FULL STACK (HYBRID) - State Farm Careers",
+      "company": "Mid",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.statefarm.com/main/jobs/46759?lang=en-us",
+      "source": "Other",
+      "description": "State Farm Careers is hiring a Mid-Level/Lead Software Engineer -FULL STACK (HYBRID) in Multiple Locations. Review all of the job details and apply ...",
+      "date": "2026-10-29",
+      "timestamp": "2026-10-29T04:03:08+00:00",
+      "fetched_at": "2026-10-29T10:27:50.432909+00:00"
+    },
+    {
+      "id": "29553f24c3a2",
+      "title": "Software Engineer , Traffic Infrastructure - OpenAI",
+      "company": "OpenAI",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://openai.com/careers/software-engineer-traffic-infrastructure-san-francisco/",
+      "source": "Other",
+      "description": "Software Engineer , Traffic Infrastructure. Scaling - San Francisco. Apply now (opens in a new window). About the Team. The Cloud Infrastructure team ...",
+      "date": "2026-10-29",
+      "timestamp": "2026-10-29T03:26:51+00:00",
+      "fetched_at": "2026-10-29T10:27:50.433125+00:00"
+    },
+    {
+      "id": "41e775106958",
+      "title": "Intern - Software Engineer , DevOps (NTD) - Nintendo Careers Site",
+      "company": "Intern",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.nintendo.com/jobs/4472002009/",
+      "source": "Other",
+      "description": "Learn about Intern - Software Engineer , DevOps (NTD) and apply for this open position.",
+      "date": "2026-10-29",
+      "timestamp": "2026-10-29T03:17:24+00:00",
+      "fetched_at": "2026-10-29T10:27:50.433371+00:00"
+    },
+    {
+      "id": "4b7b44d8ba62",
+      "title": "Senior Software Engineer - IVI Serviceability, Warren, Michigan | General Motors Careers",
+      "company": "IVI Serviceability, Warren, Michigan | General Motors Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://search-careers.gm.com/en/jobs/jr-202616750/senior-software-engineer-ivi-serviceability/",
+      "source": "Other",
+      "description": "About the Role We're looking for a Senior Software Engineer to own and advance serviceability for our in-vehicle infotainment (IVI) and Vehicle ...",
+      "date": "2026-10-29",
+      "timestamp": "2026-10-29T02:40:10+00:00",
+      "fetched_at": "2026-10-29T10:27:50.433603+00:00"
+    },
+    {
+      "id": "d05575057449",
+      "title": "Data Engineer , Apple Ads - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200692322-0157/data-engineer-apple-ads?team=MLAI",
+      "source": "Other",
+      "description": "Apply for a Data Engineer , Apple Ads job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-10-29",
+      "timestamp": "2026-10-29T00:41:59+00:00",
+      "fetched_at": "2026-10-29T10:27:50.433766+00:00"
+    },
+    {
+      "id": "ae54e92f453c",
+      "title": "Rishhi Balakrishnan - Software Engineer @ Microsoft - LinkedIn",
+      "company": "Microsoft",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/in/rishhibala",
+      "source": "LinkedIn",
+      "description": "Software Engineer @ Microsoft \u00b7 Hello! I am not looking for opportunities right now. \u00b7 Experience: Microsoft \u00b7 Education: Wilfrid Laurier ...",
+      "date": "2026-10-29",
+      "timestamp": "2026-10-29T00:16:45+00:00",
+      "fetched_at": "2026-10-29T10:27:50.547140+00:00"
+    },
+    {
+      "id": "59cccbc36774",
+      "title": "Software Engineer at Barclays",
+      "company": "Barclays",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://search.jobs.barclays/job/pune/software-engineer/13015/102556760480",
+      "source": "Other",
+      "description": "Akshat, Senior Software Engineer , reveals the key factors behind his decision to join Barclays. ... AI Engineer . Pune (India). 28 Oct. Full Stack ...",
+      "date": "2026-10-28",
+      "timestamp": "2026-10-28T23:37:14+00:00",
+      "fetched_at": "2026-10-29T10:27:50.433901+00:00"
+    },
+    {
+      "id": "3e38af500150",
+      "title": "Full stack engineer jobs in Manhattan, NY - Indeed",
+      "company": "Indeed",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.indeed.com/q-full-stack-engineer-l-manhattan,-ny-jobs.html",
+      "source": "Indeed",
+      "description": "... Backend Engineer . Easily apply. Sunbit. Hybrid remote in New York, NY ... Senior Software Engineer - Bruin Platform Full Stack. Easily apply.",
+      "date": "2026-10-28",
+      "timestamp": "2026-10-28T23:36:14+00:00",
+      "fetched_at": "2026-10-29T10:27:50.547314+00:00"
+    },
+    {
+      "id": "e8aef7c5d693",
+      "title": "On-Device AI Developer ( Software Engineer ) - - 83271 - Jobs at Lenovo",
+      "company": "Lenovo",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.lenovo.com/en_US/careers/JobDetail/On-Device-AI-Developer/83271",
+      "source": "Other",
+      "description": "Role Overview. Lenovo Research is seeking a recent college graduate or early-career Software Engineer to join our On-Device Intelligence team. In this ...",
+      "date": "2026-10-28",
+      "timestamp": "2026-10-28T23:19:59+00:00",
+      "fetched_at": "2026-10-29T10:27:50.434048+00:00"
+    },
+    {
+      "id": "16570fe7a1eb",
+      "title": "Data Engineer II (1 Year FTC), Supply Chain Optimization Technologies - Planning - Job ID",
+      "company": "Planning - Job ID",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.amazon.jobs/en/jobs/10590990/data-engineer-ii-1-year-ftc-supply-chain-optimization-technologies-planning",
+      "source": "Other",
+      "description": "Are you passionate about building data solutions that power decisions at massive scale? As a Data Engineer II at Amazon, you will design, build, and ...",
+      "date": "2026-10-28",
+      "timestamp": "2026-10-28T23:19:03+00:00",
+      "fetched_at": "2026-10-29T10:27:50.547729+00:00"
+    },
     {
       "id": "36e2585f1a02",
       "title": "Senior Software Engineer at Intuit",
@@ -49,6 +289,21 @@
       "date": "2026-10-28",
       "timestamp": "2026-10-28T22:38:40+00:00",
       "fetched_at": "2026-10-29T02:58:21.287659+00:00"
+    },
+    {
+      "id": "c41050da02df",
+      "title": "Machine Learning Engineer - Agentic AI - Jobs at Apple",
+      "company": "Apple",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-il/details/200692172-0865/machine-learning-engineer-agentic-ai?team=MLAI",
+      "source": "Other",
+      "description": "Apply for a Machine Learning Engineer - Agentic AI job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-10-28",
+      "timestamp": "2026-10-28T21:53:08+00:00",
+      "fetched_at": "2026-10-29T10:27:50.434394+00:00"
     },
     {
       "id": "08d452aa0293",
