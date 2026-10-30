@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-10-30T03:02:43.891594+00:00",
-  "total_jobs": 12444,
+  "last_updated": "2026-10-30T10:29:33.791288+00:00",
+  "total_jobs": 12467,
   "stats": {
-    "total_companies": 5525,
+    "total_companies": 5530,
     "total_roles": 157,
     "regions": {
-      "India": 8169,
-      "Philippines": 2660,
-      "Remote": 1536,
+      "India": 8182,
+      "Philippines": 2667,
+      "Remote": 1539,
       "Unknown": 135
     },
     "sources": {
-      "Other": 9741,
-      "Greenhouse": 632,
+      "Other": 9761,
+      "Greenhouse": 633,
       "LinkedIn": 527,
-      "Workday": 519,
+      "Workday": 521,
       "Ashby": 397,
       "iCIMS": 152,
       "Breezy": 129,
@@ -31,10 +31,280 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-10-29"
+      "latest": "2026-10-30"
     }
   },
   "jobs": [
+    {
+      "id": "2021dec83269",
+      "title": "Data Engineer I - Greenshades Software - Career Page - JazzHR",
+      "company": "Greenshades Software - Career Page - JazzHR",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://greenshadessoftware.applytojob.com/apply/E09eAt5HsI/Data-Engineer-I",
+      "source": "Other",
+      "description": "The Data Engineer I develops, via using AI and SQL, and maintains robust data pipelines, manages data migrations and ETL processes, and delivers ...",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T08:35:01+00:00",
+      "fetched_at": "2026-10-30T10:29:33.729827+00:00"
+    },
+    {
+      "id": "beb8fac7c8ef",
+      "title": "Senior Software Engineer - India - GoDaddy Careers",
+      "company": "India - GoDaddy Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.godaddy/jobs/senior-software-engineer-india-dbf58b40-e3f2-4953-b7d7-6ed7a3bd1d95",
+      "source": "Other",
+      "description": "Senior Software Engineer \u00b7 Build and maintain model serving infrastructure \u2014 deploying ML models to production endpoints, managing autoscaling, and ...",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T08:32:49+00:00",
+      "fetched_at": "2026-10-30T10:29:33.730095+00:00"
+    },
+    {
+      "id": "db55df542998",
+      "title": "Lead Software Engineer (Full stack) - Careers at Mastercard",
+      "company": "Mastercard",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mastercard.com/us/en/job/R-280100/Lead-Software-Engineer-Full-stack",
+      "source": "Other",
+      "description": "Senior Software Engineer . Location Mexico City, Mexico, 3810 Category ... Lead Site Reliability Engineer . Location Mexico City, Mexico, 3810 ...",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T08:02:04+00:00",
+      "fetched_at": "2026-10-30T10:29:33.660608+00:00"
+    },
+    {
+      "id": "23cdd6348fde",
+      "title": "Software Engineer III - Rippling",
+      "company": "Rippling",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/limble-solutions/jobs/c8a9a793-49f5-4506-926a-2138ff4f00b3",
+      "source": "Other",
+      "description": "As a Software Engineer III at Limble, you will partner with the Product team to translate complex customer requests and workflows into reliable, well- ...",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T07:55:42+00:00",
+      "fetched_at": "2026-10-30T10:29:33.661166+00:00"
+    },
+    {
+      "id": "ea10b3ed12a2",
+      "title": "Software Engineer at Barclays",
+      "company": "Barclays",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://search.jobs.barclays/job/pune/software-engineer/13015/102587092992",
+      "source": "Other",
+      "description": "Will be required to write and maintain GitLab pipelines, you will be your devops engineer . ... Akshat, Senior Software Engineer , reveals the key factors ...",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T07:49:32+00:00",
+      "fetched_at": "2026-10-30T10:29:33.661313+00:00"
+    },
+    {
+      "id": "290c910bc92f",
+      "title": "Senior Software Engineer - Myworkdayjobs.com",
+      "company": "Redhat",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://redhat.wd5.myworkdayjobs.com/Jobs/job/Raleigh/Senior-Software-Engineer_R-060283",
+      "source": "Workday",
+      "description": "Senior Software Engineer \u00b7 Bachelor's degree (U.S. or foreign equivalent) in Computer Science or related field and ten (10) years of experience in the ...",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T04:55:42+00:00",
+      "fetched_at": "2026-10-30T10:29:33.661425+00:00"
+    },
+    {
+      "id": "b41b20ace687",
+      "title": "Principal Engineer - AI/ ML Engineer , Irving, United States of America | Verizon Careers",
+      "company": "Principal Engineer",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://mycareer.verizon.com/jobs/r-1100573/principal-engineer-aiml-engineer/",
+      "source": "Other",
+      "description": "Principal Engineer - AI/ ML Engineer . Irving, Texas/; Basking Ridge, New Jersey. Job ID: R-1100573. Apply prior to the end date ...",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T04:12:16+00:00",
+      "fetched_at": "2026-10-30T10:29:33.661592+00:00"
+    },
+    {
+      "id": "68b9cc29ada7",
+      "title": "Data Engineer , ADAS Fleet Analytics - Mercedes-Benz Group > Careers > Job search",
+      "company": "Mercedes-Benz Group > Careers > Job search",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.mercedes-benz.com/data-engineer-adas-fleet-analytics-244595-MER00048Z4",
+      "source": "Other",
+      "description": "Mercedes-Benz uses large-scale vehicle telemetry to evaluate, monitor, and improve its Advanced Driver Assistance Systems. As a Data Engineer on the ...",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T03:44:19+00:00",
+      "fetched_at": "2026-10-30T10:29:33.730320+00:00"
+    },
+    {
+      "id": "5e4d862572c1",
+      "title": "Software Engineer , Data Systems",
+      "company": "Nvidia",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Software-Engineer--Data-Systems_JR2028978",
+      "source": "Workday",
+      "description": "Software Engineer , Data Systems ... NVIDIA has been transforming computer graphics, PC gaming, and accelerated computing for more than 25 years. It's a ...",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T03:19:20+00:00",
+      "fetched_at": "2026-10-30T10:29:33.730414+00:00"
+    },
+    {
+      "id": "ee780ede562d",
+      "title": "Intern - Software Engineer , Connectivity (NTD) - Nintendo Careers Site",
+      "company": "Intern",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.nintendo.com/jobs/4472147009/",
+      "source": "Other",
+      "description": "Learn about Intern - Software Engineer , Connectivity (NTD) and apply for this open position.",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T02:34:31+00:00",
+      "fetched_at": "2026-10-30T10:29:33.661715+00:00"
+    },
+    {
+      "id": "b4a72681cfbf",
+      "title": "How I Use Claude Code as a Data Engineer (After 17 Years in Data) - YouTube",
+      "company": "YouTube",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.youtube.com/watch?v=F5lZj1bQyUw",
+      "source": "Other",
+      "description": "... data engineer . \u25bb Git Repo: https://github.com/DataWithBaraa ... Go to channel AI Engineer . AI Writes the Code. So What's Left for ...",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T01:40:45+00:00",
+      "fetched_at": "2026-10-30T10:29:33.662018+00:00"
+    },
+    {
+      "id": "c9dd729e2c6a",
+      "title": "Internship, Data Engineer , Energy (Winter/Spring 2027) - Tesla",
+      "company": "Tesla",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.tesla.com/careers/search/job/287982",
+      "source": "Other",
+      "description": "Internship, Data Engineer , Energy (Winter/Spring 2027). Job Category, Engineering & Information Technology. Location, Palo Alto, California. Req. ID ...",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T01:27:54+00:00",
+      "fetched_at": "2026-10-30T10:29:33.662159+00:00"
+    },
+    {
+      "id": "09949bf6f3b7",
+      "title": "Senior Associate- Full Stack Software Engineer - AI - Jobs at New York Life",
+      "company": "New York Life",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.newyorklife.com/careers/job/43317864-senior-associate-full-stack-software-engineer-ai-new-york-new-york-united-states?domain=newyorklife.com&microsite=newyorklife.com",
+      "source": "Other",
+      "description": "Senior Associate- Full Stack Software Engineer - AI. New York, New ... Principal AI Engineer . New York, New York, United States. Tech Data AI ...",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T01:08:28+00:00",
+      "fetched_at": "2026-10-30T10:29:33.662524+00:00"
+    },
+    {
+      "id": "0b5d5d1b6c9a",
+      "title": "Virtual Service Operations - Senior Software Engineer \u2013 Developer Platform & Automation",
+      "company": "Virtual Service Operations",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://recruiting.paylocity.com/recruiting/jobs/Details/4624243/Virtual-Service-Operations/Senior-Software-Engineer-Developer-Platform-Automation",
+      "source": "Other",
+      "description": "Virtual Service Operations (VSO) is seeking an experienced Senior Software Engineer \u2013 Developer Platform & Automation to support a high-visibility ...",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T01:01:34+00:00",
+      "fetched_at": "2026-10-30T10:29:33.731057+00:00"
+    },
+    {
+      "id": "99b4da504f18",
+      "title": "Senior Container Platform Engineer | Schwab Jobs",
+      "company": "Schwab Jobs",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.schwabjobs.com/job/austin/senior-container-platform-engineer/33727/102615581136",
+      "source": "Other",
+      "description": "Senior Container Platform Engineer . Austin, TX ; Southlake, TX. Requisition ID 2026-128944 Category Engineering & Software Development Position type ...",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T00:49:15+00:00",
+      "fetched_at": "2026-10-30T10:29:33.662692+00:00"
+    },
+    {
+      "id": "166e1b24f469",
+      "title": "Senior Data Engineer at Cargill - Careers",
+      "company": "Cargill",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cargill.com/en/job/atlanta/senior-data-engineer/23251/102598052624",
+      "source": "Other",
+      "description": "Senior Data Engineer ; Job ID 330869 ; Date posted 10/29/2026 ; Location : Atlanta, Georgia ; Category DIGITAL TECHNOLOGY ; Job Status Salaried Full Time.",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T00:27:01+00:00",
+      "fetched_at": "2026-10-30T10:29:33.662849+00:00"
+    },
+    {
+      "id": "9b16a75a29ee",
+      "title": "Job Application for Full Stack Software Engineer at Banyan Software - Greenhouse",
+      "company": "Banyansoftware",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/banyansoftware/jobs/5278393007",
+      "source": "Greenhouse",
+      "description": "Full Stack Software Engineer . United States. Apply. Banyan Software is the best permanent home for software businesses that serve specialized ...",
+      "date": "2026-10-29",
+      "timestamp": "2026-10-29T23:50:36+00:00",
+      "fetched_at": "2026-10-30T10:29:33.731433+00:00"
+    },
+    {
+      "id": "5bedc6d18809",
+      "title": "Software engineer at Barclays",
+      "company": "Barclays",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://search.jobs.barclays/job/pune/software-engineer/13015/102599892432",
+      "source": "Other",
+      "description": "Akshat, Senior Software Engineer , reveals the key factors behind his decision to join Barclays. ... Shweta Desale, a Cloud and DevOps Engineer ...",
+      "date": "2026-10-29",
+      "timestamp": "2026-10-29T23:37:00+00:00",
+      "fetched_at": "2026-10-30T10:29:33.731550+00:00"
+    },
     {
       "id": "5bb563659f1d",
       "title": "AI/ ML Engineer at Applied Materials in Santa Clara - 102584706720",
@@ -66,6 +336,66 @@
       "fetched_at": "2026-10-30T03:02:43.531632+00:00"
     },
     {
+      "id": "f2b39a1a32e5",
+      "title": "Senior Software Engineer , Cloud Platform - Remote at UnitedHealth Group",
+      "company": "UnitedHealth Group",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.unitedhealthgroup.com/job/eden-prairie/senior-software-engineer-cloud-platform-remote/34088/102612060720",
+      "source": "Other",
+      "description": "Senior Software Engineer , Cloud Platform - Remote. Requisition number: 2399101 Job category: Technology Primary location: Eden Prairie, Minnesota Date ...",
+      "date": "2026-10-29",
+      "timestamp": "2026-10-29T23:05:51+00:00",
+      "fetched_at": "2026-10-30T10:29:33.663392+00:00"
+    },
+    {
+      "id": "cca35ed260fa",
+      "title": "Software Engineer 2 - Mid Market Verticals at Intuit",
+      "company": "Intuit",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.intuit.com/job/mountain-view/software-engineer-2-mid-market-verticals/27595/102601974896",
+      "source": "Other",
+      "description": "Job Overview. Come join the Intuit Enterprise Builders team as a Senior Software Engineer . As Intuit expands its footprint in the ...",
+      "date": "2026-10-29",
+      "timestamp": "2026-10-29T22:36:09+00:00",
+      "fetched_at": "2026-10-30T10:29:33.732094+00:00"
+    },
+    {
+      "id": "ed2982f09c90",
+      "title": "Senior Software Engineer - Python - 1099 - Syzygy Integration - Career Page",
+      "company": "Python - 1099 - Syzygy Integration - Career Page",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://syzygyintegration.applytojob.com/apply/9nyjcylgus/senior-software-engineer-python-1099",
+      "source": "Other",
+      "description": "Apply to Senior Software Engineer - Python - 1099 at Syzygy Integration in Remote.",
+      "date": "2026-10-29",
+      "timestamp": "2026-10-29T22:30:59+00:00",
+      "fetched_at": "2026-10-30T10:29:33.732315+00:00"
+    },
+    {
+      "id": "8760996cab39",
+      "title": "Senior Software Engineer - Juno Beach, Florida | Indotronix",
+      "company": "Juno Beach, Florida | Indotronix",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.iic.com/job-opening/212036/senior-software-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer \u2013 Principal AI Engineer (Remote)About the RoleJoin a forward-thinking organization as a Senior Software Engineer (AI ...",
+      "date": "2026-10-29",
+      "timestamp": "2026-10-29T22:12:15+00:00",
+      "fetched_at": "2026-10-30T10:29:33.663711+00:00"
+    },
+    {
       "id": "b2fce6e3750d",
       "title": "Senior Software Engineer II, Fullstack (AI) @ LG Ad Solutions - Jobs",
       "company": "Lgads",
@@ -79,6 +409,21 @@
       "date": "2026-10-29",
       "timestamp": "2026-10-29T21:37:10+00:00",
       "fetched_at": "2026-10-29T23:39:37.067594+00:00"
+    },
+    {
+      "id": "44875d0ae41a",
+      "title": "Senior Site Reliability Engineer | Taivo - Rippling",
+      "company": "Taivo - Rippling",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://ats.rippling.com/mergeco/jobs/dd088c7a-21b5-4510-905f-ad13c90e207f",
+      "source": "Other",
+      "description": "Senior Site Reliability Engineer ... At Taivo, we're bringing together the industry's leading technology solutions to power the businesses behind ...",
+      "date": "2026-10-29",
+      "timestamp": "2026-10-29T21:16:09+00:00",
+      "fetched_at": "2026-10-30T10:29:33.732482+00:00"
     },
     {
       "id": "b7a400c689ee",
