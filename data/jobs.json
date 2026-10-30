@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-10-30T10:29:33.791288+00:00",
-  "total_jobs": 12467,
+  "last_updated": "2026-10-30T17:15:53.073356+00:00",
+  "total_jobs": 12488,
   "stats": {
-    "total_companies": 5530,
-    "total_roles": 157,
+    "total_companies": 5541,
+    "total_roles": 159,
     "regions": {
-      "India": 8182,
-      "Philippines": 2667,
-      "Remote": 1539,
+      "India": 8192,
+      "Philippines": 2672,
+      "Remote": 1545,
       "Unknown": 135
     },
     "sources": {
-      "Other": 9761,
-      "Greenhouse": 633,
-      "LinkedIn": 527,
-      "Workday": 521,
-      "Ashby": 397,
+      "Other": 9775,
+      "Greenhouse": 635,
+      "LinkedIn": 528,
+      "Workday": 522,
+      "Ashby": 398,
       "iCIMS": 152,
-      "Breezy": 129,
+      "Breezy": 130,
       "Workable": 86,
-      "Lever": 82,
+      "Lever": 83,
       "SmartRecruiters": 82,
       "Indeed": 41,
       "Recruitee": 13,
@@ -35,6 +35,321 @@
     }
   },
   "jobs": [
+    {
+      "id": "1ec2260e5840",
+      "title": "AI Engineer in Louisville, Kentucky | Technology and Digital Analytics at Humana",
+      "company": "Humana",
+      "role": "AI Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.humana.com/us/en/job/R-434028/AI-Engineer",
+      "source": "Other",
+      "description": "AI Engineer . Description. Become a part of our caring community. The ... Site Reliability Engineer . Location: Remote, Kentucky. Remote Job: Yes.",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T16:42:10+00:00",
+      "fetched_at": "2026-10-30T17:15:52.645924+00:00"
+    },
+    {
+      "id": "ed5f0b1f2604",
+      "title": "Job Application for Senior Software Engineer at Two Six Technologies - Greenhouse",
+      "company": "Twosixtechnologies",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/6236720004",
+      "source": "Greenhouse",
+      "description": "As a Senior Software Engineer , you will be a member of the engineering ... Nice If You Have Experience with: \u2022 Prior experience as a platform engineer ...",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T16:41:33+00:00",
+      "fetched_at": "2026-10-30T17:15:53.020680+00:00"
+    },
+    {
+      "id": "f12626cf5fc7",
+      "title": "Data Engineer - Atreo Careers",
+      "company": "Atreo Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.deel.com/atreo/job-details/6233da1d-4b8d-4e40-941f-78e553f1b8b4/overview",
+      "source": "Other",
+      "description": "As a Data Engineer your focus will be on independently executing data change requests end-to-end, building CSV and SAS data transfers from client ...",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T16:38:19+00:00",
+      "fetched_at": "2026-10-30T17:15:52.646342+00:00"
+    },
+    {
+      "id": "ca561e52d7db",
+      "title": "Associate AI Engineer (Remote Opportunity) - Mind Computing",
+      "company": "Mind Computing",
+      "role": "AI Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://mind-computing.breezy.hr/p/d2d162fabbc0-associate-ai-engineer-remote-opportunity/apply",
+      "source": "Breezy",
+      "description": "Mind Computing is seeking a motivated Associate AI Engineer to support AI-driven software development, automation, and technology innovation ...",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T15:54:47+00:00",
+      "fetched_at": "2026-10-30T17:15:52.646454+00:00"
+    },
+    {
+      "id": "7d9853c09041",
+      "title": "Software Engineer - AI Team - Rippling",
+      "company": "AI Team - Rippling",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/bowery-valuation/jobs/102d90b4-ae9d-417a-a4da-dad0308226f6",
+      "source": "Other",
+      "description": "We're hiring a Software Engineer to join our AI-first engineering team, reporting to our Head of Technology. As the first truly tech-enabled appraisal ...",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T15:41:34+00:00",
+      "fetched_at": "2026-10-30T17:15:52.646683+00:00"
+    },
+    {
+      "id": "e4af3c39bebe",
+      "title": "Full Stack Software Engineer - Myworkdayjobs.com",
+      "company": "Dimensional",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Remote---Austin-Metro/Full-Stack-Software-Engineer_2026-9108",
+      "source": "Workday",
+      "description": "... Software Engineer to join our team and translate our customers ... full stack engineer at Dimensional, you will have the opportunity to ...",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T15:28:17+00:00",
+      "fetched_at": "2026-10-30T17:15:52.646752+00:00"
+    },
+    {
+      "id": "5d5d108b77d1",
+      "title": "Open Roles & Job Openings | 6sense",
+      "company": "Unknown Company",
+      "role": "Open Roles & Job Openings | 6sense",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://6sense.com/about-us/join-us",
+      "source": "Other",
+      "description": "Machine Learning Engineer San Francisco, California, United StatesHybrid ... AI Engineer San Francisco, California, United StatesHybrid \u00b7 Sr. AI ...",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T15:04:14+00:00",
+      "fetched_at": "2026-10-30T17:15:53.020973+00:00"
+    },
+    {
+      "id": "69387c8ce286",
+      "title": "Job Application for Software Engineer (Time & Billing) at Litify - Greenhouse",
+      "company": "Litify",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/litify/jobs/8334694",
+      "source": "Greenhouse",
+      "description": "Software Engineer (Time & Billing). Anywhere, USA. Apply. About Us. At Litify, we're powering a new era for the legal industry. Since its founding in ...",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T14:43:31+00:00",
+      "fetched_at": "2026-10-30T17:15:52.647007+00:00"
+    },
+    {
+      "id": "1f863331a561",
+      "title": "Naresh Edagotti's Post - LinkedIn",
+      "company": "Unknown Company",
+      "role": "Naresh Edagotti's Post - LinkedIn",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/naresh-edagotti-6a71a1233_lately-ive-been-interviewing-ai-engineer-activity-7521753257246056449-6PX9",
+      "source": "LinkedIn",
+      "description": "Lately, I've been interviewing AI Engineer candidates with 1\u20132 years of experience. One thing surprised me. Almost everyone can talk about RAG.",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T14:22:55+00:00",
+      "fetched_at": "2026-10-30T17:15:52.647488+00:00"
+    },
+    {
+      "id": "5081d896e26c",
+      "title": "Data Engineer @ Base Operations - Jobs",
+      "company": "Base Operations",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.ashbyhq.com/base-operations/c23f88f8-b476-4a43-b12c-8773086e65a1",
+      "source": "Ashby",
+      "description": "Base Operations - Data Engineer . Location: US-based, Remote. Who We Are: Base Operations decodes the world's threat landscape into actionable ...",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T13:44:26+00:00",
+      "fetched_at": "2026-10-30T17:15:52.647584+00:00"
+    },
+    {
+      "id": "9682f6de03b6",
+      "title": "Senior Software Engineer in Dublin 18, Ireland - Careers at Mastercard",
+      "company": "Mastercard",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.mastercard.com/us/en/job/R-294528/Senior-Software-Engineer",
+      "source": "Other",
+      "description": "Apply for Senior Software Engineer job with Mastercard in Dublin 18, Ireland. Engineering at Mastercard. ... Principal DevOps Engineer - Decision ...",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T13:36:15+00:00",
+      "fetched_at": "2026-10-30T17:15:53.021462+00:00"
+    },
+    {
+      "id": "351f3fea2615",
+      "title": "DevOps Engineer - Dallas, Texas, United States - Toronto, Ontario, Canada - Equinix Careers",
+      "company": "Dallas, Texas, United States - Toronto, Ontario, Canada - Equinix Careers",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.equinix.com/jobs/devops-engineer-dallas-texas-united-states-toronto-ontario-canada",
+      "source": "Other",
+      "description": "DevOps Engineer \u00b7 Maintain and operate Kubernetes-based infrastructure across on-prem and AWS environments \u00b7 Work with Principal Engineers and internal ...",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T13:26:32+00:00",
+      "fetched_at": "2026-10-30T17:15:52.647802+00:00"
+    },
+    {
+      "id": "062d03dc7d7e",
+      "title": "DevOps Engineer | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.apexsystems.com/job/3057761_usa/devops-engineer",
+      "source": "Other",
+      "description": "DevOps Engineer ... We are seeking a skilled DevOps and Software Engineer to drive the delivery of critical automation and application management tasks.",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T12:46:02+00:00",
+      "fetched_at": "2026-10-30T17:15:53.021878+00:00"
+    },
+    {
+      "id": "29f6fc58f03a",
+      "title": "Senior Software Engineer - MongoDB",
+      "company": "MongoDB",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.mongodb.com/careers/jobs/8229848",
+      "source": "Other",
+      "description": "As a Senior Software Engineer on this new team, you will be responsible for developing cutting edge technologies related to enabling deployment at ...",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T12:45:26+00:00",
+      "fetched_at": "2026-10-30T17:15:52.647885+00:00"
+    },
+    {
+      "id": "85200cde4214",
+      "title": "Job ID:26039583 - Software Engineer - Apprentice - Multiple Locations",
+      "company": "Job ID:26039583",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.bankofamerica.com/en-us/job-detail/26039583/software-engineer-apprentice-multiple-locations",
+      "source": "Other",
+      "description": "Apply for the Software Engineer - Apprentice position (Job ID: 26039583), with openings in multiple locations, at Bank of America.",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T12:27:15+00:00",
+      "fetched_at": "2026-10-30T17:15:53.022080+00:00"
+    },
+    {
+      "id": "95329d40c1f0",
+      "title": "DevOps Engineer's laptop compromised | 6.3 Billion USD security attack. - YouTube",
+      "company": "6.3 Billion USD security attack. - YouTube",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.youtube.com/watch?v=dljBRbTgyrU",
+      "source": "Other",
+      "description": "This content isn't available. DevOps Engineer's laptop compromised | 6.3 Billion USD security attack. @AbhishekVeeramalla275 likes7.2K views7 ...",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T12:09:03+00:00",
+      "fetched_at": "2026-10-30T17:15:52.648098+00:00"
+    },
+    {
+      "id": "a3dfa3519c1d",
+      "title": "Senior Software Engineer - Platform Infrastructure job in Seattle, Washington, United States",
+      "company": "Platform Infrastructure job in Seattle, Washington, United States",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.qualtrics.com/careers/us/en/job/8334199/Senior-Software-Engineer-Platform-Infrastructure",
+      "source": "Other",
+      "description": "Apply for Senior Software Engineer - Platform Infrastructure job with Qualtrics in Seattle, Washington, United States. Browse and apply for ...",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T11:58:49+00:00",
+      "fetched_at": "2026-10-30T17:15:52.648254+00:00"
+    },
+    {
+      "id": "7c50125f6078",
+      "title": "Senior Platform Engineer - Loop - Lever",
+      "company": "Loopreturns",
+      "role": "Platform Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.lever.co/loopreturns/408aff22-a910-4cf8-b86d-4964e1af2d69",
+      "source": "Lever",
+      "description": "Senior Platform Engineer . Remote / Columbus, OH / Chicago, IL / New York City, NY. Engineering /. Full-time /. Remote. Apply for this job. Loop helps ...",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T11:43:11+00:00",
+      "fetched_at": "2026-10-30T17:15:53.022407+00:00"
+    },
+    {
+      "id": "e554a2afe156",
+      "title": "Data Engineer - - 33125 - HARMAN International",
+      "company": "- 33125 - HARMAN International",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobsearch.harman.com/en_US/careers/JobDetail/Data-Engineer/33125",
+      "source": "Other",
+      "description": "Data Engineer . General information. Location: Novi - Michigan, USA - Cabot Drive. Job Family: Artificial Intelligence & Machine Learning. Worker Type ...",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T11:08:11+00:00",
+      "fetched_at": "2026-10-30T17:15:52.648375+00:00"
+    },
+    {
+      "id": "7f321519a4a4",
+      "title": "Senior Software Engineer , Compute Service job in Menlo Park, California, United States",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.snowflake.com/us/en/job/SNCOUSB3FFB9DEFA0F419A9D4DE0BD2EE80D1DEXTERNALENUS95B8789768DC47C0A4C02320D36DAFAC/Senior-Software-Engineer-Compute-Service",
+      "source": "Other",
+      "description": "Apply for Senior Software Engineer , Compute Service job in Menlo Park, California, United States. Browse and apply for Engineering jobs at ...",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T09:26:22+00:00",
+      "fetched_at": "2026-10-30T17:15:52.648662+00:00"
+    },
+    {
+      "id": "a07f641a369f",
+      "title": "Senior Software Engineer in United States - Texas - Irving - Abbott Jobs",
+      "company": "Texas - Irving - Abbott Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.jobs.abbott/us/en/job/31165906/Senior-Software-Engineer",
+      "source": "Other",
+      "description": "Apply for Senior Software Engineer job with Abbott Canvas in United States - Texas - Irving. Research & Development at Abbott Canvas.",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T09:13:40+00:00",
+      "fetched_at": "2026-10-30T17:15:52.648779+00:00"
+    },
     {
       "id": "2021dec83269",
       "title": "Data Engineer I - Greenshades Software - Career Page - JazzHR",
