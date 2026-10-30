@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-10-30T17:15:53.073356+00:00",
-  "total_jobs": 12488,
+  "last_updated": "2026-10-30T23:18:22.703864+00:00",
+  "total_jobs": 12510,
   "stats": {
-    "total_companies": 5541,
+    "total_companies": 5549,
     "total_roles": 159,
     "regions": {
-      "India": 8192,
-      "Philippines": 2672,
-      "Remote": 1545,
+      "India": 8206,
+      "Philippines": 2675,
+      "Remote": 1550,
       "Unknown": 135
     },
     "sources": {
-      "Other": 9775,
-      "Greenhouse": 635,
-      "LinkedIn": 528,
+      "Other": 9790,
+      "Greenhouse": 636,
+      "LinkedIn": 529,
       "Workday": 522,
-      "Ashby": 398,
-      "iCIMS": 152,
+      "Ashby": 400,
+      "iCIMS": 153,
       "Breezy": 130,
       "Workable": 86,
-      "Lever": 83,
+      "Lever": 85,
       "SmartRecruiters": 82,
       "Indeed": 41,
       "Recruitee": 13,
@@ -35,6 +35,336 @@
     }
   },
   "jobs": [
+    {
+      "id": "c7801c3f05be",
+      "title": "Senior / Staff Machine Learning Engineer , ACAI Training & Inference Platform - Jobs | Ravi Sharma",
+      "company": "Jobs | Ravi Sharma",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/ravisharma999_senior-staff-machine-learning-engineer-activity-7522000785564557312-WdM7",
+      "source": "LinkedIn",
+      "description": "We're hiring a Senior Staff Machine Learning Engineer to help build the next generation of AI infrastructure at Apple!",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T22:18:55+00:00",
+      "fetched_at": "2026-10-30T23:18:22.403170+00:00"
+    },
+    {
+      "id": "92d0325db36a",
+      "title": "Senior Platform Software Engineer in | Careers at Remote - ICIMS",
+      "company": "Remote",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers-compsych.icims.com/jobs/2279/senior-platform-software-engineer/job",
+      "source": "iCIMS",
+      "description": "Remote is now hiring a Senior Platform Software Engineer in . Review all of the job details and apply today!",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T22:02:14+00:00",
+      "fetched_at": "2026-10-30T23:18:22.403360+00:00"
+    },
+    {
+      "id": "2cc290dc0f31",
+      "title": "Foodsmart - DevOps Engineer - Lever",
+      "company": "Foodsmart",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.lever.co/foodsmart/c7bfeca7-7d45-472d-ba85-4461a261e129",
+      "source": "Lever",
+      "description": "DevOps Engineer . Remote (US). Engineering /. Full-Time /. Remote. Apply for this job. | About us: Foodsmart is the leading Foodcare platform in the ...",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T21:29:27+00:00",
+      "fetched_at": "2026-10-30T23:18:22.403501+00:00"
+    },
+    {
+      "id": "7baf985410fc",
+      "title": "Site Reliability Engineer - Vice President | Citi Careers",
+      "company": "Vice President | Citi Careers",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.citi.com/job/tampa/site-reliability-engineer-vice-president/287/102650849696",
+      "source": "Other",
+      "description": "Learn more about applying for Site Reliability Engineer - Vice President at Citi. Learn more about potential responsibilities, qualifications and ...",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T21:20:52+00:00",
+      "fetched_at": "2026-10-30T23:18:22.403712+00:00"
+    },
+    {
+      "id": "be18cb9df5eb",
+      "title": "Software Engineer in VIRTUAL, ON, Canada - careers at CDW",
+      "company": "CDW",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.cdwjobs.com/jobs/18427732-software-engineer",
+      "source": "Other",
+      "description": "Software Engineer \u00b7 Lead end-to-end delivery of React features from design review to production and measurement. \u00b7 Own front-end architecture to improve ...",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T20:26:21+00:00",
+      "fetched_at": "2026-10-30T23:18:22.403855+00:00"
+    },
+    {
+      "id": "fe3d0081e89b",
+      "title": "Job Application for AI/ML Software Engineer at ASG - Greenhouse",
+      "company": "Asg",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/asg/jobs/8919112002",
+      "source": "Greenhouse",
+      "description": "AI/ML Software Engineer . Remote. Apply. Company Description. ASG is an ... The AI/ ML Engineer will lead and contribute directly to projects such ...",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T19:53:21+00:00",
+      "fetched_at": "2026-10-30T23:18:22.403960+00:00"
+    },
+    {
+      "id": "62f955d3ef5e",
+      "title": "Software Engineer - Traffic, Envoy - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200692658-3337/software-engineer-traffic-envoy?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Software Engineer - Traffic, Envoy job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T19:43:01+00:00",
+      "fetched_at": "2026-10-30T23:18:22.404260+00:00"
+    },
+    {
+      "id": "fe2801fca1e3",
+      "title": "AI Engineer , Support Automation, New York | PointFive",
+      "company": "PointFive",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.pointfive.co/careers/7b694de3-94b3-4c7b-9b6b-b0b4a10ad80a",
+      "source": "Other",
+      "description": "About the Role. As PointFive's first AI Engineer , Support Automation, you'll own technical support for our enterprise customers. You'll design and ...",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T19:25:01+00:00",
+      "fetched_at": "2026-10-30T23:18:22.404462+00:00"
+    },
+    {
+      "id": "53c002680920",
+      "title": "Software Engineer - 66848 - MANTECH Careers",
+      "company": "66848 - MANTECH Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mantech.com/en_US/careers/JobDetail/Software-Engineer/66848",
+      "source": "Other",
+      "description": "MANTECH seeks a motivated, career and customer-oriented Software Engineer to join our team in Fort Meade, MD. The Software Engineer will leverage ...",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T19:19:04+00:00",
+      "fetched_at": "2026-10-30T23:18:22.404624+00:00"
+    },
+    {
+      "id": "ce4f3c436a30",
+      "title": "Job Opening: SENIOR AI ENGINEER - Mass.gov",
+      "company": "Mass.gov",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.mass.gov/info-details/job-opening-senior-ai-engineer",
+      "source": "Other",
+      "description": "The Senior AI Engineer designs the architecture for, builds, and deploys AI-enabled applications in OSA's Microsoft GCC environment.",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T18:35:07+00:00",
+      "fetched_at": "2026-10-30T23:18:22.404779+00:00"
+    },
+    {
+      "id": "7fdc642fb4d3",
+      "title": "Junior Platform Engineer - Arup Careers",
+      "company": "Arup Careers",
+      "role": "Platform Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.arup.com/jobs/junior-platform-engineer-35959?utm_source=Out+for+Undergrad+job+board&utm_medium=getro.com&gh_src=Out+for+Undergrad+job+board",
+      "source": "Other",
+      "description": "Junior Platform Engineer . Manila, -, Philippines. New. \u00b7 Data Engineering.: Corporate Services.: MAN000155 Requisition #. Apply ...",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T18:26:07+00:00",
+      "fetched_at": "2026-10-30T23:18:22.637476+00:00"
+    },
+    {
+      "id": "05ae3a860e7a",
+      "title": "Zoox - Contract Student Worker - Software Engineer (40 hrs/wk) - Lever",
+      "company": "Zoox",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.lever.co/zoox/67982bee-811b-453b-8596-b53c13f7a78d",
+      "source": "Lever",
+      "description": "Contract Student Worker - Software Engineer (40 hrs/wk) ... Zoox is an autonomous ridehailing company building the world's first purpose-built robotaxi ...",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T18:18:25+00:00",
+      "fetched_at": "2026-10-30T23:18:22.404876+00:00"
+    },
+    {
+      "id": "ddf49ae3452d",
+      "title": "Principal Software Engineer , ML & Media Infra - Pinterest Careers",
+      "company": "Pinterest Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.pinterestcareers.com/jobs/7685466/principal-software-engineer-ml-media-infra/",
+      "source": "Other",
+      "description": "Principal Software Engineer , ML & Media Infra. Palo Alto / US / San ... Staff Machine Learning Engineer , Content Visual AI. Save Saved. San ...",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T18:04:16+00:00",
+      "fetched_at": "2026-10-30T23:18:22.405260+00:00"
+    },
+    {
+      "id": "3722145d3be0",
+      "title": "Senior Data Engineer at UnitedHealth Group",
+      "company": "UnitedHealth Group",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.unitedhealthgroup.com/job/eden-prairie/senior-data-engineer/34088/102626500976",
+      "source": "Other",
+      "description": "As a Senior Data Engineer on the PI CAP Data Engineering team within Optum Insight based in Eden Prairie, MN, you will join an innovative technology ...",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T17:53:06+00:00",
+      "fetched_at": "2026-10-30T23:18:22.405406+00:00"
+    },
+    {
+      "id": "d8c66e951ba5",
+      "title": "Team Velocity Marketing - Senior / Mid-Level Data Engineer - Paylocity",
+      "company": "Team Velocity Marketing",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4627566",
+      "source": "Other",
+      "description": "We are seeking a Senior / Mid-Level Data Engineer to help build ... You do not need to be an ML engineer . You do need AI tooling to be part ...",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T17:42:38+00:00",
+      "fetched_at": "2026-10-30T23:18:22.638167+00:00"
+    },
+    {
+      "id": "d9cdc2d5bf81",
+      "title": "The Voleon Group - Software Engineer , Platform Team - Jobs",
+      "company": "Voleon",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.ashbyhq.com/voleon/5bd49d48-7a84-478f-82de-6d302c705613",
+      "source": "Ashby",
+      "description": "As a Software Engineer on the Software Platform team, you will design and evolve the distributed systems that power research and trading workflows ...",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T17:35:46+00:00",
+      "fetched_at": "2026-10-30T23:18:22.638256+00:00"
+    },
+    {
+      "id": "a07e7f471374",
+      "title": "Full Stack Engineer , Stellantis Job #2022548, Auburn Hills, MI",
+      "company": "Unknown Company",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.stellantis.com/job/24084949/full-stack-engineer-auburn-hills-mi/",
+      "source": "Other",
+      "description": "Discover Full Stack Engineer and other ICT, Digital and Data jobs at Stellantis in Auburn Hills, MI, US, and apply online today!",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T17:16:33+00:00",
+      "fetched_at": "2026-10-30T23:18:22.405617+00:00"
+    },
+    {
+      "id": "060036ad0172",
+      "title": "Software Engineer II - Akamai Career Site Careers - Cloud Sign In",
+      "company": "Akamai Career Site Careers - Cloud Sign In",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4321",
+      "source": "Other",
+      "description": "Software Engineer II. United States (Remote). Job Description. Are you excited about working with cutting-edge technologies? Are you a software ...",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T17:12:23+00:00",
+      "fetched_at": "2026-10-30T23:18:22.638600+00:00"
+    },
+    {
+      "id": "8fa45df48fa8",
+      "title": "Senior Full Stack Engineer | Citi Careers",
+      "company": "Citi Careers",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.citi.com/job/pune/senior-full-stack-engineer/287/102627703584",
+      "source": "Other",
+      "description": "Learn more about applying for Senior Full Stack Engineer at Citi. Learn more about potential responsibilities, qualifications and career paths.",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T17:11:38+00:00",
+      "fetched_at": "2026-10-30T23:18:22.638739+00:00"
+    },
+    {
+      "id": "17b54f11168f",
+      "title": "Software Engineer @ Centre for Effective Altruism - Jobs",
+      "company": "Centreforeffectivealtruism",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/centreforeffectivealtruism/ef7d451f-d44c-4a14-95ee-d9e1cea065ad",
+      "source": "Ashby",
+      "description": "We're now looking to hire a full-stack engineer who ... We're hiring this role at either the Software Engineer or Senior Software Engineer level.",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T16:59:32+00:00",
+      "fetched_at": "2026-10-30T23:18:22.638842+00:00"
+    },
+    {
+      "id": "9f2c9bd05bda",
+      "title": "Senior Software Engineer - Rippling",
+      "company": "Rippling",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/resurety/jobs/9fac5b7b-ce36-4c08-bf26-55cb521407ef",
+      "source": "Other",
+      "description": "Position Overview. At Resurety, our focus is building the analytics engine for the clean energy economy. As a Senior Software Engineer , ...",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T16:52:42+00:00",
+      "fetched_at": "2026-10-30T23:18:22.405772+00:00"
+    },
+    {
+      "id": "29277095ce37",
+      "title": "Senior Devops Engineer - 173591 - 177434",
+      "company": "173591 - 177434",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.pipercompanies.com/details/3485/senior_devops_engineer_173591_177434",
+      "source": "Other",
+      "description": "Piper Companies is seeking a Senior Devops Engineer to join a leading cloud software organization supporting highly regulated federal environments ...",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T16:47:28+00:00",
+      "fetched_at": "2026-10-30T23:18:22.405937+00:00"
+    },
     {
       "id": "1ec2260e5840",
       "title": "AI Engineer in Louisville, Kentucky | Technology and Digital Analytics at Humana",
