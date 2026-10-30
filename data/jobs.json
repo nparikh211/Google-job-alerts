@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-10-29T23:39:37.361354+00:00",
-  "total_jobs": 12439,
+  "last_updated": "2026-10-30T03:02:43.891594+00:00",
+  "total_jobs": 12444,
   "stats": {
-    "total_companies": 5522,
+    "total_companies": 5525,
     "total_roles": 157,
     "regions": {
-      "India": 8167,
-      "Philippines": 2658,
-      "Remote": 1535,
+      "India": 8169,
+      "Philippines": 2660,
+      "Remote": 1536,
       "Unknown": 135
     },
     "sources": {
-      "Other": 9736,
+      "Other": 9741,
       "Greenhouse": 632,
       "LinkedIn": 527,
       "Workday": 519,
@@ -35,6 +35,36 @@
     }
   },
   "jobs": [
+    {
+      "id": "5bb563659f1d",
+      "title": "AI/ ML Engineer at Applied Materials in Santa Clara - 102584706720",
+      "company": "Applied Materials in Santa Clara",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.appliedmaterials.com/job/santa-clara/ai-ml-engineer/95/102584706720",
+      "source": "Other",
+      "description": "Learn more about applying for AI/ ML Engineer at Applied Materials in Santa Clara - 102584706720. ... As an AI / Machine Learning Engineer , you'll design ...",
+      "date": "2026-10-29",
+      "timestamp": "2026-10-29T23:31:49+00:00",
+      "fetched_at": "2026-10-30T03:02:43.531047+00:00"
+    },
+    {
+      "id": "4f6b0f6ad2d6",
+      "title": "AI Made Me Homeless. How a $500k/Year AI Engineer Lost\u2026 | by Eric Elliott - Medium",
+      "company": "by Eric Elliott - Medium",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://medium.com/effortless-programming/ai-made-me-homeless-a7266d716e59",
+      "source": "Other",
+      "description": "I'm a Webby-nominated AI engineer who built my first neural network in the 1990s. I've spent decades learning, building, and adapting to new ...",
+      "date": "2026-10-29",
+      "timestamp": "2026-10-29T23:14:56+00:00",
+      "fetched_at": "2026-10-30T03:02:43.531632+00:00"
+    },
     {
       "id": "b2fce6e3750d",
       "title": "Senior Software Engineer II, Fullstack (AI) @ LG Ad Solutions - Jobs",
@@ -246,6 +276,21 @@
       "fetched_at": "2026-10-29T23:39:37.070544+00:00"
     },
     {
+      "id": "48a3d70b87ad",
+      "title": "Principal Distributed Systems Software Engineer , Collectives in San Jose, California",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.amd.com/jobs/93891?lang=en-us",
+      "source": "Other",
+      "description": "AMD is hiring a Principal Distributed Systems Software Engineer , Collectives in San Jose, California. Review all of the job details and apply ...",
+      "date": "2026-10-29",
+      "timestamp": "2026-10-29T19:02:33+00:00",
+      "fetched_at": "2026-10-30T03:02:43.534679+00:00"
+    },
+    {
       "id": "26d0ec1bae1c",
       "title": "Software Engineer - Dana for Physical AI @ Applied Intuition - Jobs",
       "company": "Applied",
@@ -304,6 +349,36 @@
       "date": "2026-10-29",
       "timestamp": "2026-10-29T18:34:01+00:00",
       "fetched_at": "2026-10-29T23:39:37.306791+00:00"
+    },
+    {
+      "id": "5f3e13520140",
+      "title": "Software Engineer - AI/ML - Job Detail | Careers Marketplace - Siemens",
+      "company": "AI/ML - Job Detail | Careers Marketplace - Siemens",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527567",
+      "source": "Other",
+      "description": "Software Engineer - AI/ML. Job ID. 527567. Posted since. 29-Oct-2026 ... We are seeking a talented and versatile AI / Machine Learning Engineer ...",
+      "date": "2026-10-29",
+      "timestamp": "2026-10-29T18:29:01+00:00",
+      "fetched_at": "2026-10-30T03:02:43.830906+00:00"
+    },
+    {
+      "id": "bed9a68d59b6",
+      "title": "Sr Software Engineer - Engineer, San Francisco, United States",
+      "company": "Sr Software Engineer",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.uber.com/en/jobs/304082/",
+      "source": "Other",
+      "description": "Sr Software Engineer - Engineer \u00b7 Bachelor's degree in Computer Science, Computer Engineering, or a related technical field, or equivalent practical ...",
+      "date": "2026-10-29",
+      "timestamp": "2026-10-29T18:10:18+00:00",
+      "fetched_at": "2026-10-30T03:02:43.831009+00:00"
     },
     {
       "id": "35ae903d1df0",
