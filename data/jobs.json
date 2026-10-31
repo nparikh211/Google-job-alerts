@@ -1,29 +1,29 @@
 {
-  "last_updated": "2026-10-31T16:20:33.084041+00:00",
-  "total_jobs": 12542,
+  "last_updated": "2026-10-31T22:52:12.372526+00:00",
+  "total_jobs": 12564,
   "stats": {
-    "total_companies": 5562,
+    "total_companies": 5567,
     "total_roles": 159,
     "regions": {
-      "India": 8227,
-      "Philippines": 2682,
-      "Remote": 1554,
+      "India": 8239,
+      "Philippines": 2688,
+      "Remote": 1558,
       "Unknown": 135
     },
     "sources": {
-      "Other": 9815,
-      "Greenhouse": 638,
+      "Other": 9832,
+      "Greenhouse": 639,
       "LinkedIn": 530,
       "Workday": 524,
-      "Ashby": 400,
+      "Ashby": 401,
       "iCIMS": 153,
       "Breezy": 130,
+      "Lever": 86,
       "Workable": 86,
-      "Lever": 85,
       "SmartRecruiters": 83,
-      "Indeed": 41,
+      "Indeed": 42,
       "Recruitee": 14,
-      "WeWorkRemotely": 12,
+      "WeWorkRemotely": 13,
       "BrassRing": 11,
       "Jobvite": 10,
       "Taleo": 8,
@@ -35,6 +35,231 @@
     }
   },
   "jobs": [
+    {
+      "id": "bd4462ffe057",
+      "title": "Handshake - Software Engineer I, Promotions - Jobs",
+      "company": "Handshake",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/handshake/c2cea12b-4dba-4782-ac2d-279c6865a4b7",
+      "source": "Ashby",
+      "description": "... Software Engineer I, you'll build the products and systems that help employers reach relevant talent and help job seekers discover opportunities ...",
+      "date": "2026-10-31",
+      "timestamp": "2026-10-31T21:20:08+00:00",
+      "fetched_at": "2026-10-31T22:52:12.214980+00:00"
+    },
+    {
+      "id": "29cb7c12ed89",
+      "title": "Job Application for Senior Data Engineer at Pontera - Greenhouse",
+      "company": "Pontera",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/pontera/jobs/6239279004",
+      "source": "Greenhouse",
+      "description": "Senior Data Engineer . New York, New York, United States. Apply. Pontera is a fintech company on a mission to help people retire better. Our software ...",
+      "date": "2026-10-31",
+      "timestamp": "2026-10-31T20:57:09+00:00",
+      "fetched_at": "2026-10-31T22:52:12.330744+00:00"
+    },
+    {
+      "id": "8a3b21bddad9",
+      "title": "Software Engineer in Chennai, Tamil N\u0101du, India | Technology & Digital at U.S. Bank",
+      "company": "U.S. Bank",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.usbank.com/global/en/job/2026-0017228/Software-Engineer",
+      "source": "Other",
+      "description": "Similar Jobs. Lead Software Engineer . Location Chennai, Tamil N\u0101du, India. Associate Software Engineer ... Senior Software Engineer . Location Chennai, ...",
+      "date": "2026-10-31",
+      "timestamp": "2026-10-31T19:48:52+00:00",
+      "fetched_at": "2026-10-31T22:52:12.215396+00:00"
+    },
+    {
+      "id": "8fb16c0a1ba5",
+      "title": "Senior Software Engineer , Infrastructure, Payments Processing \u2014 Google Careers",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/132010913996645062-senior-software-engineer-infrastructure-payments-processing?page=159",
+      "source": "Other",
+      "description": "Senior Software Engineer , Infrastructure, Payments Processing. share. Share Senior Software Engineer , Infrastructure, Payments Processing. linkCopy ...",
+      "date": "2026-10-31",
+      "timestamp": "2026-10-31T18:49:32+00:00",
+      "fetched_at": "2026-10-31T22:52:12.216011+00:00"
+    },
+    {
+      "id": "2252bb90fc33",
+      "title": "Senior Software Engineer , Data and Infrastructure, Professional Intelligence, DeepMind",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/117925620289020614-senior-software-engineer-data-and-infrastructure-professional-intelligence-deepmind?page=155",
+      "source": "Other",
+      "description": "Strategic Cloud Engineer . Boulder, CO, USA \u00b7 Strategic ... Senior Software Engineer , Data and Infrastructure, Professional Intelligence, DeepMind.",
+      "date": "2026-10-31",
+      "timestamp": "2026-10-31T18:48:59+00:00",
+      "fetched_at": "2026-10-31T22:52:12.216280+00:00"
+    },
+    {
+      "id": "8a5c67685bc6",
+      "title": "Software Engineer , Specs Lenses C++, Level 5 - Snap Careers",
+      "company": "Snap Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.snap.com/job?id=R0047403",
+      "source": "Other",
+      "description": "... Software Engineer to join Lens Studio at Snap Inc! What you'll do: Design, develop, and support features for Lens Engine and Lens Studio, enabling ...",
+      "date": "2026-10-31",
+      "timestamp": "2026-10-31T18:39:39+00:00",
+      "fetched_at": "2026-10-31T22:52:12.216378+00:00"
+    },
+    {
+      "id": "cdc79dbf41a0",
+      "title": "myLaurel - Senior Software Engineer - Lever",
+      "company": "Mylaurelhealth",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.lever.co/mylaurelhealth/862b8df7-03d1-4fab-98ce-a34456225131",
+      "source": "Lever",
+      "description": "Senior Software Engineer . United States. Engineering, IT & Security /. Full-Time /. Remote. Apply for this job. Seeking an experienced Senior Software ...",
+      "date": "2026-10-31",
+      "timestamp": "2026-10-31T18:25:31+00:00",
+      "fetched_at": "2026-10-31T22:52:12.216468+00:00"
+    },
+    {
+      "id": "2e11236da4f3",
+      "title": "Software Engineer , Full Stack (People Innovation Labs) | OpenAI",
+      "company": "OpenAI",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://openai.com/careers/software-engineer-full-stack-(people-innovation-labs)-us-remote/",
+      "source": "Other",
+      "description": "Software Engineer , Full Stack (People Innovation Labs) \u00b7 5+ years of professional engineering experience (excluding internships) in relevant roles at ...",
+      "date": "2026-10-31",
+      "timestamp": "2026-10-31T18:20:27+00:00",
+      "fetched_at": "2026-10-31T22:52:12.216589+00:00"
+    },
+    {
+      "id": "0ea1c27281bc",
+      "title": "Sr. Software Engineer II - Byte POS - Careers at Yum! Brands",
+      "company": "Yum! Brands",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.yum.com/jobs/general/united-states/sr-software-engineer-ii-byte-pos/5654",
+      "source": "Other",
+      "description": "We are searching for an experienced Senior Software Engineer II who can design and build both consumer-facing and enterprise operational ...",
+      "date": "2026-10-31",
+      "timestamp": "2026-10-31T18:06:24+00:00",
+      "fetched_at": "2026-10-31T22:52:12.216702+00:00"
+    },
+    {
+      "id": "893a1e156b26",
+      "title": "Senior AI/ ML Engineer - AI Live Operations, Basking Ridge, United States of America",
+      "company": "AI Live Operations, Basking Ridge, United States of America",
+      "role": "ML Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://mycareer.verizon.com/jobs/r-1102802/senior-aiml-engineer-ai-live-operations/",
+      "source": "Other",
+      "description": "Senior AI/ ML Engineer - AI Live Operations. Basking Ridge, New Jersey ... Related Jobs. AI Platform Engineer . Irving + 6 locations; Technology ...",
+      "date": "2026-10-31",
+      "timestamp": "2026-10-31T16:58:39+00:00",
+      "fetched_at": "2026-10-31T22:52:12.331519+00:00"
+    },
+    {
+      "id": "edb4da62ab23",
+      "title": "Backend Engineer (Python) - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Backend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200692393-0321/backend-engineer-python?board=17682",
+      "source": "Other",
+      "description": "Backend Engineer (Python) \u00b7 Description. As a Software Engineer , you will be responsible for building Apple's AI Data and ML platforms.",
+      "date": "2026-10-31",
+      "timestamp": "2026-10-31T16:49:55+00:00",
+      "fetched_at": "2026-10-31T22:52:12.216813+00:00"
+    },
+    {
+      "id": "b89897f0838e",
+      "title": "Data Engineer III (Finance) Job Details | Grainger Businesses",
+      "company": "Grainger Businesses",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.grainger.com/job/LAKE-FOREST-Data-Engineer-III-(Finance)-IL-60045-5202/1446606600/",
+      "source": "Other",
+      "description": "Data Engineer III (Finance). Apply now \u00bb. Date: Oct 31, 2026. Location: LAKE FOREST, IL, US, 60045-5202. Company: Grainger Businesses. Position is not ...",
+      "date": "2026-10-31",
+      "timestamp": "2026-10-31T15:51:17+00:00",
+      "fetched_at": "2026-10-31T22:52:12.331731+00:00"
+    },
+    {
+      "id": "d84f32bf0ff0",
+      "title": "Senior Software Engineer , Data and Infrastructure, Professional Intelligence, DeepMind",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/117925620289020614-senior-software-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer , Data and Infrastructure, Professional Intelligence, DeepMind. share. Share Senior Software Engineer , Data and ...",
+      "date": "2026-10-31",
+      "timestamp": "2026-10-31T15:06:37+00:00",
+      "fetched_at": "2026-10-31T22:52:12.331849+00:00"
+    },
+    {
+      "id": "072d441fb29b",
+      "title": "Data Engineer III (Finance) Job Details | Grainger Businesses",
+      "company": "Grainger Businesses",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.grainger.com/job/LAKE-FOREST-Data-Engineer-III-Finance-IL-60045-5202/1446606600/",
+      "source": "Other",
+      "description": "Data Engineer III (Finance). Apply now \u00bb. Date: Oct 31, 2026. Location: LAKE FOREST, IL, US, 60045-5202. Company: Grainger Businesses. Position is not ...",
+      "date": "2026-10-31",
+      "timestamp": "2026-10-31T14:59:13+00:00",
+      "fetched_at": "2026-10-31T22:52:12.217012+00:00"
+    },
+    {
+      "id": "62752c33d32a",
+      "title": "Senior Software Engineer (.NET/Python) in Work at Home, Rhode Island, United States",
+      "company": "Home, Rhode Island, United States",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.cvshealth.com/us/en/job/R1084923/Senior-Software-Engineer-NET-Python",
+      "source": "Other",
+      "description": "Senior Software Engineer (.NET/Python). Description. We're building a ... Senior AI Engineer . Available in 2 locationsAvailable in 2 locations.",
+      "date": "2026-10-31",
+      "timestamp": "2026-10-31T14:51:59+00:00",
+      "fetched_at": "2026-10-31T22:52:12.332003+00:00"
+    },
     {
       "id": "dae3b9f18f13",
       "title": "Charu Nerurkar's Post - AWS Data & AI Platform Engineer - LinkedIn",
@@ -51,6 +276,21 @@
       "fetched_at": "2026-10-31T16:20:32.945071+00:00"
     },
     {
+      "id": "b1038c6efcf0",
+      "title": "Remote Backend Product Software Engineer at Dropbox",
+      "company": "Dropbox",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://weworkremotely.com/remote-jobs/dropbox-backend-product-software-engineer-1",
+      "source": "WeWorkRemotely",
+      "description": "Dropbox is hiring a remote Backend Product Software Engineer to join their remote Back-End Programming team ... Full Stack AI Engineer . Jul 31. Reveleer.",
+      "date": "2026-10-31",
+      "timestamp": "2026-10-31T14:30:17+00:00",
+      "fetched_at": "2026-10-31T22:52:12.332342+00:00"
+    },
+    {
       "id": "37d4afd8d954",
       "title": "Morningstar Development Program (MDP): Associate Software Engineer (Central Tech AI)",
       "company": "Morningstar",
@@ -64,6 +304,81 @@
       "date": "2026-10-31",
       "timestamp": "2026-10-31T13:54:20+00:00",
       "fetched_at": "2026-10-31T16:20:33.024239+00:00"
+    },
+    {
+      "id": "f9e3f1564d41",
+      "title": "Full stack engineer jobs in Los Altos, CA - Indeed",
+      "company": "Indeed",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.indeed.com/q-full-stack-engineer-l-los-altos,-ca-jobs.html",
+      "source": "Indeed",
+      "description": "Senior Software Engineer \u2013 Windows Device Driver Development. Easily ... devops engineer \u00b7 full stack developer remote \u00b7 web developer \u00b7 software ...",
+      "date": "2026-10-31",
+      "timestamp": "2026-10-31T13:41:11+00:00",
+      "fetched_at": "2026-10-31T22:52:12.332528+00:00"
+    },
+    {
+      "id": "ef028bc3f550",
+      "title": "Forward Deployed AI Engineer Job Details - SAP Careers",
+      "company": "SAP Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.sap.com/job/New-York-Forward-Deployed-AI-Engineer-NY-10001/1421516033/?feedId=384233&utm_campaign=SAP_Linkedin&utm_source=LinkedinJobPostings",
+      "source": "Other",
+      "description": "What you'll build. As a Forward Deployed AI Engineer , you will independently build AI-native enterprise applications and work directly with customers ...",
+      "date": "2026-10-31",
+      "timestamp": "2026-10-31T13:37:48+00:00",
+      "fetched_at": "2026-10-31T22:52:12.332700+00:00"
+    },
+    {
+      "id": "790f2d15d517",
+      "title": "Lead Platform Engineer - Jobs - Cox Careers",
+      "company": "Jobs - Cox Careers",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.coxenterprises.com/en/jobs/r202683996/lead-platform-engineer/",
+      "source": "Other",
+      "description": "Lead Platform Engineer . 10415 Morado Cir, Austin, Texas. Job Level ... Beyond individual contribution, the Lead Software Engineer serves as ...",
+      "date": "2026-10-31",
+      "timestamp": "2026-10-31T13:29:56+00:00",
+      "fetched_at": "2026-10-31T22:52:12.217484+00:00"
+    },
+    {
+      "id": "c4eb36f3ca4e",
+      "title": "Senior Software Engineer | C.H. Robinson",
+      "company": "C.H. Robinson",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.chrobinson.com/en-us/about-us/careers/jobs/eden-prairie/senior-software-engineer/r49906",
+      "source": "Other",
+      "description": "C.H Robinson is seeking a Senior Software Engineer on our Book-It-Now/Digital Negotiator Costing team where you will collaborate with our data ...",
+      "date": "2026-10-31",
+      "timestamp": "2026-10-31T13:10:13+00:00",
+      "fetched_at": "2026-10-31T22:52:12.217586+00:00"
+    },
+    {
+      "id": "721b003697a5",
+      "title": "Software Engineer II - Platform Engineering - 136699 - IBM",
+      "company": "Software Engineer II",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.ibm.com/en_US/careers/JobDetail/Software-Engineer-II-Platform-Engineering/136699",
+      "source": "Other",
+      "description": "Software Engineer II - Platform Engineering \u00b7 Introduction. At IBM Software, we transform client challenges into solutions. \u00b7 Your role and ...",
+      "date": "2026-10-31",
+      "timestamp": "2026-10-31T12:51:26+00:00",
+      "fetched_at": "2026-10-31T22:52:12.217696+00:00"
     },
     {
       "id": "f3515a5fb05f",
@@ -94,6 +409,21 @@
       "date": "2026-10-31",
       "timestamp": "2026-10-31T12:16:04+00:00",
       "fetched_at": "2026-10-31T16:20:33.024450+00:00"
+    },
+    {
+      "id": "7c3dbedc274b",
+      "title": "Staff Robotics Software Engineer , AMR Autonomy - Tesla",
+      "company": "Tesla",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.tesla.com/es_PR/careers/search/job/staff-robotics-software-engineer-amr-autonomy--288087",
+      "source": "Other",
+      "description": "Solicite el puesto de Staff Robotics Software Engineer , AMR Autonomy en AUSTIN, Texas.",
+      "date": "2026-10-31",
+      "timestamp": "2026-10-31T11:59:45+00:00",
+      "fetched_at": "2026-10-31T22:52:12.217995+00:00"
     },
     {
       "id": "b5d08f6951e9",
