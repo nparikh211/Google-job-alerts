@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-10-31T22:52:12.372526+00:00",
-  "total_jobs": 12564,
+  "last_updated": "2026-11-01T02:42:06.649389+00:00",
+  "total_jobs": 12573,
   "stats": {
-    "total_companies": 5567,
+    "total_companies": 5573,
     "total_roles": 159,
     "regions": {
-      "India": 8239,
-      "Philippines": 2688,
+      "India": 8245,
+      "Philippines": 2691,
       "Remote": 1558,
       "Unknown": 135
     },
     "sources": {
-      "Other": 9832,
-      "Greenhouse": 639,
+      "Other": 9840,
+      "Greenhouse": 640,
       "LinkedIn": 530,
       "Workday": 524,
       "Ashby": 401,
@@ -31,10 +31,70 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-10-31"
+      "latest": "2026-11-01"
     }
   },
   "jobs": [
+    {
+      "id": "398692a0cc58",
+      "title": "Job Application for Sr. Software Engineer (Starlink) at SpaceX - Greenhouse",
+      "company": "Spacex",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/spacex/jobs/8924709002?gh_jid=8924709002",
+      "source": "Greenhouse",
+      "description": "As a Sr. Software Engineer on the Starlink Enterprise Products team you will define, build, and deploy product features and capabilities that unlock ...",
+      "date": "2026-11-01",
+      "timestamp": "2026-11-01T00:39:20+00:00",
+      "fetched_at": "2026-11-01T02:42:06.560091+00:00"
+    },
+    {
+      "id": "1a28bc5e64e0",
+      "title": "Software Engineer - Looking for Honest Feedback on My CV : r/cscareerquestionsuk - Reddit",
+      "company": "Looking for Honest Feedback on My CV : r/cscareerquestionsuk - Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.reddit.com/r/cscareerquestionsuk/comments/1xkhaqt/software_engineer_looking_for_honest_feedback_on/",
+      "source": "Other",
+      "description": "Senior software engineer roles - is the market that bad or am I looking ... 8 years in software engineering, now an AI Engineer , struggling to get ...",
+      "date": "2026-10-31",
+      "timestamp": "2026-10-31T23:11:12+00:00",
+      "fetched_at": "2026-11-01T02:42:06.607144+00:00"
+    },
+    {
+      "id": "df56249be3c4",
+      "title": "Senior Software Engineer at Corgi | Y Combinator",
+      "company": "Corgi",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.ycombinator.com/companies/corgi/jobs/y5Vu2Ya-senior-software-engineer",
+      "source": "Other",
+      "description": "... senior software engineer for a new agentic product in real estate. You ... Technical Staff: DevOps Engineer . Lucis \u00b7 Platform engineering.",
+      "date": "2026-10-31",
+      "timestamp": "2026-10-31T21:57:23+00:00",
+      "fetched_at": "2026-11-01T02:42:06.607254+00:00"
+    },
+    {
+      "id": "3bea3c6fa524",
+      "title": "Software Engineer at Corgi | Y Combinator",
+      "company": "Corgi",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.ycombinator.com/companies/corgi/jobs/s4me2xB-software-engineer",
+      "source": "Other",
+      "description": "Full Stack Engineer \u00b7 RADAR \u00b7 Staff iOS Engineer. Zip \u00b7 Senior Software Engineer , Developer Platform \u00b7 Usul \u00b7 Technical Staff: DevOps Engineer .",
+      "date": "2026-10-31",
+      "timestamp": "2026-10-31T21:56:28+00:00",
+      "fetched_at": "2026-11-01T02:42:06.607344+00:00"
+    },
     {
       "id": "bd4462ffe057",
       "title": "Handshake - Software Engineer I, Promotions - Jobs",
@@ -64,6 +124,36 @@
       "date": "2026-10-31",
       "timestamp": "2026-10-31T20:57:09+00:00",
       "fetched_at": "2026-10-31T22:52:12.330744+00:00"
+    },
+    {
+      "id": "5a15899023bd",
+      "title": "Machine Learning Engineer in New York, New York - S&P Global Careers",
+      "company": "S&P Global Careers",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.spglobal.com/jobs/330832?utm_source=aijobs-dot-com",
+      "source": "Other",
+      "description": "Job Duties: Kensho Technologies LLC seeks a Machine Learning Engineer who will identify, research, prototype, and build predictive data-driven ...",
+      "date": "2026-10-31",
+      "timestamp": "2026-10-31T20:26:20+00:00",
+      "fetched_at": "2026-11-01T02:42:06.561017+00:00"
+    },
+    {
+      "id": "c080ad7572b4",
+      "title": "Contentstack Careers - Software Engineer II",
+      "company": "Contentstack Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.contentstack.com/company/careers/8032547003?gh_jid=8032547003",
+      "source": "Other",
+      "description": "Software Engineer II. Software Engineer II. Product Development Engineering \u00b7 Chennai. Contentstack Mission & Values. Driven by innovation and ...",
+      "date": "2026-10-31",
+      "timestamp": "2026-10-31T20:24:06+00:00",
+      "fetched_at": "2026-11-01T02:42:06.561129+00:00"
     },
     {
       "id": "8a3b21bddad9",
@@ -201,6 +291,36 @@
       "fetched_at": "2026-10-31T22:52:12.216813+00:00"
     },
     {
+      "id": "ef28d867c326",
+      "title": "Senior Software Engineer , Android at Knowtex | Y Combinator",
+      "company": "Knowtex",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.ycombinator.com/companies/knowtex/jobs/qnpIDBm-senior-software-engineer-android",
+      "source": "Other",
+      "description": "Knowtex.ai Senior Software Engineer (Android) LOCATION San Francisco ... Full Stack Engineer (TS/SCI) \u00b7 Metal \u00b7 Forward Deployed Engineer ...",
+      "date": "2026-10-31",
+      "timestamp": "2026-10-31T16:37:41+00:00",
+      "fetched_at": "2026-11-01T02:42:06.562384+00:00"
+    },
+    {
+      "id": "c9953e187508",
+      "title": "Software Engineer - JOBS - Barco",
+      "company": "JOBS - Barco",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.barco.com/job/Noida-Software-Engineer-UP/1452956333/",
+      "source": "Other",
+      "description": "Software Engineer . Location: Noida, UP, IN. About Cloud Infrastructure Group @ BARCO. Cloud infrastructure group at Barco is committed to provide ...",
+      "date": "2026-10-31",
+      "timestamp": "2026-10-31T16:11:32+00:00",
+      "fetched_at": "2026-11-01T02:42:06.562469+00:00"
+    },
+    {
       "id": "b89897f0838e",
       "title": "Data Engineer III (Finance) Job Details | Grainger Businesses",
       "company": "Grainger Businesses",
@@ -214,6 +334,21 @@
       "date": "2026-10-31",
       "timestamp": "2026-10-31T15:51:17+00:00",
       "fetched_at": "2026-10-31T22:52:12.331731+00:00"
+    },
+    {
+      "id": "103b2dac92c3",
+      "title": "Software Engineer in Warminster, Pennsylvania | Sabre Systems LLC",
+      "company": "Sabre Systems LLC",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.sabresystems.com/jobs/4820?lang=en-us",
+      "source": "Other",
+      "description": "Job Description. Responsibilities. As a Software Engineer with Sabre Systems, you will be supporting the Airborne Acoustic Signal Processing ...",
+      "date": "2026-10-31",
+      "timestamp": "2026-10-31T15:21:25+00:00",
+      "fetched_at": "2026-11-01T02:42:06.562554+00:00"
     },
     {
       "id": "d84f32bf0ff0",
