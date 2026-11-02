@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-11-02T02:50:42.223679+00:00",
-  "total_jobs": 12627,
+  "last_updated": "2026-11-02T11:43:13.807362+00:00",
+  "total_jobs": 12643,
   "stats": {
-    "total_companies": 5600,
-    "total_roles": 161,
+    "total_companies": 5606,
+    "total_roles": 162,
     "regions": {
-      "India": 8286,
-      "Philippines": 2700,
+      "India": 8294,
+      "Philippines": 2708,
       "Remote": 1562,
       "Unknown": 135
     },
     "sources": {
-      "Other": 9880,
+      "Other": 9889,
       "Greenhouse": 641,
-      "LinkedIn": 534,
-      "Workday": 526,
-      "Ashby": 402,
-      "iCIMS": 154,
+      "LinkedIn": 536,
+      "Workday": 527,
+      "Ashby": 403,
+      "iCIMS": 156,
       "Breezy": 130,
+      "Lever": 88,
       "Workable": 87,
-      "Lever": 87,
       "SmartRecruiters": 85,
       "Indeed": 43,
       "Recruitee": 14,
@@ -36,6 +36,171 @@
   },
   "jobs": [
     {
+      "id": "c15d376fc3cc",
+      "title": "Hyderabad Marathon: Software engineer dies after finishing run at Gachibowli - Reddit",
+      "company": "Gachibowli",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/indianrunners/comments/1xl8ui6/hyderabad_marathon_software_engineer_dies_after/",
+      "source": "Other",
+      "description": "Hyderabad Marathon: Software engineer dies after finishing run at Gachibowli ... He was a procam slam finisher. Life is unpredictable.",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T08:00:18+00:00",
+      "fetched_at": "2026-11-02T11:43:13.745868+00:00"
+    },
+    {
+      "id": "2725be680946",
+      "title": "Site Reliability Engineer - ICIMS",
+      "company": "ICIMS",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers-apac-atlassian.icims.com/jobs/27635/site-reliability-engineer/job",
+      "source": "iCIMS",
+      "description": "Site Reliability Engineer . ID REQ-2026-3343. Category: Engineering. Overview. Overview. We are looking for an engineer who is passionate about scaling ...",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T07:49:46+00:00",
+      "fetched_at": "2026-11-02T11:43:13.746053+00:00"
+    },
+    {
+      "id": "bfafdfa91ad4",
+      "title": "Staff Software Engineer , Hyderabad | ServiceNow Careers",
+      "company": "ServiceNow Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.servicenow.com/jobs/744000159057430/staff-software-engineer/",
+      "source": "Other",
+      "description": "Join us to put AI to work for people. Job Description. About the role. We're looking for a Staff Software Engineer to set technical direction for a ...",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T07:37:57+00:00",
+      "fetched_at": "2026-11-02T11:43:13.746218+00:00"
+    },
+    {
+      "id": "a4704d51d3d9",
+      "title": "PushPress - Senior Data Platform Engineer - Lever",
+      "company": "Pushpress",
+      "role": "Platform Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.lever.co/pushpress/4fd481fe-cc06-4cb3-a589-7d14dcae33c2",
+      "source": "Lever",
+      "description": "Senior Data Platform Engineer \u00b7 About PushPress \u00b7 PushPress is the AI-powered gym management platform built for boutique fitness. \u00b7 We are transforming ...",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T06:31:43+00:00",
+      "fetched_at": "2026-11-02T11:43:13.746354+00:00"
+    },
+    {
+      "id": "4a71008b6c21",
+      "title": "Software Engineer II - Android, Bengaluru, India",
+      "company": "Android, Bengaluru, India",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.uber.com/en/jobs/303884/",
+      "source": "Other",
+      "description": "Software Engineer II - Android \u00b7 Design, develop, and maintain components of the core Android observability SDKs for crash reporting, ANR detection, ...",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T06:12:20+00:00",
+      "fetched_at": "2026-11-02T11:43:13.746478+00:00"
+    },
+    {
+      "id": "77261f126897",
+      "title": "Data Engineer Lead in United States | Progressive Careers",
+      "company": "Progressive Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.progressive.com/jobs/18428171-data-engineer-lead/",
+      "source": "Other",
+      "description": "Data Engineer Lead in United States. ... DevOps Engineer Lead - Level20. Technology Experienced Cleveland, OH ...",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T05:07:21+00:00",
+      "fetched_at": "2026-11-02T11:43:13.746625+00:00"
+    },
+    {
+      "id": "b91d674172f9",
+      "title": "Senior Software Engineer - Myworkdayjobs.com",
+      "company": "Ncr",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ncr.wd1.myworkdayjobs.com/ext_apac/job/CHENNAI-IND/Senior-Software-Engineer_R0158874",
+      "source": "Workday",
+      "description": "Senior Software Engineer \u00b7 NCR Voyix Corporation (NYSE: VYX) is a global platform-powered leader in unified commerce for shopping and dining.",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T04:34:00+00:00",
+      "fetched_at": "2026-11-02T11:43:13.683510+00:00"
+    },
+    {
+      "id": "fd289b450173",
+      "title": "Principal AI Engineer - Evinova at AstraZeneca",
+      "company": "AstraZeneca",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.astrazeneca.com/job/gaithersburg/principal-ai-engineer-evinova/7684/102749305072",
+      "source": "Other",
+      "description": "Principal AI Engineer - Evinova. Location Gaithersburg, Maryland, United States Job ID R-263199 Date posted 31/10/2026. WHY JOIN US?Evinova is a ...",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T04:11:02+00:00",
+      "fetched_at": "2026-11-02T11:43:13.684412+00:00"
+    },
+    {
+      "id": "316d4a46d1a3",
+      "title": "6 Skills to Stay Relevant as a Software Engineer in 2027 - YouTube",
+      "company": "YouTube",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.youtube.com/watch?v=LbLUi0hEhl0",
+      "source": "Other",
+      "description": "How I'd Switch From Software Engineer to AI Engineer Before 2027. Marina Wyss - AI & Machine Learning\u202246K views \u00b7 9:45 \u00b7 Go to channel Drunken ...",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T03:07:52+00:00",
+      "fetched_at": "2026-11-02T11:43:13.747141+00:00"
+    },
+    {
+      "id": "baf749d0eb5b",
+      "title": "Stripe Careers | Software Engineer , New Grad | Kartik Mungole - LinkedIn",
+      "company": "Stripe Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/posts/kartikmungole_stripe-careers-software-engineer-new-grad-activity-7522853746637324288-LzKY",
+      "source": "LinkedIn",
+      "description": "... Software Engineer , New Grad Qualification: Bachelor's / Master's in ... Stripe Careers ...",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T03:04:44+00:00",
+      "fetched_at": "2026-11-02T11:43:13.747479+00:00"
+    },
+    {
+      "id": "077130f26d4c",
+      "title": "WE'RE HIRING | Prakash Ravichandran | 16 comments - LinkedIn",
+      "company": "Unknown Company",
+      "role": "WE'RE HIRING | Prakash Ravichandran | 16 comments - LinkedIn",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/posts/prakash0108_were-hiring-data-engineer-freshers-activity-7522677141306699776-N1lF",
+      "source": "LinkedIn",
+      "description": "WE'RE HIRING | DATA ENGINEER \u2013 FRESHERS ONLY Are you a graduate from 2022 or 2023 looking to start your career in Data Engineering?",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T02:32:17+00:00",
+      "fetched_at": "2026-11-02T11:43:13.748112+00:00"
+    },
+    {
       "id": "5b13f49894b1",
       "title": "AI Software Engineer -Planta Ford Irapuato at Ford Motor Company",
       "company": "Ford Motor Company",
@@ -49,6 +214,36 @@
       "date": "2026-11-02",
       "timestamp": "2026-11-02T01:13:26+00:00",
       "fetched_at": "2026-11-02T02:50:42.039494+00:00"
+    },
+    {
+      "id": "a5cc99457d1a",
+      "title": "Windows Software Engineer , Senior Job in Columbia, MD - Jobs | Parsons Corporation",
+      "company": "Jobs | Parsons Corporation",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://parsons.jobs/locations/columbia-md/job-titles/windows-software-engineer-senior/jobs/?vs=25&utm_source=RR+RSS+Feed-DE&utm_medium=Other&utm_campaign=RR+RSS+Feed",
+      "source": "Other",
+      "description": "Windows Software Engineer , Senior Job in Columbia, MD, updated and verified daily by DirectEmployers Association.",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T00:30:00+00:00",
+      "fetched_at": "2026-11-02T11:43:13.748536+00:00"
+    },
+    {
+      "id": "8dc7d77c1fbf",
+      "title": "Software Engineer , Platform Infrastructure @ Axiom - Jobs",
+      "company": "Axiombio",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/axiombio/1d1084a2-3029-4557-9c3d-d6c1fe94b401",
+      "source": "Ashby",
+      "description": "Software Engineer , Platform Infrastructure. Location. South San Francisco. Employment Type. Full time. Location Type. On-site. Department. General.",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T00:29:52+00:00",
+      "fetched_at": "2026-11-02T11:43:13.685182+00:00"
     },
     {
       "id": "0d9c8d210c5e",
@@ -81,6 +276,21 @@
       "fetched_at": "2026-11-02T02:50:42.039759+00:00"
     },
     {
+      "id": "c03041034e2d",
+      "title": "Fullstack Software Engineer : r/BESalary - Reddit",
+      "company": "Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.reddit.com/r/BESalary/comments/1xkwoll/fullstack_software_engineer/",
+      "source": "Other",
+      "description": "Data Engineer . 24. 16. Software developer (5 yr exp) \u00b7 r/BESalary. \u2022 4mo ... Senior software engineer . 26. 17. Solution architect \u00b7 r/BESalary. \u2022 5mo ...",
+      "date": "2026-11-01",
+      "timestamp": "2026-11-01T22:42:21+00:00",
+      "fetched_at": "2026-11-02T11:43:13.749051+00:00"
+    },
+    {
       "id": "d45e37bd0419",
       "title": "Senior Full Stack Engineer (Customer Service) \u2013 Skylight \u2013 Permanent contract \u2013 Fully-remote",
       "company": "remote",
@@ -111,6 +321,21 @@
       "fetched_at": "2026-11-02T02:50:42.040087+00:00"
     },
     {
+      "id": "ba0018a6ae5a",
+      "title": "Senior Data Engineer - Databricks in McLean, Virginia - steampunk | Careers Center",
+      "company": "Databricks in McLean, Virginia - steampunk | Careers Center",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers-steampunk.icims.com/jobs/6854/senior-data-engineer---databricks/job",
+      "source": "iCIMS",
+      "description": "We are hiring a Senior Data Engineer - Databricks in McLean, Virginia. Review all of the job details and apply today!",
+      "date": "2026-11-01",
+      "timestamp": "2026-11-01T21:36:09+00:00",
+      "fetched_at": "2026-11-02T11:43:13.686075+00:00"
+    },
+    {
       "id": "b6fd4202efdb",
       "title": "KrunalSinh Sisodia on X: \"Interviewed a Senior Backend Engineer today. Knew databases ...",
       "company": "Unknown Company",
@@ -139,6 +364,21 @@
       "date": "2026-11-01",
       "timestamp": "2026-11-01T21:06:50+00:00",
       "fetched_at": "2026-11-02T02:50:42.040304+00:00"
+    },
+    {
+      "id": "f3dd8ba09aed",
+      "title": "Job ID:26019544 - Senior Cloud Engineer - GenAI Platform Engineering - Multiple Locations",
+      "company": "Job ID:26019544",
+      "role": "Cloud Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.bankofamerica.com/en-us/job-detail/26019544/senior-cloud-engineer-genai-platform-engineering-multiple-locations-esomprank-8oqsgcfhsf-3",
+      "source": "Other",
+      "description": "Apply for the Senior Cloud Engineer - GenAI Platform Engineering position (Job ID: 26019544), with openings in multiple locations, ...",
+      "date": "2026-11-01",
+      "timestamp": "2026-11-01T20:56:13+00:00",
+      "fetched_at": "2026-11-02T11:43:13.686758+00:00"
     },
     {
       "id": "3bdb23f8a88a",
