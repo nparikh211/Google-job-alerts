@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-11-01T23:09:11.931277+00:00",
-  "total_jobs": 12619,
+  "last_updated": "2026-11-02T02:50:42.223679+00:00",
+  "total_jobs": 12627,
   "stats": {
-    "total_companies": 5598,
+    "total_companies": 5600,
     "total_roles": 161,
     "regions": {
-      "India": 8282,
-      "Philippines": 2699,
-      "Remote": 1559,
+      "India": 8286,
+      "Philippines": 2700,
+      "Remote": 1562,
       "Unknown": 135
     },
     "sources": {
-      "Other": 9873,
+      "Other": 9880,
       "Greenhouse": 641,
-      "LinkedIn": 533,
+      "LinkedIn": 534,
       "Workday": 526,
       "Ashby": 402,
       "iCIMS": 154,
@@ -31,10 +31,130 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-11-01"
+      "latest": "2026-11-02"
     }
   },
   "jobs": [
+    {
+      "id": "5b13f49894b1",
+      "title": "AI Software Engineer -Planta Ford Irapuato at Ford Motor Company",
+      "company": "Ford Motor Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.careers.ford.com/en/job/irapuato/ai-software-engineer-planta-ford-irapuato/48560/102744523312",
+      "source": "Other",
+      "description": "The AI Software Engineer is responsible for designing, developing, implementing, and maintaining AI-enabled software applications that support ...",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T01:13:26+00:00",
+      "fetched_at": "2026-11-02T02:50:42.039494+00:00"
+    },
+    {
+      "id": "0d9c8d210c5e",
+      "title": "Senior Staff Data Platform Software Engineer , San Diego | ServiceNow Careers",
+      "company": "ServiceNow Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.servicenow.com/jobs/744000158984819/senior-staff-data-platform-software-engineer/",
+      "source": "Other",
+      "description": "Senior Staff Data Platform Software Engineer . Engineering ... Senior Staff Platform Engineer - Federal. Save Saved. San Diego. See All ...",
+      "date": "2026-11-01",
+      "timestamp": "2026-11-01T23:46:33+00:00",
+      "fetched_at": "2026-11-02T02:50:42.177589+00:00"
+    },
+    {
+      "id": "e73412d4dca3",
+      "title": "Stripe Careers | Apply for Master's Machine Learning Engineer , Intern",
+      "company": "Stripe Careers",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://stripe.com/careers/apply/master-s-machine-learning-engineer-intern/8333074",
+      "source": "Other",
+      "description": "/; Application. Master's Machine Learning Engineer , Intern. Company. Stripe. Team. University. Office locations. New York, Seattle, South San ...",
+      "date": "2026-11-01",
+      "timestamp": "2026-11-01T22:46:01+00:00",
+      "fetched_at": "2026-11-02T02:50:42.039759+00:00"
+    },
+    {
+      "id": "d45e37bd0419",
+      "title": "Senior Full Stack Engineer (Customer Service) \u2013 Skylight \u2013 Permanent contract \u2013 Fully-remote",
+      "company": "remote",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.welcometothejungle.com/en/companies/skylight/jobs/senior-full-stack-engineer-customer-service_us_epe2tej6",
+      "source": "Other",
+      "description": "Senior Full Stack Engineer (Customer Service). Job summary. Permanent ... Senior Software Engineer , Backend (Rust). amo. Permanent contract.",
+      "date": "2026-11-01",
+      "timestamp": "2026-11-01T22:42:18+00:00",
+      "fetched_at": "2026-11-02T02:50:42.177826+00:00"
+    },
+    {
+      "id": "2d03d2a1c2f8",
+      "title": "How I Use Claude Code as a Data Engineer (After 17 Years in Data) | Donald Lutz",
+      "company": "Donald Lutz",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/donald-lutz-5a9b0b2_how-i-use-claude-code-as-a-data-engineer-activity-7522762043335270400-__7Z",
+      "source": "LinkedIn",
+      "description": "How I Use Claude Code as a Data Engineer (After 17 Years in Data) #dataengineering #claudecde #aicoding https://lnkd.in/enG9GuUn.",
+      "date": "2026-11-01",
+      "timestamp": "2026-11-01T22:07:02+00:00",
+      "fetched_at": "2026-11-02T02:50:42.040087+00:00"
+    },
+    {
+      "id": "b6fd4202efdb",
+      "title": "KrunalSinh Sisodia on X: \"Interviewed a Senior Backend Engineer today. Knew databases ...",
+      "company": "Unknown Company",
+      "role": "Backend Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://x.com/krunalbuilds/status/2116878423377219852",
+      "source": "Other",
+      "description": "Interviewed a Senior Backend Engineer today. Knew databases, queues, distributed systems \u2014 all of it. Then I asked: You have 50 servers.",
+      "date": "2026-11-01",
+      "timestamp": "2026-11-01T21:23:19+00:00",
+      "fetched_at": "2026-11-02T02:50:42.040192+00:00"
+    },
+    {
+      "id": "fb5fba908622",
+      "title": "Data Engineer \u2013 Career Advising & Professional Development | MIT",
+      "company": "MIT",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://capd.mit.edu/jobs/contriva-consulting-inc-data-engineer/",
+      "source": "Other",
+      "description": "Job Brief. We are looking for an experienced Data Engineer / Python Developer with 7-9 years of hands-on experience in developing data pipelines, ...",
+      "date": "2026-11-01",
+      "timestamp": "2026-11-01T21:06:50+00:00",
+      "fetched_at": "2026-11-02T02:50:42.040304+00:00"
+    },
+    {
+      "id": "3bdb23f8a88a",
+      "title": "AI & Distributed Systems Fullstack Engineer - Consulting - Location OPEN Job in Olympia, WA - Jobs",
+      "company": "Consulting - Location OPEN Job in Olympia, WA - Jobs",
+      "role": "Fullstack Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://ey.jobs/locations/olympia-wa/job-titles/ai-distributed-systems-fullstack-engineer-senior-consulting-location-open/jobs/?vs=105&utm_source=XMLFeed-DE&utm_medium=XMLFeed&utm_campaign=XMLFeed",
+      "source": "Other",
+      "description": "AI & Distributed Systems Fullstack Engineer - Senior - Consulting - Location OPEN Job in Olympia, WA, updated and verified daily by ...",
+      "date": "2026-11-01",
+      "timestamp": "2026-11-01T20:27:15+00:00",
+      "fetched_at": "2026-11-02T02:50:42.040606+00:00"
+    },
     {
       "id": "4d14488fb838",
       "title": "Senior Principal - Cloud Platform Engineer \u2013 Cloud Native in Bengaluru, India - GSK jobs",
