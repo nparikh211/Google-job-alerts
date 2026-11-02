@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-11-02T11:43:13.807362+00:00",
-  "total_jobs": 12643,
+  "last_updated": "2026-11-02T20:54:04.448019+00:00",
+  "total_jobs": 12672,
   "stats": {
-    "total_companies": 5606,
+    "total_companies": 5615,
     "total_roles": 162,
     "regions": {
-      "India": 8294,
-      "Philippines": 2708,
-      "Remote": 1562,
+      "India": 8315,
+      "Philippines": 2713,
+      "Remote": 1565,
       "Unknown": 135
     },
     "sources": {
-      "Other": 9889,
-      "Greenhouse": 641,
+      "Other": 9915,
+      "Greenhouse": 642,
       "LinkedIn": 536,
-      "Workday": 527,
+      "Workday": 528,
       "Ashby": 403,
       "iCIMS": 156,
       "Breezy": 130,
+      "Workable": 88,
       "Lever": 88,
-      "Workable": 87,
       "SmartRecruiters": 85,
       "Indeed": 43,
       "Recruitee": 14,
@@ -35,6 +35,441 @@
     }
   },
   "jobs": [
+    {
+      "id": "689bf30ca6b6",
+      "title": "Job Application for Intermediate Data Engineer at GitLab - Greenhouse",
+      "company": "Gitlab",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/gitlab/jobs/8924923002",
+      "source": "Greenhouse",
+      "description": "Intermediate Data Engineer . Bangalore, India. Apply. GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to ...",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T19:08:18+00:00",
+      "fetched_at": "2026-11-02T20:54:04.164740+00:00"
+    },
+    {
+      "id": "9829106dea30",
+      "title": "Java Software Engineer - Citadel",
+      "company": "Citadel",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.citadel.com/careers/details/java-software-engineer/",
+      "source": "Other",
+      "description": "Java Software Engineer . New York, London. Email Address. Attach A Resume. Choose A File. (.docx, .doc, .pdf, .txt - max 10MB file size). Start ...",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T19:02:29+00:00",
+      "fetched_at": "2026-11-02T20:54:04.396901+00:00"
+    },
+    {
+      "id": "478ae4a0b997",
+      "title": "Senior Frontend Engineer - Shipment - Forto Careers",
+      "company": "Shipment - Forto Careers",
+      "role": "Frontend Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.forto.com/forto-jobs/senior-frontend-engineer-shipment-6a983c14-b8c5-4d00-830d-20ea053c0abb/",
+      "source": "Other",
+      "description": "Senior Frontend Engineer \u2013 Shipment \u00b7 Own the frontend architecture of your squad's applications: component structure, state management, data fetching ...",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T18:49:20+00:00",
+      "fetched_at": "2026-11-02T20:54:04.397147+00:00"
+    },
+    {
+      "id": "7e75a1576792",
+      "title": "Platform Engineer - Yuzu Health",
+      "company": "Yuzu Health",
+      "role": "Platform Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://yuzu.health/careers/0c05695d-a823-4ba0-9ac0-243e44cf4277",
+      "source": "Other",
+      "description": "Platform Engineer . Keep chaos at bay. New York City- HQ \u00b7 Full-time \u00b7 On-site. Apply. Background.",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T18:41:16+00:00",
+      "fetched_at": "2026-11-02T20:54:04.397263+00:00"
+    },
+    {
+      "id": "69b6946f6727",
+      "title": "Software Engineer , watchOS Apps & Experiences - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200692103-0836/software-engineer-watchos-apps-experiences",
+      "source": "Other",
+      "description": "Apply for a Software Engineer , watchOS Apps & Experiences job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T18:21:55+00:00",
+      "fetched_at": "2026-11-02T20:54:04.165319+00:00"
+    },
+    {
+      "id": "2fe996a82fa6",
+      "title": "Senior Software Engineer , Santa Clara, CA, United States - Intuitive Surgical Careers",
+      "company": "Intuitive Surgical Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.intuitive.com/en/jobs/744000159211550/JOB220227/senior-software-engineer/",
+      "source": "Other",
+      "description": "Job Description Primary Function of Position: The Senior Software Engineer will design, build, and evolve key components of a modern, ...",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T18:13:57+00:00",
+      "fetched_at": "2026-11-02T20:54:04.165683+00:00"
+    },
+    {
+      "id": "253a34aee35d",
+      "title": "Job Title: Data Engineer - Careers I NOMURA",
+      "company": "Careers I NOMURA",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.nomura.com/Nomura/job/Philadelphia-Data-Engineer-PA-19106/1446818200/",
+      "source": "Other",
+      "description": "Job Code: 15434 \u00b7 Country: US \u00b7 City: Philadelphia \u00b7 Skill Category: Asset Management \u00b7 Description: Job Title: Data Engineer . Corporate Title: Associate.",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T17:37:53+00:00",
+      "fetched_at": "2026-11-02T20:54:04.397744+00:00"
+    },
+    {
+      "id": "b0079c3c8615",
+      "title": "Software Engineer II, Early Career - Google",
+      "company": "Google",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/109116638069957318",
+      "source": "Other",
+      "description": "Senior Software Engineer , Ask Google Pay. Singapore. Showing 1 to 20 of 3132 rows. 1\u201120 of 3132. navigate_next. Go to next page. Follow Life at Google ...",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T17:32:13+00:00",
+      "fetched_at": "2026-11-02T20:54:04.165809+00:00"
+    },
+    {
+      "id": "4d17691a98ce",
+      "title": "Full Stack Software Engineer (US Based Remote) - Rippling",
+      "company": "Rippling",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://ats.rippling.com/torus/jobs/fb60fc4c-a49e-42cd-9e00-af931fd90e8a",
+      "source": "Other",
+      "description": "We are seeking a highly capable Software Engineer (Full Stack) to help build and evolve the Torus platform. This role is ideal for an experienced ...",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T17:30:13+00:00",
+      "fetched_at": "2026-11-02T20:54:04.397949+00:00"
+    },
+    {
+      "id": "c926fb358324",
+      "title": "Full Stack Software Engineer , Consumer Verticals - OpenAI",
+      "company": "OpenAI",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://openai.com/careers/full-stack-software-engineer-consumer-verticals-san-francisco/",
+      "source": "Other",
+      "description": "Full Stack Software Engineer , Consumer Verticals. Applied AI Engineering - San Francisco. Apply now (opens in a new window). About the Team. OpenAI's ...",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T17:21:19+00:00",
+      "fetched_at": "2026-11-02T20:54:04.165967+00:00"
+    },
+    {
+      "id": "af420ac7e47c",
+      "title": "Staff Software Engineer - Data & Scalability Platform (hybrid) - Cisco Careers",
+      "company": "Data & Scalability Platform (hybrid) - Cisco Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/2026790/Staff-Software-Engineer-Data-Scalability-Platform-hybrid",
+      "source": "Other",
+      "description": "We are recruiting a Senior Site Reliability Engineer \u2013 Observability ... Join us as a Senior Software Engineer , where you will lead solution ...",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T16:51:39+00:00",
+      "fetched_at": "2026-11-02T20:54:04.166164+00:00"
+    },
+    {
+      "id": "d6970da6756b",
+      "title": "Data Engineer - David Protein - Application - Workable Jobs",
+      "company": "David Protein",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://apply.workable.com/david-protein/j/76B3A4FE0F/apply/",
+      "source": "Workable",
+      "description": "Data Engineer . On-siteMedici Brands, Finance. New York, New York, United States. OverviewApplication. Autofill application. Save time by importing ...",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T16:49:29+00:00",
+      "fetched_at": "2026-11-02T20:54:04.166251+00:00"
+    },
+    {
+      "id": "955e42ca8623",
+      "title": "Senior Full Stack Engineer , Durham, NC | Fidelity Careers",
+      "company": "Fidelity Careers",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.fidelity.com/en/jobs/2136616/senior-full-stack-engineer/",
+      "source": "Other",
+      "description": "... Full Stack Engineer to support the understanding ... Principal Data Engineer . Save Saved. Technology Published: Oct 26; Durham, NC. Details ...",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T16:39:37+00:00",
+      "fetched_at": "2026-11-02T20:54:04.166367+00:00"
+    },
+    {
+      "id": "54fc05af1f7a",
+      "title": "Senior Lead Software Engineer | Citi Careers",
+      "company": "Citi Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.citi.com/job/irving/senior-lead-software-engineer/287/102767841680",
+      "source": "Other",
+      "description": "Learn more about applying for Senior Lead Software Engineer at Citi. Learn more about potential responsibilities, qualifications and career paths.",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T16:33:20+00:00",
+      "fetched_at": "2026-11-02T20:54:04.166471+00:00"
+    },
+    {
+      "id": "4ee520184ad6",
+      "title": "Senior Software Engineer , Application Security at Box | Andreessen Horowitz - a16z Jobs",
+      "company": "Box",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.a16z.com/jobs/box/8318858--senior-software-engineer-application-security",
+      "source": "Other",
+      "description": "Explore the Senior Software Engineer , Application Security role at Box. Redwood City, CA View the job description and apply.",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T16:29:31+00:00",
+      "fetched_at": "2026-11-02T20:54:04.166591+00:00"
+    },
+    {
+      "id": "c6017d4f20fb",
+      "title": "Senior Machine Learning Engineer , Sunnyvale, CA, United States",
+      "company": "Unknown Company",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.intuitive.com/en/jobs/744000159171070/JOB219604/senior-machine-learning-engineer/",
+      "source": "Other",
+      "description": "Senior Machine Learning Engineer . Sunnyvale, CA, United States; Not ... Sr Software Engineer Navigation. Save Saved. Sunnyvale, CA, United States ...",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T16:15:44+00:00",
+      "fetched_at": "2026-11-02T20:54:04.166708+00:00"
+    },
+    {
+      "id": "64ce2b41e5be",
+      "title": "Senior Software Engineer - Career and Job Opportunities at Firstsource Solutions",
+      "company": "Firstsource Solutions",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.firstsource.com/job/Chennai-Senior-Software-Engineer/61205444/",
+      "source": "Other",
+      "description": "Senior Software Engineer . Date: Nov 2, 2026. Location: Chennai, IN. Requisition ID: 23305. Description: POSITION INFORMATION. Position Title: AI ...",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T16:14:56+00:00",
+      "fetched_at": "2026-11-02T20:54:04.166807+00:00"
+    },
+    {
+      "id": "e84561e561a9",
+      "title": "Staff Software Engineer - Databricks AI",
+      "company": "Databricks AI",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.databricks.com/company/careers/engineering---pipeline/staff-software-engineer--databricks-ai-8926498002",
+      "source": "Other",
+      "description": "Staff Software Engineer - Databricks AI, Bengaluru, India. Join us! Together we can use data to solve the challenges of tomorrow.",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T16:01:41+00:00",
+      "fetched_at": "2026-11-02T20:54:04.398759+00:00"
+    },
+    {
+      "id": "1d4300d97fc1",
+      "title": "Job ID:26040281 - Software Engineer III - GBS IND - Mumbai, India",
+      "company": "Job ID:26040281",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.bankofamerica.com/en-us/job-detail/26040281/software-engineer-iii-gbs-ind-mumbai-india",
+      "source": "Other",
+      "description": "Apply for the Software Engineer III - GBS IND position (Job ID: 26040281), located in Mumbai, India, at Bank of America.",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T15:53:08+00:00",
+      "fetched_at": "2026-11-02T20:54:04.166923+00:00"
+    },
+    {
+      "id": "7ceeca2a24ca",
+      "title": "Senior Software Engineer -International Mid-Market - Dublin, County Dublin, Ireland - Toast",
+      "company": "International Mid-Market - Dublin, County Dublin, Ireland - Toast",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.toasttab.com/jobs/senior-software-engineer-international-mid-market-dublin-county-dublin-ireland-ff6a725e-996c-410d-b061-93bf81c05d34",
+      "source": "Other",
+      "description": "Senior Software Engineer -International Mid-Market ... Toast creates technology to help restaurants and local businesses succeed in a digital world, ...",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T15:53:07+00:00",
+      "fetched_at": "2026-11-02T20:54:04.399141+00:00"
+    },
+    {
+      "id": "732f5164c5d8",
+      "title": "Senior Software Engineer II \u2013 Remote | Invoca Careers - Kula",
+      "company": "Invoca Careers - Kula",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.kula.ai/invoca/66075-senior-software-engineer-ii",
+      "source": "Other",
+      "description": "Senior Software Engineer II. Work type: Full time \u00b7 Department: Software Development - 540 \u00b7 Workplace: Remote \u00b7 USD 139,000-208,000 / year. San ...",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T15:49:26+00:00",
+      "fetched_at": "2026-11-02T20:54:04.399263+00:00"
+    },
+    {
+      "id": "ecc0bf6aac58",
+      "title": "Hyderabad Software Engineer Dies After Collapsing Shortly After Completing a Marathon at ...",
+      "company": "...",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/hyderabad/comments/1xltfr7/hyderabad_software_engineer_dies_after_collapsing/",
+      "source": "Other",
+      "description": "Or because he's a software engineer , all these layoffs caused a ton of stress(which led to some heart complications) that the marathon ultimately took ...",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T15:48:11+00:00",
+      "fetched_at": "2026-11-02T20:54:04.399401+00:00"
+    },
+    {
+      "id": "bc34791ab526",
+      "title": "Senior Software Engineer - Myworkdayjobs.com",
+      "company": "Jacksonhealthcare",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jacksonhealthcare.wd1.myworkdayjobs.com/en-US/careers-Kimedics/job/Senior-Software-Engineer_JR109411",
+      "source": "Workday",
+      "description": "Senior Software Engineer \u00b7 Collaborate with Product Management to shape feature requirements for technical feasibility and user value \u00b7 Represent the ...",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T15:45:56+00:00",
+      "fetched_at": "2026-11-02T20:54:04.166985+00:00"
+    },
+    {
+      "id": "7713810e93cb",
+      "title": "Software Engineer - Distributed Systems (Storage/Databases) | Hudson River Trading",
+      "company": "Distributed Systems (Storage/Databases) | Hudson River Trading",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.hudsonrivertrading.com/hrt-job/software-engineer-distributed-systems-storage-databases/",
+      "source": "Other",
+      "description": "We have built one of the world's most advanced computing environments for research and development, modeling, and risk management, and are at the ...",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T15:43:53+00:00",
+      "fetched_at": "2026-11-02T20:54:04.167175+00:00"
+    },
+    {
+      "id": "5ccf6d8a30a2",
+      "title": "Software Engineer , Supportability Decisions - Stripe Careers",
+      "company": "Stripe Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://stripe.com/careers/listing/software-engineer-supportability-decisions/8335426",
+      "source": "Other",
+      "description": "Software Engineer , Supportability Decisions. Who we are. About Stripe. Stripe is a financial infrastructure platform for businesses. Millions of ...",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T15:39:55+00:00",
+      "fetched_at": "2026-11-02T20:54:04.167293+00:00"
+    },
+    {
+      "id": "1f7a5c3832be",
+      "title": "Assoc Machine Learning Engineer , Hyderabad | ServiceNow Careers",
+      "company": "ServiceNow Careers",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.servicenow.com/jobs/744000159165863/assoc-machine-learning-engineer/",
+      "source": "Other",
+      "description": "Assoc Machine Learning Engineer \u00b7 Early In Career \u00b7 Hyderabad \u00b7 Flexible \u00b7 November 02, 2026 \u00b7 JB0061547.",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T15:39:50+00:00",
+      "fetched_at": "2026-11-02T20:54:04.167407+00:00"
+    },
+    {
+      "id": "71c781f0dfe1",
+      "title": "Assoc Software Engineer , Hyderabad | ServiceNow Careers",
+      "company": "ServiceNow Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.servicenow.com/jobs/744000159166108/assoc-software-engineer/",
+      "source": "Other",
+      "description": "Assoc Software Engineer . Early In Career \u00b7 Hyderabad; Flexible; November ... Assoc Machine Learning Engineer . Save Saved. Hyderabad. Staff Software ...",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T15:39:50+00:00",
+      "fetched_at": "2026-11-02T20:54:04.167508+00:00"
+    },
+    {
+      "id": "fcb817a4cea4",
+      "title": "Software Engineer I - Java, Python , GCP , NoSQL - GMNST - American Express Careers",
+      "company": "Java, Python , GCP , NoSQL - GMNST - American Express Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.americanexpress.com/en/sites/CX_1/job/26011275/?lastSelectedFacet=LOCATIONS&selectedFlexFieldsFacets=%2522AttributeChar6%257CTechnology%2522&selectedLocationsFacet=300000000229164&intlink=us-amex-career-en-us-technology-explore-all-jobs?utm_medium=search+engine&utm_source=google",
+      "source": "Other",
+      "description": "Software Engineer I - Java, Python , GCP , NoSQL - GMNST. Phoenix, AZ, United States. Apply Now. Job Description. Joining Amex Tech means discovering ...",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T15:13:52+00:00",
+      "fetched_at": "2026-11-02T20:54:04.167892+00:00"
+    },
+    {
+      "id": "788c928fde23",
+      "title": "Consultant, Data Engineer - Careers at Nationwide",
+      "company": "Nationwide",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.nationwide.com/consultant-data-engineer/job/EFC562E8C6A25A48C5EC271E83327711",
+      "source": "Other",
+      "description": "Join Nationwide in Columbus, OH! Apply for the Consultant, Data Engineer role today and start your journey with us.",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T15:11:31+00:00",
+      "fetched_at": "2026-11-02T20:54:04.168025+00:00"
+    },
     {
       "id": "c15d376fc3cc",
       "title": "Hyderabad Marathon: Software engineer dies after finishing run at Gachibowli - Reddit",
