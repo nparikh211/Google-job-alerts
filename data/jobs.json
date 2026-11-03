@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-11-02T20:54:04.448019+00:00",
-  "total_jobs": 12672,
+  "last_updated": "2026-11-03T04:07:22.270652+00:00",
+  "total_jobs": 12694,
   "stats": {
-    "total_companies": 5615,
-    "total_roles": 162,
+    "total_companies": 5625,
+    "total_roles": 163,
     "regions": {
-      "India": 8315,
-      "Philippines": 2713,
-      "Remote": 1565,
+      "India": 8328,
+      "Philippines": 2718,
+      "Remote": 1569,
       "Unknown": 135
     },
     "sources": {
-      "Other": 9915,
-      "Greenhouse": 642,
-      "LinkedIn": 536,
+      "Other": 9933,
+      "Greenhouse": 643,
+      "LinkedIn": 537,
       "Workday": 528,
-      "Ashby": 403,
+      "Ashby": 405,
       "iCIMS": 156,
       "Breezy": 130,
       "Workable": 88,
@@ -31,10 +31,325 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-11-02"
+      "latest": "2026-11-03"
     }
   },
   "jobs": [
+    {
+      "id": "67311f8b35c0",
+      "title": "Senior Full Stack Engineer at UnitedHealth Group",
+      "company": "UnitedHealth Group",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.unitedhealthgroup.com/job/eden-prairie/senior-full-stack-engineer/34088/102787386320",
+      "source": "Other",
+      "description": "Senior Full Stack Engineer . Eden Prairie, Minnesota ... We are seeking an innovative Sr Software Engineer to join our software development team.",
+      "date": "2026-11-03",
+      "timestamp": "2026-11-03T01:09:02+00:00",
+      "fetched_at": "2026-11-03T04:07:22.206008+00:00"
+    },
+    {
+      "id": "5ad4896f5a98",
+      "title": "Senior Full Stack Software Engineer at UnitedHealth Group",
+      "company": "UnitedHealth Group",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.unitedhealthgroup.com/job/eden-prairie/senior-full-stack-software-engineer/34088/102787386304",
+      "source": "Other",
+      "description": "Growing together. The Cyber Defense Tooling team is looking for a Senior Software Engineer to be a part of our development group. This individual will ...",
+      "date": "2026-11-03",
+      "timestamp": "2026-11-03T01:09:01+00:00",
+      "fetched_at": "2026-11-03T04:07:22.206192+00:00"
+    },
+    {
+      "id": "6cb53ec3d157",
+      "title": "DevOps Engineer II - Careers - Firefly Aerospace",
+      "company": "Careers - Firefly Aerospace",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://fireflyspace.com/careers/?job=JR100304",
+      "source": "Other",
+      "description": "DevOps Engineer II \u00b7 Diagnose and resolve complex infrastructure and deployment issues across Linux-based systems \u00b7 Provide technical support for ...",
+      "date": "2026-11-03",
+      "timestamp": "2026-11-03T00:54:38+00:00",
+      "fetched_at": "2026-11-03T04:07:21.927592+00:00"
+    },
+    {
+      "id": "41f1ae3d0474",
+      "title": "Junior Software Engineer , NYC Hybrid | Econify Careers",
+      "company": "Econify Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.econify.com/careers/junior-software-engineer",
+      "source": "Other",
+      "description": "Junior Software Engineer at Econify, New York (hybrid). Build AI developer tools in TypeScript, Node.js and React. $110000 salary plus uncapped ...",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T23:57:43+00:00",
+      "fetched_at": "2026-11-03T04:07:21.927765+00:00"
+    },
+    {
+      "id": "19b69bb0a134",
+      "title": "AI/ ML Engineer Intern, Sunnyvale, CA, United States - Intuitive Surgical Careers",
+      "company": "Intuitive Surgical Careers",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.intuitive.com/en/jobs/744000159218439/JOB221925/aiml-engineer-intern/",
+      "source": "Other",
+      "description": "The AI/ ML Engineer Intern will support GAVE's mission of generating clinical evidence to drive the adoption of robotic-assisted surgery. They will ...",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T23:55:19+00:00",
+      "fetched_at": "2026-11-03T04:07:21.927953+00:00"
+    },
+    {
+      "id": "98e633ee2c65",
+      "title": "Senior Software Engineer - Remote, United States - Toast",
+      "company": "Remote, United States - Toast",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.toasttab.com/jobs/senior-software-engineer-remote-united-states-e562a6fd-4b10-4af8-9e8c-5abc03c29aa8",
+      "source": "Other",
+      "description": "We're looking for a Senior Software Engineer to help build and scale the platforms that calculate and deliver pay to restaurant employees, from tip ...",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T23:51:08+00:00",
+      "fetched_at": "2026-11-03T04:07:22.206779+00:00"
+    },
+    {
+      "id": "18383554c0d4",
+      "title": "Senior Software Engineer @ Arketa - Jobs",
+      "company": "Arketa",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.ashbyhq.com/arketa/aa8596b5-f6ef-44cf-b89e-6de1e9a2508e",
+      "source": "Ashby",
+      "description": "Senior Software Engineer . Location. United States. Employment Type. Full time. Location Type. Remote. Department. Engineering. Compensation. $140K \u2013 ...",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T23:43:19+00:00",
+      "fetched_at": "2026-11-03T04:07:21.928061+00:00"
+    },
+    {
+      "id": "725ddcc4942e",
+      "title": "Apply for Senior Software Engineer - Operational Improvement - Careers at WGU",
+      "company": "WGU",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.wgu.edu/senior-software-engineer-operational-improvement/job/P1-7606505-0",
+      "source": "Other",
+      "description": "Join WGU in Salt Lake City, UT! Apply for the Senior Software Engineer - Operational Improvement role today and start your journey with us.",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T23:31:06+00:00",
+      "fetched_at": "2026-11-03T04:07:21.928227+00:00"
+    },
+    {
+      "id": "c4d52559f2f0",
+      "title": "Consultant, Software Engineer - Careers at Nationwide",
+      "company": "Nationwide",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.nationwide.com/consultant-software-engineer/job/FA230CDC6D5EEFDF40B2E57D5B42A623",
+      "source": "Other",
+      "description": "Join Nationwide in Columbus, OH! Apply for the Consultant, Software Engineer role today and start your journey with us.",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T23:10:26+00:00",
+      "fetched_at": "2026-11-03T04:07:21.928383+00:00"
+    },
+    {
+      "id": "c110b413032f",
+      "title": "Data Engineer Senior - Data Modeling job in Pittsburgh, Pennsylvania, United States of America",
+      "company": "Data Modeling job in Pittsburgh, Pennsylvania, United States of America",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.pnc.com/global/en/job/R239222/Data-Engineer-Senior-Data-Modeling",
+      "source": "Other",
+      "description": "Data Engineer Senior - Data Modeling. location Pittsburgh ... Software Engineer Principal-Informatica/Oracle/SQL. Location Pittsburgh ...",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T22:47:58+00:00",
+      "fetched_at": "2026-11-03T04:07:22.207216+00:00"
+    },
+    {
+      "id": "617571e08f32",
+      "title": "Senior Fullstack Engineer (TypeScript / React) - Careers at Bitfocus",
+      "company": "Bitfocus",
+      "role": "Fullstack Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://bitfocus.io/careers/senior-fullstack-engineer-typescript-react",
+      "source": "Other",
+      "description": "We are hiring a product-minded Senior Fullstack Engineer (TypeScript/React) in Oslo or Remote to own features end-to-end, from understanding user ...",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T22:17:24+00:00",
+      "fetched_at": "2026-11-03T04:07:21.928521+00:00"
+    },
+    {
+      "id": "8bfb807a4d0a",
+      "title": "Job Application for Backend Software Engineer - University Graduate 2027 at Verkada",
+      "company": "Verkada",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/verkada/jobs/5280545007",
+      "source": "Greenhouse",
+      "description": "Backend Software Engineer - University Graduate 2027. San Mateo, CA United States. Apply. Who We Are. Verkada is transforming how organizations ...",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T22:14:57+00:00",
+      "fetched_at": "2026-11-03T04:07:21.928612+00:00"
+    },
+    {
+      "id": "4d7496fd2e13",
+      "title": "Apply for Senior Data Engineer | Careers at Highmark Health",
+      "company": "Highmark Health",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.highmarkhealth.org/senior-data-engineer/job/P1-7603293-0",
+      "source": "Other",
+      "description": "Senior Data Engineer . Explore our jobs. Senior Data Engineer . Apply. Work At Home - Pennsylvania, Home PA 90001, United States. Company : Highmark Inc ...",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T21:57:51+00:00",
+      "fetched_at": "2026-11-03T04:07:21.928736+00:00"
+    },
+    {
+      "id": "52dc3838c982",
+      "title": "Intern - Software Engineer (Summer 2027) - Jobs at Alaska Airlines, Hawaiian Airlines & Horizon Air",
+      "company": "Alaska Airlines, Hawaiian Airlines & Horizon Air",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.alaskaair.com/seatac-wa/intern-software-engineer-summer-2027/CBAB50B2FC684497861F2E1C4B8F6619/job/",
+      "source": "Other",
+      "description": "Intern - Software Engineer (Summer 2027) \u00b7 Receive, understand and clarify requirements from software development. \u00b7 Develop simple applications as ...",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T21:51:27+00:00",
+      "fetched_at": "2026-11-03T04:07:21.928926+00:00"
+    },
+    {
+      "id": "80304e04b970",
+      "title": "Senior Site Reliability Engineer (Cortex) at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-site-reliability-engineer-cortex/47263/100674861248",
+      "source": "Other",
+      "description": "As a Senior Site Reliability Engineer (Cortex), you will utilize your prior experience in maintaining cloud platforms to optimize our infrastructure ...",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T21:48:07+00:00",
+      "fetched_at": "2026-11-03T04:07:21.929094+00:00"
+    },
+    {
+      "id": "65b61dd981f4",
+      "title": "Data Engineer I, EU AMXL BIT - Job ID: 10586079 - Amazon Careers",
+      "company": "Job ID: 10586079 - Amazon Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://amazon.jobs/en/jobs/10586079/data-engineer-i-eu-amxl-bit",
+      "source": "Other",
+      "description": "Amazon Extra Large (AMXL) is looking for a customer focused, analytically and technically skilled Data Engineer to drive effective performance ...",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T21:03:30+00:00",
+      "fetched_at": "2026-11-03T04:07:22.207948+00:00"
+    },
+    {
+      "id": "8b905675d4e7",
+      "title": "Your Company Should Train Its Own AI Models - Will Brown, Prime Intellect - YouTube",
+      "company": "Unknown Company",
+      "role": "Your Company Should Train Its Own AI Models - Will Brown, Pr",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.youtube.com/watch?v=5SRjPT2Eo7A",
+      "source": "Other",
+      "description": "Go to channel AI Engineer \u00b7 Everyone Has the Same AI Models. Here's What Sets Agents Apart - Richmond Alake, Oracle. AI Engineer . New. 20K views.",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T20:53:36+00:00",
+      "fetched_at": "2026-11-03T04:07:21.929761+00:00"
+    },
+    {
+      "id": "c21be49a4b94",
+      "title": "Apply for Manager, Software Engineer Student LifeCycle Services - Careers at WGU",
+      "company": "WGU",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.wgu.edu/manager-software-engineer-student-lifecycle-services/job/P1-6828283-0",
+      "source": "Other",
+      "description": "Join WGU in Salt Lake City, UT! Apply for the Manager, Software Engineer Student LifeCycle Services role today and start your journey with us.",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T20:27:41+00:00",
+      "fetched_at": "2026-11-03T04:07:21.930141+00:00"
+    },
+    {
+      "id": "860cd3d119c4",
+      "title": "PROMOTED! Just became a Senior ML Engineer at Google :) Some thoughts: It's ... - LinkedIn",
+      "company": "Google :) Some thoughts: It's ...",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/ludovico-bessi_promoted-just-became-a-senior-ml-engineer-activity-7523099492112556032-vyc6",
+      "source": "LinkedIn",
+      "description": "PROMOTED! Just became a Senior ML Engineer at Google :) Some thoughts: It's something i worked really hard for (with some mistakes along the ...",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T19:36:11+00:00",
+      "fetched_at": "2026-11-03T04:07:21.930433+00:00"
+    },
+    {
+      "id": "6cad77543bb7",
+      "title": "Senior Full-Stack Engineer (TypeScript, AI) - Jobs at eventfirst - Personio",
+      "company": "eventfirst",
+      "role": "Stack Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://eventfirst.jobs.personio.com/job/2870690",
+      "source": "Other",
+      "description": "Senior Full-Stack Engineer (TypeScript, AI). Remote. Full-time. Permanent employee. Apply for this job. Hi, glad you're here! We're eventfirst. We ...",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T19:27:23+00:00",
+      "fetched_at": "2026-11-03T04:07:21.930553+00:00"
+    },
+    {
+      "id": "52f5fcd63b3b",
+      "title": "Software Engineer - - 24755 - Macquarie Group",
+      "company": "- 24755 - Macquarie Group",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=24755",
+      "source": "Other",
+      "description": "Software Engineer . Additional office locations. Houston. Job ID. 24755. Date. 02-Nov-2026. Permanent - Full time, Mid-level, Mid-senior. Job category.",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T19:12:46+00:00",
+      "fetched_at": "2026-11-03T04:07:22.209010+00:00"
+    },
     {
       "id": "689bf30ca6b6",
       "title": "Job Application for Intermediate Data Engineer at GitLab - Greenhouse",
@@ -79,6 +394,21 @@
       "date": "2026-11-02",
       "timestamp": "2026-11-02T18:49:20+00:00",
       "fetched_at": "2026-11-02T20:54:04.397147+00:00"
+    },
+    {
+      "id": "4c67a6b2e26e",
+      "title": "Machine Learning Engineer - Lendscore @ Plaid - Jobs",
+      "company": "Plaid",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/plaid/8d8378cf-edf2-4c86-afcc-49df91ece2e4",
+      "source": "Ashby",
+      "description": "... Machine Learning Engineer on the Credit team, you'll design, build, and deploy scalable machine learning solutions that support LendScore and the ...",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T18:48:12+00:00",
+      "fetched_at": "2026-11-03T04:07:21.930830+00:00"
     },
     {
       "id": "7e75a1576792",
