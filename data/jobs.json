@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-11-05T11:39:27.887880+00:00",
-  "total_jobs": 12843,
+  "last_updated": "2026-11-05T19:05:17.566674+00:00",
+  "total_jobs": 12863,
   "stats": {
-    "total_companies": 5673,
+    "total_companies": 5678,
     "total_roles": 164,
     "regions": {
-      "India": 8419,
-      "Philippines": 2754,
-      "Remote": 1591,
+      "India": 8436,
+      "Philippines": 2756,
+      "Remote": 1592,
       "Unknown": 135
     },
     "sources": {
-      "Other": 10042,
-      "Greenhouse": 655,
+      "Other": 10059,
+      "Greenhouse": 656,
       "LinkedIn": 539,
       "Workday": 534,
-      "Ashby": 411,
+      "Ashby": 413,
       "iCIMS": 158,
       "Breezy": 133,
       "Workable": 91,
@@ -35,6 +35,306 @@
     }
   },
   "jobs": [
+    {
+      "id": "d1e366e95b0b",
+      "title": "Machine Learning Engineer - Careers at ADT",
+      "company": "ADT",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.adt.com/job/23762829/machine-learning-engineer-irving-tx/",
+      "source": "Other",
+      "description": "Machine Learning Engineer (Job 3021789). Irving, TX. Additional ... Full Stack Engineer - Sales and Service Platform. Technology. On-Site.",
+      "date": "2026-11-05",
+      "timestamp": "2026-11-05T17:18:55+00:00",
+      "fetched_at": "2026-11-05T19:05:17.321824+00:00"
+    },
+    {
+      "id": "1cbe449b3483",
+      "title": "Infrastructure Software Engineer II (Remote - US) in REMOTE, US, 76131 - BNSF jobs",
+      "company": "US) in REMOTE, US, 76131 - BNSF jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.bnsf.com/us/en/job/95930/Infrastructure-Software-Engineer-II-Remote-US",
+      "source": "Other",
+      "description": "Apply for Infrastructure Software Engineer II (Remote - US) job with BNSF in REMOTE, US, 76131. IT/Technology Services at BNSF.",
+      "date": "2026-11-05",
+      "timestamp": "2026-11-05T17:09:34+00:00",
+      "fetched_at": "2026-11-05T19:05:17.322162+00:00"
+    },
+    {
+      "id": "a137279bd2fe",
+      "title": "AI Engineer - Uline Careers",
+      "company": "Uline Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.uline.jobs/JobDetails?culture=en&jobid=R268834&jobtitle=AI-Engineer",
+      "source": "Other",
+      "description": "Uline is hiring an AI Engineer in Pleasant Prairie, WI. Uline's Corporate Office is in Kenosha County, Wisconsin between Chicago, IL and Milwaukee ...",
+      "date": "2026-11-05",
+      "timestamp": "2026-11-05T17:08:01+00:00",
+      "fetched_at": "2026-11-05T19:05:17.322338+00:00"
+    },
+    {
+      "id": "c75acf2018d4",
+      "title": "AI Engineer II - FedEx Careers",
+      "company": "FedEx Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.fedex.com/ai-engineer-ii/job/P25-394116-1",
+      "source": "Other",
+      "description": "The AI Engineer collaborates closely with Data Scientists, Data Engineers, ML Ops Engineers, and Platform teams to bring machine learning models from ...",
+      "date": "2026-11-05",
+      "timestamp": "2026-11-05T16:56:54+00:00",
+      "fetched_at": "2026-11-05T19:05:17.322417+00:00"
+    },
+    {
+      "id": "5c2d957d8d30",
+      "title": "Software Engineer Job Details - Dominion Energy Careers",
+      "company": "Dominion Energy Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.dominionenergy.com/job/RICHMOND-Software-Engineer-VA-23227/1447731200/",
+      "source": "Other",
+      "description": "Software Engineer . Dominion Energy is committed to providing reliable, affordable, and increasingly clean energy that powers our customers every ...",
+      "date": "2026-11-05",
+      "timestamp": "2026-11-05T16:56:04+00:00",
+      "fetched_at": "2026-11-05T19:05:17.322514+00:00"
+    },
+    {
+      "id": "93a91c63f334",
+      "title": "Is being a junior software engineer in the AI era becoming mentally exhausting for anyone else?",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/embedded/comments/1xojhos/is_being_a_junior_software_engineer_in_the_ai_era/",
+      "source": "Other",
+      "description": "Is being a junior software engineer in the AI era becoming mentally exhausting for anyone else? I feel like being a junior in software engineering ...",
+      "date": "2026-11-05",
+      "timestamp": "2026-11-05T16:14:17+00:00",
+      "fetched_at": "2026-11-05T19:05:17.322632+00:00"
+    },
+    {
+      "id": "c9161abf2a17",
+      "title": "Sr. Data Engineer | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.apexsystems.com/job/3057497_usa/sr-data-engineer",
+      "source": "Other",
+      "description": "Data Engineer . Apply. Job#: 3057497. Job Description: Sr. Data Engineer . Location: McLean, VA (Hybrid). Alternate Location: Riverwoods, IL; Chicago, ...",
+      "date": "2026-11-05",
+      "timestamp": "2026-11-05T16:13:43+00:00",
+      "fetched_at": "2026-11-05T19:05:17.322705+00:00"
+    },
+    {
+      "id": "8d4fe619897c",
+      "title": "Software Engineer , Growth @ Notion - Jobs",
+      "company": "Notion",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/notion/f524ef6b-6a8a-4d73-b7ff-eac85bd6c887",
+      "source": "Ashby",
+      "description": "Software Engineer , Growth. Location. San Francisco, California; New York, New York. Employment Type. Full time. Location Type. Hybrid. Department.",
+      "date": "2026-11-05",
+      "timestamp": "2026-11-05T15:58:54+00:00",
+      "fetched_at": "2026-11-05T19:05:17.526839+00:00"
+    },
+    {
+      "id": "d090a25b62d4",
+      "title": "AI Engineer || in O Fallon, United States of America, 63368-7263 | AI & Data at Mastercard",
+      "company": "Mastercard",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mastercard.com/us/en/job/R-278791/AI-Engineer",
+      "source": "Other",
+      "description": "Senior AI Engineer \u00b7 Senior Software Engineer - Java Full Stack & AI \u00b7 Senior Software Engineer - Java Full Stack & AI \u00b7 Lead AI Platform Engineer .",
+      "date": "2026-11-05",
+      "timestamp": "2026-11-05T15:38:37+00:00",
+      "fetched_at": "2026-11-05T19:05:17.322794+00:00"
+    },
+    {
+      "id": "2bcfa58e1677",
+      "title": "Software Engineer Full Stack / Backend I (Full Time) - United States - Cisco Careers",
+      "company": "United States - Cisco Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2028784EXTERNALENGLOBAL/Software-Engineer-Full-Stack-Backend-I-Full-Time-United-States",
+      "source": "Other",
+      "description": "Apply for Software Engineer Full Stack / Backend I (Full Time) - United States job with Cisco in Austin, Texas, United States of America.",
+      "date": "2026-11-05",
+      "timestamp": "2026-11-05T15:19:07+00:00",
+      "fetched_at": "2026-11-05T19:05:17.322949+00:00"
+    },
+    {
+      "id": "4f1d850024d8",
+      "title": "Java Software Engineer - Mid Level at USAA",
+      "company": "USAA",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.usaajobs.com/job/san-antonio/java-software-engineer-mid-level/1207/102858047712",
+      "source": "Other",
+      "description": "Learn more about and apply for the Java Software Engineer - Mid Level job at USAA here.",
+      "date": "2026-11-05",
+      "timestamp": "2026-11-05T15:10:13+00:00",
+      "fetched_at": "2026-11-05T19:05:17.323027+00:00"
+    },
+    {
+      "id": "a855d7fbae13",
+      "title": "Sr. Data Engineer in United States > Madison - Abbott Jobs",
+      "company": "Abbott Jobs",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.jobs.abbott/us/en/job/31165213/Sr-Data-Engineer",
+      "source": "Other",
+      "description": "Data Engineer . Apply Now. JOB DESCRIPTION. Abbott is a global healthcare ... Sr. Software Engineer . Available in 2 locations. Category Research ...",
+      "date": "2026-11-05",
+      "timestamp": "2026-11-05T14:37:12+00:00",
+      "fetched_at": "2026-11-05T19:05:17.323181+00:00"
+    },
+    {
+      "id": "d42d20c2383c",
+      "title": "Data Engineer - Rippling",
+      "company": "Rippling",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://ats.rippling.com/flyover-chicago/jobs/2e5d94d4-2e5c-4d97-ba53-e3f09de176d5",
+      "source": "Other",
+      "description": "Data Engineer . Flyover Chicago. Data Engineer . About the role. The Data Engineer builds and runs the Azure data platform that turns ticketing, point ...",
+      "date": "2026-11-05",
+      "timestamp": "2026-11-05T14:36:17+00:00",
+      "fetched_at": "2026-11-05T19:05:17.527377+00:00"
+    },
+    {
+      "id": "b443fb20f237",
+      "title": "Job Application for Senior Software Engineer at Zeta Global - Greenhouse",
+      "company": "Zetaglobal",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/zetaglobal/jobs/6250064004",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer . New York, NY. Apply. WHO WE ARE. Zeta Global (NYSE: ZETA) is the AI-Powered Marketing Cloud that leverages advanced ...",
+      "date": "2026-11-05",
+      "timestamp": "2026-11-05T14:23:38+00:00",
+      "fetched_at": "2026-11-05T19:05:17.323231+00:00"
+    },
+    {
+      "id": "768d277daa56",
+      "title": "Senior Software Engineer , Full Stack @ SentiLink - Jobs",
+      "company": "Sentilink",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/sentilink/dd69100c-8482-4583-9075-e81d4b8f906b",
+      "source": "Ashby",
+      "description": "... Senior Software Engineer , Full Stack you will be responsible for the development and maintenance of our web application and platform that is used ...",
+      "date": "2026-11-05",
+      "timestamp": "2026-11-05T14:08:08+00:00",
+      "fetched_at": "2026-11-05T19:05:17.323281+00:00"
+    },
+    {
+      "id": "c4ffa44b4b91",
+      "title": "Senior Software Engineer - Cloud SaaS - IE&A in Appleton, Wisconsin, United States of America",
+      "company": "Cloud SaaS - IE&A in Appleton, Wisconsin, United States of America",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.itw.com/us/en/job/JR10953/Senior-Software-Engineer-Cloud-SaaS-IE-A",
+      "source": "Other",
+      "description": "Apply for Senior Software Engineer - Cloud SaaS - IE&A job with ITW in Appleton, Wisconsin, United States of America. Engineering at ITW.",
+      "date": "2026-11-05",
+      "timestamp": "2026-11-05T14:04:07+00:00",
+      "fetched_at": "2026-11-05T19:05:17.323397+00:00"
+    },
+    {
+      "id": "a6ba1f7b30ab",
+      "title": "Software Engineer - React at IQVIA",
+      "company": "IQVIA",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.iqvia.com/en/jobs/R1566238-0",
+      "source": "Other",
+      "description": "Software Engineer - React ... Three diverse colleagues smile while collaborating with their devices at a whiteboard. ... Responsible for the technical ...",
+      "date": "2026-11-05",
+      "timestamp": "2026-11-05T13:55:48+00:00",
+      "fetched_at": "2026-11-05T19:05:17.323451+00:00"
+    },
+    {
+      "id": "beaf7b614b25",
+      "title": "Software Engineer - Node at IQVIA",
+      "company": "IQVIA",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.iqvia.com/en/jobs/R1566239-0",
+      "source": "Other",
+      "description": "... monitor in. Jobs. Back to Jobs. Software Engineer - Node. Bengaluru, India | Full time | Home-based | R1566239. Apply Now. Three diverse colleagues ...",
+      "date": "2026-11-05",
+      "timestamp": "2026-11-05T13:51:45+00:00",
+      "fetched_at": "2026-11-05T19:05:17.323498+00:00"
+    },
+    {
+      "id": "9f06923dca4d",
+      "title": "Full Stack Engineer - Fincons.US, Inc. - Career Page - JazzHR",
+      "company": "Fincons.US, Inc. - Career Page - JazzHR",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://finconsus.applytojob.com/apply/um3UYIOUog/Full-Stack-Engineer",
+      "source": "Other",
+      "description": "Apply to Full Stack Engineer at Fincons.US, Inc. in Los Angeles, CA.",
+      "date": "2026-11-05",
+      "timestamp": "2026-11-05T13:43:25+00:00",
+      "fetched_at": "2026-11-05T19:05:17.323578+00:00"
+    },
+    {
+      "id": "e00362bbd81d",
+      "title": "Sr IT Software Engineer at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/santa-clara/sr-it-software-engineer/47263/102881314768",
+      "source": "Other",
+      "description": "The Senior Software Engineer on the Data & Analytics team will design, build, and support full-stack applications; integrate AI technologies into ...",
+      "date": "2026-11-05",
+      "timestamp": "2026-11-05T13:16:36+00:00",
+      "fetched_at": "2026-11-05T19:05:17.323654+00:00"
+    },
     {
       "id": "34dd554824df",
       "title": "Full Stack AI Engineer at Reveleer",
