@@ -1,26 +1,26 @@
 {
-  "last_updated": "2026-11-06T00:34:18.185151+00:00",
-  "total_jobs": 12885,
+  "last_updated": "2026-11-06T11:37:45.115500+00:00",
+  "total_jobs": 12911,
   "stats": {
-    "total_companies": 5686,
+    "total_companies": 5696,
     "total_roles": 164,
     "regions": {
-      "India": 8452,
-      "Philippines": 2760,
-      "Remote": 1594,
+      "India": 8470,
+      "Philippines": 2768,
+      "Remote": 1595,
       "Unknown": 135
     },
     "sources": {
-      "Other": 10076,
+      "Other": 10096,
       "Greenhouse": 657,
-      "LinkedIn": 539,
-      "Workday": 535,
-      "Ashby": 415,
+      "LinkedIn": 540,
+      "Workday": 536,
+      "Ashby": 416,
       "iCIMS": 158,
       "Breezy": 133,
+      "SmartRecruiters": 91,
       "Workable": 91,
-      "SmartRecruiters": 90,
-      "Lever": 88,
+      "Lever": 90,
       "Indeed": 43,
       "Recruitee": 15,
       "WeWorkRemotely": 13,
@@ -31,10 +31,386 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-11-05"
+      "latest": "2026-11-06"
     }
   },
   "jobs": [
+    {
+      "id": "40566f327fe1",
+      "title": "Zoox - Software Engineer Intern, Software Platforms & Product [Summer 2027] - Lever",
+      "company": "Zoox",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.lever.co/zoox/88f6cb68-1534-44af-80db-10e43c203520",
+      "source": "Lever",
+      "description": "Software Engineer Intern, Software Platforms & Product [Summer 2027]. Foster City, CA. Zoox Internships \u2013 Software /. Internship/Co-op /. Hybrid.",
+      "date": "2026-11-06",
+      "timestamp": "2026-11-06T09:13:43+00:00",
+      "fetched_at": "2026-11-06T11:37:44.961031+00:00"
+    },
+    {
+      "id": "c0c18bfa10b6",
+      "title": "Data Engineer 5 at Capital One - McLean",
+      "company": "Capital One",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.capitalonecareers.com/job/mclean/data-engineer-5/1732/102914618944",
+      "source": "Other",
+      "description": "Data Engineer 5 \u00b7 Overview \u00b7 How We Hire \u00b7 Data Engineer 4 (Manager, IC) \u00b7 AI Engineer 4 (AI Safety and Multimodal) \u00b7 Full Stack Engineer 4 (Lead / Manager ...",
+      "date": "2026-11-06",
+      "timestamp": "2026-11-06T09:00:12+00:00",
+      "fetched_at": "2026-11-06T11:37:45.070592+00:00"
+    },
+    {
+      "id": "1e688dd7a92e",
+      "title": "Senior Software Engineer in largo, Florida, United States of America - RTX Careers",
+      "company": "RTX Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.rtx.com/global/en/job/01887135/Senior-Software-Engineer",
+      "source": "Other",
+      "description": "Apply for Senior Software Engineer job with Raytheon in largo, Florida, United States of America. Engineering at Raytheon.",
+      "date": "2026-11-06",
+      "timestamp": "2026-11-06T08:53:16+00:00",
+      "fetched_at": "2026-11-06T11:37:44.961918+00:00"
+    },
+    {
+      "id": "b4c38d89dc3f",
+      "title": "JR210585-40998-GR-Associate Software Engineer I (IND) - Myworkdayjobs.com",
+      "company": "Elevancehealth",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://elevancehealth.wd1.myworkdayjobs.com/en-US/carelonglobal_in/job/JR210585-40998-GR-Associate-Software-Engineer-I--IND-_JR210585",
+      "source": "Workday",
+      "description": "Position Title: JR210585-40998-GR-Associate Software Engineer I (IND). Job Family: IFT > Engineering\u200b/Dev. Shift: Job Description: Job Type:.",
+      "date": "2026-11-06",
+      "timestamp": "2026-11-06T08:48:55+00:00",
+      "fetched_at": "2026-11-06T11:37:44.962041+00:00"
+    },
+    {
+      "id": "779ce87077f3",
+      "title": "Data Engineer , Aladdin Data, Associate - BlackRock Careers",
+      "company": "BlackRock Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.blackrock.com/job/mumbai/data-engineer-aladdin-data-associate/45831/102892167824",
+      "source": "Other",
+      "description": "As a Data Engineer , you will build and support enterprise data pipelines and data platforms that enable scalable processing of structured and semi- ...",
+      "date": "2026-11-06",
+      "timestamp": "2026-11-06T07:53:10+00:00",
+      "fetched_at": "2026-11-06T11:37:44.962205+00:00"
+    },
+    {
+      "id": "e87b97182ac3",
+      "title": "Data Engineer - Accelera Digital Group Careers",
+      "company": "Accelera Digital Group Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.deel.com/4a9f4504-6058-403a-9cb7-5dc27b7fe85b-1789634936748/job-details/67acc094-6bb0-42f2-b57d-a0f60c804f79/overview",
+      "source": "Other",
+      "description": "If you're ready to shape the future of technology on your own terms, you've found your team. Job Title: Senior Data Engineer . We are seeking an ...",
+      "date": "2026-11-06",
+      "timestamp": "2026-11-06T07:29:44+00:00",
+      "fetched_at": "2026-11-06T11:37:45.070737+00:00"
+    },
+    {
+      "id": "9c36a5c287d5",
+      "title": "Senior Software Engineer , Data Activation & Products - Activision Careers",
+      "company": "Activision Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.activision.com/job/ACPUUSR028337EXTERNAL/Senior-Software-Engineer-Data-Activation-Products-Activision",
+      "source": "Other",
+      "description": "Apply for Senior Software Engineer , Data Activation & Products - Activision job with Activision in Santa Monica, California, United States of ...",
+      "date": "2026-11-06",
+      "timestamp": "2026-11-06T07:19:25+00:00",
+      "fetched_at": "2026-11-06T11:37:44.962449+00:00"
+    },
+    {
+      "id": "aee092ebd3d8",
+      "title": "Senior Platform Engineer - Xcel Energy Careers",
+      "company": "Xcel Energy Careers",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.xcelenergy.com/senior-platform-engineer/job/963C96922FAF310D4400E9B5CCC3BE48",
+      "source": "Other",
+      "description": "This Senior Platform Engineer is responsible for the design, administration, security, governance, and support of Xcel Energy's enterprise Databricks ...",
+      "date": "2026-11-06",
+      "timestamp": "2026-11-06T06:54:35+00:00",
+      "fetched_at": "2026-11-06T11:37:44.962637+00:00"
+    },
+    {
+      "id": "962825e98c8c",
+      "title": "Data Engineer Jobs and Careers at OnTrac in Chantilly",
+      "company": "OnTrac in Chantilly",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ontrac.com/job/chantilly/data-engineer/47156/102903097968",
+      "source": "Other",
+      "description": "Employment Logistics: We are seeking a Data Engineer to design, build, and maintain scalable data pipelines and analytics solutions on Google Cloud ...",
+      "date": "2026-11-06",
+      "timestamp": "2026-11-06T06:53:35+00:00",
+      "fetched_at": "2026-11-06T11:37:44.962762+00:00"
+    },
+    {
+      "id": "1e5fa571ed8f",
+      "title": "Zoox - Software Engineer Intern, Software Systems [Summer 2027] - Lever",
+      "company": "Zoox",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20",
+      "source": "Lever",
+      "description": "Software Engineer Intern, Software Systems [Summer 2027]. Foster City, CA. Zoox Internships \u2013 Software /. Internship/Co-op /. Hybrid. Apply for this ...",
+      "date": "2026-11-06",
+      "timestamp": "2026-11-06T06:03:07+00:00",
+      "fetched_at": "2026-11-06T11:37:44.962878+00:00"
+    },
+    {
+      "id": "95566985817a",
+      "title": "NewMile - Software Engineer , AI Systems | Dan Singer - LinkedIn",
+      "company": "NewMile",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/dansinger_newmile-software-engineer-ai-systems-activity-7524273345215983616-rUM5",
+      "source": "LinkedIn",
+      "description": "Know a strong engineer who's all in on AI? We're hiring a Software Engineer , AI Systems in Jacksonville to help build what's next at NewMile.",
+      "date": "2026-11-06",
+      "timestamp": "2026-11-06T06:01:52+00:00",
+      "fetched_at": "2026-11-06T11:37:44.963129+00:00"
+    },
+    {
+      "id": "570499c07c59",
+      "title": "Flight Software Engineer I in Pasadena, California, United States of America - JPL Jobs",
+      "company": "JPL Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.jpl.jobs/job/R6254/Flight-Software-Engineer-I",
+      "source": "Other",
+      "description": "Apply for Flight Software Engineer I job with JPL (Jet Propulsion Laboratory) in Pasadena, California, United States of America.",
+      "date": "2026-11-06",
+      "timestamp": "2026-11-06T05:05:17+00:00",
+      "fetched_at": "2026-11-06T11:37:45.071215+00:00"
+    },
+    {
+      "id": "b905d3208123",
+      "title": "Applied AI Engineer , Partner - AWS - OpenAI",
+      "company": "AWS - OpenAI",
+      "role": "AI Engineer",
+      "regions": [
+        "India",
+        "Remote"
+      ],
+      "link": "https://openai.com/careers/applied-ai-engineer-partner-aws-bangalore-remote/",
+      "source": "Other",
+      "description": "Applied AI Engineer , Partner - AWS \u00b7 Strategic AWS Engagement & Influence \u00b7 Complex Deal Leadership & Execution \u00b7 Solution Architecture & Hands-On ...",
+      "date": "2026-11-06",
+      "timestamp": "2026-11-06T05:03:32+00:00",
+      "fetched_at": "2026-11-06T11:37:44.963304+00:00"
+    },
+    {
+      "id": "a308579d77d9",
+      "title": "Senior Software Engineer - Access Management - Databricks",
+      "company": "Access Management - Databricks",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.databricks.com/jp/company/careers/executive-engineering---pipeline/senior-software-engineer---access-management-8931033002",
+      "source": "Other",
+      "description": "Senior Software Engineer - Access Management, Bellevue, Washington. Join us! Together we can use data to solve the challenges of tomorrow.",
+      "date": "2026-11-06",
+      "timestamp": "2026-11-06T05:02:26+00:00",
+      "fetched_at": "2026-11-06T11:37:44.963552+00:00"
+    },
+    {
+      "id": "bb43184213ae",
+      "title": "Senior Software Engineer - Compute - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200693628-0836/senior-software-engineer-compute",
+      "source": "Other",
+      "description": "Apply for a Senior Software Engineer - Compute job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-11-06",
+      "timestamp": "2026-11-06T04:30:43+00:00",
+      "fetched_at": "2026-11-06T11:37:45.071420+00:00"
+    },
+    {
+      "id": "412c15233916",
+      "title": "Data Engineer I, Secure Third Party Tools (S3T) - Job ID: 10598162 - Amazon Careers",
+      "company": "Job ID: 10598162 - Amazon Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.amazon.jobs/en/jobs/10598162/data-engineer-i-secure-third-party-tools-s3t",
+      "source": "Other",
+      "description": "Data Engineer I, Secure Third Party Tools (S3T). Job ID: 10598162 | Amazon.com Services LLC. Apply now. Description. Security Foundations builds ...",
+      "date": "2026-11-06",
+      "timestamp": "2026-11-06T03:01:11+00:00",
+      "fetched_at": "2026-11-06T11:37:44.963744+00:00"
+    },
+    {
+      "id": "84781bb53658",
+      "title": "Sr. Software Engineer , Customer Systems - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200666022-0157/sr-software-engineer-customer-systems?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Sr. Software Engineer , Customer Systems job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-11-06",
+      "timestamp": "2026-11-06T02:53:35+00:00",
+      "fetched_at": "2026-11-06T11:37:44.964032+00:00"
+    },
+    {
+      "id": "6da6b8c32bce",
+      "title": "Eurofins Software Engineer | SmartRecruiters",
+      "company": "Eurofins",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.smartrecruiters.com/Eurofins/744000159878404-software-engineer",
+      "source": "SmartRecruiters",
+      "description": "Software Engineer . Bengaluru, Karnataka, India Employees work in a hybrid mode; Full-time. Company Description. Eurofins Scientific is an ...",
+      "date": "2026-11-06",
+      "timestamp": "2026-11-06T02:32:14+00:00",
+      "fetched_at": "2026-11-06T11:37:44.964122+00:00"
+    },
+    {
+      "id": "d6bdb1a783a5",
+      "title": "Full Stack Engineer (Data) - Inforcer - Teamtailor",
+      "company": "Inforcer - Teamtailor",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://inforcer.teamtailor.com/jobs/8361149-full-stack-engineer-data",
+      "source": "Other",
+      "description": "Full Stack Engineer (Data) \u00b7 Commercial experience as a Full Stack Engineer , Software Engineer or similar role \u00b7 Strong C# and . \u00b7 Experience building ...",
+      "date": "2026-11-06",
+      "timestamp": "2026-11-06T02:22:09+00:00",
+      "fetched_at": "2026-11-06T11:37:44.964267+00:00"
+    },
+    {
+      "id": "2f324ecfa7ed",
+      "title": "Senior Data Engineer Job Details - ICRC careers",
+      "company": "ICRC careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.icrc.org/job/Geneva-%28GVA%29-Senior-Data-Engineer-33800/1454598533/",
+      "source": "Other",
+      "description": "Purpose of the Role. The Senior Data Engineer plays a critical role in supporting the ICRC's humanitarian mission by designing, developing and ...",
+      "date": "2026-11-06",
+      "timestamp": "2026-11-06T01:53:12+00:00",
+      "fetched_at": "2026-11-06T11:37:44.964439+00:00"
+    },
+    {
+      "id": "067e4fad5734",
+      "title": "Software Engineer II - Engineer, San Francisco, United States",
+      "company": "Software Engineer II",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.uber.com/en/jobs/304446/",
+      "source": "Other",
+      "description": "... Machine Learning Engineer (MLE) on the Feed Ranking team, you will own ... Software Engineer II - Engineer. Job removed. Location: San Francisco ...",
+      "date": "2026-11-06",
+      "timestamp": "2026-11-06T01:18:30+00:00",
+      "fetched_at": "2026-11-06T11:37:45.071755+00:00"
+    },
+    {
+      "id": "e3c4c8cab8c3",
+      "title": "Sr. DevOps Engineer | Schwab Jobs",
+      "company": "Schwab Jobs",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.schwabjobs.com/job/austin/sr-devops-engineer/33727/102918487280",
+      "source": "Other",
+      "description": "DevOps Engineer . Austin, TX. Requisition ID 2026-129229 Category Engineering & Software Development Position type Regular Pay range USD $140,600.00 ...",
+      "date": "2026-11-06",
+      "timestamp": "2026-11-06T00:58:05+00:00",
+      "fetched_at": "2026-11-06T11:37:44.964568+00:00"
+    },
+    {
+      "id": "1459f7c4dae0",
+      "title": "Senior Software Engineer - Data Platform Owner/Admin Job Details | Dominion Energy",
+      "company": "Data Platform Owner/Admin Job Details | Dominion Energy",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.dominionenergy.com/job/RICHMOND-Senior-Software-Engineer-Data-Platform-OwnerAdmin-VA-23219/1444120100/",
+      "source": "Other",
+      "description": "This position does not offer relocation assistance. Job Summary. We seek a Senior Software Engineer \u2013 Informatica Data Catalog and Denodo ...",
+      "date": "2026-11-06",
+      "timestamp": "2026-11-06T00:53:21+00:00",
+      "fetched_at": "2026-11-06T11:37:44.964827+00:00"
+    },
+    {
+      "id": "4a6dbbff7e27",
+      "title": "Experienced Software Engineer - Jobs at Volvo Group",
+      "company": "Volvo Group",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.volvogroup.com/job/Ji'nan-Experienced-Software-Engineer-250102/1375787655/?feedId=361555",
+      "source": "Other",
+      "description": "What you will do. We are looking for an Embedded Software Engineer to develop, validate, and maintain embedded software for vehicle electrical and ...",
+      "date": "2026-11-06",
+      "timestamp": "2026-11-06T00:29:18+00:00",
+      "fetched_at": "2026-11-06T11:37:45.072057+00:00"
+    },
+    {
+      "id": "b67e443a65b0",
+      "title": "Senior Software Engineer , Merrimack, NH | Fidelity Careers",
+      "company": "Fidelity Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.fidelity.com/en/jobs/2132135/senior-software-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer . Published: Nov 05. ID: 2132135. Fidelity is ... Full Stack Engineer (or closely related occupation) designing ...",
+      "date": "2026-11-05",
+      "timestamp": "2026-11-05T23:38:22+00:00",
+      "fetched_at": "2026-11-06T11:37:45.072129+00:00"
+    },
     {
       "id": "9edf5617c008",
       "title": "Founding Full Stack Software Engineer , Consulting | OpenAI",
@@ -49,6 +425,21 @@
       "date": "2026-11-05",
       "timestamp": "2026-11-05T22:32:59+00:00",
       "fetched_at": "2026-11-06T00:34:18.038685+00:00"
+    },
+    {
+      "id": "092513519a86",
+      "title": "Software Engineer - Applied AI @ Deepgram - Jobs",
+      "company": "Deepgram",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/deepgram/3c9a9729-7ff1-49e3-a388-f108745e4b41",
+      "source": "Ashby",
+      "description": "Software Engineer - Applied AI. Location. San Francisco, CA. Employment Type. Full time. Location Type. On-site. Department. Engineering. Compensation.",
+      "date": "2026-11-05",
+      "timestamp": "2026-11-05T22:12:52+00:00",
+      "fetched_at": "2026-11-06T11:37:45.072223+00:00"
     },
     {
       "id": "1b618a3a3240",
