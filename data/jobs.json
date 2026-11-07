@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-11-06T23:50:18.774770+00:00",
-  "total_jobs": 12955,
+  "last_updated": "2026-11-07T03:18:31.400348+00:00",
+  "total_jobs": 12961,
   "stats": {
-    "total_companies": 5713,
-    "total_roles": 165,
+    "total_companies": 5716,
+    "total_roles": 166,
     "regions": {
-      "India": 8500,
-      "Philippines": 2776,
-      "Remote": 1601,
+      "India": 8501,
+      "Philippines": 2780,
+      "Remote": 1602,
       "Unknown": 135
     },
     "sources": {
-      "Other": 10128,
+      "Other": 10132,
       "Greenhouse": 660,
-      "LinkedIn": 542,
+      "LinkedIn": 543,
       "Workday": 538,
-      "Ashby": 420,
+      "Ashby": 421,
       "iCIMS": 158,
       "Breezy": 133,
       "SmartRecruiters": 92,
@@ -36,6 +36,21 @@
   },
   "jobs": [
     {
+      "id": "0a09cad720a1",
+      "title": "Cloud Engineer I - UT Dallas \u2013 Employment Opportunities",
+      "company": "UT Dallas \u2013 Employment Opportunities",
+      "role": "Cloud Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.utdallas.edu/postings/33183",
+      "source": "Other",
+      "description": "The cloud engineer will be expected to work independently as skills grow. Minimum Education and Experience. Bachelor's degree or an equivalent ...",
+      "date": "2026-11-06",
+      "timestamp": "2026-11-06T23:21:15+00:00",
+      "fetched_at": "2026-11-07T03:18:31.339757+00:00"
+    },
+    {
       "id": "8aaaba2cca54",
       "title": "Associate Software Engineer at UnitedHealth Group",
       "company": "UnitedHealth Group",
@@ -49,6 +64,21 @@
       "date": "2026-11-06",
       "timestamp": "2026-11-06T23:04:46+00:00",
       "fetched_at": "2026-11-06T23:50:18.622926+00:00"
+    },
+    {
+      "id": "4de84e077a6e",
+      "title": "Zach Wilson posted this - LinkedIn",
+      "company": "Unknown Company",
+      "role": "Zach Wilson posted this - LinkedIn",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/posts/eczachly_being-a-data-engineer-is-50-building-pipelines-activity-7524589443492716544-Ondu",
+      "source": "LinkedIn",
+      "description": "Being a data engineer is 50% building pipelines and 50% thinking about becoming an AI engineer or farmer | 11 comments on LinkedIn.",
+      "date": "2026-11-06",
+      "timestamp": "2026-11-06T22:57:24+00:00",
+      "fetched_at": "2026-11-07T03:18:31.340135+00:00"
     },
     {
       "id": "aa87075d66e4",
@@ -66,6 +96,21 @@
       "fetched_at": "2026-11-06T23:50:18.623548+00:00"
     },
     {
+      "id": "4d106d6d9710",
+      "title": "Data Engineer , Senior Job Details - Purdue Careers",
+      "company": "Purdue Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.purdue.edu/job/REMOTE-Data-Engineer,-Senior-IN/1448557100/",
+      "source": "Other",
+      "description": "Senior Data Engineer | Purdue IT | Remote for the right person. This is an exciting time to join our team as we modernize Purdue's enterprise data ...",
+      "date": "2026-11-06",
+      "timestamp": "2026-11-06T21:52:38+00:00",
+      "fetched_at": "2026-11-07T03:18:31.250667+00:00"
+    },
+    {
       "id": "d6f6862318de",
       "title": "a 4B model that beat Claude Sonnet on medical extraction | Praneeth Paikray - LinkedIn",
       "company": "beat Claude Sonnet on medical extraction",
@@ -79,6 +124,21 @@
       "date": "2026-11-06",
       "timestamp": "2026-11-06T21:25:24+00:00",
       "fetched_at": "2026-11-06T23:50:18.712713+00:00"
+    },
+    {
+      "id": "1a4059782c46",
+      "title": "Scientific Software Engineer (Lab Integration) @ CuspAI - Jobs",
+      "company": "Cuspai",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/cuspai/efcaa040-870e-4786-97e2-d88bfb0e4498",
+      "source": "Ashby",
+      "description": "Software Engineer to build and run the systems that connect our AI platform to physical laboratories around the world. Together with the team, you ...",
+      "date": "2026-11-06",
+      "timestamp": "2026-11-06T21:24:33+00:00",
+      "fetched_at": "2026-11-07T03:18:31.251387+00:00"
     },
     {
       "id": "082b9fc35d32",
@@ -124,6 +184,21 @@
       "date": "2026-11-06",
       "timestamp": "2026-11-06T20:35:46+00:00",
       "fetched_at": "2026-11-06T23:50:18.624331+00:00"
+    },
+    {
+      "id": "6b0240af07f7",
+      "title": "Snowflake Data Engineer | Citi Careers",
+      "company": "Citi Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.citi.com/job/dublin/snowflake-data-engineer/287/102940377232",
+      "source": "Other",
+      "description": "Snowflake Data Engineer . Apply (opens in new window) Save. Job Req ... Production AI Engineer - Vice President. London, England. Save for Later ...",
+      "date": "2026-11-06",
+      "timestamp": "2026-11-06T20:24:27+00:00",
+      "fetched_at": "2026-11-07T03:18:31.341346+00:00"
     },
     {
       "id": "da0b3bce931d",
@@ -289,6 +364,21 @@
       "date": "2026-11-06",
       "timestamp": "2026-11-06T18:03:36+00:00",
       "fetched_at": "2026-11-06T23:50:18.714691+00:00"
+    },
+    {
+      "id": "06650abf2d08",
+      "title": "Software Engineer , Santa Clara - ServiceNow Careers",
+      "company": "ServiceNow Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.servicenow.com/jobs/744000160263310/software-engineer/",
+      "source": "Other",
+      "description": "Software Engineer ... Job Description. We are the AI Control Tower Team and we are looking for a full stack engineer to help join a dynamic environment.",
+      "date": "2026-11-06",
+      "timestamp": "2026-11-06T17:52:57+00:00",
+      "fetched_at": "2026-11-07T03:18:31.342911+00:00"
     },
     {
       "id": "8e6799d4d5ab",
