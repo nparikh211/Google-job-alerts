@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-11-07T17:00:50.701243+00:00",
-  "total_jobs": 12981,
+  "last_updated": "2026-11-07T23:07:47.964662+00:00",
+  "total_jobs": 13009,
   "stats": {
-    "total_companies": 5725,
+    "total_companies": 5734,
     "total_roles": 167,
     "regions": {
-      "India": 8515,
-      "Philippines": 2781,
-      "Remote": 1607,
+      "India": 8533,
+      "Philippines": 2790,
+      "Remote": 1608,
       "Unknown": 135
     },
     "sources": {
-      "Other": 10149,
-      "Greenhouse": 661,
-      "LinkedIn": 543,
-      "Workday": 539,
-      "Ashby": 422,
+      "Other": 10170,
+      "Greenhouse": 663,
+      "LinkedIn": 544,
+      "Workday": 541,
+      "Ashby": 423,
       "iCIMS": 158,
       "Breezy": 133,
       "SmartRecruiters": 92,
@@ -23,7 +23,7 @@
       "Lever": 90,
       "Indeed": 43,
       "Recruitee": 15,
-      "WeWorkRemotely": 13,
+      "WeWorkRemotely": 14,
       "Jobvite": 11,
       "BrassRing": 11,
       "Taleo": 8,
@@ -35,6 +35,426 @@
     }
   },
   "jobs": [
+    {
+      "id": "58b52d5ccd01",
+      "title": "Software Engineer , Full Stack at Hyperdesk - Y Combinator",
+      "company": "Hyperdesk",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.ycombinator.com/companies/hyperdesk/jobs/VTWZcNb-software-engineer-full-stack",
+      "source": "Other",
+      "description": "Staff Full Stack Engineer \u00b7 Hedge \u00b7 Founding Engineer \u00b7 Pocket ... Senior Software Engineer \u00b7 Beacons \u00b7 Senior Software Engineer ...",
+      "date": "2026-11-07",
+      "timestamp": "2026-11-07T22:59:01+00:00",
+      "fetched_at": "2026-11-07T23:07:47.911082+00:00"
+    },
+    {
+      "id": "60f58c028b62",
+      "title": "Software Engineer 2 - Dell Careers",
+      "company": "Dell Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/job/302155?utm_medium=search+engine&utm_source=google",
+      "source": "Other",
+      "description": "Join us to do the best work of your career and make a profound social impact as a Software Engineer on our Software Engineering team in Austin, Texas.",
+      "date": "2026-11-07",
+      "timestamp": "2026-11-07T22:00:32+00:00",
+      "fetched_at": "2026-11-07T23:07:47.911232+00:00"
+    },
+    {
+      "id": "e95ace26d89d",
+      "title": "Senior Software Engineer \u2013 Robotics & Automation (8-months contract) - LinkedIn",
+      "company": "months contract) - LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/4486931579/",
+      "source": "LinkedIn",
+      "description": "Senior Software Engineer \u2013 Robotics & Automation (8-months contract) in ... Full Stack Engineer (Robotics). Morgan McKinley. Singapore ...",
+      "date": "2026-11-07",
+      "timestamp": "2026-11-07T21:54:20+00:00",
+      "fetched_at": "2026-11-07T23:07:47.694780+00:00"
+    },
+    {
+      "id": "7ea066027b97",
+      "title": "Senior Software Engineer - Optum | Built In",
+      "company": "Optum | Built In",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://builtin.com/job/senior-software-engineer/12134880",
+      "source": "Other",
+      "description": "Optum is hiring for a Senior Software Engineer in Eden Prairie, MN, USA. Find more details about the job and how to apply at Built In.",
+      "date": "2026-11-07",
+      "timestamp": "2026-11-07T21:45:33+00:00",
+      "fetched_at": "2026-11-07T23:07:47.694926+00:00"
+    },
+    {
+      "id": "00137de88a88",
+      "title": "Principal Site Reliability Engineer at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/santa-clara/principal-site-reliability-engineer/47263/102993136752",
+      "source": "Other",
+      "description": "Principal Site Reliability Engineer . Santa Clara, California, United States of America Product Engineering Ref ID: JR-024014. Apply Save Job. Current ...",
+      "date": "2026-11-07",
+      "timestamp": "2026-11-07T21:39:31+00:00",
+      "fetched_at": "2026-11-07T23:07:47.911365+00:00"
+    },
+    {
+      "id": "ece5a81a3111",
+      "title": "Software Engineer Senior Manager - Cross Channel Banker Platform - Wells Fargo",
+      "company": "Cross Channel Banker Platform - Wells Fargo",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.wellsfargojobs.com/en/jobs/r-586181/software-engineer-senior-manager-cross-channel-banker-platform/",
+      "source": "Other",
+      "description": "Software Engineer Senior Manager - Cross Channel Banker Platform. COLUMBUS. Technology; Full time; 06 Nov 2026; R-586181. About this role: Wells Fargo ...",
+      "date": "2026-11-07",
+      "timestamp": "2026-11-07T19:48:24+00:00",
+      "fetched_at": "2026-11-07T23:07:47.695126+00:00"
+    },
+    {
+      "id": "9d4ed7ad7a86",
+      "title": "Software Engineer - Intern (TikTok BRIC) - 2027 Start (PhD)",
+      "company": "Intern",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://lifeattiktok.com/search/7705012688944810245",
+      "source": "Other",
+      "description": "View our opening for Software Engineer - Intern (TikTok BRIC) - 2027 Start (PhD) and learn more about what it's like to work at TikTok!",
+      "date": "2026-11-07",
+      "timestamp": "2026-11-07T19:16:11+00:00",
+      "fetched_at": "2026-11-07T23:07:47.695243+00:00"
+    },
+    {
+      "id": "17ae0861ce66",
+      "title": "Software Engineer Data & AI II (Full Time) \u2013 United States - Cisco Careers",
+      "company": "Cisco Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2030929EXTERNALENGLOBAL/Software-Engineer-Data-AI-II-Full-Time-United-States",
+      "source": "Other",
+      "description": "Seeking a Senior Software Engineer to design and deliver cloud-native software supporting Cisco's AI Infrastructure strategy. Lead technical features ...",
+      "date": "2026-11-07",
+      "timestamp": "2026-11-07T19:02:25+00:00",
+      "fetched_at": "2026-11-07T23:07:47.695436+00:00"
+    },
+    {
+      "id": "958c70ecebc1",
+      "title": "Senior Data Engineer , Austin, Texas | General Motors Careers",
+      "company": "General Motors Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://search-careers.gm.com/en/jobs/jr-202622764/senior-data-engineer/",
+      "source": "Other",
+      "description": "... Machine Learning Engineer with at least seven years of experience to ... Senior Data Engineer . Location. Austin, Texas. (+) Show all locations",
+      "date": "2026-11-07",
+      "timestamp": "2026-11-07T18:49:22+00:00",
+      "fetched_at": "2026-11-07T23:07:47.911795+00:00"
+    },
+    {
+      "id": "146eaf3c0571",
+      "title": "Data Engineer Apprentice in Hyderabad, Telang\u0101na, India | Technology at Crowe",
+      "company": "Crowe",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.crowe.com/job/CROCROUSR52634EXTERNALENUS/Data-Engineer-Apprentice",
+      "source": "Other",
+      "description": "Job Description: Role overview: Data Engineer Apprentice learns to prepare, transform, validate, document & support data pipelines/datasets using SQL, ...",
+      "date": "2026-11-07",
+      "timestamp": "2026-11-07T18:22:18+00:00",
+      "fetched_at": "2026-11-07T23:07:47.695579+00:00"
+    },
+    {
+      "id": "d98ac048dbfd",
+      "title": "Embedded Mobile Software Engineer Intern in Singapore, 498788 - Thales Careers",
+      "company": "Thales Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.thalesgroup.com/global/en/job/R0334782/Embedded-Mobile-Software-Engineer-Intern",
+      "source": "Other",
+      "description": "Apply for Embedded Mobile Software Engineer Intern job with Thales Group in Singapore, 498788. HSE, Real Estate, Security, Personal Assistance, ...",
+      "date": "2026-11-07",
+      "timestamp": "2026-11-07T18:16:26+00:00",
+      "fetched_at": "2026-11-07T23:07:47.911925+00:00"
+    },
+    {
+      "id": "7ab8728f100e",
+      "title": "Software Engineer I - Myworkdayjobs.com",
+      "company": "Zendesk",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Pune-India/Software-Engineer-I_R35832",
+      "source": "Workday",
+      "description": "Job Description Software Engineer II Job Description - Agent Workspace UI What you get to do every day: Drive the modernization and evolution of ...",
+      "date": "2026-11-07",
+      "timestamp": "2026-11-07T18:06:27+00:00",
+      "fetched_at": "2026-11-07T23:07:47.695644+00:00"
+    },
+    {
+      "id": "17da83e181bf",
+      "title": "Machine Learning Engineer , AI/ML Model Quality - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200667346-0836/machine-learning-engineer-ai-ml-model-quality",
+      "source": "Other",
+      "description": "Apply for a Machine Learning Engineer , AI/ML Model Quality job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-11-07",
+      "timestamp": "2026-11-07T17:31:18+00:00",
+      "fetched_at": "2026-11-07T23:07:47.695781+00:00"
+    },
+    {
+      "id": "790c5c640015",
+      "title": "Cloud Engineer I - HigherEdJobs",
+      "company": "HigherEdJobs",
+      "role": "Cloud Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.higheredjobs.com/region/details.cfm?JobCode=179611187&Title=Cloud%20Engineer%20I",
+      "source": "Other",
+      "description": "The Enterprise Cloud & Infrastructure Services team is seeking a motivated Cloud Engineer I to help deploy, secure, and operate production workloads ...",
+      "date": "2026-11-07",
+      "timestamp": "2026-11-07T17:08:13+00:00",
+      "fetched_at": "2026-11-07T23:07:47.695995+00:00"
+    },
+    {
+      "id": "a16977a86e23",
+      "title": "Job Application for Senior Software Engineer - Design Systems at Mercury - Greenhouse",
+      "company": "Mercury",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/mercury/jobs/6252006004",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer - Design Systems. San Francisco, CA, New York ... As a Senior Frontend Engineer on the Design Systems team, you will ...",
+      "date": "2026-11-07",
+      "timestamp": "2026-11-07T16:41:42+00:00",
+      "fetched_at": "2026-11-07T23:07:47.696064+00:00"
+    },
+    {
+      "id": "ab633d573097",
+      "title": "Data Platform Engineer Principal_999 in Minneapolis, Minnesota, United States, 55416",
+      "company": "Unknown Company",
+      "role": "Platform Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.allianz.com/sg/en/job/106666/Data-Platform-Engineer-Principal-999",
+      "source": "Other",
+      "description": "Data Platform Engineer Principal_999. Description. What you do ... Data Engineer Professional, SnowPro Advanced Architect, Azure Solutions ...",
+      "date": "2026-11-07",
+      "timestamp": "2026-11-07T16:23:40+00:00",
+      "fetched_at": "2026-11-07T23:07:47.912395+00:00"
+    },
+    {
+      "id": "fc78f9a36805",
+      "title": "Data Engineer II Job Details - Boston Scientific Careers",
+      "company": "Boston Scientific Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.bostonscientific.com/job/American-Free-Zone%2C-San-Franci-Data-Engineer-II/1448676300/",
+      "source": "Other",
+      "description": "Data Engineer II. Work mode: Hybrid. Onsite Location(s):. American ... Software Engineer , Technology, Engineering. Apply now \u00bb. Apply now. Apply ...",
+      "date": "2026-11-07",
+      "timestamp": "2026-11-07T16:17:10+00:00",
+      "fetched_at": "2026-11-07T23:07:47.912546+00:00"
+    },
+    {
+      "id": "a38aad0affc6",
+      "title": "Full Stack Engineer @ Infisical - Jobs",
+      "company": "Infisical",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/infisical/a7c8a660-ae2a-467c-91dd-db34cfce29e7",
+      "source": "Ashby",
+      "description": "... Full Stack Engineer to help us build, optimize, and expand the foundation of the platform. We've kept our hiring standards exceptionally high ...",
+      "date": "2026-11-07",
+      "timestamp": "2026-11-07T15:49:10+00:00",
+      "fetched_at": "2026-11-07T23:07:47.696132+00:00"
+    },
+    {
+      "id": "ee98fab70210",
+      "title": "Data Engineer job - Experis USA - 417244",
+      "company": "Experis USA - 417244",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.experis.com/it/job/417244/data-engineer",
+      "source": "Other",
+      "description": "Data Engineer \u00b7 Job Title: Data Operations & Production Support Analyst \u00b7 Monitor campaign execution and ensure processing, quality checks, and delivery ...",
+      "date": "2026-11-07",
+      "timestamp": "2026-11-07T15:41:40+00:00",
+      "fetched_at": "2026-11-07T23:07:47.912727+00:00"
+    },
+    {
+      "id": "4f5efb4d3b9e",
+      "title": "Data Engineer , Deal Intelligence & Automation, AWS GDSP - Job ID - Amazon Careers",
+      "company": "Job ID - Amazon Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.amazon.jobs/en/jobs/10598803/data-engineer-deal-intelligence-automation-aws-gdsp",
+      "source": "Other",
+      "description": "Data Engineer , Deal Intelligence & Automation, AWS GDSP. Job ID ... Software Engineer I. Location: US, Washington, Seattle. Posted: December ...",
+      "date": "2026-11-07",
+      "timestamp": "2026-11-07T15:30:28+00:00",
+      "fetched_at": "2026-11-07T23:07:47.913079+00:00"
+    },
+    {
+      "id": "25382a8c035d",
+      "title": "Senior Data Engineer , Austin, Texas | General Motors Careers",
+      "company": "General Motors Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://search-careers.gm.com/en/jobs/jr-202623589/senior-data-engineer/",
+      "source": "Other",
+      "description": "... Data Engineer to design and operate reliable data platforms while helping build user-facing applications that make data accessible and actionable.\u2026",
+      "date": "2026-11-07",
+      "timestamp": "2026-11-07T15:28:22+00:00",
+      "fetched_at": "2026-11-07T23:07:47.696243+00:00"
+    },
+    {
+      "id": "6af962aa7772",
+      "title": "Analyst, AI/ ML Engineer Job Details - EBRD",
+      "company": "EBRD",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ebrd.com/job/London-Analyst%2C-AIML-Engineer/1455320533/",
+      "source": "Other",
+      "description": "Analyst, AI/ ML Engineer . Apply now \u00bb. Posting Date: 6 Nov 2026. Location: London, GB. Company: EBRD. Requisition ID, 37225. Office Country, United ...",
+      "date": "2026-11-07",
+      "timestamp": "2026-11-07T15:19:58+00:00",
+      "fetched_at": "2026-11-07T23:07:47.696345+00:00"
+    },
+    {
+      "id": "753df6b36def",
+      "title": "Software Engineer at Applied Materials in Hsinchu - 102973936208",
+      "company": "Applied Materials in Hsinchu",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.appliedmaterials.com/job/hsinchu/software-engineer/95/102973936208",
+      "source": "Other",
+      "description": "Software Engineer . Apply. Job ID: R2633214. Date posted: 11/07/2026. Location: Hsinchu, Taiwan. Category: Engineering. Who We Are. Applied Materials ...",
+      "date": "2026-11-07",
+      "timestamp": "2026-11-07T15:10:21+00:00",
+      "fetched_at": "2026-11-07T23:07:47.696439+00:00"
+    },
+    {
+      "id": "73cd28ff0d3a",
+      "title": "Remote Full-Stack Engineer at OpenTrain AI",
+      "company": "OpenTrain AI",
+      "role": "Stack Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://weworkremotely.com/remote-jobs/opentrain-ai-full-stack-engineer",
+      "source": "WeWorkRemotely",
+      "description": "Full-Stack Engineer , Part-Time AI Code Evaluation - Remote (United States). \u2022 $50\u2013$100 per hour equivalent, paid per accepted task \u2022 100% remote",
+      "date": "2026-11-07",
+      "timestamp": "2026-11-07T13:46:03+00:00",
+      "fetched_at": "2026-11-07T23:07:47.696760+00:00"
+    },
+    {
+      "id": "7deb3ca8345a",
+      "title": "Apply for Summer 2027 Software Engineer HR Data Products Internship - T\u2011mobile careers",
+      "company": "T\u2011mobile careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.t-mobile.com/summer-2027-software-engineer-hr-data-products-internship/job/0E6A1B5A2FFE7163DD8D9BDCDEC8033B",
+      "source": "Other",
+      "description": "Summer 2027 Software Engineer HR Data Products Internship ... T-Mobile is synonymous with innovation\u2013and you could be part of the team that disrupted an ...",
+      "date": "2026-11-07",
+      "timestamp": "2026-11-07T12:42:23+00:00",
+      "fetched_at": "2026-11-07T23:07:47.696975+00:00"
+    },
+    {
+      "id": "6a3fc08165cc",
+      "title": "Senior Software Engineer , Mobile (iOS) - Search for your career at Google.",
+      "company": "Google.",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.google.com/jobs/results/78939579372970694-senior-software-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer , Mobile (iOS). share. Share Senior Software Engineer , Mobile (iOS). linkCopy link; emailEmail a friend. corporate_fareGoogle ...",
+      "date": "2026-11-07",
+      "timestamp": "2026-11-07T12:07:11+00:00",
+      "fetched_at": "2026-11-07T23:07:47.697092+00:00"
+    },
+    {
+      "id": "668e0f55c5b1",
+      "title": "Senior Software Engineer - Myworkdayjobs.com",
+      "company": "Thomsonreuters",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Senior-Software-Engineer_JREQ205169",
+      "source": "Workday",
+      "description": "Senior Software Engineer \u00b7 Build AI-Powered Front-End Systems: You'll turn event streams (SSE and AG-UI protocol events) into fast, resilient ...",
+      "date": "2026-11-07",
+      "timestamp": "2026-11-07T11:51:51+00:00",
+      "fetched_at": "2026-11-07T23:07:47.697159+00:00"
+    },
+    {
+      "id": "cc00ee504460",
+      "title": "Job Application for Senior Software Engineer - Full Stack at CoreView - Greenhouse",
+      "company": "Coreview",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/coreview/jobs/4484963009",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer - Full Stack. Italy. Apply. About CoreView. CoreView is the global leader in Microsoft 365 (M365) tenant resilience, serving ...",
+      "date": "2026-11-07",
+      "timestamp": "2026-11-07T11:12:20+00:00",
+      "fetched_at": "2026-11-07T23:07:47.697347+00:00"
+    },
     {
       "id": "e74b6cff0a94",
       "title": "Sr Software Engineer - Playlist",
