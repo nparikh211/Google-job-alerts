@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-11-07T23:07:47.964662+00:00",
-  "total_jobs": 13009,
+  "last_updated": "2026-11-08T02:48:07.719272+00:00",
+  "total_jobs": 13015,
   "stats": {
-    "total_companies": 5734,
-    "total_roles": 167,
+    "total_companies": 5736,
+    "total_roles": 168,
     "regions": {
-      "India": 8533,
-      "Philippines": 2790,
+      "India": 8536,
+      "Philippines": 2793,
       "Remote": 1608,
       "Unknown": 135
     },
     "sources": {
-      "Other": 10170,
+      "Other": 10174,
       "Greenhouse": 663,
-      "LinkedIn": 544,
-      "Workday": 541,
+      "LinkedIn": 545,
+      "Workday": 542,
       "Ashby": 423,
       "iCIMS": 158,
       "Breezy": 133,
@@ -31,10 +31,40 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-11-07"
+      "latest": "2026-11-08"
     }
   },
   "jobs": [
+    {
+      "id": "387798c1011f",
+      "title": "Christoph Lassner | AI Engineer Shanghai 2026",
+      "company": "Christoph Lassner",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ai.engineer/shanghai/2026/speakers/christoph-lassner?lang=en",
+      "source": "Other",
+      "description": "AI Engineer Shanghai \u00b7 ProgramSpeakers EN / \u4e2d\u6587. Tickets. All speakers. AI ... Every AI Engineer conference, in chronological order. October 8-10 ...",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T00:15:52+00:00",
+      "fetched_at": "2026-11-08T02:48:07.589063+00:00"
+    },
+    {
+      "id": "6e4714cd2ee3",
+      "title": "Senior/Staff Backend Engineer , Security | Redo | Draper - jobs",
+      "company": "Redo | Draper - jobs",
+      "role": "Backend Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://redo.hirehive.com/seniorstaff-backend-engineer-security-draper-3vIqKk",
+      "source": "Other",
+      "description": "Senior/Staff Backend Engineer , Security - At Redo , we're not just ... You'll be a software engineer who designs and builds the services ...",
+      "date": "2026-11-07",
+      "timestamp": "2026-11-07T23:45:21+00:00",
+      "fetched_at": "2026-11-08T02:48:07.662145+00:00"
+    },
     {
       "id": "58b52d5ccd01",
       "title": "Software Engineer , Full Stack at Hyperdesk - Y Combinator",
@@ -276,6 +306,21 @@
       "fetched_at": "2026-11-07T23:07:47.912395+00:00"
     },
     {
+      "id": "a921e8ae3a21",
+      "title": "Software Engineer 2 in Bengaluru, Karn\u0101taka, 560048 | Engineering & QA at HPE",
+      "company": "HPE",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.hpe.com/us/en/job/1214507/Software-Engineer-2",
+      "source": "Other",
+      "description": "Apply for Software Engineer 2 job with HPE in Bengaluru, Karn\u0101taka, 560048. Engineering & QA at HPE.",
+      "date": "2026-11-07",
+      "timestamp": "2026-11-07T16:23:17+00:00",
+      "fetched_at": "2026-11-08T02:48:07.663875+00:00"
+    },
+    {
       "id": "fc78f9a36805",
       "title": "Data Engineer II Job Details - Boston Scientific Careers",
       "company": "Boston Scientific Careers",
@@ -289,6 +334,36 @@
       "date": "2026-11-07",
       "timestamp": "2026-11-07T16:17:10+00:00",
       "fetched_at": "2026-11-07T23:07:47.912546+00:00"
+    },
+    {
+      "id": "9f83c2d69b63",
+      "title": "Software Engineer \u2013 Datacenter - Intel - Myworkdayjobs.com",
+      "company": "Intel",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Software-Engineer---Datacenter_JR0288917?locations=1e4a4eb3adf10118b1dfe877bf8162d0",
+      "source": "Workday",
+      "description": "Software Engineer \u2013 Datacenter page is loaded. Software Engineer \u2013 Datacenter. Apply. locations: US, California, Santa Clara. time type: Full time.",
+      "date": "2026-11-07",
+      "timestamp": "2026-11-07T15:59:43+00:00",
+      "fetched_at": "2026-11-08T02:48:07.664148+00:00"
+    },
+    {
+      "id": "9445acd19973",
+      "title": "Full-stack Software Engineer Jobs in Ohio - Jobs | Parsons Corporation",
+      "company": "Full",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://parsons.jobs/locations/ohio/job-titles/full-stack-software-engineer/jobs/?vs=28",
+      "source": "Other",
+      "description": "Full-stack Software Engineer Jobs in Ohio, updated and verified daily by DirectEmployers Association.",
+      "date": "2026-11-07",
+      "timestamp": "2026-11-07T15:53:01+00:00",
+      "fetched_at": "2026-11-08T02:48:07.664282+00:00"
     },
     {
       "id": "a38aad0affc6",
@@ -364,6 +439,21 @@
       "date": "2026-11-07",
       "timestamp": "2026-11-07T15:19:58+00:00",
       "fetched_at": "2026-11-07T23:07:47.696345+00:00"
+    },
+    {
+      "id": "a6a175f48480",
+      "title": "Must include work auth. Details: -Spark, SQL, Python, AWS (REQUIRED) | Robert Hoffner - LinkedIn",
+      "company": "Unknown Company",
+      "role": "Must include work auth. Details: -Spark, SQL, Python, AWS (R",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/robert-hoffner-743696120_sr-aws-data-engineer-10-years-location-activity-7524496761529307136-7qVU",
+      "source": "LinkedIn",
+      "description": "Sr. AWS Data Engineer (10+ years) Location: Malvern PA (Hybrid) C2C is okay Send to Rhoffner@judge.com- Must include work auth.",
+      "date": "2026-11-07",
+      "timestamp": "2026-11-07T15:16:30+00:00",
+      "fetched_at": "2026-11-08T02:48:07.593923+00:00"
     },
     {
       "id": "753df6b36def",
