@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-11-08T10:47:46.726516+00:00",
-  "total_jobs": 13029,
+  "last_updated": "2026-11-08T17:15:57.642453+00:00",
+  "total_jobs": 13052,
   "stats": {
-    "total_companies": 5742,
+    "total_companies": 5757,
     "total_roles": 168,
     "regions": {
-      "India": 8545,
-      "Philippines": 2795,
-      "Remote": 1611,
+      "India": 8557,
+      "Philippines": 2804,
+      "Remote": 1613,
       "Unknown": 135
     },
     "sources": {
-      "Other": 10185,
-      "Greenhouse": 663,
+      "Other": 10203,
+      "Greenhouse": 664,
       "LinkedIn": 547,
       "Workday": 542,
-      "Ashby": 423,
+      "Ashby": 424,
       "iCIMS": 158,
       "Breezy": 133,
       "SmartRecruiters": 92,
+      "Lever": 91,
       "Workable": 91,
-      "Lever": 90,
-      "Indeed": 44,
-      "Recruitee": 15,
+      "Indeed": 45,
+      "Recruitee": 16,
       "WeWorkRemotely": 14,
       "Jobvite": 11,
       "BrassRing": 11,
@@ -35,6 +35,291 @@
     }
   },
   "jobs": [
+    {
+      "id": "9e665da10fa8",
+      "title": "Software Engineer at Confido | Y Combinator",
+      "company": "Confido",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.ycombinator.com/companies/confido/jobs/fm8NtZT-software-engineer",
+      "source": "Other",
+      "description": "Senior Software Engineer , Product \u00b7 Mach9 \u00b7 ML Engineer , Research. Astranis \u00b7 Mechanical Associate Engineer (Winter 2027) \u00b7 Ultra.",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T16:15:07+00:00",
+      "fetched_at": "2026-11-08T17:15:57.367003+00:00"
+    },
+    {
+      "id": "2b72fcdedd24",
+      "title": "Senior Machine Learning Engineer - Atlassian | Built In San Francisco",
+      "company": "Atlassian | Built In San Francisco",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.builtinsf.com/job/senior-machine-learning-engineer/12135617",
+      "source": "Other",
+      "description": "Atlassian is hiring for a Remote Senior Machine Learning Engineer in 94104, San Francisco, CA, USA. Find more details about the job and how to ...",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T15:21:01+00:00",
+      "fetched_at": "2026-11-08T17:15:57.367305+00:00"
+    },
+    {
+      "id": "07fdb3636c9d",
+      "title": "Data Engineer Finance (f/m/d) - Romania - 305257 - Siemens Energy - Careers Marketplace",
+      "company": "Romania - 305257 - Siemens Energy - Careers Marketplace",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.siemens-energy.com/en_US/CareersMarketplace/FolderDetail/Data-Engineer-Finance-f-m-d/305257",
+      "source": "Other",
+      "description": "Data Engineer Finance (f/m/d) at created 13-Oct-2026.",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T14:28:36+00:00",
+      "fetched_at": "2026-11-08T17:15:57.602937+00:00"
+    },
+    {
+      "id": "838d67ee74bc",
+      "title": "Modeling & Simulation Machine Learning Engineer - P&G Careers",
+      "company": "P&G Careers",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.pgcareers.com/in/en/job/R000161635/Modeling-Simulation-Machine-Learning-Engineer",
+      "source": "Other",
+      "description": "Modeling & Simulation Machine Learning Engineer . Apply Now. Back to ... As an M&S + ML Engineer , you will use modern data analysis and ML ...",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T13:01:22+00:00",
+      "fetched_at": "2026-11-08T17:15:57.367476+00:00"
+    },
+    {
+      "id": "ea312726bc9a",
+      "title": "Job Application for Full Stack Engineer , Flight Software at SpaceX - Greenhouse",
+      "company": "Spacex",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/spacex/jobs/8769729002?gh_jid=8769729002",
+      "source": "Greenhouse",
+      "description": "Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. FULL STACK ENGINEER ...",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T12:47:04+00:00",
+      "fetched_at": "2026-11-08T17:15:57.367600+00:00"
+    },
+    {
+      "id": "07f0256da7ee",
+      "title": "AI Engineer l Young Talent Program - Helloprint",
+      "company": "Helloprint",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://helloprint.recruitee.com/o/ai-engineer-young-talent",
+      "source": "Recruitee",
+      "description": "AI Engineer l Young Talent Program. On-site; Technology. Job details. Apply. Job description. The rules of building are being rewritten. Come write ...",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T12:30:48+00:00",
+      "fetched_at": "2026-11-08T17:15:57.603082+00:00"
+    },
+    {
+      "id": "c2817bf9de59",
+      "title": "Senior Software Engineer - Knowledge Graph - Prove | Built In NYC",
+      "company": "Knowledge Graph - Prove | Built In NYC",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.builtinnyc.com/job/senior-software-engineer-knowledge-graph/11725728",
+      "source": "Other",
+      "description": "Prove is hiring for a Senior Software Engineer - Knowledge Graph in New York, NY, USA. Find more details about the job and how to apply at Built ...",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T12:11:37+00:00",
+      "fetched_at": "2026-11-08T17:15:57.367715+00:00"
+    },
+    {
+      "id": "5029c4bd7b66",
+      "title": "Software Engineer - FAIR Data Infrastructure - MBARI",
+      "company": "FAIR Data Infrastructure - MBARI",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.mbari.org/job-opening/software-engineer-fair-data-infrastructure/",
+      "source": "Other",
+      "description": "Software Engineer \u2013 FAIR Data Infrastructure. Founded in 1987 by ... MBARI's engineering department is seeking a Software/ Data Engineer for ...",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T11:41:50+00:00",
+      "fetched_at": "2026-11-08T17:15:57.603190+00:00"
+    },
+    {
+      "id": "8f0fe36803d3",
+      "title": "Senior Software Engineer , MetalDev | New York, NY, USA - eFinancialCareers",
+      "company": "New York, NY, USA - eFinancialCareers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.efinancialcareers.com/jobs-United_States-New_York-Senior_Software_Engineer_MetalDev.id24982142",
+      "source": "Other",
+      "description": "See job details and apply here for this senior software engineer , metaldev job in New York, NY, USA with CoreWeave on eFinancialCareers US.",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T11:34:44+00:00",
+      "fetched_at": "2026-11-08T17:15:57.367841+00:00"
+    },
+    {
+      "id": "3675034bd322",
+      "title": "Senior Full Stack Software Engineer @ Seamless.AI | Purpose Job Board",
+      "company": "Seamless.AI",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.purpose.jobs/discover/companies/seamless-ai-2/jobs/99302820-senior-full-stack-software-engineer",
+      "source": "Other",
+      "description": "Senior Full Stack Software Engineer \u00b7 Seamless is building the future of AI-powered revenue generation. \u00b7 Sales professionals use our platform to ...",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T10:47:29+00:00",
+      "fetched_at": "2026-11-08T17:15:57.367939+00:00"
+    },
+    {
+      "id": "0eec011a0929",
+      "title": "Data Engineer - Sutherland Global",
+      "company": "Sutherland Global",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.sutherlandglobal.com/job-details/data-engineer-in-healthcare-jobs-1790195",
+      "source": "Other",
+      "description": "Job Description: The BIA Data Engineer Designs, implements, and maintains complex data engineering solutions in the Business Intelligence and ...",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T10:45:54+00:00",
+      "fetched_at": "2026-11-08T17:15:57.603368+00:00"
+    },
+    {
+      "id": "8a30d928608f",
+      "title": "Email Security and Site Reliability Engineer in TAGUIG CITY, Philippines - P&G Careers",
+      "company": "P&G Careers",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.pgcareers.com/de/en/job/R000159863/Email-Security-and-Site-Reliability-Engineer",
+      "source": "Other",
+      "description": "Site Reliability Engineer . Location Taguig City, National Capital Region ... Senior Frontend Engineer (React) - Technical Lead (Consumer Pulse).",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T10:35:38+00:00",
+      "fetched_at": "2026-11-08T17:15:57.603455+00:00"
+    },
+    {
+      "id": "ab2797d41c30",
+      "title": "Senior Software Engineer job with Abbott | 85390078 - SWE Career Center",
+      "company": "85390078 - SWE Career Center",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.swe.org/job/85390078/senior-software-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer in Hybrid, Biotechnology & Pharmaceuticals ... DevOps Engineer - Agents. Apple Inc. logo. Austin, Texas; Commensurate ...",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T09:48:16+00:00",
+      "fetched_at": "2026-11-08T17:15:57.368021+00:00"
+    },
+    {
+      "id": "ce485d2a524f",
+      "title": "AI Platform Engineer job with Abbott | 85390061 - SWE Career Center",
+      "company": "85390061 - SWE Career Center",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.swe.org/job/85390061/ai-platform-engineer/",
+      "source": "Other",
+      "description": "AI Platform Engineer in Hybrid, Biotechnology & Pharmaceuticals, Software Engineering, Infrastructure / Cloud / DevOps with Abbott. Apply Today.",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T09:48:16+00:00",
+      "fetched_at": "2026-11-08T17:15:57.368094+00:00"
+    },
+    {
+      "id": "2532cce8a09f",
+      "title": "Software Engineer - Atlassian | Built In Seattle",
+      "company": "Atlassian | Built In Seattle",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.builtinseattle.com/job/software-engineer/12135622",
+      "source": "Other",
+      "description": "Atlassian Bellevue, Washington, USA Office \u00b7 Similar Jobs at Atlassian \u00b7 Software Engineer \u00b7 Software Engineer \u00b7 Senior Software Engineer \u00b7 Sign up now ...",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T08:33:51+00:00",
+      "fetched_at": "2026-11-08T17:15:57.368170+00:00"
+    },
+    {
+      "id": "3ec5aff991a6",
+      "title": "Zoox - Senior Software Engineer , Vehicle Deployment - Lever",
+      "company": "Zoox",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.lever.co/zoox/6d975a67-c0ec-4eb5-99b5-5ba4a455e5bd",
+      "source": "Lever",
+      "description": "Senior Software Engineer , Vehicle Deployment. Foster City, CA. Software \u2013 Software Systems /. Full-time /. Hybrid. Apply for this job. Zoox's Robot ...",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T07:50:03+00:00",
+      "fetched_at": "2026-11-08T17:15:57.603508+00:00"
+    },
+    {
+      "id": "c8807fbf8ffd",
+      "title": "Senior Applied AI Engineer job - Experis USA - 410554",
+      "company": "Experis USA - 410554",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.experis.com/it/job/410554/senior-applied-ai-engineer-",
+      "source": "Other",
+      "description": "Our client, AI and automation focused organization is seeking a Senior Applied AI Engineer to join their team. The ideal candidate will have ...",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T07:38:07+00:00",
+      "fetched_at": "2026-11-08T17:15:57.368243+00:00"
+    },
+    {
+      "id": "f7d067341307",
+      "title": "Senior Software Engineer - Platform Services | Chicago, IL, USA - eFinancialCareers",
+      "company": "Platform Services | Chicago, IL, USA - eFinancialCareers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.efinancialcareers.com/jobs-United_States-Chicago-Senior_Software_Engineer_-_Platform_Services.id24981954",
+      "source": "Other",
+      "description": "Senior Software Engineer , you will define, develop, and own services ... Senior Data Engineer , Unified Platform. DRW. Chicago, United States.",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T07:32:17+00:00",
+      "fetched_at": "2026-11-08T17:15:57.368392+00:00"
+    },
+    {
+      "id": "b26eb5c11119",
+      "title": "Software Engineer III - Pearson",
+      "company": "Pearson",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://pearson.jobs/columbus-oh/software-engineer-iii/FFAC4E093B8F40D5BF6262BD8C1C6273/job/?vs=2407&utm_source=HBCUconnect.com-DE&utm_medium=Job%20Board&utm_campaign=HBCUconnect.com",
+      "source": "Other",
+      "description": "Software Engineer III. Columbus, OH. Workplace Type: Remote. Job: Engineering; Schedule: FULL_TIME; Req ID: 26471. Position Summary. The Delivery ...",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T07:27:01+00:00",
+      "fetched_at": "2026-11-08T17:15:57.368645+00:00"
+    },
     {
       "id": "15e7c922cc74",
       "title": "Senior AI/ML Software Engineer in Bangalore, India | Advanced Micro Devices, Inc",
@@ -51,6 +336,21 @@
       "fetched_at": "2026-11-08T10:47:46.599887+00:00"
     },
     {
+      "id": "208bcbec8d37",
+      "title": "Data Engineer - Plano, TX - Indeed.com",
+      "company": "Plano, TX - Indeed.com",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.indeed.com/m/viewjob?jk=ae185fd85a1277f1&from=serp&tk=1k6qdh8fuj1db801&xkcb=SoD367M2caTKyOS01x0dbzkdCdPP",
+      "source": "Indeed",
+      "description": "Apply for the Data Engineer job in Plano, TX! Learn more about the job description, salary, and job details to see if you qualify on Indeed today.",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T06:38:04+00:00",
+      "fetched_at": "2026-11-08T17:15:57.603888+00:00"
+    },
+    {
       "id": "5826074e86c8",
       "title": "Senior Software Engineer , AI Data (US) | OpenTrain AI",
       "company": "OpenTrain AI",
@@ -64,6 +364,21 @@
       "date": "2026-11-08",
       "timestamp": "2026-11-08T05:50:00+00:00",
       "fetched_at": "2026-11-08T10:47:46.600137+00:00"
+    },
+    {
+      "id": "37210f0885e0",
+      "title": "Software Engineer , AI (Early Career) @ Ande - Jobs",
+      "company": "Ande",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/ande/8ff8145e-8040-4a7a-a90c-cc1fdc36deb1",
+      "source": "Ashby",
+      "description": "Software Engineer , AI (Early Career). Location. New York City. Employment Type. Full time. Location Type. On-site. Department. Engineering. Overview ...",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T05:27:40+00:00",
+      "fetched_at": "2026-11-08T17:15:57.603937+00:00"
     },
     {
       "id": "d3fde20644a8",
@@ -96,6 +411,21 @@
       "fetched_at": "2026-11-08T10:47:46.600569+00:00"
     },
     {
+      "id": "f59743ca8808",
+      "title": "Software Engineer \u2013 Java Full Stack, ReactJS & Networking from 4+ Years - Cisco Careers",
+      "company": "Cisco Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2029299EXTERNALENGLOBAL/Software-Engineer-Java-Full-Stack-ReactJS-Networking-from-4-Years",
+      "source": "Other",
+      "description": "Senior Software Engineer \u2013 Java Full Stack, ReactJS & Networking from 8 ... Seeking a Senior Full Stack Engineer to design and build user ...",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T03:14:05+00:00",
+      "fetched_at": "2026-11-08T17:15:57.604275+00:00"
+    },
+    {
       "id": "c430807736e0",
       "title": "AI Engineer Remote / Telecommute Jobs - ClearanceJobs",
       "company": "ClearanceJobs",
@@ -109,6 +439,21 @@
       "date": "2026-11-08",
       "timestamp": "2026-11-08T03:08:04+00:00",
       "fetched_at": "2026-11-08T10:47:46.600709+00:00"
+    },
+    {
+      "id": "0a1cc78dd144",
+      "title": "Full Stack Software Engineer - TS/SCI - Jobs | Parsons Corporation",
+      "company": "TS/SCI - Jobs | Parsons Corporation",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://parsons.jobs/herndon-va/full-stack-software-engineer-tssci/932DFD82A9FB4A76A47F463752C5E376/job/",
+      "source": "Other",
+      "description": "Full Stack Software Engineer - TS/SCIHerndon, VA Posted 30 days ago. Apply Now. In a world of possibilities, pursue one with endless opportunities ...",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T02:52:37+00:00",
+      "fetched_at": "2026-11-08T17:15:57.604463+00:00"
     },
     {
       "id": "93ac131fb3e5",
