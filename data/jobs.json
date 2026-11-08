@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-11-08T02:48:07.719272+00:00",
-  "total_jobs": 13015,
+  "last_updated": "2026-11-08T10:47:46.726516+00:00",
+  "total_jobs": 13029,
   "stats": {
-    "total_companies": 5736,
+    "total_companies": 5742,
     "total_roles": 168,
     "regions": {
-      "India": 8536,
-      "Philippines": 2793,
-      "Remote": 1608,
+      "India": 8545,
+      "Philippines": 2795,
+      "Remote": 1611,
       "Unknown": 135
     },
     "sources": {
-      "Other": 10174,
+      "Other": 10185,
       "Greenhouse": 663,
-      "LinkedIn": 545,
+      "LinkedIn": 547,
       "Workday": 542,
       "Ashby": 423,
       "iCIMS": 158,
@@ -21,7 +21,7 @@
       "SmartRecruiters": 92,
       "Workable": 91,
       "Lever": 90,
-      "Indeed": 43,
+      "Indeed": 44,
       "Recruitee": 15,
       "WeWorkRemotely": 14,
       "Jobvite": 11,
@@ -36,6 +36,171 @@
   },
   "jobs": [
     {
+      "id": "15e7c922cc74",
+      "title": "Senior AI/ML Software Engineer in Bangalore, India | Advanced Micro Devices, Inc",
+      "company": "Advanced Micro Devices, Inc",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.amd.com/careers-home/jobs/96155?lang=en-us",
+      "source": "Other",
+      "description": "AMD is hiring a Senior AI/ML Software Engineer in Bangalore, India. Review all of the job details and apply today!",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T07:04:41+00:00",
+      "fetched_at": "2026-11-08T10:47:46.599887+00:00"
+    },
+    {
+      "id": "5826074e86c8",
+      "title": "Senior Software Engineer , AI Data (US) | OpenTrain AI",
+      "company": "OpenTrain AI",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.opentrain.ai/jobs/senior-software-engineer-ai-data-us--cmw6v6y1x000p08l5kosqiys0/",
+      "source": "Other",
+      "description": "Senior Software Engineer , AI Data. Evaluate coding agents on real software tasks, run and review their code, and explain defects.",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T05:50:00+00:00",
+      "fetched_at": "2026-11-08T10:47:46.600137+00:00"
+    },
+    {
+      "id": "d3fde20644a8",
+      "title": "AI Engineer - Piper Companies",
+      "company": "Piper Companies",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.pipercompanies.com/details/4092/ai_engineer",
+      "source": "Other",
+      "description": "AI Engineer . Washington, D.C.. Apply Now. Back To Search. Job Attributes ... Software Engineer , AI Solutions Architect, Applied AI Engineer , AI ...",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T04:38:43+00:00",
+      "fetched_at": "2026-11-08T10:47:46.600287+00:00"
+    },
+    {
+      "id": "076e1ee0a734",
+      "title": "Job opportunity: Devops Engineer - Gloat",
+      "company": "Gloat",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://gloat.com/careers-at-gloat/co/israel/4F.276/devops-engineer/all",
+      "source": "Other",
+      "description": "Devops Engineer . Israel \u00b7 Full-time \u00b7 Intermediate. About The Position. Gloat is the AI-native system of action for workforce orchestration. Our ...",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T03:54:09+00:00",
+      "fetched_at": "2026-11-08T10:47:46.600569+00:00"
+    },
+    {
+      "id": "c430807736e0",
+      "title": "AI Engineer Remote / Telecommute Jobs - ClearanceJobs",
+      "company": "ClearanceJobs",
+      "role": "AI Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.clearancejobs.com/jobs/9299507/ai-engineer",
+      "source": "Other",
+      "description": "AI Engineer requiring an active security clearance. Find other Zachary ... Software Engineer , AI Solutions Architect, Applied AI Engineer , AI ...",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T03:08:04+00:00",
+      "fetched_at": "2026-11-08T10:47:46.600709+00:00"
+    },
+    {
+      "id": "93ac131fb3e5",
+      "title": "Senior Software Engineer (Remote) at Joblet-AI \u2014 United Arab Emirates | LinkedIn Jobs",
+      "company": "Joblet",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.linkedin.com/jobs/view/senior-software-engineer-remote-at-joblet-ai-4487642118?_l=en",
+      "source": "LinkedIn",
+      "description": "Apply for Senior Software Engineer (Remote) at Joblet-AI in United Arab Emirates ... Fullstack Engineer - AgenticOps (100% Remote). Tether.io.",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T02:49:31+00:00",
+      "fetched_at": "2026-11-08T10:47:46.600946+00:00"
+    },
+    {
+      "id": "22e78dba66cd",
+      "title": "Backend Engineer , Internationalisation - Stripe Careers",
+      "company": "Stripe Careers",
+      "role": "Backend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://stripe.com/careers/listing/backend-engineer-internationalisation/8353516",
+      "source": "Other",
+      "description": "Backend Engineer , Internationalisation. Who we are. About Stripe. Stripe is a financial infrastructure platform for businesses. Millions of companies ...",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T01:56:01+00:00",
+      "fetched_at": "2026-11-08T10:47:46.601122+00:00"
+    },
+    {
+      "id": "4f18060940d0",
+      "title": "Software Engineer on Hybrid Cloud DataStore (2+ years of experience) - Nutanix Careers",
+      "company": "Nutanix Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.nutanix.com/en/jobs/33020/software-engineer-on-hybrid-cloud-datastore-2plus-years-of-experience/",
+      "source": "Other",
+      "description": "Software Engineer on Hybrid Cloud DataStore (2+ years of experience) ... We are looking for Software Engineers to expand our Nutanix Files team in ...",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T01:47:56+00:00",
+      "fetched_at": "2026-11-08T10:47:46.601378+00:00"
+    },
+    {
+      "id": "496c9eb53414",
+      "title": "Principal, Software Engineer - Walmart Data Ventures | Kelsi Lee - LinkedIn",
+      "company": "Walmart Data Ventures | Kelsi Lee - LinkedIn",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/posts/kelsi-lee_now-hiring-exciting-opportunity-for-a-principal-activity-7524567947751768064-Oa1n",
+      "source": "LinkedIn",
+      "description": "NOW HIRING!! Exciting opportunity for a Principal Software Engineer in Bellevue. Join karthik cherukuri and the Walmart Data Ventures Team Walmart ...",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T01:47:01+00:00",
+      "fetched_at": "2026-11-08T10:47:46.664664+00:00"
+    },
+    {
+      "id": "cf90028d77fc",
+      "title": "Data Platform Engineer Principal_999 in Minneapolis, Minnesota, United States, 55416",
+      "company": "Unknown Company",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.allianz.com/us/en/job/106666/Data-Platform-Engineer-Principal-999",
+      "source": "Other",
+      "description": "Data Platform Engineer Principal_999 ... Advanced certifications: Databricks Certified Data Engineer Professional, SnowPro Advanced Architect, Azure ...",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T01:05:43+00:00",
+      "fetched_at": "2026-11-08T10:47:46.601543+00:00"
+    },
+    {
+      "id": "ccc67f54b220",
+      "title": "Intermediate Software Engineer - AppDirect",
+      "company": "AppDirect",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.appdirect.com/careers/single-job.html?job_id=8795466002",
+      "source": "Other",
+      "description": "Intermediate Software Engineer \u00b7 About AppDirect. Become a digital, global citizen and enable the new generation of digital entrepreneurs around the ...",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T00:44:28+00:00",
+      "fetched_at": "2026-11-08T10:47:46.601686+00:00"
+    },
+    {
       "id": "387798c1011f",
       "title": "Christoph Lassner | AI Engineer Shanghai 2026",
       "company": "Christoph Lassner",
@@ -49,6 +214,21 @@
       "date": "2026-11-08",
       "timestamp": "2026-11-08T00:15:52+00:00",
       "fetched_at": "2026-11-08T02:48:07.589063+00:00"
+    },
+    {
+      "id": "15897bbbf234",
+      "title": "Sr. Backend Engineer - Holistiplan",
+      "company": "Holistiplan",
+      "role": "Backend Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.holistiplan.com/job/sr-backend-engineer/",
+      "source": "Other",
+      "description": "Backend Engineer . Posted 1 day ago. Location : This is a fully remote employee position based in the United States. Who We Are. Holistiplan offers ...",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T00:01:22+00:00",
+      "fetched_at": "2026-11-08T10:47:46.601994+00:00"
     },
     {
       "id": "6e4714cd2ee3",
@@ -79,6 +259,21 @@
       "date": "2026-11-07",
       "timestamp": "2026-11-07T22:59:01+00:00",
       "fetched_at": "2026-11-07T23:07:47.911082+00:00"
+    },
+    {
+      "id": "99050a3da0fe",
+      "title": "Software Engineer , Adaptive Optics Instrument (Steward Observatory) (Multiple Positions)",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.higheredjobs.com/state/details.cfm?JobCode=179610918&Title=Software%20Engineer%2C%20Adaptive%20Optics%20Instrument%20%28Steward%20Observatory%29%20%28Multiple%20Positions%29",
+      "source": "Other",
+      "description": "The University of Arizona's Steward Observatory invites you to apply to the role of Software Engineer , Adaptive Optics Instrument. The Center for ...",
+      "date": "2026-11-07",
+      "timestamp": "2026-11-07T22:24:23+00:00",
+      "fetched_at": "2026-11-08T10:47:46.602565+00:00"
     },
     {
       "id": "60f58c028b62",
@@ -169,6 +364,21 @@
       "date": "2026-11-07",
       "timestamp": "2026-11-07T19:16:11+00:00",
       "fetched_at": "2026-11-07T23:07:47.695243+00:00"
+    },
+    {
+      "id": "fa63dcef9ca2",
+      "title": "Software Engineer at Presidential Bank Mortgage | Indeed.com",
+      "company": "Presidential Bank Mortgage",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.indeed.com/cmp/Presidential-Bank-Mortgage/job-titles/Software-Engineer",
+      "source": "Indeed",
+      "description": "Learn about Software Engineer careers at Presidential Bank Mortgage. See jobs, salaries, employee reviews and more for Software Engineer careers ...",
+      "date": "2026-11-07",
+      "timestamp": "2026-11-07T19:03:42+00:00",
+      "fetched_at": "2026-11-08T10:47:46.666644+00:00"
     },
     {
       "id": "17ae0861ce66",
