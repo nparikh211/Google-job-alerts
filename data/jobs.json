@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-11-08T23:13:07.678381+00:00",
-  "total_jobs": 13069,
+  "last_updated": "2026-11-09T03:06:13.617107+00:00",
+  "total_jobs": 13079,
   "stats": {
-    "total_companies": 5764,
+    "total_companies": 5767,
     "total_roles": 169,
     "regions": {
-      "India": 8568,
-      "Philippines": 2808,
-      "Remote": 1615,
+      "India": 8574,
+      "Philippines": 2811,
+      "Remote": 1616,
       "Unknown": 135
     },
     "sources": {
-      "Other": 10216,
+      "Other": 10226,
       "Greenhouse": 665,
       "LinkedIn": 548,
       "Workday": 543,
@@ -31,10 +31,115 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-11-08"
+      "latest": "2026-11-09"
     }
   },
   "jobs": [
+    {
+      "id": "74545101acfb",
+      "title": "Senior AI or ML Engineer at UnitedHealth Group",
+      "company": "UnitedHealth Group",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.unitedhealthgroup.com/job/hyderabad/senior-ai-or-ml-engineer/34088/103051748448",
+      "source": "Other",
+      "description": "As a Sr AI/ ML Engineer , you will design, build, and deploy innovative artificial intelligence and machine learning solutions that transform pharmacy ...",
+      "date": "2026-11-09",
+      "timestamp": "2026-11-09T00:36:24+00:00",
+      "fetched_at": "2026-11-09T03:06:13.368330+00:00"
+    },
+    {
+      "id": "8e8b84dccc74",
+      "title": "Backend Engineer at CHEQ - Comeet",
+      "company": "CHEQ",
+      "role": "Backend Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.comeet.com/jobs/cheq/65.005/backend-engineer/04.47E",
+      "source": "Other",
+      "description": "Backend Engineer . R&D; Tel Aviv. Description. CHEQ is the Intelligence Standard for the Human-AI Era, trusted by over 15,000 customers worldwide to ...",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T23:48:55+00:00",
+      "fetched_at": "2026-11-09T03:06:13.578889+00:00"
+    },
+    {
+      "id": "72b77f8b80c1",
+      "title": "How I Prepare for Senior Software Engineer Coding Interviews: 7 Problems I Practice",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://medium.com/engineering-playbook/how-i-prepare-for-senior-software-engineer-coding-interviews-7-problems-i-practice-6ed4b18f4494",
+      "source": "Other",
+      "description": "How I Prepare for Senior Software Engineer Coding Interviews: 7 Problems I Practice If I had a Senior Java or Backend Engineer coding interview ...",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T23:30:48+00:00",
+      "fetched_at": "2026-11-09T03:06:13.579080+00:00"
+    },
+    {
+      "id": "086c71d026b1",
+      "title": "[0 YoE, Graduate Student, New Grad Software Engineer , US] : r/resumes - Reddit",
+      "company": "Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.reddit.com/r/resumes/comments/1xr6dxa/0_yoe_graduate_student_new_grad_software_engineer/",
+      "source": "Other",
+      "description": "[3 YoE, Software Engineer , Senior Software engineer , New york] \u00b7 r ... [ 6years, Senior Data Engineer , Senior Data Engineer , USA] \u00b7 r/resumes ...",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T23:16:01+00:00",
+      "fetched_at": "2026-11-09T03:06:13.579194+00:00"
+    },
+    {
+      "id": "e29251485125",
+      "title": "Senior Software Engineer II at UnitedHealth Group",
+      "company": "UnitedHealth Group",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.unitedhealthgroup.com/job/gurgaon/senior-software-engineer-ii/34088/103048155664",
+      "source": "Other",
+      "description": "Senior Software Engineer II. Requisition number: 2390859 Job category: Technology Primary location: Gurgaon, India Date posted: 11/08/ ...",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T22:37:50+00:00",
+      "fetched_at": "2026-11-09T03:06:13.368567+00:00"
+    },
+    {
+      "id": "c5c4b5fd7837",
+      "title": "Machine Learning System Software Engineer - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200693933-3956/machine-learning-system-software-engineer?team=HRDWR",
+      "source": "Other",
+      "description": "As a Machine Learning System Software Engineer on the Apple Neural Engine (ANE) team, you'll work to bring high-performance, low-power AI solutions to ...",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T22:35:11+00:00",
+      "fetched_at": "2026-11-09T03:06:13.369145+00:00"
+    },
+    {
+      "id": "1842384eff6d",
+      "title": "Backend Software Engineer \u2014 Careers - OllyGarden",
+      "company": "OllyGarden",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://ollygarden.com/careers/backend-software-engineer",
+      "source": "Other",
+      "description": "Backend Software Engineer . OllyGarden Insights analyzes our customers' OpenTelemetry\u00ae data, finds telemetry problems, and scores every service. The ...",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T22:27:33+00:00",
+      "fetched_at": "2026-11-09T03:06:13.579451+00:00"
+    },
     {
       "id": "07b03363fea6",
       "title": "Senior Software Engineer | Apply on Job - Micro1",
@@ -49,6 +154,21 @@
       "date": "2026-11-08",
       "timestamp": "2026-11-08T21:29:38+00:00",
       "fetched_at": "2026-11-08T23:13:07.464428+00:00"
+    },
+    {
+      "id": "7a02a9e80f67",
+      "title": "Senior Full Stack Engineer \u2013 Ruby on Rails, React.js & Python - Cisco Careers",
+      "company": "Cisco Careers",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cisco.com/ca/fr/job/CISCISGLOBAL2029225EXTERNALFRCA/Senior-Full-Stack-Engineer-Ruby-on-Rails-React-js-Python",
+      "source": "Other",
+      "description": "Software Engineer \u2013 Full Stack, Ruby on Rails/Python/React.js | 4-8 ... Senior Cloud Platform Engineer \u2013 Python, Kubernetes, Terraform.",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T20:14:47+00:00",
+      "fetched_at": "2026-11-09T03:06:13.370254+00:00"
     },
     {
       "id": "7a75c35c66ce",
@@ -199,6 +319,36 @@
       "date": "2026-11-08",
       "timestamp": "2026-11-08T16:27:31+00:00",
       "fetched_at": "2026-11-08T23:13:07.466308+00:00"
+    },
+    {
+      "id": "e6258a6d17e6",
+      "title": "Senior Software Engineer (Backend) \u2014 Pay - Phorest",
+      "company": "Phorest",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.phorest.com/jobs/8637470-senior-software-engineer-backend-pay",
+      "source": "Other",
+      "description": "You're a senior backend engineer who enjoys solving complex problems and turning them into dependable systems. ... Senior Software Engineer (Backend) \u2014 ...",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T16:24:39+00:00",
+      "fetched_at": "2026-11-09T03:06:13.372650+00:00"
+    },
+    {
+      "id": "cff58b96a0e0",
+      "title": "Senior Software Engineer , Cluster Management \u2014 Google Careers",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/85131496284660422-senior-software-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer , Cluster Management. share. Share Senior Software Engineer , Cluster Management. linkCopy link; emailEmail a friend.",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T16:18:43+00:00",
+      "fetched_at": "2026-11-09T03:06:13.373051+00:00"
     },
     {
       "id": "9e665da10fa8",
