@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-11-10T15:50:26.351619+00:00",
-  "total_jobs": 13163,
+  "last_updated": "2026-11-10T21:28:49.132170+00:00",
+  "total_jobs": 13188,
   "stats": {
-    "total_companies": 5796,
+    "total_companies": 5804,
     "total_roles": 170,
     "regions": {
-      "India": 8615,
-      "Philippines": 2842,
+      "India": 8632,
+      "Philippines": 2850,
       "Remote": 1629,
       "Unknown": 135
     },
     "sources": {
-      "Other": 10294,
-      "Greenhouse": 668,
+      "Other": 10311,
+      "Greenhouse": 669,
       "LinkedIn": 551,
-      "Workday": 544,
-      "Ashby": 429,
+      "Workday": 548,
+      "Ashby": 430,
       "iCIMS": 159,
       "Breezy": 133,
+      "Workable": 94,
       "SmartRecruiters": 93,
-      "Workable": 92,
       "Lever": 92,
       "Indeed": 45,
       "Recruitee": 17,
@@ -35,6 +35,366 @@
     }
   },
   "jobs": [
+    {
+      "id": "527b5d664da4",
+      "title": "Job Application for Full Stack Engineer at Scopely - Greenhouse",
+      "company": "Scopely",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/scopely/jobs/5476480008?gh_jid=5476480008",
+      "source": "Greenhouse",
+      "description": "Full Stack Engineer . US - United States. APPLY ... Two (2) years of experience as a Software Engineer , Computer Engineer, or related occupation.",
+      "date": "2026-11-10",
+      "timestamp": "2026-11-10T20:11:37+00:00",
+      "fetched_at": "2026-11-10T21:28:48.842438+00:00"
+    },
+    {
+      "id": "d9b96bcc287f",
+      "title": "Software Engineer , Marketing @ Kalshi - Jobs",
+      "company": "Kalshi",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/kalshi/49734bb7-ca1f-40fe-a5cf-27ccb8f70c6e",
+      "source": "Ashby",
+      "description": "... Software Engineer to help Kalshi's Growth team move faster. You'll build tools, automate workflows, ship experiments, and solve the technical ...",
+      "date": "2026-11-10",
+      "timestamp": "2026-11-10T19:51:40+00:00",
+      "fetched_at": "2026-11-10T21:28:49.083566+00:00"
+    },
+    {
+      "id": "52a658f335c8",
+      "title": "Senior Data Engineer - MongoDB and PostgreSQL in Work at Home, New York, United States",
+      "company": "Home, New York, United States",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.cvshealth.com/us/en/job/R1045908/Senior-Data-Engineer-MongoDB-and-PostgreSQL",
+      "source": "Other",
+      "description": "Apply for Senior Data Engineer - MongoDB and PostgreSQL job with CVS Health in Work at Home, New York, United States. Innovation and Technology at ...",
+      "date": "2026-11-10",
+      "timestamp": "2026-11-10T19:16:14+00:00",
+      "fetched_at": "2026-11-10T21:28:48.843059+00:00"
+    },
+    {
+      "id": "7dbc672c93d7",
+      "title": "2027 Summer Intern - Machine Learning Engineer , Embodied AI - General Motors Careers",
+      "company": "2027 Summer Intern",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://search-careers.gm.com/en/jobs/jr-202624034/2027-summer-intern-machine-learning-engineer-embodied-ai/",
+      "source": "Other",
+      "description": "2027 Summer Intern - Machine Learning Engineer , Embodied AI ... 2027 Summer Intern, AI/ ML Engineer , Mapping (Masters). Who we are. Two GM ...",
+      "date": "2026-11-10",
+      "timestamp": "2026-11-10T19:04:44+00:00",
+      "fetched_at": "2026-11-10T21:28:48.843373+00:00"
+    },
+    {
+      "id": "9818718b6187",
+      "title": "Senior Software Engineer (AI & Automation) - GDIT",
+      "company": "GDIT",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.gdit.com/careers/job/970b4b7cf/senior-software-engineer-ai-automation/",
+      "source": "Other",
+      "description": "Job Description. Transform technology into opportunity as a Senior Software Engineer (AI & Automation) at GDIT. Shape what's next for mission-critical ...",
+      "date": "2026-11-10",
+      "timestamp": "2026-11-10T18:47:49+00:00",
+      "fetched_at": "2026-11-10T21:28:48.843743+00:00"
+    },
+    {
+      "id": "af05eb5489a6",
+      "title": "Software Engineer I/II - Multi Media LLC - Workable Jobs",
+      "company": "Multimediallc",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://apply.workable.com/multimediallc/j/24DBCDDF27/",
+      "source": "Workable",
+      "description": "We value curiosity, ownership, collaboration, and continuous improvement. The Role. We are looking for a frontend-leaning Software Engineer I/II to ...",
+      "date": "2026-11-10",
+      "timestamp": "2026-11-10T18:36:56+00:00",
+      "fetched_at": "2026-11-10T21:28:48.843964+00:00"
+    },
+    {
+      "id": "4e8bfa97306d",
+      "title": "Lead Data Engineer PennDnA- People in Philadelphia, Pennsylvania, United States",
+      "company": "People in Philadelphia, Pennsylvania, United States",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.pennmedicine.org/jobs/18463238-lead-data-engineer-penndna-people",
+      "source": "Other",
+      "description": "Lead Data Engineer PennDnA- People. Job ID: 348536. Category: Information Services/Technology/Service Desk/Telecom Work Type: FT Location ...",
+      "date": "2026-11-10",
+      "timestamp": "2026-11-10T18:35:52+00:00",
+      "fetched_at": "2026-11-10T21:28:48.844105+00:00"
+    },
+    {
+      "id": "165c89013454",
+      "title": "Software Engineer - Odaia Intelligence Inc. - Career Page",
+      "company": "Odaia Intelligence Inc. - Career Page",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://odaiaintelligenceinc.applytojob.com/apply/jpez9ZD6Kv/Software-Engineer",
+      "source": "Other",
+      "description": "Software Engineer at ODAIA. Build the ML pipelines and cloud infrastructure behind AI-driven pharma commercial intelligence. Apply now.",
+      "date": "2026-11-10",
+      "timestamp": "2026-11-10T18:29:08+00:00",
+      "fetched_at": "2026-11-10T21:28:48.844240+00:00"
+    },
+    {
+      "id": "d21af83c6f61",
+      "title": "Senior Full Stack Engineer | Mitchell Martin",
+      "company": "Mitchell Martin",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.mitchellmartin.com/blog/job/senior-full-stack-engineer",
+      "source": "Other",
+      "description": "Senior Full Stack Engineer - Ontario, Canada - Contract - $37-47 per HR Description We are looking for a Senior Full Stack Engineer to work on a ...",
+      "date": "2026-11-10",
+      "timestamp": "2026-11-10T18:06:59+00:00",
+      "fetched_at": "2026-11-10T21:28:48.844416+00:00"
+    },
+    {
+      "id": "d06f93cf9513",
+      "title": "Software Engineer I in Austin, Texas | Planview Incorporated",
+      "company": "Planview Incorporated",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.planview.com/careers-home/jobs/5149?lang=en-us",
+      "source": "Other",
+      "description": "Careers Home is hiring a Software Engineer I in Austin, Texas. Review all of the job details and apply today!",
+      "date": "2026-11-10",
+      "timestamp": "2026-11-10T18:00:23+00:00",
+      "fetched_at": "2026-11-10T21:28:48.844519+00:00"
+    },
+    {
+      "id": "a792d492a79d",
+      "title": "Job Opening - AI Data Engineer (Python & Azure) - Redmond, WA | Randstad USA",
+      "company": "Job Opening",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.randstadusa.com/jobs/4/1368035/ai-data-engineer-python-azure_redmond/",
+      "source": "Other",
+      "description": "Explore and apply for AI Data Engineer (Python & Azure) jobs in Redmond, Washington with Randstad. Find the perfect job for you today!",
+      "date": "2026-11-10",
+      "timestamp": "2026-11-10T17:59:30+00:00",
+      "fetched_at": "2026-11-10T21:28:48.844633+00:00"
+    },
+    {
+      "id": "d230bc417c40",
+      "title": "[16 YOE] Senior Software Engineer , I can't find work for over a year now. Please help",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/EngineeringResumes/comments/1xsblzr/16_yoe_senior_software_engineer_i_cant_find_work/",
+      "source": "Other",
+      "description": "[8 YoE] Senior Software Engineer (USA) - Recently Laid Off, Not Getting Interviews ... [13 YOE] Senior Frontend Engineer struggling to get ...",
+      "date": "2026-11-10",
+      "timestamp": "2026-11-10T17:58:10+00:00",
+      "fetched_at": "2026-11-10T21:28:48.844785+00:00"
+    },
+    {
+      "id": "d9e717a29e9d",
+      "title": "Agentic AI Engineer \u2013 Workflow Orchestration & Prompt Engineer job - Experis USA",
+      "company": "Experis USA",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.experis.com/en/job/417682/agentic-ai-engineer-workflow-orchestration-prompt-engineer",
+      "source": "Other",
+      "description": "Agentic AI Engineer \u2013 Workflow Orchestration & Prompt Engineer \u00b7 Reference Number: 417682 \u00b7 Posted: 11/09/2026 \u00b7 Job Type: Contract \u00b7 Industry: Management.",
+      "date": "2026-11-10",
+      "timestamp": "2026-11-10T17:53:46+00:00",
+      "fetched_at": "2026-11-10T21:28:48.844957+00:00"
+    },
+    {
+      "id": "9f9706c105fd",
+      "title": "Senior Software Engineer - Full Stack - Worth AI - Application - Workable Jobs",
+      "company": "Worthai",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://apply.workable.com/worthai/j/01D4F173E6/apply/",
+      "source": "Workable",
+      "description": "Worth is looking for a Senior Software Engineer to join our ... How many years experience do you have as a Senior Full Stack Engineer within ...",
+      "date": "2026-11-10",
+      "timestamp": "2026-11-10T17:51:25+00:00",
+      "fetched_at": "2026-11-10T21:28:49.084419+00:00"
+    },
+    {
+      "id": "c6b5d1aaaa9b",
+      "title": "Software Engineer , Payments - Zuora",
+      "company": "Zuora",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.zuora.com/careers/engineering-techops/software-engineer-payments/",
+      "source": "Other",
+      "description": "Software Engineer , Payments. Foster City, CA, United States. Apply now. Share. About Zuora. At Zuora, we help businesses grow smarter and adapt faster ...",
+      "date": "2026-11-10",
+      "timestamp": "2026-11-10T17:49:06+00:00",
+      "fetched_at": "2026-11-10T21:28:48.845063+00:00"
+    },
+    {
+      "id": "650ce5343545",
+      "title": "Senior Software Engineer Job Details - Paramount Careers",
+      "company": "Paramount Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.paramount.com/job/Burbank-Senior-Software-Engineer-CA-91505/1449155600/",
+      "source": "Other",
+      "description": "Burbank Senior Software Engineer - CA, 91505. ... Job Title: Senior Software Engineer - AI Tooling & Quality Engineering Platforms",
+      "date": "2026-11-10",
+      "timestamp": "2026-11-10T17:14:07+00:00",
+      "fetched_at": "2026-11-10T21:28:48.845208+00:00"
+    },
+    {
+      "id": "170d223544ac",
+      "title": "Senior Software Engineer , Westlake, TX | Fidelity Careers",
+      "company": "Fidelity Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.fidelity.com/en/jobs/2137732/senior-software-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer . Published: Nov 10. ID: 2137732.",
+      "date": "2026-11-10",
+      "timestamp": "2026-11-10T17:07:32+00:00",
+      "fetched_at": "2026-11-10T21:28:48.845305+00:00"
+    },
+    {
+      "id": "74c509dc5035",
+      "title": "Senior Software Engineer , AI Platform at Ford Motor Company",
+      "company": "Ford Motor Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.careers.ford.com/en/job/bengaluru/senior-software-engineer-ai-platform/48560/103121084480",
+      "source": "Other",
+      "description": "Senior Software Engineer , AI Platform ... As a Senior AI Fullstack Engineer , you'll work on the core systems behind the Intent Platform, building ...",
+      "date": "2026-11-10",
+      "timestamp": "2026-11-10T16:52:10+00:00",
+      "fetched_at": "2026-11-10T21:28:48.845418+00:00"
+    },
+    {
+      "id": "0a83dc460606",
+      "title": "AI Engineer I - Careers - Myworkdayjobs.com",
+      "company": "Repligen",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://repligen.wd108.myworkdayjobs.com/Repligen_Careers/job/Waltham-MA/AI-Engineer-I_R-971",
+      "source": "Workday",
+      "description": "As an AI Engineer , you will unlock and accelerate AI by designing the reusable components, starter kits, and opinionated developer first patterns for ...",
+      "date": "2026-11-10",
+      "timestamp": "2026-11-10T16:49:51+00:00",
+      "fetched_at": "2026-11-10T21:28:48.845483+00:00"
+    },
+    {
+      "id": "0bc4801ae20c",
+      "title": "Embedded Software Engineer - Job ID: 10600951 - Amazon Careers",
+      "company": "Job ID: 10600951 - Amazon Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.amazon.jobs/en/jobs/10600951/embedded-software-engineer",
+      "source": "Other",
+      "description": "Embedded Software Engineer \u00b7 Description. Annapurna Labs is a semiconductor company established by semiconductor industry veterans and is now part of ...",
+      "date": "2026-11-10",
+      "timestamp": "2026-11-10T16:33:19+00:00",
+      "fetched_at": "2026-11-10T21:28:49.084831+00:00"
+    },
+    {
+      "id": "a825ea4cd123",
+      "title": "Software Engineer - Myworkdayjobs.com",
+      "company": "Bcbst",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://bcbst.wd1.myworkdayjobs.com/en-US/External/job/Software-Engineer_R-51957",
+      "source": "Workday",
+      "description": "We are hiring a Software Engineer to join the ID Cards & Vendor Extracts team at BCBST! In this role, you will work on a team of engineers ...",
+      "date": "2026-11-10",
+      "timestamp": "2026-11-10T16:22:25+00:00",
+      "fetched_at": "2026-11-10T21:28:49.084895+00:00"
+    },
+    {
+      "id": "969328ed7f2f",
+      "title": "Senior Software Engineer , Full-Stack Applications (Java) Job Details | Fitch Group",
+      "company": "Stack Applications (Java) Job Details | Fitch Group",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.fitch.group/job/London-Senior-Software-Engineer%2C-Full-Stack-Applications-%28Java%29/1456011833/",
+      "source": "Other",
+      "description": "Fitch Ratings is seeking a Senior Software Engineer to join our global Ratings Technology team in London. This is an opportunity to build mission- ...",
+      "date": "2026-11-10",
+      "timestamp": "2026-11-10T16:07:38+00:00",
+      "fetched_at": "2026-11-10T21:28:49.085181+00:00"
+    },
+    {
+      "id": "8ff21d8a9bf9",
+      "title": "Data Engineer (Faculty Specialist) - Myworkdayjobs.com",
+      "company": "Umd",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://umd.wd1.myworkdayjobs.com/umcp/job/University-of-Maryland-College-Park/Data-Engineer--Faculty-Specialist-_JR105309-1",
+      "source": "Workday",
+      "description": "... Data Engineer Position Summary: The CATT Lab is seeking a mid-career or senior Data Engineer to join our Data Platform team. This individual will ...",
+      "date": "2026-11-10",
+      "timestamp": "2026-11-10T16:06:18+00:00",
+      "fetched_at": "2026-11-10T21:28:49.085250+00:00"
+    },
+    {
+      "id": "0a785fd87dcf",
+      "title": "Senior Platform Engineer - AI Platform - Myworkdayjobs.com",
+      "company": "Porch",
+      "role": "Platform Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://porch.wd1.myworkdayjobs.com/en-US/careers/job/Senior-Platform-Engineer---AI-Platform_JR101788",
+      "source": "Workday",
+      "description": "Senior Platform Engineer - AI Platform ... Porch Group is a leading vertical software and insurance platform and is positioned to be the best partner to ...",
+      "date": "2026-11-10",
+      "timestamp": "2026-11-10T15:58:21+00:00",
+      "fetched_at": "2026-11-10T21:28:49.085317+00:00"
+    },
     {
       "id": "c113a9d12b20",
       "title": "Senior Software Engineer @ Cambium - Jobs",
@@ -64,6 +424,21 @@
       "date": "2026-11-10",
       "timestamp": "2026-11-10T15:28:32+00:00",
       "fetched_at": "2026-11-10T15:50:26.311769+00:00"
+    },
+    {
+      "id": "f907f21c3624",
+      "title": "Staff Data Engineer , Austin, Texas plus 1 location | General Motors Careers",
+      "company": "General Motors Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://search-careers.gm.com/en/jobs/jr-202623738/staff-data-engineer/",
+      "source": "Other",
+      "description": "Staff Data Engineer . Location. Austin, Texas; Warren, Michigan. (+) Show all ... This role is for a strong software engineer first; Data Privacy ...",
+      "date": "2026-11-10",
+      "timestamp": "2026-11-10T15:25:27+00:00",
+      "fetched_at": "2026-11-10T21:28:49.085611+00:00"
     },
     {
       "id": "018e8ce824d8",
