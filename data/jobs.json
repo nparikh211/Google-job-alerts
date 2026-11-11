@@ -1,29 +1,29 @@
 {
-  "last_updated": "2026-11-11T11:29:04.609002+00:00",
-  "total_jobs": 13222,
+  "last_updated": "2026-11-11T18:53:43.724725+00:00",
+  "total_jobs": 13245,
   "stats": {
-    "total_companies": 5814,
+    "total_companies": 5826,
     "total_roles": 171,
     "regions": {
-      "India": 8648,
-      "Philippines": 2867,
-      "Remote": 1630,
+      "India": 8662,
+      "Philippines": 2869,
+      "Remote": 1638,
       "Unknown": 135
     },
     "sources": {
-      "Other": 10342,
-      "Greenhouse": 669,
+      "Other": 10358,
+      "Greenhouse": 672,
       "LinkedIn": 551,
       "Workday": 548,
-      "Ashby": 431,
-      "iCIMS": 159,
+      "Ashby": 432,
+      "iCIMS": 160,
       "Breezy": 134,
+      "Workable": 95,
       "SmartRecruiters": 94,
-      "Workable": 94,
       "Lever": 92,
       "Indeed": 45,
       "Recruitee": 17,
-      "WeWorkRemotely": 14,
+      "WeWorkRemotely": 15,
       "Jobvite": 11,
       "BrassRing": 11,
       "Taleo": 8,
@@ -35,6 +35,352 @@
     }
   },
   "jobs": [
+    {
+      "id": "77d45dba8087",
+      "title": "DevOps Engineer in Remote - MRO Corporation",
+      "company": "MRO Corporation",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers-mrocorp.icims.com/jobs/1756/devops-engineer/job",
+      "source": "iCIMS",
+      "description": "Remote is now hiring a DevOps Engineer in Remote. Review all of the job details and apply today!",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T17:27:45+00:00",
+      "fetched_at": "2026-11-11T18:53:43.673165+00:00"
+    },
+    {
+      "id": "073f8dda806e",
+      "title": "Job Application for Staff Platform Engineer - Infra + DevOps at Honor - Greenhouse",
+      "company": "Honor",
+      "role": "Platform Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/honor/jobs/8936789002?gh_jid=8936789002",
+      "source": "Greenhouse",
+      "description": "Staff Platform Engineer - Infra + DevOps. Remote Position. Apply. Honor Technology's mission is to change the way society cares for older adults. As ...",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T17:08:16+00:00",
+      "fetched_at": "2026-11-11T18:53:43.438645+00:00"
+    },
+    {
+      "id": "65038f2740ba",
+      "title": "AI and Machine Learning Engineer III in Milpitas, California, 95035 - HPE Careers",
+      "company": "HPE Careers",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.hpe.com/us/en/job/1217962/AI-and-Machine-Learning-Engineer-III",
+      "source": "Other",
+      "description": "Apply for AI and Machine Learning Engineer III job with HPE in Milpitas, California, 95035. Engineering & QA at HPE.",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T16:56:06+00:00",
+      "fetched_at": "2026-11-11T18:53:43.439426+00:00"
+    },
+    {
+      "id": "c0e7ff18444f",
+      "title": "Data Engineer 2 - Freewheel and jobs at Comcast",
+      "company": "Comcast",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.comcast.com/job/chicago/data-engineer-2-freewheel/45483/103125197408",
+      "source": "Other",
+      "description": "Data Engineer 2 - Freewheel turn big ideas into solutions our customers love. Search our jobs to launch a career in Pennsylvania or Virginia.",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T16:46:12+00:00",
+      "fetched_at": "2026-11-11T18:53:43.439542+00:00"
+    },
+    {
+      "id": "9b17e74d4708",
+      "title": "Job Application for AI Software Engineer at Sensible Care - Greenhouse",
+      "company": "Sensiblecare",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/sensiblecare/jobs/4726482006",
+      "source": "Greenhouse",
+      "description": "AI Software Engineer . Pasadena, CA. Apply. About the Role: Sensible Care is now hiring an AI Software Engineer to join our AI engineering team. You ...",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T16:46:09+00:00",
+      "fetched_at": "2026-11-11T18:53:43.439619+00:00"
+    },
+    {
+      "id": "41de97337a20",
+      "title": "Software Engineer in Boston, Massachusetts, United States of America - Cisco Careers",
+      "company": "Cisco Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2030298EXTERNALENGLOBAL/Software-Engineer",
+      "source": "Other",
+      "description": "Software Engineer . Share. Share via Facebook. Share via twitter ... Become part of our team as a Staff Site Reliability Engineer , providing ...",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T16:44:36+00:00",
+      "fetched_at": "2026-11-11T18:53:43.439752+00:00"
+    },
+    {
+      "id": "e6865b8877f1",
+      "title": "Remote Cloud Engineer at Knack",
+      "company": "Knack",
+      "role": "Cloud Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://weworkremotely.com/remote-jobs/knack-cloud-engineer-1",
+      "source": "WeWorkRemotely",
+      "description": "Cloud Engineer . Posted 18 hours ago. Hi! We're Knack. Get to know more about ... Senior Site Reliability Engineer (SRE). Nov 21. CloudDevs. HQ: San ...",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T16:27:10+00:00",
+      "fetched_at": "2026-11-11T18:53:43.439867+00:00"
+    },
+    {
+      "id": "9c47a5fc0af7",
+      "title": "Senior Software Engineer (Full Stack) - PUMA",
+      "company": "PUMA",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://about.puma.com/en/jobs/senior-software-engineer-full-stack-r44421",
+      "source": "Other",
+      "description": "As a Senior Software Engineer (Full Stack), you will design, build, and ... AI Engineer \u2013 DTC Platform Engineering. E-business / Digital \u00b7 Pune ...",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T16:19:05+00:00",
+      "fetched_at": "2026-11-11T18:53:43.439997+00:00"
+    },
+    {
+      "id": "99a8abd7a754",
+      "title": "Senior Software Engineer (Architecture & Innovation) Job Details - Avaya",
+      "company": "Avaya",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.avaya.com/job/Virtual-Senior-Software-Engineer-%28Architecture-&-Innovation%29/1456136033/",
+      "source": "Other",
+      "description": "Senior Software Engineer (Architecture & Innovation). Date: Nov 10, 2026. Location: Virtual, US. Requisition ID: 37792. About Avaya. Avaya is an ...",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T15:59:13+00:00",
+      "fetched_at": "2026-11-11T18:53:43.440139+00:00"
+    },
+    {
+      "id": "85dc230df016",
+      "title": "Backend Engineer , Engagement @ Clubhouse - Jobs",
+      "company": "Clubhouse",
+      "role": "Backend Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.ashbyhq.com/clubhouse/e189d3c3-149c-4c11-8008-670e89fe4768",
+      "source": "Ashby",
+      "description": "Backend Engineer , Engagement. Location. Remote (US). Employment Type. Full time. Location Type. Remote. Department. Engineering & Data Science ...",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T15:48:45+00:00",
+      "fetched_at": "2026-11-11T18:53:43.674052+00:00"
+    },
+    {
+      "id": "a8efcf64ec75",
+      "title": "AI Engineer - Clinisys Careers",
+      "company": "Clinisys Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.clinisys.com/jobs/8702136-ai-engineer",
+      "source": "Other",
+      "description": "AI Engineer . Apply for this job. Clinisys' AI Philosophy Building an AI first organisation is central to Clinisys' purpose and the impact we deliver ...",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T15:22:33+00:00",
+      "fetched_at": "2026-11-11T18:53:43.440241+00:00"
+    },
+    {
+      "id": "4931e830dab8",
+      "title": "Senior Software Engineer - Infrastructure SoC Software in Munich at Arm - Arm Careers",
+      "company": "Arm",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.arm.com/job/munich/senior-software-engineer-infrastructure-soc-software/33099/102283981216",
+      "source": "Other",
+      "description": "Arm is redefining what is possible in cloud and data center computing. \u00b7 We have a requirement for a Senior Software Engineer in the Infrastructure ...",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T15:14:45+00:00",
+      "fetched_at": "2026-11-11T18:53:43.440380+00:00"
+    },
+    {
+      "id": "1e66840c7d03",
+      "title": "AWS Devops- Devops Engineer II - - 352512 - Deloitte USI Careers",
+      "company": "AWS Devops",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://usijobs.deloitte.com/en_US/careersUSI/JobDetail/USI-EH27-Consulting-Services-AI-E-EaaS-Devops-DevOps-Engineer-II-AWS-Devops/352512",
+      "source": "Other",
+      "description": "Deloitte is seeking a DevOps Engineer II to support the design, build, deployment, and optimization of cloud-based engineering solutions. In this role ...",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T14:56:12+00:00",
+      "fetched_at": "2026-11-11T18:53:43.440588+00:00"
+    },
+    {
+      "id": "7e35304c0e0c",
+      "title": "Data Engineer in Virtual United States | Software & Technology at IDEXX",
+      "company": "IDEXX",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.idexx.com/us/en/job/J-055736/Data-Engineer",
+      "source": "Other",
+      "description": "As a Data Engineer on the Medical Data Insights team, you will build and maintain the data pipelines, models, and tools that turn IDEXX medical ...",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T14:05:15+00:00",
+      "fetched_at": "2026-11-11T18:53:43.440670+00:00"
+    },
+    {
+      "id": "1b02ce7c55ba",
+      "title": "Data Engineer - Kanbrick - Workable Jobs",
+      "company": "Kanbrick",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://apply.workable.com/kanbrick/j/075488F964/",
+      "source": "Workable",
+      "description": "Data Engineer . RemoteAAGFull time. United States. OverviewApplication ... A software engineer who has gravitated toward data infrastructure and ...",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T14:03:52+00:00",
+      "fetched_at": "2026-11-11T18:53:43.440739+00:00"
+    },
+    {
+      "id": "70bdf8519a24",
+      "title": "Senior Software Engineer - Odaia Intelligence Inc. - Career Page",
+      "company": "Odaia Intelligence Inc. - Career Page",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://odaiaintelligenceinc.applytojob.com/apply/DHmMiGaOMw/Senior-Software-Engineer",
+      "source": "Other",
+      "description": "Senior Software Engineer at ODAIA: build the AI platform pharma teams use to find the right HCPs, plan engagement, and measure prescribing impact.",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T13:55:06+00:00",
+      "fetched_at": "2026-11-11T18:53:43.674686+00:00"
+    },
+    {
+      "id": "692d2df35846",
+      "title": "Principal DevOps Engineer - BMI Careers",
+      "company": "BMI Careers",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.bmi.com/job/principal-devops-engineer/",
+      "source": "Other",
+      "description": "POSITION SUMMARY. The Principal DevOps Engineer is the organization's senior individual contributor for enterprise DevOps and platform engineering.",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T13:47:13+00:00",
+      "fetched_at": "2026-11-11T18:53:43.440839+00:00"
+    },
+    {
+      "id": "5abca0cf7a95",
+      "title": "Full Stack Engineer (C#/.NET) \u2013 Equity Finance - - 24774 - Macquarie Group",
+      "company": "- 24774 - Macquarie Group",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://recruitment.macquarie.com/fr_FR/careers/JobDetail/Full-Stack-Engineer-C-NET-Equity-Finance/24774",
+      "source": "Other",
+      "description": "As a Full Stack Engineer , you will partner with Equity Finance traders and central functions to design and build solutions that evolve with the ...",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T13:13:38+00:00",
+      "fetched_at": "2026-11-11T18:53:43.441002+00:00"
+    },
+    {
+      "id": "c62ca4c9e05c",
+      "title": "Senior Software Engineer (L5), Productivity Software Engineering | Remote, United States | Netflix",
+      "company": "Remote, United States | Netflix",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://explore.jobs.netflix.net/careers/job/790319372667-senior-software-engineer-l5-productivity-software-engineering-remote-united-states?domain=netflix.com&microsite=netflix.com",
+      "source": "Other",
+      "description": "... Senior Software Engineer (L5), Productivity Software Engineering\", \"posting_name\": \" Senior Software Engineer (L5), Productivity Software ...",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T12:51:36+00:00",
+      "fetched_at": "2026-11-11T18:53:43.441290+00:00"
+    },
+    {
+      "id": "f73a7a1cf609",
+      "title": "Job Application for Staff Software Engineer at Pathstream - Greenhouse",
+      "company": "Pathstream",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/pathstream/jobs/8200448003",
+      "source": "Greenhouse",
+      "description": "ROLE / DEPARTMENT OVERVIEW. Pathstream is seeking a Staff Software Engineer to lead large, cross-team technical work on our platform. This is a senior ...",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T12:37:36+00:00",
+      "fetched_at": "2026-11-11T18:53:43.675248+00:00"
+    },
+    {
+      "id": "58fca93ff4f7",
+      "title": "Data Engineer I-SR - Jobs at Entergy",
+      "company": "Entergy",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.entergy.com/job/The-Woodlands-Data-Engineer-I-SR-Texa/1449560600/",
+      "source": "Other",
+      "description": "We are seeking a skilled Data Engineer to oversee the design, construction and maintenance of data infrastructure and pipelines to further enable data ...",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T12:36:44+00:00",
+      "fetched_at": "2026-11-11T18:53:43.441395+00:00"
+    },
+    {
+      "id": "1fe0a657db75",
+      "title": "Software Engineer job in Engineering in Remote (US) - Zoom Careers",
+      "company": "Zoom Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India",
+        "Remote"
+      ],
+      "link": "https://www.careers.zoom.us/job-details/software-engineer-in-engineering-jobs-1795464",
+      "source": "Other",
+      "description": "As a Software Engineer on our platform team, you will own and deliver full features independently, building reliable APIs and data infrastructure that ...",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T12:24:59+00:00",
+      "fetched_at": "2026-11-11T18:53:43.441683+00:00"
+    },
+    {
+      "id": "e8e887c3a661",
+      "title": "Staff Security Software Engineer , Detection & Response - Pinterest Careers",
+      "company": "Pinterest Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.pinterestcareers.com/jobs/8230775/staff-security-software-engineer-detection-response/",
+      "source": "Other",
+      "description": "Staff Security Software Engineer , Detection & Response. Seattle / Remote \u00b7 Engineering; Regular. a collage of people and a cup. Share. Apply Now ...",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T12:24:21+00:00",
+      "fetched_at": "2026-11-11T18:53:43.441843+00:00"
+    },
     {
       "id": "473b509a1bdb",
       "title": "Every Company Is Building Agents That Can't Work Together - Justin Schroeder, Standard Agents",
