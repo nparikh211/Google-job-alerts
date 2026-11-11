@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-11-10T21:28:49.132170+00:00",
-  "total_jobs": 13188,
+  "last_updated": "2026-11-11T03:14:08.119968+00:00",
+  "total_jobs": 13206,
   "stats": {
-    "total_companies": 5804,
+    "total_companies": 5809,
     "total_roles": 170,
     "regions": {
-      "India": 8632,
-      "Philippines": 2850,
-      "Remote": 1629,
+      "India": 8644,
+      "Philippines": 2855,
+      "Remote": 1630,
       "Unknown": 135
     },
     "sources": {
-      "Other": 10311,
+      "Other": 10327,
       "Greenhouse": 669,
       "LinkedIn": 551,
       "Workday": 548,
-      "Ashby": 430,
+      "Ashby": 431,
       "iCIMS": 159,
-      "Breezy": 133,
+      "Breezy": 134,
       "Workable": 94,
       "SmartRecruiters": 93,
       "Lever": 92,
@@ -31,10 +31,235 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-11-10"
+      "latest": "2026-11-11"
     }
   },
   "jobs": [
+    {
+      "id": "6e8beffda44c",
+      "title": "Software Engineer - AI Tooling @ Supabase - Jobs",
+      "company": "Supabase",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/supabase/0055f731-cffa-4c74-9c00-8abfa579873d",
+      "source": "Ashby",
+      "description": "... Software Engineer to join our AI Tooling team and help shape how developers and agents build with Supabase. You'll build and own our AI tooling ...",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T01:33:08+00:00",
+      "fetched_at": "2026-11-11T03:14:07.987555+00:00"
+    },
+    {
+      "id": "1fdb633ecab4",
+      "title": "2027 Summer Intern, BS/MS/PhD, Software Engineer , Eval Data Infra - Waymo careers",
+      "company": "Waymo careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.withwaymo.com/jobs/2027-summer-intern-bs-ms-phd-software-engineer-eval-data-infra-mountain-view-california-united-states",
+      "source": "Other",
+      "description": "If you're a software engineer or researcher who's curious and passionate about Level 4 autonomous driving, we'd like to meet you. The Planner ...",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T00:04:08+00:00",
+      "fetched_at": "2026-11-11T03:14:07.988767+00:00"
+    },
+    {
+      "id": "ff655e5f574c",
+      "title": "Data Engineer IV Job Details | Grainger Businesses",
+      "company": "Grainger Businesses",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.grainger.com/job/LAKE-FOREST-Data-Engineer-IV-IL-60045-5203/1449534800/",
+      "source": "Other",
+      "description": "Data Engineer IV. Apply now \u00bb. Date: Nov 10, 2026. Location: LAKE FOREST, IL, US, 60045-5203. Company: Grainger Businesses. Work Location Type: Remote.",
+      "date": "2026-11-10",
+      "timestamp": "2026-11-10T23:05:08+00:00",
+      "fetched_at": "2026-11-11T03:14:07.988975+00:00"
+    },
+    {
+      "id": "79915541d3c8",
+      "title": "Software Engineer , AdTech - DoorDash",
+      "company": "DoorDash",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careersatdoordash.com/jobs/software-engineer-adtech/8271707",
+      "source": "Other",
+      "description": "Software Engineer , AdTech. DoorDash. Wolt. Deliveroo. Career Area ... We're looking for a Backend Engineer to join the Wolt AdTech & Promotions team.",
+      "date": "2026-11-10",
+      "timestamp": "2026-11-10T22:58:58+00:00",
+      "fetched_at": "2026-11-11T03:14:07.989141+00:00"
+    },
+    {
+      "id": "1ab95ec09323",
+      "title": "Software Engineer , Internship - 2027 | Career Opportunities - Brex",
+      "company": "2027 | Career Opportunities - Brex",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.brex.com/careers/8935242002",
+      "source": "Other",
+      "description": "Software Engineer , Internship - 2027. S\u00e3o Paulo, S\u00e3o Paulo, Brazil. Why join us. Brex is the intelligent finance platform that enables companies ...",
+      "date": "2026-11-10",
+      "timestamp": "2026-11-10T22:55:24+00:00",
+      "fetched_at": "2026-11-11T03:14:07.989299+00:00"
+    },
+    {
+      "id": "7d6d7c6ac4bc",
+      "title": "Senior Backend Engineer / Data Engineer at MainStreaming - Job Openings",
+      "company": "Mainstreaming Spa",
+      "role": "Backend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://mainstreaming-spa.breezy.hr/p/94daf1c6fcea01-senior-backend-engineer-data-engineer",
+      "source": "Breezy",
+      "description": "Senior Backend Engineer / Data Engineer \u00b7 Milano, IT \u00b7 Full-Time \u00b7 Engineering \u00b7 \u20ac38,000 \u2013 \u20ac40,000 / year.",
+      "date": "2026-11-10",
+      "timestamp": "2026-11-10T22:52:17+00:00",
+      "fetched_at": "2026-11-11T03:14:07.989455+00:00"
+    },
+    {
+      "id": "01b9e539e607",
+      "title": "Senior Software Engineer at Intuit",
+      "company": "Intuit",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.intuit.com/job/mountain-view/senior-software-engineer/27595/103117897344",
+      "source": "Other",
+      "description": "Job Overview. Come join the Intuit Enterprise Builders team as a Senior Software Engineer . As Intuit expands its footprint in the ...",
+      "date": "2026-11-10",
+      "timestamp": "2026-11-10T22:13:26+00:00",
+      "fetched_at": "2026-11-11T03:14:07.989599+00:00"
+    },
+    {
+      "id": "f9b46e200396",
+      "title": "Data Engineer | Everforth Apex",
+      "company": "Everforth Apex",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.apexsystems.com/job/3058945_usa/data-engineer",
+      "source": "Other",
+      "description": "Data Engineer \u00b7 Strong Databricks experience, including Delta Lake, Workflows, and Databricks SQL. \u00b7 Advanced SQL, Python, and PySpark skills.",
+      "date": "2026-11-10",
+      "timestamp": "2026-11-10T21:59:50+00:00",
+      "fetched_at": "2026-11-11T03:14:07.989741+00:00"
+    },
+    {
+      "id": "1ef52f3c3540",
+      "title": "Software Engineer \u2014 Prisma Access at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/santa-clara/software-engineer-prisma-access/47263/103124882016",
+      "source": "Other",
+      "description": "Software Engineer \u2014 Prisma Access. Santa Clara, California, United States of America Product Engineering Ref ID: JR-024639. Apply Save Job. Current ...",
+      "date": "2026-11-10",
+      "timestamp": "2026-11-10T21:30:15+00:00",
+      "fetched_at": "2026-11-11T03:14:07.989967+00:00"
+    },
+    {
+      "id": "7e095258d5ee",
+      "title": "Software Engineer II, San Francisco, United States",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.uber.com/en/jobs/303784/",
+      "source": "Other",
+      "description": "Software Engineer II \u00b7 About the role: \u00b7 About the Team: \u00b7 Minimum qualifications: \u00b7 Technical skills:.",
+      "date": "2026-11-10",
+      "timestamp": "2026-11-10T21:25:15+00:00",
+      "fetched_at": "2026-11-11T03:14:07.990089+00:00"
+    },
+    {
+      "id": "feecbb07d406",
+      "title": "Senior Software Engineer , Foundational Storage - Careers at Sentry",
+      "company": "Sentry",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://sentry.io/careers/c1479d26-cf69-48ff-8424-c42ce05a8698/",
+      "source": "Other",
+      "description": "Senior Software Engineer , Foundational Storage. Toronto, Ontario, Canada. About Sentry. Software runs the world and the pace is faster than ever ...",
+      "date": "2026-11-10",
+      "timestamp": "2026-11-10T21:19:07+00:00",
+      "fetched_at": "2026-11-11T03:14:08.059202+00:00"
+    },
+    {
+      "id": "9bd32202dbd9",
+      "title": "Senior Full Stack Engineer , Covington, KY / Merrimack, NH | Fidelity Careers",
+      "company": "Fidelity Careers",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.fidelity.com/en/jobs/2135691/senior-full-stack-engineer/",
+      "source": "Other",
+      "description": "Fidelity will not provide immigration sponsorship for this position. Job Description: Senior Full Stack Engineer The Role We provide Marketing ...",
+      "date": "2026-11-10",
+      "timestamp": "2026-11-10T21:02:52+00:00",
+      "fetched_at": "2026-11-11T03:14:08.059350+00:00"
+    },
+    {
+      "id": "41465c3c9a22",
+      "title": "Data Engineer in AUSTIN, Texas | Other at Acrisure",
+      "company": "Acrisure",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.acrisure.com/us/en/job/JR113679/Data-Engineer",
+      "source": "Other",
+      "description": "Apply for Data Engineer job with Acrisure in AUSTIN, Texas. Other at Acrisure.",
+      "date": "2026-11-10",
+      "timestamp": "2026-11-10T20:33:47+00:00",
+      "fetched_at": "2026-11-11T03:14:07.990206+00:00"
+    },
+    {
+      "id": "5c6c0bebb659",
+      "title": "Software Engineer , Senior-Dynatrace, SQL Server/Mongo/Oracle (Open) - PNC Careers",
+      "company": "Dynatrace, SQL Server/Mongo/Oracle (Open) - PNC Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.pnc.com/global/en/job/R237044/Software-Engineer-Senior-Dynatrace-SQL-Server-Mongo-Oracle-Open",
+      "source": "Other",
+      "description": "Senior Software Engineer - Database Automation and Platform Engineering. Category Technology. Job available in 5 locations. Pittsburgh, Pennsylvania ...",
+      "date": "2026-11-10",
+      "timestamp": "2026-11-10T20:16:23+00:00",
+      "fetched_at": "2026-11-11T03:14:08.059881+00:00"
+    },
+    {
+      "id": "c0512c9ed4bd",
+      "title": "Senior Software Engineer , San Diego | ServiceNow Careers",
+      "company": "ServiceNow Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.servicenow.com/jobs/744000160953919/senior-software-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer . Engineering, Infrastructure and Operations \u00b7 San Diego; Flexible; November 10, 2026; JB0075254.",
+      "date": "2026-11-10",
+      "timestamp": "2026-11-10T20:13:28+00:00",
+      "fetched_at": "2026-11-11T03:14:08.060043+00:00"
+    },
     {
       "id": "527b5d664da4",
       "title": "Job Application for Full Stack Engineer at Scopely - Greenhouse",
@@ -66,6 +291,36 @@
       "fetched_at": "2026-11-10T21:28:49.083566+00:00"
     },
     {
+      "id": "9069cb91c510",
+      "title": "Software Engineer , Applied ML - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200694108-0836/software-engineer-applied-ml?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Software Engineer , Applied ML job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-11-10",
+      "timestamp": "2026-11-10T19:26:13+00:00",
+      "fetched_at": "2026-11-11T03:14:07.990787+00:00"
+    },
+    {
+      "id": "ba0d90c2b1cd",
+      "title": "Full Stack Engineer Lead Java/React- Vice President | Citi Careers",
+      "company": "Vice President | Citi Careers",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.citi.com/job/tampa/full-stack-engineer-lead-java-react-vice-president/287/103123088384",
+      "source": "Other",
+      "description": "Learn more about applying for Full Stack Engineer Lead Java/React- Vice President at Citi. Learn more about potential responsibilities, ...",
+      "date": "2026-11-10",
+      "timestamp": "2026-11-10T19:18:08+00:00",
+      "fetched_at": "2026-11-11T03:14:08.060653+00:00"
+    },
+    {
       "id": "52a658f335c8",
       "title": "Senior Data Engineer - MongoDB and PostgreSQL in Work at Home, New York, United States",
       "company": "Home, New York, United States",
@@ -94,6 +349,21 @@
       "date": "2026-11-10",
       "timestamp": "2026-11-10T19:04:44+00:00",
       "fetched_at": "2026-11-10T21:28:48.843373+00:00"
+    },
+    {
+      "id": "b47c411c7580",
+      "title": "Backend & Platform Engineer (L3) at DAERO - Gusto",
+      "company": "DAERO",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.gusto.com/postings/daero-backend-platform-engineer-l3-a97a7ed9-ade6-495a-8774-ed76fe307ccb",
+      "source": "Other",
+      "description": "ZeroPunch is seeking a Backend & Platform Engineer to help build and evolve our backend systems, cloud infrastructure, and technical architecture.",
+      "date": "2026-11-10",
+      "timestamp": "2026-11-10T18:57:18+00:00",
+      "fetched_at": "2026-11-11T03:14:07.991566+00:00"
     },
     {
       "id": "9818718b6187",
