@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-11-11T03:14:08.119968+00:00",
-  "total_jobs": 13206,
+  "last_updated": "2026-11-11T11:29:04.609002+00:00",
+  "total_jobs": 13222,
   "stats": {
-    "total_companies": 5809,
-    "total_roles": 170,
+    "total_companies": 5814,
+    "total_roles": 171,
     "regions": {
-      "India": 8644,
-      "Philippines": 2855,
+      "India": 8648,
+      "Philippines": 2867,
       "Remote": 1630,
       "Unknown": 135
     },
     "sources": {
-      "Other": 10327,
+      "Other": 10342,
       "Greenhouse": 669,
       "LinkedIn": 551,
       "Workday": 548,
       "Ashby": 431,
       "iCIMS": 159,
       "Breezy": 134,
+      "SmartRecruiters": 94,
       "Workable": 94,
-      "SmartRecruiters": 93,
       "Lever": 92,
       "Indeed": 45,
       "Recruitee": 17,
@@ -36,6 +36,141 @@
   },
   "jobs": [
     {
+      "id": "473b509a1bdb",
+      "title": "Every Company Is Building Agents That Can't Work Together - Justin Schroeder, Standard Agents",
+      "company": "Can't Work Together",
+      "role": "Every Company Is Building Agents That Can't Work Together - ",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.youtube.com/watch?v=3Krz7Rdd4JI",
+      "source": "Other",
+      "description": "Go to channel AI Engineer . Your Agent Doesn't Need an LLM for Every ... Go to channel AI Engineer . Why AI Makes You 100x Faster but Not Your ...",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T05:39:06+00:00",
+      "fetched_at": "2026-11-11T11:29:04.556072+00:00"
+    },
+    {
+      "id": "bce035dd4d4a",
+      "title": "How hard is it for a software engineer to transition into being a spy? - Reddit",
+      "company": "Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/cscareerquestions/comments/1xt76py/how_hard_is_it_for_a_software_engineer_to/",
+      "source": "Other",
+      "description": "I know of one friend who's done that. Well, at least started as a software engineer for the US NSA. I've not heard from them in years. Last time I did ...",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T05:27:14+00:00",
+      "fetched_at": "2026-11-11T11:29:04.402835+00:00"
+    },
+    {
+      "id": "05c281c0a7cf",
+      "title": "Senior Data Engineer , AWS Infrastructure Supply Chain Intelligence - Job ID: 10580107",
+      "company": "Job ID: 10580107",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.amazon.jobs/jobs/10580107",
+      "source": "Other",
+      "description": "We are looking for a talented Data Engineer to join the Manufacturing Operations, Transportation Operations, and Reverse (MOTOR) organization in ...",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T05:18:54+00:00",
+      "fetched_at": "2026-11-11T11:29:04.556191+00:00"
+    },
+    {
+      "id": "e86e30ac7630",
+      "title": "Software Engineer - Apple Pay (WPC) - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200694246-1052/software-engineer-apple-pay-wpc",
+      "source": "Other",
+      "description": "Apply for a Software Engineer - Apple Pay (WPC) job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T05:15:05+00:00",
+      "fetched_at": "2026-11-11T11:29:04.556305+00:00"
+    },
+    {
+      "id": "9ba21bbbfc04",
+      "title": "Senior Software Engineer | Schwab Jobs",
+      "company": "Schwab Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.schwabjobs.com/job/boca-raton/senior-software-engineer/33727/103129675712",
+      "source": "Other",
+      "description": "Learn more about applying for Senior Software Engineer at Charles Schwab. ... NET backend engineer with full-stack reach who acts as a technical ...",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T04:11:39+00:00",
+      "fetched_at": "2026-11-11T11:29:04.556421+00:00"
+    },
+    {
+      "id": "51320266a141",
+      "title": "Data Engineer I, DSP Analytics - Job ID: 10601582 - Amazon Careers",
+      "company": "Job ID: 10601582 - Amazon Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.amazon.jobs/en/jobs/10601582/data-engineer-i-dsp-analytics",
+      "source": "Other",
+      "description": "Data Engineer I, DSP Analytics \u00b7 Description. Do you enjoy diving deep into data, developing real-time and batch pipelines that generate actionable ...",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T03:26:33+00:00",
+      "fetched_at": "2026-11-11T11:29:04.556546+00:00"
+    },
+    {
+      "id": "198dc6d2cd02",
+      "title": "Senior Software Engineer ( Platform Engineer ), G&A Solutions Engineering (GSE) - Jobs",
+      "company": "Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200693554-0240/senior-software-engineer-platform-engineer-g-a-solutions-engineering-gse?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Senior Software Engineer ( Platform Engineer ), G&A Solutions Engineering (GSE) job at Apple. Read about the role and find out if it's ...",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T03:10:27+00:00",
+      "fetched_at": "2026-11-11T11:29:04.556767+00:00"
+    },
+    {
+      "id": "5bece20080a2",
+      "title": "Software Engineer , AWS Parallel Computing Service - Job ID: 10601816 - Amazon Careers",
+      "company": "Job ID: 10601816 - Amazon Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.amazon.jobs/en/jobs/10601816/software-engineer-aws-parallel-computing-service",
+      "source": "Other",
+      "description": "Software Engineer , AWS Parallel Computing Service. Job ID: 10601816 | Amazon Development Center U.S., Inc. Apply now. Description. Are you excited ...",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T02:28:34+00:00",
+      "fetched_at": "2026-11-11T11:29:04.556919+00:00"
+    },
+    {
+      "id": "a46d85a2ad4a",
+      "title": "Software Engineer : C#, SQL - Jack Henry & Associates",
+      "company": "Jack Henry & Associates",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.jackhenry.com/job/allen/software-engineer-c-sql/42859/103123321648",
+      "source": "Other",
+      "description": "Software Engineer : C#, SQL. Location: Allen, Texas; Birmingham, Alabama; Charlotte, North Carolina; Louisville, Kentucky; Monett, Missouri; ...",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T02:08:04+00:00",
+      "fetched_at": "2026-11-11T11:29:04.402995+00:00"
+    },
+    {
       "id": "6e8beffda44c",
       "title": "Software Engineer - AI Tooling @ Supabase - Jobs",
       "company": "Supabase",
@@ -51,6 +186,36 @@
       "fetched_at": "2026-11-11T03:14:07.987555+00:00"
     },
     {
+      "id": "d45c2d743daf",
+      "title": "Careers - Senior Software Engineer - Data Enablement - Block",
+      "company": "Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://block.xyz/careers/jobs/5478819008?gh_jid=5478819008",
+      "source": "Other",
+      "description": "As a Senior Software Engineer on the team, you will design, build, and operate backend systems that make data easier to acquire, process, and use.",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T01:28:24+00:00",
+      "fetched_at": "2026-11-11T11:29:04.557170+00:00"
+    },
+    {
+      "id": "d016495c3cf7",
+      "title": "Senior Data Engineer II - Real Time Data Engineering- Java job in London - Wise.Jobs",
+      "company": "Senior Data Engineer II",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://wise.jobs/job/senior-data-engineer-ii-real-time-data-engineering-java-in-london-jid-2244",
+      "source": "Other",
+      "description": "We are looking for a passionate Senior Data Engineer II to join our Treasury Global Liquidity team. In this role, you will help design and build ...",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T00:11:52+00:00",
+      "fetched_at": "2026-11-11T11:29:04.403316+00:00"
+    },
+    {
       "id": "1fdb633ecab4",
       "title": "2027 Summer Intern, BS/MS/PhD, Software Engineer , Eval Data Infra - Waymo careers",
       "company": "Waymo careers",
@@ -64,6 +229,36 @@
       "date": "2026-11-11",
       "timestamp": "2026-11-11T00:04:08+00:00",
       "fetched_at": "2026-11-11T03:14:07.988767+00:00"
+    },
+    {
+      "id": "52826ed21ac3",
+      "title": "Western Digital Software Engineer | SmartRecruiters",
+      "company": "Westerndigital",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.smartrecruiters.com/WesternDigital/744000160973301-software-engineer",
+      "source": "SmartRecruiters",
+      "description": "Software Engineer . San Jose, CA, United States; Full-time; Job Type (exemption status): Exempt position - Please see related compensation & benefits ...",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T00:01:53+00:00",
+      "fetched_at": "2026-11-11T11:29:04.557746+00:00"
+    },
+    {
+      "id": "e30cd43f26c3",
+      "title": "Senior Software Engineer - ServiceNow Careers",
+      "company": "ServiceNow Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.servicenow.com/jobs/744000160979849/senior-software-engineer/",
+      "source": "Other",
+      "description": "And we're just getting started. Join us to put AI to work for people. Job Description. Senior Software Engineer , GAIL Core Team About the Program. The ...",
+      "date": "2026-11-10",
+      "timestamp": "2026-11-10T23:11:35+00:00",
+      "fetched_at": "2026-11-11T11:29:04.557852+00:00"
     },
     {
       "id": "ff655e5f574c",
@@ -126,6 +321,21 @@
       "fetched_at": "2026-11-11T03:14:07.989455+00:00"
     },
     {
+      "id": "204c1c9effd5",
+      "title": "Sr Consultant, Software Engineer ( AI Engineer ) - Careers at Nationwide",
+      "company": "Nationwide",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.nationwide.com/sr-consultant-software-engineer-ai-engineer/job/810D69B54095D050A84EC68555D6FDEC",
+      "source": "Other",
+      "description": "Join Nationwide in Columbus, OH Columbus, OH Des Moines, IA Scottsdale, AZ ! Apply for the Sr Consultant, Software Engineer ( AI Engineer ) role ...",
+      "date": "2026-11-10",
+      "timestamp": "2026-11-10T22:51:27+00:00",
+      "fetched_at": "2026-11-11T11:29:04.558207+00:00"
+    },
+    {
       "id": "01b9e539e607",
       "title": "Senior Software Engineer at Intuit",
       "company": "Intuit",
@@ -139,6 +349,21 @@
       "date": "2026-11-10",
       "timestamp": "2026-11-10T22:13:26+00:00",
       "fetched_at": "2026-11-11T03:14:07.989599+00:00"
+    },
+    {
+      "id": "0ae19da60236",
+      "title": "SAP iXp Intern - Full-Stack Software Engineer , Palo Alto, United States",
+      "company": "SAP iXp Intern",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.sap.com/en/jobs/744000160967354/sap-ixp-intern-full-stack-software-engineer/",
+      "source": "Other",
+      "description": "SAP iXp Intern - Full-Stack Software Engineer . Team Links:Engineering; Location Links:Palo Alto; Published Date:Today. Work Pattern:Hybrid -. Contract ...",
+      "date": "2026-11-10",
+      "timestamp": "2026-11-10T22:09:06+00:00",
+      "fetched_at": "2026-11-11T11:29:04.558332+00:00"
     },
     {
       "id": "f9b46e200396",
@@ -199,6 +424,21 @@
       "date": "2026-11-10",
       "timestamp": "2026-11-10T21:19:07+00:00",
       "fetched_at": "2026-11-11T03:14:08.059202+00:00"
+    },
+    {
+      "id": "7ca7c55ae6d0",
+      "title": "Software Engineer , Deployment Compliance - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200691617-3337/software-engineer-deployment-compliance",
+      "source": "Other",
+      "description": "Apply for a Software Engineer , Deployment Compliance job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-11-10",
+      "timestamp": "2026-11-10T21:18:45+00:00",
+      "fetched_at": "2026-11-11T11:29:04.404618+00:00"
     },
     {
       "id": "9bd32202dbd9",
