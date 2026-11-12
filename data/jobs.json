@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-11-12T01:41:23.984085+00:00",
-  "total_jobs": 13268,
+  "last_updated": "2026-11-12T11:55:42.860850+00:00",
+  "total_jobs": 13285,
   "stats": {
-    "total_companies": 5835,
-    "total_roles": 171,
+    "total_companies": 5839,
+    "total_roles": 172,
     "regions": {
-      "India": 8677,
-      "Philippines": 2873,
-      "Remote": 1642,
+      "India": 8681,
+      "Philippines": 2883,
+      "Remote": 1645,
       "Unknown": 135
     },
     "sources": {
-      "Other": 10373,
+      "Other": 10387,
       "Greenhouse": 673,
-      "LinkedIn": 553,
-      "Workday": 550,
+      "LinkedIn": 554,
+      "Workday": 552,
       "Ashby": 432,
       "iCIMS": 163,
       "Breezy": 134,
@@ -31,10 +31,220 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-11-11"
+      "latest": "2026-11-12"
     }
   },
   "jobs": [
+    {
+      "id": "f5deb0057e06",
+      "title": "Aiswarya Venkitesh's Post - LinkedIn",
+      "company": "Unknown Company",
+      "role": "Aiswarya Venkitesh's Post - LinkedIn",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/aiswarya-venkitesh_want-to-become-an-ml-engineer-in-2027-learning-activity-7526578532051853313-OBzd",
+      "source": "LinkedIn",
+      "description": "Want to become an ML Engineer in 2027? Learning Python and training models won't be enough anymore. The ML engineering landscape is evolving fast.",
+      "date": "2026-11-12",
+      "timestamp": "2026-11-12T10:04:04+00:00",
+      "fetched_at": "2026-11-12T11:55:42.798794+00:00"
+    },
+    {
+      "id": "4e22630fcc4e",
+      "title": "Software Engineer - Backend | Apply on Job - Opportunities - Micro1",
+      "company": "Backend | Apply on Job - Opportunities - Micro1",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.micro1.ai/post/e5a0105a-1535-4ea8-97ff-d6ff43441e42",
+      "source": "Other",
+      "description": "Software Engineer - Backend. $50 - $100/hourpay. Required Skills. Python3. JAVA. Rust. Algorithms. Basics C++. Typescript. bug fixing. feature ...",
+      "date": "2026-11-12",
+      "timestamp": "2026-11-12T08:10:58+00:00",
+      "fetched_at": "2026-11-12T11:55:42.799011+00:00"
+    },
+    {
+      "id": "7e038488fac2",
+      "title": "Machine Learning Engineer 1 | Careers - Abnormal AI",
+      "company": "Careers - Abnormal AI",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.abnormal.ai/careers/jobs/8002099003",
+      "source": "Other",
+      "description": "Apply for Machine Learning Engineer 1 \u2014 Remote - Singapore at Abnormal.",
+      "date": "2026-11-12",
+      "timestamp": "2026-11-12T07:30:06+00:00",
+      "fetched_at": "2026-11-12T11:55:42.799149+00:00"
+    },
+    {
+      "id": "b82f9c0ad589",
+      "title": "React Full Stack - Senior Software Engineer job in 360 Hamilton Avenue, White Plains, NY ...",
+      "company": "React Full Stack",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.marsh.com/global/en/job/R_372521/React-Full-Stack-Senior-Software-Engineer",
+      "source": "Other",
+      "description": "The Senior Software Engineer at Marsh Agency will join the Software Engineering team to design, build, and evolve a full stack AI-powered ...",
+      "date": "2026-11-12",
+      "timestamp": "2026-11-12T07:26:00+00:00",
+      "fetched_at": "2026-11-12T11:55:42.799333+00:00"
+    },
+    {
+      "id": "b64fd1354dd9",
+      "title": "Software Engineer II - Pearson",
+      "company": "Pearson",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://pearson.jobs/boston-ma/software-engineer-ii/7DC18E393D2C4ABF83EEC65BD7C7498B/job/",
+      "source": "Other",
+      "description": "Software Engineer II. Boston, MA. Workplace Type: Hybrid. Job: Engineering; Schedule: FULL_TIME; Req ID: 26608. About the Role. At Pearson, we're ...",
+      "date": "2026-11-12",
+      "timestamp": "2026-11-12T07:18:47+00:00",
+      "fetched_at": "2026-11-12T11:55:42.799505+00:00"
+    },
+    {
+      "id": "2a74777e35a5",
+      "title": "Software Engineer | Careers - Dassault Syst\u00e8mes",
+      "company": "Careers - Dassault Syst\u00e8mes",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.3ds.com/careers/jobs/software-engineer-550656",
+      "source": "Other",
+      "description": "Role Description & ResponsibilitiesDassault Syst\u00e8mes is seeking a Software Engineer to join our BIOVIA Lab Operations team in San Diego, ...",
+      "date": "2026-11-12",
+      "timestamp": "2026-11-12T06:30:35+00:00",
+      "fetched_at": "2026-11-12T11:55:42.799675+00:00"
+    },
+    {
+      "id": "3d7c3777b285",
+      "title": "Senior Software Engineer , AI Platform - Ford Global Career Site",
+      "company": "Ford Global Career Site",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://apply.ford.com/en/sites/CX_1/job/73989",
+      "source": "Other",
+      "description": "Senior Software Engineer , AI Platform. Bangalore, Karnataka, India (On-site). Trending. Job Description. As a Senior AI Fullstack Engineer , you'll ...",
+      "date": "2026-11-12",
+      "timestamp": "2026-11-12T01:48:07+00:00",
+      "fetched_at": "2026-11-12T11:55:42.401901+00:00"
+    },
+    {
+      "id": "500bfabb77c8",
+      "title": "Data Engineer Internship - Job ID: 10602219 - Amazon Careers",
+      "company": "Job ID: 10602219 - Amazon Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://amazon.jobs/jobs/10602219",
+      "source": "Other",
+      "description": "If this describes you, consider joining us as an intern. Amazon is looking for a data engineer intern to join one our many lines of business. Amazon ...",
+      "date": "2026-11-12",
+      "timestamp": "2026-11-12T01:36:02+00:00",
+      "fetched_at": "2026-11-12T11:55:42.799809+00:00"
+    },
+    {
+      "id": "b69d1084d22a",
+      "title": "Data Science AI Engineer , Advisor Job Details | Gainwell Technologies LLC",
+      "company": "Gainwell Technologies LLC",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.gainwelltechnologies.com/job/Any-city-Data-Science-AI-Engineer%2C-Advisor-WA-99999/1449871400/",
+      "source": "Other",
+      "description": "Data Science AI Engineer , Advisor. Date: Nov 11, 2026. Location: Any city, WA, US, 99999. Req ID: 37325. Work Mode: Virtual (Exception only).",
+      "date": "2026-11-12",
+      "timestamp": "2026-11-12T01:34:30+00:00",
+      "fetched_at": "2026-11-12T11:55:42.402260+00:00"
+    },
+    {
+      "id": "c3179959f3a6",
+      "title": "Full Stack Software Engineer , Associate \u2013 Preqin Engineering - BlackRock Careers",
+      "company": "BlackRock Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.blackrock.com/job/london/full-stack-software-engineer-associate-preqin-engineering/45831/103156853664",
+      "source": "Other",
+      "description": "Job description \u00b7 About this role \u00b7 Your team. Preqin, part of BlackRock, is seeking a Full Stack Software Engineer (Associate) to join the London ...",
+      "date": "2026-11-12",
+      "timestamp": "2026-11-12T00:37:02+00:00",
+      "fetched_at": "2026-11-12T11:55:42.800233+00:00"
+    },
+    {
+      "id": "a8b2ff5e661c",
+      "title": "Full Stack Software Engineer at MCKESSON",
+      "company": "MCKESSON",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.mckesson.com/en/job/ohio/full-stack-software-engineer/733/98133520720",
+      "source": "Other",
+      "description": "Full Stack Software Engineer . Ohio, Atlanta, Georgia, Columbus, Ohio, Irving, Texas, Richmond, Virginia, The Woodlands, Texas, Remote. Job ...",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T23:52:50+00:00",
+      "fetched_at": "2026-11-12T11:55:42.800367+00:00"
+    },
+    {
+      "id": "08f9f23eb262",
+      "title": "Senior Software Engineer , Android - Remote, United States - Toast",
+      "company": "Remote, United States - Toast",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.toasttab.com/jobs/senior-software-engineer-android-remote-united-states-bed9780f-e63f-4409-ba63-b720a2f5fd00",
+      "source": "Other",
+      "description": "Senior Software Engineer , Android \u00b7 Why this team? \u00b7 AI at Toast \u00b7 Our Total Rewards Philosophy",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T23:24:36+00:00",
+      "fetched_at": "2026-11-12T11:55:42.800707+00:00"
+    },
+    {
+      "id": "5fd55d0ce6a5",
+      "title": "AI Engineer - Co-Op - Myworkdayjobs.com",
+      "company": "Genband",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://vhr-genband.wd1.myworkdayjobs.com/ribboncareers/job/USA-MA-Westford/AI-Engineer--Co-Op_REQ-2026-3083",
+      "source": "Workday",
+      "description": "AI Engineer - Co-Op \u00b7 Transform ideas into data-driven solutions by working through all phases of software development or model lifecycle \u00b7 Evaluate ...",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T22:58:08+00:00",
+      "fetched_at": "2026-11-12T11:55:42.800800+00:00"
+    },
+    {
+      "id": "7ec779a5e31f",
+      "title": "Software Engineer , Apple Ads - Jobs",
+      "company": "Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200694381-0157/software-engineer-apple-ads?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Software Engineer , Apple Ads job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T22:33:26+00:00",
+      "fetched_at": "2026-11-12T11:55:42.800951+00:00"
+    },
     {
       "id": "911406c9ffcd",
       "title": "Full-Stack AI Engineer in New York, New York | Careers at US - U.S. Careers - NYU",
@@ -66,6 +276,21 @@
       "fetched_at": "2026-11-12T01:41:23.840759+00:00"
     },
     {
+      "id": "8d5095c84b6f",
+      "title": "Full Stack Software Engineer - Myworkdayjobs.com",
+      "company": "Allegion",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Full-Stack-Software-Engineer_JR38204",
+      "source": "Workday",
+      "description": "... Software Engineer Allegion is looking for a Full Stack engineer to work as part of a highly engaged small team within a global organization of ...",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T22:00:05+00:00",
+      "fetched_at": "2026-11-12T11:55:42.801320+00:00"
+    },
+    {
       "id": "69c623a5b2b6",
       "title": "Job Application for Senior Software Engineer at Snorkel AI - Greenhouse",
       "company": "Snorkelai",
@@ -79,6 +304,21 @@
       "date": "2026-11-11",
       "timestamp": "2026-11-11T21:46:51+00:00",
       "fetched_at": "2026-11-12T01:41:23.840829+00:00"
+    },
+    {
+      "id": "54a88bdc2842",
+      "title": "Senior Software Engineer - - 78231 - Jobs at Lenovo",
+      "company": "Lenovo",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.lenovo.com/en_US/careers/JobDetail/Senior-Software-Engineer-Sports/78231",
+      "source": "Other",
+      "description": "Senior Software Engineer ( Sports) at created 16-Jun-2026.",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T21:35:43+00:00",
+      "fetched_at": "2026-11-12T11:55:42.801534+00:00"
     },
     {
       "id": "19a496dba987",
@@ -184,6 +424,21 @@
       "date": "2026-11-11",
       "timestamp": "2026-11-11T19:33:44+00:00",
       "fetched_at": "2026-11-12T01:41:23.943203+00:00"
+    },
+    {
+      "id": "0a013a9e1581",
+      "title": "Senior Software Engineer , Apple Ads - Jobs",
+      "company": "Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200694577-0836/senior-software-engineer-apple-ads?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Senior Software Engineer , Apple Ads job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T19:33:40+00:00",
+      "fetched_at": "2026-11-12T11:55:42.404137+00:00"
     },
     {
       "id": "a22fbb17e8f0",
