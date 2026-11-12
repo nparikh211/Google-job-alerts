@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-11-11T18:53:43.724725+00:00",
-  "total_jobs": 13245,
+  "last_updated": "2026-11-12T01:41:23.984085+00:00",
+  "total_jobs": 13268,
   "stats": {
-    "total_companies": 5826,
+    "total_companies": 5835,
     "total_roles": 171,
     "regions": {
-      "India": 8662,
-      "Philippines": 2869,
-      "Remote": 1638,
+      "India": 8677,
+      "Philippines": 2873,
+      "Remote": 1642,
       "Unknown": 135
     },
     "sources": {
-      "Other": 10358,
-      "Greenhouse": 672,
-      "LinkedIn": 551,
-      "Workday": 548,
+      "Other": 10373,
+      "Greenhouse": 673,
+      "LinkedIn": 553,
+      "Workday": 550,
       "Ashby": 432,
-      "iCIMS": 160,
+      "iCIMS": 163,
       "Breezy": 134,
       "Workable": 95,
       "SmartRecruiters": 94,
@@ -35,6 +35,336 @@
     }
   },
   "jobs": [
+    {
+      "id": "911406c9ffcd",
+      "title": "Full-Stack AI Engineer in New York, New York | Careers at US - U.S. Careers - NYU",
+      "company": "Full",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://uscareers-nyu.icims.com/jobs/17053/full-stack-ai-engineer/job",
+      "source": "iCIMS",
+      "description": "US is now hiring a Full-Stack AI Engineer in New York, New York. Review all of the job details and apply today!",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T22:02:47+00:00",
+      "fetched_at": "2026-11-12T01:41:23.840538+00:00"
+    },
+    {
+      "id": "e00d486b6803",
+      "title": "AI Platform Engineer in New York, New York | Careers at US - U.S. Careers - NYU",
+      "company": "Careers at US - U.S. Careers - NYU",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://uscareers-nyu.icims.com/jobs/17052/ai-platform-engineer/job",
+      "source": "iCIMS",
+      "description": "US is now hiring a AI Platform Engineer in New York, New York. Review all of the job details and apply today!",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T22:02:46+00:00",
+      "fetched_at": "2026-11-12T01:41:23.840759+00:00"
+    },
+    {
+      "id": "69c623a5b2b6",
+      "title": "Job Application for Senior Software Engineer at Snorkel AI - Greenhouse",
+      "company": "Snorkelai",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/snorkelai/jobs/6254291004",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer ... Snorkel AI is the frontier AI data lab, helping teams build the data and environments behind high-performing frontier and ...",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T21:46:51+00:00",
+      "fetched_at": "2026-11-12T01:41:23.840829+00:00"
+    },
+    {
+      "id": "19a496dba987",
+      "title": "How to train a Transformer (as a software engineer with no ML experience) | Gaurav Sen",
+      "company": "Gaurav Sen",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/posts/gkcs_how-to-train-a-transformer-as-a-software-activity-7526250304296722432-5aCp",
+      "source": "LinkedIn",
+      "description": "Sharing my experience training a transformer. I am a software engineer who has no prior experience with ML experience.",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T21:06:02+00:00",
+      "fetched_at": "2026-11-12T01:41:23.942377+00:00"
+    },
+    {
+      "id": "6bb865294bbf",
+      "title": "Junior DevOps Engineer | Azure Platform Engineering |IT Early career program - Rabobank",
+      "company": "Junior DevOps Engineer",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://rabobank.jobs/en/job/junior-devops-engineer-or-azure-platform-engineering-or-it-early-career-program/JR_00147909/",
+      "source": "Other",
+      "description": "A job with impact? Become Junior DevOps Engineer | Azure Platform Engineering |IT Early career program at Rabobank in Utrecht.",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T21:01:54+00:00",
+      "fetched_at": "2026-11-12T01:41:23.840999+00:00"
+    },
+    {
+      "id": "9f03ddeffb3a",
+      "title": "Cloud Engineer in Remote - CPI Card Group | Careers Center | Welcome",
+      "company": "CPI Card Group | Careers Center | Welcome",
+      "role": "Cloud Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers-cpicardgroup.icims.com/jobs/11596/cloud-engineer/job",
+      "source": "iCIMS",
+      "description": "Remote is now hiring a Cloud Engineer in Remote. Review all of the job details and apply today ... AWS Certified DevOps Engineer \u2013 Professional AWS ...",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T20:55:19+00:00",
+      "fetched_at": "2026-11-12T01:41:23.841112+00:00"
+    },
+    {
+      "id": "c583de17993e",
+      "title": "Software Engineer , Intern (Summer 2027) | Career Opportunities - Brex",
+      "company": "Career Opportunities - Brex",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.brex.com/careers/8936403002?gh_jid=8936403002",
+      "source": "Other",
+      "description": "Software Engineer , Intern (Summer 2027). San Francisco, California, United States. Why join us. Brex is the intelligent finance platform that ...",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T20:36:01+00:00",
+      "fetched_at": "2026-11-12T01:41:23.841271+00:00"
+    },
+    {
+      "id": "7d307df0c9ca",
+      "title": "Anthropic AI engineer nailed it: \u201cYou're not supposed to prompt Claude. You're ... - LinkedIn",
+      "company": "LinkedIn",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/linasbeliunas_anthropic-ai-engineer-nailed-it-youre-activity-7526376681180127232-oQJA",
+      "source": "LinkedIn",
+      "description": "Anthropic AI engineer nailed it: \u201cYou're not supposed to prompt Claude. You're supposed to build a system that prompts itself.",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T20:29:53+00:00",
+      "fetched_at": "2026-11-12T01:41:23.841450+00:00"
+    },
+    {
+      "id": "bc31479c6a1e",
+      "title": "Senior Software Engineer , Google Cloud Generative AI Blackbelt Team",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/107667015740596934-senior-software-engineer-google-cloud-generative-ai-blackbelt-team?page=157",
+      "source": "Other",
+      "description": "Cloud AI Engineer , Technical Onboarding Center. Bengaluru, Karnataka ... Senior Software Engineer , Google Cloud Generative AI Blackbelt Team.",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T19:40:31+00:00",
+      "fetched_at": "2026-11-12T01:41:23.943094+00:00"
+    },
+    {
+      "id": "29d0f6a5f864",
+      "title": "Partner Applied AI Engineer , Oracle and Clous ISV | OpenAI",
+      "company": "OpenAI",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://openai.com/careers/partner-applied-ai-engineer-oracle-and-clous-isv-san-francisco/",
+      "source": "Other",
+      "description": "As a Partner Applied AI Engineer focused on Cloud ISVs, you will work with Oracle Cloud, Snowflake, and Databricks to help customers adopt OpenAI. You ...",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T19:33:44+00:00",
+      "fetched_at": "2026-11-12T01:41:23.943203+00:00"
+    },
+    {
+      "id": "a22fbb17e8f0",
+      "title": "Senior Data Engineer - 67013 - MANTECH Careers",
+      "company": "67013 - MANTECH Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.mantech.com/en_US/careers/JobDetail/Senior-Data-Engineer/67013",
+      "source": "Other",
+      "description": "MANTECH seeks a motivated, career and customer-oriented Senior Data Engineer to join our team in Ashburn, VA. This is a hybrid-remote position ...",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T19:30:59+00:00",
+      "fetched_at": "2026-11-12T01:41:23.841546+00:00"
+    },
+    {
+      "id": "740e004b6e26",
+      "title": "Software Engineer I, Commerce - Job ID: 10599912 - Amazon Careers",
+      "company": "Job ID: 10599912 - Amazon Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.amazon.jobs/en/jobs/10599912/software-engineer-i-commerce",
+      "source": "Other",
+      "description": "Software Engineer I, Commerce. Job ID: 10599912 | Twitch Interactive, Inc. Apply now. Description. If you are interested in this position, please ...",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T19:23:38+00:00",
+      "fetched_at": "2026-11-12T01:41:23.841633+00:00"
+    },
+    {
+      "id": "071221b2e858",
+      "title": "Senior Software Engineer in Remote, Missouri, United States of America - Zelis Jobs",
+      "company": "Zelis Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.zelis.com/us/en/job/JR111924/Senior-Software-Engineer",
+      "source": "Other",
+      "description": "Apply for Senior Software Engineer job with Zelis in Remote, Missouri, United States of America. Technology at Zelis.",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T18:59:55+00:00",
+      "fetched_at": "2026-11-12T01:41:23.841703+00:00"
+    },
+    {
+      "id": "b928d76c1af0",
+      "title": "How To Land Your First Job As An AI Engineer - YouTube",
+      "company": "YouTube",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.youtube.com/watch?v=lM3ovWF5b8U",
+      "source": "Other",
+      "description": "... engineer ai software engineer software engineer ai engineer course ai engineering ai engineer roadmap ai interview data engineer ai ml engineer ai ...",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T18:58:24+00:00",
+      "fetched_at": "2026-11-12T01:41:23.841774+00:00"
+    },
+    {
+      "id": "64092b146785",
+      "title": "Senior Software Engineer | Careers - Dealership Accelerator",
+      "company": "Careers - Dealership Accelerator",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://dealershipaccelerator.io/careers/senior-software-engineer",
+      "source": "Other",
+      "description": "Dealership Accelerator is hiring a Senior Software Engineer to build and scale our AI platform for car dealerships. CAD $140000\u2013$190000.",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T18:38:09+00:00",
+      "fetched_at": "2026-11-12T01:41:23.943640+00:00"
+    },
+    {
+      "id": "75551caf8f5f",
+      "title": "Senior Software Engineer job - Experis USA - 417304",
+      "company": "Experis USA - 417304",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.experis.com/en/job/417304/senior-software-engineer",
+      "source": "Other",
+      "description": "Senior Software Engineer \u00b7 Design and implement microservices using Java/Spring Boot and TypeScript, supporting both event-driven and RESTful ...",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T18:32:21+00:00",
+      "fetched_at": "2026-11-12T01:41:23.841909+00:00"
+    },
+    {
+      "id": "115d6259a7fb",
+      "title": "Software Engineer \u2013 Engineering Tools & Automation - WSA APAC",
+      "company": "WSA APAC",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careersapac.wsa.com/jobs/8704927-software-engineer-engineering-tools-automation",
+      "source": "Other",
+      "description": "Software Engineer \u2013 Engineering Tools & Automation. Apply now ... Lead Data Engineer (individual contributor role) Research & Development ...",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T18:30:51+00:00",
+      "fetched_at": "2026-11-12T01:41:23.842018+00:00"
+    },
+    {
+      "id": "c95852b522cd",
+      "title": "Software Engineer , Financial AI Product - Rippling",
+      "company": "Rippling",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/rippling/jobs/ffc2fe16-9698-4997-b29d-54447678d169",
+      "source": "Other",
+      "description": "As a Senior Software Engineer on this team, you will help define how AI becomes a core part of financial product and infrastructure at Rippling.",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T18:24:20+00:00",
+      "fetched_at": "2026-11-12T01:41:23.842094+00:00"
+    },
+    {
+      "id": "e88655689ecd",
+      "title": "Senior Software Engineer - Intuitive Surgical Careers",
+      "company": "Intuitive Surgical Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.intuitive.com/en/jobs/744000161108070/JOB221589/senior-software-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer . San Francisco, CA, United States; Not Remote; Engineering; JOB221589. Engineering Landing.",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T17:57:46+00:00",
+      "fetched_at": "2026-11-12T01:41:23.842170+00:00"
+    },
+    {
+      "id": "e8824cb114a7",
+      "title": "Software Engineer II - Myworkdayjobs.com",
+      "company": "Relx",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://relx.wd3.myworkdayjobs.com/risksolutions/job/Alpharetta-GA/Software-Engineer-II_R120938",
+      "source": "Workday",
+      "description": "Software Engineer II ... BASIC FUNCTIONS: This position performs moderate research, design, and software development assignments within a specific ...",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T17:52:01+00:00",
+      "fetched_at": "2026-11-12T01:41:23.842214+00:00"
+    },
+    {
+      "id": "651e1c32550f",
+      "title": "Senior Platform Engineer - Careers at Veeam",
+      "company": "Veeam",
+      "role": "Platform Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.veeam.com/job/san-jose/senior-platform-engineer/22681/101709404864",
+      "source": "Other",
+      "description": "Senior Software Engineer . Product Engineering San Jose, CA Engineering Save/Unsave Job. Platform Engineer . Product Engineering San Jose, CA ...",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T17:42:53+00:00",
+      "fetched_at": "2026-11-12T01:41:23.944035+00:00"
+    },
+    {
+      "id": "f0adaedcc946",
+      "title": "Software Engineer - Myworkdayjobs.com",
+      "company": "Autodesk",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://autodesk.wd1.myworkdayjobs.com/ext/job/Novi-MI-USA/Software-Engineer_26WD102129-1",
+      "source": "Workday",
+      "description": "26WD102129. Software Engineer , AI & Fusion Engineering (Entry Level). Level: Entry Level / Early Career. Location: Novi, Michigan.",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T17:39:25+00:00",
+      "fetched_at": "2026-11-12T01:41:23.842256+00:00"
+    },
     {
       "id": "77d45dba8087",
       "title": "DevOps Engineer in Remote - MRO Corporation",
@@ -64,6 +394,21 @@
       "date": "2026-11-11",
       "timestamp": "2026-11-11T17:08:16+00:00",
       "fetched_at": "2026-11-11T18:53:43.438645+00:00"
+    },
+    {
+      "id": "9d8d4bf4c415",
+      "title": "Machine Learning Engineer , Transaction Risk - Stripe Careers",
+      "company": "Stripe Careers",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://stripe.com/careers/listing/machine-learning-engineer-transaction-risk/8187574",
+      "source": "Other",
+      "description": "Machine Learning Engineer , Transaction Risk ... You are an experienced ML engineer who combines deep modeling expertise with strong engineering judgment ...",
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T17:08:04+00:00",
+      "fetched_at": "2026-11-12T01:41:23.842403+00:00"
     },
     {
       "id": "65038f2740ba",
