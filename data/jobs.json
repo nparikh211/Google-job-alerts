@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-11-12T19:14:45.619068+00:00",
-  "total_jobs": 13312,
+  "last_updated": "2026-11-13T00:44:13.954155+00:00",
+  "total_jobs": 13327,
   "stats": {
-    "total_companies": 5849,
+    "total_companies": 5855,
     "total_roles": 174,
     "regions": {
-      "India": 8702,
-      "Philippines": 2886,
-      "Remote": 1648,
+      "India": 8713,
+      "Philippines": 2888,
+      "Remote": 1650,
       "Unknown": 135
     },
     "sources": {
-      "Other": 10410,
-      "Greenhouse": 673,
+      "Other": 10421,
+      "Greenhouse": 676,
+      "Workday": 554,
       "LinkedIn": 554,
-      "Workday": 553,
       "Ashby": 434,
       "iCIMS": 163,
       "Breezy": 134,
@@ -36,6 +36,141 @@
   },
   "jobs": [
     {
+      "id": "59fd48fd91bd",
+      "title": "Senior Software Engineer I - Digital Engineering | Rocket Lab",
+      "company": "Senior Software Engineer I",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://rocketlabcorp.com/careers/positions/senior-software-engineer-i-digital-engineering-littleton-co-8202563003/",
+      "source": "Other",
+      "description": "Are you passionate about advancing aerospace technology through cutting-edge software solutions? We're looking for a driven Senior Software Engineer I ...",
+      "date": "2026-11-12",
+      "timestamp": "2026-11-12T22:21:05+00:00",
+      "fetched_at": "2026-11-13T00:44:13.915620+00:00"
+    },
+    {
+      "id": "30e74b1f7f52",
+      "title": "Senior Software Engineer , Machine Learning Platform - Serving (US) - DoorDash",
+      "company": "Serving (US) - DoorDash",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careersatdoordash.com/jobs/senior-software-engineer-machine-learning-platform---serving-us/8384127",
+      "source": "Other",
+      "description": "Senior Software Engineer , Machine Learning Platform - Serving (US). Apply To Job. Job ID: 3618685. DoorDash, Inc. San Francisco, CA; Sunnyvale, CA ...",
+      "date": "2026-11-12",
+      "timestamp": "2026-11-12T21:52:17+00:00",
+      "fetched_at": "2026-11-13T00:44:13.823437+00:00"
+    },
+    {
+      "id": "bffe7ac2a834",
+      "title": "Senior Software Engineer - Macmillan Publishers - Holtzbrinck",
+      "company": "Macmillan Publishers - Holtzbrinck",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://holtzbrinck.com/de/job/senior-software-engineer",
+      "source": "Other",
+      "description": "Senior Software Engineer . Macmillan Publishers. Macmillan Publishers is a global trade book publishing company with prominent imprints around the ...",
+      "date": "2026-11-12",
+      "timestamp": "2026-11-12T21:28:22+00:00",
+      "fetched_at": "2026-11-13T00:44:13.823551+00:00"
+    },
+    {
+      "id": "285112970493",
+      "title": "Job Application for Senior Software Engineer - Corporate Actions & Security Master at Alpaca",
+      "company": "Alpaca",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/alpaca/jobs/6251385004",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer - Corporate Actions & Security Master. Remote - EMEA. Apply. Who We Are: Alpaca is a US-headquartered, global leader in ...",
+      "date": "2026-11-12",
+      "timestamp": "2026-11-12T21:23:58+00:00",
+      "fetched_at": "2026-11-13T00:44:13.823613+00:00"
+    },
+    {
+      "id": "258141ae8271",
+      "title": "Job Application for Senior Software Engineer , Backend (ML Feature Platform) at Affirm",
+      "company": "Affirm",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/affirm/jobs/8199419003",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer , Backend (ML Feature Platform). Remote US. Apply. At Affirm, we exist for the moments that matter\u2014giving people a clear ...",
+      "date": "2026-11-12",
+      "timestamp": "2026-11-12T20:26:21+00:00",
+      "fetched_at": "2026-11-13T00:44:13.915778+00:00"
+    },
+    {
+      "id": "31b212028742",
+      "title": "Senior Software Engineer in Belgrade, Serbia | at Clarivate",
+      "company": "Clarivate",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.clarivate.com/job/JREQ137145/Senior-Software-Engineer",
+      "source": "Other",
+      "description": "We are looking for a Senior Software Engineer to join our team in Belgrade. You will join a new AI-focused engineering team within A&G Content ...",
+      "date": "2026-11-12",
+      "timestamp": "2026-11-12T19:53:37+00:00",
+      "fetched_at": "2026-11-13T00:44:13.823689+00:00"
+    },
+    {
+      "id": "5282bb106158",
+      "title": "Software Engineer | Dayforce Jobs - DayforceHCM.com",
+      "company": "Dayforce Jobs - DayforceHCM.com",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.dayforcehcm.com/en-US/sonifi/CANDIDATEPORTAL/jobs/5892",
+      "source": "Other",
+      "description": "... Software Engineer who is ready to independently deliver high quality software solutions, contribute across the product development lifecycle, and ...",
+      "date": "2026-11-12",
+      "timestamp": "2026-11-12T19:08:54+00:00",
+      "fetched_at": "2026-11-13T00:44:13.823774+00:00"
+    },
+    {
+      "id": "35e1cfde4f4c",
+      "title": "Software Engineer - AI Lab - Optiver",
+      "company": "AI Lab - Optiver",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.optiver.com/join-us/jobs/trading/new-york/software-engineer-ai-lab/",
+      "source": "Other",
+      "description": "Software Engineer - AI Lab \u00b7 About the AI Lab The AI Lab is a research-focused team that applies frontier machine learning techniques to trading. \u00b7 What ...",
+      "date": "2026-11-12",
+      "timestamp": "2026-11-12T19:08:16+00:00",
+      "fetched_at": "2026-11-13T00:44:13.823860+00:00"
+    },
+    {
+      "id": "287bf0100266",
+      "title": "Senior Software Engineer in Minneapolis, Minnesota, United States - STERIS Careers",
+      "company": "STERIS Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.steris.com/us/en/job/SCZSCCUS57307EXTERNALENUS/Senior-Software-Engineer",
+      "source": "Other",
+      "description": "Apply for Senior Software Engineer job with STERIS Corporation in Minneapolis, Minnesota, United States. Engineering at STERIS Corporation.",
+      "date": "2026-11-12",
+      "timestamp": "2026-11-12T18:56:24+00:00",
+      "fetched_at": "2026-11-13T00:44:13.824045+00:00"
+    },
+    {
       "id": "3180ed40492b",
       "title": "2027 Summer Internship Program - Software Engineer at CareSource",
       "company": "CareSource",
@@ -51,6 +186,21 @@
       "fetched_at": "2026-11-12T19:14:45.483070+00:00"
     },
     {
+      "id": "ea91d6e8a8a5",
+      "title": "Job Application for Data Engineer (Starship) at SpaceX - Greenhouse",
+      "company": "Spacex",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/spacex/jobs/8938027002?gh_jid=8938027002",
+      "source": "Greenhouse",
+      "description": "Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars. DATA ENGINEER ( ...",
+      "date": "2026-11-12",
+      "timestamp": "2026-11-12T18:12:16+00:00",
+      "fetched_at": "2026-11-13T00:44:13.824272+00:00"
+    },
+    {
       "id": "71eb6cb1c0ac",
       "title": "Backend Engineer , New Grad - Bask Health - Application - Workable Jobs",
       "company": "Bask Health 1",
@@ -64,6 +214,21 @@
       "date": "2026-11-12",
       "timestamp": "2026-11-12T17:52:40+00:00",
       "fetched_at": "2026-11-12T19:14:45.483247+00:00"
+    },
+    {
+      "id": "f4e2a63fa8c2",
+      "title": "Senior Software Engineer AI - Connectivity, Chennai, Tamil N\u0101du, India | Caterpillar Careers",
+      "company": "Connectivity, Chennai, Tamil N\u0101du, India | Caterpillar Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.caterpillar.com/en/jobs/r0000405083/senior-software-engineer-ai-connectivity/",
+      "source": "Other",
+      "description": "Senior Software Engineer AI - Connectivity. Location, Chennai, Tamil N\u0101du ... Lead Agentic AI Engineer \u2013 Connectivity. Save Saved. Irving, Texas ...",
+      "date": "2026-11-12",
+      "timestamp": "2026-11-12T17:38:30+00:00",
+      "fetched_at": "2026-11-13T00:44:13.824467+00:00"
     },
     {
       "id": "d65188866d15",
@@ -111,6 +276,36 @@
       "fetched_at": "2026-11-12T19:14:45.484113+00:00"
     },
     {
+      "id": "841f10bfc881",
+      "title": "Software Engineer II - Myworkdayjobs.com",
+      "company": "Unum",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://unum.wd1.myworkdayjobs.com/en-US/External/job/Software-Engineer-II_836722",
+      "source": "Workday",
+      "description": "Join us. General Summary: Unum is hiring a hands-on Software Engineer II to join an Agile team supporting applications used for insurance quoting and ...",
+      "date": "2026-11-12",
+      "timestamp": "2026-11-12T16:20:48+00:00",
+      "fetched_at": "2026-11-13T00:44:13.824764+00:00"
+    },
+    {
+      "id": "44894b37ca44",
+      "title": "Associate Software Engineer , Early Career in Carlsbad, California | Viasat, Inc.",
+      "company": "Viasat, Inc.",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.viasat.com/jobs/7147?lang=en-us",
+      "source": "Other",
+      "description": "Associate Software Engineer , Early Career. JOB_DESCRIPTION.SHARE.HTML ... Willingness to engage as a DevOps engineer , who can handle the ...",
+      "date": "2026-11-12",
+      "timestamp": "2026-11-12T16:18:08+00:00",
+      "fetched_at": "2026-11-13T00:44:13.824831+00:00"
+    },
+    {
       "id": "c05b2b5a3e29",
       "title": "Data Engineer II - Verisk Careers - Cloud Sign In",
       "company": "Verisk Careers - Cloud Sign In",
@@ -139,6 +334,21 @@
       "date": "2026-11-12",
       "timestamp": "2026-11-12T16:01:36+00:00",
       "fetched_at": "2026-11-12T19:14:45.484697+00:00"
+    },
+    {
+      "id": "de66607396b7",
+      "title": "Senior AI Engineer , Basking Ridge, United States of America | Verizon Careers",
+      "company": "Verizon Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://mycareer.verizon.com/jobs/r-1103332/senior-ai-engineer/",
+      "source": "Other",
+      "description": "Data Intelligence. Senior AI Engineer . Basking Ridge, New Jersey/; Alpharetta, Georgia/; Irving, Texas. Job ID: R-1103332.",
+      "date": "2026-11-12",
+      "timestamp": "2026-11-12T15:56:35+00:00",
+      "fetched_at": "2026-11-13T00:44:13.825158+00:00"
     },
     {
       "id": "4b4f3e2d1aef",
@@ -184,6 +394,21 @@
       "date": "2026-11-12",
       "timestamp": "2026-11-12T15:40:21+00:00",
       "fetched_at": "2026-11-12T19:14:45.557159+00:00"
+    },
+    {
+      "id": "83ff8dee5205",
+      "title": "A Cobb County Marine veteran and software engineer has launched a free, privacy-focused ...",
+      "company": "focused ...",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.facebook.com/fox5atlanta/posts/a-cobb-county-marine-veteran-and-software-engineer-has-launched-a-free-privacy-f/1706978430799826/",
+      "source": "Other",
+      "description": "A Cobb County Marine veteran and software engineer has launched a free, privacy-focused website to help former service members navigate the ...",
+      "date": "2026-11-12",
+      "timestamp": "2026-11-12T15:36:22+00:00",
+      "fetched_at": "2026-11-13T00:44:13.917216+00:00"
     },
     {
       "id": "84ee54a9db14",
