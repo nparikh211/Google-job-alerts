@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-11-13T00:44:13.954155+00:00",
-  "total_jobs": 13327,
+  "last_updated": "2026-11-13T11:38:21.644001+00:00",
+  "total_jobs": 13352,
   "stats": {
-    "total_companies": 5855,
+    "total_companies": 5863,
     "total_roles": 174,
     "regions": {
-      "India": 8713,
-      "Philippines": 2888,
-      "Remote": 1650,
+      "India": 8729,
+      "Philippines": 2894,
+      "Remote": 1653,
       "Unknown": 135
     },
     "sources": {
-      "Other": 10421,
+      "Other": 10442,
       "Greenhouse": 676,
-      "Workday": 554,
+      "Workday": 555,
       "LinkedIn": 554,
-      "Ashby": 434,
+      "Ashby": 437,
       "iCIMS": 163,
       "Breezy": 134,
       "Workable": 96,
@@ -31,10 +31,340 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-11-12"
+      "latest": "2026-11-13"
     }
   },
   "jobs": [
+    {
+      "id": "e28f59fe39e4",
+      "title": "Senior Software Engineer (.NET Ecosystem) @ ClickHouse - Jobs",
+      "company": "Clickhouse",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.ashbyhq.com/clickhouse/51e77613-18b6-4f36-bc28-a7740198ca44",
+      "source": "Ashby",
+      "description": "Senior Software Engineer (.NET Ecosystem). Location. New York; Atlanta; Boston; Chicago; Detroit. Employment Type. Full time. Location Type. Remote ...",
+      "date": "2026-11-13",
+      "timestamp": "2026-11-13T10:39:23+00:00",
+      "fetched_at": "2026-11-13T11:38:21.508294+00:00"
+    },
+    {
+      "id": "2e34a4fe23a8",
+      "title": "Senior Software Engineer - Recruiting",
+      "company": "Recruiting",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/scope3pbc/jobs/187a53cd-31db-4f27-9201-4deadc56de6f",
+      "source": "Other",
+      "description": "Senior Software Engineer . About Apostra. Apostra is defining a new future for advertising, for both humans and their agents.",
+      "date": "2026-11-13",
+      "timestamp": "2026-11-13T10:20:41+00:00",
+      "fetched_at": "2026-11-13T11:38:21.509702+00:00"
+    },
+    {
+      "id": "e73db0924b27",
+      "title": "Senior AI Engineer at MD Ally - Gusto",
+      "company": "MD Ally",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.gusto.com/postings/md-ally-senior-ai-engineer-be34bcfd-2989-4ed1-91e7-e06db34393ad",
+      "source": "Other",
+      "description": "We are seeking an AI Engineer to architect, build, and scale our production AI systems. You will move beyond simple API wrappers to design ...",
+      "date": "2026-11-13",
+      "timestamp": "2026-11-13T09:29:29+00:00",
+      "fetched_at": "2026-11-13T11:38:21.510061+00:00"
+    },
+    {
+      "id": "172492e634f3",
+      "title": "Frontend Software Engineer - Trackunit",
+      "company": "Trackunit",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.trackunit.com/jobs/8614980-frontend-software-engineer",
+      "source": "Other",
+      "description": "Frontend Software Engineer . Apply for this job. We are looking for a Frontend Engineer to build the customer-facing applications that allow our ...",
+      "date": "2026-11-13",
+      "timestamp": "2026-11-13T09:28:49+00:00",
+      "fetched_at": "2026-11-13T11:38:21.510314+00:00"
+    },
+    {
+      "id": "591934d161da",
+      "title": "2027 Graduate - Mission Modeling, Simulation & Software Engineer in Laurel, Maryland",
+      "company": "2027 Graduate",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.jhuapl.edu/jobs/60029?lang=en-us",
+      "source": "Other",
+      "description": "Johns Hopkins APL is hiring a 2027 Graduate - Mission Modeling, Simulation & Software Engineer in Laurel, Maryland. Review all of the job details ...",
+      "date": "2026-11-13",
+      "timestamp": "2026-11-13T08:03:45+00:00",
+      "fetched_at": "2026-11-13T11:38:21.510617+00:00"
+    },
+    {
+      "id": "533d6e69f068",
+      "title": "Software Engineer I, Data Platforms | Careers - Abnormal AI",
+      "company": "Careers - Abnormal AI",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://abnormal.ai/careers/jobs/8196352003",
+      "source": "Other",
+      "description": "Apply for Software Engineer I, Data Platforms \u2014 Remote - USA at Abnormal.",
+      "date": "2026-11-13",
+      "timestamp": "2026-11-13T07:05:09+00:00",
+      "fetched_at": "2026-11-13T11:38:21.510778+00:00"
+    },
+    {
+      "id": "13fb36f1f51d",
+      "title": "Python- Software engineer III - - 350849 - Deloitte USI Careers",
+      "company": "Python",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://usijobs.deloitte.com/en_US/careersUSI/JobDetail/USI-EH27-Consulting-Services-AI-E-EaaS-SWE-Software-Engineer-III-Python/350849",
+      "source": "Other",
+      "description": "As a Software Engineer III at Deloitte Consulting, you will design, develop, and deploy enterprise-scale software solutions, lead the creation of ...",
+      "date": "2026-11-13",
+      "timestamp": "2026-11-13T06:45:31+00:00",
+      "fetched_at": "2026-11-13T11:38:21.511036+00:00"
+    },
+    {
+      "id": "fbe2bd0c210d",
+      "title": "Data Engineer - Jellycat career site",
+      "company": "career site",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.jellycat.com/jobs/8712129-data-engineer",
+      "source": "Other",
+      "description": "The Data Engineer builds the foundation that makes this possible: a reliable, well governed data platform on Microsoft Fabric that brings together our ...",
+      "date": "2026-11-13",
+      "timestamp": "2026-11-13T06:44:15+00:00",
+      "fetched_at": "2026-11-13T11:38:21.511171+00:00"
+    },
+    {
+      "id": "56a8f97c9ccf",
+      "title": "Cloud Engineer in Bangalore, India | Product and Engineering at Cisco - Cisco Careers",
+      "company": "Cisco",
+      "role": "Cloud Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2025380EXTERNALENGLOBAL/Cloud-Engineer",
+      "source": "Other",
+      "description": "Apply for Cloud Engineer job with Cisco in Bangalore, India. Product and Engineering at Cisco. ... Software Engineer | GO Programming, Cloud-Native, ...",
+      "date": "2026-11-13",
+      "timestamp": "2026-11-13T06:09:55+00:00",
+      "fetched_at": "2026-11-13T11:38:21.511365+00:00"
+    },
+    {
+      "id": "14313b9bf6d6",
+      "title": "Staff Software Engineer @ Nubank - Jobs",
+      "company": "Nubank",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/nubank/8bf394b9-1a47-43b5-b217-3279094e8bfc",
+      "source": "Ashby",
+      "description": "Staff Software Engineer . Location. Buenos Aires. Employment Type. Full time. Location Type. Hybrid. Department. Engineer. OverviewApplication. About ...",
+      "date": "2026-11-13",
+      "timestamp": "2026-11-13T05:02:40+00:00",
+      "fetched_at": "2026-11-13T11:38:21.511484+00:00"
+    },
+    {
+      "id": "e79336dac1ac",
+      "title": "Senior Software Engineer - Recruiting",
+      "company": "Recruiting",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/anaconda/jobs/58fbc742-637f-40cf-964a-d48d77f43203",
+      "source": "Other",
+      "description": "Senior Software Engineer . About Anaconda. Be at the center of AI. Anaconda is built to advance AI with open ...",
+      "date": "2026-11-13",
+      "timestamp": "2026-11-13T04:59:03+00:00",
+      "fetched_at": "2026-11-13T11:38:21.511639+00:00"
+    },
+    {
+      "id": "81498ad66ae1",
+      "title": "Senior Data Engineer , Operational Excellence - EDA Infrastructure",
+      "company": "Nvidia",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Senior-Data-Engineer--Operational-Excellence---EDA-Infrastructure_JR2029837",
+      "source": "Workday",
+      "description": "Senior Data Engineer , Operational Excellence - EDA Infrastructure ... AI Infrastructure Engineers at NVIDIA build the systems, tooling, and data ...",
+      "date": "2026-11-13",
+      "timestamp": "2026-11-13T02:12:20+00:00",
+      "fetched_at": "2026-11-13T11:38:21.511737+00:00"
+    },
+    {
+      "id": "f27441325afb",
+      "title": "Software Engineer in Bangalore, India | Product and Engineering at Cisco",
+      "company": "Cisco",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/2027065/Software-Engineer",
+      "source": "Other",
+      "description": "Apply for Software Engineer job with Cisco in Bangalore, India. Product and Engineering at Cisco. ... Site Reliability Engineer (SRE) \u2013 Cloud Platform & ...",
+      "date": "2026-11-13",
+      "timestamp": "2026-11-13T01:41:38+00:00",
+      "fetched_at": "2026-11-13T11:38:21.511863+00:00"
+    },
+    {
+      "id": "2ca9183ea2cb",
+      "title": "Senior DevOps Engineer - Assistant Vice President | Citi Careers",
+      "company": "Assistant Vice President | Citi Careers",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.citi.com/job/belfast/senior-devops-engineer-assistant-vice-president/287/103214416320",
+      "source": "Other",
+      "description": "Job Overview. Citi is looking for a Senior DevOps Engineer to join its Technology team and play a key role in designing, building, and optimizing the ...",
+      "date": "2026-11-13",
+      "timestamp": "2026-11-13T01:24:30+00:00",
+      "fetched_at": "2026-11-13T11:38:21.580613+00:00"
+    },
+    {
+      "id": "bd9f120c0ace",
+      "title": "Software Engineer , Ad Platforms - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200694769-0836/software-engineer-ad-platforms",
+      "source": "Other",
+      "description": "Apply for a Software Engineer , Ad Platforms job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-11-13",
+      "timestamp": "2026-11-13T00:43:02+00:00",
+      "fetched_at": "2026-11-13T11:38:21.512000+00:00"
+    },
+    {
+      "id": "b19e1e28a872",
+      "title": "Software Engineer , Ad Platforms - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200694769-0836/software-engineer-ad-platforms?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Software Engineer , Ad Platforms job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-11-13",
+      "timestamp": "2026-11-13T00:36:28+00:00",
+      "fetched_at": "2026-11-13T11:38:21.580775+00:00"
+    },
+    {
+      "id": "096184d08a4b",
+      "title": "Site Reliability Engineer , Senior - - 132891 - Booz | Allen | Hamilton \u00ae",
+      "company": "- 132891 - Booz | Allen | Hamilton \u00ae",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.boozallen.com/jobs/JobDetail/Annapolis-Junction-Site-Reliability-Engineer-Senior-R0253307/132891",
+      "source": "Other",
+      "description": "Site Reliability Engineer , Senior. The Opportunity: Join a team responsible for the reliability, performance, and scalability of a mission-critical ...",
+      "date": "2026-11-13",
+      "timestamp": "2026-11-13T00:27:16+00:00",
+      "fetched_at": "2026-11-13T11:38:21.512346+00:00"
+    },
+    {
+      "id": "08ced3a63cd4",
+      "title": "Senior Software Engineer - Embedded Networking, Payload Network Software Team",
+      "company": "Embedded Networking, Payload Network Software Team",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.amazon.jobs/en/jobs/10599141/senior-software-engineer-embedded-networking-payload-network-software-team",
+      "source": "Other",
+      "description": "Senior Software Engineer - Embedded Networking, Payload Network Software Team. Job ID: 10599141 | Amazon Kuiper Manufacturing Enterprises LLC. Apply ...",
+      "date": "2026-11-13",
+      "timestamp": "2026-11-13T00:22:48+00:00",
+      "fetched_at": "2026-11-13T11:38:21.512802+00:00"
+    },
+    {
+      "id": "f18ceb47dadf",
+      "title": "Senior Software Engineer , Vision AI - Remote, United States - Toast",
+      "company": "Remote, United States - Toast",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.toasttab.com/jobs/senior-software-engineer-vision-ai-remote-united-states",
+      "source": "Other",
+      "description": "We're looking for a Senior Software Engineer , Vision AI to build the platform and the products that bring it to restaurant operators. You'll own major ...",
+      "date": "2026-11-12",
+      "timestamp": "2026-11-12T23:25:18+00:00",
+      "fetched_at": "2026-11-13T11:38:21.581566+00:00"
+    },
+    {
+      "id": "f691378a27ef",
+      "title": "Senior Software Engineer - Careers - LEGO.com",
+      "company": "Careers - LEGO.com",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.lego.com/en-us/careers/job/senior-software-engineer-866d11b350321001c894d5f480e70000",
+      "source": "Other",
+      "description": "Senior Software Engineer : Job Description Just imagine building digital experiences that help children explore science, computer science and AI ...",
+      "date": "2026-11-12",
+      "timestamp": "2026-11-12T23:18:12+00:00",
+      "fetched_at": "2026-11-13T11:38:21.513135+00:00"
+    },
+    {
+      "id": "4e75495bdbe6",
+      "title": "Senior Software Engineer I (Fullstack) @ LG Ad Solutions - Jobs",
+      "company": "Lgads",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/lgads/ca7cf208-3c87-4869-b284-db8f0dd8a552",
+      "source": "Ashby",
+      "description": "Senior Software Engineer I (Fullstack). Location. Denver, CO; New York, NY. Employment Type. Full time. Location ...",
+      "date": "2026-11-12",
+      "timestamp": "2026-11-12T23:17:27+00:00",
+      "fetched_at": "2026-11-13T11:38:21.581863+00:00"
+    },
+    {
+      "id": "d9752822e2a6",
+      "title": "Sr Software Engineer - ML Infrastructure, San Francisco, United States",
+      "company": "ML Infrastructure, San Francisco, United States",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.uber.com/en/jobs/304217/",
+      "source": "Other",
+      "description": "Senior Software Engineer - ML Infrastructure, Mobility Simulation and Planning About the role and team How can Uber plan pricing and incentives to ...",
+      "date": "2026-11-12",
+      "timestamp": "2026-11-12T22:55:43+00:00",
+      "fetched_at": "2026-11-13T11:38:21.581999+00:00"
+    },
     {
       "id": "59fd48fd91bd",
       "title": "Senior Software Engineer I - Digital Engineering | Rocket Lab",
@@ -51,6 +381,21 @@
       "fetched_at": "2026-11-13T00:44:13.915620+00:00"
     },
     {
+      "id": "d32d66b789d3",
+      "title": "Senior Software Engineer - Post Market Quality in Warsaw, Masovian, Poland - Roche Careers",
+      "company": "Post Market Quality in Warsaw, Masovian, Poland - Roche Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.roche.com/global/en/job/ROCHGLOBAL202605112922EXTERNALENGLOBAL/Senior-Software-Engineer-Post-Market-Quality",
+      "source": "Other",
+      "description": "Apply for Senior Software Engineer - Post Market Quality job with Roche in Warsaw, Masovian, Poland. Information Technology at Roche.",
+      "date": "2026-11-12",
+      "timestamp": "2026-11-12T22:15:03+00:00",
+      "fetched_at": "2026-11-13T11:38:21.582509+00:00"
+    },
+    {
       "id": "30e74b1f7f52",
       "title": "Senior Software Engineer , Machine Learning Platform - Serving (US) - DoorDash",
       "company": "Serving (US) - DoorDash",
@@ -64,6 +409,36 @@
       "date": "2026-11-12",
       "timestamp": "2026-11-12T21:52:17+00:00",
       "fetched_at": "2026-11-13T00:44:13.823437+00:00"
+    },
+    {
+      "id": "cf284bb88bf9",
+      "title": "Software Engineer , Dublin | Fidelity Investments Ireland",
+      "company": "Fidelity Investments Ireland",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.fidelity.com/ie/jobs/2136849/software-engineer/",
+      "source": "Other",
+      "description": "Principal, Full Stack Engineer . Save Saved. Technology ... Senior Software Engineer . Save Saved. Technology Published: Oct 26; Galway. Details ...",
+      "date": "2026-11-12",
+      "timestamp": "2026-11-12T21:40:01+00:00",
+      "fetched_at": "2026-11-13T11:38:21.582879+00:00"
+    },
+    {
+      "id": "1db10beb8d3b",
+      "title": "AIOps Software Engineer - Strategic Data Solutions - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200693736-0157/aiops-software-engineer-strategic-data-solutions?team=CORSV",
+      "source": "Other",
+      "description": "Apply for a AIOps Software Engineer - Strategic Data Solutions job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-11-12",
+      "timestamp": "2026-11-12T21:33:56+00:00",
+      "fetched_at": "2026-11-13T11:38:21.514286+00:00"
     },
     {
       "id": "bffe7ac2a834",
