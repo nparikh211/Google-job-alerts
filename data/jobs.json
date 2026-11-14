@@ -1,26 +1,26 @@
 {
-  "last_updated": "2026-11-14T17:20:31.059641+00:00",
-  "total_jobs": 13433,
+  "last_updated": "2026-11-14T23:26:32.461474+00:00",
+  "total_jobs": 13447,
   "stats": {
-    "total_companies": 5889,
-    "total_roles": 174,
+    "total_companies": 5892,
+    "total_roles": 175,
     "regions": {
-      "India": 8779,
-      "Philippines": 2911,
-      "Remote": 1667,
+      "India": 8784,
+      "Philippines": 2918,
+      "Remote": 1669,
       "Unknown": 135
     },
     "sources": {
-      "Other": 10501,
-      "Greenhouse": 683,
+      "Other": 10511,
+      "Greenhouse": 684,
       "Workday": 560,
-      "LinkedIn": 555,
+      "LinkedIn": 556,
       "Ashby": 442,
-      "iCIMS": 166,
+      "iCIMS": 167,
       "Breezy": 134,
       "Workable": 96,
+      "Lever": 94,
       "SmartRecruiters": 94,
-      "Lever": 93,
       "Indeed": 45,
       "Recruitee": 17,
       "WeWorkRemotely": 15,
@@ -35,6 +35,66 @@
     }
   },
   "jobs": [
+    {
+      "id": "854f5465576f",
+      "title": "Associate Software Engineer in Remote / Telework - Job Listings at Valiant Solutions",
+      "company": "Valiant Solutions",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers-valiantsolutions.icims.com/jobs/7844/associate-software-engineer/job",
+      "source": "iCIMS",
+      "description": "Valiant Solutions is hiring an Associate Software Engineer to build the internal apps, automations, and AI tools that help our staff work faster.",
+      "date": "2026-11-14",
+      "timestamp": "2026-11-14T20:52:58+00:00",
+      "fetched_at": "2026-11-14T23:26:32.403650+00:00"
+    },
+    {
+      "id": "9abde7d58bb5",
+      "title": "Anthropic AI engineer nailed it: \"Most people will use Opus 5.5 & Fable 5.2 wrong. You can ...",
+      "company": "Unknown Company",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/linasbeliunas_anthropic-ai-engineer-nailed-it-most-people-activity-7527463289006723072-j0Mo",
+      "source": "LinkedIn",
+      "description": "Anthropic AI engineer nailed it: \"Most people will use Opus 5.5 & Fable 5.2 wrong. You can set them up right in one afternoon and stop overpaying ...",
+      "date": "2026-11-14",
+      "timestamp": "2026-11-14T20:34:50+00:00",
+      "fetched_at": "2026-11-14T23:26:32.176400+00:00"
+    },
+    {
+      "id": "7a1d75822a5a",
+      "title": "Senior Software Engineer , AI & Strategic Partner Engineering - Job ID - Amazon Careers",
+      "company": "Job ID - Amazon Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.amazon.jobs/en/jobs/10598816/senior-software-engineer-ai-strategic-partner-engineering",
+      "source": "Other",
+      "description": "Senior Software Engineer , AI & Strategic Partner Engineering. Job ID: 10598816 | Amazon Web Services, Inc. Apply now. Description. This position is ...",
+      "date": "2026-11-14",
+      "timestamp": "2026-11-14T20:16:38+00:00",
+      "fetched_at": "2026-11-14T23:26:32.404230+00:00"
+    },
+    {
+      "id": "489ddb755123",
+      "title": "Job Application for Software Engineer I, Cloud at CMTelematics - Greenhouse",
+      "company": "Cmt",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/cmt/jobs/8385978",
+      "source": "Greenhouse",
+      "description": "As a Software Engineer I, Cloud, you'll work on full-stack development projects that support scalable and performant cloud-based applications.",
+      "date": "2026-11-14",
+      "timestamp": "2026-11-14T19:24:40+00:00",
+      "fetched_at": "2026-11-14T23:26:32.404323+00:00"
+    },
     {
       "id": "ea984dd65a7c",
       "title": "Junior Software Engineer 1 in Hyderabad, Telang\u0101na, India - career at Crowe",
@@ -111,6 +171,21 @@
       "fetched_at": "2026-11-14T17:20:30.842525+00:00"
     },
     {
+      "id": "ac21b35cf4d1",
+      "title": "Software Engineer Job Details | Super Micro Computer",
+      "company": "Super Micro Computer",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.supermicro.com/job/Bade-Software-Engineer-Taiw/1430473700/",
+      "source": "Other",
+      "description": "Job Summary: Supermicro is seeking an experienced and exceptional Software Engineer to work on web-based applications for business process automation.",
+      "date": "2026-11-14",
+      "timestamp": "2026-11-14T13:36:25+00:00",
+      "fetched_at": "2026-11-14T23:26:32.405581+00:00"
+    },
+    {
       "id": "9ea418611705",
       "title": "Senior Software Engineer , Amazon Foundational Security Services - Identity - Job ID",
       "company": "Identity - Job ID",
@@ -124,6 +199,21 @@
       "date": "2026-11-14",
       "timestamp": "2026-11-14T13:31:20+00:00",
       "fetched_at": "2026-11-14T17:20:30.842839+00:00"
+    },
+    {
+      "id": "1084f799f461",
+      "title": "Senior Software Engineer in san jose, California, United States of America | Ing\u00e9nierie at Raytheon",
+      "company": "Raytheon",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.rtx.com/ca/fr/job/01888766/Senior-Software-Engineer",
+      "source": "Other",
+      "description": "Join us and help shape the future of aerospace and defense. Applied Signal Technology (AST) is seeking a Senior Software Engineer who strives for ...",
+      "date": "2026-11-14",
+      "timestamp": "2026-11-14T13:29:59+00:00",
+      "fetched_at": "2026-11-14T23:26:32.405717+00:00"
     },
     {
       "id": "9983968c55e9",
@@ -141,6 +231,81 @@
       "fetched_at": "2026-11-14T17:20:30.843044+00:00"
     },
     {
+      "id": "494caadd26e0",
+      "title": "Software Engineer , Profile & Community, Web - Careers at Airbnb",
+      "company": "Airbnb",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.airbnb.com/positions/8386065/",
+      "source": "Other",
+      "description": "Software Engineer , Profile & Community, Web. Remote, USA. Role overview. Application. Airbnb was born in 2007 when two hosts welcomed three guests to ...",
+      "date": "2026-11-14",
+      "timestamp": "2026-11-14T12:56:57+00:00",
+      "fetched_at": "2026-11-14T23:26:32.178131+00:00"
+    },
+    {
+      "id": "16eb9ce55fc7",
+      "title": "IT Platform Engineer - Loft Orbital Solutions - Lever",
+      "company": "Loftorbital",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.lever.co/loftorbital/5febb779-717c-40d6-9a4d-a261fe2fca09",
+      "source": "Lever",
+      "description": "Wanna join the adventure? Loft Orbital is looking for an IT Platform Engineer to help build, automate, and scale the technology that keeps our global ...",
+      "date": "2026-11-14",
+      "timestamp": "2026-11-14T12:47:35+00:00",
+      "fetched_at": "2026-11-14T23:26:32.178198+00:00"
+    },
+    {
+      "id": "8343df3158c2",
+      "title": "AI Engineer \u2013 Physical AI for Surgical Robotics (Cambridge, MA) - Philips Careers",
+      "company": "Philips Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.careers.philips.com/na/en/job/594332",
+      "source": "Other",
+      "description": "Apply for AI Engineer \u2013 Physical AI for Surgical Robotics (Cambridge, MA) job with Philips-canva in Cambridge , Massachusetts, United States, ...",
+      "date": "2026-11-14",
+      "timestamp": "2026-11-14T12:03:06+00:00",
+      "fetched_at": "2026-11-14T23:26:32.178295+00:00"
+    },
+    {
+      "id": "5facacbd959b",
+      "title": "Software Engineer 3 - Hanover, Maryland, United States - Amentum careers",
+      "company": "Hanover, Maryland, United States - Amentum careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.amentumcareers.com/jobs/software-engineer-3-hanover-maryland-united-states-a7367601-17e4-4f45-bb5d-325a97e5ba99",
+      "source": "Other",
+      "description": "Essential Responsibilities: The Software Engineer contributes to the design, development, deployment, and maintenance of the Mangrove LMS. Software ...",
+      "date": "2026-11-14",
+      "timestamp": "2026-11-14T11:52:06+00:00",
+      "fetched_at": "2026-11-14T23:26:32.406558+00:00"
+    },
+    {
+      "id": "550f0bb8631f",
+      "title": "Senior Full-Stack Engineer , Builder Platform - Okta",
+      "company": "Senior Full",
+      "role": "Stack Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.okta.com/company/careers/rd/senior-full-stack-engineer-builder-platform-8359853/",
+      "source": "Other",
+      "description": "... Senior Software Engineer - (Full Stack) Okta Workflows is the secure ... Full-Stack Engineer to join the Builder Platform team within Okta ...",
+      "date": "2026-11-14",
+      "timestamp": "2026-11-14T11:12:25+00:00",
+      "fetched_at": "2026-11-14T23:26:32.406800+00:00"
+    },
+    {
       "id": "c42e4fdd87c1",
       "title": "Software Engineer , Mid - - 132993 - Booz | Allen | Hamilton \u00ae - Careers",
       "company": "- 132993 - Booz | Allen | Hamilton \u00ae - Careers",
@@ -154,6 +319,21 @@
       "date": "2026-11-14",
       "timestamp": "2026-11-14T10:47:13+00:00",
       "fetched_at": "2026-11-14T17:20:30.995051+00:00"
+    },
+    {
+      "id": "0378579d3258",
+      "title": "Senior Software Engineer - HigherEdJobs",
+      "company": "HigherEdJobs",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.higheredjobs.com/details.cfm?JobCode=179616817",
+      "source": "Other",
+      "description": "Senior Software Engineer \u00b7 Strong foundation in software development, system design, and scalable architecture. \u00b7 Experience building full-stack ...",
+      "date": "2026-11-14",
+      "timestamp": "2026-11-14T10:22:12+00:00",
+      "fetched_at": "2026-11-14T23:26:32.407199+00:00"
     },
     {
       "id": "e72d166457ea",
@@ -171,6 +351,21 @@
       "fetched_at": "2026-11-14T17:20:30.843192+00:00"
     },
     {
+      "id": "b4471ce7e145",
+      "title": "Lead Software Engineer in Multiple Locations - Skanska USA Careers",
+      "company": "Skanska USA Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.usa.skanska.com/jobs/9317?lang=en-us",
+      "source": "Other",
+      "description": "The AI Application / Senior Software Engineer designs, builds, deploys and supports lightweight applications for Skanska USA Building business use ...",
+      "date": "2026-11-14",
+      "timestamp": "2026-11-14T09:55:11+00:00",
+      "fetched_at": "2026-11-14T23:26:32.178485+00:00"
+    },
+    {
       "id": "c7f6446a1652",
       "title": "Principal Software Engineer , Data Engineering at Intuit - Intuit Careers",
       "company": "Intuit",
@@ -184,6 +379,21 @@
       "date": "2026-11-14",
       "timestamp": "2026-11-14T09:33:32+00:00",
       "fetched_at": "2026-11-14T10:59:41.499590+00:00"
+    },
+    {
+      "id": "f4480dca9f19",
+      "title": "50+ applications, ~15 interviews, final rounds, no offer. Where do I get real help? : r/DevelEire",
+      "company": "Unknown Company",
+      "role": "50+ applications, ~15 interviews, final rounds, no offer. Wh",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/DevelEire/comments/1xvihnv/8_yoe_backend_engineer_returning_after_maternity/",
+      "source": "Other",
+      "description": "8 YOE backend engineer returning after maternity leave: 50+ ... Software Engineer Returning After 3 to 5 Year Career Gap, How Difficult ...",
+      "date": "2026-11-14",
+      "timestamp": "2026-11-14T09:21:42+00:00",
+      "fetched_at": "2026-11-14T23:26:32.178801+00:00"
     },
     {
       "id": "4db8599b3c49",
