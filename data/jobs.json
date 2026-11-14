@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-11-14T00:29:31.845790+00:00",
-  "total_jobs": 13396,
+  "last_updated": "2026-11-14T10:59:41.616442+00:00",
+  "total_jobs": 13418,
   "stats": {
-    "total_companies": 5877,
+    "total_companies": 5884,
     "total_roles": 174,
     "regions": {
-      "India": 8757,
-      "Philippines": 2904,
-      "Remote": 1659,
+      "India": 8767,
+      "Philippines": 2909,
+      "Remote": 1666,
       "Unknown": 135
     },
     "sources": {
-      "Other": 10471,
-      "Greenhouse": 679,
+      "Other": 10489,
+      "Greenhouse": 682,
       "Workday": 560,
       "LinkedIn": 555,
       "Ashby": 440,
-      "iCIMS": 165,
+      "iCIMS": 166,
       "Breezy": 134,
       "Workable": 96,
       "SmartRecruiters": 94,
@@ -31,10 +31,280 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-11-13"
+      "latest": "2026-11-14"
     }
   },
   "jobs": [
+    {
+      "id": "c7f6446a1652",
+      "title": "Principal Software Engineer , Data Engineering at Intuit - Intuit Careers",
+      "company": "Intuit",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.intuit.com/job/oakland/principal-software-engineer-data-engineering/27595/103261389648",
+      "source": "Other",
+      "description": "Alex Pollock Senior Software Engineer . Software Engineering at Intuit: Alex Pollock (Video). Related Content. Blog. 10 Essential Software ...",
+      "date": "2026-11-14",
+      "timestamp": "2026-11-14T09:33:32+00:00",
+      "fetched_at": "2026-11-14T10:59:41.499590+00:00"
+    },
+    {
+      "id": "4db8599b3c49",
+      "title": "KDE is hiring a software engineer to work on the Plasma Mobile platform : r/linux - Reddit",
+      "company": "Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/linux/comments/1xvag7w/kde_is_hiring_a_software_engineer_to_work_on_the/",
+      "source": "Other",
+      "description": "KDE is hiring a software engineer to work on the Plasma Mobile platform ... The servers platform is already Linux, windows is also falling, MacOS isn't ...",
+      "date": "2026-11-14",
+      "timestamp": "2026-11-14T09:16:33+00:00",
+      "fetched_at": "2026-11-14T10:59:41.500029+00:00"
+    },
+    {
+      "id": "26d70f129e1b",
+      "title": "Senior Software Engineer - Java - Messaging Orchestration for Apple iCloud, Apple Music and more",
+      "company": "Java - Messaging Orchestration for Apple iCloud, Apple Music and more",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-gb/details/200694731/senior-software-engineer-java-messaging-orchestration-for-apple-icloud-apple-music-and-more",
+      "source": "Other",
+      "description": "We are seeking an accomplished senior software engineer to architect and build the software for our customer engagement platform, powering message ...",
+      "date": "2026-11-14",
+      "timestamp": "2026-11-14T08:12:18+00:00",
+      "fetched_at": "2026-11-14T10:59:41.564626+00:00"
+    },
+    {
+      "id": "87492f458950",
+      "title": "Software Engineer Compiler I (Full Time) \u2013 United States - Cisco Careers",
+      "company": "Cisco Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2031593EXTERNALENGLOBAL/Software-Engineer-Compiler-I-Full-Time-United-States",
+      "source": "Other",
+      "description": "Apply for Software Engineer Compiler I (Full Time) \u2013 United States job with Cisco in Austin, Texas, United States of America.",
+      "date": "2026-11-14",
+      "timestamp": "2026-11-14T08:09:03+00:00",
+      "fetched_at": "2026-11-14T10:59:41.564825+00:00"
+    },
+    {
+      "id": "f071bbd5e803",
+      "title": "Job Application for Senior Software Engineer at Netlify - Greenhouse",
+      "company": "Netlify",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/netlify/jobs/8519325002",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer . Remote. Apply. About the Team. Netlify's engineering teams build the products, platforms, and infrastructure that empower ...",
+      "date": "2026-11-14",
+      "timestamp": "2026-11-14T07:39:25+00:00",
+      "fetched_at": "2026-11-14T10:59:41.500112+00:00"
+    },
+    {
+      "id": "0cc9c46b36bd",
+      "title": "Staff Machine Learning Engineer - Vision AI - Remote, United States - Toast",
+      "company": "Vision AI - Remote, United States - Toast",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.toasttab.com/jobs/staff-machine-learning-engineer-vision-ai-remote-united-states",
+      "source": "Other",
+      "description": "We're looking for a Staff Machine Learning Engineer , Vision AI to build the platform and the products that bring it to restaurant operators. You'll ...",
+      "date": "2026-11-14",
+      "timestamp": "2026-11-14T07:21:47+00:00",
+      "fetched_at": "2026-11-14T10:59:41.565036+00:00"
+    },
+    {
+      "id": "85373dc83b11",
+      "title": "Senior Software Engineer , Verifications Platform - - Upstart",
+      "company": "- Upstart",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.upstart.com/jobs/senior-software-engineer-verifications-platform",
+      "source": "Other",
+      "description": "As a Senior Software Engineer on the Verifications Decisioning team, you will design and build backend services that power verification workflows and ...",
+      "date": "2026-11-14",
+      "timestamp": "2026-11-14T07:16:41+00:00",
+      "fetched_at": "2026-11-14T10:59:41.500244+00:00"
+    },
+    {
+      "id": "9e5a2eeb67ad",
+      "title": "Netflix Frontend Engineer Interview Experience | $420K | 2026 - Medium",
+      "company": "$420K | 2026 - Medium",
+      "role": "Frontend Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://medium.com/frontend-army/netflix-frontend-engineer-interview-experience-420k-2026-805bf38cf3ed",
+      "source": "Other",
+      "description": "How to Become an AI Engineer in 2026: The Complete Learning Roadmap ... My First Interview in 3 Years \u2014 Senior Software Engineer (Frontend) at Headout ...",
+      "date": "2026-11-14",
+      "timestamp": "2026-11-14T07:01:57+00:00",
+      "fetched_at": "2026-11-14T10:59:41.565375+00:00"
+    },
+    {
+      "id": "6d81883e038c",
+      "title": "Job Application for Senior Software Engineer , Issuing at Lithic - Greenhouse",
+      "company": "Lithic",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/lithic/jobs/6261185004",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer , Issuing. Remote. Apply. Lithic is the modern card issuing and processing platform empowering ambitious financial companies ...",
+      "date": "2026-11-14",
+      "timestamp": "2026-11-14T03:15:45+00:00",
+      "fetched_at": "2026-11-14T10:59:41.565439+00:00"
+    },
+    {
+      "id": "0c13e54b612b",
+      "title": "Senior Software Engineer , Backend - Push Security",
+      "company": "Push Security",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://pushsecurity.com/careers/57566",
+      "source": "Other",
+      "description": "Senior Software Engineer , Backend *Candidates must be based in the UK for consideration About Push Security Push puts security where it belongs, ...",
+      "date": "2026-11-14",
+      "timestamp": "2026-11-14T03:15:22+00:00",
+      "fetched_at": "2026-11-14T10:59:41.500389+00:00"
+    },
+    {
+      "id": "a00377db2f3e",
+      "title": "Principal AI Engineer - CA, United States - Careers at Rapid7",
+      "company": "Rapid7",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.rapid7.com/jobs/principal-ai-engineer-ca-united-states",
+      "source": "Other",
+      "description": "Principal AI Engineer . R12654. CA, United States. Our Engineering organisation is scaling its AI Engineering capabilities under new leadership ...",
+      "date": "2026-11-14",
+      "timestamp": "2026-11-14T03:08:39+00:00",
+      "fetched_at": "2026-11-14T10:59:41.500494+00:00"
+    },
+    {
+      "id": "d56b24425b1d",
+      "title": "Private Cloud Engineer III in | Careers at Work From Home - TierPoint, LLC",
+      "company": "Work From Home",
+      "role": "Cloud Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers-tierpoint.icims.com/jobs/3087/private-cloud-engineer-iii/job",
+      "source": "iCIMS",
+      "description": "Work From Home is now hiring a Private Cloud Engineer III in . Review all of the job details and apply today!",
+      "date": "2026-11-14",
+      "timestamp": "2026-11-14T01:17:39+00:00",
+      "fetched_at": "2026-11-14T10:59:41.500594+00:00"
+    },
+    {
+      "id": "21b76761fbed",
+      "title": "Software Engineer III, Incident Response, Redwood City - Box",
+      "company": "Box",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.box.com/en/jobs/8267895/software-engineer-iii-incident-response/",
+      "source": "Other",
+      "description": "Engineering. Senior Software Engineer , AI Experience. Save Saved. Redwood City, California, United States; Engineering. Senior Software Engineer , ...",
+      "date": "2026-11-14",
+      "timestamp": "2026-11-14T00:46:37+00:00",
+      "fetched_at": "2026-11-14T10:59:41.500707+00:00"
+    },
+    {
+      "id": "1ed4604dbf28",
+      "title": "Java Software Engineer (Java, AWS and AI Initiatives) - Hyderabad | Infor Careers",
+      "company": "Hyderabad | Infor Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.infor.com/postings/6b46224b-fe8d-45c3-b98c-6f72054a7245",
+      "source": "Other",
+      "description": "As a Senior Software Engineer , you will design and build core pieces of this semantic layer: ontology models, canonical entity schemas, and the ...",
+      "date": "2026-11-14",
+      "timestamp": "2026-11-14T00:33:38+00:00",
+      "fetched_at": "2026-11-14T10:59:41.565963+00:00"
+    },
+    {
+      "id": "ce51f5838f53",
+      "title": "Job Application for Software Engineer , Consumer Subscriptions at SpaceXSI - Greenhouse",
+      "company": "Xai",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/xai/jobs/5290321007",
+      "source": "Greenhouse",
+      "description": "Software Engineer , Consumer Subscriptions. Palo Alto, CA. Apply. SpaceX was founded under the belief that a future where humanity is out exploring ...",
+      "date": "2026-11-14",
+      "timestamp": "2026-11-14T00:05:10+00:00",
+      "fetched_at": "2026-11-14T10:59:41.566027+00:00"
+    },
+    {
+      "id": "96834e78d9d0",
+      "title": "Software Engineer at Intuit - Intuit Careers",
+      "company": "Intuit",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.intuit.com/job/san-diego/software-engineer/27595/103261394672",
+      "source": "Other",
+      "description": "Intuit supports you, not just as you are now, but as the person that you want to grow to be. Alex Pollock Senior Software Engineer .",
+      "date": "2026-11-13",
+      "timestamp": "2026-11-13T23:51:55+00:00",
+      "fetched_at": "2026-11-14T10:59:41.500791+00:00"
+    },
+    {
+      "id": "5e814d760c11",
+      "title": "Sharetec - Senior Software Engineer - API Development - Paylocity",
+      "company": "Sharetec",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://recruiting.paylocity.com/recruiting/jobs/Details/4662439/Sharetec/Senior-Software-Engineer---API-Development",
+      "source": "Other",
+      "description": "Sharetec is looking for a Senior Software Engineer to join our API Development team! Behind every loan payment, transfer, and balance check at a ...",
+      "date": "2026-11-13",
+      "timestamp": "2026-11-13T23:43:43+00:00",
+      "fetched_at": "2026-11-14T10:59:41.566237+00:00"
+    },
+    {
+      "id": "608014084d79",
+      "title": "Software Engineer , Profile & Community, Android - Careers at Airbnb",
+      "company": "Airbnb",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.airbnb.com/positions/8386083/?gh_jid=8386083",
+      "source": "Other",
+      "description": "Software Engineer , Profile & Community, Android. Remote, USA. Role overview. Application. Airbnb was born in 2007 when two hosts welcomed three guests ...",
+      "date": "2026-11-13",
+      "timestamp": "2026-11-13T23:38:27+00:00",
+      "fetched_at": "2026-11-14T10:59:41.500991+00:00"
+    },
     {
       "id": "3dcffe1f2690",
       "title": "Software Engineer (CEQ) - Careers at Akeneo",
@@ -66,6 +336,36 @@
       "fetched_at": "2026-11-14T00:29:31.787072+00:00"
     },
     {
+      "id": "586e6c5900d2",
+      "title": "Senior Software Engineer - Managed Services in Remote, United States - careers at CDW",
+      "company": "CDW",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.cdwjobs.com/jobs/18480648-senior-software-engineer-managed-services",
+      "source": "Other",
+      "description": "As a Senior Software Engineer at CDW, you will design, develop, and maintain software, agentic, and automation solutions that support the applications ...",
+      "date": "2026-11-13",
+      "timestamp": "2026-11-13T23:11:57+00:00",
+      "fetched_at": "2026-11-14T10:59:41.501280+00:00"
+    },
+    {
+      "id": "c73df81ff14c",
+      "title": "Senior Software Engineer , Galway | Fidelity Investments Ireland",
+      "company": "Fidelity Investments Ireland",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.fidelity.com/ie/jobs/2137365/senior-software-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer . Published: Nov 13. ID: 2137365. Fidelity is ... Data Engineer . Save Saved. Technology Published: Oct 26; Galway. Details ...",
+      "date": "2026-11-13",
+      "timestamp": "2026-11-13T23:07:03+00:00",
+      "fetched_at": "2026-11-14T10:59:41.501381+00:00"
+    },
+    {
       "id": "561d0685b2ac",
       "title": "Software Engineer , Infrastructure Applications - Jobs - Careers at Apple",
       "company": "Apple",
@@ -79,6 +379,36 @@
       "date": "2026-11-13",
       "timestamp": "2026-11-13T21:55:50+00:00",
       "fetched_at": "2026-11-14T00:29:31.378577+00:00"
+    },
+    {
+      "id": "5f4bc2cb8bda",
+      "title": "Application Platform Engineer - UNC Libraries",
+      "company": "UNC Libraries",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://library.unc.edu/job-postings/application-platform-engineer/",
+      "source": "Other",
+      "description": "Position Summary. The University Library at the University of North Carolina at Chapel Hill seeks an Application Platform Engineer to join our staff.",
+      "date": "2026-11-13",
+      "timestamp": "2026-11-13T21:32:50+00:00",
+      "fetched_at": "2026-11-14T10:59:41.501594+00:00"
+    },
+    {
+      "id": "1913889c543e",
+      "title": "Software Engineer , Sunnyvale, CA, United States - Intuitive Surgical Careers",
+      "company": "Intuitive Surgical Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.intuitive.com/en/jobs/744000161528139/JOB222028/software-engineer/",
+      "source": "Other",
+      "description": "Software Engineer . Sunnyvale, CA, United States; Not Remote; Engineering ... Senior Software Engineer - UI Software Architecture & Display Systems.",
+      "date": "2026-11-13",
+      "timestamp": "2026-11-13T21:18:10+00:00",
+      "fetched_at": "2026-11-14T10:59:41.501696+00:00"
     },
     {
       "id": "91c8be41804f",
