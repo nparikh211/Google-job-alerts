@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-11-18T01:54:07.394829+00:00",
-  "total_jobs": 13629,
+  "last_updated": "2026-11-18T12:21:04.324169+00:00",
+  "total_jobs": 13653,
   "stats": {
-    "total_companies": 5960,
-    "total_roles": 178,
+    "total_companies": 5965,
+    "total_roles": 179,
     "regions": {
-      "India": 8897,
-      "Philippines": 2963,
-      "Remote": 1693,
+      "India": 8911,
+      "Philippines": 2966,
+      "Remote": 1701,
       "Unknown": 135
     },
     "sources": {
-      "Other": 10649,
-      "Greenhouse": 694,
-      "Workday": 563,
+      "Other": 10669,
+      "Greenhouse": 695,
+      "Workday": 564,
       "LinkedIn": 562,
-      "Ashby": 455,
+      "Ashby": 457,
       "iCIMS": 172,
       "Breezy": 136,
       "Lever": 96,
@@ -35,6 +35,337 @@
     }
   },
   "jobs": [
+    {
+      "id": "ae984f0e1354",
+      "title": "Data Security Platform Engineer at Ford Motor Company",
+      "company": "Ford Motor Company",
+      "role": "Platform Engineer",
+      "regions": [
+        "India",
+        "Remote"
+      ],
+      "link": "https://www.careers.ford.com/en/job/united-states/data-security-platform-engineer/48560/103456975440",
+      "source": "Other",
+      "description": "Data Security Platform Engineer . Job ID: 73382. Location: Remote ... Software Engineer - SAP EWM. India. Senior Associate. India. NA PFM Pricing ...",
+      "date": "2026-11-18",
+      "timestamp": "2026-11-18T09:00:17+00:00",
+      "fetched_at": "2026-11-18T12:21:04.260486+00:00"
+    },
+    {
+      "id": "aa33c6a1ebd9",
+      "title": "Senior Software Engineer , Reliability @ Temporal Technologies - Jobs",
+      "company": "Temporal",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/temporal/af8d1e25-14b1-476d-a079-0d72cc5fdcd8",
+      "source": "Ashby",
+      "description": "ROLE SUMMARY Join the Reliability team as a Senior Software Engineer , reporting to Tushar Roy, and help improve the reliability of operating ...",
+      "date": "2026-11-18",
+      "timestamp": "2026-11-18T08:28:17+00:00",
+      "fetched_at": "2026-11-18T12:21:04.260886+00:00"
+    },
+    {
+      "id": "4eac546002a3",
+      "title": "Senior Data Engineer Tech Foundations - Careers at Airbnb",
+      "company": "Airbnb",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.airbnb.com/positions/8396777/?gh_jid=8396777",
+      "source": "Other",
+      "description": "Senior Data Engineer Tech Foundations. US - Remote. Role overview. Application. Airbnb was born in 2007 when two hosts welcomed three guests to their ...",
+      "date": "2026-11-18",
+      "timestamp": "2026-11-18T07:49:20+00:00",
+      "fetched_at": "2026-11-18T12:21:04.261021+00:00"
+    },
+    {
+      "id": "b8a388324ae8",
+      "title": "Senior Software Engineer (Java, SQL, RESTful APIs) -Remote - US - Ellucian Careers",
+      "company": "Remote - US - Ellucian Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.ellucian.com/jobs/8006",
+      "source": "Other",
+      "description": "Ellucian is hiring a Senior Software Engineer (Java, SQL, RESTful APIs) -Remote - US in United States. Review all of the job details and apply ...",
+      "date": "2026-11-18",
+      "timestamp": "2026-11-18T07:39:37+00:00",
+      "fetched_at": "2026-11-18T12:21:04.204742+00:00"
+    },
+    {
+      "id": "6347b67b4207",
+      "title": "Software Engineer I in Pune, India, 411006 - Careers at Mastercard",
+      "company": "Mastercard",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mastercard.com/us/en/job/R-294428/Software-Engineer-I",
+      "source": "Other",
+      "description": "Senior Software Engineer - Java Full Stack React/Angular. Location Pune, India, 411006 Category Engineering. Principal Software Engineer - Java ...",
+      "date": "2026-11-18",
+      "timestamp": "2026-11-18T07:33:15+00:00",
+      "fetched_at": "2026-11-18T12:21:04.261281+00:00"
+    },
+    {
+      "id": "ad5c643f86fe",
+      "title": "Software Engineer , Hyderabad | ServiceNow Careers",
+      "company": "ServiceNow Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.servicenow.com/jobs/744000162226349/software-engineer/",
+      "source": "Other",
+      "description": "Software Engineer . Engineering, Infrastructure and Operations \u00b7 Hyderabad; Flexible; November 18, 2026; JB0077178.",
+      "date": "2026-11-18",
+      "timestamp": "2026-11-18T07:06:04+00:00",
+      "fetched_at": "2026-11-18T12:21:04.204928+00:00"
+    },
+    {
+      "id": "dd2bc70920f8",
+      "title": "Software Engineer , Hyderabad - ServiceNow Careers",
+      "company": "ServiceNow Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.servicenow.com/jobs/744000162226349/software-engineer/",
+      "source": "Other",
+      "description": "Software Engineer . Engineering, Infrastructure and Operations \u00b7 Hyderabad; Flexible; November 18, 2026; JB0077178.",
+      "date": "2026-11-18",
+      "timestamp": "2026-11-18T07:06:04+00:00",
+      "fetched_at": "2026-11-18T12:21:04.261442+00:00"
+    },
+    {
+      "id": "3c3d0e19ef38",
+      "title": "Senior Software Engineer , Production Support @ Fieldguide - Jobs",
+      "company": "Fieldguide",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/fieldguide/eb8b637c-d9cd-4b98-99e4-ea5113701473",
+      "source": "Ashby",
+      "description": "About the Role We are building a new engineering-led production support function, and as a Senior Software Engineer , Production Support, ...",
+      "date": "2026-11-18",
+      "timestamp": "2026-11-18T06:56:56+00:00",
+      "fetched_at": "2026-11-18T12:21:04.261541+00:00"
+    },
+    {
+      "id": "806af9f540ae",
+      "title": "Software Engineer - Job Detail | Careers Marketplace - Siemens Jobs",
+      "company": "Job Detail | Careers Marketplace - Siemens Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/529345",
+      "source": "Other",
+      "description": "Software Engineer . Job ID. 529345. Posted since. 17-Nov-2026. Organization ... Senior Software Engineer . Bangalore, Karnataka, India. Software ...",
+      "date": "2026-11-18",
+      "timestamp": "2026-11-18T06:23:56+00:00",
+      "fetched_at": "2026-11-18T12:21:04.205115+00:00"
+    },
+    {
+      "id": "c07b018bcf3a",
+      "title": "Data Engineer - Remote, United States - Toast",
+      "company": "Remote, United States - Toast",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.toasttab.com/jobs/data-engineer-remote-united-states",
+      "source": "Other",
+      "description": "Data Engineer \u00b7 Build and maintain scalable, production-ready data pipelines end to end using modern data technologies. \u00b7 Ensure data quality, ...",
+      "date": "2026-11-18",
+      "timestamp": "2026-11-18T06:02:44+00:00",
+      "fetched_at": "2026-11-18T12:21:04.205296+00:00"
+    },
+    {
+      "id": "a3db65272c87",
+      "title": "Software Engineer III, AI Agent Architecture - Careers - Google",
+      "company": "Careers - Google",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/81598080377332422-software-engineer-iii-ai-agent-architecture",
+      "source": "Other",
+      "description": "As a software engineer , you will work on a specific project critical to Google Cloud's needs with opportunities to switch teams and projects as you ...",
+      "date": "2026-11-18",
+      "timestamp": "2026-11-18T05:59:41+00:00",
+      "fetched_at": "2026-11-18T12:21:04.205566+00:00"
+    },
+    {
+      "id": "d32421dbf913",
+      "title": "Software Engineer (Cloud & Platform Technologies) - Volvo Group Jobs",
+      "company": "Volvo Group Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.volvogroup.com/job/Shah-Alam-Software-Engineer-%28Cloud-&-Platform-Technologies%29-40200/1377293955/",
+      "source": "Other",
+      "description": "Software Engineer (Cloud & Platform Technologies). Location: Shah Alam, MY, 40200. Position Type: Professional. Permanent/Temporary: Permanent.",
+      "date": "2026-11-18",
+      "timestamp": "2026-11-18T04:47:42+00:00",
+      "fetched_at": "2026-11-18T12:21:04.262083+00:00"
+    },
+    {
+      "id": "e73a6f6dc305",
+      "title": "AI.Engineer on X: \"Code getting cheaper makes judgment more valuable. What deserves to ...",
+      "company": "deserves to ...",
+      "role": "AI.Engineer on X: \"Code getting cheaper makes judgment more ",
+      "regions": [
+        "India"
+      ],
+      "link": "https://x.com/aiDotEngineer/status/2122842225512247422",
+      "source": "Other",
+      "description": "AI.Engineer \u00b7 @aiDotEngineer. Code getting cheaper makes judgment more valuable. What deserves to exist is still an engineering decision. Good ...",
+      "date": "2026-11-18",
+      "timestamp": "2026-11-18T04:35:34+00:00",
+      "fetched_at": "2026-11-18T12:21:04.205995+00:00"
+    },
+    {
+      "id": "6abcf56fad28",
+      "title": "AI Software Engineer job | jobs at DHL Group",
+      "company": "DHL Group",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.dhl.com/global/en/job/DPDHGLOBALAV392225ENGLOBALEXTERNAL/AI-Software-Engineer",
+      "source": "Other",
+      "description": "Apply for AI Software Engineer job with DHL Group in Chennai, Tamil N\u0101du, India. jobs at DHL Group.",
+      "date": "2026-11-18",
+      "timestamp": "2026-11-18T04:28:26+00:00",
+      "fetched_at": "2026-11-18T12:21:04.206171+00:00"
+    },
+    {
+      "id": "6fe04f1ae600",
+      "title": "Data Engineer - Myworkdayjobs.com",
+      "company": "Highmarkhealth",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Data-Engineer_J291550",
+      "source": "Workday",
+      "description": "Careers \u00b7 Data Engineer \u00b7 Company : \u00b7 Job Description :.",
+      "date": "2026-11-18",
+      "timestamp": "2026-11-18T04:27:23+00:00",
+      "fetched_at": "2026-11-18T12:21:04.206273+00:00"
+    },
+    {
+      "id": "b917cbb51d2b",
+      "title": "Senior AI/ ML Engineer , Human Physiology Modeling - GSK jobs",
+      "company": "GSK jobs",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.gsk.com/be/en/job/450830/Senior-AI-ML-Engineer-Human-Physiology-Modeling",
+      "source": "Other",
+      "description": "Apply for Senior AI/ ML Engineer , Human Physiology Modeling job with GSK in San Francisco, California, United States of America.",
+      "date": "2026-11-18",
+      "timestamp": "2026-11-18T04:10:07+00:00",
+      "fetched_at": "2026-11-18T12:21:04.206497+00:00"
+    },
+    {
+      "id": "5ebf467a2a22",
+      "title": "Software Engineer II, Support AI - Remote, United States - Toast",
+      "company": "Remote, United States - Toast",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.toasttab.com/jobs/software-engineer-ii-support-ai-remote-united-states",
+      "source": "Other",
+      "description": "As a Software Engineer II on Support AI, you'll own features and components within these systems, from technical design through implementation, ...",
+      "date": "2026-11-18",
+      "timestamp": "2026-11-18T04:02:15+00:00",
+      "fetched_at": "2026-11-18T12:21:04.262909+00:00"
+    },
+    {
+      "id": "a73207df0a92",
+      "title": "Software Engineer II, Support AI - Remote, United States - Toast",
+      "company": "Remote, United States - Toast",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.toasttab.com/jobs/software-engineer-ii-support-ai-remote-united-states?gh_jid=8386144",
+      "source": "Other",
+      "description": "Software Engineer II, Support AI ... Ability to work East Coast hours required. Toast creates technology to help restaurants and local businesses ...",
+      "date": "2026-11-18",
+      "timestamp": "2026-11-18T04:00:15+00:00",
+      "fetched_at": "2026-11-18T12:21:04.206857+00:00"
+    },
+    {
+      "id": "d17b3d03c6d6",
+      "title": "Senior Director, Data Engineer - McLean - Capital One Careers",
+      "company": "McLean - Capital One Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.capitalonecareers.com/job/mclean/senior-director-data-engineer/1732/103431123760",
+      "source": "Other",
+      "description": "Senior Director, Data Engineer . McLean, Virginia | San Francisco ... Senior Staff Full-stack Engineer \u2013 Customer Resiliency (Senior Director ...",
+      "date": "2026-11-18",
+      "timestamp": "2026-11-18T02:22:45+00:00",
+      "fetched_at": "2026-11-18T12:21:04.207054+00:00"
+    },
+    {
+      "id": "e89b088d7008",
+      "title": "Software Engineer , Agentic Systems - Moveworks, Mountain View | ServiceNow Careers",
+      "company": "Moveworks, Mountain View | ServiceNow Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.servicenow.com/jobs/744000162190099/software-engineer-agentic-systems-moveworks/",
+      "source": "Other",
+      "description": "Software Engineer , Agentic Systems - Moveworks. Mountain View; Required in ... Senior Software Engineer , Agentic Systems - Moveworks. Save Saved.",
+      "date": "2026-11-18",
+      "timestamp": "2026-11-18T01:11:16+00:00",
+      "fetched_at": "2026-11-18T12:21:04.207265+00:00"
+    },
+    {
+      "id": "17850b47cb19",
+      "title": "Job Application for Senior Software Engineer , Backend (Continuous Delivery) at Affirm",
+      "company": "Affirm",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/affirm/jobs/8181191003",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer , Backend (Continuous Delivery). Remote US. Apply. At Affirm, we exist for the moments that matter\u2014giving people a clear ...",
+      "date": "2026-11-18",
+      "timestamp": "2026-11-18T00:45:44+00:00",
+      "fetched_at": "2026-11-18T12:21:04.207400+00:00"
+    },
+    {
+      "id": "37ba9c640900",
+      "title": "Senior Data Engineer - Komatsu Jobs",
+      "company": "Komatsu Jobs",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://komatsu.jobs/job/Senior-Data-Engineer/36220-en_US/",
+      "source": "Other",
+      "description": "Senior Data Engineer . Posting Start Date: 11/16/26. Job Location (Short): Chicago, Illinois, USA, 60631 | Milwaukee, Wisconsin, USA, 53204-2941 ...",
+      "date": "2026-11-18",
+      "timestamp": "2026-11-18T00:38:56+00:00",
+      "fetched_at": "2026-11-18T12:21:04.207538+00:00"
+    },
     {
       "id": "4399d1583212",
       "title": "Software Engineer at Ford Motor Company",
@@ -64,6 +395,36 @@
       "date": "2026-11-18",
       "timestamp": "2026-11-18T00:02:52+00:00",
       "fetched_at": "2026-11-18T01:54:07.129170+00:00"
+    },
+    {
+      "id": "4f366bd5ea81",
+      "title": "From Zero to Cloud Engineer in 90 days | Full Roadmap (2026) - YouTube",
+      "company": "Full Roadmap (2026) - YouTube",
+      "role": "Cloud Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.youtube.com/watch?v=f6GNXkXeELE",
+      "source": "Other",
+      "description": "... all numbers are illustrative only. From Zero to Cloud Engineer in 90 days | Full Roadmap (2026). @AIwithSoleyman 73 likes 3.3K views 8h ago. more.",
+      "date": "2026-11-18",
+      "timestamp": "2026-11-18T00:02:51+00:00",
+      "fetched_at": "2026-11-18T12:21:04.208093+00:00"
+    },
+    {
+      "id": "7de777d21cd1",
+      "title": "Cloud Engineer (Temporary) - Cambium Learning",
+      "company": "Cambium Learning",
+      "role": "Cloud Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.cambiumlearning.com/jobs/product-engineering/remote/cloud-engineer-temporary-/REQ-4720",
+      "source": "Other",
+      "description": "Cloud Engineer (Temporary) - RemoteLocation: Remote, United States. Must work and reside within the US.Position Type: Temporary (Up to 6 ...",
+      "date": "2026-11-17",
+      "timestamp": "2026-11-17T23:23:01+00:00",
+      "fetched_at": "2026-11-18T12:21:04.208262+00:00"
     },
     {
       "id": "c8160efbd13d",
