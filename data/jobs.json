@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-11-17T17:06:49.629837+00:00",
-  "total_jobs": 13605,
+  "last_updated": "2026-11-18T01:54:07.394829+00:00",
+  "total_jobs": 13629,
   "stats": {
-    "total_companies": 5950,
+    "total_companies": 5960,
     "total_roles": 178,
     "regions": {
-      "India": 8883,
-      "Philippines": 2960,
-      "Remote": 1686,
+      "India": 8897,
+      "Philippines": 2963,
+      "Remote": 1693,
       "Unknown": 135
     },
     "sources": {
-      "Other": 10631,
-      "Greenhouse": 692,
+      "Other": 10649,
+      "Greenhouse": 694,
       "Workday": 563,
-      "LinkedIn": 561,
-      "Ashby": 452,
+      "LinkedIn": 562,
+      "Ashby": 455,
       "iCIMS": 172,
       "Breezy": 136,
       "Lever": 96,
@@ -31,10 +31,370 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-11-17"
+      "latest": "2026-11-18"
     }
   },
   "jobs": [
+    {
+      "id": "4399d1583212",
+      "title": "Software Engineer at Ford Motor Company",
+      "company": "Ford Motor Company",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.careers.ford.com/en/job/dearborn/software-engineer/48560/103442727024",
+      "source": "Other",
+      "description": "Software Engineer - positions offered by Ford Motor Credit Company LLC (Dearborn, Michigan). Note, this is a hybrid position whereby the employee will ...",
+      "date": "2026-11-18",
+      "timestamp": "2026-11-18T00:16:35+00:00",
+      "fetched_at": "2026-11-18T01:54:07.335203+00:00"
+    },
+    {
+      "id": "f379b776763a",
+      "title": "Senior Software Engineer - Video Display Performance, Sunnyvale, CA, United States",
+      "company": "Video Display Performance, Sunnyvale, CA, United States",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.intuitive.com/en/jobs/744000162164949/JOB218589/senior-software-engineer-video-display-performance/",
+      "source": "Other",
+      "description": "As a Senior Software Engineer within this organization, you will work collaboratively across both software and hardware teams to design and develop ...",
+      "date": "2026-11-18",
+      "timestamp": "2026-11-18T00:02:52+00:00",
+      "fetched_at": "2026-11-18T01:54:07.129170+00:00"
+    },
+    {
+      "id": "c8160efbd13d",
+      "title": "Platform Engineer (Storage/Remote) in N56 W17000 Ridgewood Dr, Menomonee Falls, WI 53051",
+      "company": "Unknown Company",
+      "role": "Platform Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.kohls.com/job/R508666/Platform-Engineer-Storage-Remote",
+      "source": "Other",
+      "description": "Platform Engineer (Storage/Remote). Share job: Share via Facebook ... Senior Data Engineer (Remote). About the Role. As Senior Software Engineer ...",
+      "date": "2026-11-17",
+      "timestamp": "2026-11-17T23:17:01+00:00",
+      "fetched_at": "2026-11-18T01:54:07.129348+00:00"
+    },
+    {
+      "id": "7ceefa346b6e",
+      "title": "Software Engineer , Backend, AI Ventures @ Ramp - Jobs",
+      "company": "Ramp",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/ramp/3cfbf693-58e3-423f-87a8-a93dbd0839b0",
+      "source": "Ashby",
+      "description": "Software Engineer , Backend, AI Ventures. Location. New York, NY (HQ). Employment Type. Full time. Location Type. Hybrid. Department. Engineering ...",
+      "date": "2026-11-17",
+      "timestamp": "2026-11-17T22:49:06+00:00",
+      "fetched_at": "2026-11-18T01:54:07.129445+00:00"
+    },
+    {
+      "id": "a60a9de4e9f9",
+      "title": "IT Platform Engineer Job Details - Careers at ExxonMobil",
+      "company": "ExxonMobil",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.exxonmobil.com/ExxonMobil/job/Kuala-Lumpur-IT-Platform-Engineer-Fede-50088/1427164100/",
+      "source": "Other",
+      "description": "IT Platform Engineer . Location: Kuala Lumpur, Federal Territory of Kuala Lumpur, MY, 50088. Company Name: ExxonMobil. About us. For well over a ...",
+      "date": "2026-11-17",
+      "timestamp": "2026-11-17T22:41:56+00:00",
+      "fetched_at": "2026-11-18T01:54:07.129606+00:00"
+    },
+    {
+      "id": "299979a709c0",
+      "title": "Senior DevOps Engineer - Planet Depos LLC - Paylocity",
+      "company": "Planet Depos LLC - Paylocity",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4667825",
+      "source": "Other",
+      "description": "We need a Senior DevOps Engineer to help build and run the platform those teams depend on: infrastructure as code, CI/CD pipelines, and the monitoring ...",
+      "date": "2026-11-17",
+      "timestamp": "2026-11-17T22:07:26+00:00",
+      "fetched_at": "2026-11-18T01:54:07.129741+00:00"
+    },
+    {
+      "id": "7fdf3fb401c5",
+      "title": "Job Application for Software Engineer , Safety at SpaceXSI - Greenhouse",
+      "company": "Xai",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/xai/jobs/5297316007",
+      "source": "Greenhouse",
+      "description": "We are seeking a Full Stack Software Engineer to support our Safety teams. You will play a critical role in designing, developing, deploying, and ...",
+      "date": "2026-11-17",
+      "timestamp": "2026-11-17T21:11:12+00:00",
+      "fetched_at": "2026-11-18T01:54:07.129832+00:00"
+    },
+    {
+      "id": "b7fe1c2a38ae",
+      "title": "Senior Software Engineer , Simulator Platform - Mountain View, California, United States",
+      "company": "Mountain View, California, United States",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.withwaymo.com/jobs/senior-software-engineer-simulator-platform-mountain-view-california-united-states-san-francisco-a71b8d2d-60bb-4983-8e20-3cb56e96ec73",
+      "source": "Other",
+      "description": "png. Senior Software Engineer , Simulator Platform. Mountain View, California, United States. San Francisco, California, United States ...",
+      "date": "2026-11-17",
+      "timestamp": "2026-11-17T21:04:55+00:00",
+      "fetched_at": "2026-11-18T01:54:07.130294+00:00"
+    },
+    {
+      "id": "62d4efb91188",
+      "title": "Software Engineer - Seattle - Calligo Careers",
+      "company": "Seattle - Calligo Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://calligo.pinpointhq.com/en/postings/d31a0c3c-dcdc-4b26-a1b0-0f216588849c",
+      "source": "Other",
+      "description": "We are seeking an experienced and highly motivated Software Engineer to lead the design, development, deployment, and ongoing management of ...",
+      "date": "2026-11-17",
+      "timestamp": "2026-11-17T20:41:29+00:00",
+      "fetched_at": "2026-11-18T01:54:07.130452+00:00"
+    },
+    {
+      "id": "6f208997d73e",
+      "title": "Job Application for Software Engineer , Ads Serving at SpaceXSI - Greenhouse",
+      "company": "Xai",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://job-boards.greenhouse.io/xai/jobs/5297311007",
+      "source": "Greenhouse",
+      "description": "Software Engineer , Ads Serving. Palo Alto, CA. Apply. SpaceX was founded under the belief that a future where humanity is out exploring the stars is ...",
+      "date": "2026-11-17",
+      "timestamp": "2026-11-17T20:39:28+00:00",
+      "fetched_at": "2026-11-18T01:54:07.130538+00:00"
+    },
+    {
+      "id": "78d425ffe301",
+      "title": "Software Engineer - Akamai Career Site Careers - Cloud Sign In",
+      "company": "Akamai Career Site Careers - Cloud Sign In",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4454",
+      "source": "Other",
+      "description": "Software Engineer . United States (Remote). Job Description. Do you have a passion for cutting edge technologies and develop security tools? Are you a ...",
+      "date": "2026-11-17",
+      "timestamp": "2026-11-17T20:38:05+00:00",
+      "fetched_at": "2026-11-18T01:54:07.130688+00:00"
+    },
+    {
+      "id": "d2f3236adb99",
+      "title": "Senior Software Engineer - Digital Infuzion - Career Page",
+      "company": "Digital Infuzion - Career Page",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://digitalinfuzion.applytojob.com/apply/lfesdqqKwS/Senior-Software-Engineer",
+      "source": "Other",
+      "description": "Senior Software Engineer ... We believe that by equipping researchers with rapid insights and providers with tailored, on-demand data, we can help ...",
+      "date": "2026-11-17",
+      "timestamp": "2026-11-17T19:31:53+00:00",
+      "fetched_at": "2026-11-18T01:54:07.337119+00:00"
+    },
+    {
+      "id": "a99e8cd0a3f6",
+      "title": "Staff Software Engineer , AI-Native Systems @ Wheel - Jobs",
+      "company": "Wheel",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.ashbyhq.com/wheel/e0995e7f-077b-43e2-b8c6-a45e98ccb77d",
+      "source": "Ashby",
+      "description": "STAFF SOFTWARE ENGINEER , AI-NATIVE SYSTEMS Location: Remote (US) WE ARE Virtual care only works if the infrastructure behind it does.",
+      "date": "2026-11-17",
+      "timestamp": "2026-11-17T19:07:29+00:00",
+      "fetched_at": "2026-11-18T01:54:07.130769+00:00"
+    },
+    {
+      "id": "b25c746a737f",
+      "title": "Lead Software Engineer job in Remote United States of America | Information Technology ...",
+      "company": "Information Technology ...",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.magellanhealth.com/us/en/job/R00000071419/Lead-Software-Engineer",
+      "source": "Other",
+      "description": "Apply for Lead Software Engineer job with Magellan Health in Remote United States of America. Browse and apply for Information Technology jobs at ...",
+      "date": "2026-11-17",
+      "timestamp": "2026-11-17T18:56:35+00:00",
+      "fetched_at": "2026-11-18T01:54:07.130902+00:00"
+    },
+    {
+      "id": "fedd5546c18b",
+      "title": "Senior Principal Software Engineer (Config Management) at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/santa-clara/senior-principal-software-engineer-config-management/47263/103432957760",
+      "source": "Other",
+      "description": "Senior Principal Software Engineer (Config Management). Santa Clara, California, United States of America Product Engineering Ref ID: JR-024896. Apply",
+      "date": "2026-11-17",
+      "timestamp": "2026-11-17T18:54:12+00:00",
+      "fetched_at": "2026-11-18T01:54:07.131092+00:00"
+    },
+    {
+      "id": "699963927df5",
+      "title": "Senior Data Engineer - TS/SCI with Polygraph - GDIT",
+      "company": "TS/SCI with Polygraph - GDIT",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.gdit.com/careers/job/0e137f475/senior-data-engineer-tssci-with-polygraph/",
+      "source": "Other",
+      "description": "Job Description. Deliver simple solutions to complex problems as a Data Engineer at GDIT. Here, you'll tailor cutting-edge solutions to the unique ...",
+      "date": "2026-11-17",
+      "timestamp": "2026-11-17T18:28:23+00:00",
+      "fetched_at": "2026-11-18T01:54:07.131342+00:00"
+    },
+    {
+      "id": "5b1dcc2055e2",
+      "title": "Software Engineer | Mytra - Rippling",
+      "company": "Mytra - Rippling",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/mytra/jobs/c56c1efe-84a1-48b0-825a-b837d34602ff",
+      "source": "Other",
+      "description": "Software Engineer . About Mytra: We're creating an entirely new way to solve the most ubiquitous problem in industry - moving ...",
+      "date": "2026-11-17",
+      "timestamp": "2026-11-17T18:12:23+00:00",
+      "fetched_at": "2026-11-18T01:54:07.131476+00:00"
+    },
+    {
+      "id": "3a44c48702f6",
+      "title": "Software Engineer (L1) - Twilio Careers",
+      "company": "Twilio Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.twilio.com/careers/job/1099556746364?domain=twilio.com&src=LinkedIn",
+      "source": "Other",
+      "description": "Senior Software Engineer . Engineering. Remote - Ireland. Remote. Posted 5 months ago \u00b7 Staff Machine Learning Engineer ... DevOps Engineer ( ...",
+      "date": "2026-11-17",
+      "timestamp": "2026-11-17T17:50:13+00:00",
+      "fetched_at": "2026-11-18T01:54:07.131732+00:00"
+    },
+    {
+      "id": "0dd3dcc41724",
+      "title": "Senior Data Engineer - Rabobank.jobs",
+      "company": "Rabobank.jobs",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://rabobank.jobs/en/job/senior-data-engineer/JR_00148113/",
+      "source": "Other",
+      "description": "Senior Data Engineer . IT. Hybrid; Utrecht (NL); \u20ac5,030 - \u20ac7,183 (scale 09) ... Ankit Bhimjiyani, DevOps Engineer . Article. Green coding: The path to ...",
+      "date": "2026-11-17",
+      "timestamp": "2026-11-17T17:47:02+00:00",
+      "fetched_at": "2026-11-18T01:54:07.131858+00:00"
+    },
+    {
+      "id": "da501f05d310",
+      "title": "Full Stack Software Engineer at UnitedHealth Group",
+      "company": "UnitedHealth Group",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.unitedhealthgroup.com/job/eden-prairie/full-stack-software-engineer/34088/103429070320",
+      "source": "Other",
+      "description": "Full Stack Software Engineer ; Requisition number: 2388555 ; Job category: Technology ; Primary location: Eden Prairie, Minnesota ; Date posted: 11/17/ ...",
+      "date": "2026-11-17",
+      "timestamp": "2026-11-17T17:45:42+00:00",
+      "fetched_at": "2026-11-18T01:54:07.132003+00:00"
+    },
+    {
+      "id": "8f6cbba77aae",
+      "title": "I Built a $5,000 AI Engineer Interview Prep. I'm Giving It Away for $0. - LinkedIn",
+      "company": "LinkedIn",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/pulse/i-built-5000-ai-engineer-interview-prep-im-giving-away-aleti-6hoke",
+      "source": "LinkedIn",
+      "description": "It was March 2026. My frd was 12 months into his 2nd Applied AI role. I just referred him to a Senior AI Engineer interview at a growth-stage startup.",
+      "date": "2026-11-17",
+      "timestamp": "2026-11-17T17:35:01+00:00",
+      "fetched_at": "2026-11-18T01:54:07.132195+00:00"
+    },
+    {
+      "id": "3f0d867b9927",
+      "title": "RTA Fleet - Senior Software Engineer",
+      "company": "RTA Fleet",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://recruiting.paylocity.com/recruiting/jobs/Details/4666953/Ron-Turley-Associates-Inc/Senior-Software-Engineer",
+      "source": "Other",
+      "description": "Senior Software Engineer (Full-Stack Mastermind). $200k \u2013 $220k / year. \u2022 Remote (U.S. only). All work must be performed in the United States.",
+      "date": "2026-11-17",
+      "timestamp": "2026-11-17T17:15:37+00:00",
+      "fetched_at": "2026-11-18T01:54:07.338531+00:00"
+    },
+    {
+      "id": "d87138c2b829",
+      "title": "Senior Software Engineer Guest & Host - Careers at Airbnb",
+      "company": "Airbnb",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.airbnb.com/positions/8393912/?gh_jid=8393912",
+      "source": "Other",
+      "description": "Senior Software Engineer Guest & Host. Remote, USA. Role overview. Application. Airbnb was born in 2007 when two hosts welcomed three guests to their ...",
+      "date": "2026-11-17",
+      "timestamp": "2026-11-17T17:13:33+00:00",
+      "fetched_at": "2026-11-18T01:54:07.338656+00:00"
+    },
+    {
+      "id": "18442db25194",
+      "title": "Senior AI Engineer @ Plaud - Jobs",
+      "company": "Plaud",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/Plaud/0bf8bd16-aaf8-4a7c-8c91-9056e3974789",
+      "source": "Ashby",
+      "description": "Senior AI Engineer . Location. Palo Alto, CA; San Francisco, CA; Seattle, WA. Employment Type. Full time. Department. Global Product R&D Center.",
+      "date": "2026-11-17",
+      "timestamp": "2026-11-17T16:52:51+00:00",
+      "fetched_at": "2026-11-18T01:54:07.338753+00:00"
+    },
     {
       "id": "8d5f232c5820",
       "title": "Senior Software Engineer \u2013 Norm Compliance - Jobs",
