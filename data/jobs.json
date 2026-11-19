@@ -1,26 +1,26 @@
 {
-  "last_updated": "2026-11-18T22:43:23.753812+00:00",
-  "total_jobs": 13677,
+  "last_updated": "2026-11-19T04:37:14.721032+00:00",
+  "total_jobs": 13687,
   "stats": {
-    "total_companies": 5974,
+    "total_companies": 5975,
     "total_roles": 179,
     "regions": {
-      "India": 8928,
-      "Philippines": 2970,
-      "Remote": 1704,
+      "India": 8936,
+      "Philippines": 2972,
+      "Remote": 1705,
       "Unknown": 135
     },
     "sources": {
-      "Other": 10686,
+      "Other": 10693,
       "Greenhouse": 697,
       "Workday": 565,
       "LinkedIn": 563,
-      "Ashby": 457,
+      "Ashby": 459,
       "iCIMS": 172,
       "Breezy": 136,
       "Workable": 97,
+      "SmartRecruiters": 96,
       "Lever": 96,
-      "SmartRecruiters": 95,
       "Indeed": 46,
       "Recruitee": 18,
       "WeWorkRemotely": 16,
@@ -31,10 +31,146 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-11-18"
+      "latest": "2026-11-19"
     }
   },
   "jobs": [
+    {
+      "id": "a4690e8f82db",
+      "title": "Software Engineer | Schwab Jobs",
+      "company": "Schwab Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.schwabjobs.com/job/chicago/software-engineer/33727/101102737200",
+      "source": "Other",
+      "description": "Software Engineer . Chicago, IL. Requisition ID 2026-127302 Category Risk & Regulatory Position type Regular Pay range USD $95,000.00 - $155,000.00 ...",
+      "date": "2026-11-19",
+      "timestamp": "2026-11-19T00:51:53+00:00",
+      "fetched_at": "2026-11-19T04:37:14.611327+00:00"
+    },
+    {
+      "id": "117bbcf48f69",
+      "title": "Software Engineer - Platform Engineering - Twilio Careers",
+      "company": "Software Engineer",
+      "role": "Software Engineer",
+      "regions": [
+        "India",
+        "Remote"
+      ],
+      "link": "https://jobs.twilio.com/careers/job/1099557142560",
+      "source": "Other",
+      "description": "... platform engineer ... Principal, Machine Learning Engineer (L5). Engineering. Remote - India. Remote. Posted a month ago \u00b7 DevOps Engineer ( ...",
+      "date": "2026-11-18",
+      "timestamp": "2026-11-18T23:38:36+00:00",
+      "fetched_at": "2026-11-19T04:37:14.611452+00:00"
+    },
+    {
+      "id": "e19ad39c37f5",
+      "title": "Data Engineer @ Benchling - Jobs",
+      "company": "Benchling",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/benchling/c97e5668-29ee-4810-b7cc-35331ac123f5",
+      "source": "Ashby",
+      "description": "Data Engineer . Location. San Francisco, CA. Employment Type. Full time. Location Type. Hybrid. Department. Engineering. Compensation. $154K \u2013 $208K \u2022 ...",
+      "date": "2026-11-18",
+      "timestamp": "2026-11-18T23:26:39+00:00",
+      "fetched_at": "2026-11-19T04:37:14.611541+00:00"
+    },
+    {
+      "id": "6ec76230eb72",
+      "title": "Staff Platform Engineer @ River - Jobs",
+      "company": "River",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/river/415272d0-6d9e-493b-b5d1-1704d3d70d08",
+      "source": "Ashby",
+      "description": "We are looking for a Staff Platform Engineer to automate away anything that slows our engineers down. AI agents running in the cloud do a growing ...",
+      "date": "2026-11-18",
+      "timestamp": "2026-11-18T23:04:32+00:00",
+      "fetched_at": "2026-11-19T04:37:14.611616+00:00"
+    },
+    {
+      "id": "2fefda96d41d",
+      "title": "(USA) Senior, Software Engineer - Walmart Careers",
+      "company": "Walmart Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.walmart.com/us/en/jobs/R-2707188",
+      "source": "Other",
+      "description": "Role summary: The Senior Software Engineer will lead the delivery of scoped features and models through collaborative teams, ensuring alignment ...",
+      "date": "2026-11-18",
+      "timestamp": "2026-11-18T22:32:34+00:00",
+      "fetched_at": "2026-11-19T04:37:14.611872+00:00"
+    },
+    {
+      "id": "d98c112dd62b",
+      "title": "[Summer 2027 Canada] Software Engineer Intern, Engine - Roblox Careers",
+      "company": "Roblox Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.roblox.com/jobs/8386080",
+      "source": "Other",
+      "description": "As a Software Engineer Intern on our Engine team, you will be mentored by industry veterans from the video game and real-time simulation sectors.",
+      "date": "2026-11-18",
+      "timestamp": "2026-11-18T22:19:10+00:00",
+      "fetched_at": "2026-11-19T04:37:14.611958+00:00"
+    },
+    {
+      "id": "0b50e98831cc",
+      "title": "Software Engineer , Full Stack and Cloud - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200695576-0836/software-engineer-full-stack-and-cloud?team=HRDWR",
+      "source": "Other",
+      "description": "Apply for a Software Engineer , Full Stack and Cloud job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-11-18",
+      "timestamp": "2026-11-18T22:04:19+00:00",
+      "fetched_at": "2026-11-19T04:37:14.668753+00:00"
+    },
+    {
+      "id": "b18b46f0b6b1",
+      "title": "Mirantis Senior Software Engineer \u2014 Integrations & AI Agents | SmartRecruiters",
+      "company": "Mirantis",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.smartrecruiters.com/Mirantis/744000162220659-senior-software-engineer-integrations-ai-agents",
+      "source": "SmartRecruiters",
+      "description": "Mirantis is looking for a Senior Software Engineer to design and build the integration and AI agent layer behind our business applications.",
+      "date": "2026-11-18",
+      "timestamp": "2026-11-18T21:52:51+00:00",
+      "fetched_at": "2026-11-19T04:37:14.612066+00:00"
+    },
+    {
+      "id": "2aa13c959e66",
+      "title": "Software Engineer (HANA), AI & Data Platforms (AiDP) - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200695064-3956/software-engineer-hana-ai-data-platforms-aidp?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Software Engineer (HANA), AI & Data Platforms (AiDP) job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-11-18",
+      "timestamp": "2026-11-18T21:40:15+00:00",
+      "fetched_at": "2026-11-19T04:37:14.612310+00:00"
+    },
     {
       "id": "4d4e4755bab0",
       "title": "Felon trying to become a software engineer again. : r/cscareerquestions - Reddit",
@@ -139,6 +275,21 @@
       "date": "2026-11-18",
       "timestamp": "2026-11-18T19:36:47+00:00",
       "fetched_at": "2026-11-18T22:43:23.646197+00:00"
+    },
+    {
+      "id": "40ceb2ddeb23",
+      "title": "Senior Software Engineer - Careers at Moody's",
+      "company": "Moody's",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.moodys.com/en/job/lohchap/senior-software-engineer/49841/103465529072",
+      "source": "Other",
+      "description": "Senior Software Engineer \u00b7 6+ years building production-grade backend services in C# / . \u00b7 Strong SQL and data modeling skills, with solid knowledge of ...",
+      "date": "2026-11-18",
+      "timestamp": "2026-11-18T19:35:53+00:00",
+      "fetched_at": "2026-11-19T04:37:14.669922+00:00"
     },
     {
       "id": "a5a86b2994fa",
