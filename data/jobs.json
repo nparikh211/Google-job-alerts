@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-11-19T04:37:14.721032+00:00",
-  "total_jobs": 13687,
+  "last_updated": "2026-11-19T16:51:10.608020+00:00",
+  "total_jobs": 13709,
   "stats": {
-    "total_companies": 5975,
+    "total_companies": 5981,
     "total_roles": 179,
     "regions": {
-      "India": 8936,
-      "Philippines": 2972,
-      "Remote": 1705,
+      "India": 8954,
+      "Philippines": 2974,
+      "Remote": 1707,
       "Unknown": 135
     },
     "sources": {
-      "Other": 10693,
-      "Greenhouse": 697,
+      "Other": 10712,
+      "Greenhouse": 698,
       "Workday": 565,
       "LinkedIn": 563,
-      "Ashby": 459,
+      "Ashby": 461,
       "iCIMS": 172,
       "Breezy": 136,
       "Workable": 97,
@@ -35,6 +35,336 @@
     }
   },
   "jobs": [
+    {
+      "id": "f918533568c1",
+      "title": "Full-Stack AI Engineer (Agentic AI) - Rabobank.jobs",
+      "company": "Full",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://rabobank.jobs/en/job/full-stack-ai-engineer-agentic-ai/JR_00148181/",
+      "source": "Other",
+      "description": "Full-Stack AI Engineer (Agentic AI). IT. Hybrid; Utrecht (NL); \u20ac5,994 ... Ankit Bhimjiyani, DevOps Engineer . Article. Green coding: The path to ...",
+      "date": "2026-11-19",
+      "timestamp": "2026-11-19T14:54:09+00:00",
+      "fetched_at": "2026-11-19T16:51:10.311272+00:00"
+    },
+    {
+      "id": "3531d1828feb",
+      "title": "Senior Software Engineer (Go/AWS/AWS Connect) - Kake",
+      "company": "Kake",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://kake.co/jobs/senior-software-engineer-go-aws-aws-connect-871c4db488cf",
+      "source": "Other",
+      "description": "We're looking for a Senior Software Engineer to build and operate scalable, cloud-native services supporting high-volume customer interaction ...",
+      "date": "2026-11-19",
+      "timestamp": "2026-11-19T14:44:20+00:00",
+      "fetched_at": "2026-11-19T16:51:10.311616+00:00"
+    },
+    {
+      "id": "d04ab50bee87",
+      "title": "Java Frontend Engineer - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Frontend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200694466-1052/java-frontend-engineer",
+      "source": "Other",
+      "description": "Apply for a Java Frontend Engineer job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-11-19",
+      "timestamp": "2026-11-19T13:18:24+00:00",
+      "fetched_at": "2026-11-19T16:51:10.311746+00:00"
+    },
+    {
+      "id": "84c22138be1a",
+      "title": "Senior Backend Software Engineer - Shipment - Forto Careers",
+      "company": "Shipment - Forto Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.forto.com/forto-jobs/senior-backend-software-engineer-shipment-ca16863f-32da-4119-93d2-03632caf2b41/",
+      "source": "Other",
+      "description": "Senior Backend Software Engineer \u2013 Shipment. Location. Berlin ... As a Senior Backend Engineer in our Shipment team, you will build the ...",
+      "date": "2026-11-19",
+      "timestamp": "2026-11-19T12:58:41+00:00",
+      "fetched_at": "2026-11-19T16:51:10.312033+00:00"
+    },
+    {
+      "id": "cd591c53f543",
+      "title": "Senior Data Engineer - TriNet Hire",
+      "company": "TriNet Hire",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://app.trinethire.com/companies/22914-sightly-enterprises-inc/jobs/126686-senior-data-engineer",
+      "source": "Other",
+      "description": "That data lands in Snowflake and powers Brand Mentality, SmartLists, client reporting and automated billing. We need a senior data engineer to own ...",
+      "date": "2026-11-19",
+      "timestamp": "2026-11-19T12:40:47+00:00",
+      "fetched_at": "2026-11-19T16:51:10.312188+00:00"
+    },
+    {
+      "id": "b6e02aaefdea",
+      "title": "Staff Software Engineer in United States | GitHub, Inc.",
+      "company": "GitHub, Inc.",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.github.careers/careers-home/jobs/7470?lang=en-us",
+      "source": "Other",
+      "description": "As a Staff Software Engineer on the Code and Review team, you will shape the pull request and code review experience used by over 100 million ...",
+      "date": "2026-11-19",
+      "timestamp": "2026-11-19T12:20:36+00:00",
+      "fetched_at": "2026-11-19T16:51:10.312442+00:00"
+    },
+    {
+      "id": "e90484e8730b",
+      "title": "Data Engineer - Vacancy - Booksy Careers",
+      "company": "Vacancy - Booksy Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.booksy.com/jobs/data-engineer.3801",
+      "source": "Other",
+      "description": "As a Data Engineer reporting to the Data Engineering Manager in our DASA (Data and Strategic Analytics) team, your purpose will be to help the ...",
+      "date": "2026-11-19",
+      "timestamp": "2026-11-19T12:08:14+00:00",
+      "fetched_at": "2026-11-19T16:51:10.312566+00:00"
+    },
+    {
+      "id": "cbb9a0c3c59e",
+      "title": "Job Application for Senior Software Engineer at Mercer Advisors - Greenhouse",
+      "company": "Merceradvisors",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/merceradvisors/jobs/5470161008",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer . Remote, USA. Apply. Why Work at Mercer Advisors ... We are looking for a Full Stack Engineer to help build the ...",
+      "date": "2026-11-19",
+      "timestamp": "2026-11-19T11:01:33+00:00",
+      "fetched_at": "2026-11-19T16:51:10.312663+00:00"
+    },
+    {
+      "id": "9a830a1657e4",
+      "title": "Senior Software Engineer , IAM @ Temporal Technologies - Jobs",
+      "company": "Temporal",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/temporal/a339af3a-0911-4f3e-b6ef-f5d362fc821a",
+      "source": "Ashby",
+      "description": "SUMMARY Temporal is hiring a Senior Software Engineer for Identity to help design, build, and operate the identity and access systems behind ...",
+      "date": "2026-11-19",
+      "timestamp": "2026-11-19T10:41:29+00:00",
+      "fetched_at": "2026-11-19T16:51:10.312751+00:00"
+    },
+    {
+      "id": "cb2e7309728e",
+      "title": "AI Engineer | Commodities and Global Markets - - 24975 - Macquarie Group",
+      "company": "Commodities and Global Markets - - 24975 - Macquarie Group",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://recruitment.macquarie.com/fr_FR/careers/JobDetail/AI-Engineer-Commodities-and-Global-Markets/24975",
+      "source": "Other",
+      "description": "AI Engineer | Commodities and Global Markets. Additional office locations. Sydney. Job ID. 24975. Date. 18-Nov-2026. Permanent - Full time, Mid-senior.",
+      "date": "2026-11-19",
+      "timestamp": "2026-11-19T10:33:09+00:00",
+      "fetched_at": "2026-11-19T16:51:10.549563+00:00"
+    },
+    {
+      "id": "2202452b1613",
+      "title": "Senior Software Engineer , Front End, Waze \u2014 Google Careers",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/136113035113571014",
+      "source": "Other",
+      "description": "Senior Software Engineer , Front End, Waze. share. Share Senior Software Engineer , Front End, Waze. linkCopy link; emailEmail a friend. corporate_fare ...",
+      "date": "2026-11-19",
+      "timestamp": "2026-11-19T10:00:16+00:00",
+      "fetched_at": "2026-11-19T16:51:10.549689+00:00"
+    },
+    {
+      "id": "22886f0ea8b6",
+      "title": "Full-stack Software Engineer - SoftServe Careers",
+      "company": "Full",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://career.softserveinc.com/en-us/vacancies/full-stack-software-engineer-91587",
+      "source": "Other",
+      "description": "ABOUT THE ROLE In this role, you will work as a Full-stack Software Engineer on large-scale corporate information systems within a European ...",
+      "date": "2026-11-19",
+      "timestamp": "2026-11-19T09:35:45+00:00",
+      "fetched_at": "2026-11-19T16:51:10.312878+00:00"
+    },
+    {
+      "id": "c86e88f2f2c8",
+      "title": "Data Engineer - - 133129 - Booz | Allen | Hamilton \u00ae - Careers",
+      "company": "- 133129 - Booz | Allen | Hamilton \u00ae - Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.boozallen.com/jobs/JobDetail/McLean-Data-Engineer-R0252581/133129",
+      "source": "Other",
+      "description": "Data Engineer . The Opportunity: Ever-expanding technology like IoT, machine learning, and artificial intelligence means that there's more ...",
+      "date": "2026-11-19",
+      "timestamp": "2026-11-19T08:18:42+00:00",
+      "fetched_at": "2026-11-19T16:51:10.313088+00:00"
+    },
+    {
+      "id": "bca006591a03",
+      "title": "Embedded Software Engineer , Chennai, Tamil N\u0101du, India | Caterpillar Careers",
+      "company": "Caterpillar Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.caterpillar.com/en/jobs/r0000406032/embedded-software-engineer/",
+      "source": "Other",
+      "description": "Embedded Software Engineer . Location, Chennai, Tamil N\u0101du, India. Date Posted, Thursday, November 19, 2026. Apply By, Wednesday, December 2, 2026.",
+      "date": "2026-11-19",
+      "timestamp": "2026-11-19T08:00:10+00:00",
+      "fetched_at": "2026-11-19T16:51:10.313228+00:00"
+    },
+    {
+      "id": "ecb10c70391b",
+      "title": "Software Engineer | Careers - Dassault Syst\u00e8mes",
+      "company": "Careers - Dassault Syst\u00e8mes",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.3ds.com/careers/jobs/software-engineer-550689",
+      "source": "Other",
+      "description": "Role Description & Responsibilities:DASSAULT SYST\u00c8MES is seeking a Software Engineer to develop and maintain DELMIA's manufacturing operations ...",
+      "date": "2026-11-19",
+      "timestamp": "2026-11-19T07:48:08+00:00",
+      "fetched_at": "2026-11-19T16:51:10.313359+00:00"
+    },
+    {
+      "id": "7890f3de151d",
+      "title": "Senior Software Engineer , Cloud Payments - MongoDB",
+      "company": "MongoDB",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.mongodb.com/careers/jobs/8397699",
+      "source": "Other",
+      "description": "Senior Software Engineer , Cloud Payments. Atlanta; Austin; Boston ... Success Measures. A backend engineer will be successful in this role when they.",
+      "date": "2026-11-19",
+      "timestamp": "2026-11-19T07:45:24+00:00",
+      "fetched_at": "2026-11-19T16:51:10.313468+00:00"
+    },
+    {
+      "id": "bae2b499dce5",
+      "title": "Senior Data Engineer @ Clasp - Jobs",
+      "company": "Clasp Group",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.ashbyhq.com/clasp-group/6b17e24f-e898-421a-977f-c41791845df6",
+      "source": "Ashby",
+      "description": "SENIOR DATA ENGINEER Location: Remote. (Eastern & Central time zones only. Some travel required.) ABOUT US Clasp is a mission-driven, ...",
+      "date": "2026-11-19",
+      "timestamp": "2026-11-19T07:09:33+00:00",
+      "fetched_at": "2026-11-19T16:51:10.313553+00:00"
+    },
+    {
+      "id": "5cbe531ee8a0",
+      "title": "\u201c AI engineer \u201d is enginners building the AI model/infra itself, not just using AI. - X",
+      "company": "Unknown Company",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://x.com/lennysan/status/2123283650888564824",
+      "source": "Other",
+      "description": "clinton_cunning @juicebox_work \u201c AI engineer \u201d is enginners building the AI model/infra itself, not just using AI.",
+      "date": "2026-11-19",
+      "timestamp": "2026-11-19T06:23:08+00:00",
+      "fetched_at": "2026-11-19T16:51:10.313667+00:00"
+    },
+    {
+      "id": "22cbc418d3ef",
+      "title": "Sr Software Engineer , San Francisco, United States",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.uber.com/en/jobs/304226/",
+      "source": "Other",
+      "description": "... engagement, cross-platform adoption, and long-term retention. As a Senior Software Engineer , you will lead significant backend and product-p...",
+      "date": "2026-11-19",
+      "timestamp": "2026-11-19T05:55:14+00:00",
+      "fetched_at": "2026-11-19T16:51:10.313758+00:00"
+    },
+    {
+      "id": "c3abf8a298ab",
+      "title": "Software Engineer I, Commerce - Job ID: 10607758 - Amazon Careers",
+      "company": "Job ID: 10607758 - Amazon Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.amazon.jobs/en/jobs/10607758/software-engineer-i-commerce",
+      "source": "Other",
+      "description": "Software Engineer I, Commerce. Job ID: 10607758 | Twitch Interactive, Inc. Apply now. Description. If you are interested in this position, please ...",
+      "date": "2026-11-19",
+      "timestamp": "2026-11-19T05:19:45+00:00",
+      "fetched_at": "2026-11-19T16:51:10.313891+00:00"
+    },
+    {
+      "id": "6011742e3294",
+      "title": "Software Engineer , App Store Frameworks - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200674464-0836/software-engineer-app-store-frameworks?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Software Engineer , App Store Frameworks job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-11-19",
+      "timestamp": "2026-11-19T04:41:54+00:00",
+      "fetched_at": "2026-11-19T16:51:10.314070+00:00"
+    },
+    {
+      "id": "d9d95982fa01",
+      "title": "Staff Software Engineer , Field Response - Mountain View, California, United States",
+      "company": "Mountain View, California, United States",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.withwaymo.com/jobs/staff-software-engineer-field-response-mountain-view-california-united-states",
+      "source": "Other",
+      "description": "jobdescription_image_2x.png. Staff Software Engineer , Field Response. Mountain View, California, United States Full-Time Software Engineering ...",
+      "date": "2026-11-19",
+      "timestamp": "2026-11-19T04:17:02+00:00",
+      "fetched_at": "2026-11-19T16:51:10.314299+00:00"
+    },
     {
       "id": "a4690e8f82db",
       "title": "Software Engineer | Schwab Jobs",
