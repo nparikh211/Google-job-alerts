@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-11-20T01:27:57.092093+00:00",
-  "total_jobs": 13731,
+  "last_updated": "2026-11-20T12:15:14.623548+00:00",
+  "total_jobs": 13752,
   "stats": {
-    "total_companies": 5987,
-    "total_roles": 180,
+    "total_companies": 5991,
+    "total_roles": 181,
     "regions": {
-      "India": 8973,
-      "Philippines": 2975,
-      "Remote": 1709,
+      "India": 8982,
+      "Philippines": 2982,
+      "Remote": 1714,
       "Unknown": 135
     },
     "sources": {
-      "Other": 10728,
+      "Other": 10747,
       "Greenhouse": 698,
-      "Workday": 566,
+      "Workday": 567,
       "LinkedIn": 564,
       "Ashby": 464,
       "iCIMS": 172,
       "Breezy": 136,
-      "Lever": 97,
+      "Lever": 98,
       "Workable": 97,
       "SmartRecruiters": 96,
       "Indeed": 46,
@@ -36,6 +36,231 @@
   },
   "jobs": [
     {
+      "id": "ff392e8f7cf7",
+      "title": "Data Engineer - Careers - Google",
+      "company": "Careers - Google",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/96475915810153158-data-engineer",
+      "source": "Other",
+      "description": "Senior Staff Software Engineer , Generative AI, Search Intelligence. Mountain View, CA, USA \u00b7 Senior Software Engineer , Search AI Infra. Bengaluru ...",
+      "date": "2026-11-20",
+      "timestamp": "2026-11-20T11:09:31+00:00",
+      "fetched_at": "2026-11-20T12:15:14.567506+00:00"
+    },
+    {
+      "id": "50665df5e2c6",
+      "title": "Senior Software Engineer , Self-Host Orchestration - Bitwarden",
+      "company": "Host Orchestration - Bitwarden",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://bitwarden.com/careers/8204035003/",
+      "source": "Other",
+      "description": "Senior Software Engineer , Self-Host Orchestration. at Bitwarden in Engineering. Remote, U.S.. Bitwarden empowers enterprises, developers, and ...",
+      "date": "2026-11-20",
+      "timestamp": "2026-11-20T08:18:38+00:00",
+      "fetched_at": "2026-11-20T12:15:14.567615+00:00"
+    },
+    {
+      "id": "db3389f6d353",
+      "title": "Staff Machine Learning Engineer , Homefeed & Search Quality - Pinterest Careers",
+      "company": "Pinterest Careers",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.pinterestcareers.com/jobs/8346516/staff-machine-learning-engineer-homefeed-search-quality/",
+      "source": "Other",
+      "description": "Staff Machine Learning Engineer , Homefeed & Search Quality. San Francisco / Remote \u00b7 Engineering; Regular. a collage of people and a cup. Share. Apply ...",
+      "date": "2026-11-20",
+      "timestamp": "2026-11-20T08:15:42+00:00",
+      "fetched_at": "2026-11-20T12:15:14.567790+00:00"
+    },
+    {
+      "id": "d7cc53b206fe",
+      "title": "Senior Software Engineer - Recruiting",
+      "company": "Recruiting",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://ats.rippling.com/vcheck/jobs/1f986cc4-3db5-42bb-b33d-1839decce0cf",
+      "source": "Other",
+      "description": "We are looking for a Senior Software Engineer (AI-Native) to join the Vcheck engineering team and help establish a modern, agent-first way of building ...",
+      "date": "2026-11-20",
+      "timestamp": "2026-11-20T07:47:05+00:00",
+      "fetched_at": "2026-11-20T12:15:14.567905+00:00"
+    },
+    {
+      "id": "ce8ea6323e22",
+      "title": "Senior Software Engineer , Distributed Systems",
+      "company": "Nvidia",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Senior-Software-Engineer--Distributed-Systems_JR2030254",
+      "source": "Workday",
+      "description": "We are looking for a Senior Software Engineer to join our mission to continue improving our HPC infrastructure and workflow systems. Our team builds ...",
+      "date": "2026-11-20",
+      "timestamp": "2026-11-20T07:21:24+00:00",
+      "fetched_at": "2026-11-20T12:15:14.567964+00:00"
+    },
+    {
+      "id": "bf5f7f274bd6",
+      "title": "Senior DevOps Engineer - 67183 - MANTECH Careers",
+      "company": "67183 - MANTECH Careers",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.mantech.com/en_US/careers/JobDetail/Senior-DevOps-Engineer/67183",
+      "source": "Other",
+      "description": "MANTECH seeks a motivated, career and customer-oriented Senior DevOps Engineer to join our team in Herndon, VA. The Senior DevOps Engineer will ...",
+      "date": "2026-11-20",
+      "timestamp": "2026-11-20T06:16:14+00:00",
+      "fetched_at": "2026-11-20T12:15:14.568217+00:00"
+    },
+    {
+      "id": "135d1fd25af1",
+      "title": "Data Engineer II, Global Logistics, Exports - Job ID: 10609538 - Amazon Careers",
+      "company": "Job ID: 10609538 - Amazon Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.amazon.jobs/en/jobs/10609538/data-engineer-ii-global-logistics-exports",
+      "source": "Other",
+      "description": "As a Data Engineer II in Amazon's Global Logistics (GL) Exports team, you will play a crucial role in supporting Amazon's vision of providing ...",
+      "date": "2026-11-20",
+      "timestamp": "2026-11-20T05:48:04+00:00",
+      "fetched_at": "2026-11-20T12:15:14.568376+00:00"
+    },
+    {
+      "id": "0672f2c527ca",
+      "title": "Full Stack Software Engineer - Developer Publications - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200695936-3543/full-stack-software-engineer-developer-publications?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Full Stack Software Engineer - Developer Publications job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-11-20",
+      "timestamp": "2026-11-20T05:34:56+00:00",
+      "fetched_at": "2026-11-20T12:15:14.568537+00:00"
+    },
+    {
+      "id": "b9231e29799e",
+      "title": "Software Engineer (Full Stack Development & Future Platform Strategy) - State Farm Careers",
+      "company": "State Farm Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.statefarm.com/main/jobs/50980?lang=en-us",
+      "source": "Other",
+      "description": "State Farm Careers is hiring a Software Engineer (Full Stack Development & Future Platform Strategy) in Multiple Locations.",
+      "date": "2026-11-20",
+      "timestamp": "2026-11-20T04:21:11+00:00",
+      "fetched_at": "2026-11-20T12:15:14.568635+00:00"
+    },
+    {
+      "id": "2570ec744279",
+      "title": "Software Engineer III, DevOps - Walmart Careers",
+      "company": "Walmart Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.walmart.com/us/en/jobs/R-2709818",
+      "source": "Other",
+      "description": "What you'll do... Position: Software Engineer III, DevOps. Location: 1375 Crossman Avenue, Sunnyvale CA 94089. Duties: Architect and spearhead the ...",
+      "date": "2026-11-20",
+      "timestamp": "2026-11-20T03:42:25+00:00",
+      "fetched_at": "2026-11-20T12:15:14.472122+00:00"
+    },
+    {
+      "id": "dfe3312027b5",
+      "title": "Software Engineer I - Job ID: 10608848 - Amazon Careers",
+      "company": "Job ID: 10608848 - Amazon Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.amazon.jobs/en/jobs/10608848/software-engineer-i",
+      "source": "Other",
+      "description": "Software Engineer I. Job ID: 10608848 | Twitch Interactive, Inc. Apply now. Description. If you are interested in this position, please apply on ...",
+      "date": "2026-11-20",
+      "timestamp": "2026-11-20T01:30:44+00:00",
+      "fetched_at": "2026-11-20T12:15:14.472286+00:00"
+    },
+    {
+      "id": "adc37d4f098d",
+      "title": "eSimplicity - Senior Site Reliability Engineer - Paylocity",
+      "company": "eSimplicity",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://recruiting.paylocity.com/recruiting/jobs/Details/4675071/eSimplicity/Senior-Site-Reliability-Engineer",
+      "source": "Other",
+      "description": "We are seeking a Senior Site Reliability Engineer to strengthen the availability, performance, and resilience of online passport services supporting ...",
+      "date": "2026-11-20",
+      "timestamp": "2026-11-20T01:15:48+00:00",
+      "fetched_at": "2026-11-20T12:15:14.472436+00:00"
+    },
+    {
+      "id": "2812475afbfd",
+      "title": "Software Engineer at UnitedHealth Group",
+      "company": "UnitedHealth Group",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.unitedhealthgroup.com/job/hyderabad/software-engineer/34088/103537533696",
+      "source": "Other",
+      "description": "Software Engineer . Requisition number: 2395456 Job category: Technology Primary location: Hyderabad, India Date posted: 11/19/ ...",
+      "date": "2026-11-20",
+      "timestamp": "2026-11-20T01:06:04+00:00",
+      "fetched_at": "2026-11-20T12:15:14.569029+00:00"
+    },
+    {
+      "id": "73e6b2ea183f",
+      "title": "Principal Flight Software Engineer | Rocket Lab",
+      "company": "Rocket Lab",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://rocketlabcorp.com/careers/positions/principal-flight-software-engineer-littleton-co-8204047003/",
+      "source": "Other",
+      "description": "Based out of Rocket Lab's site in Littleton, CO, the Principal Flight Software Engineer I will play a key role in supporting the development of flight ...",
+      "date": "2026-11-20",
+      "timestamp": "2026-11-20T00:48:24+00:00",
+      "fetched_at": "2026-11-20T12:15:14.569191+00:00"
+    },
+    {
+      "id": "eae88634120a",
+      "title": "Sr AI Engineer Job Details - Careers at Nutrien",
+      "company": "Nutrien",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.nutrien.com/North-America/job/Sr-AI-Engineer/35281-en_US/",
+      "source": "Other",
+      "description": "SR AI ENGINEER . Location: Deerfield, IL, USA, 60015. Experience Level: Associate. Apply Now. Job Description. Job Title: Sr AI Engineer . Requisition ...",
+      "date": "2026-11-20",
+      "timestamp": "2026-11-20T00:18:04+00:00",
+      "fetched_at": "2026-11-20T12:15:14.472535+00:00"
+    },
+    {
       "id": "d3065b2fdaea",
       "title": "Associate Software Engineer , Early Career in Carlsbad, California | Viasat, Inc.",
       "company": "Viasat, Inc.",
@@ -49,6 +274,81 @@
       "date": "2026-11-20",
       "timestamp": "2026-11-20T00:13:01+00:00",
       "fetched_at": "2026-11-20T01:27:56.973596+00:00"
+    },
+    {
+      "id": "7f5bd546df34",
+      "title": "FloQast - Senior Machine Learning Engineer - Lever",
+      "company": "Floqast",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.lever.co/floqast/4d67a4dd-c2f3-4542-a95a-cd40647d4b07",
+      "source": "Lever",
+      "description": "Senior Machine Learning Engineer . San Jose, California. Engineering ... This job posting is for our Senior Software Engineer level, the base ...",
+      "date": "2026-11-20",
+      "timestamp": "2026-11-20T00:04:35+00:00",
+      "fetched_at": "2026-11-20T12:15:14.569442+00:00"
+    },
+    {
+      "id": "1457b96d8b61",
+      "title": "Software Engineer in Bengaluru, Karn\u0101taka, India, 560066 | Digital Technology / IT at GE HealthCare",
+      "company": "GE HealthCare",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.gehealthcare.com/global/en/job/GEVGHLGLOBALR4049729EXTERNALENGLOBAL/Software-Engineer",
+      "source": "Other",
+      "description": "... Senior Software Engineer \u00b7 Senior Software Engineer . GE Healthcare Category Digital Technology / IT Posted Date 11/11/2026 Job Id R4049122 Location ...",
+      "date": "2026-11-19",
+      "timestamp": "2026-11-19T23:46:57+00:00",
+      "fetched_at": "2026-11-20T12:15:14.472886+00:00"
+    },
+    {
+      "id": "283ddd6d1e3f",
+      "title": "Observability Platform Engineer - Avenga",
+      "company": "Avenga",
+      "role": "Platform Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://career.avenga.com/jobs/8765597-observability-platform-engineer",
+      "source": "Other",
+      "description": "Observability Platform Engineer . Apply now. At Avenga, more than 6,000 colleagues worldwide help organizations solve their challenges. As an AI ...",
+      "date": "2026-11-19",
+      "timestamp": "2026-11-19T23:23:53+00:00",
+      "fetched_at": "2026-11-20T12:15:14.569549+00:00"
+    },
+    {
+      "id": "33242a99a2a4",
+      "title": "Senior Full Stack Product Software Engineer , Application Platform - Dropbox Careers",
+      "company": "Dropbox Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.dropbox.jobs/en/jobs/8371054/senior-full-stack-product-software-engineer-application-platform/",
+      "source": "Other",
+      "description": "Infrastructure Software Engineer , Orchestration \u00b7 Remote - Poland ; Backend Product Software Engineer \u00b7 Remote - Mexico ; Senior Atlassian Cloud Engineer .",
+      "date": "2026-11-19",
+      "timestamp": "2026-11-19T23:07:48+00:00",
+      "fetched_at": "2026-11-20T12:15:14.569728+00:00"
+    },
+    {
+      "id": "4ecc011e9134",
+      "title": "AI.Engineer - X",
+      "company": "Unknown Company",
+      "role": "AI.Engineer - X",
+      "regions": [
+        "India"
+      ],
+      "link": "https://x.com/aiDotEngineer/status/2123453748785684806",
+      "source": "Other",
+      "description": "@aiDotEngineer \u00b7 AI.Engineer \u00b7 @aiDotEngineer. 1 million views. Our fastest talk to get there. @poteto of @SpaceXSI on the engineering behind 11,000 ...",
+      "date": "2026-11-19",
+      "timestamp": "2026-11-19T22:47:09+00:00",
+      "fetched_at": "2026-11-20T12:15:14.473174+00:00"
     },
     {
       "id": "aeda7b1646e6",
@@ -94,6 +394,21 @@
       "date": "2026-11-19",
       "timestamp": "2026-11-19T22:19:11+00:00",
       "fetched_at": "2026-11-20T01:27:56.974036+00:00"
+    },
+    {
+      "id": "ce2d3a978d57",
+      "title": "Sr Software Engineer - Java at MCKESSON",
+      "company": "MCKESSON",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mckesson.com/en/job/cork/sr-software-engineer-java/733/103529340144",
+      "source": "Other",
+      "description": "Tackling challenges no one else can. Sr Software Engineer - Java. Cork, Ireland. Job IDJR0152651 See Job Responsibilities.",
+      "date": "2026-11-19",
+      "timestamp": "2026-11-19T21:18:12+00:00",
+      "fetched_at": "2026-11-20T12:15:14.473760+00:00"
     },
     {
       "id": "85c3d5e3fa7d",
