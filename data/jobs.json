@@ -1,27 +1,27 @@
 {
-  "last_updated": "2026-11-21T04:21:10.690793+00:00",
-  "total_jobs": 13799,
+  "last_updated": "2026-11-21T15:41:11.805545+00:00",
+  "total_jobs": 13824,
   "stats": {
-    "total_companies": 6004,
+    "total_companies": 6014,
     "total_roles": 181,
     "regions": {
-      "India": 9011,
-      "Philippines": 2996,
-      "Remote": 1719,
+      "India": 9025,
+      "Philippines": 3005,
+      "Remote": 1721,
       "Unknown": 135
     },
     "sources": {
-      "Other": 10782,
-      "Greenhouse": 703,
+      "Other": 10800,
+      "Greenhouse": 704,
       "Workday": 568,
-      "LinkedIn": 564,
-      "Ashby": 468,
-      "iCIMS": 172,
+      "LinkedIn": 565,
+      "Ashby": 469,
+      "iCIMS": 174,
       "Breezy": 136,
+      "Workable": 98,
       "Lever": 98,
       "SmartRecruiters": 97,
-      "Workable": 97,
-      "Indeed": 46,
+      "Indeed": 47,
       "Recruitee": 18,
       "WeWorkRemotely": 16,
       "Jobvite": 12,
@@ -36,6 +36,351 @@
   },
   "jobs": [
     {
+      "id": "5923e81c7317",
+      "title": "Software Developer \u2192 AI Engineer | Umang Chaudhary | 53 comments - LinkedIn",
+      "company": "Umang Chaudhary | 53 comments - LinkedIn",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/posts/mlwithumang_software-developer-ai-engineer-activity-7529904121890516992-oTFj",
+      "source": "LinkedIn",
+      "description": "90 days. One project. A whole new skill set. You don't need to start from zero to become an AI Engineer . Your software development skills already give ...",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T14:47:35+00:00",
+      "fetched_at": "2026-11-21T15:41:11.760116+00:00"
+    },
+    {
+      "id": "8311e7445691",
+      "title": "Job Application for Senior Software Engineer , Platform at Faropoint - Greenhouse",
+      "company": "Faropoint",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/faropoint/jobs/5272909007",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer , Platform. Location: Hoboken, NJ (on site). About Faropoint. Faropoint owns and operates last-mile, Class B, ...",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T14:32:40+00:00",
+      "fetched_at": "2026-11-21T15:41:11.760190+00:00"
+    },
+    {
+      "id": "934bd30e5172",
+      "title": "Data Engineer I - Job ID: 10610327 - Amazon Careers",
+      "company": "Job ID: 10610327 - Amazon Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.amazon.jobs/en/jobs/10610327/data-engineer-i",
+      "source": "Other",
+      "description": "Do you enjoy designing solutions that help teams make smarter, faster decisions? As a Data Engineer I at Amazon, you will build and maintain data ...",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T12:11:55+00:00",
+      "fetched_at": "2026-11-21T15:41:11.661588+00:00"
+    },
+    {
+      "id": "5eb7f80493f3",
+      "title": "Data Engineer in warminster, Wiltshire, United Kingdom - RTX Careers",
+      "company": "RTX Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.rtx.com/global/en/job/01886973/Data-Engineer",
+      "source": "Other",
+      "description": "Data Engineer . Apply. Raytheon Technologies is An Equal Opportunity ... Software Engineer . Location gloucester, South Gloucestershire, United ...",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T11:13:44+00:00",
+      "fetched_at": "2026-11-21T15:41:11.760385+00:00"
+    },
+    {
+      "id": "1a5736956145",
+      "title": "Assoc Software Engineer , Santa Clara | ServiceNow Careers",
+      "company": "ServiceNow Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.servicenow.com/jobs/744000162837679/assoc-software-engineer/",
+      "source": "Other",
+      "description": "Assoc Software Engineer \u00b7 Preferred \u2014 AIUX Framework specific For positions in this location, we offer a base pay of $121,051 - $136,000, plus equity ...",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T10:52:09+00:00",
+      "fetched_at": "2026-11-21T15:41:11.760515+00:00"
+    },
+    {
+      "id": "0a79b161a6c7",
+      "title": "Staff DevOps Engineer at Palo Alto Networks",
+      "company": "Palo Alto Networks",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.paloaltonetworks.com/en/job/santa-clara/staff-devops-engineer/47263/97098975088",
+      "source": "Other",
+      "description": "Staff DevOps Engineer . Santa Clara ... Senior Staff FinOps Software Engineer (AI Infrastructure) Santa Clara, California, United States",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T10:10:06+00:00",
+      "fetched_at": "2026-11-21T15:41:11.760607+00:00"
+    },
+    {
+      "id": "53798d23df7d",
+      "title": "Senior Data Engineer - Nike Careers",
+      "company": "Nike Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.nike.com/senior-data-engineer/job/R-97148",
+      "source": "Other",
+      "description": "SENIOR, DATA ENGINEER - NIKE [Beaverton, OR - USA] WHO YOU'LL WORK WITH Consumer Product and Innovation (CP&I) Data and Analytics Engineering sits ...",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T07:50:11+00:00",
+      "fetched_at": "2026-11-21T15:41:11.760693+00:00"
+    },
+    {
+      "id": "40c6fe395bf3",
+      "title": "Software Engineer in Plano, Texas, 75024 | Accounting & Finance, Fintech, & Treasury at Toyota'",
+      "company": "Toyota'",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.toyota.com/us/en/job/10340846/Software-Engineer",
+      "source": "Other",
+      "description": "Senior Software Engineer . Location Plano, Texas, 75024 Category ... Lead, DevOps Automation Platform Engineer - SRE. Location Plano, Texas ...",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T07:26:52+00:00",
+      "fetched_at": "2026-11-21T15:41:11.760772+00:00"
+    },
+    {
+      "id": "4dd5c79a20f2",
+      "title": "Apply to Data Engineer at South - Recruiterflow",
+      "company": "South",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://recruiterflow.com/south/jobs/1218",
+      "source": "Other",
+      "description": "We are South and our client is looking for a Data Engineer ! Note to Applicants: Eligibility: This position is open to candidates residing in Latin ...",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T07:10:44+00:00",
+      "fetched_at": "2026-11-21T15:41:11.760840+00:00"
+    },
+    {
+      "id": "ed8f2e63fdb3",
+      "title": "AI Engineer I in California | Careers at Remote-CA - ICIMS",
+      "company": "Remote",
+      "role": "AI Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers-mercuryinsurance.icims.com/jobs/7485/ai-engineer-i/job",
+      "source": "iCIMS",
+      "description": "Remote-CA is now hiring a AI Engineer I in California. Review all of the job details and apply today!",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T06:55:40+00:00",
+      "fetched_at": "2026-11-21T15:41:11.760916+00:00"
+    },
+    {
+      "id": "aef312141f3d",
+      "title": "Agentic Software Engineer II - Gurgaon, India - Bio-Rad Careers",
+      "company": "Gurgaon, India - Bio-Rad Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.bio-rad.com/jobs/agentic-software-engineer-ii-gurgaon-india",
+      "source": "Other",
+      "description": "As a Staff Software Engineer , Agentic Software Engineering, you will spend your time combining traditional software engineering with model ...",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T06:41:35+00:00",
+      "fetched_at": "2026-11-21T15:41:11.661767+00:00"
+    },
+    {
+      "id": "4c494884c192",
+      "title": "Now Hiring: 400 Full Stack Engineer Jobs in Largo, FL | Indeed",
+      "company": "Indeed",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.indeed.com/q-full-stack-engineer-l-largo,-fl-jobs.html",
+      "source": "Indeed",
+      "description": "... Senior Software Engineer . Penske Truck Leasing and Logistics. Tampa, FL ... DevOps Engineer . Easily apply. Infosys. Tampa, FL. DevOps Engineer - AI ...",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T06:27:22+00:00",
+      "fetched_at": "2026-11-21T15:41:11.661878+00:00"
+    },
+    {
+      "id": "5bcd66c0b648",
+      "title": "Software Engineer , Photos QA Tools - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200696365-0836/software-engineer-photos-qa-tools?team=SFTWR",
+      "source": "Other",
+      "description": "We're looking for a software engineer to build the tools and agentic AI systems for quality engineering that make that work faster and more consistent ...",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T06:17:35+00:00",
+      "fetched_at": "2026-11-21T15:41:11.761229+00:00"
+    },
+    {
+      "id": "fbd24f769b55",
+      "title": "Machine Learning Engineer II, San Francisco, United States",
+      "company": "Unknown Company",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.uber.com/en/jobs/305229/",
+      "source": "Other",
+      "description": "... Machine Learning Engineer , you will build product-focused ML systems for ... Software Engineer II - Machine Learning. Job removed. Sunnyvale ...",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T05:53:28+00:00",
+      "fetched_at": "2026-11-21T15:41:11.661962+00:00"
+    },
+    {
+      "id": "deb1a6269b7d",
+      "title": "Senior AI/ ML Engineer - 67210 - MANTECH Careers",
+      "company": "67210 - MANTECH Careers",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mantech.com/en_US/careers/JobDetail/Senior-AI-ML-Engineer/67210",
+      "source": "Other",
+      "description": "MANTECH seeks a motivated, career and customer-oriented Senior AI ML Engineer . This is currently a hybrid position with two to three days onsite ...",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T05:03:56+00:00",
+      "fetched_at": "2026-11-21T15:41:11.662075+00:00"
+    },
+    {
+      "id": "bd9584d4564f",
+      "title": "Software Engineer - San Francisco, California, United States - Waymo careers",
+      "company": "San Francisco, California, United States - Waymo careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.withwaymo.com/jobs/software-engineer-san-francisco-california-united-states",
+      "source": "Other",
+      "description": "Bachelor's degree in Computer Science or a related field, and 3 years of experience in the job offered or in a Software Engineer -related occupation.",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T04:52:53+00:00",
+      "fetched_at": "2026-11-21T15:41:11.662232+00:00"
+    },
+    {
+      "id": "3c7430a2996a",
+      "title": "Senior Software Engineer , Bot Detection (Client-Side & Signals) - EMEA Remote - Hugging Face",
+      "company": "Huggingface",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://apply.workable.com/huggingface/j/2F83B48969/",
+      "source": "Workable",
+      "description": "Senior Software Engineer , Bot Detection (Client-Side & Signals) - EMEA Remote. RemoteProductFull time. OverviewApplication. Share this job. SVGs not ...",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T04:50:41+00:00",
+      "fetched_at": "2026-11-21T15:41:11.761630+00:00"
+    },
+    {
+      "id": "223e1edba6a0",
+      "title": "Software Engineer - Job Detail | Careers Marketplace - Siemens Jobs",
+      "company": "Job Detail | Careers Marketplace - Siemens Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/508597?source=LinkedIn&sourceType=PREMIUM_POST_SITE",
+      "source": "Other",
+      "description": "Software Engineer . Job ID. 508597. Posted since. 25-Jun-2026. Organization. Digital Industries. Field of work. Research & Development. Experience ...",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T03:34:05+00:00",
+      "fetched_at": "2026-11-21T15:41:11.662637+00:00"
+    },
+    {
+      "id": "9864a8bbea07",
+      "title": "Sr Software Engineer , Santa Clara | ServiceNow Careers",
+      "company": "ServiceNow Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.servicenow.com/jobs/744000162883690/sr-software-engineer/",
+      "source": "Other",
+      "description": "Sr Software Engineer . Engineering, Infrastructure and Operations \u00b7 Santa Clara; Flexible; November 21, 2026; JB0078079.",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T03:11:40+00:00",
+      "fetched_at": "2026-11-21T15:41:11.662748+00:00"
+    },
+    {
+      "id": "cdd332713b13",
+      "title": "Sr Software Engineer , Santa Clara | ServiceNow Careers",
+      "company": "ServiceNow Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.servicenow.com/jobs/744000162878715/sr-software-engineer/",
+      "source": "Other",
+      "description": "Join us to put AI to work for people. Job Description. As a Senior Software Engineer , you will play a key role in the Web Interfaces Engineering group ...",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T03:11:40+00:00",
+      "fetched_at": "2026-11-21T15:41:11.662844+00:00"
+    },
+    {
+      "id": "74d2253f15af",
+      "title": "Senior Software Engineer in United States > La Jolla - Abbott Jobs",
+      "company": "Abbott Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.jobs.abbott/us/en/job/31167135/Senior-Software-Engineer",
+      "source": "Other",
+      "description": "Apply for Senior Software Engineer job with Abbott Canvas in United ... Senior Software & AI Engineer . Location United States > Sylmar : 13150 ...",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T02:37:30+00:00",
+      "fetched_at": "2026-11-21T15:41:11.662936+00:00"
+    },
+    {
+      "id": "f942c29f70ee",
+      "title": "AI Full Stack Engineer (Angular) - Allianz careers",
+      "company": "Allianz careers",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.allianz.com/hr/hr/job/107620/AI-Full-Stack-Engineer-Angular",
+      "source": "Other",
+      "description": "AI Full Stack Engineer (Angular). Opis. About the Job: We are seeking an Expert AI Fullstack engineer with a strong front-end focus to support the ...",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T01:08:58+00:00",
+      "fetched_at": "2026-11-21T15:41:11.663123+00:00"
+    },
+    {
+      "id": "03769aaebf92",
+      "title": "Senior Site Reliability Engineer in McLean, Virginia - steampunk | Careers Center",
+      "company": "steampunk | Careers Center",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers-steampunk.icims.com/jobs/8815/senior-site-reliability-engineer/job",
+      "source": "iCIMS",
+      "description": "Senior Site Reliability Engineer . Job Location US-VA-McLean. Posted Date 1 ... 5+ years of software engineer experience building and deploying ...",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T00:53:26+00:00",
+      "fetched_at": "2026-11-21T15:41:11.663235+00:00"
+    },
+    {
       "id": "42a8f719a0d9",
       "title": "Job Application for Data Engineer at AcuityMD - Greenhouse",
       "company": "Acuitymd",
@@ -49,6 +394,21 @@
       "date": "2026-11-21",
       "timestamp": "2026-11-21T00:51:07+00:00",
       "fetched_at": "2026-11-21T04:21:10.645746+00:00"
+    },
+    {
+      "id": "b78a8f7b667b",
+      "title": "Software Engineer - AI & Data Platforms - Jobs - Careers at Apple",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200696143/software-engineer-ai-data-platforms",
+      "source": "Other",
+      "description": "Apply for a Software Engineer - AI & Data Platforms job at Apple. Read about the role and find out if it's right for you.",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T00:36:48+00:00",
+      "fetched_at": "2026-11-21T15:41:11.663386+00:00"
     },
     {
       "id": "020367cd89f4",
@@ -79,6 +439,21 @@
       "date": "2026-11-20",
       "timestamp": "2026-11-20T23:59:05+00:00",
       "fetched_at": "2026-11-21T04:21:10.599165+00:00"
+    },
+    {
+      "id": "1ec56968e06c",
+      "title": "Full Stack Software Engineer @ Quartermaster - Jobs",
+      "company": "Quartermaster",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/quartermaster/01ed0efa-7995-4018-a346-7586206c9d8f",
+      "source": "Ashby",
+      "description": "Full Stack Software Engineer . Location. Arlington, VA. Employment Type. Full time. Location Type. Hybrid. Department. Engineering. Compensation. $130K ...",
+      "date": "2026-11-20",
+      "timestamp": "2026-11-20T23:49:06+00:00",
+      "fetched_at": "2026-11-21T15:41:11.663701+00:00"
     },
     {
       "id": "7066f5f2be78",
