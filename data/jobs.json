@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-11-20T22:23:49.459158+00:00",
-  "total_jobs": 13776,
+  "last_updated": "2026-11-21T04:21:10.690793+00:00",
+  "total_jobs": 13799,
   "stats": {
-    "total_companies": 5996,
+    "total_companies": 6004,
     "total_roles": 181,
     "regions": {
-      "India": 8998,
-      "Philippines": 2987,
-      "Remote": 1717,
+      "India": 9011,
+      "Philippines": 2996,
+      "Remote": 1719,
       "Unknown": 135
     },
     "sources": {
-      "Other": 10763,
-      "Greenhouse": 702,
+      "Other": 10782,
+      "Greenhouse": 703,
       "Workday": 568,
       "LinkedIn": 564,
-      "Ashby": 466,
+      "Ashby": 468,
       "iCIMS": 172,
       "Breezy": 136,
       "Lever": 98,
@@ -27,14 +27,285 @@
       "Jobvite": 12,
       "BrassRing": 11,
       "Taleo": 8,
-      "ADP": 2
+      "ADP": 3
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-11-20"
+      "latest": "2026-11-21"
     }
   },
   "jobs": [
+    {
+      "id": "42a8f719a0d9",
+      "title": "Job Application for Data Engineer at AcuityMD - Greenhouse",
+      "company": "Acuitymd",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/acuitymd/jobs/6266794004",
+      "source": "Greenhouse",
+      "description": "AcuityMD, Inc seeks Data Engineer in Boston, MA Job Duties: Communicate business concepts, technical requirements, recommendations, ...",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T00:51:07+00:00",
+      "fetched_at": "2026-11-21T04:21:10.645746+00:00"
+    },
+    {
+      "id": "020367cd89f4",
+      "title": "Staff AI Engineer (Applied) - Careers at Moody's",
+      "company": "Moody's",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.moodys.com/en/job/london/staff-ai-engineer-applied/49841/98565502272",
+      "source": "Other",
+      "description": "Staff AI Engineer (Applied) \u00b7 8+ years in software engineering, with deep hands-on experience designing, building and operating production-grade ...",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T00:35:15+00:00",
+      "fetched_at": "2026-11-21T04:21:10.598761+00:00"
+    },
+    {
+      "id": "d938752be2d8",
+      "title": "Senior Software Engineer - AV Data Collection Tools - General Motors Careers",
+      "company": "AV Data Collection Tools - General Motors Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://search-careers.gm.com/en/jobs/jr-202623271/senior-software-engineer-av-data-collection-tools/",
+      "source": "Other",
+      "description": "Senior Software Engineer - AV Data Collection Tools. Location. Sunnyvale, California. (+) Show all locations (-) Hide all locations. Job Type Full ...",
+      "date": "2026-11-20",
+      "timestamp": "2026-11-20T23:59:05+00:00",
+      "fetched_at": "2026-11-21T04:21:10.599165+00:00"
+    },
+    {
+      "id": "7066f5f2be78",
+      "title": "Data Engineer in Princeton at Munich Re",
+      "company": "Munich Re",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.munichre.com/en/job/princeton/data-engineer/3342/47090174912",
+      "source": "Other",
+      "description": "... Software Engineer , Data Engineer /Analyst or other position involving data analysis. Must have at least 2 years of experience in the Specialty ...",
+      "date": "2026-11-20",
+      "timestamp": "2026-11-20T23:37:32+00:00",
+      "fetched_at": "2026-11-21T04:21:10.645993+00:00"
+    },
+    {
+      "id": "a81fa9bc732a",
+      "title": "Senior Software Engineer , Agent Development @ Alchemi - Jobs",
+      "company": "Alchemi",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/alchemi/3f99e2b7-2596-46b4-bd28-592255fd9e0b",
+      "source": "Ashby",
+      "description": "The role. The agents are the product. We're hiring a Senior Software Engineer , Agent Development to build them: take a real scientific workflow, break ...",
+      "date": "2026-11-20",
+      "timestamp": "2026-11-20T23:37:06+00:00",
+      "fetched_at": "2026-11-21T04:21:10.646059+00:00"
+    },
+    {
+      "id": "8493c7bbc429",
+      "title": "Staff Machine Learning Engineer , YouTube Live Discovery \u2014 Google Careers",
+      "company": "Unknown Company",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/78511373281043142-staff-machine-learning-engineer-youtube-live-discovery",
+      "source": "Other",
+      "description": "Senior Software Engineer , Search AI Infra. Bengaluru, Karnataka, India ... Staff Machine Learning Engineer , YouTube Live Discovery. share. Share ...",
+      "date": "2026-11-20",
+      "timestamp": "2026-11-20T23:34:39+00:00",
+      "fetched_at": "2026-11-21T04:21:10.646254+00:00"
+    },
+    {
+      "id": "c4f302c647fa",
+      "title": "Sr. Software Engineer - AI Solutions Engineering | Enterprise Architecture - Schwab Jobs",
+      "company": "Sr. Software Engineer",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.schwabjobs.com/job/austin/sr-software-engineer-ai-solutions-engineering-enterprise-architecture/33727/98059247040",
+      "source": "Other",
+      "description": "Schwab is seeking a Senior Software Engineer to join Enterprise Architecture Solutions Engineering within Enterprise Architecture and the Office ...",
+      "date": "2026-11-20",
+      "timestamp": "2026-11-20T23:19:28+00:00",
+      "fetched_at": "2026-11-21T04:21:10.646415+00:00"
+    },
+    {
+      "id": "20a004d28589",
+      "title": "Senior Software Engineer - Postgres Engine @ ClickHouse - Jobs",
+      "company": "Clickhouse",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/clickhouse/220080d1-c844-42e6-a762-9f3453289ac1",
+      "source": "Ashby",
+      "description": "Senior Software Engineer - Postgres Engine. Location. United States; Australia; Canada; India; The Netherlands; United Kingdom. Employment Type. Full ...",
+      "date": "2026-11-20",
+      "timestamp": "2026-11-20T23:00:50+00:00",
+      "fetched_at": "2026-11-21T04:21:10.646487+00:00"
+    },
+    {
+      "id": "ca50fa8ab105",
+      "title": "Senior Software Engineer at WALGREENS",
+      "company": "WALGREENS",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.walgreens.com/en/job/deerfield/senior-software-engineer/1242/103576254224",
+      "source": "Other",
+      "description": "Creating a better framework for our company and your career. Senior Software Engineer . Address: 102 WILMOT RD,DEERFIELD,IL ...",
+      "date": "2026-11-20",
+      "timestamp": "2026-11-20T22:55:52+00:00",
+      "fetched_at": "2026-11-21T04:21:10.599287+00:00"
+    },
+    {
+      "id": "91e5aee59fe0",
+      "title": "Senior Data Engineer (Python, Spark, PySpark, AWS) - CVS Health Careers",
+      "company": "CVS Health Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.cvshealth.com/us/en/job/R1092966/Senior-Data-Engineer-Python-Spark-PySpark-AWS",
+      "source": "Other",
+      "description": "Senior Data Engineer (Python, Spark, PySpark, AWS). Description. We're ... Senior Data Platform Engineer (Databricks, Python). Location: Work at ...",
+      "date": "2026-11-20",
+      "timestamp": "2026-11-20T22:35:26+00:00",
+      "fetched_at": "2026-11-21T04:21:10.599426+00:00"
+    },
+    {
+      "id": "1177d081e1f6",
+      "title": "Sr. AI Software Engineer (Remote) - ADP MyJobs",
+      "company": "ADP MyJobs",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://myjobs.adp.com/inspiracareers/cx/job-details?reqId=5001234828500",
+      "source": "ADP",
+      "description": "The Sr. AI Software Engineer reports to the Sr. Director, AI Center of Excellence, in the Technology Department, and has no direct reports.",
+      "date": "2026-11-20",
+      "timestamp": "2026-11-20T22:17:43+00:00",
+      "fetched_at": "2026-11-21T04:21:10.599609+00:00"
+    },
+    {
+      "id": "61e5c682b16a",
+      "title": "Senior Data Engineer with AI - Goldenpick Technologies LLC - Hybrid in Dallas, TX, US",
+      "company": "Goldenpick Technologies LLC - Hybrid in Dallas, TX, US",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.dice.com/job-detail/27c4abbf-d8d0-4d41-99e4-90e5a9c53149",
+      "source": "Other",
+      "description": "1 day ago - Position : Senior Data Engineer with AILocation: Dallas, TX (Hybrid) About the RoleWe're hiring an exceptional Senior Data Eng...",
+      "date": "2026-11-20",
+      "timestamp": "2026-11-20T22:10:36+00:00",
+      "fetched_at": "2026-11-21T04:21:10.646819+00:00"
+    },
+    {
+      "id": "41124def6ca0",
+      "title": "AI-Native Software Engineer (Platform) - Playrix",
+      "company": "Playrix",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://playrix.com/job/open/ai/ai-native-software-engineer",
+      "source": "Other",
+      "description": "Tasks. AI Platform Engineer \u2014 you build the foundation that every agent in the company runs on. You build the infrastructure that makes agents ...",
+      "date": "2026-11-20",
+      "timestamp": "2026-11-20T22:05:00+00:00",
+      "fetched_at": "2026-11-21T04:21:10.646905+00:00"
+    },
+    {
+      "id": "871d9311da59",
+      "title": "Data Engineer , Austin, Texas plus 1 location | General Motors Careers",
+      "company": "General Motors Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://search-careers.gm.com/en/jobs/jr-202622522/data-engineer/",
+      "source": "Other",
+      "description": "Two GM employees working together on a laptop. Information Technology. Data Engineer . Location. Austin, Texas; Warren, Michigan.",
+      "date": "2026-11-20",
+      "timestamp": "2026-11-20T22:02:31+00:00",
+      "fetched_at": "2026-11-21T04:21:10.599711+00:00"
+    },
+    {
+      "id": "536a1e63ebd7",
+      "title": "GE Vernova Embedded Software Engineer",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.gevernova.com/ge-vernova-embedded-software-engineer/job/R5059206",
+      "source": "Other",
+      "description": "GE Vernova Embedded Software Engineer . Applications and Embedded Software (Firmware); PB. Type: Full Time. Location(s):: Roanoke US VA 3. Date Posted ...",
+      "date": "2026-11-20",
+      "timestamp": "2026-11-20T21:32:50+00:00",
+      "fetched_at": "2026-11-21T04:21:10.647085+00:00"
+    },
+    {
+      "id": "d2187241ed81",
+      "title": "Associate Software Engineer , Bengaluru, Karnataka - Deltek Careers",
+      "company": "Deltek Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India",
+        "Remote"
+      ],
+      "link": "https://careers.deltek.com/job/24235384/associate-software-engineer-remote/",
+      "source": "Other",
+      "description": "Associate Software Engineer . Job ID: 11351BR; Location: India (Remote); Work Setup: Remote; Job Category: Engineering; Posting Date: November 20, 2026.",
+      "date": "2026-11-20",
+      "timestamp": "2026-11-20T21:32:14+00:00",
+      "fetched_at": "2026-11-21T04:21:10.647178+00:00"
+    },
+    {
+      "id": "418d5d11476b",
+      "title": "Principal Software Engineer , Early Clinical Development - Genentech",
+      "company": "Genentech",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.gene.com/careers/detail/202611-129255/Principal-Software-Engineer-Early-Clinical-Development",
+      "source": "Other",
+      "description": "Apply for Principal Software Engineer , Early Clinical Development job with Genentech in South San Francisco, California, United States of America.",
+      "date": "2026-11-20",
+      "timestamp": "2026-11-20T21:29:33+00:00",
+      "fetched_at": "2026-11-21T04:21:10.647317+00:00"
+    },
+    {
+      "id": "d4336994a6b4",
+      "title": "Site Reliability Engineer job in Houston, TX | AbbVie",
+      "company": "AbbVie",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.abbvie.com/en/job/site-reliability-engineer-in-houston-tx-jid-36182",
+      "source": "Other",
+      "description": "AbbVie Information Security is looking for a highly motivated, diligent, and skillful Site Reliability Engineer to join the Cyber Security ...",
+      "date": "2026-11-20",
+      "timestamp": "2026-11-20T21:08:06+00:00",
+      "fetched_at": "2026-11-21T04:21:10.599905+00:00"
+    },
     {
       "id": "6f959fc15372",
       "title": "Software Engineer in San Jose, California, United States of America - Cisco Careers",
@@ -49,6 +320,51 @@
       "date": "2026-11-20",
       "timestamp": "2026-11-20T20:59:30+00:00",
       "fetched_at": "2026-11-20T22:23:49.321607+00:00"
+    },
+    {
+      "id": "2e332305d64d",
+      "title": "[ Senior Software Engineer ] [Southern California] - $185,000 + $300K RSUs (private, 1-yr cliff ...",
+      "company": "$185,000 + $300K RSUs (private, 1-yr cliff ...",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/Salary/comments/1y1d3vz/senior_software_engineer_southern_california/",
+      "source": "Other",
+      "description": "[ Senior Software Engineer ] [Southern California] - $185,000 + $300K ... r/Salary - [ Data Engineer ] [Bay Area] - $190,000. 22 upvotes \u00b7 9 ...",
+      "date": "2026-11-20",
+      "timestamp": "2026-11-20T20:46:38+00:00",
+      "fetched_at": "2026-11-21T04:21:10.600164+00:00"
+    },
+    {
+      "id": "13ba65101544",
+      "title": "Sr. Software Engineer - Java - Portals & Websites at MCKESSON",
+      "company": "MCKESSON",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mckesson.com/en/job/cork/sr-software-engineer-java-portals-and-websites/733/103567681472",
+      "source": "Other",
+      "description": "Tackling challenges no one else can. Sr. Software Engineer - Java - Portals & Websites. Cork, Ireland. Job IDJR0154361 ...",
+      "date": "2026-11-20",
+      "timestamp": "2026-11-20T20:24:17+00:00",
+      "fetched_at": "2026-11-21T04:21:10.600315+00:00"
+    },
+    {
+      "id": "20dc9452fdaf",
+      "title": "Software Engineer (AI Agents) - United States - 197657 - Koch",
+      "company": "United States - 197657 - Koch",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://koch.avature.net/en_US/careers/JobDetail/United-States-Software-Engineer-Developer-Productivity-AI/197657",
+      "source": "Other",
+      "description": "Molex is seeking a motivated Software Engineer , Developer Productivity (AI Agents), to join our Optical Systems Business Unit in Fremont, California.",
+      "date": "2026-11-20",
+      "timestamp": "2026-11-20T20:11:26+00:00",
+      "fetched_at": "2026-11-21T04:21:10.647867+00:00"
     },
     {
       "id": "579e7d459d4b",
@@ -96,6 +412,21 @@
       "fetched_at": "2026-11-20T22:23:49.322233+00:00"
     },
     {
+      "id": "a1dc87891e84",
+      "title": "Software Engineer , Google Cloud Change Management",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.google.com/jobs/results/84865932014297798-software-engineer/",
+      "source": "Other",
+      "description": "Staff Machine Learning Engineer , YouTube Live Discovery. Mountain ... Senior Software Engineer , Search AI Infra. Bengaluru, Karnataka, India ...",
+      "date": "2026-11-20",
+      "timestamp": "2026-11-20T19:26:53+00:00",
+      "fetched_at": "2026-11-21T04:21:10.600860+00:00"
+    },
+    {
       "id": "25ec9d4b60d2",
       "title": "Stripe Careers | Staff Software Engineer , Mobile Development Productivity",
       "company": "Stripe Careers",
@@ -124,6 +455,21 @@
       "date": "2026-11-20",
       "timestamp": "2026-11-20T19:18:54+00:00",
       "fetched_at": "2026-11-20T22:23:49.395393+00:00"
+    },
+    {
+      "id": "a958848886a5",
+      "title": "Software Engineer II (Onsite) in largo, Florida, United States of America | Ingenier\u00eda at Raytheon",
+      "company": "Raytheon",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.rtx.com/mx/es/job/01888066/Software-Engineer-II-Onsite",
+      "source": "Other",
+      "description": "Apply for Software Engineer II (Onsite) job with Raytheon in largo, Florida, United States of America ... Senior Software Engineer . Ubicaci\u00f3n largo, ...",
+      "date": "2026-11-20",
+      "timestamp": "2026-11-20T19:16:20+00:00",
+      "fetched_at": "2026-11-21T04:21:10.601165+00:00"
     },
     {
       "id": "4d22d3266117",
