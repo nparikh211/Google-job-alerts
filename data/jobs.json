@@ -1,31 +1,31 @@
 {
-  "last_updated": "2026-11-21T15:41:11.805545+00:00",
-  "total_jobs": 13824,
+  "last_updated": "2026-11-21T21:14:14.817908+00:00",
+  "total_jobs": 13845,
   "stats": {
-    "total_companies": 6014,
+    "total_companies": 6021,
     "total_roles": 181,
     "regions": {
-      "India": 9025,
-      "Philippines": 3005,
-      "Remote": 1721,
+      "India": 9037,
+      "Philippines": 3011,
+      "Remote": 1724,
       "Unknown": 135
     },
     "sources": {
-      "Other": 10800,
-      "Greenhouse": 704,
-      "Workday": 568,
-      "LinkedIn": 565,
-      "Ashby": 469,
+      "Other": 10813,
+      "Greenhouse": 705,
+      "Workday": 571,
+      "LinkedIn": 566,
+      "Ashby": 470,
       "iCIMS": 174,
       "Breezy": 136,
       "Workable": 98,
       "Lever": 98,
       "SmartRecruiters": 97,
-      "Indeed": 47,
+      "Indeed": 48,
       "Recruitee": 18,
       "WeWorkRemotely": 16,
+      "BrassRing": 12,
       "Jobvite": 12,
-      "BrassRing": 11,
       "Taleo": 8,
       "ADP": 3
     },
@@ -35,6 +35,111 @@
     }
   },
   "jobs": [
+    {
+      "id": "6dc76cc3d367",
+      "title": "Associate Software Engineer | Deltek, Inc - jobs.brassring.com",
+      "company": "Deltek, Inc - jobs.brassring.com",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25397&siteid=5259&jobid=623705&gqid=0&al=1&null=Career_website",
+      "source": "BrassRing",
+      "description": "Associate Software Engineer | Deltek, Inc. Quick Apply. Close. {{dynamicStrings.Link_ClearAll}}. Job Search Job Search Options expanded Job Search ...",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T17:37:11+00:00",
+      "fetched_at": "2026-11-21T21:14:14.772523+00:00"
+    },
+    {
+      "id": "579346091d07",
+      "title": "Job Application for Software Engineer I, Backend (Streaming Infra) at Affirm - Greenhouse",
+      "company": "Affirm",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/affirm/jobs/8201469003",
+      "source": "Greenhouse",
+      "description": "Software Engineer I, Backend (Streaming Infra). Remote US. Apply. At Affirm, we exist for the moments that matter\u2014giving people a clear, predictable ...",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T17:35:38+00:00",
+      "fetched_at": "2026-11-21T21:14:14.772604+00:00"
+    },
+    {
+      "id": "f746d29a20ce",
+      "title": "Junior Software Engineer (New Grad) at MSPilot | Y Combinator's Work at a Startup",
+      "company": "MSPilot",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.workatastartup.com/jobs/124160",
+      "source": "Other",
+      "description": "Junior Software Engineer (New Grad) ... Turn AI adoption into a recurring revenue line. LocationSan Francisco, CA, US / Lviv, Lviv Oblast, UA / Krak\u00f3w, ...",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T17:31:40+00:00",
+      "fetched_at": "2026-11-21T21:14:14.772681+00:00"
+    },
+    {
+      "id": "19e1ce4700b2",
+      "title": "Ilya Uts' Post - Sr Software Engineer - LinkedIn",
+      "company": "Ilya Uts' Post",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/ilyauts_help-us-redefine-the-grocery-and-retail-storefront-activity-7529757499399380992-dKZI",
+      "source": "LinkedIn",
+      "description": "... Full-Stack Engineer to join our team in NYC as we continue ... Hi Ilya, I am interested in Senior Software Engineer opening at Uber Eats in NYC.",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T15:44:09+00:00",
+      "fetched_at": "2026-11-21T21:14:14.571347+00:00"
+    },
+    {
+      "id": "4422cb7b7413",
+      "title": "Data Engineer , Specialist - Myworkdayjobs.com",
+      "company": "Vanguard",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Data-Engineer--Specialist_184071",
+      "source": "Workday",
+      "description": "The Data Engineer designs, builds, and supports scalable, secure, and reusable data solutions that enable analytics, reporting, ...",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T15:23:31+00:00",
+      "fetched_at": "2026-11-21T21:14:14.571419+00:00"
+    },
+    {
+      "id": "54352cf3d414",
+      "title": "Data Engineer , Specialist - Myworkdayjobs.com",
+      "company": "Vanguard",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Data-Engineer--Specialist_184071",
+      "source": "Workday",
+      "description": "The Data Engineer designs, builds, and supports scalable, secure, and reusable data solutions that enable analytics, reporting, ...",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T15:21:33+00:00",
+      "fetched_at": "2026-11-21T21:14:14.772989+00:00"
+    },
+    {
+      "id": "d7035f5f502b",
+      "title": "DevOps Engineer in Remote Work, Virginia, United States - SAIC Careers",
+      "company": "SAIC Careers",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.saic.com/jobs/18506981-devops-engineer",
+      "source": "Other",
+      "description": "DevOps Engineer in Remote Work, Virginia, United States. ... FinOps Kion Cloud Engineer Principal. Remote Work, VA, United States",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T15:09:26+00:00",
+      "fetched_at": "2026-11-21T21:14:14.773080+00:00"
+    },
     {
       "id": "5923e81c7317",
       "title": "Software Developer \u2192 AI Engineer | Umang Chaudhary | 53 comments - LinkedIn",
@@ -66,6 +171,81 @@
       "fetched_at": "2026-11-21T15:41:11.760190+00:00"
     },
     {
+      "id": "dd377d813632",
+      "title": "Data Engineer - Rippling",
+      "company": "Rippling",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://ats.rippling.com/sagent/jobs/2b8623e0-3bd4-4e76-ae55-075a6baed6ba",
+      "source": "Other",
+      "description": "Data Engineer . Sagent Global Opportunities. Data Engineer . Why you'll LOVE Sagent. You could work anywhere. We know you are talented and looking for ...",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T14:31:16+00:00",
+      "fetched_at": "2026-11-21T21:14:14.773423+00:00"
+    },
+    {
+      "id": "ac378e03a658",
+      "title": "Software Engineer job - Experis USA - 418999",
+      "company": "Experis USA - 418999",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.experis.com/en/job/418999/software-engineer",
+      "source": "Other",
+      "description": "Software Engineer \u00b7 Design and deliver software solutions across the full engineering lifecycle, from architecture and infrastructure through ...",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T14:30:27+00:00",
+      "fetched_at": "2026-11-21T21:14:14.571573+00:00"
+    },
+    {
+      "id": "1aa2b9e828e4",
+      "title": "Software Engineer in Bangalore, India | Product and Engineering at Cisco - Cisco Careers",
+      "company": "Cisco",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2031523EXTERNALENGLOBAL/Software-Engineer",
+      "source": "Other",
+      "description": "Exciting opportunity for a Software Engineer to drive the development of AI-native solutions within Cisco's Supply Chain Fast Fulfilment IT team.",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T14:26:40+00:00",
+      "fetched_at": "2026-11-21T21:14:14.571675+00:00"
+    },
+    {
+      "id": "2fbf2b4f8d29",
+      "title": "Sr. Data Engineer - Rippling",
+      "company": "Rippling",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/dataspring/jobs/2a5053f3-3978-43b7-8e98-c27655171439",
+      "source": "Other",
+      "description": "Position Summary DataSpring runs the largest healthcare data foundation in the U.S. The Sr. Data Engineer builds and owns the pipelines and data ...",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T14:18:29+00:00",
+      "fetched_at": "2026-11-21T21:14:14.571773+00:00"
+    },
+    {
+      "id": "78a51afbadd5",
+      "title": "Sr Lead Software Engineer Javafullstack AWS, agentic - JPMC Candidate Experience page Careers",
+      "company": "JPMC Candidate Experience page Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811080",
+      "source": "Other",
+      "description": "Sr Lead Software Engineer Javafullstack AWS, agentic. Hyderabad, Telangana, India. Apply Now. Job Information. Job Identification 210811080; Job ...",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T12:52:57+00:00",
+      "fetched_at": "2026-11-21T21:14:14.773790+00:00"
+    },
+    {
       "id": "934bd30e5172",
       "title": "Data Engineer I - Job ID: 10610327 - Amazon Careers",
       "company": "Job ID: 10610327 - Amazon Careers",
@@ -79,6 +259,81 @@
       "date": "2026-11-21",
       "timestamp": "2026-11-21T12:11:55+00:00",
       "fetched_at": "2026-11-21T15:41:11.661588+00:00"
+    },
+    {
+      "id": "1ab688d71029",
+      "title": "(USA) Distinguished, Software Engineer - Walmart Careers",
+      "company": "Walmart Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.walmart.com/us/en/jobs/R-2676189",
+      "source": "Other",
+      "description": "As a Distinguished Software Engineer , you will lead the design and development ofscalable, cloud-native AI powered systems, ensuring architectural ...",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T12:11:05+00:00",
+      "fetched_at": "2026-11-21T21:14:14.773947+00:00"
+    },
+    {
+      "id": "82152f55e86d",
+      "title": "2027 Digital Graduate Program, Product Analyst, Data and AI Engineer - Sanofi Careers",
+      "company": "Sanofi Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.sanofi.com/en/job/toronto/2027-digital-graduate-program-product-analyst-data-and-ai-engineer/2649/47089967296",
+      "source": "Other",
+      "description": "... AI Engineer at Sanofi. ... You are enthusiastic about building your skills as a data or cloud engineer and eager to contribute to impactful projects.",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T11:53:27+00:00",
+      "fetched_at": "2026-11-21T21:14:14.774114+00:00"
+    },
+    {
+      "id": "50591d8cbe63",
+      "title": "Senior Software Engineer - Myworkdayjobs.com",
+      "company": "Humana",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Senior-Software-Engineer_R-436676",
+      "source": "Workday",
+      "description": "... Data Engineer Associate, Microsoft Certified: Azure Developer ... The Senior Software Engineer designs, develops, and enhances scalable ...",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T11:22:19+00:00",
+      "fetched_at": "2026-11-21T21:14:14.571924+00:00"
+    },
+    {
+      "id": "be8c24575b96",
+      "title": "Software Engineer - Mountain View, California, United States - Waymo careers",
+      "company": "Mountain View, California, United States - Waymo careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.withwaymo.com/jobs/software-engineer-mountain-view-california-united-states-76c64607-3daa-4338-afcb-3606fda8ce63",
+      "source": "Other",
+      "description": "Software Engineer \u00b7 Build onboard software and benchmarking infrastructure to guarantee the reliability of the self-driving system. \u00b7 Design high- ...",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T11:14:46+00:00",
+      "fetched_at": "2026-11-21T21:14:14.774393+00:00"
+    },
+    {
+      "id": "d3fd5e079c5f",
+      "title": "Software Engineer II, Real-Time Embedded Systems - Onsite - RTX Careers",
+      "company": "Time Embedded Systems - Onsite - RTX Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.rtx.com/global/en/job/01867647/Software-Engineer-II-Real-Time-Embedded-Systems-Onsite",
+      "source": "Other",
+      "description": "Senior Software Engineer - RDPL, Onsite. Location fullerton, California, United States of America Category Engineering Posted Date 10/13/2026.",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T11:13:46+00:00",
+      "fetched_at": "2026-11-21T21:14:14.572054+00:00"
     },
     {
       "id": "5eb7f80493f3",
@@ -111,6 +366,21 @@
       "fetched_at": "2026-11-21T15:41:11.760515+00:00"
     },
     {
+      "id": "cd8bf5a6cd76",
+      "title": "Senior Software Engineer , Infrastructure Automation @ ClickHouse - Jobs",
+      "company": "Clickhouse",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/clickhouse/03767ebf-9a34-4204-8580-4d720121d5ab",
+      "source": "Ashby",
+      "description": "... Senior Software Engineer to help lead our US operations, drive self-service platform capabilities, and scale our multi-cloud architecture. What ...",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T10:20:40+00:00",
+      "fetched_at": "2026-11-21T21:14:14.572305+00:00"
+    },
+    {
       "id": "0a79b161a6c7",
       "title": "Staff DevOps Engineer at Palo Alto Networks",
       "company": "Palo Alto Networks",
@@ -126,6 +396,36 @@
       "fetched_at": "2026-11-21T15:41:11.760607+00:00"
     },
     {
+      "id": "7a7a0100f2c2",
+      "title": "Staff Software Engineer , AI/ML GenAI, Google Workspace",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/120440080975176390-staff-software-engineer-aiml-genai-google-workspace",
+      "source": "Other",
+      "description": "Senior Software Engineer , Search AI Infra. Bengaluru, Karnataka, India \u00b7 Group Product Manager, Gemini for Google Cloud Operations. Sunnyvale, CA, USA ...",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T09:57:17+00:00",
+      "fetched_at": "2026-11-21T21:14:14.572533+00:00"
+    },
+    {
+      "id": "03f98030a2e7",
+      "title": "Senior Full Stack AI Engineer in Toronto, Ontario, Canada | Technology at Manulife",
+      "company": "Manulife",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.manulife.com/global/en/job/JR26110482/Senior-Full-Stack-AI-Engineer",
+      "source": "Other",
+      "description": "Senior Full Stack AI Engineer . Description. The Senior Software Engineer \u2013 Canada Retirement (AI/ML & Agentic SDLC) designs, builds, and maintains ...",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T08:18:38+00:00",
+      "fetched_at": "2026-11-21T21:14:14.572625+00:00"
+    },
+    {
       "id": "53798d23df7d",
       "title": "Senior Data Engineer - Nike Careers",
       "company": "Nike Careers",
@@ -139,6 +439,21 @@
       "date": "2026-11-21",
       "timestamp": "2026-11-21T07:50:11+00:00",
       "fetched_at": "2026-11-21T15:41:11.760693+00:00"
+    },
+    {
+      "id": "7450850ef019",
+      "title": "Now Hiring: 300 Data Engineer Jobs in Waterman, IL | Indeed",
+      "company": "Indeed",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.indeed.com/q-data-engineer-l-waterman,-il-jobs.html",
+      "source": "Indeed",
+      "description": "People also searched: data \u00b7 devops engineer \u00b7 sql developer \u00b7 data scientist \u00b7 big data engineer \u00b7 software engineer \u00b7 gcp data engineer \u00b7 azure data ...",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T07:48:51+00:00",
+      "fetched_at": "2026-11-21T21:14:14.572797+00:00"
     },
     {
       "id": "40c6fe395bf3",
