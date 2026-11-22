@@ -1,29 +1,29 @@
 {
-  "last_updated": "2026-11-22T03:35:42.875236+00:00",
-  "total_jobs": 13856,
+  "last_updated": "2026-11-22T12:01:32.395078+00:00",
+  "total_jobs": 13880,
   "stats": {
-    "total_companies": 6026,
+    "total_companies": 6035,
     "total_roles": 181,
     "regions": {
-      "India": 9044,
-      "Philippines": 3014,
-      "Remote": 1725,
+      "India": 9055,
+      "Philippines": 3025,
+      "Remote": 1728,
       "Unknown": 135
     },
     "sources": {
-      "Other": 10822,
+      "Other": 10841,
       "Greenhouse": 705,
       "Workday": 572,
-      "LinkedIn": 566,
-      "Ashby": 470,
-      "iCIMS": 174,
+      "LinkedIn": 567,
+      "Ashby": 471,
+      "iCIMS": 175,
       "Breezy": 136,
       "Lever": 99,
       "Workable": 98,
       "SmartRecruiters": 97,
-      "Indeed": 48,
+      "Indeed": 49,
       "Recruitee": 18,
-      "WeWorkRemotely": 16,
+      "WeWorkRemotely": 17,
       "BrassRing": 12,
       "Jobvite": 12,
       "Taleo": 8,
@@ -35,6 +35,277 @@
     }
   },
   "jobs": [
+    {
+      "id": "64543057ccd1",
+      "title": "Principal AI Engineer , Trust & Evaluation - Toronto, Ontario, Canada - Equinix Careers",
+      "company": "Toronto, Ontario, Canada - Equinix Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.equinix.com/jobs/principal-ai-engineer-trust-evaluation-toronto-ontario-canada-redwood-city-california-united-states",
+      "source": "Other",
+      "description": "Principal AI Engineer , Trust & Evaluation \u00b7 Write tested, reviewed and documented code, contribute to shared libraries and tooling, and review the ...",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T09:53:13+00:00",
+      "fetched_at": "2026-11-22T12:01:32.353886+00:00"
+    },
+    {
+      "id": "6726d83073ef",
+      "title": "Associate AI Engineer - HigherEdJobs",
+      "company": "HigherEdJobs",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.higheredjobs.com/details.cfm?JobCode=179624541",
+      "source": "Other",
+      "description": "Category Software Engineer /Programmer. PostedToday. Websitewww.neu.edu. Associate AI Engineer . About the Opportunity JOB SUMMARY The Associate AI ...",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T09:33:55+00:00",
+      "fetched_at": "2026-11-22T12:01:31.973698+00:00"
+    },
+    {
+      "id": "52e721d991c5",
+      "title": "Staff Software Engineer , AI Native Engineering, Integrations - ServiceNow Careers",
+      "company": "ServiceNow Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.servicenow.com/jobs/744000163090339/staff-software-engineer-ai-native-engineering-integrations/",
+      "source": "Other",
+      "description": "Staff Software Engineer , AI Native Engineering, Integrations ... Senior Staff DevOps Engineer - Flow. Save Saved. Waltham. Staff Software ...",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T08:24:29+00:00",
+      "fetched_at": "2026-11-22T12:01:31.973844+00:00"
+    },
+    {
+      "id": "9e00c810179a",
+      "title": "AI Engineer - CX in San Jose, California, United States of America | Other at Cisco",
+      "company": "Cisco",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2031347EXTERNALENGLOBAL/AI-Engineer-CX",
+      "source": "Other",
+      "description": "Apply for AI Engineer - CX job with Cisco in San Jose, California, United States of America ... Principal Machine Learning Engineer - CX. Location: San ...",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T07:01:26+00:00",
+      "fetched_at": "2026-11-22T12:01:32.354076+00:00"
+    },
+    {
+      "id": "3b57eb81978b",
+      "title": "Site Reliability Engineer - Cisco Careers",
+      "company": "Cisco Careers",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2029632EXTERNALENGLOBAL/Site-Reliability-Engineer",
+      "source": "Other",
+      "description": "Site Reliability Engineer . Share. Share via Facebook. Share via ... We are expanding our team: As a Senior Cloud Engineer (DBRE), you will ...",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T07:01:25+00:00",
+      "fetched_at": "2026-11-22T12:01:32.354167+00:00"
+    },
+    {
+      "id": "f588c1c8323a",
+      "title": "Secureframe - Software Engineer , New Grad - Jobs",
+      "company": "Secureframe",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/secureframe/ab69f040-9b87-4420-9150-edc6e4f54cfb",
+      "source": "Ashby",
+      "description": "Software Engineer , New Grad. Location. New York, NY. Employment Type. Full time. Location Type. On-site. Department. Engineering. Compensation. $100K ...",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T06:14:07+00:00",
+      "fetched_at": "2026-11-22T12:01:32.354217+00:00"
+    },
+    {
+      "id": "d1883b9ef37b",
+      "title": "Senior Software Engineer @ Parloa | General Catalyst Job Board",
+      "company": "Parloa",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.generalcatalyst.com/companies/parloa/jobs/100513980-senior-software-engineer",
+      "source": "Other",
+      "description": "About The Role: As a Senior Software Engineer , you will work on a marketplace of tools and integrations which Parloa's agents leverage via MCP.",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T06:13:18+00:00",
+      "fetched_at": "2026-11-22T12:01:32.354296+00:00"
+    },
+    {
+      "id": "0a5fecd16af5",
+      "title": "Senior Software Engineer - American Express Careers",
+      "company": "American Express Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.americanexpress.com/en/sites/CX_1/job/26016262",
+      "source": "Other",
+      "description": "Senior Software Engineer . Phoenix, AZ, United States (Hybrid). Apply Now. Job Description. Joining Amex Tech means discovering and shaping your ...",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T05:11:19+00:00",
+      "fetched_at": "2026-11-22T12:01:32.354363+00:00"
+    },
+    {
+      "id": "6c766ffb1222",
+      "title": "Staff Software Engineer - Storage job in Bellevue, Washington, United States",
+      "company": "Storage job in Bellevue, Washington, United States",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.snowflake.com/us/en/job/SNCOUS12FF605DF70343BDB8D9F2AAA9D70143EXTERNALENUSB861DDAC1FC44E429CDEA81BE6F00FE2/Staff-Software-Engineer-Storage",
+      "source": "Other",
+      "description": "Senior Software Engineer - Identity, Data Security and Trust. Available in 2 locations. Category Engineering ReqId ASHREQ-7374. Staff Software ...",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T04:59:30+00:00",
+      "fetched_at": "2026-11-22T12:01:31.974039+00:00"
+    },
+    {
+      "id": "32e1e450b67b",
+      "title": "Big data engineer jobs in Glenwood, MD - Indeed",
+      "company": "Indeed",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.indeed.com/q-big-data-engineer-l-glenwood,-md-jobs.html",
+      "source": "Indeed",
+      "description": "... DevOps Engineer . General Dynamics Information Technology. Hybrid remote ... Platform Engineer (DevOps / Full-Stack Hybrid) [Up to 2 days/week ...",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T04:54:39+00:00",
+      "fetched_at": "2026-11-22T12:01:32.354614+00:00"
+    },
+    {
+      "id": "1b38888707fb",
+      "title": "Software Engineer Intern (6 months, PPO opportunity) at Elip AI | Y Combinator's Work at a Startup",
+      "company": "Elip AI",
+      "role": "Software Engineer",
+      "regions": [
+        "India",
+        "Remote"
+      ],
+      "link": "https://www.workatastartup.com/jobs/124308",
+      "source": "Other",
+      "description": "Software Engineer Intern (6 months, PPO opportunity) ; LocationGurugram, HR, IN / Remote (IN) ; TypeInternship ; Salary\u20b975K INR / monthly ; VisaUS ...",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T04:46:35+00:00",
+      "fetched_at": "2026-11-22T12:01:32.354677+00:00"
+    },
+    {
+      "id": "d9e9be8b0312",
+      "title": "Software Engineer Jobs - ClearanceJobs",
+      "company": "ClearanceJobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.clearancejobs.com/jobs/9339918/software-engineer",
+      "source": "Other",
+      "description": "Software Engineer requiring an active security clearance. Find other Base-2 Solutions, LLC defense and intelligence career opportunities on ...",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T04:05:30+00:00",
+      "fetched_at": "2026-11-22T12:01:31.974120+00:00"
+    },
+    {
+      "id": "32d29f9a2765",
+      "title": "Data Platform Engineer I - MIT Career Advising",
+      "company": "MIT Career Advising",
+      "role": "Platform Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://capd.mit.edu/jobs/allete-inc-data-platform-engineer-i/",
+      "source": "Other",
+      "description": "Data Platform Engineer I Job ID: 6091. Company: ALLETE, Inc. Location: Duluth, MN Shift Work: No shift. Union Contract: ALLETE \u2013 Non-Union",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T03:25:34+00:00",
+      "fetched_at": "2026-11-22T12:01:32.354754+00:00"
+    },
+    {
+      "id": "de1c40c0848a",
+      "title": "Principal Software Engineer - Backend, Identity Threat Protection | Okta",
+      "company": "Protection",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.okta.com/company/careers/principal-software-engineer-backend-identity-threat-protection/",
+      "source": "Other",
+      "description": "... Backend Engineer , Identity Threat Protection The Identity Threat ... Software Engineer Opportunity Okta is seeking a Principal Software ...",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T03:22:27+00:00",
+      "fetched_at": "2026-11-22T12:01:32.354852+00:00"
+    },
+    {
+      "id": "0a83bb5eabff",
+      "title": "Software Engineer - Autoliv United States",
+      "company": "Autoliv United States",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careerunitedstates.autoliv.com/jobs/8481594-software-engineer",
+      "source": "Other",
+      "description": "Software Engineer . Apply for this job. As a leading provider of automotive occupant safety solutions, the Autoliv Promontory Facility is searching ...",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T03:17:52+00:00",
+      "fetched_at": "2026-11-22T12:01:32.354921+00:00"
+    },
+    {
+      "id": "effdb21b3ffc",
+      "title": "Cloud Engineer in McLean, Virginia - steampunk | Careers Center",
+      "company": "steampunk | Careers Center",
+      "role": "Cloud Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers-steampunk.icims.com/jobs/9079/cloud-engineer/job",
+      "source": "iCIMS",
+      "description": "As a Cloud Engineer , you will work within our growing DevSecOps practice delivering features to support cloud migration, cloud optimization and ...",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T02:31:03+00:00",
+      "fetched_at": "2026-11-22T12:01:32.354992+00:00"
+    },
+    {
+      "id": "a5b5199639ae",
+      "title": "Sr. Data Governance Platform Engineer in Cupertino, CA, United States - U.S. Bank careers",
+      "company": "U.S. Bank careers",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.usbank.com/global/en/job/2026-0032603/Sr-Data-Governance-Platform-Engineer",
+      "source": "Other",
+      "description": "Apply for Sr. Data Governance Platform Engineer job with U.S. Bank in Cupertino, CA, United States. Technology & Digital at U.S. Bank.",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T01:35:34+00:00",
+      "fetched_at": "2026-11-22T12:01:31.974210+00:00"
+    },
+    {
+      "id": "4894f487ff71",
+      "title": "Remote Frontend Engineer at Ritual",
+      "company": "Ritual",
+      "role": "Frontend Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://weworkremotely.com/remote-jobs/ritual-frontend-engineer",
+      "source": "WeWorkRemotely",
+      "description": "Ritual is hiring a remote Frontend Engineer to join their remote Full-Stack Programming team. About Ritual Ritual is building a sovereign, ...",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T01:33:31+00:00",
+      "fetched_at": "2026-11-22T12:01:32.355230+00:00"
+    },
     {
       "id": "4a2334d554d7",
       "title": "Lead Marketing AI Engineer | Dynatrace Careers",
@@ -49,6 +320,21 @@
       "date": "2026-11-22",
       "timestamp": "2026-11-22T00:30:10+00:00",
       "fetched_at": "2026-11-22T03:35:42.803990+00:00"
+    },
+    {
+      "id": "8fd2fa6e1371",
+      "title": "Software engineer not using AI : r/SoftwareEngineering - Reddit",
+      "company": "Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.reddit.com/r/SoftwareEngineering/comments/1y26wp0/software_engineer_not_using_ai/",
+      "source": "Other",
+      "description": "21 votes, 55 comments. As the title reads, i work as a software engineer at a company where ai agents still aren't allowed due to security ...",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T23:52:39+00:00",
+      "fetched_at": "2026-11-22T12:01:32.355371+00:00"
     },
     {
       "id": "2652c18e6898",
@@ -66,6 +352,21 @@
       "fetched_at": "2026-11-22T03:35:42.804188+00:00"
     },
     {
+      "id": "659a5e548897",
+      "title": "Senior Software Engineer - Ace Waves | Built In",
+      "company": "Ace Waves | Built In",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://builtin.com/job/senior-software-engineer/12402227",
+      "source": "Other",
+      "description": "Ace Waves is hiring for a Senior Software Engineer in Kauna, Almora, Uttarakhand, IND. Find more details about the job and how to apply at Built ...",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T22:48:25+00:00",
+      "fetched_at": "2026-11-22T12:01:31.974426+00:00"
+    },
+    {
       "id": "1c5319af6634",
       "title": "Principal Software Engineer in Menlo Park, California, United States - Snowflake Careers",
       "company": "Snowflake Careers",
@@ -79,6 +380,36 @@
       "date": "2026-11-21",
       "timestamp": "2026-11-21T21:18:43+00:00",
       "fetched_at": "2026-11-22T03:35:42.693829+00:00"
+    },
+    {
+      "id": "1f78801392c4",
+      "title": "Open Role \u2014 Staff Software Engineer - Ripple",
+      "company": "Ripple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ripple.com/careers/all-jobs/job/8407049?gh_jid=8407049&gh_src=Blind",
+      "source": "Other",
+      "description": "Staff Software Engineer \u00b7 AWS cloud resources including S3, Lambda, API Gateway, Kinesis, or Athena. \u00b7 Data Lake or Databricks \u00b7 RESTful APIs and server- ...",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T20:56:26+00:00",
+      "fetched_at": "2026-11-22T12:01:31.974683+00:00"
+    },
+    {
+      "id": "8c01f2098ed1",
+      "title": "Data Engineer 4 (Manager, IC) - Capital One | Built In NYC",
+      "company": "Capital One | Built In NYC",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.builtinnyc.com/job/data-engineer-4-manager-ic/12403876",
+      "source": "Other",
+      "description": "Capital One is hiring for a Data Engineer 4 (Manager, IC) in New York, NY, USA. Find more details about the job and how to apply at Built In NYC.",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T20:52:55+00:00",
+      "fetched_at": "2026-11-22T12:01:31.974760+00:00"
     },
     {
       "id": "bbf9a1af8fd2",
@@ -124,6 +455,21 @@
       "date": "2026-11-21",
       "timestamp": "2026-11-21T20:12:54+00:00",
       "fetched_at": "2026-11-22T03:35:42.694501+00:00"
+    },
+    {
+      "id": "8ae95e5df6fc",
+      "title": "Lead Software Engineer in Atlanta, Georgia | Chick-fil-A, Inc.",
+      "company": "Chick-fil-A, Inc.",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.chick-fil-a.com/corporate/jobs/22059?lang=en-us",
+      "source": "Other",
+      "description": "Chick-fil-A Careers is hiring a Lead Software Engineer in Atlanta, Georgia. Review all of the job details and apply today!",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T20:01:43+00:00",
+      "fetched_at": "2026-11-22T12:01:31.975065+00:00"
     },
     {
       "id": "67999279ce6d",
@@ -184,6 +530,21 @@
       "date": "2026-11-21",
       "timestamp": "2026-11-21T17:31:40+00:00",
       "fetched_at": "2026-11-21T21:14:14.772681+00:00"
+    },
+    {
+      "id": "bcbe3cefdb76",
+      "title": "Senior Software Engineer - Security Frameworks - Jobs - Careers at Apple | Dmitry Frenkel",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/dfrenkel_hiring-activity-7529597930203332608-XeIr",
+      "source": "LinkedIn",
+      "description": "Senior Software Engineer - Security Frameworks - Jobs - Careers at Apple ...",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T16:46:36+00:00",
+      "fetched_at": "2026-11-22T12:01:31.975395+00:00"
     },
     {
       "id": "75418cbd60b3",
