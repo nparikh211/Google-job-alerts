@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-11-21T21:14:14.817908+00:00",
-  "total_jobs": 13845,
+  "last_updated": "2026-11-22T03:35:42.875236+00:00",
+  "total_jobs": 13856,
   "stats": {
-    "total_companies": 6021,
+    "total_companies": 6026,
     "total_roles": 181,
     "regions": {
-      "India": 9037,
-      "Philippines": 3011,
-      "Remote": 1724,
+      "India": 9044,
+      "Philippines": 3014,
+      "Remote": 1725,
       "Unknown": 135
     },
     "sources": {
-      "Other": 10813,
+      "Other": 10822,
       "Greenhouse": 705,
-      "Workday": 571,
+      "Workday": 572,
       "LinkedIn": 566,
       "Ashby": 470,
       "iCIMS": 174,
       "Breezy": 136,
+      "Lever": 99,
       "Workable": 98,
-      "Lever": 98,
       "SmartRecruiters": 97,
       "Indeed": 48,
       "Recruitee": 18,
@@ -31,10 +31,115 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-11-21"
+      "latest": "2026-11-22"
     }
   },
   "jobs": [
+    {
+      "id": "4a2334d554d7",
+      "title": "Lead Marketing AI Engineer | Dynatrace Careers",
+      "company": "Dynatrace Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.dynatrace.com/careers/jobs/1452433100/",
+      "source": "Other",
+      "description": "We're looking for a Lead Marketing AI Engineer to build the agents that take repetitive work off marketers' plates. Dynatrace marketers already ...",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T00:30:10+00:00",
+      "fetched_at": "2026-11-22T03:35:42.803990+00:00"
+    },
+    {
+      "id": "2652c18e6898",
+      "title": "Jane Technologies - Senior Software Engineer , Ads (Remote) - Lever",
+      "company": "Iheartjane",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.lever.co/iheartjane/f8b240e5-ccdb-4e65-a4ce-1179e15ce35c/apply",
+      "source": "Lever",
+      "description": "Senior Software Engineer , Ads (Remote). Santa Cruz, California. Engineering /. Full-time /. Remote. Submit your application. LinkedIn profile. Loading ...",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T23:16:35+00:00",
+      "fetched_at": "2026-11-22T03:35:42.804188+00:00"
+    },
+    {
+      "id": "1c5319af6634",
+      "title": "Principal Software Engineer in Menlo Park, California, United States - Snowflake Careers",
+      "company": "Snowflake Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.snowflake.com/us/en/job/SNCOUS74E098E6456F48FDA8981E6576E6A0E8EXTERNALENUS22E84B774BC44A3199FBF325ED9A9590/Principal-Software-Engineer",
+      "source": "Other",
+      "description": "Senior Software Engineer - Cloud Security. Available in 2 locations. Category Engineering ReqId REQ20831. Senior Software Engineer . Location Menlo ...",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T21:18:43+00:00",
+      "fetched_at": "2026-11-22T03:35:42.693829+00:00"
+    },
+    {
+      "id": "bbf9a1af8fd2",
+      "title": "Full Stack Engineer Intern | Careers at Pradrix",
+      "company": "Pradrix",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://pradrix.com/careers/full-stack-engineer-intern",
+      "source": "Other",
+      "description": "Full Stack Engineer Intern ... The intern works alongside the company's AI and ML team members and its DevOps engineer , and reports to the product and ...",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T20:40:50+00:00",
+      "fetched_at": "2026-11-22T03:35:42.805147+00:00"
+    },
+    {
+      "id": "518249428b94",
+      "title": "Senior Software Engineer - Myworkdayjobs.com",
+      "company": "Jll",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Senior-Software-Engineer_REQ549262",
+      "source": "Workday",
+      "description": "Senior Software Engineer ... JLL empowers you to shape a brighter way. Our people at JLL are shaping the future of real estate for a better world by ...",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T20:35:37+00:00",
+      "fetched_at": "2026-11-22T03:35:42.694290+00:00"
+    },
+    {
+      "id": "c446d1824843",
+      "title": "Principal Software Engineer , Early Clinical Development - Careers at Genentech",
+      "company": "Genentech",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.gene.com/us/en/job/202611-129255/Principal-Software-Engineer-Early-Clinical-Development",
+      "source": "Other",
+      "description": "Principal Software Engineer , Early Clinical Development ... Machine Learning Engineer /Senior Machine Learning Engineer , Agentic Systems, AI for Drug ...",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T20:12:54+00:00",
+      "fetched_at": "2026-11-22T03:35:42.694501+00:00"
+    },
+    {
+      "id": "67999279ce6d",
+      "title": "DevOps Engineer - - 133383 - Booz | Allen | Hamilton \u00ae",
+      "company": "- 133383 - Booz | Allen | Hamilton \u00ae",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.boozallen.com/jobs/JobDetail/Arlington-DevOps-Engineer-R0253973/133383",
+      "source": "Other",
+      "description": "The Opportunity: DevOps engineering requires a specific mix of development, engineering, and communication skills. As a DevOps engineer , you know that ...",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T19:04:27+00:00",
+      "fetched_at": "2026-11-22T03:35:42.694759+00:00"
+    },
     {
       "id": "6dc76cc3d367",
       "title": "Associate Software Engineer | Deltek, Inc - jobs.brassring.com",
@@ -79,6 +184,36 @@
       "date": "2026-11-21",
       "timestamp": "2026-11-21T17:31:40+00:00",
       "fetched_at": "2026-11-21T21:14:14.772681+00:00"
+    },
+    {
+      "id": "75418cbd60b3",
+      "title": "Senior Software Engineer - Machine Learning & Cloud Technologies - Physics Today Jobs",
+      "company": "Machine Learning & Cloud Technologies - Physics Today Jobs",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.physicstoday.org/job/42055490/senior-software-engineer-machine-learning-and-cloud-technologies/",
+      "source": "Other",
+      "description": "Senior Software Engineer - Machine Learning & Cloud Technologies in ... Staff Machine Learning Engineer . Santa Clara, California; Commensurate ...",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T16:14:30+00:00",
+      "fetched_at": "2026-11-22T03:35:42.695369+00:00"
+    },
+    {
+      "id": "35d1e8337e5c",
+      "title": "AI Software Engineer in Toronto, ON M8X 1C4, Canada | Technology at Bank of Montreal",
+      "company": "Bank of Montreal",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.bmo.com/global/en/job/R260032207/AI-Software-Engineer",
+      "source": "Other",
+      "description": "Senior Cloud Platform Engineer \u00b7 Devops Analyst - Technical \u00b7 Business Consultant \u00b7 Senior Data Engineer \u00b7 Quality Engineer /SRE \u00b7 Senior Quality ...",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T16:02:47+00:00",
+      "fetched_at": "2026-11-22T03:35:42.807164+00:00"
     },
     {
       "id": "19e1ce4700b2",
@@ -231,6 +366,21 @@
       "fetched_at": "2026-11-21T21:14:14.571773+00:00"
     },
     {
+      "id": "2be0b742627b",
+      "title": "Front-End Software Engineer II in annapolis junction, Maryland, United States of America",
+      "company": "Front",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.rtx.com/global/en/job/01889506/Front-End-Software-Engineer-II",
+      "source": "Other",
+      "description": "Apply for Front-End Software Engineer II job with Raytheon in annapolis junction, Maryland, United States of America. Engineering at Raytheon.",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T13:59:39+00:00",
+      "fetched_at": "2026-11-22T03:35:42.696658+00:00"
+    },
+    {
       "id": "78a51afbadd5",
       "title": "Sr Lead Software Engineer Javafullstack AWS, agentic - JPMC Candidate Experience page Careers",
       "company": "JPMC Candidate Experience page Careers",
@@ -244,6 +394,21 @@
       "date": "2026-11-21",
       "timestamp": "2026-11-21T12:52:57+00:00",
       "fetched_at": "2026-11-21T21:14:14.773790+00:00"
+    },
+    {
+      "id": "ac0d02e13ad7",
+      "title": "Software Engineer , Industrial Edge Software - Tesla",
+      "company": "Tesla",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.tesla.com/careers/search/job/289802?source=Circa",
+      "source": "Other",
+      "description": "Software Engineer , Industrial Edge Software. Job Category, Energy Engineering. Location, Palo Alto, California. Req. ID, 289802. Job Type, Full-time ...",
+      "date": "2026-11-21",
+      "timestamp": "2026-11-21T12:26:47+00:00",
+      "fetched_at": "2026-11-22T03:35:42.696794+00:00"
     },
     {
       "id": "934bd30e5172",
