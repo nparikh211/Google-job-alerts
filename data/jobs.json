@@ -1,27 +1,27 @@
 {
-  "last_updated": "2026-11-22T12:01:32.395078+00:00",
-  "total_jobs": 13880,
+  "last_updated": "2026-11-22T21:20:13.384580+00:00",
+  "total_jobs": 13903,
   "stats": {
-    "total_companies": 6035,
+    "total_companies": 6048,
     "total_roles": 181,
     "regions": {
-      "India": 9055,
-      "Philippines": 3025,
-      "Remote": 1728,
+      "India": 9071,
+      "Philippines": 3031,
+      "Remote": 1729,
       "Unknown": 135
     },
     "sources": {
-      "Other": 10841,
+      "Other": 10855,
       "Greenhouse": 705,
-      "Workday": 572,
-      "LinkedIn": 567,
-      "Ashby": 471,
+      "Workday": 573,
+      "LinkedIn": 568,
+      "Ashby": 473,
       "iCIMS": 175,
       "Breezy": 136,
+      "Workable": 101,
       "Lever": 99,
-      "Workable": 98,
       "SmartRecruiters": 97,
-      "Indeed": 49,
+      "Indeed": 51,
       "Recruitee": 18,
       "WeWorkRemotely": 17,
       "BrassRing": 12,
@@ -36,6 +36,291 @@
   },
   "jobs": [
     {
+      "id": "dfac15d6e436",
+      "title": "Technical assessment at karat c# .net backend engineer : r/dotnet - Reddit",
+      "company": "karat c# .net backend engineer : r/dotnet",
+      "role": "Backend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/dotnet/comments/1y2yprt/technical_assessment_at_karat_c_net_backend/",
+      "source": "Other",
+      "description": "Got my first Applied AI Engineer internship. r/BDDevs. \u2022 2mo ago. Got my first Applied AI Engineer internship. ... AI ML Engineer needed. 44. 44 ...",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T20:53:01+00:00",
+      "fetched_at": "2026-11-22T21:20:13.247683+00:00"
+    },
+    {
+      "id": "2db2047876de",
+      "title": "Software Engineer at Ford Motor Company",
+      "company": "Ford Motor Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.careers.ford.com/en/job/chennai/software-engineer/48560/103653022928",
+      "source": "Other",
+      "description": "As a Full Stack Software Engineer , you will be responsible for developing and maintaining the backend API services and front-end user interface ...",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T18:50:55+00:00",
+      "fetched_at": "2026-11-22T21:20:13.247851+00:00"
+    },
+    {
+      "id": "0e600688ab3a",
+      "title": "Software DevOps Engineer , Networking - NVIDIA Careers",
+      "company": "NVIDIA Careers",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.nvidia.com/careers/job/893397724522?domain=nvidia.com&hl=en",
+      "source": "Other",
+      "description": "Design, build, and maintain CI/CD pipelines for a portfolio of networking software products across GitLab CI, Jenkins, and GitHub Actions \u2014 from ...",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T18:45:51+00:00",
+      "fetched_at": "2026-11-22T21:20:13.319623+00:00"
+    },
+    {
+      "id": "46db75298cdb",
+      "title": "The GPU Architecture Every AI Engineer Needs to Understand - YouTube",
+      "company": "YouTube",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.youtube.com/watch?v=ge5gfniFEnk",
+      "source": "Other",
+      "description": "... #GPUProgramming #UnifiedMemory #ByteMonk. The GPU Architecture Every AI Engineer Needs to Understand. @ByteMonk18 likes187 views23 minutes ago more.",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T17:35:21+00:00",
+      "fetched_at": "2026-11-22T21:20:13.319769+00:00"
+    },
+    {
+      "id": "5f606e8144ba",
+      "title": "Senior Software Engineer , On-Device Machine Learning job with Google | 42055802",
+      "company": "Device Machine Learning job with Google | 42055802",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.physicstoday.org/job/42055802/senior-software-engineer-on-device-machine-learning/",
+      "source": "Other",
+      "description": "Senior Software Engineer , On-Device Machine Learning in Bachelor ... AI, Data Science & Machine Learning Engineer Experienced Career Bachelor jobs in ...",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T16:14:04+00:00",
+      "fetched_at": "2026-11-22T21:20:13.248419+00:00"
+    },
+    {
+      "id": "991a3feba6c6",
+      "title": "Senior Forward Deployed Engineer ( Full Stack Engineer ) - Databricks",
+      "company": "Databricks",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.databricks.com/company/careers/professional-services-operations/senior-forward-deployed-engineer-full-stack-engineer-8916552002",
+      "source": "Other",
+      "description": "Senior Forward Deployed Engineer ( Full Stack Engineer ), London, United Kingdom. Join us! Together we can use data to solve the challenges of ...",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T15:33:29+00:00",
+      "fetched_at": "2026-11-22T21:20:13.248899+00:00"
+    },
+    {
+      "id": "44f087242702",
+      "title": "Senior Software Engineer (Backend-focused) - User Platform @ GetYourGuide - Jobs",
+      "company": "Getyourguide",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/GetYourGuide/de78a539-f546-4920-8b07-bd9e574c0ea1",
+      "source": "Ashby",
+      "description": "Senior Software Engineer (Backend-focused) - User Platform. Location. Berlin. Employment Type. Full time. Location Type. Hybrid. Department.",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T14:41:46+00:00",
+      "fetched_at": "2026-11-22T21:20:13.249006+00:00"
+    },
+    {
+      "id": "15388f0477ba",
+      "title": "Software Engineer - - 133273 - Booz | Allen | Hamilton \u00ae - Careers",
+      "company": "- 133273 - Booz | Allen | Hamilton \u00ae - Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.boozallen.com/careers/JobDetail?jobId=133273",
+      "source": "Other",
+      "description": "Software Engineer at created 19-Nov ... Software Engineer . Tinker AFB, Oklahoma, USA. Apply. Advance the nation. And your career. Driven by ...",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T13:46:44+00:00",
+      "fetched_at": "2026-11-22T21:20:13.249378+00:00"
+    },
+    {
+      "id": "4e3a8cd938ae",
+      "title": "AI Engineer (Platform) - Playrix",
+      "company": "Playrix",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://playrix.com/job/open/ai/ai-engineer-platform",
+      "source": "Other",
+      "description": "AI Engineer (Platform). About the company. Playrix is one of the most successful mobile game development companies, ranking among the top 3 mobile ...",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T13:36:26+00:00",
+      "fetched_at": "2026-11-22T21:20:13.249520+00:00"
+    },
+    {
+      "id": "35b9876dfd94",
+      "title": "Senior Fullstack Engineer (FanX AI) - SeatGeek - CDI - T\u00e9l\u00e9travail total",
+      "company": "SeatGeek - CDI - T\u00e9l\u00e9travail total",
+      "role": "Fullstack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.welcometothejungle.com/fr/companies/seatgeek/jobs/senior-fullstack-engineer-fanx-ai_us_hl7szbts",
+      "source": "Other",
+      "description": "SeatGeek recrute un(e) Senior Fullstack Engineer (FanX AI) !",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T13:28:48+00:00",
+      "fetched_at": "2026-11-22T21:20:13.249739+00:00"
+    },
+    {
+      "id": "88bd57edce24",
+      "title": "Now Hiring: 400 Cloud Engineer Jobs in Castlewood, CO | Indeed",
+      "company": "Indeed",
+      "role": "Cloud Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.indeed.com/q-cloud-engineer-l-castlewood,-co-jobs.html",
+      "source": "Indeed",
+      "description": "Site Reliability Engineer . Easily apply. York Space Systems ... People also searched: usa \u00b7 azure cloud engineer \u00b7 devops engineer \u00b7 software engineer .",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T13:07:26+00:00",
+      "fetched_at": "2026-11-22T21:20:13.249890+00:00"
+    },
+    {
+      "id": "f8c3d7d9a3bc",
+      "title": "A software engineer took to Reddit to explain how AI has taken all the joy out of his job ... - Instagram",
+      "company": "Instagram",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.instagram.com/p/DgC06aeAHda/",
+      "source": "Other",
+      "description": "The comment has since spread across X, drawing attention to a growing debate over what it means to be a software engineer as AI takes over more of the ...",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T13:04:13+00:00",
+      "fetched_at": "2026-11-22T21:20:13.250018+00:00"
+    },
+    {
+      "id": "5659da6ffbd4",
+      "title": "Full-Stack Engineer (Node.js + React/Next.js) - 99brightminds - Workable Jobs",
+      "company": "99Brightminds",
+      "role": "Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://apply.workable.com/99brightminds/j/AC011E7D91",
+      "source": "Workable",
+      "description": "We are looking for an experienced Full-Stack Engineer with strong expertise in TypeScript, Node.js, React, and Next.js to develop scalable, high- ...",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T12:58:09+00:00",
+      "fetched_at": "2026-11-22T21:20:13.250430+00:00"
+    },
+    {
+      "id": "bdb4a7a65bfc",
+      "title": "Frontend Engineer (React / Next.js) - 99brightminds - Workable Jobs",
+      "company": "99Brightminds",
+      "role": "Frontend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://apply.workable.com/99brightminds/j/2316CE2EEF",
+      "source": "Workable",
+      "description": "... an experienced Frontend Engineer to develop responsive, accessible, and high-performance web applications using React.js ...",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T12:43:56+00:00",
+      "fetched_at": "2026-11-22T21:20:13.250549+00:00"
+    },
+    {
+      "id": "77270a3617c8",
+      "title": "Senior Software Engineer - Waukesha, WI 53188 - Indeed.com",
+      "company": "Waukesha, WI 53188 - Indeed.com",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.indeed.com/viewjob?jk=986dc551dcc64de3&from=vjs&tk=1k81jejmej3ih800&viewtype=embedded&xkcb=SoCB67M2bBu1oFykLp0PbzkdCdPP&continueUrl=%2Fjobs%3Fq%3Dge%2Bsoftware%2Bdeveloper",
+      "source": "Indeed",
+      "description": "Senior Software Engineer \u00b7 Job details \u00b7 Company profile \u00b7 Creating a world where healthcare has no limits \u00b7 Full job description ...",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T12:25:07+00:00",
+      "fetched_at": "2026-11-22T21:20:13.250794+00:00"
+    },
+    {
+      "id": "d30b07562594",
+      "title": "Senior Software Engineer , XProf SOC Architect, Performance \u2014 Google Careers",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.google.com/jobs/results/75377129486721734-senior-software-engineer/",
+      "source": "Other",
+      "description": "Staff Machine Learning Engineer , YouTube Live Discovery. Mountain ... Senior Software Engineer , XProf SOC Architect, Performance. share. Share ...",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T11:59:18+00:00",
+      "fetched_at": "2026-11-22T21:20:13.250984+00:00"
+    },
+    {
+      "id": "0b96cae8be07",
+      "title": "MLOps / Platform Engineer \u2014 LLM Serving & Model Routing - SDG Group",
+      "company": "SDG Group",
+      "role": "Platform Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.sdggroup.com/jobs/8777871-mlops-platform-engineer-llm-serving-model-routing",
+      "source": "Other",
+      "description": "MLOps / Platform Engineer \u2014 LLM Serving & Model Routing. APPLY. SDG ... AI Engineer ; Locations: Cairo, Dubai; Remote status: Hybrid; Employment type ...",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T11:21:04+00:00",
+      "fetched_at": "2026-11-22T21:20:13.251457+00:00"
+    },
+    {
+      "id": "a887969e29c3",
+      "title": "Neha Jain - Barclays is hiring! Role: Software Engineer - LinkedIn",
+      "company": "Neha Jain",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.linkedin.com/posts/neha-jain-279b80118_barclays-is-hiring-role-software-engineer-activity-7530220352963088384-5rwl",
+      "source": "LinkedIn",
+      "description": "... AI Engineer Roadmap in 6 Months: https://lnkd.in/gkDMCCDr. ... Close menu. Barclays is hiring! Role: Software Engineer - BA4 Job ID ...",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T11:20:16+00:00",
+      "fetched_at": "2026-11-22T21:20:13.251783+00:00"
+    },
+    {
+      "id": "0a9805a9233b",
+      "title": "Software Engineer - Myworkdayjobs.com",
+      "company": "Cubic",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://cubic.wd1.myworkdayjobs.com/en-US/cubic_USA_careers/job/Software-Engineer_REQ_50466",
+      "source": "Workday",
+      "description": "The Backend Software Engineer role is an individual contributor responsible for maintaining and extending Tethys, a dataflow orchestration platform ...",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T11:08:50+00:00",
+      "fetched_at": "2026-11-22T21:20:13.251878+00:00"
+    },
+    {
       "id": "64543057ccd1",
       "title": "Principal AI Engineer , Trust & Evaluation - Toronto, Ontario, Canada - Equinix Careers",
       "company": "Toronto, Ontario, Canada - Equinix Careers",
@@ -49,6 +334,21 @@
       "date": "2026-11-22",
       "timestamp": "2026-11-22T09:53:13+00:00",
       "fetched_at": "2026-11-22T12:01:32.353886+00:00"
+    },
+    {
+      "id": "829a4215fd83",
+      "title": "AI Full Stack Engineer - SDM - Allianz careers",
+      "company": "SDM - Allianz careers",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.allianz.com/hr/hr/job/109589/AI-Full-Stack-Engineer-SDM",
+      "source": "Other",
+      "description": "Prijavite se za AI Full Stack Engineer - SDM posao u Allianzu Bangkok, Bangkok, Thailand, 10310 ... Exciting opportunity for a Full Stack AI Engineer to ...",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T09:46:59+00:00",
+      "fetched_at": "2026-11-22T21:20:13.322363+00:00"
     },
     {
       "id": "6726d83073ef",
@@ -66,6 +366,21 @@
       "fetched_at": "2026-11-22T12:01:31.973698+00:00"
     },
     {
+      "id": "bbdd94a73855",
+      "title": "Data Warehouse Engineer, Senior(Marketing Data Engineer , Senior), Marketing Operations ...",
+      "company": "Unknown Company",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.progress.com/company/careers/open-positions/data-warehouse-engineer-senior(marketing-data-engineer-senior)-oxxuafwi?orion_cb=20261121t230917188384772z",
+      "source": "Other",
+      "description": "Progress is looking for Data Warehouse Engineer, Senior(Marketing Data Engineer , Senior). Apply now and become part of the team that will provide ...",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T09:24:22+00:00",
+      "fetched_at": "2026-11-22T21:20:13.322713+00:00"
+    },
+    {
       "id": "52e721d991c5",
       "title": "Staff Software Engineer , AI Native Engineering, Integrations - ServiceNow Careers",
       "company": "ServiceNow Careers",
@@ -79,6 +394,36 @@
       "date": "2026-11-22",
       "timestamp": "2026-11-22T08:24:29+00:00",
       "fetched_at": "2026-11-22T12:01:31.973844+00:00"
+    },
+    {
+      "id": "db9407439046",
+      "title": "Software Engineer - AI @ Promise - Jobs",
+      "company": "Promise",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/Promise/aed7d514-6a36-498b-9659-4fb6ae38dca4?ashby_jid=57646ae4-d9cd-43cf-9149-0f9ce07987d2",
+      "source": "Ashby",
+      "description": "Software Engineer - AI ; Location. San Francisco ; Employment Type. Full time ; Location Type. Hybrid ; Department. Engineering ; Compensation. $170K \u2013 ...",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T08:02:54+00:00",
+      "fetched_at": "2026-11-22T21:20:13.323047+00:00"
+    },
+    {
+      "id": "32dc204a1279",
+      "title": "Senior Full Stack Engineer - Dawn Security Inc. - Workable Jobs",
+      "company": "Dawn",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://apply.workable.com/dawn/j/F6CB84EF5A/",
+      "source": "Workable",
+      "description": "And first light is the best time to arrive. Job Description. We're looking for a Senior Full Stack Engineer to join our core team at an early stage of ...",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T07:25:06+00:00",
+      "fetched_at": "2026-11-22T21:20:13.323188+00:00"
     },
     {
       "id": "9e00c810179a",
