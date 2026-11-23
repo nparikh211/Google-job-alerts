@@ -1,27 +1,27 @@
 {
-  "last_updated": "2026-11-22T21:20:13.384580+00:00",
-  "total_jobs": 13903,
+  "last_updated": "2026-11-23T04:08:54.170732+00:00",
+  "total_jobs": 13921,
   "stats": {
-    "total_companies": 6048,
+    "total_companies": 6057,
     "total_roles": 181,
     "regions": {
-      "India": 9071,
-      "Philippines": 3031,
-      "Remote": 1729,
+      "India": 9082,
+      "Philippines": 3036,
+      "Remote": 1731,
       "Unknown": 135
     },
     "sources": {
-      "Other": 10855,
-      "Greenhouse": 705,
-      "Workday": 573,
+      "Other": 10868,
+      "Greenhouse": 706,
+      "Workday": 575,
       "LinkedIn": 568,
       "Ashby": 473,
       "iCIMS": 175,
       "Breezy": 136,
       "Workable": 101,
-      "Lever": 99,
+      "Lever": 100,
       "SmartRecruiters": 97,
-      "Indeed": 51,
+      "Indeed": 52,
       "Recruitee": 18,
       "WeWorkRemotely": 17,
       "BrassRing": 12,
@@ -31,10 +31,145 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-11-22"
+      "latest": "2026-11-23"
     }
   },
   "jobs": [
+    {
+      "id": "2ba2ab9cfc33",
+      "title": "Job Application for Firmware/Embedded Software Engineer Intern - Summer 2027 at Neros ...",
+      "company": "Nerostechnologies",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007",
+      "source": "Greenhouse",
+      "description": "Firmware/Embedded Software Engineer Intern - Summer 2027. Torrance, California, United States. Apply. Who we are. Neros is a defense technology ...",
+      "date": "2026-11-23",
+      "timestamp": "2026-11-23T03:03:29+00:00",
+      "fetched_at": "2026-11-23T04:08:54.123984+00:00"
+    },
+    {
+      "id": "eaa5fdf6c4d7",
+      "title": "Senior Full-Stack Software Engineer (340B) - Bluesight - Permanent - Fully-remote",
+      "company": "Senior Full",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.welcometothejungle.com/en/companies/bluesight/jobs/senior-full-stack-software-engineer-340b_new-york_h7hqxxn4",
+      "source": "Other",
+      "description": "As a Senior Full-Stack Software Engineer on the 340BCheck team, you'll be a key technical contributor working across the stack to deliver high ...",
+      "date": "2026-11-23",
+      "timestamp": "2026-11-23T02:35:48+00:00",
+      "fetched_at": "2026-11-23T04:08:53.935238+00:00"
+    },
+    {
+      "id": "d13ab92ce102",
+      "title": "Staff Software Engineer \u2013 GraphQL Platform | The New York Times - Reddit",
+      "company": "The New York Times - Reddit",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/graphql/comments/1y2xoj5/staff_software_engineer_graphql_platform_the_new/",
+      "source": "Other",
+      "description": "Staff Software Engineer \u2013 GraphQL Platform | The New York Times. Hi ... Data Engineer (Mid-Senior). 40. 20. Free Data Analysis Internship at a ...",
+      "date": "2026-11-23",
+      "timestamp": "2026-11-23T01:30:02+00:00",
+      "fetched_at": "2026-11-23T04:08:53.935538+00:00"
+    },
+    {
+      "id": "92504ec2abc2",
+      "title": "(USA) Software Engineer II - Walmart Careers",
+      "company": "Walmart Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.walmart.com/us/en/jobs/R-2702168",
+      "source": "Other",
+      "description": "Role summary: As a Software Engineer II at Walmart, you will deliver high-quality software solutions by collaborating with cross-functional teams ...",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T23:46:47+00:00",
+      "fetched_at": "2026-11-23T04:08:53.935633+00:00"
+    },
+    {
+      "id": "2e7ee61daa7e",
+      "title": "Pyka - Senior Software Engineer , Mapping - Lever",
+      "company": "Pyka",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.lever.co/pyka/ea5c8e16-7853-4655-bb6d-237cbef4f414",
+      "source": "Lever",
+      "description": "Senior Software Engineer , Mapping. Alameda HQ. Software Engineering \u2013 Software Engineering /. Full-Time /. On-site. Apply for this job. About Pyka.",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T23:03:41+00:00",
+      "fetched_at": "2026-11-23T04:08:53.935699+00:00"
+    },
+    {
+      "id": "7cd182420b66",
+      "title": "Software Engineer (AI/ML) - Myworkdayjobs.com",
+      "company": "Kla",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Software-Engineer--AI-ML-_2643256-1",
+      "source": "Workday",
+      "description": "... AI Engineer to develop next-generation artificial intelligence and ... Software Engineer (AI/ML). Apply. locations: Austin, TX. time type: Full ...",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T22:48:57+00:00",
+      "fetched_at": "2026-11-23T04:08:54.124351+00:00"
+    },
+    {
+      "id": "51c445ead8ad",
+      "title": "Everything I Studied to Become a $400k Software Engineer - YouTube",
+      "company": "YouTube",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.youtube.com/watch?v=SO-T28yLcyk",
+      "source": "Other",
+      "description": "... senior software engineer (prev. at Google), with internships at Microsoft, Morgan Stanley, IBM, and Amazon. find me on other socials Instagram ...",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T21:32:55+00:00",
+      "fetched_at": "2026-11-23T04:08:54.124431+00:00"
+    },
+    {
+      "id": "6fdb5a316dc7",
+      "title": "Frontend Engineer interested in ClickUp \u2013 questions about the hiring process - Reddit",
+      "company": "Reddit",
+      "role": "Frontend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.reddit.com/r/clickup/comments/1y2z54q/frontend_engineer_interested_in_clickup_questions/",
+      "source": "Other",
+      "description": "Frontend Engineer interested in ClickUp \u2013 questions about the hiring process ... Backend Software Engineer . 28. 24. Interview/hiring process \u00b7 r/ ...",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T21:12:42+00:00",
+      "fetched_at": "2026-11-23T04:08:53.936051+00:00"
+    },
+    {
+      "id": "4daec8c920c6",
+      "title": "Software Engineer \u2013 AI & Agentic Systems - 4to8yrs - Python, C/C++, LTE/5G, Networking",
+      "company": "4to8yrs - Python, C/C++, LTE/5G, Networking",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2029278EXTERNALENGLOBAL/Software-Engineer-AI-Agentic-Systems-4to8yrs-Python-C-C-LTE-5G-Networking",
+      "source": "Other",
+      "description": "Apply for Software Engineer \u2013 AI & Agentic Systems - 4to8yrs - Python, C/C++, LTE/5G, Networking job with Cisco in Bangalore, India.",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T20:53:53+00:00",
+      "fetched_at": "2026-11-23T04:08:53.936262+00:00"
+    },
     {
       "id": "dfac15d6e436",
       "title": "Technical assessment at karat c# .net backend engineer : r/dotnet - Reddit",
@@ -49,6 +184,51 @@
       "date": "2026-11-22",
       "timestamp": "2026-11-22T20:53:01+00:00",
       "fetched_at": "2026-11-22T21:20:13.247683+00:00"
+    },
+    {
+      "id": "8b416fc13a68",
+      "title": "Senior Cloud Platform Engineer in Toronto, ON M8X 1C4, Canada | Technology at Bank of Montreal",
+      "company": "Bank of Montreal",
+      "role": "Platform Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.bmo.com/global/en/job/R260029437/Senior-Cloud-Platform-Engineer",
+      "source": "Other",
+      "description": "Platform Engineer RPA and Agentic Automation \u00b7 Senior Data Engineer . Show more. Show less. See next. See even more. No recommendations found.",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T20:33:53+00:00",
+      "fetched_at": "2026-11-23T04:08:54.124735+00:00"
+    },
+    {
+      "id": "6c2ff720612c",
+      "title": "Embedded Software Engineer II job in Germantown, MD, United States - Wabtec Careers",
+      "company": "Wabtec Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.wabtec.com/in/job/embedded-software-engineer-ii-in-germantown-md-united-states-jid-5048",
+      "source": "Other",
+      "description": "Software Engineer ; Quality Technical Advisor; Systems Engineer; Cloud Engineer ; Production Supervisor; Quality Engineer; Sourcing Manager; Supplier ...",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T20:32:20+00:00",
+      "fetched_at": "2026-11-23T04:08:53.936545+00:00"
+    },
+    {
+      "id": "f631843b919d",
+      "title": "Senior Software Engineer \u2013 Full Stack - Myworkdayjobs.com",
+      "company": "Toyota",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://toyota.wd503.myworkdayjobs.com/en-US/TMNA/job/Plano-Texas/Senior-Software-Engineer---Full-Stack_10340718-1/apply",
+      "source": "Workday",
+      "description": "Start Your Application. Senior Software Engineer \u2013 Full Stack. Welcome! We look forward to connecting with you soon! Autofill with Resume.",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T20:00:00+00:00",
+      "fetched_at": "2026-11-23T04:08:53.936604+00:00"
     },
     {
       "id": "2db2047876de",
@@ -96,6 +276,51 @@
       "fetched_at": "2026-11-22T21:20:13.319769+00:00"
     },
     {
+      "id": "dd9cba34cf95",
+      "title": "Senior Software Engineer (Ads Product) - xAI - Permanent in Palo Alto",
+      "company": "xAI - Permanent in Palo Alto",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.welcometothejungle.com/en/companies/xai/jobs/senior-software-engineer-ads-product_palo-alto_oku2wu2l",
+      "source": "Other",
+      "description": "Senior Software Engineer (Ads Product) xAI. Building AI systems for better understanding of the world.",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T17:29:40+00:00",
+      "fetched_at": "2026-11-23T04:08:53.936840+00:00"
+    },
+    {
+      "id": "c3c980e069aa",
+      "title": "Machine Learning Engineer - Income Insights job with Plaid Financial | 42055812",
+      "company": "Income Insights job with Plaid Financial | 42055812",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.physicstoday.org/job/42055812/machine-learning-engineer-income-insights/",
+      "source": "Other",
+      "description": "Machine Learning Engineer - Income Insights in Bachelor, Experienced ... Senior Software Engineer (Machine Learning) - Economy ML. San Mateo ...",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T16:14:06+00:00",
+      "fetched_at": "2026-11-23T04:08:53.937041+00:00"
+    },
+    {
+      "id": "aee90b4e4e88",
+      "title": "Senior Systems Software Engineer - Machine Learning job with Nvidia | 42055803",
+      "company": "Machine Learning job with Nvidia | 42055803",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.physicstoday.org/job/42055803/senior-systems-software-engineer-machine-learning/",
+      "source": "Other",
+      "description": "Staff Machine Learning Engineer - Rider Intelligence. Seattle ... Senior Software Engineer , Perception, Machine Learning/Computer Vision.",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T16:14:06+00:00",
+      "fetched_at": "2026-11-23T04:08:53.937167+00:00"
+    },
+    {
       "id": "5f606e8144ba",
       "title": "Senior Software Engineer , On-Device Machine Learning job with Google | 42055802",
       "company": "Device Machine Learning job with Google | 42055802",
@@ -126,6 +351,21 @@
       "fetched_at": "2026-11-22T21:20:13.248899+00:00"
     },
     {
+      "id": "3d3b49c7b85a",
+      "title": "Software Engineer IV, Payment Platform at Toshiba Global Commerce",
+      "company": "Toshiba Global Commerce",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.commerce.toshiba.com/job/durham/software-engineer-iv-payment-platform/48811/101376225424",
+      "source": "Other",
+      "description": "Software Engineer IV, Payment Platform. Apply Now Save Job. Note: Toshiba Global Commerce Solutions will not be providing visa sponsorship for this ...",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T15:00:56+00:00",
+      "fetched_at": "2026-11-23T04:08:53.937674+00:00"
+    },
+    {
       "id": "44f087242702",
       "title": "Senior Software Engineer (Backend-focused) - User Platform @ GetYourGuide - Jobs",
       "company": "Getyourguide",
@@ -139,6 +379,36 @@
       "date": "2026-11-22",
       "timestamp": "2026-11-22T14:41:46+00:00",
       "fetched_at": "2026-11-22T21:20:13.249006+00:00"
+    },
+    {
+      "id": "885719b06392",
+      "title": "Senior Data Engineer II - Remote - CA - Samsara",
+      "company": "Remote - CA - Samsara",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.samsara.com/company/careers/roles/8039914?utm_source=findatechjob.dev",
+      "source": "Other",
+      "description": "We are looking for a Senior Data Engineer II who brings a software engineer's mindset to data infrastructure. This isn't just a pipeline-builder ...",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T14:34:05+00:00",
+      "fetched_at": "2026-11-23T04:08:54.125911+00:00"
+    },
+    {
+      "id": "3353dd0302f3",
+      "title": "Senior Software Engineer - Toronto, ON - Indeed.com",
+      "company": "Toronto, ON - Indeed.com",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.indeed.com/viewjob?jk=5200d13f62fe8f2e",
+      "source": "Indeed",
+      "description": "Apply for the Senior Software Engineer job in Toronto, ON! Learn more ... Big Data Engineer Jobs In Toronto, ON jobs \u00b7 Data Engineer Jobs In ...",
+      "date": "2026-11-22",
+      "timestamp": "2026-11-22T13:58:03+00:00",
+      "fetched_at": "2026-11-23T04:08:54.125998+00:00"
     },
     {
       "id": "15388f0477ba",
