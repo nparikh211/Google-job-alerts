@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-11-25T13:39:14.336209+00:00",
-  "total_jobs": 14037,
+  "last_updated": "2026-11-25T23:49:12.467180+00:00",
+  "total_jobs": 14062,
   "stats": {
-    "total_companies": 6099,
+    "total_companies": 6107,
     "total_roles": 182,
     "regions": {
-      "India": 9163,
-      "Philippines": 3053,
-      "Remote": 1751,
+      "India": 9180,
+      "Philippines": 3058,
+      "Remote": 1754,
       "Unknown": 135
     },
     "sources": {
-      "Other": 10961,
-      "Greenhouse": 709,
-      "Workday": 577,
+      "Other": 10979,
+      "Greenhouse": 710,
+      "Workday": 579,
       "LinkedIn": 571,
-      "Ashby": 481,
-      "iCIMS": 177,
+      "Ashby": 482,
+      "iCIMS": 178,
       "Breezy": 136,
+      "Lever": 101,
       "Workable": 101,
-      "Lever": 100,
       "SmartRecruiters": 99,
       "Indeed": 54,
       "Recruitee": 19,
@@ -27,7 +27,7 @@
       "BrassRing": 12,
       "Jobvite": 12,
       "Taleo": 8,
-      "ADP": 3
+      "ADP": 4
     },
     "date_range": {
       "earliest": "2026-04-14",
@@ -35,6 +35,381 @@
     }
   },
   "jobs": [
+    {
+      "id": "c4a8e33ffe15",
+      "title": "Lead Data Engineer in Remote - Internova Travel Group | Careers Center - ICIMS",
+      "company": "Internova Travel Group | Careers Center - ICIMS",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers-internova.icims.com/jobs/5334/lead-data-engineer/job",
+      "source": "iCIMS",
+      "description": "Remote-US is now hiring a Lead Data Engineer in Remote. Review all of the job details and apply today!",
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T22:45:55+00:00",
+      "fetched_at": "2026-11-25T23:49:12.274620+00:00"
+    },
+    {
+      "id": "c8f2f72133df",
+      "title": "Senior Data Engineer , Remote-MO | Centene Careers",
+      "company": "MO | Centene Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.centene.com/us/en/jobs/1678376/senior-data-engineer/",
+      "source": "Other",
+      "description": "Position Purpose: The Senior Data Engineer is responsible for designing, developing, implementing, and supporting scalable, reliable, ...",
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T22:30:20+00:00",
+      "fetched_at": "2026-11-25T23:49:12.274817+00:00"
+    },
+    {
+      "id": "ffe1005f8a43",
+      "title": "Data Engineer job - Experis USA - 419430",
+      "company": "Experis USA - 419430",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.experis.com/en/job/419430/data-engineer",
+      "source": "Other",
+      "description": "As a Data Engineer , you will be part of the Data Engineering organization supporting AI assistant enablement. The ideal candidate will have hands-on ...",
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T22:16:01+00:00",
+      "fetched_at": "2026-11-25T23:49:12.274966+00:00"
+    },
+    {
+      "id": "d877a4f1131f",
+      "title": "Software Engineer III, Milwaukee, WI Corporate | Northwestern Mutual Careers",
+      "company": "Northwestern Mutual Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.northwesternmutual.com/corporate-careers/jr-46401/software-engineer-iii/",
+      "source": "Other",
+      "description": "Data Engineer . Franklin, WI Corporate. Software Engineer IV (Senior). Milwaukee, WI Corporate. Software Engineer . Milwaukee, WI Corporate. Tech at NM.",
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T21:45:24+00:00",
+      "fetched_at": "2026-11-25T23:49:12.275185+00:00"
+    },
+    {
+      "id": "ad985705f52f",
+      "title": "Software Engineer , Onboarding - FlexTrade Careers",
+      "company": "FlexTrade Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.flextrade.com/o/software-engineer-onboarding-4",
+      "source": "Other",
+      "description": "FlexTrade 30th Logo Small FlexTradeHomepage. Software Engineer , Onboarding. On-site. Pune, Mah\u0101r\u0101shtra, India. Client Services. Job details. Apply ...",
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T20:34:59+00:00",
+      "fetched_at": "2026-11-25T23:49:12.275379+00:00"
+    },
+    {
+      "id": "3695635912b1",
+      "title": "Data Engineer - ADP MyJobs",
+      "company": "ADP MyJobs",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://myjobs.adp.com/confidential081611/cx/job-details?reqId=5001240328906",
+      "source": "ADP",
+      "description": "Summary The Data Engineer designs, builds, and maintains the pipelines, integrations, and data warehousing solutions that power Columbia ...",
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T20:33:44+00:00",
+      "fetched_at": "2026-11-25T23:49:12.275676+00:00"
+    },
+    {
+      "id": "ce2cac8b6dd9",
+      "title": "Principal, Site Reliability Engineer - Digital Assets, Merrimack, NH | Fidelity Careers",
+      "company": "Digital Assets, Merrimack, NH | Fidelity Careers",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.fidelity.com/en/jobs/2135046/principal-site-reliability-engineer-digital-assets/",
+      "source": "Other",
+      "description": "Principal, Site Reliability Engineer ... Principal Cloud Engineer . Save Saved. Technology Published: Nov 26; Merrimack, NH. Details \u00b7 Principal Platform ...",
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T20:01:22+00:00",
+      "fetched_at": "2026-11-25T23:49:12.275922+00:00"
+    },
+    {
+      "id": "efe4c99abc5c",
+      "title": "Senior Software Engineer 25k Sign on Bonus in Columbia, Maryland (No Remote)",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.leidos.com/jobs/18518061-senior-software-engineer-25k-sign-on-bonus",
+      "source": "Other",
+      "description": "Senior Software Engineer 25k Sign on Bonus \u00b7 Design, develop, and enhance responsive user interfaces using React and Bootstrap, including reusable UI ...",
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T19:53:15+00:00",
+      "fetched_at": "2026-11-25T23:49:12.276138+00:00"
+    },
+    {
+      "id": "e135583bb0ae",
+      "title": "Data Engineer 2 - Jobs at CPS Energy",
+      "company": "CPS Energy",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cpsenergy.com/job/San-Antonio-Data-Engineer-2-TX-78205/1453666900/",
+      "source": "Other",
+      "description": "San Antonio Data Engineer 2 - TX, 78205.",
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T19:21:42+00:00",
+      "fetched_at": "2026-11-25T23:49:12.276311+00:00"
+    },
+    {
+      "id": "42b595fac388",
+      "title": "Software Engineer II - FloQast - Lever",
+      "company": "Floqast",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.lever.co/floqast/3c2e2a98-1c72-4f19-97fb-2f979a5eb534",
+      "source": "Lever",
+      "description": "Software Engineer II ... FloQast is an AI Accounting Workflow Automation platform innovating how accounting teams close the books faster and more ...",
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T19:00:35+00:00",
+      "fetched_at": "2026-11-25T23:49:12.276558+00:00"
+    },
+    {
+      "id": "5b433acfca4a",
+      "title": "Software Engineer 3 - Hanover, Maryland, United States - Amentum careers",
+      "company": "Hanover, Maryland, United States - Amentum careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.amentumcareers.com/jobs/software-engineer-3-hanover-maryland-united-states-5957a3a4-dd68-4f5a-a6cb-6e644e4826c4",
+      "source": "Other",
+      "description": "... Software Engineer to join the DevOps team in Hanover, MD. The team develops, deploys, and supports mission-focused cyber training solutions used ...",
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T18:57:26+00:00",
+      "fetched_at": "2026-11-25T23:49:12.276896+00:00"
+    },
+    {
+      "id": "500fa7cea806",
+      "title": "Senior Software Engineer - MongoDB",
+      "company": "MongoDB",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.mongodb.com/careers/jobs/8395701",
+      "source": "Other",
+      "description": "We're seeking a Senior Software Engineer to join our Collections Team within the Observability Org. The Collections Team is responsible for ...",
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T18:37:41+00:00",
+      "fetched_at": "2026-11-25T23:49:12.277017+00:00"
+    },
+    {
+      "id": "5ca8dbdfb3c8",
+      "title": "Senior Software Engineer (ML Products) - Arrive Logistics - CDI \u00e0 Chicago",
+      "company": "Arrive Logistics - CDI \u00e0 Chicago",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.welcometothejungle.com/fr/companies/arrive-logistics/jobs/senior-software-engineer-ml-products_chicago_n2qbsfh5",
+      "source": "Other",
+      "description": "Arrive Logistics recrute un(e) Senior Software Engineer (ML Products) \u00e0 Chicago !",
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T18:34:46+00:00",
+      "fetched_at": "2026-11-25T23:49:12.277248+00:00"
+    },
+    {
+      "id": "6e2f5471393d",
+      "title": "Senior Site Reliability Engineer - Myworkdayjobs.com",
+      "company": "Blueorigin",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Senior-Site-Reliability-Engineer_R75981",
+      "source": "Workday",
+      "description": "Senior Site Reliability Engineer . The Developer Platforms team builds and operates the tools and infrastructure that Blue Origin's engineers depend on ...",
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T18:23:53+00:00",
+      "fetched_at": "2026-11-25T23:49:12.277369+00:00"
+    },
+    {
+      "id": "de01252a44ba",
+      "title": "Software Engineer L2 - TriNet Hire",
+      "company": "TriNet Hire",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://app.trinethire.com/companies/130621-curative-hr-llc/jobs/126862-software-engineer-l2",
+      "source": "Other",
+      "description": "Software Engineer L2 ... Curative is building the future of health insurance with a first-of-its-kind employer-based plan designed to remove financial ...",
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T18:16:49+00:00",
+      "fetched_at": "2026-11-25T23:49:12.277526+00:00"
+    },
+    {
+      "id": "209ec087ac37",
+      "title": "Senior Software Engineer , Applied AI - Myworkdayjobs.com",
+      "company": "Harriscomputer",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://harriscomputer.wd3.myworkdayjobs.com/1/job/Senior-Software-Engineer--Applied-AI_R0475160",
+      "source": "Workday",
+      "description": "The Senior Software Engineer , Applied AI is a senior-level engineering position that builds and owns AI-powered systems, features, and development ...",
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T17:54:35+00:00",
+      "fetched_at": "2026-11-25T23:49:12.277612+00:00"
+    },
+    {
+      "id": "62cf3a58fd45",
+      "title": "Software Engineer Advisor in Memphis, Tennessee | FedEx Careers",
+      "company": "FedEx Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.fedex.com/software-engineer-advisor/job/P25-374354-3",
+      "source": "Other",
+      "description": "Software Engineer Advisor. Professional ... Google Cloud Certified: Professional Cloud Architect or Professional Machine Learning Engineer .",
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T17:30:50+00:00",
+      "fetched_at": "2026-11-25T23:49:12.400323+00:00"
+    },
+    {
+      "id": "7ac449916d1b",
+      "title": "Full Stack Software Engineer @ Scout AI - Jobs",
+      "company": "Scout Ai",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/scout-ai/e0557d08-8678-40b6-b5b2-d24f9028b629",
+      "source": "Ashby",
+      "description": "... Software Engineer , with a focus on web and backend, who enjoys working across the entire product surface. This role is ideal for someone who ...",
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T17:11:57+00:00",
+      "fetched_at": "2026-11-25T23:49:12.277714+00:00"
+    },
+    {
+      "id": "df1e7eee6c76",
+      "title": "Software Engineer I - Tetra Tech Careers",
+      "company": "Tetra Tech Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://tetratech.referrals.selectminds.com/jobs/software-engineer-i-58164",
+      "source": "Other",
+      "description": "Tetra Tech is seeking a Software Engineer I to join our Ocean Science team. This position will be based in our South Kingstown, RI office, ...",
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T17:08:18+00:00",
+      "fetched_at": "2026-11-25T23:49:12.277863+00:00"
+    },
+    {
+      "id": "e688eca3fe38",
+      "title": "Data Engineer at UnitedHealth Group",
+      "company": "UnitedHealth Group",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.unitedhealthgroup.com/job/dublin/data-engineer/34088/103778289376",
+      "source": "Other",
+      "description": "Data Engineer . Requisition number: 2403541 Job category: Technology Primary location: Dublin, Ireland Additional locations: Letterkenny, Ulster ...",
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T17:07:35+00:00",
+      "fetched_at": "2026-11-25T23:49:12.277989+00:00"
+    },
+    {
+      "id": "692dde7f4163",
+      "title": "Senior Fullstack Engineer , Enterprise Applications Development - Greenhouse",
+      "company": "Manscaped",
+      "role": "Fullstack Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/manscaped/jobs/5494131008",
+      "source": "Greenhouse",
+      "description": "Senior Fullstack Engineer , Enterprise Applications Development ... Deep understanding of cloud platforms, preferably Azure cloud engineer services, with ...",
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T16:27:29+00:00",
+      "fetched_at": "2026-11-25T23:49:12.400745+00:00"
+    },
+    {
+      "id": "405c6d2ba2aa",
+      "title": "Senior Software Engineer - Job Detail | Careers Marketplace - Siemens",
+      "company": "Job Detail | Careers Marketplace - Siemens",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/530551",
+      "source": "Other",
+      "description": "Senior Software Engineer . Job ID. 530551. Posted since. 25-Nov-2026. Organization. Foundational Technologies. Field of work. Research & Development.",
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T16:17:26+00:00",
+      "fetched_at": "2026-11-25T23:49:12.400899+00:00"
+    },
+    {
+      "id": "fb020e263408",
+      "title": "Software Engineer II, Backend Full Stack - Emerging Products - Rippling",
+      "company": "Emerging Products - Rippling",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://ats.rippling.com/rippling/jobs/9f4fa14f-0317-4bbd-859a-b8d7b5714247",
+      "source": "Other",
+      "description": "Software Engineer II, Backend Full Stack - Emerging Products. About ... As a Senior Backend Engineer , you'll design and build the services ...",
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T16:10:35+00:00",
+      "fetched_at": "2026-11-25T23:49:12.401066+00:00"
+    },
+    {
+      "id": "c427b6508891",
+      "title": "AI or ML Engineer - RAG, Databricks at UnitedHealth Group",
+      "company": "UnitedHealth Group",
+      "role": "ML Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.unitedhealthgroup.com/job/noida/ai-or-ml-engineer-rag-databricks/34088/103752535424",
+      "source": "Other",
+      "description": "AI or ML Engineer - RAG, Databricks. Requisition number: 2399850 Job category: Technology Primary location: Noida, India Date posted: 11/24/ ...",
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T15:53:48+00:00",
+      "fetched_at": "2026-11-25T23:49:12.401214+00:00"
+    },
+    {
+      "id": "3dd8add4a859",
+      "title": "Senior / Lead AI Engineer - Careers at Mastercard",
+      "company": "Mastercard",
+      "role": "AI Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.mastercard.com/us/en/job/R-288104/Senior-Lead-AI-Engineer",
+      "source": "Other",
+      "description": "Apply for Senior / Lead AI Engineer job with Mastercard in Singapore, Singapore, 188537. AI & Data at Mastercard.",
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T15:50:48+00:00",
+      "fetched_at": "2026-11-25T23:49:12.401362+00:00"
+    },
     {
       "id": "703979b1d119",
       "title": "Senior AI Engineer AI, Automation, & Data Engineering - HigherEdJobs",
