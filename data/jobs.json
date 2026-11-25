@@ -1,27 +1,27 @@
 {
-  "last_updated": "2026-11-25T03:11:47.549924+00:00",
-  "total_jobs": 14018,
+  "last_updated": "2026-11-25T13:39:14.336209+00:00",
+  "total_jobs": 14037,
   "stats": {
-    "total_companies": 6093,
+    "total_companies": 6099,
     "total_roles": 182,
     "regions": {
-      "India": 9151,
-      "Philippines": 3049,
-      "Remote": 1748,
+      "India": 9163,
+      "Philippines": 3053,
+      "Remote": 1751,
       "Unknown": 135
     },
     "sources": {
-      "Other": 10949,
+      "Other": 10961,
       "Greenhouse": 709,
       "Workday": 577,
       "LinkedIn": 571,
-      "Ashby": 477,
+      "Ashby": 481,
       "iCIMS": 177,
       "Breezy": 136,
       "Workable": 101,
       "Lever": 100,
-      "SmartRecruiters": 98,
-      "Indeed": 52,
+      "SmartRecruiters": 99,
+      "Indeed": 54,
       "Recruitee": 19,
       "WeWorkRemotely": 17,
       "BrassRing": 12,
@@ -35,6 +35,246 @@
     }
   },
   "jobs": [
+    {
+      "id": "703979b1d119",
+      "title": "Senior AI Engineer AI, Automation, & Data Engineering - HigherEdJobs",
+      "company": "HigherEdJobs",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.higheredjobs.com/details.cfm?JobCode=179626922",
+      "source": "Other",
+      "description": "Category Software Engineer /Programmer. PostedToday. Websitewww.bu.edu. Senior AI Engineer AI, Automation, & Data Engineering. Job Description Senior ...",
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T10:19:33+00:00",
+      "fetched_at": "2026-11-25T13:39:14.159546+00:00"
+    },
+    {
+      "id": "5333d6dcff40",
+      "title": "Xplor Senior Software Engineer - FullStack | SmartRecruiters",
+      "company": "Xplor",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.smartrecruiters.com/Xplor/744000163615639-senior-software-engineer-fullstack-",
+      "source": "SmartRecruiters",
+      "description": "Other jobs at Xplor. Senior Software Engineer - FrontEnd. Pune, India. Senior DevOps Engineer - Embedded Payments. Pune, India. Senior ...",
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T09:43:40+00:00",
+      "fetched_at": "2026-11-25T13:39:14.159725+00:00"
+    },
+    {
+      "id": "7a971172766f",
+      "title": "AI Engineer | Novartis",
+      "company": "Novartis",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.novartis.com/careers/career-search/job/details/req-10093342-ai-engineer",
+      "source": "Other",
+      "description": "... Machine Learning Engineer \u2013 Associate, AWS Certified AI Practitioner, AWS Certified Developer \u2013 Associate, Databricks Certified Generative AI Engineer ...",
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T09:15:09+00:00",
+      "fetched_at": "2026-11-25T13:39:14.159902+00:00"
+    },
+    {
+      "id": "487fd0f3449f",
+      "title": "Founding Platform Engineer @ Protege - Jobs",
+      "company": "Protege",
+      "role": "Platform Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://jobs.ashbyhq.com/protege/4df379fc-49c6-4695-ab32-721d1663d800",
+      "source": "Ashby",
+      "description": "Founding Platform Engineer . Location. Remote. Employment Type. Full time. Location Type. Remote. Department. Engineering. OverviewApplication. Company ...",
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T08:49:35+00:00",
+      "fetched_at": "2026-11-25T13:39:14.160015+00:00"
+    },
+    {
+      "id": "76f31763a775",
+      "title": "Senior Software Engineer - Java, SpringBoot, Tomcat 11, Informatica - PNC Careers",
+      "company": "11, Informatica",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.pnc.com/global/en/job/R241305/Senior-Software-Engineer-Java-SpringBoot-Tomcat-11-Informatica",
+      "source": "Other",
+      "description": "Senior Software Engineer - Java, SpringBoot, Tomcat 11, Informatica ... Site Reliability Engineer - ETL. Location Pittsburgh, Pennsylvania, United ...",
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T07:36:11+00:00",
+      "fetched_at": "2026-11-25T13:39:14.160234+00:00"
+    },
+    {
+      "id": "3bdc1f6c1fc4",
+      "title": "Senior Software Engineer II, Agentic Apps @ Kit - Jobs",
+      "company": "Kit",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/kit/e4cef437-3275-4bfd-9923-2bf386667fb6",
+      "source": "Ashby",
+      "description": "... Senior Software Engineer II to own app delivery and maintenance end to ... full-stack engineer who has shipped agent workflows to production ...",
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T07:21:17+00:00",
+      "fetched_at": "2026-11-25T13:39:14.160342+00:00"
+    },
+    {
+      "id": "2945c6a5bf7e",
+      "title": "Apply For Software Engineer -Computer Vision - Stryker Careers",
+      "company": "Computer Vision - Stryker Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.stryker.com/software-engineer-computer-vision/job/6FE0591CFA3B7AF18587CC8F469E0FF8",
+      "source": "Other",
+      "description": "Software Engineer -Computer Vision. Return to Search. Apply Now. Bangalore, 530068, IN. Job details. Work flexibility: Hybrid Req ID: R578634 Employee ...",
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T06:44:37+00:00",
+      "fetched_at": "2026-11-25T13:39:14.160535+00:00"
+    },
+    {
+      "id": "42ee69928c18",
+      "title": "Now Hiring: 200 Full Stack Engineer Jobs in Noblesville, IN | Indeed",
+      "company": "Indeed",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.indeed.com/q-full-stack-engineer-l-noblesville,-in-jobs.html",
+      "source": "Indeed",
+      "description": "Senior Software Engineer (On-Site, IN). Allied Solutions. Carmel, IN. Full ... Platform Engineer jobs in Seattle, WAMueller Industries jobs in ...",
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T06:36:58+00:00",
+      "fetched_at": "2026-11-25T13:39:14.160729+00:00"
+    },
+    {
+      "id": "f9552bb6f32e",
+      "title": "Software Engineer , Core Platform (Agent Infra) @ Baseten - Jobs",
+      "company": "Baseten",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/baseten/a3f47901-a5e9-40f8-ae6b-8695f3e3528c",
+      "source": "Ashby",
+      "description": "... Software Engineer to build the core systems that turn raw infrastructure into a scalable, programmable compute platform. You'll work across the ...",
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T06:34:15+00:00",
+      "fetched_at": "2026-11-25T13:39:14.257773+00:00"
+    },
+    {
+      "id": "55aa8e08c8b8",
+      "title": "Senior Software Engineer , Context Engine Platform - Teradata Careers",
+      "company": "Teradata Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.teradata.com/jobs/220945/senior-full-stack-engineer-context-engine-platform",
+      "source": "Other",
+      "description": "Senior Software Engineer , Context Engine Platform - 220945. Job Link ... We are looking for an exceptional full stack engineer with a startup ...",
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T06:11:04+00:00",
+      "fetched_at": "2026-11-25T13:39:14.160925+00:00"
+    },
+    {
+      "id": "1ebec256f643",
+      "title": "Senior Software Engineer - Full Stack C# Developer - Hanover, MD, US - RQ224402",
+      "company": "Senior Software Engineer",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.gd.com/careers/senior-software-engineer-full-stack-c-developer-hanover-md-us-rq224402-gdit-opportunity/",
+      "source": "Other",
+      "description": "Senior Software Engineer - Full Stack C# Developer. A GDIT Opportunity. GDIT Logo. General Dynamics Information Technology (GDIT) is a global ...",
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T05:13:47+00:00",
+      "fetched_at": "2026-11-25T13:39:14.258317+00:00"
+    },
+    {
+      "id": "293431ec608b",
+      "title": "Software Engineer 1 in Chandler, Arizona | Garmin International, Inc.",
+      "company": "Garmin International, Inc.",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.garmin.com/jobs/19953?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify",
+      "source": "Other",
+      "description": "Garmin is hiring a Software Engineer 1 in Chandler, Arizona. Review all of the job details and apply today!",
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T05:10:01+00:00",
+      "fetched_at": "2026-11-25T13:39:14.161086+00:00"
+    },
+    {
+      "id": "c347377e5e9a",
+      "title": "Senior Software Engineer , Full Stack - Careers - Google",
+      "company": "Careers - Google",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.google.com/about/careers/applications/jobs/results/120602241760404166-senior-software-engineer-full-stack?page=19",
+      "source": "Other",
+      "description": "Senior Software Engineer , Full Stack. share. Share Senior Software Engineer , Full Stack. linkCopy link; emailEmail a friend. corporate_fareGoogleplace ...",
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T04:47:07+00:00",
+      "fetched_at": "2026-11-25T13:39:14.258705+00:00"
+    },
+    {
+      "id": "65b80858faf7",
+      "title": "Software Engineer III | Playlist",
+      "company": "Playlist",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://www.playlist.com/careers/opportunities/68fa3b43-9c55-4cf3-a81e-1a05423595c9",
+      "source": "Other",
+      "description": "Software Engineer III. Mindbody | Engineering | Full-time | United States | Remote. Apply now. At Playlist, life's richest moments happen when people ...",
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T04:14:37+00:00",
+      "fetched_at": "2026-11-25T13:39:14.258865+00:00"
+    },
+    {
+      "id": "27d3b9d471c5",
+      "title": "Data Engineer , Flex Analytics - Job ID: 10612772 - Amazon Careers",
+      "company": "Job ID: 10612772 - Amazon Careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.amazon.jobs/en/jobs/10612772/data-engineer-flex-analytics",
+      "source": "Other",
+      "description": "Specifically, we are looking for a Data Engineer who is passionate about data architecture and wants help us use data to understand Flex Driver ...",
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T03:55:39+00:00",
+      "fetched_at": "2026-11-25T13:39:14.161249+00:00"
+    },
+    {
+      "id": "8caf6110b321",
+      "title": "Software Engineer , Experimental Projects - Stripe Careers",
+      "company": "Stripe Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://stripe.com/careers/listing/software-engineer-experimental-projects/8394936?gh_jid=8394936",
+      "source": "Other",
+      "description": "Software Engineer , Experimental Projects. Who we are. About Stripe. Stripe is a financial infrastructure platform for businesses. Millions of ...",
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T01:30:49+00:00",
+      "fetched_at": "2026-11-25T13:39:14.161423+00:00"
+    },
     {
       "id": "b80a21fa3a08",
       "title": "Data Engineer , Sunnyvale, CA, United States - Intuitive Surgical Careers",
@@ -65,6 +305,51 @@
       "date": "2026-11-25",
       "timestamp": "2026-11-25T01:04:46+00:00",
       "fetched_at": "2026-11-25T03:11:47.394675+00:00"
+    },
+    {
+      "id": "58dfe5e79cae",
+      "title": "Site Reliability / Cloud Platform Engineer (Agent Infra) @ Baseten - Jobs",
+      "company": "Baseten",
+      "role": "Platform Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.ashbyhq.com/baseten/cfc186d9-261a-46c6-87a9-fb001edf57e1",
+      "source": "Ashby",
+      "description": "... Platform Engineer to build and operate the infrastructure underneath it all. You'll work close to the metal, developing the systems that provision ...",
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T01:04:23+00:00",
+      "fetched_at": "2026-11-25T13:39:14.259825+00:00"
+    },
+    {
+      "id": "616b22d8e288",
+      "title": "Now Hiring: 900 Backend Engineer Jobs in Wilmington, MA | Indeed",
+      "company": "Indeed",
+      "role": "Backend Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.indeed.com/q-backend-engineer-l-wilmington,-ma-jobs.html",
+      "source": "Indeed",
+      "description": "Cloud Engineer Graduate. Hewlett Packard Enterprise. Andover, MA ... Senior Software Engineer (Backend, Business Systems). WHOOP. Boston, MA.",
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T00:56:53+00:00",
+      "fetched_at": "2026-11-25T13:39:14.162061+00:00"
+    },
+    {
+      "id": "49e995cd839e",
+      "title": "Software Engineer in Bethesda, Maryland (No Remote) - Leidos Careers",
+      "company": "Leidos Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://careers.leidos.com/jobs/18514426-software-engineer",
+      "source": "Other",
+      "description": "As a Software Engineer you will lead an application team responsible for maintaining the continuous flow of new software enhancements and deployments, ...",
+      "date": "2026-11-25",
+      "timestamp": "2026-11-25T00:55:20+00:00",
+      "fetched_at": "2026-11-25T13:39:14.162192+00:00"
     },
     {
       "id": "82a7f6b8a47e",
