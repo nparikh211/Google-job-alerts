@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-11-27T02:27:57.252976+00:00",
-  "total_jobs": 14131,
+  "last_updated": "2026-11-27T13:13:04.968137+00:00",
+  "total_jobs": 14148,
   "stats": {
-    "total_companies": 6136,
+    "total_companies": 6144,
     "total_roles": 183,
     "regions": {
-      "India": 9230,
-      "Philippines": 3073,
-      "Remote": 1759,
+      "India": 9243,
+      "Philippines": 3076,
+      "Remote": 1760,
       "Unknown": 135
     },
     "sources": {
-      "Other": 11030,
+      "Other": 11045,
       "Greenhouse": 713,
-      "Workday": 581,
+      "Workday": 582,
       "LinkedIn": 573,
       "Ashby": 485,
       "iCIMS": 179,
@@ -21,7 +21,7 @@
       "Workable": 104,
       "Lever": 101,
       "SmartRecruiters": 99,
-      "Indeed": 55,
+      "Indeed": 56,
       "Recruitee": 19,
       "WeWorkRemotely": 17,
       "BrassRing": 12,
@@ -36,6 +36,201 @@
   },
   "jobs": [
     {
+      "id": "a47265be86b6",
+      "title": "Senior Fullstack Engineer (Java Heavy + Front End) - Okta",
+      "company": "Okta",
+      "role": "Fullstack Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.okta.com/company/careers/rd/senior-fullstack-engineer-java-heavy-front-end-8239244/",
+      "source": "Other",
+      "description": "... Senior Software Engineer to join the Advanced Integration Builder team ... frontend engineer .Nice to Haves- Experience with identity/IAM ...",
+      "date": "2026-11-27",
+      "timestamp": "2026-11-27T10:20:42+00:00",
+      "fetched_at": "2026-11-27T13:13:04.914419+00:00"
+    },
+    {
+      "id": "b8e35f3e4b1c",
+      "title": "DevOps & Cloud Engineer - RDT Hosting and Infrastructure (HI) in Pune, Mah\u0101r\u0101shtra, India",
+      "company": "RDT Hosting and Infrastructure (HI) in Pune, Mah\u0101r\u0101shtra, India",
+      "role": "Cloud Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.roche.com/global/en/job/202611-129430/DevOps-Cloud-Engineer-RDT-Hosting-and-Infrastructure-HI",
+      "source": "Other",
+      "description": "Apply for DevOps & Cloud Engineer - RDT Hosting and Infrastructure (HI) job with Roche in Pune, Mah\u0101r\u0101shtra, India.",
+      "date": "2026-11-27",
+      "timestamp": "2026-11-27T09:39:20+00:00",
+      "fetched_at": "2026-11-27T13:13:04.625145+00:00"
+    },
+    {
+      "id": "9f24ac467082",
+      "title": "DevOps/ Site Reliability Engineer for Cloud Foundry Core Team , Sofia, Bulgaria",
+      "company": "Unknown Company",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.sap.com/en/jobs/744000163988160/devopssite-reliability-engineer-for-cloud-foundry-core-team/",
+      "source": "Other",
+      "description": "Machine Learning Engineer - Cloud ERP Core Finance team. Teams ... 24/7 Cloud Operations & AI Engineer (maternity replacement). Teams ...",
+      "date": "2026-11-27",
+      "timestamp": "2026-11-27T09:13:04+00:00",
+      "fetched_at": "2026-11-27T13:13:04.625353+00:00"
+    },
+    {
+      "id": "b101b0b0f6c1",
+      "title": "Now Hiring: 500 Machine Learning Engineer Jobs in Eaton Park, FL | Indeed",
+      "company": "Indeed",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.indeed.com/q-machine-learning-engineer-l-eaton-park,-fl-jobs.html",
+      "source": "Indeed",
+      "description": "Lead Cloud Engineer - Data and AI (Hybrid). Publix Super Markets, Inc ... Senior Software Engineer jobsAi Ml Engineer jobs in Tampa, FLData ...",
+      "date": "2026-11-27",
+      "timestamp": "2026-11-27T08:51:38+00:00",
+      "fetched_at": "2026-11-27T13:13:04.625489+00:00"
+    },
+    {
+      "id": "07179e3351f6",
+      "title": "Site Reliability Engineer - Data Platforms, Apple Services Engineering - Jobs",
+      "company": "Site Reliability Engineer",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-us/details/200696916-0321/site-reliability-engineer-data-platforms-apple-services-engineering?team=SFTWR",
+      "source": "Other",
+      "description": "Apply for a Site Reliability Engineer - Data Platforms, Apple Services Engineering job at Apple. Read about the role and find out if it's right ...",
+      "date": "2026-11-27",
+      "timestamp": "2026-11-27T08:03:22+00:00",
+      "fetched_at": "2026-11-27T13:13:04.625798+00:00"
+    },
+    {
+      "id": "e2e478ada171",
+      "title": "Lead Cloud Engineer - Myworkdayjobs.com",
+      "company": "Aamc",
+      "role": "Cloud Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://aamc.wd5.myworkdayjobs.com/AAMC/job/Lead-Cloud-Engineer_10009461",
+      "source": "Workday",
+      "description": "Sign In. Search for Jobs. Lead Cloud Engineer page is loaded. Lead Cloud Engineer . Apply. locations: Washington DC. time type: Full time. posted on ...",
+      "date": "2026-11-27",
+      "timestamp": "2026-11-27T07:12:51+00:00",
+      "fetched_at": "2026-11-27T13:13:04.625871+00:00"
+    },
+    {
+      "id": "5a0c64cfbdc4",
+      "title": "Senior Software Engineer , Chennai, Tamil N\u0101du, India | Caterpillar Careers",
+      "company": "Caterpillar Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.caterpillar.com/en/jobs/r0000406077/senior-software-engineer/",
+      "source": "Other",
+      "description": "Senior Software Engineer . Location, Chennai, Tamil N\u0101du, India. Date Posted, Friday, November 27, 2026. Apply By, Thursday, December 3, 2026. Contract ...",
+      "date": "2026-11-27",
+      "timestamp": "2026-11-27T06:53:35+00:00",
+      "fetched_at": "2026-11-27T13:13:04.625995+00:00"
+    },
+    {
+      "id": "88a91592ba4b",
+      "title": "Software Engineer Job Details | Jet Aviation",
+      "company": "Jet Aviation",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.jetaviation.com/job/Basel-Software-Engineer-BS-4030/1378580757/",
+      "source": "Other",
+      "description": "Software Engineer . Location: Basel, BS, CH, 4030. Flexible Work Arrangement: Onsite. Job Category: Aircraft Maintenance Repair & Overhaul (MRO).",
+      "date": "2026-11-27",
+      "timestamp": "2026-11-27T05:50:01+00:00",
+      "fetched_at": "2026-11-27T13:13:04.626200+00:00"
+    },
+    {
+      "id": "1ebbe93928a2",
+      "title": "AI/ ML Engineer - AI for Strategic Decision-Making in London, United Kingdom - GSK jobs",
+      "company": "AI for Strategic Decision-Making in London, United Kingdom - GSK jobs",
+      "role": "ML Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.gsk.com/us/en/job/452052/AI-ML-Engineer-AI-for-Strategic-Decision-Making",
+      "source": "Other",
+      "description": "Apply for AI/ ML Engineer - AI for Strategic Decision-Making job with GSK in London, United Kingdom ... Senior full stack AI engineer . Location: London, ...",
+      "date": "2026-11-27",
+      "timestamp": "2026-11-27T05:42:48+00:00",
+      "fetched_at": "2026-11-27T13:13:04.915685+00:00"
+    },
+    {
+      "id": "bc95739be8cc",
+      "title": "Big Data Engineer I - Hyderabad, India - 21834 - MetLife careers",
+      "company": "Hyderabad, India - 21834 - MetLife careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.metlifecareers.com/en_US/ml/JobDetail/Data-Engineer-I/21834",
+      "source": "Other",
+      "description": "Description and Requirements. The Opportunity. The Data Engineer is responsible for building and maintaining production-grade data and analytics ...",
+      "date": "2026-11-27",
+      "timestamp": "2026-11-27T05:10:57+00:00",
+      "fetched_at": "2026-11-27T13:13:04.626339+00:00"
+    },
+    {
+      "id": "408ed8e2b67a",
+      "title": "Senior Full Stack AI Engineer - Orion Digital - Career Page - Mogo Finance Technology Inc.",
+      "company": "Orion Digital - Career Page - Mogo Finance Technology Inc.",
+      "role": "AI Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://mogo.applytojob.com/apply/xkqgknskf5/senior-full-stack-ai-engineer",
+      "source": "Other",
+      "description": "Senior Full Stack AI Engineer . Location: Remote (Canada) Team ... 6+ years of experience as a full stack or backend engineer ; A record of ...",
+      "date": "2026-11-27",
+      "timestamp": "2026-11-27T03:45:19+00:00",
+      "fetched_at": "2026-11-27T13:13:04.626495+00:00"
+    },
+    {
+      "id": "94c685cc90cd",
+      "title": "Software Engineer (Backend) - Galway - HPE Careers",
+      "company": "Galway - HPE Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.hpe.com/us/en/job/1219083/Software-Engineer-Backend-Galway",
+      "source": "Other",
+      "description": "Apply for Software Engineer (Backend) - Galway job with HPE in Galway, Galway, H91 WP08. Engineering & QA at HPE.",
+      "date": "2026-11-27",
+      "timestamp": "2026-11-27T03:41:02+00:00",
+      "fetched_at": "2026-11-27T13:13:04.626604+00:00"
+    },
+    {
+      "id": "c65d87124bb4",
+      "title": "Data Platform Engineer Specialist Information Technology at Baxter",
+      "company": "Baxter",
+      "role": "Platform Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.baxter.com/en/job/bengaluru/data-platform-engineer-specialist-information-technology/152/103758784976",
+      "source": "Other",
+      "description": "Data Platform Engineer Specialist Information Technology. Req ... Meet Anchal Tayal, Principal Software Engineer , India. \u201cI am proud to be ...",
+      "date": "2026-11-27",
+      "timestamp": "2026-11-27T03:06:43+00:00",
+      "fetched_at": "2026-11-27T13:13:04.626755+00:00"
+    },
+    {
       "id": "18dca1f644dd",
       "title": "Senior Dev Ops Platform Engineer in Louisville, Kentucky - Humana Careers",
       "company": "Humana Careers",
@@ -49,6 +244,36 @@
       "date": "2026-11-27",
       "timestamp": "2026-11-27T02:06:50+00:00",
       "fetched_at": "2026-11-27T02:27:57.198207+00:00"
+    },
+    {
+      "id": "fa563ca18c4c",
+      "title": "Senior Software Engineer II, Pricing & Incentives (Fulfillment) - Instacart Careers",
+      "company": "Instacart Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.instacart.careers/en-ca/job?id=8412255",
+      "source": "Other",
+      "description": "Apply for Senior Software Engineer II, Pricing & Incentives (Fulfillment) at Instacart.",
+      "date": "2026-11-27",
+      "timestamp": "2026-11-27T02:03:19+00:00",
+      "fetched_at": "2026-11-27T13:13:04.916421+00:00"
+    },
+    {
+      "id": "25c1a8ef9138",
+      "title": "Assistant Director-Marketing Analytics Data Engineer - Careers at Moody's",
+      "company": "Moody's",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.moodys.com/en/job/london/assistant-director-marketing-analytics-data-engineer/49841/103826647968",
+      "source": "Other",
+      "description": "Assistant Director-Marketing Analytics Data Engineer . London ... Asst Dir- DevOps Engineer . Gurugram, India. Save for Later. Saved Jobs. You ...",
+      "date": "2026-11-27",
+      "timestamp": "2026-11-27T01:15:20+00:00",
+      "fetched_at": "2026-11-27T13:13:04.627000+00:00"
     },
     {
       "id": "0271498d5ca2",
@@ -66,6 +291,21 @@
       "fetched_at": "2026-11-27T02:27:57.100579+00:00"
     },
     {
+      "id": "4955b4035872",
+      "title": "Data Engineer Principal_3003 in Minneapolis, Minnesota, United States, 55416 - Allianz careers",
+      "company": "Allianz careers",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.allianz.com/th/en/job/104703/Data-Engineer-Principal-3003",
+      "source": "Other",
+      "description": "Apply for Data Engineer Principal_3003 job with Allianz in Minneapolis, Minnesota, United States, 55416. IT & Tech Engineering at Allianz.",
+      "date": "2026-11-26",
+      "timestamp": "2026-11-26T23:46:56+00:00",
+      "fetched_at": "2026-11-27T13:13:04.627167+00:00"
+    },
+    {
       "id": "e47b8a8403de",
       "title": "AI Engineer 3 | New York, NY, USA - eFinancialCareers",
       "company": "New York, NY, USA - eFinancialCareers",
@@ -79,6 +319,21 @@
       "date": "2026-11-26",
       "timestamp": "2026-11-26T23:26:09+00:00",
       "fetched_at": "2026-11-27T02:27:57.101474+00:00"
+    },
+    {
+      "id": "5181c7a982a9",
+      "title": "Sr. Cloud Engineer chez MCKESSON",
+      "company": "Unknown Company",
+      "role": "Cloud Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.mckesson.com/fr-ca/emploi/cork/sr-cloud-engineer/733/103824730832",
+      "source": "Other",
+      "description": "Cloud Engineer . Cork, Irlande Num\u00e9ro du poste JR0152659 Cat\u00e9gorie Infrastructure Engineering Date de publication Nov. 26, 2026. Postuler Sauvegarder ...",
+      "date": "2026-11-26",
+      "timestamp": "2026-11-26T23:07:41+00:00",
+      "fetched_at": "2026-11-27T13:13:04.627439+00:00"
     },
     {
       "id": "c943f3970d79",
