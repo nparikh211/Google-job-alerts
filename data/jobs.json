@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-11-26T17:54:50.676922+00:00",
-  "total_jobs": 14103,
+  "last_updated": "2026-11-27T02:27:57.252976+00:00",
+  "total_jobs": 14131,
   "stats": {
-    "total_companies": 6121,
+    "total_companies": 6136,
     "total_roles": 183,
     "regions": {
-      "India": 9209,
-      "Philippines": 3067,
-      "Remote": 1757,
+      "India": 9230,
+      "Philippines": 3073,
+      "Remote": 1759,
       "Unknown": 135
     },
     "sources": {
-      "Other": 11009,
-      "Greenhouse": 712,
-      "Workday": 579,
-      "LinkedIn": 572,
+      "Other": 11030,
+      "Greenhouse": 713,
+      "Workday": 581,
+      "LinkedIn": 573,
       "Ashby": 485,
-      "iCIMS": 178,
-      "Breezy": 136,
-      "Workable": 103,
+      "iCIMS": 179,
+      "Breezy": 137,
+      "Workable": 104,
       "Lever": 101,
       "SmartRecruiters": 99,
       "Indeed": 55,
@@ -31,10 +31,431 @@
     },
     "date_range": {
       "earliest": "2026-04-14",
-      "latest": "2026-11-26"
+      "latest": "2026-11-27"
     }
   },
   "jobs": [
+    {
+      "id": "18dca1f644dd",
+      "title": "Senior Dev Ops Platform Engineer in Louisville, Kentucky - Humana Careers",
+      "company": "Humana Careers",
+      "role": "Platform Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.humana.com/us/en/job/R-438587/Senior-Dev-Ops-Platform-Engineer",
+      "source": "Other",
+      "description": "Apply for Senior Dev Ops Platform Engineer job with Humana in Louisville, Kentucky. Technology and Digital Analytics at Humana.",
+      "date": "2026-11-27",
+      "timestamp": "2026-11-27T02:06:50+00:00",
+      "fetched_at": "2026-11-27T02:27:57.198207+00:00"
+    },
+    {
+      "id": "0271498d5ca2",
+      "title": "Senior Software Engineer - React - Myworkdayjobs.com",
+      "company": "Cigna",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/Senior-Software-Engineer---React_26013186-1",
+      "source": "Workday",
+      "description": "We are seeking an experienced Senior Software Engineer \u2013 React to support the development of DigiCare, a new digitally led healthcare proposition ...",
+      "date": "2026-11-26",
+      "timestamp": "2026-11-26T23:51:50+00:00",
+      "fetched_at": "2026-11-27T02:27:57.100579+00:00"
+    },
+    {
+      "id": "e47b8a8403de",
+      "title": "AI Engineer 3 | New York, NY, USA - eFinancialCareers",
+      "company": "New York, NY, USA - eFinancialCareers",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.efinancialcareers.com/jobs-United_States-NY-New_York-AI_Engineer_3.id25036061",
+      "source": "Other",
+      "description": "Machine Learning Engineer 4 (IC). Capital One. New York, United States. 1 day ago Full time Competitive. Capital One. AI Engineer 5 (MLX, Agentic AI ...",
+      "date": "2026-11-26",
+      "timestamp": "2026-11-26T23:26:09+00:00",
+      "fetched_at": "2026-11-27T02:27:57.101474+00:00"
+    },
+    {
+      "id": "c943f3970d79",
+      "title": "Site Reliability Engineer job - Experis USA - 419458",
+      "company": "Experis USA - 419458",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.experis.com/it/job/419458/site-reliability-engineer",
+      "source": "Other",
+      "description": "As a Site Reliability Engineer , you will be part of the Engineering organization supporting Production Infrastructure and Platform Operations. The ...",
+      "date": "2026-11-26",
+      "timestamp": "2026-11-26T22:58:22+00:00",
+      "fetched_at": "2026-11-27T02:27:57.198333+00:00"
+    },
+    {
+      "id": "0eb64ea009e4",
+      "title": "Senior Software Engineer - Careers - Myworkdayjobs.com",
+      "company": "Corpartners",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://corpartners.wd5.myworkdayjobs.com/DBIConsultants/job/Senior-Software-Engineer_R2151",
+      "source": "Workday",
+      "description": "... Senior Software Engineer plays a central role in building these ... The team works with a designer, but there is no dedicated frontend engineer .",
+      "date": "2026-11-26",
+      "timestamp": "2026-11-26T22:55:24+00:00",
+      "fetched_at": "2026-11-27T02:27:57.101558+00:00"
+    },
+    {
+      "id": "105c282c4440",
+      "title": "Senior Software Engineer - Edge Video Analytics - Axis Communications",
+      "company": "Edge Video Analytics - Axis Communications",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.axis.com/careers/job-openings/senior-software-engineer-edge-video-analytics-r-124399",
+      "source": "Other",
+      "description": "What you'll do as Senior Software Engineer . Your main goal is to build ... Data Engineer , Lund. Lund, Sweden. Software & ISIT. On-site ...",
+      "date": "2026-11-26",
+      "timestamp": "2026-11-26T22:38:33+00:00",
+      "fetched_at": "2026-11-27T02:27:57.101745+00:00"
+    },
+    {
+      "id": "207ada871530",
+      "title": "Senior Software Engineer | Widewail - Rippling",
+      "company": "Widewail - Rippling",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://ats.rippling.com/widewail/jobs/03960d55-972e-4907-bb66-3fb5686bd7f7",
+      "source": "Other",
+      "description": "Senior Software Engineer . Senior Software Engineer . About Widewail. Widewail is a Burlington, Vermont-based technology company helping businesses ...",
+      "date": "2026-11-26",
+      "timestamp": "2026-11-26T21:57:58+00:00",
+      "fetched_at": "2026-11-27T02:27:57.101873+00:00"
+    },
+    {
+      "id": "b354abf4c53d",
+      "title": "Site Reliability Engineer 3 Job at Comcast in Comcast Corporation",
+      "company": "Comcast in Comcast Corporation",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.comcast.com/job/chennai/site-reliability-engineer-3/45483/103816664544",
+      "source": "Other",
+      "description": "Comcast brings together the best in media and technology careers. Learn more about the Site Reliability Engineer 3 job in Comcast Corporation and ...",
+      "date": "2026-11-26",
+      "timestamp": "2026-11-26T21:49:52+00:00",
+      "fetched_at": "2026-11-27T02:27:57.101996+00:00"
+    },
+    {
+      "id": "36864eb336d7",
+      "title": "Senior Site Reliability Engineer in McLean, Virginia - steampunk | Careers Center",
+      "company": "steampunk | Careers Center",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers-steampunk.icims.com/jobs/9344/senior-site-reliability-engineer/job",
+      "source": "iCIMS",
+      "description": "Senior Site Reliability Engineer ... Must possess minimum 10+ years of software engineer experience with skills in Angular, Node, Java, Python etc.",
+      "date": "2026-11-26",
+      "timestamp": "2026-11-26T21:47:52+00:00",
+      "fetched_at": "2026-11-27T02:27:57.102127+00:00"
+    },
+    {
+      "id": "f98fcc6ff438",
+      "title": "Job Application for Senior Software Engineer , Enterprise Platform at Discord - Greenhouse",
+      "company": "Discord",
+      "role": "Software Engineer",
+      "regions": [
+        "Remote"
+      ],
+      "link": "https://job-boards.greenhouse.io/discord/jobs/8958889002",
+      "source": "Greenhouse",
+      "description": "Senior Software Engineer , Enterprise Platform. San Francisco Bay Area or Remote (West Coast). Apply. Discord has a highly engaged community of ...",
+      "date": "2026-11-26",
+      "timestamp": "2026-11-26T21:22:57+00:00",
+      "fetched_at": "2026-11-27T02:27:57.198847+00:00"
+    },
+    {
+      "id": "f6251df53149",
+      "title": "AMI Data Engineer \u2013 Utilities - 144864 - IBM",
+      "company": "144864 - IBM",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=144864",
+      "source": "Other",
+      "description": "Job Title. AMI Data Engineer \u2013 Utilities ; Date posted. 25-Nov-2026 ; Job ID. 144864 ; City / Township / Village. Newark, Philadelphia, New York ; State / ...",
+      "date": "2026-11-26",
+      "timestamp": "2026-11-26T21:17:52+00:00",
+      "fetched_at": "2026-11-27T02:27:57.102356+00:00"
+    },
+    {
+      "id": "6cdb52a3322b",
+      "title": "Cloud Engineer , Senior - - 133882 - Booz | Allen | Hamilton \u00ae - Careers",
+      "company": "- 133882 - Booz | Allen | Hamilton \u00ae - Careers",
+      "role": "Cloud Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.boozallen.com/jobs/JobDetail/Fort-Meade-Cloud-Engineer-Senior-R0254295/133882",
+      "source": "Other",
+      "description": "Cloud Engineer , Senior. The Opportunity: Everyone is trying to \u201charness the cloud\u201d, but not everyone knows how. As a Cloud Computing Infrastructure ...",
+      "date": "2026-11-26",
+      "timestamp": "2026-11-26T21:08:24+00:00",
+      "fetched_at": "2026-11-27T02:27:57.102559+00:00"
+    },
+    {
+      "id": "96007bbccd8c",
+      "title": "Senior Machine Learning Engineer in Boston, Massachusetts, United States of America",
+      "company": "Unknown Company",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.manulife.com/global/en/job/JR26111143/Senior-Machine-Learning-Engineer",
+      "source": "Other",
+      "description": "We are recruiting an AI Engineer to design and deploy production-grade ... Full Stack Software Engineer . We are currently hiring a Full Stack ...",
+      "date": "2026-11-26",
+      "timestamp": "2026-11-26T20:59:36+00:00",
+      "fetched_at": "2026-11-27T02:27:57.102681+00:00"
+    },
+    {
+      "id": "4cc67f3fc106",
+      "title": "Software Engineer (UI) - Winter Intern - Rubrik",
+      "company": "Winter Intern - Rubrik",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.rubrik.com/company/careers/departments/job.8413157",
+      "source": "Other",
+      "description": "Software Engineer (UI) - Winter Intern. Bangalore, India Office. Departments. Job Summary. About Company. Rubrik (NYSE: RBRK) is on a mission to ...",
+      "date": "2026-11-26",
+      "timestamp": "2026-11-26T20:40:21+00:00",
+      "fetched_at": "2026-11-27T02:27:57.102773+00:00"
+    },
+    {
+      "id": "cec5f657380d",
+      "title": "Senior Software Engineer - TransUnion | Built In",
+      "company": "TransUnion | Built In",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://builtin.com/job/senior-software-engineer/12466779",
+      "source": "Other",
+      "description": "Transunion is seeking a Senior Software Engineer to join Trusted Call ... Senior Devops Engineer . Big Data \u2022 Fintech \u2022 Information Technology ...",
+      "date": "2026-11-26",
+      "timestamp": "2026-11-26T20:02:30+00:00",
+      "fetched_at": "2026-11-27T02:27:57.102878+00:00"
+    },
+    {
+      "id": "326c25b55277",
+      "title": "Site Reliability Engineer - IMC Trading",
+      "company": "IMC Trading",
+      "role": "Site Reliability Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.imc.com/us/careers/jobs/5006975101",
+      "source": "Other",
+      "description": "Site Reliability Engineer \u00b7 2+ years of experience as an SRE or System Engineer or DevOps Engineer or MLOps Engineer \u00b7 Python and Bash scripting skills ...",
+      "date": "2026-11-26",
+      "timestamp": "2026-11-26T19:37:49+00:00",
+      "fetched_at": "2026-11-27T02:27:57.102974+00:00"
+    },
+    {
+      "id": "ce1935d90aef",
+      "title": "Senior Data Engineer - Vermont Mutual Insurance Group",
+      "company": "Vermont Mutual Insurance Group",
+      "role": "Data Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://www.vermontmutual.com/career-opportunities/senior-data-engineer/",
+      "source": "Other",
+      "description": "Senior Data Engineer . Not just another job, but an opportunity to work for one of the best insurance companies in the country and reap the rewards ...",
+      "date": "2026-11-26",
+      "timestamp": "2026-11-26T18:23:37+00:00",
+      "fetched_at": "2026-11-27T02:27:57.103086+00:00"
+    },
+    {
+      "id": "da888f989171",
+      "title": "Software Engineer , Cloud Platform at Synergetics",
+      "company": "Synergetics",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://synergetics.breezy.hr/p/ce34915f7090-software-engineer-cloud-platform",
+      "source": "Breezy",
+      "description": "Synergetics | OpenFLIS | Full-time | Colorado Front Range (hybrid) We're hiring an early- to mid-career software engineer to build C#/.",
+      "date": "2026-11-26",
+      "timestamp": "2026-11-26T18:19:41+00:00",
+      "fetched_at": "2026-11-27T02:27:57.199232+00:00"
+    },
+    {
+      "id": "7d0572eaec97",
+      "title": "AI Engineer II - American Express Careers",
+      "company": "American Express Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26016953",
+      "source": "Other",
+      "description": "AI Engineer II. Bengaluru, KA, India (Hybrid). Apply Now. Job Description. The Digital Workplace AI/ML Platform with GENAI capabilities aims to bring ...",
+      "date": "2026-11-26",
+      "timestamp": "2026-11-26T18:13:13+00:00",
+      "fetched_at": "2026-11-27T02:27:57.199323+00:00"
+    },
+    {
+      "id": "85870098f15e",
+      "title": "AI Engineer II - American Express Careers",
+      "company": "American Express Careers",
+      "role": "AI Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.americanexpress.com/en/sites/CX_1/jobs/preview/26016952",
+      "source": "Other",
+      "description": "AI Engineer II. Bengaluru, KA, India (Hybrid). Apply Now. Job Description. The Digital Workplace AI/ML Platform with GENAI capabilities aims to bring ...",
+      "date": "2026-11-26",
+      "timestamp": "2026-11-26T18:12:46+00:00",
+      "fetched_at": "2026-11-27T02:27:57.103178+00:00"
+    },
+    {
+      "id": "e208c40c0e09",
+      "title": "Senior Full Stack Engineer - Blaze Careers - Kula",
+      "company": "Blaze Careers - Kula",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.kula.ai/blaze/17950-senior-full-stack-engineer",
+      "source": "Other",
+      "description": "We are looking for a full-time, senior full stack engineer with strong Rails, Javascript, and AI experience to join our team of talented coders and ...",
+      "date": "2026-11-26",
+      "timestamp": "2026-11-26T17:48:46+00:00",
+      "fetched_at": "2026-11-27T02:27:57.103281+00:00"
+    },
+    {
+      "id": "b342d1fd1434",
+      "title": "Software Engineer - Jobs - Fidelity Careers",
+      "company": "Jobs - Fidelity Careers",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.fidelity.com/in/jobs/2138399/software-engineer/",
+      "source": "Other",
+      "description": "Job Description: Software Engineer \u2013 Full Stack Build Fund Performance and Attributions platform that support FFIO's data analytics and discovery ...",
+      "date": "2026-11-26",
+      "timestamp": "2026-11-26T17:47:11+00:00",
+      "fetched_at": "2026-11-27T02:27:57.103384+00:00"
+    },
+    {
+      "id": "3395543a3622",
+      "title": "Machine Learning Engineer - Experimentation - Jobs at Apple (IN)",
+      "company": "Apple",
+      "role": "Machine Learning Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.apple.com/en-in/details/200696858-1052/machine-learning-engineer-experimentation",
+      "source": "Other",
+      "description": "Machine Learning Engineer - Experimentation. Hyderabad, Telangana, India ... Ads ML Experimentation team is looking for a Senior Software Engineer ...",
+      "date": "2026-11-26",
+      "timestamp": "2026-11-26T17:37:30+00:00",
+      "fetched_at": "2026-11-27T02:27:57.103496+00:00"
+    },
+    {
+      "id": "605695af1596",
+      "title": "Senior Software Engineer , Full-Stack (Backend Focus) | Oath | Jobs by Workable",
+      "company": "Stack (Backend Focus) | Oath | Jobs by Workable",
+      "role": "Software Engineer",
+      "regions": [
+        "India",
+        "Remote"
+      ],
+      "link": "https://jobs.workable.com/view/1ZXvAsZGCwGJpMJwzbbRht/remote-senior-software-engineer%2C-full-stack-(backend-focus)-in-united-states-at-oath",
+      "source": "Workable",
+      "description": "Senior Software Engineer , Full-Stack (Backend Focus). at Oath. RemoteUnited StatesProductFull-time. Posted today. Share job. Apply now. Description ...",
+      "date": "2026-11-26",
+      "timestamp": "2026-11-26T17:21:39+00:00",
+      "fetched_at": "2026-11-27T02:27:57.103665+00:00"
+    },
+    {
+      "id": "6734aa1cedde",
+      "title": "Software Engineer in Research Triangle Park, North Carolina, United States of America",
+      "company": "Unknown Company",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2030715EXTERNALENGLOBAL/Software-Engineer",
+      "source": "Other",
+      "description": "Apply for Software Engineer job with Cisco in Research Triangle Park, North Carolina, United States of America. Product and Engineering at Cisco.",
+      "date": "2026-11-26",
+      "timestamp": "2026-11-26T17:20:27+00:00",
+      "fetched_at": "2026-11-27T02:27:57.103792+00:00"
+    },
+    {
+      "id": "f89b0b848708",
+      "title": "John Crickett's Post - LinkedIn",
+      "company": "Unknown Company",
+      "role": "John Crickett's Post - LinkedIn",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.linkedin.com/posts/johncrickett_claiming-the-gap-between-software-engineer-activity-7531756195817226241-UtZ0",
+      "source": "LinkedIn",
+      "description": "Claiming the gap between software engineer and vibe coder will narrow simply because models advance is silly. Put me in Lando Norris's 2025 ...",
+      "date": "2026-11-26",
+      "timestamp": "2026-11-26T17:18:42+00:00",
+      "fetched_at": "2026-11-27T02:27:57.200337+00:00"
+    },
+    {
+      "id": "42d37a025b98",
+      "title": "Senior MATLAB/Python Software Engineer \u2013 System Design & Engineering Tools | | Hitachi",
+      "company": "| Hitachi",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.hitachi.com/senior-matlab-python-software-engineer-system-design-engineering-tools/job/IRC309127",
+      "source": "Other",
+      "description": "Collaborate with the DevOps engineer to integrate tools and automated tests into version-controlled build and delivery workflows. Maintain ...",
+      "date": "2026-11-26",
+      "timestamp": "2026-11-26T16:53:01+00:00",
+      "fetched_at": "2026-11-27T02:27:57.200551+00:00"
+    },
+    {
+      "id": "f1b7123f6bed",
+      "title": "Software Engineer | Widewail - Rippling",
+      "company": "Widewail - Rippling",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://ats.rippling.com/widewail/jobs/24d5f315-b373-4675-bc28-5a4b7896e8ba",
+      "source": "Other",
+      "description": "Software Engineer . Software Engineer . About Widewail. Widewail is a Burlington, Vermont-based technology company helping businesses better understand ...",
+      "date": "2026-11-26",
+      "timestamp": "2026-11-26T16:39:01+00:00",
+      "fetched_at": "2026-11-27T02:27:57.200737+00:00"
+    },
     {
       "id": "5b2323415f96",
       "title": "Iqbal Kaur's Post - LinkedIn",
