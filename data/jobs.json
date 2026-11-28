@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-11-27T23:46:11.847019+00:00",
-  "total_jobs": 14168,
+  "last_updated": "2026-11-28T05:03:19.237741+00:00",
+  "total_jobs": 14176,
   "stats": {
-    "total_companies": 6149,
+    "total_companies": 6152,
     "total_roles": 183,
     "regions": {
-      "India": 9258,
-      "Philippines": 3078,
+      "India": 9260,
+      "Philippines": 3084,
       "Remote": 1764,
       "Unknown": 135
     },
     "sources": {
-      "Other": 11064,
-      "Greenhouse": 713,
-      "Workday": 582,
+      "Other": 11069,
+      "Greenhouse": 714,
+      "Workday": 583,
       "LinkedIn": 573,
-      "Ashby": 485,
+      "Ashby": 486,
       "iCIMS": 179,
       "Breezy": 137,
       "Workable": 104,
@@ -36,6 +36,36 @@
   },
   "jobs": [
     {
+      "id": "7a0bc25fce60",
+      "title": "Job Application for Software Engineer (Platform Team) at SpaceX - Greenhouse",
+      "company": "Spacex",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://job-boards.greenhouse.io/spacex/jobs/8940465002?gh_jid=8940465002-226",
+      "source": "Greenhouse",
+      "description": "As a Software Engineer for SpaceX's AI platform, you will act as an entrepreneurial builder focused on the leanest and most effective applied use of ...",
+      "date": "2026-11-27",
+      "timestamp": "2026-11-27T23:50:55+00:00",
+      "fetched_at": "2026-11-28T05:03:19.175558+00:00"
+    },
+    {
+      "id": "1877017ad4e2",
+      "title": "DevOps Engineer \u2013 Linux / PSM - ING Careers",
+      "company": "ING Careers",
+      "role": "DevOps Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.ing.com/en/job/madrid/devops-engineer-linux-psm/3121/47291784768",
+      "source": "Other",
+      "description": "At ING Hubs Spain we are looking for a DevOps Engineer \u2013 Linux / PSM. Your role and work environment: We are looking for a talented and enthusiastic ...",
+      "date": "2026-11-27",
+      "timestamp": "2026-11-27T23:41:30+00:00",
+      "fetched_at": "2026-11-28T05:03:19.175706+00:00"
+    },
+    {
       "id": "7be55ab8fda0",
       "title": "Software Engineer , Backend at Stripe | Andreessen Horowitz - a16z Jobs",
       "company": "Stripe",
@@ -49,6 +79,21 @@
       "date": "2026-11-27",
       "timestamp": "2026-11-27T23:01:53+00:00",
       "fetched_at": "2026-11-27T23:46:11.688133+00:00"
+    },
+    {
+      "id": "049c91ba7107",
+      "title": "Senior System Software Engineer - AV Platform",
+      "company": "Nvidia",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Senior-System-Software-Engineer---AV-Platform_JR2030679",
+      "source": "Workday",
+      "description": "NVIDIA's Autonomous Vehicles Platform team is seeking a Senior System Software Engineer with a strong background in embedded systems software ...",
+      "date": "2026-11-27",
+      "timestamp": "2026-11-27T23:01:35+00:00",
+      "fetched_at": "2026-11-28T05:03:19.175880+00:00"
     },
     {
       "id": "7a1457c16d5b",
@@ -96,6 +141,36 @@
       "fetched_at": "2026-11-27T23:46:11.688832+00:00"
     },
     {
+      "id": "76305bd25f84",
+      "title": "Offerta per il posto di DevOps Engineer \u2013 Linux / PSM presso ING Bank N.V.",
+      "company": "Unknown Company",
+      "role": "DevOps Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://careers.ing.com/it/lavoro/madrid/devops-engineer-linux-psm/3121/47291784768",
+      "source": "Other",
+      "description": "At ING Hubs Spain we are looking for a DevOps Engineer \u2013 Linux / PSM. Your role and work environment: We are looking for a talented and enthusiastic ...",
+      "date": "2026-11-27",
+      "timestamp": "2026-11-27T21:37:14+00:00",
+      "fetched_at": "2026-11-28T05:03:18.970858+00:00"
+    },
+    {
+      "id": "acdad4a4ab1e",
+      "title": "Principal, Full Stack Engineer , Dublin | Fidelity Investments Ireland",
+      "company": "Fidelity Investments Ireland",
+      "role": "Full Stack Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://jobs.fidelity.com/ie/jobs/2135460/principal-full-stack-engineer/",
+      "source": "Other",
+      "description": "Principal, Full Stack Engineer . Published: Nov 27. ID: 2135460 ... Principal, Software Engineer - Technical Lead (Full Stack) Galway. Save",
+      "date": "2026-11-27",
+      "timestamp": "2026-11-27T21:26:47+00:00",
+      "fetched_at": "2026-11-28T05:03:19.176442+00:00"
+    },
+    {
       "id": "e291882d57f7",
       "title": "Data Engineer at Cargill - Careers",
       "company": "Cargill",
@@ -124,6 +199,36 @@
       "date": "2026-11-27",
       "timestamp": "2026-11-27T20:43:14+00:00",
       "fetched_at": "2026-11-27T23:46:11.689117+00:00"
+    },
+    {
+      "id": "6f439b819100",
+      "title": "Senior Software Engineer (Java), Prime Technology Job Details | Nomura Holdings, inc.",
+      "company": "Nomura Holdings, inc.",
+      "role": "Software Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://careers.nomura.com/Nomura/job/London-Senior-Software-Engineer-%28Java%29%2C-Prime-Technology-Lond-EC4R-3AB/1433926100/",
+      "source": "Other",
+      "description": "Job Title: Senior Software Engineer (Java), Prime Technology. Job Code: 14872. Country: GB. City: London. Skill Category: IT\\Technology. Description ...",
+      "date": "2026-11-27",
+      "timestamp": "2026-11-27T19:21:34+00:00",
+      "fetched_at": "2026-11-28T05:03:19.176799+00:00"
+    },
+    {
+      "id": "d305b605804b",
+      "title": "Senior Software Engineer - Frontend - Developer Platform @ Kraken - Jobs",
+      "company": "Kraken",
+      "role": "Software Engineer",
+      "regions": [
+        "India"
+      ],
+      "link": "https://jobs.ashbyhq.com/kraken.com/4e50d0f3-f712-469a-8f2c-6fa1fedd0ccb",
+      "source": "Ashby",
+      "description": "Senior Software Engineer - Frontend - Developer Platform. Location. Poland; Argentina; Brazil; Bulgaria; Chile; Colombia; Cyprus; Czech Republic ...",
+      "date": "2026-11-27",
+      "timestamp": "2026-11-27T19:18:31+00:00",
+      "fetched_at": "2026-11-28T05:03:18.971170+00:00"
     },
     {
       "id": "dbbf76ef3da2",
@@ -169,6 +274,21 @@
       "date": "2026-11-27",
       "timestamp": "2026-11-27T18:53:03+00:00",
       "fetched_at": "2026-11-27T23:46:11.689356+00:00"
+    },
+    {
+      "id": "226815cb40a0",
+      "title": "Senior Data Engineer , FBA Growth Segments Intelligence - Job ID: 10615575 | Amazon.jobs",
+      "company": "Job ID: 10615575 | Amazon.jobs",
+      "role": "Data Engineer",
+      "regions": [
+        "Philippines"
+      ],
+      "link": "https://www.amazon.jobs/en/jobs/10615575/senior-data-engineer-fba-growth-segments-intelligence",
+      "source": "Other",
+      "description": "We are looking for a Senior Data Engineer to build and own the data foundation for the full portfolio. The mission areas are non-sort economics, high- ...",
+      "date": "2026-11-27",
+      "timestamp": "2026-11-27T18:32:42+00:00",
+      "fetched_at": "2026-11-28T05:03:19.177299+00:00"
     },
     {
       "id": "97b00d48cb34",
